@@ -1,0 +1,37 @@
+[build]
+  publish = "."
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+
+[[headers]]
+  for = "/style.css"
+  [headers.values]
+    Cache-Control = "public, max-age=86400"
+
+[[redirects]]
+  from = "/index.html"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/en.html"
+  to = "/en/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/en/bouyon-music.html"
+  to = "/en/what-is-bouyon.html"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/en/playlist.html"
+  to = "/en/playlist-bouyon.html"
+  status = 301
+  force = true
