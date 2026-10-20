@@ -24,20 +24,83 @@
     {
       "@context": "https://schema.org",
       "@type": "WebPage",
+      "@id": "https://bouyonmusique.com/bouyon-soca.html#page",
       "url": "https://bouyonmusique.com/bouyon-soca.html",
       "name": "Bouyon Soca : la fusion bouyon et soca expliquée",
       "description": "Bouyon soca : la fusion entre le bouyon de la Dominique et la soca de Trinidad. Origine, son, territoires (Sainte-Lucie, Antigua, Guadeloupe, Martinique) et titres à écouter.",
       "inLanguage": "fr",
+      "dateModified": "2026-10-20",
       "isPartOf": {
-        "@type": "WebSite",
-        "url": "https://bouyonmusique.com/",
-        "name": "Bouyon Musique"
+        "@id": "https://bouyonmusique.com/#site"
       },
       "publisher": {
-        "@type": "Organization",
-        "name": "Bouyon Shattaz",
-        "url": "https://bouyonshattaz.com/"
+        "@id": "https://bouyonmusique.com/#org"
+      },
+      "author": {
+        "@id": "https://bouyonmusique.com/#smokiller"
       }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Accueil",
+          "item": "https://bouyonmusique.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Styles de bouyon",
+          "item": "https://bouyonmusique.com/plan-du-site.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Bouyon soca",
+          "item": "https://bouyonmusique.com/bouyon-soca.html"
+        }
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://bouyonmusique.com/#site",
+      "url": "https://bouyonmusique.com/",
+      "name": "Bouyon Musique",
+      "inLanguage": [
+        "fr",
+        "en"
+      ],
+      "publisher": {
+        "@id": "https://bouyonmusique.com/#org"
+      }
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://bouyonmusique.com/#org",
+      "name": "Bouyon Shattaz",
+      "url": "https://bouyonshattaz.com/",
+      "sameAs": [
+        "https://www.instagram.com/bouyonshattaz/",
+        "https://www.youtube.com/@smo.killer"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://bouyonmusique.com/#smokiller",
+      "name": "Smokiller",
+      "alternateName": "Sean Smokiller Francis",
+      "jobTitle": "Producteur et artiste bouyon",
+      "birthPlace": "Dominique",
+      "nationality": "Dominicaine et americaine",
+      "url": "https://smokiller.com/",
+      "sameAs": [
+        "https://www.youtube.com/@smo.killer",
+        "https://www.instagram.com/smo.killer/",
+        "https://www.tiktok.com/@smo.killer",
+        "https://smokiller.com/"
+      ]
     },
     {
       "@type": "FAQPage",
@@ -55,7 +118,7 @@
           "name": "Où écouter du bouyon soca ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "La \"/playlist-bouyon.html\""
+            "text": "La <a href=\"/playlist-bouyon.html\">Bouyon Road Mix</a> de Bouyon Shattaz mélange bouyon, bouyon soca et nouveautés des Antilles sur Spotify et YouTube."
           }
         }
       ]
