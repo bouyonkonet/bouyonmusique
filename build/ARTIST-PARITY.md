@@ -148,3 +148,39 @@ Gap: 48 of his artists have no profile on bouyonmusique.com yet.
 
 ## Rule
 Every profile: original text from verified research only (never his copy), ProfilePage schema, FAQ, FR+EN, real build date. Target depth: match or beat his 3,400-3,600 words where the verified dossier supports it; never pad with invented facts.
+
+## Beyond parity: scene sweep
+
+Sean's directive (2026-10-20): after the 142-name parity list closes, the build does not stop. Every artist and song under bouyon goes on record with the same treatment, because artists blow up in time and people will research them later. Sweep sources: Bandcamp, Audiomack, SoundCloud, YouTube and the streaming platforms (Bandcamp and Audiomack are explicit allowed verification sources from 2026-10-20, logged in build/research/recordings-sources.md the same way). Priority: (a) Dominica acts, (b) acts with verifiable releases under bouyon, (c) French Caribbean acts. Discovered names queue here as they are found; none are lost.
+
+### Queued (discovered during waves 1-13 research, not yet profiled)
+- Miky Ding La is IN wave 13. Names below surfaced as verified credits/collaborators during parity research and are queued for the sweep:
+- Laka (BAISE-MOI host artist, via Le Bluff research)
+- Tedla (Premières Notes collaborator, via Leyou/Le Bluff research)
+- Dézod (LGC collaborator)
+- D.O.C FIX DEM (LGC collaborator)
+- Judi Silva (LGC collaborator)
+- Young Dinero (prod.bysavion collaborator)
+- Zwady (prod.bysavion collaborator)
+- Fireman Lee (prod.bysavion collaborator)
+- Starsha (prod.bysavion collaborator)
+- Kai Du M (DJ Blax composer credits)
+- Nensha (DJ Blax composer credit)
+- Alkpote (DJ Blax composer credit; French rap, low bouyon priority)
+- Malko (HYPNO producer credits)
+- Mopao Mumu (HYPNO producer credit)
+- YuniikBeatz (TIITII NBA collaborator)
+- Poyzin (Ras B collaborator)
+- Chronic Law (Kkrytical collaborator; dancehall, low bouyon priority)
+- Quan (Litleboy collaborator; note: a separate roster entry "quan" also exists in the parity list)
+- Le Det (Le Dext namesake, explicitly separated; own catalogue exists)
+- Ti locksée (Ma6mo duet partner)
+- Nicolas Macbeth (Ma6mo credit overlap, unresolved identity)
+- D0 Production (New Bouyon Wave producer credit)
+- Magbeatz (LGC producer credit)
+- YoJoshii (Pinpin OSP producer credit)
+- Brian Lomba (Pinpin OSP / LGC credit name)
+- Earlson Matthew (Mr Delly writer credit; Ridge band keys; Series A backlog name)
+- Sonic Art Studios circle (Mr Delly credits)
+
+Sweep count queued: 28 (as of 2026-10-20, wave 13 in progress). The queue grows as each wave's research surfaces new verified names.
