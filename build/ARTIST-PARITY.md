@@ -1,6 +1,6 @@
 # ARTIST PARITY vs tiitii-nba.com (measured 2026-10-20)
-His artist profile pages: 157 (FR, mirrored EN). Ours: 117.
-Gap: 56 of his artists have no profile on bouyonmusique.com yet.
+His artist profile pages: 157 (FR, mirrored EN). Ours: 125.
+Gap: 48 of his artists have no profile on bouyonmusique.com yet.
 
 ## His artists we are missing (build in this order of priority: Dominica first, then WCMF 2026 bill, then the rest)
 - ~~1t1~~ BUILT 2026-10-20 (parity wave 2)
@@ -87,15 +87,15 @@ Gap: 56 of his artists have no profile on bouyonmusique.com yet.
 - ~~letin-severine~~ BUILT 2026-10-20 (parity wave 11)
 - ~~letin-sylia~~ BUILT 2026-10-20 (parity wave 11)
 - lewismelo
-- leyou
-- lgc
+- ~~leyou~~ BUILT 2026-10-20 (parity wave 12)
+- ~~lgc~~ BUILT 2026-10-20 (parity wave 12)
 - little-boy
-- luky-lukee
-- lunik
-- ma6mo
-- machel-montano
-- major-lazer
-- mathieu-richardson
+- ~~luky-lukee~~ BUILT 2026-10-20 (parity wave 12)
+- ~~lunik~~ BUILT 2026-10-20 (parity wave 12)
+- ~~ma6mo~~ BUILT 2026-10-20 (parity wave 12)
+- ~~machel-montano~~ BUILT 2026-10-20 (parity wave 12)
+- ~~major-lazer~~ BUILT 2026-10-20 (parity wave 12)
+- ~~mathieu-richardson~~ BUILT 2026-10-20 (parity wave 12)
 - miky-ding-la
 - money-shaun
 - mr-boka
