@@ -9,7 +9,7 @@ PAGES = [
   "cat": "Artistes bouyon",
   "nav": "Trilla-G",
   "title": "Trilla-G : Gael Jno Baptiste, du calypso au bouyon dominicain",
-  "desc": "Trilla-G, de son vrai nom Gael Jno Baptiste, artiste de la Dominique : Calypso Monarch 2023, le succès Someone Else, l'album Take Me as I Am et Fix Up avec G'z Up.",
+  "desc": "Trilla-G, alias Gael Jno Baptiste, artiste de la Dominique : Calypso Monarch 2023, le succès Someone Else, l'album Take Me as I Am et Fix Up avec G'z Up.",
   "h1": "Trilla-G : la voix qui relie calypso et bouyon",
   "intro": "Trilla-G, de son vrai nom Gael Jno Baptiste, est un artiste de la Dominique dont le parcours relie deux mondes que l'île connaît bien : le calypso, où il a été couronné, et le bouyon, le son du carnaval et des fêtes d'aujourd'hui. Sur Instagram, où il est suivi par environ 23 600 abonnés sous le nom @trillaonthemic, il incarne une génération qui ne choisit pas entre l'héritage et la relève.",
   "date_published": "2026-10-07",
@@ -90,6 +90,7 @@ PAGES = [
     "datePublished": "2026",
     "byArtist": {"@type": "MusicGroup", "name": "G'z Up"}
    }
-  ]
+  ],
+"date_modified": "2026-10-20"
  }
 ]
