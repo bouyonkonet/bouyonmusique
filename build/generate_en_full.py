@@ -57,6 +57,10 @@ CORE_EN = [
     ("/en/faq.html", "Bouyon FAQ"),
 ]
 
+def faq_text(a):
+    """FAQ answers may hold links for the visible copy; schema gets plain text."""
+    return html.unescape(re.sub(r"<[^>]+>", "", a))
+
 def esc(s):
     return html.escape(s, quote=True)
 
@@ -153,10 +157,15 @@ def linkify_sections(page, all_pages, extra, prefix, cap=8):
                     if target in used:
                         continue
                     pat = re.compile(r'(?<![\w\-])' + re.escape(term) + r'(?![\w\-])')
-                    if pat.search(part):
-                        part = pat.sub('<a href="' + target + '">' + term + '</a>', part, count=1)
-                        used.add(target)
-                        count += 1
+                    # only match plain text, never inside a link inserted earlier in this loop
+                    segs = re.split(r'(<a [^>]*>.*?</a>)', part)
+                    for j, seg in enumerate(segs):
+                        if not seg.startswith("<a ") and pat.search(seg):
+                            segs[j] = pat.sub('<a href="' + target + '">' + term + '</a>', seg, count=1)
+                            used.add(target)
+                            count += 1
+                            break
+                    part = "".join(segs)
                 parts[i] = part
             new_paras.append("".join(parts))
         out.append((h2, new_paras))
@@ -202,7 +211,7 @@ def render(page):
         for q, a in faq_list:
             faq_html += f"<details><summary>{esc(q)}</summary><p>{a}</p></details>\n"
         graph.append({"@type": "FAQPage", "mainEntity": [
-            {"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": a}} for q, a in faq_list]})
+            {"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": faq_text(a)}} for q, a in faq_list]})
     for _e in page.get("extra_graph", []):
         _e = dict(_e)
         if _e.get("@type") in ("ProfilePage", "Article") and page.get("date_published"):
@@ -242,6 +251,11 @@ def render(page):
 <meta property="og:description" content="{esc(page["desc"])}">
 <meta property="og:url" content="{url}">
 <meta property="og:locale" content="en_US">
+<meta property="og:image" content="https://bouyonmusique.com/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Bouyon Musique, the guide to bouyon music">
+<meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="/style.css">
 <script type="application/ld+json">
@@ -291,6 +305,18 @@ def main():
 <link rel="canonical" href="https://bouyonmusique.com/en/site-map.html">
 <link rel="alternate" hreflang="en" href="https://bouyonmusique.com/en/site-map.html">
 <link rel="alternate" hreflang="fr" href="https://bouyonmusique.com/plan-du-site.html">
+<link rel="alternate" hreflang="x-default" href="https://bouyonmusique.com/plan-du-site.html">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Bouyon Musique">
+<meta property="og:title" content="Site Map - Bouyon Music: every bouyon topic in English">
+<meta property="og:description" content="Every English page on BouyonMusique.com: bouyon history, styles, artists, producers, playlists, Dominica Carnival and bouyon scenes by country.">
+<meta property="og:url" content="https://bouyonmusique.com/en/site-map.html">
+<meta property="og:locale" content="en_US">
+<meta property="og:image" content="https://bouyonmusique.com/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Bouyon Musique, the guide to bouyon music">
+<meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="/style.css">
 </head>

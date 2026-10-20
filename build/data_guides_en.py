@@ -3,7 +3,7 @@ PAGES = [
 {
 "slug": "what-is-bouyon.html", "fr_slug": "qu-est-ce-que-le-bouyon.html", "cat": "Bouyon guides", "nav": "What bouyon is",
 "title": "What Is Bouyon? A simple definition of bouyon music",
-"desc": "Definition of bouyon: a musical genre created in Dominica in the late 1980s, a mix of jing ping, cadence-lypso, zouk and electronic rhythms. A simple and complete explanation.",
+"desc": "Bouyon definition: a music genre created in Dominica in the late 1980s, mixing jing ping, cadence-lypso, zouk and electronic rhythms. Simply explained.",
 "h1": "What is bouyon? The simple definition",
 "intro": "Bouyon is a musical genre created in Dominica, a small Caribbean island, in the late 1980s. It is fast-tempo party and carnival music that mixes Dominican traditions with keyboards and electronic rhythms. In Guadeloupe and Martinique, it is also called jump up.",
 "sections": [
@@ -11,7 +11,14 @@ PAGES = [
 ("Who created it, and when", ["Bouyon was created by the band WCK, Windward Caribbean Kulture, formed in 1988 in Roseau, the capital of Dominica. Roots, Stems and Branches and First Serenade are among the other original groups. From the 1990s, bouyon becomes the dominant music of Dominican carnival."]),
 ("How to recognize a bouyon song", ["A fast tempo that never lets up, a catchy keyboard loop, a heavy synthetic bass, percussion that recalls the traditional drum, and a voice in Creole or English that talks to the audience more than it sings. If the song makes you want to jump, you are probably listening to bouyon."]),
 ],
-"faq": [("Which country does bouyon come from?", "From Dominica, an English-speaking and Creole-speaking Caribbean island, not to be confused with the Dominican Republic."), ("What does bouyon mean?", "In Antillean Creole, a soup, a gumbo: the symbol of the mix that defines the genre. See the page on the <a href=\"/en/meaning-of-bouyon.html\">meaning of the word bouyon</a>.")],
+"faq": [
+("Which country does bouyon come from?", "From Dominica, an English-speaking and Creole-speaking Caribbean island, not to be confused with the Dominican Republic. The genre was born there in the late 1980s with the band WCK, formed in 1988 in Roseau, the capital. From the 1990s, it becomes the dominant music of Dominican carnival."),
+("What does bouyon mean?", 'In Antillean Creole, a soup, a gumbo: the symbol of the mix that defines the genre. As in a soup, everything goes in: jing ping, cadence-lypso, traditional drums, a little zouk, electronic keyboards and a drum machine. See the page on the <a href="/en/meaning-of-bouyon.html">meaning of the word bouyon</a>.'),
+("Who created bouyon?", 'Bouyon was created by the band WCK, Windward Caribbean Kulture, formed in 1988 in Roseau, the capital of Dominica. Roots, Stems and Branches and First Serenade are among the other original groups. From the 1990s, bouyon becomes the dominant music of Dominican carnival. See the <a href="/en/wck.html">WCK</a> page.'),
+("How do you recognize a bouyon song?", "A bouyon song has a fast tempo that never lets up, a catchy keyboard loop and a heavy synthetic bass. The percussion recalls the traditional drum, and the voice, in Creole or English, talks to the audience more than it sings. If the song makes you want to jump, you are probably listening to bouyon."),
+("Are bouyon and jump up the same thing?", 'Yes, in everyday language. In Guadeloupe and Martinique, bouyon is also called jump up: it is the name the French Antilles give to this party and carnival music from Dominica, whose fast tempo makes everyone jump. See the <a href="/en/jump-up.html">jump up</a> page.'),
+],
+"date_modified": "2026-10-20",
 },
 {
 "slug": "origin-of-bouyon.html", "fr_slug": "origine-du-bouyon.html", "cat": "Bouyon guides", "nav": "Origin of bouyon",
@@ -24,6 +31,14 @@ PAGES = [
 ("1988, the year of creation", ["In 1988, WCK fuses cadence-lypso and jing ping with the technology of the time. Bouyon is born. The French Antilles, which share Creole with Dominica, adopt the sound very fast, then all of France. But the timeline is unambiguous: the creation is Dominican."]),
 ("Why the origin is an economic issue", ["Today, a large part of the money of bouyon, certifications, distribution, big stages, is made in France and in the French Antilles. Defending the Dominican origin of bouyon is not nostalgia: it is a question of credits, rights and revenue for the island’s creators. It is the editorial mission of Bouyon Shattaz."]),
 ],
+"date_modified": "2026-10-20",
+"faq": [
+("Where do I start with bouyon?", "Start with the history of the genre, then the Bouyon Road Mix playlist by Bouyon Shattaz, which mixes Dominica carnival classics with new bouyon."),
+("Which country created bouyon?", "Dominica, a Caribbean island. Bouyon was born in Roseau in the late 1980s, with WCK as the pioneering band. The French Antilles, which share Creole with Dominica, adopted the sound very fast, then all of France, but the timeline is unambiguous: the creation is Dominican."),
+("Who created bouyon?", 'The band <a href="/en/wck.html">WCK</a>, short for Windward Caribbean Kulture, formed in Roseau in 1988, created bouyon by fusing cadence-lypso and jing ping with electronic keyboards and drum machines. Other bands of the founding generation, like Roots, Stems and Branches (RSB) and First Serenade, carried the genre in its early days.'),
+("Why is Dominica the birthplace of bouyon?", "Because Dominica is one of the rare Caribbean islands where Creole culture, the Kwéyòl language and traditional musics like jing ping and lapo kabwit stayed so alive. Far from the industry circuits, this richness gave Roseau's musicians raw material that nobody else had."),
+("Why defend bouyon's Dominican origin?", "Because a large part of the money of bouyon, certifications, distribution and big stages, is made today in France and in the French Antilles. Defending the Dominican origin is not nostalgia: it is a question of credits, rights and revenue for the island's creators, and it is the editorial mission of Bouyon Shattaz."),
+],
 },
 {
 "slug": "meaning-of-bouyon.html", "fr_slug": "signification-bouyon.html", "cat": "Bouyon guides", "nav": "Meaning of bouyon",
@@ -35,17 +50,33 @@ PAGES = [
 ("The mix as a philosophy", ["Jing ping, cadence-lypso, bèlè, kwadril, chanté mas, lapo kabwit, mazurka, zouk: the list of bouyon ingredients reads like a recipe. As in a soup, no ingredient completely dominates, and the mix is what makes the identity of the dish, and of the genre."]),
 ("A word from everyday life", ["The musical bouyon carries the name of a popular kitchen dish, not a studio name. That fits its history: a music born in the village fetes and the carnival of Dominica, for the people, with the people’s words, in Kwéyòl and in Creole English."]),
 ],
+"date_modified": "2026-10-20",
+"faq": [
+("Where do I start with bouyon?", "Start with the history of the genre, then the Bouyon Road Mix playlist by Bouyon Shattaz, which mixes Dominica carnival classics with new bouyon."),
+("Which country created bouyon?", "Dominica, in the late 1980s, with WCK as the pioneering band. Bouyon is a music born in the village fetes and the carnival of Dominica, sung in Kwéyòl and in Creole English, which also explains why it carries a name taken from popular cooking."),
+("What does bouyon mean in Creole?", "In Antillean Creole, the word bouyon means something like a gumbo soup, or a koubouyon pwason, a fish broth typical of the Caribbean. It is a dish where you put everything you have and where the mix creates the taste, an image that fits Dominica's bouyon music perfectly."),
+("Why is bouyon music called bouyon?", "Because bouyon mixes many musical ingredients, like a soup: jing ping, cadence-lypso, bèlè, kwadril, chanté mas, lapo kabwit, mazurka and zouk. As in the dish, no ingredient completely dominates, and the mix is what makes the identity of the genre."),
+("Why does a music genre have a food name?", "Bouyon carries the name of a popular kitchen dish, not a studio name, and that fits its history: a music born in the village fetes and the carnival of Dominica, for the people, with the people's words, in Kwéyòl and in Creole English. See also the <a href=\"/en/history.html\">history of bouyon</a>."),
+],
 },
 {
 "slug": "bouyon-vs-soca.html", "fr_slug": "bouyon-ou-soca.html", "cat": "Bouyon guides", "nav": "Bouyon vs soca",
 "title": "Bouyon vs Soca: the differences between the two genres",
-"desc": "Bouyon vs soca: origin (Dominica against Trinidad), rhythms, instruments and spirit. The clear guide to stop confusing bouyon and soca, and to understand bouyon soca.",
+"desc": "Bouyon vs soca: origin (Dominica vs Trinidad), rhythms, instruments and spirit. A clear guide to telling the two apart and understanding bouyon soca.",
 "h1": "Bouyon vs soca: what really sets them apart",
 "intro": "Bouyon and soca are the two great carnival musics of the English-speaking and Creole-speaking Caribbean, and they are often confused. Yet they are born on two different islands, with two distinct histories and two distinct sounds.",
 "sections": [
 ("Two islands, two births", ["Soca is born in Trinidad in the 1970s, from the fusion of calypso with Indian instruments and rhythms like the dholak. Bouyon is born in Dominica in the late 1980s, from the fusion of jing ping and cadence-lypso. Two parallel inventions, two islands, two identities."]),
 ("Two sounds", ["Soca is built around the Trinidad party, with its own production and singing codes. Bouyon is faster, rawer, strongly marked by keyboard loops, lapo kabwit and Dominican Creole. At carnival, a Dominican audience tells the two apart within seconds."]),
 ("So what about bouyon soca", ["The two genres met: <a href=\"/en/bouyon-soca.html\">bouyon soca</a> is their fully owned fusion, popular in Saint Lucia, in Guadeloupe and in Martinique. But in Dominica, pure bouyon keeps its own style, and the purists hold on to it."]),
+],
+"date_modified": "2026-10-20",
+"faq": [
+("What is the difference between bouyon and soca?", "They do not come from the same island. Soca is born in Trinidad in the 1970s, from the fusion of calypso with Indian instruments and rhythms like the dholak. Bouyon is born in Dominica in the late 1980s, from the fusion of jing ping and cadence-lypso. Bouyon is also faster and rawer."),
+("How can you tell bouyon from soca by ear?", "Bouyon is faster and rawer than soca, strongly marked by keyboard loops, lapo kabwit and Dominican Creole. Soca is built around the Trinidad party, with its own production and singing codes. At carnival, a Dominican audience tells the two apart within seconds."),
+("What is bouyon soca?", 'Bouyon soca is the fully owned fusion of the two genres: the rhythms and keyboards of Dominican bouyon meet the festive codes of soca. It is popular in Saint Lucia, Guadeloupe and Martinique. In Dominica, pure bouyon keeps its own style, and the purists hold on to it. See the <a href="/en/bouyon-soca.html">bouyon soca</a> page.'),
+("Which country created bouyon?", "Dominica, in the Caribbean, in the late 1980s, with WCK as the pioneering band. Bouyon grew out of the fusion of jing ping, Dominica's traditional music, and cadence-lypso. So it does not come from Trinidad, the home of soca, even though the two genres share the carnival ground."),
+("Where do I start with bouyon?", 'Start with the <a href="/en/history.html">history of the genre</a>, then the Bouyon Road Mix playlist by Bouyon Shattaz, which mixes Dominica carnival classics with new bouyon. It is available on Spotify and YouTube, and brings together the songs that made carnival and recent releases in a single listen.'),
 ],
 },
 {
@@ -58,6 +89,14 @@ PAGES = [
 ("Zouk, the sound of the French Antilles", ["Popularized in the early 1980s by groups like Kassav, zouk becomes the sound of the French Antilles all over the world: clean, danceable, romantic in its zouk love version. It is in this landscape dominated by zouk that Dominican musicians look for their own path."]),
 ("Bouyon, the Dominican answer", ["Bouyon takes the opposite stance: faster, rawer, more carnival than lounge. It borrows certain codes from zouk, but runs them through the Dominican machine of jing ping and lapo kabwit. Where zouk seduces, bouyon shakes."]),
 ],
+"date_modified": "2026-10-20",
+"faq": [
+("Where do I start with bouyon?", 'Start with <a href="/en/history.html">the history of the genre</a>, born in Dominica in the late 1980s with the band WCK, then listen to the Bouyon Road Mix playlist by Bouyon Shattaz, on Spotify and YouTube, which mixes Dominica carnival classics with new bouyon.'),
+("Which country created bouyon?", "Dominica created bouyon, in the Caribbean, in the late 1980s, with WCK as the pioneering band. Zouk, for its part, comes from Guadeloupe and Martinique: the two genres are the great musical inventions of the Creole-speaking Caribbean of the 1980s, cousins but not twins."),
+("What is the difference between bouyon and zouk?", "Zouk comes from Guadeloupe and Martinique, bouyon from Dominica. Zouk, popularized in the early 1980s by groups like Kassav, is clean, danceable and romantic in its zouk love version. Bouyon is faster, rawer, more carnival than lounge: where zouk seduces, bouyon shakes."),
+("Is zouk part of bouyon?", "Yes, zouk is one of the ingredients of bouyon. Bouyon borrows certain codes from zouk, but runs them through the Dominican machine of jing ping and lapo kabwit, and blends them with cadence-lypso and electronic rhythms. The two genres know each other well without being the same thing."),
+("Who popularized zouk?", "Zouk was popularized in the early 1980s by groups like Kassav, and it became the sound of the French Antilles all over the world. It is in this landscape dominated by zouk that Dominican musicians looked for their own path, which led to bouyon in the late 1980s."),
+],
 },
 {
 "slug": "bouyon-vs-shatta.html", "fr_slug": "bouyon-ou-shatta.html", "cat": "Bouyon guides", "nav": "Bouyon vs shatta",
@@ -69,16 +108,32 @@ PAGES = [
 ("Bouyon, the historic genre", ["Created in 1988 in Dominica, bouyon has more than thirty years of history: live bands, carnivals, branches like bouyon soca and bouyon gwada. It is a genre with creators, classics and a clear territory of origin."]),
 ("Shatta, the riddim generation", ["Shatta means the aesthetic of today’s Antillean producers: short, hard riddims, made for dance and social media. When these producers work the bouyon material, Dominican keyboards, tempo and Creole, it is called <a href=\"/en/shatta-bouyon.html\">shatta bouyon</a>."]),
 ],
+"date_modified": "2026-10-20",
+"faq": [
+("Where do I start with bouyon?", "Start with the history of the genre, then the Bouyon Road Mix playlist by Bouyon Shattaz, which mixes Dominica carnival classics with new bouyon."),
+("Which country created bouyon?", "Dominica, in the late 1980s, with WCK as the pioneering band: the genre was created in 1988. Bouyon therefore has more than thirty years of history, with its live bands, its carnivals and branches like bouyon soca and bouyon gwada."),
+("What is the difference between bouyon and shatta?", "Bouyon is a historic genre, created in 1988 in Dominica, with its creators, its classics, its live bands and its carnivals. Shatta means the aesthetic of today's Antillean producers: short, hard riddims made for dance and social media. The two are not opposites: they belong to the same family."),
+("What is shatta bouyon?", '<a href="/en/shatta-bouyon.html">Shatta bouyon</a> is the direct meeting point between bouyon and shatta. It is called shatta bouyon when Antillean producers of the shatta generation work the bouyon material: Dominican keyboards, tempo and Creole, on short, hard riddims made for dance.'),
+("Is shatta newer than bouyon?", "Yes. Bouyon was created in 1988 in Dominica and has more than thirty years of history. Shatta corresponds to the current generation of Antillean producers, the one of riddims made for dance and social media. It is a family of modern sounds fed, among other things, by bouyon."),
+],
 },
 {
 "slug": "bouyon-instruments.html", "fr_slug": "instruments-du-bouyon.html", "cat": "Bouyon guides", "nav": "Bouyon instruments",
 "title": "The instruments of Bouyon: lapo kabwit, accordion, keyboards",
-"desc": "The instruments of bouyon: bele drum, lapo kabwit, chakchak, the jing ping accordion, rhythm guitar, keyboards and drum machines. The guide to the sounds of bouyon.",
+"desc": "The instruments of bouyon: bele drum, lapo kabwit, chakchak, the jing ping accordion, keyboards and drum machines. The guide to the sounds of bouyon.",
 "h1": "The instruments of bouyon: from the traditional drum to the keyboard",
 "intro": "The bouyon sound comes from a meeting: the traditional instruments of Dominica, inherited from jing ping and the Creole dances, plugged into the machines of the 1980s, keyboards, synthesizers and drum machines.",
 "sections": [
 ("The traditional instruments", ["The lapo kabwit, the goat-skin drum of chanté mas and carnival. The bele drum, at the heart of the dance of the same name. The chakchak, Creole maracas. The syak or gwaj, the scraper. The accordion, the voice of jing ping, with the bamboo flute and the boom-boom. These sounds are the soul of bouyon, and good producers still sample them."]),
 ("The machines", ["WCK built bouyon on technology: keyboards up front, synthetic rhythmic patterns, electronic basses. Today, producers work on software, but they are looking for the same result: reproducing the pressure of a carnival band with machines. To go further, see the <a href=\"/en/bouyon-drum-kit.html\">bouyon drum kit</a> page."]),
+],
+"date_modified": "2026-10-20",
+"faq": [
+("Where do I start with bouyon?", "Start with the history of the genre, then the Bouyon Road Mix playlist by Bouyon Shattaz, which mixes Dominica carnival classics with new bouyon."),
+("Which country created bouyon?", "Dominica, in the late 1980s, with WCK as the pioneering band. WCK built the genre on technology, with keyboards up front, synthetic rhythmic patterns and electronic basses, while keeping the soul of the island's traditional instruments."),
+("What instruments are used in bouyon?", "Bouyon combines two families. On one side, the traditional instruments of Dominica: lapo kabwit, bele drum, chakchak, syak or gwaj, accordion, bamboo flute and boom-boom. On the other, the machines of the 1980s: keyboards, synthesizers and drum machines, replaced today by producers' software."),
+("What is the lapo kabwit?", "The lapo kabwit is a goat-skin drum, the drum of chanté mas and Dominica's carnival. At Mas Domnik, whole bands play in lapo kabwit. It is one of the traditional sounds that form the soul of bouyon, and good producers still sample it."),
+("How do producers make bouyon sound today?", 'Producers now work on software, but they are after the same result as WCK with its keyboards: reproducing the pressure of a carnival band with machines. Many still sample traditional instruments such as the lapo kabwit or the accordion. For drum sounds, see the <a href="/en/bouyon-drum-kit.html">bouyon drum kit</a> page.'),
 ],
 },
 {
@@ -91,6 +146,14 @@ PAGES = [
 ("Creole ball music", ["Jing ping accompanies the traditional dances of Dominica: quadrille, mazurka, bèlè and other ball dances inherited from the island’s Creole history. The classic line-up brings together an accordion, drums like lapo kabwit, a boom-boom and a bamboo flute."]),
 ("From the ball to electronic carnival", ["When WCK creates bouyon in 1988, the band takes the melodies, the rhythms and the spirit of jing ping and pushes them with electronic keyboards. It is this dialogue between the village ball and the machine that gives bouyon its unique character in the Caribbean."]),
 ],
+"date_modified": "2026-10-20",
+"faq": [
+("What is jing ping?", "Jing ping is the traditional dance music of Dominica, led by the accordion. It accompanies the island’s Creole ball dances, such as quadrille, mazurka and bèlè, inherited from its Creole history. It is one of the two founding ingredients of bouyon, with cadence-lypso."),
+("What instruments are played in jing ping?", 'The classic line-up brings together an accordion, which leads the music, drums like the lapo kabwit, a goatskin drum, a boom-boom and a bamboo flute. These sounds remain the soul of bouyon, and good producers still sample them, as our page on <a href="/en/bouyon-instruments.html">bouyon instruments</a> explains.'),
+("What is the link between jing ping and bouyon?", 'When <a href="/en/wck.html">WCK</a> created bouyon in Roseau in 1988, the band took the melodies, the rhythms and the spirit of jing ping and pushed them with electronic keyboards. It is this dialogue between the village ball and the machine that gives bouyon its unique character in the Caribbean.'),
+("Where do I start with bouyon?", "Start with the history of the genre, then the Bouyon Road Mix playlist by Bouyon Shattaz, which mixes Dominica carnival classics with new bouyon. To understand where the sound comes from, also listen to its two roots: jing ping and cadence-lypso, the dance traditions WCK brought together in 1988."),
+("Which country created bouyon?", "Dominica, in the late 1980s, with WCK as the pioneering band. WCK created bouyon in Roseau in 1988 by plugging cadence-lypso and jing ping into electronic keyboards and drum machines, to make the island’s fetes and carnival dance."),
+],
 },
 {
 "slug": "cadence-lypso.html", "fr_slug": "cadence-lypso.html", "cat": "Bouyon guides", "nav": "Cadence-lypso",
@@ -101,6 +164,14 @@ PAGES = [
 "sections": [
 ("Exile One, the Grammacks and the 1970s", ["In the 1970s, Dominican groups like Exile One and the Grammacks become the stars of cadence-lypso: an aggressive rhythm guitar, lyrics in Creole that comment on social life, a groove that makes the whole region dance. It is the first style of Dominican music to become popular in the Caribbean."]),
 ("From cadence to bouyon", ["In 1988, WCK takes up the heritage of cadence-lypso and fuses it with jing ping, replacing part of the orchestra with keyboards and drum machines. Bouyon is born from this passing of the torch between Dominican generations. For what comes next, read <a href=\"/en/history.html\">the history of bouyon</a>."]),
+],
+"date_modified": "2026-10-20",
+"faq": [
+("Where do I start with bouyon?", 'Start with the <a href="/en/history.html">history of bouyon</a>: the genre was born in Roseau, Dominica, with WCK in 1988, out of cadence-lypso and jing ping. Then listen to the Bouyon Road Mix playlist by Bouyon Shattaz, on Spotify and YouTube, which mixes Dominica carnival classics with new bouyon.'),
+("Which country created bouyon?", "Bouyon was born in Dominica, in the Caribbean, in the late 1980s. Its pioneering band, WCK (Windward Caribbean Kulture), formed in Roseau in 1988, created it by fusing cadence-lypso and jing ping with electronic keyboards and drum machines."),
+("What is cadence-lypso?", "Cadence-lypso is a Dominican genre that bands like Exile One and the Grammacks carried across the Caribbean in the 1970s. It mixes Haitian cadence, calypso and the Creole language: a danceable cadence, an aggressive rhythm guitar and lyrics in Creole that comment on island life. It is the first Dominican style to become popular across the Caribbean."),
+("What is the link between cadence-lypso and bouyon?", "Cadence-lypso is one of bouyon's two parents. In 1988, WCK fused its heritage with jing ping and replaced part of the orchestra with keyboards and drum machines. From cadence, bouyon keeps the guitar heritage, the Creole storytelling and the party function. See the <a href=\"/en/cadence-lypso-roots.html\">cadence-lypso roots of bouyon</a>."),
+("Which bands played cadence-lypso?", 'Exile One and the Grammacks are the Dominican stars of 1970s cadence-lypso. The <a href="/en/midnight-groovers.html">Midnight Groovers</a> from Grand Bay, formed in the late 1960s and led by Phillip “Chubby” Mark, have more than 39 albums and are still on the World Creole Music Festival bill in 2026.'),
 ],
 },
 ]
