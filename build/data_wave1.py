@@ -974,6 +974,41 @@ PAGES = [
      "sameAs": [
       "https://www.instagram.com/crossdbridge/"
      ]
+    ,
+     "track": [
+      {
+       "@type": "MusicRecording",
+       "name": "Sunset Warm up (Live)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Come & Cocay (Live)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "China Tune (Live)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Caught in Your Trance (Live)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doh Call My Phone (Live)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Long Time I Watching You (Live)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Don't Go (Live)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fym"
+      },
+     ]
     }
    }
   ],
@@ -1080,7 +1115,27 @@ PAGES = [
       {
        "@type": "MusicRecording",
        "name": "Shake It"
-      }
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "WON (Bouyon 2025)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "KPT (feat. DJ SOFTEE) [BOUYON WARM UP 2025]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TAM TAM (feat. 1T1) [Bouyon 2024]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BOUNCE (BOUYON 2025) (feat. 1T1)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nah Nah (feat. YuniikBeatz) [Bouyon 2025]"
+      },
      ]
     }
    }
@@ -1800,6 +1855,41 @@ PAGES = [
       "https://www.tiktok.com/@coltontmusic",
       "https://coltont.com"
      ]
+    ,
+     "track": [
+      {
+       "@type": "MusicRecording",
+       "name": "Moments"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sorry Not Sorry"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Foreplay"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Head Over Hills"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jail Life"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Complicated"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hunt My Own"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Expectations"
+      },
+     ]
     }
    }
   ]
@@ -1898,7 +1988,27 @@ PAGES = [
       {
        "@type": "MusicRecording",
        "name": "Bye to de Old Me (Remix)"
-      }
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Not Me"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pussy Cat (feat. N.I.C.E.)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bend Down (feat. LITLE'BÖY)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Push Your Hand"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Time 4 Stress"
+      },
      ]
     }
    }
@@ -1984,6 +2094,25 @@ PAGES = [
      },
      "sameAs": [
       "https://www.instagram.com/gwada_g/"
+     ]
+    ,
+     "track": [
+      {
+       "@type": "MusicRecording",
+       "name": "WTHelly Bouyon (feat. Gwada G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "On your back (feat. Gwada G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "YOU CAN DO WHAT YOU WANT (feat. GWADA G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Plap Plap !"
+      },
      ]
     }
    }
@@ -2165,7 +2294,15 @@ PAGES = [
       {
        "@type": "MusicRecording",
        "name": "Come Here"
-      }
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Up Next Bouyon Cypher, Vol 1. (Trilla-G ft. G'z Up, Ras B, Avatar Omish, Don Lash, Pa Pel, Pryhmex)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shift Her Panty"
+      },
      ]
     }
    }
@@ -2241,7 +2378,35 @@ PAGES = [
       {
        "@type": "MusicRecording",
        "name": "Pow Pow / Allo Doudou"
-      }
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Yo baw gwopwel"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pa ka tan / Man allu looking for (feat. Quan)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "You"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SYA-SYB"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Leaving"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Let Me See (feat. Freddy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fell For You (feat. Quan)"
+      },
      ]
     }
    }
@@ -2460,7 +2625,11 @@ PAGES = [
       {
        "@type": "MusicRecording",
        "name": "Tarif"
-      }
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "In She Garden"
+      },
      ]
     }
    }
@@ -2540,7 +2709,27 @@ PAGES = [
       {
        "@type": "MusicRecording",
        "name": "Rock Bouyon"
-      }
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "\"Cigarettes\" Bouyon Instrumental 2026 (Prod By MB On The Track)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "\"Boyz N Girlz\" Bouyon Instrumental 2026 (Prod By MB On The Track)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "\"Xo\" Bouyon Instrumental 2026 (Prod By MB On The Track)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "\"Waka\" Funk x Bouyon Instrumental 2026 (Prod By MB On The Track)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "\"Rebel\" Shatta Instrumental 2026 (Prod By MB On The Track)"
+      },
      ]
     }
    }
@@ -2619,7 +2808,35 @@ PAGES = [
       {
        "@type": "MusicRecording",
        "name": "MAUVAIS PLAN"
-      }
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "But en or"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fer"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MOTOMAMI"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ONE LOVE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Aaliyah"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Baby Push"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "COLLIDE"
+      },
      ]
     }
    }
@@ -2686,6 +2903,29 @@ PAGES = [
      "genre": "Bouyon",
      "sameAs": [
       "https://www.instagram.com/prod.bysavion/"
+     ]
+    ,
+     "track": [
+      {
+       "@type": "MusicRecording",
+       "name": "Bikelife Class (feat. Young Dinero)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dwivayèz Riddim Soca 2021 (Instrumental)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Déliway (feat. Trilla-G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Down Deh (feat. Zwady & Fireman Lee)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "System Failure (feat. Starsha)"
+      },
      ]
     }
    }
@@ -2833,7 +3073,35 @@ PAGES = [
       {
        "@type": "MusicRecording",
        "name": "BOUYON"
-      }
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "On My Way"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BAY LA BÈT (Extended)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BAY LA BÈT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "YOU AND ME"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LUSHENANA"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LA BOULANGERIE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "GOUTÉW (feat. Dcamp & Lewismelo)"
+      },
      ]
     }
    }
@@ -2928,7 +3196,39 @@ PAGES = [
       {
        "@type": "MusicRecording",
        "name": "Anlè mwen"
-      }
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "i adan #afterwork"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "donne-moi tout"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "baddies"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "done with u"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "7 sur 7"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "twerk moshpit"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "filet mignon"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "need dat"
+      },
      ]
     }
    }
@@ -3005,7 +3305,27 @@ PAGES = [
       {
        "@type": "MusicRecording",
        "name": "My Ex"
-      }
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TIFFANY (feat. David Campana & Towo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pa Que Baile"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Trahison"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Corazón Partío (Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Le Meilleur (feat. David Campana)"
+      },
      ]
     }
    }
@@ -3081,7 +3401,27 @@ PAGES = [
       {
        "@type": "MusicRecording",
        "name": "Don't Care"
-      }
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Comprends pas"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Acteur"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Maudit"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Violence urbaine"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Intro putréfaction"
+      },
      ]
     }
    }
@@ -3151,6 +3491,29 @@ PAGES = [
      },
      "sameAs": [
       "https://www.instagram.com/tallyboypondmic_758/"
+     ]
+    ,
+     "track": [
+      {
+       "@type": "MusicRecording",
+       "name": "More Long (feat. Tallyboy (MKG))"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pop & Drop (feat. Tallyboy & Dej)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "D Knock"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hit & Run"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Blah Blah Blah"
+      },
      ]
     }
    }
@@ -3234,7 +3597,27 @@ PAGES = [
       {
        "@type": "MusicRecording",
        "name": "Loyalty"
-      }
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Friends Turn Enemies"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Luv Eh Gad"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Survivor"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hustla"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Asphalt"
+      },
      ]
     }
    }
