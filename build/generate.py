@@ -25,14 +25,182 @@ SITE_ENTITIES = [
 ]
 
 CAT_FAQ = {
-    "Styles de bouyon": [("Qu'est-ce que le bouyon ?", "Le bouyon est un genre musical né en Dominique à la fin des années 1980. Son nom vient du mot kwéyòl pour la soupe : c'est un mélange de jing ping, de cadence-lypso, de calypso et de production électronique, lancé par le groupe WCK."), ("Où écouter les styles de bouyon ?", "La page playlists du site rassemble la Bouyon Road Mix de Bouyon Shattaz sur Spotify et YouTube, avec les nouveautés bouyon et les classiques du carnaval.")],
-    "Guides bouyon": [("Par où commencer avec le bouyon ?", "Commencez par l'histoire du genre, puis par la playlist Bouyon Road Mix de Bouyon Shattaz, qui mélange classiques du carnaval de Dominique et nouveautés bouyon."), ("Le bouyon vient de quel pays ?", "Le bouyon est né en Dominique, dans les Caraïbes, à la fin des années 1980, avec le groupe WCK comme pionnier.")],
-    "Le bouyon par pays": [("Dans quels pays le bouyon est-il populaire ?", "Né en Dominique, le bouyon est aujourd'hui central en Guadeloupe et en Martinique, présent en France, à Sainte-Lucie, à Saint-Martin et dans la diaspora caribéenne."), ("Quel pays a créé le bouyon ?", "La Dominique. Le genre y est né à la fin des années 1980 et reste le son du carnaval de Roseau.")],
-    "Événements bouyon": [("Quel est le grand festival du bouyon ?", "Le World Creole Music Festival se tient chaque année à Roseau, en Dominique. L'édition 2026 a lieu du 23 au 25 octobre au Windsor Park."), ("Quand a lieu le carnaval de Dominique ?", "Le carnaval de Dominique, Mas Domnik, se tient avant le carême, avec le J'ouvert comme moment fort des musiques bouyon et soca.")],
-    "Artistes bouyon": [("Qui sont les artistes bouyon de référence ?", "WCK a créé le genre, Asa Bantan est largement surnommé le King of Bouyon, et la nouvelle génération compte Reo, Ridge, Signal Band et Shelly, pendant que des producteurs comme Smokiller exportent le son."), ("Qui publie ces pages artistes ?", "BouyonMusique.com est publié par Bouyon Shattaz, la plateforme du producteur dominicain Smokiller, avec des faits vérifiés artiste par artiste.")],
-    "Production bouyon": [("Qui produit du bouyon aujourd'hui ?", "Des producteurs comme Smokiller (Bouyon Shattaz), Denmath, HYPNO! ou Savion travaillent le son bouyon, entre riddims, remixes et productions originales."), ("Qu'est-ce qu'un riddim bouyon ?", "Un riddim est l'instrumental sur lequel plusieurs artistes posent leurs voix. Les riddims sont au cœur de la production bouyon et dancehall.")],
-    "Écouter le bouyon": [("Où écouter du bouyon en ligne ?", "Sur la Bouyon Road Mix de Bouyon Shattaz, disponible sur Spotify et YouTube via la page playlists de ce site."), ("Comment recevoir la playlist bouyon ?", "Suivez @bouyonshattaz sur Instagram et commentez ROAD MIX sous une publication : la playlist vous est envoyée en message privé.")],
-    "Culture bouyon": [("Pourquoi le bouyon s'appelle-t-il ainsi ?", "Bouyon veut dire soupe en kwéyòl : le genre mélange les ingrédients des musiques traditionnelles dominiquaises avec la production électronique."), ("Le bouyon fait-il partie de la culture créole ?", "Oui. Le bouyon est né dans les villages et le carnaval de la Dominique et il accompagne les fêtes créoles dans toute la Caraïbe francophone.")],
+ "Styles de bouyon": [
+  [
+   "Qu'est-ce que le bouyon ?",
+   "Le bouyon est un genre musical né en Dominique à la fin des années 1980. Son nom vient du mot kwéyòl pour la soupe : c'est un mélange de jing ping, de cadence-lypso, de calypso et de production électronique, lancé par le groupe WCK."
+  ],
+  [
+   "Quels sont les ingrédients du bouyon ?",
+   "Le bouyon mélange le jing ping, la cadence-lypso, le calypso et le chanté mas aux claviers et à la production électronique. C'est ce mélange, né en Dominique, qui lui donne son énergie de carnaval."
+  ],
+  [
+   "Quelle est la différence entre le bouyon et le bouyon soca ?",
+   "Le bouyon soca fusionne le bouyon dominicain avec les codes festifs de la soca. Selon le témoignage de première main de Smokiller, présent dans les studios à l'époque, le bouyon soca a été lancé en Dominique par Dada en 2003, avant d'être popularisé par Triple Kay et d'autres groupes."
+  ],
+  [
+   "Qu'est-ce que le Wrecketeng ?",
+   "Le Wrecketeng est la pratique dominicaine qui reconstruit des enregistrements existants sur des instrumentaux bouyon, dans la lignée du bouyon-muffin. Son orthographe officielle vient de DJ Cut, le pionnier du style ; la forme « reketeng » répandue sur internet est une erreur."
+  ],
+  [
+   "Où écouter les styles de bouyon ?",
+   "La page playlists du site rassemble la Bouyon Road Mix de Bouyon Shattaz sur Spotify et YouTube, avec les nouveautés bouyon et les classiques du carnaval."
+  ]
+ ],
+ "Guides bouyon": [
+  [
+   "Par où commencer avec le bouyon ?",
+   "Commencez par l'histoire du genre, puis par la playlist Bouyon Road Mix de Bouyon Shattaz, qui mélange classiques du carnaval de Dominique et nouveautés bouyon."
+  ],
+  [
+   "Le bouyon vient de quel pays ?",
+   "Le bouyon est né en Dominique, dans les Caraïbes, à la fin des années 1980, avec le groupe WCK comme pionnier."
+  ],
+  [
+   "Comment danser le bouyon ?",
+   "Le bouyon se danse en fête et au carnaval, sur des rythmes rapides pensés pour la route et les bands. Ce site consacre une page à la danse bouyon et à ses repères de base."
+  ],
+  [
+   "Quelle playlist bouyon écouter en 2026 ?",
+   "La Bouyon Road Mix de Bouyon Shattaz, sur Spotify et YouTube, rassemble les nouveautés bouyon et les classiques du carnaval de Dominique."
+  ],
+  [
+   "Le bouyon et le shatta, est-ce la même chose ?",
+   "Non. Le shatta est un sous-genre du dancehall né en Martinique, plus lent, tandis que le bouyon est né en Dominique avec des rythmes rapides de carnaval. Les deux scènes se croisent souvent, et des productions récentes les fusionnent."
+  ]
+ ],
+ "Le bouyon par pays": [
+  [
+   "Dans quels pays le bouyon est-il populaire ?",
+   "Né en Dominique, le bouyon est aujourd'hui central en Guadeloupe et en Martinique, présent en France, à Sainte-Lucie, à Saint-Martin et dans la diaspora caribéenne."
+  ],
+  [
+   "Quel pays a créé le bouyon ?",
+   "La Dominique. Le genre y est né à la fin des années 1980 et reste le son du carnaval de Roseau."
+  ],
+  [
+   "Pourquoi le bouyon est-il si fort en Guadeloupe ?",
+   "Le bouyon gwada s'est développé en Guadeloupe au contact des tournées des groupes dominicains comme WCK et Triple Kay : paroles en créole et beats électroniques, avec une branche plus dure, le bouyon hardcore."
+  ],
+  [
+   "Quel rôle joue la Martinique dans le bouyon ?",
+   "La Martinique est la terre du shatta et une place forte du bouyon dans les Antilles françaises : ses artistes et ses producteurs font circuler les deux sons entre Fort-de-France, la Guadeloupe et la Dominique."
+  ],
+  [
+   "Où le bouyon se joue-t-il en France ?",
+   "En France, le bouyon vit dans la diaspora antillaise, notamment à Paris, et sur les scènes et les plateformes qui programment les artistes de Guadeloupe, de Martinique et de Dominique."
+  ]
+ ],
+ "Événements bouyon": [
+  [
+   "Quel est le grand festival du bouyon ?",
+   "Le World Creole Music Festival se tient chaque année à Roseau, en Dominique. L'édition 2026 a lieu du 23 au 25 octobre au Windsor Park."
+  ],
+  [
+   "Quand a lieu le carnaval de Dominique ?",
+   "Le carnaval de Dominique, Mas Domnik, se tient avant le carême, avec le J'ouvert comme moment fort des musiques bouyon et soca."
+  ],
+  [
+   "Qu'est-ce que le J'ouvert ?",
+   "Le J'ouvert ouvre le carnaval de Dominique aux premières heures du matin : bands, peinture et musique bouyon et soca dans les rues de Roseau, avant les parades des jours gras."
+  ],
+  [
+   "Où se tient le World Creole Music Festival ?",
+   "Le World Creole Music Festival se tient au Windsor Park, à Roseau, la capitale de la Dominique. L'édition 2026 a lieu du 23 au 25 octobre."
+  ],
+  [
+   "Quels artistes bouyon jouent au WCMF 2026 ?",
+   "Les guides publiés du festival annoncent notamment Asa Bantan, Reo, Trilla-G, Signal Band et TK International parmi les noms bouyon de l'édition 2026, répartis sur trois nuits."
+  ]
+ ],
+ "Artistes bouyon": [
+  [
+   "Qui sont les artistes bouyon de référence ?",
+   "WCK a créé le genre, Asa Bantan est largement surnommé le King of Bouyon, et la nouvelle génération compte Reo, Ridge, Signal Band et Shelly, pendant que des producteurs comme Smokiller exportent le son."
+  ],
+  [
+   "Qui publie ces pages artistes ?",
+   "BouyonMusique.com est publié par Bouyon Shattaz, la plateforme de Smokiller, producteur né en Dominique, avec des faits vérifiés artiste par artiste."
+  ],
+  [
+   "Quel groupe a créé le bouyon ?",
+   "WCK, groupe de la Dominique, a lancé le bouyon à la fin des années 1980 en fusionnant la cadence-lypso et les musiques traditionnelles de l'île."
+  ],
+  [
+   "Qui sont les producteurs derrière le bouyon d'aujourd'hui ?",
+   "Des producteurs comme Smokiller, Denmath ou HYPNO! travaillent le son actuel, pendant que la mémoire du genre passe par des pionniers du sampling comme DJ Cut et les crews de Roseau."
+  ],
+  [
+   "Comment les profils de ce site sont-ils écrits ?",
+   "Chaque profil est écrit à partir de recherches vérifiées, artiste par artiste, avec des titres et des crédits sourcés. Les surnoms comme King of Bouyon sont toujours attribués, jamais présentés comme des faits."
+  ]
+ ],
+ "Production bouyon": [
+  [
+   "Qui produit du bouyon aujourd'hui ?",
+   "Des producteurs comme Smokiller (Bouyon Shattaz), Denmath, HYPNO! ou Savion travaillent le son bouyon, entre riddims, remixes et productions originales."
+  ],
+  [
+   "Qu'est-ce qu'un riddim bouyon ?",
+   "Un riddim est l'instrumental sur lequel plusieurs artistes posent leurs voix. Les riddims sont au cœur de la production bouyon et dancehall."
+  ],
+  [
+   "Quels instruments font le son bouyon ?",
+   "Les claviers en boucle, les percussions programmées et les basses électroniques portent le bouyon moderne, sur un socle hérité du jing ping et du lapo kabwit, les percussions traditionnelles de la Dominique."
+  ],
+  [
+   "Comment un riddim devient-il un titre ?",
+   "Le producteur construit l'instrumental, puis un ou plusieurs artistes posent leurs voix dessus. Un même riddim peut porter plusieurs titres, comme dans la culture dancehall dont le bouyon est proche."
+  ],
+  [
+   "Où trouver des productions bouyon récentes ?",
+   "Les pages production de ce site et la playlist Bouyon Road Mix suivent les sorties récentes, des riddims des producteurs de l'île aux remixes bouyon de Smokiller."
+  ]
+ ],
+ "Écouter le bouyon": [
+  [
+   "Où écouter du bouyon en ligne ?",
+   "Sur la Bouyon Road Mix de Bouyon Shattaz, disponible sur Spotify et YouTube via la page playlists de ce site."
+  ],
+  [
+   "Comment recevoir la playlist bouyon ?",
+   "Suivez @bouyonshattaz sur Instagram et commentez ROAD MIX sous une publication : la playlist vous est envoyée en message privé."
+  ],
+  [
+   "Quelles chansons bouyon écouter en premier ?",
+   "Les classiques de WCK, les titres de Triple Kay et les succès actuels d'Asa Bantan ou de Reo forment le socle d'une première écoute, complété par la Bouyon Road Mix."
+  ],
+  [
+   "Le bouyon s'écoute-t-il toute l'année ?",
+   "Oui. Né pour le carnaval, le bouyon vit toute l'année dans les fêtes de la Dominique, au World Creole Music Festival en octobre et dans les playlists des Antilles françaises et de la diaspora."
+  ],
+  [
+   "Où voir le bouyon en vidéo ?",
+   "Les clips des artistes sont liés depuis leurs profils sur ce site, et la chaîne YouTube de Smokiller publie des mixes et des remixes bouyon."
+  ]
+ ],
+ "Culture bouyon": [
+  [
+   "Pourquoi le bouyon s'appelle-t-il ainsi ?",
+   "Bouyon veut dire soupe en kwéyòl : le genre mélange les ingrédients des musiques traditionnelles dominiquaises avec la production électronique."
+  ],
+  [
+   "Le bouyon fait-il partie de la culture créole ?",
+   "Oui. Le bouyon est né dans les villages et le carnaval de la Dominique et il accompagne les fêtes créoles dans toute la Caraïbe francophone."
+  ],
+  [
+   "Qu'est-ce que le chanté mas ?",
+   "Le chanté mas est le chant traditionnel du carnaval dominiquais, porté par les groupes de mascarade. Le bouyon en garde l'énergie d'appel et de réponse dans ses voix de fête."
+  ],
+  [
+   "Qu'est-ce que le Mas Domnik ?",
+   "Mas Domnik est le nom du carnaval de la Dominique, réputé pour ses costumes traditionnels, son chanté mas et, depuis la fin des années 1980, le bouyon comme bande-son."
+  ],
+  [
+   "Dans quelles langues chante le bouyon ?",
+   "Le bouyon se chante en anglais, en kwéyòl, le créole dominiquais, et en français selon les artistes, de Roseau à Pointe-à-Pitre."
+  ]
+ ]
 }
 
 
@@ -195,7 +363,7 @@ EXTRA_TERMS_FR = {
 
 def render(page, all_pages):
     same_cat = [p for p in all_pages if p["cat"] == page["cat"] and p["slug"] != page["slug"]]
-    rel = spread_pick(same_cat, page["slug"], 6)
+    rel = spread_pick(same_cat, page["slug"], 9)
     url = f'https://bouyonmusique.com/{page["slug"]}'
     sections = ""
     for h2, paras in linkify_sections(page, all_pages, EXTRA_TERMS_FR, "/"):
@@ -253,6 +421,21 @@ def render(page, all_pages):
         for p in rel:
             rel_html += f'  <div class="card"><h3>{esc(p["nav"])}</h3><p>{esc(p["desc"][:150])}...</p><p><a href="/{p["slug"]}">Lire la page</a></p></div>\n'
         rel_html += "</div>\n"
+    strip_html = ""
+    _is_hub = page["slug"].startswith("artistes-")
+    _n = 60 if _is_hub else 24
+    _pool = [p for p in same_cat if p not in rel]
+    if len(_pool) < _n:
+        _have = {p["slug"] for p in _pool} | {p["slug"] for p in rel} | {page["slug"]}
+        _pool += [p for p in all_pages if p["slug"] not in _have]
+    _strip = spread_pick(_pool, page["slug"] + "|strip", _n)
+    if _is_hub and _strip:
+        graph.append({"@type": "ItemList", "name": page["nav"], "itemListElement": [
+            {"@type": "ListItem", "position": i + 1, "name": p["nav"], "url": "https://bouyonmusique.com/" + p["slug"]} for i, p in enumerate(_strip)]})
+    if _strip:
+        _t = "Plus d'artistes bouyon" if page["cat"] == "Artistes bouyon" else "Explorer cette rubrique"
+        _links = " \u00b7 ".join(f'<a href="/{p["slug"]}">{esc(p["nav"])}</a>' for p in _strip)
+        strip_html = f'\n<h2>{_t}</h2>\n<p class="strip">{_links}</p>\n'
     cta = """
 <div class="facts">
 <h3 style="margin-top:0">Écouter le bouyon maintenant</h3>
@@ -302,6 +485,7 @@ def render(page, all_pages):
 {cta}
 {faq_html}
 {rel_html}
+{strip_html}
 </div>
 </main>
 {footer(page, same_cat)}
@@ -350,6 +534,9 @@ def main():
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="/style.css">
+<script type="application/ld+json">
+{{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{{"@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://bouyonmusique.com/"}}, {{"@type": "ListItem", "position": 2, "name": "Plan du site", "item": "https://bouyonmusique.com/plan-du-site.html"}}]}}
+</script>
 </head>
 <body>
 {header("")}
