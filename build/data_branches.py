@@ -9,7 +9,7 @@ PAGES = [
   "cat": "Styles de bouyon",
   "nav": "RnBouyon",
   "title": "RnBouyon : le bouyon fusionné au R&B, douceur et énergie",
-  "desc": "Le RnBouyon fusionne le bouyon de la Dominique avec le R&B : le terme, orthographié RnBouyon, est porté par la chanteuse Fallon (Deezer Next 2026) et par les instrumentaux de Smokiller.",
+  "desc": "Le RnBouyon fusionne le bouyon de la Dominique et le R&B : un terme porté par la chanteuse Fallon (Deezer Next 2026) et les instrumentaux de Smokiller.",
   "h1": "RnBouyon : le versant R&B du bouyon",
   "intro": "Le RnBouyon est le nom donné à la fusion du bouyon et du R&B : le rythme de fête de la Dominique, porté par des voix chantées, des mélodies douces et une production urbaine. Le terme est récent et son orthographe est précise : RnBouyon, en un seul mot. Cette page explique d'où il vient, qui le porte, et pourquoi Bouyon Shattaz le lit comme un héritier du reketeng.",
   "date_published": "2026-10-20",
@@ -57,14 +57,15 @@ PAGES = [
     "author": {"@id": "https://bouyonmusique.com/#org"},
     "about": {"@type": "MusicGenre", "name": "RnBouyon"}
    }
-  ]
+  ],
+"date_modified": "2026-10-20"
  },
  {
   "slug": "new-bouyon.html",
   "cat": "Styles de bouyon",
   "nav": "New Bouyon",
   "title": "New Bouyon : le terme, ses trois usages et ses dates",
-  "desc": "New Bouyon désigne trois réalités : le concept de Ricky Bishop lancé en 2024, l'EP New Bouyon Age de TiiTii NBA sorti en 2023, et l'usage générique pour le bouyon des années 2020.",
+  "desc": "New Bouyon : les trois usages datés du terme, l’EP New Bouyon Age de TiiTii NBA (2023), le concept de Ricky Bishop (2024) et le bouyon des années 2020.",
   "h1": "New Bouyon : un nom, trois histoires",
   "intro": "New Bouyon est le terme le plus cité quand on parle du bouyon d'aujourd'hui, et le plus facile à confondre. Il recouvre trois usages distincts, portés par des artistes différents à des dates différentes. Cette page les sépare proprement, avec leurs dates, parce que dans le bouyon, le crédit se joue sur qui a fait quoi, et quand.",
   "date_published": "2026-10-20",
@@ -112,6 +113,7 @@ PAGES = [
     "author": {"@id": "https://bouyonmusique.com/#org"},
     "about": {"@type": "MusicGenre", "name": "New Bouyon"}
    }
-  ]
+  ],
+"date_modified": "2026-10-20"
  }
 ]
