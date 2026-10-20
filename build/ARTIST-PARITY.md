@@ -1,6 +1,6 @@
 # ARTIST PARITY vs tiitii-nba.com (measured 2026-10-20)
 His artist profile pages: 157 (FR, mirrored EN). Ours: 157.
-Gap: 5 of his artists have no profile on bouyonmusique.com yet.
+Gap: 0. PARITY COMPLETE 2026-10-20: all 142 roster artists now have profiles on bouyonmusique.com (157 of his profiles matched 1:1, counting pre-existing coverage).
 
 ## His artists we are missing (build in this order of priority: Dominica first, then WCMF 2026 bill, then the rest)
 - ~~1t1~~ BUILT 2026-10-20 (parity wave 2)
@@ -140,11 +140,21 @@ Gap: 5 of his artists have no profile on bouyonmusique.com yet.
 - ~~vador~~ BUILT 2026-10-20 (parity wave 17)
 - ~~vj-ben~~ BUILT 2026-10-20 (parity wave 17)
 - ~~weelow~~ BUILT 2026-10-20 (parity wave 17)
-- xavvoknockin
-- yellow-gaza
-- youry-fleming
-- ysn
-- yu-mei
+- ~~xavvoknockin~~ BUILT 2026-10-20 (parity wave 18)
+- ~~yellow-gaza~~ BUILT 2026-10-20 (parity wave 18)
+- ~~youry-fleming~~ BUILT 2026-10-20 (parity wave 18)
+- ~~ysn~~ BUILT 2026-10-20 (parity wave 18)
+- ~~yu-mei~~ BUILT 2026-10-20 (parity wave 18)
+
+### Queued (surfaced during scene sweep waves 1-3 research)
+- ~~Le Daah~~ BUILT 2026-10-20 (scene sweep wave 4 / build wave 22) (EN LEY feature credit, via Judi Silva research)
+- ~~Gringo Jay~~ BUILT 2026-10-20 (scene sweep wave 4 / build wave 22) (ANDOLOKO feature billing, via D.O.C FIX DEM research; track itself unverified lead)
+- D.O.C FIX IT (lead name on ELLE DANSE BOUYON, kept separate from D.O.C FIX DEM)
+- ~~Foxy Jael~~ BUILT 2026-10-20 (scene sweep wave 4 / build wave 22) (Ebony Empress feature, via YoJoshii research)
+- ~~Le Rebelle~~ BUILT 2026-10-20 (scene sweep wave 4 / build wave 22) (Bad vocal credit, via Nicolas Macbeth research)
+- ~~Kwib La Beats~~ BUILT 2026-10-20 (scene sweep wave 4 / build wave 22) (Rum producer credit, via Poyzin research)
+- ~~Corane Vincent~~ BUILT 2026-10-20 (scene sweep wave 4 / build wave 22) (recurring credit name, DJ Luchshiy and Pinpin OSP circles)
+- Dernel Green (Black Girl Magic producer credit, via Starsha research)
 
 ## Rule
 Every profile: original text from verified research only (never his copy), ProfilePage schema, FAQ, FR+EN, real build date. Target depth: match or beat his 3,400-3,600 words where the verified dossier supports it; never pad with invented facts.
@@ -155,32 +165,36 @@ Sean's directive (2026-10-20): after the 142-name parity list closes, the build 
 
 ### Queued (discovered during waves 1-13 research, not yet profiled)
 - Miky Ding La is IN wave 13. Names below surfaced as verified credits/collaborators during parity research and are queued for the sweep:
-- Laka (BAISE-MOI host artist, via Le Bluff research)
-- Tedla (Premières Notes collaborator, via Leyou/Le Bluff research)
-- Dézod (LGC collaborator)
-- D.O.C FIX DEM (LGC collaborator)
-- Judi Silva (LGC collaborator)
-- Young Dinero (prod.bysavion collaborator)
-- Zwady (prod.bysavion collaborator)
-- Fireman Lee (prod.bysavion collaborator)
-- Starsha (prod.bysavion collaborator)
-- Kai Du M (DJ Blax composer credits)
-- Nensha (DJ Blax composer credit)
-- Alkpote (DJ Blax composer credit; French rap, low bouyon priority)
-- Malko (HYPNO producer credits)
-- Mopao Mumu (HYPNO producer credit)
-- YuniikBeatz (TIITII NBA collaborator)
-- Poyzin (Ras B collaborator)
-- Chronic Law (Kkrytical collaborator; dancehall, low bouyon priority)
-- Quan (Litleboy collaborator; note: a separate roster entry "quan" also exists in the parity list)
-- Le Det (Le Dext namesake, explicitly separated; own catalogue exists)
-- Ti locksée (Ma6mo duet partner)
-- Nicolas Macbeth (Ma6mo credit overlap, unresolved identity)
-- D0 Production (New Bouyon Wave producer credit)
-- Magbeatz (LGC producer credit)
-- YoJoshii (Pinpin OSP producer credit)
-- Brian Lomba (Pinpin OSP / LGC credit name)
-- Earlson Matthew (Mr Delly writer credit; Ridge band keys; Series A backlog name)
-- Sonic Art Studios circle (Mr Delly credits)
+- ~~Laka~~ BUILT 2026-10-20 (scene sweep wave 1 / build wave 19) (BAISE-MOI host artist, via Le Bluff research)
+- ~~Tedla~~ BUILT 2026-10-20 (scene sweep wave 2 / build wave 20) (Premières Notes collaborator, via Leyou/Le Bluff research)
+- ~~Dézod~~ BUILT 2026-10-20 (scene sweep wave 1 / build wave 19) (LGC collaborator)
+- ~~D.O.C FIX DEM~~ BUILT 2026-10-20 (scene sweep wave 2 / build wave 20) (LGC collaborator)
+- ~~Judi Silva~~ BUILT 2026-10-20 (scene sweep wave 1 / build wave 19) (LGC collaborator)
+- ~~Young Dinero~~ BUILT 2026-10-20 (scene sweep wave 2 / build wave 20) (prod.bysavion collaborator)
+- ~~Zwady~~ BUILT 2026-10-20 (scene sweep wave 1 / build wave 19) (prod.bysavion collaborator)
+- ~~Fireman Lee~~ BUILT 2026-10-20 (scene sweep wave 1 / build wave 19) (prod.bysavion collaborator)
+- ~~Starsha~~ BUILT 2026-10-20 (scene sweep wave 2 / build wave 20) (prod.bysavion collaborator)
+- ~~Kai Du M~~ BUILT 2026-10-20 (scene sweep wave 2 / build wave 20) (DJ Blax composer credits)
+- ~~Nensha~~ BUILT 2026-10-20 (scene sweep wave 2 / build wave 20) (DJ Blax composer credit)
+- ~~Alkpote~~ BUILT 2026-10-20 (scene sweep wave 4 / build wave 22) (DJ Blax composer credit; French rap, low bouyon priority)
+- ~~Malko~~ BUILT 2026-10-20 (scene sweep wave 2 / build wave 20) (HYPNO producer credits)
+- ~~Mopao Mumu~~ BUILT 2026-10-20 (scene sweep wave 2 / build wave 20) (HYPNO producer credit)
+- ~~YuniikBeatz~~ BUILT 2026-10-20 (scene sweep wave 3 / build wave 21) (TIITII NBA collaborator)
+- ~~Poyzin~~ BUILT 2026-10-20 (scene sweep wave 3 / build wave 21) (Ras B collaborator)
+- ~~Chronic Law~~ BUILT 2026-10-20 (scene sweep wave 4 / build wave 22) (Kkrytical collaborator; dancehall, low bouyon priority)
+- ~~Quan~~ COVERED 2026-10-20 (parity wave 14 profile quan.html)
+- ~~Le Det~~ BUILT 2026-10-20 (scene sweep wave 1 / build wave 19) (Le Dext namesake, explicitly separated; own catalogue exists)
+- ~~Ti locksée~~ BUILT 2026-10-20 (scene sweep wave 3 / build wave 21) (Ma6mo duet partner)
+- ~~Nicolas Macbeth~~ BUILT 2026-10-20 (scene sweep wave 3 / build wave 21) (Ma6mo credit overlap, unresolved identity)
+- ~~D0 Production~~ BUILT 2026-10-20 (scene sweep wave 1 / build wave 19) (New Bouyon Wave producer credit)
+- ~~Magbeatz~~ BUILT 2026-10-20 (scene sweep wave 3 / build wave 21) (LGC producer credit)
+- ~~YoJoshii~~ BUILT 2026-10-20 (scene sweep wave 3 / build wave 21) (Pinpin OSP producer credit)
+- ~~Brian Lomba~~ BUILT 2026-10-20 (scene sweep wave 3 / build wave 21) (Pinpin OSP / LGC credit name)
+- ~~Earlson Matthew~~ BUILT 2026-10-20 (scene sweep wave 1 / build wave 19) (Mr Delly writer credit; Ridge band keys; Series A backlog name)
+- ~~Sonic Art Studios circle~~ BUILT 2026-10-20 (scene sweep wave 3 / build wave 21) (Mr Delly credits)
 
 Sweep count queued: 28 (as of 2026-10-20, wave 13 in progress). The queue grows as each wave's research surfaces new verified names.
+
+### Queued (surfaced during scene sweep wave 4 research)
+- Novy (La petite m'a dit duet, via Gringo Jay research)
+- Banklaady (LEAN BACK lead billing, via Gringo Jay research)
