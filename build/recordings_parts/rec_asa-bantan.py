@@ -1,0 +1,28 @@
+TRACKS = [
+    {"name": "Move", "url": "https://www.shazam.com/album/1536262012/asa-bantan-greatest-hits-vol-2", "album": "Asa Bantan Greatest Hits Vol. 2", "year": 2020},
+    {"name": "Liat", "url": "https://www.shazam.com/album/1536262012/asa-bantan-greatest-hits-vol-2", "album": "Asa Bantan Greatest Hits Vol. 2", "year": 2020},
+    {"name": "Amazing", "url": "https://www.shazam.com/album/1536262012/asa-bantan-greatest-hits-vol-2", "album": "Asa Bantan Greatest Hits Vol. 2", "year": 2020},
+    {"name": "Overweight", "url": "https://www.shazam.com/album/1536262012/asa-bantan-greatest-hits-vol-2", "album": "Asa Bantan Greatest Hits Vol. 2", "year": 2020},
+    {"name": "Macome", "url": "https://www.shazam.com/album/1536262012/asa-bantan-greatest-hits-vol-2", "album": "Asa Bantan Greatest Hits Vol. 2", "year": 2020},
+    {"name": "Boss", "url": "https://www.shazam.com/album/1536262012/asa-bantan-greatest-hits-vol-2", "album": "Asa Bantan Greatest Hits Vol. 2", "year": 2020},
+    {"name": "Haiti", "url": "https://www.shazam.com/album/1536262012/asa-bantan-greatest-hits-vol-2", "album": "Asa Bantan Greatest Hits Vol. 2", "year": 2020},
+    {"name": "Festival", "url": "https://www.shazam.com/album/1459037517/asa-bantan-greatest-hits-vol-1", "album": "Asa Bantan Greatest Hits, Vol. 1", "year": 2019},
+    {"name": "Why", "url": "https://www.shazam.com/album/1459037517/asa-bantan-greatest-hits-vol-1", "album": "Asa Bantan Greatest Hits, Vol. 1", "year": 2019},
+    {"name": "Banana", "url": "https://www.shazam.com/album/1459037517/asa-bantan-greatest-hits-vol-1", "album": "Asa Bantan Greatest Hits, Vol. 1", "year": 2019},
+    {"name": "Marcaroni", "url": "https://www.shazam.com/album/1459037517/asa-bantan-greatest-hits-vol-1", "album": "Asa Bantan Greatest Hits, Vol. 1", "year": 2019},
+    {"name": "Down", "url": "https://www.shazam.com/album/1459037517/asa-bantan-greatest-hits-vol-1", "album": "Asa Bantan Greatest Hits, Vol. 1", "year": 2019},
+]
+SOURCES = [
+    ("Move", "https://www.shazam.com/album/1536262012/asa-bantan-greatest-hits-vol-2"),
+    ("Liat", "https://www.shazam.com/album/1536262012/asa-bantan-greatest-hits-vol-2"),
+    ("Amazing", "https://www.shazam.com/album/1536262012/asa-bantan-greatest-hits-vol-2"),
+    ("Overweight", "https://www.shazam.com/album/1536262012/asa-bantan-greatest-hits-vol-2"),
+    ("Macome", "https://www.shazam.com/album/1536262012/asa-bantan-greatest-hits-vol-2"),
+    ("Boss", "https://www.shazam.com/album/1536262012/asa-bantan-greatest-hits-vol-2"),
+    ("Haiti", "https://www.shazam.com/album/1536262012/asa-bantan-greatest-hits-vol-2"),
+    ("Festival", "https://www.shazam.com/album/1459037517/asa-bantan-greatest-hits-vol-1"),
+    ("Why", "https://www.shazam.com/album/1459037517/asa-bantan-greatest-hits-vol-1"),
+    ("Banana", "https://www.shazam.com/album/1459037517/asa-bantan-greatest-hits-vol-1"),
+    ("Marcaroni", "https://www.shazam.com/album/1459037517/asa-bantan-greatest-hits-vol-1"),
+    ("Down", "https://www.shazam.com/album/1459037517/asa-bantan-greatest-hits-vol-1"),
+]
