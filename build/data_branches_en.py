@@ -9,7 +9,7 @@ PAGES = [
   "title": "RnBouyon: bouyon fused with R&B, softness and energy",
   "desc": "RnBouyon fuses Dominica bouyon with R&B: the term, spelled RnBouyon, is carried by singer Fallon (Deezer Next 2026) and by Smokiller's instrumentals.",
   "h1": "RnBouyon: the R&B side of bouyon",
-  "intro": "RnBouyon is the name given to the fusion of bouyon and R&B: Dominica's party rhythm carried by sung voices, soft melodies and urban production. The term is recent and its spelling is precise: RnBouyon, one word. This page explains where it comes from, who carries it, and why Bouyon Shattaz reads it as an heir of reketeng.",
+  "intro": "RnBouyon is the name given to the fusion of bouyon and R&B: Dominica's party rhythm carried by sung voices, soft melodies and urban production. The term is recent and its spelling is precise: RnBouyon, one word. This page explains where it comes from, who carries it, and why Bouyon Shattaz reads it as an heir of Wrecketeng.",
   "date_published": "2026-10-20",
   "sections": [
    [
@@ -34,10 +34,10 @@ PAGES = [
     ]
    ],
    [
-    "An heir of reketeng: this site's position",
+    "An heir of Wrecketeng: this site's position",
     [
-     "Bouyon Shattaz states it plainly: RnBouyon is an heir of <a href=\"/en/wrecketeng.html\">reketeng</a>. The lineage is technical before it is marketing. Rekenteng, born in Dominica in bouyon-muffin's wake, installed the method: take existing recordings, dancehall, hip hop, later R&B, strip them down and rebuild them over bouyon instrumentals, with sampled melodies, programmed percussion and electronic bass. Wikipedia, in both its English and French versions, reads it the same way: the 2020s labels reuse the techniques of reketeng recordings.",
-     "RnBouyon applies exactly that method to today's R&B repertoire. That the term is young and carried by few artists does not change the genealogy: the production gestures come from Roseau and the reketeng years, not from a marketing office. Defending that credit is why this site documents RnBouyon now, with its sources, instead of leaving it to be narrated elsewhere."
+     "Bouyon Shattaz states it plainly: RnBouyon is an heir of <a href=\"/en/wrecketeng.html\">Wrecketeng</a>. The lineage is technical before it is marketing. Rekenteng, born in Dominica in bouyon-muffin's wake, installed the method: take existing recordings, dancehall, hip hop, later R&B, strip them down and rebuild them over bouyon instrumentals, with sampled melodies, programmed percussion and electronic bass. Wikipedia, in both its English and French versions, reads it the same way: the 2020s labels reuse the techniques of Wrecketeng recordings.",
+     "RnBouyon applies exactly that method to today's R&B repertoire. That the term is young and carried by few artists does not change the genealogy: the production gestures come from Roseau and the Wrecketeng years, not from a marketing office. Defending that credit is why this site documents RnBouyon now, with its sources, instead of leaving it to be narrated elsewhere."
     ]
    ]
   ],
@@ -90,9 +90,9 @@ PAGES = [
     ]
    ],
    [
-    "The common root: reketeng techniques",
+    "The common root: Wrecketeng techniques",
     [
-     "Why do these new labels sound familiar to Dominican ears? Because their techniques are not new in Dominica. Sampled melodies, programmed percussion, electronic basslines, vocals influenced by rap and dancehall: that is the grammar of <a href=\"/en/wrecketeng.html\">reketeng</a>, practised in Roseau since the late 1990s. Wikipedia puts it in both languages: reketeng opened the way to what is often called New Bouyon today.",
+     "Why do these new labels sound familiar to Dominican ears? Because their techniques are not new in Dominica. Sampled melodies, programmed percussion, electronic basslines, vocals influenced by rap and dancehall: that is the grammar of <a href=\"/en/wrecketeng.html\">Wrecketeng</a>, practised in Roseau since the late 1990s. Wikipedia puts it in both languages: Wrecketeng opened the way to what is often called New Bouyon today.",
      "Bouyon Shattaz's position is therefore double, and owned: New Bouyon is a useful term for today's bouyon, and its technical roots are Dominican and old. Documenting both, the French and Antillean artists' brands and the method born in Dominica, is exactly this site's work."
     ]
    ]
@@ -100,7 +100,7 @@ PAGES = [
   "faq": [
    ("Who invented New Bouyon?", "The term has three dated uses: TiiTii NBA's New Bouyon Age EP (March 22, 2023), Ricky Bishop's New Bouyon concept launched in 2024 per his Deezer biography, and a generic use for 2020s bouyon. No independent source names a single inventor of the genre."),
    ("What is the difference between New Bouyon and New Bouyon Age?", "New Bouyon Age is the title of TiiTii NBA's EP released in 2023 on GVE Music. New Bouyon, without Age, is the concept carried by Ricky Bishop from 2024, with the EPs #newbouyon and #sexybouyon."),
-   ("Is New Bouyon a new genre?", "It is a 2020s label for productions fusing bouyon, trap, electro, hip hop and R&B. Its production techniques, samples, programmed percussion and electronic bass, descend from Dominican reketeng of the late 1990s.")
+   ("Is New Bouyon a new genre?", "It is a 2020s label for productions fusing bouyon, trap, electro, hip hop and R&B. Its production techniques, samples, programmed percussion and electronic bass, descend from Dominican Wrecketeng of the late 1990s.")
   ],
   "extra_graph": [
    {
