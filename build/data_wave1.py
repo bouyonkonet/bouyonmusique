@@ -318,7 +318,7 @@ PAGES = [
   "title": "Smokiller : le producteur qui transforme les hits en bouyon",
   "desc": "Smokiller, producteur né en Dominique, fondateur de Bouyon Shattaz : remixes bouyon, Throw Dat, Nothing Into Something et servicing radio.",
   "h1": "Smokiller : les hits du monde, la recette de la Dominique",
-  "intro": "Smokiller est un artiste et producteur né en Dominique, fondateur de Bouyon Shattaz. Né dominicain et aujourd’hui américain, Dominican-born, il prend des hits afrobeats, pop, rap et R&B et les transforme en versions bouyon, avec les claviers, le tempo et l’énergie du genre né à Roseau.",
+  "intro": "Smokiller est un artiste et producteur né en Dominique, fondateur de Bouyon Shattaz. Né en Dominique et aujourd’hui américain, il prend des hits afrobeats, pop, rap et R&B et les transforme en versions bouyon, avec les claviers, le tempo et l’énergie du genre né à Roseau.",
   "sections": [
    [
     "Qui est Smokiller : l’homme, la marque, le fondateur",

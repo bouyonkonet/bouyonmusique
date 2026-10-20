@@ -330,7 +330,7 @@ PAGES = [
   "title": "Smokiller: the producer who flips hits into bouyon",
   "desc": "Smokiller, Dominican-born producer, founder of Bouyon Shattaz: bouyon remixes, Throw Dat, Nothing Into Something and radio servicing.",
   "h1": "Smokiller: the hits of the world, the recipe of Dominica",
-  "intro": "Smokiller is a Dominican-born artist and producer, founder of Bouyon Shattaz. Born Dominican and now American, Dominican-born, he takes Afrobeats, pop, rap and R&B hits and flips them into bouyon versions, with the keyboards, tempo and energy of the genre born in Roseau.",
+  "intro": "Smokiller is a Dominican-born artist and producer, founder of Bouyon Shattaz. Born in Dominica and now American, he takes Afrobeats, pop, rap and R&B hits and flips them into bouyon versions, with the keyboards, tempo and energy of the genre born in Roseau.",
   "sections": [
    [
     "Who Smokiller is: the man, the brand, the founder",
@@ -400,7 +400,7 @@ PAGES = [
   "faq": [
    [
     "Who is Smokiller?",
-    "Smokiller is a Dominican-born artist and producer, founder of Bouyon Shattaz. Born Dominican and now American, Dominican-born, he flips Afrobeats, pop, rap and R&B hits into bouyon versions."
+    "Smokiller is a Dominican-born artist and producer, founder of Bouyon Shattaz. Born in Dominica and now American, he flips Afrobeats, pop, rap and R&B hits into bouyon versions."
    ],
    [
     "Which Smokiller remix did Coi Leray repost?",
