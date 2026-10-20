@@ -3,7 +3,7 @@ PAGES = [
 {
 "slug": "bouyon-soca.html", "fr_slug": "bouyon-soca.html", "cat": "Bouyon styles", "nav": "Bouyon soca",
 "title": "Bouyon Soca: the bouyon and soca fusion explained",
-"desc": "Bouyon soca: the fusion between Dominica bouyon and Trinidad soca. Origin, sound, territories (Saint Lucia, Antigua, Guadeloupe, Martinique) and songs to listen to.",
+"desc": "Bouyon soca: the fusion of Dominica bouyon and Trinidad soca. Origin, sound and territories: Saint Lucia, Antigua, Guadeloupe and Martinique.",
 "h1": "Bouyon soca: when Dominica bouyon meets soca",
 "intro": "Bouyon soca is the most popular fusion born around bouyon: the fast rhythms and keyboards of Dominican bouyon meet the energy and the codes of Trinidad soca. The term comes from producers and musicians who live between the two cultures and find it natural to mix them.",
 "sections": [
@@ -11,12 +11,18 @@ PAGES = [
 ("Where bouyon soca was born", ["This site's first-hand testimony contradicts the idea of an outside invention. Sean \"Smokiller\" Francis, the Dominican-born producer who was in the rooms with Dada and Nursery Krew, recounts that bouyon soca was started by Dada in 2003, in Dominica. The style then took off when Triple Kay and other bands adopted it in their own version of bouyon. Reference works often describe the label as born off the island: a direct participant's testimony says otherwise, and this site stands on it, signed. The fusion later also developed outside Dominica, on islands like Saint Lucia and Antigua, where bouyon and soca have circulated since the 1980s and 1990s. It became very popular in Guadeloupe and Martinique, where audiences know bouyon by the name jump up. In Dominica itself, purists insist on distinguishing bouyon from soca: bouyon keeps a clear, recognizable, different style."]),
 ("Why bouyon soca works at carnival", ["Carnival is the natural ground of both genres. Bouyon soca combines the rhythmic power of bouyon, inherited from jing ping and lapo kabwit, with soca’s call to party. The result: songs made for the road, the bands and the sound systems, travelling from island to island all through carnival season."]),
 ],
-"faq": [("Is bouyon soca real bouyon?", "It is a fusion: the rhythmic base and the keyboards come from Dominican bouyon, the festive form comes from soca. In Dominica, pure bouyon is distinguished from bouyon soca, but the two families live side by side at carnival."), ("Where can I listen to bouyon soca?", "The Bouyon Shattaz <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix</a> mixes bouyon, bouyon soca and new releases from the Antilles on Spotify and YouTube.")],
+"faq": [
+("Who created bouyon soca?", 'According to the testimony of Sean "Smokiller" Francis, the Dominican-born producer who was in the studios with Dada and Nursery Krew, bouyon soca was started by Dada in 2003, in Dominica. The style then took off when Triple Kay and other bands adopted it. Reference works often describe it, wrongly according to this testimony, as born off the island.'),
+("Where is bouyon soca popular?", "Started in Dominica, bouyon soca also developed in Saint Lucia and Antigua, where bouyon and soca have circulated since the 1980s and 1990s. It became very popular in Guadeloupe and Martinique, where audiences know bouyon by the name jump up. Its songs travel from island to island all through carnival season."),
+("Is bouyon soca real bouyon?", "It is a fusion: the rhythmic base and the keyboards come from Dominican bouyon, the festive form comes from soca. In Dominica, pure bouyon is distinguished from bouyon soca, but the two families live side by side at carnival."),
+("Where can I listen to bouyon soca?", 'The Bouyon Shattaz <a href="/en/playlist-bouyon.html">Bouyon Road Mix</a> mixes bouyon, bouyon soca and new releases from the Antilles on Spotify and YouTube. Bouyon soca is also heard at carnival, its natural ground: its songs are made for the road, the bands and the sound systems, and travel from island to island all season long.'),
+],
+"date_modified": "2026-10-20",
 },
 {
 "slug": "bouyon-gwada.html", "fr_slug": "bouyon-gwada.html", "cat": "Bouyon styles", "nav": "Bouyon gwada",
 "title": "Bouyon Gwada: the hardcore branch of bouyon in Guadeloupe",
-"desc": "Bouyon gwada: the hardcore branch of bouyon born from collaborations between Dominica and Guadeloupe. History, raw sound and place in the bouyon music of the French Antilles.",
+"desc": "Bouyon gwada: the hardcore branch of bouyon born between Dominica and Guadeloupe. History, raw sound and its place in the bouyon of the French Antilles.",
 "h1": "Bouyon gwada: the hardcore bouyon of Guadeloupe",
 "intro": "Bouyon gwada, also called hardcore bouyon, is the branch of bouyon that grew between Dominica and Guadeloupe. The two islands share Antillean Creole, and their musicians together built a sound that is harder, faster and rawer than the classic bouyon of the live bands.",
 "sections": [
@@ -24,12 +30,18 @@ PAGES = [
 ("A harder sound", ["Where the original bouyon of WCK rests on bands and traditional instruments like lapo kabwit and the jing ping accordion, bouyon gwada pushes the drum machines, the basslines and the voices sung or rapped in Guadeloupean Creole. It is the bridge between Dominica bouyon and modern forms like shatta bouyon."]),
 ("The place of bouyon gwada today", ["In Guadeloupe, bouyon is everyday music: fetes, carnival, social media and sound systems. Bouyon gwada keeps an image there of an authentic, unfiltered sound, defended by fans who want to keep the link with the genre’s Dominican origin."]),
 ],
-"faq": [("What is the difference between bouyon and bouyon gwada?", "Bouyon is the original genre created in Dominica. Bouyon gwada is its hardcore branch developed with Guadeloupe: harder, more electronic, sung largely in Guadeloupean Creole.")],
+"faq": [
+("What is the difference between bouyon and bouyon gwada?", "Bouyon is the original genre created in Dominica. Bouyon gwada is its hardcore branch developed with Guadeloupe: harder, more electronic, sung largely in Guadeloupean Creole."),
+("What is bouyon gwada?", "Bouyon gwada, also called hardcore bouyon, is the branch of bouyon that grew between Dominica and Guadeloupe. The two islands share Antillean Creole, and their musicians together built a sound that is harder, faster and rawer than the classic bouyon of the live bands."),
+("Where does bouyon gwada come from?", "Bouyon gwada was born from musical collaborations between citizens of Dominica and Guadeloupe. Dominican bouyon arrived in Gwada through carnival and exchanges between Creole-speaking islands, then Guadeloupean producers and singers made it their own with their codes, their language and their street energy."),
+("How is bouyon gwada linked to shatta bouyon?", 'Bouyon gwada is the bridge between Dominica bouyon and modern forms like <a href="/en/shatta-bouyon.html">shatta bouyon</a>. Where the original bouyon of WCK rests on bands and traditional instruments, it pushes the drum machines, the basslines and the voices sung or rapped in Guadeloupean Creole.'),
+],
+"date_modified": "2026-10-20",
 },
 {
 "slug": "shatta-bouyon.html", "fr_slug": "shatta-bouyon.html", "cat": "Bouyon styles", "nav": "Shatta bouyon",
 "title": "Shatta Bouyon: the modern bouyon of the Antilles and France",
-"desc": "Shatta bouyon: the modern form of bouyon carried by Antillean producers and the French scene. Riddims, clubs, social media and the link with Dominica, the island where bouyon comes from.",
+"desc": "Shatta bouyon: the modern form of bouyon carried by Antillean producers and the French scene. Riddims, clubs, social media and its Dominican roots.",
 "h1": "Shatta bouyon: the modern face of bouyon",
 "intro": "Shatta bouyon is the current and most visible form of bouyon on social media and in clubs: short, hard, danceable riddims, produced by the new Antillean and French generation, which keep the DNA of the bouyon born in Dominica.",
 "sections": [
@@ -37,7 +49,13 @@ PAGES = [
 ("The roots stay Dominican", ["Even in its most modern form, shatta bouyon keeps the markers of the genre created by WCK in 1988: fast tempo, looping keyboards, synthetic bass and Creole on the microphone. The difference is in the production: digital, minimal, cut for the club and the phone."]),
 ("Why France matters", ["The French Antilles and the diaspora in Paris have become a major market for bouyon: certifications, stages and distribution often pass through France. That is exactly why Bouyon Shattaz documents shatta bouyon daily, to keep the credit and the origin on Dominica’s side."]),
 ],
-"faq": [("Is shatta the same thing as bouyon?", "Shatta is a family of modern Antillean sounds; shatta bouyon is the part of that family built directly on the riddims and the energy of Dominican bouyon.")],
+"faq": [
+("What is shatta bouyon?", "Shatta bouyon is the current and most visible form of bouyon on social media and in clubs. It is built on short, hard, danceable riddims, produced by the new Antillean and French generation, which keep the DNA of the bouyon born in Dominica: fast tempo, looping keyboards, synthetic bass and Creole on the microphone."),
+("Is shatta the same thing as bouyon?", 'No. Shatta is a family of modern Antillean sounds; shatta bouyon is the part of that family built directly on the riddims and the energy of Dominican bouyon. Bouyon itself is the historic genre created in 1988 in Dominica, with its live bands, its carnivals and its classics. See the <a href="/en/bouyon-vs-shatta.html">bouyon vs shatta</a> page.'),
+("Where does shatta bouyon come from?", "Its roots are Dominican. Even in its most modern form, shatta bouyon keeps the markers of the genre created by WCK in 1988 in Dominica. What changes is the production: digital, minimal, cut for the club and the phone, and carried by the new generation of Antillean and French producers."),
+("Why does France matter for shatta bouyon?", "Because the French Antilles and the diaspora in Paris have become a major market for bouyon: certifications, stages and distribution often pass through France. That is exactly why Bouyon Shattaz documents shatta bouyon daily, to keep the credit and the origin on Dominica's side."),
+],
+"date_modified": "2026-10-20",
 },
 {
 "slug": "bouyon-muffin.html", "fr_slug": "bouyon-muffin.html", "cat": "Bouyon styles", "nav": "Bouyon-muffin",
@@ -49,16 +67,31 @@ PAGES = [
 ("The Jamaican influence", ["Bouyon draws from chanté mas and the tradition of the carnival cry, but the 1990s generation also listens to Kingston dancehall. Bouyon-muffin owns that mix: raggamuffin-style voices, lyrics that comment on everyday life and island politics, laid over the rhythmic machine of bouyon."]),
 ("A style that shaped modern bouyon", ["Bouyon-muffin installed a way of singing over bouyon that still influences the current scene: fast delivery, chanted refrains, Creole and English mixed together. It is one of the bridges between the bouyon of the live bands and the bouyon of today’s producers."]),
 ],
+"date_modified": "2026-10-20",
+"faq": [
+("What is bouyon music?", "Bouyon is a genre born in Dominica in the late 1980s. Its name comes from the Kweyol word for soup: it blends jing ping, cadence-lypso, calypso and electronic production, pioneered by the band WCK."),
+("Where can I hear the bouyon styles?", "The playlist page collects the Bouyon Road Mix by Bouyon Shattaz on Spotify and YouTube, with new bouyon and carnival classics."),
+("What is bouyon-muffin?", "Bouyon-muffin is one of bouyon's first children: from the 1990s, Dominican singers lay voices inspired by Jamaican dancehall and raggamuffin over the fast rhythms of bouyon. The result is a very recognizable vocal style, between singing, shouting and toasting, with lyrics about everyday life and island politics."),
+("How did bouyon-muffin influence modern bouyon?", "Bouyon-muffin installed a way of singing over bouyon that still marks the current scene: fast delivery, chanted refrains, Creole and English mixed together. It is one of the bridges between the bouyon of the live bands, like <a href=\"/en/old-school-bouyon.html\">old school bouyon</a>, and the bouyon of today's producers."),
+],
 },
 {
 "slug": "reketeng.html", "fr_slug": "reketeng.html", "cat": "Bouyon styles", "nav": "Reketeng",
 "title": "Reketeng: the other festive branch of Dominican bouyon",
-"desc": "Reketeng: one of the branches of bouyon born in Dominica, in the family of bouyon fusions, bouyon soca and bouyon-muffin. What you need to know about this style.",
+"desc": "Reketeng: a branch of bouyon born in Dominica, in the family of bouyon fusions with bouyon soca and bouyon-muffin. What you need to know about the style.",
 "h1": "Reketeng: the pleasure branch of bouyon",
 "intro": "Reketeng is one of the forms derived from bouyon in Dominica, alongside bouyon soca and bouyon-muffin. Less known outside the Caribbean than classic bouyon, it belongs to the same creative explosion that followed the creation of the genre by WCK in 1988.",
 "sections": [
 ("In the bouyon fusion family", ["After 1988, bouyon does not stay frozen: Dominican musicians test fusions in every direction. Some will produce bouyon soca, others bouyon-muffin, others still reketeng. Each branch keeps the foundation of the genre: traditional Dominican rhythms, keyboards and carnival energy."]),
 ("Why these branches matter", ["Branches like reketeng show that bouyon is an ecosystem, not a single sound. It is this diversity, born in Dominica, that allows the genre today to live in Guadeloupe, in Martinique, in France and across the whole diaspora."]),
+],
+"date_modified": "2026-10-20",
+"faq": [
+("What is bouyon music?", "Bouyon is a genre born in Dominica in the late 1980s. Its name comes from the Kweyol word for soup: it blends jing ping, cadence-lypso, calypso and electronic production, pioneered by the band WCK."),
+("Where can I hear the bouyon styles?", "The playlist page collects the Bouyon Road Mix by Bouyon Shattaz on Spotify and YouTube, with new bouyon and carnival classics."),
+("What is reketeng?", "Reketeng is one of the forms derived from bouyon in Dominica, alongside bouyon soca and bouyon-muffin, born from the creative explosion that followed WCK's creation of the genre in 1988. It installed a method: take existing recordings, strip them down and rebuild them over bouyon instrumentals, with sampled melodies, programmed percussion and electronic bass."),
+("Reketeng or wrecketeng: which spelling?", 'Both name a single lineage. Older references, up to Billboard in June 2025, write reketeng. The spelling Wrecketeng is the one Smokiller put forward with his comeback project announced in December 2025, alongside DJ Cut and the Nursery Krew veterans. See the <a href="/en/wrecketeng.html">Wrecketeng</a> chapter.'),
+("How is reketeng linked to RnBouyon?", "For Bouyon Shattaz, the 2020s labels, New Bouyon and RnBouyon alike, are the heirs of reketeng: they reuse its method, taking existing songs, hip hop, trap or R&B, and rebuilding them on the bouyon machinery. Wikipedia, in English and in French, makes the same reading."),
 ],
 },
 {
@@ -71,7 +104,13 @@ PAGES = [
 ("A nickname that says it all", ["The term jump up already existed in the French Antilles to describe very rhythmic carnival music, notably after the song L’hivernage by Exile One in 1987, nicknamed The Yo. When Dominican bouyon crosses the sea, the Antillean audience naturally files it in that family: for many people, bouyon and jump up are the same sound."]),
 ("Jump up at carnival", ["At the carnivals of Guadeloupe and Martinique, jump up is the soundtrack of the skin drum bands, the déboulés and the street fetes. It links the carnival traditions of the three Creole-speaking islands: Dominica, Gwada and Martinique."]),
 ],
-"faq": [("Are jump up and bouyon the same thing?", "In Guadeloupe and Martinique, yes, in everyday language: jump up means the bouyon music that came from Dominica.")],
+"faq": [
+("Are jump up and bouyon the same thing?", "In Guadeloupe and Martinique, yes, in everyday language: jump up means the bouyon music that came from Dominica. The term already existed for very rhythmic carnival music, and the Antillean audience naturally filed bouyon in that family. For many people, bouyon and jump up are the same sound."),
+("Why is bouyon called jump up?", "Because the name sums up the music's effect: a fast tempo that makes everybody jump. It is how the French Antilles, Guadeloupe and Martinique, refer to the bouyon music of Dominica. So if you are looking for bouyon in Guadeloupe or Martinique, ask for jump up."),
+("Where does the term jump up come from?", "The term jump up already existed in the French Antilles to describe very rhythmic carnival music, notably after the song L'hivernage by Exile One in 1987, nicknamed The Yo. When Dominican bouyon crossed the sea, the Antillean audience naturally filed it in that family."),
+("Where can you hear jump up?", 'Mainly at the carnivals of Guadeloupe and Martinique, where jump up is the soundtrack of the skin drum bands, the déboulés and the street fetes. It links the carnival traditions of the three Creole-speaking islands: Dominica, the birthplace of bouyon, Guadeloupe and Martinique. See also <a href="/en/dominica-carnival.html">Dominica Carnival</a>.'),
+],
+"date_modified": "2026-10-20",
 },
 {
 "slug": "old-school-bouyon.html", "fr_slug": "old-school-bouyon.html", "cat": "Bouyon styles", "nav": "Old school bouyon",
@@ -82,6 +121,14 @@ PAGES = [
 "sections": [
 ("Bands, not files", ["Old school bouyon is played in a full line-up: rhythm section, keyboards, guitars, brass sometimes, and singers who work the crowd like in chanté mas. The songs are long, built to last a whole night of partying, not for a thirty-second format."]),
 ("Why the fans defend it", ["For fans of the first hour, old school keeps what modern bouyon risks losing: the traditional instruments of jing ping and lapo kabwit, Dominican Creole, and the direct link with Roseau carnival. It is this rawness, this raw and real side, that Bouyon Shattaz puts forward."]),
+],
+"date_modified": "2026-10-20",
+"faq": [
+("What is bouyon music?", "Bouyon is a genre born in Dominica in the late 1980s. Its name comes from the Kweyol word for soup: it blends jing ping, cadence-lypso, calypso and electronic production, pioneered by the band WCK."),
+("Where can I hear the bouyon styles?", "The playlist page collects the Bouyon Road Mix by Bouyon Shattaz on Spotify and YouTube, with new bouyon and carnival classics."),
+("What is old school bouyon?", "Old school bouyon is the bouyon of the live bands that ruled Dominica in the 1990s. It is a sound of the stage, of carnival and of village fetes, played by full line-ups with long songs built to last a whole night. Purists cite it as the reference for the genre."),
+("Which bands play old school bouyon?", 'The names cited are WCK, Roots Stems and Branches and First Serenade, along with their heirs. These bands played in full line-ups: rhythm section, keyboards, guitars, brass sometimes, and singers who worked the crowd like in chanté mas. See the page on <a href="/en/wck.html">WCK</a>, the pioneering band.'),
+("What is the difference between old school and modern bouyon?", "Old school bouyon is played by live bands, with long songs designed for a night of partying, not for a thirty-second format. Its fans believe it keeps what modern bouyon risks losing: the instruments of jing ping and lapo kabwit, Dominican Creole and the direct link with Roseau carnival."),
 ],
 },
 {
@@ -94,6 +141,13 @@ PAGES = [
 ("The same engine, another message", ["Musically, gospel bouyon keeps the codes of the genre: the keyboard loop, the pushing bass, the choir responses. Lyrically, it replaces party themes with faith, gratitude and testimony. The audience it aims at is the same as the carnival audience, but in a context of church and gospel concert."]),
 ("Proof of the genre’s strength", ["When a rhythm serves the street, the carnival and the church at the same time, it has become a heritage. Gospel bouyon is among the searches fans make regularly, and it is a reminder that bouyon is not a trend: it is the sound of a people."]),
 ],
+"date_modified": "2026-10-20",
+"faq": [
+("What is gospel bouyon?", "Gospel bouyon applies the rhythmic machine of bouyon, fast tempo, keyboards and collective energy, to Christian praise lyrics. It keeps the keyboard loop, the pushing bass and the choir responses, but replaces party themes with faith, gratitude and testimony."),
+("What is the difference between gospel bouyon and carnival bouyon?", "The music is the same, the message changes. Gospel bouyon keeps the codes of the genre: keyboard loop, pushing bass, choir responses. Its lyrics speak of faith, gratitude and testimony instead of partying, and it is played in a church and gospel concert setting, for the same audience as carnival."),
+("What is bouyon music?", "Bouyon is a genre born in Dominica in the late 1980s. Its name comes from the Kweyol word for soup: it blends jing ping, cadence-lypso, calypso and electronic production, pioneered by the band WCK."),
+("Where can I hear the bouyon styles?", 'The <a href="/en/playlist-bouyon.html">playlist page</a> collects the Bouyon Road Mix by Bouyon Shattaz on Spotify and YouTube, with new bouyon and carnival classics. To get it directly, follow @bouyonshattaz on Instagram and comment ROAD MIX: the playlist arrives by direct message.'),
+],
 },
 {
 "slug": "bouyon-moderne.html", "fr_slug": "bouyon-moderne.html", "cat": "Bouyon styles", "nav": "Modern bouyon",
@@ -105,6 +159,12 @@ PAGES = [
 ("A digital production", ["The bouyon of 2026 is born on software: percussion loops inspired by lapo kabwit, sampled keyboards, basses drawn for phones and big systems. Producers publish excerpts, dance on them, read the comments, then release the long version the audience is demanding."]),
 ("A networked genre", ["The modern scene works as a network: media like Bouyon Shattaz, bouyon pages of the Antilles, DJs from Gwada and Paris, Dominican artists. It is this network that decides which riddims become carnival songs, and it is the one this site documents page after page."]),
 ],
-"faq": [("Where can I follow modern bouyon?", "On <a href=\"https://www.instagram.com/bouyonshattaz/\">@bouyonshattaz</a> daily, and on this site’s <a href=\"/en/new-bouyon-2026.html\">new bouyon 2026 page</a>.")],
+"faq": [
+("What is modern bouyon?", "It is the bouyon of 2026, the sum of all the genre’s evolutions since 1988: the Dominican base of WCK, the energy of bouyon gwada, the network form of shatta bouyon and the work of producers who build riddims in their bedrooms between Roseau, Pointe-à-Pitre and Paris."),
+("How is modern bouyon produced?", "On software: percussion loops inspired by lapo kabwit, sampled keyboards and basses drawn for phones as well as big systems. Producers publish excerpts, dance on them, read the comments, then release the long version the audience is demanding. The network of media, DJs and bouyon pages then decides which riddims become carnival songs."),
+("What is the difference between modern bouyon and shatta bouyon?", '<a href="/en/shatta-bouyon.html">Shatta bouyon</a> is one part of modern bouyon: short, hard, danceable riddims made by the new Antillean and French generation for the club and the phone. Modern bouyon is wider: it also brings together the Dominican base of WCK, the energy of bouyon gwada and the whole producer scene.'),
+("Where can I follow modern bouyon?", 'On <a href="https://www.instagram.com/bouyonshattaz/">@bouyonshattaz</a>, which posts bouyon news daily in English and French, and on this site’s <a href="/en/new-bouyon-2026.html">new bouyon 2026 page</a>. The Bouyon Road Mix by Bouyon Shattaz also collects new bouyon releases and carnival classics on Spotify and YouTube.'),
+],
+"date_modified": "2026-10-20",
 },
 ]
