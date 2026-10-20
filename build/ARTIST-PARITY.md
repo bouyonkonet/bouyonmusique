@@ -1,6 +1,6 @@
 # ARTIST PARITY vs tiitii-nba.com (measured 2026-10-20)
-His artist profile pages: 157 (FR, mirrored EN). Ours: 53.
-Gap: 120 of his artists have no profile on bouyonmusique.com yet.
+His artist profile pages: 157 (FR, mirrored EN). Ours: 61.
+Gap: 112 of his artists have no profile on bouyonmusique.com yet.
 
 ## His artists we are missing (build in this order of priority: Dominica first, then WCMF 2026 bill, then the rest)
 - ~~1t1~~ BUILT 2026-10-20 (parity wave 2)
@@ -12,15 +12,15 @@ Gap: 120 of his artists have no profile on bouyonmusique.com yet.
 - ~~beevo~~ BUILT 2026-10-20 (parity wave 3)
 - ~~benji~~ BUILT 2026-10-20 (parity wave 3)
 - ~~bernard-gumbs-wizito~~ BUILT 2026-10-20 (parity wave 3)
-- bilix
-- billy-bybf
-- binksdrick
-- bismok
-- boy-freeze
-- brg-hollywood
-- bunji-garlin
+- ~~bilix~~ BUILT 2026-10-20 (parity wave 4)
+- ~~billy-bybf~~ BUILT 2026-10-20 (parity wave 4)
+- ~~binksdrick~~ BUILT 2026-10-20 (parity wave 4)
+- ~~bismok~~ BUILT 2026-10-20 (parity wave 4)
+- ~~boy-freeze~~ BUILT 2026-10-20 (parity wave 4)
+- ~~brg-hollywood~~ BUILT 2026-10-20 (parity wave 4)
+- ~~bunji-garlin~~ BUILT 2026-10-20 (parity wave 4)
 - ~~bushtown-clan~~ BUILT 2026-10-20 (parity wave 1)
-- c4
+- ~~c4~~ BUILT 2026-10-20 (parity wave 4)
 - carlyn-xp
 - cocotteland
 - cornell-phillip
