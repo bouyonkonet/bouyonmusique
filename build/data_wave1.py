@@ -318,14 +318,14 @@ PAGES = [
   "title": "Smokiller : le producteur qui transforme les hits en bouyon",
   "desc": "Smokiller, marque d’artiste de Sean Smokiller Francis, fondateur de Bouyon Shattaz : remixes bouyon, Throw Dat, Nothing Into Something et servicing radio.",
   "h1": "Smokiller : les hits du monde, la recette de la Dominique",
-  "intro": "Smokiller est la marque d’artiste et de producteur de Sean “Smokiller” Francis, fondateur de Bouyon Shattaz. Né en Dominique et aujourd’hui américain, il prend des hits afrobeats, pop, rap et R&B et les transforme en versions bouyon, avec les claviers, le tempo et l’énergie du genre né à Roseau.",
+  "intro": "Smokiller est la marque d’artiste et de producteur de Sean “Smokiller” Francis, fondateur de Bouyon Shattaz. Né en Dominique, il prend des hits afrobeats, pop, rap et R&B et les transforme en versions bouyon, avec les claviers, le tempo et l’énergie du genre né à Roseau.",
   "sections": [
    [
     "Qui est Smokiller : l’homme, la marque, le fondateur",
     [
      "Smokiller est la marque d’artiste et de producteur de Sean “Smokiller” Francis. Ce n’est pas un pseudonyme décoratif : c’est le nom sous lequel il produit, remixe, publie et signe son travail, de YouTube à TikTok, de son site <a href=\"https://smokiller.com/\">smokiller.com</a> à la plateforme Bouyon Shattaz qu’il a fondée. BouyonMusique.com, le site que vous lisez, est publié par Bouyon Shattaz : Smokiller est donc à la fois un artiste documenté par ce site et l’homme derrière la maison qui le publie, ce que ce profil dit ouvertement.",
-     "Son identité doit être racontée avec les mots justes. Il est né dominicain et il est aujourd’hui américain. La formule utilisée sur ce site est Dominican-born, né en Dominique. Son sang et sa culture ne l’ont jamais quitté, et ils sont ce qu’il est. Après la première mention complète, Sean “Smokiller” Francis, ce site le désigne comme Smokiller, selon sa propre manière de se présenter dans ses articles et ses projets.",
-     "Cette identité explique son projet musical. Un producteur né en Dominique, vivant sa vie d’Américain, qui écoute les hits du monde entier et entend, dans chacun d’eux, une version bouyon possible : voilà le point de départ de Smokiller. Il ne s’agit pas d’imiter les scènes qui réussissent, mais de ramener leurs titres vers la recette de son île, celle que <a href=\"/wck.html\">WCK</a> a créée à Roseau en 1988.",
+     "Son identité doit être racontée avec les mots justes. Il est né en Dominique : la formule utilisée sur ce site est Dominican-born, né en Dominique. Son sang et sa culture ne l’ont jamais quitté, et ils sont ce qu’il est. Après la première mention complète, Sean “Smokiller” Francis, ce site le désigne comme Smokiller, selon sa propre manière de se présenter dans ses articles et ses projets.",
+     "Cette identité explique son projet musical. Un producteur né en Dominique, qui écoute les hits du monde entier et entend, dans chacun d’eux, une version bouyon possible : voilà le point de départ de Smokiller. Il ne s’agit pas d’imiter les scènes qui réussissent, mais de ramener leurs titres vers la recette de son île, celle que <a href=\"/wck.html\">WCK</a> a créée à Roseau en 1988.",
      "Smokiller cumule plusieurs métiers que ce profil détaille tour à tour : producteur pour d’autres artistes, remixeur de hits internationaux, animateur d’un catalogue de téléchargements gratuits sur <a href=\"https://smokiller.com/\">smokiller.com</a>, fondateur d’un média et d’un projet de distribution et de droits, et responsable d’un servicing radio vers les stations de la Caraïbe. Peu d’acteurs du bouyon actuel réunissent autant de fonctions. C’est ce qui fait de cette page la plus longue des profils d’artistes de ce site."
     ]
    ],
@@ -386,7 +386,7 @@ PAGES = [
    ]
   ],
   "faq": [
-("Qui est Smokiller ?", "Smokiller est la marque d’artiste et de producteur de Sean “Smokiller” Francis, fondateur de Bouyon Shattaz. Né dominicain et aujourd’hui américain, il retourne des hits afrobeats, pop, rap et R&B en versions bouyon."),
+("Qui est Smokiller ?", "Smokiller est la marque d’artiste et de producteur de Sean “Smokiller” Francis, fondateur de Bouyon Shattaz. Né en Dominique, il retourne des hits afrobeats, pop, rap et R&B en versions bouyon."),
 ("Quel remix de Smokiller a été repartagé par Coi Leray ?", "Son retournement bouyon de Nothing Into Something, publié le 20 septembre 2026, a atteint 854,7K vues TikTok et 29,9K mentions j’aime selon ses propres captures du 19 octobre 2026, et Coi Leray a repartagé le flip."),
 ("Où télécharger les remixes de Smokiller ?", "Sur smokiller.com, son hub de liens, en téléchargement gratuit : le remix de Nothing Into Something de Coi Leray en WAV, Vulnerability de Shenseea en WAV et Heaven Baby d’Ayra Starr en M4A, plus des instrumentaux et des vidéos de remixes."),
 ],
@@ -3518,7 +3518,7 @@ PAGES = [
    [
     "Le producteur des remixes: Smokiller",
     [
-     "<a href=\"/smokiller.html\">Smokiller</a> ferme ce roster avec un profil différent: né en Dominique et aujourd’hui américain, c’est le producteur derrière les remixes Bouyon Shattaz, ceux qui retournent des titres d’autres univers en bouyon. Sa place ici est logique: la diaspora fait partie de l’histoire de l’île source, et un producteur dominicain de naissance, actif depuis les États-Unis, prolonge le son de Roseau vers de nouveaux publics. C’est aussi la signature éditoriale de ce site, publié par Bouyon Shattaz.",
+     "<a href=\"/smokiller.html\">Smokiller</a> ferme ce roster avec un profil différent: né en Dominique, c’est le producteur derrière les remixes Bouyon Shattaz, ceux qui retournent des titres d’autres univers en bouyon. Sa place ici est logique: la diaspora fait partie de l’histoire de l’île source, et un producteur dominicain de naissance, actif depuis les États-Unis, prolonge le son de Roseau vers de nouveaux publics. C’est aussi la signature éditoriale de ce site, publié par Bouyon Shattaz.",
      "Le travail de Smokiller montre une autre façon de défendre l’origine: par la production. Un remix bouyon réussi impose la rythmique et l’énergie de la Dominique à des chansons que le monde connaît déjà, puis renvoie l’auditeur vers les artistes de cette page."
     ]
    ],
