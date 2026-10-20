@@ -607,6 +607,18 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://bouyonmusique.com/rnbouyon.html</loc>
+    <lastmod>2026-10-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bouyonmusique.com/new-bouyon.html</loc>
+    <lastmod>2026-10-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://bouyonmusique.com/plan-du-site.html</loc>
     <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -1203,6 +1215,18 @@
   <url>
     <loc>https://bouyonmusique.com/en/trilla-g.html</loc>
     <lastmod>2026-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bouyonmusique.com/en/rnbouyon.html</loc>
+    <lastmod>2026-10-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bouyonmusique.com/en/new-bouyon.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
