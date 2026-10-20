@@ -2955,53 +2955,85 @@ PAGES = [
   "h1": "Litleboy LSBeats767: the 767 on a French gold record",
   "intro": "Litleboy LSBeats767 is an artist and beatmaker credited on 'Pow Pow / Allo Doudou', alongside <a href=\"/en/niska.html\">Niska</a> and Miimii KDS. The track passed 15,000,000 equivalent streams in France and was certified Gold Single by SNEP in 2026, according to SNEP's own certification post. That, for now, is the central fact of his dossier, and it is a considerable one: a credit on a French gold record for a bouyon track. The 767 in his name is Dominica's telephone area code. This page presents what that credit proves, without inventing the biography our dossier does not contain.",
   "sections": [
-   [
+  (
+    "Who is Litleboy LSBeats767: one name, several credits",
+    [
+      "Litleboy LSBeats767 is presented on this site as an artist and beatmaker, and his credits show both trades: producer and composer for others, singer and lead artist on his own tracks. The published writing credits of his tracks, gathered for the profile of <a href=\"/en/quan.html\">Quan</a>, name Foster Marcel Xavier, or Foster Xavier depending on the listing. Two of his singles, \"Leaving\" and \"Fell For You\", came out under the label name Lsbeats767.",
+      "His name circulates under several spellings, and this profile gathers them without merging them at random: Lsbeatz litleboy in the 2016 composition credits, Litleboy or Litle Boy in DJ tracklists and awards lists, litleboy lsbeats767 in the title of a 2026 remix. No open source gives a town, a date of birth or a biography, and this page invents none."
+    ],
+  ),
+  (
     "A credit on 'Pow Pow / Allo Doudou'",
     [
-     "On 'Pow Pow / Allo Doudou', the name Litleboy LSBeats767 appears alongside two very different profiles: Niska, a major name in French language rap, and Miimii KDS, a Guadeloupean singer in the middle of a bouyon and shatta breakthrough. Being credited on such a track is not appearing in an anonymous credits list. It is taking part in a meeting between mainstream French rap and Antillean bouyon, a meeting that produced figures France's official music bodies had to record.",
-     "His role is presented in our dossier as artist and beatmaker. We do not detail a production split that the source does not detail. This site's rule is simple: a credit is quoted as published, with the names in an order that serves the reader, and no assumed functions added. For a beatmaker, that precision matters even more, because production work is the work the general public forgets fastest behind the voices.",
-     "That credit makes Litleboy LSBeats767 a key figure in the bouyon crossover story, even for listeners who do not yet know his other work. Our dossier lists no other tracks to attribute to him, and we will not fill his discography with approximate research. A page that starts with a verified gold record is better than a long, doubtful page. The rest of his catalogue will need documenting track by track, to the same standard."
-    ]
-   ],
-   [
+      "On 'Pow Pow / Allo Doudou', the name Litleboy LSBeats767 appears alongside two very different profiles: <a href=\"/en/niska.html\">Niska</a>, a major name in French language rap, and <a href=\"/en/miimii-kds.html\">Miimii KDS</a>, a Guadeloupean singer on the rise. Being credited on such a track means taking part in a meeting between mainstream French rap and Antillean bouyon. His role is quoted as published: we do not detail a production split that the source does not detail.",
+      "The site's recordings log completes that credit. \"Allo Doudou\" and \"Pow Pow\" also appear there as 2026 releases, and a version titled \"Allo Doudou (feat. litleboy lsbeats767) (Spain Remix)\", released in 2026 under Miimii KDS's name, credits him as a featured artist. The track kept living after its release, with his name in the credits."
+    ],
+  ),
+  (
     "15 million equivalent streams and the SNEP Gold Single",
     [
-     "The fact is established by the most direct source possible: the certification post from SNEP, the French body that certifies sales and streams. 'Pow Pow / Allo Doudou' passed 15,000,000 equivalent streams in France, the Gold Single threshold, and the certification was published in 2026. Equivalent streams are the official measure that converts listening into a sales equivalent for French certifications. That vocabulary matters, because it separates a figure verified by a certifying body from a platform counter quoted without context.",
-     "For bouyon, this certification is an event. The genre, born in Dominica and carried by the French Antilles, long circulated at parties, at carnival and on social networks without always entering France's official charts. A SNEP Gold Single for a bouyon track says the French public does not just watch this music pass by: it listens at scale, to the point of triggering the market's certification machinery. That is commercial proof, not just proof of atmosphere.",
-     "Bouyon Shattaz covered the certification in October 2026 with a gold scheme reel built specially around the event. The gold format was not free decoration: it used the visual language of certifications to say, in one image, that bouyon had just won a form of recognition in France that can be counted and archived. When a genre gains that kind of official trace, pages like this one serve to connect the certificate to the names that made it possible."
-    ]
-   ],
-   [
-    "The 767 in the name: a reference, not an invented biography",
+      "The fact is established by the most direct source possible: the certification post from SNEP, the French body that certifies sales and streams. 'Pow Pow / Allo Doudou' passed 15,000,000 equivalent streams in France, the Gold Single threshold, and the certification was published in 2026. Equivalent streams are the official measure that converts listening into a sales equivalent: a figure verified by a certifying body, not a platform counter quoted without context.",
+      "For bouyon, this certification is an event, and the <a href=\"/en/bouyon-goes-global.html\">bouyon goes global</a> page lists it among the proofs that the sound converts on the French market, beyond social platforms. Bouyon Shattaz covered it in October 2026 with a gold scheme reel, using the visual language of certifications to say, in one image, that the genre had just won a form of recognition in France that can be counted and archived."
+    ],
+  ),
+  (
+    "Before the gold: composer of 'Sa Ka Débodé' in 2016",
     [
-     "The name LSBeats767 contains the number 767. That is Dominica's telephone area code. In Caribbean music cultures, wearing your island's area code in your name is a common way to announce your camp, like a flag inside a handle. The wording here must stay exact: our dossier notes the 767 as the reference carried by his artist name, inside a bouyon track that broke through in France. We do not present that number, on its own, as a complete biographical proof.",
-     "That caution takes nothing from the symbol's strength. A track certified gold in France carries, in one of its credits, a name displaying the Dominican area code. For the story Bouyon Shattaz defends, that detail speaks: Dominica, the island that created bouyon, appears literally in the signature of a French success in the genre. The credit and the name together tell the music's road, from the islands toward the French market, without erasing the starting point.",
-     "Readers who want to place that road can read our <a href=\"/en/history.html\">history of bouyon</a> page and the list of <a href=\"/en/artists-dominica.html\">artists from Dominica</a>. Litleboy LSBeats767 appears there at the angle his dossier justifies: a credited bridge on the track that gave bouyon one of its clearest French commercial proofs, with Miimii KDS as the Guadeloupean voice and Niska as the French rap voice."
-    ]
-   ],
-   [
-    "Why this profile stays deliberately tight",
+      "The oldest documented credit goes back ten years before the gold record. According to Shazam, \"Sa Ka Débodé\", by <a href=\"/en/bilix.html\">Bilix</a> featuring Mr Boka, came out on January 12, 2016 on the Ôréveil label, at 160 BPM. The composition credits name two composers, Dj Weez and Lsbeatz litleboy, with Franck Offranc credited for the lyrics. The <a href=\"/en/dj-weez.html\">DJ Weez</a> profile identifies this Lsbeatz litleboy as the producer known on this site as Litleboy LSBeats767.",
+      "That credit changes the reading of his path. Before being a name in the credits of a track certified in France, Litleboy LSBeats767 was one of the two composers of a song Bilix still cites as the one that made him known, and that Viberate ranks among his most played tracks. The gold record's beatmaker has a decade of craft behind him."
+    ],
+  ),
+  (
+    "His tracks, from 'Yo baw gwopwel' to 'Fell For You'",
     [
-     "It would be easy to write a long false biography of Litleboy LSBeats767: a childhood, a town, beginnings, influences. Our dossier contains none of that, no verified handle to publish and no confirmed location. This page therefore chooses the form that respects the artist and the reader alike: a tight profile around the massive, verified fact, the Gold Single for 'Pow Pow / Allo Doudou', and what it means for bouyon.",
-     "That tightness is also practical. Professionals who discover this name through the certification know exactly what this page guarantees and what it does not. The credit is real, the certification is real, the source is SNEP. Going further, contacting the artist, verifying other tracks or proposing a collaboration, will require additional direct sources. Bouyon Shattaz will add them here when they exist, rather than pretending to have them already.",
-     "Until then, the listening speaks. Find 'Pow Pow / Allo Doudou' through the <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, read the <a href=\"/en/niska.html\">Niska</a> profile on the same track, and weigh what it means for a beatmaker with 767 in his name to see his credit attached to 15 million equivalent streams in France. Bouyon has many street successes. This one is also a certified success, and the names in its credits deserve to be written correctly, starting with his."
-    ]
-   ]
-  ],
+      "The site's recordings log, checked on Shazam, follows his releases as lead artist. In 2022, \"Yo baw gwopwel\" came out as a single, then \"Pa ka tan / Man allu looking for\", with Quan as featured artist and co-writer, on October 18, 2022 on 3238844 Records DK2, at 159 BPM according to Shazam; its video, published as Litleboy x Quan, Pa ka tan, Bouyon 2023, kept it alive for another season. In 2023 came two singles, \"SYA-SYB\" and \"You\".",
+      "\"Leaving\" came out on December 10, 2024 on Lsbeats767, written by Foster Xavier, Quan Denis and Tafari Maffei, the writer name of <a href=\"/en/dj-taffy.html\">DJ Taffy</a>; its video is published under the name Quan Dan x Litleboy x Taffy. In 2025 followed \"Let Me See\", with Freddy as featured artist, and \"Fell For You\", again with Quan, on vocals and writing. Seven singles in four years, four of them shared with Quan or Freddy: the catalogue of a producer who sings, and who builds with a stable circle."
+    ],
+  ),
+  (
+    "'Someone Else' and the duo with Quan",
+    [
+      "The track that took this circle to regional scale is \"Someone Else\". Released in 2024 on the Summer Of Carnivals compilation, on DSM Music and Monk Music according to the Qobuz credits, it brings together Litleboy as lead artist, with Quan and <a href=\"/en/trilla-g.html\">Trilla G</a> featured, and it is written by Foster Marcel Xavier, Gael Jno Baptiste and Quan Denis. At the 2025 Dominica Music Awards, presented on January 3, 2026, it won Collaboration of the Year, according to the winners list published by Soca News, and it also received Soca Collaboration of the Year at the 2025 Caribbean Music Awards.",
+      "Around that track, DJ tracklists show the duo at work: \"Kay Ka Fet\", credited depending on the list to Quan alone or to Litleboy and Quan; \"Your Friend\", credited to Quan and Litle Boy with <a href=\"/en/freddy.html\">Freddy</a> featured; and \"Nasty Freestyle Medley\", where Litleboy shares the rhythm with Gwada G, Trixx, Freddy and Niice. The Dreamer World session published on YouTube also presents \"Early Morning Freestyle\" by Quan Dan, with Litleboy and Mr Keyz."
+    ],
+  ),
+  (
+    "Awards, bills and the Dominica scene",
+    [
+      "The official lists of 2025 confirm his place. At the 2025 Caribbean Music Awards, litleboy was among the nine nominees for Bouyon Artist of the Year, with Asa Bantan, Kenny G, Mr. Ridge, Quan, Shelly Alfred, Trilla G, Triple K and Pudaz. At the 2025 Dominica Music Awards, Litle Boy was a finalist for Producer of the Year, alongside DJ Taffy and Tha Wizzard among others.",
+      "On stage, Litle Boy was on the bill of Bouyon Day, Bouyon in de Streets, on Hanover Street in Roseau on February 25, 2025, according to the Discover Dominica Authority release, then in May 2025 on the bill of the Strictly the Best Festival, Bouyon Edition, in Saint Martin. Those public traces place him in Dominica's bouyon scene, which gives the 767 in his name, the island's telephone area code, an anchoring those traces make consistent, without turning it into a biography."
+    ],
+  ),
+  (
+    "Why this profile matters, and where to listen",
+    [
+      "Litleboy LSBeats767 links two stories that are often told apart: the Dominican bouyon of tracklists, national awards and shared tracks, and the bouyon certified in France. The same name composed \"Sa Ka Débodé\" in 2016, led \"Someone Else\" in 2024 and sits in the credits of a Gold Single in 2026. The names in a credits list deserve to be written correctly, starting with his.",
+      "For listening, the Bouyon Shattaz <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix</a>, on Spotify and YouTube, gathers new releases from Dominica and the French Antilles. Read also the profile of Quan, his most regular partner, and the <a href=\"/en/history.html\">history of bouyon</a> for the full road, from Dominica to a gold record in France."
+    ],
+  )
+],
   "faq": [
-   [
+  (
     "Who is Litleboy LSBeats767?",
-    "He is an artist and beatmaker credited on 'Pow Pow / Allo Doudou' alongside Niska and Miimii KDS. Our dossier holds no verified handle or confirmed location to publish for him."
-   ],
-   [
-    "What certification did 'Pow Pow / Allo Doudou' receive?",
-    "The track passed 15,000,000 equivalent streams in France and was certified Gold Single by SNEP in 2026, according to SNEP's certification post."
-   ],
-   [
-    "What does the 767 in his name mean?",
-    "767 is Dominica's telephone area code. This page presents it as the reference carried by his artist name, inside a bouyon track certified gold in France."
-   ]
-  ],
+    "Litleboy LSBeats767 is a bouyon artist and beatmaker, credited on 'Pow Pow / Allo Doudou' with Niska and Miimii KDS. The writing credits of his tracks name Foster Marcel Xavier. The 767 in his name is Dominica's area code, and his documented awards and bills place him in Dominica's scene. No town or biography is published in our sources.",
+  ),
+  (
+    "What is Litleboy LSBeats767's role in bouyon?",
+    "He holds two roles. As a beatmaker and composer, he is credited as early as 2016 on Bilix's \"Sa Ka Débodé\", with Dj Weez, and he was a Producer of the Year finalist at the 2025 Dominica Music Awards. As a lead artist, he releases his own singles, two of them on his Lsbeats767 label. See the <a href=\"/en/dj-weez.html\">DJ Weez</a> profile.",
+  ),
+  (
+    "What are Litleboy LSBeats767's key songs?",
+    "'Pow Pow / Allo Doudou', certified Gold Single by SNEP in 2026 at 15,000,000 equivalent streams in France. \"Someone Else\" (2024), with Quan and Trilla G, Collaboration of the Year at the 2025 Dominica Music Awards. Then \"Pa ka tan / Man allu looking for\" (2022), \"Leaving\" (2024) and \"Fell For You\" (2025).",
+  ),
+  (
+    "Who has Litleboy LSBeats767 worked with?",
+    "His credits link him to Niska and Miimii KDS on 'Pow Pow / Allo Doudou', to <a href=\"/en/quan.html\">Quan</a>, his most regular partner, to Trilla G on \"Someone Else\", to DJ Taffy on \"Leaving\", to Freddy on \"Let Me See\" and \"Your Friend\", and to Dj Weez, Bilix and Mr Boka on \"Sa Ka Débodé\".",
+  ),
+  (
+    "Where can I hear Litleboy LSBeats767?",
+    "Start with the Bouyon Shattaz <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix</a>, on Spotify and YouTube, for the scene he belongs to. His tracks with Quan run through DJ mixes such as Bouyon Passport 2026, and he was on the bills of Bouyon Day 2025 in Roseau and the Strictly the Best Festival in Saint Martin.",
+  )
+],
   "date_published": "2026-09-30",
   "extra_graph": [
    {
@@ -3049,7 +3081,8 @@ PAGES = [
      ]
     }
    }
-  ]
+  ],
+"date_modified": "2026-10-20"
  },
  {
   "slug": "niska.html",
@@ -3490,54 +3523,81 @@ PAGES = [
   "title": "HYPNO, bouyon producer and the 160 BPM track MAUVAIS PLAN",
   "desc": "HYPNO, bouyon producer behind MAUVAIS PLAN, a track built at 160 BPM. Loop, fast tempo and social video format at the heart of the new producer scene.",
   "h1": "HYPNO and MAUVAIS PLAN, producer bouyon at 160 BPM",
-  "intro": "HYPNO, also written HYPNO!, is a bouyon producer followed by Bouyon Shattaz under his Instagram account @hypnoticbeatz. His reference track is called MAUVAIS PLAN, built at 160 BPM: a fast tempo worn openly, a loop that does not let go, and a format designed for social video as much as for dancing. His origin, his real name and the rest of his catalogue are not in our records, and this page does not invent them. It focuses on what is documented: the track, its tempo, its producer reel circulated in October 2026, and HYPNO’s place in the current wave of bouyon producers.",
+  "intro": "HYPNO, also written HYPNO!, is a bouyon producer followed by Bouyon Shattaz under his Instagram account @hypnoticbeatz. His reference track is called MAUVAIS PLAN, built at 160 BPM: a fast tempo worn openly, a loop that does not let go, and a format designed for social video as much as for dancing. Behind that track sits a catalogue of credits: under the spelling Hypnotic Beatz, his name appears on Qobuz listings from 2020 to 2025 and on Malcolm's \"MANIGANCES\" with Larose. His origin and his real name are not in our records, and this page does not invent them.",
   "sections": [
-   [
+  (
+    "Who is HYPNO: one producer, several spellings",
+    [
+      "HYPNO posts under the handle @hypnoticbeatz, and his producer name is written HYPNO or HYPNO!. In platform credits, the same signature appears in other forms: Hypnotic Beatz, HypnoticBeatz or Hypnotic Beats, depending on the release. This site's recordings log links those Qobuz credits to HYPNO! through one simple, checkable criterion, the identical handle @hypnoticbeatz, and this page flags each time the spelling under which a credit is published.",
+      "The rest of his identity stays outside the file: no origin, no real name, no biography. This profile is therefore organised around what is documented: a reference track, a tempo, a series of dated credits and HYPNO's place in the current wave of bouyon producers."
+    ],
+  ),
+  (
     "MAUVAIS PLAN: a title that states the method",
     [
-     "An all-caps title, a tempo shown from the producer reel onward, mauvais plan 160bpm: with HYPNO, the presentation is part of the work. The BPM is not a technical detail reserved for DJs, it is the main argument. At 160 BPM, bouyon pushes the body into a zone of joyful urgency, where the loop has to be solid enough to hold the speed without collapsing. A producer who chooses that tempo also chooses his audience: the short-video audience that must be hooked in two seconds, and the dancers who want a challenge.",
-     "MAUVAIS PLAN works as a reference of the modern producer scene Bouyon Shattaz tracks closely. No long speech is needed around it: the track circulates through its reel, people react to the tempo and the loop, and the producer’s name settles in. That is the dominant format of online bouyon in 2026, also described on our page about the <a href=\"/en/producers-and-passers.html\">producers and passers</a>, where beatmakers build their reputation excerpt by excerpt.",
-     "Sean finished his own design edition of the HYPNO reel, and Bouyon Shattaz published the post, later updating its caption under the platform’s search standard, with bouyon drum kit as its primary keyword. That keyword choice says something about the audience aimed at: producers and beatmakers looking for sounds, kits and tempo references read those captions as much as fans do."
-    ]
-   ],
-   [
+      "An all-caps title, a tempo shown from the producer reel onward, mauvais plan 160bpm: with HYPNO, the presentation is part of the work. The BPM is not a technical detail reserved for DJs, it is the main argument. At 160 BPM, bouyon pushes the body into a zone of joyful urgency, where the loop has to be solid enough to hold the speed without collapsing. A producer who chooses that tempo also chooses his audience: the short-video audience that must be hooked in two seconds, and the dancers who want a challenge.",
+      "MAUVAIS PLAN works as a reference of the modern producer scene Bouyon Shattaz tracks closely. The track circulates through its reel, circulated in October 2026, people react to the tempo and the loop, and the producer's name settles in. That is the dominant format of online bouyon in 2026, also described on our page about the <a href=\"/en/producers-and-passers.html\">producers and passers</a>, where beatmakers build their reputation excerpt by excerpt.",
+      "Sean \"Smokiller\" Francis finished his own design edition of the HYPNO reel, and Bouyon Shattaz published the post, later updating its caption under the platform's search standard, with bouyon drum kit as its primary keyword. That keyword choice says something about the audience aimed at: producers and beatmakers looking for sounds, kits and tempo references read those captions as much as fans do."
+    ],
+  ),
+  (
     "Tempo as signature: what 160 BPM changes",
     [
-     "In bouyon, tempo is a signature. The genre’s historic producers set speed zones that DJs recognise immediately, and each generation moves the cursor according to its uses. A track at 160 BPM sits at the high end of the felt spectrum: it needs a clear loop, readable percussion and breathing points in the right places for the dancing to follow. The producer’s work is to make that speed feel comfortable, almost obvious, when it actually demands very precise construction.",
-     "The loop that does not let go is the other signature of MAUVAIS PLAN. In short format, repetition is not a flaw, it is the engine: the ear must be able to enter the track at any second of the video and immediately understand where it is. HYPNO builds for that use, like many producers of his generation who think of their tracks for social video first, without giving up the dancefloor. To hear how those producer tracks meet the voices of the genre, the <a href=\"/en/playlist-bouyon.html\">ROAD MIX bouyon playlist</a> gathers the songs Bouyon Shattaz puts forward.",
-     "That aesthetic of the displayed tempo brings HYPNO close to producer cultures in dancehall and soca, where BPM is part of the title and the talk around it. It also makes DJs’ work easier, since they can sort, chain and test tracks faster. In an ecosystem where everything circulates as files and excerpts, that readability is a concrete advantage."
-    ]
-   ],
-   [
-    "A profile deliberately centred on sound",
+      "In bouyon, tempo is a signature. Our <a href=\"/en/bouyon-bpm.html\">bouyon BPM</a> page makes the point: there is no single number, but the examples documented on this site sit around 160 BPM, and MAUVAIS PLAN is the first one cited. At that speed, the track needs a clear loop, readable percussion and breathing points in the right places for the dancing to follow. The producer's work is to make that speed feel comfortable, almost obvious, when it actually demands very precise construction.",
+      "The loop that does not let go is the other signature of MAUVAIS PLAN. In short format, repetition is not a flaw, it is the engine: the ear must be able to enter the track at any second of the video and immediately understand where it is. HYPNO builds for that use, like many producers of his generation who think of their tracks for social video first, without giving up the dancefloor. A displayed tempo also makes DJs' work easier, since they can sort, chain and test tracks faster."
+    ],
+  ),
+  (
+    "The Hypnotic Beatz credits, from 2020 to 2025",
     [
-     "This site keeps a file on every artist it covers, and HYPNO’s file is thin on biography: no origin, no real name, no other verified track to date. Rather than filling those gaps with guesses, the page accepts that centre of gravity: sound first. In a way, that is also the producer’s own positioning, since he communicates through his title and his tempo more than through a personal story.",
-     "HYPNO is in the warm group of artists around the Bouyon Shattaz Rights Clinic audit proposal, the programme that wants to help bouyon artists and producers clarify their rights and credits. For a producer whose track circulates in excerpts and reuses, those questions are not theoretical: who is credited, who can reuse the loop, and under what conditions, decides the real value of the work.",
-     "What comes next in his file will depend on his next documented releases. If other verified tracks arrive, they will be added here with their references, as the site does for every artist, without rewriting the past. Until then, MAUVAIS PLAN remains the entry point, and 160 BPM the signature to remember."
-    ]
-   ],
-   [
-    "Hearing HYPNO in today’s bouyon landscape",
+      "The site's recordings log, checked on Qobuz, follows the name Hypnotic Beatz over six years. In 2020, it appears on \"But en or\", a track from the album \"Sélection naturelle\", and on \"Fer\". In 2023, two tracks from the album \"30º\" carry the credit: \"MOTOMAMI\" and \"ONE LOVE\". In 2024, the album \"SAHARA\" holds two more, \"Aaliyah\" and \"Baby Push\". In 2025, the credit sits on \"COLLIDE\", the title track of the album of the same name.",
+      "Those listings give a title, an album and a year. Our log does not specify the exact role each credit covers, nor the genre under which those albums are filed, so this page does not present them as bouyon tracks. What they do establish is enough to correct an impression: the producer behind the MAUVAIS PLAN reel is no newcomer, his name has run through published credits since 2020."
+    ],
+  ),
+  (
+    "'MANIGANCES' and the Guadeloupe bouyon circuit",
     [
-     "To place HYPNO, hear him next to the other producers of the current wave, the ones who publish as snippets, think in loops and display their tempos. That landscape is told across this site’s producer pages, and in the <a href=\"/en/history.html\">history of bouyon</a>, which recalls where this culture of riddim and speed comes from, from the founding years in Dominica to today’s social networks.",
-     "A reader discovering the genre through this page can continue simply: the MAUVAIS PLAN producer reel for the raw sound, the site playlist for tracks carried by voices, and the other producer profiles to compare tempos and loops. The bouyon of 2026 is a producers’ genre as much as a singers’ genre, and HYPNO is one of the names proving it, one track at a time."
-    ]
-   ]
-  ],
+      "The best documented credit on this site is found in the profile of <a href=\"/en/larose.html\">Larose</a>. On July 1, 2025, Malcolm brought her in on \"MANIGANCES\", released by Sony Music Entertainment France and Triple-Double Production, and composed by RayDaPrince and Hypnotic Beatz. HYPNO's name sits in the composition credit, under the spelling Hypnotic Beatz.",
+      "Larose's profile places that credit in a precise network. The platforms class her catalogue as rap, but her 2024 and 2025 collaborators are the artists, DJs and composers of Guadeloupe bouyon: Aknose, Kevni and his writing team, DJ Luchshiy, and Hypnotic Beatz. That is the circuit told on our <a href=\"/en/bouyon-guadeloupe.html\">bouyon in Guadeloupe</a> page, where Creole rap and bouyon share the same studios."
+    ],
+  ),
+  (
+    "A profile centred on sound and credits",
+    [
+      "This site keeps a file on every artist it covers, and HYPNO's file stays thin on biography. Rather than filling those gaps with guesses, the page accepts its centre of gravity: sound and credits. That is also the producer's own positioning, since he communicates through his title and his tempo more than through a personal story.",
+      "HYPNO is in the warm group of artists around the Bouyon Shattaz Rights Clinic audit proposal, the programme that wants to help bouyon artists and producers clarify their rights and credits. For a producer whose name is spelled three ways depending on the listing, and whose track circulates in excerpts, those questions are not theoretical: who is credited, under which name, and who can reuse the loop decides the real value of the work."
+    ],
+  ),
+  (
+    "Hearing HYPNO in today's bouyon landscape",
+    [
+      "To place HYPNO, hear him next to the other producers of the current wave, the ones who publish as snippets, think in loops and display their tempos. The <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> page even cites Mauvais Plan among the recent tracks to start with, alongside Asa Bantan's Life Nice, Reo's Joli BB with Maurane Voyer, G'z Up's FIX UP and Klass Money's Throw Dat (Bouyon 2026), and the Bouyon Shattaz Bouyon Road Mix carries the listening on Spotify and YouTube.",
+      "A reader discovering the genre through this page can continue simply: the MAUVAIS PLAN producer reel for the raw sound, the Road Mix for tracks carried by voices, and the <a href=\"/en/history.html\">history of bouyon</a> for the culture of riddim and speed, from the founding years in Dominica to today's social networks. If other verified credits arrive, they will be added here with their references, without rewriting the past."
+    ],
+  )
+],
   "faq": [
-   [
+  (
     "Who is HYPNO?",
-    "HYPNO, also written HYPNO!, is a bouyon producer on Instagram as @hypnoticbeatz. His origin and real name are not in our records. His documented track is MAUVAIS PLAN."
-   ],
-   [
-    "At what tempo is MAUVAIS PLAN built?",
-    "MAUVAIS PLAN is built at 160 BPM, a fast tempo worn openly and put forward from its producer reel circulated in October 2026, with a loop designed for social video and dancing."
-   ],
-   [
-    "How did Bouyon Shattaz cover HYPNO?",
-    "Sean finished his own design edition of the producer reel, Bouyon Shattaz published the post, and its caption was later updated under the platform’s search standard, with bouyon drum kit as the primary keyword."
-   ]
-  ],
+    "HYPNO, also written HYPNO!, is a bouyon producer on Instagram as @hypnoticbeatz. His platform credits appear under the spellings Hypnotic Beatz, HypnoticBeatz or Hypnotic Beats, linked to him through that same handle. His origin and real name are not in our records. His reference track is MAUVAIS PLAN.",
+  ),
+  (
+    "What is HYPNO's style in bouyon?",
+    "HYPNO works tempo as a signature. MAUVAIS PLAN is built at 160 BPM, with a loop designed for social video and dancing, and put forward from its producer reel circulated in October 2026. Our <a href=\"/en/bouyon-bpm.html\">bouyon BPM</a> page cites it as an example of the genre's documented speed.",
+  ),
+  (
+    "What are HYPNO's key tracks and credits?",
+    "MAUVAIS PLAN, his reference track. Under the name Hypnotic Beatz, the Qobuz listings logged by this site credit him on \"But en or\" and \"Fer\" (2020), \"MOTOMAMI\" and \"ONE LOVE\" (2023), \"Aaliyah\" and \"Baby Push\" (2024) and \"COLLIDE\" (2025), and he co-composed Malcolm's \"MANIGANCES\" with Larose, released on July 1, 2025.",
+  ),
+  (
+    "Who has HYPNO worked with?",
+    "The best documented credit is \"MANIGANCES\", a Malcolm track with <a href=\"/en/larose.html\">Larose</a>, released by Sony Music Entertainment France and Triple-Double Production, composed by RayDaPrince and Hypnotic Beatz. Larose's profile counts him among her Guadeloupe bouyon collaborators, with Aknose, Kevni and DJ Luchshiy.",
+  ),
+  (
+    "Where can I hear HYPNO?",
+    "Start with the MAUVAIS PLAN producer reel, published in October 2026 and shared by Bouyon Shattaz. The <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> page cites Mauvais Plan among the recent tracks for entering the genre, and the Bouyon Shattaz Bouyon Road Mix, on Spotify and YouTube, carries the listening on with today's scene.",
+  )
+],
   "date_published": "2026-10-12",
   "extra_graph": [
    {
@@ -3588,7 +3648,8 @@ PAGES = [
      ]
     }
    }
-  ]
+  ],
+"date_modified": "2026-10-20"
  },
  {
   "slug": "prod-bysavion.html",
@@ -3598,47 +3659,77 @@ PAGES = [
   "title": "Savion, bouyon producer of the snippet generation",
   "desc": "Savion, bouyon producer posting as @prod.bysavion. Snippets of unreleased tracks, audience reactions and Bouyon Shattaz coverage of the producer wave.",
   "h1": "Savion, bouyon in the age of the snippet",
-  "intro": "Savion is a bouyon producer who posts under the Instagram account @prod.bysavion. No biography facts are in our records, no origin, no path, no verified catalogue, and this page invents none of them. What is documented is still enough to tell a very current profile: in October 2026, Bouyon Shattaz built a clean 11.7-second cut from his unreleased snippet, a short TikTok-format clip trimmed to remove the platform end card, then published the post, whose caption was later updated under the platform’s search standard. Savion stands for the working method of the new generation: show an excerpt, read the reactions, then decide whether to release the track or not.",
+  "intro": "Savion is a bouyon producer who posts under the Instagram account @prod.bysavion. No biography facts are in our records, no origin and no path, and this page invents none of them. His credits, though, do exist: the site's recordings layer attaches to him the Dwivayèz Riddim, a 2020 EP featuring Trilla-G, Zwady & Fireman Lee and Starsha, then the single Bikelife Class with Young Dinero in 2025, and the Real Reel page credits him with production and piano on Tropikini, released on June 19, 2025. In October 2026, Bouyon Shattaz built a clean 11.7-second cut from his unreleased snippet, a short TikTok-format clip, then published the post. Savion stands for the working method of the new generation: show an excerpt, read the reactions, then decide whether to release the track or not.",
   "sections": [
-   [
+  (
     "The snippet as a working method",
     [
-     "The snippet, a short excerpt of a track that is not out yet, has become the central tool of bouyon producers. Savion works in that format: a few seconds of unreleased material, posted as a short video, and the audience answers in the comments. That answer is not a simple popularity gauge, it shapes the production itself. An excerpt that catches can become a full track, another can stay in the workshop, be reworked or be dropped. The producer no longer finishes his tracks alone in his studio, he finishes them in conversation with his audience.",
-     "That format has its own codes, which the Bouyon Shattaz coverage respects: a clean cut, without the automatic end card of the source platform, so the excerpt looks like a real publication and not a capture. The 11.7-second cut made for Savion’s post follows exactly that logic. Eleven seconds is short, but in the economy of social video it is the time needed to judge a loop, a tempo and an intention.",
-     "Our page about the <a href=\"/en/producers-and-passers.html\">producers and passers</a> puts this format in context: bouyon has always been a music tested in public, from sound systems to social networks. What changes is the speed and the trace: every reaction is written, counted and readable again, and the producer can use it to decide, to pitch his track to an artist or to negotiate a collaboration."
-    ]
-   ],
-   [
+      "The snippet, a short excerpt of a track that is not out yet, has become the central tool of bouyon producers. Savion works in that format: a few seconds of unreleased material, posted as a short video, and the audience answers in the comments. That answer is not a simple popularity gauge, it shapes the production itself. An excerpt that catches can become a full track, another can stay in the workshop, be reworked or be dropped. The producer no longer finishes his tracks alone in his studio, he finishes them in conversation with his audience.",
+      "That format has its own codes, which the Bouyon Shattaz coverage respects: a clean cut, without the automatic end card of the source platform, so the excerpt looks like a real publication and not a capture. The 11.7-second cut made for Savion’s post follows exactly that logic. Eleven seconds is short, but in the economy of social video it is the time needed to judge a loop, a tempo and an intention.",
+      "Our page about the <a href=\"/en/producers-and-passers.html\">producers and passers</a> puts this format in context: bouyon has always been a music tested in public, from sound systems to social networks. What changes is the speed and the trace: every reaction is written, counted and readable again."
+    ],
+  ),
+  (
+    "Dwivayèz Riddim: a riddim EP in 2020",
+    [
+      "The oldest recording attached to Savion is a riddim-format project: the Dwivayèz Riddim, logged as an EP with the year 2020. The listing counts four tracks: Déliway (feat. Trilla-G), Down Deh (feat. Zwady & Fireman Lee), System Failure (feat. Starsha) and Dwivayèz Riddim Soca 2021 (Instrumental). Three tracks sung by different guests, one of them a duo, plus the instrumental version: that is the form this site describes on its <a href=\"/en/bouyon-riddim.html\">bouyon riddim</a> page, a named rhythm on which several artists lay their voices.",
+      "The instrumental version is worth a pause. Releasing the bare riddim is, as the <a href=\"/en/bouyon-instrumental.html\">bouyon instrumental</a> page recalls, a producer signing his work: the loop, the bass and the percussion without the voice, the tool of DJs and dancers. Its title also carries two details, the word soca and the year 2021, while the EP is dated 2020 on the listing: this page reproduces both as printed, without choosing between them or drawing any conclusion about the project's genre.",
+      "Above all, Déliway links Savion to an important Dominican voice. <a href=\"/en/trilla-g.html\">Trilla-G</a>, real name Gael Jno Baptiste, is the Dominican singer this site presents between calypso and bouyon: Dominica Calypso Monarch in 2023, Someone Else honoured at the 2025 Caribbean Music Awards, then the album Take Me as I Am in October 2025. The 2020 Déliway comes three years before that crown."
+    ],
+  ),
+  (
+    "Tropikini for Real Reel: production and piano, June 2025",
+    [
+      "Savion's most detailed credit sits on another page of this site. Tropikini, the <a href=\"/en/real-reel.html\">Real Reel</a> single released on June 19, 2025 on No Turkey Music, is produced by Savion according to the official visualizer page on YouTube, and its Shazam listing credits him on piano among the performing artists. The other roles are just as clearly named: Corel Dominique as songwriter, DiYoute as engineer, Yw3 Studio on mixing and mastering. The same listing gives the track in English, with a displayed tempo of 130 BPM.",
+      "That credit counts twice. First, it shows Savion in a double role, producer and instrumentalist, which goes beyond the image of a loop maker. Second, it links him to an awarded artist: Real Reel won Rising and Emerging Artist or Band of the Year at the Dominica Music Awards 2025, ahead of Nice, Trixx, Faithii, the Riddim Knockers Band and Trixz Migos. Tropikini then turns up in Blaqrose Supreme's 2026 bouyon freestyle mix. The Real Reel profile itself makes the link to @prod.bysavion."
+    ],
+  ),
+  (
+    "Bikelife Class and the producer's timeline",
+    [
+      "The last track on file is Bikelife Class (feat. Young Dinero), released as a single in 2025, the same year as Tropikini. Young Dinero has no page on this site and the listing gives no other credit: this page sticks to the title, the guest and the year.",
+      "Put in order, those dates draw a readable path without a biography: a riddim EP in 2020, two releases in 2025, a production for an awarded artist and a single with a guest, then the unreleased snippet covered by Bouyon Shattaz in October 2026. Savion therefore does not arrive on social media without a past: the snippet extends a producer method that already ran through shared riddims and guest voices."
+    ],
+  ),
+  (
     "What the Bouyon Shattaz coverage says about his positioning",
     [
-     "Bouyon Shattaz follows producers as full artists, not as anonymous beat suppliers. The post built around Savion’s snippet, then the update of its caption under the platform’s search standard, are part of that work: making the makers of the sound findable, with their name, their account and their format, in the pages and posts that structure the memory of the genre. On a site like this one, his profile therefore sits next to the singers’ profiles, because audiences increasingly look for tracks by their producer’s name.",
-     "Savion is also in the warm group gathered around the Bouyon Shattaz Rights Clinic audit proposal. For a producer who posts unreleased work as excerpts, the rights question is immediate: a public snippet can be taken, reused or claimed, and being able to prove who made a loop becomes basic protection. The Rights Clinic programme wants to help artists and producers in the network set those bases straight, before releases, not after conflicts.",
-     "No track by Savion is named on this page, for a simple reason: his snippet’s title was tentative and is not verified. Naming an uncertain title would create a false discography, which would then be copied everywhere. The rule of this site is the opposite: wait for the release or the confirmation, then document it properly."
-    ]
-   ],
-   [
-    "The producer wave, context for a profile without biography",
+      "Bouyon Shattaz follows producers as full artists, not as anonymous beat suppliers. The post built around Savion’s snippet, then the update of its caption under the platform’s search standard, are part of that work: making the makers of the sound findable, with their name, their account and their format. On the <a href=\"/en/bouyon-producers.html\">Bouyon producers</a> page, Savion therefore stands alongside HYPNO, Denmath, MB On The Track and Smokiller, because audiences increasingly look for tracks by their producer’s name.",
+      "Savion is also in the warm group gathered around the Bouyon Shattaz Rights Clinic audit proposal. For a producer who posts unreleased work as excerpts, the rights question is immediate: a public snippet can be taken, reused or claimed, and being able to prove who made a loop becomes basic protection. The programme wants to set those bases straight before releases, not after conflicts.",
+      "His snippet's title, however, is not named on this page, for a simple reason: it was tentative and is not verified. Naming an uncertain title would create a false discography, which would then be copied everywhere: this site waits for the release or the confirmation, as with the tracks listed above."
+    ],
+  ),
+  (
+    "The producer wave, and how to hear Savion",
     [
-     "The absence of a public biography is itself information about the era. Many young bouyon producers exist first as an account, a sound and a run of excerpts, before they exist as a story, and their pages on a site like this one grow at the same pace as their documented releases. Their reputation is built on the regularity of the snippets, on a touch recognisable within seconds, and on the artists who end up recording on their loops. Savion belongs to that wave, alongside the other producers followed on this site, each with his own tempo and favourite format.",
-     "For the reader, the right way to approach this profile is therefore to listen before reading: the snippet covered by Bouyon Shattaz, then the tracks on the <a href=\"/en/playlist-bouyon.html\">ROAD MIX bouyon playlist</a> to place his world among the releases carried by voices. The <a href=\"/en/history.html\">history of bouyon</a> gives the background: a genre born in Dominica, built from the start by bands and rhythm makers, where the producer was never a secondary role.",
-     "If Savion releases a full documented track, this page will grow with it: verified title, credits, date and reactions. That is the method promise of bouyonmusique.com for every thin profile, say what is known, say what is not known, and update without inventing. Readers can follow that progress here, profile by profile, as the producer wave keeps publishing, reacting and deciding what deserves a full release."
-    ]
-   ]
-  ],
+      "The absence of a public biography is itself information about the era. Many young bouyon producers exist first as an account, a sound and a run of excerpts, before they exist as a story. Savion belongs to that wave, with one difference: dated credits going back to 2020.",
+      "For the reader, the right way into this profile is to listen before reading: Real Reel's Tropikini to hear his production and piano, Déliway and the other Dwivayèz Riddim tracks for his riddim work, then the snippet covered by Bouyon Shattaz. The <a href=\"/en/playlist-bouyon.html\">ROAD MIX bouyon playlist</a> then places his world among current releases, and the <a href=\"/en/history.html\">history of bouyon</a> gives the background: a genre born in Dominica, built from the start by bands and rhythm makers, where the producer was never a secondary role.",
+      "What the record does not know yet: his origin, his path, the detailed production credits of the Dwivayèz Riddim and Bikelife Class, and the final title of his snippet. This page will grow with each documented release, without inventing anything."
+    ],
+  )
+],
   "faq": [
-   [
+  (
     "Who is Savion?",
-    "Savion is a bouyon producer who posts on Instagram as @prod.bysavion. No biography facts are in our records, and this page names no track, since his snippet’s title was tentative and is not verified."
-   ],
-   [
-    "What did Bouyon Shattaz publish on Savion?",
-    "In October 2026, Bouyon Shattaz made a clean 11.7-second cut of his unreleased snippet, without the platform end card, and published the post. Its caption was later updated under the platform’s search standard."
-   ],
-   [
-    "Why work in snippets?",
-    "The snippet lets a producer test an unreleased track in public, read the reactions in the comments, then decide to release it, rework it or keep it in the workshop. It is the working method of the new generation of bouyon producers."
-   ]
-  ],
+    "Savion is a bouyon producer who posts on Instagram as @prod.bysavion. No biography facts, no origin and no path, are in our records. His credits, though, are logged: the Dwivayèz Riddim in 2020, production and piano on Real Reel's Tropikini in 2025, and the single Bikelife Class with Young Dinero the same year.",
+  ),
+  (
+    "What is Savion's working style?",
+    "Savion works in the snippet format: he posts short excerpts of unreleased tracks, reads the audience's reactions, then decides to release, rework or keep a track. His credits also show a riddim producer, with an EP gathering several voices and an instrumental version, and an instrumentalist, credited on piano on Tropikini. See <a href=\"/en/producers-and-passers.html\">Producers and passers</a>.",
+  ),
+  (
+    "What are Savion's tracks?",
+    "The Dwivayèz Riddim, a 2020 EP, holds Déliway (feat. Trilla-G), Down Deh (feat. Zwady & Fireman Lee), System Failure (feat. Starsha) and Dwivayèz Riddim Soca 2021 (Instrumental). In 2025 come the single Bikelife Class (feat. Young Dinero) and Real Reel's Tropikini, released on June 19 on No Turkey Music, which he produced. His 2026 snippet's title is not verified.",
+  ),
+  (
+    "Who has Savion worked with?",
+    "His credits link him to Dominican singer Trilla-G, 2023 Calypso Monarch, on Déliway, to Zwady & Fireman Lee and Starsha on the Dwivayèz Riddim, and to Young Dinero on Bikelife Class. On <a href=\"/en/real-reel.html\">Real Reel</a>'s Tropikini, he works with Corel Dominique as songwriter, DiYoute as engineer and Yw3 Studio on mixing and mastering.",
+  ),
+  (
+    "Where can I hear Savion?",
+    "Start with Real Reel's Tropikini, his best documented production, then the Dwivayèz Riddim tracks, and follow @prod.bysavion for his snippets, including the one Bouyon Shattaz covered in October 2026. To place his sound in today's bouyon, the Bouyon Shattaz <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix</a> gathers new releases, bouyon soca and carnival classics.",
+  )
+],
   "date_published": "2026-10-13",
   "extra_graph": [
    {
@@ -3678,7 +3769,8 @@ PAGES = [
      ]
     }
    }
-  ]
+  ],
+"date_modified": "2026-10-20"
  },
  {
   "slug": "gz-up.html",
@@ -3803,45 +3895,75 @@ PAGES = [
   "h1": "Dcamp & Lewismelo, the duo that dared to call its track BOUYON",
   "intro": "Dcamp & Lewismelo, Dylan and Lewis Campbell, are a French-Creole bouyon duo in which Lewis also produces their riddims. Their reference track carries the name of the genre itself: BOUYON, with an official video on YouTube. Calling your song BOUYON is a statement of intent: no detour, no translation, the Dominican sound claimed as the title. In October 2026, Bouyon Shattaz built a 55-second vertical edit of the official video, on the active section from 1:20 to 2:15, in its producer-reel style. Their precise island origins are not confirmed in our records: this page therefore speaks of their work from the French and Creole side of bouyon, without turning it into an invented biography.",
   "sections": [
-   [
+  (
     "A duo, two roles: the voices and the riddims",
     [
-     "The way Dcamp & Lewismelo works fits in one sentence: Dylan and Lewis Campbell sing as a duo, and Lewis also makes the riddims. That double role changes the nature of the project. When the producer is inside the duo, the beat is not bought outside and then endured by the voices, it is built with them, for their tones, their relays and their way of answering each other. The riddim becomes an internal conversation before it becomes a public track.",
-     "That duo-plus-in-house-production model brings the project close to the founding bands of bouyon, who made their sound themselves, and sets it apart from circuits where an artist records over an anonymous beat. It also joins the family of profiles followed on our page about the <a href=\"/en/producers-and-passers.html\">producers and passers</a>, except that here the passer and the singer are the same person. For the audience, the result is a more stable sound identity from track to track, because the producing hand does not change.",
-     "No verified official profile of the duo appears in our records, so this page gives no unconfirmed account link. The documented entry point remains the official BOUYON video on YouTube, and the coverage Bouyon Shattaz made of it."
-    ]
-   ],
-   [
+      "The way Dcamp & Lewismelo works fits in one sentence: Dylan and Lewis Campbell sing as a duo, and Lewis also makes the riddims. When the producer is inside the duo, the beat is not bought outside and then endured by the voices: it is built with them, for their tones and their way of answering each other.",
+      "The published credits confirm that split, and our <a href=\"/en/dcamp.html\">Dcamp</a> profile details them track by track. The two full names are Dylan Davis Campbell, Dcamp, and Lewis Wayne Campbell, Lewismelo. They co-sign the writing on almost every duo track, and the musical side goes to Lewis: credited producer on BAY LA BÈT and On My Way, sole credited composer in the official video descriptions of YOU AND ME and LUSHENANA.",
+      "That duo-plus-in-house-production model brings the project close to the founding bands of bouyon, who made their sound themselves, and sets it apart from circuits where an artist records over an anonymous beat. It also joins the family of profiles followed on our page about the <a href=\"/en/producers-and-passers.html\">producers and passers</a>, except that here the passer and the singer are the same person. No verified official profile of the duo appears in our records, so this page gives no account link."
+    ],
+  ),
+  (
     "BOUYON, the manifesto title",
     [
-     "It takes a certain confidence to title your song BOUYON. The title does not only describe the song’s genre, it claims a place inside it. For a French-Creole duo, it is also a way of speaking to the audience of the French Antilles and France in its own musical language: there, bouyon is not an exotic novelty, it is the sound of parties, of circulating excerpts and of playlists, and the duo presents itself there with no user manual needed.",
-     "The official video, published on YouTube, is the source for the Bouyon Shattaz coverage. The platform drew a 55-second vertical edit from it, centred on the active section of the track, from 1:20 to 2:15, in its producer-reel style: the song full frame, the title in a pill, and the Guadeloupe flag placed by the title, the local Gwada flag with green bands, a red middle band and a yellow star. That flag is Sean’s branding choice for the duo’s coverage, it signals the French and Antillean side of their work as this site presents it, without asserting an origin our records do not confirm.",
-     "That care with framing and signs matters in the bouyon of 2026: a vertical excerpt circulates faster than the full video, and it often decides whether the audience will go and hear the whole track. To continue, the <a href=\"/en/playlist-bouyon.html\">ROAD MIX bouyon playlist</a> gathers the tracks Bouyon Shattaz puts forward, from the Dominican side and the French side of the genre alike."
-    ]
-   ],
-   [
+      "It takes a certain confidence to title your song BOUYON. The title does not only describe the song’s genre, it claims a place inside it. For a French-Creole duo, it is also a way of speaking to the audience of the French Antilles and France, for whom bouyon is the sound of parties and playlists, with no user manual needed.",
+      "The official video, published on YouTube, is the source for the Bouyon Shattaz coverage: a 55-second vertical edit of the section from 1:20 to 2:15, the song full frame, the title in a pill, and the local Gwada flag, green bands, a red middle band and a yellow star, placed by the title. That flag is Sean’s branding choice to signal the French and Antillean side of their work, without asserting an origin our records do not confirm."
+    ],
+  ),
+  (
+    "The other tracks on file, one by one",
+    [
+      "Beyond BOUYON, our sources list seven recordings by the duo, verified on Shazam and YouTube.",
+      "On My Way, released in 2026, is the most recent. Its listing credits Dylan Campbell and Lewis Campbell on rap and writing, and Lewis Campbell on production. Its lyrics move from French to Creole to English inside the same hook: “Baby comen i lé, dis moi ce qui ne va pas, I am on my way”. Two voices, one in-house producer, three languages: the duo’s method in a single track.",
+      "BAY LA BÈT exists in two versions on the single of the same name, released in 2025: the standard version and an Extended version, released on January 24, 2025 through Lewismeloproduction, with Lewis Wayne Campbell on rap, production and writing shared with Dylan Davis Campbell. Its published tempo, 134 BPM, is more laid back than the 157 BPM of TOURNEVIS, the track Dcamp carries as lead artist: the tandem’s catalogue does not hold to a single speed.",
+      "YOU AND ME brings the duo together with Admiral T, on the ELITE BASE label. The official video description, directed by Merce De Bax Ville, credits Admiral T and Dcamp as authors and Lewis Campbell on composition, and the lyrics move between English, French and Guadeloupean Creole, around the hook “nou pépa zanmi”. Admiral T carries the civil name Christy Campbell in his credits, but no source consulted describes a family link with the two brothers, and this site asserts none.",
+      "LUSHENANA, with T-Stone, came out as a single in 2025 according to T-Stone’s artist page. Its official video, directed by Jima Kanor, credits T-Stone, Lewis Campbell and Dcamp as authors, and composition again goes to Lewis Campbell. Two tracks complete the list taken from the duo’s Shazam artist page: LA BOULANGERIE, and GOUTÉW, where Dcamp & Lewismelo are credited as featured artists. Our records give neither their date nor their credits."
+    ],
+  ),
+  (
+    "Premières Notes and the network of Guadeloupe sessions",
+    [
+      "The richest thread in the record runs through Lewismelo’s album, Premières Notes, released on November 1, 2024. Its track list, detailed on the profiles of its guests, opens with an INTRO credited to Lewis Wayne Campbell, then lines up one guest per track: 5 KILOS with Admiral T and Shanika, VIN TCHEK NOU with Le Bluff, Leyou and Tedla, POMPÉ with Dcamp and KEKS MAFIA, ALOUETTE with Lejuh, KEY with Virtuose and HULLABALOO with Jixels.",
+      "Each guest leads to a page on this site. <a href=\"/en/shanika.html\">Shanika</a> co-wrote 5 KILOS with Christy Campbell, and NRJ Antilles presented the track as a new hit signed Lewismelo, Admiral T and Shanika. <a href=\"/en/le-bluff.html\">Le Bluff</a> and <a href=\"/en/leyou.html\">Leyou</a> hold their place as guest voices on VIN TCHEK NOU. On POMPÉ, the published writers are Lewis Wayne Campbell, Dylan Davis Campbell and Kevin Lennard, the name the credits tie to the place of <a href=\"/en/keks-mafia.html\">Keks Mafia</a>, a rapper from Dominica.",
+      "Outside the album, Sòti Gwadloup, a 2024 single listed on Admiral T’s artist page, brings together Admiral T, Dcamp, <a href=\"/en/lejuh.html\">Lejuh</a> and Lewismelo, a meeting between generations according to our Lejuh profile. And the Viberate platform lists Dcamp and Lewismelo among the artists close to <a href=\"/en/nils.html\">Nils</a>, with Pinpin OSP and Aknose. That network is why our <a href=\"/en/artists-guadeloupe.html\">Guadeloupe artists</a> chapter counts their manifesto track among the four routes of bouyon gwada, next to Miimii KDS, TIITII NBA and Ricky Bishop."
+    ],
+  ),
+  (
     "The French and Creole side of a Dominican sound",
     [
-     "Bouyon was born in Dominica, and its story, told on our page about the <a href=\"/en/history.html\">history of bouyon</a>, is that of an island that invented a sound which became regional and then international. Dcamp & Lewismelo work that material from the other shore of its current history: the French Antilles and France, where Creole artists from several islands take up the Dominican riddim, sing it in Creole and French, and play it for a networked audience fed on excerpts and playlists.",
-     "That position makes the duo a good observatory of French-speaking bouyon. Neither a simple copy of the Dominican sound nor a product outside the genre, their work shows how a musical form travels when it is carried by artists who share Creole culture on both sides. The precise home islands of the two brothers are not confirmed in our records, so the page sticks to what is established: a French-Creole duo, an in-house producer, a manifesto title and an official video.",
-     "For a reader discovering the genre through this profile, the path is simple: the BOUYON video for the track in context, the Bouyon Shattaz edit for the vertical version made for social media, then the other artist profiles on this site to compare the Dominican, Guadeloupean, Martinican and French approaches to one same sound. Each comparison makes the duo’s own choices clearer: in-house riddims, a Creole duo format and a title that refuses any detour."
-    ]
-   ]
-  ],
+      "Bouyon was born in Dominica, and our page on the <a href=\"/en/history.html\">history of bouyon</a> tells how the sound became regional and then international. Dcamp & Lewismelo work it from the other shore of its current history: the French Antilles and France, where Creole artists sing it in Creole and French for an audience fed on excerpts and playlists. Our page <a href=\"/en/gwada-chapter-from-dominica.html\">the Guadeloupe chapter from Dominica</a> cites the duo precisely on the French-Creole side of the scene. The precise home islands of the two brothers are not confirmed in our records, so the page sticks to what is established: a duo, an in-house producer, a manifesto title, a credited catalogue and a published network."
+    ],
+  ),
+  (
+    "Why the duo matters now, and how to hear it",
+    [
+      "The duo matters first as a production model: two writers credited under their full names, an in-house composer, two release structures, Dcampproduction and Lewismeloproduction. It matters next as a crossroads: Lewismelo’s album serves as a common roof for a generation of Guadeloupe voices, and Admiral T and T-Stone connect the tandem to established artists. It matters finally in the DJ circuit: the published tracklist of Digga D’s Sewo Jam 2026 show lists “Dcamp Lewismelo - Coco” in fifth position.",
+      "For listening: BOUYON for the manifesto, On My Way for the method, YOU AND ME for the Admiral T step, Premières Notes for the network. The Bouyon Shattaz <a href=\"/en/playlist-bouyon.html\">ROAD MIX bouyon playlist</a>, on Spotify and YouTube, then places those tracks within the bouyon of Dominica, Guadeloupe and Martinique."
+    ],
+  )
+],
   "faq": [
-   [
-    "Who are Dcamp & Lewismelo?",
-    "Dcamp & Lewismelo are Dylan and Lewis Campbell, a French-Creole bouyon duo. Lewis also produces their riddims. Their precise island origins are not confirmed in our records."
-   ],
-   [
-    "What is their reference track?",
-    "Their documented track is titled BOUYON, with an official video on YouTube. Bouyon Shattaz built a 55-second vertical edit of it in October 2026, on the section from 1:20 to 2:15."
-   ],
-   [
-    "Why is there a Guadeloupe flag in their coverage?",
-    "The local Gwada flag, green bands, a red middle band and a yellow star, was placed by the title in the Bouyon Shattaz edit. It is Sean’s branding choice to signal the French and Antillean side of the duo’s work."
-   ]
-  ],
+  (
+    "Who are Dcamp & Lewismelo, and where are they from?",
+    "Dcamp & Lewismelo are two brothers, Dylan Davis Campbell and Lewis Wayne Campbell, who form a French-Creole bouyon duo. Their precise home islands are not confirmed in our records. Their work sits inside the published network of the Guadeloupe scene, alongside Admiral T, Shanika and Lejuh.",
+  ),
+  (
+    "What role does each member play in the duo?",
+    "Both brothers sing and write together: their full names return as writers on almost every track. Lewis produces and composes the riddims, credited on production for BAY LA BÈT and On My Way and on composition for YOU AND ME and LUSHENANA. Dcamp also carries one track as lead artist, detailed on our <a href=\"/en/dcamp.html\">Dcamp profile</a>.",
+  ),
+  (
+    "What are the key tracks by Dcamp & Lewismelo?",
+    "BOUYON, their manifesto track with an official YouTube video, opens the catalogue. Then come On My Way (2026), BAY LA BÈT and its Extended version (2025), YOU AND ME with Admiral T and LUSHENANA with T-Stone (2025). Add Premières Notes, Lewismelo’s album released on November 1, 2024, where Dcamp appears on POMPÉ.",
+  ),
+  (
+    "Who have Dcamp & Lewismelo worked with?",
+    "With Admiral T on YOU AND ME and Sòti Gwadloup, the latter with Lejuh, and with T-Stone on LUSHENANA. Lewismelo’s album Premières Notes adds Shanika, Le Bluff, Leyou, Tedla, KEKS MAFIA, Lejuh, Virtuose and Jixels, one guest per track. The credits are detailed on our <a href=\"/en/le-bluff.html\">Le Bluff</a> page.",
+  ),
+  (
+    "Where can I hear Dcamp & Lewismelo?",
+    "The documented entry point is the official BOUYON video on YouTube, with the 55-second vertical edit by Bouyon Shattaz. Their other tracks are on the streaming platforms, and Coco circulates in mixes such as Digga D’s Sewo Jam 2026. For context, the <a href=\"/en/playlist-bouyon.html\">ROAD MIX bouyon playlist</a> gathers the bouyon of Dominica and the French Antilles.",
+  )
+],
   "date_published": "2026-10-08",
   "extra_graph": [
    {
@@ -3889,7 +4011,8 @@ PAGES = [
      ]
     }
    }
-  ]
+  ],
+"date_modified": "2026-10-20"
  },
  {
   "slug": "ricky-bishop.html",
@@ -4062,46 +4185,75 @@ PAGES = [
   "h1": "David Campana: Montreal, St-Henri and a sound from elsewhere",
   "intro": "David Campana is a rapper, singer, songwriter and director from Montreal, Canada, from the St-Henri neighbourhood. Words and Music, the SOCAN magazine, describes him as a Quebecer of French Haitian origin, and his own bio flies the Canada and France flags. On Instagram, at the verified address @dav.campana, he had 16,213 followers at the October 17, 2026 check. His current project is called ST-HENRI Vol.I, a name that anchors his music directly in his neighbourhood. Why does a Montreal rapper appear on a site devoted to bouyon? Because his French-Caribbean profile, between Montreal, France and Haiti, sits inside the wider bouyon and shatta audience map this site documents: the same diasporas, the same languages and often the same parties. His track My Ex, whose reel was posted on October 16, 2026 and tagged Montreal, Quebec, is the entry point kept here, with its verified credits and the line from his own caption, with no added lyrics and no invented facts.",
   "sections": [
-   [
+  (
     "St-Henri as a starting point",
     [
-     "For David Campana, the neighbourhood is not a backdrop, it is a project title. ST-HENRI Vol.I carries the name of the Montreal neighbourhood he comes from, St-Henri, and that choice says the core of his approach: tell where you come from before saying where you want to go. His catalogue bio, used in festival listings, names his themes explicitly: perseverance, ambition, resilience. Three words that fit a project named after a working neighbourhood and claimed as an identity.",
-     "His identity is itself a crossing. A Quebecer of French Haitian origin according to SOCAN, he flies the Canada and France flags in his own bio. That combination, Montreal as a base, France and Haiti as origins, places him naturally in the field this site follows: French-language music fed by the Caribbean and played for audiences moving between the islands, France and Canada. Reading <a href=\"/en/gwada-chapter-from-dominica.html\">the Guadeloupe chapter from Dominica</a> gives a sense of those movements seen from the islands.",
-     "He also works as a director, alongside rapping, singing and songwriting. Our dossiers present him with those four roles, rapper, singer, songwriter and director, without detailing a clip catalogue: this page therefore keeps the verified profile, not a filmography we have not confirmed."
-    ]
-   ],
-   [
+      "For David Campana, the neighbourhood is not a backdrop, it is a project title. ST-HENRI Vol.I carries the name of the Montreal neighbourhood he comes from, St-Henri, and that choice says the core of his approach: tell where you come from before saying where you want to go. His catalogue bio, used in festival listings, names his themes explicitly: perseverance, ambition, resilience. Three words that fit a project named after a working neighbourhood and claimed as an identity.",
+      "His identity is itself a crossing. A Quebecer of French Haitian origin according to SOCAN, he flies the Canada and France flags in his own bio. That combination, Montreal as a base, France and Haiti as origins, places him naturally in the field this site follows: French-language music fed by the Caribbean and played for audiences moving between the islands, France and Canada. Reading <a href=\"/en/gwada-chapter-from-dominica.html\">the Guadeloupe chapter from Dominica</a> gives a sense of those movements seen from the islands.",
+      "He also works as a director, alongside rapping, singing and songwriting, but no clip catalogue is confirmed in our dossiers: this page keeps the verified profile, not an assumed filmography."
+    ],
+  ),
+  (
+    "Five recordings on file, from 2020 to 2025",
+    [
+      "My Ex is not David Campana's first track. This site's recordings layer, where a title only goes in once its listing has been opened and checked, attaches five other tracks to his profile, with their title, release and year as printed. Here they are in order, with what each listing establishes and what it leaves open.",
+      "Pa Que Baile, in 2020, is the oldest: it sits on an album titled Jelly Land, and the listing gives no production credits. Le Meilleur (feat. David Campana), in 2022, is a different kind of entry: his name appears as a guest, on the track of a lead artist our log does not record and this page does not guess.",
+      "Corazón Partío (Remix), in 2023, is logged as a single, the word Remix being part of its title. Trahison, in 2024, is logged with its year only, with no album attached. TIFFANY (feat. David Campana & Towo), in 2025, closes the series on another guest appearance: a single where he is credited as a featured artist alongside Towo, a name with no page on this site, and whose lead artist is not in our log.",
+      "Read as a whole, the list shows two things. First, regularity: a track on file almost every year from 2020 to 2025, then My Ex in 2026, with two guest appearances. Second, languages moving through the titles themselves, from Spanish (Pa Que Baile, Corazón Partío) to French (Le Meilleur, Trahison) and English (TIFFANY, My Ex). For an artist who presents himself between Montreal, France and Haiti, that back and forth fits his caption line about music from elsewhere."
+    ],
+  ),
+  (
     "My Ex, a track born here and from elsewhere",
     [
-     "The track kept for this page is My Ex. A reel posted on October 16, 2026, tagged Montreal, Quebec, presented it to the public. The credits linked to the reel name production and keys by @magistralbeats, @majosty_producer and @agoldencoast, with a location shoutout to @al.j.r. Those are the only credits our dossiers confirm for this track, and they are reproduced here as given, with no added names or extra roles.",
-     "The reel caption holds one short line that sums up the artist's whole project, and it is the only line from his writing this page reproduces: music that comes from elsewhere but was born here, just like My Ex, in his own caption wording. The rest of his lyrics are not quoted here, by house rule: no lyrics are printed without full verification at the source.",
-     "Bouyon Shattaz built a coverage edit from that reel, with one precise editing choice: the edit opens on the track's hook section, then loops back to the start. That choice shows how the track is presented to social audiences: the most recognizable moment first, then the song in its own order. Bookings for David Campana go through @connexionbooking, according to his bio."
-    ]
-   ],
-   [
+      "The most recent track on file, and the one this page puts forward, is My Ex. A reel posted on October 16, 2026, tagged Montreal, Quebec, presented it to the public. The credits linked to the reel name production and keys by @magistralbeats, @majosty_producer and @agoldencoast, with a location shoutout to @al.j.r. Those are the only confirmed credits for this track, reproduced here as given.",
+      "The reel caption holds one short line that sums up the artist's whole project, and it is the only line from his writing this page reproduces: music that comes from elsewhere but was born here, just like My Ex, in his own caption wording. The rest of his lyrics are not quoted, by house rule.",
+      "Bouyon Shattaz built a coverage edit from that reel, with one precise editing choice: the edit opens on the track's hook section, then loops back to the start. That choice shows how the track is presented to social audiences: the most recognizable moment first, then the song in its own order."
+    ],
+  ),
+  (
+    "Credits and network: the names around him",
+    [
+      "The collaborations this site can name all sit in printed credits: the three production and keys accounts on My Ex, Towo on TIFFANY, and @connexionbooking for his bookings. What is missing says something too. No credit on file links David Campana to a bouyon producer, singer or band documented on this site, and this page builds no bridge where there is none. The only point of contact with the bouyon network runs through his origins: Haitian heritage also appears with <a href=\"/en/denmath.html\">Denmath</a>, a producer from Saint Martin, of Haitian heritage and based between Nantes and Paris, whose riddims sit squarely inside the genre."
+    ],
+  ),
+  (
     "A place on the wider bouyon map",
     [
-     "David Campana is not presented here as a bouyon artist in the strict sense, and this page gives him no bouyon track and no collaboration that does not appear in our dossiers. His presence is justified differently: his French-Caribbean Montreal profile sits inside the wider bouyon and shatta audience map the site documents, the map of French-speaking Caribbean diasporas settled in the large cities of the North.",
-     "Montreal holds a particular place on that map: a French-speaking North American city with a strong Haitian and Caribbean presence, where island sounds circulate in the same networks as local rap. An artist claiming St-Henri, France and Haiti at once speaks directly to that audience. The <a href=\"/en/producers-and-passers.html\">Producers and passers</a> page describes those relays between scenes, and the <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> gives the reference soundtrack of that circulation.",
-     "For a reader arriving from bouyon, David Campana is therefore an edge-of-map name worth knowing: a Montreal rapper whose track My Ex, its verified credits and his caption line are enough to understand the positioning, with no need to add anything on top.",
-     "That restraint is deliberate. A profile built only on confirmed facts, his neighbourhood, his origins as SOCAN describes them, his project title, his listed themes and the credits printed with the My Ex reel, gives the reader a solid first picture and leaves clear room for future verified releases, dates and collaborations to be added as they are confirmed at the source, rather than filling the page with claims that would later need correcting."
-    ]
-   ]
-  ],
+      "David Campana is not presented here as a bouyon artist in the strict sense. His presence is justified differently: his French-Caribbean Montreal profile sits inside the wider bouyon and shatta audience map the site documents, the map of French-speaking Caribbean diasporas settled in the large cities of the North.",
+      "Montreal holds a particular place on that map: a French-speaking North American city with a strong Haitian and Caribbean presence, where island sounds circulate in the same networks as local rap. An artist claiming St-Henri, France and Haiti at once speaks directly to that audience. The <a href=\"/en/producers-and-passers.html\">Producers and passers</a> page describes those relays between scenes.",
+      "The <a href=\"/en/bouyon-diaspora.html\">Bouyon and the diaspora</a> page in fact names Montreal among the cities where bouyon travels with Dominicans and Antilleans, alongside New York and Brooklyn, London and Toronto. It describes Caribbean parties mixing bouyon, soca, dancehall and zouk: it is in that city landscape, not in the genre's catalogue, that David Campana meets this site's audience."
+    ],
+  ),
+  (
+    "How to hear him, and what the record does not know yet",
+    [
+      "The most direct entry point is still My Ex, presented by the October 16, 2026 reel on his verified Instagram account, @dav.campana. The five other tracks were checked on their Shazam listings and can be found by their exact titles: Pa Que Baile, Le Meilleur, Corazón Partío (Remix), Trahison and TIFFANY. To place that listening inside the Caribbean circulation this site describes, the Bouyon Shattaz <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix</a> gathers new bouyon releases, bouyon soca and carnival classics, on Spotify and YouTube.",
+      "The record also has gaps: the release date and tracklist of ST-HENRI Vol.I, the lead artists of Le Meilleur and TIFFANY, the production credits of the three other tracks, and any concert date. They will be added once a verified listing allows it."
+    ],
+  )
+],
   "faq": [
-   [
-    "Who is David Campana?",
-    "David Campana is a rapper, singer, songwriter and director from Montreal, from the St-Henri neighbourhood. SOCAN describes him as a Quebecer of French Haitian origin."
-   ],
-   [
-    "What is David Campana's project?",
-    "His project is called ST-HENRI Vol.I. His catalogue bio lists perseverance, ambition and resilience as his themes, and his bookings go through @connexionbooking."
-   ],
-   [
-    "Who produced My Ex by David Campana?",
-    "The track reel, posted on October 16, 2026, credits production and keys to @magistralbeats, @majosty_producer and @agoldencoast, with a location shoutout to @al.j.r."
-   ]
-  ],
+  (
+    "Who is David Campana and where is he from?",
+    "David Campana is a rapper, singer, songwriter and director from Montreal, Canada, from the St-Henri neighbourhood. Words and Music, the SOCAN magazine, describes him as a Quebecer of French Haitian origin, and his bio flies the Canada and France flags. His current project, ST-HENRI Vol.I, is named after his neighbourhood.",
+  ),
+  (
+    "What is David Campana's link to bouyon?",
+    "He is not a bouyon artist in the strict sense: no bouyon track or collaboration appears in his record. This site follows him because his French-Caribbean Montreal profile belongs to the wider bouyon and shatta audience map, the Caribbean diasporas settled in northern cities, Montreal among them. See <a href=\"/en/bouyon-diaspora.html\">Bouyon and the diaspora</a>.",
+  ),
+  (
+    "What are David Campana's main tracks?",
+    "His most recent track on file is My Ex, presented by an October 16, 2026 reel tagged Montreal. The site's recordings layer also attaches Pa Que Baile (album Jelly Land, 2020), Le Meilleur (feat. David Campana, 2022), Corazón Partío (Remix) (single, 2023), Trahison (2024) and TIFFANY (feat. David Campana & Towo, single, 2025) to his profile.",
+  ),
+  (
+    "Who has David Campana worked with?",
+    "The My Ex credits name @magistralbeats, @majosty_producer and @agoldencoast on production and keys, with a location shoutout to @al.j.r. On TIFFANY, in 2025, he is credited as a featured artist alongside Towo, and on Le Meilleur, in 2022, he also appears as a feature. His bookings go through @connexionbooking, according to his bio.",
+  ),
+  (
+    "Where can I hear David Campana?",
+    "Start with My Ex on his verified Instagram account, @dav.campana, then look up his five other tracks by their exact titles: they were checked on their Shazam listings. To place that listening in the Caribbean circulation this site follows, the Bouyon Shattaz <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix</a> brings together new bouyon, bouyon soca and carnival classics.",
+  )
+],
   "date_published": "2026-10-13",
   "extra_graph": [
    {
@@ -4148,7 +4300,8 @@ PAGES = [
      ]
     }
    }
-  ]
+  ],
+"date_modified": "2026-10-20"
  },
  {
   "slug": "dj-blax.html",
@@ -4160,46 +4313,76 @@ PAGES = [
   "h1": "DJ Blax: from Paris to international decks",
   "intro": "DJ Blax is an international DJ and producer based in Paris, France. On Instagram, at @djblax_kush, he had 5,735 followers at the October 17, 2026 check. His bio reads INTERNATIONAL DJ FROM PVRIS, with the A of Paris stylized, and lists his roles: producer and artistic director, with contact via @tchang_s. One clarification is needed right away, because it prevents a frequent mistake: the long row of flags in his bio is places played, not origin. This page therefore presents him for what our dossiers confirm: a DJ based in Paris and France, who plays internationally. His verified news is a single, Don't Care, with singer Tamillia, released on October 16, 2026 according to the distributor listing on YouTube. That track, its full credits and its clip shot in St Maarten are what earn him a place on a site devoted to bouyon and to the Caribbean sounds moving between Paris and the islands.",
   "sections": [
-   [
+  (
     "A Paris DJ, a bio with no ambiguity",
     [
-     "DJ Blax's base is Paris, and his bio says it in plain words: INTERNATIONAL DJ FROM PVRIS. The word international describes his DJ activity, not a vague origin: his row of flags lists places of travel and performance. Reading that bio correctly means presenting him as an artist based in Paris, France, who plays in many places, not as an artist from each of those countries.",
-     "Alongside the DJ role, the same bio claims two more functions: producer and artistic director. The professional contact listed goes through @tchang_s. Those three elements, a Paris base, a double production and artistic direction role, a named contact, are the verified facts of his public profile at October 17, 2026, and they are enough to place the figure: a nightlife and studio player positioned in Paris, at the meeting point of the scenes that keep the capital's Caribbean and Afro audiences dancing.",
-     "Paris is one of the obligatory crossing points for Caribbean sounds in Europe, and DJs there work as passers between the islands and the French public. The <a href=\"/en/producers-and-passers.html\">Producers and passers</a> page describes that function, and <a href=\"/en/gwada-chapter-from-dominica.html\">the Guadeloupe chapter from Dominica</a> recalls where the sounds those DJs program come from."
-    ]
-   ],
-   [
+      "DJ Blax's base is Paris, and his bio says it in plain words: INTERNATIONAL DJ FROM PVRIS. The word international describes his DJ activity, not a vague origin: his row of flags lists places of travel and performance. He should be read as an artist based in Paris who plays in many places, not as an artist from each of those countries.",
+      "Alongside the DJ role, the same bio claims two more functions: producer and artistic director. The professional contact listed goes through @tchang_s. Those three elements are the verified facts of his public profile at October 17, 2026, and they are enough to place the figure: a nightlife and studio player positioned in Paris, at the meeting point of the scenes that keep the capital's Caribbean and Afro audiences dancing.",
+      "Paris is one of the obligatory crossing points for Caribbean sounds in Europe, and DJs there work as passers between the islands and the French public. The <a href=\"/en/producers-and-passers.html\">Producers and passers</a> page describes that function, and <a href=\"/en/gwada-chapter-from-dominica.html\">the Guadeloupe chapter from Dominica</a> recalls where the sounds those DJs program come from."
+    ],
+  ),
+  (
     "Don't Care, with Tamillia, released October 16, 2026",
     [
-     "The single Don't Care was released on October 16, 2026, according to the distributor listing published on YouTube. The track brings together DJ Blax and singer Tamillia. The verified credits are as follows: produced by DJ Blax and John Scorp, at @john_scorp, lyrics by Tamillia, at @tamillia, and visuals by @celinemsili. This page reproduces those credits as the distributor publishes them, with no added role or extra name.",
-     "Tamillia, whose full name is Tamillia Chance, is a singer who grew up in Saint Martin in the island's French and Dutch cultures, and who was on The Voice Kids France at 14. That path explains the filming choice: the Don't Care clip was shot in St Maarten, the Dutch side of the same island of Saint Martin where the singer grew up. The single therefore connects Paris, where the DJ is based, to Saint Martin, the singer's island, in a single track.",
-     "Bouyon Shattaz built a statement-style coverage package in October 2026 from the release reel. As with the other releases documented on this site, the work is to connect the track to its credits, its clip location and its artists, so the public can follow the full chain rather than an anonymous clip."
-    ]
-   ],
-   [
+      "The single Don't Care was released on October 16, 2026, according to the distributor listing published on YouTube. The track brings together DJ Blax and singer Tamillia. The verified credits are as follows: produced by DJ Blax and John Scorp, at @john_scorp, lyrics by Tamillia, at @tamillia, and visuals by @celinemsili. This page reproduces them as published, with no added role or name.",
+      "Tamillia, whose full name is Tamillia Chance, is a singer who grew up in Saint Martin in the island's French and Dutch cultures, and who was on The Voice Kids France at 14. That path explains the filming choice: the Don't Care clip was shot in St Maarten, the Dutch side of the same island of Saint Martin where the singer grew up. The single therefore connects Paris, where the DJ is based, to Saint Martin, the singer's island, in a single track.",
+      "Bouyon Shattaz built a statement-style coverage package in October 2026 from the release reel. As with the other releases documented on this site, the work is to connect the track to its credits, its clip location and its artists, so the public can follow the full chain rather than an anonymous clip."
+    ],
+  ),
+  (
+    "Tamillia and Saint Martin: the single in the site's network",
+    [
+      "Don't Care does not live on this page alone. The <a href=\"/en/bouyon-saint-martin.html\">Bouyon in Saint Martin</a> page names Tamillia in answer to the question of which bouyon singer grew up on the island, and points to DJ Blax for the track. The same page introduces Saint Martin first through its producers, led by Denmath, from SXM and based between Nantes and Paris: an axis between the island and France that Don't Care travels in turn, this time with a voice.",
+      "The <a href=\"/en/women-of-bouyon.html\">Women of bouyon</a> chapter, for its part, counts Tamillia among the female voices that matter in 2026, alongside Maurane Voyer, Miimii KDS, Shelly and Ebony Empress, in a part titled Tamillia and Ebony Empress, voices of the riddims. It sums up her path as three worlds bouyon keeps crossing: the Dutch and French island of Saint Martin, French television and Caribbean riddims. Don't Care is the track through which the site ties her to the genre.",
+      "For DJ Blax, it is the best documented collaboration on his page: a singer and lyricist, a co-producer, John Scorp, and a visual signature, @celinemsili, all printed by the distributor."
+    ],
+  ),
+  (
+    "Five songwriting credits under the name Dj Blax, to be confirmed",
+    [
+      "Beyond Don't Care, this site's recordings layer attaches five French rap tracks to this profile, where the name Dj Blax, or DJ Blax, is printed in the songwriter or composer credits, as logged on Shazam, Deezer, YouTube and OTOTOY listings. This page presents them with the caveat they carry in our sources log: no artist page gathers this DJ Blax on the platforms, and the match between that credit and the Paris DJ is plausible, not proven by a single primary source.",
+      "The tracks are as follows. Comprends pas, released as a single in 2022. Acteur, Maudit and Violence urbaine, three tracks from the album SHOOTER CLAN, also dated 2022. Finally, Intro putréfaction, on a project titled Vie rapide, whose year is not recorded. The lead artists of those releases are not in our log, so this page does not name them.",
+      "Why attach them at all? Because those releases belong, according to our sources log, to the same label ecosystem as John Scorp, the verified co-producer of Don't Care. It is a clue, not a proof, and the page says so. If the match is confirmed, DJ Blax will appear as a composer active in French rap from 2022, four years before Don't Care; if it is ruled out, those five tracks will leave his page."
+    ],
+  ),
+  (
     "Why DJ Blax appears on a bouyon site",
     [
-     "DJ Blax is not presented here as a historic bouyon producer, and our dossiers give him no specific bouyon track beyond this coverage. His place comes from his function and his network: a Paris-based DJ producer and artistic director releasing a single with a Caribbean singer from Saint Martin belongs to the wider ecosystem in which bouyon circulates in France, between clubs, platforms and Antillean audiences.",
-     "For the public following bouyon from France, those passer profiles matter as much as track artists: they are the ones who program, produce and sign the artistic directions that carry a sound from an island to a capital. The site <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> gives the listening context of that circulation, and the <a href=\"/en/history.html\">History of bouyon</a> page recalls the Dominican starting point of the genre those passers relay.",
-     "DJ Blax's page will be updated with future verified releases. As our dossiers stand, the central fact stays simple and dated: Don't Care, with Tamillia, released on October 16, 2026, produced by DJ Blax and John Scorp, written by Tamillia, with a clip shot in St Maarten.",
-     "Keeping the record that clean matters for a DJ profile in particular, because DJ bios mix performance history, travel and self-description in a few lines. Separating what is confirmed, a Paris base, a producer and artistic director role, a named contact and one fully credited single, from what is not claimed here gives readers a reliable starting point and gives the artist a page that can grow release by release."
-    ]
-   ]
-  ],
+      "DJ Blax is not presented here as a historic bouyon producer, and our dossiers give him no specific bouyon track. His place comes from his function and his network: a Paris-based DJ producer and artistic director releasing a single with a Caribbean singer from Saint Martin belongs to the wider ecosystem in which bouyon circulates in France, between clubs, platforms and Antillean audiences.",
+      "The <a href=\"/en/bouyon-paris.html\">Bouyon in Paris</a> page describes the route of a 2026 bouyon track: born in Dominica or Gwada, tested by Paris DJs, pushed on social media, then certified on the French market. DJ Blax's trade sits at the Paris DJ stage of that route, which is why passer profiles like his matter as much as track artists for the public following bouyon from France.",
+      "The site <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> gives the listening context of that circulation, and the <a href=\"/en/history.html\">History of bouyon</a> page recalls the Dominican starting point of the genre those passers relay."
+    ],
+  ),
+  (
+    "Where to hear him, and what the record does not say yet",
+    [
+      "The entry point is Don't Care, published by his distributor on YouTube on October 16, 2026, with its clip shot in St Maarten. His verified Instagram address is @djblax_kush, and his professional contact goes through @tchang_s. The five songwriting credits listed above can be found by their exact titles, with the identity caveat already stated. For the bouyon context, the Bouyon Shattaz Bouyon Road Mix gathers new releases, bouyon soca and carnival classics on Spotify and YouTube.",
+      "What the record does not say yet: no set date, no specific club or festival, despite the flags in his bio; no origin beyond his Paris base; no bouyon track. The page will grow with future verified confirmations."
+    ],
+  )
+],
   "faq": [
-   [
-    "Who is DJ Blax?",
-    "DJ Blax is an international DJ and producer based in Paris, France, also an artistic director. His Instagram bio, @djblax_kush, reads INTERNATIONAL DJ FROM PVRIS, with contact via @tchang_s."
-   ],
-   [
-    "Who sings on Don't Care by DJ Blax?",
-    "The singer on the track is Tamillia, full name Tamillia Chance, who grew up in Saint Martin and was on The Voice Kids France at 14. She also wrote the track's lyrics."
-   ],
-   [
-    "When was Don't Care released and where was the clip shot?",
-    "Don't Care was released on October 16, 2026, according to the distributor listing on YouTube. The clip was shot in St Maarten, with visuals by @celinemsili."
-   ]
-  ],
+  (
+    "Who is DJ Blax and where is he from?",
+    "DJ Blax is an international DJ and producer based in Paris, France, also an artistic director. His Instagram bio, @djblax_kush, reads INTERNATIONAL DJ FROM PVRIS, with contact via @tchang_s. The row of flags in that bio is places played, not origin.",
+  ),
+  (
+    "What is DJ Blax's role in the bouyon ecosystem?",
+    "DJ Blax is a passer rather than a bouyon artist: no bouyon track is attributed to him. A DJ, producer and artistic director in Paris, he sits at the stage where, as this site describes it, island tracks are tested by Paris DJs before being pushed on social media. See <a href=\"/en/bouyon-paris.html\">Bouyon in Paris</a>.",
+  ),
+  (
+    "What are DJ Blax's tracks?",
+    "His verified track is Don't Care, with Tamillia, released on October 16, 2026 according to the distributor listing on YouTube, with a clip shot in St Maarten. The site also attaches to him, with an identity caveat, five French rap songwriting credits: Comprends pas (2022), Acteur, Maudit and Violence urbaine (album SHOOTER CLAN, 2022) and Intro putréfaction (Vie rapide).",
+  ),
+  (
+    "Who has DJ Blax worked with?",
+    "On Don't Care, he co-produced with John Scorp (@john_scorp), the lyrics are by singer Tamillia (@tamillia) and the visuals by @celinemsili. Tamillia, full name Tamillia Chance, grew up in Saint Martin and was on The Voice Kids France at 14. The <a href=\"/en/women-of-bouyon.html\">Women of bouyon</a> chapter counts her among the female voices of 2026.",
+  ),
+  (
+    "Where can I hear DJ Blax?",
+    "Start with Don't Care, published by his distributor on YouTube on October 16, 2026, then follow his verified Instagram account, @djblax_kush. For the bouyon context, the Bouyon Shattaz <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix</a> gathers new releases, bouyon soca and carnival classics, and arrives by DM when you comment ROAD MIX on @bouyonshattaz.",
+  )
+],
   "date_published": "2026-10-09",
   "extra_graph": [
    {
@@ -4245,7 +4428,8 @@ PAGES = [
      ]
     }
    }
-  ]
+  ],
+"date_modified": "2026-10-20"
  },
  {
   "slug": "tallyboy.html",
@@ -4257,45 +4441,72 @@ PAGES = [
   "h1": "Tallyboy: Saint Lucia on the sound map",
   "intro": "Tallyboy is a recording artist and songwriter from Saint Lucia, in the eastern Caribbean. The 758 in his Instagram handle, @tallyboypondmic_758, is Saint Lucia's area code, and for him it works as a signature: the island is inside the very name the public follows him under. At the October 17, 2026 check, he had 17,846 followers on Instagram. His bio points to a second account, @tallyboymkg_758, and to a YouTube channel, with MKG 4L in the bio. This page presents him with only the verified facts from our dossiers, and it says so clearly when information is missing: the title of the track in his October 2026 reel, its credits and the exact nature of the 50k milestone he celebrates are not verified in our records. Rather than inventing those elements, the page tells the moment as the artist himself presented it, and explains why Bouyon Shattaz follows him as one of the lead names on the Saint Lucia side of the sound, a direct neighbor of bouyon.",
   "sections": [
-   [
+  (
     "Saint Lucia, the 758 and MKG",
     [
-     "The first verified fact about Tallyboy is geographic, and it is written into his public identity: Saint Lucia, area code 758. Across the Caribbean, those area codes have become belonging codes that artists display like flags, and his points the public toward @tallyboymkg_758 and toward his YouTube channel. The line MKG 4L appears in his bio, reproduced here as written, without development our dossiers do not confirm.",
-     "Saint Lucia has its own segment sound, the Dennery segment scene, a fast local party sound that holds in the island a place comparable to bouyon among its neighbors. That scene stands right next to bouyon on the eastern Caribbean party music map: the same street and carnival uses, the same job of making people dance, with a claimed Saint Lucian identity. That is the landscape Tallyboy works in as an artist and songwriter, and that is why his name matters to a site documenting bouyon and its direct neighbors.",
-     "A World Creole Music Festival guide published by writeups24 also lists a Tally Boy, spelled in two words as printed in that guide, among Saint Lucia's DYP Band features for the festival. That mention is reported here with its original spelling and its precise attribution, because it connects the artist's name to Dominica's great Creole stage, where bouyon is at home."
-    ]
-   ],
-   [
+      "The first verified fact about Tallyboy is geographic, and it is written into his public identity: Saint Lucia, area code 758. Across the Caribbean, those area codes have become belonging codes that artists display like flags, and his points the public toward @tallyboymkg_758 and toward his YouTube channel. The line MKG 4L appears in his bio, reproduced here as written, without development our dossiers do not confirm.",
+      "Saint Lucia has its own scene, the Dennery Segment. Our <a href=\"/en/real-reel.html\">Real Reel</a> profile describes it as the Saint Lucia soca sound born in the town of Dennery, in the Mabouya Valley, built on rhythms drawn from Angolan kuduro, zouk and Lucian percussion, with lyrics in Creole. It is a Saint Lucian cousin of bouyon, not a branch of the Dominican genre. Our records classify none of Tallyboy's tracks in a specific genre, so the page places the artist in that island landscape without labelling his music."
+    ],
+  ),
+  (
+    "Five tracks on file, 2024 to 2025",
+    [
+      "Our sources log lists five recordings by Tallyboy, verified on their Shazam listings. Two are singles under his name: D Knock, released in 2024, and Blah Blah Blah, released in 2025. They are the two tracks where he is sole headliner, and the most direct ways into his voice.",
+      "The other three go through riddims. Our <a href=\"/en/bouyon-riddim.html\">bouyon riddim</a> page describes the riddim as the instrumental rhythm several artists lay their voices on, and those projects often carry a name. Hit & Run appears on Frass Man Riddim, a 2024 EP. Pop & Drop, where Tallyboy is credited as a featured artist with Dej, appears on Cout Tchui Riddim, in 2025. More Long, credited as featuring “Tallyboy (MKG)”, is on Caralax Riddim, a 2025 single.",
+      "That last credit matters: the MKG tag next to his name on a platform listing matches the MKG 4L in his bio and his second account, @tallyboymkg_758. It is a cross-check through the credits that ties that track to the same artist as the Instagram account. Our records, however, give neither the lead artist of More Long and Pop & Drop, nor the producers of those riddims, nor their genre, so the page does not attribute them."
+    ],
+  ),
+  (
     "The October 15, 2026 reel and the 50k milestone",
     [
-     "The moment behind this page is dated: a reel posted on October 15, 2026, which showed 3,591 likes and 77 comments at the check. Its caption was a few signs long: Feh ahh, followed by a Saint Lucia flag and the line 50k and counting, tagging @mikadoo972, 972 being Martinique's code. Those are all the public elements of that moment, and they are reproduced faithfully.",
-     "Three honesty notes are required, and this page states them openly. The title of the track carried by that reel is not verified in our dossiers. Its credits are not verified either. And what exactly the 50k celebrated in the caption counts is not verified either. This page therefore presents the reel and the milestone as the artist himself framed them, a public celebration moment in Saint Lucia colors with a nod toward Martinique, without turning a short caption into facts we do not have.",
-     "That type of moment still counts in the life of a scene: a Saint Lucia artist celebrating a step in public, while tagging a Martinican account, draws in one caption the real circulation of these musics between neighboring islands. Bouyon Shattaz follows Tallyboy as a lead name on the Saint Lucia side of the sound, and this page will be completed when the track title and credits are verified at the source."
-    ]
-   ],
-   [
-    "Between Dennery, bouyon and the Creole stage",
+      "The moment behind this page is dated: a reel posted on October 15, 2026, which showed 3,591 likes and 77 comments at the check. Its caption was a few signs long: Feh ahh, followed by a Saint Lucia flag and the line 50k and counting, tagging @mikadoo972, 972 being Martinique's code.",
+      "The title of the track carried by that reel is not verified in our dossiers, nor are its credits, nor what exactly the 50k counts. The page therefore presents that moment as the artist framed it: a public celebration in Saint Lucia colours, with a nod toward Martinique, which draws in one caption the real circulation of these musics between neighbouring islands."
+    ],
+  ),
+  (
+    "Tally Boy on the World Creole Music Festival 2026 bill",
     [
-     "For a reader arriving from bouyon, Tallyboy is an entry point to the Saint Lucia scene, an island neighboring Martinique and close to Dominica, where the Dennery segment plays the local party sound role. Understanding that proximity helps read the full map: each eastern Caribbean island developed its own fast, festive variant, and artists move between them, as shown by the Martinican tag in the October 2026 reel caption.",
-     "The writeups24 World Creole Music Festival guide mention, which lists a Tally Boy among the Saint Lucian DYP Band features, also places the name in the orbit of the Roseau festival, the meeting point where bouyon meets the other Creole musics. The <a href=\"/en/history.html\">History of bouyon</a> page traces the Dominican genre's path, and <a href=\"/en/gwada-chapter-from-dominica.html\">the Guadeloupe chapter from Dominica</a> shows how each island reads its neighbors.",
-     "Until the next verified facts arrive, titles, credits and dates confirmed at the source, the site <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> offers the listening context of this sound region, from Dominica to Saint Lucia. Tallyboy belongs there as a marker: the 758, Saint Lucia, and a public milestone celebrated in October 2026."
-    ]
-   ]
-  ],
+      "A World Creole Music Festival guide published by writeups24 lists a Tally Boy, spelled in two words as printed, among Saint Lucia's DYP Band features for the festival. According to the writeups24 and Sweet TNT guides cited on our <a href=\"/en/edday.html\">Edday</a> page, Night 2, on Saturday, October 24, 2026, at Windsor Park Sports Stadium in Roseau, brings together Ne-Yo, Alkaline, Asa Bantan, Reo, Trilla G, Edday, DYP and Tally Boy, among others.",
+      "Sweet TNT presents that Night 2 as the night with the broadest crossover of the festival, combining international R and B, dancehall, and Haitian, Grenadian, Trinidadian, Saint Lucian, Guadeloupean and Dominican sounds. The <a href=\"/en/wcmf-creole-festival.html\">World Creole Music Festival</a> is Dominica's great Creole stage, where bouyon is at home. The name and the island match Tallyboy, but the guides' spelling differs and no other source confirms the match, so the page reports the announced bill with its spelling, and does not describe a performance that has not yet taken place."
+    ],
+  ),
+  (
+    "Tallyboy, not to be confused with Tolly Boys",
+    [
+      "A neighbouring name circulates in bouyon and invites confusion. Our <a href=\"/en/bernard-gumbs-wizito.html\">Bernard Gumbs (Wizito)</a> profile documents YMW Tolly Boys, with an o, the label published on the Wizito records and the circle of Tolly Boy’s YMW, around Youry Fleming. Tallyboy, with an a, is another artist, from another island, with another catalogue. The five tracks above are those of Tallyboy from Saint Lucia, and no record from the Tolly Boys circle is attached to this page."
+    ],
+  ),
+  (
+    "Between Dennery, bouyon soca and the Creole stage",
+    [
+      "Saint Lucia is the Creole-speaking island closest to Dominica. Our <a href=\"/en/bouyon-saint-lucia.html\">bouyon in Saint Lucia</a> page recalls that bouyon soca was launched in Dominica by Dada in 2003, according to the first-hand account of Sean “Smokiller” Francis, and that Saint Lucia became one of the islands where the fusion grew the most. The audiences of Roseau and Castries share language and a taste for partying, and tracks travel from one carnival to the other.",
+      "DJs play those branches together: our <a href=\"/en/kenny-g-dominica.html\">Kenny G</a> profile cites DJ Sargent Unstoppable's Carnival 2025 mix ROAD MONSTER P.1, which lines up soca, Dennery Segment and bouyon. That circulation is why Tallyboy matters to a site devoted to bouyon: a Saint Lucia voice, tracks on named riddims, and an announced place on the Roseau stage.",
+      "For listening, start with D Knock and Blah Blah Blah for his voice as headliner, then Hit & Run, Pop & Drop and More Long for his riddim work. The Bouyon Shattaz <a href=\"/en/playlist-bouyon.html\">ROAD MIX bouyon playlist</a>, with its bouyon soca strand linking Roseau, Castries, Pointe-à-Pitre and Fort-de-France, then gives the context of this sound region."
+    ],
+  )
+],
   "faq": [
-   [
-    "Who is Tallyboy?",
-    "Tallyboy is a recording artist and songwriter from Saint Lucia. His Instagram handle, @tallyboypondmic_758, carries 758, Saint Lucia's area code, and his bio points to @tallyboymkg_758 and a YouTube channel."
-   ],
-   [
-    "What is the title of the track in Tallyboy's October 2026 reel?",
-    "The title of that track, its credits and the exact nature of the 50k milestone celebrated in the October 15, 2026 reel caption are not verified in our dossiers. This page therefore presents the moment as the artist published it, without inventing the missing elements."
-   ],
-   [
-    "What is the link between Tallyboy and bouyon?",
-    "Tallyboy comes from Saint Lucia, whose local party sound, the Dennery segment, stands right next to bouyon on the eastern Caribbean party music map. A writeups24 WCMF guide also lists a Tally Boy among Saint Lucia's DYP Band features."
-   ]
-  ],
+  (
+    "Who is Tallyboy, and where is he from?",
+    "Tallyboy is a recording artist and songwriter from Saint Lucia. His Instagram handle, @tallyboypondmic_758, carries 758, Saint Lucia's area code, and his bio points to a second account, @tallyboymkg_758, and a YouTube channel, with the line MKG 4L. He had 17,846 Instagram followers at the October 17, 2026 check.",
+  ),
+  (
+    "What is Tallyboy's style, and how does it relate to bouyon?",
+    "Our records classify none of his tracks in a specific genre. Tallyboy comes from Saint Lucia, whose Dennery Segment is a cousin of bouyon, and where the bouyon soca launched in Dominica grew strongly. Three of his five verified tracks go through named riddims, the format described on our <a href=\"/en/bouyon-riddim.html\">bouyon riddim</a> page.",
+  ),
+  (
+    "What are Tallyboy's key tracks?",
+    "Five tracks are verified: D Knock (single, 2024), Hit & Run on Frass Man Riddim (EP, 2024), Pop & Drop with Dej on Cout Tchui Riddim (2025), More Long on Caralax Riddim (2025), credited to Tallyboy (MKG), and Blah Blah Blah (single, 2025). The title of the track in his October 2026 reel is not verified.",
+  ),
+  (
+    "Who has Tallyboy worked with?",
+    "His verified credits place him alongside Dej on Pop & Drop, and on three riddim projects, Frass Man, Cout Tchui and Caralax. A writeups24 WCMF guide ties a Saint Lucian Tally Boy to the DYP Band, and his October 2026 reel tags @mikadoo972. The lead artists and producers of his featured tracks are not documented in our records.",
+  ),
+  (
+    "Where can I hear or see Tallyboy?",
+    "His tracks are on the streaming platforms, and his Instagram account is @tallyboypondmic_758. According to the writeups24 and Sweet TNT guides, a Tally Boy is on the bill of Night 2 of the World Creole Music Festival, on October 24, 2026 in Roseau. For context, the <a href=\"/en/playlist-bouyon.html\">ROAD MIX bouyon playlist</a> brings together bouyon and bouyon soca.",
+  )
+],
   "date_published": "2026-10-12",
   "extra_graph": [
    {
@@ -4338,7 +4549,8 @@ PAGES = [
      ]
     }
    }
-  ]
+  ],
+"date_modified": "2026-10-20"
  },
  {
   "slug": "kkrytical.html",
@@ -4350,46 +4562,72 @@ PAGES = [
   "h1": "Kkrytical: from Portmore to New York, dancehall as heritage",
   "intro": "Kkrytical, born Ronald Longmore, is a Jamaican dancehall artist from Waterford, Portmore, Jamaica, raised between Portmore and Clarendon. He competed in Magnum King and Queen and migrated to the United States at 21, and he is now based in New York, United States. On Instagram, at @kkryticalofficial, he had 34,310 followers at the October 17, 2026 check, the widest audience of the five artists in this series of pages. His bio presents him as an international recording artist, songwriter and composer, with bookings via @showtime_services. Why does a Jamaican dancehall artist appear on a site devoted to bouyon? Because dancehall is one of bouyon's parent influences: the vocal delivery inherited from ragga lives inside bouyon and bouyon-muffin. The New York Caribbean circuit Kkrytical works is also the same diaspora map Bouyon Shattaz documents page after page. This page gathers his verified facts, drawn notably from his official EPK of July 2024, and clearly flags what is not verified.",
   "sections": [
-   [
+  (
     "Waterford, Portmore and Clarendon",
     [
-     "Kkrytical was born Ronald Longmore in Waterford, a district of Portmore, Jamaica, and he grew up between Portmore and Clarendon. That double Jamaican geography is the base of his path: Portmore, the large city on Kingston's edge, is a known dancehall breeding ground, and Clarendon is one of the parishes feeding the island's sound system culture. Our dossiers keep those places as his press pack presents them, without adding unconfirmed biographical details.",
-     "His training path includes a typical dancehall step: competing in Magnum King and Queen, the Jamaican contest for emerging dancehall artists. That participation appears in his official pack as a career fact, before the move. At 21, he migrated to the United States, a shift many Caribbean artists share, moving his base to New York without cutting the link with Jamaica.",
-     "That journey, from Portmore to New York, is exactly the type of circulation this site follows for bouyon: artists trained in the islands, a career built in the diaspora, and an audience living on both sides. Reading <a href=\"/en/gwada-chapter-from-dominica.html\">the Guadeloupe chapter from Dominica</a> shows the same logic at the scale of the French Antilles."
-    ]
-   ],
-   [
+      "Kkrytical was born Ronald Longmore in Waterford, a district of Portmore, Jamaica, and he grew up between Portmore and Clarendon. That double Jamaican geography is the base of his path: Portmore, the large city on Kingston's edge, is a known dancehall breeding ground, and Clarendon is one of the parishes feeding the island's sound system culture. Our dossiers keep those places as his press pack presents them, without adding unconfirmed biographical details.",
+      "His training path includes a typical dancehall step: competing in Magnum King and Queen, the Jamaican contest for emerging dancehall artists. That participation appears in his official pack as a career fact, before the move. At 21, he migrated to the United States, a shift many Caribbean artists share, moving his base to New York without cutting the link with Jamaica."
+    ],
+  ),
+  (
     "Two charting albums and the Neva Cap single",
     [
-     "His official press pack, the EPK dated July 2024, lists two albums with their iTunes chart positions: Hustle, Sex, and Betrayal, which charted at number 7, and Underrated, at number 14. Those figures are reported here with their source, the artist's official pack, and this page adds no release date or sales figure the pack does not give in the elements available to us.",
-     "The same pack highlights his breakout single, Neva Cap, described with a Carib Star Radio quote as a New York dancehall anthem. That phrase says the core of his positioning: a Jamaican artist whose reference track is praised as an anthem of the New York dancehall scene. A second track, Loyalty, appears in the track list kept for this page. Neva Cap and Loyalty are therefore the two listening markers attached to his name here, within the limits of the verified facts.",
-     "A reel posted on October 16, 2026, showing 3,792 likes and 216 comments, announced new music. Two honesty notes apply: the new track's title is not verified in our dossiers, and no bouyon connection is established for that release. This page invents neither, and it will present the new music when its elements are confirmed at the source."
-    ]
-   ],
-   [
+      "His official press pack, the EPK dated July 2024, lists two albums with their iTunes chart positions: Hustle, Sex, and Betrayal, which charted at number 7, and Underrated, at number 14. Those figures are reported here with their source, the artist's official pack, and this page adds no sales figure the pack does not give.",
+      "The same pack highlights his breakout single, Neva Cap, described with a Carib Star Radio quote as a New York dancehall anthem. That phrase says the core of his positioning: a Jamaican artist whose reference track is praised as an anthem of the New York dancehall scene. A second track, Loyalty, also appears in the track list kept for this page, with no date or credits in our records."
+    ],
+  ),
+  (
+    "Timeline and recordings, 2022 to 2026",
+    [
+      "The platform listings verified in our sources log make it possible to date the catalogue. Hustle, Sex, and Betrayal, printed Hustle Sex and Betrayal on its listing, is a 2022 album; Underrated is a 2024 album, the same year as the EPK that cites both chart positions. The path therefore reads in order: Portmore and Clarendon, Magnum King and Queen, the move at 21, New York, then two albums two years apart and a run of singles.",
+      "Two tracks from those albums appear in our sources log. Friends Turn Enemies comes from the 2022 album, and its name echoes the last word of the album title, betrayal. Luv Eh Gad comes from Underrated, in 2024. For both, our records give no producer and no songwriting credits, and this page attributes none.",
+      "Three singles follow: Survivor in 2025, then Hustla and Asphalt in 2026. That pace, one single in 2025 and then two in 2026, shows an artist who keeps releasing after his two charting albums. On October 16, 2026, a reel showing 3,792 likes and 216 comments announced new music. The title of that release is not verified in our records, nothing says whether it is Hustla, Asphalt or another track, and no bouyon connection is established for it."
+    ],
+  ),
+  (
     "Dancehall, one of the roots of bouyon",
     [
-     "Kkrytical's place on this site is explained by the history of bouyon itself. Jamaican dancehall is one of the influences that fed the Dominican genre, especially in vocal delivery: the ragga delivery, fast and rhythmic, is found inside bouyon and in its variant called bouyon-muffin. Documenting bouyon without naming that lineage would leave a hole in the story, and pages like this one fill that hole.",
-     "New York is the other reason. The New York Caribbean circuit, its radios, parties and mixed Jamaican, Dominican, Trinidadian and Antillean audiences, forms the same diaspora map Bouyon Shattaz follows for bouyon artists based in or passing through the United States. A dancehall artist based in New York, whose reference single is described as a dancehall anthem of that city, belongs to that documented landscape.",
-     "To go further, the <a href=\"/en/history.html\">History of bouyon</a> page traces the genre's birth in Dominica and its influences, the <a href=\"/en/producers-and-passers.html\">Producers and passers</a> page describes the relays between scenes, and the <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> lets you hear the result of those crossings. Kkrytical appears there as a dancehall marker: Portmore as origin, New York as base, Neva Cap as signature track.",
-     "That framing also keeps the page honest about scale. Kkrytical is documented here as a dancehall artist in his own right, with his own albums, chart positions as reported in his official pack, contest history and migration story, not as a guest inside someone else's genre story. The bouyon link explains why a bouyon audience should know his name, while the Jamaican and New York facts explain who he is before that link is made, and future updates will follow the same order: verified releases and credits first, interpretation second, with each new fact tied to a named source the reader can check, and with unverified titles or connections left out until that check is done."
-    ]
-   ]
-  ],
+      "Kkrytical's place on this site is explained by the history of bouyon itself. According to our <a href=\"/en/bouyon-muffin.html\">bouyon-muffin</a> page, from the 1990s Dominican singers lay voices inspired by Jamaican dancehall and raggamuffin over the fast rhythms of bouyon, between singing, shouting and toasting. The 1990s generation listens to Kingston dancehall, and that way of singing, fast delivery, chanted refrains, Creole and English mixed together, still marks the current scene.",
+      "The second Jamaican inheritance is the riddim. Our <a href=\"/en/bouyon-riddim.html\">bouyon riddim</a> page describes the riddim as the instrumental rhythm several artists lay their voices on, a creative system that came from Jamaica and that Dominica made its own. A dancehall artist trained in Portmore comes from the culture that invented that way of producing, and it is that link of method, not a collaboration, that this page documents."
+    ],
+  ),
+  (
+    "New York, the diaspora map",
+    [
+      "New York is the other reason he appears here. Our <a href=\"/en/bouyon-diaspora.html\">bouyon and diaspora</a> page places New York and Brooklyn among the cities where bouyon travels with Dominicans and Antilleans, in Caribbean parties that mix bouyon, soca, dancehall and zouk. A dancehall artist based in New York, whose reference single is described as a dancehall anthem of that city, belongs to that landscape.",
+      "That journey, from Portmore to New York, is exactly the type of circulation this site follows for bouyon: artists trained in the islands, a career built in the diaspora, and an audience living on both sides. On Instagram, at @kkryticalofficial, he had 34,310 followers at the October 17, 2026 check, and his bio presents him as an international recording artist, songwriter and composer, with bookings via @showtime_services."
+    ],
+  ),
+  (
+    "What this profile knows, and how to hear him",
+    [
+      "Kkrytical is documented here as a dancehall artist in his own right: his albums, their chart positions as his official pack reports them, his contest, his migration and his singles. No collaboration with a bouyon artist appears in our records, and this page invents none. Still to verify: the release dates of Neva Cap and Loyalty, the producers and writers of his tracks, and the title of the new music announced in October 2026. Future additions will follow a simple rule: verified titles and credits first, interpretation second.",
+      "For listening, Neva Cap remains the way in, then Friends Turn Enemies and Luv Eh Gad for the two albums, and Survivor, Hustla and Asphalt for the recent period. To hear next what dancehall left inside bouyon, the <a href=\"/en/history.html\">History of bouyon</a> page traces the genre's birth in Dominica, and the Bouyon Shattaz <a href=\"/en/playlist-bouyon.html\">ROAD MIX bouyon playlist</a> plays the bouyon of today."
+    ],
+  )
+],
   "faq": [
-   [
-    "Who is Kkrytical?",
-    "Kkrytical, born Ronald Longmore, is a Jamaican dancehall artist from Waterford, Portmore, raised between Portmore and Clarendon. He competed in Magnum King and Queen, migrated to the United States at 21 and is based in New York."
-   ],
-   [
-    "What are Kkrytical's albums?",
-    "His official press pack of July 2024 lists Hustle, Sex, and Betrayal, charted at number 7 on iTunes, and Underrated, at number 14. His breakout single is Neva Cap, described in that pack, with a Carib Star Radio quote, as a New York dancehall anthem."
-   ],
-   [
-    "What is the link between Kkrytical and bouyon?",
-    "Kkrytical is a dancehall artist, and dancehall is one of bouyon's parent influences, notably the ragga vocal delivery found in bouyon and bouyon-muffin. His New York Caribbean circuit also belongs to the diaspora map this site documents."
-   ]
-  ],
+  (
+    "Who is Kkrytical, and where is he from?",
+    "Kkrytical, born Ronald Longmore, is a Jamaican dancehall artist from Waterford, Portmore, raised between Portmore and Clarendon. He competed in Magnum King and Queen, migrated to the United States at 21 and is based in New York, where his bio presents him as an international recording artist, songwriter and composer.",
+  ),
+  (
+    "What is Kkrytical's style, and how does it relate to bouyon?",
+    "Kkrytical makes dancehall, not bouyon. The link is historical: Jamaican dancehall is one of bouyon's influences, through the ragga vocal delivery of <a href=\"/en/bouyon-muffin.html\">bouyon-muffin</a> and through the riddim system. His New York Caribbean circuit also belongs to the diaspora map this site documents.",
+  ),
+  (
+    "What are Kkrytical's key tracks and albums?",
+    "His July 2024 EPK cites Hustle, Sex, and Betrayal, a 2022 album that charted at number 7 on iTunes, and Underrated, a 2024 album at number 14, plus the single Neva Cap, described as a New York dancehall anthem. Our records also hold Friends Turn Enemies, Luv Eh Gad, Loyalty, Survivor (2025), Hustla and Asphalt (2026).",
+  ),
+  (
+    "Who has Kkrytical worked with?",
+    "Our records document no verified collaboration by Kkrytical, neither with a bouyon artist nor with any other artist, and this page asserts none. The only third parties named are Carib Star Radio, quoted in his press pack about Neva Cap, and @showtime_services, listed in his bio for bookings.",
+  ),
+  (
+    "Where can I hear Kkrytical?",
+    "His tracks are on the streaming platforms, where our sources verified Friends Turn Enemies, Luv Eh Gad, Survivor, Hustla and Asphalt. His official Instagram account is @kkryticalofficial. To hear what dancehall left inside bouyon, the Bouyon Shattaz <a href=\"/en/playlist-bouyon.html\">ROAD MIX bouyon playlist</a> gathers today's bouyon on Spotify and YouTube.",
+  )
+],
   "date_published": "2026-10-07",
   "extra_graph": [
    {
@@ -4444,7 +4682,8 @@ PAGES = [
      ]
     }
    }
-  ]
+  ],
+"date_modified": "2026-10-20"
  },
  {
   "slug": "origins-of-bouyon.html",
