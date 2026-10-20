@@ -25,14 +25,182 @@ SITE_ENTITIES = [
 ]
 
 CAT_FAQ = {
-    "Bouyon styles": [("What is bouyon music?", "Bouyon is a genre born in Dominica in the late 1980s. Its name comes from the Kweyol word for soup: it blends jing ping, cadence-lypso, calypso and electronic production, pioneered by the band WCK."), ("Where can I hear the bouyon styles?", "The playlist page collects the Bouyon Road Mix by Bouyon Shattaz on Spotify and YouTube, with new bouyon and carnival classics.")],
-    "Bouyon guides": [("Where do I start with bouyon?", "Start with the history of the genre, then the Bouyon Road Mix playlist by Bouyon Shattaz, which mixes Dominica carnival classics with new bouyon."), ("Which country created bouyon?", "Dominica, in the late 1980s, with WCK as the pioneering band.")],
-    "Bouyon by country": [("Where is bouyon popular?", "Born in Dominica, bouyon is now central in Guadeloupe and Martinique and present in France, Saint Lucia, Saint Martin and the Caribbean diaspora."), ("Which country created bouyon?", "Dominica. The genre was born there in the late 1980s and remains the sound of Roseau carnival.")],
-    "Bouyon events": [("What is the big bouyon festival?", "The World Creole Music Festival is held every year in Roseau, Dominica. The 2026 edition runs October 23 to 25 at Windsor Park."), ("When is Dominica carnival?", "Dominica carnival, Mas Domnik, takes place before Lent, with J'ouvert as a peak moment for bouyon and soca.")],
-    "Bouyon artists": [("Who are the key bouyon artists?", "WCK created the genre, Asa Bantan is widely called the King of Bouyon, and the new generation includes Reo, Ridge, Signal Band and Shelly, while producers like Smokiller export the sound."), ("Who publishes these artist pages?", "BouyonMusique.com is published by Bouyon Shattaz, the platform of Dominican-born producer Smokiller, with facts verified artist by artist.")],
-    "Bouyon production": [("Who produces bouyon today?", "Producers like Smokiller (Bouyon Shattaz), Denmath, HYPNO! and Savion work the bouyon sound across riddims, remixes and original productions."), ("What is a bouyon riddim?", "A riddim is the instrumental several artists record over. Riddims sit at the heart of bouyon and dancehall production.")],
-    "Listen to bouyon": [("Where can I listen to bouyon online?", "On the Bouyon Road Mix by Bouyon Shattaz, on Spotify and YouTube via this site's playlist page."), ("How do I get the bouyon playlist?", "Follow @bouyonshattaz on Instagram and comment ROAD MIX on a post: the playlist is sent to your DMs.")],
-    "Bouyon culture": [("Why is it called bouyon?", "Bouyon means soup in Kweyol: the genre stirs Dominica's traditional musics together with electronic production."), ("Is bouyon part of Creole culture?", "Yes. Bouyon was born in Dominica's villages and carnival and soundtracks Creole celebrations across the French Caribbean.")],
+ "Bouyon styles": [
+  [
+   "What is bouyon music?",
+   "Bouyon is a genre born in Dominica in the late 1980s. Its name comes from the Kweyol word for soup: it blends jing ping, cadence-lypso, calypso and electronic production, pioneered by the band WCK."
+  ],
+  [
+   "What are the ingredients of bouyon?",
+   "Bouyon stirs jing ping, cadence-lypso, calypso and chante mas together with keyboards and electronic production. That mix, born in Dominica, gives it its carnival energy."
+  ],
+  [
+   "What is the difference between bouyon and bouyon soca?",
+   "Bouyon soca fuses Dominican bouyon with the festive codes of soca. According to the first-hand testimony of Sean “Smokiller” Francis, who was in the rooms at the time, bouyon soca was started in Dominica by Dada in 2003, before Triple Kay and other bands popularized it."
+  ],
+  [
+   "What is Wrecketeng?",
+   "Wrecketeng is the Dominican practice of rebuilding existing recordings over bouyon instrumentals, in the lineage of bouyon-muffin. Its official spelling comes from DJ Cut, the pioneer of the style; the “reketeng” form spread across the internet is a misspelling."
+  ],
+  [
+   "Where can I hear the bouyon styles?",
+   "The playlist page collects the Bouyon Road Mix by Bouyon Shattaz on Spotify and YouTube, with new bouyon and carnival classics."
+  ]
+ ],
+ "Bouyon guides": [
+  [
+   "Where do I start with bouyon?",
+   "Start with the history of the genre, then the Bouyon Road Mix playlist by Bouyon Shattaz, which mixes Dominica carnival classics with new bouyon."
+  ],
+  [
+   "Which country created bouyon?",
+   "Dominica, in the late 1980s, with WCK as the pioneering band."
+  ],
+  [
+   "How do you dance to bouyon?",
+   "Bouyon is danced at fetes and carnival, on fast rhythms built for the road and the bands. This site has a page on bouyon dance and its basic reference points."
+  ],
+  [
+   "Which bouyon playlist should I hear in 2026?",
+   "The Bouyon Road Mix by Bouyon Shattaz, on Spotify and YouTube, collects new bouyon releases and Dominica carnival classics."
+  ],
+  [
+   "Are bouyon and shatta the same thing?",
+   "No. Shatta is a slower dancehall subgenre born in Martinique, while bouyon was born in Dominica with fast carnival rhythms. The two scenes meet often, and recent productions fuse them."
+  ]
+ ],
+ "Bouyon by country": [
+  [
+   "Where is bouyon popular?",
+   "Born in Dominica, bouyon is now central in Guadeloupe and Martinique and present in France, Saint Lucia, Saint Martin and the Caribbean diaspora."
+  ],
+  [
+   "Which country created bouyon?",
+   "Dominica. The genre was born there in the late 1980s and remains the sound of Roseau carnival."
+  ],
+  [
+   "Why is bouyon so strong in Guadeloupe?",
+   "Bouyon gwada developed in Guadeloupe through tours by Dominican bands like WCK and Triple Kay: Creole lyrics and electronic beats, with a harder branch, bouyon hardcore."
+  ],
+  [
+   "What role does Martinique play in bouyon?",
+   "Martinique is the home of shatta and a bouyon stronghold in the French Antilles: its artists and producers circulate both sounds between Fort-de-France, Guadeloupe and Dominica."
+  ],
+  [
+   "Where is bouyon played in France?",
+   "In France, bouyon lives in the Antillean diaspora, especially Paris, and on the stages and platforms that book artists from Guadeloupe, Martinique and Dominica."
+  ]
+ ],
+ "Bouyon events": [
+  [
+   "What is the big bouyon festival?",
+   "The World Creole Music Festival is held every year in Roseau, Dominica. The 2026 edition runs October 23 to 25 at Windsor Park."
+  ],
+  [
+   "When is Dominica carnival?",
+   "Dominica carnival, Mas Domnik, takes place before Lent, with J'ouvert as a peak moment for bouyon and soca."
+  ],
+  [
+   "What is J'ouvert?",
+   "J'ouvert opens Dominica carnival in the early morning hours: bands, paint and bouyon and soca music in the streets of Roseau, before the main parades."
+  ],
+  [
+   "Where is the World Creole Music Festival held?",
+   "The World Creole Music Festival is held at Windsor Park in Roseau, the capital of Dominica. The 2026 edition runs October 23 to 25."
+  ],
+  [
+   "Which bouyon artists play WCMF 2026?",
+   "Published festival guides list Asa Bantan, Reo, Trilla-G, Signal Band and TK International among the bouyon names of the 2026 edition, across three nights."
+  ]
+ ],
+ "Bouyon artists": [
+  [
+   "Who are the key bouyon artists?",
+   "WCK created the genre, Asa Bantan is widely called the King of Bouyon, and the new generation includes Reo, Ridge, Signal Band and Shelly, while producers like Smokiller export the sound."
+  ],
+  [
+   "Who publishes these artist pages?",
+   "BouyonMusique.com is published by Bouyon Shattaz, the platform of Dominican-born producer Smokiller, with facts verified artist by artist."
+  ],
+  [
+   "Which band created bouyon?",
+   "WCK, from Dominica, launched bouyon in the late 1980s by fusing cadence-lypso with the island's traditional musics."
+  ],
+  [
+   "Who are the producers behind today's bouyon?",
+   "Producers like Smokiller, Denmath and HYPNO! work the current sound, while the genre's memory runs through sampling pioneers like DJ Cut and the Roseau crews."
+  ],
+  [
+   "How are the profiles on this site written?",
+   "Each profile is written from verified research, artist by artist, with sourced titles and credits. Nicknames like King of Bouyon are always attributed, never presented as facts."
+  ]
+ ],
+ "Bouyon production": [
+  [
+   "Who produces bouyon today?",
+   "Producers like Smokiller (Bouyon Shattaz), Denmath, HYPNO! and Savion work the bouyon sound across riddims, remixes and original productions."
+  ],
+  [
+   "What is a bouyon riddim?",
+   "A riddim is the instrumental several artists record over. Riddims sit at the heart of bouyon and dancehall production."
+  ],
+  [
+   "Which instruments make the bouyon sound?",
+   "Looping keyboards, programmed percussion and electronic bass carry modern bouyon, on a foundation inherited from jing ping and lapo kabwit, Dominica's traditional percussion."
+  ],
+  [
+   "How does a riddim become a track?",
+   "The producer builds the instrumental, then one or more artists record their voices over it. One riddim can carry several tracks, as in the dancehall culture bouyon is close to."
+  ],
+  [
+   "Where can I find recent bouyon productions?",
+   "This site's production pages and the Bouyon Road Mix playlist follow recent releases, from the island producers' riddims to Smokiller's bouyon remixes."
+  ]
+ ],
+ "Listen to bouyon": [
+  [
+   "Where can I listen to bouyon online?",
+   "On the Bouyon Road Mix by Bouyon Shattaz, on Spotify and YouTube via this site's playlist page."
+  ],
+  [
+   "How do I get the bouyon playlist?",
+   "Follow @bouyonshattaz on Instagram and comment ROAD MIX on a post: the playlist is sent to your DMs."
+  ],
+  [
+   "Which bouyon songs should I hear first?",
+   "WCK classics, Triple Kay tracks and current hits by Asa Bantan or Reo form the base of a first listen, completed by the Bouyon Road Mix."
+  ],
+  [
+   "Is bouyon a year-round music?",
+   "Yes. Born for carnival, bouyon lives all year in Dominica's fetes, at the World Creole Music Festival in October and in playlists across the French Antilles and the diaspora."
+  ],
+  [
+   "Where can I watch bouyon on video?",
+   "Artists' clips are linked from their profiles on this site, and Smokiller's YouTube channel publishes bouyon mixes and remixes."
+  ]
+ ],
+ "Bouyon culture": [
+  [
+   "Why is it called bouyon?",
+   "Bouyon means soup in Kweyol: the genre stirs Dominica's traditional musics together with electronic production."
+  ],
+  [
+   "Is bouyon part of Creole culture?",
+   "Yes. Bouyon was born in Dominica's villages and carnival and soundtracks Creole celebrations across the French Caribbean."
+  ],
+  [
+   "What is chante mas?",
+   "Chante mas is the traditional singing of Dominica carnival, carried by masquerade groups. Bouyon keeps its call-and-response energy in its fete vocals."
+  ],
+  [
+   "What is Mas Domnik?",
+   "Mas Domnik is the name of Dominica carnival, known for its traditional costumes, its chante mas and, since the late 1980s, bouyon as its soundtrack."
+  ],
+  [
+   "Which languages does bouyon sing in?",
+   "Bouyon is sung in English, in Kweyol, the Dominican Creole, and in French depending on the artist, from Roseau to Pointe-a-Pitre."
+  ]
+ ]
 }
 
 
@@ -179,7 +347,7 @@ EXTRA_TERMS_EN = {
 
 def render(page):
     same_cat = [p for p in PAGES if p["cat"] == page["cat"] and p["slug"] != page["slug"]]
-    rel = spread_pick(same_cat, page["slug"], 6)
+    rel = spread_pick(same_cat, page["slug"], 9)
     url = f'https://bouyonmusique.com/en/{page["slug"]}'
     fr_url = f'https://bouyonmusique.com/{page["fr_slug"]}'
     sections = ""
@@ -226,6 +394,21 @@ def render(page):
         for p in rel:
             rel_html += f'  <div class="card"><h3>{esc(p["nav"])}</h3><p>{esc(p["desc"][:150])}...</p><p><a href="/en/{p["slug"]}">Read the page</a></p></div>\n'
         rel_html += "</div>\n"
+    strip_html = ""
+    _is_hub = page["slug"].startswith("artistes-")
+    _n = 60 if _is_hub else 24
+    _pool = [p for p in same_cat if p not in rel]
+    if len(_pool) < _n:
+        _have = {p["slug"] for p in _pool} | {p["slug"] for p in rel} | {page["slug"]}
+        _pool += [p for p in PAGES if p["slug"] not in _have]
+    _strip = spread_pick(_pool, page["slug"] + "|strip", _n)
+    if _is_hub and _strip:
+        graph.append({"@type": "ItemList", "name": page["nav"], "itemListElement": [
+            {"@type": "ListItem", "position": i + 1, "name": p["nav"], "url": "https://bouyonmusique.com/en/" + p["slug"]} for i, p in enumerate(_strip)]})
+    if _strip:
+        _t = "More bouyon artists" if page["cat"] == "Bouyon artists" else "Explore this section"
+        _links = " \u00b7 ".join(f'<a href="/en/{p["slug"]}">{esc(p["nav"])}</a>' for p in _strip)
+        strip_html = f'\n<h2>{_t}</h2>\n<p class="strip">{_links}</p>\n'
     cta = """
 <div class="facts">
 <h3 style="margin-top:0">Listen to bouyon now</h3>
@@ -273,6 +456,7 @@ def render(page):
 {cta}
 {faq_html}
 {rel_html}
+{strip_html}
 </div>
 </main>
 {footer(page, same_cat)}
@@ -319,6 +503,9 @@ def main():
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="/style.css">
+<script type="application/ld+json">
+{{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://bouyonmusique.com/en/"}}, {{"@type": "ListItem", "position": 2, "name": "Site map", "item": "https://bouyonmusique.com/en/site-map.html"}}]}}
+</script>
 </head>
 <body>
 {HEADER}
