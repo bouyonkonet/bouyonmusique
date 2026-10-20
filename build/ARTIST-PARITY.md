@@ -1,6 +1,6 @@
 # ARTIST PARITY vs tiitii-nba.com (measured 2026-10-20)
-His artist profile pages: 157 (FR, mirrored EN). Ours: 77.
-Gap: 96 of his artists have no profile on bouyonmusique.com yet.
+His artist profile pages: 157 (FR, mirrored EN). Ours: 85.
+Gap: 88 of his artists have no profile on bouyonmusique.com yet.
 
 ## His artists we are missing (build in this order of priority: Dominica first, then WCMF 2026 bill, then the rest)
 - ~~1t1~~ BUILT 2026-10-20 (parity wave 2)
@@ -39,16 +39,16 @@ Gap: 96 of his artists have no profile on bouyonmusique.com yet.
 - ~~dj-cut~~ BUILT 2026-10-20 (parity wave 1)
 - ~~dj-dirtee~~ BUILT 2026-10-20 (parity wave 6)
 - ~~dj-joe~~ BUILT 2026-10-20 (parity wave 6)
-- dj-leguste
-- dj-luchshiy
+- ~~dj-leguste~~ BUILT 2026-10-20 (parity wave 7)
+- ~~dj-luchshiy~~ BUILT 2026-10-20 (parity wave 7)
 - ~~dj-mj~~ BUILT 2026-10-20 (parity wave 2)
-- dj-skaytah
-- dj-skycee
-- dj-skylone
-- dj-softee
+- ~~dj-skaytah~~ BUILT 2026-10-20 (parity wave 7)
+- ~~dj-skycee~~ BUILT 2026-10-20 (parity wave 7)
+- ~~dj-skylone~~ BUILT 2026-10-20 (parity wave 7)
+- ~~dj-softee~~ BUILT 2026-10-20 (parity wave 7)
 - ~~dj-taffy~~ BUILT 2026-10-20 (parity wave 2)
-- dj-weez
-- doc-j
+- ~~dj-weez~~ BUILT 2026-10-20 (parity wave 7)
+- ~~doc-j~~ BUILT 2026-10-20 (parity wave 7)
 - dova
 - ebony-empress
 - ~~edday~~ BUILT 2026-10-20 (parity wave 2)
