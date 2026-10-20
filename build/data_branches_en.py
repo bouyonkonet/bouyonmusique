@@ -42,10 +42,47 @@ PAGES = [
    ]
   ],
   "faq": [
-   ("How is RnBouyon spelled?", "RnBouyon, one word: the spelling used by Deezer for singer Fallon (Deezer Next 2026), by French Wikipedia and by Smokiller in his mixes. The forms R&Bouyon or RNBouyon are attested in no source."),
-   ("What is RnBouyon?", "A fusion of Dominica bouyon and R&B: bouyon's programmed percussion and bass, with melodic singing close to contemporary R&B. Deezer describes it as a balance of softness and energy."),
-   ("Who makes RnBouyon?", "Two names are documented: singer Fallon, presented by Deezer Next 2026 with the tracks Normal and Memories, and Dominican producer Smokiller, who uses RnBouyon as the label for his instrumentals and R&B flips.")
-  ],
+  (
+    "How is RnBouyon spelled?",
+    "RnBouyon is written as one word. It is the spelling used by Deezer for singer Fallon (Deezer Next 2026), by the list of bouyon-derived genres on French Wikipedia and by Smokiller in his mixes. The forms R&Bouyon, Rn'Bouyon or RNBouyon are attested in no source consulted.",
+  ),
+  (
+    "What is RnBouyon?",
+    "RnBouyon is the fusion of Dominica's bouyon and R&B: bouyon's programmed percussion and electronic bass, with melodic singing close to contemporary R&B and urban pop. Deezer describes it as a balance of softness and energy. It is the most sung and most radio-friendly side of today's bouyon.",
+  ),
+  (
+    "Who makes RnBouyon?",
+    "Two names are documented: singer Fallon, presented by Deezer Next 2026 with the tracks “Normal” and “Memories”, and producer Smokiller, born in Dominica, who uses RnBouyon as the label for his instrumentals and R&B flips. This site adds no other names until sources establish them.",
+  ),
+  (
+    "Who is Fallon, the RnBouyon singer?",
+    "Fallon is the artist Deezer credits with RnBouyon in its Deezer Next 2026 programme, announced alongside Timar and Heroe. Deezer writes that she calls her world RnBouyon and cites “Normal” and “Memories” as the tracks where her writing already shows. Deezer speaks of her Caribbean heritage without naming an island. See <a href=\"/en/fallon.html\">Fallon</a>.",
+  ),
+  (
+    "What is the difference between RnBouyon and bouyon?",
+    "The difference lies in the voice and the melody, not the machines. Party bouyon looks for the chanted hook a whole carnival crowd sings back; RnBouyon looks for the sung melody that stays after the party, close to contemporary R&B. Both share the same programmed percussion, the same bass and the same island of origin.",
+  ),
+  (
+    "Does RnBouyon come from Wrecketeng?",
+    "Yes, according to Bouyon Shattaz: RnBouyon is an heir of Wrecketeng. Wrecketeng, born in Dominica in the wake of bouyon-muffin, established the method of taking existing recordings and rebuilding them on bouyon instrumentals. Wikipedia, in English and French, reads it the same way: 2020s labels reuse those techniques.",
+  ),
+  (
+    "Wrecketeng or reketeng: which spelling is correct?",
+    "The official spelling is Wrecketeng. It comes from DJ Cut himself, the founding pioneer of the style, according to Smokiller. The spelling “reketeng”, widespread online and repeated even by Billboard, is a mistake that became common. This site writes Wrecketeng everywhere, including for the historical practice. See <a href=\"/en/wrecketeng.html\">Wrecketeng</a>.",
+  ),
+  (
+    "Is RnBouyon the same as New Bouyon?",
+    "No, but they are two young labels, born in the 2020s, that share the same technical DNA inherited from Wrecketeng. New Bouyon has three dated uses, from TiiTii NBA's 2023 EP to Ricky Bishop's 2024 concept and a generic use. RnBouyon specifically names the fusion with R&B singing. See <a href=\"/en/new-bouyon.html\">New Bouyon</a>.",
+  ),
+  (
+    "Where can you listen to RnBouyon?",
+    "Start with Fallon's “Normal” and “Memories”, the two tracks cited by Deezer. On the production side, Smokiller's Bouyon Music 2026 Vol. 1 mix for Bouyon Shattaz contains a “RnBouyon Instrumental” chapter, and his smokiller.com hub files RnBouyon among his instrumentals, next to his flips of American R&B tracks such as Bryson Tiller's.",
+  ),
+  (
+    "Is RnBouyon a new genre?",
+    "The term is recent, but the method is not. Its production moves, sampled melodies, programmed percussion and electronic bass applied to existing songs, come from Roseau and the Wrecketeng years. That the word is young and carried by few artists does not change that lineage, which this site documents so the credit stays Dominican.",
+  )
+],
   "extra_graph": [
    {
     "@type": "Article",
@@ -55,7 +92,8 @@ PAGES = [
     "author": {"@id": "https://bouyonmusique.com/#org"},
     "about": {"@type": "MusicGenre", "name": "RnBouyon"}
    }
-  ]
+  ],
+"date_modified": "2026-10-20"
  },
  {
   "slug": "new-bouyon.html",
@@ -98,10 +136,47 @@ PAGES = [
    ]
   ],
   "faq": [
-   ("Who invented New Bouyon?", "The term has three dated uses: TiiTii NBA's New Bouyon Age EP (March 22, 2023), Ricky Bishop's New Bouyon concept launched in 2024 per his Deezer biography, and a generic use for 2020s bouyon. No independent source names a single inventor of the genre."),
-   ("What is the difference between New Bouyon and New Bouyon Age?", "New Bouyon Age is the title of TiiTii NBA's EP released in 2023 on GVE Music. New Bouyon, without Age, is the concept carried by Ricky Bishop from 2024, with the EPs #newbouyon and #sexybouyon."),
-   ("Is New Bouyon a new genre?", "It is a 2020s label for productions fusing bouyon, trap, electro, hip hop and R&B. Its production techniques, samples, programmed percussion and electronic bass, descend from Dominican Wrecketeng of the late 1990s.")
-  ],
+  (
+    "Who invented New Bouyon?",
+    "No single person invented it: the term has three dated uses. TiiTii NBA's EP “New Bouyon Age”, released on March 22, 2023, Ricky Bishop's New Bouyon concept, launched in 2024 according to his Deezer biography, and a generic use for 2020s bouyon. No independent source names a single inventor of the genre.",
+  ),
+  (
+    "What is the difference between New Bouyon and New Bouyon Age?",
+    "New Bouyon Age is the title of TiiTii NBA's EP released in 2023 on GVE Music, and NBA in his name stands for New Bouyon Age. New Bouyon, without Age, is the concept carried by Ricky Bishop from 2024, with the EPs “#newbouyon” and “#sexybouyon”. Two artists, two dates, two uses not to be confused.",
+  ),
+  (
+    "Is New Bouyon a new genre?",
+    "It is a 2020s label for productions fusing bouyon, trap, electro, hip hop and R&B. Its production techniques, sampled melodies, programmed percussion and electronic bass, descend from Dominican Wrecketeng, practised in Roseau since the late 1990s. Wikipedia states in both languages that Wrecketeng paved the way for New Bouyon.",
+  ),
+  (
+    "What is the New Bouyon Age EP?",
+    "“New Bouyon Age” is TiiTii NBA's EP released on March 22, 2023 on GVE Music, written notably by Terry Capitolin. It gathers tracks such as “Bréné Sa”, “Makaveli”, “Kitty Kitty” and “Poom Poom” with DJ Softee, in fast bouyon measured around 160 BPM. It is the first dated use of the term.",
+  ),
+  (
+    "What is New Bouyon Wave?",
+    "New Bouyon Wave is a variant used in 2023 by the same Guadeloupean circle: on an album by TiiTii NBA and on a D0 Production single bringing together TiiTii NBA, Nils, DJ Softee, Aknose and Theomaa. No source presents these titles as a genre manifesto: they are record titles and a scene signature.",
+  ),
+  (
+    "Which Ricky Bishop records carry the New Bouyon name?",
+    "In 2024, Ricky Bishop released two EPs, “#newbouyon” and “#sexybouyon”, with tracks such as “Anlè Mwen”, which Deezer calls a small hit, then the album “#newbouyonexperience” in 2025. His Deezer biography describes New Bouyon as a modern reinvention of traditional bouyon integrating electro and trap. See <a href=\"/en/ricky-bishop.html\">Ricky Bishop</a>.",
+  ),
+  (
+    "What is Ricky Bishop's audiocrack?",
+    "Audiocrack is the name Ricky Bishop gives his approach: a sound he defines as addictive and immersive, with Franglais laid over bouyon percussion. Modzik magazine relayed the formula in December 2024, presenting him in the “New Wave du bouyon” alongside Théodora and EzekTheArtist.",
+  ),
+  (
+    "Did Ricky Bishop create New Bouyon?",
+    "Ricky Bishop presents himself as the introducer of the New Bouyon concept, and the sources repeat his own claim. No independent media outlet crowns him the creator of a genre, and TiiTii NBA's use, with the “New Bouyon Age” EP of March 2023, came a year earlier. This site therefore credits each use to its author and date.",
+  ),
+  (
+    "Is New Bouyon from Guadeloupe?",
+    "The word, partly: its first dated use belongs to the Guadeloupean scene, with TiiTii NBA in 2023, then Ricky Bishop, of Guadeloupean and Malagasy origin and based in Bordeaux, took it up in 2024. The techniques, however, are Dominican: those of Wrecketeng, practised in Roseau since the late 1990s. See <a href=\"/en/wrecketeng.html\">Wrecketeng</a>.",
+  ),
+  (
+    "How does Smokiller use the term New Bouyon?",
+    "Smokiller uses New Bouyon in its generic sense, to name contemporary bouyon in his mixes for Bouyon Shattaz, for example in his “Best New Bouyon Songs” selections. That is the term's third use, the descriptive one found in mixes, playlists and encyclopedias. This site only uses it that way when the context is clear.",
+  )
+],
   "extra_graph": [
    {
     "@type": "Article",
@@ -111,6 +186,7 @@ PAGES = [
     "author": {"@id": "https://bouyonmusique.com/#org"},
     "about": {"@type": "MusicGenre", "name": "New Bouyon"}
    }
-  ]
+  ],
+"date_modified": "2026-10-20"
  }
 ]
