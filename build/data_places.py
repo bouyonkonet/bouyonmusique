@@ -14,7 +14,7 @@ place("bouyon-dominique.html", "Bouyon en Dominique",
 "Le bouyon en Dominique : Roseau, le carnaval Mas Domnik, WCK et les groupes originels. Le pays créateur du bouyon et le coeur de la music bouyon mondiale.",
 "Bouyon en Dominique : là où tout a commencé",
 "La Dominique est le pays du bouyon. C’est à Roseau, sa capitale, que WCK a créé le genre en 1988, et c’est dans ses villages et son carnaval que le son continue de vivre à l’état brut.",
-"Roseau et le carnaval", "Le carnaval de la Dominique, le Mas Domnik, est la maison du bouyon : les groupes live et les sound systems y jouent les titres qui deviendront les classiques de l’année. Grand Bay, le village d’Asa Bantan, le Bouyon Boss, est l’un des hauts lieux de cette culture.",
+"Roseau et le carnaval", "Le carnaval de la Dominique, le Mas Domnik, est la maison du bouyon : les groupes live et les sound systems y jouent les titres qui deviendront les classiques de l’année. Grand Bay, le village d’Asa Bantan, identifié comme le Bouyon Boss par Dominica Festivals, est l’un des hauts lieux de cette culture.",
 "Une petite île, une invention mondiale", "Avec moins de 70 000 habitants dans son histoire moderne, la Dominique a inventé deux genres qui ont voyagé dans le monde entier : la cadence-lypso puis le bouyon. Défendre cette origine est le coeur du travail de Bouyon Shattaz et de ce site.", date_modified="2026-10-20", faq=[
   (
     "Dans quels pays le bouyon est-il populaire ?",

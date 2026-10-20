@@ -7,7 +7,7 @@ PAGES = [
 "h1": "Bouyon in Dominica: where it all began",
 "intro": "Dominica is the country of bouyon. It was in Roseau, its capital, that WCK created the genre in 1988, and it is in its villages and its carnival that the sound continues to live in its raw state.",
 "sections": [
-("Roseau and carnival", ["Dominica’s carnival, Mas Domnik, is the home of bouyon: live bands and sound systems play the tracks there that will become the classics of the year. Grand Bay, the village of Asa Bantan, the Bouyon Boss, is one of the strongholds of this culture."]),
+("Roseau and carnival", ["Dominica’s carnival, Mas Domnik, is the home of bouyon: live bands and sound systems play the tracks there that will become the classics of the year. Grand Bay, the village of Asa Bantan, identified as the Bouyon Boss by Dominica Festivals, is one of the strongholds of this culture."]),
 ("A small island, a world invention", ["With fewer than 70,000 inhabitants in its modern history, Dominica invented two genres that have traveled the whole world over: cadence-lypso and then bouyon. Defending that origin is the heart of Bouyon Shattaz’s work and of this site."]),
 ],
 "date_modified": "2026-10-20",

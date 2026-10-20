@@ -80,7 +80,7 @@ PAGES = [
   ),
   (
     "Pourquoi le bouyon s'appelle-t-il ainsi ?",
-    "Bouyon veut dire soupe en kwéyòl : le genre mélange les ingrédients des musiques traditionnelles dominiquaises avec la production électronique. Comme dans une soupe, c’est le mélange qui fait le goût : en 1988, à Roseau, le groupe WCK a réuni la cadence-lypso et le jing ping avec des claviers électroniques et des boîtes à rythmes.",
+    "Bouyon veut dire soupe en kwéyòl : le genre mélange les ingrédients des musiques traditionnelles dominicaines avec la production électronique. Comme dans une soupe, c’est le mélange qui fait le goût : en 1988, à Roseau, le groupe WCK a réuni la cadence-lypso et le jing ping avec des claviers électroniques et des boîtes à rythmes.",
   ),
   (
     "Le bouyon fait-il partie de la culture créole ?",
@@ -126,7 +126,7 @@ PAGES = [
 "faq": [
   (
     "Qui sont les chanteuses du bouyon ?",
-    "En 2026, les voix féminines du bouyon s'appellent notamment Maurane Voyer (Martinique), Miimii KDS (Guadeloupe), Shelly (Dominique), Tamillia (qui a grandi à Saint-Martin) et Ebony Empress. Têtes d'affiche et faiseuses de hits, elles vont de Joli BB avec Reo à Pow Pow / Allo Doudou, certifié Single Or par le SNEP. Voir le dossier <a href=\"/femmes-du-bouyon.html\">Femmes du bouyon</a>.",
+    "En 2026, les voix féminines du bouyon s'appellent notamment Maurane Voyer (Martinique), Miimii KDS (Guadeloupe), Tamillia (qui a grandi à Saint-Martin) et Ebony Empress. Têtes d'affiche et faiseuses de hits, elles vont de Joli BB avec Reo à Pow Pow / Allo Doudou, certifié Single Or par le SNEP. Voir le dossier <a href=\"/femmes-du-bouyon.html\">Femmes du bouyon</a>.",
   ),
   (
     "Qui chante Joli BB avec Reo ?",
@@ -134,11 +134,11 @@ PAGES = [
   ),
   (
     "Pourquoi le bouyon s'appelle-t-il ainsi ?",
-    "Bouyon veut dire soupe en kwéyòl : comme dans une soupe où tout se mélange et rien ne se perd, le genre mélange les ingrédients des musiques traditionnelles dominiquaises, comme le jing ping et la cadence-lypso, avec la production électronique. C'est ce mélange qui fait l'identité du genre.",
+    "Bouyon veut dire soupe en kwéyòl : comme dans une soupe où tout se mélange et rien ne se perd, le genre mélange les ingrédients des musiques traditionnelles dominicaines, comme le jing ping et la cadence-lypso, avec la production électronique. C'est ce mélange qui fait l'identité du genre.",
   ),
   (
     "Le bouyon fait-il partie de la culture créole ?",
-    "Oui. Le bouyon est né dans les villages et le carnaval de la Dominique, et il accompagne les fêtes créoles dans toute la Caraïbe francophone. Ses voix féminines viennent de toute cette aire créole : Maurane Voyer de Martinique, Miimii KDS de Guadeloupe, Shelly de la Dominique.",
+    "Oui. Le bouyon est né dans les villages et le carnaval de la Dominique, et il accompagne les fêtes créoles dans toute la Caraïbe francophone. Ses voix féminines viennent de toute cette aire créole : Maurane Voyer de Martinique, Miimii KDS de Guadeloupe, Ebony Empress, née en Dominique.",
   ),
   (
     "Quelle chanteuse bouyon a un disque d'or en France ?",
@@ -154,7 +154,7 @@ PAGES = [
   ),
   (
     "Quelles chanteuses bouyon jouent au WCMF 2026 ?",
-    "Selon les guides publiés du festival, la Martiniquaise Maurane Voyer est annoncée pour la première nuit, le vendredi 23 octobre 2026, et Shelly chante avec Signal Band lors de la troisième nuit, le dimanche 25 octobre, à Windsor Park, Roseau. Shelly arrive avec « Bye to de Old Me (Remix) », à 691K vues sur la chaîne YouTube de Smokiller.",
+    "Selon les guides publiés du festival, la Martiniquaise Maurane Voyer est annoncée pour la première nuit, le vendredi 23 octobre 2026, à Windsor Park, Roseau.",
   ),
   (
     "Quelles voix féminines portent les remixes bouyon de Smokiller ?",
@@ -166,7 +166,7 @@ PAGES = [
   ),
   (
     "Une chanteuse a-t-elle été nommée aux Caribbean Music Awards 2026 ?",
-    "Oui. Ebony Empress figure parmi les artistes de Saint-Martin nommés dans la catégorie Best Bouyon Artist, selon The Peoples Tribune SXM, et la liste des nommés bouyon compte aussi Shelly and Signal Band. Selon les résultats publiés en septembre 2026, le prix d'artiste bouyon de l'année est revenu à Mr. Ridge.",
+    "Oui. Ebony Empress figure parmi les artistes de Saint-Martin nommés dans la catégorie Best Bouyon Artist, selon The Peoples Tribune SXM. Selon les résultats publiés en septembre 2026, le prix d'artiste bouyon de l'année est revenu à Mr. Ridge.",
   )
 ],
 },
@@ -250,7 +250,7 @@ PAGES = [
   ),
   (
     "Pourquoi le bouyon s'appelle-t-il ainsi ?",
-    "Bouyon veut dire soupe en kwéyòl, un plat mijoté qui mélange ses ingrédients. Le nom résume le genre : depuis sa création par WCK en 1988, il mélange les musiques traditionnelles dominiquaises, comme le jing ping et la cadence-lypso, avec la production électronique. Voir la page <a href=\"/signification-bouyon.html\">signification de bouyon</a>.",
+    "Bouyon veut dire soupe en kwéyòl, un plat mijoté qui mélange ses ingrédients. Le nom résume le genre : depuis sa création par WCK en 1988, il mélange les musiques traditionnelles dominicaines, comme le jing ping et la cadence-lypso, avec la production électronique. Voir la page <a href=\"/signification-bouyon.html\">signification de bouyon</a>.",
   ),
   (
     "Le bouyon fait-il partie de la culture créole ?",

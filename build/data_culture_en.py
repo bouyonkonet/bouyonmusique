@@ -114,8 +114,8 @@ PAGES = [
 },
 {
 "slug": "women-of-bouyon.html", "fr_slug": "bouyon-au-feminin.html", "cat": "Bouyon culture", "nav": "Women in bouyon",
-"title": "Women of Bouyon: Maurane Voyer, Miimii KDS and Shelly",
-"desc": "Women of bouyon: Maurane Voyer, Miimii KDS, Shelly, Tamillia and Ebony Empress, headliners and hitmakers, from Joli BB to the SNEP gold record.",
+"title": "Women of Bouyon: Maurane Voyer and Miimii KDS",
+"desc": "Women of bouyon: Maurane Voyer, Miimii KDS, Tamillia and Ebony Empress, headliners and hitmakers, from Joli BB to the SNEP gold record.",
 "h1": "Women in bouyon: voices that count",
 "intro": "Bouyon has long been told in the masculine, bands and producers. But women’s voices are everywhere in the genre in 2026: headlining, in collaboration, and at the heart of the tracks that travel the furthest.",
 "sections": [
@@ -126,7 +126,7 @@ PAGES = [
 "faq": [
   (
     "Who are the women singers of bouyon?",
-    "In 2026, the female voices of bouyon include Maurane Voyer (Martinique), Miimii KDS (Guadeloupe), Shelly (Dominica), Tamillia (who grew up in Saint Martin) and Ebony Empress. Headliners and hitmakers, they range from Joli BB with Reo to Pow Pow / Allo Doudou, certified Single Or (gold) by SNEP. See the <a href=\"/en/miimii-kds.html\">Miimii KDS</a> profile.",
+    "In 2026, the female voices of bouyon include Maurane Voyer (Martinique), Miimii KDS (Guadeloupe), Tamillia (who grew up in Saint Martin) and Ebony Empress. Headliners and hitmakers, they range from Joli BB with Reo to Pow Pow / Allo Doudou, certified Single Or (gold) by SNEP. See the <a href=\"/en/miimii-kds.html\">Miimii KDS</a> profile.",
   ),
   (
     "Who sings Joli BB with Reo?",
@@ -138,7 +138,7 @@ PAGES = [
   ),
   (
     "Is bouyon part of Creole culture?",
-    "Yes. Bouyon was born in Dominica's villages and carnival, it is sung in kwéyòl and English, and it soundtracks Creole celebrations across the French Caribbean. Its female voices come from that whole Creole area: Maurane Voyer from Martinique, Miimii KDS from Guadeloupe, Shelly from Dominica.",
+    "Yes. Bouyon was born in Dominica's villages and carnival, it is sung in kwéyòl and English, and it soundtracks Creole celebrations across the French Caribbean. Its female voices come from that whole Creole area: Maurane Voyer from Martinique, Miimii KDS from Guadeloupe, Ebony Empress, born in Dominica.",
   ),
   (
     "Which woman in bouyon has a gold record in France?",
@@ -154,7 +154,7 @@ PAGES = [
   ),
   (
     "Which women in bouyon play WCMF 2026?",
-    "According to the festival's published guides, Martinican singer Maurane Voyer is billed for Night 1, Friday October 23, 2026, and Shelly sings with Signal Band on Night 3, Sunday October 25, at Windsor Park, Roseau. Shelly arrives with \"Bye to de Old Me (Remix)\", at 691K views on Smokiller's YouTube channel.",
+    "According to the festival's published guides, Martinican singer Maurane Voyer is billed for Night 1, Friday October 23, 2026, at Windsor Park, Roseau.",
   ),
   (
     "Which female voices carry Smokiller's bouyon remixes?",
@@ -166,7 +166,7 @@ PAGES = [
   ),
   (
     "Was a woman nominated at the Caribbean Music Awards 2026?",
-    "Yes. Ebony Empress is among the Saint Martin artists nominated in the Best Bouyon Artist category, according to The Peoples Tribune SXM, and the list of bouyon nominees also includes Shelly and Signal Band. According to the results published in September 2026, bouyon artist of the year went to Mr. Ridge.",
+    "Yes. Ebony Empress is among the Saint Martin artists nominated in the Best Bouyon Artist category, according to The Peoples Tribune SXM. According to the results published in September 2026, bouyon artist of the year went to Mr. Ridge.",
   )
 ],
 },

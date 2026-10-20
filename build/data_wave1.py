@@ -34,7 +34,7 @@ PAGES = [
     [
      "Les voix du bouyon mélangent l’anglais et le créole dominicain. Ce mélange n’est pas un hasard ni un défaut : c’est la langue réelle de la fête en Dominique, celle des appels au public, des refrains que tout le monde reprend et des phrases qui restent dans la tête après le carnaval. Le chant bouyon est direct et festif. Il s’adresse à la foule, il la relance, il la fait participer. Un titre bouyon ne se contente pas d’être écouté : il cherche une réponse.",
      "Ces voix portent aussi, parfois, un commentaire social. Le bouyon peut faire danser et dire quelque chose dans le même titre. Cette double fonction, fête et parole, fait partie de son identité dès l’époque fondatrice. Elle explique pourquoi le genre tient si bien dans les fêtes de village comme dans les grands rendez-vous : il parle de la vie commune avec les mots de la vie commune, sans quitter la piste de danse.",
-     "La manière de poser la voix compte autant que la langue. La livraison parlée, influencée par le ragga, que le bouyon développe, va nourrir des branches entières du genre. Le dossier historique de ce site relie cette livraison aux formes qui suivront, comme le bouyon-muffin et le Wrecketeng, appelé aussi <a href=\"/wrecketeng.html\">wrecketeng</a>. Autrement dit, la voix WCK et la voix bouyon des débuts ne sont pas un chapitre fermé : elles continuent de travailler les styles dominicains d’aujourd’hui, y compris les plus orientés vers le rap et l’échantillon.",
+     "La manière de poser la voix compte autant que la langue. La livraison parlée, influencée par le ragga, que le bouyon développe, va nourrir des branches entières du genre. Le dossier historique de ce site relie cette livraison aux formes qui suivront, comme le bouyon-muffin et le <a href=\"/wrecketeng.html\">Wrecketeng</a>. Autrement dit, la voix WCK et la voix bouyon des débuts ne sont pas un chapitre fermé : elles continuent de travailler les styles dominicains d’aujourd’hui, y compris les plus orientés vers le rap et l’échantillon.",
      "Pour un auditeur francophone qui découvre le genre par la Guadeloupe ou la Martinique, ce point est essentiel. Le bouyon n’est pas d’abord une production abstraite : c’est une musique de voix, d’appels et de réponses, dans une langue créole proche de celles des Antilles françaises. C’est une des raisons pour lesquelles le passage d’une île à l’autre a été si naturel, comme le raconte la suite de ce profil."
     ]
    ],
@@ -288,7 +288,7 @@ PAGES = [
   ),
   (
     "Asa Bantan est-il nommé aux Caribbean Music Awards 2026 ?",
-    "Oui. Selon la liste des finalistes publiée par Black Island Girl, Asa Bantan figure parmi les nommés du prix d’artiste bouyon de l’année aux Caribbean Music Awards 2026, aux côtés notamment de Reo, Mr Ridge, Trilla G, 1T1 et BRG Hollywood. Ce site rapporte la nomination, sans lui attribuer de résultat.",
+    "Oui. Selon la liste des finalistes publiée par Black Island Girl, Asa Bantan figure parmi les nommés du prix d’artiste bouyon de l’année aux Caribbean Music Awards 2026, aux côtés notamment de Reo, Mr Ridge, Trilla G, 1T1 et BRG Hollywood. Les résultats publiés en septembre 2026 donnent ce prix à Mr Ridge.",
   ),
   (
     "Asa Bantan joue-t-il au WCMF 2026 ?",
@@ -1126,9 +1126,9 @@ PAGES = [
   "cat": "Artistes bouyon",
   "nav": "Ridge",
   "title": "Ridge (Mr Ridge) : claviériste producteur bouyon dominicain",
-  "desc": "Ridge, Mr Ridge, artiste bouyon de Dominique : claviériste, producteur, nommé aux Caribbean Music Awards 2026 et annoncé au WCMF Night 1.",
+  "desc": "Ridge, Mr Ridge, artiste bouyon de Dominique : claviériste, producteur, artiste bouyon de l’année aux Caribbean Music Awards 2026 et annoncé au WCMF Night 1.",
   "h1": "Ridge : le claviériste producteur qui mène un vrai groupe live",
-  "intro": "Mr Ridge, nom d’artiste Ridge, est un artiste bouyon dominicain, claviériste et producteur, connu sur Instagram sous le nom @crossdbridge. Son compte créateur comptait 25 567 abonnés et 714 publications lors de notre relevé du 17 octobre 2026, et sa bio le présente aussi comme ambassadeur du rhum Bleu Magic. En 2026, il est nommé aux Caribbean Music Awards dans la catégorie Bouyon Artist of the Year, selon Dominica News, et confirmé à l’affiche du WCMF 2026.",
+  "intro": "Mr Ridge, nom d’artiste Ridge, est un artiste bouyon dominicain, claviériste et producteur, connu sur Instagram sous le nom @crossdbridge. Son compte créateur comptait 25 567 abonnés et 714 publications lors de notre relevé du 17 octobre 2026, et sa bio le présente aussi comme ambassadeur du rhum Bleu Magic. En 2026, nommé aux Caribbean Music Awards dans la catégorie Bouyon Artist of the Year selon Dominica News, il remporte ce prix, selon les résultats publiés en septembre 2026, et il est confirmé à l’affiche du WCMF 2026.",
   "sections": [
    [
     "Un artiste bouyon dominicain, claviériste et producteur",
@@ -1139,11 +1139,11 @@ PAGES = [
     ]
    ],
    [
-    "La nomination aux Caribbean Music Awards 2026",
+    "Artiste bouyon de l’année aux Caribbean Music Awards 2026",
     [
-     "En 2026, Ridge est nommé aux Caribbean Music Awards pour le titre de Bouyon Artist of the Year, selon Dominica News. Cette nomination est le repère vérifié de son année : elle place un artiste dominicain, claviériste et producteur, dans la sélection officielle d’une cérémonie caribéenne pour représenter le bouyon. Pour un genre qui cherche une reconnaissance à la hauteur de son influence, voir une catégorie bouyon et des artistes dominicains nommés compte autant que le résultat final.",
-     "Il faut lire cette nomination avec précision. Nous rapportons la nomination de 2026 telle qu’elle est publiée par Dominica News. Nous ne reprenons pas, comme un fait, les titres d’awards que l’artiste affiche lui même dans sa bio avec une mention de type trois fois primé : une auto présentation sur un réseau social n’a pas la même valeur qu’une sélection rapportée par un média. Cette distinction protège l’artiste autant que le lecteur, parce qu’elle garde son dossier sur des éléments vérifiables.",
-     "Pour le public qui découvre Ridge par cette page, la nomination sert de porte d’entrée simple : si son nom figure dans la conversation Bouyon Artist of the Year en 2026, il mérite une écoute attentive, en particulier en live. La suite du dossier, avec le WCMF et les répétitions filmées à Roseau, montre justement un artiste qui prépare la scène comme un musicien de groupe, et non comme un nom posé sur une bande son. C’est là que sa nomination prend son sens le plus concret."
+     "En 2026, Ridge est nommé aux Caribbean Music Awards pour le titre de Bouyon Artist of the Year, selon Dominica News, puis il remporte ce prix : les résultats publiés en septembre 2026 lui donnent le titre d’artiste bouyon de l’année. Cette victoire est le repère vérifié de son année : elle place un artiste dominicain, claviériste et producteur, en tête de la catégorie bouyon d’une cérémonie caribéenne. Pour un genre qui cherche une reconnaissance à la hauteur de son influence, voir une catégorie bouyon, des artistes dominicains nommés et un lauréat dominicain compte beaucoup.",
+     "Il faut lire ce prix avec précision. Nous rapportons la nomination de 2026 telle qu’elle est publiée par Dominica News, et la victoire telle que la donnent les résultats publiés en septembre 2026. Nous ne reprenons pas, comme un fait, les titres d’awards que l’artiste affiche lui même dans sa bio avec une mention de type trois fois primé : une auto présentation sur un réseau social n’a pas la même valeur qu’une sélection rapportée par un média. Cette distinction protège l’artiste autant que le lecteur, parce qu’elle garde son dossier sur des éléments vérifiables.",
+     "Pour le public qui découvre Ridge par cette page, le prix sert de porte d’entrée simple : s’il est l’artiste bouyon de l’année 2026 aux Caribbean Music Awards, il mérite une écoute attentive, en particulier en live. La suite du dossier, avec le WCMF et les répétitions filmées à Roseau, montre justement un artiste qui prépare la scène comme un musicien de groupe, et non comme un nom posé sur une bande son. C’est là que son prix prend son sens le plus concret."
     ]
    ],
    [
@@ -1173,8 +1173,8 @@ PAGES = [
    [
     "Suivre Ridge dans la saison bouyon 2026",
     [
-     "Suivre Ridge en 2026 commence par trois repères simples et vérifiés : son compte @crossdbridge, sa nomination aux Caribbean Music Awards comme Bouyon Artist of the Year selon Dominica News, et sa date au WCMF, la Night 1 du vendredi 23 octobre 2026 au Windsor Park de Roseau, confirmée par le communiqué officiel de la DDA. Ces trois repères suffisent pour situer l’artiste sans ajouter de titres de chansons que nous ne pouvons pas vérifier, et cette page ne lui attribue donc aucune tracklist.",
-     "Cette retenue sur les titres est volontaire. Mieux vaut un profil court en faits mais solide, qu’une liste de titres reprise sans source. Ce que le dossier permet d’affirmer suffit largement : Ridge est un artiste bouyon dominicain, claviériste et producteur, ambassadeur du rhum Bleu Magic selon sa bio, suivi par 25 567 abonnés au relevé du 17 octobre 2026, nommé dans la catégorie bouyon d’une cérémonie caribéenne, et attendu sur la plus grande scène créole de son île avec un groupe live identifié musicien par musicien.",
+     "Suivre Ridge en 2026 commence par trois repères simples et vérifiés : son compte @crossdbridge, son prix de Bouyon Artist of the Year aux Caribbean Music Awards, remporté après une nomination rapportée par Dominica News, et sa date au WCMF, la Night 1 du vendredi 23 octobre 2026 au Windsor Park de Roseau, confirmée par le communiqué officiel de la DDA. Ces trois repères suffisent pour situer l’artiste sans ajouter de titres de chansons que nous ne pouvons pas vérifier, et cette page ne lui attribue donc aucune tracklist.",
+     "Cette retenue sur les titres est volontaire. Mieux vaut un profil court en faits mais solide, qu’une liste de titres reprise sans source. Ce que le dossier permet d’affirmer suffit largement : Ridge est un artiste bouyon dominicain, claviériste et producteur, ambassadeur du rhum Bleu Magic selon sa bio, suivi par 25 567 abonnés au relevé du 17 octobre 2026, lauréat de la catégorie bouyon d’une cérémonie caribéenne, et attendu sur la plus grande scène créole de son île avec un groupe live identifié musicien par musicien.",
      "La <a href=\"/playlist-bouyon.html\">playlist bouyon</a> de Bouyon Shattaz permet de replacer les artistes de la saison, dont les voix de la Night 1 du WCMF, dans une écoute d’ensemble. Pour Ridge, l’écoute prend tout son sens quand on garde en tête l’image des répétitions de Roseau : derrière chaque titre programmé pour le festival, il y a un groupe au travail, un directeur musical à la batterie et un claviériste producteur qui a choisi de mener le bouyon en live. C’est cette image qui restera comme sa signature de 2026.",
      "Elle donne aussi une grille de lecture simple pour le reste de sa saison : juger Ridge d’abord sur la scène, là où son profil de claviériste et de producteur prend tout son sens, puis sur la manière dont son groupe porte le bouyon dominicain devant un public de festival. Les nominations attirent l’attention, les affiches confirment la place, mais chez Ridge, ce sont les répétitions et le concert qui disent le niveau réel de l’artiste en 2026."
     ]
@@ -1183,7 +1183,7 @@ PAGES = [
   "faq": [
   (
     "Qui est Ridge ?",
-    "Ridge, ou Mr Ridge, est un artiste bouyon dominicain, claviériste et producteur, connu sur Instagram sous le nom @crossdbridge. Il est nommé aux Caribbean Music Awards 2026 dans la catégorie Bouyon Artist of the Year, selon Dominica News, et confirmé à l’affiche du WCMF 2026, où il se présente à la tête d’un vrai groupe live.",
+    "Ridge, ou Mr Ridge, est un artiste bouyon dominicain, claviériste et producteur, connu sur Instagram sous le nom @crossdbridge. Il a remporté le prix Bouyon Artist of the Year aux Caribbean Music Awards 2026, selon les résultats publiés en septembre 2026, et il est confirmé à l’affiche du WCMF 2026, où il se présente à la tête d’un vrai groupe live.",
   ),
   (
     "D’où vient Ridge ?",
@@ -1207,7 +1207,7 @@ PAGES = [
   ),
   (
     "Quels prix Ridge a-t-il reçus ?",
-    "Selon le compte rendu de Black Island Girl, Mr Ridge a reçu le prix de producteur de l’année à la deuxième édition des Dominica Music Awards, le 3 janvier 2026. En 2026, il est aussi nommé aux Caribbean Music Awards dans la catégorie Bouyon Artist of the Year, selon Dominica News. Ce site ne reprend pas comme un fait la mention de type trois fois primé de sa bio.",
+    "Selon le compte rendu de Black Island Girl, Mr Ridge a reçu le prix de producteur de l’année à la deuxième édition des Dominica Music Awards, le 3 janvier 2026. En 2026, nommé aux Caribbean Music Awards dans la catégorie Bouyon Artist of the Year selon Dominica News, il remporte aussi ce prix, selon les résultats publiés en septembre 2026. Ce site ne reprend pas comme un fait la mention de type trois fois primé de sa bio.",
   ),
   (
     "Quand Ridge joue-t-il au WCMF 2026 ?",
@@ -1455,13 +1455,13 @@ PAGES = [
   "title": "Signal Band : le groupe bouyon de la Dominique avec Shelly",
   "desc": "Signal Band, groupe bouyon de la Dominique : Where Did You Come From et What YOU Say avec Shelly, le WCMF 2026 nuit 3 et la défense des droits des artistes.",
   "h1": "Signal Band : la force du groupe bouyon dominicain",
-  "intro": "Signal Band est un groupe bouyon de la Dominique, connu dans la couverture de Bouyon Shattaz pour deux titres en tendance avec la chanteuse <a href=\"/shelly.html\">Shelly</a> : Where Did You Come From et What YOU Say. En 2026, le groupe partage avec Shelly la nuit 3 du World Creole Music Festival, le dimanche 25 octobre, et son manager Jerlani Robinson porte publiquement les questions de contrats et de royalties qui traversent toute la scène.",
+  "intro": "Signal Band est un groupe bouyon de la Dominique, connu dans la couverture de Bouyon Shattaz pour deux titres en tendance avec le chanteur <a href=\"/shelly.html\">Shelly</a> : Where Did You Come From et What YOU Say. En 2026, le groupe partage avec Shelly la nuit 3 du World Creole Music Festival, le dimanche 25 octobre, et son manager Jerlani Robinson porte publiquement les questions de contrats et de royalties qui traversent toute la scène.",
   "sections": [
    [
     "Un groupe, pas seulement un nom sur un titre",
     [
      "Signal Band appartient à la tradition des formations live de la Dominique, ces groupes qui font la musique de fête de l’île et qui tiennent une scène entière devant un public venu pour danser. Dans un genre né avec des groupes, cette forme compte : le bouyon n’est pas seulement une affaire de producteurs et de voix solo, c’est aussi une affaire d’ensemble, d’énergie collective et de présence sur scène.",
-     "Le nom de Signal Band circule aujourd’hui au-delà des fêtes de l’île grâce à ses titres avec Shelly. Cette collaboration est la porte d’entrée la plus claire pour un public nouveau : une chanteuse identifiée, un groupe derrière elle, et deux morceaux qui ont trouvé leur audience en ligne. C’est souvent ainsi que le bouyon voyage maintenant, par un titre partagé, puis par la curiosité pour les noms qui le portent.",
+     "Le nom de Signal Band circule aujourd’hui au-delà des fêtes de l’île grâce à ses titres avec Shelly. Cette collaboration est la porte d’entrée la plus claire pour un public nouveau : un chanteur identifié, un groupe derrière lui, et deux morceaux qui ont trouvé leur audience en ligne. C’est souvent ainsi que le bouyon voyage maintenant, par un titre partagé, puis par la curiosité pour les noms qui le portent.",
      "Présenter Signal Band sur BouyonMusique.com, c’est donc corriger un réflexe fréquent des plateformes : ne retenir que la voix de devant. Derrière Where Did You Come From et What YOU Say, il y a un groupe dominicain, avec son manager, son public et sa place propre dans le calendrier de la scène. Ce profil rend ce crédit visible, en français, pour les auditeurs de Guadeloupe, de Martinique et de France."
     ]
    ],
@@ -1470,7 +1470,7 @@ PAGES = [
     [
      "Where Did You Come From, avec Shelly, affiche 334K vues sur l’étagère populaire de la chaîne YouTube de Smokiller. What YOU Say, toujours avec Shelly, affiche 283K vues sur la même étagère. Ces chiffres sont ceux relevés dans la couverture de Bouyon Shattaz : ils ne disent pas tout d’une carrière, mais ils montrent que les deux titres ont dépassé le seul cercle des fêtes locales pour trouver un public en ligne durable.",
      "Les deux morceaux siègent aussi dans les playlists ROAD MIX de Bouyon Shattaz. Cette présence compte pour l’écoute : dans une sélection, un titre de Signal Band se mesure aux autres sons dominicains du moment, et le groupe gagne des auditeurs qui ne cherchaient pas son nom au départ. C’est le principe même d’une playlist de scène : faire circuler les titres entre les publics.",
-     "Pour écouter ces morceaux dans leur contexte, rendez-vous sur notre page <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, puis revenez à ce profil pour situer le groupe. Et pour découvrir la chanteuse de ces deux collaborations, lisez aussi le profil de <a href=\"/shelly.html\">Shelly</a>, dont la trajectoire solo complète celle du groupe."
+     "Pour écouter ces morceaux dans leur contexte, rendez-vous sur notre page <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, puis revenez à ce profil pour situer le groupe. Et pour découvrir le chanteur de ces deux collaborations, lisez aussi le profil de <a href=\"/shelly.html\">Shelly</a>, dont la trajectoire solo complète celle du groupe."
     ]
    ],
    [
@@ -1486,7 +1486,7 @@ PAGES = [
     [
      "Selon les guides publiés du WCMF 2026, Shelly et Signal Band jouent la nuit 3 du festival, le dimanche 25 octobre 2026. Le World Creole Music Festival est le grand rendez-vous de la musique créole de la Dominique, et sa dernière nuit est un moment fort : le public du week-end est là, les autres scènes de la Caraïbe regardent, et un groupe dominicain y joue à domicile, devant son public le plus exigeant.",
      "Bouyon Shattaz a nommé Signal Band parmi les cinq actes dominicains de son compte à rebours WCMF, aux côtés de Reo, d’Asa Bantan, de TK International et de Midnight Groovers. Cette sélection éditoriale dit la place du groupe dans le paysage de 2026 : ni légende du passé, ni simple nom d’affiche, mais un acte du présent que le média suit de près et met en avant pour le festival.",
-     "Pour préparer cette nuit, lisez notre page du <a href=\"/wcmf-festival-creole.html\">World Creole Music Festival</a> et le profil de <a href=\"/shelly.html\">Shelly</a>. La soirée du dimanche 25 octobre réunira sur une même affiche la chanteuse et le groupe de leurs titres en tendance : c’est leur moment commun, construit titre après titre, et il se joue chez eux, en Dominique."
+     "Pour préparer cette nuit, lisez notre page du <a href=\"/wcmf-festival-creole.html\">World Creole Music Festival</a> et le profil de <a href=\"/shelly.html\">Shelly</a>. La soirée du dimanche 25 octobre réunira sur une même affiche le chanteur et le groupe de leurs titres en tendance : c’est leur moment commun, construit titre après titre, et il se joue chez eux, en Dominique."
     ]
    ],
    [
@@ -1565,7 +1565,7 @@ PAGES = [
      "@type": "MusicGroup",
      "@id": "https://bouyonmusique.com/signal-band.html#artist",
      "name": "Signal Band",
-     "description": "Groupe bouyon dominicain connu pour ses titres avec la chanteuse Shelly.",
+     "description": "Groupe bouyon dominicain connu pour ses titres avec le chanteur Shelly.",
      "genre": "Bouyon",
      "homeLocation": {
       "@type": "Place",
@@ -1632,22 +1632,22 @@ PAGES = [
   "cat": "Artistes bouyon",
   "nav": "Shelly",
   "title": "Shelly : la voix dominicaine de Bye to de Old Me et du WCMF",
-  "desc": "Shelly, chanteuse bouyon de la Dominique : Bye to de Old Me (Remix), ses titres avec Signal Band et la nuit 3 du WCMF 2026 à Windsor Park, le 25 octobre.",
+  "desc": "Shelly, chanteur bouyon de la Dominique : Bye to de Old Me (Remix), ses titres avec Signal Band et la nuit 3 du WCMF 2026 à Windsor Park, le 25 octobre.",
   "h1": "Shelly : une voix de tête de la nouvelle génération bouyon",
-  "intro": "Shelly est une chanteuse de la Dominique, suivie sur Instagram sous le nom @shelly_alfred. Sa série de titres actuelle circule dans toute la couverture de Bouyon Shattaz : Bye to de Old Me (Remix) avec Nice et Pudaz, puis Where Did You Come From et What YOU Say avec <a href=\"/signal-band.html\">Signal Band</a>. Le dimanche 25 octobre 2026, elle joue la nuit 3 du World Creole Music Festival à Windsor Park, et elle compte parmi les têtes d’affiche féminines de la nouvelle génération bouyon dominicaine.",
+  "intro": "Shelly est un chanteur de la Dominique, suivi sur Instagram sous le nom @shelly_alfred. Sa série de titres actuelle circule dans toute la couverture de Bouyon Shattaz : Bye to de Old Me (Remix) avec Nice et Pudaz, puis Where Did You Come From et What YOU Say avec <a href=\"/signal-band.html\">Signal Band</a>. Le dimanche 25 octobre 2026, il joue la nuit 3 du World Creole Music Festival à Windsor Park, et il compte parmi les têtes d’affiche de la nouvelle génération bouyon dominicaine.",
   "sections": [
    [
     "Trois titres, une série qui installe un nom",
     [
      "Bye to de Old Me (Remix), avec Nice et Pudaz, affiche 691K vues sur l’étagère populaire de la chaîne YouTube de Smokiller. C’est le plus grand des trois chiffres relevés pour Shelly dans la couverture de Bouyon Shattaz, et le titre par lequel beaucoup d’auditeurs en ligne ont croisé son nom pour la première fois. Un remix, deux invités, et une voix qui reste au centre : la formule installe une signature.",
-     "Avec Signal Band, Where Did You Come From affiche 334K vues et What YOU Say 283K vues sur la même étagère. Pris ensemble, les trois titres dessinent une trajectoire lisible : Shelly ne dépend pas d’un seul morceau. Elle enchaîne une collaboration de groupe et un titre partagé avec Nice et Pudaz, et chaque sortie nourrit l’audience des autres. C’est le signe d’une artiste en construction régulière, pas d’un accident de viralité.",
-     "Les trois titres siègent dans les playlists ROAD MIX de Bouyon Shattaz. Pour les écouter dans l’ordre de la scène, passez par notre page <a href=\"/playlist-bouyon.html\">playlist bouyon</a> : Shelly y côtoie les autres voix dominicaines du moment, et cette proximité aide à mesurer ce qui la distingue, la clarté de sa voix dans des productions pensées pour la fête."
+     "Avec Signal Band, Where Did You Come From affiche 334K vues et What YOU Say 283K vues sur la même étagère. Pris ensemble, les trois titres dessinent une trajectoire lisible : Shelly ne dépend pas d’un seul morceau. Il enchaîne une collaboration de groupe et un titre partagé avec Nice et Pudaz, et chaque sortie nourrit l’audience des autres. C’est le signe d’un artiste en construction régulière, pas d’un accident de viralité.",
+     "Les trois titres siègent dans les playlists ROAD MIX de Bouyon Shattaz. Pour les écouter dans l’ordre de la scène, passez par notre page <a href=\"/playlist-bouyon.html\">playlist bouyon</a> : Shelly y côtoie les autres voix dominicaines du moment, et cette proximité aide à mesurer ce qui le distingue, la clarté de sa voix dans des productions pensées pour la fête."
     ]
    ],
    [
-    "Une chanteuse dans une scène de groupes",
+    "Un chanteur dans une scène de groupes",
     [
-     "Le bouyon dominicain est historiquement une musique de groupes, et les voix féminines de tête y ont longtemps été rares sur le devant de l’affiche. Shelly fait partie des artistes qui changent cette image. La présenter comme l’une des têtes d’affiche féminines de la nouvelle génération bouyon de la Dominique, ce n’est pas un compliment gratuit : c’est lire son programme de 2026, ses titres en tendance et sa place au festival.",
+     "Le bouyon dominicain est historiquement une musique de groupes, et Shelly y porte son nom à l’affiche à côté de celui du groupe, comme dans « Shelly and The Signal Band ». Le présenter comme l’une des têtes d’affiche de la nouvelle génération bouyon de la Dominique, ce n’est pas un compliment gratuit : c’est lire son programme de 2026, ses titres en tendance et sa place au festival.",
      "Son parcours montre aussi les deux voies d’une carrière bouyon aujourd’hui. D’un côté, le travail avec un groupe établi, Signal Band, qui apporte la scène et la tradition live. De l’autre, des titres partagés avec d’autres artistes de sa génération, Nice et Pudaz sur Bye to de Old Me (Remix), qui parlent le langage des plateformes et des collaborations rapides. Shelly circule entre ces deux mondes sans perdre son nom.",
      "Pour situer Shelly parmi ses pairs, le hub <a href=\"/artistes-dominique.html\">artistes de la Dominique</a> rassemble les profils du site, des groupes fondateurs aux voix actuelles. La comparaison est instructive : chaque génération a eu ses formats, et celle de Shelly est la première à construire sa réputation en même temps sur la scène de Windsor Park et sur les étagères de vidéos en ligne."
     ]
@@ -1656,15 +1656,14 @@ PAGES = [
     "WCMF 2026 : la nuit 3 à Windsor Park",
     [
      "Selon les guides publiés du WCMF 2026, Shelly et Signal Band jouent la nuit 3 du festival, le dimanche 25 octobre 2026, à Windsor Park. Jouer la dernière nuit du plus grand festival de musique créole de son île, avec le groupe de ses deux titres en tendance, est le rendez-vous central de son année. C’est une consécration à domicile, devant le public qui connaît les morceaux.",
-     "Le contexte de cette nuit compte pour comprendre l’enjeu. Le World Creole Music Festival rassemble à Roseau les musiques créoles de toute la Caraïbe. Pour une chanteuse dominicaine, y tenir sa place au milieu des invités régionaux, c’est défendre le son de l’île chez elle. Notre page du <a href=\"/wcmf-festival-creole.html\">World Creole Music Festival</a> présente le festival et son programme 2026.",
+     "Le contexte de cette nuit compte pour comprendre l’enjeu. Le World Creole Music Festival rassemble à Roseau les musiques créoles de toute la Caraïbe. Pour un chanteur dominicain, y tenir sa place au milieu des invités régionaux, c’est défendre le son de l’île chez elle. Notre page du <a href=\"/wcmf-festival-creole.html\">World Creole Music Festival</a> présente le festival et son programme 2026.",
      "Le profil du groupe qui l’accompagne, <a href=\"/signal-band.html\">Signal Band</a>, complète ce portrait : manager engagé sur les questions de droits, place dans le compte à rebours WCMF de Bouyon Shattaz, et deux titres communs qui ont préparé ce rendez-vous. Le dimanche 25 octobre, la collaboration quittera les playlists pour la grande scène."
     ]
    ],
    [
-    "La suite : droits, distribution et le choix Pilot 5",
+    "La suite : scène, écoute et droits",
     [
-     "Shelly figure dans les 20 artistes de l’audit du Rights Clinic de Bouyon Shattaz, avec une route de contact vérifiée. Comme pour les autres artistes de la cohorte, l’enjeu est de transformer la visibilité en structure : crédits corrects, contacts clairs et protection des œuvres, pour que les titres qui circulent rapportent aussi à celle qui les chante.",
-     "Elle a aussi été avancée comme l’option dominicaine pour le créneau féminin du Pilot 5, dans le plan de distribution de Bouyon Shattaz. Ce choix éditorial et stratégique dit la confiance placée en son potentiel : parmi les voix de l’île, c’est son nom qui a été retenu pour représenter les chanteuses dominicaines dans ce premier groupe pilote. Aucune annonce de sortie ne vient avec ce statut, mais la direction est claire.",
+     "Shelly figure dans les 20 artistes de l’audit du Rights Clinic de Bouyon Shattaz, avec une route de contact vérifiée. Comme pour les autres artistes de la cohorte, l’enjeu est de transformer la visibilité en structure : crédits corrects, contacts clairs et protection des œuvres, pour que les titres qui circulent rapportent aussi à celui qui les chante.",
      "La suite de Shelly se jouera donc sur trois terrains à la fois : la scène, avec le WCMF ; l’écoute, avec les playlists ROAD MIX où ses trois titres continuent de circuler ; et la structure, avec le travail sur les droits. C’est exactement la trajectoire que Bouyon Shattaz veut rendre possible pour la nouvelle génération dominicaine : être entendue partout, et être protégée partout où elle est entendue."
     ]
    ],
@@ -1720,10 +1719,10 @@ PAGES = [
   ),
   (
     "Quelles nominations pour Shelly en 2026 ?",
-    "Aux Caribbean Music Awards 2026, la liste des finalistes d’artiste bouyon de l’année publiée par Black Island Girl comprend « Shelly and Signall Band », selon l’orthographe publiée, aux côtés notamment d’Asa Bantan, Reo, Mr Ridge et Trilla G. Ce site rapporte cette présence comme une nomination, sans lui attribuer de résultat.",
+    "Aux Caribbean Music Awards 2026, la liste des finalistes d’artiste bouyon de l’année publiée par Black Island Girl comprend « Shelly and Signall Band », selon l’orthographe publiée, aux côtés notamment d’Asa Bantan, Reo, Mr Ridge et Trilla G. Ce site rapporte donc cette présence comme une nomination : les résultats publiés en septembre 2026 donnent le prix d’artiste bouyon de l’année à Mr Ridge.",
   ),
   (
-    "Quand Shelly joue-t-elle au WCMF 2026 ?",
+    "Quand Shelly joue-t-il au WCMF 2026 ?",
     "Selon les guides publiés du festival, Shelly et Signal Band jouent la nuit 3 du WCMF 2026, le dimanche 25 octobre 2026, à Windsor Park, la nuit de clôture. C’est le rendez-vous central de leur année, chez eux, devant le public qui connaît les morceaux. Le jeudi 22 octobre à 19 heures, ils ferment aussi la grande finale de Ti Vilaj Kwéyòl 2026 à Roseau.",
   ),
   (
@@ -1744,7 +1743,7 @@ PAGES = [
      "@type": "Person",
      "@id": "https://bouyonmusique.com/shelly.html#artist",
      "name": "Shelly",
-     "description": "Chanteuse bouyon dominicaine, voix de Bye to de Old Me (Remix) et des titres avec Signal Band.",
+     "description": "Chanteur bouyon dominicain, voix de Bye to de Old Me (Remix) et des titres avec Signal Band.",
      "genre": "Bouyon",
      "homeLocation": {
       "@type": "Place",
@@ -2360,15 +2359,15 @@ PAGES = [
   "slug": "pudaz.html",
   "cat": "Artistes bouyon",
   "nav": "Pudaz",
-  "title": "Pudaz : artiste bouyon dominicais, Shake Something et WCMF 2026",
+  "title": "Pudaz : artiste bouyon dominicain, Shake Something et WCMF 2026",
   "desc": "Pudaz, aussi présenté comme Dirty Dawg Pudaz : artiste bouyon de la Dominique, Shake Something, B.D.Y.M.M., remix avec Shelly et WCMF 2026 Night 1.",
-  "h1": "Pudaz : le bouyon dominicais sans détour",
-  "intro": "Pudaz, aussi présenté comme Dirty Dawg Pudaz, est un artiste bouyon dominicais. Son nom apparaît dans la couverture des nommés des Caribbean Music Awards 2026 utilisée par la recherche Bouyon Shattaz, avec deux titres qui servent de carte de visite : « Shake Something » et « B.D.Y.M.M. ». Il est aussi crédité sur « Bye to de Old Me (Remix) » de <a href=\"/shelly.html\">Shelly</a> et Nice, un titre qui a trouvé une vraie audience en ligne. D’après les guides publiés du WCMF 2026, il joue la Night 1, le vendredi 23 octobre 2026. Cette page rassemble uniquement ce qui est vérifié sur lui, sans ajouter de biographie inventée.",
+  "h1": "Pudaz : le bouyon dominicain sans détour",
+  "intro": "Pudaz, aussi présenté comme Dirty Dawg Pudaz, est un artiste bouyon dominicain. Son nom apparaît dans la couverture des nommés des Caribbean Music Awards 2026 utilisée par la recherche Bouyon Shattaz, avec deux titres qui servent de carte de visite : « Shake Something » et « B.D.Y.M.M. ». Il est aussi crédité sur « Bye to de Old Me (Remix) » de <a href=\"/shelly.html\">Shelly</a> et Nice, un titre qui a trouvé une vraie audience en ligne. D’après les guides publiés du WCMF 2026, il joue la Night 1, le vendredi 23 octobre 2026. Cette page rassemble uniquement ce qui est vérifié sur lui, sans ajouter de biographie inventée.",
   "sections": [
    [
-    "Un artiste dominicais confirmé par les nominations 2026",
+    "Un artiste dominicain confirmé par les nominations 2026",
     [
-     "Pudaz n’est pas présenté ici sur la base d’une rumeur de réseau social. Sa présence dominicaise est confirmée dans la couverture des nommés des Caribbean Music Awards 2026 que Bouyon Shattaz a utilisée pour ses recherches. Ce point compte, parce que le bouyon voyage vite entre la Dominique, la Guadeloupe, la Martinique et la France, et que les origines des artistes sont parfois brouillées au passage. Dire clairement que Pudaz est dominicais, c’est déjà faire le travail de crédit que ce site défend.",
+     "Pudaz n’est pas présenté ici sur la base d’une rumeur de réseau social. Sa présence dominicaine est confirmée dans la couverture des nommés des Caribbean Music Awards 2026 que Bouyon Shattaz a utilisée pour ses recherches. Ce point compte, parce que le bouyon voyage vite entre la Dominique, la Guadeloupe, la Martinique et la France, et que les origines des artistes sont parfois brouillées au passage. Dire clairement que Pudaz est dominicain, c’est déjà faire le travail de crédit que ce site défend.",
      "Son autre nom de scène, Dirty Dawg Pudaz, fait partie de la façon dont il est présenté. Les deux formes désignent le même artiste. Sur une page de référence, il faut les donner ensemble pour que le public qui cherche l’un retrouve aussi l’autre, et pour que les programmateurs, les radios et les plateformes ne créent pas deux profils séparés pour une seule personne. La précision des noms est une première forme de respect pour les artistes."
     ]
    ],
@@ -2383,14 +2382,14 @@ PAGES = [
     "« Bye to de Old Me (Remix) » avec Shelly et Nice",
     [
      "Le crédit le plus parlant du dossier de Pudaz est sa présence sur « Bye to de Old Me (Remix) », porté par Shelly et Nice. Le titre se trouvait à 691 000 vues sur l’étagère populaire de la chaîne YouTube de Smokiller au moment de notre relevé, et il figure dans les playlists ROAD MIX. Un remix dit beaucoup dans le bouyon : il montre qui est invité à entrer dans un titre qui circule déjà, et qui peut y ajouter une énergie nouvelle sans casser son identité.",
-     "Ce type de collaboration est au coeur du fonctionnement de la scène dominicaise. Les artistes se croisent sur des remixes, des riddims partagés et des titres de saison, puis se retrouvent sur les mêmes affiches de festival. Pour un auditeur qui découvre Pudaz par ce remix, le chemin est simple : partir de ce titre, aller écouter « Shake Something » et « B.D.Y.M.M. », puis revenir vers la page de <a href=\"/shelly.html\">Shelly</a> pour comprendre le réseau autour de la chanson.",
+     "Ce type de collaboration est au coeur du fonctionnement de la scène dominicaine. Les artistes se croisent sur des remixes, des riddims partagés et des titres de saison, puis se retrouvent sur les mêmes affiches de festival. Pour un auditeur qui découvre Pudaz par ce remix, le chemin est simple : partir de ce titre, aller écouter « Shake Something » et « B.D.Y.M.M. », puis revenir vers la page de <a href=\"/shelly.html\">Shelly</a> pour comprendre le réseau autour de la chanson.",
      "Il faut aussi noter ce que ce chiffre ne dit pas. Les 691 000 vues relevées concernent la présence du titre sur la chaîne mentionnée, au moment du relevé, pas une certification officielle et pas un total mondial définitif. Bouyon Shattaz donne le chiffre avec son contexte, plutôt que de le transformer en slogan. C’est cette discipline qui permet au public de faire confiance aux pages d’artistes quand un titre devient vraiment grand."
     ]
    ],
    [
     "WCMF 2026 : la Night 1 avec Ridge et Colton T",
     [
-     "D’après les guides publiés du World Creole Music Festival 2026, Pudaz joue la Night 1, le vendredi 23 octobre 2026, aux côtés de Ridge et de Colton T. Le WCMF, à Roseau, est la grande vitrine musicale de la Dominique : trois nuits qui rassemblent bouyon, cadence et musiques créoles devant le public de l’île et de la diaspora. Y figurer, pour un artiste dominicais, n’est pas un détail d’agenda, c’est une reconnaissance à domicile.",
+     "D’après les guides publiés du World Creole Music Festival 2026, Pudaz joue la Night 1, le vendredi 23 octobre 2026, aux côtés de Ridge et de Colton T. Le WCMF, à Roseau, est la grande vitrine musicale de la Dominique : trois nuits qui rassemblent bouyon, cadence et musiques créoles devant le public de l’île et de la diaspora. Y figurer, pour un artiste dominicain, n’est pas un détail d’agenda, c’est une reconnaissance à domicile.",
      "La Night 1 ouvre le festival, et ouvrir demande une énergie particulière. Les artistes de la première nuit donnent le ton du week-end et jouent devant un public qui arrive avec des semaines d’attente. La présence de Pudaz dans cette soirée, telle qu’elle est publiée dans les guides du festival, le place dans le groupe des noms que la Dominique met en avant quand elle présente sa propre musique au monde créole réuni à Roseau."
     ]
    ],
@@ -2404,7 +2403,7 @@ PAGES = [
    [
     "Pourquoi suivre Pudaz maintenant",
     [
-     "Pudaz arrive à un moment intéressant : une reconnaissance dans une couverture de nominations caribéennes, un remix à forte audience avec Shelly et Nice, des titres de référence déjà nommés et une Night 1 au WCMF 2026 d’après les guides publiés. Aucun de ces éléments, seul, ne fait une carrière. Ensemble, ils dessinent le profil d’un artiste dominicais que les programmateurs et le public commencent à placer sur la carte régionale du bouyon.",
+     "Pudaz arrive à un moment intéressant : une reconnaissance dans une couverture de nominations caribéennes, un remix à forte audience avec Shelly et Nice, des titres de référence déjà nommés et une Night 1 au WCMF 2026 d’après les guides publiés. Aucun de ces éléments, seul, ne fait une carrière. Ensemble, ils dessinent le profil d’un artiste dominicain que les programmateurs et le public commencent à placer sur la carte régionale du bouyon.",
      "Pour découvrir Pudaz par la musique, commencez par la <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, passez par « Bye to de Old Me (Remix) » et gardez son nom pour la Night 1 du WCMF. C’est le parcours le plus honnête : écouter, situer, créditer. Le bouyon de la Dominique a produit beaucoup de noms qui ont voyagé plus vite que leurs papiers. Pudaz est l’occasion de faire les choses dans le bon ordre, dès le début de la conversation."
     ]
    ]
@@ -2415,7 +2414,7 @@ PAGES = [
     "Pudaz, aussi présenté comme Dirty Dawg Pudaz, est un artiste bouyon de la Dominique. Il est connu pour « Shake Something » et « B.D.Y.M.M. », et pour sa place sur « Bye to de Old Me (Remix) » avec Shelly et Nice. Nommé aux Caribbean Music Awards en 2025 et en 2026, il joue la Night 1 du WCMF 2026, le 23 octobre.",
   ),
   (
-    "Pudaz est-il dominicais ?",
+    "Pudaz est-il dominicain ?",
     "Oui. Pudaz est confirmé comme artiste bouyon de la Dominique dans la couverture des nommés des Caribbean Music Awards 2026 utilisée par la recherche Bouyon Shattaz. Le communiqué de la Discover Dominica Authority pour le WCMF 2026 le cite aussi parmi les artistes du pays confirmés pour le festival, aux côtés de Asa Bantan, Reo, Nice et Gwada G.",
   ),
   (
@@ -2472,7 +2471,7 @@ PAGES = [
      "@type": "Person",
      "@id": "https://bouyonmusique.com/pudaz.html#artist",
      "name": "Pudaz",
-     "description": "Artiste bouyon dominicais, aussi présenté comme Dirty Dawg Pudaz.",
+     "description": "Artiste bouyon dominicain, aussi présenté comme Dirty Dawg Pudaz.",
      "genre": "Bouyon",
      "homeLocation": {
       "@type": "Place",
@@ -2521,21 +2520,21 @@ PAGES = [
   "slug": "gwada-g.html",
   "cat": "Artistes bouyon",
   "nav": "Gwada G",
-  "title": "Gwada G : artiste bouyon dominicais, pas guadeloupéen, WCMF 2026",
+  "title": "Gwada G : artiste bouyon dominicain, pas guadeloupéen, WCMF 2026",
   "desc": "Gwada G est un artiste bouyon homegrown de la Dominique, malgré son nom. Source DDA pour le WCMF 2026, Bouyon Talks et Night 3 avec Shelly.",
-  "h1": "Gwada G : dominicais, malgré son nom",
-  "intro": "Gwada G est un artiste bouyon dominicais, et c’est le premier fait à poser clairement. Malgré un nom qui évoque la Guadeloupe, il n’est pas guadeloupéen : le communiqué médias officiel de la Discover Dominica Authority pour le WCMF 2026 le compte parmi les artistes homegrown de la Dominique. Love Bouyon l’a aussi présenté, dans ses Bouyon Talks, comme un artiste bouyon de la nouvelle génération dominicaise annoncé au WCMF 2026. Son compte Instagram est @gwada_g. D’après les guides publiés du festival, il joue la Night 3, le dimanche 25 octobre 2026, aux côtés de <a href=\"/shelly.html\">Shelly</a> et de Signal Band.",
+  "h1": "Gwada G : dominicain, malgré son nom",
+  "intro": "Gwada G est un artiste bouyon dominicain, et c’est le premier fait à poser clairement. Malgré un nom qui évoque la Guadeloupe, il n’est pas guadeloupéen : le communiqué médias officiel de la Discover Dominica Authority pour le WCMF 2026 le compte parmi les artistes homegrown de la Dominique. Love Bouyon l’a aussi présenté, dans ses Bouyon Talks, comme un artiste bouyon de la nouvelle génération dominicaine annoncé au WCMF 2026. Son compte Instagram est @gwada_g. D’après les guides publiés du festival, il joue la Night 3, le dimanche 25 octobre 2026, aux côtés de <a href=\"/shelly.html\">Shelly</a> et de Signal Band.",
   "sections": [
    [
     "Le malentendu du nom, et pourquoi il faut le corriger",
     [
      "Le cas Gwada G est une leçon permanente pour Bouyon Shattaz : les noms voyagent, mais le crédit doit rester exact. Un nom de scène peut évoquer une autre île, un style, un surnom ou une histoire personnelle, sans définir la nationalité de l’artiste. Quand un site, une affiche ou un média reprend ce nom et en déduit une origine guadeloupéenne, l’erreur se répète ensuite partout, dans les moteurs de recherche comme dans les présentations de festival.",
-     "La source qui tranche ici est officielle. Le communiqué médias de la Discover Dominica Authority, l’organisme qui porte le WCMF, classe Gwada G parmi les homegrown acts de la Dominique. Homegrown veut dire de la maison, formé sur place, présenté comme un talent de l’île. Face à une source de ce niveau, la déduction tirée d’un pseudonyme ne pèse rien. Cette page suit donc la source officielle et dit Gwada G dominicais, point.",
-     "Ce n’est pas un détail de vocabulaire. La thèse d’origine défendue par Bouyon Shattaz est que la Dominique a créé le bouyon et doit en recevoir le crédit, les bookings et les revenus. Si même les artistes dominicais sont réétiquetés vers les îles voisines à cause de leur nom, la fuite du crédit devient automatique. Corriger Gwada G, calmement et avec la source, c’est exactement le travail pour lequel ce site existe."
+     "La source qui tranche ici est officielle. Le communiqué médias de la Discover Dominica Authority, l’organisme qui porte le WCMF, classe Gwada G parmi les homegrown acts de la Dominique. Homegrown veut dire de la maison, formé sur place, présenté comme un talent de l’île. Face à une source de ce niveau, la déduction tirée d’un pseudonyme ne pèse rien. Cette page suit donc la source officielle et dit Gwada G dominicain, point.",
+     "Ce n’est pas un détail de vocabulaire. La thèse d’origine défendue par Bouyon Shattaz est que la Dominique a créé le bouyon et doit en recevoir le crédit, les bookings et les revenus. Si même les artistes dominicains sont réétiquetés vers les îles voisines à cause de leur nom, la fuite du crédit devient automatique. Corriger Gwada G, calmement et avec la source, c’est exactement le travail pour lequel ce site existe."
     ]
    ],
    [
-    "Un artiste de la nouvelle génération dominicaise",
+    "Un artiste de la nouvelle génération dominicaine",
     [
      "Love Bouyon, dans sa série Bouyon Talks, a présenté Gwada G comme un artiste bouyon de la nouvelle génération de la Dominique, en route pour le WCMF 2026. Une interview complète était annoncée pour le 30 septembre 2026 sur la chaîne YouTube Love Bouyon Music. Cette présentation compte parce qu’elle vient d’une plateforme spécialisée dans le bouyon, qui parle à la même scène et qui choisit ses invités parmi les noms en mouvement.",
      "Nouvelle génération ne veut pas dire sans racines. À la Dominique, les jeunes artistes bouyon grandissent avec les classiques de l’île, les saisons de carnaval, les sound systems et les titres qui circulent de téléphone en téléphone avant même une sortie propre. Être repéré par Bouyon Talks et retenu dans la communication officielle du WCMF place Gwada G dans le groupe des jeunes noms que les institutions et les médias de la scène regardent déjà de près.",
@@ -2546,7 +2545,7 @@ PAGES = [
     "WCMF 2026 : la Night 3 avec Shelly et Signal Band",
     [
      "D’après les guides publiés du World Creole Music Festival 2026, Gwada G joue la Night 3, le dimanche 25 octobre 2026, aux côtés de Shelly et de Signal Band. La troisième nuit ferme le festival de Windsor Park, à Roseau. Elle rassemble le public qui reste jusqu’au bout du week-end créole, souvent le plus fidèle, celui qui vient pour la musique de la Dominique autant que pour les têtes d’affiche venues d’ailleurs.",
-     "Partager la soirée avec Shelly le place à côté d’une artiste dominicaise centrale dans les playlists et les collaborations récentes suivies par Bouyon Shattaz, dont le remix cité sur la page de <a href=\"/pudaz.html\">Pudaz</a>. Signal Band, de son côté, représente la tradition des bands de l’île. Cette combinaison, jeune artiste bouyon, voix établie et band, résume bien la façon dont le WCMF construit ses nuits : transmettre, mélanger les générations et garder la Dominique au centre de son propre festival.",
+     "Partager la soirée avec Shelly le place à côté d’un artiste dominicain central dans les playlists et les collaborations récentes suivies par Bouyon Shattaz, dont le remix cité sur la page de <a href=\"/pudaz.html\">Pudaz</a>. Signal Band, de son côté, représente la tradition des bands de l’île. Cette combinaison, jeune artiste bouyon, voix établie et band, résume bien la façon dont le WCMF construit ses nuits : transmettre, mélanger les générations et garder la Dominique au centre de son propre festival.",
      "Pour préparer la soirée, lisez notre page du <a href=\"/wcmf-festival-creole.html\">WCMF, festival créole</a>, puis écoutez la <a href=\"/playlist-bouyon.html\">playlist bouyon</a>. Et si vous retenez une seule information de ce profil, retenez celle-ci : quand l’affiche dit Gwada G, elle parle d’un artiste de la Dominique. Le programme complet des artistes de l’île est sur <a href=\"/artistes-dominique.html\">artistes de la Dominique</a>."
     ]
    ],
@@ -2561,15 +2560,15 @@ PAGES = [
    [
     "Ce que son parcours dit du bouyon d’aujourd’hui",
     [
-     "Gwada G montre comment le bouyon dominicais fonctionne en 2026. Une plateforme spécialisée comme Love Bouyon repère et interviewe, l’autorité officielle du festival classe et programme, les guides publient les nuits, et le public découvre souvent le nom avant d’avoir une discographie complète à écouter. Dans ce système, la qualité de l’information devient presque aussi importante que la musique elle-même : une mauvaise étiquette d’origine peut suivre un artiste pendant des années.",
-     "La suite pour Gwada G devra être documentée comme le début : par les titres quand ils seront publiés avec leurs crédits, par les scènes quand les organisateurs les annonceront, et par les interviews quand elles paraîtront. En attendant, ce profil donne au lecteur exactement ce qui est établi, ni plus ni moins, et une porte d’entrée claire : la Night 3 du WCMF 2026, le compte @gwada_g et les playlists où le bouyon dominicais de la nouvelle génération se découvre en musique."
+     "Gwada G montre comment le bouyon dominicain fonctionne en 2026. Une plateforme spécialisée comme Love Bouyon repère et interviewe, l’autorité officielle du festival classe et programme, les guides publient les nuits, et le public découvre souvent le nom avant d’avoir une discographie complète à écouter. Dans ce système, la qualité de l’information devient presque aussi importante que la musique elle-même : une mauvaise étiquette d’origine peut suivre un artiste pendant des années.",
+     "La suite pour Gwada G devra être documentée comme le début : par les titres quand ils seront publiés avec leurs crédits, par les scènes quand les organisateurs les annonceront, et par les interviews quand elles paraîtront. En attendant, ce profil donne au lecteur exactement ce qui est établi, ni plus ni moins, et une porte d’entrée claire : la Night 3 du WCMF 2026, le compte @gwada_g et les playlists où le bouyon dominicain de la nouvelle génération se découvre en musique."
     ]
    ]
   ],
   "faq": [
   (
     "Qui est Gwada G ?",
-    "Gwada G est un artiste bouyon de la Dominique, présenté par Love Bouyon comme une voix de la nouvelle génération dominicaise. Le communiqué de la Discover Dominica Authority le classe parmi les artistes homegrown de l’île pour le WCMF 2026, où il joue la Night 3, le 25 octobre. Son nom circule surtout par ses collaborations, avec DJ MJ, DJ Taffy ou BRG Hollywood.",
+    "Gwada G est un artiste bouyon de la Dominique, présenté par Love Bouyon comme une voix de la nouvelle génération dominicaine. Le communiqué de la Discover Dominica Authority le classe parmi les artistes homegrown de l’île pour le WCMF 2026, où il joue la Night 3, le 25 octobre. Son nom circule surtout par ses collaborations, avec DJ MJ, DJ Taffy ou BRG Hollywood.",
   ),
   (
     "Gwada G vient-il de Guadeloupe ?",
@@ -2665,7 +2664,7 @@ PAGES = [
   "title": "BONNA : nouvel artiste bouyon de La Plaine, Dominique, Not Real",
   "desc": "BONNA, artiste bouyon de La Plaine en Dominique, signé More Sewo. Not Real, @bonna_nasa et la piste de collaboration avec le producteur Denmath.",
   "h1": "BONNA : la nouvelle voix bouyon de La Plaine",
-  "intro": "BONNA est un artiste bouyon dominicais de La Plaine, en Dominique. Son compte Instagram, @bonna_nasa, est un compte créateur basé en Dominique qui affichait 312 abonnés et 24 publications lors de notre relevé du 17 octobre 2026. Sa bio dit « str8 outta lapwet », La Plaine en créole, avec une référence à la « nasa crew ». Il est signé au label More Sewo, et sa bio porte le hashtag du label. Son titre « Not Real » est arrivé sous la forme d’un clip de performance de 30 secondes, filmé en extérieur en Dominique, plein d’énergie dès la première seconde. C’est un vrai cas de nouveau talent : en octobre 2026, le titre n’avait encore aucune empreinte presse indexée.",
+  "intro": "BONNA est un artiste bouyon dominicain de La Plaine, en Dominique. Son compte Instagram, @bonna_nasa, est un compte créateur basé en Dominique qui affichait 312 abonnés et 24 publications lors de notre relevé du 17 octobre 2026. Sa bio dit « str8 outta lapwet », La Plaine en créole, avec une référence à la « nasa crew ». Il est signé au label More Sewo, et sa bio porte le hashtag du label. Son titre « Not Real » est arrivé sous la forme d’un clip de performance de 30 secondes, filmé en extérieur en Dominique, plein d’énergie dès la première seconde. C’est un vrai cas de nouveau talent : en octobre 2026, le titre n’avait encore aucune empreinte presse indexée.",
   "sections": [
    [
     "La Plaine, « str8 outta lapwet »",
@@ -2678,7 +2677,7 @@ PAGES = [
    [
     "Signé More Sewo, avec un manager",
     [
-     "BONNA est signé au label More Sewo, MORESEWO MUSIC. Sa bio Instagram porte #moresewo, et Bouyon Shattaz traite avec lui par l’intermédiaire de son manager. More Sewo est présenté comme une marque guadeloupéenne de divertissement visuel et audio, créée en 2007 par Arturo Bellot. Un artiste dominicais signé dans une structure basée en Guadeloupe illustre la géographie réelle du bouyon d’aujourd’hui : la musique naît à la Dominique, les structures et les publics circulent entre les îles créoles.",
+     "BONNA est signé au label More Sewo, MORESEWO MUSIC. Sa bio Instagram porte #moresewo, et Bouyon Shattaz traite avec lui par l’intermédiaire de son manager. More Sewo est présenté comme une marque guadeloupéenne de divertissement visuel et audio, créée en 2007 par Arturo Bellot. Un artiste dominicain signé dans une structure basée en Guadeloupe illustre la géographie réelle du bouyon d’aujourd’hui : la musique naît à la Dominique, les structures et les publics circulent entre les îles créoles.",
      "Avoir un manager change la nature des conversations. Pour Bouyon Shattaz, cela veut dire que les sujets sérieux, producteurs, collaborations, conditions d’utilisation des beats et sorties, passent par le manager et le label, pas par un message direct improvisé à l’artiste. Cette précision est écrite ici parce qu’elle protège tout le monde : l’artiste, son label et les producteurs approchés. Un projet bouyon qui veut durer doit respecter la chaîne des personnes qui représentent l’artiste.",
      "Cette structure explique aussi la prudence de ce profil. Nous ne publions ni tarif, ni condition, ni projet de sortie comme s’il était confirmé. Ce qui est public et vérifié suffit : BONNA a un label, un manager, un titre en circulation sous forme de clip et une équipe qui cherche activement les bons producteurs pour la suite. Pour un nouvel artiste, c’est déjà une organisation plus avancée que la plupart des profils que ce site documente."
     ]
@@ -2694,7 +2693,7 @@ PAGES = [
    [
     "Octobre 2026 : la recherche de producteurs et la piste Denmath",
     [
-     "En octobre 2026, l’équipe de BONNA a contacté Bouyon Shattaz en cherchant des producteurs pour lui. C’est le moment où ce profil cesse d’être seulement une découverte pour devenir un chantier de connexion. Le producteur Denmath, côté Guadeloupe, a été validé par son management comme premier candidat à une collaboration. Denmath est producteur, ingénieur du son et directeur artistique, avec le bouyon parmi ses spécialités déclarées dans le dossier Bouyon Shattaz.",
+     "En octobre 2026, l’équipe de BONNA a contacté Bouyon Shattaz en cherchant des producteurs pour lui. C’est le moment où ce profil cesse d’être seulement une découverte pour devenir un chantier de connexion. Le producteur Denmath, originaire de Saint-Martin, a été validé par son management comme premier candidat à une collaboration. Denmath est producteur, ingénieur du son et directeur artistique, avec le bouyon parmi ses spécialités déclarées dans le dossier Bouyon Shattaz.",
      "Le schéma qui se dessine est exactement le pipeline que Bouyon Shattaz veut construire : un artiste de la Dominique, un producteur du côté français, et une conversation où le label et le manager de l’artiste sont présents dès le départ. Ni beat envoyé sans cadre, ni promesse de sortie sans accord. La collaboration est décrite ici comme ce qu’elle est à ce stade, une piste validée pour commencer, pas un titre annoncé. Toute autre formulation serait de l’invention.",
      "Pour BONNA, l’enjeu est clair. Un nouvel artiste bouyon a besoin de productions qui portent sa voix sans la noyer, et qui peuvent circuler vers les publics de Guadeloupe, de Martinique et de France sans perdre l’accent de La Plaine. Pour Denmath et les producteurs de ce niveau, un artiste comme BONNA représente la matière première la plus précieuse du bouyon actuel : une énergie neuve, locale, déjà organisée avec un label et un manager prêts à discuter proprement."
     ]
@@ -2703,7 +2702,7 @@ PAGES = [
     "Pourquoi BONNA mérite une page dès maintenant",
     [
      "Certains sites attendent qu’un artiste soit déjà grand pour lui consacrer une page. Bouyon Shattaz fait l’inverse quand le dossier, même mince, est vérifiable : documenter le début permet de fixer les crédits, le label, le lieu et les premiers titres avant que les reprises approximatives ne s’installent. Si BONNA grandit, cette page servira de point de départ fiable. S’il faut corriger un élément, la structure par sources rend la correction possible sans réécrire une légende.",
-     "Son cas relie aussi plusieurs fils du site. La Dominique comme origine, sur <a href=\"/artistes-dominique.html\">artistes de la Dominique</a>. La circulation vers les publics français, dans la <a href=\"/playlist-bouyon.html\">playlist bouyon</a>. Et la scène où ces nouveaux noms doivent finir par se prouver, le <a href=\"/wcmf-festival-creole.html\">WCMF</a> et les scènes de l’île. BONNA n’est annoncé ici sur aucune affiche que notre dossier ne contient pas. Nous disons seulement que c’est le chemin naturel d’un artiste dominicais qui monte, et que son équipe travaille déjà à l’étape producteurs.",
+     "Son cas relie aussi plusieurs fils du site. La Dominique comme origine, sur <a href=\"/artistes-dominique.html\">artistes de la Dominique</a>. La circulation vers les publics français, dans la <a href=\"/playlist-bouyon.html\">playlist bouyon</a>. Et la scène où ces nouveaux noms doivent finir par se prouver, le <a href=\"/wcmf-festival-creole.html\">WCMF</a> et les scènes de l’île. BONNA n’est annoncé ici sur aucune affiche que notre dossier ne contient pas. Nous disons seulement que c’est le chemin naturel d’un artiste dominicain qui monte, et que son équipe travaille déjà à l’étape producteurs.",
      "Écoutez « Not Real », regardez d’où il vient et retenez le nom. Les carrières bouyon qui comptent commencent souvent ainsi : un clip court qui circule, une équipe qui s’organise, un producteur qui répond présent. La suite de BONNA s’écrira avec des titres, des crédits et des accords que l’on pourra citer. Cette page sera mise à jour à ce rythme-là, celui des faits, pour que le premier nom venu de La Plaine soit documenté aussi sérieusement que les têtes d’affiche."
     ]
    ]
@@ -2759,7 +2758,7 @@ PAGES = [
      "@type": "Person",
      "@id": "https://bouyonmusique.com/bonna.html#artist",
      "name": "BONNA",
-     "description": "Artiste bouyon dominicais de La Plaine, signé chez More Sewo.",
+     "description": "Artiste bouyon dominicain de La Plaine, signé chez More Sewo.",
      "genre": "Bouyon",
      "homeLocation": {
       "@type": "Place",
@@ -2783,15 +2782,15 @@ PAGES = [
   "slug": "ras-b.html",
   "cat": "Artistes bouyon",
   "nav": "Ras B",
-  "title": "Ras B : rap et bouyon dominicais, Come Here avec Skrazy et Dboss",
+  "title": "Ras B : rap et bouyon dominicain, Come Here avec Skrazy et Dboss",
   "desc": "Ras B, artiste rap et bouyon de la Dominique, @ras_b_4kdem. Come Here avec Skrazy et Dboss, crédits complets du visualizer et tag Bouyon 2027.",
-  "h1": "Ras B : le rap rencontre le bouyon dominicais",
-  "intro": "Ras B est un artiste dominicais de rap et de bouyon. Son compte Instagram @ras_b_4kdem affichait 843 abonnés lors de notre relevé du 17 octobre 2026, et sa bio dit simplement « Rap & Bouyon Artist », avec le drapeau de la Dominique. C’est une présentation directe, à l’image de sa façon de travailler : il affiche publiquement ses tarifs de featuring et de performance, une carte de visite d’artiste indépendant inhabituellement transparente. Son titre documenté ici, « Come Here », est un titre en trio avec Skrazy et Dboss, dont la description officielle du visualizer YouTube donne les crédits complets, et que le titre lui-même présente avec le tag « Bouyon 2027 ».",
+  "h1": "Ras B : le rap rencontre le bouyon dominicain",
+  "intro": "Ras B est un artiste dominicain de rap et de bouyon. Son compte Instagram @ras_b_4kdem affichait 843 abonnés lors de notre relevé du 17 octobre 2026, et sa bio dit simplement « Rap & Bouyon Artist », avec le drapeau de la Dominique. C’est une présentation directe, à l’image de sa façon de travailler : il affiche publiquement ses tarifs de featuring et de performance, une carte de visite d’artiste indépendant inhabituellement transparente. Son titre documenté ici, « Come Here », est un titre en trio avec Skrazy et Dboss, dont la description officielle du visualizer YouTube donne les crédits complets, et que le titre lui-même présente avec le tag « Bouyon 2027 ».",
   "sections": [
    [
     "« Rap & Bouyon Artist » : une identité en deux mots",
     [
-     "La bio de Ras B ne cherche pas les détours : « Rap & Bouyon Artist », avec le drapeau dominicais. Ces deux genres ensemble racontent une position précise dans la musique de l’île. Le rap apporte le débit, la narration et l’attitude, le bouyon apporte le rythme né à la Dominique, la vitesse et la culture de fête qui fait danser les foules. Un artiste qui revendique les deux dès sa bio annonce qu’il ne choisira pas entre raconter et faire bouger.",
+     "La bio de Ras B ne cherche pas les détours : « Rap & Bouyon Artist », avec le drapeau dominicain. Ces deux genres ensemble racontent une position précise dans la musique de l’île. Le rap apporte le débit, la narration et l’attitude, le bouyon apporte le rythme né à la Dominique, la vitesse et la culture de fête qui fait danser les foules. Un artiste qui revendique les deux dès sa bio annonce qu’il ne choisira pas entre raconter et faire bouger.",
      "Son compte, @ras_b_4kdem, restait à une échelle indépendante lors de notre relevé, avec 843 abonnés le 17 octobre 2026. Donner ce chiffre avec sa date évite deux erreurs opposées : gonfler l’artiste comme s’il était déjà une star régionale, ou le réduire à un inconnu alors qu’il publie des titres crédités proprement et construit une offre professionnelle publique. L’échelle réelle, datée, est l’information utile pour un programmateur comme pour un fan."
     ]
    ],
@@ -2800,7 +2799,7 @@ PAGES = [
     [
      "Le dossier de Ras B retient un détail rare : il annonce publiquement ses tarifs de featuring et de performance. Les featurings partent de 350 dollars, avec une session studio, et les tarifs de performance varient selon la durée du set. Dans un milieu où beaucoup de prix se négocient en messages privés, parfois sans jamais être écrits, afficher une grille est un geste professionnel. Cela dit aux autres artistes, aux producteurs et aux organisateurs comment travailler avec lui avant même le premier message.",
      "Cette transparence fait écho, à petite échelle, au travail de Bouyon Shattaz sur les droits et les crédits. Une scène grandit quand ses règles deviennent lisibles : qui fait quoi, pour quel prix, avec quelle session et quel crédit. Un featuring payé avec session studio incluse, ce n’est pas seulement un tarif, c’est une méthode de travail qui suppose un enregistrement propre, donc des fichiers, des noms et des parts que l’on peut documenter ensuite.",
-     "Il faut lire ces tarifs comme ceux publiés au moment de notre recherche, susceptibles d’évoluer avec sa demande. Cette page ne les garantit pas et ne sert pas d’intermédiaire commercial. Elle les cite parce qu’ils font partie de son identité publique d’artiste indépendant et parce qu’ils montrent, mieux qu’un long discours, comment un jeune artiste dominicais peut se présenter en entrepreneur de sa propre musique dès le départ."
+     "Il faut lire ces tarifs comme ceux publiés au moment de notre recherche, susceptibles d’évoluer avec sa demande. Cette page ne les garantit pas et ne sert pas d’intermédiaire commercial. Elle les cite parce qu’ils font partie de son identité publique d’artiste indépendant et parce qu’ils montrent, mieux qu’un long discours, comment un jeune artiste dominicain peut se présenter en entrepreneur de sa propre musique dès le départ."
     ]
    ],
    [
@@ -2814,27 +2813,27 @@ PAGES = [
    [
     "Un package de couverture Bouyon Shattaz",
     [
-     "En octobre 2026, Bouyon Shattaz a construit un package de couverture complet à partir du reel du trio. Ce type de package est la façon dont ce site et ses réseaux traitent un titre indépendant au sérieux : extrait vidéo travaillé pour les formats verticaux, texte de présentation fondé sur les crédits officiels et diffusion dans l’écosystème bouyon dominicais et francophone que Bouyon Shattaz entretient entre la Dominique, la Guadeloupe, la Martinique et la France.",
+     "En octobre 2026, Bouyon Shattaz a construit un package de couverture complet à partir du reel du trio. Ce type de package est la façon dont ce site et ses réseaux traitent un titre indépendant au sérieux : extrait vidéo travaillé pour les formats verticaux, texte de présentation fondé sur les crédits officiels et diffusion dans l’écosystème bouyon dominicain et francophone que Bouyon Shattaz entretient entre la Dominique, la Guadeloupe, la Martinique et la France.",
      "Pour un trio comme Ras B, Skrazy et Dboss, cette couverture compte double. Elle donne au titre une deuxième vie hors de son cercle initial, et elle fixe par écrit les noms et les rôles de chacun au moment où le public découvre la chanson. Beaucoup de disputes de crédit naissent parce que personne n’a écrit les rôles au départ. Un package documenté, publié tôt, fait office de mémoire publique pour les artistes comme pour les producteurs.",
-     "Les lecteurs qui veulent prolonger l’écoute peuvent passer par la <a href=\"/playlist-bouyon.html\">playlist bouyon</a> et par les autres profils d’<a href=\"/artistes-dominique.html\">artistes de la Dominique</a>. Ras B y prend sa place exacte : ni tête d’affiche inventée, ni figurant anonyme, mais un artiste de rap et de bouyon avec un titre en trio proprement crédité, une offre publique claire et une identité dominicaise affichée jusque dans sa bio."
+     "Les lecteurs qui veulent prolonger l’écoute peuvent passer par la <a href=\"/playlist-bouyon.html\">playlist bouyon</a> et par les autres profils d’<a href=\"/artistes-dominique.html\">artistes de la Dominique</a>. Ras B y prend sa place exacte : ni tête d’affiche inventée, ni figurant anonyme, mais un artiste de rap et de bouyon avec un titre en trio proprement crédité, une offre publique claire et une identité dominicaine affichée jusque dans sa bio."
     ]
    ],
    [
     "Ce qu’il faut retenir de Ras B",
     [
      "Le dossier de Ras B est mince en biographie et riche en signaux professionnels. Pas de parcours officiel détaillé à raconter, et cette page n’en invente pas. En revanche, tout ce qui touche au travail est écrit quelque part : son identité de genre, son île, ses tarifs publics, les crédits complets de « Come Here » et le tag tourné vers 2027 que porte le titre. Pour documenter un artiste indépendant en 2026, ces signaux valent souvent plus qu’une légende.",
-     "Le bouyon dominicais ne manque pas de voix. Il manque souvent de pages qui écrivent les noms correctement dès la première chanson. Ras B, avec sa transparence et son trio documenté, donne à Bouyon Shattaz exactement la matière qu’il faut pour bien commencer : peu de faits, mais des faits nets, datés et attribués. C’est sur cette base que la suite de son profil se construira, au rythme de ses sorties."
+     "Le bouyon dominicain ne manque pas de voix. Il manque souvent de pages qui écrivent les noms correctement dès la première chanson. Ras B, avec sa transparence et son trio documenté, donne à Bouyon Shattaz exactement la matière qu’il faut pour bien commencer : peu de faits, mais des faits nets, datés et attribués. C’est sur cette base que la suite de son profil se construira, au rythme de ses sorties."
     ]
    ]
   ],
   "faq": [
   (
     "Qui est Ras B ?",
-    "Ras B est un artiste dominicais de rap et de bouyon, suivi sur Instagram sous @ras_b_4kdem. Sa bio le présente simplement comme « Rap & Bouyon Artist », avec le drapeau de la Dominique. Il est documenté sur ce site par « Come Here », un titre en trio avec Skrazy et Dboss, et par sa place dans le Up Next Cypher de Trilla-G.",
+    "Ras B est un artiste dominicain de rap et de bouyon, suivi sur Instagram sous @ras_b_4kdem. Sa bio le présente simplement comme « Rap & Bouyon Artist », avec le drapeau de la Dominique. Il est documenté sur ce site par « Come Here », un titre en trio avec Skrazy et Dboss, et par sa place dans le Up Next Cypher de Trilla-G.",
   ),
   (
     "D’où vient Ras B ?",
-    "Ras B se présente comme un artiste de la Dominique : sa bio Instagram affiche le drapeau de l’île juste à côté de la mention « Rap & Bouyon Artist ». Ce site le range donc parmi les artistes dominicais, avec une identité affichée jusque dans sa bio, et le place dans la relève du roster de l’île, aux côtés de BONNA.",
+    "Ras B se présente comme un artiste de la Dominique : sa bio Instagram affiche le drapeau de l’île juste à côté de la mention « Rap & Bouyon Artist ». Ce site le range donc parmi les artistes dominicains, avec une identité affichée jusque dans sa bio, et le place dans la relève du roster de l’île, aux côtés de BONNA.",
   ),
   (
     "Ras B fait-il du rap ou du bouyon ?",
@@ -2858,7 +2857,7 @@ PAGES = [
   ),
   (
     "Que veut dire le tag « Bouyon 2027 » de « Come Here » ?",
-    "« Bouyon 2027 » est le tag que porte le titre lui-même. Il présente « Come Here » comme une proposition pour la prochaine vague du genre, pas seulement pour la saison en cours. Dater un titre vers l’avant fait partie du langage de la scène dominicaise actuelle. Bouyon Shattaz cite ce tag tel quel, sans le transformer en prédiction.",
+    "« Bouyon 2027 » est le tag que porte le titre lui-même. Il présente « Come Here » comme une proposition pour la prochaine vague du genre, pas seulement pour la saison en cours. Dater un titre vers l’avant fait partie du langage de la scène dominicaine actuelle. Bouyon Shattaz cite ce tag tel quel, sans le transformer en prédiction.",
   ),
   (
     "Ras B affiche-t-il ses tarifs ?",
@@ -2882,7 +2881,7 @@ PAGES = [
      "@type": "Person",
      "@id": "https://bouyonmusique.com/ras-b.html#artist",
      "name": "Ras B",
-     "description": "Artiste dominicais de rap et de bouyon.",
+     "description": "Artiste dominicain de rap et de bouyon.",
      "genre": "Bouyon",
      "homeLocation": {
       "@type": "Place",
@@ -3061,7 +3060,7 @@ PAGES = [
     "Le crédit qui place Niska dans l’histoire bouyon de ce site",
     [
      "Niska n’apparaît pas sur bouyonmusique.com comme sujet d’une biographie générale de rap français. Il y apparaît pour un fait précis et vérifié : son crédit sur « Pow Pow / Allo Doudou », un titre bouyon certifié Single Or en France en 2026. Cette façon de cadrer le profil est volontaire. Un site spécialisé en bouyon doit dire pourquoi un nom extérieur au genre entre dans ses pages, et la réponse doit tenir en une phrase sourcée, pas en une admiration vague.",
-     "Sa présence sur le titre change pourtant la portée du disque. Quand un artiste de rap français de premier plan pose son nom et sa voix sur un titre bouyon, il ouvre la chanson à un public qui ne suit ni les carnavals dominicais ni les scènes guadeloupéennes au quotidien. Ce public découvre le rythme par une voix qu’il connaît déjà. C’est un mécanisme classique des croisements de genres, et il fonctionne ici à grande échelle, chiffres officiels à l’appui.",
+     "Sa présence sur le titre change pourtant la portée du disque. Quand un artiste de rap français de premier plan pose son nom et sa voix sur un titre bouyon, il ouvre la chanson à un public qui ne suit ni les carnavals dominicains ni les scènes guadeloupéennes au quotidien. Ce public découvre le rythme par une voix qu’il connaît déjà. C’est un mécanisme classique des croisements de genres, et il fonctionne ici à grande échelle, chiffres officiels à l’appui.",
      "À l’inverse, le titre donne à Niska une place dans un récit qui n’est pas le sien au départ : celui du bouyon, né à la Dominique, porté par les Antilles et désormais certifié en France. Cette page ne lui attribue ni origine ni parcours que notre dossier ne contient pas. Elle enregistre la rencontre au point exact où elle est documentée, dans le générique d’un disque d’or, entre son nom, celui de Miimii KDS et celui de Litleboy LSBeats767."
     ]
    ],
@@ -3077,7 +3076,7 @@ PAGES = [
     "Ce que le disque prouve pour le bouyon",
     [
      "« Pow Pow / Allo Doudou » est l’une des preuves les plus nettes que le bouyon se vend à l’intérieur du marché français. Pas seulement qu’il s’y danse, pas seulement qu’il y circule sur les réseaux, mais qu’il y atteint les seuils commerciaux que l’industrie française utilise pour tous ses genres. Cette distinction est au centre de la stratégie de Bouyon Shattaz : documenter le bouyon avec les instruments de mesure du marché, pour que la Dominique et les Antilles puissent négocier avec des preuves, pas avec des impressions.",
-     "Pour les artistes bouyon qui montent, ce titre sert de repère concret. Il montre qu’une collaboration bien construite peut porter le rythme dominicais jusqu’à une certification française sans le renier. Il montre aussi que les noms des crédits comptent dans la durée : dans dix ans, quand on relira la liste des Singles Or de 2026, ce sont les trois noms du générique que l’histoire retiendra. Les écrire correctement aujourd’hui, avec la source de la SNEP, est un travail d’archive autant que de promotion."
+     "Pour les artistes bouyon qui montent, ce titre sert de repère concret. Il montre qu’une collaboration bien construite peut porter le rythme dominicain jusqu’à une certification française sans le renier. Il montre aussi que les noms des crédits comptent dans la durée : dans dix ans, quand on relira la liste des Singles Or de 2026, ce sont les trois noms du générique que l’histoire retiendra. Les écrire correctement aujourd’hui, avec la source de la SNEP, est un travail d’archive autant que de promotion."
     ]
    ],
    [
@@ -3974,9 +3973,9 @@ PAGES = [
   "cat": "Artistes bouyon",
   "nav": "Ricky Bishop",
   "title": "Ricky Bishop : le New Bouyon de Bordeaux, Gwada et Madagascar",
-  "desc": "Ricky Bishop, rappeur et ingénieur du son de Bordeaux, créateur du New Bouyon. Californienne, Anlè mwen, les EP de 2024 et son premier solo show à Paris.",
+  "desc": "Ricky Bishop, rappeur et ingénieur du son de Bordeaux, qui revendique le concept New Bouyon. Californienne, Anlè mwen, les EP de 2024 et son premier solo show à Paris.",
   "h1": "Ricky Bishop : la New Wave du bouyon",
-  "intro": "Ricky Bishop est un rappeur et ingénieur du son d’origine guadeloupéenne et malgache, installé à Bordeaux, en France. Sa biographie sur Deezer et un entretien publié par Modzik le présentent ainsi, et c’est cette double racine qui structure toute sa musique. Sur Instagram, où il apparaît sous le nom d’affichage BIG RACKS à l’adresse @rickybishop_, il comptait 15 310 abonnés et 40 publications au contrôle du 17 octobre 2026. Son fait d’armes est clair : il a créé le concept du New Bouyon, un bouyon mélangé à la trap et à la musique électronique. Le magazine Modzik l’a profilé sous le titre La New Wave du bouyon, une formule qui résume bien sa place sur cette carte : ni simple rappeur qui emprunte un rythme, ni producteur bouyon classique, mais un artiste qui revendique une nouvelle branche du genre. Pour comprendre pourquoi un artiste bordelais d’origine guadeloupéenne et malgache compte dans une histoire née à la Dominique, il faut lire sa trajectoire, ses disques et la manière dont il relie la Guadeloupe, Madagascar et la France. Cette page rassemble uniquement les faits vérifiés de nos dossiers, de ses premiers albums à son premier concert solo parisien annoncé pour le mardi 20 octobre 2026.",
+  "intro": "Ricky Bishop est un rappeur et ingénieur du son d’origine guadeloupéenne et malgache, installé à Bordeaux, en France. Sa biographie sur Deezer et un entretien publié par Modzik le présentent ainsi, et c’est cette double racine qui structure toute sa musique. Sur Instagram, où il apparaît sous le nom d’affichage BIG RACKS à l’adresse @rickybishop_, il comptait 15 310 abonnés et 40 publications au contrôle du 17 octobre 2026. Son fait d’armes est clair : il se présente comme le créateur du concept New Bouyon, un bouyon mélangé à la trap et à la musique électronique. Le magazine Modzik l’a profilé sous le titre La New Wave du bouyon, une formule qui résume bien sa place sur cette carte : ni simple rappeur qui emprunte un rythme, ni producteur bouyon classique, mais un artiste qui revendique une nouvelle branche du genre. Pour comprendre pourquoi un artiste bordelais d’origine guadeloupéenne et malgache compte dans une histoire née à la Dominique, il faut lire sa trajectoire, ses disques et la manière dont il relie la Guadeloupe, Madagascar et la France. Cette page rassemble uniquement les faits vérifiés de nos dossiers, de ses premiers albums à son premier concert solo parisien annoncé pour le mardi 20 octobre 2026.",
   "sections": [
    [
     "Un profil bordelais, des racines Gwada et Mada",
@@ -3989,7 +3988,7 @@ PAGES = [
    [
     "Le New Bouyon, un concept revendiqué",
     [
-     "Le New Bouyon est le concept que Ricky Bishop a créé et qui donne son nom à sa démarche : prendre le bouyon, musique née à la Dominique, et le mélanger ouvertement à la trap et à la musique électronique. L’idée n’est pas de diluer le genre, mais de lui ouvrir un autre terrain, celui des rappeurs et des producteurs formés aux sons actuels des plateformes. En 2024, il a donné une forme discographique à ce concept avec deux EP, #newbouyon et #sexybouyon, deux titres qui fonctionnent comme des manifestes autant que comme des projets musicaux.",
+     "Le New Bouyon est le concept que Ricky Bishop revendique et qui donne son nom à sa démarche : prendre le bouyon, musique née à la Dominique, et le mélanger ouvertement à la trap et à la musique électronique. L’idée n’est pas de diluer le genre, mais de lui ouvrir un autre terrain, celui des rappeurs et des producteurs formés aux sons actuels des plateformes. En 2024, il a donné une forme discographique à ce concept avec deux EP, #newbouyon et #sexybouyon, deux titres qui fonctionnent comme des manifestes autant que comme des projets musicaux.",
      "Parmi les titres associés à cette période figure Anlè mwen, retenu dans la liste des titres de cette page parce qu’il appartient à cette séquence de construction du concept. Modzik a également couvert sa série d’événements #NewBouyonExperience, signe que le concept ne vit pas seulement en studio : il se teste aussi en public, dans des rendez-vous pensés pour faire entendre cette fusion à un auditoire. C’est souvent là qu’un concept prouve sa valeur, quand le public répond présent à une proposition qui n’existait pas sous ce nom avant lui.",
      "Cette démarche rejoint une question plus large que le site suit de page en page : qui fait évoluer le bouyon, et depuis où ? La réponse de Ricky Bishop est celle d’un artiste de la diaspora élargie, entre Bordeaux, la Guadeloupe et Madagascar. La page <a href=\"/producteurs-et-passeurs.html\">Producteurs et passeurs</a> replace ce type de profil dans l’ensemble des relais qui font circuler le genre entre les îles et les grandes villes."
     ]
@@ -4074,7 +4073,7 @@ PAGES = [
      "@type": "Person",
      "@id": "https://bouyonmusique.com/ricky-bishop.html#artist",
      "name": "Ricky Bishop",
-     "description": "Rapper and sound engineer from Bordeaux, creator of the New Bouyon concept.",
+     "description": "Rapper and sound engineer from Bordeaux, who presents himself as the creator of the New Bouyon concept.",
      "homeLocation": {
       "@type": "Place",
       "name": "Bordeaux, France"
@@ -4669,7 +4668,7 @@ PAGES = [
     "Pourquoi 1988, pourquoi la Dominique",
     [
      "Le contexte explique l’urgence. Dans les années 1980, le zouk de Martinique et de Guadeloupe domine les ondes caribéennes. Les musiciens dominicains veulent un son moderne qui soit le leur, pas une copie. Ils veulent garder l’âme de leurs traditions tout en parlant aux jeunes de leur génération. La fusion de WCK répond exactement à cette demande : une identité dominicaine, amplifiée par l’électronique.",
-     "Dans les années 1990, le bouyon domine la Dominique. Il devient la musique du carnaval Mas Domnik et des fêtes de village, le rendez-vous où l’île se reconnaît. La livraison vocale, influencée par les styles parlés, le dancehall et le ragga, ouvre des branches comme le bouyon-muffin et le Wrecketeng, appelé aussi wrecketeng. Le genre montre dès ses premières années qu’il sait se ramifier sans perdre son centre, qui reste dominicain."
+     "Dans les années 1990, le bouyon domine la Dominique. Il devient la musique du carnaval Mas Domnik et des fêtes de village, le rendez-vous où l’île se reconnaît. La livraison vocale, influencée par les styles parlés, le dancehall et le ragga, ouvre des branches comme le bouyon-muffin et le Wrecketeng. Le genre montre dès ses premières années qu’il sait se ramifier sans perdre son centre, qui reste dominicain."
     ]
    ],
    [
@@ -5117,23 +5116,16 @@ PAGES = [
   "slug": "femmes-du-bouyon.html",
   "cat": "Culture bouyon",
   "nav": "Femmes du bouyon",
-  "title": "Femmes du bouyon : Maurane Voyer, Miimii KDS et Shelly",
-  "desc": "Femmes du bouyon : Maurane Voyer, Miimii KDS, Shelly, Tamillia et Ebony Empress, têtes d’affiche et faiseuses de hits, de Joli BB au disque d’or SNEP.",
+  "title": "Femmes du bouyon : Maurane Voyer, Miimii KDS et Ebony Empress",
+  "desc": "Femmes du bouyon : Maurane Voyer, Miimii KDS, Tamillia et Ebony Empress, têtes d’affiche et faiseuses de hits, de Joli BB au disque d’or SNEP.",
   "h1": "Femmes du bouyon : têtes d’affiche, pas décorations",
-  "intro": "Ce chapitre pose une ligne simple : dans le bouyon, les femmes sont des têtes d’affiche et des faiseuses de hits, pas des décorations. Maurane Voyer porte “Joli BB” avec Reo. Miimii KDS empile un viral et un disque d’or SNEP. Shelly aligne les vues et les collaborations avec Signal Band depuis la Dominique. Tamillia prête sa voix au “Don’t Care” de DJ Blax. Ebony Empress signe un riddim officiel. Et l’économie du remix elle-même tourne sur des voix de femmes, d’Ayra Starr à Shenseea.",
+  "intro": "Ce chapitre pose une ligne simple : dans le bouyon, les femmes sont des têtes d’affiche et des faiseuses de hits, pas des décorations. Maurane Voyer porte “Joli BB” avec Reo. Miimii KDS empile un viral et un disque d’or SNEP. Tamillia prête sa voix au “Don’t Care” de DJ Blax. Ebony Empress signe un riddim officiel. Et l’économie du remix elle-même tourne sur des voix de femmes, d’Ayra Starr à Shenseea.",
   "sections": [
    [
     "Maurane Voyer et Miimii KDS, deux preuves par les titres",
     [
      "Maurane Voyer vient de Martinique. Son album “BBW” date de 2022, et sa voix porte “Joli BB” avec <a href=\"/reo.html\">Reo</a>, sorti le 9 octobre 2026. Elle figure aussi à l’affiche de la première nuit du World Creole Music Festival 2026. Trois faits qui dessinent une artiste installée : un album, un duo bouyon remarqué, et une scène de festival majeur dans l’île d’origine du genre.",
      "Miimii KDS, de Guadeloupe, présente un autre type de preuve : les chiffres de la France. Son “Sé Miimii” est devenu viral en 2025, et “Pow Pow / Allo Doudou” a été certifié Single Or par la SNEP, avec 15 millions d’équivalents streams en France. Sa page <a href=\"/miimii-kds.html\">Miimii KDS</a> détaille ce parcours. Une artiste gwada qui convertit le bouyon en or français : c’est un argument que tout le genre peut utiliser."
-    ]
-   ],
-   [
-    "Shelly, la voix dominicaine qui monte",
-    [
-     "Shelly représente la Dominique dans ce chapitre. Son “Bye to de Old Me (Remix)” affiche 691 000 vues, et elle a enchaîné deux collaborations tendance avec Signal Band. Elle chante avec le groupe lors de la troisième nuit du WCMF 2026. Sa page <a href=\"/shelly.html\">Shelly</a> et celle de <a href=\"/signal-band.html\">Signal Band</a> racontent cette ascension depuis l’île même où le bouyon est né.",
-     "Le cas Shelly compte parce qu’il casse un récit paresseux : celui où le bouyon féminin viendrait seulement des scènes françaises. Ici, une artiste dominicaine construit son public titre par titre, en collaboration avec le groupe phare de son île, jusqu’à la grande scène du festival créole. Les femmes du bouyon ne sont pas un thème importé. Elles sont présentes à chaque étage de la maison, y compris au rez-de-chaussée dominicain."
     ]
    ],
    [
@@ -5153,7 +5145,7 @@ PAGES = [
    [
     "Écouter avec l’histoire en tête",
     [
-     "Ce chapitre se lit aussi comme une invitation à circuler dans le site. Écoutez-les via <a href=\"/playlist-bouyon.html\">la playlist bouyon</a>, puis lisez <a href=\"/maurane-voyer.html\">Maurane Voyer</a>, <a href=\"/miimii-kds.html\">Miimii KDS</a> et <a href=\"/shelly.html\">Shelly</a>. Chaque page répond à une autre : une page artiste éclaire une page culture, une page style éclaire une page festival, une playlist transforme la lecture en écoute. Ne vous sentez pas obligé de tout lire dans l’ordre. Entrez par le nom qui vous intrigue, par le rythme qui vous a accroché, par la fête dont tout le monde parle. Puis revenez ici et relisez ce chapitre avec ces sons en tête. La deuxième lecture sera différente, parce que les noms seront devenus des voix. C’est exactement le parcours que Bouyon Shattaz souhaite pour le bouyon en France : d’abord la curiosité, ensuite l’écoute, puis la fidélité. Et à chaque étape, le même réflexe : vérifier qui chante, qui produit, qui a écrit, et d’où vient le son. Un public qui pose ces questions devient un public qui protège la musique qu’il aime.",
+     "Ce chapitre se lit aussi comme une invitation à circuler dans le site. Écoutez-les via <a href=\"/playlist-bouyon.html\">la playlist bouyon</a>, puis lisez <a href=\"/maurane-voyer.html\">Maurane Voyer</a>, <a href=\"/miimii-kds.html\">Miimii KDS</a> et <a href=\"/ebony-empress.html\">Ebony Empress</a>. Chaque page répond à une autre : une page artiste éclaire une page culture, une page style éclaire une page festival, une playlist transforme la lecture en écoute. Ne vous sentez pas obligé de tout lire dans l’ordre. Entrez par le nom qui vous intrigue, par le rythme qui vous a accroché, par la fête dont tout le monde parle. Puis revenez ici et relisez ce chapitre avec ces sons en tête. La deuxième lecture sera différente, parce que les noms seront devenus des voix. C’est exactement le parcours que Bouyon Shattaz souhaite pour le bouyon en France : d’abord la curiosité, ensuite l’écoute, puis la fidélité. Et à chaque étape, le même réflexe : vérifier qui chante, qui produit, qui a écrit, et d’où vient le son. Un public qui pose ces questions devient un public qui protège la musique qu’il aime.",
      "Ce qu’un nouvel auditeur retient souvent en premier, c’est un refrain. Puis vient une question : qui est derrière ce refrain, et qu’est-ce que je peux écouter ensuite ? Ce chapitre essaie de répondre à cette deuxième question, la plus importante. Derrière chaque titre mis en avant, il y a une chaîne : un artiste, un producteur, parfois un label, parfois un média qui a relayé au bon moment. Suivre cette chaîne, c’est passer du statut d’auditeur de passage à celui de membre d’une scène. Vous n’avez pas besoin de tout connaître pour commencer. Il suffit de retenir quelques noms, de les chercher, de les suivre, et de partager leurs titres avec le bon crédit. Le reste vient avec l’écoute régulière. Revenez à la playlist du site entre deux lectures : elle est pensée comme la bande-son de ces chapitres, et chaque retour rendra les noms plus familiers et les différences entre les styles plus nettes."
     ]
    ],
@@ -5182,23 +5174,15 @@ PAGES = [
   "faq": [
   (
     "Qui sont les femmes mises en avant dans ce chapitre ?",
-    "Le chapitre met en avant Maurane Voyer, de Martinique, Miimii KDS, de Guadeloupe, Shelly, de la Dominique, Tamillia, qui a grandi à Saint-Martin, et Ebony Empress, voix du Bounce 2D Riddim. Il cite aussi Ayra Starr et Shenseea, dont les voix portent des remixes bouyon de Smokiller : des têtes d’affiche et des faiseuses de hits, pas des décorations.",
+    "Le chapitre met en avant Maurane Voyer, de Martinique, Miimii KDS, de Guadeloupe, Tamillia, qui a grandi à Saint-Martin, et Ebony Empress, voix du Bounce 2D Riddim. Il cite aussi Ayra Starr et Shenseea, dont les voix portent des remixes bouyon de Smokiller : des têtes d’affiche et des faiseuses de hits, pas des décorations.",
   ),
   (
     "Quel titre féminin a été certifié or en France ?",
     "“Pow Pow / Allo Doudou”, avec Miimii KDS, artiste de Guadeloupe, a été certifié Single Or par la SNEP avec 15 millions d’équivalents streams en France. Miimii KDS avait déjà signé un titre viral en 2025 avec “Sé Miimii”. Une artiste gwada qui convertit le bouyon en or français : c’est un argument que tout le genre peut utiliser.",
   ),
   (
-    "Quelle artiste dominicaine chante au WCMF 2026 ?",
-    "Shelly, artiste de la Dominique, chante avec Signal Band lors de la troisième nuit du WCMF 2026, le dimanche 25 octobre 2026. Son “Bye to de Old Me (Remix)” affiche 691 000 vues, et elle a enchaîné deux collaborations tendance avec le groupe. La Martiniquaise Maurane Voyer figure aussi à l’affiche de la première nuit du festival.",
-  ),
-  (
     "Qui est Maurane Voyer ?",
     "Maurane Voyer est une chanteuse de Martinique, autrice de l’album “BBW” en 2022. En 2026, elle porte “Joli BB” avec Reo, sorti le 9 octobre 2026 sur le label Mauve et écrit par Maurane Voyer, Dario Yankey et Nicolas Lanclume. Elle joue la première nuit du WCMF 2026 à Roseau. Son parcours est sur la page <a href=\"/maurane-voyer.html\">Maurane Voyer</a>.",
-  ),
-  (
-    "Quelles sont les chansons de Shelly avec Signal Band ?",
-    "Shelly a deux titres tendance avec Signal Band : “Where Did You Come From” et “What YOU Say”, à 334 000 et 283 000 vues sur l’étagère populaire de la chaîne YouTube de Smokiller. Son titre le plus vu reste “Bye to de Old Me (Remix)”, avec Nice et Pudaz, à 691 000 vues. Les trois figurent dans les playlists ROAD MIX.",
   ),
   (
     "Qui chante Don’t Care de DJ Blax ?",
@@ -5222,7 +5206,7 @@ PAGES = [
   ),
   (
     "Le bouyon féminin vient-il seulement des Antilles françaises ?",
-    "Non. Shelly construit son public depuis la Dominique, titre par titre, avec Signal Band, jusqu’à la grande scène du WCMF, et Ebony Empress est née en Dominique. Les femmes du bouyon sont présentes à chaque étage de la maison : Martinique, Guadeloupe, Saint-Martin, et aussi l’île même où le genre est né. Ce n’est pas un thème importé.",
+    "Non. Ebony Empress, par exemple, est née en Dominique. Les femmes du bouyon sont présentes à chaque étage de la maison : Martinique, Guadeloupe, Saint-Martin, et aussi l’île même où le genre est né. Ce n’est pas un thème importé.",
   ),
   (
     "Quel rôle jouent les danseuses dans le bouyon ?",
@@ -5244,7 +5228,7 @@ PAGES = [
    [
     "Les producteurs : six signatures, six méthodes",
     [
-     "Smokiller ouvre la liste par sa méthode : le remix en style wrecketeng, qui prend des mélodies et des voix familières et les rhabille au tempo bouyon, au sein de Bouyon Shattaz. Denmath, de Saint-Martin et basé entre Nantes et Paris, signe les riddims Tropical Riddim et Harley Riddim en 2022, puis “Tarif” de Koko Bwa en 2025. Deux profils différents : le remixeur dominicain et le producteur de riddims installé en France.",
+     "Smokiller ouvre la liste par sa méthode : le remix en style wrecketeng, qui prend des mélodies et des voix familières et les rhabille au tempo bouyon, au sein de Bouyon Shattaz. Denmath, de Saint-Martin et basé entre Nantes et Paris, signe les riddims Tropical Riddim et Harley Riddim en 2022, puis “Tarif” de Koko Bwa en 2025. Deux profils différents : le remixeur né en Dominique et le producteur de riddims installé en France.",
      "HYPNO a marqué les esprits avec “MAUVAIS PLAN” à 160 BPM, une vitesse qui dit son esthétique. Savion, joignable comme @prod.bysavion, travaille le format snippet, ces extraits courts qui testent un son avant sa sortie. MB On The Track propose des beats sur mesure en message privé et a donné “Rock Bouyon”. Dboss signe le riddim “Come Here” pour le trio Skrazy, Dboss et Ras B. Six signatures, et autant de façons de fabriquer du bouyon."
     ]
    ],
@@ -5645,7 +5629,7 @@ PAGES = [
    [
     "Le patron: Asa Bantan, de Grand Bay",
     [
-     "<a href=\"/asa-bantan.html\">Asa Bantan</a> vient de Grand Bay, le même village que Midnight Groovers, et il est largement appelé le King of Bouyon, le roi du bouyon, ainsi que Bouyon Boss. Ces titres sont des titres attribués, ceux que le public et la scène lui donnent, et ils disent sa place dans le genre: celle du patron, de l’artiste de référence que les autres doivent affronter sur scène et dans les playlists. Son nom revient dès qu’on parle de bouyon dominicain au présent, pas seulement au passé.",
+     "<a href=\"/asa-bantan.html\">Asa Bantan</a> vient de Grand Bay, le même village que Midnight Groovers, et il est largement appelé le King of Bouyon, le roi du bouyon, et Dominica Festivals l’a identifié comme le Bouyon Boss. Ces titres sont des titres attribués, ceux que le public et la scène lui donnent, et ils disent sa place dans le genre: celle du patron, de l’artiste de référence que les autres doivent affronter sur scène et dans les playlists. Son nom revient dès qu’on parle de bouyon dominicain au présent, pas seulement au passé.",
      "Asa Bantan représente la continuité entre l’invention et la scène actuelle: présence de carnaval, répertoire que le public connaît par coeur et autorité naturelle en live. Son profil est la porte d’entrée vers le bouyon dominicain dans sa forme la plus directe, celle du jump up."
     ]
    ],
@@ -5653,20 +5637,20 @@ PAGES = [
     "La génération des titres: Reo et Ridge",
     [
      "<a href=\"/reo.html\">Reo</a> est présenté comme le Prince of Bouyon, le prince du bouyon: là aussi, c’est un titre attribué, celui sous lequel la scène le présente, et il convient bien à un artiste placé dans la lignée directe des patrons. Reo est nommé aux Caribbean Music Awards 2026, une reconnaissance qui dépasse l’île. En 2026, il porte aussi l’un des ponts les plus visibles du bouyon actuel, « Joli BB » avec la Martiniquaise Maurane Voyer, un disque qui relie Roseau à Fort-de-France.",
-     "<a href=\"/ridge.html\">Ridge</a>, dit Mr Ridge, est l’autre nom dominicain nommé aux Caribbean Music Awards 2026. Claviériste et producteur, il rappelle que le bouyon n’est pas qu’une affaire de chanteurs: les musiciens qui construisent le son, les arrangements et les riddims tiennent le genre autant que les voix. Ridge est aussi à l’affiche de la première nuit du WCMF 2026. Son profil complète celui de Reo: d’un côté la voix et le titre de prince, de l’autre le clavier, la production et le travail de studio."
+     "<a href=\"/ridge.html\">Ridge</a>, dit Mr Ridge, est l’autre nom dominicain nommé aux Caribbean Music Awards 2026, et c’est lui qui y a remporté le prix d’artiste bouyon de l’année, selon les résultats publiés en septembre 2026. Claviériste et producteur, il rappelle que le bouyon n’est pas qu’une affaire de chanteurs: les musiciens qui construisent le son, les arrangements et les riddims tiennent le genre autant que les voix. Ridge est aussi à l’affiche de la première nuit du WCMF 2026. Son profil complète celui de Reo: d’un côté la voix et le titre de prince, de l’autre le clavier, la production et le travail de studio."
     ]
    ],
    [
     "Les groupes de la scène live: Signal Band et TK International",
     [
-     "<a href=\"/signal-band.html\">Signal Band</a> est le groupe derrière deux titres tendance de Shelly, la chanteuse dominicaine présentée plus bas dans cette page. Ce rôle dit l’importance des bandes dans le bouyon actuel: un groupe solide transforme une bonne chanson en titre qui tourne partout, parce qu’il sait la jouer fort, vite et longtemps, comme le public du carnaval et des fêtes l’exige. Signal Band est donc à suivre comme un moteur de la scène, pas comme un simple accompagnement.",
+     "<a href=\"/signal-band.html\">Signal Band</a> est le groupe derrière deux titres tendance de Shelly, le chanteur dominicain présenté plus bas dans cette page. Ce rôle dit l’importance des bandes dans le bouyon actuel: un groupe solide transforme une bonne chanson en titre qui tourne partout, parce qu’il sait la jouer fort, vite et longtemps, comme le public du carnaval et des fêtes l’exige. Signal Band est donc à suivre comme un moteur de la scène, pas comme un simple accompagnement.",
      "<a href=\"/tk-international.html\">TK International</a>, le Triple Kay Band, appartient à la même culture des grands groupes dominicains et figure à l’affiche de la première nuit du WCMF 2026. La présence de ces formations au festival montre que, en Dominique, le bouyon reste une musique de groupe et de scène, héritée de la cadence-lypso et pensée pour le direct. Quand vous préparez votre festival, gardez ces deux noms en tête: ce sont eux qui portent le son de l’île quand les lumières s’allument à Windsor Park."
     ]
    ],
    [
     "Les voix et les solos: Shelly et Colton T",
     [
-     "<a href=\"/shelly.html\">Shelly</a> est une chanteuse dominicaine dont le titre « Bye to de Old Me (Remix) » marque le parcours, avec Signal Band derrière deux de ses titres tendance. Sa place dans ce roster est celle d’une voix de l’île qui s’impose dans le bouyon d’aujourd’hui, avec des chansons qui parlent de départ, de changement et d’affirmation. Pour les lecteurs qui cherchent les femmes du bouyon dominicain contemporain, son profil est un passage obligé, à lire avec celui des autres voix de ce site.",
+     "<a href=\"/shelly.html\">Shelly</a> est un chanteur dominicain dont le titre « Bye to de Old Me (Remix) » marque le parcours, avec Signal Band derrière deux de ses titres tendance. Sa place dans ce roster est celle d’une voix de l’île qui s’impose dans le bouyon d’aujourd’hui, avec des chansons qui parlent de départ, de changement et d’affirmation. Son profil est à lire avec celui des autres voix de ce site.",
      "<a href=\"/colton-t.html\">Colton T</a> représente le versant artiste solo du roster. Il est à l’affiche de la première nuit du WCMF 2026, aux côtés des groupes et des noms déjà cités. Cette place au programme du festival de la maison, à Roseau, vaut confirmation: la scène dominicaine fait confiance à ses solos pour ouvrir la plus grande scène créole de l’île. Colton T complète ainsi un tableau où coexistent groupes historiques, patrons, producteur et voix solo, toutes branches du même arbre."
     ]
    ],
@@ -5687,7 +5671,7 @@ PAGES = [
    [
     "Le producteur des remixes: Smokiller",
     [
-     "<a href=\"/smokiller.html\">Smokiller</a> ferme ce roster avec un profil différent: né en Dominique, c’est le producteur derrière les remixes Bouyon Shattaz, ceux qui retournent des titres d’autres univers en bouyon. Sa place ici est logique: la diaspora fait partie de l’histoire de l’île source, et un producteur dominicain de naissance, actif depuis les États-Unis, prolonge le son de Roseau vers de nouveaux publics. C’est aussi la signature éditoriale de ce site, publié par Bouyon Shattaz.",
+     "<a href=\"/smokiller.html\">Smokiller</a> ferme ce roster avec un profil différent: né en Dominique, c’est le producteur derrière les remixes Bouyon Shattaz, ceux qui retournent des titres d’autres univers en bouyon. Sa place ici est logique: un producteur né en Dominique prolonge le son de Roseau vers de nouveaux publics. C’est aussi la signature éditoriale de ce site, publié par Bouyon Shattaz.",
      "Le travail de Smokiller montre une autre façon de défendre l’origine: par la production. Un remix bouyon réussi impose la rythmique et l’énergie de la Dominique à des chansons que le monde connaît déjà, puis renvoie l’auditeur vers les artistes de cette page."
     ]
    ],
@@ -5730,11 +5714,11 @@ PAGES = [
   ),
   (
     "Quels artistes dominicains sont nommés aux Caribbean Music Awards 2026?",
-    "Reo et Ridge, dit Mr Ridge, sont tous deux nommés dans la catégorie Bouyon Artist of the Year des Caribbean Music Awards 2026. Le titre « La Vie Doux », de Reo avec Tehilah, est aussi nommé pour le Bouyon Song of the Year. Ces nominations portent la génération actuelle du bouyon dominicain au-delà de l’île. Voir <a href=\"/reo.html\">Reo</a>.",
+    "Reo et Ridge, dit Mr Ridge, sont tous deux nommés dans la catégorie Bouyon Artist of the Year des Caribbean Music Awards 2026, et Mr Ridge l’a remportée, selon les résultats publiés en septembre 2026. Le titre « La Vie Doux », de Reo avec Tehilah, est aussi nommé pour le Bouyon Song of the Year. Ces nominations portent la génération actuelle du bouyon dominicain au-delà de l’île. Voir <a href=\"/reo.html\">Reo</a>.",
   ),
   (
     "Qui est Ridge, dit Mr Ridge?",
-    "Ridge, ou Mr Ridge, est un artiste bouyon dominicain, claviériste et producteur, connu sur Instagram sous le nom @crossdbridge. Nommé aux Caribbean Music Awards 2026, il joue la première nuit du WCMF 2026 avec un groupe live comprenant Nikita Christmas à la batterie et à la direction musicale. Il rappelle que le bouyon tient aussi par ses musiciens. Voir <a href=\"/ridge.html\">Ridge</a>.",
+    "Ridge, ou Mr Ridge, est un artiste bouyon dominicain, claviériste et producteur, connu sur Instagram sous le nom @crossdbridge. Lauréat du prix d’artiste bouyon de l’année aux Caribbean Music Awards 2026, il joue la première nuit du WCMF 2026 avec un groupe live comprenant Nikita Christmas à la batterie et à la direction musicale. Il rappelle que le bouyon tient aussi par ses musiciens. Voir <a href=\"/ridge.html\">Ridge</a>.",
   ),
   (
     "Quels groupes live portent le bouyon dominicain aujourd’hui?",
@@ -5742,7 +5726,7 @@ PAGES = [
   ),
   (
     "Qui chante Bye to de Old Me (Remix)?",
-    "Le remix de « Bye to de Old Me » est interprété par Shelly, chanteuse de la Dominique, avec Nice et Pudaz. Il affiche 691 000 vues sur l’étagère populaire de la chaîne YouTube de Smokiller et figure dans les playlists ROAD MIX. Shelly enchaîne ensuite deux titres tendance avec Signal Band. Voir <a href=\"/shelly.html\">Shelly</a>.",
+    "Le remix de « Bye to de Old Me » est interprété par Shelly, chanteur de la Dominique, avec Nice et Pudaz. Il affiche 691 000 vues sur l’étagère populaire de la chaîne YouTube de Smokiller et figure dans les playlists ROAD MIX. Shelly enchaîne ensuite deux titres tendance avec Signal Band. Voir <a href=\"/shelly.html\">Shelly</a>.",
   ),
   (
     "Quels sont les nouveaux artistes bouyon de la Dominique?",
