@@ -147,13 +147,13 @@ Gap: 0. PARITY COMPLETE 2026-10-20: all 142 roster artists now have profiles on 
 - ~~yu-mei~~ BUILT 2026-10-20 (parity wave 18)
 
 ### Queued (surfaced during scene sweep waves 1-3 research)
-- Le Daah (EN LEY feature credit, via Judi Silva research)
-- Gringo Jay (ANDOLOKO feature billing, via D.O.C FIX DEM research; track itself unverified lead)
+- ~~Le Daah~~ BUILT 2026-10-20 (scene sweep wave 4 / build wave 22) (EN LEY feature credit, via Judi Silva research)
+- ~~Gringo Jay~~ BUILT 2026-10-20 (scene sweep wave 4 / build wave 22) (ANDOLOKO feature billing, via D.O.C FIX DEM research; track itself unverified lead)
 - D.O.C FIX IT (lead name on ELLE DANSE BOUYON, kept separate from D.O.C FIX DEM)
-- Foxy Jael (Ebony Empress feature, via YoJoshii research)
-- Le Rebelle (Bad vocal credit, via Nicolas Macbeth research)
-- Kwib La Beats (Rum producer credit, via Poyzin research)
-- Corane Vincent (recurring credit name, DJ Luchshiy and Pinpin OSP circles)
+- ~~Foxy Jael~~ BUILT 2026-10-20 (scene sweep wave 4 / build wave 22) (Ebony Empress feature, via YoJoshii research)
+- ~~Le Rebelle~~ BUILT 2026-10-20 (scene sweep wave 4 / build wave 22) (Bad vocal credit, via Nicolas Macbeth research)
+- ~~Kwib La Beats~~ BUILT 2026-10-20 (scene sweep wave 4 / build wave 22) (Rum producer credit, via Poyzin research)
+- ~~Corane Vincent~~ BUILT 2026-10-20 (scene sweep wave 4 / build wave 22) (recurring credit name, DJ Luchshiy and Pinpin OSP circles)
 - Dernel Green (Black Girl Magic producer credit, via Starsha research)
 
 ## Rule
@@ -176,12 +176,12 @@ Sean's directive (2026-10-20): after the 142-name parity list closes, the build 
 - ~~Starsha~~ BUILT 2026-10-20 (scene sweep wave 2 / build wave 20) (prod.bysavion collaborator)
 - ~~Kai Du M~~ BUILT 2026-10-20 (scene sweep wave 2 / build wave 20) (DJ Blax composer credits)
 - ~~Nensha~~ BUILT 2026-10-20 (scene sweep wave 2 / build wave 20) (DJ Blax composer credit)
-- Alkpote (DJ Blax composer credit; French rap, low bouyon priority)
+- ~~Alkpote~~ BUILT 2026-10-20 (scene sweep wave 4 / build wave 22) (DJ Blax composer credit; French rap, low bouyon priority)
 - ~~Malko~~ BUILT 2026-10-20 (scene sweep wave 2 / build wave 20) (HYPNO producer credits)
 - ~~Mopao Mumu~~ BUILT 2026-10-20 (scene sweep wave 2 / build wave 20) (HYPNO producer credit)
 - ~~YuniikBeatz~~ BUILT 2026-10-20 (scene sweep wave 3 / build wave 21) (TIITII NBA collaborator)
 - ~~Poyzin~~ BUILT 2026-10-20 (scene sweep wave 3 / build wave 21) (Ras B collaborator)
-- Chronic Law (Kkrytical collaborator; dancehall, low bouyon priority)
+- ~~Chronic Law~~ BUILT 2026-10-20 (scene sweep wave 4 / build wave 22) (Kkrytical collaborator; dancehall, low bouyon priority)
 - ~~Quan~~ COVERED 2026-10-20 (parity wave 14 profile quan.html)
 - ~~Le Det~~ BUILT 2026-10-20 (scene sweep wave 1 / build wave 19) (Le Dext namesake, explicitly separated; own catalogue exists)
 - ~~Ti locksée~~ BUILT 2026-10-20 (scene sweep wave 3 / build wave 21) (Ma6mo duet partner)
@@ -194,3 +194,7 @@ Sean's directive (2026-10-20): after the 142-name parity list closes, the build 
 - ~~Sonic Art Studios circle~~ BUILT 2026-10-20 (scene sweep wave 3 / build wave 21) (Mr Delly credits)
 
 Sweep count queued: 28 (as of 2026-10-20, wave 13 in progress). The queue grows as each wave's research surfaces new verified names.
+
+### Queued (surfaced during scene sweep wave 4 research)
+- Novy (La petite m'a dit duet, via Gringo Jay research)
+- Banklaady (LEAN BACK lead billing, via Gringo Jay research)
