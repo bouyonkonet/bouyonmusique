@@ -296,12 +296,12 @@ PAGES = [
 {
 "slug": "bouyon-ou-shatta.html", "cat": "Guides bouyon", "nav": "Bouyon ou shatta",
 "title": "Bouyon ou Shatta : le rapport entre les deux sons",
-"desc": "Bouyon ou shatta : le shatta est la famille moderne des riddims antillais, le bouyon le genre dominicain historique. Leur rencontre : le shatta bouyon.",
-"h1": "Bouyon ou shatta : ancien et nouveau, même famille",
-"intro": "On oppose souvent bouyon et shatta comme deux générations. En réalité, le shatta est la famille de sons antillais modernes nourrie entre autres par le bouyon, et le shatta bouyon est leur point de rencontre direct.",
+"desc": "Bouyon ou shatta : le shatta est un genre dancehall né en Martinique, le bouyon le genre dominicain historique. Leur rencontre : le shatta bouyon.",
+"h1": "Bouyon ou shatta : deux genres, deux îles",
+"intro": "On oppose souvent bouyon et shatta comme deux générations. En réalité, ce sont deux genres distincts, le shatta, genre dancehall né en Martinique, et le bouyon, né en Dominique, et le shatta bouyon est leur point de rencontre direct.",
 "sections": [
 ("Le bouyon, le genre historique", ["Créé en 1988 en Dominique, le bouyon a plus de trente ans d’histoire : groupes live, carnavals, branches comme le bouyon soca et le bouyon gwada. C’est un genre avec des créateurs, des classiques et un territoire d’origine clair."]),
-("Le shatta, la génération riddim", ["Le shatta désigne l’esthétique des producteurs antillais actuels : riddims courts, durs, pensés pour la danse et les réseaux. Quand ces producteurs travaillent la matière bouyon, claviers, tempo et créole dominicains, on parle de <a href=\"/shatta-bouyon.html\">shatta bouyon</a>."]),
+("Le shatta, la génération riddim", ["Le shatta, genre dancehall né en Martinique, est associé aux producteurs antillais actuels : riddims courts, durs, pensés pour la danse et les réseaux. Quand ces producteurs travaillent la matière bouyon, claviers, tempo et créole dominicains, on parle de <a href=\"/shatta-bouyon.html\">shatta bouyon</a>."]),
 ],
 "date_modified": "2026-10-20",
 "faq": [
@@ -323,7 +323,7 @@ PAGES = [
   ),
   (
     "Le shatta est-il plus récent que le bouyon ?",
-    "Oui, dans la chronologie que suit ce site. Le bouyon a été créé en 1988 en Dominique et compte plus de trente ans d'histoire. Le shatta est présenté ici comme le son de la génération actuelle des producteurs antillais, celle des riddims pensés pour la danse et les réseaux. Leur fusion, le shatta bouyon, est aujourd'hui la forme du bouyon la plus visible sur les réseaux et dans les clubs.",
+    "Oui, dans la chronologie que suit ce site. Le bouyon a été créé en 1988 en Dominique et compte plus de trente ans d'histoire. Le shatta, genre dancehall né en Martinique, est présenté ici comme le son de la génération actuelle des producteurs antillais, celle des riddims pensés pour la danse et les réseaux. Leur fusion, le shatta bouyon, est aujourd'hui la forme du bouyon la plus visible sur les réseaux et dans les clubs.",
   ),
   (
     "D'où vient le shatta ?",

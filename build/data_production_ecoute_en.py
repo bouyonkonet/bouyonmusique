@@ -629,7 +629,7 @@ PAGES = [
 "intro": "Which songs should you listen to in order to understand bouyon? From the classics of Dominica’s bands to the recent tracks followed by Bouyon Shattaz, here is the method and the names to remember.",
 "sections": [
 ("The classics first", ["Start with the founding bands, WCK, Roots Stems and Branches and First Serenade: that is where the genre took its form. Continue with the carnival tracks of the 1990s and 2000s, when bouyon reigned unchallenged over Dominica."]),
-("The tracks of the new era", ["On the recent side: Life Nice by Asa Bantan, the Bouyon Boss. Joli BB by Reo with Maurane Voyer, the Dominica and Martinique bridge. FIX UP by G’z Up, carried by its Ya ya ya hook. Throw Dat (Bouyon 2026) by Klass Money, produced by Smokiller. And Mauvais Plan by HYPNO on the producer side. The <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> gathers them all in one place."]),
+("The tracks of the new era", ["On the recent side: Life Nice by Asa Bantan, identified as the Bouyon Boss by Dominica Festivals. Joli BB by Reo with Maurane Voyer, the Dominica and Martinique bridge. FIX UP by G’z Up, carried by its Ya ya ya hook. Throw Dat (Bouyon 2026) by Klass Money, produced by Smokiller. And Mauvais Plan by HYPNO on the producer side. The <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> gathers them all in one place."]),
 ],
 "date_modified": "2026-10-20",
 "faq": [
@@ -639,7 +639,7 @@ PAGES = [
   ),
   (
     "Which recent bouyon songs should I listen to?",
-    "Among the recent tracks Bouyon Shattaz follows: Life Nice by Asa Bantan, the Bouyon Boss, Joli BB by Reo with Maurane Voyer, a bridge between Dominica and Martinique, FIX UP by G'z Up and its Ya ya ya hook, Throw Dat (Bouyon 2026) by Klass Money, produced by Smokiller, and Mauvais Plan by HYPNO.",
+    "Among the recent tracks Bouyon Shattaz follows: Life Nice by Asa Bantan, identified as the Bouyon Boss by Dominica Festivals, Joli BB by Reo with Maurane Voyer, a bridge between Dominica and Martinique, FIX UP by G'z Up and its Ya ya ya hook, Throw Dat (Bouyon 2026) by Klass Money, produced by Smokiller, and Mauvais Plan by HYPNO.",
   ),
   (
     "Which songs should I start with to discover bouyon?",
@@ -744,7 +744,7 @@ PAGES = [
 "h1": "Playlist shatta: from shatta to shatta bouyon",
 "intro": "Those who look for a shatta playlist are often looking, without knowing it, for the bouyon half of the modern French Caribbean sound. This page makes the link: the shatta bouyon tracks to know, and the playlist to listen to them.",
 "sections": [
-("Shatta and bouyon, same family", ["Shatta bouyon is the meeting between the modern riddim aesthetic and the historic Dominican genre. A good shatta playlist therefore naturally includes the modern bouyon tracks of French Caribbean and French producers. Full explanations on the <a href=\"/en/bouyon-vs-shatta.html\">bouyon vs shatta</a> page."]),
+("Shatta and bouyon, two genres that cross", ["Shatta bouyon is the meeting between the modern riddim aesthetic of shatta, a dancehall genre born in Martinique, and the historic Dominican genre. A good shatta playlist therefore naturally includes the modern bouyon tracks of French Caribbean and French producers. Full explanations on the <a href=\"/en/bouyon-vs-shatta.html\">bouyon vs shatta</a> page."]),
 ("Listen now", ["The <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix</a> on Spotify and YouTube blends bouyon, bouyon soca and shatta bouyon in a selection kept by Bouyon Shattaz. It is the simplest shortcut between the two worlds."]),
 ],
 "date_modified": "2026-10-20",
@@ -837,7 +837,7 @@ PAGES = [
   ),
   (
     "Which bouyon artists mattered in 2026?",
-    "The published list of bouyon nominees at the Caribbean Music Awards 2026 gives a good snapshot: 1T1, Asa Bantan, BRG Hollywood, Dirty Dawg Pudaz, Mr Ridge, Reo, Shelly and Signal Band, and Trilla G. On the French Caribbean side, Miimii KDS earned a Single Or (gold) with \"Pow Pow / Allo Doudou\".",
+    "The published list of bouyon nominees at the Caribbean Music Awards 2026 gives a good snapshot: 1T1, Asa Bantan, BRG Hollywood, Dirty Dawg Pudaz, Mr Ridge, Reo, Shelly and Signal Band, and Trilla G, and Mr Ridge won bouyon artist of the year, according to results published in September 2026. On the French Caribbean side, Miimii KDS earned a Single Or (gold) with \"Pow Pow / Allo Doudou\".",
   ),
   (
     "Is New Bouyon the bouyon of 2026?",
@@ -852,7 +852,7 @@ PAGES = [
 "h1": "The best of bouyon, according to Bouyon Shattaz",
 "intro": "If you were to keep only one gateway into bouyon, here it is: the essential artists, the styles that matter and the playlist that sums up the genre, from 1988 to 2026.",
 "sections": [
-("The essentials", ["The artists: WCK the creators, Asa Bantan the Bouyon Boss, Reo the Prince of the new generation. The styles: classic bouyon, bouyon soca, bouyon gwada and shatta bouyon. The places: Roseau for the origin, Pointe-à-Pitre and Fort-de-France for the spread, Paris for the market."]),
+("The essentials", ["The artists: WCK the creators, Asa Bantan, identified as the Bouyon Boss by Dominica Festivals, Reo the Prince of the new generation. The styles: classic bouyon, bouyon soca, bouyon gwada and shatta bouyon. The places: Roseau for the origin, Pointe-à-Pitre and Fort-de-France for the spread, Paris for the market."]),
 ("Listen to it all at once", ["The <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix</a> gathers this best of bouyon in one Spotify and YouTube playlist kept up to date. Comment ROAD MIX on <a href=\"https://www.instagram.com/bouyonshattaz/\">@bouyonshattaz</a> to receive it by DM."]),
 ],
 "date_modified": "2026-10-20",
