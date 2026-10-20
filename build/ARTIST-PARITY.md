@@ -1,9 +1,9 @@
 # ARTIST PARITY vs tiitii-nba.com (measured 2026-10-20)
-His artist profile pages: 157 (FR, mirrored EN). Ours: 37.
-Gap: 136 of his artists have no profile on bouyonmusique.com yet.
+His artist profile pages: 157 (FR, mirrored EN). Ours: 45.
+Gap: 128 of his artists have no profile on bouyonmusique.com yet.
 
 ## His artists we are missing (build in this order of priority: Dominica first, then WCMF 2026 bill, then the rest)
-- 1t1
+- ~~1t1~~ BUILT 2026-10-20 (parity wave 2)
 - a-plus-musik
 - aknose
 - all-star-band
@@ -41,28 +41,28 @@ Gap: 136 of his artists have no profile on bouyonmusique.com yet.
 - dj-joe
 - dj-leguste
 - dj-luchshiy
-- dj-mj
+- ~~dj-mj~~ BUILT 2026-10-20 (parity wave 2)
 - dj-skaytah
 - dj-skycee
 - dj-skylone
 - dj-softee
-- dj-taffy
+- ~~dj-taffy~~ BUILT 2026-10-20 (parity wave 2)
 - dj-weez
 - doc-j
 - dova
 - ebony-empress
-- edday
+- ~~edday~~ BUILT 2026-10-20 (parity wave 2)
 - effects-band
 - erwinchy
 - explosive-band
 - faithii
-- fallon
+- ~~fallon~~ BUILT 2026-10-20 (parity wave 2)
 - flw
 - freddy
 - gaza-crew
 - gaza-girls-crew
 - haterz-be
-- holly-g
+- ~~holly-g~~ BUILT 2026-10-20 (parity wave 2)
 - hussey
 - ignition-band
 - index.html
@@ -81,7 +81,7 @@ Gap: 136 of his artists have no profile on bouyonmusique.com yet.
 - le-bluff
 - le-dext
 - legacy-band
-- lejuh
+- ~~lejuh~~ BUILT 2026-10-20 (parity wave 2)
 - les-ptits-du-rzt
 - lestef-kjf-boyz
 - letin-severine
@@ -103,7 +103,7 @@ Gap: 136 of his artists have no profile on bouyonmusique.com yet.
 - mr-gwada
 - mr-ridge
 - nessa-preppy
-- nice
+- ~~nice~~ BUILT 2026-10-20 (parity wave 2)
 - nils
 - ~~nursery-krew-inc~~ BUILT 2026-10-20 (parity wave 1)
 - pinpin-osp
