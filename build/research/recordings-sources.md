@@ -165,3 +165,142 @@ or the artist's official site). Titles and credits exactly as printed. Batch 1: 
 - RnBouyon: The GTA6 Soundtrack You Didn't Know You Needed - source: https://www.youtube.com/@smo.killer
 - Time Skip Riddim - source: https://www.youtube.com/watch?v=82ubbjfYbak
 - IDFWU Riddim - source: https://www.youtube.com/watch?v=82ubbjfYbak
+
+## Batch 2 (2026-10-20)
+
+### gz-up
+No additions verified. The catalogue appears genuinely tiny (a 2026-10-16 review found one other song besides FIX UP, title not findable). The one candidate, Up Next Bouyon Cypher Vol 1 (Trilla-G feat. G'z Up), could not be opened in-session (YouTube 429; streaming URLs only truncated in snippets).
+
+### hypno
+NOTE: Qobuz credits appear under Hypnotic Beatz / HypnoticBeatz / Hypnotic Beats (spelling varies by release), matched to HYPNO! via the identical handle @hypnoticbeatz.
+- "But en or" (album: Sélection naturelle, year: 2020) - verified: https://www.qobuz.com/gb-en/album/selection-naturelle-kalash-criminel/zse2kx5uy8zuc
+- "Fer" (year: 2020) - verified: https://www.qobuz.com/gb-en/interpreter/oldpee-10003716321/3716321
+- "MOTOMAMI" (album: 30º, year: 2023) - verified: https://www.qobuz.com/ie-en/album/30-malko/iiri5pkphjswc
+- "ONE LOVE" (album: 30º, year: 2023) - verified: https://www.qobuz.com/ie-en/album/30-malko/iiri5pkphjswc
+- "Aaliyah" (album: SAHARA, year: 2024) - verified: https://www.qobuz.com/ie-en/album/sahara-malko/us6we1abu6b3b
+- "Baby Push" (album: SAHARA, year: 2024) - verified: https://www.qobuz.com/ie-en/album/sahara-malko/us6we1abu6b3b
+- "COLLIDE" (album: COLLIDE, year: 2025) - verified: https://www.qobuz.com/ie-en/album/collide-mopao-mumu/ozp2ydh43gc4a
+
+### prod-bysavion
+- "Bikelife Class (feat. Young Dinero)" (album: Bikelife Class (feat. Young Dinero) - Single, year: 2025) - verified: https://www.shazam.com/song/1827818162/bikelife-class-feat-young-dinero
+- "Dwivayèz Riddim Soca 2021 (Instrumental)" (album: Dwivayèz Riddim - EP, year: 2020) - verified: https://www.shazam.com/song/1762030340/dwivay%C3%A8z-riddim-soca-2021-instrumental
+- "Déliway (feat. Trilla-G)" (album: Dwivayèz Riddim - EP, year: 2020) - verified: https://www.shazam.com/song/1762030345/d%C3%A9liway-feat-trilla-g
+- "Down Deh (feat. Zwady & Fireman Lee)" (album: Dwivayèz Riddim - EP, year: 2020) - verified: https://www.shazam.com/song/1762030342/down-deh-feat-zwady-and-fireman-lee
+- "System Failure (feat. Starsha)" (album: Dwivayèz Riddim - EP, year: 2020) - verified: https://www.shazam.com/song/1762030343/system-failure-feat-starsha
+
+### denmath
+Shortfall: only 1 further recording verified (In She Garden, producer credit on Shazam). The other Issa Cultural Ting EP tracks credit other producers.
+- "In She Garden" (album: Issa Cultural Ting - EP, year: 2022) - verified: https://www.shazam.com/song/1618401418/in-she-garden
+
+### mb-on-the-track
+- ""Cigarettes" Bouyon Instrumental 2026 (Prod By MB On The Track)" (year: 2026) - verified: https://www.youtube.com/channel/UCHrf61ec_FICBRl3ImlpZFA
+- ""Boyz N Girlz" Bouyon Instrumental 2026 (Prod By MB On The Track)" (year: 2026) - verified: https://www.youtube.com/channel/UCHrf61ec_FICBRl3ImlpZFA
+- ""Xo" Bouyon Instrumental 2026 (Prod By MB On The Track)" (year: 2026) - verified: https://www.youtube.com/channel/UCHrf61ec_FICBRl3ImlpZFA
+- ""Waka" Funk x Bouyon Instrumental 2026 (Prod By MB On The Track)" (year: 2026) - verified: https://www.youtube.com/channel/UCHrf61ec_FICBRl3ImlpZFA
+- ""Rebel" Shatta Instrumental 2026 (Prod By MB On The Track)" (year: 2026) - verified: https://www.youtube.com/channel/UCHrf61ec_FICBRl3ImlpZFA
+
+### dcamp-lewismelo
+- "On My Way" (year: 2026) - verified: https://www.shazam.com/song/6795339423/on-my-way
+- "BAY LA BÈT (Extended)" (album: BAY LA BÈT - Single, year: 2025) - verified: https://www.shazam.com/song/1792659692/bay-la-bc3a8t-extended
+- "BAY LA BÈT" (album: BAY LA BÈT - Single, year: 2025) - verified: https://www.shazam.com/album/1792659688/bay-la-b%C3%A8t-single
+- "YOU AND ME" - verified: https://www.youtube.com/watch?v=wEl7GmCMkpw
+- "LUSHENANA" - verified: https://www.youtube.com/watch?v=xan0kcXWqh0&list=RDxan0kcXWqh0
+- "LA BOULANGERIE" - verified: https://www.shazam.com/artist/dcamp-and-lewismelo/1704017220
+- "GOUTÉW (feat. Dcamp & Lewismelo)" - verified: https://www.shazam.com/artist/dcamp-and-lewismelo/1704017220
+
+### colton-t
+- "Moments" (album: Moments - Single, year: 2025) - verified: https://www.shazam.com/song/1797019421/moments
+- "Sorry Not Sorry" (album: Sorry Not Sorry - Single, year: 2026) - verified: https://www.shazam.com/song/1867445882/sorry-not-sorry
+- "Foreplay" (album: Foreplay - Single, year: 2024) - verified: https://www.shazam.com/song/1784828875/foreplay
+- "Head Over Hills" (album: Head Over Hills - Single, year: 2024) - verified: https://www.shazam.com/song/1736886964/head-over-hills
+- "Jail Life" (album: Impossible, year: 2019) - verified: https://www.shazam.com/song/1461033697/jail-life
+- "Complicated" (album: Impossible, year: 2019) - verified: https://www.shazam.com/song/1461033695/complicated
+- "Hunt My Own" (album: Impossible, year: 2019) - verified: https://www.shazam.com/song/1461033698/hunt-my-own
+- "Expectations" (album: Impossible, year: 2019) - verified: https://www.shazam.com/album/1461033687/impossible
+
+### pudaz
+- "Not Me" (album: No Time 4 Rubbish - EP, year: 2024) - verified: https://www.shazam.com/song/1742916823/not-me?referrer=share
+- "Pussy Cat (feat. N.I.C.E.)" (album: No Time 4 Rubbish - EP, year: 2024) - verified: https://www.shazam.com/song/1742917050/pussy-cat-feat-nice
+- "Bend Down (feat. LITLE'BÖY)" (album: No Time 4 Rubbish - EP, year: 2024) - verified: https://www.shazam.com/song/1742917320/bend-down-feat-litleb%C3%B6y
+- "Push Your Hand" (album: Push Your Hand - Single, year: 2025) - verified: https://www.shazam.com/song/1860446261/push-your-hand
+- "No Time 4 Stress" (album: I Doh Hear You, year: 2026) - verified: https://www.youtube.com/watch?v=-elmeEOs1U4
+
+### gwada-g
+Shortfall: only feature billings verified on primary pages; no Shazam artist page exists and his solo titles circulate only in DJ mix tracklists (secondary, excluded).
+- "WTHelly Bouyon (feat. Gwada G)" (album: WTHelly Bouyon (feat. Gwada G) - Single, year: 2025) - verified: https://www.shazam.com/song/1814629785/wthelly-bouyon-feat-gwada-g
+- "On your back (feat. Gwada G)" (album: On your back (feat. Gwada G) - Single, year: 2023) - verified: https://www.shazam.com/song/1683595804/on-your-back-feat-gwada-g
+- "YOU CAN DO WHAT YOU WANT (feat. GWADA G)" (album: YOU CAN DO WHAT YOU WANT (feat. GWADA G) - Single, year: 2026) - verified: https://www.shazam.com/song/1871757331/you-can-do-what-you-want-feat-gwada-g
+- "Plap Plap !" (album: Plap Plap ! - Single, year: 2023) - verified: https://www.shazam.com/song/1694610108/plap-plap-feat-nice-gwada-g-and-freddy
+
+### bonna
+No primary-platform footprint could be located (Shazam, Spotify, Apple Music, YouTube, SoundCloud, Deezer, Qobuz, incl. via More Sewo). Nothing added; the profile keeps only Not Real, itself not verified on a primary platform, consistent with the 2026-10-17 intake note.
+
+### ricky-bishop
+- "i adan #afterwork" (album: #newbouyonexperience, year: 2025) - verified: https://www.shazam.com/album/1815066172/newbouyonexperience
+- "donne-moi tout" (album: #newbouyonexperience, year: 2025) - verified: https://www.shazam.com/album/1815066172/newbouyonexperience
+- "baddies" (album: #newbouyonexperience, year: 2025) - verified: https://www.shazam.com/album/1815066172/newbouyonexperience
+- "done with u" (album: #newbouyonexperience, year: 2025) - verified: https://www.shazam.com/album/1815066172/newbouyonexperience
+- "7 sur 7" (album: #newbouyonexperience, year: 2025) - verified: https://www.shazam.com/album/1815066172/newbouyonexperience
+- "twerk moshpit" (album: #newbouyonexperience, year: 2025) - verified: https://www.shazam.com/album/1815066172/newbouyonexperience
+- "filet mignon" (album: #newbouyonexperience, year: 2025) - verified: https://www.shazam.com/album/1815066172/newbouyonexperience
+- "need dat" (album: #newbouyonexperience, year: 2025) - verified: https://www.shazam.com/album/1815066172/newbouyonexperience
+
+### david-campana
+- "TIFFANY (feat. David Campana & Towo)" (album: TIFFANY (feat. David Campana & Towo) - Single, year: 2025) - verified: https://www.shazam.com/song/1795387092/tiffany-feat-david-campana-and-towo
+- "Pa Que Baile" (album: Jelly Land, year: 2020) - verified: https://www.shazam.com/song/1519271829/pa-que-baile
+- "Trahison" (year: 2024) - verified: https://www.shazam.com/song/1746815181/trahison
+- "Corazón Partío (Remix)" (album: Corazón Partío (Remix) - Single, year: 2023) - verified: https://www.shazam.com/song/1703019582/coraz%C3%B3n-part%C3%ADo-remix
+- "Le Meilleur (feat. David Campana)" (year: 2022) - verified: https://www.shazam.com/en-gb/song/1677360512/le-meilleur-feat-david-campana
+
+### dj-blax
+CAVEAT: no artist page exists for this DJ Blax on the platforms; the 5 entries rest on the printed Dj Blax / DJ Blax songwriter/composer credits on French-rap releases (Shazam, Deezer, YouTube, OTOTOY), in the same label ecosystem as his verified Don't Care co-producer John Scorp. Identity match is plausible, not proven by a single primary page; flagged for Sean's review.
+- "Comprends pas" (album: Comprends pas - Single, year: 2022) - verified: https://www.shazam.com/song/1638527118/comprends-pas
+- "Acteur" (album: SHOOTER CLAN, year: 2022) - verified: https://www.deezer.com/pl/album/322645287
+- "Maudit" (album: SHOOTER CLAN, year: 2022) - verified: https://www.deezer.com/pl/album/322645287
+- "Violence urbaine" (album: SHOOTER CLAN, year: 2022) - verified: https://www.youtube.com/watch?v=OK5gY05kvYA
+- "Intro putréfaction" (album: Vie rapide) - verified: https://ototoy.jp/_/default/p/967688
+
+### ras-b
+Shortfall: only 2 further recordings verified on his official YouTube; he appears to be a brand-new artist whose verifiable catalogue is 3 tracks total.
+- "Up Next Bouyon Cypher, Vol 1. (Trilla-G ft. G'z Up, Ras B, Avatar Omish, Don Lash, Pa Pel, Pryhmex)" - verified: https://www.youtube.com/watch?v=eq-pesLqvY8
+- "Shift Her Panty" - verified: https://www.youtube.com/watch?v=Pmq5NfP3PSU
+
+### tallyboy
+- "More Long (feat. Tallyboy (MKG))" (album: Caralax Riddim - Single, year: 2025) - verified: https://www.shazam.com/song/1836921318/more-long-feat-tallyboy-mkg
+- "Pop & Drop (feat. Tallyboy & Dej)" (album: Cout Tchui Riddim, year: 2025) - verified: https://www.shazam.com/song/1813168248/pop-and-drop-feat-tallyboy-and-dej
+- "D Knock" (album: D Knock - Single, year: 2024) - verified: https://www.shazam.com/song/1734441514/d-knock
+- "Hit & Run" (album: Frass Man Riddim - EP, year: 2024) - verified: https://www.shazam.com/song/1753692846/hit-run
+- "Blah Blah Blah" (album: Blah Blah Blah - Single, year: 2025) - verified: https://www.shazam.com/song/1822982351/blah-blah-blah
+
+### kkrytical
+- "Friends Turn Enemies" (album: Hustle Sex and Betrayal, year: 2022) - verified: https://www.shazam.com/song/1616206456/friends-turn-enemies
+- "Luv Eh Gad" (album: Underrated, year: 2024) - verified: https://www.shazam.com/song/1738931390/luv-eh-gad-feat-jayblem
+- "Survivor" (album: Survivor - Single, year: 2025) - verified: https://www.shazam.com/song/1836524487/survivor
+- "Hustla" (album: Hustla - Single, year: 2026) - verified: https://www.shazam.com/song/1886207653/hustla
+- "Asphalt" (album: Asphalt - Single, year: 2026) - verified: https://www.shazam.com/song/6773918942/asphalt
+
+### litleboy-lsbeats767
+- "Yo baw gwopwel" (album: Yo baw gwopwel - Single, year: 2022) - verified: https://www.shazam.com/song/1630295333/yo-baw-gwopwel
+- "Pa ka tan / Man allu looking for (feat. Quan)" (album: Pa ka tan / Man allu looking for (feat. Quan) - Single, year: 2022) - verified: https://www.shazam.com/song/1650491483/pa-ka-tan-man-allu-looking-for-feat-quan
+- "You" (album: You - Single, year: 2023) - verified: https://www.shazam.com/song/1692049682/you
+- "SYA-SYB" (album: SYA-SYB - Single, year: 2023) - verified: https://www.shazam.com/song/1663986865/sya-syb
+- "Leaving" (album: Leaving - Single, year: 2024) - verified: https://www.shazam.com/song/1785613498/leaving
+- "Let Me See (feat. Freddy)" (album: Let Me See (feat. Freddy) - Single, year: 2025) - verified: https://www.shazam.com/song/1821808973/let-me-see-feat-freddy
+- "Fell For You (feat. Quan)" (album: Fell For You (feat. Quan) - Single, year: 2025) - verified: https://www.shazam.com/song/1847783075/fell-for-you-feat-quan
+
+### tiitii-nba
+- "WON (Bouyon 2025)" (album: WON (Bouyon 2025) - Single, year: 2023) - verified: https://www.shazam.com/song/1688628676/won-bouyon-2025
+- "KPT (feat. DJ SOFTEE) [BOUYON WARM UP 2025]" (album: KPT (feat. DJ SOFTEE) [BOUYON WARM UP 2025] - Single, year: 2024) - verified: https://www.shazam.com/song/1730528262/kpt-feat-dj-softee-bouyon-warm-up-2025
+- "TAM TAM (feat. 1T1) [Bouyon 2024]" (album: TAM TAM (feat. 1T1) [Bouyon 2024] - Single, year: 2024) - verified: https://www.shazam.com/song/1745830850/tam-tam-feat-1t1-bouyon-2024
+- "BOUNCE (BOUYON 2025) (feat. 1T1)" (year: 2024) - verified: https://www.shazam.com/song/1745965058/bounce-bouyon-2025-feat-1t1
+- "Nah Nah (feat. YuniikBeatz) [Bouyon 2025]" (album: Nah Nah (feat. YuniikBeatz) [Bouyon 2025] - Single, year: 2025) - verified: https://www.shazam.com/song/1802831042/nah-nah-feat-yuniikbeatz-bouyon-2025
+
+### ridge
+- "Sunset Warm up (Live)" (album: Cross D Bridge (Live), year: 2021) - verified: https://www.shazam.com/album/1713197034/cross-d-bridge-live
+- "Come & Cocay (Live)" (album: Cross D Bridge (Live), year: 2021) - verified: https://www.shazam.com/album/1713197034/cross-d-bridge-live
+- "China Tune (Live)" (album: Cross D Bridge (Live), year: 2021) - verified: https://www.shazam.com/album/1713197034/cross-d-bridge-live
+- "Caught in Your Trance (Live)" (album: Cross D Bridge (Live), year: 2021) - verified: https://www.shazam.com/album/1713197034/cross-d-bridge-live
+- "Doh Call My Phone (Live)" (album: Cross D Bridge (Live), year: 2021) - verified: https://www.shazam.com/album/1713197034/cross-d-bridge-live
+- "Long Time I Watching You (Live)" (album: Cross D Bridge (Live), year: 2021) - verified: https://www.shazam.com/album/1713197034/cross-d-bridge-live
+- "Don't Go (Live)" (album: Cross D Bridge (Live), year: 2021) - verified: https://www.shazam.com/album/1713197034/cross-d-bridge-live
+- "Fym" (year: 2025) - verified: https://www.shazam.com/song/1790285833/fym
