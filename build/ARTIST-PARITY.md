@@ -1,6 +1,6 @@
 # ARTIST PARITY vs tiitii-nba.com (measured 2026-10-20)
 His artist profile pages: 157 (FR, mirrored EN). Ours: 157.
-Gap: 16 of his artists have no profile on bouyonmusique.com yet.
+Gap: 5 of his artists have no profile on bouyonmusique.com yet.
 
 ## His artists we are missing (build in this order of priority: Dominica first, then WCMF 2026 bill, then the rest)
 - ~~1t1~~ BUILT 2026-10-20 (parity wave 2)
@@ -86,10 +86,10 @@ Gap: 16 of his artists have no profile on bouyonmusique.com yet.
 - ~~lestef-kjf-boyz~~ BUILT 2026-10-20 (parity wave 11)
 - ~~letin-severine~~ BUILT 2026-10-20 (parity wave 11)
 - ~~letin-sylia~~ BUILT 2026-10-20 (parity wave 11)
-- lewismelo
+- ~~lewismelo~~ BUILT 2026-10-20 (parity wave 17)
 - ~~leyou~~ BUILT 2026-10-20 (parity wave 12)
 - ~~lgc~~ BUILT 2026-10-20 (parity wave 12)
-- little-boy
+- ~~little-boy~~ COVERED by existing profile litleboy-lsbeats767
 - ~~luky-lukee~~ BUILT 2026-10-20 (parity wave 12)
 - ~~lunik~~ BUILT 2026-10-20 (parity wave 12)
 - ~~ma6mo~~ BUILT 2026-10-20 (parity wave 12)
@@ -101,7 +101,7 @@ Gap: 16 of his artists have no profile on bouyonmusique.com yet.
 - ~~mr-boka~~ BUILT 2026-10-20 (parity wave 13)
 - ~~mr-delly~~ BUILT 2026-10-20 (parity wave 13)
 - ~~mr-gwada~~ BUILT 2026-10-20 (parity wave 13)
-- mr-ridge
+- ~~mr-ridge~~ COVERED by existing profile ridge
 - ~~nessa-preppy~~ BUILT 2026-10-20 (parity wave 13)
 - ~~nice~~ BUILT 2026-10-20 (parity wave 2)
 - ~~nils~~ BUILT 2026-10-20 (parity wave 13)
@@ -132,14 +132,14 @@ Gap: 16 of his artists have no profile on bouyonmusique.com yet.
 - ~~theodora~~ BUILT 2026-10-20 (parity wave 16)
 - ~~theomaa~~ BUILT 2026-10-20 (parity wave 16)
 - ~~thesmsgirls~~ BUILT 2026-10-20 (parity wave 16)
-- tolly-boyz
-- totally-spices
-- trev-li
-- trixx
-- trixzmigos
-- vador
-- vj-ben
-- weelow
+- ~~tolly-boyz~~ BUILT 2026-10-20 (parity wave 16, page slug tolly-boys)
+- ~~totally-spices~~ BUILT 2026-10-20 (parity wave 17)
+- ~~trev-li~~ BUILT 2026-10-20 (parity wave 17)
+- ~~trixx~~ BUILT 2026-10-20 (parity wave 17)
+- ~~trixzmigos~~ BUILT 2026-10-20 (parity wave 17)
+- ~~vador~~ BUILT 2026-10-20 (parity wave 17)
+- ~~vj-ben~~ BUILT 2026-10-20 (parity wave 17)
+- ~~weelow~~ BUILT 2026-10-20 (parity wave 17)
 - xavvoknockin
 - yellow-gaza
 - youry-fleming
