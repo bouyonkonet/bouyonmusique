@@ -1,6 +1,6 @@
 # ARTIST PARITY vs tiitii-nba.com (measured 2026-10-20)
-His artist profile pages: 157 (FR, mirrored EN). Ours: 125.
-Gap: 48 of his artists have no profile on bouyonmusique.com yet.
+His artist profile pages: 157 (FR, mirrored EN). Ours: 133.
+Gap: 40 of his artists have no profile on bouyonmusique.com yet.
 
 ## His artists we are missing (build in this order of priority: Dominica first, then WCMF 2026 bill, then the rest)
 - ~~1t1~~ BUILT 2026-10-20 (parity wave 2)
@@ -96,17 +96,17 @@ Gap: 48 of his artists have no profile on bouyonmusique.com yet.
 - ~~machel-montano~~ BUILT 2026-10-20 (parity wave 12)
 - ~~major-lazer~~ BUILT 2026-10-20 (parity wave 12)
 - ~~mathieu-richardson~~ BUILT 2026-10-20 (parity wave 12)
-- miky-ding-la
-- money-shaun
-- mr-boka
-- mr-delly
-- mr-gwada
+- ~~miky-ding-la~~ BUILT 2026-10-20 (parity wave 13)
+- ~~money-shaun~~ BUILT 2026-10-20 (parity wave 13)
+- ~~mr-boka~~ BUILT 2026-10-20 (parity wave 13)
+- ~~mr-delly~~ BUILT 2026-10-20 (parity wave 13)
+- ~~mr-gwada~~ BUILT 2026-10-20 (parity wave 13)
 - mr-ridge
-- nessa-preppy
+- ~~nessa-preppy~~ BUILT 2026-10-20 (parity wave 13)
 - ~~nice~~ BUILT 2026-10-20 (parity wave 2)
-- nils
+- ~~nils~~ BUILT 2026-10-20 (parity wave 13)
 - ~~nursery-krew-inc~~ BUILT 2026-10-20 (parity wave 1)
-- pinpin-osp
+- ~~pinpin-osp~~ BUILT 2026-10-20 (parity wave 13)
 - problem-child
 - quan
 - qwann
