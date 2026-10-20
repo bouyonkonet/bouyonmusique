@@ -104,7 +104,7 @@ PAGES = [
   "cat": "Artistes bouyon",
   "nav": "Asa Bantan",
   "title": "Asa Bantan : le King of Bouyon de Grand Bay, Dominique",
-  "desc": "Asa Bantan, de son vrai nom Asa Edwards, artiste de Grand Bay en Dominique, largement surnommé King of Bouyon. Son titre Life Nice, le Mas Domnik et le WCMF 2026.",
+  "desc": "Asa Bantan, de son vrai nom Asa Edwards, artiste de Grand Bay en Dominique surnommé King of Bouyon : son titre Life Nice, le Mas Domnik et le WCMF 2026.",
   "h1": "Asa Bantan : la voix qui commande la fête",
   "intro": "Asa Bantan, de son vrai nom Asa Edwards, vient de Grand Bay, en Dominique. Largement surnommé le King of Bouyon, il est une figure centrale du bouyon dominicain moderne : une énergie de carnaval, une voix qui commande la foule et des titres construits pour les fêtes de la Dominique.",
   "sections": [
@@ -163,19 +163,10 @@ PAGES = [
    ]
   ],
   "faq": [
-   [
-    "Pourquoi Asa Bantan est-il surnommé King of Bouyon ?",
-    "Asa Bantan, de son vrai nom Asa Edwards, est largement surnommé King of Bouyon pour sa place centrale dans le bouyon dominicain moderne. C’est un surnom attribué, subjectif, largement repris. Dominica Festivals l’a aussi identifié comme le Bouyon Boss."
-   ],
-   [
-    "D’où vient Asa Bantan ?",
-    "Asa Bantan vient de Grand Bay, en Dominique. Il est un pilier du Mas Domnik, le carnaval de la Dominique, et des événements de l’île, et il est associé au Breakfast Fete."
-   ],
-   [
-    "Asa Bantan joue-t-il au WCMF 2026 ?",
-    "Selon les guides publiés du World Creole Music Festival 2026, notamment writeups24 et Sweet TNT, Asa Bantan joue lors de la Nuit 2, le samedi 24 octobre 2026, à Roseau."
-   ]
-  ],
+("Pourquoi Asa Bantan est-il surnommé King of Bouyon ?", "Asa Bantan, de son vrai nom Asa Edwards, est largement surnommé King of Bouyon pour sa place centrale dans le bouyon dominicain moderne. C’est un surnom attribué, subjectif, largement repris. Dominica Festivals l’a aussi identifié comme le Bouyon Boss."),
+("D’où vient Asa Bantan ?", "Asa Bantan vient de Grand Bay, en Dominique. Il est un pilier du Mas Domnik, le carnaval de la Dominique, et des événements de l’île, et il est associé au Breakfast Fete."),
+("Asa Bantan joue-t-il au WCMF 2026 ?", "Oui, selon les guides publiés du World Creole Music Festival 2026, notamment writeups24 et Sweet TNT, Asa Bantan joue lors de la Nuit 2, le samedi 24 octobre 2026, à Roseau. Selon ces mêmes guides, cette nuit réunit plusieurs visages du bouyon actuel, dont Reo, ce qui illustre son rôle de pont entre les générations."),
+],
   "date_published": "2026-09-09",
   "extra_graph": [
    {
@@ -199,14 +190,15 @@ PAGES = [
      ]
     }
    }
-  ]
+  ],
+"date_modified": "2026-10-20"
  },
  {
   "slug": "reo.html",
   "cat": "Artistes bouyon",
   "nav": "Reo",
   "title": "Reo : le Prince of Bouyon, de Joli BB au WCMF 2026",
-  "desc": "Reo, artiste bouyon dominicain présenté comme le Prince of Bouyon. Joli BB avec Maurane Voyer, La Vie Doux, ses nominations aux Caribbean Music Awards 2026 et le WCMF.",
+  "desc": "Reo, artiste bouyon dominicain présenté comme le Prince of Bouyon : Joli BB avec Maurane Voyer, La Vie Doux, les Caribbean Music Awards 2026 et le WCMF.",
   "h1": "Reo : le visage de la nouvelle génération dominicaine",
   "intro": "Reo est un artiste bouyon dominicain, présenté comme le Prince of Bouyon. Avec Joli BB, en duo avec la chanteuse martiniquaise Maurane Voyer, et une nomination aux Caribbean Music Awards 2026, il incarne la nouvelle génération dominicaine qui construit une carrière internationale avec les Antilles françaises, sans quitter la Dominique des yeux.",
   "sections": [
@@ -316,14 +308,15 @@ PAGES = [
      ]
     }
    }
-  ]
+  ],
+"date_modified": "2026-10-20"
  },
  {
   "slug": "smokiller.html",
   "cat": "Artistes bouyon",
   "nav": "Smokiller",
   "title": "Smokiller : le producteur qui transforme les hits en bouyon",
-  "desc": "Smokiller, marque d’artiste et de producteur de Sean Smokiller Francis, fondateur de Bouyon Shattaz : remixes bouyon, Throw Dat, Nothing Into Something et le servicing radio.",
+  "desc": "Smokiller, marque d’artiste de Sean Smokiller Francis, fondateur de Bouyon Shattaz : remixes bouyon, Throw Dat, Nothing Into Something et servicing radio.",
   "h1": "Smokiller : les hits du monde, la recette de la Dominique",
   "intro": "Smokiller est la marque d’artiste et de producteur de Sean “Smokiller” Francis, fondateur de Bouyon Shattaz. Né dominicain et aujourd’hui américain, Dominican-born, il prend des hits afrobeats, pop, rap et R&B et les transforme en versions bouyon, avec les claviers, le tempo et l’énergie du genre né à Roseau.",
   "sections": [
@@ -393,19 +386,10 @@ PAGES = [
    ]
   ],
   "faq": [
-   [
-    "Qui est Smokiller ?",
-    "Smokiller est la marque d’artiste et de producteur de Sean “Smokiller” Francis, fondateur de Bouyon Shattaz. Né dominicain et aujourd’hui américain, Dominican-born, il retourne des hits afrobeats, pop, rap et R&B en versions bouyon."
-   ],
-   [
-    "Quel remix de Smokiller a été repartagé par Coi Leray ?",
-    "Son retournement bouyon de Nothing Into Something, publié le 20 septembre 2026, a atteint 854,7K vues TikTok et 29,9K mentions j’aime selon ses propres captures du 19 octobre 2026, et Coi Leray a repartagé le flip."
-   ],
-   [
-    "Où télécharger les remixes de Smokiller ?",
-    "Sur smokiller.com, son hub de liens, en téléchargement gratuit : le remix de Nothing Into Something de Coi Leray en WAV, Vulnerability de Shenseea en WAV et Heaven Baby d’Ayra Starr en M4A, plus des instrumentaux et des vidéos de remixes."
-   ]
-  ],
+("Qui est Smokiller ?", "Smokiller est la marque d’artiste et de producteur de Sean “Smokiller” Francis, fondateur de Bouyon Shattaz. Né dominicain et aujourd’hui américain, il retourne des hits afrobeats, pop, rap et R&B en versions bouyon."),
+("Quel remix de Smokiller a été repartagé par Coi Leray ?", "Son retournement bouyon de Nothing Into Something, publié le 20 septembre 2026, a atteint 854,7K vues TikTok et 29,9K mentions j’aime selon ses propres captures du 19 octobre 2026, et Coi Leray a repartagé le flip."),
+("Où télécharger les remixes de Smokiller ?", "Sur smokiller.com, son hub de liens, en téléchargement gratuit : le remix de Nothing Into Something de Coi Leray en WAV, Vulnerability de Shenseea en WAV et Heaven Baby d’Ayra Starr en M4A, plus des instrumentaux et des vidéos de remixes."),
+],
   "date_published": "2026-09-15",
   "extra_graph": [
    {
@@ -451,7 +435,8 @@ PAGES = [
      ]
     }
    }
-  ]
+  ],
+"date_modified": "2026-10-20"
  },
  {
   "slug": "maurane-voyer.html",
@@ -677,7 +662,7 @@ PAGES = [
   "slug": "ridge.html",
   "cat": "Artistes bouyon",
   "nav": "Ridge",
-  "title": "Ridge (Mr Ridge) : artiste bouyon de Dominique, claviériste et producteur",
+  "title": "Ridge (Mr Ridge) : claviériste producteur bouyon dominicain",
   "desc": "Ridge, Mr Ridge, artiste bouyon de Dominique : claviériste, producteur, nommé aux Caribbean Music Awards 2026 et annoncé au WCMF Night 1.",
   "h1": "Ridge : le claviériste producteur qui mène un vrai groupe live",
   "intro": "Mr Ridge, nom d’artiste Ridge, est un artiste bouyon dominicain, claviériste et producteur, connu sur Instagram sous le nom @crossdbridge. Son compte créateur comptait 25 567 abonnés et 714 publications lors de notre relevé du 17 octobre 2026, et sa bio le présente aussi comme ambassadeur du rhum Bleu Magic. En 2026, il est nommé aux Caribbean Music Awards dans la catégorie Bouyon Artist of the Year, selon Dominica News, et confirmé à l’affiche du WCMF 2026.",
@@ -733,19 +718,10 @@ PAGES = [
    ]
   ],
   "faq": [
-   [
-    "Qui est Ridge ?",
-    "Ridge, ou Mr Ridge, est un artiste bouyon dominicain, claviériste et producteur, connu sur Instagram sous le nom @crossdbridge. Il est nommé aux Caribbean Music Awards 2026 comme Bouyon Artist of the Year, selon Dominica News."
-   ],
-   [
-    "Quand Ridge joue t il au WCMF 2026 ?",
-    "Selon les guides publiés, il joue lors de la Night 1, le vendredi 23 octobre 2026, au Windsor Park de Roseau. Sa présence est confirmée par le communiqué média officiel de la DDA."
-   ],
-   [
-    "Qui compose le groupe live de Ridge ?",
-    "D’après les images de répétition publiées le 17 octobre 2026 par Nikita Christmas, le groupe comprend Nikita Christmas à la batterie, à Ableton et à la direction musicale, @nattybilloriginal à la basse, @hilroyh à la guitare, et @earlsonmatthew et @mrbrockshot aux claviers."
-   ]
-  ],
+("Qui est Ridge ?", "Ridge, ou Mr Ridge, est un artiste bouyon dominicain, claviériste et producteur, connu sur Instagram sous le nom @crossdbridge. Il est nommé aux Caribbean Music Awards 2026 comme Bouyon Artist of the Year, selon Dominica News."),
+("Quand Ridge joue-t-il au WCMF 2026 ?", "Selon les guides publiés, il joue lors de la Night 1, le vendredi 23 octobre 2026, au Windsor Park de Roseau. Sa présence est confirmée par le communiqué média officiel de la DDA."),
+("Qui compose le groupe live de Ridge ?", "D’après les images de répétition publiées le 17 octobre 2026 par Nikita Christmas, le groupe comprend Nikita Christmas à la batterie, à Ableton et à la direction musicale, @nattybilloriginal à la basse, @hilroyh à la guitare, et @earlsonmatthew et @mrbrockshot aux claviers."),
+],
   "date_published": "2026-09-21",
   "extra_graph": [
    {
@@ -766,7 +742,8 @@ PAGES = [
      ]
     }
    }
-  ]
+  ],
+"date_modified": "2026-10-20"
  },
  {
   "slug": "tiitii-nba.html",
@@ -1109,7 +1086,7 @@ PAGES = [
   "slug": "midnight-groovers.html",
   "cat": "Artistes bouyon",
   "nav": "Midnight Groovers",
-  "title": "Midnight Groovers : la cadence-lypso de Grand Bay depuis les années 1960",
+  "title": "Midnight Groovers : la cadence-lypso de Grand Bay, Dominique",
   "desc": "Midnight Groovers, groupe de cadence-lypso de Grand Bay formé à la fin des années 1960, mené par Phillip Chubby Mark, 39 albums et plus, au WCMF 2026.",
   "h1": "Midnight Groovers : les racines cadence du bouyon, toujours sur scène",
   "intro": "Midnight Groovers est un groupe de cadence-lypso de Grand Bay, en Dominique, formé à la fin des années 1960 et mené par Phillip « Chubby » Mark. Avec 39 albums et plus selon son profil DOM767, c’est un véritable acte d’héritage, toujours à l’affiche du World Creole Music Festival en 2026. Son histoire explique d’où vient le bouyon : avant le genre de 1988, il y a eu la génération cadence, et Midnight Groovers en est une voix vivante.",
@@ -1202,13 +1179,14 @@ PAGES = [
      }
     }
    }
-  ]
+  ],
+"date_modified": "2026-10-20"
  },
  {
   "slug": "tk-international.html",
   "cat": "Artistes bouyon",
   "nav": "TK International",
-  "title": "TK International : Triple Kay Band, le bouyon live de la Dominique",
+  "title": "TK International : Triple Kay Band, bouyon live de Dominique",
   "desc": "TK International, aussi connu comme Triple Kay Band, groupe bouyon établi de la Dominique : nuit 1 du WCMF 2026, le 23 octobre, et tradition des groupes live.",
   "h1": "TK International : Triple Kay, un nom établi du bouyon live",
   "intro": "TK International, aussi connu sous les noms de Triple Kay Band et Triple Kay International, est un groupe bouyon de la Dominique. C’est l’un des noms de groupe établis de la scène dominicaine, dans la tradition de l’ère des groupes live qui a suivi WCK. Le vendredi 23 octobre 2026, TK International joue la nuit 1 du World Creole Music Festival, et Bouyon Shattaz l’a nommé parmi les cinq actes dominicains de son compte à rebours du festival.",
@@ -1308,7 +1286,8 @@ PAGES = [
      ]
     }
    }
-  ]
+  ],
+"date_modified": "2026-10-20"
  },
  {
   "slug": "colton-t.html",
@@ -1892,19 +1871,10 @@ PAGES = [
    ]
   ],
   "faq": [
-   [
-    "Pourquoi Niska a-t-il une page sur un site bouyon ?",
-    "Parce qu’il est crédité sur « Pow Pow / Allo Doudou », un titre bouyon avec Litleboy LSBeats767 et Miimii KDS, certifié Single Or par la SNEP en 2026. La page se concentre sur ce titre et sur ce qu’il prouve pour le bouyon."
-   ],
-   [
-    "Quelle est la certification de « Pow Pow / Allo Doudou » ?",
-    "Le titre a dépassé les 15 000 000 de streams équivalents en France et a été certifié Single Or par la SNEP en 2026, selon le post de certification de la SNEP."
-   ],
-   [
-    "Qui sont les autres artistes crédités sur le titre ?",
-    "Litleboy LSBeats767, artiste et beatmaker dont le nom porte le 767, indicatif de la Dominique, et Miimii KDS, chanteuse guadeloupéenne en pleine percée."
-   ]
-  ],
+("Pourquoi Niska a-t-il une page sur un site bouyon ?", "Parce qu’il est crédité sur « Pow Pow / Allo Doudou », un titre bouyon avec Litleboy LSBeats767 et Miimii KDS, certifié Single Or par la SNEP en 2026. La page se concentre sur ce titre et sur ce qu’il prouve pour le bouyon."),
+("Quelle est la certification de « Pow Pow / Allo Doudou » ?", "Le titre a dépassé les 15 000 000 de streams équivalents en France et a été certifié Single Or par la SNEP en 2026, selon le post de certification de la SNEP."),
+("Qui sont les autres artistes crédités sur le titre ?", "Litleboy LSBeats767, artiste et beatmaker dont le nom porte le 767, indicatif de la Dominique, et Miimii KDS, chanteuse guadeloupéenne en pleine percée, connue aussi pour « Sé Miimii ». Leur association fait de ce titre certifié Single Or un pont entre la Dominique et la Guadeloupe."),
+],
   "date_published": "2026-10-01",
   "extra_graph": [
    {
@@ -1924,7 +1894,8 @@ PAGES = [
      ]
     }
    }
-  ]
+  ],
+"date_modified": "2026-10-20"
  },
  {
   "slug": "denmath.html",
@@ -2410,7 +2381,7 @@ PAGES = [
   "slug": "ricky-bishop.html",
   "cat": "Artistes bouyon",
   "nav": "Ricky Bishop",
-  "title": "Ricky Bishop : le New Bouyon de Bordeaux, entre Gwada et Madagascar",
+  "title": "Ricky Bishop : le New Bouyon de Bordeaux, Gwada et Madagascar",
   "desc": "Ricky Bishop, rappeur et ingénieur du son de Bordeaux, créateur du New Bouyon. Californienne, Anlè mwen, les EP de 2024 et son premier solo show à Paris.",
   "h1": "Ricky Bishop : la New Wave du bouyon",
   "intro": "Ricky Bishop est un rappeur et ingénieur du son d’origine guadeloupéenne et malgache, installé à Bordeaux, en France. Sa biographie sur Deezer et un entretien publié par Modzik le présentent ainsi, et c’est cette double racine qui structure toute sa musique. Sur Instagram, où il apparaît sous le nom d’affichage BIG RACKS à l’adresse @rickybishop_, il comptait 15 310 abonnés et 40 publications au contrôle du 17 octobre 2026. Son fait d’armes est clair : il a créé le concept du New Bouyon, un bouyon mélangé à la trap et à la musique électronique. Le magazine Modzik l’a profilé sous le titre La New Wave du bouyon, une formule qui résume bien sa place sur cette carte : ni simple rappeur qui emprunte un rythme, ni producteur bouyon classique, mais un artiste qui revendique une nouvelle branche du genre. Pour comprendre pourquoi un artiste bordelais d’origine guadeloupéenne et malgache compte dans une histoire née à la Dominique, il faut lire sa trajectoire, ses disques et la manière dont il relie la Guadeloupe, Madagascar et la France. Cette page rassemble uniquement les faits vérifiés de nos dossiers, de ses premiers albums à son premier concert solo parisien annoncé pour le mardi 20 octobre 2026.",
@@ -2499,13 +2470,14 @@ PAGES = [
      ]
     }
    }
-  ]
+  ],
+"date_modified": "2026-10-20"
  },
  {
   "slug": "david-campana.html",
   "cat": "Artistes bouyon",
   "nav": "David Campana",
-  "title": "David Campana : le rap de Saint-Henri, de Montréal au public bouyon",
+  "title": "David Campana : rap de Saint-Henri, de Montréal au bouyon",
   "desc": "David Campana, rappeur et auteur de Montréal, quartier Saint-Henri. Son projet ST-HENRI Vol.I et son titre My Ex, produit avec Magistral Beats.",
   "h1": "David Campana : Montréal, Saint-Henri et le son d’ailleurs",
   "intro": "David Campana est un rappeur, chanteur, auteur-compositeur et réalisateur de Montréal, au Canada, issu du quartier Saint-Henri. Words and Music, le magazine de la SOCAN, le décrit comme un Québécois d’origine franco-haïtienne, et sa propre biographie affiche les drapeaux du Canada et de la France. Sur Instagram, à l’adresse vérifiée @dav.campana, il comptait 16 213 abonnés au contrôle du 17 octobre 2026. Son projet en cours s’intitule ST-HENRI Vol.I, un nom qui ancre directement sa musique dans son quartier. Pourquoi un rappeur montréalais figure-t-il sur un site consacré au bouyon ? Parce que son profil franco-caribéen, entre Montréal, la France et Haïti, s’inscrit dans la carte élargie du public bouyon et shatta que ce site documente : les mêmes diasporas, les mêmes langues et souvent les mêmes soirées. Son titre My Ex, dont un reel a été publié le 16 octobre 2026 avec Montréal, Québec en localisation, est la porte d’entrée retenue ici, avec ses crédits vérifiés et la phrase de sa propre légende, sans paroles ajoutées ni faits inventés.",
@@ -2575,7 +2547,8 @@ PAGES = [
      ]
     }
    }
-  ]
+  ],
+"date_modified": "2026-10-20"
  },
  {
   "slug": "dj-blax.html",
@@ -2975,7 +2948,7 @@ PAGES = [
   "slug": "racines-cadence-lypso.html",
   "cat": "Culture bouyon",
   "nav": "Racines cadence-lypso",
-  "title": "Racines cadence-lypso : avant le bouyon, la cadence de la Dominique",
+  "title": "Racines cadence-lypso : la Dominique avant le bouyon",
   "desc": "Racines cadence-lypso : Exile One, les Grammacks et les Midnight Groovers de Grand Bay. L’héritage que WCK a fusionné avec le jing ping en 1988.",
   "h1": "Racines cadence-lypso : ce que le bouyon doit à la cadence",
   "intro": "Avant le bouyon, il y avait la cadence-lypso. Pour comprendre la fusion de WCK en 1988, il faut entendre ce qui la précède : le jing ping traditionnel d’un côté, et de l’autre les groupes dominicains des années 1970 qui ont fait voyager la cadence-lypso dans toute la Caraïbe. Exile One et les Grammacks ont porté cette musique, ses guitares rythmiques agressives et ses textes créoles qui racontent la vie de l’île. Le bouyon n’a pas remplacé cet héritage : il l’a branché sur des machines.",
@@ -3051,14 +3024,15 @@ PAGES = [
     "Un groupe de cadence-lypso de Grand Bay, formé à la fin des années 1960, mené par Phillip “Chubby” Mark, avec plus de 39 albums, toujours à l’affiche du WCMF en 2026."
    ]
   ],
-  "date_published": "2026-09-03"
+  "date_published": "2026-09-03",
+"date_modified": "2026-10-20"
  },
  {
   "slug": "gwada-vue-de-dominique.html",
   "cat": "Culture bouyon",
   "nav": "Gwada vue de Dominique",
-  "title": "Bouyon Gwada : la Guadeloupe vue depuis la Dominique, origine et jump up",
-  "desc": "Bouyon gwada vu de la Dominique : le jump up des Antilles françaises, Miimii KDS, TIITII NBA, More Sewo et BONNA. Gwada a fait grandir le bouyon, l’origine voyage avec.",
+  "title": "Bouyon Gwada : la Guadeloupe vue depuis la Dominique",
+  "desc": "Bouyon gwada vu de la Dominique : le jump up des Antilles françaises, Miimii KDS, TIITII NBA, More Sewo et BONNA. Gwada a fait grandir le bouyon.",
   "h1": "Gwada vue de Dominique : le deuxième chapitre du bouyon",
   "intro": "Ce chapitre raconte la Guadeloupe depuis la Dominique. Le bouyon a traversé la mer grâce à la langue créole partagée et il est devenu jump up aux Antilles françaises, puis bouyon gwada, la branche hardcore du genre : boîtes à rythmes, basses lourdes, voix créoles, prêt pour les clubs. La position dominicaine défendue ici est claire et généreuse à la fois : Gwada a fait grandir le bouyon, et le crédit de l’origine voyage avec lui, partout où il va.",
   "sections": [
@@ -3120,26 +3094,18 @@ PAGES = [
    ]
   ],
   "faq": [
-   [
-    "Qu’est-ce que le bouyon gwada ?",
-    "La branche guadeloupéenne et hardcore du bouyon : boîtes à rythmes, basses lourdes, voix créoles, pensée pour les clubs, née du jump up des Antilles françaises."
-   ],
-   [
-    "Comment le bouyon est-il arrivé en Guadeloupe ?",
-    "Par la langue créole partagée entre la Dominique et les Antilles françaises. Il y est devenu jump up, puis bouyon gwada."
-   ],
-   [
-    "Quel label gwada a signé un artiste dominicain ?",
-    "More Sewo, label guadeloupéen créé en 2007 par Arturo Bellot, a signé BONNA, artiste dominicain. Le trafic entre les deux scènes va désormais dans les deux sens."
-   ]
-  ],
-  "date_published": "2026-09-24"
+("Qu’est-ce que le bouyon gwada ?", "Le bouyon gwada est la branche guadeloupéenne et hardcore du bouyon : boîtes à rythmes en avant, basses lourdes, voix créoles, format pensé pour les clubs. Né du jump up des Antilles françaises, ce n’est pas une copie du son dominicain mais une déclinaison qui assume la pression du club, et la Dominique y reconnaît son invention."),
+("Comment le bouyon est-il arrivé en Guadeloupe ?", "Par la langue créole partagée entre la Dominique et les Antilles françaises : le bouyon n’a pas eu besoin de traduction, et cette langue lui a servi de passeport. Aux Antilles françaises, le son a d’abord pris le nom de jump up, avant que la branche guadeloupéenne ne s’affirme sous le nom de bouyon gwada."),
+("Quel label gwada a signé un artiste dominicain ?", "More Sewo, label guadeloupéen créé en 2007 par Arturo Bellot, a signé BONNA, artiste dominicain. Le trafic entre les deux scènes va désormais dans les deux sens."),
+],
+  "date_published": "2026-09-24",
+"date_modified": "2026-10-20"
  },
  {
   "slug": "femmes-du-bouyon.html",
   "cat": "Culture bouyon",
   "nav": "Femmes du bouyon",
-  "title": "Femmes du bouyon : Maurane Voyer, Miimii KDS, Shelly, Tamillia, Ebony Empress",
+  "title": "Femmes du bouyon : Maurane Voyer, Miimii KDS et Shelly",
   "desc": "Femmes du bouyon : Maurane Voyer, Miimii KDS, Shelly, Tamillia et Ebony Empress, têtes d’affiche et faiseuses de hits, de Joli BB au disque d’or SNEP.",
   "h1": "Femmes du bouyon : têtes d’affiche, pas décorations",
   "intro": "Ce chapitre pose une ligne simple : dans le bouyon, les femmes sont des têtes d’affiche et des faiseuses de hits, pas des décorations. Maurane Voyer porte “Joli BB” avec Reo. Miimii KDS empile un viral et un disque d’or SNEP. Shelly aligne les vues et les collaborations avec Signal Band depuis la Dominique. Tamillia prête sa voix au “Don’t Care” de DJ Blax. Ebony Empress signe un riddim officiel. Et l’économie du remix elle-même tourne sur des voix de femmes, d’Ayra Starr à Shenseea.",
@@ -3202,27 +3168,19 @@ PAGES = [
    ]
   ],
   "faq": [
-   [
-    "Qui sont les femmes mises en avant dans ce chapitre ?",
-    "Maurane Voyer, Miimii KDS, Shelly, Tamillia et Ebony Empress, ainsi que les voix remixées par Smokiller, Ayra Starr et Shenseea."
-   ],
-   [
-    "Quel titre féminin a été certifié or en France ?",
-    "“Pow Pow / Allo Doudou”, avec Miimii KDS, certifié Single Or par la SNEP avec 15 millions d’équivalents streams en France."
-   ],
-   [
-    "Quelle artiste dominicaine chante au WCMF 2026 ?",
-    "Shelly, avec Signal Band, lors de la troisième nuit du festival. Son “Bye to de Old Me (Remix)” affiche 691 000 vues."
-   ]
-  ],
-  "date_published": "2026-09-26"
+("Qui sont les femmes mises en avant dans ce chapitre ?", "Le chapitre met en avant Maurane Voyer, de Martinique, Miimii KDS, de Guadeloupe, Shelly, de la Dominique, Tamillia, qui a grandi à Saint-Martin, et Ebony Empress, voix du Bounce 2D Riddim. Il cite aussi Ayra Starr et Shenseea, dont les voix portent des remixes bouyon de Smokiller : des têtes d’affiche et des faiseuses de hits, pas des décorations."),
+("Quel titre féminin a été certifié or en France ?", "“Pow Pow / Allo Doudou”, avec Miimii KDS, artiste de Guadeloupe, a été certifié Single Or par la SNEP avec 15 millions d’équivalents streams en France. Miimii KDS avait déjà signé un titre viral en 2025 avec “Sé Miimii”. Une artiste gwada qui convertit le bouyon en or français : c’est un argument que tout le genre peut utiliser."),
+("Quelle artiste dominicaine chante au WCMF 2026 ?", "Shelly, artiste de la Dominique, chante avec Signal Band lors de la troisième nuit du WCMF 2026. Son “Bye to de Old Me (Remix)” affiche 691 000 vues, et elle a enchaîné deux collaborations tendance avec le groupe. La Martiniquaise Maurane Voyer figure aussi à l’affiche de la première nuit du festival."),
+],
+  "date_published": "2026-09-26",
+"date_modified": "2026-10-20"
  },
  {
   "slug": "producteurs-et-passeurs.html",
   "cat": "Culture bouyon",
   "nav": "Producteurs et passeurs",
-  "title": "Producteurs du bouyon et passeurs : Smokiller, Denmath, HYPNO et les droits",
-  "desc": "Producteurs du bouyon : Smokiller, Denmath, HYPNO, Savion, MB On The Track, Dboss. Et les passeurs qui protègent le son : accords, crédits et droits des producteurs.",
+  "title": "Producteurs du bouyon et passeurs : Smokiller, Denmath, HYPNO",
+  "desc": "Producteurs du bouyon : Smokiller, Denmath, HYPNO, Savion, MB On The Track, Dboss, et les passeurs qui protègent le son : accords, crédits et droits.",
   "h1": "Producteurs et passeurs : les mains derrière le son bouyon",
   "intro": "Le bouyon se raconte souvent par ses chanteurs. Ce chapitre choisit l’autre bout de la chaîne : les producteurs qui fabriquent le son, et les passeurs qui le transportent, le protègent et le connectent. Smokiller et sa méthode de remix, Denmath et ses riddims, HYPNO et sa vitesse, Savion et le format snippet, MB On The Track et ses beats sur mesure, Dboss et son riddim “Come Here”. Derrière eux, un accord signé en octobre 2026 montre comment la protection des producteurs peut devenir un modèle.",
   "sections": [
@@ -3297,14 +3255,15 @@ PAGES = [
     "Un connecteur : média, manager ou bureau de droits qui transporte le son entre les îles et protège ses créateurs, comme Bouyon Shattaz ou Ambre Lazaro pour Denmath."
    ]
   ],
-  "date_published": "2026-10-02"
+  "date_published": "2026-10-02",
+"date_modified": "2026-10-20"
  },
  {
   "slug": "wcmf-festival-creole.html",
   "cat": "Culture bouyon",
   "nav": "WCMF, festival créole",
-  "title": "World Creole Music Festival 2026 : le WCMF de Roseau, 23 au 25 octobre",
-  "desc": "World Creole Music Festival 2026 à Roseau, Dominique : trois nuits à Windsor Park du 23 au 25 octobre, bouyon, cadence, zouk et kompa. Le programme bouyon nuit par nuit.",
+  "title": "World Creole Music Festival 2026 : Roseau, 23 au 25 octobre",
+  "desc": "World Creole Music Festival 2026 à Roseau : trois nuits à Windsor Park du 23 au 25 octobre, bouyon, cadence, zouk, kompa et le programme bouyon par nuit.",
   "h1": "World Creole Music Festival : trois nuits créoles à Roseau",
   "intro": "Le World Creole Music Festival, le WCMF, est le grand rendez-vous créole de Roseau, en Dominique : trois nuits à Windsor Park, chaque mois d’octobre au moment de l’indépendance. L’édition 2026 se tient du vendredi 23 au dimanche 25 octobre 2026. Le festival met en scène le bouyon et la cadence de la Dominique aux côtés du zouk, du kompa et d’invités de la diaspora. Pour le bouyon, c’est la plus grande vitrine internationale à domicile, là où le genre est né.",
   "sections": [
@@ -3392,14 +3351,15 @@ PAGES = [
     "inLanguage": "fr"
    }
   ],
-  "date_published": "2026-10-14"
+  "date_published": "2026-10-14",
+"date_modified": "2026-10-20"
  },
  {
   "slug": "bouyon-mondial-crossover.html",
   "cat": "Culture bouyon",
   "nav": "Bouyon mondial",
-  "title": "Bouyon mondial 2026 : Coi Leray, Ayra Starr, disque d’or SNEP et Paris",
-  "desc": "Bouyon mondial en 2026 : les remixes Smokiller de Coi Leray et Ayra Starr, le Single Or SNEP de Pow Pow, Ricky Bishop à Paris. Le crossover et le crédit dominicain.",
+  "title": "Bouyon mondial 2026 : Coi Leray, Ayra Starr et l’or SNEP",
+  "desc": "Bouyon mondial en 2026 : les remixes Smokiller de Coi Leray et Ayra Starr, le Single Or SNEP de Pow Pow, Ricky Bishop à Paris et le crédit dominicain.",
   "h1": "Bouyon mondial : le crossover de 2026, avec le crédit dominicain",
   "intro": "En 2026, le bouyon ne demande plus la permission pour voyager. Un remix de Coi Leray retourné en deux jours et vu 854 700 fois sur TikTok. Un remix d’Ayra Starr qui porte une campagne de trente jours. Un Single Or SNEP en France pour un titre avec Miimii KDS. Un premier concert solo à Paris pour Ricky Bishop. Ce chapitre rassemble les preuves du crossover, une par une, et il pose la question que Bouyon Shattaz ne lâche jamais : le crédit dominicain voyage-t-il avec le son ?",
   "sections": [
@@ -3487,7 +3447,8 @@ PAGES = [
     "inLanguage": "fr"
    }
   ],
-  "date_published": "2026-10-15"
+  "date_published": "2026-10-15",
+"date_modified": "2026-10-20"
  },
  {
   "slug": "artistes-dominique.html",
@@ -3664,7 +3625,7 @@ PAGES = [
   "slug": "artistes-martinique.html",
   "cat": "Artistes bouyon",
   "nav": "Artistes de Martinique",
-  "title": "Artistes bouyon de Martinique: Maurane Voyer et le pont de Joli BB",
+  "title": "Artistes bouyon de Martinique : Maurane Voyer et Joli BB",
   "desc": "Artistes bouyon de Martinique: Maurane Voyer, chanteuse martiniquaise, voix de Joli BB avec Reo et tête d’affiche de la première nuit du WCMF 2026.",
   "h1": "Artistes bouyon de Martinique: un hub qui commence par une voix",
   "intro": "Ce hub martiniquais commence honnêtement: avec un seul profil approfondi, celui de Maurane Voyer, et il grandira au fil des dossiers vérifiés. Plutôt que d’inventer une liste d’artistes, cette page raconte la place réelle de la Martinique dans la carte du bouyon, telle que notre rédaction la documente: une île où le bouyon se danse en jump up, une langue créole partagée avec la Dominique, un public au coeur de la playlist ROAD MIX, et en 2026 un disque-pont, « Joli BB », qui relie Fort-de-France à Roseau. C’est peu de noms, mais c’est du solide, et c’est ainsi que ce site préfère construire ses hubs: un profil vrai vaut mieux que dix fiches fabriquées.",
@@ -3733,6 +3694,7 @@ PAGES = [
     "En Martinique, le bouyon se danse en jump up. L’île partage la langue créole avec la Dominique, et son public est l’un des publics centraux de la playlist ROAD MIX de Bouyon Shattaz, ce qui en fait un territoire naturel du genre."
    ]
   ],
-  "date_published": "2026-10-19"
+  "date_published": "2026-10-19",
+"date_modified": "2026-10-20"
  }
 ]
