@@ -95,7 +95,7 @@ place("bouyon-saint-martin.html", "Bouyon à Saint-Martin",
 ]),
 place("bouyon-sainte-lucie.html", "Bouyon à Sainte-Lucie",
 "Bouyon à Sainte-Lucie : le bouyon soca vu de Castries",
-"Le bouyon à Sainte-Lucie : l’île voisine de la Dominique où le bouyon soca s’est développé. Liens entre Roseau et Castries, carnavals et publics créoles.",
+"Le bouyon à Sainte-Lucie : l’île voisine de la Dominique où le bouyon soca a grandi et s’est répandu, après son lancement en Dominique en 2003. Liens entre Roseau et Castries, carnavals et publics créoles.",
 "Bouyon à Sainte-Lucie : la voisine où le bouyon soca a grandi",
 "Sainte-Lucie est l’île créolophone la plus proche de la Dominique. Le bouyon soca a été lancé en Dominique par Dada en 2003, selon le témoignage de Sean « Smokiller » Francis, présent dans les studios à l’époque. Sainte-Lucie est ensuite devenue l’une des îles où la fusion a le plus grandi, chez des producteurs et un public qui aiment autant la soca de Trinidad que le bouyon dominicain.",
 "Deux carnavals qui se répondent", "Les publics de Roseau et de Castries partagent langue, histoire et goût de la fête. Les titres voyagent d’un carnaval à l’autre, et le <a href=\"/bouyon-soca.html\">bouyon soca</a> est devenu leur langue musicale commune.", date_modified="2026-10-20", faq=[
