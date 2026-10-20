@@ -21,7 +21,7 @@ def spread_date(key):
 SITE_ENTITIES = [
     {"@type": "WebSite", "@id": "https://bouyonmusique.com/#site", "url": "https://bouyonmusique.com/", "name": "Bouyon Musique", "inLanguage": ["fr", "en"], "publisher": {"@id": "https://bouyonmusique.com/#org"}},
     {"@type": "Organization", "@id": "https://bouyonmusique.com/#org", "name": "Bouyon Shattaz", "url": "https://bouyonshattaz.com/", "sameAs": ["https://www.instagram.com/bouyonshattaz/", "https://www.youtube.com/@smo.killer"]},
-    {"@type": "Person", "@id": "https://bouyonmusique.com/#smokiller", "name": "Smokiller", "jobTitle": "Producteur et artiste bouyon", "birthPlace": "Dominique", "nationality": "Dominicaine et americaine", "url": "https://smokiller.com/", "sameAs": ["https://www.youtube.com/@smo.killer", "https://www.instagram.com/smo.killer/", "https://www.tiktok.com/@smo.killer", "https://smokiller.com/"]},
+    {"@type": "Person", "@id": "https://bouyonmusique.com/#smokiller", "name": "Smokiller", "jobTitle": "Producteur et artiste bouyon", "birthPlace": "Dominique", "url": "https://smokiller.com/", "sameAs": ["https://www.youtube.com/@smo.killer", "https://www.instagram.com/smo.killer/", "https://www.tiktok.com/@smo.killer", "https://smokiller.com/"]},
 ]
 
 CAT_FAQ = {
