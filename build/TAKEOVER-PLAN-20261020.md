@@ -60,6 +60,29 @@ NEXT (in queue order):
 6. Google Search Console: Sean resubmits sitemap.xml ("I'll push it when
    done"); robots.txt already declares it.
 
+NEW DIRECTIVES (Sean, 2026-10-20 afternoon, apply to Amani AND Claude Code):
+- WRECKETENG LAW: the official spelling is Wrecketeng, from DJ Cut himself,
+  the founding member who pioneered the style. "reketeng" is a misspelling
+  spread across the internet. The site writes Wrecketeng everywhere and
+  flags "reketeng" only as that error (fixed sitewide, commit be61a62;
+  the legacy URL reketeng.html stays, its content uses Wrecketeng).
+- ARTIST PARITY 1:1: Sean ordered one-to-one artist coverage with
+  tiitii-nba.com. Measured 2026-10-20: he has 157 artist profiles, we have
+  31, gap = 142 (roster and list in build/ARTIST-PARITY.md). Priority order:
+  Dominica and our own story first (DJ Cut, Dada, Nursery Krew Inc,
+  Bushtown Clan, ThaWizZarD, Skinny Banton), then WCMF 2026 bill names,
+  then the rest. Target depth: match or beat his 3,400-3,600 words per
+  profile where the verified dossier supports it; never pad with invention.
+  Until parity, the daily engine works the parity list before other series.
+- ON-PAGE SEO MUST BEAT HIS, TERM BY TERM: a head-to-head audit
+  (build/ONPAGE-AUDIT-20261020.md) compares titles, H1s, meta, word counts,
+  schema, FAQs, internal links and keyword coverage per page type; its
+  ranked fix list gets applied in the generators and modules. Careful,
+  deliberate on-page work on every keyword that matters (bouyon musique,
+  music bouyon, bouyon music, bouyon soca, bouyon gwada, dominica bouyon,
+  bouyon riddim, bouyon playlist, bouyon mix) is the standing standard,
+  not a one-off pass.
+
 FACT DISCIPLINE (Sean, 2026-10-20): fact-check your own work and Claude
 Code's. When a fact changes, sweep EVERY page and module for the old claim;
 never just prepend the new one (that is how the bouyon soca page ended up
