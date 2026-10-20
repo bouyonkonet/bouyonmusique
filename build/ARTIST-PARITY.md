@@ -1,6 +1,6 @@
 # ARTIST PARITY vs tiitii-nba.com (measured 2026-10-20)
-His artist profile pages: 157 (FR, mirrored EN). Ours: 85.
-Gap: 88 of his artists have no profile on bouyonmusique.com yet.
+His artist profile pages: 157 (FR, mirrored EN). Ours: 93.
+Gap: 80 of his artists have no profile on bouyonmusique.com yet.
 
 ## His artists we are missing (build in this order of priority: Dominica first, then WCMF 2026 bill, then the rest)
 - ~~1t1~~ BUILT 2026-10-20 (parity wave 2)
@@ -49,16 +49,16 @@ Gap: 88 of his artists have no profile on bouyonmusique.com yet.
 - ~~dj-taffy~~ BUILT 2026-10-20 (parity wave 2)
 - ~~dj-weez~~ BUILT 2026-10-20 (parity wave 7)
 - ~~doc-j~~ BUILT 2026-10-20 (parity wave 7)
-- dova
-- ebony-empress
+- ~~dova~~ BUILT 2026-10-20 (parity wave 8)
+- ~~ebony-empress~~ BUILT 2026-10-20 (parity wave 8)
 - ~~edday~~ BUILT 2026-10-20 (parity wave 2)
-- effects-band
-- erwinchy
-- explosive-band
-- faithii
+- ~~effects-band~~ BUILT 2026-10-20 (parity wave 8)
+- ~~erwinchy~~ BUILT 2026-10-20 (parity wave 8)
+- ~~explosive-band~~ BUILT 2026-10-20 (parity wave 8)
+- ~~faithii~~ BUILT 2026-10-20 (parity wave 8)
 - ~~fallon~~ BUILT 2026-10-20 (parity wave 2)
-- flw
-- freddy
+- ~~flw~~ BUILT 2026-10-20 (parity wave 8)
+- ~~freddy~~ BUILT 2026-10-20 (parity wave 8)
 - gaza-crew
 - gaza-girls-crew
 - haterz-be
