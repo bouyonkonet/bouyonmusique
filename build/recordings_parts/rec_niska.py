@@ -1,0 +1,26 @@
+TRACKS = [
+    {"name": "Réseaux", "url": "https://www.deezer.com/da/album/62060592", "album": "Commando", "year": 2017},
+    {"name": "Salé", "url": "https://www.deezer.com/da/album/62060592", "album": "Commando", "year": 2017},
+    {"name": "Medellín", "url": "https://www.deezer.com/da/album/62060592", "album": "Commando", "year": 2017},
+    {"name": "Tuba Life", "url": "https://www.deezer.com/da/album/62060592", "album": "Commando", "year": 2017},
+    {"name": "Chasse à l'homme", "url": "https://www.deezer.com/da/album/62060592", "album": "Commando", "year": 2017},
+    {"name": "Matuidi Charo (PSG)", "url": "https://www.deezer.com/da/album/11326792", "album": "Charo Life", "year": 2015},
+    {"name": "Bâtiment", "url": "https://www.deezer.com/da/album/109726692", "album": "Mr Sal", "year": 2019},
+    {"name": "Du lundi au lundi", "url": "https://www.deezer.com/da/album/109726692", "album": "Mr Sal", "year": 2019},
+    {"name": "Coco", "url": "https://www.deezer.com/da/album/660812351", "album": "GOAT", "year": 2024},
+    {"name": "Allo Doudou", "url": "https://www.deezer.com/us/album/1002496911", "album": "Allo Doudou", "year": 2026},
+    {"name": "Pow Pow", "url": "https://www.deezer.com/da/album/1018826031", "album": "Pow Pow", "year": 2026},
+]
+SOURCES = [
+    ("Réseaux", "https://www.deezer.com/da/album/62060592"),
+    ("Salé", "https://www.deezer.com/da/album/62060592"),
+    ("Medellín", "https://www.deezer.com/da/album/62060592"),
+    ("Tuba Life", "https://www.deezer.com/da/album/62060592"),
+    ("Chasse à l'homme", "https://www.deezer.com/da/album/62060592"),
+    ("Matuidi Charo (PSG)", "https://www.deezer.com/da/album/11326792"),
+    ("Bâtiment", "https://www.deezer.com/da/album/109726692"),
+    ("Du lundi au lundi", "https://www.deezer.com/da/album/109726692"),
+    ("Coco", "https://www.deezer.com/da/album/660812351"),
+    ("Allo Doudou", "https://www.deezer.com/us/album/1002496911"),
+    ("Pow Pow", "https://www.deezer.com/da/album/1018826031"),
+]

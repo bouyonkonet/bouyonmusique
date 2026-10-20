@@ -94,7 +94,69 @@ PAGES = [
       "@type": "Place",
       "name": "Roseau, Dominique"
      },
-     "foundingDate": "1988"
+     "foundingDate": "1988",
+     "track": [
+      {
+       "@type": "MusicRecording",
+       "name": "Culture Shock"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dance Floor"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Follow the Leader"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Land Of Sunshine"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Conch Shell/Vola Vole"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Balance Batty"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mete Veye"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Original Hold Dem"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nomn La"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Preg Dance See"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "The Buzz"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pride & Joy"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Emotions"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Joy Ride"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "More music"
+      }
+     ]
     }
    }
   ]
@@ -186,6 +248,54 @@ PAGES = [
       {
        "@type": "MusicRecording",
        "name": "Life Nice"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Move"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Liat"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Amazing"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Overweight"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Macome"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Boss"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Haiti"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Festival"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Why"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Banana"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Marcaroni"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Down"
       }
      ]
     }
@@ -304,6 +414,38 @@ PAGES = [
       {
        "@type": "MusicRecording",
        "name": "Still Love Me"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bend Down"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Feelings"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I know y (kenny g) (feat. Faithii)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Adios Amigos (feat. Lejuh & Jixels)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "You mad (Live)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dj luchshiy wifi freestyle (feat. Edday, Jixel & Dj luchshiy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Whine Down (feat. Reo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dominica I From"
       }
      ]
     }
@@ -431,6 +573,30 @@ PAGES = [
       {
        "@type": "MusicRecording",
        "name": "Heaven Baby (Bouyon Shattaz Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bryson Tiller Bouyon Shattaz Remix [demo] prod x smokiller"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "loe shimmy - bag right bouyon REMIX snippet"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bouyon Shattaz anthem"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "RnBouyon: The GTA6 Soundtrack You Didn't Know You Needed"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Time Skip Riddim"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "IDFWU Riddim"
       }
      ]
     }
@@ -546,6 +712,38 @@ PAGES = [
       {
        "@type": "MusicRecording",
        "name": "Brennen"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Haïti pa pléré"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ZABOKA (Version miel)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kole Kole (feat. DJ Whyne) [RMX]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Salines"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pa Jan'm Asé (feat. Maurane Voyer)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Au loin"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "FEU"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Chalala"
       }
      ]
     }
@@ -652,6 +850,42 @@ PAGES = [
       {
        "@type": "MusicRecording",
        "name": "Pow Pow / Allo Doudou"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "6 o'clock"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Coming"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "In Di Corner"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "WITH SOME BOYZ"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ON DOZ"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bodé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Castries"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Allo Doudou"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Allo Doudou (feat. litleboy lsbeats767) (Spain Remix)"
       }
      ]
     }
@@ -960,6 +1194,42 @@ PAGES = [
       {
        "@type": "MusicRecording",
        "name": "What YOU Say"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mic Check 12345678 (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Playground (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Yes Baby (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "My Cake (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Math Not Mathing (feat. Shelly & Trilla-G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Passing (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "In the Morning (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bye to de Old Me (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "We Ready (feat. Trilla-G & Shelly)"
       }
      ]
     }
@@ -1076,6 +1346,42 @@ PAGES = [
       {
        "@type": "MusicRecording",
        "name": "What YOU Say"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stronger (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dwivé (feat. Shelly & Trilla-G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Youngest & Baddest (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Yes Baby (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "We Ready (feat. Trilla-G & Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Passing (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doh See Me (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ani Ba Yo Love (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Me With People (feat. Shelly & Moxie Shervy)"
       }
      ]
     }
@@ -1176,7 +1482,57 @@ PAGES = [
      "foundingLocation": {
       "@type": "Place",
       "name": "Grand Bay, Dominique"
-     }
+     },
+     "track": [
+      {
+       "@type": "MusicRecording",
+       "name": "Ali Soucouer Sac Ou"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Femm Débat"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dominique"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mi on La Vie Raide"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "C'est Oui C'est Vrai"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Maladi"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sarah"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Warning"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Soufe"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Angela"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Zion"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Babylon Man"
+      }
+     ]
     }
    }
   ],
@@ -1283,6 +1639,68 @@ PAGES = [
       "https://www.facebook.com/triplekayinternational",
       "https://www.tiktok.com/@tkinternational1",
       "https://triplekayinternational.com"
+     ],
+     "track": [
+      {
+       "@type": "MusicRecording",
+       "name": "Long Spoon"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Whistle While You Work"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Show Me"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Riddim in Your Blood (Bam Bam)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Chocoloco"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Riddim & Chant, Vol. 1: Dat Iz Kanaval"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Longtime"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Keep It Triple"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Juicey"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Heat"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Center Pocket"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Miel Pop"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fan Love"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Xtraordinary"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Still Standing!"
+      }
      ]
     }
    }
@@ -1890,6 +2308,50 @@ PAGES = [
       {
        "@type": "MusicRecording",
        "name": "Pow Pow / Allo Doudou"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Réseaux"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Salé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Medellín"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tuba Life"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Chasse à l'homme"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Matuidi Charo (PSG)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bâtiment"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Du lundi au lundi"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Coco"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Allo Doudou"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pow Pow"
       }
      ]
     }

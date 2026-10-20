@@ -1,0 +1,26 @@
+TRACKS = [
+    {"name": "Someone Else", "url": "https://www.qobuz.com/de-de/album/summer-of-carnivals-vol-1-presented-by-intl-stephen-various-artists/dcsbegz555b2b", "album": "Summer Of Carnivals, Vol. 1 (Presented by Int'l Stephen)", "year": 2024},
+    {"name": "Testimony", "url": "https://www.shazam.com/album/1848127466/take-me-as-i-am-the-album", "album": "Take Me As I Am: The Album", "year": 2025},
+    {"name": "Single Again", "url": "https://www.shazam.com/album/1848127466/take-me-as-i-am-the-album", "album": "Take Me As I Am: The Album", "year": 2025},
+    {"name": "Action", "url": "https://www.shazam.com/album/1848127466/take-me-as-i-am-the-album", "album": "Take Me As I Am: The Album", "year": 2025},
+    {"name": "Blue (feat. Ridge)", "url": "https://www.shazam.com/album/1848127466/take-me-as-i-am-the-album", "album": "Take Me As I Am: The Album", "year": 2025},
+    {"name": "Kyoné Me", "url": "https://www.shazam.com/album/1848127466/take-me-as-i-am-the-album", "album": "Take Me As I Am: The Album", "year": 2025},
+    {"name": "Rock, Paper, Scissors", "url": "https://www.shazam.com/album/1848127466/take-me-as-i-am-the-album", "album": "Take Me As I Am: The Album", "year": 2025},
+    {"name": "Take Me As I Am (feat. V'ghn) [Remix]", "url": "https://www.shazam.com/album/1848127466/take-me-as-i-am-the-album", "album": "Take Me As I Am: The Album", "year": 2025},
+    {"name": "Hennessy & Malibu", "url": "https://www.shazam.com/album/1848127466/take-me-as-i-am-the-album", "album": "Take Me As I Am: The Album", "year": 2025},
+    {"name": "Marry You", "url": "https://www.shazam.com/album/1848127466/take-me-as-i-am-the-album", "album": "Take Me As I Am: The Album", "year": 2025},
+    {"name": "Toxic Love (feat. Th3rd)", "url": "https://www.shazam.com/album/1848127466/take-me-as-i-am-the-album", "album": "Take Me As I Am: The Album", "year": 2025},
+]
+SOURCES = [
+    ("Someone Else", "https://www.qobuz.com/de-de/album/summer-of-carnivals-vol-1-presented-by-intl-stephen-various-artists/dcsbegz555b2b"),
+    ("Testimony", "https://www.shazam.com/album/1848127466/take-me-as-i-am-the-album"),
+    ("Single Again", "https://www.shazam.com/album/1848127466/take-me-as-i-am-the-album"),
+    ("Action", "https://www.shazam.com/album/1848127466/take-me-as-i-am-the-album"),
+    ("Blue (feat. Ridge)", "https://www.shazam.com/album/1848127466/take-me-as-i-am-the-album"),
+    ("Kyoné Me", "https://www.shazam.com/album/1848127466/take-me-as-i-am-the-album"),
+    ("Rock, Paper, Scissors", "https://www.shazam.com/album/1848127466/take-me-as-i-am-the-album"),
+    ("Take Me As I Am (feat. V'ghn) [Remix]", "https://www.shazam.com/album/1848127466/take-me-as-i-am-the-album"),
+    ("Hennessy & Malibu", "https://www.shazam.com/album/1848127466/take-me-as-i-am-the-album"),
+    ("Marry You", "https://www.shazam.com/album/1848127466/take-me-as-i-am-the-album"),
+    ("Toxic Love (feat. Th3rd)", "https://www.shazam.com/album/1848127466/take-me-as-i-am-the-album"),
+]
