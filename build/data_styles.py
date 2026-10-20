@@ -1,0 +1,110 @@
+# -*- coding: utf-8 -*-
+PAGES = [
+{
+"slug": "bouyon-soca.html", "cat": "Styles de bouyon", "nav": "Bouyon soca",
+"title": "Bouyon Soca : la fusion bouyon et soca expliquée",
+"desc": "Bouyon soca : la fusion entre le bouyon de la Dominique et la soca de Trinidad. Origine, son, territoires (Sainte-Lucie, Antigua, Guadeloupe, Martinique) et titres à écouter.",
+"h1": "Bouyon soca : quand le bouyon de la Dominique rencontre la soca",
+"intro": "Le bouyon soca est la fusion la plus populaire née autour du bouyon : les rythmes rapides et les claviers du bouyon dominicain rencontrent l’énergie et les codes de la soca de Trinidad. Le terme vient de producteurs et musiciens qui vivent entre les deux cultures et trouvent naturel de les mélanger.",
+"sections": [
+("Les ingrédients du bouyon soca", ["Côté bouyon : un tempo rapide, des motifs de clavier en boucle, une basse synthétique lourde et une voix qui appelle le public comme au carnaval de Roseau. Côté soca : la structure festive de la musique de Trinidad, pensée pour les fêtes, les parades et les chants repris en choeur. Mélangés, ils donnent un son qui parle à la fois aux Dominicains et aux publics soca de toute la Caraïbe."]),
+("Où le bouyon soca est né", ["Le témoignage de première main de ce site contredit l’idée d’une invention extérieure. Smokiller, producteur né en Dominique, qui était présent dans les studios avec Dada et la Nursery Krew, raconte que le bouyon soca a été lancé par Dada en 2003, en Dominique. Le style a ensuite pris son ampleur quand Triple Kay et d’autres groupes l’ont adopté dans leur propre version du bouyon. Les ouvrages de référence décrivent souvent l’étiquette comme née hors de l’île : le témoignage d’un participant direct dit le contraire, et c’est lui que ce site retient, en le signant. La fusion s’est ensuite développée aussi hors de la Dominique, dans des îles comme Sainte-Lucie et Antigua, où bouyon et soca circulent depuis les années 1980 et 1990. Elle est devenue très populaire en Guadeloupe et en Martinique, où le public connaît le bouyon sous le nom de jump up. En Dominique même, les puristes tiennent à distinguer le bouyon de la soca : le bouyon garde un style clair, reconnaissable, différent."]),
+("Pourquoi le bouyon soca marche au carnaval", ["Le carnaval est le terrain naturel des deux genres. Le bouyon soca combine la puissance rythmique du bouyon, héritée du jing ping et du lapo kabwit, avec l’appel à la fête de la soca. Résultat : des titres faits pour la route, les bands et les sound systems, qui voyagent d’île en île pendant toute la saison carnavalesque."]),
+],
+"faq": [("Le bouyon soca est-il du vrai bouyon ?", "C’est une fusion : la base rythmique et les claviers viennent du bouyon dominicain, la forme festive vient de la soca. En Dominique, on distingue le bouyon pur du bouyon soca, mais les deux familles vivent côte à côte au carnaval."), ("Où écouter du bouyon soca ?", "La <a href=\"/playlist-bouyon.html\">Bouyon Road Mix</a> de Bouyon Shattaz mélange bouyon, bouyon soca et nouveautés des Antilles sur Spotify et YouTube.")],
+},
+{
+"slug": "bouyon-gwada.html", "cat": "Styles de bouyon", "nav": "Bouyon gwada",
+"title": "Bouyon Gwada : la branche hardcore du bouyon en Guadeloupe",
+"desc": "Bouyon gwada : la branche hardcore du bouyon née des collaborations entre la Dominique et la Guadeloupe. Histoire, son brut et place dans la music bouyon des Antilles françaises.",
+"h1": "Bouyon gwada : le bouyon hardcore de la Guadeloupe",
+"intro": "Le bouyon gwada, aussi appelé hardcore bouyon, est la branche du bouyon qui a grandi entre la Dominique et la Guadeloupe. Les deux îles partagent le créole antillais, et leurs musiciens ont construit ensemble un son plus dur, plus rapide et plus cru que le bouyon classique des groupes live.",
+"sections": [
+("Une création entre deux îles", ["Le bouyon gwada est né de collaborations musicales entre citoyens de la Dominique et de la Guadeloupe. Le bouyon dominicain arrive en Gwada par le carnaval et les échanges entre îles créolophones, puis les producteurs et chanteurs guadeloupéens se l’approprient avec leurs codes, leur langue et leur énergie de rue."]),
+("Un son plus dur", ["Là où le bouyon originel de WCK repose sur des groupes et des instruments traditionnels comme le lapo kabwit et l’accordéon du jing ping, le bouyon gwada pousse les boîtes à rythmes, les basses et les voix chantées ou rappées en créole guadeloupéen. C’est le pont entre le bouyon de la Dominique et les formes modernes comme le shatta bouyon."]),
+("La place du bouyon gwada aujourd’hui", ["En Guadeloupe, le bouyon est une musique du quotidien : fêtes, carnaval, réseaux sociaux et sound systems. Le bouyon gwada y garde une image de son authentique et sans filtre, défendue par les fans qui veulent garder le lien avec l’origine dominicaine du genre."]),
+],
+"faq": [("Quelle est la différence entre bouyon et bouyon gwada ?", "Le bouyon est le genre originel créé en Dominique. Le bouyon gwada est sa branche hardcore développée avec la Guadeloupe : plus dure, plus électronique, chantée largement en créole guadeloupéen.")],
+},
+{
+"slug": "shatta-bouyon.html", "cat": "Styles de bouyon", "nav": "Shatta bouyon",
+"title": "Shatta Bouyon : le bouyon moderne des Antilles et de la France",
+"desc": "Shatta bouyon : la forme moderne du bouyon portée par les producteurs antillais et la scène française. Riddims, clubs, réseaux et lien avec la Dominique, l’île d’origine du bouyon.",
+"h1": "Shatta bouyon : le visage moderne du bouyon",
+"intro": "Le shatta bouyon est la forme actuelle et la plus visible du bouyon sur les réseaux et dans les clubs : des riddims courts, durs et dansants, produits par la nouvelle génération antillaise et française, qui gardent l’ADN du bouyon né en Dominique.",
+"sections": [
+("Un bouyon pensé pour les réseaux", ["Le shatta bouyon vit au rythme des formats courts : un beat qui frappe en quelques secondes, un pas de danse à reprendre, une boucle qui reste en tête. Les producteurs dansent eux-mêmes sur leurs propres sons pour lancer le mouvement, exactement comme le public du carnaval répondait aux groupes live de la Dominique."]),
+("Les racines restent dominicaines", ["Même dans sa forme la plus moderne, le shatta bouyon garde les marqueurs du genre créé par WCK en 1988 : tempo rapide, claviers en boucle, basse synthétique et créole au micro. La différence est dans la production : digitale, minimale, taillée pour le club et le téléphone."]),
+("Pourquoi la France compte", ["Les Antilles françaises et la diaspora à Paris sont devenues un marché majeur du bouyon : certifications, scènes et distribution passent souvent par la France. C’est exactement pour garder le crédit et l’origine du côté de la Dominique que Bouyon Shattaz documente le shatta bouyon au quotidien."]),
+],
+"faq": [("Le shatta est-il la même chose que le bouyon ?", "Le shatta est une famille de sons antillais modernes ; le shatta bouyon est la partie de cette famille construite directement sur les riddims et l’énergie du bouyon dominicain.")],
+},
+{
+"slug": "bouyon-muffin.html", "cat": "Styles de bouyon", "nav": "Bouyon-muffin",
+"title": "Bouyon-Muffin : le bouyon rencontre le dancehall ragga",
+"desc": "Bouyon-muffin : la branche du bouyon influencée par le dancehall et le ragga jamaïcains. Voix raggamuffin sur riddims bouyon de la Dominique, histoire et héritage.",
+"h1": "Bouyon-muffin : quand le bouyon croise le ragga",
+"intro": "Le bouyon-muffin est l’un des premiers enfants du bouyon : dès les années 1990, les chanteurs dominicains posent des voix inspirées du dancehall et du raggamuffin jamaïcains sur les rythmes rapides du bouyon. Le résultat est un style vocal très reconnaissable, entre chant, cri et toast.",
+"sections": [
+("L’influence jamaïcaine", ["Le bouyon puise dans le chanté mas et la tradition du cri de carnaval, mais la génération des années 1990 écoute aussi le dancehall de Kingston. Le bouyon-muffin assume ce mélange : des voix façon raggamuffin, des textes qui commentent la vie quotidienne et la politique de l’île, posés sur la machine rythmique du bouyon."]),
+("Un style qui a formé le bouyon moderne", ["Le bouyon-muffin a installé une manière de chanter sur le bouyon qui influence encore la scène actuelle : débit rapide, refrains scandés, créole et anglais mélangés. C’est l’un des ponts entre le bouyon des groupes live et le bouyon des producteurs d’aujourd’hui."]),
+],
+},
+{
+"slug": "reketeng.html", "cat": "Styles de bouyon", "nav": "Reketeng",
+"title": "Reketeng : l’autre branche festive du bouyon dominicain",
+"desc": "Reketeng : l’une des branches du bouyon nées en Dominique, dans la famille des fusions bouyon, bouyon soca et bouyon-muffin. Ce qu’il faut savoir sur ce style.",
+"h1": "Reketeng : la branche plaisir du bouyon",
+"intro": "Le reketeng fait partie des formes dérivées du bouyon en Dominique, aux côtés du bouyon soca et du bouyon-muffin. Moins connu hors des Caraïbes que le bouyon classique, il appartient à la même explosion créative qui a suivi la création du genre par WCK en 1988.",
+"sections": [
+("Dans la famille des fusions bouyon", ["Après 1988, le bouyon ne reste pas figé : les musiciens dominicains testent des fusions dans tous les sens. Certaines donneront le bouyon soca, d’autres le bouyon-muffin, d’autres encore le reketeng. Chaque branche garde le socle du genre : rythmes traditionnels dominicains, claviers et énergie de carnaval."]),
+("Pourquoi ces branches comptent", ["Les branches comme le reketeng montrent que le bouyon est un écosystème, pas un seul son. C’est cette diversité, née en Dominique, qui permet aujourd’hui au genre de vivre en Guadeloupe, en Martinique, en France et dans toute la diaspora."]),
+],
+},
+{
+"slug": "jump-up.html", "cat": "Styles de bouyon", "nav": "Jump up",
+"title": "Jump Up : le nom du bouyon en Guadeloupe et en Martinique",
+"desc": "Jump up : en Guadeloupe et en Martinique, c’est le nom courant de la musique bouyon de la Dominique. Pourquoi ce nom, et comment le jump up vit au carnaval antillais.",
+"h1": "Jump up : le bouyon sous son nom antillais français",
+"intro": "Si vous cherchez du bouyon en Guadeloupe ou en Martinique, demandez du jump up. C’est le nom que les Antilles françaises donnent à la musique bouyon de la Dominique, un nom qui résume son effet : un tempo rapide qui fait sauter tout le monde.",
+"sections": [
+("Un surnom qui dit tout", ["Le terme jump up existait déjà dans les Antilles françaises pour désigner des musiques de carnaval très rythmées, notamment après le titre L’hivernage d’Exile One en 1987, surnommé The Yo. Quand le bouyon dominicain traverse la mer, le public antillais le range naturellement dans cette famille : pour beaucoup, bouyon et jump up sont le même son."]),
+("Le jump up au carnaval", ["Au carnaval de Guadeloupe et de Martinique, le jump up est la bande-son des groupes à peaux, des déboulés et des fêtes de rue. Il relie les traditions de carnaval des trois îles créolophones : la Dominique, la Gwada et la Martinique."]),
+],
+"faq": [("Jump up et bouyon, c’est pareil ?", "En Guadeloupe et en Martinique, oui, dans le langage courant : le jump up désigne la musique bouyon venue de la Dominique.")],
+},
+{
+"slug": "old-school-bouyon.html", "cat": "Styles de bouyon", "nav": "Old school bouyon",
+"title": "Old School Bouyon : le bouyon des années 1990",
+"desc": "Old school bouyon : le bouyon des groupes live des années 1990 en Dominique, ère WCK, RSB et First Serenade. Le son originel que les fans défendent encore.",
+"h1": "Old school bouyon : le son originel des années 1990",
+"intro": "L’old school bouyon, c’est le bouyon des groupes live qui ont fait la loi en Dominique dans les années 1990 : WCK, Roots Stems and Branches, First Serenade et leurs héritiers. Un son de scène, de carnaval et de fêtes de village, que les puristes citent comme la référence du genre.",
+"sections": [
+("Des groupes, pas des fichiers", ["L’old school bouyon se joue en formation complète : section rythmique, claviers, guitares, cuivres parfois, et des chanteurs qui travaillent le public comme au chanté mas. Les titres sont longs, construits pour durer toute une nuit de fête, pas pour un format de trente secondes."]),
+("Pourquoi les fans le défendent", ["Pour les fans de la première heure, l’old school garde ce que le bouyon moderne risque de perdre : les instruments traditionnels du jing ping et du lapo kabwit, le créole dominicain, et le lien direct avec le carnaval de Roseau. C’est cette rawness, ce côté brut et réel, que Bouyon Shattaz met en avant."]),
+],
+},
+{
+"slug": "gospel-bouyon.html", "cat": "Styles de bouyon", "nav": "Gospel bouyon",
+"title": "Gospel Bouyon : le bouyon version louange",
+"desc": "Gospel bouyon : quand le rythme bouyon de la Dominique sert la louange chrétienne dans les Caraïbes. Une branche réelle et recherchée de la music bouyon.",
+"h1": "Gospel bouyon : le bouyon au service de la louange",
+"intro": "Le gospel bouyon applique la machine rythmique du bouyon, tempo rapide, claviers et énergie collective, à des textes de louange chrétienne. Dans les Caraïbes, où l’église fait partie de la vie musicale, cette branche montre à quel point le bouyon est devenu la langue musicale commune de la Dominique.",
+"sections": [
+("Le même moteur, un autre message", ["Musicalement, le gospel bouyon garde les codes du genre : la boucle de clavier, la basse qui pousse, les réponses en choeur. Textuellement, il remplace les thèmes de fête par la foi, la gratitude et le témoignage. Le public visé est le même que celui du carnaval, mais dans un contexte d’église et de concert gospel."]),
+("Une preuve de la force du genre", ["Quand un rythme sert à la fois la rue, le carnaval et l’église, il est devenu un patrimoine. Le gospel bouyon fait partie des recherches régulières des fans, et il rappelle que le bouyon n’est pas une mode : c’est le son d’un peuple."]),
+],
+},
+{
+"slug": "bouyon-moderne.html", "cat": "Styles de bouyon", "nav": "Bouyon moderne",
+"title": "Bouyon Moderne : le nouveau son bouyon de 2026",
+"desc": "Bouyon moderne 2026 : riddims digitaux, shatta bouyon, remixes et producteurs de la nouvelle génération, entre Dominique, Guadeloupe, Martinique et Paris.",
+"h1": "Bouyon moderne : à quoi ressemble le bouyon de 2026",
+"intro": "Le bouyon moderne est la somme de toutes les évolutions du genre depuis 1988 : la base dominicaine de WCK, l’énergie du bouyon gwada, la forme réseau du shatta bouyon et le travail des producteurs qui fabriquent des riddims dans leur chambre entre Roseau, Pointe-à-Pitre et Paris.",
+"sections": [
+("Une production digitale", ["Le bouyon de 2026 naît sur logiciel : boucles de percussions inspirées du lapo kabwit, claviers samplés, basses dessinées pour les téléphones et les gros systèmes. Les producteurs publient des extraits, dansent dessus, lisent les commentaires, puis sortent la version longue que le public réclame."]),
+("Un genre en réseau", ["La scène moderne fonctionne en réseau : médias comme Bouyon Shattaz, pages bouyon des Antilles, DJ de Gwada et de Paris, artistes dominicains. C’est ce réseau qui décide quels riddims deviennent des titres de carnaval, et c’est lui que ce site documente page après page."]),
+],
+"faq": [("Où suivre le bouyon moderne ?", "Sur <a href=\"https://www.instagram.com/bouyonshattaz/\">@bouyonshattaz</a> au quotidien, et dans la <a href=\"/nouveautes-bouyon-2026.html\">page nouveautés bouyon 2026</a> de ce site.")],
+},
+]
