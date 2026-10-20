@@ -2,6 +2,71 @@
 Target: outrank tiitii-nba.com on bouyon searches. All content original, written
 from our own verified research library. None of his words, none of his images.
 
+## STATUS - updated 2026-10-20 evening (keep this section current as work lands)
+
+DONE AND LIVE:
+- Phase 0 schema upgrade (commit 71f8872): BreadcrumbList on all generated
+  pages, FAQPage on 128 pages, entity graph (WebSite / Bouyon Shattaz Org /
+  Smokiller Person), dynamic sitemap lastmod.
+- Phase 1 wave 1 (49c9b1c): 30 artist profiles (19 new + 11 deep rewrites,
+  1,800-2,500 words), 8 chapters, 3 country hubs, FR+EN. Wave 1b: Trilla-G
+  profile FR+EN. Publication dates spread Sep 2 - Oct 19, visible + schema +
+  sitemap, never all the same day.
+- Internal linking overhaul: 6,334 internal links, contextual linkify,
+  hash-spread related blocks; every content page has 8+ inbound links.
+- Branch pages from the 2026-10-20 deep research: rnbouyon + new-bouyon
+  FR+EN; wrecketeng chapter gained the heirs section (RnBouyon + New Bouyon
+  as heirs of reketeng) and the spelling note (reketeng historical,
+  Wrecketeng = Smokiller's Dec 2025 revival).
+- Bouyon soca: page leads with Sean's signed first-hand testimony (Dada,
+  2003, Dominica; Triple Kay popularized). Consistency fix 1b7b3cd aligned
+  the page intro and the Saint Lucia card so no competing origin story
+  remains anywhere on the site.
+- Sitemap rule locked: it must list EVERY indexable page (only 404.html
+  excluded); robots.txt declares it. Current total: 205 URLs.
+- Build system pushed into the repo under build/ (6a370b1) so Claude Code
+  works from the same generators and data modules. Claude Code is connected
+  to GitHub by Sean; coordination runs through git (pull first, clear commit
+  messages, never duplicate a topic).
+- PR #1 MERGED (2f24492, Claude Code): og:image + Twitter cards sitewide
+  with og-image.png, FAQ sections on the hand-built pages, reketeng FAQ
+  lineage, Saint Lucia/Antigua pages aligned to the Dada testimony,
+  Smokiller identity wording set to Dominican-born only (per Sean:
+  "I'm Dominican born that's all I should share for now"). Verified after
+  merge: regeneration from build/ reproduces the merged site with zero
+  drift.
+- Threads: @bouyonshattaz mirrors @bouyonshattaz Instagram posts. The
+  connector's post path is policy-blocked, so mirroring runs through the
+  browser session Sean signed into, at publish time (posts are built here
+  and on Codex, so no account watching). Pacing rule: randomized gaps, max
+  3 posts per 5 minutes, 5-minute pause after each group of 3.
+- Daily growth engine: Sean's standing order (2026-10-20) is 5+ new
+  articles per day FR+EN with ongoing on-page SEO; the daily cron starts
+  Wed 2026-10-21 and works a 29-topic backlog in 6 series (producers,
+  women of bouyon, versus, Smokiller song stories, savoir-faire, actus),
+  each article paired with an IG caption + Threads text written to the IG
+  SEARCH CAPTION STANDARD.
+
+NEXT (in queue order):
+1. Daily batches from the backlog; WCMF 2026 night guides Oct 23/24/25,
+   then night reports.
+2. Versus pages, glossaire, bouyon family-tree chapter, Dennery Segment
+   and Shatta explainer pages.
+3. Smokiller song-story pages (Players, Nothing Into Something,
+   Vulnerability, Heaven Baby, Throw Dat) with VideoObject + MusicRecording.
+4. Scale artist profiles toward 150+; Smokiller producer/EPK page.
+5. bouyonsoca.com: 301 redirect to bouyonmusique.com/bouyon-soca.html
+   (pending: Sean confirms where the domain is registered/hosted).
+6. Google Search Console: Sean resubmits sitemap.xml ("I'll push it when
+   done"); robots.txt already declares it.
+
+FACT DISCIPLINE (Sean, 2026-10-20): fact-check your own work and Claude
+Code's. When a fact changes, sweep EVERY page and module for the old claim;
+never just prepend the new one (that is how the bouyon soca page ended up
+arguing with itself). Claude Code's PR #1 FAQ additions across many pages
+are written but not yet individually source-checked; they are first in line
+for the fact-check pass inside the daily runs.
+
 ## The audit (measured 2026-10-20, both codebases read directly)
 
 ### Him (tiitii-nba.com)
