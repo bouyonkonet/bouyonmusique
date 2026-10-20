@@ -129,7 +129,7 @@ PAGES = [
 {
 "slug": "bouyon-saint-lucia.html", "fr_slug": "bouyon-sainte-lucie.html", "cat": "Bouyon by country", "nav": "Bouyon in Saint Lucia",
 "title": "Bouyon in Saint Lucia: bouyon soca seen from Castries",
-"desc": "Bouyon in Saint Lucia: Dominica’s neighboring island where bouyon soca developed. Links between Roseau and Castries, carnivals and Creole audiences.",
+"desc": "Bouyon in Saint Lucia: Dominica’s neighboring island where bouyon soca grew and spread, after it was started in Dominica in 2003. Links between Roseau and Castries, carnivals and Creole audiences.",
 "h1": "Bouyon in Saint Lucia: the neighbor where bouyon soca grew",
 "intro": "Saint Lucia is the Creole-speaking island closest to Dominica. Bouyon soca was launched in Dominica by Dada in 2003, according to the first-hand account of Smokiller, who was in the studios at the time. Saint Lucia then became one of the islands where the fusion grew the most, among producers and audiences who love Trinidad soca as much as Dominican bouyon.",
 "sections": [
