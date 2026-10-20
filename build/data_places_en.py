@@ -130,8 +130,8 @@ PAGES = [
 "slug": "bouyon-saint-lucia.html", "fr_slug": "bouyon-sainte-lucie.html", "cat": "Bouyon by country", "nav": "Bouyon in Saint Lucia",
 "title": "Bouyon in Saint Lucia: bouyon soca seen from Castries",
 "desc": "Bouyon in Saint Lucia: Dominica’s neighboring island where bouyon soca developed. Links between Roseau and Castries, carnivals and Creole audiences.",
-"h1": "Bouyon in Saint Lucia: the neighbor that created bouyon soca",
-"intro": "Saint Lucia is the Creole-speaking island closest to Dominica. It is largely there, among producers who love Trinidad soca as much as Dominican bouyon, that the bouyon soca fusion took shape.",
+"h1": "Bouyon in Saint Lucia: the neighbor where bouyon soca grew",
+"intro": "Saint Lucia is the Creole-speaking island closest to Dominica. Bouyon soca was launched in Dominica by Dada in 2003, according to the first-hand account of Sean \u201cSmokiller\u201d Francis, who was in the studios at the time. Saint Lucia then became one of the islands where the fusion grew the most, among producers and audiences who love Trinidad soca as much as Dominican bouyon.",
 "sections": [
 ("Two carnivals that answer each other", ["The audiences of Roseau and Castries share language, history and a taste for partying. Tracks travel from one carnival to the other, and <a href=\"/en/bouyon-soca.html\">bouyon soca</a> has become their shared musical language."]),
 ],
@@ -140,7 +140,7 @@ PAGES = [
 ("Where is bouyon popular?", "Born in Dominica, bouyon is now central in Guadeloupe and Martinique and present in France, Saint Lucia, Saint Martin and the Caribbean diaspora. In Saint Lucia, the Creole-speaking island closest to Dominica, it travels mostly as bouyon soca, from one carnival to the other."),
 ("Which country created bouyon?", 'Dominica. Bouyon was born there in the late 1980s: in 1988, the band <a href="/en/wck.html">WCK</a>, formed in Roseau, fused cadence-lypso and jing ping with electronic keyboards and drum machines. The genre is still the sound of Roseau carnival, Mas Domnik.'),
 ("What are the links between Dominica and Saint Lucia?", "Saint Lucia is the Creole-speaking island closest to Dominica. The audiences of Roseau and Castries share language, history and a taste for partying, and tracks travel from one carnival to the other. Bouyon soca has become the shared musical language of the two islands."),
-("What is bouyon soca?", "Bouyon soca is the fusion of Dominica's bouyon and Trinidad's soca: the fast tempo, looping keyboards and heavy synth bass of bouyon meet the festive structure of soca. It developed in Dominica and in neighboring islands like Saint Lucia and Antigua. More on the <a href=\"/en/bouyon-soca.html\">bouyon soca</a> page."),
+("What is bouyon soca?", "Bouyon soca is the fusion of Dominica's bouyon and Trinidad's soca: the fast tempo, looping keyboards and heavy synth bass of bouyon meet the festive structure of soca. Launched in Dominica by Dada in 2003, it then developed in neighboring islands like Saint Lucia and Antigua. More on the <a href=\"/en/bouyon-soca.html\">bouyon soca</a> page."),
 ],
 },
 {
