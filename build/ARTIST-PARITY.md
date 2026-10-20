@@ -1,6 +1,6 @@
 # ARTIST PARITY vs tiitii-nba.com (measured 2026-10-20)
-His artist profile pages: 157 (FR, mirrored EN). Ours: 69.
-Gap: 104 of his artists have no profile on bouyonmusique.com yet.
+His artist profile pages: 157 (FR, mirrored EN). Ours: 77.
+Gap: 96 of his artists have no profile on bouyonmusique.com yet.
 
 ## His artists we are missing (build in this order of priority: Dominica first, then WCMF 2026 bill, then the rest)
 - ~~1t1~~ BUILT 2026-10-20 (parity wave 2)
@@ -30,15 +30,15 @@ Gap: 104 of his artists have no profile on bouyonmusique.com yet.
 - ~~daddy-chess~~ BUILT 2026-10-20 (parity wave 5)
 - ~~dcamp~~ BUILT 2026-10-20 (parity wave 5)
 - ~~deearr~~ BUILT 2026-10-20 (parity wave 5)
-- deejay-guyguy
-- denden
-- derek-rah-peters
-- diixly
-- dinho
-- dj-boko
+- ~~deejay-guyguy~~ BUILT 2026-10-20 (parity wave 6)
+- ~~denden~~ BUILT 2026-10-20 (parity wave 6)
+- ~~derek-rah-peters~~ BUILT 2026-10-20 (parity wave 6)
+- ~~diixly~~ BUILT 2026-10-20 (parity wave 6)
+- ~~dinho~~ BUILT 2026-10-20 (parity wave 6)
+- ~~dj-boko~~ BUILT 2026-10-20 (parity wave 6)
 - ~~dj-cut~~ BUILT 2026-10-20 (parity wave 1)
-- dj-dirtee
-- dj-joe
+- ~~dj-dirtee~~ BUILT 2026-10-20 (parity wave 6)
+- ~~dj-joe~~ BUILT 2026-10-20 (parity wave 6)
 - dj-leguste
 - dj-luchshiy
 - ~~dj-mj~~ BUILT 2026-10-20 (parity wave 2)
