@@ -1,0 +1,159 @@
+# -*- coding: utf-8 -*-
+PAGES = [
+{
+"slug": "bouyon-drum-kit.html", "fr_slug": "bouyon-drum-kit.html", "cat": "Bouyon production", "nav": "Bouyon drum kit",
+"title": "Bouyon Drum Kit: the sounds you need to produce bouyon",
+"desc": "Bouyon drum kit: the percussion to gather to produce bouyon, lapo kabwit, bele drum, chakchak, fast kicks and keyboard loops. The bouyon producers’ guide.",
+"h1": "Bouyon drum kit: building the bouyon drum sound",
+"intro": "A bouyon drum kit is the collection of sounds that lets a producer recreate the pressure of Dominican carnival inside their software: sampled traditional percussion, fast drums and electronic elements.",
+"sections": [
+("The essential sounds", ["The kit starts with the percussion of Dominica: the lapo kabwit, the bele drum, the chakchak and the strikes of chante mas. Then come the modern elements: fast kick and snare, tight hats, electronic percussion and the keyboard sounds that carry the main loop."]),
+("Sample the tradition, do not replace it", ["The best bouyon producers treat traditional sounds with respect: they are what give a track its Dominican identity. A generic drum kit makes a fast beat; a kit fed on jing ping and lapo kabwit makes bouyon. For context, see <a href=\"/en/bouyon-instruments.html\">the instruments of bouyon</a>."]),
+],
+"faq": [("Where can I find a bouyon drum kit?", "Producers trade their kits within the community, and many build their own by sampling recordings of jing ping and carnival bands. Demand for the bouyon drum kit keyword is among the strongest on the French side.")],
+},
+{
+"slug": "bouyon-type-beat.html", "fr_slug": "bouyon-type-beat.html", "cat": "Bouyon production", "nav": "Bouyon type beat",
+"title": "Bouyon Type Beat: produce a bouyon beat in 2026",
+"desc": "Bouyon type beat: tempo, structure, percussion and keyboards to produce a beat in the bouyon style of Dominica. A practical guide for beatmakers.",
+"h1": "Bouyon type beat: the formula of the bouyon beat",
+"intro": "A bouyon type beat is an instrumental built on the codes of bouyon: fast tempo, a recognizable keyboard loop, percussion inspired by Dominica and a bass that pushes. Beatmakers look for it to place bouyon, shatta and dancehall vocals.",
+"sections": [
+("The structure that works", ["The bouyon type beat starts fast: little intro, the main loop arrives early, the drums follow the carnival pattern with regular build-ups. The vocal has to be able to shout, sing and get the crowd to respond. The energy almost never comes back down: it is a party beat, not a lounge beat."]),
+("Stay faithful to the origin", ["A good type beat cites its sources without copying them: a percussion that recalls the lapo kabwit, an accordion or keyboard melody in the jing ping way, and Creole in the background vocals. For the full method, see <a href=\"/en/how-to-make-a-bouyon-beat.html\">how to make a bouyon beat</a>."]),
+],
+},
+{
+"slug": "bouyon-riddim.html", "fr_slug": "bouyon-riddim.html", "cat": "Bouyon production", "nav": "Bouyon riddim",
+"title": "Bouyon Riddim: the rhythm that carries the whole genre",
+"desc": "Bouyon riddim: the shared instrumental rhythm that bouyon artists sing over, inherited from Jamaican and Dominican riddim culture. Explanation and examples.",
+"h1": "Bouyon riddim: one rhythm, a thousand voices",
+"intro": "In bouyon as in dancehall, the riddim is the instrumental rhythm over which several artists can lay their voice. The bouyon riddim is the backbone of the genre’s modern production.",
+"sections": [
+("Riddim culture", ["A producer releases a riddim, the artists seize it, the audience picks its favorite versions. Bouyon riddims often carry a name, like Denmath’s Tropical Riddim and Harley Riddim, and become trademarks. It is a creative system that came from Jamaica and that Dominica made its own."]),
+("Why riddims make the hits", ["Because a good riddim concentrates the identity of the moment: a tempo, a loop, a dance energy. The riddim snippets that producers dance to on social media have become the first launch step of a bouyon track."]),
+],
+},
+{
+"slug": "how-to-make-a-bouyon-beat.html", "fr_slug": "comment-faire-un-beat-bouyon.html", "cat": "Bouyon production", "nav": "Make a bouyon beat",
+"title": "How to Make a Bouyon Beat: the producer’s guide",
+"desc": "How to make a bouyon beat: choose the tempo, program the Dominican percussion, write the keyboard loop, place the bass. A practical step-by-step guide.",
+"h1": "How to make a bouyon beat, step by step",
+"intro": "Making a bouyon beat is not just speeding up a dancehall beat. It is rebuilding, with today’s tools, the mechanics of a Dominican carnival band.",
+"sections": [
+("Step 1: the rhythm first", ["Start with the rhythmic grid: percussion inspired by lapo kabwit and jing ping, fast and steady drums, build-ups that imitate the calls of carnival. Work the loop until it makes you want to move with no vocal on it at all."]),
+("Step 2: the keyboard loop and the bass", ["The keyboard carries the melodic signature: a short, repetitive, almost hypnotic motif, inherited from the WCK method. The synth bass follows, heavy and simple. Add background vocals, shouts and responses, to recreate the crowd."]),
+("Step 3: test it dancing", ["The final test of bouyon is physical: dance to it, or watch someone dance. If the body does not follow, the beat is not finished. That is why so many producers launch their riddims in dance videos before the official release."]),
+],
+},
+{
+"slug": "bouyon-producers.html", "fr_slug": "producteurs-bouyon.html", "cat": "Bouyon production", "nav": "Bouyon producers",
+"title": "Bouyon Producers: the ones who make the sound",
+"desc": "The bouyon producers who matter: HYPNO, Savion, Denmath, MB On The Track, Smokiller and the new school of riddims. The Bouyon Shattaz guide to bouyon producers.",
+"h1": "Bouyon producers: the architects of the sound",
+"intro": "Modern bouyon is decided more and more in the studio. Behind every riddim that makes Gwada, Martinique or Paris dance, there is a producer who chose the tempo, the loop and the bass. Here are the ones Bouyon Shattaz follows.",
+"sections": [
+("The names Bouyon Shattaz follows", ["HYPNO and his Mauvais Plan at 160 bpm. Savion and his snippets of upcoming tracks. Denmath, from Saint-Martin, and his Tropical and Harley riddims. MB On The Track, who dances on his own productions and sells custom work. Smokiller, the home of bouyon remixes. Each one has their page on this site, in the artists section."]),
+("Why the producer became the star", ["The format changed: a riddim launches in a fifteen-second video, the producer dances on it, the audience demands the long version. The producer is no longer hidden behind the artist: they have become a face of the genre, with their own audience."]),
+],
+},
+{
+"slug": "remix-bouyon.html", "fr_slug": "remix-bouyon.html", "cat": "Bouyon production", "nav": "Remix bouyon",
+"title": "Remix Bouyon: when the hits become bouyon",
+"desc": "Remix bouyon: the practice that turns Afro, pop, rap and R&B hits into bouyon versions. The Smokiller method and the role of remixes in the growth of the genre.",
+"h1": "Remix bouyon: the hit-converting machine",
+"intro": "The bouyon remix takes a track everyone knows, an Afro, pop, rap or R&B hit, and replays it with the codes of bouyon: raised tempo, keyboard loop, Dominican percussion and carnival energy.",
+"sections": [
+("The method", ["The remixer keeps the voice and the emotion of the original, but rebuilds the whole ground underneath: the rhythmic grid comes from jing ping and lapo kabwit, the bass becomes synthetic and fast, the build-ups imitate a carnival band. The audience arrives for the song, it discovers a genre."]),
+("Smokiller, the in-house reference", ["It is the specialty of <a href=\"/en/smokiller.html\">Smokiller</a>, the Bouyon Shattaz remix project: its bouyon versions of Afro and pop tracks draw a new audience toward bouyon, then toward the original artists of Dominica. A deliberate gateway strategy to grow the genre."]),
+],
+},
+{
+"slug": "bouyon-bpm.html", "fr_slug": "bpm-du-bouyon.html", "cat": "Bouyon production", "nav": "Bouyon BPM",
+"title": "Bouyon BPM: how fast does bouyon beat",
+"desc": "The bouyon BPM: a fast genre, built for dance and carnival. The example of HYPNO’s Mauvais Plan at 160 bpm and what the tempo says about bouyon.",
+"h1": "Bouyon BPM: speed as a signature",
+"intro": "Bouyon is a fast genre, and its tempo is part of its identity. When producer HYPNO claims a track at 160 bpm, Mauvais Plan, he shows his colors: bouyon does not seek comfort, it seeks movement.",
+"sections": [
+("Why so fast", ["The tempo of bouyon comes from its roots: traditional Dominican dances, carnival and competition between bands push toward maximum energy. The keyboard loops and fast percussion create a continuous tension that leaves the body no choice."]),
+("Tempo as an argument", ["In today’s producer scene, announcing your BPM has become an argument: it is a promise of dance and a challenge to other producers. But speed alone does not make a bouyon: without the percussion and the spirit of Dominica, it is just a fast beat."]),
+],
+},
+{
+"slug": "bouyon-instrumental.html", "fr_slug": "bouyon-instrumental.html", "cat": "Bouyon production", "nav": "Bouyon instrumental",
+"title": "Bouyon Instrumental: the voiceless beats that make you dance",
+"desc": "Bouyon instrumental: the voiceless versions of bouyon riddims, used by DJs, dancers and content creators. Why the bouyon instrumental matters.",
+"h1": "Bouyon instrumental: the riddim laid bare",
+"intro": "The bouyon instrumental is the riddim without the voice: the loop, the bass and the percussion in their pure form. DJs use it to mix, dancers to create, producers to show their work.",
+"sections": [
+("The tool of DJs and dancers", ["A successful bouyon instrumental holds an entire floor without a singer. It is the format of producers’ dance videos, of battles and of DJ transitions between Gwada, Martinique and Paris. If the instrumental does not make you move, no voice will save the track."]),
+("The producers’ showcase", ["Releasing the instrumental is signing your work. Producers like MB On The Track build their reputation on instrumentals that artists then buy custom-made. See the <a href=\"/en/bouyon-producers.html\">bouyon producers</a> page."]),
+],
+},
+{
+"slug": "bouyon-mix.html", "fr_slug": "bouyon-mix.html", "cat": "Listen to bouyon", "nav": "Bouyon mix",
+"title": "Bouyon Mix: the best bouyon mixes to listen to",
+"desc": "Bouyon mix: the mixes that chain bouyon, bouyon soca and new releases from the French Caribbean. Where to listen to a good bouyon mix in 2026 and the Bouyon Shattaz selection.",
+"h1": "Bouyon mix: an hour of bouyon without lifting your foot",
+"intro": "The natural format of bouyon is the mix: the tracks chain at the same tempo, the party never stops. A good bouyon mix blends new releases from Dominica, bouyon soca and carnival classics.",
+"sections": [
+("What makes a good bouyon mix", ["An order designed like a night out: the tracks that build, the classics that make people sing, the riddims of the moment, and no drop in energy. The DJs of Gwada and Paris have made a specialty of these chains, inherited from carnival sound systems."]),
+("Where to start", ["The <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix</a> by Bouyon Shattaz is the simplest starting point: a playlist kept up to date on Spotify and YouTube, designed as a permanent mix of the bouyon of 2026."]),
+],
+},
+{
+"slug": "bouyon-songs.html", "fr_slug": "chansons-bouyon.html", "cat": "Listen to bouyon", "nav": "Bouyon songs",
+"title": "Bouyon Songs: the tracks you absolutely need to know",
+"desc": "Bouyon songs: the tracks that matter, from the classics of the Dominican bands to the new releases of Reo, Asa Bantan and G’z Up. The selection to discover bouyon.",
+"h1": "Bouyon songs: the selection to discover the genre",
+"intro": "Which songs should you listen to in order to understand bouyon? From the classics of Dominica’s bands to the recent tracks followed by Bouyon Shattaz, here is the method and the names to remember.",
+"sections": [
+("The classics first", ["Start with the founding bands, WCK, Roots Stems and Branches and First Serenade: that is where the genre took its form. Continue with the carnival tracks of the 1990s and 2000s, when bouyon reigned unchallenged over Dominica."]),
+("The tracks of the new era", ["On the recent side: Life Nice by Asa Bantan, the Bouyon Boss. Joli BB by Reo with Maurane Voyer, the Dominica and Martinique bridge. FIX UP by G’z Up, carried by its Ya ya ya hook. Throw Dat (Bouyon 2026) by Klass Money, produced by Smokiller. And Mauvais Plan by HYPNO on the producer side. The <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> gathers them all in one place."]),
+],
+},
+{
+"slug": "new-bouyon-2026.html", "fr_slug": "nouveautes-bouyon-2026.html", "cat": "Listen to bouyon", "nav": "New bouyon 2026",
+"title": "New Bouyon 2026: the bouyon releases of the year",
+"desc": "New bouyon 2026: the bouyon releases of the year followed by Bouyon Shattaz, from Reo’s Joli BB to the Smokiller remixes, including the producers HYPNO, Savion and Denmath.",
+"h1": "New bouyon 2026: the year in progress",
+"intro": "2026 is a full year for bouyon: new collaborations between Dominica and the French Caribbean, the Producer Session series at Bouyon Shattaz, and a World Creole Music Festival in Roseau in October that draws every eye.",
+"sections": [
+("The standout releases followed by Bouyon Shattaz", ["Joli BB, the collaboration of Reo and Martinican singer Maurane Voyer, released in October 2026 on the Mauve label. FIX UP by G’z Up. The track Tarif by Koko Bwa with Denmath, whose management approached Bouyon Shattaz for a feature. And the bouyon remixes of Smokiller, including Heaven Baby, available for download on Smokiller.com."]),
+("What is coming", ["The countdown to WCMF 2026, from October 23 to 25 in Roseau, structures the end of the year: Dominican artists play their international visibility there. This page and the <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> are updated as the releases come out."]),
+],
+},
+{
+"slug": "playlist-shatta.html", "fr_slug": "playlist-shatta.html", "cat": "Listen to bouyon", "nav": "Playlist shatta",
+"title": "Playlist Shatta: listen to shatta and shatta bouyon",
+"desc": "Playlist shatta: the shatta and shatta bouyon tracks to listen to in 2026, and the link with the Bouyon Road Mix by Bouyon Shattaz to go from shatta to bouyon.",
+"h1": "Playlist shatta: from shatta to shatta bouyon",
+"intro": "Those who look for a shatta playlist are often looking, without knowing it, for the bouyon half of the modern French Caribbean sound. This page makes the link: the shatta bouyon tracks to know, and the playlist to listen to them.",
+"sections": [
+("Shatta and bouyon, same family", ["Shatta bouyon is the meeting between the modern riddim aesthetic and the historic Dominican genre. A good shatta playlist therefore naturally includes the modern bouyon tracks of French Caribbean and French producers. Full explanations on the <a href=\"/en/bouyon-vs-shatta.html\">bouyon vs shatta</a> page."]),
+("Listen now", ["The <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix</a> on Spotify and YouTube blends bouyon, bouyon soca and shatta bouyon in a selection kept by Bouyon Shattaz. It is the simplest shortcut between the two worlds."]),
+],
+},
+{
+"slug": "bouyon-music-2026.html", "fr_slug": "bouyon-music-2026.html", "cat": "Listen to bouyon", "nav": "Bouyon Music 2026",
+"title": "Bouyon Music 2026: the complete guide",
+"desc": "Bouyon Music 2026: the complete guide to the bouyon music of the year. Artists, styles, playlists and events, by Bouyon Shattaz, the media of Dominican bouyon.",
+"h1": "Bouyon Music 2026: all of the year’s bouyon",
+"intro": "Bouyon music is the English term for the genre, and its year 2026 is playing out in English as much as in French: it is in Gwada, in Martinique, in French Guiana and in Paris that the French-speaking audience keeps alive the bouyon born in Dominica, and the English-speaking Caribbean and diaspora are right there with them.",
+"sections": [
+("The state of bouyon in 2026", ["A networked scene: Dominican artists collaborate with the French Caribbean, producers launch their riddims on video, specialized media like Bouyon Shattaz and its French-speaking partners relay every release, and the Roseau WCMF serves as the annual summit."]),
+("The reading path", ["Newcomer: start with <a href=\"/en/what-is-bouyon.html\">the definition of bouyon</a>, then <a href=\"/en/history.html\">its history</a>. Confirmed fan: the <a href=\"/en/new-bouyon-2026.html\">new bouyon of 2026</a> and the <a href=\"/en/playlist-bouyon.html\">playlist</a>. Producer: the <a href=\"/en/bouyon-drum-kit.html\">drum kit</a> and the <a href=\"/en/bouyon-type-beat.html\">type beats</a>."]),
+],
+},
+{
+"slug": "best-bouyon.html", "fr_slug": "meilleur-bouyon.html", "cat": "Listen to bouyon", "nav": "The best of bouyon",
+"title": "The Best of Bouyon: essential artists, tracks and playlists",
+"desc": "The best of bouyon: the essential Bouyon Shattaz selection. Best bouyon artists, must-hear tracks, styles to know and the playlist to listen to it all.",
+"h1": "The best of bouyon, according to Bouyon Shattaz",
+"intro": "If you were to keep only one gateway into bouyon, here it is: the essential artists, the styles that matter and the playlist that sums up the genre, from 1988 to 2026.",
+"sections": [
+("The essentials", ["The artists: WCK the creators, Asa Bantan the Bouyon Boss, Reo the Prince of the new generation. The styles: classic bouyon, bouyon soca, bouyon gwada and shatta bouyon. The places: Roseau for the origin, Pointe-à-Pitre and Fort-de-France for the spread, Paris for the market."]),
+("Listen to it all at once", ["The <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix</a> gathers this best of bouyon in one Spotify and YouTube playlist kept up to date. Comment ROAD MIX on <a href=\"https://www.instagram.com/bouyonshattaz/\">@bouyonshattaz</a> to receive it by DM."]),
+],
+},
+]
