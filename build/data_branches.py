@@ -2,7 +2,7 @@
 # Branch pages from the 2026-10-20 deep research (research_notes/
 # bouyon-branches-rnbouyon-new-bouyon-20261020-1703/report.md).
 # Spelling and fact discipline per that report: RnBouyon (one spelling),
-# New Bouyon attributed per user and date, reketeng lineage.
+# New Bouyon attributed per user and date, Wrecketeng lineage.
 PAGES = [
  {
   "slug": "rnbouyon.html",
@@ -11,7 +11,7 @@ PAGES = [
   "title": "RnBouyon : le bouyon fusionné au R&B, douceur et énergie",
   "desc": "Le RnBouyon fusionne le bouyon de la Dominique et le R&B : un terme porté par la chanteuse Fallon (Deezer Next 2026) et les instrumentaux de Smokiller.",
   "h1": "RnBouyon : le versant R&B du bouyon",
-  "intro": "Le RnBouyon est le nom donné à la fusion du bouyon et du R&B : le rythme de fête de la Dominique, porté par des voix chantées, des mélodies douces et une production urbaine. Le terme est récent et son orthographe est précise : RnBouyon, en un seul mot. Cette page explique d'où il vient, qui le porte, et pourquoi Bouyon Shattaz le lit comme un héritier du reketeng.",
+  "intro": "Le RnBouyon est le nom donné à la fusion du bouyon et du R&B : le rythme de fête de la Dominique, porté par des voix chantées, des mélodies douces et une production urbaine. Le terme est récent et son orthographe est précise : RnBouyon, en un seul mot. Cette page explique d'où il vient, qui le porte, et pourquoi Bouyon Shattaz le lit comme un héritier du Wrecketeng.",
   "date_published": "2026-10-20",
   "sections": [
    [
@@ -36,10 +36,10 @@ PAGES = [
     ]
    ],
    [
-    "Un héritier du reketeng : la position de ce site",
+    "Un héritier du Wrecketeng : la position de ce site",
     [
-     "Bouyon Shattaz le dit clairement : le RnBouyon est un héritier du <a href=\"/wrecketeng.html\">reketeng</a>. La filiation est technique avant d'être marketing. Le reketeng, né en Dominique dans le sillage du bouyon-muffin, a installé la méthode : prendre des enregistrements existants, dancehall, hip hop puis R&B, les dépouiller et les reconstruire sur des instrumentaux bouyon, avec mélodies samplées, percussions programmées et basses électroniques. Wikipedia, dans ses versions anglaise et française, fait la même lecture : les étiquettes des années 2020 réutilisent les techniques des enregistrements reketeng.",
-     "Le RnBouyon applique exactement cette méthode au répertoire R&B d'aujourd'hui. Que le terme soit jeune et porté par peu d'artistes ne change pas la généalogie : les gestes de production viennent de Roseau et des années reketeng, pas d'un bureau de marketing. C'est pour défendre ce crédit que ce site documente le RnBouyon dès maintenant, avec ses sources, plutôt que de le laisser être raconté ailleurs."
+     "Bouyon Shattaz le dit clairement : le RnBouyon est un héritier du <a href=\"/wrecketeng.html\">Wrecketeng</a>. La filiation est technique avant d'être marketing. Le Wrecketeng, né en Dominique dans le sillage du bouyon-muffin, a installé la méthode : prendre des enregistrements existants, dancehall, hip hop puis R&B, les dépouiller et les reconstruire sur des instrumentaux bouyon, avec mélodies samplées, percussions programmées et basses électroniques. Wikipedia, dans ses versions anglaise et française, fait la même lecture : les étiquettes des années 2020 réutilisent les techniques des enregistrements Wrecketeng.",
+     "Le RnBouyon applique exactement cette méthode au répertoire R&B d'aujourd'hui. Que le terme soit jeune et porté par peu d'artistes ne change pas la généalogie : les gestes de production viennent de Roseau et des années Wrecketeng, pas d'un bureau de marketing. C'est pour défendre ce crédit que ce site documente le RnBouyon dès maintenant, avec ses sources, plutôt que de le laisser être raconté ailleurs."
     ]
    ]
   ],
@@ -92,9 +92,9 @@ PAGES = [
     ]
    ],
    [
-    "La racine commune : les techniques du reketeng",
+    "La racine commune : les techniques du Wrecketeng",
     [
-     "Pourquoi ces étiquettes nouvelles sonnent-elles familières aux oreilles dominicaines ? Parce que leurs techniques ne sont pas nouvelles en Dominique. Mélodies samplées, percussions programmées, basses électroniques, voix influencées par le rap et le dancehall : c'est la grammaire du <a href=\"/wrecketeng.html\">reketeng</a>, pratiquée à Roseau depuis la fin des années 1990. Wikipedia le formule dans les deux langues : le reketeng a ouvert la voie à ce qui est souvent désigné aujourd'hui comme le New Bouyon.",
+     "Pourquoi ces étiquettes nouvelles sonnent-elles familières aux oreilles dominicaines ? Parce que leurs techniques ne sont pas nouvelles en Dominique. Mélodies samplées, percussions programmées, basses électroniques, voix influencées par le rap et le dancehall : c'est la grammaire du <a href=\"/wrecketeng.html\">Wrecketeng</a>, pratiquée à Roseau depuis la fin des années 1990. Wikipedia le formule dans les deux langues : le Wrecketeng a ouvert la voie à ce qui est souvent désigné aujourd'hui comme le New Bouyon.",
      "La position de Bouyon Shattaz est donc double et elle est assumée : New Bouyon est un terme utile pour parler du bouyon d'aujourd'hui, et ses racines techniques sont dominicaines et anciennes. Documenter les deux, les marques des artistes français et antillais et la méthode née en Dominique, c'est exactement le travail de ce site."
     ]
    ]
@@ -102,7 +102,7 @@ PAGES = [
   "faq": [
    ("Qui a inventé le New Bouyon ?", "Le terme a trois usages datés : l'EP New Bouyon Age de TiiTii NBA (22 mars 2023), le concept New Bouyon de Ricky Bishop lancé en 2024 selon sa biographie Deezer, et un usage générique pour le bouyon des années 2020. Aucune source indépendante ne désigne un inventeur unique du genre."),
    ("Quelle est la différence entre New Bouyon et New Bouyon Age ?", "New Bouyon Age est le titre de l'EP de TiiTii NBA sorti en 2023 chez GVE Music. New Bouyon, sans Age, est le concept porté par Ricky Bishop à partir de 2024, avec les EP #newbouyon et #sexybouyon."),
-   ("Le New Bouyon est-il un genre nouveau ?", "C'est une étiquette des années 2020 pour des productions qui fusionnent bouyon, trap, électro, hip hop et R&B. Ses techniques de production, samples, percussions programmées et basses électroniques, descendent du reketeng dominicain de la fin des années 1990.")
+   ("Le New Bouyon est-il un genre nouveau ?", "C'est une étiquette des années 2020 pour des productions qui fusionnent bouyon, trap, électro, hip hop et R&B. Ses techniques de production, samples, percussions programmées et basses électroniques, descendent du Wrecketeng dominicain de la fin des années 1990.")
   ],
   "extra_graph": [
    {
