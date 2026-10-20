@@ -208,7 +208,7 @@ SITE = os.path.expanduser("~/workspace/bouyonmusique.com")
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 PAGES = []
-for mod in ["data_styles", "data_guides", "data_places", "data_events_artists", "data_production_ecoute", "data_culture", "data_wave1", "data_wave1b", "data_branches", "data_parity_w1", "data_parity_w2", "data_parity_w3", "data_parity_w4", "data_parity_w5", "data_parity_w6", "data_parity_w7", "data_parity_w8", "data_parity_w9", "data_parity_w10", "data_parity_w11", "data_parity_w12", "data_parity_w13", "data_parity_w14"]:
+for mod in ["data_styles", "data_guides", "data_places", "data_events_artists", "data_production_ecoute", "data_culture", "data_wave1", "data_wave1b", "data_branches", "data_parity_w1", "data_parity_w2", "data_parity_w3", "data_parity_w4", "data_parity_w5", "data_parity_w6", "data_parity_w7", "data_parity_w8", "data_parity_w9", "data_parity_w10", "data_parity_w11", "data_parity_w12", "data_parity_w13", "data_parity_w14", "data_parity_w15"]:
     m = importlib.import_module(mod)
     PAGES.extend(m.PAGES)
 
@@ -217,7 +217,7 @@ for _p in PAGES:
 
 FR2EN = {}
 ENDATES = {}
-for _mod in ["data_styles_en", "data_guides_en", "data_places_en", "data_events_artists_en", "data_production_ecoute_en", "data_culture_en", "data_wave1_en", "data_wave1b_en", "data_branches_en", "data_parity_w1_en", "data_parity_w2_en", "data_parity_w3_en", "data_parity_w4_en", "data_parity_w5_en", "data_parity_w6_en", "data_parity_w7_en", "data_parity_w8_en", "data_parity_w9_en", "data_parity_w10_en", "data_parity_w11_en", "data_parity_w12_en", "data_parity_w13_en", "data_parity_w14_en"]:
+for _mod in ["data_styles_en", "data_guides_en", "data_places_en", "data_events_artists_en", "data_production_ecoute_en", "data_culture_en", "data_wave1_en", "data_wave1b_en", "data_branches_en", "data_parity_w1_en", "data_parity_w2_en", "data_parity_w3_en", "data_parity_w4_en", "data_parity_w5_en", "data_parity_w6_en", "data_parity_w7_en", "data_parity_w8_en", "data_parity_w9_en", "data_parity_w10_en", "data_parity_w11_en", "data_parity_w12_en", "data_parity_w13_en", "data_parity_w14_en", "data_parity_w15_en"]:
     try:
         _m = importlib.import_module(_mod)
         for _p in _m.PAGES:

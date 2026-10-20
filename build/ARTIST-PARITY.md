@@ -1,6 +1,6 @@
 # ARTIST PARITY vs tiitii-nba.com (measured 2026-10-20)
-His artist profile pages: 157 (FR, mirrored EN). Ours: 141.
-Gap: 32 of his artists have no profile on bouyonmusique.com yet.
+His artist profile pages: 157 (FR, mirrored EN). Ours: 149.
+Gap: 24 of his artists have no profile on bouyonmusique.com yet.
 
 ## His artists we are missing (build in this order of priority: Dominica first, then WCMF 2026 bill, then the rest)
 - ~~1t1~~ BUILT 2026-10-20 (parity wave 2)
@@ -116,14 +116,14 @@ Gap: 32 of his artists have no profile on bouyonmusique.com yet.
 - ~~rohie~~ BUILT 2026-10-20 (parity wave 14)
 - ~~shanika~~ BUILT 2026-10-20 (parity wave 14)
 - ~~skinny-banton~~ BUILT 2026-10-20 (parity wave 1)
-- skinny-fabulous
-- stratvincybwoy
-- sukie
-- suppa
-- sweet-ticky
-- tasmo
-- tazzy
-- team-bwe-tou-sa
+- ~~skinny-fabulous~~ BUILT 2026-10-20 (parity wave 15)
+- ~~stratvincybwoy~~ BUILT 2026-10-20 (parity wave 15)
+- ~~sukie~~ BUILT 2026-10-20 (parity wave 15)
+- ~~suppa~~ BUILT 2026-10-20 (parity wave 15)
+- ~~sweet-ticky~~ BUILT 2026-10-20 (parity wave 15)
+- ~~tasmo~~ BUILT 2026-10-20 (parity wave 15)
+- ~~tazzy~~ BUILT 2026-10-20 (parity wave 15)
+- ~~team-bwe-tou-sa~~ BUILT 2026-10-20 (parity wave 15)
 - ted-la
 - tehilah
 - tenslay
