@@ -1,6 +1,6 @@
 # ARTIST PARITY vs tiitii-nba.com (measured 2026-10-20)
-His artist profile pages: 157 (FR, mirrored EN). Ours: 109.
-Gap: 64 of his artists have no profile on bouyonmusique.com yet.
+His artist profile pages: 157 (FR, mirrored EN). Ours: 117.
+Gap: 56 of his artists have no profile on bouyonmusique.com yet.
 
 ## His artists we are missing (build in this order of priority: Dominica first, then WCMF 2026 bill, then the rest)
 - ~~1t1~~ BUILT 2026-10-20 (parity wave 2)
@@ -77,15 +77,15 @@ Gap: 64 of his artists have no profile on bouyonmusique.com yet.
 - ~~khallion~~ BUILT 2026-10-20 (parity wave 10)
 - ~~killa-laurent~~ BUILT 2026-10-20 (parity wave 10)
 - ~~klockerz-krew~~ BUILT 2026-10-20 (parity wave 10)
-- larose
-- le-bluff
-- le-dext
-- legacy-band
+- ~~larose~~ BUILT 2026-10-20 (parity wave 11)
+- ~~le-bluff~~ BUILT 2026-10-20 (parity wave 11)
+- ~~le-dext~~ BUILT 2026-10-20 (parity wave 11)
+- ~~legacy-band~~ BUILT 2026-10-20 (parity wave 11)
 - ~~lejuh~~ BUILT 2026-10-20 (parity wave 2)
-- les-ptits-du-rzt
-- lestef-kjf-boyz
-- letin-severine
-- letin-sylia
+- ~~les-ptits-du-rzt~~ BUILT 2026-10-20 (parity wave 11)
+- ~~lestef-kjf-boyz~~ BUILT 2026-10-20 (parity wave 11)
+- ~~letin-severine~~ BUILT 2026-10-20 (parity wave 11)
+- ~~letin-sylia~~ BUILT 2026-10-20 (parity wave 11)
 - lewismelo
 - leyou
 - lgc
