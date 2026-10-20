@@ -1,6 +1,6 @@
 # ARTIST PARITY vs tiitii-nba.com (measured 2026-10-20)
-His artist profile pages: 157 (FR, mirrored EN). Ours: 31.
-Gap: 142 of his artists have no profile on bouyonmusique.com yet.
+His artist profile pages: 157 (FR, mirrored EN). Ours: 37.
+Gap: 136 of his artists have no profile on bouyonmusique.com yet.
 
 ## His artists we are missing (build in this order of priority: Dominica first, then WCMF 2026 bill, then the rest)
 - 1t1
@@ -19,14 +19,14 @@ Gap: 142 of his artists have no profile on bouyonmusique.com yet.
 - boy-freeze
 - brg-hollywood
 - bunji-garlin
-- bushtown-clan
+- ~~bushtown-clan~~ BUILT 2026-10-20 (parity wave 1)
 - c4
 - carlyn-xp
 - cocotteland
 - cornell-phillip
 - cross-vibes-band
 - d-mitri
-- dada
+- ~~dada~~ BUILT 2026-10-20 (parity wave 1)
 - daddy-chess
 - dcamp
 - deearr
@@ -36,7 +36,7 @@ Gap: 142 of his artists have no profile on bouyonmusique.com yet.
 - diixly
 - dinho
 - dj-boko
-- dj-cut
+- ~~dj-cut~~ BUILT 2026-10-20 (parity wave 1)
 - dj-dirtee
 - dj-joe
 - dj-leguste
@@ -105,7 +105,7 @@ Gap: 142 of his artists have no profile on bouyonmusique.com yet.
 - nessa-preppy
 - nice
 - nils
-- nursery-krew-inc
+- ~~nursery-krew-inc~~ BUILT 2026-10-20 (parity wave 1)
 - pinpin-osp
 - problem-child
 - quan
@@ -115,7 +115,7 @@ Gap: 142 of his artists have no profile on bouyonmusique.com yet.
 - riddla
 - rohie
 - shanika
-- skinny-banton
+- ~~skinny-banton~~ BUILT 2026-10-20 (parity wave 1)
 - skinny-fabulous
 - stratvincybwoy
 - sukie
@@ -128,7 +128,7 @@ Gap: 142 of his artists have no profile on bouyonmusique.com yet.
 - tehilah
 - tenslay
 - teyma
-- tha-wizzard
+- ~~tha-wizzard~~ BUILT 2026-10-20 (parity wave 1)
 - theodora
 - theomaa
 - thesmsgirls
