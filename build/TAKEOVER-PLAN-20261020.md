@@ -16,7 +16,7 @@ DONE AND LIVE:
   hash-spread related blocks; every content page has 8+ inbound links.
 - Branch pages from the 2026-10-20 deep research: rnbouyon + new-bouyon
   FR+EN; wrecketeng chapter gained the heirs section (RnBouyon + New Bouyon
-  as heirs of reketeng) and the spelling note (reketeng historical,
+  as heirs of reketeng) and the spelling note (superseded by the Wrecketeng rule below: reketeng historical,
   Wrecketeng = Smokiller's Dec 2025 revival).
 - Bouyon soca: page leads with Sean's signed first-hand testimony (Dada,
   2003, Dominica; Triple Kay popularized). Consistency fix 1b7b3cd aligned
