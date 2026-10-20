@@ -146,6 +146,16 @@ Gap: 0. PARITY COMPLETE 2026-10-20: all 142 roster artists now have profiles on 
 - ~~ysn~~ BUILT 2026-10-20 (parity wave 18)
 - ~~yu-mei~~ BUILT 2026-10-20 (parity wave 18)
 
+### Queued (surfaced during scene sweep waves 1-3 research)
+- Le Daah (EN LEY feature credit, via Judi Silva research)
+- Gringo Jay (ANDOLOKO feature billing, via D.O.C FIX DEM research; track itself unverified lead)
+- D.O.C FIX IT (lead name on ELLE DANSE BOUYON, kept separate from D.O.C FIX DEM)
+- Foxy Jael (Ebony Empress feature, via YoJoshii research)
+- Le Rebelle (Bad vocal credit, via Nicolas Macbeth research)
+- Kwib La Beats (Rum producer credit, via Poyzin research)
+- Corane Vincent (recurring credit name, DJ Luchshiy and Pinpin OSP circles)
+- Dernel Green (Black Girl Magic producer credit, via Starsha research)
+
 ## Rule
 Every profile: original text from verified research only (never his copy), ProfilePage schema, FAQ, FR+EN, real build date. Target depth: match or beat his 3,400-3,600 words where the verified dossier supports it; never pad with invented facts.
 
@@ -169,18 +179,18 @@ Sean's directive (2026-10-20): after the 142-name parity list closes, the build 
 - Alkpote (DJ Blax composer credit; French rap, low bouyon priority)
 - ~~Malko~~ BUILT 2026-10-20 (scene sweep wave 2 / build wave 20) (HYPNO producer credits)
 - ~~Mopao Mumu~~ BUILT 2026-10-20 (scene sweep wave 2 / build wave 20) (HYPNO producer credit)
-- YuniikBeatz (TIITII NBA collaborator)
-- Poyzin (Ras B collaborator)
+- ~~YuniikBeatz~~ BUILT 2026-10-20 (scene sweep wave 3 / build wave 21) (TIITII NBA collaborator)
+- ~~Poyzin~~ BUILT 2026-10-20 (scene sweep wave 3 / build wave 21) (Ras B collaborator)
 - Chronic Law (Kkrytical collaborator; dancehall, low bouyon priority)
 - ~~Quan~~ COVERED 2026-10-20 (parity wave 14 profile quan.html)
 - ~~Le Det~~ BUILT 2026-10-20 (scene sweep wave 1 / build wave 19) (Le Dext namesake, explicitly separated; own catalogue exists)
-- Ti locksée (Ma6mo duet partner)
-- Nicolas Macbeth (Ma6mo credit overlap, unresolved identity)
+- ~~Ti locksée~~ BUILT 2026-10-20 (scene sweep wave 3 / build wave 21) (Ma6mo duet partner)
+- ~~Nicolas Macbeth~~ BUILT 2026-10-20 (scene sweep wave 3 / build wave 21) (Ma6mo credit overlap, unresolved identity)
 - ~~D0 Production~~ BUILT 2026-10-20 (scene sweep wave 1 / build wave 19) (New Bouyon Wave producer credit)
-- Magbeatz (LGC producer credit)
-- YoJoshii (Pinpin OSP producer credit)
-- Brian Lomba (Pinpin OSP / LGC credit name)
+- ~~Magbeatz~~ BUILT 2026-10-20 (scene sweep wave 3 / build wave 21) (LGC producer credit)
+- ~~YoJoshii~~ BUILT 2026-10-20 (scene sweep wave 3 / build wave 21) (Pinpin OSP producer credit)
+- ~~Brian Lomba~~ BUILT 2026-10-20 (scene sweep wave 3 / build wave 21) (Pinpin OSP / LGC credit name)
 - ~~Earlson Matthew~~ BUILT 2026-10-20 (scene sweep wave 1 / build wave 19) (Mr Delly writer credit; Ridge band keys; Series A backlog name)
-- Sonic Art Studios circle (Mr Delly credits)
+- ~~Sonic Art Studios circle~~ BUILT 2026-10-20 (scene sweep wave 3 / build wave 21) (Mr Delly credits)
 
 Sweep count queued: 28 (as of 2026-10-20, wave 13 in progress). The queue grows as each wave's research surfaces new verified names.
