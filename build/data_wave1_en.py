@@ -330,13 +330,13 @@ PAGES = [
   "title": "Smokiller: the producer who flips hits into bouyon",
   "desc": "Smokiller, Dominican-born producer, founder of Bouyon Shattaz: bouyon remixes, Throw Dat, Nothing Into Something and radio servicing.",
   "h1": "Smokiller: the hits of the world, the recipe of Dominica",
-  "intro": "Smokiller is a Dominican-born artist and producer, founder of Bouyon Shattaz. Born in Dominica, he takes Afrobeats, pop, rap and R&B hits and flips them into bouyon versions, with the keyboards, tempo and energy of the genre born in Roseau.",
+  "intro": "Smokiller is a Dominican-born artist and producer, founder of Bouyon Shattaz. Dominican-born, he takes Afrobeats, pop, rap and R&B hits and flips them into bouyon versions, with the keyboards, tempo and energy of the genre born in Roseau.",
   "sections": [
    [
     "Who Smokiller is: the man, the brand, the founder",
     [
      "Smokiller is a Dominican-born artist and producer. It is not a decorative pseudonym: it is the name under which he produces, remixes, publishes and signs his work, from YouTube to TikTok, from his site <a href=\"https://smokiller.com/\">smokiller.com</a> to the Bouyon Shattaz platform he founded. BouyonMusique.com, the site you are reading, is published by Bouyon Shattaz: Smokiller is therefore both an artist documented by this site and the man behind the house that publishes it, which this profile states openly.",
-     "His identity must be told in the right words. He was born in Dominica: the wording used on this site is Dominican-born. His bloodline and culture never left him, and they are who he is. This site refers to him as Smokiller, following his own way of presenting himself in his articles and projects.",
+     "His identity must be told in the right words. The wording used on this site is Dominican-born. His bloodline and culture never left him, and they are who he is. This site refers to him as Smokiller, following his own way of presenting himself in his articles and projects.",
      "That identity explains his musical project. A producer born in Dominica who listens to hits from all over the world and hears, in each of them, a possible bouyon version: that is the starting point of Smokiller. It is not about imitating the scenes that succeed, but about bringing their tracks back to the recipe of his island, the one <a href=\"/en/wck.html\">WCK</a> created in Roseau in 1988.",
      "Smokiller combines several trades that this profile details in turn: producer for other artists, remixer of international hits, curator of a free download catalogue on <a href=\"https://smokiller.com/\">smokiller.com</a>, founder of a media and of a distribution and rights project, and head of radio servicing to Caribbean stations. Few actors in current bouyon bring together so many functions. That is what makes this page the longest of the artist profiles on this site."
     ]
@@ -400,7 +400,7 @@ PAGES = [
   "faq": [
    [
     "Who is Smokiller?",
-    "Smokiller is a Dominican-born artist and producer, founder of Bouyon Shattaz. Born in Dominica, he flips Afrobeats, pop, rap and R&B hits into bouyon versions."
+    "Smokiller is a Dominican-born artist and producer, founder of Bouyon Shattaz. Dominican-born, he flips Afrobeats, pop, rap and R&B hits into bouyon versions."
    ],
    [
     "Which Smokiller remix did Coi Leray repost?",
