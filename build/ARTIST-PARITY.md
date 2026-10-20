@@ -1,6 +1,6 @@
 # ARTIST PARITY vs tiitii-nba.com (measured 2026-10-20)
 His artist profile pages: 157 (FR, mirrored EN). Ours: 157.
-Gap: 5 of his artists have no profile on bouyonmusique.com yet.
+Gap: 0. PARITY COMPLETE 2026-10-20: all 142 roster artists now have profiles on bouyonmusique.com (157 of his profiles matched 1:1, counting pre-existing coverage).
 
 ## His artists we are missing (build in this order of priority: Dominica first, then WCMF 2026 bill, then the rest)
 - ~~1t1~~ BUILT 2026-10-20 (parity wave 2)
@@ -140,11 +140,11 @@ Gap: 5 of his artists have no profile on bouyonmusique.com yet.
 - ~~vador~~ BUILT 2026-10-20 (parity wave 17)
 - ~~vj-ben~~ BUILT 2026-10-20 (parity wave 17)
 - ~~weelow~~ BUILT 2026-10-20 (parity wave 17)
-- xavvoknockin
-- yellow-gaza
-- youry-fleming
-- ysn
-- yu-mei
+- ~~xavvoknockin~~ BUILT 2026-10-20 (parity wave 18)
+- ~~yellow-gaza~~ BUILT 2026-10-20 (parity wave 18)
+- ~~youry-fleming~~ BUILT 2026-10-20 (parity wave 18)
+- ~~ysn~~ BUILT 2026-10-20 (parity wave 18)
+- ~~yu-mei~~ BUILT 2026-10-20 (parity wave 18)
 
 ## Rule
 Every profile: original text from verified research only (never his copy), ProfilePage schema, FAQ, FR+EN, real build date. Target depth: match or beat his 3,400-3,600 words where the verified dossier supports it; never pad with invented facts.
