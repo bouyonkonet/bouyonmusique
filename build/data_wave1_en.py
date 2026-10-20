@@ -8,7 +8,7 @@ PAGES = [
   "cat": "Bouyon artists",
   "nav": "WCK",
   "title": "WCK: Windward Caribbean Kulture, the creators of bouyon",
-  "desc": "WCK, Windward Caribbean Kulture, formed in Roseau in 1988: the band that created bouyon by fusing cadence-lypso and jing ping with electronic keyboards and drum machines.",
+  "desc": "WCK, Windward Caribbean Kulture, formed in Roseau in 1988: the band that created bouyon by fusing cadence-lypso and jing ping with electronic machines.",
   "h1": "WCK: the band that created bouyon",
   "intro": "WCK, short for Windward Caribbean Kulture, is the founding band of bouyon. Formed in Roseau, Dominica, in 1988, it created an entire genre by fusing cadence-lypso and jing ping with electronic keyboards and drum machines. Everything this site tells starts here, with WCK.",
   "sections": [
@@ -106,7 +106,8 @@ PAGES = [
      "foundingDate": "1988"
     }
    }
-  ]
+  ],
+"date_modified": "2026-10-20"
  },
  {
   "slug": "asa-bantan.html",
@@ -173,19 +174,10 @@ PAGES = [
    ]
   ],
   "faq": [
-   [
-    "Why is Asa Bantan called the King of Bouyon?",
-    "Asa Bantan, real name Asa Edwards, is widely called the King of Bouyon for his central place in modern Dominican bouyon. It is an attributed, subjective nickname, widely repeated. Dominica Festivals has also identified him as the Bouyon Boss."
-   ],
-   [
-    "Where is Asa Bantan from?",
-    "Asa Bantan comes from Grand Bay, Dominica. He is a pillar of Mas Domnik, Dominica carnival, and of island events, and he is associated with the Breakfast Fete."
-   ],
-   [
-    "Does Asa Bantan play WCMF 2026?",
-    "According to published World Creole Music Festival 2026 guides, notably writeups24 and Sweet TNT, Asa Bantan plays Night 2, Saturday October 24, 2026, in Roseau."
-   ]
-  ],
+("Why is Asa Bantan called the King of Bouyon?", "Asa Bantan, real name Asa Edwards, is widely called the King of Bouyon for his central place in modern Dominican bouyon. It is an attributed, subjective nickname, widely repeated. Dominica Festivals has also identified him as the Bouyon Boss."),
+("Where is Asa Bantan from?", "Asa Bantan comes from Grand Bay, Dominica. He is a pillar of Mas Domnik, Dominica carnival, and of island events, and he is associated with the Breakfast Fete."),
+("Does Asa Bantan play WCMF 2026?", "Yes, according to published World Creole Music Festival 2026 guides, notably writeups24 and Sweet TNT, Asa Bantan plays Night 2, Saturday October 24, 2026, in Roseau. According to those same guides, that night brings together several faces of current bouyon, including Reo, which illustrates his role as a bridge between generations."),
+],
   "date_published": "2026-09-09",
   "extra_graph": [
    {
@@ -209,7 +201,8 @@ PAGES = [
      ]
     }
    }
-  ]
+  ],
+"date_modified": "2026-10-20"
  },
  {
   "slug": "reo.html",
@@ -335,7 +328,7 @@ PAGES = [
   "cat": "Bouyon artists",
   "nav": "Smokiller",
   "title": "Smokiller: the producer who flips hits into bouyon",
-  "desc": "Smokiller, Dominican-born artist and producer, founder of Bouyon Shattaz: bouyon remixes, Throw Dat, Nothing Into Something and radio servicing.",
+  "desc": "Smokiller, Dominican-born producer, founder of Bouyon Shattaz: bouyon remixes, Throw Dat, Nothing Into Something and radio servicing.",
   "h1": "Smokiller: the hits of the world, the recipe of Dominica",
   "intro": "Smokiller is a Dominican-born artist and producer, founder of Bouyon Shattaz. Born Dominican and now American, Dominican-born, he takes Afrobeats, pop, rap and R&B hits and flips them into bouyon versions, with the keyboards, tempo and energy of the genre born in Roseau.",
   "sections": [
@@ -463,7 +456,8 @@ PAGES = [
      ]
     }
    }
-  ]
+  ],
+"date_modified": "2026-10-20"
  },
  {
   "slug": "maurane-voyer.html",
@@ -694,7 +688,7 @@ PAGES = [
   "fr_slug": "ridge.html",
   "cat": "Bouyon artists",
   "nav": "Ridge",
-  "title": "Ridge (Mr Ridge): Dominican bouyon artist, keyboardist and producer",
+  "title": "Ridge (Mr Ridge): Dominican bouyon keyboardist and producer",
   "desc": "Ridge, Mr Ridge, bouyon artist from Dominica: keyboardist, producer, 2026 Caribbean Music Awards nominee and listed for WCMF Night 1.",
   "h1": "Ridge: the keyboardist producer leading a real live band",
   "intro": "Mr Ridge, artist name Ridge, is a Dominican bouyon artist, keyboardist and producer, known on Instagram as @crossdbridge. His creator account stood at 25,567 followers and 714 posts at our October 17, 2026 check, and his bio also lists him as a Bleu Magic rum ambassador. In 2026 he is a Caribbean Music Awards nominee for Bouyon Artist of the Year, according to Dominica News, and confirmed on the WCMF 2026 bill.",
@@ -784,7 +778,8 @@ PAGES = [
      ]
     }
    }
-  ]
+  ],
+"date_modified": "2026-10-20"
  },
  {
   "slug": "tiitii-nba.html",
@@ -1892,7 +1887,7 @@ PAGES = [
   "fr_slug": "niska.html",
   "cat": "Bouyon artists",
   "nav": "Niska",
-  "title": "Niska: Pow Pow / Allo Doudou, the bouyon track certified SNEP Gold",
+  "title": "Niska: Pow Pow / Allo Doudou, the SNEP Gold bouyon track",
   "desc": "Niska, French language rap artist, credited on Pow Pow / Allo Doudou with Litleboy LSBeats767 and Miimii KDS, SNEP Gold 2026, 15 million streams.",
   "h1": "Niska: when French rap meets a bouyon gold record",
   "intro": "Niska is a French language rap artist, credited on 'Pow Pow / Allo Doudou' alongside <a href=\"/en/litleboy-lsbeats767.html\">Litleboy LSBeats767</a> and Miimii KDS. The track passed 15,000,000 equivalent streams in France and was certified Gold Single by SNEP in 2026, according to SNEP's certification post. For Bouyon Shattaz, this record matters for one precise reason: it brings together a major French rap name, a Guadeloupean singer in full breakthrough and a beatmaker whose name carries 767, Dominica's area code, on a bouyon track that crosses a French gold threshold. This page stays focused on that track and what it proves for bouyon.",
@@ -1931,19 +1926,10 @@ PAGES = [
    ]
   ],
   "faq": [
-   [
-    "Why does Niska have a page on a bouyon site?",
-    "Because he is credited on 'Pow Pow / Allo Doudou', a bouyon track with Litleboy LSBeats767 and Miimii KDS, certified Gold Single by SNEP in 2026. The page focuses on that track and what it proves for bouyon."
-   ],
-   [
-    "What certification did 'Pow Pow / Allo Doudou' receive?",
-    "The track passed 15,000,000 equivalent streams in France and was certified Gold Single by SNEP in 2026, according to SNEP's certification post."
-   ],
-   [
-    "Who are the other artists credited on the track?",
-    "Litleboy LSBeats767, an artist and beatmaker whose name carries 767, Dominica's area code, and Miimii KDS, a Guadeloupean singer in full breakthrough."
-   ]
-  ],
+("Why does Niska have a page on a bouyon site?", "Because he is credited on 'Pow Pow / Allo Doudou', a bouyon track with Litleboy LSBeats767 and Miimii KDS, certified Gold Single by SNEP in 2026. The page focuses on that track and what it proves for bouyon."),
+("What certification did 'Pow Pow / Allo Doudou' receive?", "The track passed 15,000,000 equivalent streams in France and was certified Gold Single by SNEP in 2026, according to SNEP's certification post."),
+("Who are the other artists credited on the track?", "Litleboy LSBeats767, an artist and beatmaker whose name carries 767, Dominica's area code, and Miimii KDS, a Guadeloupean singer in full breakthrough, also known for \"Se Miimii\". Together they make this Gold Single a bridge between Dominica and Guadeloupe."),
+],
   "date_published": "2026-10-01",
   "extra_graph": [
    {
@@ -1963,14 +1949,15 @@ PAGES = [
      ]
     }
    }
-  ]
+  ],
+"date_modified": "2026-10-20"
  },
  {
   "slug": "denmath.html",
   "fr_slug": "denmath.html",
   "cat": "Bouyon artists",
   "nav": "Denmath",
-  "title": "Denmath, bouyon producer from Saint-Martin based in Nantes and Paris",
+  "title": "Denmath: Saint-Martin bouyon producer in Nantes and Paris",
   "desc": "Denmath, bouyon producer and sound engineer from Saint-Martin, based between Nantes and Paris. Riddims, Tarif with Koko Bwa and the Bouyon Shattaz pool.",
   "h1": "Denmath, the musical Swiss-army knife of bouyon between Nantes and Paris",
   "intro": "Denmath, whose legal name is Mathurin DENMATH Denis, is a producer, sound engineer and artistic director from Saint-Martin, of Haitian heritage, based between Nantes and Paris. His official site denmathbeats.fr lists his specialties plainly: bouyon, kompa, shatta, dancehall, soca and zouk. In a genre where singers take most of the spotlight, Denmath is a reminder of a simple truth: bouyon is made in the studio first, riddim after riddim, by producers who know several Creole traditions at once. This page gathers what is documented about his path, his riddims and his collaboration now under way with Bouyon Shattaz.",
@@ -2072,7 +2059,8 @@ PAGES = [
      ]
     }
    }
-  ]
+  ],
+"date_modified": "2026-10-20"
  },
  {
   "slug": "mb-on-the-track.html",
@@ -2457,7 +2445,7 @@ PAGES = [
   "fr_slug": "ricky-bishop.html",
   "cat": "Bouyon artists",
   "nav": "Ricky Bishop",
-  "title": "Ricky Bishop: the New Bouyon from Bordeaux, between Gwada and Madagascar",
+  "title": "Ricky Bishop: New Bouyon from Bordeaux, Gwada and Madagascar",
   "desc": "Ricky Bishop, Bordeaux rapper and sound engineer, creator of New Bouyon. Californienne, Anle mwen, his 2024 EPs and his first Paris solo show.",
   "h1": "Ricky Bishop: the New Wave of bouyon",
   "intro": "Ricky Bishop is a rapper and sound engineer of Guadeloupean and Malagasy origin, based in Bordeaux, France. His Deezer biography and an interview published by Modzik present him that way, and that double root shapes all of his music. On Instagram, where he appears under the display name BIG RACKS at @rickybishop_, he had 15,310 followers and 40 posts at the October 17, 2026 check. His defining move is clear: he created the New Bouyon concept, bouyon mixed with trap and electronic music. The magazine Modzik profiled him under the headline La New Wave du bouyon, the New Wave of bouyon, a phrase that sums up his place on this map well: neither a rapper simply borrowing a rhythm, nor a classic bouyon producer, but an artist claiming a new branch of the genre. To understand why a Bordeaux artist of Guadeloupean and Malagasy origin matters in a story born in Dominica, you need to read his path, his records and the way he connects Guadeloupe, Madagascar and France. This page gathers only the verified facts from our dossiers, from his early albums to his first Paris solo show announced for Tuesday, October 20, 2026.",
@@ -2546,7 +2534,8 @@ PAGES = [
      ]
     }
    }
-  ]
+  ],
+"date_modified": "2026-10-20"
  },
  {
   "slug": "david-campana.html",
@@ -3116,7 +3105,7 @@ PAGES = [
   "cat": "Bouyon culture",
   "nav": "Gwada from Dominica",
   "title": "Bouyon Gwada: Guadeloupe Seen from Dominica, Origin and Jump Up",
-  "desc": "Bouyon gwada seen from Dominica: jump up in the French Antilles, Miimii KDS, TIITII NBA, More Sewo and BONNA. Gwada made bouyon bigger, the origin travels with it.",
+  "desc": "Bouyon gwada seen from Dominica: jump up in the French Antilles, Miimii KDS, TIITII NBA, More Sewo and BONNA. Gwada made bouyon bigger.",
   "h1": "Gwada from Dominica: bouyon’s second chapter",
   "intro": "This chapter tells Guadeloupe from the Dominica side. Bouyon crossed the sea through the shared Creole language and became jump up in the French Antilles, then bouyon gwada, the hardcore branch of the genre: drum machines, heavy bass, Creole vocals, club ready. The Dominican position argued here is clear and generous at once: Gwada made bouyon bigger, and the origin credit travels with it, everywhere it goes.",
   "sections": [
@@ -3178,27 +3167,19 @@ PAGES = [
    ]
   ],
   "faq": [
-   [
-    "What is bouyon gwada?",
-    "The Guadeloupean, hardcore branch of bouyon: drum machines, heavy bass, Creole vocals, built for the clubs, born from jump up in the French Antilles."
-   ],
-   [
-    "How did bouyon reach Guadeloupe?",
-    "Through the Creole language shared between Dominica and the French Antilles. There it became jump up, then bouyon gwada."
-   ],
-   [
-    "Which Gwada label signed a Dominican artist?",
-    "More Sewo, a Guadeloupean label created in 2007 by Arturo Bellot, signed BONNA, a Dominican artist. Traffic between the two scenes now runs both ways."
-   ]
-  ],
-  "date_published": "2026-09-24"
+("What is bouyon gwada?", "Bouyon gwada is the Guadeloupean, hardcore branch of bouyon: drum machines up front, heavy bass, Creole vocals, a format built for the clubs. Born from jump up in the French Antilles, it is not a copy of the Dominican sound but a version that owns the pressure of the club, and Dominica recognises its invention there."),
+("How did bouyon reach Guadeloupe?", "Through the Creole language shared between Dominica and the French Antilles: bouyon needed no translation, and that shared language served as its passport. In the French Antilles, the sound first took the name jump up, before the Guadeloupean branch asserted itself as bouyon gwada."),
+("Which Gwada label signed a Dominican artist?", "More Sewo, a Guadeloupean label created in 2007 by Arturo Bellot, signed BONNA, a Dominican artist. Traffic between the two scenes now runs both ways."),
+],
+  "date_published": "2026-09-24",
+"date_modified": "2026-10-20"
  },
  {
   "slug": "women-of-bouyon.html",
   "fr_slug": "femmes-du-bouyon.html",
   "cat": "Bouyon culture",
   "nav": "Women of bouyon",
-  "title": "Women of Bouyon: Maurane Voyer, Miimii KDS, Shelly, Tamillia, Ebony Empress",
+  "title": "Women of Bouyon: Maurane Voyer, Miimii KDS and Shelly",
   "desc": "Women of bouyon: Maurane Voyer, Miimii KDS, Shelly, Tamillia and Ebony Empress, headliners and hitmakers, from Joli BB to the SNEP gold record.",
   "h1": "Women of bouyon: headliners, not decoration",
   "intro": "This chapter sets a simple line: in bouyon, women are headliners and hitmakers, not decoration. Maurane Voyer carries “Joli BB” with Reo. Miimii KDS stacks a viral hit and an SNEP gold record. Shelly lines up views and Signal Band collaborations from Dominica. Tamillia lends her voice to DJ Blax’s “Don’t Care”. Ebony Empress fronts an official riddim. And the remix economy itself runs on women’s voices, from Ayra Starr to Shenseea.",
@@ -3261,27 +3242,19 @@ PAGES = [
    ]
   ],
   "faq": [
-   [
-    "Who are the women featured in this chapter?",
-    "Maurane Voyer, Miimii KDS, Shelly, Tamillia and Ebony Empress, along with the voices remixed by Smokiller, Ayra Starr and Shenseea."
-   ],
-   [
-    "Which women-led title was certified gold in France?",
-    "“Pow Pow / Allo Doudou”, with Miimii KDS, certified Single Or by the SNEP with 15 million equivalent streams in France."
-   ],
-   [
-    "Which Dominican artist sings at WCMF 2026?",
-    "Shelly, with Signal Band, on Night 3 of the festival. Her “Bye to de Old Me (Remix)” stands at 691K views."
-   ]
-  ],
-  "date_published": "2026-09-26"
+("Who are the women featured in this chapter?", "The chapter features Maurane Voyer from Martinique, Miimii KDS from Guadeloupe, Shelly from Dominica, Tamillia, who grew up in Saint Martin, and Ebony Empress, the voice of the Bounce 2D Riddim. It also cites Ayra Starr and Shenseea, whose voices carry Smokiller bouyon remixes: headliners and hitmakers, not decorations."),
+("Which women-led title was certified gold in France?", "“Pow Pow / Allo Doudou”, with Miimii KDS, an artist from Guadeloupe, was certified Single Or by the SNEP with 15 million equivalent streams in France. Miimii KDS had already scored a viral title in 2025 with “Sé Miimii”. A Gwada artist turning bouyon into French gold is an argument the whole genre can use."),
+("Which Dominican artist sings at WCMF 2026?", "Shelly, an artist from Dominica, sings with Signal Band on Night 3 of WCMF 2026. Her “Bye to de Old Me (Remix)” stands at 691K views, and she has followed it with two trending Signal Band collaborations. Martinican singer Maurane Voyer also appears on the bill for Night 1 of the festival."),
+],
+  "date_published": "2026-09-26",
+"date_modified": "2026-10-20"
  },
  {
   "slug": "producers-and-passers.html",
   "fr_slug": "producteurs-et-passeurs.html",
   "cat": "Bouyon culture",
   "nav": "Producers and passers",
-  "title": "Bouyon Producers and Passeurs: Smokiller, Denmath, HYPNO and Rights",
+  "title": "Bouyon Producers and Passeurs: Smokiller, Denmath, HYPNO",
   "desc": "Bouyon producers: Smokiller, Denmath, HYPNO, Savion, MB On The Track, Dboss. And the passeurs who protect the sound: agreements, credits and producer rights.",
   "h1": "Producers and passeurs: the hands behind the bouyon sound",
   "intro": "Bouyon is often told through its singers. This chapter chooses the other end of the chain: the producers who make the sound, and the passeurs, the connectors who carry it, protect it and link it up. Smokiller and his remix method, Denmath and his riddims, HYPNO and his speed, Savion and the snippet format, MB On The Track and his custom beats, Dboss and his “Come Here” riddim. Behind them, an agreement signed in October 2026 shows how producer protection can become a model.",
@@ -3357,7 +3330,8 @@ PAGES = [
     "A connector: media, manager or rights desk who carries the sound between islands and protects its creators, like Bouyon Shattaz or Ambre Lazaro for Denmath."
    ]
   ],
-  "date_published": "2026-10-02"
+  "date_published": "2026-10-02",
+"date_modified": "2026-10-20"
  },
  {
   "slug": "wcmf-creole-festival.html",
@@ -3365,7 +3339,7 @@ PAGES = [
   "cat": "Bouyon culture",
   "nav": "WCMF, Creole festival",
   "title": "World Creole Music Festival 2026: Roseau’s WCMF, October 23 to 25",
-  "desc": "World Creole Music Festival 2026 in Roseau, Dominica: three nights at Windsor Park, October 23 to 25, bouyon, cadence, zouk and kompa. The bouyon line-up night by night.",
+  "desc": "World Creole Music Festival 2026 in Roseau: three nights at Windsor Park, October 23-25, bouyon, cadence, zouk and kompa. Bouyon line-up night by night.",
   "h1": "World Creole Music Festival: three Creole nights in Roseau",
   "intro": "The World Creole Music Festival, the WCMF, is Roseau’s great Creole gathering in Dominica: three nights at Windsor Park, every October at independence time. The 2026 edition runs from Friday October 23 to Sunday October 25, 2026. The festival stages bouyon and cadence from Dominica alongside zouk, kompa and diaspora guests. For bouyon, it is the biggest international showcase at home, where the genre was born.",
   "sections": [
@@ -3453,15 +3427,16 @@ PAGES = [
     "inLanguage": "en"
    }
   ],
-  "date_published": "2026-10-14"
+  "date_published": "2026-10-14",
+"date_modified": "2026-10-20"
  },
  {
   "slug": "bouyon-goes-global.html",
   "fr_slug": "bouyon-mondial-crossover.html",
   "cat": "Bouyon culture",
   "nav": "Bouyon goes global",
-  "title": "Bouyon Goes Global 2026: Coi Leray, Ayra Starr, SNEP Gold and Paris",
-  "desc": "Bouyon goes global in 2026: Smokiller’s Coi Leray and Ayra Starr remixes, the SNEP gold single for Pow Pow, Ricky Bishop in Paris. The crossover and the Dominican credit.",
+  "title": "Bouyon Goes Global 2026: Coi Leray, Ayra Starr, SNEP Gold",
+  "desc": "Bouyon goes global in 2026: Smokiller’s Coi Leray and Ayra Starr remixes, SNEP gold for Pow Pow, Ricky Bishop in Paris, and the Dominican credit.",
   "h1": "Bouyon goes global: the 2026 crossover, with the Dominican credit",
   "intro": "In 2026, bouyon no longer asks permission to travel. A Coi Leray remix flipped within two days and seen 854.7K times on TikTok. An Ayra Starr remix anchoring a thirty-day campaign. An SNEP gold single in France for a title with Miimii KDS. A first Paris solo show for Ricky Bishop. This chapter gathers the crossover proofs, one by one, and asks the question Bouyon Shattaz never drops: does the Dominican credit travel with the sound?",
   "sections": [
@@ -3549,7 +3524,8 @@ PAGES = [
     "inLanguage": "en"
    }
   ],
-  "date_published": "2026-10-15"
+  "date_published": "2026-10-15",
+"date_modified": "2026-10-20"
  },
  {
   "slug": "artists-dominica.html",
@@ -3729,7 +3705,7 @@ PAGES = [
   "fr_slug": "artistes-martinique.html",
   "cat": "Bouyon artists",
   "nav": "Artists from Martinique",
-  "title": "Bouyon artists from Martinique: Maurane Voyer and the Joli BB bridge",
+  "title": "Bouyon artists from Martinique: Maurane Voyer and Joli BB",
   "desc": "Bouyon artists from Martinique: Maurane Voyer, Martinican singer, voice of Joli BB with Reo and billed on Night 1 of WCMF 2026 in Roseau.",
   "h1": "Bouyon artists from Martinique: a hub that starts with one voice",
   "intro": "This Martinique hub starts honestly: with one deep profile, that of Maurane Voyer, and it will grow as verified dossiers arrive. Rather than inventing a list of artists, this page tells the real place of Martinique in the bouyon map, as our editorial record documents it: an island where bouyon is danced as jump up, a Creole language shared with Dominica, a public at the heart of the ROAD MIX playlist, and in 2026 a bridge record, \"Joli BB\", linking Fort-de-France to Roseau. That is few names, but it is solid, and that is how this site prefers to build its hubs: one true profile is worth more than ten fabricated cards.",
@@ -3798,6 +3774,7 @@ PAGES = [
     "In Martinique, bouyon is danced as jump up. The island shares the Creole language with Dominica, and its public is one of the core publics of the Bouyon Shattaz ROAD MIX playlist, which makes it natural territory for the genre."
    ]
   ],
-  "date_published": "2026-10-19"
+  "date_published": "2026-10-19",
+"date_modified": "2026-10-20"
  }
 ]

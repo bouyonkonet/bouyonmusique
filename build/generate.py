@@ -54,9 +54,14 @@ for _mod in ["data_styles_en", "data_guides_en", "data_places_en", "data_events_
         _m = importlib.import_module(_mod)
         for _p in _m.PAGES:
             FR2EN[_p["fr_slug"]] = _p["slug"]
-            ENDATES[_p["slug"]] = _p.get("date_published") or spread_date(_p["fr_slug"])
+            ENDATES[_p["slug"]] = _p.get("date_modified") or _p.get("date_published") or spread_date(_p["fr_slug"])
     except Exception:
         pass
+# Two EN pages can share a slug (the later module wins on disk): only keep the FR page the published EN page points to.
+_en_owner = {}
+for _fr, _en in FR2EN.items():
+    _en_owner[_en] = _fr
+FR2EN = {_fr: _en for _fr, _en in FR2EN.items() if _en_owner[_en] == _fr}
 
 CORE = [
     ("/", "Bouyon Musique (accueil)"),
@@ -67,6 +72,10 @@ CORE = [
     ("/faq.html", "FAQ bouyon"),
     ("/en/", "Bouyon Music (EN)"),
 ]
+
+def faq_text(a):
+    """FAQ answers may hold links for the visible copy; schema gets plain text."""
+    return html.unescape(re.sub(r"<[^>]+>", "", a))
 
 def esc(s):
     return html.escape(s, quote=True)
@@ -164,10 +173,15 @@ def linkify_sections(page, all_pages, extra, prefix, cap=8):
                     if target in used:
                         continue
                     pat = re.compile(r'(?<![\w\-])' + re.escape(term) + r'(?![\w\-])')
-                    if pat.search(part):
-                        part = pat.sub('<a href="' + target + '">' + term + '</a>', part, count=1)
-                        used.add(target)
-                        count += 1
+                    # only match plain text, never inside a link inserted earlier in this loop
+                    segs = re.split(r'(<a [^>]*>.*?</a>)', part)
+                    for j, seg in enumerate(segs):
+                        if not seg.startswith("<a ") and pat.search(seg):
+                            segs[j] = pat.sub('<a href="' + target + '">' + term + '</a>', seg, count=1)
+                            used.add(target)
+                            count += 1
+                            break
+                    part = "".join(segs)
                 parts[i] = part
             new_paras.append("".join(parts))
         out.append((h2, new_paras))
@@ -221,7 +235,7 @@ def render(page, all_pages):
         graph.append({
             "@type": "FAQPage",
             "mainEntity": [
-                {"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": a}}
+                {"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": faq_text(a)}}
                 for q, a in faq_list
             ],
         })
@@ -246,6 +260,9 @@ def render(page, all_pages):
 <p><a href="/playlist-bouyon.html">Ouvrir la playlist bouyon</a> - Suivre <a href="https://www.instagram.com/bouyonshattaz/">@bouyonshattaz</a> et commenter ROAD MIX pour la recevoir en DM.</p>
 </div>
 """
+    hreflang_en = ""
+    if page["slug"] in FR2EN:
+        hreflang_en = f'<link rel="alternate" hreflang="en" href="https://bouyonmusique.com/en/{FR2EN[page["slug"]]}">\n'
     return f"""<!DOCTYPE html>
 <html lang="{page.get('lang','fr')}">
 <head>
@@ -256,13 +273,18 @@ def render(page, all_pages):
 <meta name="robots" content="index, follow">
 <link rel="canonical" href="{url}">
 <link rel="alternate" hreflang="fr" href="{url}">
-<link rel="alternate" hreflang="en" href="https://bouyonmusique.com/en/{FR2EN.get(page["slug"], "")}">
+{hreflang_en}<link rel="alternate" hreflang="x-default" href="{url}">
 <meta property="og:type" content="article">
 <meta property="og:site_name" content="Bouyon Musique">
 <meta property="og:title" content="{esc(page["title"])}">
 <meta property="og:description" content="{esc(page["desc"])}">
 <meta property="og:url" content="{url}">
 <meta property="og:locale" content="fr_FR">
+<meta property="og:image" content="https://bouyonmusique.com/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Bouyon Musique, le guide de la musique bouyon">
+<meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="/style.css">
 <script type="application/ld+json">
@@ -312,6 +334,20 @@ def main():
 <meta name="description" content="Toutes les pages de BouyonMusique.com : histoire du bouyon, styles, artistes, producteurs, playlists, carnaval de la Dominique et scènes bouyon par pays.">
 <meta name="robots" content="index, follow">
 <link rel="canonical" href="https://bouyonmusique.com/plan-du-site.html">
+<link rel="alternate" hreflang="fr" href="https://bouyonmusique.com/plan-du-site.html">
+<link rel="alternate" hreflang="en" href="https://bouyonmusique.com/en/site-map.html">
+<link rel="alternate" hreflang="x-default" href="https://bouyonmusique.com/plan-du-site.html">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Bouyon Musique">
+<meta property="og:title" content="Plan du site Bouyon Musique : tous les sujets bouyon">
+<meta property="og:description" content="Toutes les pages de BouyonMusique.com : histoire du bouyon, styles, artistes, producteurs, playlists, carnaval de la Dominique et scènes bouyon par pays.">
+<meta property="og:url" content="https://bouyonmusique.com/plan-du-site.html">
+<meta property="og:locale" content="fr_FR">
+<meta property="og:image" content="https://bouyonmusique.com/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Bouyon Musique, le guide de la musique bouyon">
+<meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="/style.css">
 </head>
@@ -341,7 +377,7 @@ def main():
             seen.add(u); ordered.append(u)
     lastmod = {}
     for p in PAGES:
-        lastmod[f'/{p["slug"]}'] = p.get("date_published", BUILD_DATE)
+        lastmod[f'/{p["slug"]}'] = p.get("date_modified") or p.get("date_published", BUILD_DATE)
     for _slug_en, _d in ENDATES.items():
         lastmod[f"/en/{_slug_en}"] = _d
     items = ""

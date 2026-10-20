@@ -10,6 +10,14 @@ PAGES = [
 ("Roseau and carnival", ["Dominica’s carnival, Mas Domnik, is the home of bouyon: live bands and sound systems play the tracks there that will become the classics of the year. Grand Bay, the village of Asa Bantan, the Bouyon Boss, is one of the strongholds of this culture."]),
 ("A small island, a world invention", ["With fewer than 70,000 inhabitants in its modern history, Dominica invented two genres that have traveled the whole world over: cadence-lypso and then bouyon. Defending that origin is the heart of Bouyon Shattaz’s work and of this site."]),
 ],
+"date_modified": "2026-10-20",
+"faq": [
+("Where is bouyon popular?", "Born in Dominica, bouyon is now central in Guadeloupe and Martinique and present in France, Saint Lucia, Saint Martin and the Caribbean diaspora."),
+("Which country created bouyon?", "Dominica. The genre was born there in the late 1980s: it was in Roseau, the island's capital, that the band WCK created it in 1988. Bouyon is still the sound of Roseau carnival, Mas Domnik, where live bands and sound systems launch the tracks that become each year's classics."),
+("Who created bouyon in Dominica?", 'Bouyon was created by <a href="/en/wck.html">WCK</a> (Windward Caribbean Kulture), a band formed in Roseau, the capital of Dominica, in 1988. WCK fused cadence-lypso and jing ping with electronic keyboards and drum machines, giving birth to the sound now called bouyon.'),
+("Where can you hear bouyon in Dominica?", "The best place is Dominica's carnival, Mas Domnik, in Roseau: live bands and sound systems play the tracks there that become the classics of the year. Grand Bay, the village of Asa Bantan, known as the Bouyon Boss, is also one of the strongholds of bouyon culture on the island."),
+("Which music genres did Dominica invent?", "Dominica invented two genres that have traveled the whole world: cadence-lypso, then bouyon, created by WCK in 1988. That is remarkable for an island with fewer than 70,000 inhabitants in its modern history, and it is why this site defends the Dominican origin of bouyon."),
+],
 },
 {
 "slug": "bouyon-guadeloupe.html", "fr_slug": "bouyon-guadeloupe.html", "cat": "Bouyon by country", "nav": "Bouyon in Guadeloupe",
@@ -20,6 +28,14 @@ PAGES = [
 "sections": [
 ("From jump up to bouyon gwada", ["At carnival and at parties, Guadeloupean audiences call bouyon jump up. Then the musicians of Gwada, in collaboration with Dominicans, hardened the sound: that is the birth of <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a>, more electronic and rawer."]),
 ("An audience that makes the hits", ["Guadeloupe’s bouyon DJs and pages play a decisive role: it is often their choices and their networks that turn a riddim into a carnival track, then relayed on to Martinique and Paris. See also <a href=\"/en/bouyon-paris.html\">bouyon in Paris</a>."]),
+],
+"date_modified": "2026-10-20",
+"faq": [
+("Where is bouyon popular?", "Born in Dominica, bouyon is now central in Guadeloupe and Martinique, where audiences also call it jump up. It is present in France, Saint Lucia, Antigua, Saint Martin and the Caribbean diaspora, from New York to London, Toronto and Montreal."),
+("Which country created bouyon?", "Dominica. The genre was born in Roseau in the late 1980s, when the band WCK, formed in 1988, fused cadence-lypso with jing ping and traditional drums such as the lapo kabwit. It remains the sound of Roseau carnival, Mas Domnik."),
+("What is bouyon gwada?", 'Bouyon gwada, also called hardcore bouyon, is the branch of bouyon born from collaborations between musicians from Dominica and Guadeloupe. Harder, more electronic and rawer than the bouyon of live bands, it pushes drum machines, bass and vocals in Guadeloupean Creole. See <a href="/en/bouyon-gwada.html">bouyon gwada</a>.'),
+("What is bouyon called in Guadeloupe?", "In Guadeloupe, audiences call bouyon jump up, at carnival as at parties. The word also describes the way of dancing bouyon by jumping, which became the signature of gwada parties. The sound came from neighboring Dominica, carried by the shared Creole language and the back-and-forth of carnivals."),
+("Which bouyon artists come from Guadeloupe?", "Among the profiles this site follows: Miimii KDS, credited on \"Pow Pow / Allo Doudou\", certified gold by SNEP, TIITII NBA from Morne-à-l'Eau, whose \"Kitty Kitty\" passed 1.65 million plays, and Ricky Bishop, of Guadeloupean and Malagasy origin, creator of the New Bouyon concept. See the <a href=\"/en/artists-guadeloupe.html\">bouyon artists of Guadeloupe</a>."),
 ],
 },
 {
@@ -32,16 +48,30 @@ PAGES = [
 ("A shared Creole history", ["Dominica, Guadeloupe and Martinique share the Kwéyòl language and closely related carnival traditions: chanté mas, street bands, Creole dances. Bouyon has circulated among the three islands since the 1990s, carried by exchanges between musicians and audiences."]),
 ("Artists who build the bridge", ["Collaborations like Joli BB by Reo, a Dominican artist, with Maurane Voyer, a Martinican singer, show the bouyon of 2026 at work: a Dominican creation, a Martinican bridge, an audience on both sides of the sea. See the <a href=\"/en/maurane-voyer.html\">Maurane Voyer</a> page."]),
 ],
+"date_modified": "2026-10-20",
+"faq": [
+("What is bouyon called in Martinique?", 'In Martinique, bouyon is mostly called jump up. Martinican audiences live it under that name at carnival as well as at parties all year round. For many people in the French Antilles, bouyon and jump up mean the same sound: the fast music from Dominica that makes everyone jump. See the <a href="/en/jump-up.html">jump up</a> page.'),
+("Which Martinican artists make bouyon?", 'Martinican singer Maurane Voyer is the most visible figure in 2026: she sings Joli BB with Reo, a Dominican artist, a song released on October 9, 2026 on the Mauve label. She is also billed on the first night of the World Creole Music Festival 2026 in Roseau, on Friday, October 23. See the <a href="/en/maurane-voyer.html">Maurane Voyer</a> page.'),
+("Where is bouyon popular?", "Born in Dominica in the late 1980s, bouyon is now central in Guadeloupe and Martinique, where it is also called jump up. It is present in France, Saint Lucia, Saint Martin and the Caribbean diaspora, and has circulated among Dominica, Guadeloupe and Martinique since the 1990s."),
+("Which country created bouyon?", "Dominica. The genre was born there in the late 1980s, launched by the band WCK, formed in 1988 in Roseau, and it remains the sound of Roseau carnival. Martinique, which shares the Kwéyòl language and closely related carnival traditions with Dominica, adopted it under the name jump up."),
+],
 },
 {
 "slug": "bouyon-france.html", "fr_slug": "bouyon-france.html", "cat": "Bouyon by country", "nav": "Bouyon in France",
 "title": "Bouyon in France: certifications, stages and diaspora",
-"desc": "Bouyon in France: the market that certifies and distributes bouyon today. The role of the Antillean diaspora, platforms and media, and what is at stake for credit for Dominica.",
+"desc": "Bouyon in France: certifications, distribution and the Antillean diaspora. Why France is the genre’s big market, and what is at stake for Dominican credit.",
 "h1": "Bouyon in France: the genre’s big market",
 "intro": "France has become the big economic market for bouyon: it is there that tracks get certified, that distribution is being structured and that a large part of Antillean fans live. This reality gives France enormous power over a genre born in Dominica.",
 "sections": [
 ("Certifications and industry", ["Bouyon tracks have won gold single certifications in France, proof that the genre has grown beyond its historic Antillean audience. French distribution and publishing structures play a central role, from Believe and TuneCore to the independent labels. This is exactly the ground where Bouyon Shattaz is building its distribution network, keeping the Dominican origin at the center."]),
 ("The diaspora as audience", ["Paris and France’s big cities concentrate a Guadeloupean, Martinican, Guyanese and Dominican diaspora that keeps bouyon nights and the networks alive. For this audience, bouyon is a direct link to home."]),
+],
+"date_modified": "2026-10-20",
+"faq": [
+("Where is bouyon popular?", "Born in Dominica, bouyon is now central in Guadeloupe and Martinique and present in France, Saint Lucia, Saint Martin and the Caribbean diaspora. In France, Paris and the big cities concentrate a Guadeloupean, Martinican, Guyanese and Dominican diaspora that keeps bouyon nights and the networks alive."),
+("Which country created bouyon?", "Dominica. The genre was born there in 1988 in Roseau, created by the band WCK (Windward Caribbean Kulture), which plugged cadence-lypso and jing ping into electronic keyboards and drum machines. It remains the sound of Roseau carnival, even though France has become its big economic market."),
+("Why is France the big market for bouyon?", "Because France is where bouyon tracks get certified, where distribution is being structured and where a large part of Antillean fans live. French distribution and publishing structures, from Believe and TuneCore to independent labels, play a central role there, which gives France enormous power over a genre born in Dominica."),
+("Which bouyon track was certified gold in France?", '“Pow Pow / Allo Doudou”, by Niska, Litleboy LSBeats767 and <a href="/en/miimii-kds.html">Miimii KDS</a>, was certified Single Or (gold single) by the SNEP at 15 million stream equivalents. It is official proof that bouyon has grown beyond its historic Antillean audience and converts on the French market, beyond social platforms.'),
 ],
 },
 {
@@ -54,6 +84,13 @@ PAGES = [
 ("The Paris circuit", ["A bouyon track in 2026 often follows the same circuit: born in Dominica or in Gwada, tested by the DJs of Paris, pushed on the networks, then certified on the French market. Understanding Paris means understanding the bouyon economy of today."]),
 ("The role of Parisian and Antillean media", ["Specialist media and pages, from Paris to the Antilles, decide visibility. The network that Bouyon Shattaz brings together aims to keep Dominican artists in control of this circuit, from the interview to the meme."]),
 ],
+"date_modified": "2026-10-20",
+"faq": [
+("Where is bouyon popular?", "Born in Dominica, bouyon is now central in Guadeloupe and Martinique and present in France, Saint Lucia, Saint Martin and the Caribbean diaspora. In France, Paris and the big cities concentrate a Guadeloupean, Martinican, Guyanese and Dominican diaspora that keeps bouyon nights and the networks alive."),
+("Which country created bouyon?", "Dominica. The genre was born there in 1988 in Roseau, created by the band WCK (Windward Caribbean Kulture), which plugged cadence-lypso and jing ping into electronic keyboards and drum machines. It remains the sound of Roseau carnival, even though France has become its big economic market."),
+("Why does Paris matter so much for bouyon?", "Paris is home to the largest Antillean diaspora in Europe, and bouyon has found a scene there: dedicated nights, specialist DJs, producers making the riddims of the moment and an audience that demands every new release. A track born in Dominica or Gwada is often tested there by DJs, pushed on the networks, then certified on the French market."),
+("Which bouyon artist plays his first solo concert in Paris in 2026?", '<a href="/en/ricky-bishop.html">Ricky Bishop</a>, a New Bouyon artist based in Bordeaux, plays his first solo concert in Paris on October 20, 2026. A Paris stage under his own name shows that the genre’s geography is now also written in mainland France, alongside producers like Denmath, between Nantes and Paris.'),
+],
 },
 {
 "slug": "bouyon-guyane.html", "fr_slug": "bouyon-guyane.html", "cat": "Bouyon by country", "nav": "Bouyon in French Guiana",
@@ -63,6 +100,13 @@ PAGES = [
 "intro": "French Guiana, a French territory of South America with a strong Creole culture, is part of bouyon’s natural audience. Tracks from Dominica, Guadeloupe and Martinique circulate there through the networks, radio and parties.",
 "sections": [
 ("An audience connected to the Antilles", ["The Guyanese audience follows the same bouyon coverage as that of Gwada and Martinique: the same riddims, the same artists, the same dances. For Dominican artists, French Guiana completes the francophone triangle of the Caribbean and France."]),
+],
+"date_modified": "2026-10-20",
+"faq": [
+("Where is bouyon popular?", "Born in Dominica, bouyon is now central in Guadeloupe and Martinique and present in France, Saint Lucia, Saint Martin and the Caribbean diaspora."),
+("Which country created bouyon?", "Dominica. The genre was born there in the late 1980s: it was in Roseau, the island's capital, that the band WCK created it in 1988, mixing jing ping, cadence-lypso and electronic rhythms. Bouyon remains the sound of Roseau carnival today."),
+("Is bouyon listened to in French Guiana?", "Yes. French Guiana, a French territory of South America with a strong Creole culture, is part of bouyon's natural audience. Tracks from Dominica, Guadeloupe and Martinique circulate there through the networks, radio and parties, and the Guyanese audience follows the same riddims, artists and dances as the Antilles."),
+("What is bouyon?", 'Bouyon is a music genre born in Dominica in the late 1980s, pioneered by the band WCK. Its name means soup in Kweyol: it mixes jing ping, cadence-lypso, zouk and electronic rhythms. Its fast tempo made it the soundtrack of carnival, in Dominica as well as in Guadeloupe and Martinique. See <a href="/en/history.html">the history of bouyon</a>.'),
 ],
 },
 {
@@ -74,6 +118,13 @@ PAGES = [
 "sections": [
 ("A bridge between the Caribbean and France", ["Based between Nantes and Paris, Denmath illustrates the path of the new generation of producers: Caribbean roots, a studio in France, collaborations across all the Antilles. See his dedicated page: <a href=\"/en/denmath.html\">Denmath</a>."]),
 ],
+"date_modified": "2026-10-20",
+"faq": [
+("Where is bouyon popular?", "Born in Dominica, bouyon is now central in Guadeloupe and Martinique and present in France, Saint Lucia, Saint Martin and the Caribbean diaspora."),
+("Which country created bouyon?", "Dominica. The genre was born there in the late 1980s: it was in Roseau, the island's capital, that the band WCK created it in 1988, mixing jing ping, cadence-lypso and electronic rhythms. Bouyon remains the sound of Roseau carnival today."),
+("Which bouyon producers come from Saint Martin?", 'The main name is Denmath, whose legal name is Mathurin DENMATH Denis: a producer, sound engineer and artistic director from Saint Martin, of Haitian heritage, based between Nantes and Paris. A specialist in bouyon, kompa and shatta, he is known for his riddims Tropical Riddim and Harley Riddim. See his page <a href="/en/denmath.html">Denmath</a>.'),
+("Which bouyon singer grew up in Saint Martin?", "Tamillia, full name Tamillia Chance, grew up in Saint Martin in the island's French and Dutch cultures and was on The Voice Kids France at 14. She is the voice of Don't Care, DJ Blax's single released on October 16, 2026, whose video was shot in St Maarten, the Dutch side of the island. See <a href=\"/en/dj-blax.html\">DJ Blax</a>."),
+],
 },
 {
 "slug": "bouyon-saint-lucia.html", "fr_slug": "bouyon-sainte-lucie.html", "cat": "Bouyon by country", "nav": "Bouyon in Saint Lucia",
@@ -83,6 +134,13 @@ PAGES = [
 "intro": "Saint Lucia is the Creole-speaking island closest to Dominica. It is largely there, among producers who love Trinidad soca as much as Dominican bouyon, that the bouyon soca fusion took shape.",
 "sections": [
 ("Two carnivals that answer each other", ["The audiences of Roseau and Castries share language, history and a taste for partying. Tracks travel from one carnival to the other, and <a href=\"/en/bouyon-soca.html\">bouyon soca</a> has become their shared musical language."]),
+],
+"date_modified": "2026-10-20",
+"faq": [
+("Where is bouyon popular?", "Born in Dominica, bouyon is now central in Guadeloupe and Martinique and present in France, Saint Lucia, Saint Martin and the Caribbean diaspora. In Saint Lucia, the Creole-speaking island closest to Dominica, it travels mostly as bouyon soca, from one carnival to the other."),
+("Which country created bouyon?", 'Dominica. Bouyon was born there in the late 1980s: in 1988, the band <a href="/en/wck.html">WCK</a>, formed in Roseau, fused cadence-lypso and jing ping with electronic keyboards and drum machines. The genre is still the sound of Roseau carnival, Mas Domnik.'),
+("What are the links between Dominica and Saint Lucia?", "Saint Lucia is the Creole-speaking island closest to Dominica. The audiences of Roseau and Castries share language, history and a taste for partying, and tracks travel from one carnival to the other. Bouyon soca has become the shared musical language of the two islands."),
+("What is bouyon soca?", "Bouyon soca is the fusion of Dominica's bouyon and Trinidad's soca: the fast tempo, looping keyboards and heavy synth bass of bouyon meet the festive structure of soca. It developed in Dominica and in neighboring islands like Saint Lucia and Antigua. More on the <a href=\"/en/bouyon-soca.html\">bouyon soca</a> page."),
 ],
 },
 {
@@ -94,6 +152,14 @@ PAGES = [
 "sections": [
 ("An audience of connoisseurs", ["Like Saint Lucia, Antigua helped shape bouyon soca by testing it against the codes of soca and local parties. This shared history is a reminder that bouyon is a Caribbean genre, with a clear center of gravity: Dominica."]),
 ],
+"date_modified": "2026-10-20",
+"faq": [
+("Where is bouyon popular?", "Born in Dominica, bouyon is now central in Guadeloupe and Martinique, where audiences also call it jump up. It is present in France, Saint Lucia, Antigua, Saint Martin and the Caribbean diaspora, from New York to London, Toronto and Montreal."),
+("Which country created bouyon?", "Dominica. The genre was born in Roseau in the late 1980s, when the band WCK, formed in 1988, fused cadence-lypso with jing ping and traditional drums such as the lapo kabwit. It remains the sound of Roseau carnival, Mas Domnik."),
+("Is bouyon popular in Antigua?", "Yes. Antigua is one of the islands where bouyon and its fusion with soca have taken root for good. Its carnival and sound systems relay the sounds of Dominica toward the Leeward Islands, and bouyon and soca have circulated there since the 1980s and 1990s, as in Saint Lucia."),
+("What role did Antigua play in bouyon soca?", "Like Saint Lucia, Antigua helped shape bouyon soca by testing it against the codes of soca and local parties. The style itself was launched in Dominica by Dada in 2003, according to Smokiller's testimony, before it developed on these islands. See the <a href=\"/en/bouyon-soca.html\">bouyon soca</a> page."),
+("What is bouyon soca?", "Bouyon soca is the most popular fusion born around bouyon: the fast rhythms and keyboards of Dominican bouyon meet the energy and codes of Trinidad soca. Built for the road, the bands and the sound systems, it travels from island to island during carnival season, all the way to Antigua."),
+],
 },
 {
 "slug": "bouyon-diaspora.html", "fr_slug": "bouyon-diaspora.html", "cat": "Bouyon by country", "nav": "Bouyon and diaspora",
@@ -104,6 +170,13 @@ PAGES = [
 "sections": [
 ("Diaspora parties", ["Caribbean nights in the big cities mix bouyon, soca, dancehall and zouk, but the bouyon moment keeps its particular charge: it is the sound of Roseau, of Grand Bay and of Mas Domnik. Social networks have replaced the cassettes of the past: a riddim born in Dominica goes around the world in a few hours."]),
 ("A strategic audience", ["The diaspora consumes, shares and finances modern bouyon. It is for them too that Bouyon Shattaz publishes in English as well as in French, and that this site exists in two languages."]),
+],
+"date_modified": "2026-10-20",
+"faq": [
+("Where is bouyon popular?", "Born in Dominica, bouyon is now central in Guadeloupe and Martinique and present in France, Saint Lucia, Saint Martin and the Caribbean diaspora. Everywhere Dominicans and Antilleans live, it travels with them, from New York and Brooklyn to London, Toronto and Montreal."),
+("Which country created bouyon?", 'Dominica. Bouyon was born there in the late 1980s: in 1988, the band <a href="/en/wck.html">WCK</a>, formed in Roseau, fused cadence-lypso and jing ping with electronic keyboards and drum machines. The genre is still the sound of Roseau carnival, Mas Domnik.'),
+("Which diaspora cities listen to bouyon?", "New York and Brooklyn, London, Toronto and Montreal, everywhere Dominicans and Antilleans live. Caribbean nights in these big cities mix bouyon, soca, dancehall and zouk, but the bouyon moment keeps its particular charge: it is the sound of Roseau, of Grand Bay and of Mas Domnik."),
+("Why does the diaspora matter for bouyon?", 'Because the diaspora consumes, shares and finances modern bouyon. Social networks have replaced the cassettes of the past: a riddim born in Dominica goes around the world in a few hours. It is also for this audience that <a href="/en/bouyon-shattaz.html">Bouyon Shattaz</a> publishes in English as well as in French, and that this site exists in two languages.'),
 ],
 },
 ]

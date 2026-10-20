@@ -10,7 +10,13 @@ PAGES = [
 ("The essential sounds", ["The kit starts with the percussion of Dominica: the lapo kabwit, the bele drum, the chakchak and the strikes of chante mas. Then come the modern elements: fast kick and snare, tight hats, electronic percussion and the keyboard sounds that carry the main loop."]),
 ("Sample the tradition, do not replace it", ["The best bouyon producers treat traditional sounds with respect: they are what give a track its Dominican identity. A generic drum kit makes a fast beat; a kit fed on jing ping and lapo kabwit makes bouyon. For context, see <a href=\"/en/bouyon-instruments.html\">the instruments of bouyon</a>."]),
 ],
-"faq": [("Where can I find a bouyon drum kit?", "Producers trade their kits within the community, and many build their own by sampling recordings of jing ping and carnival bands. Demand for the bouyon drum kit keyword is among the strongest on the French side.")],
+"faq": [
+("What is a bouyon drum kit?", "A bouyon drum kit is the collection of sounds a producer gathers to recreate the pressure of Dominica carnival in their software. It mixes sampled traditional percussion, such as the lapo kabwit or the bele drum, fast drums and electronic elements, including the keyboard sounds that carry the main loop."),
+("What sounds go into a bouyon drum kit?", 'Start with the percussion of Dominica: the lapo kabwit, the bele drum, the chakchak and the chante mas hits. Then add the modern elements: fast kick and snare, tight hats, electronic percussion and the keyboard sounds that carry the main loop. The details are on the <a href="/en/bouyon-instruments.html">bouyon instruments</a> page.'),
+("Where can I find a bouyon drum kit?", "Producers trade their kits within the community, and many build their own by sampling recordings of jing ping and carnival bands. That is often the best option: a generic drum kit makes a fast beat, while a kit fed with jing ping and lapo kabwit gives the track its Dominican identity."),
+("What tempo is a bouyon beat?", 'Fast: tempo is part of the identity of bouyon. Producer HYPNO, for example, claims 160 bpm on his track Mauvais Plan. But speed alone is not enough: without the percussion and the spirit of Dominica, a fast beat is just a fast beat. See the <a href="/en/bouyon-bpm.html">bouyon BPM</a> page.'),
+],
+"date_modified": "2026-10-20",
 },
 {
 "slug": "bouyon-type-beat.html", "fr_slug": "bouyon-type-beat.html", "cat": "Bouyon production", "nav": "Bouyon type beat",
@@ -22,6 +28,14 @@ PAGES = [
 ("The structure that works", ["The bouyon type beat starts fast: little intro, the main loop arrives early, the drums follow the carnival pattern with regular build-ups. The vocal has to be able to shout, sing and get the crowd to respond. The energy almost never comes back down: it is a party beat, not a lounge beat."]),
 ("Stay faithful to the origin", ["A good type beat cites its sources without copying them: a percussion that recalls the lapo kabwit, an accordion or keyboard melody in the jing ping way, and Creole in the background vocals. For the full method, see <a href=\"/en/how-to-make-a-bouyon-beat.html\">how to make a bouyon beat</a>."]),
 ],
+"date_modified": "2026-10-20",
+"faq": [
+("Who produces bouyon today?", "Producers like Smokiller (Bouyon Shattaz), Denmath, HYPNO! and Savion work the bouyon sound across riddims, remixes and original productions. This site's <a href=\"/en/bouyon-producers.html\">guide to bouyon producers</a> also covers MB On The Track and the new school of riddims."),
+("What is a bouyon riddim?", "A riddim is the shared instrumental that several artists record their vocals over. Inherited from Jamaican and Dominican riddim culture, riddims sit at the heart of bouyon and dancehall production. A bouyon type beat is built precisely to carry bouyon, shatta and dancehall vocals."),
+("What is a bouyon type beat?", "A bouyon type beat is an instrumental built on the codes of bouyon: fast tempo, a recognizable keyboard loop, percussion inspired by Dominica and a bass that pushes. Beatmakers look for it to place bouyon, shatta and dancehall vocals on a party beat."),
+("How do you structure a bouyon type beat?", "A bouyon type beat starts fast: little intro, the main loop arrives early and the drums follow the carnival pattern with regular build-ups. The vocal has to be able to shout, sing and get the crowd to respond, and the energy almost never comes back down: it is a party beat, not a lounge beat."),
+("How do you keep a type beat faithful to Dominica's sound?", "By citing bouyon's sources without copying them: a percussion that recalls the lapo kabwit, an accordion or keyboard melody in the jing ping way, and Creole in the background vocals. For the full method, see <a href=\"/en/how-to-make-a-bouyon-beat.html\">how to make a bouyon beat</a>."),
+],
 },
 {
 "slug": "bouyon-riddim.html", "fr_slug": "bouyon-riddim.html", "cat": "Bouyon production", "nav": "Bouyon riddim",
@@ -32,6 +46,14 @@ PAGES = [
 "sections": [
 ("Riddim culture", ["A producer releases a riddim, the artists seize it, the audience picks its favorite versions. Bouyon riddims often carry a name, like Denmath’s Tropical Riddim and Harley Riddim, and become trademarks. It is a creative system that came from Jamaica and that Dominica made its own."]),
 ("Why riddims make the hits", ["Because a good riddim concentrates the identity of the moment: a tempo, a loop, a dance energy. The riddim snippets that producers dance to on social media have become the first launch step of a bouyon track."]),
+],
+"date_modified": "2026-10-20",
+"faq": [
+("Who produces bouyon today?", "Producers like Smokiller (Bouyon Shattaz), Denmath, HYPNO!, Savion and MB On The Track work the bouyon sound across riddims, remixes and original productions. Denmath, from Saint Martin and based between Nantes and Paris, releases his own riddims, while Smokiller, a producer born in Dominica, is known for his bouyon remixes."),
+("What is a bouyon riddim?", "A riddim is the instrumental several artists record over. In bouyon, it brings together the loop, the bass and the percussion. A producer releases it, the artists seize it and the audience picks its favorite versions. Riddims sit at the heart of bouyon and dancehall production."),
+("What are some examples of bouyon riddims?", 'Tropical Riddim, released in summer 2022, and Harley Riddim, released the same year, are two bouyon riddims by producer <a href="/en/denmath.html">Denmath</a>. As in dancehall, bouyon riddims often carry a name and become trademarks, taken up by several singers who each lay down their own version.'),
+("What is the difference between a riddim and a bouyon instrumental?", 'The riddim is the rhythmic base several artists lay their voices over. A <a href="/en/bouyon-instrumental.html">bouyon instrumental</a> is that riddim without the voice: the loop, the bass and the percussion in pure form. Released that way, it becomes a tool that DJs mix, dancers use and producers show off.'),
+("How does a bouyon riddim become a hit?", "A good riddim concentrates the identity of the moment: a tempo, a loop, a dance energy. The riddim snippets that producers dance to on social media have become the first launch step of a bouyon track, and each new riddim calls for its own dance, from Roseau carnival to videos shot in Gwada and Paris."),
 ],
 },
 {
@@ -45,6 +67,14 @@ PAGES = [
 ("Step 2: the keyboard loop and the bass", ["The keyboard carries the melodic signature: a short, repetitive, almost hypnotic motif, inherited from the WCK method. The synth bass follows, heavy and simple. Add background vocals, shouts and responses, to recreate the crowd."]),
 ("Step 3: test it dancing", ["The final test of bouyon is physical: dance to it, or watch someone dance. If the body does not follow, the beat is not finished. That is why so many producers launch their riddims in dance videos before the official release."]),
 ],
+"date_modified": "2026-10-20",
+"faq": [
+("Who produces bouyon today?", "Producers like Smokiller (Bouyon Shattaz), Denmath, HYPNO! and Savion work the bouyon sound across riddims, remixes and original productions."),
+("What is a bouyon riddim?", "A riddim is the instrumental several artists record over. Riddims sit at the heart of bouyon and dancehall production. A bouyon riddim is built starting from the rhythm, then the keyboard loop and the synth bass, and many producers launch it in a dance video before the official release."),
+("Where do you start a bouyon beat?", "Start with the rhythm: a grid of percussion inspired by lapo kabwit and jing ping, fast and steady drums, and build-ups that imitate the calls of carnival. Work that loop until it makes you want to move with no vocal on it at all, before adding the keyboard and the bass."),
+("What keyboard and bass go in a bouyon beat?", "The keyboard carries bouyon's melodic signature: a short, repetitive, almost hypnotic motif, inherited from the <a href=\"/en/wck.html\">WCK</a> method. The synth bass follows, heavy and simple. Then add background vocals, shouts and responses to recreate the carnival crowd."),
+("Is a bouyon beat just a sped-up dancehall beat?", "No. Making a bouyon beat is not just speeding up a dancehall beat: it is rebuilding, with today's tools, the mechanics of a Dominican carnival band. The final test is physical: dance to it, or watch someone dance. If the body does not follow, the beat is not finished."),
+],
 },
 {
 "slug": "bouyon-producers.html", "fr_slug": "producteurs-bouyon.html", "cat": "Bouyon production", "nav": "Bouyon producers",
@@ -55,6 +85,14 @@ PAGES = [
 "sections": [
 ("The names Bouyon Shattaz follows", ["HYPNO and his Mauvais Plan at 160 bpm. Savion and his snippets of upcoming tracks. Denmath, from Saint-Martin, and his Tropical and Harley riddims. MB On The Track, who dances on his own productions and sells custom work. Smokiller, the home of bouyon remixes. Each one has their page on this site, in the artists section."]),
 ("Why the producer became the star", ["The format changed: a riddim launches in a fifteen-second video, the producer dances on it, the audience demands the long version. The producer is no longer hidden behind the artist: they have become a face of the genre, with their own audience."]),
+],
+"date_modified": "2026-10-20",
+"faq": [
+("Who produces bouyon today?", "Producers like Smokiller (Bouyon Shattaz), Denmath, HYPNO! and Savion work the bouyon sound across riddims, remixes and original productions."),
+("What is a bouyon riddim?", 'A riddim is the shared instrumental that several artists record over, a culture inherited from the Jamaican and Dominican riddim tradition. Riddims sit at the heart of bouyon and dancehall production: today a riddim often launches in a fifteen-second video, before the audience demands the long version. See the <a href="/en/bouyon-riddim.html">bouyon riddim</a> page.'),
+("Why did producers become bouyon stars?", "Because the format changed: a riddim launches in a fifteen-second video, the producer dances on it and the audience demands the long version. The producer is no longer hidden behind the artist: they have become a face of the genre with their own audience, like MB On The Track, who dances on his own productions."),
+("Who is Smokiller?", "Smokiller is a Dominica-born artist and producer and the founder of Bouyon Shattaz. The home of bouyon remixes, he has flipped Coi Leray's Nothing Into Something and Ayra Starr's Heaven Baby, and produced Throw Dat (Bouyon 2026) by Klass Money. See his <a href=\"/en/smokiller.html\">Smokiller</a> page."),
+("Where is producer Denmath from?", "Denmath, whose legal name is Mathurin DENMATH Denis, is a producer, sound engineer and artistic director from Saint-Martin, of Haitian heritage, based between Nantes and Paris. Bouyon Shattaz follows his Tropical and Harley riddims and the track Tarif by Koko Bwa, on which he collaborates."),
 ],
 },
 {
@@ -67,6 +105,14 @@ PAGES = [
 ("The method", ["The remixer keeps the voice and the emotion of the original, but rebuilds the whole ground underneath: the rhythmic grid comes from jing ping and lapo kabwit, the bass becomes synthetic and fast, the build-ups imitate a carnival band. The audience arrives for the song, it discovers a genre."]),
 ("Smokiller, the in-house reference", ["It is the specialty of <a href=\"/en/smokiller.html\">Smokiller</a>, the Bouyon Shattaz remix project: its bouyon versions of Afro and pop tracks draw a new audience toward bouyon, then toward the original artists of Dominica. A deliberate gateway strategy to grow the genre."]),
 ],
+"date_modified": "2026-10-20",
+"faq": [
+("What is a bouyon remix?", "A bouyon remix takes a track everyone knows, an Afro, pop, rap or R&amp;B hit, and replays it with the codes of bouyon: raised tempo, keyboard loop, Dominican percussion and carnival energy. The remixer keeps the voice and emotion of the original, but rebuilds the whole rhythmic ground from jing ping and lapo kabwit."),
+("Which bouyon remixes has Smokiller made?", '<a href="/en/smokiller.html">Smokiller</a> has flipped Coi Leray’s Nothing Into Something and Players, Shenseea’s Vulnerability and Ayra Starr’s Heaven Baby into bouyon. His Nothing Into Something flip, published September 20, 2026, reached 854.7K views on TikTok per his own screenshots of October 19, 2026, and Coi Leray reshared it.'),
+("Why make bouyon remixes?", "Because the remix is a gateway: the audience arrives for a song it already knows and discovers a genre. Smokiller’s bouyon versions of Afro and pop tracks draw a new audience toward bouyon, then toward the original artists of Dominica. It is a deliberate strategy to grow the genre."),
+("Who produces bouyon today?", "Producers like Smokiller (Bouyon Shattaz), Denmath, HYPNO! and Savion work the bouyon sound across riddims, remixes and original productions. Denmath, for example, is behind Tropical Riddim and Harley Riddim, and HYPNO’s reference track is Mauvais Plan, built at 160 BPM and shared as a producer reel."),
+("What is a bouyon riddim?", "A riddim is the instrumental several artists record over. Riddims sit at the heart of bouyon and dancehall production. They often carry a name, like Denmath’s Tropical Riddim and Harley Riddim, and the clips producers dance to on social media have become the first step in launching a bouyon track."),
+],
 },
 {
 "slug": "bouyon-bpm.html", "fr_slug": "bpm-du-bouyon.html", "cat": "Bouyon production", "nav": "Bouyon BPM",
@@ -77,6 +123,13 @@ PAGES = [
 "sections": [
 ("Why so fast", ["The tempo of bouyon comes from its roots: traditional Dominican dances, carnival and competition between bands push toward maximum energy. The keyboard loops and fast percussion create a continuous tension that leaves the body no choice."]),
 ("Tempo as an argument", ["In today’s producer scene, announcing your BPM has become an argument: it is a promise of dance and a challenge to other producers. But speed alone does not make a bouyon: without the percussion and the spirit of Dominica, it is just a fast beat."]),
+],
+"date_modified": "2026-10-20",
+"faq": [
+("What is the BPM of bouyon?", 'Bouyon is a fast genre, and its tempo is part of its identity. There is no single number, but the examples documented on this site sit around 160 BPM: producer <a href="/en/hypno.html">HYPNO</a> built Mauvais Plan at 160 BPM, and TiiTii NBA’s New Bouyon Age EP is measured around 160 BPM.'),
+("Why is bouyon so fast?", "Its tempo comes from its roots: traditional Dominican dances, carnival and competition between bands push toward maximum energy. Keyboard loops and fast percussion create a continuous tension. But speed alone does not make a bouyon: without the percussion and the spirit of Dominica, it is just a fast beat."),
+("Who produces bouyon today?", "Producers like Smokiller (Bouyon Shattaz), Denmath, HYPNO! and Savion work the bouyon sound across riddims, remixes and original productions. Denmath, for example, is behind Tropical Riddim and Harley Riddim, and HYPNO’s reference track is Mauvais Plan, built at 160 BPM and shared as a producer reel."),
+("What is a bouyon riddim?", "A riddim is the instrumental several artists record over. Riddims sit at the heart of bouyon and dancehall production. They often carry a name, like Denmath’s Tropical Riddim and Harley Riddim, and the clips producers dance to on social media have become the first step in launching a bouyon track."),
 ],
 },
 {
@@ -89,38 +142,69 @@ PAGES = [
 ("The tool of DJs and dancers", ["A successful bouyon instrumental holds an entire floor without a singer. It is the format of producers’ dance videos, of battles and of DJ transitions between Gwada, Martinique and Paris. If the instrumental does not make you move, no voice will save the track."]),
 ("The producers’ showcase", ["Releasing the instrumental is signing your work. Producers like MB On The Track build their reputation on instrumentals that artists then buy custom-made. See the <a href=\"/en/bouyon-producers.html\">bouyon producers</a> page."]),
 ],
+"date_modified": "2026-10-20",
+"faq": [
+("Who produces bouyon today?", "Producers like Smokiller (Bouyon Shattaz), Denmath, HYPNO! and Savion work the bouyon sound across riddims, remixes and original productions. Others, like MB On The Track, build their reputation on instrumentals that artists then buy custom-made."),
+("What is a bouyon riddim?", "A riddim is the instrumental several artists record over. Riddims sit at the heart of bouyon and dancehall production. In bouyon, the riddim brings together the loop, the bass and the percussion: released without a voice, it becomes an instrumental that DJs mix, dancers use and producers show off."),
+("What is a bouyon instrumental?", "A bouyon instrumental is the riddim without the voice: the loop, the bass and the percussion in their pure form. DJs use it to mix, dancers to create and producers to show their work. A good bouyon instrumental holds an entire floor without a singer."),
+("What is a bouyon instrumental used for?", "A bouyon instrumental is first used to make people dance without a singer. It is the format of producers' dance videos, of battles and of DJ transitions between Guadeloupe, Martinique and Paris. It is also a test: if the instrumental does not make you move, no voice will save the track."),
+("Why do bouyon producers release their instrumentals?", 'Releasing the instrumental is signing your work. Bouyon producers use it as a showcase: <a href="/en/mb-on-the-track.html">MB On The Track</a>, for example, builds his reputation on instrumentals that artists then buy custom-made. The instrumental shows directly what the producer can do, without depending on a singer.'),
+],
 },
 {
 "slug": "bouyon-mix.html", "fr_slug": "bouyon-mix.html", "cat": "Listen to bouyon", "nav": "Bouyon mix",
 "title": "Bouyon Mix: the best bouyon mixes to listen to",
-"desc": "Bouyon mix: the mixes that chain bouyon, bouyon soca and new releases from the French Caribbean. Where to listen to a good bouyon mix in 2026 and the Bouyon Shattaz selection.",
+"desc": "Bouyon mix: the mixes chaining bouyon, bouyon soca and French Caribbean new releases. Where to hear a good bouyon mix in 2026 and the Bouyon Shattaz pick.",
 "h1": "Bouyon mix: an hour of bouyon without lifting your foot",
 "intro": "The natural format of bouyon is the mix: the tracks chain at the same tempo, the party never stops. A good bouyon mix blends new releases from Dominica, bouyon soca and carnival classics.",
 "sections": [
 ("What makes a good bouyon mix", ["An order designed like a night out: the tracks that build, the classics that make people sing, the riddims of the moment, and no drop in energy. The DJs of Gwada and Paris have made a specialty of these chains, inherited from carnival sound systems."]),
 ("Where to start", ["The <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix</a> by Bouyon Shattaz is the simplest starting point: a playlist kept up to date on Spotify and YouTube, designed as a permanent mix of the bouyon of 2026."]),
 ],
+"date_modified": "2026-10-20",
+"faq": [
+("Where can I listen to bouyon online?", "The simplest place is the Bouyon Road Mix by Bouyon Shattaz, a playlist kept up to date on Spotify and YouTube and designed as a permanent mix of the bouyon of 2026. It collects new bouyon releases and carnival classics, and you can reach it from this site's <a href=\"/en/playlist-bouyon.html\">bouyon playlist page</a>."),
+("How do I get the bouyon playlist?", "Follow @bouyonshattaz on Instagram and comment ROAD MIX on a post: the playlist is sent to your DMs. It is the Bouyon Road Mix, which collects new bouyon releases and carnival classics, and it is also available directly on Spotify and YouTube."),
+("What is a bouyon mix?", "A bouyon mix is a continuous chain of bouyon tracks at the same tempo, so the party never stops: the mix is the natural format of the genre. A good bouyon mix blends new releases from Dominica, bouyon soca and carnival classics, in an order designed like a night out."),
+("What makes a good bouyon mix?", "A good bouyon mix follows an order designed like a night out: the tracks that build, the classics that make people sing, the riddims of the moment, and no drop in energy. The DJs of Gwada and Paris have made a specialty of these chains, inherited from carnival sound systems."),
+],
 },
 {
 "slug": "bouyon-songs.html", "fr_slug": "chansons-bouyon.html", "cat": "Listen to bouyon", "nav": "Bouyon songs",
 "title": "Bouyon Songs: the tracks you absolutely need to know",
-"desc": "Bouyon songs: the tracks that matter, from the classics of the Dominican bands to the new releases of Reo, Asa Bantan and G’z Up. The selection to discover bouyon.",
+"desc": "Bouyon songs: the tracks that matter, from the classics of Dominica’s bands to new releases by Reo, Asa Bantan and G’z Up. A selection to discover bouyon.",
 "h1": "Bouyon songs: the selection to discover the genre",
 "intro": "Which songs should you listen to in order to understand bouyon? From the classics of Dominica’s bands to the recent tracks followed by Bouyon Shattaz, here is the method and the names to remember.",
 "sections": [
 ("The classics first", ["Start with the founding bands, WCK, Roots Stems and Branches and First Serenade: that is where the genre took its form. Continue with the carnival tracks of the 1990s and 2000s, when bouyon reigned unchallenged over Dominica."]),
 ("The tracks of the new era", ["On the recent side: Life Nice by Asa Bantan, the Bouyon Boss. Joli BB by Reo with Maurane Voyer, the Dominica and Martinique bridge. FIX UP by G’z Up, carried by its Ya ya ya hook. Throw Dat (Bouyon 2026) by Klass Money, produced by Smokiller. And Mauvais Plan by HYPNO on the producer side. The <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> gathers them all in one place."]),
 ],
+"date_modified": "2026-10-20",
+"faq": [
+("Where can I listen to bouyon online?", "On the Bouyon Road Mix by Bouyon Shattaz, on Spotify and YouTube via this site's playlist page."),
+("How do I get the bouyon playlist?", "Follow @bouyonshattaz on Instagram and comment ROAD MIX on a post: the playlist is sent to your DMs."),
+("What are the classic bouyon songs?", "Bouyon's classics come from Dominica's founding bands: <a href=\"/en/wck.html\">WCK</a>, Roots Stems and Branches and First Serenade, which is where the genre took its form. Next come the carnival tracks of the 1990s and 2000s, the era when bouyon reigned unchallenged over Dominica."),
+("Which recent bouyon songs should I listen to?", "Among the recent tracks Bouyon Shattaz follows: Life Nice by Asa Bantan, the Bouyon Boss, Joli BB by Reo with Maurane Voyer, a bridge between Dominica and Martinique, FIX UP by G'z Up and its Ya ya ya hook, Throw Dat (Bouyon 2026) by Klass Money, produced by Smokiller, and Mauvais Plan by HYPNO."),
+("Which songs should I start with to discover bouyon?", "Start with the classics of Dominica's founding bands, like WCK, to hear the genre's original form, then move on to the tracks of the new era, from Life Nice by Asa Bantan to Joli BB by Reo. The Bouyon Road Mix playlist by Bouyon Shattaz gathers carnival classics and new releases on Spotify and YouTube."),
+],
 },
 {
 "slug": "new-bouyon-2026.html", "fr_slug": "nouveautes-bouyon-2026.html", "cat": "Listen to bouyon", "nav": "New bouyon 2026",
 "title": "New Bouyon 2026: the bouyon releases of the year",
-"desc": "New bouyon 2026: the bouyon releases of the year followed by Bouyon Shattaz, from Reo’s Joli BB to the Smokiller remixes, including the producers HYPNO, Savion and Denmath.",
+"desc": "New bouyon 2026: the year's releases followed by Bouyon Shattaz, from Reo's Joli BB to the Smokiller remixes, with producers HYPNO, Savion and Denmath.",
 "h1": "New bouyon 2026: the year in progress",
 "intro": "2026 is a full year for bouyon: new collaborations between Dominica and the French Caribbean, the Producer Session series at Bouyon Shattaz, and a World Creole Music Festival in Roseau in October that draws every eye.",
 "sections": [
 ("The standout releases followed by Bouyon Shattaz", ["Joli BB, the collaboration of Reo and Martinican singer Maurane Voyer, released in October 2026 on the Mauve label. FIX UP by G’z Up. The track Tarif by Koko Bwa with Denmath, whose management approached Bouyon Shattaz for a feature. And the bouyon remixes of Smokiller, including Heaven Baby, available for download on Smokiller.com."]),
 ("What is coming", ["The countdown to WCMF 2026, from October 23 to 25 in Roseau, structures the end of the year: Dominican artists play their international visibility there. This page and the <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> are updated as the releases come out."]),
+],
+"date_modified": "2026-10-20",
+"faq": [
+("Where can I listen to bouyon online?", "On the Bouyon Road Mix by Bouyon Shattaz, a playlist on Spotify and YouTube that collects new bouyon releases and carnival classics. You can reach it from this site's <a href=\"/en/playlist-bouyon.html\">bouyon playlist page</a>, which is updated, like this page, as the 2026 releases come out."),
+("How do I get the bouyon playlist?", "Follow @bouyonshattaz on Instagram and comment ROAD MIX on a post: the playlist is sent to your DMs. It is the Bouyon Road Mix, which gathers the year's new bouyon releases and carnival classics, and it is also available directly on Spotify and YouTube."),
+("What are the new bouyon releases of 2026?", "Among the releases followed by Bouyon Shattaz in 2026: Joli BB, the collaboration of Reo and Martinican singer Maurane Voyer, released in October on the Mauve label; FIX UP by G'z Up; Tarif by Koko Bwa with Denmath; and the bouyon remixes of Smokiller, including Heaven Baby, available for download on Smokiller.com."),
+("Who sings Joli BB?", 'Joli BB is a collaboration between Dominican artist Reo and Martinican singer Maurane Voyer, released in October 2026 on the Mauve label. The track illustrates the new collaborations between Dominica and the French Caribbean that mark the 2026 bouyon year. See also the <a href="/en/reo.html">Reo</a> page.'),
+("When is WCMF 2026?", "The World Creole Music Festival 2026 takes place from October 23 to 25 in Roseau, Dominica. Its countdown structures the end of the bouyon year: Dominican artists play their international visibility there. This page and the bouyon playlist are updated as the year's releases come out."),
 ],
 },
 {
@@ -133,6 +217,14 @@ PAGES = [
 ("Shatta and bouyon, same family", ["Shatta bouyon is the meeting between the modern riddim aesthetic and the historic Dominican genre. A good shatta playlist therefore naturally includes the modern bouyon tracks of French Caribbean and French producers. Full explanations on the <a href=\"/en/bouyon-vs-shatta.html\">bouyon vs shatta</a> page."]),
 ("Listen now", ["The <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix</a> on Spotify and YouTube blends bouyon, bouyon soca and shatta bouyon in a selection kept by Bouyon Shattaz. It is the simplest shortcut between the two worlds."]),
 ],
+"date_modified": "2026-10-20",
+"faq": [
+("Where can I listen to bouyon online?", "On the Bouyon Road Mix by Bouyon Shattaz, on Spotify and YouTube via this site's playlist page. It collects new bouyon releases and carnival classics, and blends bouyon, bouyon soca and shatta bouyon in a selection kept by Bouyon Shattaz."),
+("How do I get the bouyon playlist?", "Follow @bouyonshattaz on Instagram and comment ROAD MIX on a post: the playlist is sent to your DMs."),
+("Which playlist should I play for shatta bouyon?", "The Bouyon Road Mix by Bouyon Shattaz, on Spotify and YouTube, blends bouyon, bouyon soca and shatta bouyon in one selection. It is the simplest shortcut between shatta and bouyon: it brings together new bouyon releases, shatta bouyon tracks and carnival classics."),
+("What is shatta bouyon?", "<a href=\"/en/shatta-bouyon.html\">Shatta bouyon</a> is the meeting between the modern riddim aesthetic of shatta and bouyon, the historic genre born in Dominica. The term is used when today's French Caribbean and French producers work the bouyon material on riddims made for dance and social media."),
+("Why does a shatta playlist include bouyon?", "Because shatta and bouyon are the same family. Shatta is the family of modern Antillean sounds fed, among other things, by bouyon. People looking for a shatta playlist are often looking, without knowing it, for the bouyon half of that sound: a good shatta playlist therefore includes modern bouyon tracks."),
+],
 },
 {
 "slug": "bouyon-music-2026.html", "fr_slug": "bouyon-music-2026.html", "cat": "Listen to bouyon", "nav": "Bouyon Music 2026",
@@ -144,6 +236,14 @@ PAGES = [
 ("The state of bouyon in 2026", ["A networked scene: Dominican artists collaborate with the French Caribbean, producers launch their riddims on video, specialized media like Bouyon Shattaz and its French-speaking partners relay every release, and the Roseau WCMF serves as the annual summit."]),
 ("The reading path", ["Newcomer: start with <a href=\"/en/what-is-bouyon.html\">the definition of bouyon</a>, then <a href=\"/en/history.html\">its history</a>. Confirmed fan: the <a href=\"/en/new-bouyon-2026.html\">new bouyon of 2026</a> and the <a href=\"/en/playlist-bouyon.html\">playlist</a>. Producer: the <a href=\"/en/bouyon-drum-kit.html\">drum kit</a> and the <a href=\"/en/bouyon-type-beat.html\">type beats</a>."]),
 ],
+"date_modified": "2026-10-20",
+"faq": [
+("Where can I listen to bouyon online?", "On the Bouyon Road Mix by Bouyon Shattaz, on Spotify and YouTube via this site's playlist page."),
+("How do I get the bouyon playlist?", "Follow @bouyonshattaz on Instagram and comment ROAD MIX on a post: the playlist is sent to your DMs."),
+("What are the new bouyon releases of 2026?", "Among the releases Bouyon Shattaz followed in 2026: Joli BB by Reo with Martinican singer Maurane Voyer, released in October on the Mauve label, FIX UP by G'z Up, the track Tarif by Koko Bwa with Denmath, and Smokiller's bouyon remixes, including Heaven Baby. The full list is on the <a href=\"/en/new-bouyon-2026.html\">new bouyon 2026</a> page."),
+("When is the World Creole Music Festival 2026?", "WCMF 2026 runs from Friday October 23 to Sunday October 25, 2026 at Windsor Park in Roseau, Dominica. Its three nights bring together bouyon, cadence, zouk and kompa: it is the annual summit of the bouyon scene and its biggest international showcase at home."),
+("Did bouyon go global in 2026?", "The crossover is documented: Smokiller's bouyon flip of Coi Leray's Nothing Into Something had 854,700 TikTok views as of October 19, 2026, and Pow Pow / Allo Doudou by Niska, Litleboy LSBeats767 and Miimii KDS was certified Single Or (gold) by SNEP in France. Details on the <a href=\"/en/bouyon-goes-global.html\">bouyon goes global</a> page."),
+],
 },
 {
 "slug": "best-bouyon.html", "fr_slug": "meilleur-bouyon.html", "cat": "Listen to bouyon", "nav": "The best of bouyon",
@@ -154,6 +254,14 @@ PAGES = [
 "sections": [
 ("The essentials", ["The artists: WCK the creators, Asa Bantan the Bouyon Boss, Reo the Prince of the new generation. The styles: classic bouyon, bouyon soca, bouyon gwada and shatta bouyon. The places: Roseau for the origin, Pointe-à-Pitre and Fort-de-France for the spread, Paris for the market."]),
 ("Listen to it all at once", ["The <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix</a> gathers this best of bouyon in one Spotify and YouTube playlist kept up to date. Comment ROAD MIX on <a href=\"https://www.instagram.com/bouyonshattaz/\">@bouyonshattaz</a> to receive it by DM."]),
+],
+"date_modified": "2026-10-20",
+"faq": [
+("Where can I listen to bouyon online?", "On the Bouyon Road Mix by Bouyon Shattaz, on Spotify and YouTube via this site's playlist page. Kept up to date, it gathers new bouyon releases and carnival classics in a single playlist, so you can hear the best of the genre in one go."),
+("How do I get the bouyon playlist?", "Follow @bouyonshattaz on Instagram and comment ROAD MIX on a post: the Bouyon Road Mix playlist is sent to your DMs. You can also open it directly on Spotify or YouTube from this site's playlist page."),
+("Who are the best bouyon artists?", 'For Bouyon Shattaz, three names make up the essentials: WCK, the Roseau band that created bouyon in 1988, Asa Bantan from Grand Bay, identified as the Bouyon Boss by Dominica Festivals and widely nicknamed the King of Bouyon, and Reo, presented as the Prince of Bouyon of the new Dominican generation. See all <a href="/en/artists.html">bouyon artists</a>.'),
+("Which bouyon styles should I know?", "Four styles are enough to start: classic bouyon, born from WCK's fusion of cadence-lypso and jing ping, bouyon soca, the fusion with Trinidad soca, bouyon gwada, the hardcore branch born between Dominica and Guadeloupe, and shatta bouyon, its modern form with short, hard riddims built for clubs and social media."),
+("What are the key places of bouyon?", "Roseau, the capital of Dominica, for the origin: that is where WCK created bouyon in 1988 and where the Mas Domnik carnival takes place. Pointe-à-Pitre and Fort-de-France for the spread, in Guadeloupe and Martinique, where audiences call it jump up. And Paris for the market, where certifications, stages and distribution happen."),
 ],
 },
 ]

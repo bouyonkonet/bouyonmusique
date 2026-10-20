@@ -955,12 +955,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://bouyonmusique.com/en/women-of-bouyon.html</loc>
-    <lastmod>2026-10-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://bouyonmusique.com/en/bouyon-shattaz.html</loc>
     <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -1172,6 +1166,12 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/gwada-chapter-from-dominica.html</loc>
+    <lastmod>2026-10-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bouyonmusique.com/en/women-of-bouyon.html</loc>
     <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
