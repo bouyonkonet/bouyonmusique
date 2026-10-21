@@ -78,7 +78,64 @@ FR = {
   ("Quel est le vrai nom de DJ Leguste ?", "Les credits publies par Shazam donnent le nom Ryan Auguste comme auteur sur la plupart de ses titres et comme producteur sur Pa di mwen JTM STP. Ce profil imprime ce nom uniquement comme nom de credits publie : aucune biographie officielle confirmee n'a ete trouvee pendant la recherche."),
   ("Ou ecouter DJ Leguste ?", "Commencez par I Don't Know, puis LE GARS CHAUD, EN LEY, PIANOO PIANOO (ring ring ring) et Pa di mwen JTM STP sur les plateformes de streaming, et prolongez avec notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, qui melange bouyon, bouyon soca et nouveautes des Antilles francaises et de la Dominique.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/dj-leguste.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/dj-leguste.html#artist", "name": "DJ Leguste", "description": "Producteur et DJ bouyon des Antilles francaises, rattache a la Guadeloupe. Nom de credits publie : Ryan Auguste. Titre de reference : I Don't Know avec Cocotteland, sorti le 11 avril 2024 a 160 BPM sur son label DJ LEGUSTE.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "I Don't Know"}, {"@type": "MusicRecording", "name": "LE GARS CHAUD"}, {"@type": "MusicRecording", "name": "EN LEY"}, {"@type": "MusicRecording", "name": "IT'S NOT ME"}, {"@type": "MusicRecording", "name": "CUNNI KOKE JOUI"}, {"@type": "MusicRecording", "name": "PIANOO PIANOO (ring ring ring)"}, {"@type": "MusicRecording", "name": "Cocaina"}, {"@type": "MusicRecording", "name": "Feel di riddim"}, {"@type": "MusicRecording", "name": "Pa di mwen JTM STP"}, {"@type": "MusicRecording", "name": "YE SWA"}, {"@type": "MusicRecording", "name": "SOUKWE SA BABY"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/dj-leguste.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/dj-leguste.html#artist", "name": "DJ Leguste", "description": "Producteur et DJ bouyon des Antilles francaises, rattache a la Guadeloupe. Nom de credits publie : Ryan Auguste. Titre de reference : I Don't Know avec Cocotteland, sorti le 11 avril 2024 a 160 BPM sur son label DJ LEGUSTE.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "I Don't Know"}, {"@type": "MusicRecording", "name": "LE GARS CHAUD"}, {"@type": "MusicRecording", "name": "EN LEY"}, {"@type": "MusicRecording", "name": "IT'S NOT ME"}, {"@type": "MusicRecording", "name": "CUNNI KOKE JOUI"}, {"@type": "MusicRecording", "name": "PIANOO PIANOO (ring ring ring)"}, {"@type": "MusicRecording", "name": "Cocaina"}, {"@type": "MusicRecording", "name": "Feel di riddim"}, {"@type": "MusicRecording", "name": "Pa di mwen JTM STP"}, {"@type": "MusicRecording", "name": "YE SWA"}, {"@type": "MusicRecording", "name": "SOUKWE SA BABY"},
+      {
+       "@type": "MusicRecording",
+       "name": "An sé an chien (feat. Toupit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TILILI (feat. Latop & Money Shaun)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "FE GUEL A YO (studio freestyle #3) (feat. Dodo & Yayoune)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kokot An Ka Krazé (studio freestyle #2) (feat. TopherBBG)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BOUMBOULOUM (performance live studio) (feat. Le Bluff & Tisma) [Live]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "En Pa Boug (feat. Le Daah & TGX)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SIWO (feat. Cocotteland)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LANMOO (feat. BOSS TP ( DJP FAMILY)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "NI ANLÈY NI A KOTÉ (feat. Cocotteland)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "RIVIÈ BIS (feat. Younik, Nils & TiChouboy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "True Story (feat. BRTA, DJ MATIX & DJ LEGUSTE)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dérapé la (feat. DJ LEGUSTE)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Face à Face (feat. DJ LEGUSTE)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kiki (feat. Le Daah & DJ Leguste)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -155,6 +212,63 @@ EN = {
   ("What is DJ Leguste real name?", "The credits published by Shazam give the name Ryan Auguste as songwriter on most of his records and as producer on Pa di mwen JTM STP. This profile prints that name only as the published credits name: no confirmed official biography was found during the research."),
   ("Where can I hear DJ Leguste?", "Start with I Don't Know, then LE GARS CHAUD, EN LEY, PIANOO PIANOO (ring ring ring) and Pa di mwen JTM STP on the streaming platforms, and continue with our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, which mixes bouyon, bouyon soca and new releases from the French Antilles and Dominica.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/dj-leguste.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/dj-leguste.html#artist", "name": "DJ Leguste", "description": "Bouyon producer and DJ from the French Antilles scene, linked to Guadeloupe. Published credits name: Ryan Auguste. Reference record: I Don't Know with Cocotteland, released 11 April 2024 at 160 BPM on his DJ LEGUSTE label.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "I Don't Know"}, {"@type": "MusicRecording", "name": "LE GARS CHAUD"}, {"@type": "MusicRecording", "name": "EN LEY"}, {"@type": "MusicRecording", "name": "IT'S NOT ME"}, {"@type": "MusicRecording", "name": "CUNNI KOKE JOUI"}, {"@type": "MusicRecording", "name": "PIANOO PIANOO (ring ring ring)"}, {"@type": "MusicRecording", "name": "Cocaina"}, {"@type": "MusicRecording", "name": "Feel di riddim"}, {"@type": "MusicRecording", "name": "Pa di mwen JTM STP"}, {"@type": "MusicRecording", "name": "YE SWA"}, {"@type": "MusicRecording", "name": "SOUKWE SA BABY"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/dj-leguste.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/dj-leguste.html#artist", "name": "DJ Leguste", "description": "Bouyon producer and DJ from the French Antilles scene, linked to Guadeloupe. Published credits name: Ryan Auguste. Reference record: I Don't Know with Cocotteland, released 11 April 2024 at 160 BPM on his DJ LEGUSTE label.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "I Don't Know"}, {"@type": "MusicRecording", "name": "LE GARS CHAUD"}, {"@type": "MusicRecording", "name": "EN LEY"}, {"@type": "MusicRecording", "name": "IT'S NOT ME"}, {"@type": "MusicRecording", "name": "CUNNI KOKE JOUI"}, {"@type": "MusicRecording", "name": "PIANOO PIANOO (ring ring ring)"}, {"@type": "MusicRecording", "name": "Cocaina"}, {"@type": "MusicRecording", "name": "Feel di riddim"}, {"@type": "MusicRecording", "name": "Pa di mwen JTM STP"}, {"@type": "MusicRecording", "name": "YE SWA"}, {"@type": "MusicRecording", "name": "SOUKWE SA BABY"},
+      {
+       "@type": "MusicRecording",
+       "name": "An sé an chien (feat. Toupit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TILILI (feat. Latop & Money Shaun)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "FE GUEL A YO (studio freestyle #3) (feat. Dodo & Yayoune)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kokot An Ka Krazé (studio freestyle #2) (feat. TopherBBG)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BOUMBOULOUM (performance live studio) (feat. Le Bluff & Tisma) [Live]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "En Pa Boug (feat. Le Daah & TGX)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SIWO (feat. Cocotteland)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LANMOO (feat. BOSS TP ( DJP FAMILY)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "NI ANLÈY NI A KOTÉ (feat. Cocotteland)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "RIVIÈ BIS (feat. Younik, Nils & TiChouboy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "True Story (feat. BRTA, DJ MATIX & DJ LEGUSTE)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dérapé la (feat. DJ LEGUSTE)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Face à Face (feat. DJ LEGUSTE)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kiki (feat. Le Daah & DJ Leguste)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
