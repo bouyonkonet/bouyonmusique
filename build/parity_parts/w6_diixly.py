@@ -57,7 +57,32 @@ FR = {
   ("Où écouter « GENKIDAMA » et suivre le bouyon de cette vague ?", "La description du clip officiel annonce « GENKIDAMA » comme disponible sur toutes les plateformes et renvoie à un lien DistroKid rattaché à Diixly ; ce lien, tronqué dans le texte récupéré pendant cette recherche, n’est pas reproduit ici, faute de vérification complète. Pour le contexte, notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> suit les nouveautés bouyon 2026 des Antilles françaises et de la Dominique, et notre page <a href=\"/bouyon-gwada.html\">bouyon gwada</a> raconte la branche guadeloupéenne du genre."),
   ("Pourquoi ce profil est-il plus court que les autres profils d’artistes du site ?", "Parce que le dossier public de Diixly est mince : un seul crédit vérifié, aucune page d’artiste ouverte sur les plateformes consultées, aucune interview trouvée. Ce site dimensionne ses profils sur les faits disponibles : huit à quinze titres documentés pour un artiste établi, un profil court et explicite pour un nom émergent. La brièveté de cette page est donc une information en soi, et elle sera révisée si de nouvelles sources vérifiables paraissent.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/diixly.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/diixly.html#artist", "name": "Diixly", "description": "Beatmaker crédité sur GENKIDAMA de FLW (T-BTS), clip officiel Team Bwè Tou Sa, bouyon 2026. Aucune origine ni biographie documentée dans le dossier public ouvert pour ce profil.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "GENKIDAMA"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/diixly.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/diixly.html#artist", "name": "Diixly", "description": "Beatmaker crédité sur GENKIDAMA de FLW (T-BTS), clip officiel Team Bwè Tou Sa, bouyon 2026. Aucune origine ni biographie documentée dans le dossier public ouvert pour ce profil.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "GENKIDAMA"},
+      {
+       "@type": "MusicRecording",
+       "name": "ROYAL WARMUP (feat. DJ FAB)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MONEY MISSION (feat. Le Dext, Jah2Chill & Devo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "RETOMBÉ"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "AMADIIX"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PROMENONS-NOUS (feat. DIIXLY) (BOUYON 2027)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LÉSÉ NOU PASÉ (feat. Ma6mo & Diixly) (WARM UP 2026)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -115,6 +140,31 @@ EN = {
   ("Where can I hear “GENKIDAMA” and follow the bouyon of this wave?", "The description of the official video announces “GENKIDAMA” as available on all platforms and points to a DistroKid link attached to Diixly; that link, truncated in the text fetched during this research, is not reproduced here for lack of complete verification. For context, our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> follows new 2026 bouyon releases from the French Antilles and Dominica, and our <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a> page tells the Guadeloupe branch of the genre."),
   ("Why is this profile shorter than the other artist profiles on this site?", "Because the public record of Diixly is thin: a single verified credit, no artist page found on the platforms consulted, no interview located. This site sizes its profiles to the available facts: eight to fifteen documented tracks for an established artist, a short and explicit profile for an emerging name. The brevity of this page is therefore information in itself, and it will be revised if new verifiable sources appear.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/diixly.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/diixly.html#artist", "name": "Diixly", "description": "Beatmaker credited on GENKIDAMA by FLW (T-BTS), official Team Bwe Tou Sa video, bouyon 2026. No origin or biography documented in the public record opened for this profile.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "GENKIDAMA"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/diixly.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/diixly.html#artist", "name": "Diixly", "description": "Beatmaker credited on GENKIDAMA by FLW (T-BTS), official Team Bwe Tou Sa video, bouyon 2026. No origin or biography documented in the public record opened for this profile.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "GENKIDAMA"},
+      {
+       "@type": "MusicRecording",
+       "name": "ROYAL WARMUP (feat. DJ FAB)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MONEY MISSION (feat. Le Dext, Jah2Chill & Devo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "RETOMBÉ"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "AMADIIX"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PROMENONS-NOUS (feat. DIIXLY) (BOUYON 2027)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LÉSÉ NOU PASÉ (feat. Ma6mo & Diixly) (WARM UP 2026)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

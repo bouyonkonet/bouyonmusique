@@ -66,7 +66,12 @@ FR = {
   ("Les Gaza Girls Crew et Gaza Crew sont-ils le même groupe ?", "Non, rien dans les sources consultées ne permet de les confondre ni même de prouver un lien entre eux. Gaza Girls Crew dispose d’un single et d’une trace scénique documentés. Gaza Crew, traité sur sa propre page de ce site, ne survit que dans une liste de mots clés d’une vidéo du cercle de Suppa. Ce profil garde les deux noms strictement séparés, comme les sources les présentent."),
   ("Où écouter les Gaza Girls Crew et le bouyon gwada de leur époque ?", "Commencez par « Sa Zot Vlé », le single de 2011, puis lisez nos pages <a href=\"/bouyon-gwada.html\">bouyon gwada</a> et <a href=\"/bouyon-paris.html\">bouyon à Paris</a>, et écoutez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, qui rassemble les titres de cette génération suivis par Bouyon Shattaz.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/gaza-girls-crew.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/gaza-girls-crew.html#artist", "name": "Gaza Girls Crew", "description": "Groupe féminin de la scène bouyon gwada de Guadeloupe. Single Sa Zot Vlé sorti le 1er mai 2011 chez Bouyon Concept, présence nommée par Rebel Up au premier spectacle bouyon à Paris en décembre 2012, et nom analysé par une thèse universitaire de 2013 sur le dancehall des Antilles françaises.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Sa Zot Vlé"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/gaza-girls-crew.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/gaza-girls-crew.html#artist", "name": "Gaza Girls Crew", "description": "Groupe féminin de la scène bouyon gwada de Guadeloupe. Single Sa Zot Vlé sorti le 1er mai 2011 chez Bouyon Concept, présence nommée par Rebel Up au premier spectacle bouyon à Paris en décembre 2012, et nom analysé par une thèse universitaire de 2013 sur le dancehall des Antilles françaises.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Sa Zot Vlé"},
+      {
+       "@type": "MusicRecording",
+       "name": "Bad Chatte"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -130,6 +135,11 @@ EN = {
   ("Are the Gaza Girls Crew and Gaza Crew the same group?", "No, nothing in the sources consulted allows them to be merged or even proves a link between them. Gaza Girls Crew has a documented single and stage trace. Gaza Crew, covered on its own page of this site, survives only in a keyword list of a video from the Suppa circle. This profile keeps the two names strictly separate, as the sources present them."),
   ("Where can I hear the Gaza Girls Crew and the bouyon gwada of their period?", "Start with “Sa Zot Vlé”, the 2011 single, then read our <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a> and <a href=\"/en/bouyon-paris.html\">bouyon in Paris</a> pages, and hear our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, which gathers the records of that generation followed by Bouyon Shattaz.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/gaza-girls-crew.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/gaza-girls-crew.html#artist", "name": "Gaza Girls Crew", "description": "Female group from the bouyon gwada scene of Guadeloupe. Single Sa Zot Vle released on May 1, 2011 on Bouyon Concept, presence named by Rebel Up at the first bouyon show in Paris in December 2012, and name analysed by a 2013 university thesis on dancehall in the French Antilles.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Sa Zot Vlé"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/gaza-girls-crew.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/gaza-girls-crew.html#artist", "name": "Gaza Girls Crew", "description": "Female group from the bouyon gwada scene of Guadeloupe. Single Sa Zot Vle released on May 1, 2011 on Bouyon Concept, presence named by Rebel Up at the first bouyon show in Paris in December 2012, and name analysed by a 2013 university thesis on dancehall in the French Antilles.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Sa Zot Vlé"},
+      {
+       "@type": "MusicRecording",
+       "name": "Bad Chatte"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

@@ -76,7 +76,12 @@ FR = {
   ("Où Les Ptits du RZT se sont-ils produits en 2026 ?", "Le samedi 10 octobre 2026, la soirée « Les P’Tits Du Rzt Birthday » a eu lieu à L’Empire Club de Chilly-Mazarin, en Essonne, avec Miimii KDS, Pern, Lucky, Dinero et MK en show et huit DJs aux platines, selon la page de billetterie Bizouk. Le club conserve la soirée dans ses photos de soirées passées."),
   ("Pourquoi ce profil est-il plus court que d’autres profils du site ?", "Parce que le dossier public du groupe est mince : trois enregistrements vérifiés et un événement documenté, sans biographie ni interview retrouvées. Ce site préfère un profil court et entièrement vérifiable à un long texte rempli d’éléments non sourcés, et il complètera cette page si le dossier s’étoffe.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/les-ptits-du-rzt.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/les-ptits-du-rzt.html#artist", "name": "Les Ptits du RZT", "description": "Groupe de bouyon et shatta documente par trois credits verifies : Malpale avec LESTEF KJF BOYZ (2024), le single Tata Yeye co-ecrit avec 1t1 (2024) et Look My Style (2025). Aucune biographie publique verifiee retrouvee.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "MALPALÉ"}, {"@type": "MusicRecording", "name": "TATA YÉYÉ"}, {"@type": "MusicRecording", "name": "Look My Style"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/les-ptits-du-rzt.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/les-ptits-du-rzt.html#artist", "name": "Les Ptits du RZT", "description": "Groupe de bouyon et shatta documente par trois credits verifies : Malpale avec LESTEF KJF BOYZ (2024), le single Tata Yeye co-ecrit avec 1t1 (2024) et Look My Style (2025). Aucune biographie publique verifiee retrouvee.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "MALPALÉ"}, {"@type": "MusicRecording", "name": "TATA YÉYÉ"}, {"@type": "MusicRecording", "name": "Look My Style"},
+      {
+       "@type": "MusicRecording",
+       "name": "We Coming"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -149,6 +154,11 @@ EN = {
   ("Where did Les Ptits du RZT perform in 2026?", "On Saturday, October 10, 2026, the “Les P’Tits Du Rzt Birthday” party took place at L’Empire Club in Chilly-Mazarin, in Essonne, with Miimii KDS, Pern, Lucky, Dinero and MK in show and eight DJs at the decks, according to the Bizouk ticketing page. The club keeps the party in its past party photos."),
   ("Why is this profile shorter than other profiles on this site?", "Because the group public file is thin: three verified recordings and one documented event, with no biography or interview found. This site prefers a short, fully checkable profile to a long text filled with unsourced elements, and it will complete this page if the file grows.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/les-ptits-du-rzt.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/les-ptits-du-rzt.html#artist", "name": "Les Ptits du RZT", "description": "Bouyon and shatta group documented by three verified credits: Malpale with LESTEF KJF BOYZ (2024), the single Tata Yeye co-written with 1t1 (2024) and Look My Style (2025). No verified public biography found.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "MALPALÉ"}, {"@type": "MusicRecording", "name": "TATA YÉYÉ"}, {"@type": "MusicRecording", "name": "Look My Style"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/les-ptits-du-rzt.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/les-ptits-du-rzt.html#artist", "name": "Les Ptits du RZT", "description": "Bouyon and shatta group documented by three verified credits: Malpale with LESTEF KJF BOYZ (2024), the single Tata Yeye co-written with 1t1 (2024) and Look My Style (2025). No verified public biography found.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "MALPALÉ"}, {"@type": "MusicRecording", "name": "TATA YÉYÉ"}, {"@type": "MusicRecording", "name": "Look My Style"},
+      {
+       "@type": "MusicRecording",
+       "name": "We Coming"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

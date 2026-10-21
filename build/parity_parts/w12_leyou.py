@@ -80,7 +80,12 @@ FR = {
   ("Leyou a-t-il sorti un single solo ou un album ?", "Aucun single solo, EP ou album de Leyou n’est documenté dans les sources consultées. Sa seule apparition vérifiée est le featuring « VIN TCHEK NOU » sur l’album de Lewismelo. C’est une question à laquelle beaucoup de profils répondent en absorbant les catalogues d’homonymes : la réponse vérifiée est non, pas à ce jour dans le dossier public du bouyon."),
   ("Où écouter Leyou ?", "Sur « VIN TCHEK NOU », le troisième titre de « Premières Notes » de Lewismelo, disponible sur les plateformes, aux côtés de <a href=\"/le-bluff.html\">Le Bluff</a> et Tedla. Pour le bouyon de la même scène, écoutez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> et lisez notre page <a href=\"/bouyon-guadeloupe.html\">bouyon Guadeloupe</a>.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/leyou.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/leyou.html#artist", "name": "Leyou", "description": "Voix invitée du bouyon guadeloupéen, documentée par un seul titre vérifié : VIN TCHEK NOU, troisième titre de Premières Notes de Lewismelo, avec Le Bluff et Tedla. Aucune biographie publique documentée, et des homonymes actifs sous le même nom dans d’autres scènes, explicitement séparés dans ce profil.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'VIN TCHEK NOU'}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/leyou.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/leyou.html#artist", "name": "Leyou", "description": "Voix invitée du bouyon guadeloupéen, documentée par un seul titre vérifié : VIN TCHEK NOU, troisième titre de Premières Notes de Lewismelo, avec Le Bluff et Tedla. Aucune biographie publique documentée, et des homonymes actifs sous le même nom dans d’autres scènes, explicitement séparés dans ce profil.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'VIN TCHEK NOU'},
+      {
+       "@type": "MusicRecording",
+       "name": "On LoLo"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -158,6 +163,11 @@ EN = {
   ("Has Leyou released a solo single or an album?", "No solo single, EP or album by Leyou is documented in the sources consulted. His only verified appearance is the feature “VIN TCHEK NOU” on the Lewismelo album. It is a question many profiles answer by absorbing the catalogues of homonyms: the verified answer is no, not so far in the public bouyon record."),
   ("Where can I hear Leyou?", "On “VIN TCHEK NOU”, the third track of “Premières Notes” by Lewismelo, available on the platforms, alongside <a href=\"/en/le-bluff.html\">Le Bluff</a> and Tedla. For the bouyon of the same scene, hear our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> and read our <a href=\"/en/bouyon-guadeloupe.html\">bouyon Guadeloupe</a> page.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/leyou.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/leyou.html#artist", "name": "Leyou", "description": "Guest voice of Guadeloupe bouyon, documented by one verified record only: VIN TCHEK NOU, third track of Premières Notes by Lewismelo, with Le Bluff and Tedla. No documented public biography, and active homonyms under the same name in other scenes, explicitly separated in this profile.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'VIN TCHEK NOU'}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/leyou.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/leyou.html#artist", "name": "Leyou", "description": "Guest voice of Guadeloupe bouyon, documented by one verified record only: VIN TCHEK NOU, third track of Premières Notes by Lewismelo, with Le Bluff and Tedla. No documented public biography, and active homonyms under the same name in other scenes, explicitly separated in this profile.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'VIN TCHEK NOU'},
+      {
+       "@type": "MusicRecording",
+       "name": "On LoLo"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

@@ -87,7 +87,12 @@ FR = {
   ("Quels titres écouter pour découvrir Nice ?", "Commencez par le remix de « Bye to de Old Me » avec Shelly et Pudaz, puis « Without You » avec Reo, Trilla-G, Unstoppable Shax et Quan Dawg, produit par A-Plus Muzik, et « Situationship » de DJ Taffy avec Nice767, sorti en 2023. « Stronger Remix » de Signal Band avec Nice complète le catalogue vérifié."),
   ("Connaît-on le nom complet et la commune d’origine de Nice ?", "Non, pas dans les sources vérifiées consultées pour ce profil. Aucun nom complet, aucune commune d’origine et aucun compte social officiel confirmé ne sont publiés à ce jour pour Nice, artiste bouyon de la Dominique. Le seul pseudo publié dans des crédits officiels est @o.f.f.i.c.i.a.l_n.i.c.e, dans la description de la vidéo « Without You ».")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/nice.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/nice.html#artist", "name": "Nice", "description": "Artiste bouyon de la Dominique. Interprète du remix de Bye to de Old Me avec Shelly et Pudaz, de Without You et de Situationship avec DJ Taffy. Programmé à la Night 3 du WCMF 2026 selon les guides publiés.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bye to de Old Me"}, {"@type": "MusicRecording", "name": "Without You"}, {"@type": "MusicRecording", "name": "Situationship"}, {"@type": "MusicRecording", "name": "Stronger Remix"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/nice.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/nice.html#artist", "name": "Nice", "description": "Artiste bouyon de la Dominique. Interprète du remix de Bye to de Old Me avec Shelly et Pudaz, de Without You et de Situationship avec DJ Taffy. Programmé à la Night 3 du WCMF 2026 selon les guides publiés.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bye to de Old Me"}, {"@type": "MusicRecording", "name": "Without You"}, {"@type": "MusicRecording", "name": "Situationship"}, {"@type": "MusicRecording", "name": "Stronger Remix"},
+      {
+       "@type": "MusicRecording",
+       "name": "Something Wrong (feat. Nice767)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -166,6 +171,11 @@ EN = {
   ("Which records should I hear to discover Nice?", "Start with the “Bye to de Old Me” remix with Shelly and Pudaz, then “Without You” with Reo, Trilla-G, Unstoppable Shax and Quan Dawg, produced by A-Plus Muzik, and “Situationship” by DJ Taffy featuring Nice767, released in 2023. The Signal Band “Stronger Remix” featuring Nice completes the verified catalogue."),
   ("Do we know the full name and home community of Nice?", "No, not in the verified sources consulted for this profile. No full name, no home community and no confirmed official social account are published to date for Nice, bouyon artist from Dominica. The only handle published in official credits is @o.f.f.i.c.i.a.l_n.i.c.e, in the description of the “Without You” video.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/nice.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/nice.html#artist", "name": "Nice", "description": "Bouyon artist from Dominica. Performer on the Bye to de Old Me remix with Shelly and Pudaz, on Without You and on Situationship with DJ Taffy. Billed on WCMF 2026 Night 3 according to the published guides.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bye to de Old Me"}, {"@type": "MusicRecording", "name": "Without You"}, {"@type": "MusicRecording", "name": "Situationship"}, {"@type": "MusicRecording", "name": "Stronger Remix"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/nice.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/nice.html#artist", "name": "Nice", "description": "Bouyon artist from Dominica. Performer on the Bye to de Old Me remix with Shelly and Pudaz, on Without You and on Situationship with DJ Taffy. Billed on WCMF 2026 Night 3 according to the published guides.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bye to de Old Me"}, {"@type": "MusicRecording", "name": "Without You"}, {"@type": "MusicRecording", "name": "Situationship"}, {"@type": "MusicRecording", "name": "Stronger Remix"},
+      {
+       "@type": "MusicRecording",
+       "name": "Something Wrong (feat. Nice767)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

@@ -57,7 +57,12 @@ FR = {
   ("Pourquoi publier un profil aussi vide ?", "Parce que l'index de ce site recense les noms du genre, et que taire un nom recensé serait aussi un choix éditorial. Publier le nom avec l'état exact de son dossier, recherches comprises, sert mieux les lecteurs qu'un silence ou qu'une biographie inventée. La page documente la recherche elle-même, datée et renouvelable."),
   ("Comment ce profil peut-il être corrigé ou complété ?", "Avec des sources publiées : une page de catalogue ou une chaîne officielle sous le nom de l'artiste, des crédits nommant KeyT Zone, ou une couverture de presse. Dès qu'une telle source est confirmée, le profil est réécrit, complété et daté, selon la règle appliquée à toutes les pages de ce site.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/keytzone.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/keytzone.html#artist", "name": "KeyT Zone", "description": "Nom recensé parmi les artistes bouyon. Aucune biographie, discographie ni page officielle vérifiable n'a été trouvée dans les sources publiques consultées le 20 octobre 2026 ; ce profil documente l'état du dossier.", "genre": "Bouyon", "track": [], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/keytzone.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/keytzone.html#artist", "name": "KeyT Zone", "description": "Nom recensé parmi les artistes bouyon. Aucune biographie, discographie ni page officielle vérifiable n'a été trouvée dans les sources publiques consultées le 20 octobre 2026 ; ce profil documente l'état du dossier.", "genre": "Bouyon", "track": [
+      {
+       "@type": "MusicRecording",
+       "name": "Bouwéy"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -113,6 +118,11 @@ EN = {
   ("Why publish a profile this empty?", "Because this site index records the names of the genre, and leaving a recorded name out would be an editorial choice too. Publishing the name with the exact state of its file, research included, serves readers better than silence or an invented biography. The page documents the search itself, dated and renewable."),
   ("How can this profile be corrected or completed?", "With published sources: a catalogue page or an official channel under the artist name, credits naming KeyT Zone, or press coverage. As soon as such a source is confirmed, the profile is rewritten, completed and dated, under the rule applied to every page on this site.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/keytzone.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/keytzone.html#artist", "name": "KeyT Zone", "description": "Name recorded among bouyon artists. No verifiable biography, discography or official page was found in the public sources consulted on October 20, 2026; this profile documents the state of the record.", "genre": "Bouyon", "track": [], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/keytzone.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/keytzone.html#artist", "name": "KeyT Zone", "description": "Name recorded among bouyon artists. No verifiable biography, discography or official page was found in the public sources consulted on October 20, 2026; this profile documents the state of the record.", "genre": "Bouyon", "track": [
+      {
+       "@type": "MusicRecording",
+       "name": "Bouwéy"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

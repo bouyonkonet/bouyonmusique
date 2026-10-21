@@ -1178,8 +1178,12 @@ PAGES = [
       {
        "@type": "MusicRecording",
        "name": "Allo Doudou (feat. litleboy lsbeats767) (Spain Remix)"
-      }
-     ]
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Danger (feat. Miimii KDS)"
+      },
+]
     }
    }
   ]
@@ -3387,8 +3391,16 @@ PAGES = [
       {
        "@type": "MusicRecording",
        "name": "Still Standing!"
-      }
-     ]
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kijaw"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stupid"
+      },
+]
     }
    }
   ],
@@ -3981,7 +3993,11 @@ PAGES = [
        "@type": "MusicRecording",
        "name": "Plap Plap !"
       },
-     ]
+      {
+       "@type": "MusicRecording",
+       "name": "TELL ME (feat. thaWizZarD)"
+      },
+]
     }
    }
   ]
@@ -4308,7 +4324,71 @@ PAGES = [
        "@type": "MusicRecording",
        "name": "Fell For You (feat. Quan)"
       },
-     ]
+      {
+       "@type": "MusicRecording",
+       "name": "Litleboy faché (Radio Edit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Someone Else (feat. Quan & Trilla-G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "The Ocean (LITLEBOY bouyon Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tchoutchou"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Your Friend"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bel Kô (feat. Gyz Smallz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MAKO"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Move On (feat. Shyanne)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mind Your Business"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kay Ka Fèt (feat. Quan)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bouyon Riddim 2021 \"Doudou\""
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Someone Like You"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shake Your (feat. Real Reel & Quan)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MONEY"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nasty Freestyle Medley (feat. Gwada G, Trixx, Freddy & Nice)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Youpa"
+      },
+]
     }
    }
   ],

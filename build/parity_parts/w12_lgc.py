@@ -84,7 +84,36 @@ FR = {
   ("De quoi parle « Voyé’y Bay » ?", "Les paroles intégrales, publiées par Shazam, sont en créole guadeloupéen : le titre s’en prend à ceux qui surveillent la vie des autres, inventent des histoires et commentent sur TikTok, et son refrain renvoie la médisance à ses auteurs, maco makrel, les commères, toute la journée. C’est un des rares titres du dossier dont le texte complet est publié et vérifiable."),
   ("Où écouter LGC ?", "Ses six titres documentés sont sur les plateformes : « Voyé’y Bay », « Fè Sa Fann » avec <a href=\"/lejuh.html\">Lejuh</a>, « Manzèl Good », « Copain Copine », « Make It Clap » et « Woody Wood ». Pour le bouyon de la même scène, écoutez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> et lisez notre page <a href=\"/bouyon-guadeloupe.html\">bouyon Guadeloupe</a>.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/lgc.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/lgc.html#artist", "name": "LGC", "description": "Nom d’artiste du bouyon guadeloupéen porté par une équipe d’auteurs récurrente (Dany David Ledreck, Julio Polydamas, Kénan Gavarin, Jean Gardiole). Titres vérifiés de 2023 à 2025 : Voyé’y Bay, Fè Sa Fann avec Lejuh, Manzèl Good, Copain Copine, Make It Clap et Woody Wood. Le développement du sigle n’est publié par aucune source consultée.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Voyé’y Bay'}, {"@type": "MusicRecording", "name": 'Fè Sa Fann'}, {"@type": "MusicRecording", "name": 'Manzèl Good'}, {"@type": "MusicRecording", "name": 'Copain Copine'}, {"@type": "MusicRecording", "name": 'Make It Clap'}, {"@type": "MusicRecording", "name": 'Woody Wood'}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/lgc.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/lgc.html#artist", "name": "LGC", "description": "Nom d’artiste du bouyon guadeloupéen porté par une équipe d’auteurs récurrente (Dany David Ledreck, Julio Polydamas, Kénan Gavarin, Jean Gardiole). Titres vérifiés de 2023 à 2025 : Voyé’y Bay, Fè Sa Fann avec Lejuh, Manzèl Good, Copain Copine, Make It Clap et Woody Wood. Le développement du sigle n’est publié par aucune source consultée.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Voyé’y Bay'}, {"@type": "MusicRecording", "name": 'Fè Sa Fann'}, {"@type": "MusicRecording", "name": 'Manzèl Good'}, {"@type": "MusicRecording", "name": 'Copain Copine'}, {"@type": "MusicRecording", "name": 'Make It Clap'}, {"@type": "MusicRecording", "name": 'Woody Wood'},
+      {
+       "@type": "MusicRecording",
+       "name": "What's Problem"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SOUM"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mach"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fès ka pété"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Grammy (sped up) (feat. LGC & K41)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kiss Me (feat. Lady Spicy, LGC & LeCus)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Oui Nou Monss (feat. Lejuh & LGC)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -162,6 +191,35 @@ EN = {
   ("What is “Voyé’y Bay” about?", "The full lyrics, published by Shazam, are in Guadeloupean Creole: the record turns on those who watch the lives of others, invent stories and comment on TikTok, and its hook sends the gossip back to its authors, maco makrel, the busybodies, all day long. It is one of the rare records of the file whose complete text is published and checkable."),
   ("Where can I hear LGC?", "Its six documented records are on the platforms: “Voyé’y Bay”, “Fè Sa Fann” with <a href=\"/en/lejuh.html\">Lejuh</a>, “Manzèl Good”, “Copain Copine”, “Make It Clap” and “Woody Wood”. For the bouyon of the same scene, hear our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> and read our <a href=\"/en/bouyon-guadeloupe.html\">bouyon Guadeloupe</a> page.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/lgc.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/lgc.html#artist", "name": "LGC", "description": "Artist name of Guadeloupe bouyon carried by a recurring team of writers (Dany David Ledreck, Julio Polydamas, Kénan Gavarin, Jean Gardiole). Verified records from 2023 to 2025: Voyé’y Bay, Fè Sa Fann with Lejuh, Manzèl Good, Copain Copine, Make It Clap and Woody Wood. The expansion of the initials is published by no source consulted.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Voyé’y Bay'}, {"@type": "MusicRecording", "name": 'Fè Sa Fann'}, {"@type": "MusicRecording", "name": 'Manzèl Good'}, {"@type": "MusicRecording", "name": 'Copain Copine'}, {"@type": "MusicRecording", "name": 'Make It Clap'}, {"@type": "MusicRecording", "name": 'Woody Wood'}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/lgc.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/lgc.html#artist", "name": "LGC", "description": "Artist name of Guadeloupe bouyon carried by a recurring team of writers (Dany David Ledreck, Julio Polydamas, Kénan Gavarin, Jean Gardiole). Verified records from 2023 to 2025: Voyé’y Bay, Fè Sa Fann with Lejuh, Manzèl Good, Copain Copine, Make It Clap and Woody Wood. The expansion of the initials is published by no source consulted.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Voyé’y Bay'}, {"@type": "MusicRecording", "name": 'Fè Sa Fann'}, {"@type": "MusicRecording", "name": 'Manzèl Good'}, {"@type": "MusicRecording", "name": 'Copain Copine'}, {"@type": "MusicRecording", "name": 'Make It Clap'}, {"@type": "MusicRecording", "name": 'Woody Wood'},
+      {
+       "@type": "MusicRecording",
+       "name": "What's Problem"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SOUM"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mach"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fès ka pété"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Grammy (sped up) (feat. LGC & K41)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kiss Me (feat. Lady Spicy, LGC & LeCus)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Oui Nou Monss (feat. Lejuh & LGC)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

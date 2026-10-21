@@ -67,7 +67,16 @@ FR = {
   ("Où voir les SMS Girls en concert en 2026 ?", "Deux dates sont publiées : le samedi 24 octobre 2026 à l’Uptown de Genève, en Suisse, pour la soirée Comportement Tropical x Wah Gwaan, annoncée comme leur première fois en Suisse, et le samedi 7 novembre 2026 en Martinique, pour l’événement Le Chaudron, un showcase exclusif organisé par Carrib’Events et K-Event dans un lieu tenu secret du secteur centre de l’île."),
   ("Les SMS Girls ont-elles un album ?", "Aucun album des SMS Girls n’est documenté dans les sources consultées pour ce profil. Leur répertoire public vérifié tient en quatre titres nommés : « Desann », « Tu te frottes », « Wet Wet » et « Attrape ton copain ». Si un album ou un EP est publié et vérifié, ce profil sera complété.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/thesmsgirls.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/thesmsgirls.html#artist", "name": "SMS Girls", "description": "Duo féminin bouyon en pleine ascension selon leurs organisateurs. Titres nommés : Desann, Tu te frottes, Wet Wet et Attrape ton copain. Première scène en Suisse à Genève le 24 octobre 2026, puis showcase annoncé comme une première en Martinique le 7 novembre 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Desann"}, {"@type": "MusicRecording", "name": "Tu te frottes"}, {"@type": "MusicRecording", "name": "Wet Wet"}, {"@type": "MusicRecording", "name": "Attrape ton copain"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/thesmsgirls.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/thesmsgirls.html#artist", "name": "SMS Girls", "description": "Duo féminin bouyon en pleine ascension selon leurs organisateurs. Titres nommés : Desann, Tu te frottes, Wet Wet et Attrape ton copain. Première scène en Suisse à Genève le 24 octobre 2026, puis showcase annoncé comme une première en Martinique le 7 novembre 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Desann"}, {"@type": "MusicRecording", "name": "Tu te frottes"}, {"@type": "MusicRecording", "name": "Wet Wet"}, {"@type": "MusicRecording", "name": "Attrape ton copain"},
+      {
+       "@type": "MusicRecording",
+       "name": "Stop It (Freestyle)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SMS - LOKAL"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -133,6 +142,15 @@ EN = {
   ("Where can the SMS Girls be seen live in 2026?", "Two dates are published: Saturday October 24, 2026, at Uptown Geneva, in Switzerland, for the Comportement Tropical x Wah Gwaan party, billed as their first time in Switzerland, and Saturday November 7, 2026, in Martinique, for the event Le Chaudron, an exclusive showcase organised by Carrib’Events and K-Event in a secret venue in the centre sector of the island."),
   ("Do the SMS Girls have an album?", "No SMS Girls album is documented in the sources consulted for this profile. Their verified public repertoire holds in four named tracks: “Desann”, “Tu te frottes”, “Wet Wet” and “Attrape ton copain”. If an album or an EP is published and verified, this profile will be completed.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/thesmsgirls.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/thesmsgirls.html#artist", "name": "SMS Girls", "description": "Female bouyon duo billed by their organisers as a rising act. Named tracks: Desann, Tu te frottes, Wet Wet and Attrape ton copain. First show in Switzerland in Geneva on October 24, 2026, then a showcase billed as a first in Martinique on November 7, 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Desann"}, {"@type": "MusicRecording", "name": "Tu te frottes"}, {"@type": "MusicRecording", "name": "Wet Wet"}, {"@type": "MusicRecording", "name": "Attrape ton copain"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/thesmsgirls.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/thesmsgirls.html#artist", "name": "SMS Girls", "description": "Female bouyon duo billed by their organisers as a rising act. Named tracks: Desann, Tu te frottes, Wet Wet and Attrape ton copain. First show in Switzerland in Geneva on October 24, 2026, then a showcase billed as a first in Martinique on November 7, 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Desann"}, {"@type": "MusicRecording", "name": "Tu te frottes"}, {"@type": "MusicRecording", "name": "Wet Wet"}, {"@type": "MusicRecording", "name": "Attrape ton copain"},
+      {
+       "@type": "MusicRecording",
+       "name": "Stop It (Freestyle)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SMS - LOKAL"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
