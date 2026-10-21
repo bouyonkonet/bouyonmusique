@@ -4332,7 +4332,7 @@ PAGES = [
     "Tamillia and Saint Martin: the single in the site's network",
     [
       "Don't Care does not live on this page alone. The <a href=\"/en/bouyon-saint-martin.html\">Bouyon in Saint Martin</a> page names Tamillia in answer to the question of which bouyon singer grew up on the island, and points to DJ Blax for the track. The same page introduces Saint Martin first through its producers, led by Denmath, from SXM and based between Nantes and Paris: an axis between the island and France that Don't Care travels in turn, this time with a voice.",
-      "The <a href=\"/en/women-of-bouyon.html\">Women of bouyon</a> chapter, for its part, counts Tamillia among the female voices that matter in 2026, alongside Maurane Voyer, Miimii KDS, Shelly and Ebony Empress, in a part titled Tamillia and Ebony Empress, voices of the riddims. It sums up her path as three worlds bouyon keeps crossing: the Dutch and French island of Saint Martin, French television and Caribbean riddims. Don't Care is the track through which the site ties her to the genre.",
+      "The <a href=\"/en/women-of-bouyon.html\">Women of bouyon</a> chapter, for its part, counts Tamillia among the female voices that matter in 2026, alongside Maurane Voyer, Miimii KDS and Ebony Empress, in a part titled Tamillia and Ebony Empress, voices of the riddims. It sums up her path as three worlds bouyon keeps crossing: the Dutch and French island of Saint Martin, French television and Caribbean riddims. Don't Care is the track through which the site ties her to the genre.",
       "For DJ Blax, it is the best documented collaboration on his page: a singer and lyricist, a co-producer, John Scorp, and a visual signature, @celinemsili, all printed by the distributor."
     ],
   ),
