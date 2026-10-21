@@ -77,7 +77,36 @@ FR = {
   ("Yellow Gaza a-t-il un lien avec Gaza Girls Crew ou Gaza Crew ?", "Aucun lien n’est établi par les sources consultées, et ce profil est celui qui le dit au lieu de laisser les moteurs mélanger les noms. Gaza Girls Crew est un groupe féminin documenté par un single de 2011 chez Bouyon Concept et par la scène parisienne de 2012. Gaza Crew ne survit que dans une liste de mots clés d’une vidéo du cercle de Suppa. Yellow Gaza a son propre catalogue, de 2013 à 2024, chez Vadore Concept pour ses titres récents : trois dossiers séparés, sans fait partagé."),
   ("Où écouter Yellow Gaza ?", "Commencez par « Sa ki bon (Bouyon King) » en 2021, puis « Vole Nonm a Moun », le single de 2013, « Y.A.G. », « Tout de suite » et « PLAN A 3 » avec Yumei en 2024, puis le titre voisin « LEVRETTE » des Yellow Gaza Girls en 2025. Notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> et notre page <a href=\"/bouyon-gwada.html\">bouyon gwada</a> replacent ces titres dans la scène guadeloupéenne du genre.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/yellow-gaza.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/yellow-gaza.html#artist", "name": "Yellow Gaza", "description": "Acte bouyon de Guadeloupe. Catalogue vérifié de 2013 à 2024 chez Vadore Concept pour ses titres récents : Vole Nonm a Moun, Y.A.G., Sa ki bon (Bouyon King), Tout de suite et PLAN A 3 avec Yumei, écrits en grande partie par Letin Severine et Letin Sylia.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Vole Nonm a Moun"}, {"@type": "MusicRecording", "name": "Y.A.G."}, {"@type": "MusicRecording", "name": "Sa ki bon (Bouyon King)"}, {"@type": "MusicRecording", "name": "Tout de suite"}, {"@type": "MusicRecording", "name": "PLAN A 3"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/yellow-gaza.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/yellow-gaza.html#artist", "name": "Yellow Gaza", "description": "Acte bouyon de Guadeloupe. Catalogue vérifié de 2013 à 2024 chez Vadore Concept pour ses titres récents : Vole Nonm a Moun, Y.A.G., Sa ki bon (Bouyon King), Tout de suite et PLAN A 3 avec Yumei, écrits en grande partie par Letin Severine et Letin Sylia.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Vole Nonm a Moun"}, {"@type": "MusicRecording", "name": "Y.A.G."}, {"@type": "MusicRecording", "name": "Sa ki bon (Bouyon King)"}, {"@type": "MusicRecording", "name": "Tout de suite"}, {"@type": "MusicRecording", "name": "PLAN A 3"},
+      {
+       "@type": "MusicRecording",
+       "name": "Controling Baby"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "V.N.M II"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Macrelle"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Gouté Gouté"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Koké La (Bouyon Kings)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bouwéy"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Putri"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -149,6 +178,35 @@ EN = {
   ("Is Yellow Gaza linked to Gaza Girls Crew or Gaza Crew?", "No link is established by the sources consulted, and this profile is the one that says so instead of letting the search engines mix the names. Gaza Girls Crew is a women group documented by a 2011 single on Bouyon Concept and by the Paris stage of 2012. Gaza Crew survives only in a keyword list of a video from the Suppa circle. Yellow Gaza has its own catalogue, from 2013 to 2024, on Vadore Concept for its recent records: three separate files, with no shared fact."),
   ("Where can I hear Yellow Gaza?", "Start with “Sa ki bon (Bouyon King)” in 2021, then “Vole Nonm a Moun”, the 2013 single, “Y.A.G.”, “Tout de suite” and “PLAN A 3” with Yumei in 2024, then the neighbouring record “LEVRETTE” by Yellow Gaza Girls in 2025. Our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> and our <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a> page place these records back in the Guadeloupe scene of the genre.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/yellow-gaza.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/yellow-gaza.html#artist", "name": "Yellow Gaza", "description": "Bouyon act from Guadeloupe. Verified catalogue from 2013 to 2024, on Vadore Concept for its recent records: Vole Nonm a Moun, Y.A.G., Sa ki bon (Bouyon King), Tout de suite and PLAN A 3 with Yumei, written in large part by Letin Severine and Letin Sylia.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Vole Nonm a Moun"}, {"@type": "MusicRecording", "name": "Y.A.G."}, {"@type": "MusicRecording", "name": "Sa ki bon (Bouyon King)"}, {"@type": "MusicRecording", "name": "Tout de suite"}, {"@type": "MusicRecording", "name": "PLAN A 3"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/yellow-gaza.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/yellow-gaza.html#artist", "name": "Yellow Gaza", "description": "Bouyon act from Guadeloupe. Verified catalogue from 2013 to 2024, on Vadore Concept for its recent records: Vole Nonm a Moun, Y.A.G., Sa ki bon (Bouyon King), Tout de suite and PLAN A 3 with Yumei, written in large part by Letin Severine and Letin Sylia.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Vole Nonm a Moun"}, {"@type": "MusicRecording", "name": "Y.A.G."}, {"@type": "MusicRecording", "name": "Sa ki bon (Bouyon King)"}, {"@type": "MusicRecording", "name": "Tout de suite"}, {"@type": "MusicRecording", "name": "PLAN A 3"},
+      {
+       "@type": "MusicRecording",
+       "name": "Controling Baby"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "V.N.M II"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Macrelle"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Gouté Gouté"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Koké La (Bouyon Kings)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bouwéy"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Putri"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

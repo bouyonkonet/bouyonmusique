@@ -97,7 +97,32 @@ FR = {
   ("Quels sont les titres vérifiés de BRG Hollywood ?", "Les singles documentes sur le label BankrollGang sont « Pocket Rocket » (16 avril 2025), « WTHelly Bouyon » avec Gwada G (16 mai 2025) et « We Not Going Home » avec C4 (31 octobre 2025). « Time 2 Grind » et « Nouveau La », avec Jixels sur la version qui circule en mix, completent la liste des titres confirmes par les listées publiées."),
   ("Qui produit les titres de BRG Hollywood ?", "Les generiques publiés nomment Xavvoknockin et Xavern Labega a la production de « WTHelly Bouyon », avec Knockin Records a l’enregistrement, et C4 comme co-producteur de « We Not Going Home ». Ses singles documentes paraissent sur le label BankrollGang.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/brg-hollywood.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/brg-hollywood.html#artist", "name": "BRG Hollywood", "description": "Artiste bouyon de Sint Maarten, de son vrai nom Jaheim Meyers. Premier artiste du côté néerlandais de Sint Maarten a atteindre un million de vues sur YouTube avec We Not Going Home, avec C4. Finaliste artiste bouyon de l’année aux Caribbean Music Awards 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "We Not Going Home"}, {"@type": "MusicRecording", "name": "WTHelly Bouyon"}, {"@type": "MusicRecording", "name": "Pocket Rocket"}, {"@type": "MusicRecording", "name": "Time 2 Grind"}, {"@type": "MusicRecording", "name": "Nouveau La"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/brg-hollywood.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/brg-hollywood.html#artist", "name": "BRG Hollywood", "description": "Artiste bouyon de Sint Maarten, de son vrai nom Jaheim Meyers. Premier artiste du côté néerlandais de Sint Maarten a atteindre un million de vues sur YouTube avec We Not Going Home, avec C4. Finaliste artiste bouyon de l’année aux Caribbean Music Awards 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "We Not Going Home"}, {"@type": "MusicRecording", "name": "WTHelly Bouyon"}, {"@type": "MusicRecording", "name": "Pocket Rocket"}, {"@type": "MusicRecording", "name": "Time 2 Grind"}, {"@type": "MusicRecording", "name": "Nouveau La"},
+      {
+       "@type": "MusicRecording",
+       "name": "Cashin Out Warmup (feat. C4)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BRG Happy (feat. DJ Luchshiy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Liff Up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I JUST WANT (feat. BRG HOLLYWOOD & DINHO)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lick (feat. (KennyG) & BRG Hollywood)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Who Have A Lighter (Le Briquet)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -166,6 +191,31 @@ EN = {
   ("What are the verified BRG Hollywood tracks?", "The documented singles on the BankrollGang label are “Pocket Rocket” (16 April 2025), “WTHelly Bouyon” featuring Gwada G (16 May 2025) and “We Not Going Home” featuring C4 (31 October 2025). “Time 2 Grind” and “Nouveau La”, featuring Jixels on the version circulating in mixes, complete the list of tracks confirmed by published lists."),
   ("Who produces the BRG Hollywood tracks?", "The published rolls name Xavvoknockin and Xavern Labega as producers of “WTHelly Bouyon”, with Knockin Records on recording, and C4 as co-producer of “We Not Going Home”. His documented singles are released on the BankrollGang label.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/brg-hollywood.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/brg-hollywood.html#artist", "name": "BRG Hollywood", "description": "Bouyon artist from Sint Maarten, real name Jaheim Meyers. First artist from the Dutch side of Sint Maarten to reach one million YouTube views with We Not Going Home, featuring C4. Bouyon Artist of the Year finalist at the Caribbean Music Awards 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "We Not Going Home"}, {"@type": "MusicRecording", "name": "WTHelly Bouyon"}, {"@type": "MusicRecording", "name": "Pocket Rocket"}, {"@type": "MusicRecording", "name": "Time 2 Grind"}, {"@type": "MusicRecording", "name": "Nouveau La"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/brg-hollywood.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/brg-hollywood.html#artist", "name": "BRG Hollywood", "description": "Bouyon artist from Sint Maarten, real name Jaheim Meyers. First artist from the Dutch side of Sint Maarten to reach one million YouTube views with We Not Going Home, featuring C4. Bouyon Artist of the Year finalist at the Caribbean Music Awards 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "We Not Going Home"}, {"@type": "MusicRecording", "name": "WTHelly Bouyon"}, {"@type": "MusicRecording", "name": "Pocket Rocket"}, {"@type": "MusicRecording", "name": "Time 2 Grind"}, {"@type": "MusicRecording", "name": "Nouveau La"},
+      {
+       "@type": "MusicRecording",
+       "name": "Cashin Out Warmup (feat. C4)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BRG Happy (feat. DJ Luchshiy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Liff Up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I JUST WANT (feat. BRG HOLLYWOOD & DINHO)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lick (feat. (KennyG) & BRG Hollywood)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Who Have A Lighter (Le Briquet)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

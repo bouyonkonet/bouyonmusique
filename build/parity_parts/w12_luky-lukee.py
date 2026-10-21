@@ -57,7 +57,12 @@ FR = {
   ("Avec qui Lucky lukee collabore t il le plus souvent ?", "Avec Miimii KDS et DJ SKYCEE, présents dès An Sou en 2023 jusqu'à Bode en 2026, en passant par WITH SOME BOYZ en 2025. On retrouve aussi régulierement 1T1, Qwann, Le Cus et LMS dans ses titres listés par les plateformes."),
   ("Ou écouter Lucky lukee pour commencer ?", "Commencez par An Sou, puis 1er Feu, WITH SOME BOYZ et Bode, et suivez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> ainsi que les pages de <a href=\"/miimii-kds.html\">Miimii KDS</a> et de <a href=\"/dj-skycee.html\">DJ SKYCEE</a> pour le reste de son équipe.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/luky-lukee.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/luky-lukee.html#artist", "name": "Lucky lukee", "description": "Artiste bouyon de la scène guadeloupéenne, connu pour ses collaborations avec Miimii KDS et DJ SKYCEE, dont WITH SOME BOYZ et Bode.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "An Sou"}, {"@type": "MusicRecording", "name": "1er Feu"}, {"@type": "MusicRecording", "name": "WITH SOME BOYZ"}, {"@type": "MusicRecording", "name": "Bodé"}, {"@type": "MusicRecording", "name": "Jouvert Morning"}, {"@type": "MusicRecording", "name": "MOUVMAN"}, {"@type": "MusicRecording", "name": "Come Back"}, {"@type": "MusicRecording", "name": "Everything is nice"}, {"@type": "MusicRecording", "name": "Uhdahdah #2"}, {"@type": "MusicRecording", "name": "Friday Night"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/luky-lukee.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/luky-lukee.html#artist", "name": "Lucky lukee", "description": "Artiste bouyon de la scène guadeloupéenne, connu pour ses collaborations avec Miimii KDS et DJ SKYCEE, dont WITH SOME BOYZ et Bode.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "An Sou"}, {"@type": "MusicRecording", "name": "1er Feu"}, {"@type": "MusicRecording", "name": "WITH SOME BOYZ"}, {"@type": "MusicRecording", "name": "Bodé"}, {"@type": "MusicRecording", "name": "Jouvert Morning"}, {"@type": "MusicRecording", "name": "MOUVMAN"}, {"@type": "MusicRecording", "name": "Come Back"}, {"@type": "MusicRecording", "name": "Everything is nice"}, {"@type": "MusicRecording", "name": "Uhdahdah #2"}, {"@type": "MusicRecording", "name": "Friday Night"},
+      {
+       "@type": "MusicRecording",
+       "name": "Pikéy"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -113,6 +118,11 @@ EN = {
   ("Who does Lucky lukee collaborate with most often?", "With Miimii KDS and DJ SKYCEE, present from An Sou in 2023 to Bode in 2026, through WITH SOME BOYZ in 2025. The platforms also regularly list 1T1, Qwann, Le Cus and LMS in his records."),
   ("Where should I start listening to Lucky lukee?", "Start with An Sou, then 1er Feu, WITH SOME BOYZ and Bode, and follow our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> and the pages for <a href=\"/en/miimii-kds.html\">Miimii KDS</a> and <a href=\"/en/dj-skycee.html\">DJ SKYCEE</a> for the rest of his crew.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/luky-lukee.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/luky-lukee.html#artist", "name": "Lucky lukee", "description": "Bouyon artist from the Guadeloupe scene, known for collaborations with Miimii KDS and DJ SKYCEE, including WITH SOME BOYZ and Bode.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "An Sou"}, {"@type": "MusicRecording", "name": "1er Feu"}, {"@type": "MusicRecording", "name": "WITH SOME BOYZ"}, {"@type": "MusicRecording", "name": "Bodé"}, {"@type": "MusicRecording", "name": "Jouvert Morning"}, {"@type": "MusicRecording", "name": "MOUVMAN"}, {"@type": "MusicRecording", "name": "Come Back"}, {"@type": "MusicRecording", "name": "Everything is nice"}, {"@type": "MusicRecording", "name": "Uhdahdah #2"}, {"@type": "MusicRecording", "name": "Friday Night"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/luky-lukee.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/luky-lukee.html#artist", "name": "Lucky lukee", "description": "Bouyon artist from the Guadeloupe scene, known for collaborations with Miimii KDS and DJ SKYCEE, including WITH SOME BOYZ and Bode.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "An Sou"}, {"@type": "MusicRecording", "name": "1er Feu"}, {"@type": "MusicRecording", "name": "WITH SOME BOYZ"}, {"@type": "MusicRecording", "name": "Bodé"}, {"@type": "MusicRecording", "name": "Jouvert Morning"}, {"@type": "MusicRecording", "name": "MOUVMAN"}, {"@type": "MusicRecording", "name": "Come Back"}, {"@type": "MusicRecording", "name": "Everything is nice"}, {"@type": "MusicRecording", "name": "Uhdahdah #2"}, {"@type": "MusicRecording", "name": "Friday Night"},
+      {
+       "@type": "MusicRecording",
+       "name": "Pikéy"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

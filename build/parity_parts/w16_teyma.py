@@ -82,7 +82,16 @@ FR = {
   ("Où voir Teyma en concert ?", "À Paris, le vendredi 20 novembre 2026, à FGO-Barbara, dans le 18e arrondissement, où elle ferme la septième édition du festival Ici Demain selon le site de la salle. Le festival, consacré aux artistes émergents, se tient du 18 au 20 novembre 2026. C’est, dans les sources ouvertes, sa date de scène la mieux documentée à ce jour."),
   ("Où écouter Teyma ?", "Sur les plateformes, en commençant par « Chichi », son titre de 2025, puis « City Boy » avec Dinamarca et « Sexy dino », son single du 16 octobre 2026 produit par Holomobb. Pour suivre la branche pop du genre, écoutez aussi notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> et lisez notre page <a href=\"/bouyon-music-2026.html\">bouyon music 2026</a>.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/teyma.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/teyma.html#artist", "name": "Teyma", "description": "Chanteuse française émergente à la croisée de la pop, du R’n’B, du rap et du bouyon. Révélée par Chichi et Shake it up, singles City Boy avec Dinamarca, Négatif et Sexy dino produit par Holomobb en 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Chichi"}, {"@type": "MusicRecording", "name": "Shake it up"}, {"@type": "MusicRecording", "name": "City boy"}, {"@type": "MusicRecording", "name": "Négatif"}, {"@type": "MusicRecording", "name": "Sexy dino"}], "sameAs": ["https://www.instagram.com/teymaaa/"]}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/teyma.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/teyma.html#artist", "name": "Teyma", "description": "Chanteuse française émergente à la croisée de la pop, du R’n’B, du rap et du bouyon. Révélée par Chichi et Shake it up, singles City Boy avec Dinamarca, Négatif et Sexy dino produit par Holomobb en 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Chichi"}, {"@type": "MusicRecording", "name": "Shake it up"}, {"@type": "MusicRecording", "name": "City boy"}, {"@type": "MusicRecording", "name": "Négatif"}, {"@type": "MusicRecording", "name": "Sexy dino"},
+      {
+       "@type": "MusicRecording",
+       "name": "HOLLYWOOD GIRLS"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MIMITA"
+      },
+], "sameAs": ["https://www.instagram.com/teymaaa/"]}}],
  "date_modified": "2026-10-20"
 }
 
@@ -160,6 +169,15 @@ EN = {
   ("Where can I see Teyma live?", "In Paris, on Friday 20 November 2026, at FGO-Barbara, in the 18th arrondissement, where she closes the seventh edition of the Ici Demain festival according to the venue site. The festival, devoted to emerging artists, runs from 18 to 20 November 2026. It is, in the open sources, her best documented stage date to date."),
   ("Where can I hear Teyma?", "On the platforms, starting with “Chichi”, her 2025 track, then “City Boy” with Dinamarca and “Sexy Dino”, her single of 16 October 2026 produced by Holomobb. To follow the pop branch of the genre, also hear our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> and read our <a href=\"/en/bouyon-music-2026.html\">bouyon music 2026</a> page.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/teyma.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/teyma.html#artist", "name": "Teyma", "description": "Emerging French singer at the crossing of pop, R and B, rap and bouyon. Revealed by Chichi and Shake it up, with the 2026 singles City Boy with Dinamarca, Négatif and Sexy Dino produced by Holomobb.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Chichi"}, {"@type": "MusicRecording", "name": "Shake it up"}, {"@type": "MusicRecording", "name": "City boy"}, {"@type": "MusicRecording", "name": "Négatif"}, {"@type": "MusicRecording", "name": "Sexy dino"}], "sameAs": ["https://www.instagram.com/teymaaa/"]}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/teyma.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/teyma.html#artist", "name": "Teyma", "description": "Emerging French singer at the crossing of pop, R and B, rap and bouyon. Revealed by Chichi and Shake it up, with the 2026 singles City Boy with Dinamarca, Négatif and Sexy Dino produced by Holomobb.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Chichi"}, {"@type": "MusicRecording", "name": "Shake it up"}, {"@type": "MusicRecording", "name": "City boy"}, {"@type": "MusicRecording", "name": "Négatif"}, {"@type": "MusicRecording", "name": "Sexy dino"},
+      {
+       "@type": "MusicRecording",
+       "name": "HOLLYWOOD GIRLS"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MIMITA"
+      },
+], "sameAs": ["https://www.instagram.com/teymaaa/"]}}],
  "date_modified": "2026-10-20"
 }

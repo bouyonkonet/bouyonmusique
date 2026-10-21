@@ -84,7 +84,76 @@ FR = {
   ("Dcamp est-il apparenté à Admiral T, dont le nom est aussi Campbell ?", "Aucune source consultée pour ce profil ne le dit. Les crédits des clips citent une manageuse nommée Jessica Campbell et Admiral T porte le nom Campbell dans ses biographies publiées, mais aucun document vérifié ne décrit de lien familial entre Dcamp, Lewismelo et Admiral T. Ce site ne l affirme donc pas."),
   ("Par où commencer pour écouter Dcamp ?", "Commencez par BOUYON, le titre manifeste du duo, puis TOURNEVIS pour Dcamp en artiste principal, YOU AND ME pour sa collaboration avec Admiral T, et LUSHENANA pour celle avec T-Stone. La <a href=\"/playlist-bouyon.html\">playlist bouyon</a> de ce site replace ensuite ces titres dans la scène bouyon complète.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/dcamp.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/dcamp.html#artist", "name": "Dcamp", "description": "Dcamp, Dylan Davis Campbell, auteur et interprète franco-créole, moitié du duo Dcamp & Lewismelo. Artiste principal de TOURNEVIS (2024), co-auteur des titres du duo, collaborateur d Admiral T sur You and Me et Sòti Gwadloup et de T-Stone sur Lushenana.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "TOURNEVIS"}, {"@type": "MusicRecording", "name": "BOUYON"}, {"@type": "MusicRecording", "name": "YOU AND ME"}, {"@type": "MusicRecording", "name": "LUSHENANA"}, {"@type": "MusicRecording", "name": "BAY LA BÈT"}, {"@type": "MusicRecording", "name": "On My Way"}, {"@type": "MusicRecording", "name": "Sòti Gwadloup"}, {"@type": "MusicRecording", "name": "Clean Body"}, {"@type": "MusicRecording", "name": "POMPÉ"}, {"@type": "MusicRecording", "name": "Coco"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/dcamp.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/dcamp.html#artist", "name": "Dcamp", "description": "Dcamp, Dylan Davis Campbell, auteur et interprète franco-créole, moitié du duo Dcamp & Lewismelo. Artiste principal de TOURNEVIS (2024), co-auteur des titres du duo, collaborateur d Admiral T sur You and Me et Sòti Gwadloup et de T-Stone sur Lushenana.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "TOURNEVIS"}, {"@type": "MusicRecording", "name": "BOUYON"}, {"@type": "MusicRecording", "name": "YOU AND ME"}, {"@type": "MusicRecording", "name": "LUSHENANA"}, {"@type": "MusicRecording", "name": "BAY LA BÈT"}, {"@type": "MusicRecording", "name": "On My Way"}, {"@type": "MusicRecording", "name": "Sòti Gwadloup"}, {"@type": "MusicRecording", "name": "Clean Body"}, {"@type": "MusicRecording", "name": "POMPÉ"}, {"@type": "MusicRecording", "name": "Coco"},
+      {
+       "@type": "MusicRecording",
+       "name": "LET'S MAKE A BABY"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "N.W.A [NÈG WITH ATTITUDE]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "COPAIN COPINE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LA BOULANGERIE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BODY COUNT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "IL ETAIT UNE FOIS"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BAY LA BÈT (Extended)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BOUG GWADA"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I BYEN BROKE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pani Konbin (feat. Lewismelo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bel Fanm a Linet"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Es I Ka Plèw"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "CALIENTE (feat. LEWISMELO & DCAMP)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PINPON RIDDIM (feat. DJ LUCHSHIY, Fredo Pichi, Lewismelo & Dcamp)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "GOUTÉW"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Happy Birthday (feat. Dcamp)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "JENN BOSS"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -163,6 +232,75 @@ EN = {
   ("Is Dcamp related to Admiral T, whose name is also Campbell?", "No source consulted for this profile says so. The video credits name a manager called Jessica Campbell and Admiral T carries the Campbell name in his published biographies, but no verified document describes a family relation between Dcamp, Lewismelo and Admiral T. This site therefore does not state one."),
   ("Where should I start listening to Dcamp?", "Start with BOUYON, the duo manifesto title, then TOURNEVIS for Dcamp as lead artist, YOU AND ME for his collaboration with Admiral T, and LUSHENANA for the one with T-Stone. This site <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> then places those titles back inside the full bouyon scene.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/dcamp.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/dcamp.html#artist", "name": "Dcamp", "description": "Dcamp, Dylan Davis Campbell, French Creole writer and performer, one half of the duo Dcamp & Lewismelo. Lead artist of TOURNEVIS (2024), co-writer of the duo titles, collaborator of Admiral T on You and Me and Soti Gwadloup and of T-Stone on Lushenana.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "TOURNEVIS"}, {"@type": "MusicRecording", "name": "BOUYON"}, {"@type": "MusicRecording", "name": "YOU AND ME"}, {"@type": "MusicRecording", "name": "LUSHENANA"}, {"@type": "MusicRecording", "name": "BAY LA BÈT"}, {"@type": "MusicRecording", "name": "On My Way"}, {"@type": "MusicRecording", "name": "Sòti Gwadloup"}, {"@type": "MusicRecording", "name": "Clean Body"}, {"@type": "MusicRecording", "name": "POMPÉ"}, {"@type": "MusicRecording", "name": "Coco"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/dcamp.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/dcamp.html#artist", "name": "Dcamp", "description": "Dcamp, Dylan Davis Campbell, French Creole writer and performer, one half of the duo Dcamp & Lewismelo. Lead artist of TOURNEVIS (2024), co-writer of the duo titles, collaborator of Admiral T on You and Me and Soti Gwadloup and of T-Stone on Lushenana.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "TOURNEVIS"}, {"@type": "MusicRecording", "name": "BOUYON"}, {"@type": "MusicRecording", "name": "YOU AND ME"}, {"@type": "MusicRecording", "name": "LUSHENANA"}, {"@type": "MusicRecording", "name": "BAY LA BÈT"}, {"@type": "MusicRecording", "name": "On My Way"}, {"@type": "MusicRecording", "name": "Sòti Gwadloup"}, {"@type": "MusicRecording", "name": "Clean Body"}, {"@type": "MusicRecording", "name": "POMPÉ"}, {"@type": "MusicRecording", "name": "Coco"},
+      {
+       "@type": "MusicRecording",
+       "name": "LET'S MAKE A BABY"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "N.W.A [NÈG WITH ATTITUDE]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "COPAIN COPINE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LA BOULANGERIE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BODY COUNT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "IL ETAIT UNE FOIS"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BAY LA BÈT (Extended)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BOUG GWADA"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I BYEN BROKE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pani Konbin (feat. Lewismelo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bel Fanm a Linet"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Es I Ka Plèw"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "CALIENTE (feat. LEWISMELO & DCAMP)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PINPON RIDDIM (feat. DJ LUCHSHIY, Fredo Pichi, Lewismelo & Dcamp)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "GOUTÉW"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Happy Birthday (feat. Dcamp)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "JENN BOSS"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
