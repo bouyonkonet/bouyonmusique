@@ -76,7 +76,252 @@ FR = {
   ("J2MO est-il aussi un label ?", "Oui, selon les catalogues ouverts pour ce profil. Qobuz montre le nom J2MO comme éditeur de « Tchimbé Sa » de Sweety en janvier 2023, de « What You Do » de LETID en janvier 2024, de quatre titres de Catch en 2024, « T-Max », « Longtime », « TOGETHER » et « Grip Me Down », et de « Sexy Gyal » de Mafiaboy en novembre 2025. Ses propres titres « Push Back », « RIDDIM UP MIX » et « OK BOOM MIXXX » portent aussi le label J2MO sur leurs fiches Shazam."),
   ("Où écouter J2MO ?", "Commencez par « Bèl Fèss Bèl Chatte » avec Miky Ding La et <a href=\"/deejay-guyguy.html\">Deejay Guyguy</a>, puis le « Mega Mix High Lights Riddim » pour le format riddim, la série Riddim Up de 2025 pour ses instrumentaux récents, et ses mixes Ok Boom et WYFL sur sa chaîne pour sa sélection du circuit. Notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> suit la même scène, de la Dominique aux Antilles françaises.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/j2mo.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/j2mo.html#artist", "name": "J2MO", "description": "Producteur et beatmaker bouyon et shatta des Antilles françaises, actif en crédits depuis 2015, signature The Beat Cooker. Crédité sur Bèl Fèss Bèl Chatte avec Miky Ding La et Deejay Guyguy, sur le High Lights Riddim et la série Riddim Up, et éditeur sous le label J2MO de titres de Sweety, Catch, LETID et Mafiaboy. Le nom Christophe Démocrite revient dans les crédits de composition, de production ou de mastering de presque tous ses titres.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Si kontwol"}, {"@type": "MusicRecording", "name": "Mega Mix High Lights Riddim"}, {"@type": "MusicRecording", "name": "Bay Volum"}, {"@type": "MusicRecording", "name": "Gold Color (Riddim)"}, {"@type": "MusicRecording", "name": "Pansyon"}, {"@type": "MusicRecording", "name": "Tchimbé Sa"}, {"@type": "MusicRecording", "name": "Push Back"}, {"@type": "MusicRecording", "name": "Mad Love Riddim (The Beat Cooker)"}, {"@type": "MusicRecording", "name": "RIDDIM UP MIX"}, {"@type": "MusicRecording", "name": "OK BOOM MIXXX"}, {"@type": "MusicRecording", "name": "Bèl Fèss Bèl Chatte"}, {"@type": "MusicRecording", "name": "MAGIC TROPICAL RIDDIM"}, {"@type": "MusicRecording", "name": "Future Riddim (By J2MO)"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/j2mo.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/j2mo.html#artist", "name": "J2MO", "description": "Producteur et beatmaker bouyon et shatta des Antilles françaises, actif en crédits depuis 2015, signature The Beat Cooker. Crédité sur Bèl Fèss Bèl Chatte avec Miky Ding La et Deejay Guyguy, sur le High Lights Riddim et la série Riddim Up, et éditeur sous le label J2MO de titres de Sweety, Catch, LETID et Mafiaboy. Le nom Christophe Démocrite revient dans les crédits de composition, de production ou de mastering de presque tous ses titres.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Si kontwol"}, {"@type": "MusicRecording", "name": "Mega Mix High Lights Riddim"}, {"@type": "MusicRecording", "name": "Bay Volum"}, {"@type": "MusicRecording", "name": "Gold Color (Riddim)"}, {"@type": "MusicRecording", "name": "Pansyon"}, {"@type": "MusicRecording", "name": "Tchimbé Sa"}, {"@type": "MusicRecording", "name": "Push Back"}, {"@type": "MusicRecording", "name": "Mad Love Riddim (The Beat Cooker)"}, {"@type": "MusicRecording", "name": "RIDDIM UP MIX"}, {"@type": "MusicRecording", "name": "OK BOOM MIXXX"}, {"@type": "MusicRecording", "name": "Bèl Fèss Bèl Chatte"}, {"@type": "MusicRecording", "name": "MAGIC TROPICAL RIDDIM"}, {"@type": "MusicRecording", "name": "Future Riddim (By J2MO)"},
+      {
+       "@type": "MusicRecording",
+       "name": "Sea & Sun"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "French Gyal riddim"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ghost Riddim"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Back To School"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Riddim Up Nou Kay"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MAGIC CARIBBEAN RIDDIM"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MAGIC EXOTIC RIDDIM"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Street Fighter Riddim"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Riddim Up (By J2mo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "J2MO THE BEAT COOKER (RIDDIM UP START)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "What You Do"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Eat Dat"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Street Fifht Riddim (The Beat Cooker)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Zeb La Riddim (The Beat Cooker)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bon Kan Riddim (The Beat Cooker)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kalipute Riddim (The Beat Cooker)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TROMPER C'EST PAS BON"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Po A Banan Riddim (The Beat Cooker)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Vwayajé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Déanché'w"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Looking For"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "An Diw Wi"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bad Cinderella"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "On LoLo"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "300Mbres (Want You for Life)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "For Life Riddim (Instrumental)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Down Di Road"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Good Lights"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Koke"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bouyon Riddim Another (feat. J2mo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hi Hater (feat. J2MO)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ruff & Tuff"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Them Boats (feat. J2mo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sexy Gyal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TOK TOK TOK"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "moto (feat. j2mo & truan)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kout Bitin"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "GOOD 2 EAT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bat Tchou Zot"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ki Jan Ou Ka Touvey (KJKT)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Chip n Dale"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Grip Me Down"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TOGETHER"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Longtime"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "T-Max"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "CONFIANCE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "All I Want"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Douss"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Good It Good (feat. Catch & J2mo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Waist (feat. Lil Jelo & J2mo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Si ou té sav"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Banana"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Clown (feat. Prhymex & J2mo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Yinki baw"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Attirance"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bay dwet (Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bandwagon (feat. Gyz Smallz & J2mo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Take It To The Streets (Char Dance Riddim) (feat. J2mo & DjCm)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "HB WAR x WATCH (XXL) (feat. J2MO)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Gwo Fè Nwè"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pani ayen baw (feat. J2mo)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -149,6 +394,251 @@ EN = {
   ("Is J2MO also a label?", "Yes, according to the catalogues opened for this profile. Qobuz shows the J2MO name as publisher of “Tchimbé Sa” by Sweety in January 2023, of “What You Do” by LETID in January 2024, of four Catch tracks in 2024, “T-Max”, “Longtime”, “TOGETHER” and “Grip Me Down”, and of “Sexy Gyal” by Mafiaboy in November 2025. His own tracks “Push Back”, “RIDDIM UP MIX” and “OK BOOM MIXXX” also carry the J2MO label on their Shazam pages."),
   ("Where can I hear J2MO?", "Start with “Bèl Fèss Bèl Chatte” with Miky Ding La and <a href=\"/en/deejay-guyguy.html\">Deejay Guyguy</a>, then the “Mega Mix High Lights Riddim” for the riddim format, the Riddim Up series of 2025 for his recent instrumentals, and his Ok Boom and WYFL mixes on his channel for his selection of the circuit. Our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> follows the same scene, from Dominica to the French Antilles.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/j2mo.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/j2mo.html#artist", "name": "J2MO", "description": "Bouyon and shatta producer and beatmaker of the French Antilles, credited since 2015, signature The Beat Cooker. Credited on Bèl Fèss Bèl Chatte with Miky Ding La and Deejay Guyguy, on the High Lights Riddim and the Riddim Up series, and publisher under the J2MO label of tracks by Sweety, Catch, LETID and Mafiaboy. The name Christophe Démocrite returns in the composition, production or mastering credits of nearly all his tracks.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Si kontwol"}, {"@type": "MusicRecording", "name": "Mega Mix High Lights Riddim"}, {"@type": "MusicRecording", "name": "Bay Volum"}, {"@type": "MusicRecording", "name": "Gold Color (Riddim)"}, {"@type": "MusicRecording", "name": "Pansyon"}, {"@type": "MusicRecording", "name": "Tchimbé Sa"}, {"@type": "MusicRecording", "name": "Push Back"}, {"@type": "MusicRecording", "name": "Mad Love Riddim (The Beat Cooker)"}, {"@type": "MusicRecording", "name": "RIDDIM UP MIX"}, {"@type": "MusicRecording", "name": "OK BOOM MIXXX"}, {"@type": "MusicRecording", "name": "Bèl Fèss Bèl Chatte"}, {"@type": "MusicRecording", "name": "MAGIC TROPICAL RIDDIM"}, {"@type": "MusicRecording", "name": "Future Riddim (By J2MO)"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/j2mo.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/j2mo.html#artist", "name": "J2MO", "description": "Bouyon and shatta producer and beatmaker of the French Antilles, credited since 2015, signature The Beat Cooker. Credited on Bèl Fèss Bèl Chatte with Miky Ding La and Deejay Guyguy, on the High Lights Riddim and the Riddim Up series, and publisher under the J2MO label of tracks by Sweety, Catch, LETID and Mafiaboy. The name Christophe Démocrite returns in the composition, production or mastering credits of nearly all his tracks.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Si kontwol"}, {"@type": "MusicRecording", "name": "Mega Mix High Lights Riddim"}, {"@type": "MusicRecording", "name": "Bay Volum"}, {"@type": "MusicRecording", "name": "Gold Color (Riddim)"}, {"@type": "MusicRecording", "name": "Pansyon"}, {"@type": "MusicRecording", "name": "Tchimbé Sa"}, {"@type": "MusicRecording", "name": "Push Back"}, {"@type": "MusicRecording", "name": "Mad Love Riddim (The Beat Cooker)"}, {"@type": "MusicRecording", "name": "RIDDIM UP MIX"}, {"@type": "MusicRecording", "name": "OK BOOM MIXXX"}, {"@type": "MusicRecording", "name": "Bèl Fèss Bèl Chatte"}, {"@type": "MusicRecording", "name": "MAGIC TROPICAL RIDDIM"}, {"@type": "MusicRecording", "name": "Future Riddim (By J2MO)"},
+      {
+       "@type": "MusicRecording",
+       "name": "Sea & Sun"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "French Gyal riddim"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ghost Riddim"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Back To School"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Riddim Up Nou Kay"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MAGIC CARIBBEAN RIDDIM"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MAGIC EXOTIC RIDDIM"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Street Fighter Riddim"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Riddim Up (By J2mo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "J2MO THE BEAT COOKER (RIDDIM UP START)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "What You Do"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Eat Dat"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Street Fifht Riddim (The Beat Cooker)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Zeb La Riddim (The Beat Cooker)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bon Kan Riddim (The Beat Cooker)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kalipute Riddim (The Beat Cooker)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TROMPER C'EST PAS BON"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Po A Banan Riddim (The Beat Cooker)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Vwayajé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Déanché'w"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Looking For"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "An Diw Wi"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bad Cinderella"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "On LoLo"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "300Mbres (Want You for Life)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "For Life Riddim (Instrumental)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Down Di Road"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Good Lights"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Koke"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bouyon Riddim Another (feat. J2mo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hi Hater (feat. J2MO)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ruff & Tuff"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Them Boats (feat. J2mo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sexy Gyal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TOK TOK TOK"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "moto (feat. j2mo & truan)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kout Bitin"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "GOOD 2 EAT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bat Tchou Zot"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ki Jan Ou Ka Touvey (KJKT)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Chip n Dale"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Grip Me Down"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TOGETHER"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Longtime"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "T-Max"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "CONFIANCE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "All I Want"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Douss"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Good It Good (feat. Catch & J2mo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Waist (feat. Lil Jelo & J2mo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Si ou té sav"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Banana"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Clown (feat. Prhymex & J2mo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Yinki baw"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Attirance"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bay dwet (Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bandwagon (feat. Gyz Smallz & J2mo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Take It To The Streets (Char Dance Riddim) (feat. J2mo & DjCm)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "HB WAR x WATCH (XXL) (feat. J2MO)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Gwo Fè Nwè"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pani ayen baw (feat. J2mo)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
