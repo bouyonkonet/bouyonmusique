@@ -89,7 +89,428 @@ FR = {
   ("D’où vient Kevni ?", "Les sources consultées le documentent comme un artiste de la scène guadeloupéenne : c’est là que se trouvent son label, ses collaborations et le public de ses débuts, de Krys à TiiTii NBA. Aucune source consultée ne publie son lieu de naissance ni son nom complet, et ce profil ne les invente pas. Ici, la réponse est celle que le dossier permet, et rien de plus."),
   ("Où écouter Kevni et le bouyon de sa génération ?", "Ses titres sont disponibles sur les plateformes de streaming sous le nom Kevni, de « Boug an mwen » à l’album « EVERYWHERE I GO ». Pour le bouyon de Guadeloupe et de la Dominique, écoutez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> et lisez notre page d’<a href=\"/histoire.html\">histoire du bouyon</a>.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/kevni.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/kevni.html#artist", "name": "Kevni", "description": "Artiste créole de la scène dancehall et bouyon de Guadeloupe. Révélé sur Boug an mwen de Krys et Pompis en 2019, album EVERYWHERE I GO en 2024 chez Baby Nomore Music, quatre titres bouyon avec TiiTii NBA la même année.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'STOÏC'}, {"@type": "MusicRecording", "name": 'PROFÉSÈ'}, {"@type": "MusicRecording", "name": 'BÈL FLÈ'}, {"@type": "MusicRecording", "name": 'BOSS MAN'}, {"@type": "MusicRecording", "name": 'EVERYWHERE I GO'}, {"@type": "MusicRecording", "name": 'À QUOI TU SERS'}, {"@type": "MusicRecording", "name": 'SHEITAN'}, {"@type": "MusicRecording", "name": 'CONTRARIÉTÉ'}, {"@type": "MusicRecording", "name": 'TCHÈ MWEN MALAD'}, {"@type": "MusicRecording", "name": '2-2'}, {"@type": "MusicRecording", "name": 'IF U KNOW ME'}, {"@type": "MusicRecording", "name": 'Tourne Toi'}, {"@type": "MusicRecording", "name": 'Mové Machin'}, {"@type": "MusicRecording", "name": 'Boug an mwen'}, {"@type": "MusicRecording", "name": 'BIG BONDA'}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/kevni.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/kevni.html#artist", "name": "Kevni", "description": "Artiste créole de la scène dancehall et bouyon de Guadeloupe. Révélé sur Boug an mwen de Krys et Pompis en 2019, album EVERYWHERE I GO en 2024 chez Baby Nomore Music, quatre titres bouyon avec TiiTii NBA la même année.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'STOÏC'}, {"@type": "MusicRecording", "name": 'PROFÉSÈ'}, {"@type": "MusicRecording", "name": 'BÈL FLÈ'}, {"@type": "MusicRecording", "name": 'BOSS MAN'}, {"@type": "MusicRecording", "name": 'EVERYWHERE I GO'}, {"@type": "MusicRecording", "name": 'À QUOI TU SERS'}, {"@type": "MusicRecording", "name": 'SHEITAN'}, {"@type": "MusicRecording", "name": 'CONTRARIÉTÉ'}, {"@type": "MusicRecording", "name": 'TCHÈ MWEN MALAD'}, {"@type": "MusicRecording", "name": '2-2'}, {"@type": "MusicRecording", "name": 'IF U KNOW ME'}, {"@type": "MusicRecording", "name": 'Tourne Toi'}, {"@type": "MusicRecording", "name": 'Mové Machin'}, {"@type": "MusicRecording", "name": 'Boug an mwen'}, {"@type": "MusicRecording", "name": 'BIG BONDA'},
+      {
+       "@type": "MusicRecording",
+       "name": "BISCUIT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "REA (feat. Lil Dem)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Capiche"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "4 MATIC"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "From Nothing CHOPPA (Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ANDIRANS"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Gwadloup cho (feat. T-Way, Tone Bo$$, Dvinity, Aknose, Lil Dem, Latea & Kellingston)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Vié vi la bèl vi la"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ESCORTE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SOMEY"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "N'écoute pas"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ROLE (feat. AZ SOUND)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MONEY MO"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "IMAJINÉ"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ROCKSTA"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DONDADA BOSS"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MILLION CASH"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "JIMAN"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DI MWEN SA"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MOB$TA#3"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Entouré"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "RORO"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Evè kimoun (Loxymore One Shot)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "OG"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MOB$TA#2"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Broke (Le carré)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jah Knows"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ghetto Gyal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Twerk (feat. Railfé)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MOB$TA#1"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Apprends moi (feat. Goldn.B)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pa fè rol (feat. Natoxie) [Shattastyle]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fully Vybz"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Medellin (Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Gou Aw"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Girlfriend"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pwodui Lokal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Démons"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Différence (feat. Matieu White)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TCHU TCHU TCHU"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "They Know"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Summerhouse"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bad Boy Nini"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Vice (feat. Lyrrix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dousè"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Montego Bay"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Come Deh"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Schizophrène"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "FLQ"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Real Money Maker"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Top Boy"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Baby Mama (Lettre à une femme remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Poème"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "OK OK"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Freaky"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "L'alerte"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mi amor"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Si Manman'w té sav"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Belle île en mer"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Generasyon riské"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "On a fumé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nah F**k With Them (feat. Ken Vybz & Jmax)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tagada (feat. DJ Sayd)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Frère Jacques"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Olaleyley"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tchuyé mwen"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No friendzone"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bombe"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "J'te l'avais dit (feat. Ken Vybz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mizik"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Téléphone sone (feat. DJ Sayd)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sunday Love (feat. Swé)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Corsaire"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Happy New Year"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Peyi An Mwen"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fui mwen"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Salace (feat. Kevni)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pa Konnèt"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PUT IT IN (feat. Kevni & Dj softee) [REMIX BOUYON 2024]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Energy"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bbdp (feat. Kevni)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Freestyle No. 3 (feat. Kevni)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Like Woman (feat. Kevni, Edday, Larose & Yg Gucci)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "À la guerre (feat. Kevni)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Got a Feeling (feat. Kevni) [Bouyon Remix]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Charbonner (feat. Kevni)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Y.W.3 (feat. Kevni)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Deal (feat. Kevni)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dans La Ville"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Como Tú Hablas"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Seule (feat. Kevni)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Top shatta (feat. Kevni)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Badgal so Crazy, Pt. 6 (feat. Kevni)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mami (feat. Kevni)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "La même (feat. Kevni)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Warriors (feat. Kevni)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "San bléssé yo"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "AN MÉLÉ (feat. Kevni) [BOUYON 2024]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "WHAT'S POPPIN (feat. Kevni) [BOUYON 2024]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BAW SA (feat. Kevni) [BOUYON 2024]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "POMPEY (feat. Kevni) [BOUYON 2024]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "POP CHAMPAGNE (feat. Kevni) [BOUYON 2024]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "C QUOI LES BAILS (feat. Kevni) [BOUYON 2024]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BAD MOOD (feat. Kevni) [Bouyon 2024]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Vody Lavish (feat. Kevni) [Bouyon 2023]"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -171,6 +592,427 @@ EN = {
   ("Where is Kevni from?", "The sources consulted document him as an artist of the Guadeloupe scene: that is where his label, his collaborations and the audience of his beginnings are, from Krys to TiiTii NBA. No source consulted publishes his birthplace or his full name, and this profile does not invent them. Here, the answer is the one the record allows, and no more."),
   ("Where can I hear Kevni and the bouyon of his generation?", "His records are available on the streaming platforms under the name Kevni, from “Boug an mwen” to the album “EVERYWHERE I GO”. For bouyon from Guadeloupe and Dominica, hear our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> and read our <a href=\"/en/history.html\">history of bouyon</a> page.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/kevni.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/kevni.html#artist", "name": "Kevni", "description": "Creole artist of the Guadeloupe dancehall and bouyon scene. Broke through on Boug an mwen by Krys and Pompis in 2019, album EVERYWHERE I GO in 2024 on Baby Nomore Music, four bouyon records with TiiTii NBA the same year.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'STOÏC'}, {"@type": "MusicRecording", "name": 'PROFÉSÈ'}, {"@type": "MusicRecording", "name": 'BÈL FLÈ'}, {"@type": "MusicRecording", "name": 'BOSS MAN'}, {"@type": "MusicRecording", "name": 'EVERYWHERE I GO'}, {"@type": "MusicRecording", "name": 'À QUOI TU SERS'}, {"@type": "MusicRecording", "name": 'SHEITAN'}, {"@type": "MusicRecording", "name": 'CONTRARIÉTÉ'}, {"@type": "MusicRecording", "name": 'TCHÈ MWEN MALAD'}, {"@type": "MusicRecording", "name": '2-2'}, {"@type": "MusicRecording", "name": 'IF U KNOW ME'}, {"@type": "MusicRecording", "name": 'Tourne Toi'}, {"@type": "MusicRecording", "name": 'Mové Machin'}, {"@type": "MusicRecording", "name": 'Boug an mwen'}, {"@type": "MusicRecording", "name": 'BIG BONDA'}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/kevni.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/kevni.html#artist", "name": "Kevni", "description": "Creole artist of the Guadeloupe dancehall and bouyon scene. Broke through on Boug an mwen by Krys and Pompis in 2019, album EVERYWHERE I GO in 2024 on Baby Nomore Music, four bouyon records with TiiTii NBA the same year.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'STOÏC'}, {"@type": "MusicRecording", "name": 'PROFÉSÈ'}, {"@type": "MusicRecording", "name": 'BÈL FLÈ'}, {"@type": "MusicRecording", "name": 'BOSS MAN'}, {"@type": "MusicRecording", "name": 'EVERYWHERE I GO'}, {"@type": "MusicRecording", "name": 'À QUOI TU SERS'}, {"@type": "MusicRecording", "name": 'SHEITAN'}, {"@type": "MusicRecording", "name": 'CONTRARIÉTÉ'}, {"@type": "MusicRecording", "name": 'TCHÈ MWEN MALAD'}, {"@type": "MusicRecording", "name": '2-2'}, {"@type": "MusicRecording", "name": 'IF U KNOW ME'}, {"@type": "MusicRecording", "name": 'Tourne Toi'}, {"@type": "MusicRecording", "name": 'Mové Machin'}, {"@type": "MusicRecording", "name": 'Boug an mwen'}, {"@type": "MusicRecording", "name": 'BIG BONDA'},
+      {
+       "@type": "MusicRecording",
+       "name": "BISCUIT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "REA (feat. Lil Dem)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Capiche"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "4 MATIC"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "From Nothing CHOPPA (Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ANDIRANS"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Gwadloup cho (feat. T-Way, Tone Bo$$, Dvinity, Aknose, Lil Dem, Latea & Kellingston)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Vié vi la bèl vi la"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ESCORTE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SOMEY"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "N'écoute pas"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ROLE (feat. AZ SOUND)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MONEY MO"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "IMAJINÉ"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ROCKSTA"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DONDADA BOSS"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MILLION CASH"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "JIMAN"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DI MWEN SA"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MOB$TA#3"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Entouré"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "RORO"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Evè kimoun (Loxymore One Shot)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "OG"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MOB$TA#2"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Broke (Le carré)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jah Knows"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ghetto Gyal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Twerk (feat. Railfé)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MOB$TA#1"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Apprends moi (feat. Goldn.B)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pa fè rol (feat. Natoxie) [Shattastyle]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fully Vybz"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Medellin (Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Gou Aw"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Girlfriend"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pwodui Lokal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Démons"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Différence (feat. Matieu White)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TCHU TCHU TCHU"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "They Know"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Summerhouse"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bad Boy Nini"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Vice (feat. Lyrrix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dousè"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Montego Bay"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Come Deh"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Schizophrène"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "FLQ"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Real Money Maker"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Top Boy"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Baby Mama (Lettre à une femme remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Poème"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "OK OK"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Freaky"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "L'alerte"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mi amor"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Si Manman'w té sav"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Belle île en mer"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Generasyon riské"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "On a fumé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nah F**k With Them (feat. Ken Vybz & Jmax)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tagada (feat. DJ Sayd)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Frère Jacques"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Olaleyley"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tchuyé mwen"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No friendzone"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bombe"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "J'te l'avais dit (feat. Ken Vybz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mizik"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Téléphone sone (feat. DJ Sayd)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sunday Love (feat. Swé)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Corsaire"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Happy New Year"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Peyi An Mwen"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fui mwen"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Salace (feat. Kevni)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pa Konnèt"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PUT IT IN (feat. Kevni & Dj softee) [REMIX BOUYON 2024]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Energy"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bbdp (feat. Kevni)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Freestyle No. 3 (feat. Kevni)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Like Woman (feat. Kevni, Edday, Larose & Yg Gucci)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "À la guerre (feat. Kevni)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Got a Feeling (feat. Kevni) [Bouyon Remix]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Charbonner (feat. Kevni)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Y.W.3 (feat. Kevni)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Deal (feat. Kevni)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dans La Ville"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Como Tú Hablas"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Seule (feat. Kevni)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Top shatta (feat. Kevni)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Badgal so Crazy, Pt. 6 (feat. Kevni)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mami (feat. Kevni)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "La même (feat. Kevni)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Warriors (feat. Kevni)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "San bléssé yo"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "AN MÉLÉ (feat. Kevni) [BOUYON 2024]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "WHAT'S POPPIN (feat. Kevni) [BOUYON 2024]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BAW SA (feat. Kevni) [BOUYON 2024]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "POMPEY (feat. Kevni) [BOUYON 2024]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "POP CHAMPAGNE (feat. Kevni) [BOUYON 2024]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "C QUOI LES BAILS (feat. Kevni) [BOUYON 2024]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BAD MOOD (feat. Kevni) [Bouyon 2024]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Vody Lavish (feat. Kevni) [Bouyon 2023]"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
