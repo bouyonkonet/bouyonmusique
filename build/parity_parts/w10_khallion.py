@@ -87,7 +87,428 @@ FR = {
   ("Khallion a-t-il été nommé aux Caribbean Music Awards ?", "Oui. La liste des artistes bouyon dominicains nommés pour l'édition 2026, publiée à l'occasion du parrainage des catégories bouyon par le gouvernement de la Dominique, comprend Khallion aux côtés d'Asa Bantan, Dirty Dawg Pudaz, Mr. Ridge, Reo, Shelly & Signal Band, Trilla G et Shiloh. Les nominations couvrent les catégories Artiste bouyon de l'année et Chanson bouyon de l'année."),
   ("Où écouter Khallion ?", "Commencez par « Stand Up », « Put That On That » et « Bend Down ». Audiomack Caribbean affiche Khallion en couverture de sa playlist Discover: Bouyon, et notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> place ses titres dans le contexte de la nouvelle génération dominicaine.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/khallion.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/khallion.html#artist", "name": "Khallion", "description": "Artiste bouyon de la Dominique et ingénieur de mixage et de mastering. Les crédits publiés donnent son nom complet : Bertist Khallion Jeffers. Artiste sur le single Stand Up de Konshens en 2026, auteur de l'album 777 Di Bouyon Rockstar (2025), nommé aux Caribbean Music Awards 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Stand Up'}, {"@type": "MusicRecording", "name": 'Put That On That'}, {"@type": "MusicRecording", "name": 'Bend Down'}, {"@type": "MusicRecording", "name": 'Nobody Else'}, {"@type": "MusicRecording", "name": 'Only You'}, {"@type": "MusicRecording", "name": 'Never Wanna Let You Go'}, {"@type": "MusicRecording", "name": 'Rose Zing Zing'}, {"@type": "MusicRecording", "name": 'How To Love'}, {"@type": "MusicRecording", "name": 'I Know They Hating'}, {"@type": "MusicRecording", "name": "Sorry, Ain't Sorry"}, {"@type": "MusicRecording", "name": 'I Choose You'}, {"@type": "MusicRecording", "name": 'Not A Word'}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/khallion.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/khallion.html#artist", "name": "Khallion", "description": "Artiste bouyon de la Dominique et ingénieur de mixage et de mastering. Les crédits publiés donnent son nom complet : Bertist Khallion Jeffers. Artiste sur le single Stand Up de Konshens en 2026, auteur de l'album 777 Di Bouyon Rockstar (2025), nommé aux Caribbean Music Awards 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Stand Up'}, {"@type": "MusicRecording", "name": 'Put That On That'}, {"@type": "MusicRecording", "name": 'Bend Down'}, {"@type": "MusicRecording", "name": 'Nobody Else'}, {"@type": "MusicRecording", "name": 'Only You'}, {"@type": "MusicRecording", "name": 'Never Wanna Let You Go'}, {"@type": "MusicRecording", "name": 'Rose Zing Zing'}, {"@type": "MusicRecording", "name": 'How To Love'}, {"@type": "MusicRecording", "name": 'I Know They Hating'}, {"@type": "MusicRecording", "name": "Sorry, Ain't Sorry"}, {"@type": "MusicRecording", "name": 'I Choose You'}, {"@type": "MusicRecording", "name": 'Not A Word'},
+      {
+       "@type": "MusicRecording",
+       "name": "Throttle (feat. Kalii)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Not Giving Up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wet Fete"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "R.I.P"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stand Up (Radio Edit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stand Up (Raw)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Out Here"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Arch Your Back (feat. Green Apple)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "They Hating On Us (feat. Top Boy & Green Apple)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rum Dat Do Me Dat (feat. Reo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shake It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Put That On That (Remastered)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Put That On That (Riddim)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Can't Leave You Alone"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Can't Leave You Alone (Riddim)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Left & Right (feat. Burkelle)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "How To Love (Radio Edit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doh Watch Me"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Warm Up (Friends Like You)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Heal My Pain (feat. DeeArr)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Frienemy"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ride Or Die"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Everything I Have"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hot Like Fire"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Them Boys Is Girls"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doh Do Me Dirty"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Code Check (Radio Edit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Headshot (Radio Edit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "How Much (Radio Edit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "They Don't Understand (Radio Edit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "From Da Trap"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Try"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Like Your Style"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Watch Me"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dear Me (feat. O Banga)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pain (feat. ZoeZ)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Better Way"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Make It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Love Language"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stack It Up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "On Di Road"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fresh Start (Radio Edit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Win (Radio Edit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sick Chick (Radio Edit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Like It (feat. 4thward Amillio & Skii Nation) [Radio Edit]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Drip Hard (feat. J.R.)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Good Day (feat. 4thward Amillio) [Radio Edit]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Addicted pt2 (feat. 4thward Amillio)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Play a Player (Radio Edit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Broken Girl (feat. J.R.)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Journey"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Body"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bad & Bougie"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shake That Ass"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "The Boss (feat. JayRock Jax)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Street Life"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stay Strong"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Outro"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Thug Loving (feat. Shoke Shoke)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rubber Bands"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Out the Mud"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Thief In the Night (feat. Christon Clarke Music)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sounds Like a Love Song"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Chasing My Dreams"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Eyes Closed"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Spoil You (feat. DeeArr)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Soldier"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cash"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Heart Breaker (feat. Sledge Hammah)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Panty"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dora"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stacking Di Paper (feat. Sledge HammaH & Top Boy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Losing You"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Strong"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Top Gyallis (feat. Top Boy, Sledge HammaH & Lil Richie)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Struggle pt2 (feat. Christon Clarke)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Streets Cold (feat. Gyz Smallz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "System (feat. Sledge HammaH)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sweet Chocolisto"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fly Chick (feat. Che)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Final Hour (feat. Kenty BNC)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Feel Me (feat. JR)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Long Bamboo"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Flirt"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Time (feat. Karma Klassic)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "On a Rise (feat. J-T)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Carnival Hero (feat. Sledge HammaH)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stand Tall (feat. J-T)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Places (feat. J-T)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Topic"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Struggle"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Whine (feat. Coipy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Inside"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No War (feat. LiLi) [Bonus Track]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hula Hoop (feat. Star Martin & Khallion)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "One Last Chance (feat. Latest & XHD, Khallion & King Kembe)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Waistline"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shut Up (feat. Reo & Khallion) [Remix]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Take Your Time (feat. Khallion)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "What you cheating for (feat. Khallion)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stop Playin' (feat. Khallion & DeeArr)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Only You Groovy (Radio Edit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Like Fire (feat. Khallion)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "In The City (feat. Khallion)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Slow Whine (feat. Khallion & Sledge Hammah)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -167,6 +588,427 @@ EN = {
   ("Was Khallion nominated at the Caribbean Music Awards?", "Yes. The list of Dominican bouyon artistes nominated for the 2026 edition, published with the Government of Dominica sponsorship of the bouyon categories, includes Khallion alongside Asa Bantan, Dirty Dawg Pudaz, Mr. Ridge, Reo, Shelly & Signal Band, Trilla G and Shiloh. The nominations span the Bouyon Artist of the Year and Bouyon Song of the Year categories."),
   ("Where can I hear Khallion?", "Start with “Stand Up”, “Put That On That” and “Bend Down”. Audiomack Caribbean shows Khallion as the cover artist of its Discover: Bouyon playlist, and our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> places his records in the context of the new Dominican generation.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/khallion.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/khallion.html#artist", "name": "Khallion", "description": "Bouyon artist from Dominica and mix and master engineer. Published credits give his full name as Bertist Khallion Jeffers. Artist on the 2026 Konshens single Stand Up, author of the album 777 Di Bouyon Rockstar (2025), nominated at the 2026 Caribbean Music Awards.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Stand Up'}, {"@type": "MusicRecording", "name": 'Put That On That'}, {"@type": "MusicRecording", "name": 'Bend Down'}, {"@type": "MusicRecording", "name": 'Nobody Else'}, {"@type": "MusicRecording", "name": 'Only You'}, {"@type": "MusicRecording", "name": 'Never Wanna Let You Go'}, {"@type": "MusicRecording", "name": 'Rose Zing Zing'}, {"@type": "MusicRecording", "name": 'How To Love'}, {"@type": "MusicRecording", "name": 'I Know They Hating'}, {"@type": "MusicRecording", "name": "Sorry, Ain't Sorry"}, {"@type": "MusicRecording", "name": 'I Choose You'}, {"@type": "MusicRecording", "name": 'Not A Word'}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/khallion.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/khallion.html#artist", "name": "Khallion", "description": "Bouyon artist from Dominica and mix and master engineer. Published credits give his full name as Bertist Khallion Jeffers. Artist on the 2026 Konshens single Stand Up, author of the album 777 Di Bouyon Rockstar (2025), nominated at the 2026 Caribbean Music Awards.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Stand Up'}, {"@type": "MusicRecording", "name": 'Put That On That'}, {"@type": "MusicRecording", "name": 'Bend Down'}, {"@type": "MusicRecording", "name": 'Nobody Else'}, {"@type": "MusicRecording", "name": 'Only You'}, {"@type": "MusicRecording", "name": 'Never Wanna Let You Go'}, {"@type": "MusicRecording", "name": 'Rose Zing Zing'}, {"@type": "MusicRecording", "name": 'How To Love'}, {"@type": "MusicRecording", "name": 'I Know They Hating'}, {"@type": "MusicRecording", "name": "Sorry, Ain't Sorry"}, {"@type": "MusicRecording", "name": 'I Choose You'}, {"@type": "MusicRecording", "name": 'Not A Word'},
+      {
+       "@type": "MusicRecording",
+       "name": "Throttle (feat. Kalii)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Not Giving Up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wet Fete"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "R.I.P"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stand Up (Radio Edit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stand Up (Raw)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Out Here"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Arch Your Back (feat. Green Apple)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "They Hating On Us (feat. Top Boy & Green Apple)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rum Dat Do Me Dat (feat. Reo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shake It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Put That On That (Remastered)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Put That On That (Riddim)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Can't Leave You Alone"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Can't Leave You Alone (Riddim)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Left & Right (feat. Burkelle)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "How To Love (Radio Edit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doh Watch Me"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Warm Up (Friends Like You)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Heal My Pain (feat. DeeArr)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Frienemy"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ride Or Die"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Everything I Have"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hot Like Fire"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Them Boys Is Girls"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doh Do Me Dirty"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Code Check (Radio Edit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Headshot (Radio Edit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "How Much (Radio Edit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "They Don't Understand (Radio Edit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "From Da Trap"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Try"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Like Your Style"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Watch Me"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dear Me (feat. O Banga)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pain (feat. ZoeZ)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Better Way"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Make It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Love Language"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stack It Up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "On Di Road"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fresh Start (Radio Edit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Win (Radio Edit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sick Chick (Radio Edit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Like It (feat. 4thward Amillio & Skii Nation) [Radio Edit]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Drip Hard (feat. J.R.)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Good Day (feat. 4thward Amillio) [Radio Edit]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Addicted pt2 (feat. 4thward Amillio)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Play a Player (Radio Edit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Broken Girl (feat. J.R.)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Journey"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Body"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bad & Bougie"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shake That Ass"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "The Boss (feat. JayRock Jax)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Street Life"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stay Strong"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Outro"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Thug Loving (feat. Shoke Shoke)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rubber Bands"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Out the Mud"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Thief In the Night (feat. Christon Clarke Music)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sounds Like a Love Song"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Chasing My Dreams"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Eyes Closed"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Spoil You (feat. DeeArr)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Soldier"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cash"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Heart Breaker (feat. Sledge Hammah)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Panty"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dora"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stacking Di Paper (feat. Sledge HammaH & Top Boy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Losing You"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Strong"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Top Gyallis (feat. Top Boy, Sledge HammaH & Lil Richie)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Struggle pt2 (feat. Christon Clarke)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Streets Cold (feat. Gyz Smallz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "System (feat. Sledge HammaH)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sweet Chocolisto"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fly Chick (feat. Che)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Final Hour (feat. Kenty BNC)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Feel Me (feat. JR)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Long Bamboo"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Flirt"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Time (feat. Karma Klassic)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "On a Rise (feat. J-T)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Carnival Hero (feat. Sledge HammaH)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stand Tall (feat. J-T)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Places (feat. J-T)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Topic"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Struggle"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Whine (feat. Coipy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Inside"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No War (feat. LiLi) [Bonus Track]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hula Hoop (feat. Star Martin & Khallion)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "One Last Chance (feat. Latest & XHD, Khallion & King Kembe)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Waistline"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shut Up (feat. Reo & Khallion) [Remix]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Take Your Time (feat. Khallion)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "What you cheating for (feat. Khallion)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stop Playin' (feat. Khallion & DeeArr)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Only You Groovy (Radio Edit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Like Fire (feat. Khallion)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "In The City (feat. Khallion)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Slow Whine (feat. Khallion & Sledge Hammah)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
