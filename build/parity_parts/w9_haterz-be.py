@@ -62,7 +62,24 @@ FR = {
   ("D’où vient Haterz BE ?", "Ce n’est pas documenté non plus. Ni la Dominique, ni la Guadeloupe, ni la Martinique, ni aucun autre territoire ne peut être attribué à ce nom dans l’état des sources, et le titre de cette page le situe prudemment dans la Caraïbe au sens large. Toute affirmation plus précise attendra une preuve : un titre, un article ou un compte officiel."),
   ("Comment faire corriger ou compléter ce profil ?", "En apportant un élément vérifiable : le lien d’un titre officiel, une fiche de plateforme au nom de Haterz BE, un article de presse ou la confirmation d’un compte officiel par l’artiste ou son entourage. Le profil sera alors réécrit avec les faits sourcés, la liste des titres contrôlée un par un, et la date de mise à jour, selon la règle appliquée à toutes les pages de bouyonmusique.com.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/haterz-be.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/haterz-be.html#artist", "name": "Haterz BE", "description": "Nom figurant dans les listes d’artistes du bouyon. Aucun titre, catalogue ou compte officiel vérifiable n’a été trouvé sous ce nom lors de la recherche du 20 octobre 2026.", "genre": "Bouyon", "track": [], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/haterz-be.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/haterz-be.html#artist", "name": "Haterz BE", "description": "Nom figurant dans les listes d’artistes du bouyon. Aucun titre, catalogue ou compte officiel vérifiable n’a été trouvé sous ce nom lors de la recherche du 20 octobre 2026.", "genre": "Bouyon", "track": [
+      {
+       "@type": "MusicRecording",
+       "name": "Bas de chez toi"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ti Moun a Moun La (feat. Haterz B & DJ Skaytah)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cookie (feat. Haterz'Be)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Too Young For Cock (feat. Haterz’Be)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -119,6 +136,23 @@ EN = {
   ("Where is Haterz BE from?", "That is not documented either. Neither Dominica, nor Guadeloupe, nor Martinique, nor any other territory can be assigned to this name on the current record, and this page title prudently places it in the Caribbean in the broad sense. Any more precise claim will wait for proof: a track, an article or an official account."),
   ("How can this profile be corrected or completed?", "By bringing one verifiable element: the link of an official track, a platform page under the name Haterz BE, a press article, or the confirmation of an official account by the artist or their circle. The profile will then be rewritten with sourced facts, a track list checked one by one, and the update date, under the rule applied to every page of bouyonmusique.com.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/haterz-be.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/haterz-be.html#artist", "name": "Haterz BE", "description": "Name appearing in bouyon artist listings. No verifiable track, catalog or official account was found under this name during the research of October 20, 2026.", "genre": "Bouyon", "track": [], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/haterz-be.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/haterz-be.html#artist", "name": "Haterz BE", "description": "Name appearing in bouyon artist listings. No verifiable track, catalog or official account was found under this name during the research of October 20, 2026.", "genre": "Bouyon", "track": [
+      {
+       "@type": "MusicRecording",
+       "name": "Bas de chez toi"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ti Moun a Moun La (feat. Haterz B & DJ Skaytah)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cookie (feat. Haterz'Be)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Too Young For Cock (feat. Haterz’Be)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

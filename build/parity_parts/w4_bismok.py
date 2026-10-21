@@ -78,7 +78,36 @@ FR = {
   ("D’où vient Bismok ?", "Le dossier public consulté ne le dit pas. Le cercle de 1T1, dans lequel le nom apparaît, est guadeloupéen, et « Boué'y » est un titre en français des Antilles, mais aucune source ne publie l’origine de Bismok lui même : ni île, ni commune, ni nom complet. Ce profil rattache le nom à la scène par ses crédits et s’abstient d’inventer le reste."),
   ("Bismok a-t-il un lien avec Bismarck ou Bismut ?", "Non. Ce sont des homonymes sans rapport : Bismarck renvoie au cuirassé allemand et à un titre country de 1960, Bismut est un groupe néerlandais de rock psychédélique, et Beo Smook est un rappeur américain. Aucun fait de ces noms voisins n’appartient à l’artiste bouyon Bismok.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/bismok.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/bismok.html#artist", "name": "Bismok", "description": "Nom d’artiste du bouyon de Guadeloupe attesté par deux crédits vérifiés : le single Boué'y (7 novembre 2023, iMD- DRECORDS) et un featuring sur Mas La Rivé de 1T1 (12 janvier 2024). Aucune biographie publiée dans les sources consultées.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Boué'y"}, {"@type": "MusicRecording", "name": "Mas La Rivé"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/bismok.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/bismok.html#artist", "name": "Bismok", "description": "Nom d’artiste du bouyon de Guadeloupe attesté par deux crédits vérifiés : le single Boué'y (7 novembre 2023, iMD- DRECORDS) et un featuring sur Mas La Rivé de 1T1 (12 janvier 2024). Aucune biographie publiée dans les sources consultées.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Boué'y"}, {"@type": "MusicRecording", "name": "Mas La Rivé"},
+      {
+       "@type": "MusicRecording",
+       "name": "Marbella"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "A ki lè ?"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Coco"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Les bails (feat. Bismok & TIKOB)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "IL ÉTAIT UNE FOIS (feat. Theomaa & Bismok)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LOVÉ (feat. BISMOK)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bouyonstyle, No. 1"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -153,6 +182,35 @@ EN = {
   ("Where does Bismok come from?", "The public record consulted does not say. The circle of 1T1, in which the name appears, is Guadeloupean, and “Boué'y” is a record in the French of the Antilles, but no source publishes the origin of Bismok himself: no island, no commune, no full name. This profile attaches the name to the scene through its credits and refrains from inventing the rest."),
   ("Is Bismok connected to Bismarck or Bismut?", "No. Those are unrelated namesakes: Bismarck points to the German battleship and a country title from 1960, Bismut is a Dutch psychedelic rock band, and Beo Smook is an American rapper. No fact from those neighbouring names belongs to the bouyon artist Bismok.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/bismok.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/bismok.html#artist", "name": "Bismok", "description": "Artist name from Guadeloupe bouyon documented by two verified credits: the single Boué'y (7 November 2023, iMD- DRECORDS) and a feature on Mas La Rivé by 1T1 (12 January 2024). No biography published in the sources consulted.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Boué'y"}, {"@type": "MusicRecording", "name": "Mas La Rivé"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/bismok.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/bismok.html#artist", "name": "Bismok", "description": "Artist name from Guadeloupe bouyon documented by two verified credits: the single Boué'y (7 November 2023, iMD- DRECORDS) and a feature on Mas La Rivé by 1T1 (12 January 2024). No biography published in the sources consulted.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Boué'y"}, {"@type": "MusicRecording", "name": "Mas La Rivé"},
+      {
+       "@type": "MusicRecording",
+       "name": "Marbella"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "A ki lè ?"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Coco"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Les bails (feat. Bismok & TIKOB)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "IL ÉTAIT UNE FOIS (feat. Theomaa & Bismok)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LOVÉ (feat. BISMOK)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bouyonstyle, No. 1"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

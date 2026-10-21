@@ -76,7 +76,24 @@ FR = {
   ("D où vient Money Shaun ?", "Le dossier public ne le dit pas, et ce profil ne l invente pas. Aucune source consultée ne donne sa ville ni son pays d origine. Ce qui est documenté, c est son circuit : un producteur dominicain, Ridge, un studio, Cross D Bridge Studio, un label, More Sewo, et des titres classés par les DJs dans les sélections bouyon de Dominique. Son origine personnelle reste à confirmer par l artiste ou son entourage."),
   ("Où écouter Money Shaun ?", "Par la vidéo officielle de She Want That Ah publiée sous le nom de Mr Ridge, et par les mixes qui programment ses deux titres : Soca Passport de DJ Close Connections, Sewo Jam 2023-2024 de Digga D, le Miami Carnival Soca Mix 2024 de Deejblaze ou le mix Carnaval 2024 de DJ T-Sia. Suivez aussi notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/money-shaun.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/money-shaun.html#artist", "name": "Money Shaun", "description": "Voix bouyon connue par ses featuring avec Ridge : She Want That Ah, produit par Cross D Bridge Studio et More Sewo, et She Stupid avec Ridge et 1T1. Aucune biographie officielle publiée à ce jour.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "She Want That Ah"}, {"@type": "MusicRecording", "name": "She Stupid"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/money-shaun.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/money-shaun.html#artist", "name": "Money Shaun", "description": "Voix bouyon connue par ses featuring avec Ridge : She Want That Ah, produit par Cross D Bridge Studio et More Sewo, et She Stupid avec Ridge et 1T1. Aucune biographie officielle publiée à ce jour.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "She Want That Ah"}, {"@type": "MusicRecording", "name": "She Stupid"},
+      {
+       "@type": "MusicRecording",
+       "name": "OU VLE VWEY"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "RAT EAT MY FEELINGS (feat. Money shaun)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TILILI (feat. Latop & Money Shaun)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "She Wan That Ah"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -145,6 +162,23 @@ EN = {
   ("Where is Money Shaun from?", "The public record does not say, and this profile does not invent it. No source consulted gives his town or his country of origin. What is documented is his circuit: a Dominican producer, Ridge, a studio, Cross D Bridge Studio, a label, More Sewo, and records filed by DJs inside Dominica bouyon selections. His personal origin remains to be confirmed by the artist or his circle."),
   ("Where can I hear Money Shaun?", "Through the official She Want That Ah video released under the name of Mr Ridge, and through the mixes that programme his two records: DJ Close Connections Soca Passport, Digga D Sewo Jam 2023-2024, Deejblaze Miami Carnival Soca Mix 2024 or DJ T-Sia Carnaval 2024 mix. Follow our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> as well.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/money-shaun.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/money-shaun.html#artist", "name": "Money Shaun", "description": "Bouyon voice known through his features with Ridge: She Want That Ah, produced by Cross D Bridge Studio and More Sewo, and She Stupid with Ridge and 1T1. No official biography published to date.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "She Want That Ah"}, {"@type": "MusicRecording", "name": "She Stupid"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/money-shaun.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/money-shaun.html#artist", "name": "Money Shaun", "description": "Bouyon voice known through his features with Ridge: She Want That Ah, produced by Cross D Bridge Studio and More Sewo, and She Stupid with Ridge and 1T1. No official biography published to date.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "She Want That Ah"}, {"@type": "MusicRecording", "name": "She Stupid"},
+      {
+       "@type": "MusicRecording",
+       "name": "OU VLE VWEY"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "RAT EAT MY FEELINGS (feat. Money shaun)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TILILI (feat. Latop & Money Shaun)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "She Wan That Ah"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

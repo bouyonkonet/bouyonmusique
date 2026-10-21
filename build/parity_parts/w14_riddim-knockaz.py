@@ -68,7 +68,40 @@ FR = {
   ("Quel rôle le groupe a-t-il tenu au lancement de Mas Domnik 2026 ?", "Un rôle de premier plan pour un band : Riddim Knockaz et TK Combo étaient les deux prestations live annoncées du lancement officiel, le 28 novembre 2025 à The Factory, sur Valley Road, aux côtés de plusieurs DJs dont DJ MJ and MV on the Keys et DJ Taffy. L’événement, organisé par le ministère du Tourisme et la Discover Dominica Authority, ouvrait la saison de carnaval 2026."),
   ("Où écouter Riddim Knockaz et le bouyon des bands ?", "Commencez par « Bright and Creamy » sur YouTube, seul titre crédité du groupe, puis écoutez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> et lisez notre page sur le <a href=\"/bouyon-riddim.html\">bouyon riddim</a> pour situer le groupe parmi les bands de la Dominique, de <a href=\"/wck.html\">WCK</a> à <a href=\"/signal-band.html\">Signal Band</a>.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/riddim-knockaz.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/riddim-knockaz.html#artist", "name": "Riddim Knockaz", "description": "Groupe de bouyon de la Dominique. Titre documenté Bright and Creamy, interprété par Dayne Alexander et Glenn Mills. Scènes documentées : Portsmouth 2024, lancement de Mas Domnik 2026, Ti Vilaj Kweyol 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bright and Creamy"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/riddim-knockaz.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/riddim-knockaz.html#artist", "name": "Riddim Knockaz", "description": "Groupe de bouyon de la Dominique. Titre documenté Bright and Creamy, interprété par Dayne Alexander et Glenn Mills. Scènes documentées : Portsmouth 2024, lancement de Mas Domnik 2026, Ti Vilaj Kweyol 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bright and Creamy"},
+      {
+       "@type": "MusicRecording",
+       "name": "Bumpa In D Road (feat. Shemmy J)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Don't Grudge That"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shagweh(Well Run Dry)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rum on me"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "J.4.M.A.M.S (Just for making a Medley Sake)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Our Woman Dat"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "So Long(Talibans)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fame Seekers (feat. Prhymex)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -134,6 +167,39 @@ EN = {
   ("What role did the band hold at the Mas Domnik 2026 launch?", "A leading role for a band: Riddim Knockaz and TK Combo were the two announced live performances at the official launch, on November 28, 2025 at The Factory, on Valley Road, alongside several DJs including DJ MJ and MV on the Keys and DJ Taffy. The event, hosted by the Ministry of Tourism and the Discover Dominica Authority, opened the 2026 carnival season."),
   ("Where can I hear Riddim Knockaz and band bouyon?", "Start with “Bright and Creamy” on YouTube, the band only credited song, then hear our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> and read our <a href=\"/en/bouyon-riddim.html\">bouyon riddim</a> page to place the band among Dominica bands, from <a href=\"/en/wck.html\">WCK</a> to <a href=\"/en/signal-band.html\">Signal Band</a>.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/riddim-knockaz.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/riddim-knockaz.html#artist", "name": "Riddim Knockaz", "description": "Bouyon band from Dominica. Documented song Bright and Creamy, performed by Dayne Alexander and Glenn Mills. Documented stages: Portsmouth 2024, Mas Domnik 2026 launch, Ti Vilaj Kweyol 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bright and Creamy"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/riddim-knockaz.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/riddim-knockaz.html#artist", "name": "Riddim Knockaz", "description": "Bouyon band from Dominica. Documented song Bright and Creamy, performed by Dayne Alexander and Glenn Mills. Documented stages: Portsmouth 2024, Mas Domnik 2026 launch, Ti Vilaj Kweyol 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bright and Creamy"},
+      {
+       "@type": "MusicRecording",
+       "name": "Bumpa In D Road (feat. Shemmy J)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Don't Grudge That"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shagweh(Well Run Dry)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rum on me"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "J.4.M.A.M.S (Just for making a Medley Sake)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Our Woman Dat"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "So Long(Talibans)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fame Seekers (feat. Prhymex)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

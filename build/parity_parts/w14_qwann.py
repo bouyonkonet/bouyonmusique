@@ -76,7 +76,28 @@ FR = {
   ("Avec qui Qwann collabore-t-il ?", "Ses crédits vérifiés le placent dans l’équipe de <a href=\"/luky-lukee.html\">Lucky lukee</a>, avec <a href=\"/binksdrick.html\">Binksdrick</a>, Miimii, devenue <a href=\"/miimii-kds.html\">Miimii KDS</a>, et <a href=\"/dinho.html\">Dinho</a> sur « 1er Feu », puis avec <a href=\"/1t1.html\">1t1</a> sur « Uhdahdah #2 », et avec 1t1 et Theomaa comme compositeurs associés sur « Ouba »."),
   ("Par où commencer pour écouter Qwann ?", "Par ses trois crédits vérifiés : « 1er Feu » puis « Uhdahdah #2 » de Lucky lukee, et « Ouba » de 1t1 et Theomaa, où il est compositeur crédité. Notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> et notre page <a href=\"/bouyon-gwada.html\">bouyon gwada</a> replacent ces titres dans leur scène.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/qwann.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/qwann.html#artist", "name": "Qwann", "description": "Artiste du circuit bouyon gwada, invité sur 1er Feu et Uhdahdah #2 de Lucky lukee et crédité compositeur sur Ouba de 1t1 et Theomaa. Aucune biographie officielle publiée n’a été trouvée.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "1er Feu"}, {"@type": "MusicRecording", "name": "Uhdahdah #2"}, {"@type": "MusicRecording", "name": "Ouba"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/qwann.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/qwann.html#artist", "name": "Qwann", "description": "Artiste du circuit bouyon gwada, invité sur 1er Feu et Uhdahdah #2 de Lucky lukee et crédité compositeur sur Ouba de 1t1 et Theomaa. Aucune biographie officielle publiée n’a été trouvée.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "1er Feu"}, {"@type": "MusicRecording", "name": "Uhdahdah #2"}, {"@type": "MusicRecording", "name": "Ouba"},
+      {
+       "@type": "MusicRecording",
+       "name": "1 by 1 (feat. GS, LE YO, DON’T PLAY, JD & LYKAÏ)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "KANN (feat. RVF)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "QUE PASA (feat. Binksdrick)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pran On Pyé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ti Moun (feat. Ayewai, Dj Chimik & Qwann) [Remix]"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -148,6 +169,27 @@ EN = {
   ("Who does Qwann collaborate with?", "His verified credits place him in the crew of <a href=\"/en/luky-lukee.html\">Lucky lukee</a>, with <a href=\"/en/binksdrick.html\">Binksdrick</a>, Miimii, who became <a href=\"/en/miimii-kds.html\">Miimii KDS</a>, and <a href=\"/en/dinho.html\">Dinho</a> on “1er Feu”, then with <a href=\"/en/1t1.html\">1t1</a> on “Uhdahdah #2”, and with 1t1 and Theomaa as fellow composers on “Ouba”."),
   ("Where should I start listening to Qwann?", "With his three verified credits: “1er Feu” and then “Uhdahdah #2” by Lucky lukee, and “Ouba” by 1t1 and Theomaa, where he is a credited composer. Our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> and our <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a> page place those records inside their scene.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/qwann.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/qwann.html#artist", "name": "Qwann", "description": "Artist in the bouyon gwada circuit, featured on Lucky lukee 1er Feu and Uhdahdah #2 and credited as a composer on 1t1 and Theomaa Ouba. No published official biography was found.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "1er Feu"}, {"@type": "MusicRecording", "name": "Uhdahdah #2"}, {"@type": "MusicRecording", "name": "Ouba"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/qwann.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/qwann.html#artist", "name": "Qwann", "description": "Artist in the bouyon gwada circuit, featured on Lucky lukee 1er Feu and Uhdahdah #2 and credited as a composer on 1t1 and Theomaa Ouba. No published official biography was found.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "1er Feu"}, {"@type": "MusicRecording", "name": "Uhdahdah #2"}, {"@type": "MusicRecording", "name": "Ouba"},
+      {
+       "@type": "MusicRecording",
+       "name": "1 by 1 (feat. GS, LE YO, DON’T PLAY, JD & LYKAÏ)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "KANN (feat. RVF)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "QUE PASA (feat. Binksdrick)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pran On Pyé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ti Moun (feat. Ayewai, Dj Chimik & Qwann) [Remix]"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

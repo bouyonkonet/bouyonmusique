@@ -70,7 +70,48 @@ FR = {
   ("Qui a écrit « I Don’t Know » ?", "La page du titre chez Shazam crédite Ryan Auguste et Djénaé Castelneau à la composition et aux paroles. Le premier nom renvoie visiblement à DJ Leguste, l’artiste principal. Pour le second, aucune source trouvée ne confirme qu’il s’agit de la personne qui chante sous le nom de Cocotteland, donc ce profil publie le crédit sans l’assigner comme identité de l’artiste."),
   ("Où écouter Cocotteland ?", "Sur les plateformes qui référencent les deux titres : « Gwo Dada » chez le label Natoxie, avec son clip officiel, et « I Don’t Know » chez DJ Leguste. Pour replacer ces productions dans le courant du genre, notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> suit le bouyon de la Dominique à ses branches des Antilles françaises.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/cocotteland.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/cocotteland.html#artist", "name": "Cocotteland", "description": "Nom d’artiste des Antilles françaises documenté par deux titres vérifiés : Gwo Dada avec Natoxie et Mikado (2025) et I Don’t Know avec DJ Leguste (2024). Aucune biographie publique vérifiée à la date de ce profil.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Gwo Dada"}, {"@type": "MusicRecording", "name": "I Don't Know"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/cocotteland.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/cocotteland.html#artist", "name": "Cocotteland", "description": "Nom d’artiste des Antilles françaises documenté par deux titres vérifiés : Gwo Dada avec Natoxie et Mikado (2025) et I Don’t Know avec DJ Leguste (2024). Aucune biographie publique vérifiée à la date de ce profil.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Gwo Dada"}, {"@type": "MusicRecording", "name": "I Don't Know"},
+      {
+       "@type": "MusicRecording",
+       "name": "Doro"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Prada"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "4X4"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Top shatta"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LA COTE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tout Koté"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Vite fait"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TETRIS"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SIWO (feat. Cocotteland)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "NI ANLÈY NI A KOTÉ (feat. Cocotteland)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -138,6 +179,47 @@ EN = {
   ("Who wrote “I Don’t Know”?", "The song page at Shazam credits Ryan Auguste and Djenae Castelneau with composition and lyrics. The first name visibly points to DJ Leguste, the lead artist. For the second, no source found confirms that it is the person who sings under the name Cocotteland, so this profile publishes the credit without assigning it as the artist identity."),
   ("Where can I hear Cocotteland?", "On the platforms that list the two records: “Gwo Dada” on the Natoxie label, with its official video, and “I Don’t Know” with DJ Leguste. To place these productions inside the current of the genre, our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> follows bouyon from Dominica to its French Antilles branches.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/cocotteland.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/cocotteland.html#artist", "name": "Cocotteland", "description": "Artist name from the French Antilles documented by two verified records: Gwo Dada with Natoxie and Mikado (2025) and I Don’t Know with DJ Leguste (2024). No verified public biography at the date of this profile.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Gwo Dada"}, {"@type": "MusicRecording", "name": "I Don't Know"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/cocotteland.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/cocotteland.html#artist", "name": "Cocotteland", "description": "Artist name from the French Antilles documented by two verified records: Gwo Dada with Natoxie and Mikado (2025) and I Don’t Know with DJ Leguste (2024). No verified public biography at the date of this profile.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Gwo Dada"}, {"@type": "MusicRecording", "name": "I Don't Know"},
+      {
+       "@type": "MusicRecording",
+       "name": "Doro"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Prada"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "4X4"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Top shatta"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LA COTE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tout Koté"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Vite fait"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TETRIS"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SIWO (feat. Cocotteland)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "NI ANLÈY NI A KOTÉ (feat. Cocotteland)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

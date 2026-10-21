@@ -72,7 +72,28 @@ FR = {
   ("Qui a produit les titres de Wizito ?", "Selon les crédits publiés par Shazam, « Love Me » est produit par Sylvio Benjamin, et « TunTun » est produit par Dj Chimik, qui figure aussi comme artiste invité du titre. Aucun producteur n’est nommé dans la fiche consultée de « Payé », dont le crédit publié est celui d’auteur, Bernard Robert Gumbs."),
   ("Sylvio Benjamin est-il lié à Benji, de Triple Kay ?", "Aucune source consultée ne le dit. Sylvio Benjamin est crédité comme producteur de « Love Me » de Wizito. Benji, de son vrai nom Wayne Benjamin, est le chanteur dominicain de Triple Kay. Le nom de famille est le même, mais aucun lien familial, de groupe ou de travail n’est publié entre eux, donc ce site n’en affirme aucun.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/bernard-gumbs-wizito.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/bernard-gumbs-wizito.html#artist", "name": "Bernard Gumbs (Wizito)", "alternateName": "Wizito", "description": "Artiste bouyon émergent enregistrant sous le nom de Wizito. Crédité comme auteur, sous les formes Bernard Gumbs et Bernard Robert Gumbs, sur Payé, Love Me et TunTun, sortis chez YMW Tolly Boys entre 2023 et 2025. Love Me a été retenu dans un mix de sorties locales du carnaval de St Maarten 2024.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Payé"}, {"@type": "MusicRecording", "name": "Love Me"}, {"@type": "MusicRecording", "name": "TunTun"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/bernard-gumbs-wizito.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/bernard-gumbs-wizito.html#artist", "name": "Bernard Gumbs (Wizito)", "alternateName": "Wizito", "description": "Artiste bouyon émergent enregistrant sous le nom de Wizito. Crédité comme auteur, sous les formes Bernard Gumbs et Bernard Robert Gumbs, sur Payé, Love Me et TunTun, sortis chez YMW Tolly Boys entre 2023 et 2025. Love Me a été retenu dans un mix de sorties locales du carnaval de St Maarten 2024.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Payé"}, {"@type": "MusicRecording", "name": "Love Me"}, {"@type": "MusicRecording", "name": "TunTun"},
+      {
+       "@type": "MusicRecording",
+       "name": "Deli"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BEND (Go Bestfriend)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Drinking (feat. Youry Ymw)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Longtemps"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tululu (feat. Wizito)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -142,6 +163,27 @@ EN = {
   ("Who produced the Wizito records?", "According to the credits published by Shazam, “Love Me” was produced by Sylvio Benjamin, and “TunTun” was produced by Dj Chimik, who is also a featured artist on the record. No producer is named in the consulted listing for “Payé”, whose published credit is the songwriter credit, Bernard Robert Gumbs."),
   ("Is Sylvio Benjamin related to Benji, of Triple Kay?", "No source consulted says so. Sylvio Benjamin is credited as producer of “Love Me” by Wizito. Benji, real name Wayne Benjamin, is the Dominican singer with Triple Kay. The surname is the same, but no family, band or working link between them is published, so this site claims none.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/bernard-gumbs-wizito.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/bernard-gumbs-wizito.html#artist", "name": "Bernard Gumbs (Wizito)", "alternateName": "Wizito", "description": "Emerging bouyon artist recording as Wizito. Credited as songwriter, under the forms Bernard Gumbs and Bernard Robert Gumbs, on Payé, Love Me and TunTun, released by YMW Tolly Boys between 2023 and 2025. Love Me was kept in a mix of local releases for St Maarten Carnival 2024.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Payé"}, {"@type": "MusicRecording", "name": "Love Me"}, {"@type": "MusicRecording", "name": "TunTun"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/bernard-gumbs-wizito.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/bernard-gumbs-wizito.html#artist", "name": "Bernard Gumbs (Wizito)", "alternateName": "Wizito", "description": "Emerging bouyon artist recording as Wizito. Credited as songwriter, under the forms Bernard Gumbs and Bernard Robert Gumbs, on Payé, Love Me and TunTun, released by YMW Tolly Boys between 2023 and 2025. Love Me was kept in a mix of local releases for St Maarten Carnival 2024.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Payé"}, {"@type": "MusicRecording", "name": "Love Me"}, {"@type": "MusicRecording", "name": "TunTun"},
+      {
+       "@type": "MusicRecording",
+       "name": "Deli"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BEND (Go Bestfriend)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Drinking (feat. Youry Ymw)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Longtemps"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tululu (feat. Wizito)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

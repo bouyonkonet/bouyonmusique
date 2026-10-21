@@ -85,7 +85,40 @@ FR = {
   ("Qui produit les titres de Totally Spice's ?", "Les deux premiers titres, « Chien » et « Bouè'y Bay », sont produits par D0 Production, avec Daryl Clarisse à la composition et à la programmation. Sur « 6 Dwèt », la production et l’arrangement sont signés Yoan Courcet, qui produit aussi le titre du groupe retenu par la playlist des Eurockéennes 2025, composé par Allan Blonbou."),
   ("Où écouter Totally Spice's et le bouyon féminin de Guadeloupe ?", "Commencez par « Chien », puis « Bouè'y Bay » avec TiiTii NBA et « 6 Dwèt » avec LESTEF KJF. Notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> suit la scène gwada au fil des saisons, et nos pages <a href=\"/femmes-du-bouyon.html\">femmes du bouyon</a> et <a href=\"/bouyon-guadeloupe.html\">bouyon Guadeloupe</a> donnent le contexte du groupe.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/totally-spices.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/totally-spices.html#artist", "name": "Totally Spice's", "description": "Totally Spice's, groupe féminin de bouyon de Guadeloupe. Voix créditées : Carcheline Cereme et Naima Dimina. Titres vérifiés : Chien (2024, D0 Production), Bouè'y Bay avec TiiTii NBA, 6 Dwèt avec LESTEF KJF (2025). Plateau Bad Gyal Bouyon Lé Bon avec Holly G aux Eurockéennes 2025 et à L’Été Marseillais 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Chien"}, {"@type": "MusicRecording", "name": "Bouè'y Bay"}, {"@type": "MusicRecording", "name": "6 Dwèt"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/totally-spices.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/totally-spices.html#artist", "name": "Totally Spice's", "description": "Totally Spice's, groupe féminin de bouyon de Guadeloupe. Voix créditées : Carcheline Cereme et Naima Dimina. Titres vérifiés : Chien (2024, D0 Production), Bouè'y Bay avec TiiTii NBA, 6 Dwèt avec LESTEF KJF (2025). Plateau Bad Gyal Bouyon Lé Bon avec Holly G aux Eurockéennes 2025 et à L’Été Marseillais 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Chien"}, {"@type": "MusicRecording", "name": "Bouè'y Bay"}, {"@type": "MusicRecording", "name": "6 Dwèt"},
+      {
+       "@type": "MusicRecording",
+       "name": "Bad Boy (feat. DVK)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sale histoire"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sweet P***y"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bouyonstyle, No. 1 (D0 Production Presents Totally Spice's) [feat. BISMOK]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Krikéy (D0 Production Presents Totally Spice's) [feat. Simsima & keks Mafia]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pantin"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "4X4 (feat. Totally Spice's)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "My Lolly (feat. Totally Spice's)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -159,6 +192,39 @@ EN = {
   ("Who produces the tracks of Totally Spice's?", "The first two tracks, “Chien” and “Bouè'y Bay”, are produced by D0 Production, with Daryl Clarisse on composition and programming. On “6 Dwèt”, production and arrangement are signed Yoan Courcet, who also produces the group track selected by the Eurockéennes 2025 playlist, composed by Allan Blonbou."),
   ("Where can I hear Totally Spice's and the women bouyon of Guadeloupe?", "Start with “Chien”, then “Bouè'y Bay” with TiiTii NBA and “6 Dwèt” with LESTEF KJF. Our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> follows the Gwada scene season by season, and our <a href=\"/en/women-of-bouyon.html\">women of bouyon</a> and <a href=\"/en/bouyon-guadeloupe.html\">bouyon Guadeloupe</a> pages give the context of the group.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/totally-spices.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/totally-spices.html#artist", "name": "Totally Spice's", "description": "Totally Spice's, women bouyon group from Guadeloupe. Credited voices: Carcheline Cereme and Naima Dimina. Verified tracks: Chien (2024, D0 Production), Bouè'y Bay with TiiTii NBA, 6 Dwèt with LESTEF KJF (2025). Bad Gyal Bouyon Lé Bon stage with Holly G at the Eurockéennes 2025 and at L'Été Marseillais 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Chien"}, {"@type": "MusicRecording", "name": "Bouè'y Bay"}, {"@type": "MusicRecording", "name": "6 Dwèt"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/totally-spices.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/totally-spices.html#artist", "name": "Totally Spice's", "description": "Totally Spice's, women bouyon group from Guadeloupe. Credited voices: Carcheline Cereme and Naima Dimina. Verified tracks: Chien (2024, D0 Production), Bouè'y Bay with TiiTii NBA, 6 Dwèt with LESTEF KJF (2025). Bad Gyal Bouyon Lé Bon stage with Holly G at the Eurockéennes 2025 and at L'Été Marseillais 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Chien"}, {"@type": "MusicRecording", "name": "Bouè'y Bay"}, {"@type": "MusicRecording", "name": "6 Dwèt"},
+      {
+       "@type": "MusicRecording",
+       "name": "Bad Boy (feat. DVK)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sale histoire"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sweet P***y"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bouyonstyle, No. 1 (D0 Production Presents Totally Spice's) [feat. BISMOK]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Krikéy (D0 Production Presents Totally Spice's) [feat. Simsima & keks Mafia]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pantin"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "4X4 (feat. Totally Spice's)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "My Lolly (feat. Totally Spice's)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

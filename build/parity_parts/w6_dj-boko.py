@@ -71,7 +71,28 @@ FR = {
   ("DJ Boko est-il le DJ du même nom basé à Taïwan ?", "Non, rien ne le permet, et ce profil les distingue explicitement. Le DJ Boko de Taïwan, présent sur YouTube avec des sets R et B et hip hop, et le DJ Mc BoKo de Bulgarie sur SoundClick sont des homonymes sans lien établi avec le circuit bouyon. Seuls les crédits chez TiiTii NBA et DJ SOFTEE définissent le DJ Boko de cette page."),
   ("Où écouter les titres où DJ Boko est crédité ?", "Commencez par « ON ME » et « WET WET » de TiiTii NBA, puis « Bay li » et « SOUKWE LI » sur l’album « Chodong Route Empire C.R.E » de DJ SOFTEE, puis le freestyle « LA PEP’HIT FREESTYLE » sorti le 4 juin 2025. Notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> suit les nouveautés de cette scène.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/dj-boko.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/dj-boko.html#artist", "name": "DJ Boko", "description": "DJ du circuit bouyon francophone, crédité en featuring sur ON ME, WET WET et SHE’S A HOE de TiiTii NBA, sur Bay li et SOUKWE LI de DJ SOFTEE, sur LA PEP’HIT FREESTYLE et sur Jéré Sa.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "ON ME"}, {"@type": "MusicRecording", "name": "WET WET"}, {"@type": "MusicRecording", "name": "SHE’S A HOE"}, {"@type": "MusicRecording", "name": "Bay li"}, {"@type": "MusicRecording", "name": "SOUKWE LI"}, {"@type": "MusicRecording", "name": "LA PEP’HIT FREESTYLE"}, {"@type": "MusicRecording", "name": "Jéré Sa"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/dj-boko.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/dj-boko.html#artist", "name": "DJ Boko", "description": "DJ du circuit bouyon francophone, crédité en featuring sur ON ME, WET WET et SHE’S A HOE de TiiTii NBA, sur Bay li et SOUKWE LI de DJ SOFTEE, sur LA PEP’HIT FREESTYLE et sur Jéré Sa.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "ON ME"}, {"@type": "MusicRecording", "name": "WET WET"}, {"@type": "MusicRecording", "name": "SHE’S A HOE"}, {"@type": "MusicRecording", "name": "Bay li"}, {"@type": "MusicRecording", "name": "SOUKWE LI"}, {"@type": "MusicRecording", "name": "LA PEP’HIT FREESTYLE"}, {"@type": "MusicRecording", "name": "Jéré Sa"},
+      {
+       "@type": "MusicRecording",
+       "name": "I JA PRI (feat. LEKAY)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "J'aim ça bébé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BIM BAM (feat. DJ BOKO) [ATOX Remix Radio Edit]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "HO HO (feat. DJ BOKO)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bénédiksyon Tropikal (feat. Le K, DJ Boko & KinkyVyvz)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -138,6 +159,27 @@ EN = {
   ("Is DJ Boko the DJ of the same name based in Taiwan?", "No, nothing supports that, and this profile separates them explicitly. The Taiwan based DJ Boko, present on YouTube with R and B and hip hop sets, and DJ Mc BoKo from Bulgaria on SoundClick are namesakes with no established link to the bouyon circuit. Only the credits with TiiTii NBA and DJ SOFTEE define the DJ Boko on this page."),
   ("Where can I hear the records where DJ Boko is credited?", "Start with TiiTii NBA “ON ME” and “WET WET”, then “Bay li” and “SOUKWE LI” on the DJ SOFTEE album “Chodong Route Empire C.R.E”, then the freestyle “LA PEP’HIT FREESTYLE” released on June 4, 2025. Our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> follows new releases from this scene.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/dj-boko.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/dj-boko.html#artist", "name": "DJ Boko", "description": "DJ from the French speaking bouyon circuit, credited as featured artist on TiiTii NBA ON ME, WET WET and SHE’S A HOE, on DJ SOFTEE Bay li and SOUKWE LI, on LA PEP’HIT FREESTYLE and on Jéré Sa.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "ON ME"}, {"@type": "MusicRecording", "name": "WET WET"}, {"@type": "MusicRecording", "name": "SHE’S A HOE"}, {"@type": "MusicRecording", "name": "Bay li"}, {"@type": "MusicRecording", "name": "SOUKWE LI"}, {"@type": "MusicRecording", "name": "LA PEP’HIT FREESTYLE"}, {"@type": "MusicRecording", "name": "Jéré Sa"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/dj-boko.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/dj-boko.html#artist", "name": "DJ Boko", "description": "DJ from the French speaking bouyon circuit, credited as featured artist on TiiTii NBA ON ME, WET WET and SHE’S A HOE, on DJ SOFTEE Bay li and SOUKWE LI, on LA PEP’HIT FREESTYLE and on Jéré Sa.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "ON ME"}, {"@type": "MusicRecording", "name": "WET WET"}, {"@type": "MusicRecording", "name": "SHE’S A HOE"}, {"@type": "MusicRecording", "name": "Bay li"}, {"@type": "MusicRecording", "name": "SOUKWE LI"}, {"@type": "MusicRecording", "name": "LA PEP’HIT FREESTYLE"}, {"@type": "MusicRecording", "name": "Jéré Sa"},
+      {
+       "@type": "MusicRecording",
+       "name": "I JA PRI (feat. LEKAY)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "J'aim ça bébé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BIM BAM (feat. DJ BOKO) [ATOX Remix Radio Edit]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "HO HO (feat. DJ BOKO)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bénédiksyon Tropikal (feat. Le K, DJ Boko & KinkyVyvz)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

@@ -84,7 +84,20 @@ FR = {
   ("ThaWizZarD sort-il des titres sous son propre nom ?", "Oui. Shazam crédite « F**k who doh like me », de Thawizzard avec Kenny G, sorti le 7 janvier 2026 sur le label WizZarD HouSe RecorDz, avec ThaWizZarD comme auteur et producteur. Le nom de sa structure apparaît aussi dans les crédits du titre « TOM DICK N HARRY » de Frank White avec Trixx."),
   ("Avec quels artistes ThaWizZarD a-t-il travaillé ?", "Ses crédits publiés le lient à Trilla-G et à son « Up Next Cypher », à G’z Up pour « Fix Up (Ya Ya Ya) », à Pa Pel pour « IDGAF (Bouyon 2027) », toujours avec Kwib La Beats à la coproduction, et à Kenny G sur son titre solo. Dominica Festivals cite aussi sa collaboration avec Supalyne. Retrouvez « Fix Up » dans notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/tha-wizzard.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/tha-wizzard.html#artist", "name": "ThaWizZarD", "description": "Producteur et claviériste de la Dominique, nom complet Cecil Joseph Jr. selon BuzzDA. Claviers, coproduction, mixage et mastering sur le Up Next Cypher de Trilla-G et sur Fix Up de G’z Up.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Fix Up (Ya Ya Ya)'}, {"@type": "MusicRecording", "name": 'IDGAF (Bouyon 2027)'}, {"@type": "MusicRecording", "name": 'Up Next Cypher, Vol. 1'}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/tha-wizzard.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/tha-wizzard.html#artist", "name": "ThaWizZarD", "description": "Producteur et claviériste de la Dominique, nom complet Cecil Joseph Jr. selon BuzzDA. Claviers, coproduction, mixage et mastering sur le Up Next Cypher de Trilla-G et sur Fix Up de G’z Up.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Fix Up (Ya Ya Ya)'}, {"@type": "MusicRecording", "name": 'IDGAF (Bouyon 2027)'}, {"@type": "MusicRecording", "name": 'Up Next Cypher, Vol. 1'},
+      {
+       "@type": "MusicRecording",
+       "name": "Juduss"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Thot Not Hot (Have Some Faith) (feat. Tha WizZard)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rambo (feat. Ras D & tha WizZarD)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -162,6 +175,19 @@ EN = {
   ("Does ThaWizZarD release records under his own name?", "Yes. Shazam credits “F**k who doh like me”, by Thawizzard with Kenny G, released on January 7, 2026 on the label WizZarD HouSe RecorDz, with ThaWizZarD as songwriter and producer. His structure name also appears in the credits of the Frank White track “TOM DICK N HARRY”, featuring Trixx."),
   ("Which artists has ThaWizZarD worked with?", "His published credits link him to Trilla-G and his “Up Next Cypher”, to G’z Up for “Fix Up (Ya Ya Ya)”, to Pa Pel for “IDGAF (Bouyon 2027)”, each time with Kwib La Beats as co-producer, and to Kenny G on his solo record. Dominica Festivals also names his collaboration with Supalyne. Find “Fix Up” in our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/tha-wizzard.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/tha-wizzard.html#artist", "name": "ThaWizZarD", "description": "Producer and keyboardist from Dominica, full name Cecil Joseph Jr. according to BuzzDA. Keys, co-production, mixing and mastering on the Trilla-G Up Next Cypher and on G’z Up Fix Up.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Fix Up (Ya Ya Ya)'}, {"@type": "MusicRecording", "name": 'IDGAF (Bouyon 2027)'}, {"@type": "MusicRecording", "name": 'Up Next Cypher, Vol. 1'}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/tha-wizzard.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/tha-wizzard.html#artist", "name": "ThaWizZarD", "description": "Producer and keyboardist from Dominica, full name Cecil Joseph Jr. according to BuzzDA. Keys, co-production, mixing and mastering on the Trilla-G Up Next Cypher and on G’z Up Fix Up.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Fix Up (Ya Ya Ya)'}, {"@type": "MusicRecording", "name": 'IDGAF (Bouyon 2027)'}, {"@type": "MusicRecording", "name": 'Up Next Cypher, Vol. 1'},
+      {
+       "@type": "MusicRecording",
+       "name": "Juduss"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Thot Not Hot (Have Some Faith) (feat. Tha WizZard)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rambo (feat. Ras D & tha WizZarD)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

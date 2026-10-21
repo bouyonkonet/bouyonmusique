@@ -81,7 +81,108 @@ FR = {
   ("Fallon chante-t-elle du bouyon comme les artistes de carnaval ?", "Fallon chante une forme de bouyon travaillée par le R&B, que Deezer décrit comme un équilibre de douceur et d’énergie. Le bouyon classique, né avec WCK à Roseau en 1988, pousse la voix vers l’appel à la foule et la fête de carnaval. Le RnBouyon de Fallon tire la même matière vers le chant personnel et mélodique du R&B contemporain, ce qui en fait une branche différente, documentée sur notre page RnBouyon."),
   ("Où écouter Fallon et le RnBouyon ?", "Commencez par « Normal » et « Memories », les deux titres cités par Deezer, puis lisez notre page <a href=\"/rnbouyon.html\">RnBouyon</a> et écoutez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>. Vous y entendrez comment le bouyon, de ses origines dominicaines à ses branches récentes comme le bouyon soca et le New Bouyon, accueille aussi la fusion douce portée par Fallon.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/fallon.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/fallon.html#artist", "name": "Fallon", "description": "Artiste sélectionnée Deezer Next 2026. Deezer présente son univers comme le RnBouyon, fusion de R&B et de bouyon entre douceur et énergie, avec les titres Normal et Memories.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Normal"}, {"@type": "MusicRecording", "name": "Memories"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/fallon.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/fallon.html#artist", "name": "Fallon", "description": "Artiste sélectionnée Deezer Next 2026. Deezer présente son univers comme le RnBouyon, fusion de R&B et de bouyon entre douceur et énergie, avec les titres Normal et Memories.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Normal"}, {"@type": "MusicRecording", "name": "Memories"},
+      {
+       "@type": "MusicRecording",
+       "name": "L'originelle"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Changé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "2 min"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "CETTE ANNEE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "INTOUCHABLE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "JEUNE HOMME"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DIFFERENT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DO YOU DANCE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BOUT DU MONDE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BISOUS"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Laisse moi faire"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "FAKE WOMAN - Et alors ? (feat. Ronisia)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "C'EST MORT - Die for you"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Terminé - Summer Version"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TERMINE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Toi"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TBY Remix Bouyon"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mon baby"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Love Story (feat. BOSV)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doumbé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Aimes moi plus fort"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Meilleure amie"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "04:00"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Distance"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cette nuit sera"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -159,6 +260,107 @@ EN = {
   ("Does Fallon sing bouyon like carnival artists?", "Fallon sings a form of bouyon worked through by R&B, which Deezer describes as a balance of softness and energy. Classic bouyon, created with WCK in Roseau in 1988, pushes the voice toward calling the crowd and the carnival fete. Fallon RnBouyon pulls the same material toward the personal, melodic singing of contemporary R&B, which makes it a different branch, documented on our RnBouyon page."),
   ("Where can I hear Fallon and RnBouyon?", "Start with “Normal” and “Memories”, the two tracks named by Deezer, then read our <a href=\"/en/rnbouyon.html\">RnBouyon</a> page and hear our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>. There you will hear how bouyon, from its Dominican origins to recent branches such as bouyon soca and New Bouyon, also welcomes the soft fusion carried by Fallon.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/fallon.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/fallon.html#artist", "name": "Fallon", "description": "Deezer Next 2026 selected artist. Deezer presents her world as RnBouyon, a fusion of R&B and bouyon balancing softness and energy, with the tracks Normal and Memories.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Normal"}, {"@type": "MusicRecording", "name": "Memories"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/fallon.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/fallon.html#artist", "name": "Fallon", "description": "Deezer Next 2026 selected artist. Deezer presents her world as RnBouyon, a fusion of R&B and bouyon balancing softness and energy, with the tracks Normal and Memories.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Normal"}, {"@type": "MusicRecording", "name": "Memories"},
+      {
+       "@type": "MusicRecording",
+       "name": "L'originelle"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Changé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "2 min"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "CETTE ANNEE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "INTOUCHABLE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "JEUNE HOMME"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DIFFERENT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DO YOU DANCE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BOUT DU MONDE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BISOUS"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Laisse moi faire"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "FAKE WOMAN - Et alors ? (feat. Ronisia)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "C'EST MORT - Die for you"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Terminé - Summer Version"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TERMINE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Toi"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TBY Remix Bouyon"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mon baby"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Love Story (feat. BOSV)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doumbé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Aimes moi plus fort"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Meilleure amie"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "04:00"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Distance"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cette nuit sera"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

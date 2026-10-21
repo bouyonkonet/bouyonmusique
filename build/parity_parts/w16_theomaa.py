@@ -77,7 +77,20 @@ FR = {
   ("« Bouwéy » est-il certifié single d or en France ?", "Des publications sur les réseaux sociaux présentent « Bouwéy » comme un single d or certifié par le SNEP. Pendant la recherche de ce profil, aucune confirmation n a été trouvée dans les sources officielles du SNEP consultées, donc ce site ne présente pas cette certification comme vérifiée. Les faits établis sont l EP CHORD de décembre 2024, la 48e place mondiale Shazam du titre au printemps 2025, et son prix de chanson bouyon de l année aux Caribbean Music Awards 2026."),
   ("Theomaa a-t-il un projet solo ?", "Aucun projet solo, album ou EP, de Theomaa n a été publié dans les sources vérifiées consultées pour ce profil. Son oeuvre documentée est collective : le duo avec 1T1, les titres du cercle gwada avec Lejuh, Aknose et Binksdrick, et la session « New Bouyon Wave #1 » de D0 Production du 29 septembre 2023, avec Tiitii NBA, Nils, Dj Softee et Aknose. Si un projet solo paraît, ce profil sera complété et daté.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/theomaa.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/theomaa.html#artist", "name": "Theomaa", "description": "Chanteur bouyon de la scène guadeloupéenne, partenaire de création de 1T1. Coauteur et chanteur de Bouwéy et de Ouba, prix de la chanson bouyon de l année et de la chanson French Caribbean de l année aux Caribbean Music Awards 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bouwéy"}, {"@type": "MusicRecording", "name": "Ouba"}, {"@type": "MusicRecording", "name": "Wa wa Waaaw"}, {"@type": "MusicRecording", "name": "Leave Me Alone"}, {"@type": "MusicRecording", "name": "Mas La Rivé"}, {"@type": "MusicRecording", "name": "Piney"}, {"@type": "MusicRecording", "name": "Gasolina"}, {"@type": "MusicRecording", "name": "Party Rocking"}, {"@type": "MusicRecording", "name": "New Bouyon Wave #1"}, {"@type": "MusicRecording", "name": "Baddest"}], "sameAs": ["https://www.instagram.com/13theomaa_/"]}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/theomaa.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/theomaa.html#artist", "name": "Theomaa", "description": "Chanteur bouyon de la scène guadeloupéenne, partenaire de création de 1T1. Coauteur et chanteur de Bouwéy et de Ouba, prix de la chanson bouyon de l année et de la chanson French Caribbean de l année aux Caribbean Music Awards 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bouwéy"}, {"@type": "MusicRecording", "name": "Ouba"}, {"@type": "MusicRecording", "name": "Wa wa Waaaw"}, {"@type": "MusicRecording", "name": "Leave Me Alone"}, {"@type": "MusicRecording", "name": "Mas La Rivé"}, {"@type": "MusicRecording", "name": "Piney"}, {"@type": "MusicRecording", "name": "Gasolina"}, {"@type": "MusicRecording", "name": "Party Rocking"}, {"@type": "MusicRecording", "name": "New Bouyon Wave #1"}, {"@type": "MusicRecording", "name": "Baddest"},
+      {
+       "@type": "MusicRecording",
+       "name": "Wouloo (feat. 1T1)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PnL(Piney) [feat. Theomaa]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Uhuu dah dah (feat. GOMKO, Luky & Theomaa)"
+      },
+], "sameAs": ["https://www.instagram.com/13theomaa_/"]}}],
  "date_modified": "2026-10-20"
 }
 
@@ -146,6 +159,19 @@ EN = {
   ("Is “Bouwéy” certified gold single in France?", "Social media posts present “Bouwéy” as a gold single certified by the SNEP. During the research for this profile, no confirmation was found in the official SNEP sources consulted, so this site does not present that certification as verified. The established facts are the December 2024 CHORD EP, the record No. 48 position on the Shazam global chart in spring 2025, and its Bouyon Song of the Year win at the 2026 Caribbean Music Awards."),
   ("Does Theomaa have a solo project?", "No solo project, album or EP, by Theomaa was published in the verified sources consulted for this profile. His documented work is collective: the duet with 1T1, the records of the gwada circle with Lejuh, Aknose and Binksdrick, and the “New Bouyon Wave #1” session by D0 Production of 29 September 2023, with Tiitii NBA, Nils, Dj Softee and Aknose. If a solo project is released, this profile will be completed and dated.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/theomaa.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/theomaa.html#artist", "name": "Theomaa", "description": "Bouyon singer from the Guadeloupe scene, creative partner of 1T1. Co-writer and singer of Bouwéy and Ouba, Bouyon Song of the Year and French Caribbean Song of the Year at the 2026 Caribbean Music Awards.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bouwéy"}, {"@type": "MusicRecording", "name": "Ouba"}, {"@type": "MusicRecording", "name": "Wa wa Waaaw"}, {"@type": "MusicRecording", "name": "Leave Me Alone"}, {"@type": "MusicRecording", "name": "Mas La Rivé"}, {"@type": "MusicRecording", "name": "Piney"}, {"@type": "MusicRecording", "name": "Gasolina"}, {"@type": "MusicRecording", "name": "Party Rocking"}, {"@type": "MusicRecording", "name": "New Bouyon Wave #1"}, {"@type": "MusicRecording", "name": "Baddest"}], "sameAs": ["https://www.instagram.com/13theomaa_/"]}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/theomaa.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/theomaa.html#artist", "name": "Theomaa", "description": "Bouyon singer from the Guadeloupe scene, creative partner of 1T1. Co-writer and singer of Bouwéy and Ouba, Bouyon Song of the Year and French Caribbean Song of the Year at the 2026 Caribbean Music Awards.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bouwéy"}, {"@type": "MusicRecording", "name": "Ouba"}, {"@type": "MusicRecording", "name": "Wa wa Waaaw"}, {"@type": "MusicRecording", "name": "Leave Me Alone"}, {"@type": "MusicRecording", "name": "Mas La Rivé"}, {"@type": "MusicRecording", "name": "Piney"}, {"@type": "MusicRecording", "name": "Gasolina"}, {"@type": "MusicRecording", "name": "Party Rocking"}, {"@type": "MusicRecording", "name": "New Bouyon Wave #1"}, {"@type": "MusicRecording", "name": "Baddest"},
+      {
+       "@type": "MusicRecording",
+       "name": "Wouloo (feat. 1T1)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PnL(Piney) [feat. Theomaa]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Uhuu dah dah (feat. GOMKO, Luky & Theomaa)"
+      },
+], "sameAs": ["https://www.instagram.com/13theomaa_/"]}}],
  "date_modified": "2026-10-20"
 }

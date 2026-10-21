@@ -68,7 +68,20 @@ FR = {
   ("De quelle île vient Deejay Guyguy ?", "Ce n’est pas établi. Le relais de son remix par NRJ Antilles et la langue créole du titre Bel Fess Bel Chatte situent son terrain dans les Antilles françaises, mais aucune source vérifiée ne donne son île d’origine ou son lieu de résidence. Ce site ne transforme pas un contexte de diffusion en biographie."),
   ("Pourquoi ce profil est il si court par rapport aux autres artistes du site ?", "Parce que le dossier public vérifié tient en deux crédits. Plutôt que de remplir la page avec des faits empruntés à des homonymes ou inventés, ce profil publie les deux crédits avec leurs sources, explique leur contexte, et liste ce qui reste inconnu. Il sera allongé dès qu’une source primaire confirmera d’autres éléments.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/deejay-guyguy.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/deejay-guyguy.html#artist", "name": "Deejay Guyguy", "description": "DJ associé au bouyon, connu par deux crédits vérifiés : le remix bouyon d’Anissa avec Dj Fine Apple, relayé par NRJ Antilles, et un crédit sur Bel Fess Bel Chatte de Miky Ding La et J2MO.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Anissa Remix Bouyon 2020"}, {"@type": "MusicRecording", "name": "Bèl Fèss Bèl Chatte"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/deejay-guyguy.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/deejay-guyguy.html#artist", "name": "Deejay Guyguy", "description": "DJ associé au bouyon, connu par deux crédits vérifiés : le remix bouyon d’Anissa avec Dj Fine Apple, relayé par NRJ Antilles, et un crédit sur Bel Fess Bel Chatte de Miky Ding La et J2MO.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Anissa Remix Bouyon 2020"}, {"@type": "MusicRecording", "name": "Bèl Fèss Bèl Chatte"},
+      {
+       "@type": "MusicRecording",
+       "name": "Fanm Mayé (feat. Yellow Gaza Girls)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Projet X (feat. Leyou, Ted La & Anonymous Gyals)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Olé Olé"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -135,6 +148,19 @@ EN = {
   ("Which island does Deejay Guyguy come from?", "That is not established. The relay of his remix by NRJ Antilles and the Creole language of the track Bel Fess Bel Chatte place his ground in the French Antilles, but no verified source gives his island of origin or his place of residence. This site does not turn a broadcast context into a biography."),
   ("Why is this profile so much shorter than the other artist pages on this site?", "Because the verified public record fits in two credits. Rather than filling the page with facts borrowed from namesakes or invented, this profile publishes the two credits with their sources, explains their context, and lists what remains unknown. It will grow as soon as a primary source confirms more.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/deejay-guyguy.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/deejay-guyguy.html#artist", "name": "Deejay Guyguy", "description": "DJ associated with bouyon, known through two verified credits: the bouyon remix of Anissa with Dj Fine Apple, relayed by NRJ Antilles, and a credit on Bel Fess Bel Chatte by Miky Ding La and J2MO.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Anissa Remix Bouyon 2020"}, {"@type": "MusicRecording", "name": "Bèl Fèss Bèl Chatte"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/deejay-guyguy.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/deejay-guyguy.html#artist", "name": "Deejay Guyguy", "description": "DJ associated with bouyon, known through two verified credits: the bouyon remix of Anissa with Dj Fine Apple, relayed by NRJ Antilles, and a credit on Bel Fess Bel Chatte by Miky Ding La and J2MO.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Anissa Remix Bouyon 2020"}, {"@type": "MusicRecording", "name": "Bèl Fèss Bèl Chatte"},
+      {
+       "@type": "MusicRecording",
+       "name": "Fanm Mayé (feat. Yellow Gaza Girls)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Projet X (feat. Leyou, Ted La & Anonymous Gyals)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Olé Olé"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

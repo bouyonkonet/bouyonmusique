@@ -95,7 +95,28 @@ FR = {
   ("Sur quels titres peut-on entendre Hussey ?", "Sur les singles de Trixzmigos : « The Christmas Story » (2024), « What She Like », « Dark Love », « Rum » avec Poyzin, « Doh Mix Me » avec Shyanne, « Shake Dat » et « 1View » (2025), puis « Long Time » (2026), la sortie la plus récente du catalogue au moment de la recherche. Tous le créditent en featuring, aucun ne le présente comme artiste principal."),
   ("Où suivre Hussey et écouter la suite ?", "Aucun compte officiel du chanteur n’a pu être vérifié pendant la recherche de ce profil, qui ne lie donc aucun réseau social. La voie sûre est le catalogue de Trixzmigos sur les plateformes, où ses featurings paraissent, et notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, qui suit la vague dominicaine actuelle, de Trixzmigos à <a href=\"/signal-band.html\">Signal Band</a>.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/hussey.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/hussey.html#artist", "name": "Hussey", "description": "Chanteur de la Dominique documenté comme voix invitée sur huit titres de Trixzmigos, dont What She Like, finaliste de la collaboration de l’année aux Dominica Music Awards 2025.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'What She Like'}, {"@type": "MusicRecording", "name": '1View'}, {"@type": "MusicRecording", "name": 'Rum'}, {"@type": "MusicRecording", "name": 'Doh Mix Me'}, {"@type": "MusicRecording", "name": 'Shake Dat'}, {"@type": "MusicRecording", "name": 'Dark Love'}, {"@type": "MusicRecording", "name": 'The Christmas Story'}, {"@type": "MusicRecording", "name": 'Long Time'}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/hussey.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/hussey.html#artist", "name": "Hussey", "description": "Chanteur de la Dominique documenté comme voix invitée sur huit titres de Trixzmigos, dont What She Like, finaliste de la collaboration de l’année aux Dominica Music Awards 2025.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'What She Like'}, {"@type": "MusicRecording", "name": '1View'}, {"@type": "MusicRecording", "name": 'Rum'}, {"@type": "MusicRecording", "name": 'Doh Mix Me'}, {"@type": "MusicRecording", "name": 'Shake Dat'}, {"@type": "MusicRecording", "name": 'Dark Love'}, {"@type": "MusicRecording", "name": 'The Christmas Story'}, {"@type": "MusicRecording", "name": 'Long Time'},
+      {
+       "@type": "MusicRecording",
+       "name": "Bad Bro (feat. Hussey)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Get High (feat. Hussey, Real Reel & Trixzmigos) [Savion Beats Remix]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hungry (feat. Hussey & Nawizi)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Play Harder (feat. Hussey)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ain't Lucky (feat. Hussey)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -181,6 +202,27 @@ EN = {
   ("On which tracks can Hussey be heard?", "On the Trixzmigos singles: “The Christmas Story” (2024), “What She Like”, “Dark Love”, “Rum” with Poyzin, “Doh Mix Me” with Shyanne, “Shake Dat” and “1View” (2025), then “Long Time” (2026), the most recent catalog release at the time of research. All of them credit him as a feature, none presents him as the lead artist."),
   ("Where can I follow Hussey and hear what comes next?", "No official account of the singer could be verified during the research for this profile, which therefore links to no social profile. The safe route is the Trixzmigos catalog on the platforms, where his features appear, and our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, which follows the current Dominican wave, from Trixzmigos to <a href=\"/en/signal-band.html\">Signal Band</a>.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/hussey.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/hussey.html#artist", "name": "Hussey", "description": "Singer from Dominica documented as a guest voice on eight Trixzmigos tracks, including What She Like, a Collaboration of the Year finalist at the Dominica Music Awards 2025.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'What She Like'}, {"@type": "MusicRecording", "name": '1View'}, {"@type": "MusicRecording", "name": 'Rum'}, {"@type": "MusicRecording", "name": 'Doh Mix Me'}, {"@type": "MusicRecording", "name": 'Shake Dat'}, {"@type": "MusicRecording", "name": 'Dark Love'}, {"@type": "MusicRecording", "name": 'The Christmas Story'}, {"@type": "MusicRecording", "name": 'Long Time'}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/hussey.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/hussey.html#artist", "name": "Hussey", "description": "Singer from Dominica documented as a guest voice on eight Trixzmigos tracks, including What She Like, a Collaboration of the Year finalist at the Dominica Music Awards 2025.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'What She Like'}, {"@type": "MusicRecording", "name": '1View'}, {"@type": "MusicRecording", "name": 'Rum'}, {"@type": "MusicRecording", "name": 'Doh Mix Me'}, {"@type": "MusicRecording", "name": 'Shake Dat'}, {"@type": "MusicRecording", "name": 'Dark Love'}, {"@type": "MusicRecording", "name": 'The Christmas Story'}, {"@type": "MusicRecording", "name": 'Long Time'},
+      {
+       "@type": "MusicRecording",
+       "name": "Bad Bro (feat. Hussey)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Get High (feat. Hussey, Real Reel & Trixzmigos) [Savion Beats Remix]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hungry (feat. Hussey & Nawizi)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Play Harder (feat. Hussey)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ain't Lucky (feat. Hussey)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

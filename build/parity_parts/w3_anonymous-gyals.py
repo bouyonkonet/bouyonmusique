@@ -94,7 +94,24 @@ FR = {
   ("Anonymous Gyals est-elle de Guadeloupe ?", "Ce n’est pas établi comme une origine. Le fait géographique vérifié est une soirée à son nom en Guadeloupe, organisée par Effervescence, et des titres en créole des Antilles françaises classés dans le bouyon. Aucune source consultée ne donne sa commune ou son île de naissance, donc ce profil ne lui attribue pas d’origine précise."),
   ("Connaît-on le vrai nom d’Anonymous Gyals ?", "Non. Aucun nom civil, aucun membre nommé et aucun compte social officiel vérifié n’ont été retrouvés dans les sources consultées pour ce profil. L’anonymat fait partie du nom de scène lui-même, et ce site le respecte en ne publiant que les traces publiques vérifiées : deux titres bouyon et une soirée en Guadeloupe.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/anonymous-gyals.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/anonymous-gyals.html#artist", "name": "Anonymous Gyals", "description": "Artiste bouyon émergente, écrite Anonymous Gyal’s sur les plateformes. Titres vérifiés : PA FÈ CHICHI, classé dans The Sound of Bouyon de Spotify, et Cho caché. Une soirée Baddies Bash porte son nom en Guadeloupe en octobre 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "PA FÈ CHICHI"}, {"@type": "MusicRecording", "name": "Cho caché"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/anonymous-gyals.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/anonymous-gyals.html#artist", "name": "Anonymous Gyals", "description": "Artiste bouyon émergente, écrite Anonymous Gyal’s sur les plateformes. Titres vérifiés : PA FÈ CHICHI, classé dans The Sound of Bouyon de Spotify, et Cho caché. Une soirée Baddies Bash porte son nom en Guadeloupe en octobre 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "PA FÈ CHICHI"}, {"@type": "MusicRecording", "name": "Cho caché"},
+      {
+       "@type": "MusicRecording",
+       "name": "Juste pour une baise"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Petite Garce"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "KANON"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Projet X (feat. Leyou, Ted La & Anonymous Gyals)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -172,6 +189,23 @@ EN = {
   ("Is Anonymous Gyals from Guadeloupe?", "That is not established as an origin. The verified geographic fact is a night in her name in Guadeloupe, organised by Effervescence, and Creole records from the French Antilles ranked in bouyon. No source consulted gives her town or island of birth, so this profile credits her with no precise origin."),
   ("Do we know the real name of Anonymous Gyals?", "No. No legal name, no named member and no verified official social account were found in the sources consulted for this profile. Anonymity is part of the stage name itself, and this site respects it by publishing only the verified public traces: two bouyon records and one night in Guadeloupe.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/anonymous-gyals.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/anonymous-gyals.html#artist", "name": "Anonymous Gyals", "description": "Emerging bouyon artist, written Anonymous Gyal’s on the platforms. Verified records: PA FÈ CHICHI, ranked in Spotify The Sound of Bouyon, and Cho caché. A Baddies Bash night carries her name in Guadeloupe in October 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "PA FÈ CHICHI"}, {"@type": "MusicRecording", "name": "Cho caché"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/anonymous-gyals.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/anonymous-gyals.html#artist", "name": "Anonymous Gyals", "description": "Emerging bouyon artist, written Anonymous Gyal’s on the platforms. Verified records: PA FÈ CHICHI, ranked in Spotify The Sound of Bouyon, and Cho caché. A Baddies Bash night carries her name in Guadeloupe in October 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "PA FÈ CHICHI"}, {"@type": "MusicRecording", "name": "Cho caché"},
+      {
+       "@type": "MusicRecording",
+       "name": "Juste pour une baise"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Petite Garce"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "KANON"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Projet X (feat. Leyou, Ted La & Anonymous Gyals)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

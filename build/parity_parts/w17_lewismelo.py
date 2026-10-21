@@ -84,7 +84,84 @@ FR = {
   ("Lewismelo a-t-il composé pour l’album d’Admiral T ?", "Oui. Sur « MAESTRO », l’album d’Admiral T paru le 1er février 2025 sous ELITE BASE, la fiche Deezer crédite Lewis Campbell comme compositeur sur « MY FAMILY », « NOU PAKA BA FANM KOU » et « DÈVIZ AN MWEN ». C’est un versant producteur de son dossier solo, distinct de ses propres titres."),
   ("Par où commencer pour écouter Lewismelo en solo ?", "Commencez par « Clean Body » pour le premier single, puis écoutez « Premières Notes » en entier, de « INTRO » à « THANK YOU », puis « On ti rhum » et « FVCK YOU » avec Admiral T. Le catalogue du duo est sur la page <a href=\"/dcamp-lewismelo.html\">Dcamp & Lewismelo</a>, et notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> replace le tout dans la scène complète.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/lewismelo.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/lewismelo.html#artist", "name": "Lewismelo", "description": "Lewismelo, Lewis Wayne Campbell, producteur et artiste bouyon de Guadeloupe, moitié du duo Dcamp & Lewismelo. En solo : le single Clean Body (2023), l’album Premières Notes (2024, Lewismeloproduction) avec Admiral T, Shanika, Dcamp et KEKS MAFIA en invités, les singles On ti rhum et FVCK YOU cosignés avec Admiral T, et des compositions sur l’album MAESTRO d’Admiral T.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "INTRO"}, {"@type": "MusicRecording", "name": "5 KILOS"}, {"@type": "MusicRecording", "name": "VIN TCHEK NOU"}, {"@type": "MusicRecording", "name": "POMPÉ"}, {"@type": "MusicRecording", "name": "ALOUETTE"}, {"@type": "MusicRecording", "name": "KEY"}, {"@type": "MusicRecording", "name": "HULLABALOO"}, {"@type": "MusicRecording", "name": "THANK YOU"}, {"@type": "MusicRecording", "name": "Clean Body"}, {"@type": "MusicRecording", "name": "On ti rhum"}, {"@type": "MusicRecording", "name": "FVCK YOU"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/lewismelo.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/lewismelo.html#artist", "name": "Lewismelo", "description": "Lewismelo, Lewis Wayne Campbell, producteur et artiste bouyon de Guadeloupe, moitié du duo Dcamp & Lewismelo. En solo : le single Clean Body (2023), l’album Premières Notes (2024, Lewismeloproduction) avec Admiral T, Shanika, Dcamp et KEKS MAFIA en invités, les singles On ti rhum et FVCK YOU cosignés avec Admiral T, et des compositions sur l’album MAESTRO d’Admiral T.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "INTRO"}, {"@type": "MusicRecording", "name": "5 KILOS"}, {"@type": "MusicRecording", "name": "VIN TCHEK NOU"}, {"@type": "MusicRecording", "name": "POMPÉ"}, {"@type": "MusicRecording", "name": "ALOUETTE"}, {"@type": "MusicRecording", "name": "KEY"}, {"@type": "MusicRecording", "name": "HULLABALOO"}, {"@type": "MusicRecording", "name": "THANK YOU"}, {"@type": "MusicRecording", "name": "Clean Body"}, {"@type": "MusicRecording", "name": "On ti rhum"}, {"@type": "MusicRecording", "name": "FVCK YOU"},
+      {
+       "@type": "MusicRecording",
+       "name": "What's Problem"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LUSHENANA"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "On My Way"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Flex & Buss It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "COCO"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LET'S MAKE A BABY"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PINPON RIDDIM (feat. DJ LUCHSHIY, Fredo Pichi, Lewismelo & Dcamp)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "YOU AND ME"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BOUYON"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "N.W.A [NÈG WITH ATTITUDE]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "COPAIN COPINE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LA BOULANGERIE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BODY COUNT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "IL ETAIT UNE FOIS"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BAY LA BÈT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sòti Gwadloup"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TOURNEVIS"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pani Konbin"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "GOUTÉW"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -161,6 +238,83 @@ EN = {
   ("Did Lewismelo compose for the Admiral T album?", "Yes. On “MAESTRO”, the Admiral T album released on February 1, 2025 under ELITE BASE, the Deezer listing credits Lewis Campbell as composer on “MY FAMILY”, “NOU PAKA BA FANM KOU” and “DÈVIZ AN MWEN”. That is a producer side of his solo file, distinct from his own titles."),
   ("Where should I start listening to Lewismelo solo?", "Start with “Clean Body” for the first single, then hear “Premières Notes” in full, from “INTRO” to “THANK YOU”, then “On ti rhum” and “FVCK YOU” with Admiral T. The duo catalogue is on the <a href=\"/en/dcamp-lewismelo.html\">Dcamp & Lewismelo</a> page, and our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> places it all back inside the full scene.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/lewismelo.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/lewismelo.html#artist", "name": "Lewismelo", "description": "Lewismelo, Lewis Wayne Campbell, bouyon producer and artist from Guadeloupe, one half of the duo Dcamp & Lewismelo. Solo: the single Clean Body (2023), the album Premières Notes (2024, Lewismeloproduction) with Admiral T, Shanika, Dcamp and KEKS MAFIA as guests, the singles On ti rhum and FVCK YOU co-billed with Admiral T, and compositions on the Admiral T album MAESTRO.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "INTRO"}, {"@type": "MusicRecording", "name": "5 KILOS"}, {"@type": "MusicRecording", "name": "VIN TCHEK NOU"}, {"@type": "MusicRecording", "name": "POMPÉ"}, {"@type": "MusicRecording", "name": "ALOUETTE"}, {"@type": "MusicRecording", "name": "KEY"}, {"@type": "MusicRecording", "name": "HULLABALOO"}, {"@type": "MusicRecording", "name": "THANK YOU"}, {"@type": "MusicRecording", "name": "Clean Body"}, {"@type": "MusicRecording", "name": "On ti rhum"}, {"@type": "MusicRecording", "name": "FVCK YOU"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/lewismelo.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/lewismelo.html#artist", "name": "Lewismelo", "description": "Lewismelo, Lewis Wayne Campbell, bouyon producer and artist from Guadeloupe, one half of the duo Dcamp & Lewismelo. Solo: the single Clean Body (2023), the album Premières Notes (2024, Lewismeloproduction) with Admiral T, Shanika, Dcamp and KEKS MAFIA as guests, the singles On ti rhum and FVCK YOU co-billed with Admiral T, and compositions on the Admiral T album MAESTRO.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "INTRO"}, {"@type": "MusicRecording", "name": "5 KILOS"}, {"@type": "MusicRecording", "name": "VIN TCHEK NOU"}, {"@type": "MusicRecording", "name": "POMPÉ"}, {"@type": "MusicRecording", "name": "ALOUETTE"}, {"@type": "MusicRecording", "name": "KEY"}, {"@type": "MusicRecording", "name": "HULLABALOO"}, {"@type": "MusicRecording", "name": "THANK YOU"}, {"@type": "MusicRecording", "name": "Clean Body"}, {"@type": "MusicRecording", "name": "On ti rhum"}, {"@type": "MusicRecording", "name": "FVCK YOU"},
+      {
+       "@type": "MusicRecording",
+       "name": "What's Problem"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LUSHENANA"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "On My Way"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Flex & Buss It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "COCO"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LET'S MAKE A BABY"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PINPON RIDDIM (feat. DJ LUCHSHIY, Fredo Pichi, Lewismelo & Dcamp)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "YOU AND ME"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BOUYON"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "N.W.A [NÈG WITH ATTITUDE]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "COPAIN COPINE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LA BOULANGERIE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BODY COUNT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "IL ETAIT UNE FOIS"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BAY LA BÈT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sòti Gwadloup"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TOURNEVIS"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pani Konbin"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "GOUTÉW"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

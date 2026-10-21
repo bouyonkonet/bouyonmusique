@@ -79,7 +79,40 @@ FR = {
   ("Quel est le lien entre VJ Ben, Vadore Concept et le Voodoo Studio ?", "« Je l'ai vu », le titre auquel son nom est associé, a été enregistré au Voodoo Studio et produit notamment par Vadore Concept, dont l'héritière Vadore Concept Groupe a publié le single chez Believe. Le clip de « Shatta ay », enregistré dans le même studio, le crédite parmi les personnes qui y apparaissent. VJ Ben est un visage récurrent de ce cercle de production guadeloupéen du bouyon et du shatta."),
   ("Où écouter VJ Ben ?", "Sur sa page d'artiste Spotify, qui rassemble ses singles de 2019 à 2026, et dans notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, qui mélange bouyon gwada, shatta et nouveautés des Antilles françaises suivies par Bouyon Shattaz. Commencez par « Je l'ai vu » avec HollyG et Arendi, puis « Owa'y » et « No Love ».")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/vj-ben.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/vj-ben.html#artist", "name": "VJ Ben", "description": "Artiste bouyon et shatta et DJ des Antilles françaises. Nom associé au clip officiel de Je l'ai vu de HollyG et Arendi (2021), certifié single d'or par le SNEP en 2025 sous les noms de Holly G et Arendi. Catalogue Spotify en propre de 2019 à 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Je l'ai vu"}, {"@type": "MusicRecording", "name": "Owa'y"}, {"@type": "MusicRecording", "name": "No Love"}, {"@type": "MusicRecording", "name": "Bla bla bla"}, {"@type": "MusicRecording", "name": "Ti KoKa"}, {"@type": "MusicRecording", "name": "Yinki ban mwen"}, {"@type": "MusicRecording", "name": "Médicament"}, {"@type": "MusicRecording", "name": "One Dance"}, {"@type": "MusicRecording", "name": "Purple Mood #3"}, {"@type": "MusicRecording", "name": "Money Addict"}, {"@type": "MusicRecording", "name": "Mercedes"}, {"@type": "MusicRecording", "name": "Je l'ai vu (Charles V Remix)"}], "sameAs": ["https://open.spotify.com/artist/2O9VQiT2acYaA9JIMybpaV"]}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/vj-ben.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/vj-ben.html#artist", "name": "VJ Ben", "description": "Artiste bouyon et shatta et DJ des Antilles françaises. Nom associé au clip officiel de Je l'ai vu de HollyG et Arendi (2021), certifié single d'or par le SNEP en 2025 sous les noms de Holly G et Arendi. Catalogue Spotify en propre de 2019 à 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Je l'ai vu"}, {"@type": "MusicRecording", "name": "Owa'y"}, {"@type": "MusicRecording", "name": "No Love"}, {"@type": "MusicRecording", "name": "Bla bla bla"}, {"@type": "MusicRecording", "name": "Ti KoKa"}, {"@type": "MusicRecording", "name": "Yinki ban mwen"}, {"@type": "MusicRecording", "name": "Médicament"}, {"@type": "MusicRecording", "name": "One Dance"}, {"@type": "MusicRecording", "name": "Purple Mood #3"}, {"@type": "MusicRecording", "name": "Money Addict"}, {"@type": "MusicRecording", "name": "Mercedes"}, {"@type": "MusicRecording", "name": "Je l'ai vu (Charles V Remix)"},
+      {
+       "@type": "MusicRecording",
+       "name": "Ma chérie"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Money No Lovo"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sorry (Edit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sorry (Extend 01)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sorry (Extend 02)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "C vré"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Viens danser"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Party Start"
+      },
+], "sameAs": ["https://open.spotify.com/artist/2O9VQiT2acYaA9JIMybpaV"]}}],
  "date_modified": "2026-10-20"
 }
 
@@ -151,6 +184,39 @@ EN = {
   ("What is the link between VJ Ben, Vadore Concept and Voodoo Studio?", "“Je l'ai vu”, the track his name is associated with, was recorded at Voodoo Studio and produced among others by Vadore Concept, whose successor Vadore Concept Groupe released the single through Believe. The “Shatta ay” video, recorded in the same studio, credits him among the people appearing in it. VJ Ben is a recurring face of that Guadeloupe production circle of bouyon and shatta."),
   ("Where can I hear VJ Ben?", "On his Spotify artist page, which gathers his singles from 2019 to 2026, and in our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, which mixes bouyon gwada, shatta and new releases from the French Antilles followed by Bouyon Shattaz. Start with “Je l'ai vu” with HollyG and Arendi, then “Owa'y” and “No Love”.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/vj-ben.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/vj-ben.html#artist", "name": "VJ Ben", "description": "Bouyon and shatta artist and DJ from the French Antilles. Name associated with the official video of Je l'ai vu by HollyG and Arendi (2021), certified gold single by SNEP in 2025 under the names of Holly G and Arendi. Spotify catalogue under his own name from 2019 to 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Je l'ai vu"}, {"@type": "MusicRecording", "name": "Owa'y"}, {"@type": "MusicRecording", "name": "No Love"}, {"@type": "MusicRecording", "name": "Bla bla bla"}, {"@type": "MusicRecording", "name": "Ti KoKa"}, {"@type": "MusicRecording", "name": "Yinki ban mwen"}, {"@type": "MusicRecording", "name": "Médicament"}, {"@type": "MusicRecording", "name": "One Dance"}, {"@type": "MusicRecording", "name": "Purple Mood #3"}, {"@type": "MusicRecording", "name": "Money Addict"}, {"@type": "MusicRecording", "name": "Mercedes"}, {"@type": "MusicRecording", "name": "Je l'ai vu (Charles V Remix)"}], "sameAs": ["https://open.spotify.com/artist/2O9VQiT2acYaA9JIMybpaV"]}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/vj-ben.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/vj-ben.html#artist", "name": "VJ Ben", "description": "Bouyon and shatta artist and DJ from the French Antilles. Name associated with the official video of Je l'ai vu by HollyG and Arendi (2021), certified gold single by SNEP in 2025 under the names of Holly G and Arendi. Spotify catalogue under his own name from 2019 to 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Je l'ai vu"}, {"@type": "MusicRecording", "name": "Owa'y"}, {"@type": "MusicRecording", "name": "No Love"}, {"@type": "MusicRecording", "name": "Bla bla bla"}, {"@type": "MusicRecording", "name": "Ti KoKa"}, {"@type": "MusicRecording", "name": "Yinki ban mwen"}, {"@type": "MusicRecording", "name": "Médicament"}, {"@type": "MusicRecording", "name": "One Dance"}, {"@type": "MusicRecording", "name": "Purple Mood #3"}, {"@type": "MusicRecording", "name": "Money Addict"}, {"@type": "MusicRecording", "name": "Mercedes"}, {"@type": "MusicRecording", "name": "Je l'ai vu (Charles V Remix)"},
+      {
+       "@type": "MusicRecording",
+       "name": "Ma chérie"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Money No Lovo"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sorry (Edit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sorry (Extend 01)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sorry (Extend 02)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "C vré"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Viens danser"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Party Start"
+      },
+], "sameAs": ["https://open.spotify.com/artist/2O9VQiT2acYaA9JIMybpaV"]}}],
  "date_modified": "2026-10-20"
 }

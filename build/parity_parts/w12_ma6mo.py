@@ -75,7 +75,44 @@ FR = {
   ("Pourquoi ce profil ne donne-t-il ni origine ni biographie de MA6MO ?", "Parce qu’aucune source fiable ne les publie. Les crédits rattachent MA6MO au circuit bouyon de Guadeloupe, via Team Bwè Tou Sa et TiiTii NBA, mais aucune source ne confirme son île de naissance, son nom civil ou son parcours. Ce site préfère afficher ces limites plutôt que d’inventer une biographie, et le profil sera complété si des éléments vérifiables sont confirmés."),
   ("Où écouter MA6MO ?", "Commencez par « Sexuelle Attirance » sur l’album « Voyé sa alléé II » de Team Bwè Tou Sa, puis « Bibik » du même collectif avec FLW, et « LÉSÉ NOU PASÉ » de TiiTii NBA. Pour le contexte, notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> et notre page <a href=\"/bouyon-gwada.html\">bouyon gwada</a> couvrent la scène dont ces titres sont issus.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/ma6mo.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/ma6mo.html#artist", "name": "MA6MO", "description": "Artiste du circuit bouyon de Guadeloupe connu uniquement par ses crédits publics : Sexuelle Attirance avec Ti locksée (2022), Bibik avec Team Bwè Tou Sa et FLW, LÉSÉ NOU PASÉ avec TiiTii NBA et Diixly (2026). Aucune biographie officielle vérifiée à ce jour.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Sexuelle Attirance"}, {"@type": "MusicRecording", "name": "Bibik"}, {"@type": "MusicRecording", "name": "LÉSÉ NOU PASÉ"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/ma6mo.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/ma6mo.html#artist", "name": "MA6MO", "description": "Artiste du circuit bouyon de Guadeloupe connu uniquement par ses crédits publics : Sexuelle Attirance avec Ti locksée (2022), Bibik avec Team Bwè Tou Sa et FLW, LÉSÉ NOU PASÉ avec TiiTii NBA et Diixly (2026). Aucune biographie officielle vérifiée à ce jour.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Sexuelle Attirance"}, {"@type": "MusicRecording", "name": "Bibik"}, {"@type": "MusicRecording", "name": "LÉSÉ NOU PASÉ"},
+      {
+       "@type": "MusicRecording",
+       "name": "FREESTYLE CARNAVAL"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "IN THIS P#SSY"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "JWOUI VIT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cochon"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dousè"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ANVI KOKÉ"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sa ka ban mwen y"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mangé sa"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sit down #Oups 2"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -144,6 +181,43 @@ EN = {
   ("Why does this profile give no origin or biography for MA6MO?", "Because no reliable source publishes them. The credits tie MA6MO to the Guadeloupe bouyon circuit, through Team Bwè Tou Sa and TiiTii NBA, but no source confirms his island of birth, his legal name or his path. This site prefers to display those limits rather than invent a biography, and the profile will be completed if verifiable elements are confirmed."),
   ("Where can I hear MA6MO?", "Start with “Sexuelle Attirance” on the Team Bwè Tou Sa album “Voyé sa alléé II”, then “Bibik” by the same collective with FLW, and “LÉSÉ NOU PASÉ” by TiiTii NBA. For context, our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> and our <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a> page cover the scene those records come from.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/ma6mo.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/ma6mo.html#artist", "name": "MA6MO", "description": "Artist of the Guadeloupe bouyon circuit known only through his public credits: Sexuelle Attirance with Ti locksée (2022), Bibik with Team Bwè Tou Sa and FLW, LÉSÉ NOU PASÉ with TiiTii NBA and Diixly (2026). No verified official biography to date.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Sexuelle Attirance"}, {"@type": "MusicRecording", "name": "Bibik"}, {"@type": "MusicRecording", "name": "LÉSÉ NOU PASÉ"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/ma6mo.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/ma6mo.html#artist", "name": "MA6MO", "description": "Artist of the Guadeloupe bouyon circuit known only through his public credits: Sexuelle Attirance with Ti locksée (2022), Bibik with Team Bwè Tou Sa and FLW, LÉSÉ NOU PASÉ with TiiTii NBA and Diixly (2026). No verified official biography to date.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Sexuelle Attirance"}, {"@type": "MusicRecording", "name": "Bibik"}, {"@type": "MusicRecording", "name": "LÉSÉ NOU PASÉ"},
+      {
+       "@type": "MusicRecording",
+       "name": "FREESTYLE CARNAVAL"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "IN THIS P#SSY"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "JWOUI VIT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cochon"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dousè"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ANVI KOKÉ"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sa ka ban mwen y"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mangé sa"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sit down #Oups 2"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
