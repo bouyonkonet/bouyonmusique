@@ -85,7 +85,404 @@ FR = {
   ("Sur quels labels sort la musique de Miky Ding La ?", "Principalement Pandemuzik, crédité comme producteur et label de En La, Manm'zel La, Kichta et MDL Acte 1, et la famille UpFull : Up Full Media Group pour Pervers Mixtape, Vol. 1 en 2021, UpFull Music pour l EP IN REAL LIFE en 2025 et la distribution de MDL Acte 1 en 2026. Son featuring Sa Dou est sorti chez 1T1 en 2023."),
   ("Où écouter Miky Ding La ?", "Son catalogue est disponible sur Deezer, Qobuz, Shazam et les plateformes de streaming, chez Pandemuzik et UpFull Music. Commencez par ON DOZ et PARENTALITÉ, puis Sa Dou et Kichta, et suivez les sorties de la scène dans notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/miky-ding-la.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/miky-ding-la.html#artist", "name": "Miky Ding La", "description": "Chanteur de Guadeloupe, auteur crédité sous le nom Mike Adequilom. Artiste Pandemuzik et UpFull Music, auteur et interprète de ON DOZ et de l album MDL Acte 1 en 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "ON DOZ"}, {"@type": "MusicRecording", "name": "PARENTALITÉ"}, {"@type": "MusicRecording", "name": "GID AN MWEN"}, {"@type": "MusicRecording", "name": "BAY ADAN"}, {"@type": "MusicRecording", "name": "VIN DI MWEN"}, {"@type": "MusicRecording", "name": "Woman"}, {"@type": "MusicRecording", "name": "Guadeloupe"}, {"@type": "MusicRecording", "name": "La Bèl époque"}, {"@type": "MusicRecording", "name": "Manm'zel La"}, {"@type": "MusicRecording", "name": "En La"}, {"@type": "MusicRecording", "name": "Kichta"}, {"@type": "MusicRecording", "name": "Sa Dou"}, {"@type": "MusicRecording", "name": "Weed tou lé jou"}, {"@type": "MusicRecording", "name": "Polygam"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/miky-ding-la.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/miky-ding-la.html#artist", "name": "Miky Ding La", "description": "Chanteur de Guadeloupe, auteur crédité sous le nom Mike Adequilom. Artiste Pandemuzik et UpFull Music, auteur et interprète de ON DOZ et de l album MDL Acte 1 en 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "ON DOZ"}, {"@type": "MusicRecording", "name": "PARENTALITÉ"}, {"@type": "MusicRecording", "name": "GID AN MWEN"}, {"@type": "MusicRecording", "name": "BAY ADAN"}, {"@type": "MusicRecording", "name": "VIN DI MWEN"}, {"@type": "MusicRecording", "name": "Woman"}, {"@type": "MusicRecording", "name": "Guadeloupe"}, {"@type": "MusicRecording", "name": "La Bèl époque"}, {"@type": "MusicRecording", "name": "Manm'zel La"}, {"@type": "MusicRecording", "name": "En La"}, {"@type": "MusicRecording", "name": "Kichta"}, {"@type": "MusicRecording", "name": "Sa Dou"}, {"@type": "MusicRecording", "name": "Weed tou lé jou"}, {"@type": "MusicRecording", "name": "Polygam"},
+      {
+       "@type": "MusicRecording",
+       "name": "Palé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "That Vigil Stupid"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Life a lajol"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hot P***y"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Chez Nous"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ola nou Kay"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pwoblème"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Vyé Bitin"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Plin Vente Aw"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Red Bandé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Woté Lé Kilot"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Charèt La Lou (feat. Babou)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Chiklet"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Batt gèl aw"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mouvement"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "On Sel vie"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bigerfull"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Vizé pi lwen"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Soucré sa"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Adultère"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ti Fré"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lanmou"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Vou"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Discussion"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Influansè"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PA VINN (feat. Nicy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "WSC (feat. Lima Tchoumi)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Gangsta Rezo"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "R.a.P (Rien a Prouver)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Chui Chui Chui (Officiel music video)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dèpi nou la"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Yinki baw"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Filling aw"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Préliminaire"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bitin sal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "La rue"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Les chiﬀres"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dômi ta lévé to"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pon chance"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Plis money"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mangé sa"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Objectif"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Attirance"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Malélivé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "An Poze"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Reality"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bèl Koukoun"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Fake (feat. Archi)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ma cousine"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bèl Fèss Bèl Chatte"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Koké La (Bouyon Kings)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MVT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Paré bay"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Money Money"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Koukoune"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fimé sa"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mako makrèl"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mayo la"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Yinki sex"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bénéfi's (Bouyon Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ka Yo Pé Fè (feat. hb war)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Twop kaj'"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Gwo biznès' big money"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sablié"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Solid fô é fiè"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ou Pa Pon Voyou"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "An ka work"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bénéfis'"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "San santiman avè lov"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Yo éséyé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ou toujou la"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Suyé larme aw"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "On sèl sav"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Deuil"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "An didan la"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "An pani tan"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Si ki moun ban konté"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kal a yo"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fé guel ay"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bitin woz"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Piège"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Weed"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Quarantenaire"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Peur bleu (X Miky Ding'La)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SKEM (X Miky Ding'La)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Confidences"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Workina (feat. Murda & Miky Ding La)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PLISS MONEY"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Don't Cry"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nimpho (feat. Miky Ding La)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bel dodan (feat. Miky Ding La)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Meritey (feat. Archy, Miky Ding La & Keros-N)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Traka (feat. Nicy, Miky Ding La & Archi) [Remix]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pa Stressé Mwen (feat. Miky Ding la)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "CHARBONNER (feat. Miky Ding La)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "La gravatte"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mega Mix High Lights Riddim (feat. Mad General, MIKTY & Miky Ding La)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Koke (feat. Miky Ding La)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Zidane (feat. Miky Ding la)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -163,6 +560,403 @@ EN = {
   ("On which labels is Miky Ding La music released?", "Mainly Pandemuzik, credited as producer and label of En La, Manm'zel La, Kichta and MDL Acte 1, and the UpFull family: Up Full Media Group for Pervers Mixtape, Vol. 1 in 2021, UpFull Music for the IN REAL LIFE EP in 2025 and the distribution of MDL Acte 1 in 2026. His feature Sa Dou was released under 1T1 in 2023."),
   ("Where can I hear Miky Ding La?", "His catalogue is available on Deezer, Qobuz, Shazam and the streaming platforms, through Pandemuzik and UpFull Music. Start with ON DOZ and PARENTALITÉ, then Sa Dou and Kichta, and follow the scene releases in our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/miky-ding-la.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/miky-ding-la.html#artist", "name": "Miky Ding La", "description": "Singer from Guadeloupe, credited as a writer under the name Mike Adequilom. Pandemuzik and UpFull Music artist, writer and performer of ON DOZ and of the MDL Acte 1 album in 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "ON DOZ"}, {"@type": "MusicRecording", "name": "PARENTALITÉ"}, {"@type": "MusicRecording", "name": "GID AN MWEN"}, {"@type": "MusicRecording", "name": "BAY ADAN"}, {"@type": "MusicRecording", "name": "VIN DI MWEN"}, {"@type": "MusicRecording", "name": "Woman"}, {"@type": "MusicRecording", "name": "Guadeloupe"}, {"@type": "MusicRecording", "name": "La Bèl époque"}, {"@type": "MusicRecording", "name": "Manm'zel La"}, {"@type": "MusicRecording", "name": "En La"}, {"@type": "MusicRecording", "name": "Kichta"}, {"@type": "MusicRecording", "name": "Sa Dou"}, {"@type": "MusicRecording", "name": "Weed tou lé jou"}, {"@type": "MusicRecording", "name": "Polygam"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/miky-ding-la.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/miky-ding-la.html#artist", "name": "Miky Ding La", "description": "Singer from Guadeloupe, credited as a writer under the name Mike Adequilom. Pandemuzik and UpFull Music artist, writer and performer of ON DOZ and of the MDL Acte 1 album in 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "ON DOZ"}, {"@type": "MusicRecording", "name": "PARENTALITÉ"}, {"@type": "MusicRecording", "name": "GID AN MWEN"}, {"@type": "MusicRecording", "name": "BAY ADAN"}, {"@type": "MusicRecording", "name": "VIN DI MWEN"}, {"@type": "MusicRecording", "name": "Woman"}, {"@type": "MusicRecording", "name": "Guadeloupe"}, {"@type": "MusicRecording", "name": "La Bèl époque"}, {"@type": "MusicRecording", "name": "Manm'zel La"}, {"@type": "MusicRecording", "name": "En La"}, {"@type": "MusicRecording", "name": "Kichta"}, {"@type": "MusicRecording", "name": "Sa Dou"}, {"@type": "MusicRecording", "name": "Weed tou lé jou"}, {"@type": "MusicRecording", "name": "Polygam"},
+      {
+       "@type": "MusicRecording",
+       "name": "Palé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "That Vigil Stupid"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Life a lajol"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hot P***y"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Chez Nous"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ola nou Kay"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pwoblème"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Vyé Bitin"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Plin Vente Aw"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Red Bandé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Woté Lé Kilot"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Charèt La Lou (feat. Babou)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Chiklet"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Batt gèl aw"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mouvement"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "On Sel vie"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bigerfull"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Vizé pi lwen"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Soucré sa"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Adultère"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ti Fré"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lanmou"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Vou"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Discussion"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Influansè"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PA VINN (feat. Nicy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "WSC (feat. Lima Tchoumi)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Gangsta Rezo"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "R.a.P (Rien a Prouver)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Chui Chui Chui (Officiel music video)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dèpi nou la"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Yinki baw"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Filling aw"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Préliminaire"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bitin sal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "La rue"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Les chiﬀres"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dômi ta lévé to"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pon chance"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Plis money"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mangé sa"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Objectif"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Attirance"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Malélivé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "An Poze"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Reality"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bèl Koukoun"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Fake (feat. Archi)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ma cousine"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bèl Fèss Bèl Chatte"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Koké La (Bouyon Kings)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MVT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Paré bay"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Money Money"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Koukoune"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fimé sa"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mako makrèl"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mayo la"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Yinki sex"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bénéfi's (Bouyon Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ka Yo Pé Fè (feat. hb war)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Twop kaj'"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Gwo biznès' big money"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sablié"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Solid fô é fiè"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ou Pa Pon Voyou"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "An ka work"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bénéfis'"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "San santiman avè lov"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Yo éséyé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ou toujou la"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Suyé larme aw"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "On sèl sav"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Deuil"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "An didan la"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "An pani tan"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Si ki moun ban konté"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kal a yo"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fé guel ay"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bitin woz"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Piège"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Weed"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Quarantenaire"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Peur bleu (X Miky Ding'La)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SKEM (X Miky Ding'La)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Confidences"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Workina (feat. Murda & Miky Ding La)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PLISS MONEY"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Don't Cry"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nimpho (feat. Miky Ding La)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bel dodan (feat. Miky Ding La)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Meritey (feat. Archy, Miky Ding La & Keros-N)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Traka (feat. Nicy, Miky Ding La & Archi) [Remix]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pa Stressé Mwen (feat. Miky Ding la)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "CHARBONNER (feat. Miky Ding La)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "La gravatte"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mega Mix High Lights Riddim (feat. Mad General, MIKTY & Miky Ding La)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Koke (feat. Miky Ding La)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Zidane (feat. Miky Ding la)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

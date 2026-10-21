@@ -1848,8 +1848,376 @@ PAGES = [
       {
        "@type": "MusicRecording",
        "name": "We Ready (feat. Trilla-G & Shelly)"
-      }
-     ]
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Clock It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Band of De Year"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lapidé Yo"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Folded (Cover) [feat. Téhilah]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I'm a Boss Baby"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Most Wonderful Time of the Year (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Un-Break My Heart (feat. Shanice)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shoot & Miss (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Not A Word (feat. Trilla-G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "My Widdim (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "They Take You (feat. Shelly & Trilla-G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Signal Dat Dere Wii (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "My Band (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Make Her Bawl (feat. Shelly, DJ Taffy & Trixx)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "FED UP (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Body Language (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Calendar Riddim 2024 (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Always Be My Baby (feat. Carlyn XP)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Something Nice (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dwivé (feat. Shelly & Trilla-G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Me With People (feat. Shelly & Moxie Shervy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Carnival Corner (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Best Friend (feat. Trilla-G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bingo (feat. Trilla-G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Painter (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Calendar Riddim (feat. Shelly & DJ Drixx)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I'll Be There For You (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Face No Case (feat. Shelly & Colton T)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stronger (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Night Shift (feat. Shelly & Trilla-G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nosey Neighbour (feat. Zwady & Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Riddim Coming Down (feat. Shane St. Claire) [This I Promise You Cover]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kanaval Awivé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Campari"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stay Chipping"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bamba"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Big Boy Story"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Must Come Back"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "De Word"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Déjà Val (feat. Trilla-G) [Party Mix]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Money Money"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "My Man"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Open D Road"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Man vs Rose (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "All My Life"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bouyon Vax"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Red Flag"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rum and Woman"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Forward Forward"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fence Get Low"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "On My Way (Side Life) (feat. Shelly, Starsha & Wawa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "On My Way"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doh See Me (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Who Make de Bouyon? (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Love to Whine (feat. Wawa & Starsha)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Spray Dem (feat. Shelly & Wawa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stress Free (feat. Wawa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Introll"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Carnival Shagweh (feat. Shelly & Wawa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Unstoppable"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Feel de Riddim (Riddim) [FDR]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "On de House (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Coming Down (feat. Wawa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nou Ja Aller (feat. Beetle J)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Issa Blessing (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "What a Riddim (WAR)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Largé Douleh (feat. Shelly, Wawa & Beetle J)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Land of d Bouyon"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "10:1"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bachanally Fit"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mailbox (feat. Anwar & Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Easy Dancing"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ani Ba Yo Love (feat. Riddla) [Alternative Mix]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Intro"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Horning (feat. Janae Jackson)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Riddim Drop"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "We Coming"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Interlude"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sorry"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bouyon Lum-ination (feat. Beetle J)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Veni Ensam (feat. Beetle J)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Farm Beff (feat. Beetle J)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lights Up (feat. Anwar)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "How You Do It (feat. Beetle J & Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bouyon Lumi-Nation (feat. Beetle J)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Youngest & Baddest (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "THE Celebration Song"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Out da Group Chat"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Calendar Riddim 2025"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cry No More"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Angels in the Sky (feat. Signal Band)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Drunkish (It Wasn't Me) (feat. Signal Band)"
+      },
+]
     }
    }
   ]
