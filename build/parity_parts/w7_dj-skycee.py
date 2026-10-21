@@ -76,7 +76,68 @@ FR = {
   ("D’où vient DJ Skycee ?", "Aucune source publiée retrouvée ne donne son lieu de naissance ou d’origine, et ce site ne le déduit ni du « 97 » de ses identifiants ni du « 972 » de l’identifiant de son collaborateur Coryy. Ce qui est vérifié : la bio de son TikTok officiel, @skycee97, affiche les drapeaux de la Guadeloupe et de la Martinique, et toutes ses collaborations documentées appartiennent au circuit bouyon et shatta de ces deux îles et au label Stormwave."),
   ("Où suivre et écouter DJ Skycee ?", "Ses comptes vérifiés, donnés par les descriptions officielles de ses vidéos Stormwave et ouverts pour ce profil, sont @skycee_97 sur Instagram et @skycee97 sur TikTok. Ses titres sont sur les plateformes de streaming, à commencer par « Sé Miimii », « Get Money » et « Caribbean Love ». Pour le contexte, écoutez aussi notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> et lisez notre page <a href=\"/miimii-kds.html\">Miimii KDS</a>.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/dj-skycee.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/dj-skycee.html#artist", "name": "DJ Skycee", "description": "DJ et compositeur bouyon lié au label Stormwave Entertainment. Connu pour Sé Miimii avec Miimii KDS, compositeur de Get Money de Coryy, artiste de Caribbean Love avec Kima. Artiste distinct de DJ Skaytah.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Sé Miimii"}, {"@type": "MusicRecording", "name": "Je veux"}, {"@type": "MusicRecording", "name": "Get Money"}, {"@type": "MusicRecording", "name": "Caribbean Love"}, {"@type": "MusicRecording", "name": "CARIBBEAN GYAL"}], "sameAs": ["https://www.instagram.com/skycee_97", "https://www.tiktok.com/@skycee97"]}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/dj-skycee.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/dj-skycee.html#artist", "name": "DJ Skycee", "description": "DJ et compositeur bouyon lié au label Stormwave Entertainment. Connu pour Sé Miimii avec Miimii KDS, compositeur de Get Money de Coryy, artiste de Caribbean Love avec Kima. Artiste distinct de DJ Skaytah.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Sé Miimii"}, {"@type": "MusicRecording", "name": "Je veux"}, {"@type": "MusicRecording", "name": "Get Money"}, {"@type": "MusicRecording", "name": "Caribbean Love"}, {"@type": "MusicRecording", "name": "CARIBBEAN GYAL"},
+      {
+       "@type": "MusicRecording",
+       "name": "Bodé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TONIGHT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Number one"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mindset"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mové Riddim"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sky riddim"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BADDIE (feat. DJ SKYCEE)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "CHIMEN CHYEN (feat. DJ SKYCEE)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pikéy (feat. Lucky, DJ SKYCEE & Binksdrick)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "WITH SOME BOYZ (feat. Miimii KDS & DJ SKYCEE)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "OH MAMA (feat. DJ SKYCEE & LILI)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Everything is nice (feat. Dj Skycee)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "10 Degrés"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "An soum"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "FEEL LONELY (feat. DJ SKYCEE) [Bouyon 2025]"
+      },
+], "sameAs": ["https://www.instagram.com/skycee_97", "https://www.tiktok.com/@skycee97"]}}],
  "date_modified": "2026-10-20"
 }
 
@@ -148,6 +209,67 @@ EN = {
   ("Where does DJ Skycee come from?", "No published source found gives his birthplace or origin, and this site does not deduce it from the “97” in his handles or from the “972” in his collaborator Coryy handle. What is verified: the bio of his official TikTok, @skycee97, displays the flags of Guadeloupe and Martinique, and all his documented collaborations belong to the bouyon and shatta circuit of those two islands and to the Stormwave label."),
   ("Where can I follow and hear DJ Skycee?", "His verified accounts, given by the official descriptions of his Stormwave videos and opened for this profile, are @skycee_97 on Instagram and @skycee97 on TikTok. His records are on the streaming platforms, starting with “Sé Miimii”, “Get Money” and “Caribbean Love”. For context, hear also our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> and read our <a href=\"/en/miimii-kds.html\">Miimii KDS</a> page.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/dj-skycee.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/dj-skycee.html#artist", "name": "DJ Skycee", "description": "Bouyon DJ and composer tied to the Stormwave Entertainment label. Known for Sé Miimii with Miimii KDS, composer of Coryy Get Money, artist of Caribbean Love with Kima. A distinct artist from DJ Skaytah.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Sé Miimii"}, {"@type": "MusicRecording", "name": "Je veux"}, {"@type": "MusicRecording", "name": "Get Money"}, {"@type": "MusicRecording", "name": "Caribbean Love"}, {"@type": "MusicRecording", "name": "CARIBBEAN GYAL"}], "sameAs": ["https://www.instagram.com/skycee_97", "https://www.tiktok.com/@skycee97"]}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/dj-skycee.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/dj-skycee.html#artist", "name": "DJ Skycee", "description": "Bouyon DJ and composer tied to the Stormwave Entertainment label. Known for Sé Miimii with Miimii KDS, composer of Coryy Get Money, artist of Caribbean Love with Kima. A distinct artist from DJ Skaytah.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Sé Miimii"}, {"@type": "MusicRecording", "name": "Je veux"}, {"@type": "MusicRecording", "name": "Get Money"}, {"@type": "MusicRecording", "name": "Caribbean Love"}, {"@type": "MusicRecording", "name": "CARIBBEAN GYAL"},
+      {
+       "@type": "MusicRecording",
+       "name": "Bodé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TONIGHT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Number one"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mindset"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mové Riddim"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sky riddim"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BADDIE (feat. DJ SKYCEE)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "CHIMEN CHYEN (feat. DJ SKYCEE)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pikéy (feat. Lucky, DJ SKYCEE & Binksdrick)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "WITH SOME BOYZ (feat. Miimii KDS & DJ SKYCEE)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "OH MAMA (feat. DJ SKYCEE & LILI)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Everything is nice (feat. Dj Skycee)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "10 Degrés"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "An soum"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "FEEL LONELY (feat. DJ SKYCEE) [Bouyon 2025]"
+      },
+], "sameAs": ["https://www.instagram.com/skycee_97", "https://www.tiktok.com/@skycee97"]}}],
  "date_modified": "2026-10-20"
 }

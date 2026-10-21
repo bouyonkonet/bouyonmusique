@@ -84,7 +84,156 @@ FR = {
   ("Aknose a-t-il une trace publiée dès 2018 ?", "Oui, une trace isolée : Shazam liste « Ding Dong » de Dj Tkrys et Aknose, sorti le 28 septembre 2018 sur Le Bon Tuyau Music. C’est la plus ancienne sortie publiée sous ce nom dans les sources consultées, et le catalogue documenté de manière continue commence en 2023 avec « KKM », « Bidiba Bidibou » et « Gwo Kok Pou Gwo Kokote »."),
   ("Quels titres écouter pour découvrir Aknose ?", "Commencez par « Moustik » avec 1T1, puis « New Bouyon Wave #1 » de D0 Production avec TIITII NBA, Nils, DJ Softee et Theomaa, « Bidiba Bidibou » et « Bad Girls » avec 1T1, « Minimum » et « Manawa » pour ses singles de 2024, et « Palabras » avec YSN pour 2025. Ces titres figurent dans les données structurées de cette page et dans la playlist bouyon du site.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/aknose.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/aknose.html#artist", "name": "Aknose", "description": "Artiste bouyon originaire de la Guadeloupe. Connu pour Moustik avec 1T1 et New Bouyon Wave #1 de D0 Production. Crédité comme auteur sous le nom Gael Rampath.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Moustik"}, {"@type": "MusicRecording", "name": "New Bouyon Wave #1"}, {"@type": "MusicRecording", "name": "Bidiba Bidibou"}, {"@type": "MusicRecording", "name": "Bad Girls"}, {"@type": "MusicRecording", "name": "Mas La Rivé"}, {"@type": "MusicRecording", "name": "Gwo Kok Pou Gwo Kokote"}, {"@type": "MusicRecording", "name": "KKM"}, {"@type": "MusicRecording", "name": "Qualité Quantité"}, {"@type": "MusicRecording", "name": "Minimum"}, {"@type": "MusicRecording", "name": "Kak Up"}, {"@type": "MusicRecording", "name": "Manawa"}, {"@type": "MusicRecording", "name": "Palabras"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/aknose.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/aknose.html#artist", "name": "Aknose", "description": "Artiste bouyon originaire de la Guadeloupe. Connu pour Moustik avec 1T1 et New Bouyon Wave #1 de D0 Production. Crédité comme auteur sous le nom Gael Rampath.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Moustik"}, {"@type": "MusicRecording", "name": "New Bouyon Wave #1"}, {"@type": "MusicRecording", "name": "Bidiba Bidibou"}, {"@type": "MusicRecording", "name": "Bad Girls"}, {"@type": "MusicRecording", "name": "Mas La Rivé"}, {"@type": "MusicRecording", "name": "Gwo Kok Pou Gwo Kokote"}, {"@type": "MusicRecording", "name": "KKM"}, {"@type": "MusicRecording", "name": "Qualité Quantité"}, {"@type": "MusicRecording", "name": "Minimum"}, {"@type": "MusicRecording", "name": "Kak Up"}, {"@type": "MusicRecording", "name": "Manawa"}, {"@type": "MusicRecording", "name": "Palabras"},
+      {
+       "@type": "MusicRecording",
+       "name": "Pink Pink"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Matcha"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "La Manigance (feat. TKS 2G, Mikado, P.L.L, Junior, Dj Glad, Kamelon Officiel, DJ SEBB, Lijay, YSN, Da Nillo, Vanou & Kikitox)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bonne humeur"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Conakry"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Close your mouth"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Coulie Coulie"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pooch (Radio Edit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "What I do"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kalollipop (feat. JIXELS)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "0690 (feat. Deejay Enzo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Oh Nana (Loxymore One Shot)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Only God Can Judge Me"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tèk"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Elastic Girl (feat. Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Brennen"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Célibataire"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Va Dire Ça (feat. Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nyèt"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bloqué"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Manman Missié"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Coconut"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Skincare"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lè an pa siw ou si mwen (feat. Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Gwadloup cho (feat. T-Way, Tone Bo$$, Dvinity, Aknose, Lil Dem, Latea & Kellingston)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BAD BBL (feat. Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Followers / Lagaba (feat. Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mauvais plan"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "2-2 (feat. Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Coco Mwen Ka Monté Mon'n, Vol. 2 (feat. T Dedonia & Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "You Know (feat. Rayken, T-Way, Aknose, Le Juh & Nils)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bostik (feat. Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Love réel"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Maniman (feat. Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ding Dong"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Oh na na (feat. Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "J'ai vu, tu as vu, on a vu (feat. Aknose & Keros-N)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -162,6 +311,155 @@ EN = {
   ("Does Aknose have a published trace as early as 2018?", "Yes, an isolated trace: Shazam lists “Ding Dong” by Dj Tkrys and Aknose, released on 28 September 2018 on Le Bon Tuyau Music. It is the oldest published release under this name in the sources consulted, and the continuously documented catalogue starts in 2023 with “KKM”, “Bidiba Bidibou” and “Gwo Kok Pou Gwo Kokote”."),
   ("Which records should I hear to discover Aknose?", "Start with “Moustik” with 1T1, then “New Bouyon Wave #1” by D0 Production with TIITII NBA, Nils, DJ Softee and Theomaa, “Bidiba Bidibou” and “Bad Girls” with 1T1, “Minimum” and “Manawa” for his 2024 singles, and “Palabras” with YSN for 2025. Those records appear in the structured data of this page and in the bouyon playlist of this site.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/aknose.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/aknose.html#artist", "name": "Aknose", "description": "Bouyon artist from Guadeloupe. Known for Moustik with 1T1 and the D0 Production record New Bouyon Wave #1. Credited as songwriter under the name Gael Rampath.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Moustik"}, {"@type": "MusicRecording", "name": "New Bouyon Wave #1"}, {"@type": "MusicRecording", "name": "Bidiba Bidibou"}, {"@type": "MusicRecording", "name": "Bad Girls"}, {"@type": "MusicRecording", "name": "Mas La Rivé"}, {"@type": "MusicRecording", "name": "Gwo Kok Pou Gwo Kokote"}, {"@type": "MusicRecording", "name": "KKM"}, {"@type": "MusicRecording", "name": "Qualité Quantité"}, {"@type": "MusicRecording", "name": "Minimum"}, {"@type": "MusicRecording", "name": "Kak Up"}, {"@type": "MusicRecording", "name": "Manawa"}, {"@type": "MusicRecording", "name": "Palabras"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/aknose.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/aknose.html#artist", "name": "Aknose", "description": "Bouyon artist from Guadeloupe. Known for Moustik with 1T1 and the D0 Production record New Bouyon Wave #1. Credited as songwriter under the name Gael Rampath.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Moustik"}, {"@type": "MusicRecording", "name": "New Bouyon Wave #1"}, {"@type": "MusicRecording", "name": "Bidiba Bidibou"}, {"@type": "MusicRecording", "name": "Bad Girls"}, {"@type": "MusicRecording", "name": "Mas La Rivé"}, {"@type": "MusicRecording", "name": "Gwo Kok Pou Gwo Kokote"}, {"@type": "MusicRecording", "name": "KKM"}, {"@type": "MusicRecording", "name": "Qualité Quantité"}, {"@type": "MusicRecording", "name": "Minimum"}, {"@type": "MusicRecording", "name": "Kak Up"}, {"@type": "MusicRecording", "name": "Manawa"}, {"@type": "MusicRecording", "name": "Palabras"},
+      {
+       "@type": "MusicRecording",
+       "name": "Pink Pink"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Matcha"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "La Manigance (feat. TKS 2G, Mikado, P.L.L, Junior, Dj Glad, Kamelon Officiel, DJ SEBB, Lijay, YSN, Da Nillo, Vanou & Kikitox)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bonne humeur"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Conakry"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Close your mouth"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Coulie Coulie"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pooch (Radio Edit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "What I do"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kalollipop (feat. JIXELS)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "0690 (feat. Deejay Enzo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Oh Nana (Loxymore One Shot)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Only God Can Judge Me"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tèk"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Elastic Girl (feat. Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Brennen"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Célibataire"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Va Dire Ça (feat. Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nyèt"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bloqué"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Manman Missié"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Coconut"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Skincare"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lè an pa siw ou si mwen (feat. Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Gwadloup cho (feat. T-Way, Tone Bo$$, Dvinity, Aknose, Lil Dem, Latea & Kellingston)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BAD BBL (feat. Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Followers / Lagaba (feat. Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mauvais plan"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "2-2 (feat. Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Coco Mwen Ka Monté Mon'n, Vol. 2 (feat. T Dedonia & Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "You Know (feat. Rayken, T-Way, Aknose, Le Juh & Nils)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bostik (feat. Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Love réel"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Maniman (feat. Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ding Dong"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Oh na na (feat. Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "J'ai vu, tu as vu, on a vu (feat. Aknose & Keros-N)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

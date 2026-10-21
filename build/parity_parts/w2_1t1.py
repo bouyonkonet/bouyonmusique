@@ -84,7 +84,148 @@ FR = {
   ("1T1 produit-il pour d’autres artistes ?", "Oui. Les crédits officiels nomment 1T1 comme compositeur et producteur d « Air Force 1 » de Lejuh, le titre que NRJ Antilles a présenté comme un new hit, et comme producteur de « Lolita » de Lejuh, sorti en juin 2024. Lejuh chante en retour sur plusieurs titres de 1T1, dont « Leave Me Alone » et « Mas La Rivé »."),
   ("« Bouwéy » est-il certifié single d’or en France ?", "Des publications sur les réseaux sociaux présentent « Bouwéy » comme un single d’or certifié par le SNEP. Pendant la recherche de ce profil, aucune confirmation n’a été trouvée dans les sources officielles du SNEP consultées, donc ce site ne présente pas cette certification comme vérifiée. Les faits établis sont l’EP CHORD de décembre 2024, la description du titre par quel-dj et sa présence au classement mondial Shazam.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/1t1.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/1t1.html#artist", "name": "1T1", "description": "Compositeur, producteur et chanteur bouyon originaire de la Guadeloupe. Connu pour Bouwéy avec Theomaa sur l’EP CHORD de 2024, Moustik avec Aknose et ses productions pour Lejuh.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bouwéy"}, {"@type": "MusicRecording", "name": "Moustik"}, {"@type": "MusicRecording", "name": "Wa wa waaw"}, {"@type": "MusicRecording", "name": "SIcré Kon Miel"}, {"@type": "MusicRecording", "name": "Leave Me Alone"}, {"@type": "MusicRecording", "name": "Best Friend"}, {"@type": "MusicRecording", "name": "bla bla bla"}, {"@type": "MusicRecording", "name": "Mas La Rivé"}, {"@type": "MusicRecording", "name": "Bay Li"}, {"@type": "MusicRecording", "name": "Ouba"}, {"@type": "MusicRecording", "name": "In Di Corner"}, {"@type": "MusicRecording", "name": "Piney"}], "sameAs": ["https://www.instagram.com/1t1.off/", "https://www.youtube.com/@1t1beats"]}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/1t1.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/1t1.html#artist", "name": "1T1", "description": "Compositeur, producteur et chanteur bouyon originaire de la Guadeloupe. Connu pour Bouwéy avec Theomaa sur l’EP CHORD de 2024, Moustik avec Aknose et ses productions pour Lejuh.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bouwéy"}, {"@type": "MusicRecording", "name": "Moustik"}, {"@type": "MusicRecording", "name": "Wa wa waaw"}, {"@type": "MusicRecording", "name": "SIcré Kon Miel"}, {"@type": "MusicRecording", "name": "Leave Me Alone"}, {"@type": "MusicRecording", "name": "Best Friend"}, {"@type": "MusicRecording", "name": "bla bla bla"}, {"@type": "MusicRecording", "name": "Mas La Rivé"}, {"@type": "MusicRecording", "name": "Bay Li"}, {"@type": "MusicRecording", "name": "Ouba"}, {"@type": "MusicRecording", "name": "In Di Corner"}, {"@type": "MusicRecording", "name": "Piney"},
+      {
+       "@type": "MusicRecording",
+       "name": "Elastic Girl (feat. Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pran On Pyé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tcheck Pou Tcheck (feat. Young Chang Mc)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Oh Mama"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Party Rocking (feat. Theomaa & RvF)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Oui Nou Monss (feat. Lejuh & LGC)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Everyday (feat. DJ Softee)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Feel Da (rvf)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Gasolina (feat. Theomaa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bad Girls (feat. Aknose & Nils)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "GardaVou (feat. Lucky Lukee & DJ SOFTEE)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pied au Plancher (feat. Tiitii NBA & Lejuh)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PnL(Piney) [feat. Theomaa]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mi Bouyon (feat. Drexi)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sa Dou (feat. Miky Ding La & Shanika)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bidiba Bidibou (feat. Aknose & Softee)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Sex Over Money (feat. TiiTii NBA)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Uhuu dah dah (feat. GOMKO, Luky & Theomaa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dog Love"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wa wa Waaaw"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wouloo (feat. 1T1)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I DON'T CARE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DO YOU DANCE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "97Volts"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bubble (feat. Le Jèm'ss, 1T1 & Natoxie)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Do Baby"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Uhdahdah #2 (feat. 1T1 & Qwann)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "She Stupid"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pa moli"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Baddest (feat. 1t1 & Theomaa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Es I Ka Plèw (feat. Lejuh, Lewismelo & 1t1)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bitin sal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Crescendo Bouyon Riddim 2022 (feat. 1t1)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BOUNCE (BOUYON 2025) (feat. 1T1)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TAM TAM (feat. 1T1) [Bouyon 2024]"
+      },
+], "sameAs": ["https://www.instagram.com/1t1.off/", "https://www.youtube.com/@1t1beats"]}}],
  "date_modified": "2026-10-20"
 }
 
@@ -162,6 +303,147 @@ EN = {
   ("Does 1T1 produce for other artists?", "Yes. Official credits name 1T1 as composer and producer of “Air Force 1” by Lejuh, the record NRJ Antilles presented as a new hit, and as producer of “Lolita” by Lejuh, released in June 2024. Lejuh sings in return on several 1T1 records, including “Leave Me Alone” and “Mas La Rivé”."),
   ("Is “Bouwéy” certified gold single in France?", "Social media posts present “Bouwéy” as a gold single certified by the SNEP. During the research for this profile, no confirmation was found in the official SNEP sources consulted, so this site does not present that certification as verified. The established facts are the December 2024 CHORD EP, the description of the record by quel-dj and its presence on the Shazam global chart.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/1t1.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/1t1.html#artist", "name": "1T1", "description": "Bouyon composer, producer and singer from Guadeloupe. Known for Bouwéy with Theomaa on the 2024 CHORD EP, Moustik with Aknose and his productions for Lejuh.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bouwéy"}, {"@type": "MusicRecording", "name": "Moustik"}, {"@type": "MusicRecording", "name": "Wa wa waaw"}, {"@type": "MusicRecording", "name": "SIcré Kon Miel"}, {"@type": "MusicRecording", "name": "Leave Me Alone"}, {"@type": "MusicRecording", "name": "Best Friend"}, {"@type": "MusicRecording", "name": "bla bla bla"}, {"@type": "MusicRecording", "name": "Mas La Rivé"}, {"@type": "MusicRecording", "name": "Bay Li"}, {"@type": "MusicRecording", "name": "Ouba"}, {"@type": "MusicRecording", "name": "In Di Corner"}, {"@type": "MusicRecording", "name": "Piney"}], "sameAs": ["https://www.instagram.com/1t1.off/", "https://www.youtube.com/@1t1beats"]}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/1t1.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/1t1.html#artist", "name": "1T1", "description": "Bouyon composer, producer and singer from Guadeloupe. Known for Bouwéy with Theomaa on the 2024 CHORD EP, Moustik with Aknose and his productions for Lejuh.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bouwéy"}, {"@type": "MusicRecording", "name": "Moustik"}, {"@type": "MusicRecording", "name": "Wa wa waaw"}, {"@type": "MusicRecording", "name": "SIcré Kon Miel"}, {"@type": "MusicRecording", "name": "Leave Me Alone"}, {"@type": "MusicRecording", "name": "Best Friend"}, {"@type": "MusicRecording", "name": "bla bla bla"}, {"@type": "MusicRecording", "name": "Mas La Rivé"}, {"@type": "MusicRecording", "name": "Bay Li"}, {"@type": "MusicRecording", "name": "Ouba"}, {"@type": "MusicRecording", "name": "In Di Corner"}, {"@type": "MusicRecording", "name": "Piney"},
+      {
+       "@type": "MusicRecording",
+       "name": "Elastic Girl (feat. Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pran On Pyé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tcheck Pou Tcheck (feat. Young Chang Mc)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Oh Mama"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Party Rocking (feat. Theomaa & RvF)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Oui Nou Monss (feat. Lejuh & LGC)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Everyday (feat. DJ Softee)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Feel Da (rvf)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Gasolina (feat. Theomaa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bad Girls (feat. Aknose & Nils)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "GardaVou (feat. Lucky Lukee & DJ SOFTEE)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pied au Plancher (feat. Tiitii NBA & Lejuh)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PnL(Piney) [feat. Theomaa]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mi Bouyon (feat. Drexi)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sa Dou (feat. Miky Ding La & Shanika)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bidiba Bidibou (feat. Aknose & Softee)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Sex Over Money (feat. TiiTii NBA)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Uhuu dah dah (feat. GOMKO, Luky & Theomaa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dog Love"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wa wa Waaaw"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wouloo (feat. 1T1)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I DON'T CARE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DO YOU DANCE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "97Volts"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bubble (feat. Le Jèm'ss, 1T1 & Natoxie)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Do Baby"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Uhdahdah #2 (feat. 1T1 & Qwann)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "She Stupid"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pa moli"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Baddest (feat. 1t1 & Theomaa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Es I Ka Plèw (feat. Lejuh, Lewismelo & 1t1)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bitin sal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Crescendo Bouyon Riddim 2022 (feat. 1t1)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BOUNCE (BOUYON 2025) (feat. 1T1)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TAM TAM (feat. 1T1) [Bouyon 2024]"
+      },
+], "sameAs": ["https://www.instagram.com/1t1.off/", "https://www.youtube.com/@1t1beats"]}}],
  "date_modified": "2026-10-20"
 }
