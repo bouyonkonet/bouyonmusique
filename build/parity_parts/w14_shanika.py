@@ -82,7 +82,100 @@ FR = {
   ("Qu’est ce que « 5 Kilos » ?", "C’est le deuxième titre de l’album « Premières Notes » de Lewismelo, sorti le 1er novembre 2024, avec Admiral T et Shanika en featuring. Le titre est écrit par Christy Campbell et Maëva Alphonse, et NRJ Antilles l’a présenté comme un nouveau hit signé Lewismelo, Admiral T et Shanika."),
   ("Où écouter Shanika et la vague bouyon gwada ?", "Commencez par « Kay ve yo », « Chocolate », « Hot Gal » et « 5 Kilos », puis écoutez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> et lisez notre page <a href=\"/bouyon-gwada.html\">bouyon gwada</a> pour la situer parmi les Lejuh, 1T1, Pinpin OSP et Miimii KDS de sa génération.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/shanika.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/shanika.html#artist", "name": "Shanika", "description": "Chanteuse antillaise de Guadeloupe, entre shatta dancehall et bouyon. Titres vérifiés : Kay ve yo (2023), Chocolate avec Le Bluff (2023), Hot Gal (2024), 5 Kilos avec Lewismelo et Admiral T (2024). Ses crédits publiés d’autrice portent le nom de Maeva Alphonse.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Kay ve yo"}, {"@type": "MusicRecording", "name": "Okeii"}, {"@type": "MusicRecording", "name": "Chocolate"}, {"@type": "MusicRecording", "name": "Hot Gal"}, {"@type": "MusicRecording", "name": "Tou pa tou"}, {"@type": "MusicRecording", "name": "La La La"}, {"@type": "MusicRecording", "name": "Sa ka bay"}, {"@type": "MusicRecording", "name": "Knock Knock"}, {"@type": "MusicRecording", "name": "Feeling"}, {"@type": "MusicRecording", "name": "Mwen ki pa bon"}, {"@type": "MusicRecording", "name": "Sé vou"}, {"@type": "MusicRecording", "name": "Replay"}, {"@type": "MusicRecording", "name": "5 Kilos"}, {"@type": "MusicRecording", "name": "On Fwa"}], "sameAs": ["https://www.deezer.com/fr/artist/6306886", "https://www.qobuz.com/at-de/interpreter/shanika/1902748"]}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/shanika.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/shanika.html#artist", "name": "Shanika", "description": "Chanteuse antillaise de Guadeloupe, entre shatta dancehall et bouyon. Titres vérifiés : Kay ve yo (2023), Chocolate avec Le Bluff (2023), Hot Gal (2024), 5 Kilos avec Lewismelo et Admiral T (2024). Ses crédits publiés d’autrice portent le nom de Maeva Alphonse.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Kay ve yo"}, {"@type": "MusicRecording", "name": "Okeii"}, {"@type": "MusicRecording", "name": "Chocolate"}, {"@type": "MusicRecording", "name": "Hot Gal"}, {"@type": "MusicRecording", "name": "Tou pa tou"}, {"@type": "MusicRecording", "name": "La La La"}, {"@type": "MusicRecording", "name": "Sa ka bay"}, {"@type": "MusicRecording", "name": "Knock Knock"}, {"@type": "MusicRecording", "name": "Feeling"}, {"@type": "MusicRecording", "name": "Mwen ki pa bon"}, {"@type": "MusicRecording", "name": "Sé vou"}, {"@type": "MusicRecording", "name": "Replay"}, {"@type": "MusicRecording", "name": "5 Kilos"}, {"@type": "MusicRecording", "name": "On Fwa"},
+      {
+       "@type": "MusicRecording",
+       "name": "Kolay (Stick)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bòdé Apiyé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Anlè Sa"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Everyday (feat. YSN & MKM)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Miaou (feat. Dexterman)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Look at me"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pv"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Alé (feat. Slyme hoyss)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Yo wont (feat. Dj luchshiy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "On biten ba'w (feat. Pinpin OSP)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Es ou tcheck"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fanm sé... / nonm sé... (feat. Niko)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "P.L.S (feat. Team Bwè Tou Sa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pa ban-nou gaz"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Coco"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "On Mal Pou On Bien R.M.X 2"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "She miss me (feat. Shanika & Jixels)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Push and go (feat. Shanika)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Oh God (feat. Shanika)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "GWADLOUP"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Woman"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sa Dou (feat. Miky Ding La & Shanika)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "bla bla bla (feat. HollyG & Shanika)"
+      },
+], "sameAs": ["https://www.deezer.com/fr/artist/6306886", "https://www.qobuz.com/at-de/interpreter/shanika/1902748"]}}],
  "date_modified": "2026-10-20"
 }
 
@@ -159,6 +252,99 @@ EN = {
   ("What is “5 Kilos”?", "It is the second track of the Lewismelo album “Premières Notes”, released on November 1, 2024, featuring Admiral T and Shanika. The track is written by Christy Campbell and Maëva Alphonse, and NRJ Antilles presented it as a new hit signed Lewismelo, Admiral T and Shanika."),
   ("Where can I hear Shanika and the bouyon gwada wave?", "Start with “Kay ve yo”, “Chocolate”, “Hot Gal” and “5 Kilos”, then hear our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> and read our <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a> page to place her among the Lejuh, 1T1, Pinpin OSP and Miimii KDS of her generation.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/shanika.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/shanika.html#artist", "name": "Shanika", "description": "West Indian singer from Guadeloupe, between shatta dancehall and bouyon. Verified tracks: Kay ve yo (2023), Chocolate with Le Bluff (2023), Hot Gal (2024), 5 Kilos with Lewismelo and Admiral T (2024). Her published songwriter credits carry the name Maeva Alphonse.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Kay ve yo"}, {"@type": "MusicRecording", "name": "Okeii"}, {"@type": "MusicRecording", "name": "Chocolate"}, {"@type": "MusicRecording", "name": "Hot Gal"}, {"@type": "MusicRecording", "name": "Tou pa tou"}, {"@type": "MusicRecording", "name": "La La La"}, {"@type": "MusicRecording", "name": "Sa ka bay"}, {"@type": "MusicRecording", "name": "Knock Knock"}, {"@type": "MusicRecording", "name": "Feeling"}, {"@type": "MusicRecording", "name": "Mwen ki pa bon"}, {"@type": "MusicRecording", "name": "Sé vou"}, {"@type": "MusicRecording", "name": "Replay"}, {"@type": "MusicRecording", "name": "5 Kilos"}, {"@type": "MusicRecording", "name": "On Fwa"}], "sameAs": ["https://www.deezer.com/fr/artist/6306886", "https://www.qobuz.com/at-de/interpreter/shanika/1902748"]}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/shanika.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/shanika.html#artist", "name": "Shanika", "description": "West Indian singer from Guadeloupe, between shatta dancehall and bouyon. Verified tracks: Kay ve yo (2023), Chocolate with Le Bluff (2023), Hot Gal (2024), 5 Kilos with Lewismelo and Admiral T (2024). Her published songwriter credits carry the name Maeva Alphonse.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Kay ve yo"}, {"@type": "MusicRecording", "name": "Okeii"}, {"@type": "MusicRecording", "name": "Chocolate"}, {"@type": "MusicRecording", "name": "Hot Gal"}, {"@type": "MusicRecording", "name": "Tou pa tou"}, {"@type": "MusicRecording", "name": "La La La"}, {"@type": "MusicRecording", "name": "Sa ka bay"}, {"@type": "MusicRecording", "name": "Knock Knock"}, {"@type": "MusicRecording", "name": "Feeling"}, {"@type": "MusicRecording", "name": "Mwen ki pa bon"}, {"@type": "MusicRecording", "name": "Sé vou"}, {"@type": "MusicRecording", "name": "Replay"}, {"@type": "MusicRecording", "name": "5 Kilos"}, {"@type": "MusicRecording", "name": "On Fwa"},
+      {
+       "@type": "MusicRecording",
+       "name": "Kolay (Stick)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bòdé Apiyé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Anlè Sa"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Everyday (feat. YSN & MKM)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Miaou (feat. Dexterman)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Look at me"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pv"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Alé (feat. Slyme hoyss)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Yo wont (feat. Dj luchshiy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "On biten ba'w (feat. Pinpin OSP)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Es ou tcheck"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fanm sé... / nonm sé... (feat. Niko)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "P.L.S (feat. Team Bwè Tou Sa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pa ban-nou gaz"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Coco"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "On Mal Pou On Bien R.M.X 2"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "She miss me (feat. Shanika & Jixels)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Push and go (feat. Shanika)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Oh God (feat. Shanika)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "GWADLOUP"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Woman"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sa Dou (feat. Miky Ding La & Shanika)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "bla bla bla (feat. HollyG & Shanika)"
+      },
+], "sameAs": ["https://www.deezer.com/fr/artist/6306886", "https://www.qobuz.com/at-de/interpreter/shanika/1902748"]}}],
  "date_modified": "2026-10-20"
 }
