@@ -2011,6 +2011,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://bouyonmusique.com/dancehall-bouyon.html</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://bouyonmusique.com/plan-du-site.html</loc>
     <lastmod>2026-10-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -4010,6 +4016,12 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/bouyon-glossary.html</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bouyonmusique.com/en/dancehall-bouyon.html</loc>
     <lastmod>2026-10-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
