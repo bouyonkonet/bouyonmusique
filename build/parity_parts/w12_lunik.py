@@ -61,7 +61,16 @@ FR = {
   ("Lunik fait il partie de la Team Bwè Tou Sa ?", "Son catalogue le place au cœur de cette équipe : CHOKOLA est sorti chez GAMMALAB, le label de la Team, Tik tak et Laisser tomber figurent sur les albums Voyé sa alléé de la Team, et les crédits vidéo de la Team associent son nom aux initiales TBTS. Aucune biographie officielle ne le formule en toutes lettres, donc ce profil le présente comme un lien documenté par les crédits, pas comme une annonce officielle."),
   ("Où écouter Lunik pour commencer ?", "Commencez par Chichi, puis CHOKOLA et Jumping Jack avec TiiTii NBA, et suivez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> ainsi que les pages de <a href=\"/billy-bybf.html\">Billy Bybf</a> et de <a href=\"/flw.html\">FLW</a>, deux artistes de son cercle.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/lunik.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/lunik.html#artist", "name": "Lunik", "alternateName": "Lünik", "description": "Voix bouyon guadeloupéenne liée à la Team Bwè Tou Sa et à GAMMALAB, créditée sous le nom de Ludmael FLOWER sur Chichi, CHOKOLA et Laisser tomber.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Chichi"}, {"@type": "MusicRecording", "name": "CHOKOLA"}, {"@type": "MusicRecording", "name": "Laisser tomber"}, {"@type": "MusicRecording", "name": "Jumping Jack"}, {"@type": "MusicRecording", "name": "Tu veux"}, {"@type": "MusicRecording", "name": "Tik tak"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/lunik.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/lunik.html#artist", "name": "Lunik", "alternateName": "Lünik", "description": "Voix bouyon guadeloupéenne liée à la Team Bwè Tou Sa et à GAMMALAB, créditée sous le nom de Ludmael FLOWER sur Chichi, CHOKOLA et Laisser tomber.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Chichi"}, {"@type": "MusicRecording", "name": "CHOKOLA"}, {"@type": "MusicRecording", "name": "Laisser tomber"}, {"@type": "MusicRecording", "name": "Jumping Jack"}, {"@type": "MusicRecording", "name": "Tu veux"}, {"@type": "MusicRecording", "name": "Tik tak"},
+      {
+       "@type": "MusicRecording",
+       "name": "Nou an chyen"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "KJF 2"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -117,6 +126,15 @@ EN = {
   ("Is Lunik a member of Team Bwe Tou Sa?", "His catalogue places him at the heart of that crew: CHOKOLA was released by GAMMALAB, the Team label, Tik tak and Laisser tomber appear on the Team Voye sa allee albums, and Team video credits associate his name with the initials TBTS. No official biography states it in full, so this profile presents it as a link documented by credits, not as an official announcement."),
   ("Where should I start listening to Lunik?", "Start with Chichi, then CHOKOLA and Jumping Jack with TiiTii NBA, and follow our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> and the pages for <a href=\"/en/billy-bybf.html\">Billy Bybf</a> and <a href=\"/en/flw.html\">FLW</a>, two artists from his circle.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/lunik.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/lunik.html#artist", "name": "Lunik", "alternateName": "Lünik", "description": "Guadeloupe bouyon voice linked to Team Bwe Tou Sa and GAMMALAB, credited under the name Ludmael FLOWER on Chichi, CHOKOLA and Laisser tomber.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Chichi"}, {"@type": "MusicRecording", "name": "CHOKOLA"}, {"@type": "MusicRecording", "name": "Laisser tomber"}, {"@type": "MusicRecording", "name": "Jumping Jack"}, {"@type": "MusicRecording", "name": "Tu veux"}, {"@type": "MusicRecording", "name": "Tik tak"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/lunik.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/lunik.html#artist", "name": "Lunik", "alternateName": "Lünik", "description": "Guadeloupe bouyon voice linked to Team Bwe Tou Sa and GAMMALAB, credited under the name Ludmael FLOWER on Chichi, CHOKOLA and Laisser tomber.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Chichi"}, {"@type": "MusicRecording", "name": "CHOKOLA"}, {"@type": "MusicRecording", "name": "Laisser tomber"}, {"@type": "MusicRecording", "name": "Jumping Jack"}, {"@type": "MusicRecording", "name": "Tu veux"}, {"@type": "MusicRecording", "name": "Tik tak"},
+      {
+       "@type": "MusicRecording",
+       "name": "Nou an chyen"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "KJF 2"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

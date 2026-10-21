@@ -87,7 +87,64 @@ FR = {
   ("Sur quels labels Trixzmigos a-t-il sorti ses titres ?", "Trois enseignes apparaissent dans les crédits vérifiés. Vadore Concept Groupe pour « Backshot », le titre de SupaLyne où le groupe figure en featuring le 26 février 2022. LTG RECORDS pour « Nasty 2 », le 9 juin 2023. Et L2TG RECORDS pour « What She Like », le 10 janvier 2025. Aucune source consultée ne dit si ces enseignes sont liées entre elles."),
   ("Où écouter Trixzmigos ?", "Par la série des singles : « What She Like », « Rum », « Doh Mix Me », « 1View », « Shake Dat », « Dark Love », « The Christmas Story » et « Long Time » avec Hussey, puis « Nasty 2 », « Bikini » avec DJ Taffy, « Take Dat » et « Toxic Love ». Notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> suit cette vague dominicaine, et la page <a href=\"/hussey.html\">Hussey</a> documente la voix invitée du groupe titre par titre.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/trixzmigos.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/trixzmigos.html#artist", "name": "Trixzmigos", "description": "Groupe bouyon de la Dominique, aussi écrit Trixz Migos. Catalogue de singles chez Vadore Concept Groupe, LTG RECORDS et L2TG RECORDS, construit autour de la voix invitée Hussey. What She Like, sorti en 2025, est finaliste de la collaboration de l’année aux Dominica Music Awards 2025, et le groupe est finaliste de la catégorie montante la même année. Aucun membre nommé dans les sources publiques.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'What She Like'}, {"@type": "MusicRecording", "name": 'Rum'}, {"@type": "MusicRecording", "name": 'Doh Mix Me'}, {"@type": "MusicRecording", "name": '1View'}, {"@type": "MusicRecording", "name": 'Shake Dat'}, {"@type": "MusicRecording", "name": 'Dark Love'}, {"@type": "MusicRecording", "name": 'The Christmas Story'}, {"@type": "MusicRecording", "name": 'Long Time'}, {"@type": "MusicRecording", "name": 'Nasty 2'}, {"@type": "MusicRecording", "name": 'Bikini'}, {"@type": "MusicRecording", "name": 'Take Dat'}, {"@type": "MusicRecording", "name": 'Toxic Love'}, {"@type": "MusicRecording", "name": 'Backshot'}], "sameAs": ["https://www.shazam.com/artist/trixzmigos/1718934683"]}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/trixzmigos.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/trixzmigos.html#artist", "name": "Trixzmigos", "description": "Groupe bouyon de la Dominique, aussi écrit Trixz Migos. Catalogue de singles chez Vadore Concept Groupe, LTG RECORDS et L2TG RECORDS, construit autour de la voix invitée Hussey. What She Like, sorti en 2025, est finaliste de la collaboration de l’année aux Dominica Music Awards 2025, et le groupe est finaliste de la catégorie montante la même année. Aucun membre nommé dans les sources publiques.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'What She Like'}, {"@type": "MusicRecording", "name": 'Rum'}, {"@type": "MusicRecording", "name": 'Doh Mix Me'}, {"@type": "MusicRecording", "name": '1View'}, {"@type": "MusicRecording", "name": 'Shake Dat'}, {"@type": "MusicRecording", "name": 'Dark Love'}, {"@type": "MusicRecording", "name": 'The Christmas Story'}, {"@type": "MusicRecording", "name": 'Long Time'}, {"@type": "MusicRecording", "name": 'Nasty 2'}, {"@type": "MusicRecording", "name": 'Bikini'}, {"@type": "MusicRecording", "name": 'Take Dat'}, {"@type": "MusicRecording", "name": 'Toxic Love'}, {"@type": "MusicRecording", "name": 'Backshot'},
+      {
+       "@type": "MusicRecording",
+       "name": "Suck Suck"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Location (feat. Shyanne)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "IN D MORNING"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Friends Zone"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Gang Gang"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Touch & Go (feat. Carlyn xp)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Touch and go (feat. Fetty mark & Dj dirtee)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "EAT HER MEAT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shake it (feat. Tiitii nba)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shat after shat (feat. President blacky)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Open wide (feat. Keks mafia & Fetty mark)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Superstars"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Man she want (feat. Keks mafia)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Get High (feat. Hussey, Real Reel & Trixzmigos) (Savion Beats Remix)"
+      },
+], "sameAs": ["https://www.shazam.com/artist/trixzmigos/1718934683"]}}],
  "date_modified": "2026-10-20"
 }
 
@@ -165,6 +222,63 @@ EN = {
   ("On which labels has Trixzmigos released records?", "Three banners appear in the verified credits. Vadore Concept Groupe for “Backshot”, the SupaLyne record on which the group features on February 26, 2022. LTG RECORDS for “Nasty 2”, on June 9, 2023. And L2TG RECORDS for “What She Like”, on January 10, 2025. No source consulted says whether those banners are linked to each other."),
   ("Where can I hear Trixzmigos?", "Through the run of singles: “What She Like”, “Rum”, “Doh Mix Me”, “1View”, “Shake Dat”, “Dark Love”, “The Christmas Story” and “Long Time” with Hussey, then “Nasty 2”, “Bikini” with DJ Taffy, “Take Dat” and “Toxic Love”. Our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> follows this Dominican wave, and the <a href=\"/en/hussey.html\">Hussey</a> page documents the group guest voice record by record.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/trixzmigos.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/trixzmigos.html#artist", "name": "Trixzmigos", "description": "Bouyon group from Dominica, also spelled Trixz Migos. A singles catalog on Vadore Concept Groupe, LTG RECORDS and L2TG RECORDS, built around the guest voice Hussey. What She Like, released in 2025, is a Collaboration of the Year finalist at the Dominica Music Awards 2025, and the group is a rising category finalist the same year. No member named in public sources.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'What She Like'}, {"@type": "MusicRecording", "name": 'Rum'}, {"@type": "MusicRecording", "name": 'Doh Mix Me'}, {"@type": "MusicRecording", "name": '1View'}, {"@type": "MusicRecording", "name": 'Shake Dat'}, {"@type": "MusicRecording", "name": 'Dark Love'}, {"@type": "MusicRecording", "name": 'The Christmas Story'}, {"@type": "MusicRecording", "name": 'Long Time'}, {"@type": "MusicRecording", "name": 'Nasty 2'}, {"@type": "MusicRecording", "name": 'Bikini'}, {"@type": "MusicRecording", "name": 'Take Dat'}, {"@type": "MusicRecording", "name": 'Toxic Love'}, {"@type": "MusicRecording", "name": 'Backshot'}], "sameAs": ["https://www.shazam.com/artist/trixzmigos/1718934683"]}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/trixzmigos.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/trixzmigos.html#artist", "name": "Trixzmigos", "description": "Bouyon group from Dominica, also spelled Trixz Migos. A singles catalog on Vadore Concept Groupe, LTG RECORDS and L2TG RECORDS, built around the guest voice Hussey. What She Like, released in 2025, is a Collaboration of the Year finalist at the Dominica Music Awards 2025, and the group is a rising category finalist the same year. No member named in public sources.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'What She Like'}, {"@type": "MusicRecording", "name": 'Rum'}, {"@type": "MusicRecording", "name": 'Doh Mix Me'}, {"@type": "MusicRecording", "name": '1View'}, {"@type": "MusicRecording", "name": 'Shake Dat'}, {"@type": "MusicRecording", "name": 'Dark Love'}, {"@type": "MusicRecording", "name": 'The Christmas Story'}, {"@type": "MusicRecording", "name": 'Long Time'}, {"@type": "MusicRecording", "name": 'Nasty 2'}, {"@type": "MusicRecording", "name": 'Bikini'}, {"@type": "MusicRecording", "name": 'Take Dat'}, {"@type": "MusicRecording", "name": 'Toxic Love'}, {"@type": "MusicRecording", "name": 'Backshot'},
+      {
+       "@type": "MusicRecording",
+       "name": "Suck Suck"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Location (feat. Shyanne)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "IN D MORNING"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Friends Zone"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Gang Gang"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Touch & Go (feat. Carlyn xp)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Touch and go (feat. Fetty mark & Dj dirtee)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "EAT HER MEAT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shake it (feat. Tiitii nba)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shat after shat (feat. President blacky)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Open wide (feat. Keks mafia & Fetty mark)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Superstars"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Man she want (feat. Keks mafia)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Get High (feat. Hussey, Real Reel & Trixzmigos) (Savion Beats Remix)"
+      },
+], "sameAs": ["https://www.shazam.com/artist/trixzmigos/1718934683"]}}],
  "date_modified": "2026-10-20"
 }
