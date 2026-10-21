@@ -74,7 +74,256 @@ FR = {
   ("Trev-Li est-il aussi producteur ?", "Oui, d’après les crédits officiels. Trevon Lee est crédité comme producteur sur « Firetruck (Bouyon) » et sur « Cokay Weather », en plus de ses crédits d’auteur-compositeur sur les deux titres. Il écrit et produit donc lui-même ses enregistrements, ce que ce profil présente comme un fait de crédits vérifiable sur les plateformes."),
   ("D’où vient Trev-Li ?", "Aucune source consultée pendant la recherche de ce profil ne publie son lieu de naissance ou de résidence, et ce profil ne l’invente pas. Ce qui est documenté, c’est son circuit : des collaborations avec Freddy et Ebony Empress, deux noms de la scène de la Dominique, une page d’artiste qui le rapproche d’Ebony Empress et de Reo, et des titres programmés dans les mixes bouyon de la saison. Si une biographie officielle paraît, cette réponse sera mise à jour.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/trev-li.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/trev-li.html#artist", "name": "Trev-Li", "description": "Artiste du circuit bouyon de la Dominique. Crédits officiels au nom de Trevon Lee, auteur-compositeur et producteur de Firetruck (Bouyon) (2025) et de Cokay Weather avec Freddy (2025).", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Firetruck (Bouyon)"}, {"@type": "MusicRecording", "name": "Cokay Weather"}, {"@type": "MusicRecording", "name": "Not Backing Down"}, {"@type": "MusicRecording", "name": "In a Rental"}, {"@type": "MusicRecording", "name": "Domino"}, {"@type": "MusicRecording", "name": "Take You Home (Bouyon)"}, {"@type": "MusicRecording", "name": "Big Batty Roll Call"}, {"@type": "MusicRecording", "name": "W. T. M. A"}, {"@type": "MusicRecording", "name": "Wood Alone"}, {"@type": "MusicRecording", "name": "Somebody to Call My Own"}, {"@type": "MusicRecording", "name": "KOKAYOKO"}], "sameAs": ["https://www.shazam.com/artist/trev-li/1135447629"]}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/trev-li.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/trev-li.html#artist", "name": "Trev-Li", "description": "Artiste du circuit bouyon de la Dominique. Crédits officiels au nom de Trevon Lee, auteur-compositeur et producteur de Firetruck (Bouyon) (2025) et de Cokay Weather avec Freddy (2025).", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Firetruck (Bouyon)"}, {"@type": "MusicRecording", "name": "Cokay Weather"}, {"@type": "MusicRecording", "name": "Not Backing Down"}, {"@type": "MusicRecording", "name": "In a Rental"}, {"@type": "MusicRecording", "name": "Domino"}, {"@type": "MusicRecording", "name": "Take You Home (Bouyon)"}, {"@type": "MusicRecording", "name": "Big Batty Roll Call"}, {"@type": "MusicRecording", "name": "W. T. M. A"}, {"@type": "MusicRecording", "name": "Wood Alone"}, {"@type": "MusicRecording", "name": "Somebody to Call My Own"}, {"@type": "MusicRecording", "name": "KOKAYOKO"},
+      {
+       "@type": "MusicRecording",
+       "name": "DI BLACK SNAKE LOOSE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Live My Life (Bouyon)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Not Your Business"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "What You Looking For"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Still My Baby"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Liming Again"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mash Dat Roach"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "W. T. M. A (Clean)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Macoman"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rather Be Alone"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Raw Romance"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rum & Gyal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sweet"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Circle of Life"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Same Dam Ting"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Better Than You"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Crows"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "My Malishka"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Moving to the Moon"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Zvlo"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Run Away"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sexogolichika"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Adrenalin"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Love Tsunami"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bueno"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Love vs. Addiction"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tiramisu"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bolshe Bass"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ne Vinovat"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Eto Ne Ya"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Money"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dama Mozaika"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Poshly Paren (feat. Lisichkas)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "aQt"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sex in the Morn (RUS Version)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nomer Lyubovnika"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Keks"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nalivai (feat. Lina Luna)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Brakes"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Su Chika"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "My Name Is Dmitri"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sweat"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tatyana"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Girls"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Broonobuka"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "What I Like"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Young Scottie Pippen"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Remember"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "At Nights"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "September Rain (feat. Roompal)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Loyal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Love Story"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "For You"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Paradise (Original Mix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Paradise (Radio Edit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Haunted"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tun up and Rave"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "KOKAYOKO \"C**k by di window\" (feat. Trev Li)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Foodie"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tania (feat. Trev li)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Follow Me (feat. Trev Li)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kitchen Sounds"
+      },
+], "sameAs": ["https://www.shazam.com/artist/trev-li/1135447629"]}}],
  "date_modified": "2026-10-20"
 }
 
@@ -146,6 +395,255 @@ EN = {
   ("Is Trev-Li also a producer?", "Yes, according to the official credits. Trevon Lee is credited as producer on “Firetruck (Bouyon)” and on “Cokay Weather”, on top of his songwriter credits on both records. He therefore writes and produces his own recordings, which this profile presents as a credits fact that can be checked on the platforms."),
   ("Where does Trev-Li come from?", "No source consulted during the research for this profile publishes his birthplace or place of residence, and this profile does not invent one. What is documented is his circuit: collaborations with Freddy and Ebony Empress, two names from the Dominica scene, an artist page that places him next to Ebony Empress and Reo, and records programmed in the bouyon mixes of the season. If an official biography appears, this answer will be updated.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/trev-li.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/trev-li.html#artist", "name": "Trev-Li", "description": "Artist in the bouyon circuit of Dominica. Official credits in the name of Trevon Lee, songwriter and producer of Firetruck (Bouyon) (2025) and of Cokay Weather with Freddy (2025).", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Firetruck (Bouyon)"}, {"@type": "MusicRecording", "name": "Cokay Weather"}, {"@type": "MusicRecording", "name": "Not Backing Down"}, {"@type": "MusicRecording", "name": "In a Rental"}, {"@type": "MusicRecording", "name": "Domino"}, {"@type": "MusicRecording", "name": "Take You Home (Bouyon)"}, {"@type": "MusicRecording", "name": "Big Batty Roll Call"}, {"@type": "MusicRecording", "name": "W. T. M. A"}, {"@type": "MusicRecording", "name": "Wood Alone"}, {"@type": "MusicRecording", "name": "Somebody to Call My Own"}, {"@type": "MusicRecording", "name": "KOKAYOKO"}], "sameAs": ["https://www.shazam.com/artist/trev-li/1135447629"]}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/trev-li.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/trev-li.html#artist", "name": "Trev-Li", "description": "Artist in the bouyon circuit of Dominica. Official credits in the name of Trevon Lee, songwriter and producer of Firetruck (Bouyon) (2025) and of Cokay Weather with Freddy (2025).", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Firetruck (Bouyon)"}, {"@type": "MusicRecording", "name": "Cokay Weather"}, {"@type": "MusicRecording", "name": "Not Backing Down"}, {"@type": "MusicRecording", "name": "In a Rental"}, {"@type": "MusicRecording", "name": "Domino"}, {"@type": "MusicRecording", "name": "Take You Home (Bouyon)"}, {"@type": "MusicRecording", "name": "Big Batty Roll Call"}, {"@type": "MusicRecording", "name": "W. T. M. A"}, {"@type": "MusicRecording", "name": "Wood Alone"}, {"@type": "MusicRecording", "name": "Somebody to Call My Own"}, {"@type": "MusicRecording", "name": "KOKAYOKO"},
+      {
+       "@type": "MusicRecording",
+       "name": "DI BLACK SNAKE LOOSE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Live My Life (Bouyon)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Not Your Business"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "What You Looking For"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Still My Baby"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Liming Again"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mash Dat Roach"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "W. T. M. A (Clean)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Macoman"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rather Be Alone"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Raw Romance"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rum & Gyal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sweet"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Circle of Life"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Same Dam Ting"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Better Than You"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Crows"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "My Malishka"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Moving to the Moon"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Zvlo"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Run Away"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sexogolichika"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Adrenalin"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Love Tsunami"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bueno"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Love vs. Addiction"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tiramisu"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bolshe Bass"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ne Vinovat"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Eto Ne Ya"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Money"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dama Mozaika"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Poshly Paren (feat. Lisichkas)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "aQt"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sex in the Morn (RUS Version)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nomer Lyubovnika"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Keks"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nalivai (feat. Lina Luna)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Brakes"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Su Chika"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "My Name Is Dmitri"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sweat"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tatyana"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Girls"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Broonobuka"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "What I Like"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Young Scottie Pippen"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Remember"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "At Nights"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "September Rain (feat. Roompal)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Loyal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Love Story"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "For You"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Paradise (Original Mix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Paradise (Radio Edit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Haunted"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tun up and Rave"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "KOKAYOKO \"C**k by di window\" (feat. Trev Li)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Foodie"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tania (feat. Trev li)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Follow Me (feat. Trev Li)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kitchen Sounds"
+      },
+], "sameAs": ["https://www.shazam.com/artist/trev-li/1135447629"]}}],
  "date_modified": "2026-10-20"
 }

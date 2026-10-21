@@ -1660,7 +1660,267 @@ PAGES = [
        "@type": "MusicRecording",
        "name": "Nah Nah (feat. YuniikBeatz) [Bouyon 2025]"
       },
-     ]
+      {
+       "@type": "MusicRecording",
+       "name": "PROMENONS-NOUS (feat. DIIXLY) (BOUYON 2027)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LIKE YOU (feat. DJ LUCHSHIY) (BOUYON 2027)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LÉSÉ NOU PASÉ (feat. Ma6mo & Diixly) (WARM UP 2026)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BOSS (feat. YuniikBeatz) (BOUYON 2026)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ON ME (feat. DJ BOKO) (BOUYON 2026)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PXRNSTAR (feat. DJ LUCHSHIY) [BOUYONMON ENGLISH VERSION]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DANJÉRÈZ (feat. DJ LUCHSHIY) [BOUYONMON KREYOL VERSION]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "NO TIME (feat. DJ SKAYLONE) (Bouyon 2026)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "WET WET (feat. DJ BOKO) (BOUYON 2026)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "FEEL LONELY (feat. DJ SKYCEE) (Bouyon 2025)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SHE'S A HOE (feat. DJ BOKO) (Bouyon 2025)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SA KA BAY (feat. DJ SKAYLONE) (Bouyon 2025)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "WOOD (feat. DJ SKAYLONE) (Bouyon 2025)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TOMBER LOVE (Bouyon 2025)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ANTIDÉPRESSEUR (BOUYON LOVE 2024)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "AN MÉLÉ (feat. Kevni) (BOUYON 2024)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "WHAT'S POPPIN (feat. Kevni) (BOUYON 2024)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BAW SA (feat. Kevni) (BOUYON 2024)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "POMPEY (feat. Kevni) (BOUYON 2024)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "POP CHAMPAGNE (feat. Kevni) (BOUYON 2024)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "C QUOI LES BAILS (feat. Kevni) (BOUYON 2024)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BIG BONDA (feat. Kevni) (BOUYON 2024)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Honey Pot (Bouyon 2024)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "KEEP INSIDE (BOUYON 2025)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BAD MOOD (feat. Kevni) (Bouyon 2025)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "GET THAT ASS (BOUYON 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MOUVMAN P.P.P (BOUYON 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BAD GIRL (LAST LAST REMIX)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jumping Jack (feat. Lünik) (Bouyon 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Oshan (Bouyon 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Put It In (feat. Dj Softee & Edday) (Bouyon 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Manaudou (Bouyon 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Vody Lavish (feat. Kevni) (Bouyon 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kal Academy (feat. Dj Softee) (Bouyon 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Oulala (Bouyon 2025)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Makaveli (Bouyon 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "1,2,3,4 (Bouyon 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "CHINEY CHINEY FREESTYLE (BOUYON FREESTYLE)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pushing P (feat. Dj Skaytah) (Bouyon 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Poom Poom (feat. Dj softee) (Bouyon 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "140 (Bouyon 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ambiance Latino (feat. Tiitii Nba) (BOUYON WARM UP 2026)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "More Wata (feat. Tiitii Nba) (BOUYON WARM UP 2026)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SKILLI (feat. Tiitii Nba, QWANN & DINHO) (BOUYON 2026)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Supalova (feat. Tiitii Nba & DJ DIRTEE) (BOUYON WARM UP 2026)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LA PEP'HIT FREESTYLE (feat. TIITII NBA, DJ BOKO, LE K & DJ DIRTEE)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Take a Lick (feat. TiiTii NBA & DJ SOFTEE)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pli ô (feat. TiiTii NBA)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sa ka pété (feat. D-Stylii & TiiTii NBA)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ALL NIGHT (feat. TIITII NBA & D0 PRODUCTION) [BOUYON 2024]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Le loup (feat. Tiitii Nba)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Come Back (feat. Tiitii NBA)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pied au Plancher (feat. Tiitii NBA & Lejuh)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Day & Night (Bouyon 2024) (feat. TiiTii NBA)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "New Bouyon Wave #1 (feat. Tiitii NBA, Nils, Dj Softee, Aknose & Theomaa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SECRET FXCK (feat. TIITII NBA)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BIG MOOD (feat. TIITII NBA) (Bouyon 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Chalè (feat. TIITII NBA) (Bouyon 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "KARAKOLI (feat. TIITII NBA) (Bouyon 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Chi Chi Bad (feat. TIITII NBA) (Special Version Bouyon 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Snap ça (feat. TIITII NBA) (Bouyon 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "FRIDAY NIGHT (BOUYON 2023) (feat. TIITII NBA)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PUSSY BOY (BOUYON 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "On My Mind"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bouè'y Bay"
+      },
+]
     }
    }
   ]
@@ -2329,8 +2589,252 @@ PAGES = [
       {
        "@type": "MusicRecording",
        "name": "Me With People (feat. Shelly & Moxie Shervy)"
-      }
-     ]
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "THE Celebration Song"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Out da Group Chat"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Clock It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lapidé Yo"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Deserve This"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "De Other Man"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Calendar Riddim 2025"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lè i Bon"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stabilize Yourself"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cry No More"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I'll Be There For You"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rise Up (feat. ProducerDlo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Angels in the Sky (feat. Signal Band)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Money Money"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Drunkish (It Wasn't Me) (feat. Signal Band)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Testing Positive"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Inside"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "De Gwo Pwel"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shelly Shelly"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Local"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Folded (Cover) [feat. Téhilah]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Band of De Year"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bayfront (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Burn Dem (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Most Wonderful Time of the Year (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Winning (feat. Trilla-G & Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Big Foot (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shoot & Miss (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Signal Dat Dere Wii (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "My Widdim (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "They Take You (feat. Shelly & Trilla-G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "RAGS (feat. Skinny Fabulous & Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "My Band (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Make Her Bawl (feat. Shelly, DJ Taffy & Trixx)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bye to de Old Me (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "FED UP (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Body Language (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Calendar Riddim 2024 (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "My Cake (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "In the Morning (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Math Not Mathing (feat. Shelly & Trilla-G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mic Check 12345678 (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Playground (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Something Nice (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Carnival Corner (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Painter (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Calendar Riddim (feat. Shelly & DJ Drixx)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Face No Case (feat. Shelly & Colton T)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Night Shift (feat. Shelly & Trilla-G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nosey Neighbour (feat. Zwady & Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Big Boy Story"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Man vs Rose (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "On My Way (Side Life) (feat. Shelly, Starsha & Wawa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Who Make de Bouyon? (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Spray Dem (feat. Shelly & Wawa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Carnival Shagweh (feat. Shelly & Wawa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Drake Of Bouyon (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Happy Place (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Reverse (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pankatang (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "L.E.G.O (Life Eventually Goes On) (feat. Shelly)"
+      },
+]
     }
    }
   ]
