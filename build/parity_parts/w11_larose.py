@@ -82,7 +82,160 @@ FR = {
   ("Quel est le lien de Larose avec le bouyon ?", "Ses collaborations la placent au milieu du circuit bouyon guadeloupéen : « Lè an pa siw ou si mwen » avec Aknose en 2024, sa coécriture sur « Gwadloup cho » de Kevni, « Call me » avec DJ Luchshiy en 2025, et « MANIGANCES » de Malcolm composé par Hypnotic Beatz. Les plateformes étiquettent son catalogue en rap, mais son réseau de travail est celui du bouyon gwada."),
   ("D’où vient Larose ?", "Les sources consultées la documentent comme une artiste de la scène guadeloupéenne : ses titres en créole, son label et ses collaborateurs sont ceux de la Guadeloupe. Aucune source consultée ne publie son lieu de naissance ou sa date de naissance, et ce profil ne les invente pas. C’est une question à laquelle beaucoup de bases de données répondent par des textes génériques sans source : ici, la réponse reste celle du dossier.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/larose.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/larose.html#artist", "name": "Larose", "description": "Voix créole de la scène guadeloupéenne, active depuis Di Bonjou en 2018 chez Mostwantedcorp puis Gwap Music. Crédits publiés au nom de Sandra Valdez, chant et écriture. Album Rose Rouge référencé en 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Di Bonjou'}, {"@type": "MusicRecording", "name": 'Big Bike'}, {"@type": "MusicRecording", "name": 'Buzz Buzz Buzz'}, {"@type": "MusicRecording", "name": 'Revolver'}, {"@type": "MusicRecording", "name": 'Loyal'}, {"@type": "MusicRecording", "name": 'KA NOU YÉ'}, {"@type": "MusicRecording", "name": 'Énergie'}, {"@type": "MusicRecording", "name": 'TOUSA'}, {"@type": "MusicRecording", "name": 'Lè an pa siw ou si mwen'}, {"@type": "MusicRecording", "name": 'Call me'}, {"@type": "MusicRecording", "name": 'Eazy'}, {"@type": "MusicRecording", "name": 'Grraa'}, {"@type": "MusicRecording", "name": 'Mannèv'}, {"@type": "MusicRecording", "name": 'Baby Daddy'}, {"@type": "MusicRecording", "name": 'Fui mwen'}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/larose.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/larose.html#artist", "name": "Larose", "description": "Voix créole de la scène guadeloupéenne, active depuis Di Bonjou en 2018 chez Mostwantedcorp puis Gwap Music. Crédits publiés au nom de Sandra Valdez, chant et écriture. Album Rose Rouge référencé en 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Di Bonjou'}, {"@type": "MusicRecording", "name": 'Big Bike'}, {"@type": "MusicRecording", "name": 'Buzz Buzz Buzz'}, {"@type": "MusicRecording", "name": 'Revolver'}, {"@type": "MusicRecording", "name": 'Loyal'}, {"@type": "MusicRecording", "name": 'KA NOU YÉ'}, {"@type": "MusicRecording", "name": 'Énergie'}, {"@type": "MusicRecording", "name": 'TOUSA'}, {"@type": "MusicRecording", "name": 'Lè an pa siw ou si mwen'}, {"@type": "MusicRecording", "name": 'Call me'}, {"@type": "MusicRecording", "name": 'Eazy'}, {"@type": "MusicRecording", "name": 'Grraa'}, {"@type": "MusicRecording", "name": 'Mannèv'}, {"@type": "MusicRecording", "name": 'Baby Daddy'}, {"@type": "MusicRecording", "name": 'Fui mwen'},
+      {
+       "@type": "MusicRecording",
+       "name": "Big Gwap (feat. Pepyth)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Checklist"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pour moi"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Plis"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "KANOUYÉ"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "An wout"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sin Verguenza"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bam Bam (feat. Mala)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hotel Room (feat. Whyneed)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Flexxx (feat. Alpha & Ray Da Prince)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fantastic (feat. Larose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "10 words challenge (feat. Larose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Baby Boss"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rubi Rose (feat. LaRose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Big Baddie"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Byen pliss ki zanmi (feat. Larose) [Remix]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MANIGANCES (feat. LaRose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SEL CHANS"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "A l'aise (feat. LaRose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Man ja fwap"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Gwadloup cho (feat. T-Way, Tone Bo$$, Dvinity, Aknose, Lil Dem, Latea & Kellingston)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Chô"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Will (feat. Larose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Catholique (feat. Larose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Woch' (feat. Larose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "IMAJINÉ"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DIFERAN (feat. Larose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fwisoné (feat. LaRose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Como Vai (feat. Larose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tom & Jerry (feat. Larose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "En Silence (feat. Larose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Repeat (feat. Larose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lité (feat. LaRose & Kiddyskur)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Non (feat. Larose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Paranoia (feat. Larose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sans commentaire (feat. Warped, Gambi G & Larose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Diab' la"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pull up (feat. Larose)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -160,6 +313,159 @@ EN = {
   ("What is the link between Larose and bouyon?", "Her collaborations place her in the middle of the Guadeloupe bouyon circuit: “Lè an pa siw ou si mwen” with Aknose in 2024, her co-writing on “Gwadloup cho” by Kevni, “Call me” with DJ Luchshiy in 2025, and Malcolm “MANIGANCES” composed by Hypnotic Beatz. The platforms tag her catalogue as rap, but her working network is that of bouyon gwada."),
   ("Where is Larose from?", "The sources consulted document her as an artist of the Guadeloupe scene: her Creole titles, her label and her collaborators are those of Guadeloupe. No source consulted publishes her birthplace or her birth date, and this profile does not invent them. It is a question many databases answer with generic text and no source: here, the answer stays the one the record allows.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/larose.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/larose.html#artist", "name": "Larose", "description": "Creole voice of the Guadeloupe scene, active since Di Bonjou in 2018 on Mostwantedcorp then Gwap Music. Published credits under the name Sandra Valdez, vocals and writing. Album Rose Rouge referenced in 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Di Bonjou'}, {"@type": "MusicRecording", "name": 'Big Bike'}, {"@type": "MusicRecording", "name": 'Buzz Buzz Buzz'}, {"@type": "MusicRecording", "name": 'Revolver'}, {"@type": "MusicRecording", "name": 'Loyal'}, {"@type": "MusicRecording", "name": 'KA NOU YÉ'}, {"@type": "MusicRecording", "name": 'Énergie'}, {"@type": "MusicRecording", "name": 'TOUSA'}, {"@type": "MusicRecording", "name": 'Lè an pa siw ou si mwen'}, {"@type": "MusicRecording", "name": 'Call me'}, {"@type": "MusicRecording", "name": 'Eazy'}, {"@type": "MusicRecording", "name": 'Grraa'}, {"@type": "MusicRecording", "name": 'Mannèv'}, {"@type": "MusicRecording", "name": 'Baby Daddy'}, {"@type": "MusicRecording", "name": 'Fui mwen'}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/larose.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/larose.html#artist", "name": "Larose", "description": "Creole voice of the Guadeloupe scene, active since Di Bonjou in 2018 on Mostwantedcorp then Gwap Music. Published credits under the name Sandra Valdez, vocals and writing. Album Rose Rouge referenced in 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Di Bonjou'}, {"@type": "MusicRecording", "name": 'Big Bike'}, {"@type": "MusicRecording", "name": 'Buzz Buzz Buzz'}, {"@type": "MusicRecording", "name": 'Revolver'}, {"@type": "MusicRecording", "name": 'Loyal'}, {"@type": "MusicRecording", "name": 'KA NOU YÉ'}, {"@type": "MusicRecording", "name": 'Énergie'}, {"@type": "MusicRecording", "name": 'TOUSA'}, {"@type": "MusicRecording", "name": 'Lè an pa siw ou si mwen'}, {"@type": "MusicRecording", "name": 'Call me'}, {"@type": "MusicRecording", "name": 'Eazy'}, {"@type": "MusicRecording", "name": 'Grraa'}, {"@type": "MusicRecording", "name": 'Mannèv'}, {"@type": "MusicRecording", "name": 'Baby Daddy'}, {"@type": "MusicRecording", "name": 'Fui mwen'},
+      {
+       "@type": "MusicRecording",
+       "name": "Big Gwap (feat. Pepyth)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Checklist"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pour moi"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Plis"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "KANOUYÉ"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "An wout"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sin Verguenza"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bam Bam (feat. Mala)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hotel Room (feat. Whyneed)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Flexxx (feat. Alpha & Ray Da Prince)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fantastic (feat. Larose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "10 words challenge (feat. Larose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Baby Boss"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rubi Rose (feat. LaRose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Big Baddie"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Byen pliss ki zanmi (feat. Larose) [Remix]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MANIGANCES (feat. LaRose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SEL CHANS"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "A l'aise (feat. LaRose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Man ja fwap"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Gwadloup cho (feat. T-Way, Tone Bo$$, Dvinity, Aknose, Lil Dem, Latea & Kellingston)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Chô"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Will (feat. Larose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Catholique (feat. Larose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Woch' (feat. Larose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "IMAJINÉ"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DIFERAN (feat. Larose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fwisoné (feat. LaRose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Como Vai (feat. Larose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tom & Jerry (feat. Larose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "En Silence (feat. Larose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Repeat (feat. Larose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lité (feat. LaRose & Kiddyskur)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Non (feat. Larose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Paranoia (feat. Larose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sans commentaire (feat. Warped, Gambi G & Larose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Diab' la"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pull up (feat. Larose)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
