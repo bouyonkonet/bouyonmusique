@@ -345,8 +345,16 @@ EXTRA_TERMS_EN = {
     "Mas Domnik": "mas-domnik.html",
 }
 
-# Playlist embeds (2026-10-21): matched by keyword between page topic and playlist
-# title only. See playlist-embeds/match-table.md. Providers stack YouTube first.
+# Playlist embeds (2026-10-21): matched by keyword between page topic and
+# playlist title, description and track themes. See playlist-embeds/match-table.md
+# (round 1 + round 2, supplied playlist links). Max one YouTube embed per
+# page. Providers stack YouTube first.
+_YT_BEST2026 = ("youtube", "PLB1axoRydQreXaKD2wlZ5IHJmNmoTWEEd", "Bouyon Music 2026 - Best New Bouyon Songs (Dominica Bouyon Hits)")
+_YT_CARNIVAL2026 = ("youtube", "PLB1axoRydQrc3nyVJe_7Jh1ts4rzydf96", "Dominica Carnival 2026 - Mas Domnik Bouyon Road Anthems")
+_YT_GWADA_PLAYLIST = ("youtube", "PLStLo0THKPaA", "Bouyon Gwada 2026 - Playlist Bouyon Guadeloupe & Martinique")
+_YT_INSTRUMENTALS = ("youtube", "PLaTpX9xYuQ3Q", "Bouyon Instrumentals - Bouyon Riddim Beats & Type Beats (Free + 2026)")
+_YT_KULTURAL = ("youtube", "PLGSMHEqIn1ws", "dominica kultural music | Smokiller Selection")
+_YT_CREOLEDAY = ("youtube", "PLeRfSYxTrhsM", "Creole Day Songs | Jounen Kweyol, St Lucia & Dominica | Smokiller")
 PLAYLIST_EMBEDS = {
     "bouyon-mix.html": [
         ("youtube", "PLB1axoRydQrdtCBSbvnkbSoKWJxFV8Xto", "Shatta Bouyon Mix 2026 | Dancehall & Afrobeats"),
@@ -357,20 +365,67 @@ PLAYLIST_EMBEDS = {
         ("spotify", "4ikmgg9FzDug5tLttfhfQp", "Bouyon Music 2026 | Road Mix"),
     ],
     "playlist-shatta.html": [
-        ("youtube", "PLB1axoRydQrdtCBSbvnkbSoKWJxFV8Xto", "Shatta Bouyon Mix 2026 | Dancehall & Afrobeats"),
+        ("youtube", "PLRObCvDH1pO4", "Shatta Bouyon Playlist - Clips, Mixes et Dancehall Antillais"),
     ],
     "shatta-bouyon.html": [
         ("youtube", "PLB1axoRydQrdtCBSbvnkbSoKWJxFV8Xto", "Shatta Bouyon Mix 2026 | Dancehall & Afrobeats"),
     ],
     "bouyon-music-2026.html": [
+        _YT_BEST2026,
         ("spotify", "4ikmgg9FzDug5tLttfhfQp", "Bouyon Music 2026 | Road Mix"),
     ],
     "new-bouyon-2026.html": [
+        _YT_BEST2026,
         ("spotify", "4ikmgg9FzDug5tLttfhfQp", "Bouyon Music 2026 | Road Mix"),
     ],
     "bouyon-songs.html": [
+        ("youtube", "PLNzqsHgDlE0A", "Bouyon Songs 2026 - New Bouyon Music & Dominica Hits"),
         ("spotify", "4ikmgg9FzDug5tLttfhfQp", "Bouyon Music 2026 | Road Mix"),
     ],
+    "best-bouyon.html": [_YT_BEST2026],
+    "old-school-bouyon.html": [
+        ("youtube", "PLNlp6SK-JfuM", "WCK | Smokiller Selection 04"),
+    ],
+    "jing-ping.html": [_YT_KULTURAL],
+    "bele-dominica.html": [_YT_KULTURAL],
+    "bouyon-dominica.html": [
+        ("youtube", "PLNqev8eauH84", "Dominica | Smokiller Selection"),
+    ],
+    "jump-up.html": [
+        ("youtube", "PLFF6EdvjYi3k", "Jump up retro | Smokiller Selection"),
+    ],
+    "bouyon-saint-lucia.html": [
+        ("youtube", "PLFgskLhMaWWs", "st lucia zouks | Smokiller Selection"),
+    ],
+    "wck.html": [
+        ("youtube", "PLcjMlMWDC5Jk", "Wck Bouyon | Smokiller Selection"),
+    ],
+    "bouyon-and-kweyol.html": [_YT_CREOLEDAY],
+    "jounen-kweyol.html": [_YT_CREOLEDAY],
+    "dj-mj.html": [
+        ("youtube", "PLSfJDEQ1jpP4", "Bouyon Mix Clean - DJ Mixes and Radio Edits"),
+    ],
+    "miimii-kds.html": [
+        ("youtube", "PLLXnxmIwXHyc", "Miimii KDS Bouyon - Clips, Portrait, Âge et Origine"),
+    ],
+    "what-is-bouyon.html": [
+        ("youtube", "PLcjYRwKbRx68", "What Is Bouyon Music? Dominica History, Origins & Classics"),
+    ],
+    "bouyon-instrumental.html": [_YT_INSTRUMENTALS],
+    "bouyon-type-beat.html": [_YT_INSTRUMENTALS],
+    "bouyon-riddim.html": [
+        ("youtube", "PLB1axoRydQre6mPaGbs_R3p-3JAp06EMo", "Bouyon Riddims 2026 - New Bouyon Riddim Songs & Warm Ups"),
+    ],
+    "bouyon-gwada.html": [_YT_GWADA_PLAYLIST],
+    "bouyon-guadeloupe.html": [_YT_GWADA_PLAYLIST],
+    "bouyon-martinique.html": [
+        ("youtube", "PLCQdGQzS_iaI", "Bouyon Gwada 2026 - Best Guadeloupe & Martinique Bouyon (Clip Officiel)"),
+    ],
+    "gospel-bouyon.html": [
+        ("youtube", "PLKtZbNpmSpWI", "Gospel Bouyon - Best Christian Bouyon Songs & Gospel Bouyon Remixes"),
+    ],
+    "dominica-carnival-2026.html": [_YT_CARNIVAL2026],
+    "mas-domnik.html": [_YT_CARNIVAL2026],
 }
 
 def playlist_embeds_html(slug):
