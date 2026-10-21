@@ -277,6 +277,14 @@ FR = {
        "@type": "MusicRecording",
        "name": "J'ai ce petit petit truc"
       },
+      {
+       "@type": "MusicRecording",
+       "name": "Daddy chocolat"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ms. Paper (feat. Theodora)"
+      },
 ], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -551,6 +559,14 @@ EN = {
       {
        "@type": "MusicRecording",
        "name": "J'ai ce petit petit truc"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Daddy chocolat"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ms. Paper (feat. Theodora)"
       },
 ], "sameAs": []}}],
  "date_modified": "2026-10-20"
