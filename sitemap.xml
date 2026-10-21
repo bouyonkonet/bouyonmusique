@@ -1975,6 +1975,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://bouyonmusique.com/supatronic.html</loc>
+    <lastmod>2026-10-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://bouyonmusique.com/plan-du-site.html</loc>
     <lastmod>2026-10-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -3938,6 +3944,12 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/risingsun.html</loc>
+    <lastmod>2026-10-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bouyonmusique.com/en/supatronic.html</loc>
     <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
