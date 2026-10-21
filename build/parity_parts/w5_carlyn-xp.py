@@ -85,7 +85,332 @@ FR = {
   ("Qui produit les titres de Carlyn XP ?", "Cornell Phillip, son mari depuis le 30 décembre 2012 selon eMage DM, et un des créateurs du bouyon. Les crédits publiés le montrent partout : auteur avec elle sur « Canavalist » et « Foreigner », et sur le visualizer officiel de « Culture Me Love », il est crédité à la production, à tous les instruments sauf la basse de Keith Goddard, et à l’enregistrement, au mixage et au mastering chez Imperial Publishing, leur structure d’édition."),
   ("Où écouter Carlyn XP pour commencer ?", "Commencez par les titres que les plateformes et la presse citent le plus : « Bouyon Water », « Bouyon Calling », « Bumpa Scare », « Stranger » et « Foreigner » avec Edday, puis les chansons patriotiques « Raise Your Flags » et « Dominica Strong ». Notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> les replace dans le son de la Dominique d’aujourd’hui.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/carlyn-xp.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/carlyn-xp.html#artist", "name": "Carlyn XP", "description": "Chanteuse de Roseau, Dominique. Infirmière certifiée devenue artiste à plein temps en 2015, chanteuse principale de Fanatik, Groovy Soca Monarch 2010 et Bouyon Monarch deux années de suite selon ses biographies officielles.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bouyon Water"}, {"@type": "MusicRecording", "name": "Bouyon Calling"}, {"@type": "MusicRecording", "name": "Foreigner"}, {"@type": "MusicRecording", "name": "Bumpa Scare"}, {"@type": "MusicRecording", "name": "Stranger"}, {"@type": "MusicRecording", "name": "Bouyon Army"}, {"@type": "MusicRecording", "name": "Canavalist"}, {"@type": "MusicRecording", "name": "Raise Your Flags"}, {"@type": "MusicRecording", "name": "Dominica Strong"}, {"@type": "MusicRecording", "name": "Music Fever"}, {"@type": "MusicRecording", "name": "Hello"}, {"@type": "MusicRecording", "name": "Nobody"}, {"@type": "MusicRecording", "name": "Ice Cream"}, {"@type": "MusicRecording", "name": "Culture Me Love"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/carlyn-xp.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/carlyn-xp.html#artist", "name": "Carlyn XP", "description": "Chanteuse de Roseau, Dominique. Infirmière certifiée devenue artiste à plein temps en 2015, chanteuse principale de Fanatik, Groovy Soca Monarch 2010 et Bouyon Monarch deux années de suite selon ses biographies officielles.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bouyon Water"}, {"@type": "MusicRecording", "name": "Bouyon Calling"}, {"@type": "MusicRecording", "name": "Foreigner"}, {"@type": "MusicRecording", "name": "Bumpa Scare"}, {"@type": "MusicRecording", "name": "Stranger"}, {"@type": "MusicRecording", "name": "Bouyon Army"}, {"@type": "MusicRecording", "name": "Canavalist"}, {"@type": "MusicRecording", "name": "Raise Your Flags"}, {"@type": "MusicRecording", "name": "Dominica Strong"}, {"@type": "MusicRecording", "name": "Music Fever"}, {"@type": "MusicRecording", "name": "Hello"}, {"@type": "MusicRecording", "name": "Nobody"}, {"@type": "MusicRecording", "name": "Ice Cream"}, {"@type": "MusicRecording", "name": "Culture Me Love"},
+      {
+       "@type": "MusicRecording",
+       "name": "Thick Girl Summer"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mango Lika"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Check on Me"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cool Me Down (VI Cooler Riddim)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sugar Cane"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Blessed"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Main Chick"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Anywhere You Go (Home)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Juicy"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sweet Wine"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Big Truck"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Accidentally"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Misbehave"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Double Dare"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Iz Dat Dey Like"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sway"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Go Down (Mr. DJ)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Trending"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Trouble (Uber Riddim)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stranger (Smooth Jazz Interpretation)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "#fymf (For You My Fans)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "The Praise"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doh Stress Me out (Mash up De Road)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "2 4 1"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Caribbean Colors"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hallelujah"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Holiday Sing Along"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Have Yourself a Merry Little Christmas"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Raise up a Song"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Santa Coming"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Christmas Feelings"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Christmas Memory"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Twelve Days of Bouyon Christmas"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Holding on to Mama"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Baby Ok (Mabouya Riddim)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Liquor Family"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Face 2 Face"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Come Together"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "More Powder"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Christmas Feeling"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Anou Jouez Cadence"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pray for Dominica"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bouyon Step"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bouyon Wuk"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bbhmm (Bouyon Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "How Many Licks"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Love That Body"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Soca Criminal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "24/7"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "We Will Rise 767"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "A Little Wuk"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Score (Bouyon Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Boldface"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Gimme Dat"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dance with Me"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Big Bad Wolf"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "One Dance"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Far Away"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Like Home"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sélébwé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "C'est Pas Fault Moi"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tan Lavi Wed"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kizomba Na Na"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Aime Moi"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Festival"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mama Twavay"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Back Biters"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Drunk in Love"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Another Love Song"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Our Crown (feat. Tacabelly & Dova)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shake Me Bambalam"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Champion Whiner"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Big Batty"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Grass Not Greener (feat. Carlyn XP)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Without You (Women Response) (feat. Shyanne, Carlyn XP, Ebony Empress & Starsha)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Many Waters (feat. Carlyn XP)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Touch & Go (feat. Carlyn xp)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Always Be My Baby (feat. Carlyn XP)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Now and Forever (feat. Carlyn Xp)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Illegal Whine (feat. Carlyn Xp & Melodee)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Breaking Loose (feat. Carlyn Xp)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -163,6 +488,331 @@ EN = {
   ("Who produces Carlyn XP records?", "Cornell Phillip, her husband since December 30, 2012 according to eMage DM, and one of the creators of bouyon. Published credits show him everywhere: songwriter with her on “Canavalist” and “Foreigner”, and on the official “Culture Me Love” visualizer he is credited with production, all instruments except Keith Goddard bass, and recording, mixing and mastering at Imperial Publishing, their publishing structure."),
   ("Where should I start listening to Carlyn XP?", "Start with the records platforms and press cite most: “Bouyon Water”, “Bouyon Calling”, “Bumpa Scare”, “Stranger” and “Foreigner” with Edday, then the patriotic songs “Raise Your Flags” and “Dominica Strong”. Our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> places them inside the sound of Dominica today.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/carlyn-xp.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/carlyn-xp.html#artist", "name": "Carlyn XP", "description": "Singer from Roseau, Dominica. A Certified Registered Nurse who went full time in music in 2015, lead singer of Fanatik, Groovy Soca Monarch 2010 and Bouyon Monarch two years running according to her official biographies.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bouyon Water"}, {"@type": "MusicRecording", "name": "Bouyon Calling"}, {"@type": "MusicRecording", "name": "Foreigner"}, {"@type": "MusicRecording", "name": "Bumpa Scare"}, {"@type": "MusicRecording", "name": "Stranger"}, {"@type": "MusicRecording", "name": "Bouyon Army"}, {"@type": "MusicRecording", "name": "Canavalist"}, {"@type": "MusicRecording", "name": "Raise Your Flags"}, {"@type": "MusicRecording", "name": "Dominica Strong"}, {"@type": "MusicRecording", "name": "Music Fever"}, {"@type": "MusicRecording", "name": "Hello"}, {"@type": "MusicRecording", "name": "Nobody"}, {"@type": "MusicRecording", "name": "Ice Cream"}, {"@type": "MusicRecording", "name": "Culture Me Love"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/carlyn-xp.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/carlyn-xp.html#artist", "name": "Carlyn XP", "description": "Singer from Roseau, Dominica. A Certified Registered Nurse who went full time in music in 2015, lead singer of Fanatik, Groovy Soca Monarch 2010 and Bouyon Monarch two years running according to her official biographies.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bouyon Water"}, {"@type": "MusicRecording", "name": "Bouyon Calling"}, {"@type": "MusicRecording", "name": "Foreigner"}, {"@type": "MusicRecording", "name": "Bumpa Scare"}, {"@type": "MusicRecording", "name": "Stranger"}, {"@type": "MusicRecording", "name": "Bouyon Army"}, {"@type": "MusicRecording", "name": "Canavalist"}, {"@type": "MusicRecording", "name": "Raise Your Flags"}, {"@type": "MusicRecording", "name": "Dominica Strong"}, {"@type": "MusicRecording", "name": "Music Fever"}, {"@type": "MusicRecording", "name": "Hello"}, {"@type": "MusicRecording", "name": "Nobody"}, {"@type": "MusicRecording", "name": "Ice Cream"}, {"@type": "MusicRecording", "name": "Culture Me Love"},
+      {
+       "@type": "MusicRecording",
+       "name": "Thick Girl Summer"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mango Lika"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Check on Me"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cool Me Down (VI Cooler Riddim)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sugar Cane"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Blessed"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Main Chick"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Anywhere You Go (Home)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Juicy"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sweet Wine"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Big Truck"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Accidentally"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Misbehave"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Double Dare"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Iz Dat Dey Like"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sway"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Go Down (Mr. DJ)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Trending"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Trouble (Uber Riddim)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stranger (Smooth Jazz Interpretation)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "#fymf (For You My Fans)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "The Praise"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doh Stress Me out (Mash up De Road)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "2 4 1"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Caribbean Colors"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hallelujah"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Holiday Sing Along"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Have Yourself a Merry Little Christmas"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Raise up a Song"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Santa Coming"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Christmas Feelings"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Christmas Memory"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Twelve Days of Bouyon Christmas"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Holding on to Mama"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Baby Ok (Mabouya Riddim)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Liquor Family"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Face 2 Face"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Come Together"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "More Powder"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Christmas Feeling"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Anou Jouez Cadence"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pray for Dominica"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bouyon Step"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bouyon Wuk"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bbhmm (Bouyon Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "How Many Licks"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Love That Body"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Soca Criminal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "24/7"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "We Will Rise 767"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "A Little Wuk"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Score (Bouyon Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Boldface"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Gimme Dat"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dance with Me"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Big Bad Wolf"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "One Dance"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Far Away"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Like Home"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sélébwé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "C'est Pas Fault Moi"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tan Lavi Wed"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kizomba Na Na"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Aime Moi"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Festival"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mama Twavay"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Back Biters"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Drunk in Love"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Another Love Song"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Our Crown (feat. Tacabelly & Dova)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shake Me Bambalam"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Champion Whiner"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Big Batty"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Grass Not Greener (feat. Carlyn XP)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Without You (Women Response) (feat. Shyanne, Carlyn XP, Ebony Empress & Starsha)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Many Waters (feat. Carlyn XP)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Touch & Go (feat. Carlyn xp)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Always Be My Baby (feat. Carlyn XP)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Now and Forever (feat. Carlyn Xp)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Illegal Whine (feat. Carlyn Xp & Melodee)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Breaking Loose (feat. Carlyn Xp)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
