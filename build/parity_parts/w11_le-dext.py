@@ -97,7 +97,216 @@ FR = {
   ("D’où vient Le Dext ?", "Son origine n’est pas publiée dans les sources ouvertes. Sa propre vidéo tague son univers avec les indicatifs 971 (Guadeloupe), 767 (Dominique), 972 (Martinique) et 973 (Guyane), et son single est en français : ce profil le rattache au circuit du bouyon des Antilles françaises sur cette base, sans lui attribuer une île de naissance ou de résidence qu’aucune source ne publie."),
   ("Où écouter Le Dext et le bouyon de sa scène ?", "Écoutez « Open That », « Stick It » et « FAT CAT », puis lisez notre page <a href=\"/bouyon-gwada.html\">bouyon gwada</a> pour la scène guadeloupéenne de ses collaborations, et notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, qui suit le bouyon actuel de la Dominique et des Antilles françaises.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/le-dext.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/le-dext.html#artist", "name": "Le Dext", "description": "Artiste bouyon des Antilles françaises. Titres vérifiés : Open That (single, 30 août 2024, 5417166 Records DK), Stick It (produit par Tidji, Blockstudio) et FAT CAT avec Team Bwè Tou Sa (2026). Aucune biographie ni origine publiée retrouvée en octobre 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Open That"}, {"@type": "MusicRecording", "name": "Stick It"}, {"@type": "MusicRecording", "name": "FAT CAT"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/le-dext.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/le-dext.html#artist", "name": "Le Dext", "description": "Artiste bouyon des Antilles françaises. Titres vérifiés : Open That (single, 30 août 2024, 5417166 Records DK), Stick It (produit par Tidji, Blockstudio) et FAT CAT avec Team Bwè Tou Sa (2026). Aucune biographie ni origine publiée retrouvée en octobre 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Open That"}, {"@type": "MusicRecording", "name": "Stick It"}, {"@type": "MusicRecording", "name": "FAT CAT"},
+      {
+       "@type": "MusicRecording",
+       "name": "Show Me (feat. Magbeatz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Push My Wood"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "In This Coco"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lick That"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bubble It (feat. Bby A)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ride (feat. Sick Tonez)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Honey"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bounce"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tikitak"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rolling It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pop It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Papel"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MECHANT (feat. RNT Prod)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jiggle that"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Move Temps (feat. Melody)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hood La (feat. Fata Bling)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "OP"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ennui (feat. Shimmy Gng)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Charbone"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Poté Gam"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "L'Oseille"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Talk"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sa Ka Fet (feat. Young Jojo & Danielwsp)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Baby (feat. Mkinder Beatz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bend Down (feat. Mkinder Beatz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Golerie"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Banger"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Carre (feat. Uncle Steeve)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "La Mala (feat. Fata Bling)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TI FRÈ (feat. Caskaaa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lifestyle 2.0"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "L.N.P (feat. IsaLuvaa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Don't Cry (feat. Neven)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Activo"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Intro"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Uzi"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Interlude Mood (feat. Fata Beatz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Connexion (feat. Lavar)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "War (feat. Switch)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hating (feat. Ezee Wmn)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "S'en Cesse"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bulle An Mwen"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Blingnation"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Hook (feat. Montana)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Street (feat. Fata Beatz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Vermine (feat. Rico Mob & Enzo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ousavv"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rockstar"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lifestyle"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MONEY MISSION (feat. Le Dext, Jah2Chill & Devo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Big Tolly (feat. Le Dext)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "IN THIS P#SSY"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -173,6 +382,215 @@ EN = {
   ("Where is Le Dext from?", "His origin is not published in the open sources. His own video tags his world with the codes 971 (Guadeloupe), 767 (Dominica), 972 (Martinique) and 973 (French Guiana), and his single is in French: this profile attaches him to the bouyon circuit of the French Antilles on that basis, without assigning him an island of birth or residence that no source publishes."),
   ("Where can I hear Le Dext and the bouyon of his scene?", "Hear “Open That”, “Stick It” and “FAT CAT”, then read our <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a> page for the Guadeloupean scene of his collaborations, and our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, which follows the current bouyon of Dominica and the French Antilles.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/le-dext.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/le-dext.html#artist", "name": "Le Dext", "description": "Bouyon artist of the French Antilles. Verified records: Open That (single, 30 August 2024, 5417166 Records DK), Stick It (produced by Tidji, Blockstudio) and FAT CAT with Team Bwe Tou Sa (2026). No biography or published origin found in October 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Open That"}, {"@type": "MusicRecording", "name": "Stick It"}, {"@type": "MusicRecording", "name": "FAT CAT"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/le-dext.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/le-dext.html#artist", "name": "Le Dext", "description": "Bouyon artist of the French Antilles. Verified records: Open That (single, 30 August 2024, 5417166 Records DK), Stick It (produced by Tidji, Blockstudio) and FAT CAT with Team Bwe Tou Sa (2026). No biography or published origin found in October 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Open That"}, {"@type": "MusicRecording", "name": "Stick It"}, {"@type": "MusicRecording", "name": "FAT CAT"},
+      {
+       "@type": "MusicRecording",
+       "name": "Show Me (feat. Magbeatz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Push My Wood"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "In This Coco"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lick That"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bubble It (feat. Bby A)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ride (feat. Sick Tonez)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Honey"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bounce"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tikitak"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rolling It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pop It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Papel"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MECHANT (feat. RNT Prod)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jiggle that"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Move Temps (feat. Melody)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hood La (feat. Fata Bling)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "OP"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ennui (feat. Shimmy Gng)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Charbone"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Poté Gam"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "L'Oseille"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Talk"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sa Ka Fet (feat. Young Jojo & Danielwsp)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Baby (feat. Mkinder Beatz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bend Down (feat. Mkinder Beatz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Golerie"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Banger"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Carre (feat. Uncle Steeve)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "La Mala (feat. Fata Bling)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TI FRÈ (feat. Caskaaa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lifestyle 2.0"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "L.N.P (feat. IsaLuvaa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Don't Cry (feat. Neven)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Activo"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Intro"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Uzi"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Interlude Mood (feat. Fata Beatz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Connexion (feat. Lavar)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "War (feat. Switch)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hating (feat. Ezee Wmn)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "S'en Cesse"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bulle An Mwen"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Blingnation"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Hook (feat. Montana)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Street (feat. Fata Beatz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Vermine (feat. Rico Mob & Enzo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ousavv"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rockstar"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lifestyle"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MONEY MISSION (feat. Le Dext, Jah2Chill & Devo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Big Tolly (feat. Le Dext)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "IN THIS P#SSY"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
