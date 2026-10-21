@@ -81,7 +81,548 @@ FR = {
   ("Qui a produit « Famalay » et « Conch Shell » ?", "Selon les crédits officiels, « Famalay » est produit par DadaMuzic et DSM, et « Conch Shell », de Skinny Fabulous, Machel Montano et Iwer George, est produit par Dadamanufakture. Derrière ces deux noms se trouve Dada, le producteur dominicain auquel ce site consacre un profil complet."),
   ("Quels sont les titres indispensables de Skinny Fabulous ?", "Commencez par « Head Bad », le titre de sa première couronne, puis « Monster », « Watch Thing », « Happy » et « Mash Up International ». Enchaînez avec « Famalay » et « Conch Shell », ses deux productions signées Dada, puis « Come Home » avec Nailah Blackman, deuxième du Road March 2023, et « Erupt », le titre de son retour au Soca Monarch en 2025.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/skinny-fabulous.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/skinny-fabulous.html#artist", "name": "Skinny Fabulous", "description": "Chanteur et auteur soca de Saint-Vincent-et-les-Grenadines, de son vrai nom Gamal Doyle. Cinq fois vainqueur du Soca Monarch de Saint-Vincent, premier artiste non citoyen de Trinidad et Tobago vainqueur du Road March avec Famalay en 2019. Famalay et Conch Shell sont des productions du Dominicain Dada.", "genre": "Soca", "track": [{"@type": "MusicRecording", "name": "Famalay"}, {"@type": "MusicRecording", "name": "Conch Shell"}, {"@type": "MusicRecording", "name": "Head Bad"}, {"@type": "MusicRecording", "name": "Monster"}, {"@type": "MusicRecording", "name": "Watch Thing"}, {"@type": "MusicRecording", "name": "Happy"}, {"@type": "MusicRecording", "name": "Mash Up International"}, {"@type": "MusicRecording", "name": "More Jab"}, {"@type": "MusicRecording", "name": "Solid as a Rock"}, {"@type": "MusicRecording", "name": "Worst Behaviour"}, {"@type": "MusicRecording", "name": "Come Home"}, {"@type": "MusicRecording", "name": "Erupt"}, {"@type": "MusicRecording", "name": "Go Hard"}, {"@type": "MusicRecording", "name": "Up and Up"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/skinny-fabulous.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/skinny-fabulous.html#artist", "name": "Skinny Fabulous", "description": "Chanteur et auteur soca de Saint-Vincent-et-les-Grenadines, de son vrai nom Gamal Doyle. Cinq fois vainqueur du Soca Monarch de Saint-Vincent, premier artiste non citoyen de Trinidad et Tobago vainqueur du Road March avec Famalay en 2019. Famalay et Conch Shell sont des productions du Dominicain Dada.", "genre": "Soca", "track": [{"@type": "MusicRecording", "name": "Famalay"}, {"@type": "MusicRecording", "name": "Conch Shell"}, {"@type": "MusicRecording", "name": "Head Bad"}, {"@type": "MusicRecording", "name": "Monster"}, {"@type": "MusicRecording", "name": "Watch Thing"}, {"@type": "MusicRecording", "name": "Happy"}, {"@type": "MusicRecording", "name": "Mash Up International"}, {"@type": "MusicRecording", "name": "More Jab"}, {"@type": "MusicRecording", "name": "Solid as a Rock"}, {"@type": "MusicRecording", "name": "Worst Behaviour"}, {"@type": "MusicRecording", "name": "Come Home"}, {"@type": "MusicRecording", "name": "Erupt"}, {"@type": "MusicRecording", "name": "Go Hard"}, {"@type": "MusicRecording", "name": "Up and Up"},
+      {
+       "@type": "MusicRecording",
+       "name": "Nonsense"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Woman, Rum & Soca"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Regrets"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fully Bad"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Angle It (Back Bend)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Drunk and Muddy"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Road Tribute"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "#BAD"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tek Jam"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sauce"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Big In The Dance"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Big Millions"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Please Don't Call Me"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Up Dey"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Double Bubble"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Perfect Touch"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Danger"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Naked"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Girls That Like Girls 2"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Behavior Nothin"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "New Gyal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Relationship"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pull D Pin"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fallen Fetters"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Road Friends"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bang"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Can You Bend"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wake Up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DahLayne"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "In the Van"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Do Yuh Thing"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lean This Party"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Party Time"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Find Out"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wicked Waistline (Wicked Waistline Riddim)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Boost Up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Somebody Gyal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Party in the Road"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wine Pon Yuh Fren"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hell Yeah"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Big Stage"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hurricane"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ROUGH TOP"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Beauty n Bacchanal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Time Bomb"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Do What Yuh Want"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bird Boss"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jammin'"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Front"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Brutal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "All Eyes On You"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Showers"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Inches"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Too Damn Wicked (Sun Fun Riddim)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pieces"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Blinkin Bad"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Duracel"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "On the Spot"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SHELL DOWN DAT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Anywhere Dat We Step"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sun Goes Down (Soca 2020 Trinidad and Tobago Carnival)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Soca Trend"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bend Yuh Back"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Direct Shot"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Reckless"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rock This Place"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Up & Up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Famalay (Travis World Road Mix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bird Box"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Favourite Shot"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Energy High Up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Takin Over"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "One Team"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mortal Kombat"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Push It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Road (Mad People Jab Riddim)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bubble"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sick Wid It (Soca 2017 Carnival)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lights Go Down"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ignorant"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Make It Rain"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Feeling so Blessed"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sore Foot"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Don't Give It Away"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "It's the Weekend"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Going Off"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Like No Tomorrow"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BTW (Behaving The Worst)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wine & Stop"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Defense"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "The General (Lick Ah Shot)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rave Out"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Brace n Whine"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "De Beast Lehgo"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rumble"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pelt"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mad People"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hottness"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "All Of Yuh Body"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "6 30"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Badder Than Everybody"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PROMOTA"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bruk It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "This Moment"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "RAGS (feat. Skinny Fabulous & Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Forever"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Owe Me Nothing"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Start"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shameless"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Come Home (Road Mix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Come Home (Prototype Road Mix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Push Back (Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Don't Run"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tek This Money"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Location"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "People Business"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Making Me Own"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Conch Shell (Wetty Beatz Road Mix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Level Vibes"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bipolar"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pick Your Position"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pick Your Position (Dj Slingshot Roadmix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Right Here"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Give It to Ya"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Give It to Ya (Remix), Pt. 2"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Plenty Plenty"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Do It Like Ah Pro (feat. Skinny Fabulous & Daniella Veira)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Going Mad"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Busy Tone"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Love Carnival"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cya Come"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Coming Over (Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wining Pro"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hot Steppa"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Right Track"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -155,6 +696,547 @@ EN = {
   ("Who produced “Famalay” and “Conch Shell”?", "According to the official credits, “Famalay” was produced by DadaMuzic and DSM, and “Conch Shell”, by Skinny Fabulous, Machel Montano and Iwer George, was produced by Dadamanufakture. Behind both names stands Dada, the Dominican producer this site profiles in full."),
   ("What are the essential Skinny Fabulous records?", "Start with “Head Bad”, the record of his first crown, then “Monster”, “Watch Thing”, “Happy” and “Mash Up International”. Continue with “Famalay” and “Conch Shell”, his two Dada productions, then “Come Home” with Nailah Blackman, second in the 2023 Road March, and “Erupt”, the record of his 2025 Soca Monarch return.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/skinny-fabulous.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/skinny-fabulous.html#artist", "name": "Skinny Fabulous", "description": "Soca singer and songwriter from Saint Vincent and the Grenadines, real name Gamal Doyle. Five-time Saint Vincent Soca Monarch winner, first non-Trinidad and Tobago citizen to win the Road March with Famalay in 2019. Famalay and Conch Shell are productions by Dominica Dada.", "genre": "Soca", "track": [{"@type": "MusicRecording", "name": "Famalay"}, {"@type": "MusicRecording", "name": "Conch Shell"}, {"@type": "MusicRecording", "name": "Head Bad"}, {"@type": "MusicRecording", "name": "Monster"}, {"@type": "MusicRecording", "name": "Watch Thing"}, {"@type": "MusicRecording", "name": "Happy"}, {"@type": "MusicRecording", "name": "Mash Up International"}, {"@type": "MusicRecording", "name": "More Jab"}, {"@type": "MusicRecording", "name": "Solid as a Rock"}, {"@type": "MusicRecording", "name": "Worst Behaviour"}, {"@type": "MusicRecording", "name": "Come Home"}, {"@type": "MusicRecording", "name": "Erupt"}, {"@type": "MusicRecording", "name": "Go Hard"}, {"@type": "MusicRecording", "name": "Up and Up"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/skinny-fabulous.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/skinny-fabulous.html#artist", "name": "Skinny Fabulous", "description": "Soca singer and songwriter from Saint Vincent and the Grenadines, real name Gamal Doyle. Five-time Saint Vincent Soca Monarch winner, first non-Trinidad and Tobago citizen to win the Road March with Famalay in 2019. Famalay and Conch Shell are productions by Dominica Dada.", "genre": "Soca", "track": [{"@type": "MusicRecording", "name": "Famalay"}, {"@type": "MusicRecording", "name": "Conch Shell"}, {"@type": "MusicRecording", "name": "Head Bad"}, {"@type": "MusicRecording", "name": "Monster"}, {"@type": "MusicRecording", "name": "Watch Thing"}, {"@type": "MusicRecording", "name": "Happy"}, {"@type": "MusicRecording", "name": "Mash Up International"}, {"@type": "MusicRecording", "name": "More Jab"}, {"@type": "MusicRecording", "name": "Solid as a Rock"}, {"@type": "MusicRecording", "name": "Worst Behaviour"}, {"@type": "MusicRecording", "name": "Come Home"}, {"@type": "MusicRecording", "name": "Erupt"}, {"@type": "MusicRecording", "name": "Go Hard"}, {"@type": "MusicRecording", "name": "Up and Up"},
+      {
+       "@type": "MusicRecording",
+       "name": "Nonsense"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Woman, Rum & Soca"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Regrets"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fully Bad"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Angle It (Back Bend)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Drunk and Muddy"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Road Tribute"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "#BAD"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tek Jam"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sauce"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Big In The Dance"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Big Millions"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Please Don't Call Me"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Up Dey"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Double Bubble"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Perfect Touch"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Danger"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Naked"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Girls That Like Girls 2"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Behavior Nothin"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "New Gyal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Relationship"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pull D Pin"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fallen Fetters"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Road Friends"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bang"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Can You Bend"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wake Up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DahLayne"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "In the Van"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Do Yuh Thing"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lean This Party"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Party Time"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Find Out"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wicked Waistline (Wicked Waistline Riddim)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Boost Up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Somebody Gyal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Party in the Road"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wine Pon Yuh Fren"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hell Yeah"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Big Stage"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hurricane"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ROUGH TOP"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Beauty n Bacchanal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Time Bomb"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Do What Yuh Want"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bird Boss"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jammin'"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Front"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Brutal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "All Eyes On You"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Showers"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Inches"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Too Damn Wicked (Sun Fun Riddim)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pieces"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Blinkin Bad"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Duracel"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "On the Spot"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SHELL DOWN DAT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Anywhere Dat We Step"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sun Goes Down (Soca 2020 Trinidad and Tobago Carnival)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Soca Trend"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bend Yuh Back"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Direct Shot"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Reckless"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rock This Place"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Up & Up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Famalay (Travis World Road Mix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bird Box"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Favourite Shot"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Energy High Up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Takin Over"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "One Team"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mortal Kombat"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Push It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Road (Mad People Jab Riddim)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bubble"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sick Wid It (Soca 2017 Carnival)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lights Go Down"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ignorant"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Make It Rain"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Feeling so Blessed"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sore Foot"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Don't Give It Away"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "It's the Weekend"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Going Off"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Like No Tomorrow"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BTW (Behaving The Worst)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wine & Stop"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Defense"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "The General (Lick Ah Shot)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rave Out"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Brace n Whine"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "De Beast Lehgo"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rumble"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pelt"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mad People"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hottness"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "All Of Yuh Body"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "6 30"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Badder Than Everybody"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PROMOTA"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bruk It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "This Moment"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "RAGS (feat. Skinny Fabulous & Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Forever"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Owe Me Nothing"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Start"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shameless"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Come Home (Road Mix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Come Home (Prototype Road Mix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Push Back (Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Don't Run"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tek This Money"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Location"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "People Business"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Making Me Own"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Conch Shell (Wetty Beatz Road Mix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Level Vibes"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bipolar"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pick Your Position"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pick Your Position (Dj Slingshot Roadmix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Right Here"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Give It to Ya"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Give It to Ya (Remix), Pt. 2"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Plenty Plenty"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Do It Like Ah Pro (feat. Skinny Fabulous & Daniella Veira)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Going Mad"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Busy Tone"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Love Carnival"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cya Come"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Coming Over (Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wining Pro"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hot Steppa"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Right Track"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
