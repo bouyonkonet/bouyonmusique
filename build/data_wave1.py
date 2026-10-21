@@ -1394,7 +1394,7 @@ PAGES = [
      "@type": "Person",
      "@id": "https://bouyonmusique.com/tiitii-nba.html#artist",
      "name": "TIITII NBA",
-     "description": "Artiste bouyon de Guadeloupe, créateur du New Bouyon Age.",
+     "description": "Artiste bouyon de Guadeloupe. NBA signifie New Bouyon Age dans son nom: c'est le titre de son EP sorti le 22 mars 2023 chez GVE Music.",
      "genre": "Bouyon",
      "homeLocation": {
       "@type": "Place",
