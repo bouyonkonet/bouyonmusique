@@ -83,7 +83,96 @@ FR = {
   ("D’où vient Arendi et que sait-on de sa vie ?", "Les sources vérifiées établissent un artiste de Guadeloupe : indicatif 971 dans ses coordonnées publiques publiées en 2021, chaîne Arendi Officiel classée parmi les chaînes YouTube de Guadeloupe par vidIQ, et collaborations enregistrées au Voodoo Studio avec la scène guadeloupéenne. En revanche, aucune biographie de référence consultée en octobre 2026 ne donne sa commune, sa date de naissance ou son parcours personnel, et ce profil ne les invente pas."),
   ("Faut-il écrire Arendi ou Arandi ?", "Arendi, avec un e. C’est la graphie de ses titres bouyon, de sa chaîne Arendi Officiel et de la ligne du SNEP pour « Je l’ai vu ». Arandi, avec un a, est un autre nom d’artiste présent sur les plateformes, sans rapport avec le bouyon de Guadeloupe documenté ici.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/arendi.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/arendi.html#artist", "name": "Arendi", "description": "Artiste bouyon de Guadeloupe. Co-interprète, avec HollyG, de Je l’ai vu, certifié single d’or par le SNEP en France, constat du 10 juillet 2025. Auteur interprète de Shatta ay, avec Magma QLM, en 2021.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Shatta ay"}, {"@type": "MusicRecording", "name": "Je l’ai vu"}, {"@type": "MusicRecording", "name": "Kylian Mbappé (feat. Mata)"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/arendi.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/arendi.html#artist", "name": "Arendi", "description": "Artiste bouyon de Guadeloupe. Co-interprète, avec HollyG, de Je l’ai vu, certifié single d’or par le SNEP en France, constat du 10 juillet 2025. Auteur interprète de Shatta ay, avec Magma QLM, en 2021.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Shatta ay"}, {"@type": "MusicRecording", "name": "Je l’ai vu"}, {"@type": "MusicRecording", "name": "Kylian Mbappé (feat. Mata)"},
+      {
+       "@type": "MusicRecording",
+       "name": "Bon Mood"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mielleux"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sombrero"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Miami"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bodé Apiyé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Je l'ai vu (Charles V Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Débouya"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rachelle (Sirène Riddim)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lyrical criminel"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sa Pété (Hot Sauce Riddim)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Continuer"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rété Akaz Aw"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rèv an mwen"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pagnette"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mové Chèw"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kizomba"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Gauche droite"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "RIP Suppa (feat. Lovlya)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pété tete aw"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rachelle (feat. Arendi)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Je l'ai vu (Bouyon Kings Mixtape)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Canicule (feat. Arendi)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -161,6 +250,95 @@ EN = {
   ("Where is Arendi from and what is known about his life?", "Verified sources establish an artist from Guadeloupe: the 971 code in his public details published in 2021, the Arendi Officiel channel ranked among Guadeloupe YouTube channels by vidIQ, and collaborations recorded at Voodoo Studio with the Guadeloupe scene. However, no reference biography consulted in October 2026 gives his commune, his birth date or his personal path, and this profile does not invent them."),
   ("Should it be written Arendi or Arandi?", "Arendi, with an e. That is the spelling of his bouyon tracks, of his Arendi Officiel channel and of the SNEP line for “Je l’ai vu”. Arandi, with an a, is another artist name present on platforms, unrelated to the Guadeloupe bouyon documented here.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/arendi.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/arendi.html#artist", "name": "Arendi", "description": "Bouyon artist from Guadeloupe. Co-performer, with HollyG, of Je l’ai vu, certified gold single by SNEP in France, recorded on 10 July 2025. Writer and performer of Shatta ay, with Magma QLM, in 2021.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Shatta ay"}, {"@type": "MusicRecording", "name": "Je l’ai vu"}, {"@type": "MusicRecording", "name": "Kylian Mbappé (feat. Mata)"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/arendi.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/arendi.html#artist", "name": "Arendi", "description": "Bouyon artist from Guadeloupe. Co-performer, with HollyG, of Je l’ai vu, certified gold single by SNEP in France, recorded on 10 July 2025. Writer and performer of Shatta ay, with Magma QLM, in 2021.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Shatta ay"}, {"@type": "MusicRecording", "name": "Je l’ai vu"}, {"@type": "MusicRecording", "name": "Kylian Mbappé (feat. Mata)"},
+      {
+       "@type": "MusicRecording",
+       "name": "Bon Mood"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mielleux"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sombrero"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Miami"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bodé Apiyé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Je l'ai vu (Charles V Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Débouya"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rachelle (Sirène Riddim)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lyrical criminel"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sa Pété (Hot Sauce Riddim)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Continuer"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rété Akaz Aw"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rèv an mwen"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pagnette"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mové Chèw"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kizomba"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Gauche droite"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "RIP Suppa (feat. Lovlya)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pété tete aw"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rachelle (feat. Arendi)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Je l'ai vu (Bouyon Kings Mixtape)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Canicule (feat. Arendi)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

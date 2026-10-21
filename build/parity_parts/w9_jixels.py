@@ -81,7 +81,100 @@ FR = {
   ("Jixels joue-t-il en live ?", "Oui, selon ses propres publications et la presse locale. Son compte TikTok documente un show au festival de la bouffe à Kourou, en Guyane, avec les codes 971 et 973, et une vidéo d’un spectateur du Bblack Cruise Festival le désigne comme le vrai showman. Au Goziéval 2026, le compte de la Ville du Gosier présente MMG comme le groupe de Jixels, un nouveau groupe qui a eu le coeur du public. Un avant programme du World Creole Music Festival 2025 le listait aussi parmi les DJ de la Night 2, ligne d’avant programme qu’aucun compte rendu ouvert pour ce profil ne confirme en prestation."),
   ("Où écouter Jixels ?", "Commencez par « Nouveau La » avec <a href=\"/brg-hollywood.html\">BRG Hollywood</a>, son titre le plus shazamé, puis « Poukwa » avec Krys et <a href=\"/edday.html\">Edday</a>, « BALAOU FRIT » avec Lestef KJF pour le freestyle, et « Jéré Sa » avec <a href=\"/dj-boko.html\">DJ BOKO</a> pour sa sortie 2026 la plus connectée. Notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> suit le même circuit, de la Guadeloupe à la Dominique.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/jixels.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/jixels.html#artist", "name": "Jixels", "description": "Claviériste, producteur et artiste bouyon ancré en Guadeloupe, présenté par RFI comme le maître du clavier de Poukwa, de Krys, Edday et Jixels. Featuring le plus shazamé sur Nouveau La de BRG Hollywood, partenaire récurrent d’Edday, de Lestef KJF et de DJ BOKO sur Jéré Sa. Les crédits publiés de ses titres portent le nom de Jonathan Elusca comme auteur et compositeur.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "PEACHY"}, {"@type": "MusicRecording", "name": "TEAM MDC (VOU)"}, {"@type": "MusicRecording", "name": "FÈ SA TRANBLÉ"}, {"@type": "MusicRecording", "name": "BALAOU FRIT (MORNE FLEURET FREESTYLE)"}, {"@type": "MusicRecording", "name": "Kiss Me"}, {"@type": "MusicRecording", "name": "YO KA PALÉ"}, {"@type": "MusicRecording", "name": "XMAS CHO"}, {"@type": "MusicRecording", "name": "Poukwa"}, {"@type": "MusicRecording", "name": "AN MAS LA"}, {"@type": "MusicRecording", "name": "VODY 22"}, {"@type": "MusicRecording", "name": "Nouveau La"}, {"@type": "MusicRecording", "name": "Kalollipop"}, {"@type": "MusicRecording", "name": "Jéré Sa"}, {"@type": "MusicRecording", "name": "Touchdown"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/jixels.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/jixels.html#artist", "name": "Jixels", "description": "Claviériste, producteur et artiste bouyon ancré en Guadeloupe, présenté par RFI comme le maître du clavier de Poukwa, de Krys, Edday et Jixels. Featuring le plus shazamé sur Nouveau La de BRG Hollywood, partenaire récurrent d’Edday, de Lestef KJF et de DJ BOKO sur Jéré Sa. Les crédits publiés de ses titres portent le nom de Jonathan Elusca comme auteur et compositeur.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "PEACHY"}, {"@type": "MusicRecording", "name": "TEAM MDC (VOU)"}, {"@type": "MusicRecording", "name": "FÈ SA TRANBLÉ"}, {"@type": "MusicRecording", "name": "BALAOU FRIT (MORNE FLEURET FREESTYLE)"}, {"@type": "MusicRecording", "name": "Kiss Me"}, {"@type": "MusicRecording", "name": "YO KA PALÉ"}, {"@type": "MusicRecording", "name": "XMAS CHO"}, {"@type": "MusicRecording", "name": "Poukwa"}, {"@type": "MusicRecording", "name": "AN MAS LA"}, {"@type": "MusicRecording", "name": "VODY 22"}, {"@type": "MusicRecording", "name": "Nouveau La"}, {"@type": "MusicRecording", "name": "Kalollipop"}, {"@type": "MusicRecording", "name": "Jéré Sa"}, {"@type": "MusicRecording", "name": "Touchdown"},
+      {
+       "@type": "MusicRecording",
+       "name": "AMBIANCE (feat. MANAGYALIS & SHEYTA)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "CHUT (feat. YOSHY & LEJO)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ARE U FEELING (feat. DINHO, LECUS, LESEB, MANAGYALIS & SHEYTA)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I FEEL GOOD"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "HOLIDAY (feat. LE CUS, YOSHY & LEJO)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BRING ME"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "RIP YTF (feat. SPARTA, LONA, YK & 128 BOYZ)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SHE LIKE TNB (feat. LESEB MDC)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TEAM MDC - MANJÉ SA"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "EDDAY X JIXELS X LALUMM - TI MACO"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LALUMM X JIXELS - KES T'EN PENSE ?"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "JIXELS - KINKIN TIME #1 (feat. PAPI'JIX)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TEAM MDC - CHO"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BRAND-NEW THING (feat. BASS)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "An plen kyè"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "FXCK"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jouvert Morning (feat. Jixels, Jicypie & Cloclo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "She miss me (feat. Shanika & Jixels)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Adios Amigos (feat. Lejuh & Jixels)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "HULLABALOO (feat. Jixels)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MORNE FLEURET FREESTYLE (feat. Jixels)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TI PERLINE (feat. JIXELS)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Manzel La Vey (feat. Jixels)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -154,6 +247,99 @@ EN = {
   ("Does Jixels play live?", "Yes, according to his own publications and the local press. His TikTok account documents a show at the food festival in Kourou, in French Guiana, with the codes 971 and 973, and a video by a spectator of the Bblack Cruise Festival calls him the real showman. At the 2026 Goziéval, the Ville du Gosier account presents MMG as the group of Jixels, a new group that won the heart of the public. Another of his own videos shows him testing dancehall for the first time with FANA, on the wyflriddim hashtag, proof that his stage life also runs through the freestyle and sound system side of the circuit. A preview of the 2025 World Creole Music Festival also listed him among the DJs of Night 2, a preview line that no report opened for this profile confirms as a performance."),
   ("Where can I hear Jixels?", "Start with “Nouveau La” with <a href=\"/en/brg-hollywood.html\">BRG Hollywood</a>, his most shazamed track, then “Poukwa” with Krys and <a href=\"/en/edday.html\">Edday</a>, “BALAOU FRIT” with Lestef KJF for the freestyle, and “Jéré Sa” with <a href=\"/en/dj-boko.html\">DJ BOKO</a> for his most connected 2026 release. Our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> follows the same circuit, from Guadeloupe to Dominica.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/jixels.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/jixels.html#artist", "name": "Jixels", "description": "Keyboardist, producer and bouyon artist anchored in Guadeloupe, presented by RFI as the master of the keyboard on Poukwa, by Krys, Edday and Jixels. Most shazamed feature on Nouveau La by BRG Hollywood, recurring partner of Edday, Lestef KJF and DJ BOKO on Jéré Sa. The published credits of his tracks carry the name Jonathan Elusca as writer and composer.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "PEACHY"}, {"@type": "MusicRecording", "name": "TEAM MDC (VOU)"}, {"@type": "MusicRecording", "name": "FÈ SA TRANBLÉ"}, {"@type": "MusicRecording", "name": "BALAOU FRIT (MORNE FLEURET FREESTYLE)"}, {"@type": "MusicRecording", "name": "Kiss Me"}, {"@type": "MusicRecording", "name": "YO KA PALÉ"}, {"@type": "MusicRecording", "name": "XMAS CHO"}, {"@type": "MusicRecording", "name": "Poukwa"}, {"@type": "MusicRecording", "name": "AN MAS LA"}, {"@type": "MusicRecording", "name": "VODY 22"}, {"@type": "MusicRecording", "name": "Nouveau La"}, {"@type": "MusicRecording", "name": "Kalollipop"}, {"@type": "MusicRecording", "name": "Jéré Sa"}, {"@type": "MusicRecording", "name": "Touchdown"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/jixels.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/jixels.html#artist", "name": "Jixels", "description": "Keyboardist, producer and bouyon artist anchored in Guadeloupe, presented by RFI as the master of the keyboard on Poukwa, by Krys, Edday and Jixels. Most shazamed feature on Nouveau La by BRG Hollywood, recurring partner of Edday, Lestef KJF and DJ BOKO on Jéré Sa. The published credits of his tracks carry the name Jonathan Elusca as writer and composer.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "PEACHY"}, {"@type": "MusicRecording", "name": "TEAM MDC (VOU)"}, {"@type": "MusicRecording", "name": "FÈ SA TRANBLÉ"}, {"@type": "MusicRecording", "name": "BALAOU FRIT (MORNE FLEURET FREESTYLE)"}, {"@type": "MusicRecording", "name": "Kiss Me"}, {"@type": "MusicRecording", "name": "YO KA PALÉ"}, {"@type": "MusicRecording", "name": "XMAS CHO"}, {"@type": "MusicRecording", "name": "Poukwa"}, {"@type": "MusicRecording", "name": "AN MAS LA"}, {"@type": "MusicRecording", "name": "VODY 22"}, {"@type": "MusicRecording", "name": "Nouveau La"}, {"@type": "MusicRecording", "name": "Kalollipop"}, {"@type": "MusicRecording", "name": "Jéré Sa"}, {"@type": "MusicRecording", "name": "Touchdown"},
+      {
+       "@type": "MusicRecording",
+       "name": "AMBIANCE (feat. MANAGYALIS & SHEYTA)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "CHUT (feat. YOSHY & LEJO)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ARE U FEELING (feat. DINHO, LECUS, LESEB, MANAGYALIS & SHEYTA)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I FEEL GOOD"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "HOLIDAY (feat. LE CUS, YOSHY & LEJO)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BRING ME"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "RIP YTF (feat. SPARTA, LONA, YK & 128 BOYZ)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SHE LIKE TNB (feat. LESEB MDC)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TEAM MDC - MANJÉ SA"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "EDDAY X JIXELS X LALUMM - TI MACO"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LALUMM X JIXELS - KES T'EN PENSE ?"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "JIXELS - KINKIN TIME #1 (feat. PAPI'JIX)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TEAM MDC - CHO"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BRAND-NEW THING (feat. BASS)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "An plen kyè"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "FXCK"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jouvert Morning (feat. Jixels, Jicypie & Cloclo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "She miss me (feat. Shanika & Jixels)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Adios Amigos (feat. Lejuh & Jixels)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "HULLABALOO (feat. Jixels)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MORNE FLEURET FREESTYLE (feat. Jixels)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TI PERLINE (feat. JIXELS)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Manzel La Vey (feat. Jixels)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
