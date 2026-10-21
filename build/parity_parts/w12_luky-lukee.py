@@ -50,13 +50,59 @@ FR = {
   ]
  ],
  "faq": [
-  ("Comment s'écrit le nom de Lucky lukee ?", "Les plateformes écrivent Lucky lukee, avec un y à Lucky et un double e à lukee. La liste interne de ce site l ecrivait Luky Lukee. Ce profil suit l orthographe des plateformes, celle de Shazam, Deezer et Qobuz, et signale l'écart pour éviter toute confusion."),
-  ("Quel est le titre le plus connu de Lucky lukee ?", "Sur Shazam, son titre le plus identifié est An Sou, avec Miimii et Le Cus, sorti en 2023. Viennent ensuite 1er Feu, avec Binksdrick, Miimii, Qwann et Dinho, puis WITH SOME BOYZ, avec Miimii KDS et DJ SKYCEE."),
-  ("Qui a ecrit et compose WITH SOME BOYZ ?", "Selon les credits publies sur Deezer et Qobuz, WITH SOME BOYZ, sorti le 12 decembre 2025 chez Sck Music prod, a pour auteurs Lucky lukee et DJ SKYCEE et Miimii KDS, et pour compositeurs Miimii KDS et DJ SKYCEE. Le titre dure 2 minutes 18."),
-  ("Lucky lukee a-t-il vraiment chante sur ON DOZ ?", "Ce profil ne le confirme pas, et c est une réponse que peu de listes donnent. Un titre ON DOZ apparaît dans les discographies de Miimii KDS, mais ses credits publies nomment Miky Ding La comme artiste et auteur, avec des compositeurs differents. Faute de credit nommant Lucky lukee, ce titre n est pas compte dans sa discographie ici."),
-  ("Avec qui Lucky lukee collabore t il le plus souvent ?", "Avec Miimii KDS et DJ SKYCEE, présents dès An Sou en 2023 jusqu'à Bode en 2026, en passant par WITH SOME BOYZ en 2025. On retrouve aussi régulierement 1T1, Qwann, Le Cus et LMS dans ses titres listés par les plateformes."),
-  ("Ou écouter Lucky lukee pour commencer ?", "Commencez par An Sou, puis 1er Feu, WITH SOME BOYZ et Bode, et suivez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> ainsi que les pages de <a href=\"/miimii-kds.html\">Miimii KDS</a> et de <a href=\"/dj-skycee.html\">DJ SKYCEE</a> pour le reste de son équipe.")
- ],
+  (
+    "Comment s'écrit le nom de Lucky lukee ?",
+    "Les plateformes écrivent Lucky lukee, avec un y à Lucky et un double e à lukee. La liste interne de ce site l'écrivait Luky Lukee. Ce profil suit l'orthographe des plateformes, celle de Shazam, Deezer et Qobuz, et signale l'écart pour éviter toute confusion : Luky Lukee et Lucky lukee désignent le même artiste.",
+  ),
+  (
+    "Quel est le titre le plus connu de Lucky lukee ?",
+    "Sur Shazam, son titre le plus identifié est An Sou, avec Miimii et Le Cus, sorti en 2023. Viennent ensuite 1er Feu, avec Binksdrick, Miimii, Qwann et Dinho, puis WITH SOME BOYZ, avec Miimii KDS et DJ SKYCEE. Les trois titres ont un point commun : Miimii, devenue Miimii KDS, y chante à ses côtés.",
+  ),
+  (
+    "Qui a écrit et composé WITH SOME BOYZ ?",
+    "Selon les crédits publiés sur Deezer et Qobuz, WITH SOME BOYZ, sorti le 12 décembre 2025 chez Sck Music prod, a pour auteurs Lucky lukee, DJ SKYCEE et Miimii KDS, et pour compositeurs Miimii KDS et DJ SKYCEE. Le titre dure 2 minutes 18 et reste la signature la plus nette de son équipe.",
+  ),
+  (
+    "Lucky lukee a-t-il vraiment chanté sur ON DOZ ?",
+    "Ce profil ne le confirme pas, et c'est une réponse que peu de listes donnent. Un titre ON DOZ apparaît dans les discographies de Miimii KDS, mais ses crédits publiés nomment Miky Ding La comme artiste et auteur, avec des compositeurs différents. Faute de crédit nommant Lucky lukee, ce titre n'est pas compté dans sa discographie ici.",
+  ),
+  (
+    "Avec qui Lucky lukee collabore-t-il le plus souvent ?",
+    "Avec Miimii KDS et DJ SKYCEE, présents d'An Sou en 2023 jusqu'à Bode en 2026, en passant par WITH SOME BOYZ en 2025. On retrouve aussi régulièrement 1T1, Qwann, Le Cus et LMS dans ses titres listés par les plateformes : sur une quinzaine de titres entre 2023 et 2026, presque aucun n'est strictement solo.",
+  ),
+  (
+    "Où écouter Lucky lukee pour commencer ?",
+    "Commencez par An Sou, son titre le plus identifié sur Shazam, puis 1er Feu, WITH SOME BOYZ et Bode pour l'axe avec Miimii KDS et DJ SKYCEE. Pour entendre la nouvelle vague bouyon dans laquelle il circule, suivez ensuite notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>.",
+  ),
+  (
+    "Qui est Lucky lukee ?",
+    "Lucky lukee est un artiste bouyon de la scène guadeloupéenne dont l'histoire publique tient surtout dans ses collaborations, avec <a href=\"/miimii-kds.html\">Miimii KDS</a>, DJ SKYCEE, 1T1, Qwann ou Binksdrick. D'An Sou en 2023 à WITH SOME BOYZ fin 2025, puis Bode et Jouvert Morning en 2026, il aligne des singles courts, faits pour danser, presque toujours partagés.",
+  ),
+  (
+    "Qui a produit Bode avec Lucky lukee ?",
+    "Bode, sorti le 5 juin 2026 chez Stormwave Entertainment, est crédité à <a href=\"/dj-skycee.html\">DJ SKYCEE</a>, avec Miimii KDS et Lucky lukee en invités. Les compositeurs publiés sont DJ SKYCEE et Yanis Batta, et les auteurs Miimii KDS, Lucky lukee, Lucas Gemain et Emilie Afoy. Cette fois, c'est le DJ qui porte le titre.",
+  ),
+  (
+    "Qu'est-ce que 1er Feu de Lucky lukee ?",
+    "1er Feu est un titre de 2024 qui réunit autour de Lucky lukee Binksdrick, Miimii, <a href=\"/qwann.html\">Qwann</a> et Dinho. Il reste, sur Shazam, l'un de ses titres les plus identifiés, juste derrière An Sou. Le titre annonce le programme : un premier feu collectif, une photo de famille de la nouvelle vague, avec Lucky lukee au centre de l'affiche.",
+  ),
+  (
+    "Qu'est-ce que Jouvert Morning de Lucky lukee ?",
+    "Jouvert Morning est un single de 2026 qui réunit Lucky lukee, <a href=\"/jixels.html\">Jixels</a>, Jicypie et Cloclo. Le mot jouvert désigne l'ouverture du carnaval au petit matin, ce qui ancre le titre dans le calendrier festif antillais où le bouyon vit d'abord. La même année, il sort aussi F**k it avec LMS et Friday Night avec LMS, Le Yo, Le Cus et D.O.C FIX DEM.",
+  ),
+  (
+    "Lucky lukee a-t-il travaillé avec 1T1 ?",
+    "Oui. Il chante sur Uhdahdah #2 avec <a href=\"/1t1.html\">1T1</a> et Qwann en 2025, et apparaît sur GardaVou de 1t1 avec DJ SOFTEE, et sur Shake it de DJ LUCHSHIY avec Les p tits du RZT et Miimii. 1T1 fait partie des noms qui reviennent régulièrement dans son catalogue, aux côtés de Miimii KDS, DJ SKYCEE, Qwann, Le Cus et LMS.",
+  ),
+  (
+    "Quels sont les premiers titres de Lucky lukee ?",
+    "Son départ documenté date de 2023 : An Sou avec Miimii et Le Cus, MOUVMAN, un single apparemment solo, Bouncing Ass avec Tichouboy, Nils et Sanno, et Vole y avec Nils et LeJuh. Le schéma est déjà là : un artiste qui multiplie les formations et passe d'un trio à l'autre, en plantant son nom dans plusieurs équipes à la fois.",
+  ),
+  (
+    "Depuis quand Lucky lukee travaille-t-il avec Miimii KDS ?",
+    "Depuis le début documenté de son catalogue : An Sou, son titre le plus identifié, sorti en 2023 avec Miimii et Le Cus. Miimii revient sur 1er Feu en 2024, puis sous le nom de Miimii KDS sur WITH SOME BOYZ en 2025 et Bode en 2026, comme autrice et compositrice. Ce lien précède donc les gros titres de 2025 et 2026.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/luky-lukee.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/luky-lukee.html#artist", "name": "Lucky lukee", "description": "Artiste bouyon de la scène guadeloupéenne, connu pour ses collaborations avec Miimii KDS et DJ SKYCEE, dont WITH SOME BOYZ et Bode.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "An Sou"}, {"@type": "MusicRecording", "name": "1er Feu"}, {"@type": "MusicRecording", "name": "WITH SOME BOYZ"}, {"@type": "MusicRecording", "name": "Bodé"}, {"@type": "MusicRecording", "name": "Jouvert Morning"}, {"@type": "MusicRecording", "name": "MOUVMAN"}, {"@type": "MusicRecording", "name": "Come Back"}, {"@type": "MusicRecording", "name": "Everything is nice"}, {"@type": "MusicRecording", "name": "Uhdahdah #2"}, {"@type": "MusicRecording", "name": "Friday Night"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -106,13 +152,59 @@ EN = {
   ]
  ],
  "faq": [
-  ("How is Lucky lukee name spelled?", "The platforms spell it Lucky lukee, with a y in Lucky and a double e in lukee. This site internal list spelled it Luky Lukee. This profile follows the platform spelling used by Shazam, Deezer and Qobuz, and flags the difference to avoid confusion."),
-  ("What is Lucky lukee best known record?", "On Shazam, his most identified track is An Sou, with Miimii and Le Cus, released in 2023. Next come 1er Feu, with Binksdrick, Miimii, Qwann and Dinho, then WITH SOME BOYZ, with Miimii KDS and DJ SKYCEE."),
-  ("Who wrote and composed WITH SOME BOYZ?", "According to the credits published on Deezer and Qobuz, WITH SOME BOYZ, released on 12 December 2025 on Sck Music prod, has writers Lucky lukee and DJ SKYCEE and Miimii KDS, and composers Miimii KDS and DJ SKYCEE. The record runs 2 minutes 18."),
-  ("Did Lucky lukee really sing on ON DOZ?", "This profile does not confirm it, and that is an answer few listings give. A record titled ON DOZ appears in Miimii KDS discographies, but its published credits name Miky Ding La as artist and writer, with different composers. With no credit naming Lucky lukee, that record is not counted in his discography here."),
-  ("Who does Lucky lukee collaborate with most often?", "With Miimii KDS and DJ SKYCEE, present from An Sou in 2023 to Bode in 2026, through WITH SOME BOYZ in 2025. The platforms also regularly list 1T1, Qwann, Le Cus and LMS in his records."),
-  ("Where should I start listening to Lucky lukee?", "Start with An Sou, then 1er Feu, WITH SOME BOYZ and Bode, and follow our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> and the pages for <a href=\"/en/miimii-kds.html\">Miimii KDS</a> and <a href=\"/en/dj-skycee.html\">DJ SKYCEE</a> for the rest of his crew.")
- ],
+  (
+    "How is Lucky lukee's name spelled?",
+    "The platforms spell it Lucky lukee, with a y in Lucky and a double e in lukee. This site internal list spelled it Luky Lukee. This profile follows the platform spelling used by Shazam, Deezer and Qobuz, and flags the difference to avoid confusion.",
+  ),
+  (
+    "What is Lucky lukee's best known record?",
+    "On Shazam, his most identified track is An Sou, with Miimii and Le Cus, released in 2023. Next come 1er Feu, with Binksdrick, Miimii, Qwann and Dinho, then WITH SOME BOYZ, with Miimii KDS and DJ SKYCEE. The three records share one thing: Miimii, who became Miimii KDS, sings on all of them.",
+  ),
+  (
+    "Who wrote and composed WITH SOME BOYZ?",
+    "According to the credits published on Deezer and Qobuz, WITH SOME BOYZ, released on 12 December 2025 on Sck Music prod, has writers Lucky lukee and DJ SKYCEE and Miimii KDS, and composers Miimii KDS and DJ SKYCEE. The record runs 2 minutes 18.",
+  ),
+  (
+    "Did Lucky lukee really sing on ON DOZ?",
+    "This profile does not confirm it, and that is an answer few listings give. A record titled ON DOZ appears in Miimii KDS discographies, but its published credits name Miky Ding La as artist and writer, with different composers. With no credit naming Lucky lukee, that record is not counted in his discography here.",
+  ),
+  (
+    "Who does Lucky lukee collaborate with most often?",
+    "With Miimii KDS and DJ SKYCEE, present from An Sou in 2023 to Bode in 2026, through WITH SOME BOYZ in 2025. The platforms also regularly list 1T1, Qwann, Le Cus and LMS on his records: of the fifteen or so titles listed between 2023 and 2026, almost none is strictly solo.",
+  ),
+  (
+    "Where should I start listening to Lucky lukee?",
+    "Start with An Sou, his most identified track on Shazam, then 1er Feu, WITH SOME BOYZ and Bode for the axis with Miimii KDS and DJ SKYCEE. To hear the new bouyon wave he moves in, then follow our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>.",
+  ),
+  (
+    "Who is Lucky lukee?",
+    "Lucky lukee is a bouyon artist from the Guadeloupe scene whose public story sits mostly in his collaborations, with <a href=\"/en/miimii-kds.html\">Miimii KDS</a>, DJ SKYCEE, 1T1, Qwann or Binksdrick. From An Sou in 2023 to WITH SOME BOYZ at the end of 2025, then Bode and Jouvert Morning in 2026, he releases short, dance built singles, almost always shared.",
+  ),
+  (
+    "Who produced Bode with Lucky lukee?",
+    "Bode, released on 5 June 2026 by Stormwave Entertainment, is credited to <a href=\"/en/dj-skycee.html\">DJ SKYCEE</a>, with Miimii KDS and Lucky lukee as guests. The published composers are DJ SKYCEE and Yanis Batta, and the writers Miimii KDS, Lucky lukee, Lucas Gemain and Emilie Afoy. This time, the DJ carries the title.",
+  ),
+  (
+    "What is 1er Feu by Lucky lukee?",
+    "1er Feu is a 2024 track that gathers Binksdrick, Miimii, <a href=\"/en/qwann.html\">Qwann</a> and Dinho around Lucky lukee. On Shazam it remains one of his most identified tracks, just behind An Sou. The title states the programme: a collective first fire, a family photo of the new wave, with Lucky lukee at the centre of the poster.",
+  ),
+  (
+    "What is Jouvert Morning by Lucky lukee?",
+    "Jouvert Morning is a 2026 single that gathers Lucky lukee, <a href=\"/en/jixels.html\">Jixels</a>, Jicypie and Cloclo. The word jouvert names the early morning opening of carnival, which anchors the record in the Antillean festive calendar where bouyon lives first. The same year he also released F**k it with LMS and Friday Night with LMS, Le Yo, Le Cus and D.O.C FIX DEM.",
+  ),
+  (
+    "Has Lucky lukee worked with 1T1?",
+    "Yes. He sings on Uhdahdah #2 with <a href=\"/en/1t1.html\">1T1</a> and Qwann in 2025, and appears on 1t1's GardaVou with DJ SOFTEE, and on DJ LUCHSHIY's Shake it with Les p tits du RZT and Miimii. 1T1 is one of the names that keep returning in his catalogue, alongside Miimii KDS, DJ SKYCEE, Qwann, Le Cus and LMS.",
+  ),
+  (
+    "What were Lucky lukee's first songs?",
+    "His documented start is 2023: An Sou with Miimii and Le Cus, MOUVMAN, an apparently solo single, Bouncing Ass with Tichouboy, Nils and Sanno, and Vole y with Nils and LeJuh. The pattern is already there: an artist who multiplies line ups and moves from one trio to another, planting his name in several crews at once.",
+  ),
+  (
+    "Since when has Lucky lukee worked with Miimii KDS?",
+    "Since the documented start of his catalogue: An Sou, his most identified track, released in 2023 with Miimii and Le Cus. Miimii returns on 1er Feu in 2024, then as Miimii KDS on WITH SOME BOYZ in 2025 and Bode in 2026, as writer and composer. That link therefore predates the big records of 2025 and 2026.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/luky-lukee.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/luky-lukee.html#artist", "name": "Lucky lukee", "description": "Bouyon artist from the Guadeloupe scene, known for collaborations with Miimii KDS and DJ SKYCEE, including WITH SOME BOYZ and Bode.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "An Sou"}, {"@type": "MusicRecording", "name": "1er Feu"}, {"@type": "MusicRecording", "name": "WITH SOME BOYZ"}, {"@type": "MusicRecording", "name": "Bodé"}, {"@type": "MusicRecording", "name": "Jouvert Morning"}, {"@type": "MusicRecording", "name": "MOUVMAN"}, {"@type": "MusicRecording", "name": "Come Back"}, {"@type": "MusicRecording", "name": "Everything is nice"}, {"@type": "MusicRecording", "name": "Uhdahdah #2"}, {"@type": "MusicRecording", "name": "Friday Night"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

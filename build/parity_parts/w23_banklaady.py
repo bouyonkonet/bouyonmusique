@@ -93,13 +93,63 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Banklaady ?", "Banklaady est une rappeuse classée hip-hop et rap par les plateformes, documentée de 2020 à 2026. Son catalogue compte un EP, « Banky Story » en 2023, deux albums, « RATCHET SUPREMACY » en 2024 et « MONEY IN THE BANK » en 2025, et une série de singles qui va du rap au dembow, au shatta et au bouyon. Aucune biographie publique n'a été retrouvée pendant la recherche."),
-  ("Quel est le lien de Banklaady avec le bouyon ?", "En 2026, Banklaady publie « Twavay Bay » avec l'artiste dominicain Ricky Bishop, dont les paroles appellent le shatta et le bouyon et chantent « twerk sur New bouyon » : c'est son titre le plus écouté selon Shazam. La même année, « Buzzballz Shatta » porte le shatta dans son titre, et ses titres les plus rapides, 160 et 164 BPM, courent au régime du bouyon."),
-  ("Quels sont les albums de Banklaady ?", "Deux albums sont vérifiés : « RATCHET SUPREMACY », le 8 mars 2024, neuf titres dont « BIG RATCHET », et « MONEY IN THE BANK », le 10 janvier 2025 chez NOVA CORP, huit titres dont « RATCHET DE BABI » et « LEAN BACK » avec Gringo Jay. L'EP « Banky Story », cinq titres, les précède en janvier 2023."),
-  ("Avec qui Banklaady a-t-elle collaboré ?", "Les collaborations vérifiées incluent Ricky Bishop sur « Twavay Bay », Gringo Jay sur « LEAN BACK », Nothing to Declare sur « Go Banky (Freestyle NTD) », My Sozo sur « LES VRAIS GO », Shinobihana sur « RATCHET DE BABI », 4bluepills sur « SHOTAS », Buffyrevenge sur « Traitre », Bi$hop sur « R.I.P YOUNG DOLPH » et BLUE B sur « TR!LL »."),
-  ("Qui est Eden Kouame dans les crédits de Banklaady ?", "Eden Kouame est le nom qui revient dans les crédits des plateformes attachés à Banklaady : artiste interprète au rap et auteure sur « ALL EYES ON ME » en 2026, auteure sur « Buzzballz Shatta », et parolière et compositrice créditée dès 2024 dans la playlist éditoriale de Qobuz. Ce profil rapporte ce motif de crédits sans l'ériger en identité civile confirmée."),
-  ("D'où vient Banklaady ?", "Aucune source ouverte pendant la recherche ne publie sa biographie ni son origine confirmée. Ses propres publications TikTok étiquettent la Côte d'Ivoire, son titre « RATCHET DE BABI » porte le surnom d'Abidjan, et sa scène documentée est un festival parisien, Swag Dictature, en décembre 2025. Ce profil présente ces éléments pour ce qu'ils sont, sans en tirer une nationalité.")
- ],
+  (
+    "Qui est Banklaady ?",
+    "Banklaady est une rappeuse classée hip-hop et rap par les plateformes, documentée de 2020 à 2026. Son catalogue compte un EP, « Banky Story » en 2023, deux albums, « RATCHET SUPREMACY » en 2024 et « MONEY IN THE BANK » en 2025, et une série de singles qui va du rap au dembow, au shatta et au bouyon. Aucune biographie publique n'a été retrouvée pendant la recherche.",
+  ),
+  (
+    "D'où vient Banklaady ?",
+    "Aucune source ouverte pendant la recherche ne publie sa biographie ni son origine confirmée. Ses propres publications TikTok étiquettent la Côte d'Ivoire, son titre « RATCHET DE BABI » porte le surnom d'Abidjan, et sa scène documentée est un festival parisien, Swag Dictature, en décembre 2025. Ce profil présente ces éléments pour ce qu'ils sont, sans en tirer une nationalité.",
+  ),
+  (
+    "Banklaady est-elle une rappeuse ou une artiste bouyon ?",
+    "Une rappeuse, que les plateformes classent en hip-hop et rap, et qui absorbe titre après titre les rythmes de danse qui l'entourent : dembow, shatta, puis bouyon. Son premier album, « RATCHET SUPREMACY », la place dans le rap féminin francophone, et c'est en 2026 que la jonction devient explicite, avec « Buzzballz Shatta » puis « Twavay Bay ». Aucun de ses titres n'est étiqueté bouyon par les plateformes.",
+  ),
+  (
+    "Quel est le lien de Banklaady avec le bouyon ?",
+    "En 2026, Banklaady publie « Twavay Bay » avec l'artiste dominicain Ricky Bishop, dont les paroles appellent le shatta et le bouyon et chantent « twerk sur New bouyon » : c'est son titre le plus écouté selon Shazam. La même année, « Buzzballz Shatta » porte le shatta dans son titre, et ses titres les plus rapides, 160 et 164 BPM, courent au régime du bouyon.",
+  ),
+  (
+    "Que veut dire « Twavay Bay » ?",
+    "Le refrain du titre, en créole, le dit : « An ka twavay bay », je travaille pour ça. « Twavay Bay », signé <a href=\"/ricky-bishop.html\">Ricky Bishop</a> & Banklaady, s'ouvre sur « Shatta, Bouyon, les shattas venez ici », enchaîne sur « Ratchet queen dans la maison » et retombe sur « Jump dans la party twerk sur New bouyon ». Selon Shazam, c'est sa sortie la plus récente et son titre le plus écouté.",
+  ),
+  (
+    "Quels sont les albums de Banklaady ?",
+    "Deux albums sont vérifiés : « RATCHET SUPREMACY », le 8 mars 2024, neuf titres dont « BIG RATCHET », et « MONEY IN THE BANK », le 10 janvier 2025 chez NOVA CORP, huit titres dont « RATCHET DE BABI » et « LEAN BACK » avec Gringo Jay. L'EP « Banky Story », cinq titres, les précède en janvier 2023.",
+  ),
+  (
+    "Que veut dire Babi dans « RATCHET DE BABI » ?",
+    "Babi est le surnom courant d'Abidjan, en Côte d'Ivoire. « RATCHET DE BABI », avec Shinobihana, figure sur l'album « MONEY IN THE BANK » de janvier 2025 ; c'est le titre le plus identifié de l'album, avec environ 195 identifications, et il tourne à 160 BPM, le régime de croisière du bouyon. Ce titre fait partie des marqueurs ivoiriens de l'artiste, sans qu'aucune source ne confirme sa nationalité.",
+  ),
+  (
+    "Qu'est-ce que « RATCHET DEMBOW » de Banklaady ?",
+    "C'est la version dembow de son propre personnage ratchet : « RATCHET DEMBOW (Version Dembow) », sorti le 7 mars 2026 chez NOVA CORP, en français, à 127 BPM, étiqueté Latin Urban par la plateforme. Le dembow, motif 3+3+2 devenu la colonne vertébrale des sons de danse de la Caraïbe hispanique, y sert de passage entre son rap et les tempos de fête qu'elle atteint ensuite avec le shatta et le bouyon.",
+  ),
+  (
+    "Qui a produit « Buzzballz Shatta » de Banklaady ?",
+    "Ervin Nivert et Joh'iz, selon les crédits de la plateforme. « Buzzballz Shatta », sorti le 26 août 2026 chez 8526079 Records DK2, en français à 103 BPM, crédite Banklaady au chant et Eden Kouame et Joakim Canguio à l'écriture. Le titre porte le shatta dans son nom, avec celui de la boisson BuzzBallz, et la plateforme l'étiquette reggae plutôt que bouyon.",
+  ),
+  (
+    "Quel est le lien entre Banklaady et Novy ?",
+    "Un producteur commun : Joh'iz, partenaire historique de Novy depuis l'EP « Heart Season » de 2020, coproduit « Buzzballz Shatta » de Banklaady en 2026, coécrit par Joakim Canguio, nom qui apparaît aussi dans les crédits de <a href=\"/novy.html\">Novy</a>. La même année, Banklaady chante avec Ricky Bishop et Novy avec Gringo Jay, et les deux catalogues ont chacun croisé Gringo Jay.",
+  ),
+  (
+    "Avec qui Banklaady a-t-elle collaboré ?",
+    "Les collaborations vérifiées incluent Ricky Bishop sur « Twavay Bay », Gringo Jay sur « LEAN BACK », Nothing to Declare sur « Go Banky (Freestyle NTD) », My Sozo sur « LES VRAIS GO », Shinobihana sur « RATCHET DE BABI », 4bluepills sur « SHOTAS », Buffyrevenge sur « Traitre », Bi$hop sur « R.I.P YOUNG DOLPH » et BLUE B sur « TR!LL ».",
+  ),
+  (
+    "Qui est Eden Kouame dans les crédits de Banklaady ?",
+    "Eden Kouame est le nom qui revient dans les crédits des plateformes attachés à Banklaady : artiste interprète au rap et auteure sur « ALL EYES ON ME » en 2026, auteure sur « Buzzballz Shatta », et parolière et compositrice créditée dès 2024 dans la playlist éditoriale de Qobuz. Ce profil rapporte ce motif de crédits sans l'ériger en identité civile confirmée.",
+  ),
+  (
+    "Où Banklaady s'est-elle produite sur scène ?",
+    "Sa trace scénique documentée est parisienne : le festival Swag Dictature, événement gratuit organisé les 12 et 13 décembre 2025 au 105 rue Curial, dans le 19e arrondissement de Paris, la programme parmi ses performances live. L'affiche déclarait les ambiances hip-hop, rap, shatta, R&B et trap, et la page de l'événement comptait 864 personnes intéressées. Aucune autre date de concert n'a été retrouvée.",
+  ),
+  (
+    "Où écouter Banklaady ?",
+    "Sur les plateformes, en commençant par « Twavay Bay » avec Ricky Bishop, son titre le plus écouté, puis « Buzzballz Shatta », « RATCHET DE BABI » et « LEAN BACK » avec Gringo Jay. Pour entendre la scène bouyon et shatta qu'elle rejoint en 2026, notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, le Bouyon Road Mix de Bouyon Shattaz, rassemble les nouveautés de la Dominique, de la Guadeloupe et de la Martinique.",
+  )
+],
  "extra_graph": [
   {
    "@type": "ProfilePage",
@@ -225,13 +275,63 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Banklaady?", "Banklaady is a rapper filed under hip-hop and rap by the platforms, documented from 2020 to 2026. Her catalog holds an EP, Banky Story in 2023, two albums, RATCHET SUPREMACY in 2024 and MONEY IN THE BANK in 2025, and a run of singles that goes from rap to dembow, shatta and bouyon. No public biography was found during the research."),
-  ("What is Banklaady's link to bouyon?", "In 2026, Banklaady releases Twavay Bay with Dominican artist Ricky Bishop, whose lyrics call out shatta and bouyon and sing twerk sur New bouyon: it is her most streamed song according to Shazam. The same year, Buzzballz Shatta carries shatta in its title, and her fastest titles, at 160 and 164 BPM, run in the bouyon regime."),
-  ("What are Banklaady's albums?", "Two albums are verified: RATCHET SUPREMACY, on March 8, 2024, nine tracks including BIG RATCHET, and MONEY IN THE BANK, on January 10, 2025 on NOVA CORP, eight tracks including RATCHET DE BABI and LEAN BACK with Gringo Jay. The five-track Banky Story EP precedes them in January 2023."),
-  ("Who has Banklaady collaborated with?", "Verified collaborations include Ricky Bishop on Twavay Bay, Gringo Jay on LEAN BACK, Nothing to Declare on Go Banky (Freestyle NTD), My Sozo on LES VRAIS GO, Shinobihana on RATCHET DE BABI, 4bluepills on SHOTAS, Buffyrevenge on Traitre, Bi$hop on R.I.P YOUNG DOLPH and BLUE B on TR!LL."),
-  ("Who is Eden Kouame in Banklaady's credits?", "Eden Kouame is the name that recurs in the platform credits attached to Banklaady: performing artist on rap and songwriter on ALL EYES ON ME in 2026, songwriter on Buzzballz Shatta, and lyricist and composer credited as early as 2024 in the Qobuz editorial playlist. This profile reports that credit pattern without turning it into a confirmed legal identity."),
-  ("Where is Banklaady from?", "No source opened during the research publishes her biography or a confirmed origin. Her own TikTok posts tag Côte d'Ivoire, her title RATCHET DE BABI carries the nickname of Abidjan, and her documented stage is a Paris festival, Swag Dictature, in December 2025. This profile presents those elements for what they are, without deriving a nationality from them.")
- ],
+  (
+    "Who is Banklaady?",
+    "Banklaady is a rapper filed under hip-hop and rap by the platforms, documented from 2020 to 2026. Her catalog holds an EP, Banky Story in 2023, two albums, RATCHET SUPREMACY in 2024 and MONEY IN THE BANK in 2025, and a run of singles that goes from rap to dembow, shatta and bouyon. No public biography was found during the research.",
+  ),
+  (
+    "Where is Banklaady from?",
+    "No source opened during the research publishes her biography or a confirmed origin. Her own TikTok posts tag Côte d'Ivoire, her title RATCHET DE BABI carries the nickname of Abidjan, and her documented stage is a Paris festival, Swag Dictature, in December 2025. This profile presents those elements for what they are, without deriving a nationality from them.",
+  ),
+  (
+    "Is Banklaady a rapper or a bouyon artist?",
+    "A rapper, filed under hip-hop and rap by the platforms, who absorbs record after record the dance rhythms around her: dembow, shatta, then bouyon. Her first album, RATCHET SUPREMACY, places her in French-language women rap, and the junction only becomes explicit in 2026, with Buzzballz Shatta and then Twavay Bay. None of her titles is filed as bouyon by the platforms.",
+  ),
+  (
+    "What is Banklaady's link to bouyon?",
+    "In 2026, Banklaady releases Twavay Bay with Dominican artist Ricky Bishop, whose lyrics call out shatta and bouyon and sing twerk sur New bouyon: it is her most streamed song according to Shazam. The same year, Buzzballz Shatta carries shatta in its title, and her fastest titles, at 160 and 164 BPM, run in the bouyon regime.",
+  ),
+  (
+    "What does Twavay Bay mean?",
+    "The Creole hook of the track says it: An ka twavay bay, I am working for it. Twavay Bay, billed to <a href=\"/en/ricky-bishop.html\">Ricky Bishop</a> & Banklaady, opens on Shatta, Bouyon, les shattas venez ici, follows with Ratchet queen dans la maison and lands on Jump dans la party twerk sur New bouyon. According to Shazam, it is her latest release and her most streamed song.",
+  ),
+  (
+    "What are Banklaady's albums?",
+    "Two albums are verified: RATCHET SUPREMACY, on March 8, 2024, nine tracks including BIG RATCHET, and MONEY IN THE BANK, on January 10, 2025 on NOVA CORP, eight tracks including RATCHET DE BABI and LEAN BACK with Gringo Jay. The five-track Banky Story EP precedes them in January 2023.",
+  ),
+  (
+    "What does Babi mean in RATCHET DE BABI?",
+    "Babi is the common nickname of Abidjan, in Côte d'Ivoire. RATCHET DE BABI, with Shinobihana, sits on the January 2025 album MONEY IN THE BANK; it is the most identified title of the album, with about 195 identifications, and it runs at 160 BPM, the cruising regime of bouyon. The title is one of the artist's Ivorian markers, without any source confirming her nationality.",
+  ),
+  (
+    "What is Banklaady's RATCHET DEMBOW?",
+    "It is the dembow version of her own ratchet persona: RATCHET DEMBOW (Version Dembow), released on March 7, 2026 by NOVA CORP, in French, at 127 BPM, tagged Latin Urban by the platform. Dembow, the 3+3+2 pattern that became the backbone of Spanish Caribbean dance sounds, serves there as a passage between her rap and the party tempos she then reaches with shatta and bouyon.",
+  ),
+  (
+    "Who produced Banklaady's Buzzballz Shatta?",
+    "Ervin Nivert and Joh'iz, according to the platform credits. Buzzballz Shatta, released on August 26, 2026 by 8526079 Records DK2, in French at 103 BPM, credits Banklaady on vocals and Eden Kouame and Joakim Canguio on songwriting. The title carries shatta in its name, alongside that of the BuzzBallz drink, and the platform tags it reggae rather than bouyon.",
+  ),
+  (
+    "What is the link between Banklaady and Novy?",
+    "A shared producer: Joh'iz, Novy's long-standing partner since the 2020 Heart Season EP, co-produces Banklaady's Buzzballz Shatta in 2026, co-written by Joakim Canguio, a name that also turns up in the credits of <a href=\"/en/novy.html\">Novy</a>. The same year, Banklaady sings with Ricky Bishop and Novy with Gringo Jay, and both catalogs have crossed Gringo Jay.",
+  ),
+  (
+    "Who has Banklaady collaborated with?",
+    "Verified collaborations include Ricky Bishop on Twavay Bay, Gringo Jay on LEAN BACK, Nothing to Declare on Go Banky (Freestyle NTD), My Sozo on LES VRAIS GO, Shinobihana on RATCHET DE BABI, 4bluepills on SHOTAS, Buffyrevenge on Traitre, Bi$hop on R.I.P YOUNG DOLPH and BLUE B on TR!LL.",
+  ),
+  (
+    "Who is Eden Kouame in Banklaady's credits?",
+    "Eden Kouame is the name that recurs in the platform credits attached to Banklaady: performing artist on rap and songwriter on ALL EYES ON ME in 2026, songwriter on Buzzballz Shatta, and lyricist and composer credited as early as 2024 in the Qobuz editorial playlist. This profile reports that credit pattern without turning it into a confirmed legal identity.",
+  ),
+  (
+    "Where has Banklaady performed live?",
+    "Her documented stage trace is Parisian: the Swag Dictature festival, a free entry event held on December 12 and 13, 2025 at 105 Rue Curial, in the 19th arrondissement of Paris, booked her among its live performances. The bill declared the moods hip hop, rap, shatta, R&B and trap, and the event page counted 864 interested people. No other concert date was found.",
+  ),
+  (
+    "Where can I hear Banklaady?",
+    "On the streaming platforms, starting with Twavay Bay with Ricky Bishop, her most streamed song, then Buzzballz Shatta, RATCHET DE BABI and LEAN BACK with Gringo Jay. To hear the bouyon and shatta scene she joined in 2026, our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, the Bouyon Road Mix by Bouyon Shattaz, gathers new releases from Dominica, Guadeloupe and Martinique.",
+  )
+],
  "extra_graph": [
   {
    "@type": "ProfilePage",

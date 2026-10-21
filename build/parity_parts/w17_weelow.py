@@ -58,13 +58,55 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Weelow ?", "Weelow est un artiste cité par les articles de référence sur la musique de Guadeloupe, sous l'orthographe Wee Low, parmi les musiciens populaires du bouyon gwada, dans le voisinage du bouyon hardcore, aux côtés de Suppa, Doc J et Yellow Gaza. Sous l'orthographe Weelow, un seul single est vérifié : « Frappéy », sorti le 3 juin 2012. Aucune biographie publiée de l'artiste n'a été retrouvée pendant la recherche de ce profil."),
-  ("Weelow et Wee Low sont-ils le même artiste ?", "Ce profil traite les deux orthographes comme le même nom, et il dit sur quoi ce rapprochement repose : le même genre, le bouyon de Guadeloupe ; la même période, le début des années 2010 ; et aucun autre artiste concurrent sous l'une ou l'autre forme dans cette scène. Aucune source consultée n'écrit l'équivalence noir sur blanc, et ce profil la présente donc comme un rapprochement argumenté, corrigeable si une pièce nouvelle paraît."),
-  ("Quel est le titre vérifié de Weelow ?", "« Frappéy », un single sorti le 3 juin 2012 chez Bouyon King et LABEL BOUYON MUSIC, selon la fiche du titre consultée pour ce profil. La fiche le classe en World, indique la langue française et un tempo de 155 BPM, et crédite Weelow comme interprète et auteur, et Wilow Désirade comme compositeur. Aucun autre titre sous ce nom n'a été vérifié pendant cette recherche."),
-  ("Weelow vient-il de La Désirade ?", "Le record public ne le dit pas. Le seul élément publié est un crédit de compositeur, Wilow Désirade, sur la fiche de « Frappéy ». Désirade est aussi le nom d'une île de l'archipel guadeloupéen, La Désirade, mais aucune source consultée ne dit que l'artiste y est né, y a vécu ou en a pris son nom. Ce profil imprime le crédit et refuse d'en faire une origine."),
-  ("Qu'est-ce que le bouyon hardcore, le courant où les références rangent Weelow ?", "Selon les articles de référence, le bouyon hardcore est une branche populaire du bouyon gwada, la déclinaison guadeloupéenne du bouyon né en Dominique, caractérisée par des paroles grivoises et violentes. C'est dans la liste des musiciens populaires de ce courant et de cette branche que le nom de Wee Low apparaît, avec Suppa, Doc J et Yellow Gaza. Le single vérifié de Weelow, mesuré à 155 BPM, correspond au régime rapide de cette scène du début des années 2010."),
-  ("Où écouter Weelow ?", "Le titre vérifié, « Frappéy », est référencé sur les plateformes qui portent la fiche du single de 2012. Pour entendre la branche dans son ensemble, notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> mélange bouyon, bouyon gwada et nouveautés de la Dominique et de la Guadeloupe suivies par Bouyon Shattaz, et notre page <a href=\"/bouyon-gwada.html\">bouyon gwada</a> raconte l'histoire du courant.")
- ],
+  (
+    "Qui est Weelow ?",
+    "Weelow est un artiste cité par les articles de référence sur la musique de Guadeloupe, sous l'orthographe Wee Low, parmi les musiciens populaires du bouyon gwada, dans le voisinage du bouyon hardcore, aux côtés de Suppa, Doc J et Yellow Gaza. Sous l'orthographe Weelow, un seul single est vérifié : « Frappéy », sorti le 3 juin 2012. Aucune biographie publiée de l'artiste n'a été retrouvée pendant la recherche de ce profil.",
+  ),
+  (
+    "Weelow et Wee Low sont-ils le même artiste ?",
+    "Ce profil traite les deux orthographes comme le même nom, et il dit sur quoi ce rapprochement repose : le même genre, le bouyon de Guadeloupe ; la même période, le début des années 2010 ; et aucun autre artiste concurrent sous l'une ou l'autre forme dans cette scène. Aucune source consultée n'écrit l'équivalence noir sur blanc, et ce profil la présente donc comme un rapprochement argumenté, corrigeable si une pièce nouvelle paraît.",
+  ),
+  (
+    "Quel est le titre vérifié de Weelow ?",
+    "« Frappéy », un single sorti le 3 juin 2012 chez Bouyon King et LABEL BOUYON MUSIC, sous la forme « Frappéy - Single », selon la fiche du titre consultée pour ce profil. La fiche le classe en World et indique la langue française. Aucun album, aucun autre single et aucune page d’artiste complète n’ont été retrouvés sous le nom Weelow pendant cette recherche.",
+  ),
+  (
+    "Qui a écrit et composé « Frappéy » ?",
+    "La fiche du titre crédite Weelow comme interprète et auteur, et Wilow Désirade comme compositeur. Ce dernier nom ressemble à une signature complète, avec un prénom de scène proche du nom d’artiste, mais aucune source ne dit s’il s’agit de la même personne. Ce profil imprime ces crédits tels que la plateforme les publie, sans en tirer davantage.",
+  ),
+  (
+    "Weelow vient-il de La Désirade ?",
+    "Le record public ne le dit pas. Le seul élément publié est un crédit de compositeur, Wilow Désirade, sur la fiche de « Frappéy ». Désirade est aussi le nom d'une île de l'archipel guadeloupéen, La Désirade, mais aucune source consultée ne dit que l'artiste y est né, y a vécu ou en a pris son nom. Ce profil imprime le crédit et refuse d'en faire une origine.",
+  ),
+  (
+    "Quel est le tempo de « Frappéy » ?",
+    "La fiche du titre mesure « Frappéy » à 155 BPM, le régime du bouyon de fête dans sa forme la plus rapide. C’est le même régime que le collectif Rebel Up relevait pour son mixtape du bouyon hardcore de la même époque : le seul titre conservé de Weelow tourne donc exactement à la vitesse de la branche où les références le citent.",
+  ),
+  (
+    "Qu'est-ce que le bouyon hardcore, le courant où les références rangent Weelow ?",
+    "Selon les articles de référence, le bouyon hardcore est une branche populaire du bouyon gwada, la déclinaison guadeloupéenne du bouyon né en Dominique, caractérisée par des paroles grivoises et violentes. C'est dans la liste des musiciens populaires de ce courant que le nom de Wee Low apparaît, avec Suppa, Doc J et Yellow Gaza, au début des années 2010.",
+  ),
+  (
+    "Le bouyon hardcore était-il controversé en Guadeloupe ?",
+    "Oui. Le collectif Rebel Up, qui a documenté cette scène au moment où elle tournait, décrivait des paroles crues, souvent sexuellement explicites ou violentes, sur des riddims lourds et dépouillés, et relevait les débats qu’elle provoquait en Guadeloupe, jusqu’aux appels à l’encadrer comme un contenu réservé aux adultes. C’est ce courant que les références associent au nom de Wee Low.",
+  ),
+  (
+    "Quels artistes sont cités avec Wee Low ?",
+    "Suppa, Doc J et Yellow Gaza. Les quatre noms forment la liste des musiciens populaires du bouyon gwada dans l’article de référence sur la musique de Guadeloupe, reprise mot pour mot par les articles sur la musique de France et des Petites Antilles. Suppa, la voix du cercle Vadore Concept, est mort en mai 2013 selon le collectif Rebel Up. Voir notre page <a href=\"/suppa.html\">Suppa</a>.",
+  ),
+  (
+    "Le bouyon de Weelow vient-il de Guadeloupe ou de la Dominique ?",
+    "Le bouyon vient de la Dominique, où des groupes comme WCK l’ont créé à la fin des années 1980. La Guadeloupe l’a adopté sous le nom de jump up, puis ses artistes l’ont retravaillé en bouyon gwada, au contact des tournées dominicaines et du World Creole Music Festival. Weelow appartient à cette déclinaison guadeloupéenne. Lire notre page <a href=\"/bouyon-gwada.html\">bouyon gwada</a>.",
+  ),
+  (
+    "Pourquoi Weelow a-t-il si peu de traces en ligne ?",
+    "Parce que son titre de 2012 est sorti à l’époque où le bouyon gwada vivait en vidéo et en téléchargement direct plus qu’en streaming organisé. Des carrières entières de cette scène tiennent dans quelques vidéos et une réputation locale. La trace de plateforme de Weelow s’est réduite à une fiche unique, comptant un peu plus d’un millier de reconnaissances Shazam quand elle a été ouverte.",
+  ),
+  (
+    "Où écouter Weelow ?",
+    "Le titre vérifié, « Frappéy », est référencé sur les plateformes qui portent la fiche du single de 2012. Pour entendre la scène bouyon d’aujourd’hui, de la Dominique à la Guadeloupe, notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> Road Mix de Bouyon Shattaz réunit nouveautés, bouyon soca et classiques du carnaval.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/weelow.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/weelow.html#artist", "name": "Weelow", "description": "Artiste cité par les articles de référence, sous l'orthographe Wee Low, parmi les musiciens populaires du bouyon gwada et du bouyon hardcore en Guadeloupe, aux côtés de Suppa, Doc J et Yellow Gaza. Un seul enregistrement vérifié : Frappéy, single sorti le 3 juin 2012.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Frappéy"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -122,13 +164,55 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Weelow?", "Weelow is an artist cited by the reference articles on the music of Guadeloupe, under the spelling Wee Low, among the popular musicians of bouyon gwada, in the neighbourhood of bouyon hardcore, alongside Suppa, Doc J and Yellow Gaza. Under the spelling Weelow, only one single is verified: “Frappéy”, released on 3 June 2012. No published biography of the artist was found during the research for this profile."),
-  ("Are Weelow and Wee Low the same artist?", "This profile treats the two spellings as the same name, and it states what that match rests on: the same genre, the bouyon of Guadeloupe; the same period, the early 2010s; and no other competing artist under either form in this scene. No source consulted writes the equivalence in so many words, so this profile presents it as an argued match, correctable if a new document appears."),
-  ("What is the verified track by Weelow?", "“Frappéy”, a single released on 3 June 2012 on Bouyon King and LABEL BOUYON MUSIC, according to the track record page consulted for this profile. The page classifies it as World, states the French language and a tempo of 155 BPM, and credits Weelow as performer and songwriter, and Wilow Désirade as composer. No other track under this name was verified during this research."),
-  ("Does Weelow come from La Désirade?", "The public record does not say so. The only published element is a composer credit, Wilow Désirade, on the record page of “Frappéy”. Désirade is also the name of an island of the Guadeloupe archipelago, La Désirade, but no source consulted says the artist was born there, lived there or took his name from it. This profile prints the credit and refuses to turn it into an origin."),
-  ("What is bouyon hardcore, the current where the references place Weelow?", "According to the reference articles, bouyon hardcore is a popular offshoot within bouyon gwada, the Guadeloupe form of the bouyon born in Dominica, characterised by lewd and violent lyrics. The name Wee Low appears in the list of popular musicians of that current and that branch, with Suppa, Doc J and Yellow Gaza. The verified single by Weelow, measured at 155 BPM, matches the fast regime of that early 2010s scene."),
-  ("Where can I hear Weelow?", "The verified track, “Frappéy”, is referenced on the platforms carrying the record page of the 2012 single. To hear the branch as a whole, our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> mixes bouyon, bouyon gwada and new releases from Dominica and Guadeloupe followed by Bouyon Shattaz, and our <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a> page tells the history of the current.")
- ],
+  (
+    "Who is Weelow?",
+    "Weelow is an artist cited by the reference articles on the music of Guadeloupe, under the spelling Wee Low, among the popular musicians of bouyon gwada, in the neighbourhood of bouyon hardcore, alongside Suppa, Doc J and Yellow Gaza. Under the spelling Weelow, only one single is verified: “Frappéy”, released on 3 June 2012. No published biography of the artist was found during the research for this profile.",
+  ),
+  (
+    "Are Weelow and Wee Low the same artist?",
+    "This profile treats the two spellings as the same name, and it states what that match rests on: the same genre, the bouyon of Guadeloupe; the same period, the early 2010s; and no other competing artist under either form in this scene. No source consulted writes the equivalence in so many words, so this profile presents it as an argued match, correctable if a new document appears.",
+  ),
+  (
+    "What is the verified track by Weelow?",
+    "“Frappéy”, a single released on 3 June 2012 on Bouyon King and LABEL BOUYON MUSIC, as “Frappéy - Single”, according to the track record page consulted for this profile. The page classifies it as World and states the French language. No album, no other single and no full artist page were found under the name Weelow during this research.",
+  ),
+  (
+    "Who wrote and composed “Frappéy”?",
+    "The track page credits Weelow as performer and songwriter, and Wilow Désirade as composer. That last name looks like a full signature, with a stage first name close to the artist name, but no source says whether it is the same person. This profile prints those credits as the platform publishes them, without drawing more from them.",
+  ),
+  (
+    "Does Weelow come from La Désirade?",
+    "The public record does not say so. The only published element is a composer credit, Wilow Désirade, on the record page of “Frappéy”. Désirade is also the name of an island of the Guadeloupe archipelago, La Désirade, but no source consulted says the artist was born there, lived there or took his name from it. This profile prints the credit and refuses to turn it into an origin.",
+  ),
+  (
+    "What is the tempo of “Frappéy”?",
+    "The track page measures “Frappéy” at 155 BPM, the regime of party bouyon in its fastest form. It is the same regime the Rebel Up collective noted for its bouyon hardcore mixtape of the same period: the only surviving Weelow track therefore runs at exactly the speed of the branch where the references cite him.",
+  ),
+  (
+    "What is bouyon hardcore, the current where the references place Weelow?",
+    "According to the reference articles, bouyon hardcore is a popular offshoot within bouyon gwada, the Guadeloupe form of the bouyon born in Dominica, characterised by lewd and violent lyrics. The name Wee Low appears in the list of popular musicians of that current, with Suppa, Doc J and Yellow Gaza, in the early 2010s.",
+  ),
+  (
+    "Was bouyon hardcore controversial in Guadeloupe?",
+    "Yes. The Rebel Up collective, which documented the scene while it was running, described raw lyrics, often sexually explicit or violent, over heavy and stripped riddims, and noted the debates it caused in Guadeloupe, up to calls to treat it as adult only content. That is the current the references attach to the name Wee Low.",
+  ),
+  (
+    "Which artists are cited alongside Wee Low?",
+    "Suppa, Doc J and Yellow Gaza. The four names form the list of popular bouyon gwada musicians in the reference article on the music of Guadeloupe, repeated word for word by the articles on the music of France and of the Lesser Antilles. Suppa, the voice of the Vadore Concept circle, died in May 2013 according to the Rebel Up collective. See our <a href=\"/en/suppa.html\">Suppa</a> page.",
+  ),
+  (
+    "Is Weelow’s bouyon from Guadeloupe or Dominica?",
+    "Bouyon comes from Dominica, where bands like WCK created it in the late 1980s. Guadeloupe adopted it under the name jump up, then its artists reworked it into bouyon gwada, through Dominican tours and the World Creole Music Festival. Weelow belongs to that Guadeloupe form. Read our <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a> page.",
+  ),
+  (
+    "Why does Weelow have so few traces online?",
+    "Because his 2012 track came out when bouyon gwada lived on video and direct download more than on organised streaming. Whole careers of that scene fit into a few videos and a local reputation. The platform trace of Weelow has shrunk to a single track page, which counted a little over a thousand Shazam recognitions when it was opened.",
+  ),
+  (
+    "Where can I hear Weelow?",
+    "The verified track, “Frappéy”, is referenced on the platforms carrying the record page of the 2012 single. To hear today’s bouyon scene, from Dominica to Guadeloupe, our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, the Road Mix by Bouyon Shattaz, gathers new releases, bouyon soca and carnival classics.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/weelow.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/weelow.html#artist", "name": "Weelow", "description": "Artist cited by reference articles, under the spelling Wee Low, among the popular musicians of bouyon gwada and bouyon hardcore in Guadeloupe, alongside Suppa, Doc J and Yellow Gaza. One verified recording only: Frappéy, a single released on 3 June 2012.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Frappéy"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

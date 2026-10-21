@@ -79,13 +79,31 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Legacy Band ?", "Legacy Band est un nom de groupe qui circule dans les listes d’artistes bouyon. Après une recherche menée en octobre 2026, aucun titre, membre, date ou origine vérifié n’a été retrouvé pour un groupe bouyon de ce nom. Tous les groupes documentés sous ce nom exact sont d’autres formations, américaines, détaillées dans ce profil."),
-  ("Quels sont les titres de Legacy Band ?", "Aucun titre vérifié. La liste des enregistrements du schéma de cette page est vide, délibérément : aucune fiche de morceau attribuable à un groupe bouyon nommé Legacy Band n’a été retrouvée sur les plateformes consultées, et ce profil n’emprunte aucun titre aux homonymes du nom."),
-  ("Le Legacy Band de Richmond est il le groupe bouyon ?", "Rien ne le dit, et sa propre documentation dit autre chose : le groupe de Richmond, en Virginie, fête dix ans de parcours avec un répertoire de R and B, de soul, de funk et de jazz, en concert dans un lounge de sa ville. Aucune mention du bouyon, de la Dominique ou des Antilles dans ses pages. Ce profil l’écarte comme homonyme plutôt que de confondre les deux dossiers."),
-  ("Legacy Band est il un groupe de mariage ou de polka ?", "Ces groupes existent, sous le même nom, et ce ne sont pas des groupes bouyon : un groupe de mariage de la côte Est américaine, loué pour ses sets Motown, disco et rock, et le groupe d’un accordéoniste de polka, distingué pour un album intitulé « Legacy ». Leurs dossiers sont réels et situés, et aucun ne contient d’élément caribéen ou créole."),
-  ("Pourquoi ce site publie t il une page sans discographie ?", "Parce que le nom circule dans les listes bouyon et que les lecteurs le cherchent. Une page qui dit le niveau exact de la preuve, zéro titre vérifié, homonymes écartés un par un, vaut mieux qu’un silence qui laisserait le nom sans réponse, et infiniment mieux qu’une biographie remplie avec le dossier d’un autre groupe."),
-  ("Où écouter les groupes bouyon documentés ?", "Commencez par <a href=\"/wck.html\">WCK</a>, le groupe créateur du style en 1988, lisez notre page d’<a href=\"/histoire.html\">histoire du bouyon</a>, et écoutez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, qui suit les groupes et artistes actuels de la Dominique et des Antilles françaises, ceux dont les titres sont vérifiés.")
- ],
+  (
+    "Qui est Legacy Band ?",
+    "Legacy Band est un nom de groupe qui circule dans les listes d’artistes bouyon. Après une recherche menée en octobre 2026, aucun titre, membre, date ou origine vérifié n’a été retrouvé pour un groupe bouyon de ce nom. Tous les groupes documentés sous ce nom exact sont d’autres formations, américaines, détaillées dans ce profil.",
+  ),
+  (
+    "Quels sont les titres de Legacy Band ?",
+    "Aucun titre vérifié. La liste des enregistrements du schéma de cette page est vide, délibérément : aucune fiche de morceau attribuable à un groupe bouyon nommé Legacy Band n’a été retrouvée sur les plateformes consultées, et ce profil n’emprunte aucun titre aux homonymes du nom.",
+  ),
+  (
+    "Le Legacy Band de Richmond est-il le groupe bouyon ?",
+    "Rien ne le dit, et sa propre documentation dit autre chose : le groupe de Richmond, en Virginie, fête dix ans de parcours avec un répertoire de R and B, de soul, de funk et de jazz, en concert dans un lounge de sa ville. Aucune mention du bouyon, de la Dominique ou des Antilles dans ses pages. Ce profil l’écarte donc comme homonyme, sans confondre les deux dossiers.",
+  ),
+  (
+    "Legacy Band est-il un groupe de mariage ou de polka ?",
+    "Ces groupes existent, sous le même nom, et ce ne sont pas des groupes bouyon : un groupe de mariage de la côte Est américaine, loué pour ses sets Motown, disco et rock, et le groupe d’un accordéoniste de polka, distingué pour un album intitulé « Legacy ». Leurs dossiers sont réels et situés, et aucun ne contient d’élément caribéen ou créole.",
+  ),
+  (
+    "Pourquoi ce site publie-t-il une page sans discographie ?",
+    "Parce que le nom circule dans les listes bouyon et que les lecteurs le cherchent. Une page qui dit le niveau exact de la preuve, zéro titre vérifié, homonymes écartés un par un, vaut mieux qu’un silence qui laisserait le nom sans réponse, et infiniment mieux qu’une biographie remplie avec le dossier d’un autre groupe.",
+  ),
+  (
+    "Où écouter les groupes bouyon documentés ?",
+    "Commencez par WCK, le groupe formé à Roseau en 1988 et crédité de la création du style, puis Roots, Stems and Branches et First Serenade. Pour les groupes et artistes actuels de la Dominique et des Antilles françaises, ceux dont les titres sont vérifiés, écoutez le Road Mix de Bouyon Shattaz sur notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, qui garde aussi les classiques du carnaval.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/legacy-band.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/legacy-band.html#artist", "name": "Legacy Band", "description": "Nom de groupe cité dans les listes bouyon. Aucun enregistrement, membre, date ou origine vérifié retrouvé en octobre 2026 ; les groupes documentés sous ce nom exact sont des formations américaines sans lien bouyon établi.", "genre": "Bouyon", "track": [], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -138,13 +156,31 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Legacy Band?", "Legacy Band is a band name that circulates in bouyon artist listings. After research carried out in October 2026, no verified record, member, date or origin was found for a bouyon band of that name. Every band documented under that exact name is another formation, American, detailed in this profile."),
-  ("What are the records of Legacy Band?", "No verified record. The recordings list of this page schema is empty, deliberately: no song page attributable to a bouyon band named Legacy Band was found on the platforms checked, and this profile borrows no record from the namesakes of the name."),
-  ("Is the Richmond Legacy Band the bouyon band?", "Nothing says so, and its own documentation says something else: the Richmond, Virginia band celebrates ten years together with a repertoire of R and B, soul, funk and jazz, in concert at a lounge in its city. No mention of bouyon, Dominica or the Antilles appears in its pages. This profile sets it aside as a namesake rather than merging the two files."),
-  ("Is Legacy Band a wedding band or a polka band?", "Those bands exist, under the same name, and they are not bouyon bands: an East Coast American wedding band, praised for its Motown, disco and rock sets, and the band of a polka accordionist, honoured for an album titled “Legacy”. Their files are real and placed, and none holds a Caribbean or Creole element."),
-  ("Why does this site publish a page with no discography?", "Because the name circulates in bouyon listings and readers search for it. A page that states the exact level of proof, zero verified records, namesakes set aside one by one, is worth more than a silence that would leave the name unanswered, and infinitely more than a biography filled with the file of another band."),
-  ("Where can I hear the documented bouyon bands?", "Start with <a href=\"/en/wck.html\">WCK</a>, the band that created the style in 1988, read our <a href=\"/en/history.html\">history of bouyon</a> page, and hear our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, which follows the current bands and artists of Dominica and the French Antilles, those whose records are verified.")
- ],
+  (
+    "Who is Legacy Band?",
+    "Legacy Band is a band name that circulates in bouyon artist listings. After research carried out in October 2026, no verified record, member, date or origin was found for a bouyon band of that name. Every band documented under that exact name is another formation, American, detailed in this profile.",
+  ),
+  (
+    "What are the records of Legacy Band?",
+    "No verified record. The recordings list of this page schema is empty, deliberately: no song page attributable to a bouyon band named Legacy Band was found on the platforms checked, and this profile borrows no record from the namesakes of the name.",
+  ),
+  (
+    "Is the Richmond Legacy Band the bouyon band?",
+    "Nothing says so, and its own documentation says something else: the Richmond, Virginia band celebrates ten years together with a repertoire of R and B, soul, funk and jazz, in concert at a lounge in its city. No mention of bouyon, Dominica or the Antilles appears in its pages. This profile therefore sets it aside as a namesake, without merging the two files.",
+  ),
+  (
+    "Is Legacy Band a wedding band or a polka band?",
+    "Those bands exist, under the same name, and they are not bouyon bands: an East Coast American wedding band, praised for its Motown, disco and rock sets, and the band of a polka accordionist, honoured for an album titled “Legacy”. Their files are real and placed, and none holds a Caribbean or Creole element.",
+  ),
+  (
+    "Why does this site publish a page with no discography?",
+    "Because the name circulates in bouyon listings and readers search for it. A page that states the exact level of proof, zero verified records, namesakes set aside one by one, is worth more than a silence that would leave the name unanswered, and infinitely more than a biography filled with the file of another band.",
+  ),
+  (
+    "Where can I hear the documented bouyon bands?",
+    "Start with WCK, the band formed in Roseau in 1988 and credited with creating the style, then Roots, Stems and Branches and First Serenade. For the current bands and artists of Dominica and the French Antilles, those whose records are verified, play the Bouyon Shattaz Road Mix on our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> page, which also keeps the carnival classics.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/legacy-band.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/legacy-band.html#artist", "name": "Legacy Band", "description": "Band name listed among bouyon artists. No verified recording, member, date or origin found in October 2026; the bands documented under that exact name are American formations with no established bouyon link.", "genre": "Bouyon", "track": [], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

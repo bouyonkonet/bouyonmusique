@@ -107,6 +107,42 @@ PAGES = [
   (
     "Où entendre les sons d'un kit bouyon dans de vrais titres ?",
     "Dans la Bouyon Road Mix de Bouyon Shattaz, sur Spotify et YouTube, qui rassemble les riddims du moment, le bouyon soca et les classiques du carnaval, de l'ère WCK aux anthems des années 1990 et 2000. Pour la recevoir en message privé, suivez @bouyonshattaz sur Instagram et commentez ROAD MIX. Les deux lecteurs sont intégrés sur la page <a href=\"/playlist-bouyon.html\">playlist bouyon</a>.",
+  ),
+  (
+    "Qu'est-ce que le lapo kabwit ?",
+    "Le lapo kabwit est le tambour en peau de chèvre du chanté mas et du carnaval de la Dominique : au <a href=\"/mas-domnik.html\">Mas Domnik</a>, des groupes entiers jouent en lapo kabwit, et dans la formation du jing ping ce sont ces tambours qui donnent le battement. C'est pourquoi il occupe la première case d'un kit bouyon, samplé ou pris comme modèle des boucles de percussions des productions sur logiciel d'aujourd'hui.",
+  ),
+  (
+    "Quels sons du jing ping mettre dans un kit bouyon ?",
+    "Trois sons du <a href=\"/jing-ping.html\">jing ping</a> complètent le kit sans être des percussions : l'accordéon, qui mène la danse, le boom-boom, qui marque la basse, et la flûte en bambou, qui apporte la mélodie aiguë qui traverse la fête. Le clavier et la basse synthétique les prolongent, d'où leur place comme échantillons ou références. Cornell Phillip a raconté à Billboard que l'accordéon est devenu le clavier du bouyon.",
+  ),
+  (
+    "Comment organiser un bouyon drum kit ?",
+    "Suivez la traduction de Goodwill : un dossier tradition pour le lapo kabwit, le tambour bélé, le chakchak, le syak ou gwaj et les frappes du chanté mas ; un dossier batterie, héritier du syak et du tambal ; un dossier basse, héritière du boumboum ; un dossier clavier, héritier de l'accordéon, avec la flûte en bambou ; un dossier voix pour les cris, les réponses et le créole. Nommez chaque fichier par instrument, tempo et source.",
+  ),
+  (
+    "Peut-on sampler les riddims bouyon d'autres producteurs ?",
+    "Écouter est libre, découper ne l'est pas : un riddim appartient à son producteur. Dans l'accord conclu en octobre 2026 entre Bouyon Shattaz et l'entourage de <a href=\"/denmath.html\">Denmath</a>, les membres du pool peuvent enregistrer librement sur un beat, mais toute sortie publique exige l'accord écrit préalable du producteur. Pour un kit : étudier les instrumentaux des autres, ne sampler que ce qu'on a le droit de sampler et noter la source de chaque fichier.",
+  ),
+  (
+    "Le sample fait-il partie du bouyon ?",
+    "Oui. Le <a href=\"/wrecketeng.html\">Wrecketeng</a>, style dominicain bâti sur des mélodies samplées et des voix rap, a fait du sample une des grammaires du bouyon, et les producteurs actuels le citent comme une racine du bouyon moderne et du RnBouyon. Smokiller, producteur né en Dominique et fondateur de Bouyon Shattaz, travaille dans ce style : ses remixes prennent des mélodies et des voix familières et les rhabillent au tempo bouyon.",
+  ),
+  (
+    "Reketeng ou Wrecketeng : quelle est la bonne orthographe ?",
+    "Wrecketeng est l'orthographe officielle, donnée par <a href=\"/dj-cut.html\">DJ Cut</a>, membre fondateur et pionnier du style ; reketeng est une erreur répandue sur internet. L'orthographe compte aussi dans un kit : écrire correctement le nom d'un instrument ou d'un style, lapo kabwit plutôt que perc 3, garde l'origine du son attachée au fichier quand il voyage d'un producteur à l'autre.",
+  ),
+  (
+    "Pourquoi le clavier compte-t-il autant dans un kit bouyon ?",
+    "Parce que le bouyon est une musique où le clavier mène, comme le rappelle le surnom de Cornell « Fingers » Phillip, claviériste fondateur de <a href=\"/wck.html\">WCK</a>. Les sons de clavier portent la boucle principale, héritiers de l'accordéon du jing ping. Pour entendre ce clavier mener, commencez par les jalons de WCK : Culture Shock, Dance Floor, Conch Shell et Balance Batty, puis cherchez le même rôle dans les riddims du moment.",
+  ),
+  (
+    "Pourquoi mettre des voix de foule dans un kit bouyon ?",
+    "Parce qu'un titre bouyon se reconnaît à une voix, en créole ou en anglais, qui parle au public plus qu'elle ne chante. Les beats recréent cette foule avec des voix d'ambiance, des cris et des réponses, hérités des chanteurs old school qui travaillaient le public comme au chanté mas. Un cri dans la bonne langue situe un beat aussi sûrement qu'un lapo kabwit. Voir <a href=\"/bouyon-type-beat.html\">bouyon type beat</a>.",
+  ),
+  (
+    "Dans quel format enregistrer les sons d'un kit bouyon ?",
+    "En WAV, le format des DJs et des radios. <a href=\"/smokiller.html\">Smokiller</a> propose des téléchargements gratuits sur smokiller.com, dont son remix de Nothing Into Something de Coi Leray et son remix Bouyon Shattaz de Vulnerability de Shenseea en WAV, et les packs de rotation Bouyon Shattaz partent vers les stations de la Caraïbe. Pour un kit, la leçon est la même : des fichiers propres, avec le tempo, la source et le crédit dans le nom.",
   )
 ],
 "date_modified": "2026-10-20",
@@ -329,6 +365,34 @@ PAGES = [
   (
     "Où écouter des beats bouyon pour s'inspirer ?",
     "Pour comprendre comment faire un beat bouyon, écoutez d'abord la Bouyon Road Mix de Bouyon Shattaz, sur Spotify et YouTube : elle réunit les riddims du moment et les classiques du carnaval. La page de la playlist conseille aussi deux titres de producteurs, Throw Dat (Bouyon 2026) de Klass Money, produit par Smokiller, et Mauvais Plan de HYPNO. Voir la <a href=\"/playlist-bouyon.html\">playlist bouyon</a>.",
+  ),
+  (
+    "Quelle différence entre un beat bouyon et un beat dancehall ?",
+    "Un beat bouyon n'est pas un beat dancehall accéléré. Il reconstruit la mécanique d'un groupe de carnaval dominicain : une grille de percussions tirée du lapo kabwit et du jing ping, une boucle de clavier qui ne lâche jamais, une basse lourde et simple et de la place pour la foule. La vitesse seule ne fait pas un bouyon : sans les percussions et l'esprit de la Dominique, ce n'est qu'un beat rapide.",
+  ),
+  (
+    "Quelle durée pour un titre bouyon ?",
+    "Tout dépend du terrain. Pour la route, au Mas Domnik et au J'ouvert, l'arrangement privilégie la continuité : peu d'intro, une boucle principale qui arrive tôt et une énergie qui ne retombe presque jamais. Pour le dancefloor et les réseaux, les formats raccourcissent : l'album DI YO SA 2 de <a href=\"/billy-bybf.html\">Billy Bybf</a> aligne des titres entre une minute trente et moins de trois minutes, la norme du bouyon gwada des années 2020.",
+  ),
+  (
+    "Comment tester un beat bouyon ?",
+    "En dansant dessus, ou en regardant quelqu'un danser : si le corps ne suit pas, le beat n'est pas fini. Le 16 octobre 2026, MB On The Track a publié un reel où il danse dans un abribus sur son propre instrumental bouyon, et les commentaires ont réclamé le titre. Vérifiez aussi que les relances font sauter et que les appels obtiennent une réponse. Voir <a href=\"/bouyon-danse.html\">la danse du bouyon</a>.",
+  ),
+  (
+    "Comment arranger un beat bouyon pour le carnaval ?",
+    "Pour la route, gardez une intro courte, faites arriver la boucle principale tôt, suivez le modèle du carnaval avec des relances régulières et laissez à la voix la place des appels et des réponses. L'enjeu est compétitif : Triple Kay présente Heat comme le premier People's Bouyon Road March, en 2019, et CaribMagPlus a raconté en mars 2025 la victoire de RAGS au premier Bouyon Road March de la Dominique. Voir le <a href=\"/carnaval-de-dominique.html\">carnaval de la Dominique</a>.",
+  ),
+  (
+    "Qui fait les beats dans un groupe bouyon ?",
+    "Souvent le claviériste. Dans Triple Kay, l'un des groupes bouyon les plus durables de la Dominique, le claviériste principal, <a href=\"/killa-laurent.html\">Killa Laurent</a>, produit toute la musique du groupe, et il est crédité producteur du riddim sur Whistle While You Work, dont le mixage et le mastering sont signés Cornel Phillip. Dans le duo Dcamp & Lewismelo, c'est Lewis qui produit les riddims, construits avec les voix plutôt qu'achetés à l'extérieur.",
+  ),
+  (
+    "Peut-on sortir un titre sur le riddim bouyon d'un autre producteur ?",
+    "Seulement avec l'accord écrit du producteur. L'accord de pool proposé par Bouyon Shattaz et approuvé par l'entourage de Denmath donne un modèle simple : la propriété du beat reste au producteur, les membres du pool enregistrent librement, mais toute sortie publique exige l'accord écrit préalable du producteur. Réglez les droits par écrit avant toute sortie, et écrivez correctement chaque nom dans les crédits. Voir <a href=\"/producteurs-et-passeurs.html\">producteurs et passeurs</a>.",
+  ),
+  (
+    "Comment les producteurs bouyon partagent-ils leurs beats en ligne ?",
+    "Souvent en public, avant la sortie. <a href=\"/prod-bysavion.html\">Savion</a> publie des snippets, quelques secondes d'inédit, et les commentaires orientent la suite : titre complet, retravail ou mise de côté. HYPNO affiche son tempo dans le reel lui-même, mauvais plan 160bpm, et MB On The Track titre ses beats comme « Cigarettes » Bouyon Instrumental 2026 (Prod By MB On The Track), avec le genre, l'année et le crédit.",
   )
 ],
 "extra_graph": [

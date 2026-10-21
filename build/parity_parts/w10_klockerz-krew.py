@@ -76,13 +76,55 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui était le Klockerz Krew ?", "Le Klockerz Krew était un crew musical de la Dominique actif dans les années 1990. La page française de référence sur le bouyon le range parmi les premiers groupes et crews qui ont popularisé le Wrecketeng, le style bouyon bâti sur l’échantillonnage, aux côtés du Bushtown Clan et de la Nursery Krew. Le chanteur Dice y a commencé sa carrière."),
-  ("Pourquoi le Klockerz Krew figure-t-il dans l’histoire du bouyon alors qu’il n’a presque pas d’archives ?", "Parce que la trace qui compte est une liste de pionniers. La tradition française de la référence nomme le crew parmi les premiers à avoir mélangé les hymnes du hip hop et du dancehall avec des programmations de batterie bouyon agressives et des échantillons. La version anglaise actuelle de la même encyclopédie ne nomme pas le crew, ce qui fait de la mention française, et de ce profil, les endroits où son rôle est consigné."),
-  ("Dice a-t-il vraiment commencé dans le Klockerz Krew ?", "Oui, selon la page Music from Dominica du site A Virtual Dominica : Dennison Ikes Joseph, dit Dice, a d’abord chanté du R&B et du reggae dans le groupe des années 1990 Klockerz Crew. Il est ensuite devenu monarque du calypso de la Dominique : huit couronnes selon cette page, neuf selon un article ultérieur du Caribbean Times."),
-  ("Quels albums le Klockerz Krew a-t-il publiés ?", "Selon la biographie d’artiste publiée par Skydimex, membre du crew, le groupe a publié trois albums : « Mental of Instrumental », « K2 » et « Sign’O’The Times », plus un album live, et a ouvert pour Kassav’, Buju Banton, Sanchez et TOK. Ces albums ne sont pas datés dans la biographie et n’ont pas été confirmés par une discographie indépendante pendant notre recherche."),
-  ("Quel est le lien entre le Klockerz Krew et le titre « Tonite a De Nite » ?", "Sur Shazam, « Tonite a De Nite », interprété par Partners In Kryme avec Skinny Banton et publié sur la compilation « 200% Soca, 100% Tubes, Vol. 2 » (Pastel Productions, 2002), crédite Klockerz comme compositeur et Skinny Banton comme auteur. C’est le seul crédit du nom Klockerz retrouvé dans les métadonnées des plateformes."),
-  ("Où écouter la musique de l’époque du Klockerz Krew ?", "Les enregistrements du crew lui même ne circulent pas sur une page officielle vérifiée. Pour entendre le son de sa génération, commencez par notre page <a href=\"/wrecketeng.html\">Wrecketeng</a>, qui suit la lignée des pionniers de l’échantillonnage, et par notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, qui rassemble les classiques dominicains documentés par Bouyon Shattaz.")
- ],
+  (
+    "Qui était le Klockerz Krew ?",
+    "Le Klockerz Krew était un crew musical de la Dominique actif dans les années 1990. La page française de référence sur le bouyon le range parmi les premiers groupes et crews qui ont popularisé le Wrecketeng, le style bouyon bâti sur l’échantillonnage, aux côtés du Bushtown Clan et de la Nursery Krew. Le chanteur Dice y a commencé sa carrière.",
+  ),
+  (
+    "Pourquoi le Klockerz Krew figure-t-il dans l’histoire du bouyon alors qu’il n’a presque pas d’archives ?",
+    "Parce que la trace qui compte est une liste de pionniers. La tradition française de la référence nomme le crew parmi les premiers à avoir mélangé les hymnes du hip hop et du dancehall avec des programmations de batterie bouyon agressives et des échantillons. La version anglaise actuelle de la même encyclopédie ne le nomme pas, ce qui fait de la mention française, et de ce profil, les endroits où son rôle est consigné.",
+  ),
+  (
+    "Dice a-t-il vraiment commencé dans le Klockerz Krew ?",
+    "Oui, selon la page Music from Dominica du site A Virtual Dominica : Dennison Ikes Joseph, dit Dice, a d’abord chanté du R&B et du reggae dans le groupe des années 1990 Klockerz Crew. Il est ensuite devenu monarque du calypso de la Dominique : huit couronnes selon cette page, neuf selon un article ultérieur du Caribbean Times.",
+  ),
+  (
+    "Quels albums le Klockerz Krew a-t-il publiés ?",
+    "Selon la biographie d’artiste publiée par Skydimex, membre du crew, le groupe a publié trois albums : « Mental of Instrumental », « K2 » et « Sign’O’The Times », plus un album live, et a ouvert pour Kassav’, Buju Banton, Sanchez et TOK. Ces albums ne sont pas datés dans la biographie et n’ont pas été confirmés par une discographie indépendante pendant notre recherche.",
+  ),
+  (
+    "Quel est le lien entre le Klockerz Krew et le titre « Tonite a De Nite » ?",
+    "Sur Shazam, « Tonite a De Nite », interprété par Partners In Kryme avec Skinny Banton et publié sur la compilation « 200% Soca, 100% Tubes, Vol. 2 » (Pastel Productions, 2002), crédite Klockerz comme compositeur et Skinny Banton comme auteur. C’est le seul crédit du nom Klockerz retrouvé dans les métadonnées des plateformes.",
+  ),
+  (
+    "Où écouter la musique de l’époque du Klockerz Krew ?",
+    "Les enregistrements du crew lui même ne circulent pas sur une page officielle vérifiée. Pour entendre le son de sa génération, écoutez « Tonite a De Nite » de Partners In Kryme avec Skinny Banton, seul titre crédité au nom Klockerz, puis le Road Mix de Bouyon Shattaz sur notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, qui garde les classiques du carnaval à côté des nouveautés.",
+  ),
+  (
+    "Klockerz Krew ou Klockerz Crew : quelle est la bonne orthographe ?",
+    "Les deux formes circulent dans les sources. Ce site garde Klockerz Krew, la forme employée par la page française de référence sur le bouyon, et signale l’autre au lieu de trancher en silence : le portrait de Dice sur A Virtual Dominica écrit Klockerz Crew, et la biographie de Skydimex parle du Klockerz crew. Sur Shazam, le nom apparaît simplement comme Klockerz, au crédit de compositeur.",
+  ),
+  (
+    "Reketeng ou Wrecketeng : comment s’écrit le style popularisé par le Klockerz Krew ?",
+    "La bonne orthographe est Wrecketeng, celle donnée par DJ Cut, le pionnier fondateur du style. La page française de référence, qui cite le Klockerz Krew parmi les crews pionniers, écrit « Rekenteng » ; « reketeng » est la graphie répandue sur internet, une faute que ce site signale sans l’adopter. Notre page <a href=\"/wrecketeng.html\">Wrecketeng</a> suit toute la lignée, de DJ Cut à la Nursery Krew Inc.",
+  ),
+  (
+    "Quel son faisait le Klockerz Krew ?",
+    "Le Klockerz Krew travaillait le bouyon sur machines et échantillons, avec des voix venues du dancehall, du hip hop et du R&B. Les crews pionniers retiraient la section rythmique d’un disque existant pour poser la voix sur une base bouyon rapide et martelée. La page de référence cite les remixes bouyon de « Big Pimpin’ » et « Ridin’ Dirty » comme exemples de cette génération, sans les attribuer au seul Klockerz Krew.",
+  ),
+  (
+    "Qui est Skydimex, membre du Klockerz Krew ?",
+    "Skydimex est un artiste qui se présente, dans sa biographie publiée, comme membre du Klockerz crew. Il a commencé sa carrière à 18 ans, et décrit le travail du crew comme un mélange de dancehall, de hip hop et de soca, c’est à dire le bouyon. En 2009, il est parti en solo en Guadeloupe, où il a travaillé avec Mad JMC, l’un des producteurs de Krys, ManDragon et le studio OneTime.",
+  ),
+  (
+    "Qui étaient les membres du Klockerz Krew ?",
+    "Deux membres seulement sont reliés au crew par des sources publiées : le chanteur Dice, de son nom Dennison Ikes Joseph, futur monarque du calypso, et l’artiste Skydimex, qui s’en présente comme membre dans sa biographie. Aucune liste complète et vérifiée des membres n’existe dans les sources consultées, et ce profil n’en invente pas. Le crew a surtout survécu dans les biographies de ceux qu’il a formés.",
+  ),
+  (
+    "Le Klockerz Krew est-il le même groupe que le Bushtown Clan ou la Nursery Krew ?",
+    "Non. La page française de référence nomme trois crews distincts parmi les premiers à populariser le style bâti sur l’échantillonnage : le Bushtown Clan, le Klockerz Krew et la « Nursery Crew Ink », graphie approximative de la Nursery Krew Inc. Le Bushtown Clan est le crew de DJ Cut. Le Klockerz Krew fait le lien entre ces pionniers et les carrières solo qu’il a lancées.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/klockerz-krew.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/klockerz-krew.html#artist", "name": "Klockerz Krew", "description": "Crew de la Dominique actif dans les années 1990. La page française de référence sur le bouyon le nomme parmi les premiers crews pionniers du Wrecketeng, aux côtés du Bushtown Clan et de la Nursery Krew. Le chanteur Dice y a commencé sa carrière. Crédit de composition sur Tonite a De Nite.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Tonite a De Nite'}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -155,13 +197,55 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who were Klockerz Krew?", "Klockerz Krew was a music crew from Dominica active in the 1990s. The French reference page on bouyon places it among the first groups and crews that popularised Wrecketeng, the sampling based bouyon style, alongside the Bushtown Clan and Nursery Krew. The singer Dice began his career there."),
-  ("Why does Klockerz Krew appear in bouyon history when it left almost no archive?", "Because the trace that matters is a pioneer list. The French tradition of the reference names the crew among the first to mix hip hop and dancehall anthems with aggressive bouyon drum programming and samples. The current English version of the same encyclopedia does not name the crew, which makes the French mention, and this profile, the places where its role is recorded."),
-  ("Did Dice really start in Klockerz Krew?", "Yes, according to the Music from Dominica page of A Virtual Dominica: Dennison Ikes Joseph, known as Dice, first began singing R&B and reggae in the 90’s music group Klockerz Crew. He went on to become a Dominica calypso monarch: eight crowns according to that page, nine according to a later Caribbean Times article."),
-  ("Which albums did Klockerz Krew release?", "According to the published artist biography of Skydimex, a member of the crew, the group released three albums: “Mental of Instrumental”, “K2” and “Sign’O’The Times”, plus a live album, and opened for Kassav’, Buju Banton, Sanchez and TOK. Those albums are not dated in the biography and were not confirmed by an independent discography during our research."),
-  ("What is the link between Klockerz Krew and “Tonite a De Nite”?", "On Shazam, “Tonite a De Nite”, performed by Partners In Kryme with Skinny Banton and released on the compilation “200% Soca, 100% Tubes, Vol. 2” (Pastel Productions, 2002), credits Klockerz as composer and Skinny Banton as songwriter. It is the only Klockerz name credit found in platform metadata."),
-  ("Where can I hear music from the Klockerz Krew era?", "The crew own recordings do not circulate on a verified official page. To hear the sound of its generation, start with our <a href=\"/en/wrecketeng.html\">Wrecketeng</a> page, which follows the sampling pioneer lineage, and our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, which gathers the Dominican classics documented by Bouyon Shattaz.")
- ],
+  (
+    "Who were Klockerz Krew?",
+    "Klockerz Krew was a music crew from Dominica active in the 1990s. The French reference page on bouyon places it among the first groups and crews that popularised Wrecketeng, the sampling based bouyon style, alongside the Bushtown Clan and Nursery Krew. The singer Dice began his career there.",
+  ),
+  (
+    "Why does Klockerz Krew appear in bouyon history when it left almost no archive?",
+    "Because the trace that matters is a pioneer list. The French tradition of the reference names the crew among the first to mix hip hop and dancehall anthems with aggressive bouyon drum programming and samples. The current English version of the same encyclopedia does not name the crew, which makes the French mention, and this profile, the places where its role is recorded.",
+  ),
+  (
+    "Did Dice really start in Klockerz Krew?",
+    "Yes, according to the Music from Dominica page of A Virtual Dominica: Dennison Ikes Joseph, known as Dice, first began singing R&B and reggae in the 90’s music group Klockerz Crew. He went on to become a Dominica calypso monarch: eight crowns according to that page, nine according to a later Caribbean Times article.",
+  ),
+  (
+    "Which albums did Klockerz Krew release?",
+    "According to the published artist biography of Skydimex, a member of the crew, the group released three albums: “Mental of Instrumental”, “K2” and “Sign’O’The Times”, plus a live album, and opened for Kassav’, Buju Banton, Sanchez and TOK. Those albums are not dated in the biography and were not confirmed by an independent discography during our research.",
+  ),
+  (
+    "What is the link between Klockerz Krew and “Tonite a De Nite”?",
+    "On Shazam, “Tonite a De Nite”, performed by Partners In Kryme with Skinny Banton and released on the compilation “200% Soca, 100% Tubes, Vol. 2” (Pastel Productions, 2002), credits Klockerz as composer and Skinny Banton as songwriter. It is the only Klockerz name credit found in platform metadata.",
+  ),
+  (
+    "Where can I hear music from the Klockerz Krew era?",
+    "The crew own recordings do not circulate on a verified official page. To hear the sound of its generation, play “Tonite a De Nite” by Partners In Kryme with Skinny Banton, the one record crediting the Klockerz name, then the Bouyon Shattaz Road Mix on our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> page, which keeps carnival classics next to the new releases.",
+  ),
+  (
+    "Klockerz Krew or Klockerz Crew: which spelling is right?",
+    "Both forms circulate in the sources. This site keeps Klockerz Krew, the form used by the French reference page on bouyon, and flags the other instead of silently deciding: the Dice portrait on A Virtual Dominica writes Klockerz Crew, and the Skydimex biography speaks of the Klockerz crew. On Shazam, the name appears simply as Klockerz, in a composer credit.",
+  ),
+  (
+    "Reketeng or Wrecketeng: how is the style Klockerz Krew popularised spelled?",
+    "The correct spelling is Wrecketeng, the one given by DJ Cut, the founding pioneer of the style. The French reference page that lists Klockerz Krew among the pioneer crews writes “Rekenteng”; “reketeng” is the spelling spread across the internet, a misspelling this site flags without adopting it. Our <a href=\"/en/wrecketeng.html\">Wrecketeng</a> page follows the full lineage, from DJ Cut to Nursery Krew Inc.",
+  ),
+  (
+    "What did Klockerz Krew sound like?",
+    "Klockerz Krew worked bouyon on machines and samples, with voices drawn from dancehall, hip hop and R&B. The pioneer crews stripped the rhythm section from an existing record to lay the vocal over a fast, pounding bouyon base. The reference page gives bouyon remixes of “Big Pimpin’” and “Ridin’ Dirty” as examples of that generation, without crediting them to Klockerz Krew alone.",
+  ),
+  (
+    "Who is Skydimex from Klockerz Krew?",
+    "Skydimex is an artist who presents himself, in his published biography, as a member of the Klockerz crew. He started his career at 18, and describes the crew work as a mix of dancehall, hip hop and soca, that is, bouyon. In 2009 he moved solo to Guadeloupe, where he worked with Mad JMC, presented as one of Krys’ producers, ManDragon and OneTime studio.",
+  ),
+  (
+    "Who were the members of Klockerz Krew?",
+    "Only two members are tied to the crew by published sources: the singer Dice, Dennison Ikes Joseph, a future calypso monarch, and the artist Skydimex, who presents himself as a member in his biography. No complete, verified member list exists in the sources consulted, and this profile does not invent one. The crew mostly survives in the biographies of the singers it formed.",
+  ),
+  (
+    "Is Klockerz Krew the same group as Bushtown Clan or Nursery Krew?",
+    "No. The French reference page names three distinct crews among the first to popularise the sampling based style: the Bushtown Clan, Klockerz Krew and “Nursery Crew Ink”, an approximate spelling of Nursery Krew Inc. The Bushtown Clan is DJ Cut crew. Klockerz Krew is the link between those pioneers and the solo careers it launched.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/klockerz-krew.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/klockerz-krew.html#artist", "name": "Klockerz Krew", "description": "Crew from Dominica active in the 1990s. The French reference page on bouyon names it among the first pioneer crews of Wrecketeng, alongside the Bushtown Clan and Nursery Krew. Singer Dice began his career there. Composer credit on Tonite a De Nite.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Tonite a De Nite'}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

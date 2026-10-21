@@ -50,13 +50,47 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Explosive Band ?", "Explosive Band est un groupe de la Dominique dont le nom figure dans le programme officiel jour par jour de Ti Vilaj Kwéyòl 2026, publié par le ministère du Tourisme et Discover Dominica : il joue le jeudi 22 octobre 2026 à 13 h 36, jour de la grande finale, aux Jardins botaniques de Roseau. Aucune source vérifiable ne publie à ce jour ses membres, sa date de fondation ou son répertoire."),
-  ("Explosive Band et X Plosive sont-ils le même groupe ?", "Ce n’est pas confirmé. La première annonce officielle des artistes de Ti Vilaj Kwéyòl 2026 listait un groupe orthographié X Plosive, tandis que le programme jour par jour de la même édition nomme Explosive Band. Les deux formes peuvent désigner le même groupe, mais aucune source ouverte ne l’établit, donc ce site ne fusionne pas les deux noms."),
-  ("Quels titres d’Explosive Band peut-on écouter en streaming ?", "Aucun titre vérifié n’a été trouvé pendant la recherche de ce profil : les plateformes de streaming et de vidéo consultées ne montrent ni page d’artiste ni enregistrement rattaché à un groupe dominicain de ce nom. Le groupe semble travailler en direct, comme beaucoup de formations de scène dominicaines, et sa présence publique passe par les affiches officielles."),
-  ("Où et quand Explosive Band joue-t-il à Ti Vilaj Kwéyòl 2026 ?", "Le programme officiel le place le jeudi 22 octobre 2026 à 13 h 36 aux Jardins botaniques de Roseau, pendant la journée de grande finale du festival, qui se déroule du 19 au 22 octobre 2026, de midi à 20 heures, avec une entrée à 10 dollars caraïbes et la gratuité pour les élèves en uniforme et les enfants de cinq ans et moins."),
-  ("Qui d’autre joue le même jour qu’Explosive Band ?", "La grande finale du 22 octobre 2026 aligne aussi les danseurs kalinago, UMOJA, la Waitukubuli Dance Theatre Company, Ignition et Erwinchy, Derick « Rah » Peters, Reo et Faithii avec Trilla G et Prymex, Asa Bantan, et Shelly et Signal Band en clôture à 19 heures, selon le programme officiel publié par le ministère du Tourisme."),
-  ("Pourquoi un profil aussi court sur ce groupe ?", "Parce que le dossier public est réellement mince, et que ce site préfère un profil court et exact à un long texte inventé. Le fait vérifié, un créneau officiel en grande finale du principal village créole de la Dominique, suffit à documenter l’existence et l’activité du groupe. Le profil sera complété dès qu’une source vérifiable publiera des membres, des titres ou des canaux officiels.")
- ],
+  (
+    "Qui est Explosive Band ?",
+    "Explosive Band est un groupe de la Dominique dont le nom figure dans le programme officiel jour par jour de Ti Vilaj Kwéyòl 2026, publié par le ministère du Tourisme et Discover Dominica : il joue le jeudi 22 octobre 2026 à 13 h 36, jour de la grande finale, aux Jardins botaniques de Roseau. Aucune source vérifiable ne publie à ce jour ses membres, sa date de fondation ou son répertoire.",
+  ),
+  (
+    "Explosive Band et X Plosive sont-ils le même groupe ?",
+    "Ce n’est pas confirmé. La première annonce officielle des artistes de Ti Vilaj Kwéyòl 2026 listait un groupe orthographié X Plosive, tandis que le programme jour par jour de la même édition nomme Explosive Band. Les deux formes peuvent désigner le même groupe, mais aucune source ouverte ne l’établit, donc ce site ne fusionne pas les deux noms.",
+  ),
+  (
+    "Où et quand Explosive Band joue-t-il à Ti Vilaj Kwéyòl 2026 ?",
+    "Le programme officiel le place le jeudi 22 octobre 2026 à 13 h 36 aux Jardins botaniques de Roseau, pendant la journée de grande finale du festival, qui se déroule du 19 au 22 octobre 2026, de midi à 20 heures, avec une entrée à 10 dollars caraïbes et la gratuité pour les élèves en uniforme et les enfants de cinq ans et moins.",
+  ),
+  (
+    "Qui d’autre joue le même jour qu’Explosive Band ?",
+    "La grande finale du 22 octobre 2026 aligne aussi les danseurs kalinago, UMOJA, la Waitukubuli Dance Theatre Company, Ignition et Erwinchy, Derick « Rah » Peters, Reo et Faithii avec Trilla G et Prymex, Asa Bantan, et Shelly et Signal Band en clôture à 19 heures, selon le programme officiel publié par le ministère du Tourisme.",
+  ),
+  (
+    "Que veut dire Tout Biten Domnik, le thème du festival d’Explosive Band ?",
+    "Tout Biten Domnik signifie tout ce qui est dominicain : c’est le thème de la cinquième édition de Ti Vilaj Kwéyòl, le grand rendez-vous créole des fêtes d’indépendance de la Dominique. Selon la présentation officielle, le village réunit plus de 90 entrepreneurs, des stands de nourriture, d’artisanat et de produits locaux, et une programmation qui mêle écoles, groupes culturels, danses traditionnelles et têtes d’affiche du bouyon.",
+  ),
+  (
+    "Quels groupes historiques jouent aussi à Ti Vilaj Kwéyòl 2026 ?",
+    "Les groupes fondateurs du bouyon figurent eux aussi au programme : WCK, Roots, Stems and Branches et First Serenade, ainsi que des formations historiques comme Midnight Groovers et Swinging Stars. Explosive Band partage donc l’édition 2026 avec la lignée des groupes live dominicains, et sa journée de finale se termine avec Shelly et Signal Band. Voir notre page <a href=\"/wck.html\">WCK</a>.",
+  ),
+  (
+    "Le bouyon est-il une musique de groupes live ?",
+    "Oui, d’abord. Le genre est apparu à Roseau à la fin des années 1980, porté par des groupes comme WCK, Roots, Stems and Branches et First Serenade : claviers, basse, batterie, cuivres ou voix qui tiennent une foule pendant des heures. Le bouyon soca, lancé en Dominique en 2003 par le producteur Dada, a ajouté la logique des riddims sans jamais remplacer les groupes.",
+  ),
+  (
+    "Quels titres d’Explosive Band peut-on écouter en streaming ?",
+    "Aucun titre vérifié n’a été trouvé pendant la recherche de ce profil : les plateformes de streaming et de vidéo consultées, sous les orthographes Explosive Band et X Plosive, ne montrent ni page d’artiste ni enregistrement rattaché à un groupe dominicain de ce nom. Sa présence publique passe aujourd’hui par les affiches et les programmes officiels, comme pour beaucoup de formations de scène dominicaines.",
+  ),
+  (
+    "Pourquoi un profil aussi court sur ce groupe ?",
+    "Parce que le dossier public est réellement mince, et que ce site préfère un profil court et exact à un long texte inventé. Le fait vérifié, un créneau officiel en grande finale du principal village créole de la Dominique, suffit à documenter l’existence et l’activité du groupe. Le profil sera complété dès qu’une source vérifiable publiera des membres, des titres ou des canaux officiels.",
+  ),
+  (
+    "Où écouter le bouyon de groupes comme Explosive Band ?",
+    "Faute d’enregistrement du groupe, écoutez la lignée : notre page d’<a href=\"/histoire.html\">histoire du bouyon</a> suit les groupes de WCK à Signal Band. Pour les nouveautés de la Dominique, de la Guadeloupe et de la Martinique, suivez @bouyonshattaz sur Instagram et commentez ROAD MIX sous une publication : la Bouyon Road Mix vous est envoyée directement en DM.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/explosive-band.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/explosive-band.html#artist", "name": "Explosive Band", "description": "Groupe de la Dominique programmé dans le programme officiel de Ti Vilaj Kwéyòl 2026, grande finale du 22 octobre 2026 aux Jardins botaniques de Roseau. Aucun enregistrement vérifié n’est publié à ce jour.", "genre": "Bouyon", "track": [], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -106,13 +140,47 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Explosive Band?", "Explosive Band is a group from Dominica whose name appears in the official day by day programme of Ti Vilaj Kweyol 2026, published by the Ministry of Tourism and Discover Dominica: it plays on Thursday October 22, 2026 at 1:36 PM, grand finale day, at the Botanic Gardens in Roseau. No verifiable source yet publishes its members, its founding date or its repertoire."),
-  ("Are Explosive Band and X Plosive the same group?", "That is not confirmed. The first official announcement of the Ti Vilaj Kweyol 2026 artists listed a band spelled X Plosive, while the day by day programme of the same edition names Explosive Band. The two forms may designate the same band, but no source opened establishes it, so this site does not merge the two names."),
-  ("Which Explosive Band songs can be streamed?", "No verified recording was found during the research for this profile: the streaming and video platforms consulted show neither an artist page nor a recording tied to a Dominican band of that name. The band appears to work live, like many Dominican stage formations, and its public presence runs through official posters."),
-  ("Where and when does Explosive Band play at Ti Vilaj Kweyol 2026?", "The official programme places it on Thursday October 22, 2026 at 1:36 PM at the Botanic Gardens in Roseau, during the grand finale day of the festival, which runs from October 19 to 22, 2026, from noon to 8 PM, with EC$10 admission and free entry for students in uniform and children aged five and under."),
-  ("Who else plays on the same day as Explosive Band?", "The October 22, 2026 grand finale also lines up the Kalinago Dancers, UMOJA, the Waitukubuli Dance Theatre Company, Ignition and Erwinchy, Derick “Rah” Peters, Reo and Faithii with Trilla G and Prymex, Asa Bantan, and Shelly and Signal Band closing at 7 PM, according to the official programme published by the Ministry of Tourism."),
-  ("Why is this profile so short?", "Because the public record is genuinely thin, and this site prefers a short, exact profile to a long invented one. The verified fact, an official grand finale slot at Dominica main Creole village, is enough to document the band existence and activity. The profile will be completed as soon as a verifiable source publishes members, recordings or official channels.")
- ],
+  (
+    "Who is Explosive Band?",
+    "Explosive Band is a band from Dominica whose name appears in the official day by day programme of Ti Vilaj Kweyol 2026, published by the Ministry of Tourism and Discover Dominica: it plays on Thursday 22 October 2026 at 1:36 PM, grand finale day, at the Botanic Gardens in Roseau. No verifiable source publishes its members, founding date or repertoire to date.",
+  ),
+  (
+    "Are Explosive Band and X Plosive the same band?",
+    "It is not confirmed. The first official announcement of Ti Vilaj Kweyol 2026 artists listed a band spelled X Plosive, while the day by day programme of the same edition names Explosive Band. The two forms may name the same band, but no open source establishes it, so this site does not merge the two names.",
+  ),
+  (
+    "Where and when does Explosive Band play at Ti Vilaj Kweyol 2026?",
+    "The official programme places it on Thursday 22 October 2026 at 1:36 PM at the Botanic Gardens in Roseau, during the grand finale day of the festival, which runs from 19 to 22 October 2026, from noon to 8 PM, with admission at EC$10 and free entry for students in uniform and children aged five and under.",
+  ),
+  (
+    "Who else plays on the same day as Explosive Band?",
+    "The 22 October 2026 grand finale also lines up the Kalinago dancers, UMOJA, the Waitukubuli Dance Theatre Company, Ignition and Erwinchy, Derick “Rah” Peters, Reo and Faithii with Trilla G and Prymex, Asa Bantan, and Shelly and Signal Band closing at 7 PM, according to the official programme published by the Ministry of Tourism.",
+  ),
+  (
+    "What does Tout Biten Domnik, the theme of Explosive Band's festival, mean?",
+    "Tout Biten Domnik means everything that is Dominican: it is the theme of the fifth edition of Ti Vilaj Kweyol, the great Creole gathering of Dominica's independence celebrations. According to the official presentation, the village brings together more than 90 entrepreneurs, food, craft and local produce stalls, and a programme that mixes schools, cultural groups, traditional dances and bouyon headliners.",
+  ),
+  (
+    "Which historic bands also play Ti Vilaj Kweyol 2026?",
+    "The founding bands of bouyon are on the programme too: WCK, Roots, Stems and Branches and First Serenade, as well as historic groups such as Midnight Groovers and Swinging Stars. Explosive Band therefore shares the 2026 edition with the lineage of Dominican live bands, and its finale day closes with Shelly and Signal Band. See our <a href=\"/en/wck.html\">WCK</a> page.",
+  ),
+  (
+    "Is bouyon a live band music?",
+    "Yes, first of all. The genre appeared in Roseau in the late 1980s, carried by bands such as WCK, Roots, Stems and Branches and First Serenade: keyboards, bass, drums, horns or voices holding a crowd for hours. Bouyon soca, launched in Dominica in 2003 by the producer Dada, added the logic of riddims without ever replacing the bands.",
+  ),
+  (
+    "Which Explosive Band songs can I stream?",
+    "No verified song was found during the research for this profile: the streaming and video platforms consulted, under the spellings Explosive Band and X Plosive, show no artist page and no recording tied to a Dominican band of that name. Its public presence currently runs through posters and official programmes, as for many Dominican stage bands.",
+  ),
+  (
+    "Why such a short profile on this band?",
+    "Because the public record is genuinely thin, and this site prefers a short, accurate profile to a long invented text. The verified fact, an official slot on the grand finale of Dominica's main Creole village, is enough to document the band's existence and activity. The profile will be completed as soon as a verifiable source publishes members, songs or official channels.",
+  ),
+  (
+    "Where can I hear the bouyon of bands like Explosive Band?",
+    "With no recording from the band, hear the lineage: our <a href=\"/en/history.html\">history of bouyon</a> page follows the bands from WCK to Signal Band. For new releases from Dominica, Guadeloupe and Martinique, follow @bouyonshattaz on Instagram and comment ROAD MIX under a post: the Bouyon Road Mix is sent to you directly by DM.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/explosive-band.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/explosive-band.html#artist", "name": "Explosive Band", "description": "Group from Dominica billed in the official programme of Ti Vilaj Kweyol 2026, grand finale on October 22, 2026 at the Botanic Gardens in Roseau. No verified recording is published to date.", "genre": "Bouyon", "track": [], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

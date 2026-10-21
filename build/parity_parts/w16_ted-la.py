@@ -64,13 +64,47 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Ted La ?", "Ted La, publié sous la graphie TedLa sur sa page d’artiste Spotify, est une voix du bouyon guadeloupéen documentée par des singles de 2022 faits avec LeYou : « ALWAYS HAVE », « Shake It » avec Totone, et « She tell me she want » dans la sélection The Sound of Bouyon. Aucune biographie publique ne documente son parcours ou son nom civil, et ce profil le dit ouvertement."),
-  ("TedLa et Tedla sont ils le même artiste ?", "Aucune source consultée ne l’affirme en toutes lettres, et aucune ne présente deux artistes différents. Les deux graphies partagent un collaborateur publié, LeYou sur les singles de TedLa et Leyou sur « VIN TCHEK NOU » où Tedla est crédité, dans le même circuit guadeloupéen. Ce profil présente donc la jonction comme une hypothèse solide mais non démontrée, et attribue chaque titre à la graphie sous laquelle il a été publié. C’est la question que la plupart des profils automatiques tranchent sans le dire."),
-  ("Sur quel album le nom Tedla apparaît il ?", "Sur « Premières Notes » de Lewismelo, dont la liste des titres publiée par Deezer crédite Tedla en featuring sur le troisième titre, « VIN TCHEK NOU », d’une durée de 3 minutes 17, aux côtés de <a href=\"/le-bluff.html\">Le Bluff</a> et de Leyou."),
-  ("Qui a écrit « VIN TCHEK NOU » ?", "Les crédits publiés par Deezer nomment trois auteurs et compositeurs : Youri Ellapin, Keran Landre et Ted Clarin. Aucune source consultée ne relie publiquement le nom d’auteur Ted Clarin à la graphie TedLa ou à la graphie Tedla, et ce profil ne fait pas cette correspondance à sa place."),
-  ("Ted La a t il sorti un album ou un single solo ?", "Aucun album, EP ou single solo de TedLa ou de Tedla n’est documenté dans les sources consultées. Tous ses titres vérifiés sont des collaborations : trois titres avec LeYou sous la graphie TedLa, et un featuring sous la graphie Tedla sur l’album de Lewismelo."),
-  ("Où écouter Ted La ?", "Sur Spotify, sa page d’artiste TedLa porte « ALWAYS HAVE » et « Shake It », et la sélection The Sound of Bouyon porte « She tell me she want ». Pour le crédit Tedla, écoutez « VIN TCHEK NOU » sur « Premières Notes » de Lewismelo. Pour le bouyon du même circuit, notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> et notre page <a href=\"/bouyon-guadeloupe.html\">bouyon Guadeloupe</a> prolongent l’écoute.")
- ],
+  (
+    "Qui est Ted La ?",
+    "Ted La, publié sous la graphie TedLa sur sa page d’artiste Spotify, est une voix du bouyon guadeloupéen documentée par des singles de 2022 faits avec LeYou : « ALWAYS HAVE », « Shake It » avec Totone, et « She tell me she want » dans la sélection The Sound of Bouyon. Aucune biographie publique ne documente son parcours ou son nom civil, et ce profil le dit ouvertement.",
+  ),
+  (
+    "TedLa et Tedla sont ils le même artiste ?",
+    "Aucune source consultée ne l’affirme en toutes lettres, et aucune ne présente deux artistes différents. Les deux graphies partagent un collaborateur publié, LeYou sur les singles de TedLa et Leyou sur « VIN TCHEK NOU » où Tedla est crédité, dans le même circuit guadeloupéen. Ce profil présente donc la jonction comme une hypothèse solide mais non démontrée, et attribue chaque titre à la graphie sous laquelle il a été publié.",
+  ),
+  (
+    "Quels sont les titres de Ted La ?",
+    "Quatre titres sont vérifiés. Sous la graphie TedLa : « ALWAYS HAVE », avec LeYou, single de 2022 de 2 minutes 46, « Shake It », de Totone, TedLa et LeYou, single de 2022 de 3 minutes 23, et « She tell me she want », avec LeYou, 2 minutes 40. Sous la graphie Tedla : « VIN TCHEK NOU » sur l’album « Premières Notes » de Lewismelo, 3 minutes 17.",
+  ),
+  (
+    "Qui est LeYou, le partenaire de Ted La ?",
+    "LeYou, aussi écrit Leyou, est le partenaire constant de TedLa : il est crédité sur ses trois titres, « ALWAYS HAVE », « Shake It » et « She tell me she want ». Sous la graphie Leyou, il est aussi l’un des trois invités de « VIN TCHEK NOU », aux côtés de Tedla et de Le Bluff. Notre profil de <a href=\"/leyou.html\">Leyou</a> documente son dossier.",
+  ),
+  (
+    "Sur quel album le nom Tedla apparaît il ?",
+    "Sur « Premières Notes » de Lewismelo, dont la liste des titres publiée par Deezer crédite Tedla en featuring sur le troisième titre, « VIN TCHEK NOU », d’une durée de 3 minutes 17, aux côtés de <a href=\"/le-bluff.html\">Le Bluff</a> et de Leyou. Le titre arrive juste après l’introduction et « 5 KILOS », dans les places d’ouverture où Lewismelo présente son cercle.",
+  ),
+  (
+    "Que veut dire « VIN TCHEK NOU » ?",
+    "« VIN TCHEK NOU » se comprend comme « venez nous voir » ou « venez nous checker », dans le créole des Antilles françaises. C’est le troisième titre de « Premières Notes », l’album de Lewismelo, crédité à Lewismelo avec Le Bluff, Leyou et Tedla en featuring. Le titre fonctionne comme une présentation d’équipe : Lewismelo y montre son cercle avant de dérouler les collaborations.",
+  ),
+  (
+    "Qui a écrit « VIN TCHEK NOU » ?",
+    "Les crédits publiés par Deezer nomment trois auteurs et compositeurs : Youri Ellapin, Keran Landre et Ted Clarin. Aucune source consultée ne relie publiquement le nom d’auteur Ted Clarin à la graphie TedLa ou à la graphie Tedla, et ce profil ne fait pas cette correspondance à sa place. Il garde le fait brut : un auteur prénommé Ted figure au générique du seul titre où Tedla est crédité.",
+  ),
+  (
+    "Quels autres artistes figurent sur « Premières Notes » avec Tedla ?",
+    "L’album de Lewismelo réunit une génération gwada : « 5 KILOS » avec Admiral T et Shanika, « VIN TCHEK NOU » avec Le Bluff, Leyou et Tedla, puis « POMPÉ » avec Dcamp et KEKS MAFIA, « ALOUETTE » avec Lejuh, « KEY » avec Virtuose et « HULLABALOO » avec Jixels. Tedla y figure dans la présentation d’équipe, au même niveau que Le Bluff et Leyou.",
+  ),
+  (
+    "Ted La a t il sorti un album ou un single solo ?",
+    "Non, aucun album, EP ou single solo de TedLa ou de Tedla n’est documenté dans les sources consultées. Tous ses titres vérifiés sont des collaborations : trois titres avec LeYou sous la graphie TedLa, et un featuring sous la graphie Tedla sur l’album de Lewismelo. C’est le catalogue d’un artiste de session, de ceux qui font tourner le bouyon gwada entre deux têtes d’affiche.",
+  ),
+  (
+    "Où écouter Ted La ?",
+    "Sur Spotify, sa page d’artiste TedLa porte « ALWAYS HAVE » et « Shake It », et la sélection The Sound of Bouyon porte « She tell me she want ». Pour le crédit Tedla, écoutez « VIN TCHEK NOU » sur « Premières Notes » de Lewismelo. Pour la scène bouyon autour de lui, la <a href=\"/playlist-bouyon.html\">playlist ROAD MIX</a> de Bouyon Shattaz rassemble nouveautés, bouyon soca et classiques de carnaval.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/ted-la.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/ted-la.html#artist", "name": "Ted La", "description": "Voix du bouyon guadeloupéen publiée sous la graphie TedLa sur Spotify : ALWAYS HAVE, Shake It et She tell me she want avec LeYou, en 2022. Une deuxième graphie, Tedla, est créditée sur VIN TCHEK NOU de Lewismelo avec Le Bluff et Leyou. Aucune source consultée n’établit formellement que les deux graphies nomment la même personne, et ce profil présente la jonction comme non démontrée.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'ALWAYS HAVE'}, {"@type": "MusicRecording", "name": 'Shake It'}, {"@type": "MusicRecording", "name": 'She tell me she want'}, {"@type": "MusicRecording", "name": 'VIN TCHEK NOU'}], "sameAs": ["https://open.spotify.com/artist/3X5N5hrCUawAtaMGFGpqEN"]}}],
  "date_modified": "2026-10-20"
 }
@@ -133,13 +167,47 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Ted La?", "Ted La, published under the spelling TedLa on his Spotify artist page, is a voice of Guadeloupe bouyon documented by 2022 singles made with LeYou: “ALWAYS HAVE”, “Shake It” with Totone, and “She tell me she want” in The Sound of Bouyon selection. No public biography documents his path or his real name, and this profile says so openly."),
-  ("Are TedLa and Tedla the same artist?", "No source consulted states it in so many words, and none presents two different artists either. The two spellings share a published collaborator, LeYou on the TedLa singles and Leyou on “VIN TCHEK NOU” where Tedla is credited, inside the same Guadeloupe circuit. This profile therefore presents the junction as a strong but undemonstrated hypothesis, and attributes every record to the spelling under which it was published. It is the question most automatic profiles decide without saying so."),
-  ("On which album does the name Tedla appear?", "On “Premières Notes” by Lewismelo, whose track listing published by Deezer credits Tedla as a feature on the third track, “VIN TCHEK NOU”, running 3 minutes 17, alongside <a href=\"/en/le-bluff.html\">Le Bluff</a> and Leyou."),
-  ("Who wrote “VIN TCHEK NOU”?", "The credits published by Deezer name three writers and composers: Youri Ellapin, Keran Landre and Ted Clarin. No source consulted publicly links the writer name Ted Clarin to the TedLa spelling or to the Tedla spelling, and this profile does not make that match in its place."),
-  ("Has Ted La released an album or a solo single?", "No album, EP or solo single by TedLa or Tedla is documented in the sources consulted. All of his verified records are collaborations: three records with LeYou under the TedLa spelling, and one feature under the Tedla spelling on the Lewismelo album."),
-  ("Where can I hear Ted La?", "On Spotify, his TedLa artist page carries “ALWAYS HAVE” and “Shake It”, and The Sound of Bouyon selection carries “She tell me she want”. For the Tedla credit, hear “VIN TCHEK NOU” on “Premières Notes” by Lewismelo. For the bouyon of the same circuit, our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> and our <a href=\"/en/bouyon-guadeloupe.html\">bouyon Guadeloupe</a> page extend the listening.")
- ],
+  (
+    "Who is Ted La?",
+    "Ted La, published under the spelling TedLa on his Spotify artist page, is a voice of Guadeloupe bouyon documented by 2022 singles made with LeYou: “ALWAYS HAVE”, “Shake It” with Totone, and “She tell me she want” in The Sound of Bouyon selection. No public biography documents his path or his real name, and this profile says so openly.",
+  ),
+  (
+    "Are TedLa and Tedla the same artist?",
+    "No source consulted states it in so many words, and none presents two different artists either. The two spellings share a published collaborator, LeYou on the TedLa singles and Leyou on “VIN TCHEK NOU” where Tedla is credited, inside the same Guadeloupe circuit. This profile therefore presents the junction as a strong but undemonstrated hypothesis, and attributes every record to the spelling under which it was published.",
+  ),
+  (
+    "What are Ted La's songs?",
+    "Four records are verified. Under the spelling TedLa: “ALWAYS HAVE”, with LeYou, a 2022 single running 2 minutes 46, “Shake It”, by Totone, TedLa and LeYou, a 2022 single running 3 minutes 23, and “She tell me she want”, with LeYou, 2 minutes 40. Under the spelling Tedla: “VIN TCHEK NOU” on the Lewismelo album “Premières Notes”, 3 minutes 17.",
+  ),
+  (
+    "Who is LeYou, Ted La's partner?",
+    "LeYou, also written Leyou, is TedLa's constant partner: he is credited on all three of his records, “ALWAYS HAVE”, “Shake It” and “She tell me she want”. Under the spelling Leyou, he is also one of the three guests on “VIN TCHEK NOU”, alongside Tedla and Le Bluff. Our <a href=\"/en/leyou.html\">Leyou</a> profile documents his file.",
+  ),
+  (
+    "On which album does the name Tedla appear?",
+    "On “Premières Notes” by Lewismelo, whose track listing published by Deezer credits Tedla as a feature on the third track, “VIN TCHEK NOU”, running 3 minutes 17, alongside <a href=\"/en/le-bluff.html\">Le Bluff</a> and Leyou. The record arrives right after the introduction and “5 KILOS”, in the opening places where Lewismelo presents his circle.",
+  ),
+  (
+    "What does “VIN TCHEK NOU” mean?",
+    "“VIN TCHEK NOU” reads as come and see us, or come check us, in the Creole of the French Antilles. It is the third track of “Premières Notes”, the Lewismelo album, credited to Lewismelo with Le Bluff, Leyou and Tedla as features. The record works as a team presentation: Lewismelo shows his circle there before unrolling the collaborations.",
+  ),
+  (
+    "Who wrote “VIN TCHEK NOU”?",
+    "The credits published by Deezer name three writers and composers: Youri Ellapin, Keran Landre and Ted Clarin. No source consulted publicly links the writer name Ted Clarin to the TedLa spelling or to the Tedla spelling, and this profile does not make that match in its place. It keeps the raw fact: a writer named Ted appears in the credits of the only record where Tedla is credited.",
+  ),
+  (
+    "Which other artists appear on “Premières Notes” with Tedla?",
+    "The Lewismelo album gathers a gwada generation: “5 KILOS” with Admiral T and Shanika, “VIN TCHEK NOU” with Le Bluff, Leyou and Tedla, then “POMPÉ” with Dcamp and KEKS MAFIA, “ALOUETTE” with Lejuh, “KEY” with Virtuose and “HULLABALOO” with Jixels. Tedla is part of the team presentation, on the same level as Le Bluff and Leyou.",
+  ),
+  (
+    "Has Ted La released an album or a solo single?",
+    "No, no album, EP or solo single by TedLa or Tedla is documented in the sources consulted. All of his verified records are collaborations: three records with LeYou under the TedLa spelling, and one feature under the Tedla spelling on the Lewismelo album. It is the catalogue of a session artist, of the kind who keep bouyon gwada turning between two headliners.",
+  ),
+  (
+    "Where can I hear Ted La?",
+    "On Spotify, his TedLa artist page carries “ALWAYS HAVE” and “Shake It”, and The Sound of Bouyon selection carries “She tell me she want”. For the Tedla credit, hear “VIN TCHEK NOU” on “Premières Notes” by Lewismelo. For the bouyon scene around him, the Bouyon Shattaz <a href=\"/en/playlist-bouyon.html\">ROAD MIX playlist</a> gathers new releases, bouyon soca and carnival classics.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/ted-la.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/ted-la.html#artist", "name": "Ted La", "description": "Voice of Guadeloupe bouyon published under the spelling TedLa on Spotify: ALWAYS HAVE, Shake It and She tell me she want with LeYou, in 2022. A second spelling, Tedla, is credited on VIN TCHEK NOU by Lewismelo with Le Bluff and Leyou. No source consulted formally establishes that the two spellings name the same person, and this profile presents the junction as undemonstrated.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'ALWAYS HAVE'}, {"@type": "MusicRecording", "name": 'Shake It'}, {"@type": "MusicRecording", "name": 'She tell me she want'}, {"@type": "MusicRecording", "name": 'VIN TCHEK NOU'}], "sameAs": ["https://open.spotify.com/artist/3X5N5hrCUawAtaMGFGpqEN"]}}],
  "date_modified": "2026-10-20"
 }

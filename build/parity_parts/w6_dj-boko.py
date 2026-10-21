@@ -64,13 +64,59 @@ FR = {
   ]
  ],
  "faq": [
-  ("Sur quels titres de TiiTii NBA DJ Boko est-il crédité ?", "Sur trois singles listés en 2025 dans les discographies de plateformes : « ON ME (feat. DJ BOKO) (BOUYON 2026) », « WET WET (feat. DJ BOKO) (BOUYON 2026) » et « SHE’S A HOE (feat. DJ BOKO) [Bouyon 2025] », selon Shazam et Deezer."),
-  ("Pourquoi les titres portent-ils la mention BOUYON 2026 alors qu’ils sont sortis en 2025 ?", "Parce que dans cette scène, la mention entre parenthèses rattache le titre à la saison et aux playlists de l’année visée, souvent le carnaval suivant, alors que la sortie commerciale intervient l’année précédente. Shazam et Discogs datent ces singles de 2025, et ce profil donne les deux informations telles que les plateformes les publient."),
-  ("DJ Boko a-t-il produit les titres où il est crédité ?", "Les fiches vérifiées ne le disent pas. Sur les titres détaillés par Deezer, les auteurs et compositeurs nommés sont Terry Capitolin, Allan Blonbou ou Blombou selon les pages, et Julian White, mais pas DJ Boko. Il y figure comme artiste invité en featuring, et ce profil ne lui attribue aucune production que les crédits publiés ne nomment pas."),
-  ("Quel est le lien entre DJ Boko et Dinho ?", "Ils appartiennent au même circuit et au même album : « Chodong Route Empire C.R.E » de DJ SOFTEE, publié en 2025, contient « Bay li » et « SOUKWE LI » avec DJ Boko en featuring, et « SKILLI » avec DINHO en featuring aux côtés de Tiitii NBA et QWANN. Aucun titre vérifié ne les crédite ensemble sur le même morceau."),
-  ("DJ Boko est-il le DJ du même nom basé à Taïwan ?", "Non, rien ne le permet, et ce profil les distingue explicitement. Le DJ Boko de Taïwan, présent sur YouTube avec des sets R et B et hip hop, et le DJ Mc BoKo de Bulgarie sur SoundClick sont des homonymes sans lien établi avec le circuit bouyon. Seuls les crédits chez TiiTii NBA et DJ SOFTEE définissent le DJ Boko de cette page."),
-  ("Où écouter les titres où DJ Boko est crédité ?", "Commencez par « ON ME » et « WET WET » de TiiTii NBA, puis « Bay li » et « SOUKWE LI » sur l’album « Chodong Route Empire C.R.E » de DJ SOFTEE, puis le freestyle « LA PEP’HIT FREESTYLE » sorti le 4 juin 2025. Notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> suit les nouveautés de cette scène.")
- ],
+  (
+    "Qui est DJ Boko ?",
+    "DJ Boko est un DJ du circuit bouyon francophone, crédité en featuring sur sept titres vérifiables de 2025 et 2026, chez TiiTii NBA et chez DJ SOFTEE surtout. Il n’est jamais artiste principal dans les sources vérifiées, et aucune biographie, aucun nom complet ni aucune origine ne sont publiés. Son dossier est une discographie d’invité, datée et contrôlable sur Deezer, Shazam et Discogs.",
+  ),
+  (
+    "Sur quels titres de TiiTii NBA DJ Boko est-il crédité ?",
+    "Sur trois singles listés en 2025 dans les discographies de plateformes : « ON ME (feat. DJ BOKO) (BOUYON 2026) », « WET WET (feat. DJ BOKO) (BOUYON 2026) » et « SHE’S A HOE (feat. DJ BOKO) [Bouyon 2025] », selon Shazam et Deezer. Trois featurings chez le même artiste en une saison : c’est le signal public le plus fort du dossier. Voir aussi notre page <a href=\"/tiitii-nba.html\">TiiTii NBA</a>.",
+  ),
+  (
+    "Pourquoi les titres portent-ils la mention BOUYON 2026 alors qu’ils sont sortis en 2025 ?",
+    "Parce que dans cette scène, la mention entre parenthèses rattache le titre à la saison et aux playlists de l’année visée, souvent le carnaval suivant, alors que la sortie commerciale intervient l’année précédente. Shazam et Discogs datent ces singles de 2025, et ce profil donne les deux informations telles que les plateformes les publient.",
+  ),
+  (
+    "DJ Boko a-t-il produit les titres où il est crédité ?",
+    "Les fiches vérifiées ne le disent pas. Sur les titres détaillés par Deezer, les auteurs et compositeurs nommés sont Terry Capitolin, Allan Blonbou ou Blombou selon les pages, et Julian White, mais pas DJ Boko. Il y figure comme artiste invité en featuring, et ce profil ne lui attribue aucune production que les crédits publiés ne nomment pas.",
+  ),
+  (
+    "Quel est le lien entre DJ Boko et Dinho ?",
+    "Ils appartiennent au même circuit et au même album : « Chodong Route Empire C.R.E » de DJ SOFTEE, publié en 2025, contient « Bay li » et « SOUKWE LI » avec DJ Boko en featuring, et « SKILLI » avec DINHO en featuring aux côtés de Tiitii NBA et QWANN. Aucun titre vérifié ne les crédite ensemble sur le même morceau.",
+  ),
+  (
+    "DJ Boko est-il le DJ du même nom basé à Taïwan ?",
+    "Non, rien ne le permet, et ce profil les distingue explicitement. Le DJ Boko de Taïwan, présent sur YouTube avec des sets R et B et hip hop, et le DJ Mc BoKo de Bulgarie sur SoundClick sont des homonymes sans lien établi avec le circuit bouyon. Seuls les crédits chez TiiTii NBA et DJ SOFTEE définissent le DJ Boko de cette page.",
+  ),
+  (
+    "Où écouter les titres où DJ Boko est crédité ?",
+    "Commencez par « ON ME » et « WET WET » de TiiTii NBA, puis « Bay li » et « SOUKWE LI » sur l’album « Chodong Route Empire C.R.E » de DJ SOFTEE, puis le freestyle « LA PEP’HIT FREESTYLE » sorti le 4 juin 2025. Notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> suit les nouveautés de cette scène.",
+  ),
+  (
+    "DJ Boko, DJ BOKO ou Dj Boko : comment s’écrit son nom ?",
+    "Les trois graphies circulent, selon la typographie de chaque plateforme et de chaque titre : DJ BOKO en capitales chez TiiTii NBA, DJ Boko sur l’album de DJ SOFTEE, Dj Boko ailleurs. Elles désignent ici le même nom de crédit. Ce site écrit DJ Boko dans le texte courant et reproduit les titres tels que les plateformes les publient.",
+  ),
+  (
+    "Combien de titres comptent DJ Boko en featuring ?",
+    "Sept titres vérifiables entre 2025 et 2026 : « ON ME », « WET WET » et « SHE’S A HOE » chez TiiTii NBA, « Bay li » et « SOUKWE LI » sur l’album « Chodong Route Empire C.R.E » de DJ SOFTEE, le single collectif « LA PEP’HIT FREESTYLE » de DJ SOFTEE, et « Jéré Sa », single de YSN, Edday, DJ SOFTEE et Jixels classé en 2026.",
+  ),
+  (
+    "Qu’est-ce que LA PEP’HIT FREESTYLE de DJ SOFTEE ?",
+    "C’est un single de DJ SOFTEE sorti le 4 juin 2025 selon Shazam, en langue française, au tempo de 160 BPM, qui réunit en featuring TIITII NBA, DJ BOKO, LE K et DJ DIRTEE. Ce format de freestyle collectif est typique de la scène : un DJ producteur rassemble plusieurs voix et plusieurs DJs sur un même titre manifeste.",
+  ),
+  (
+    "Qu’est-ce que Jéré Sa, le titre de 2026 avec DJ Boko ?",
+    "« Jéré Sa (feat. DJ BOKO) » est un single de YSN, Edday, DJ SOFTEE et Jixels, listé en 2026 sur la page artiste de Jixels sur Shazam. C’est le crédit le plus récent du dossier. DJ SOFTEE y reste au crédit principal, mais l’arrivée de YSN, Edday et Jixels montre le nom de DJ Boko circuler dans un cercle plus large du bouyon francophone.",
+  ),
+  (
+    "Qui a écrit ON ME et WET WET de TiiTii NBA ?",
+    "Selon la playlist Deezer consacrée à TiiTii NBA, « ON ME » est écrit par Terry Capitolin et composé par Allan Blombou, pour 2 minutes 53, et « WET WET » est écrit et composé par Terry Capitolin, pour 2 minutes 13. DJ Boko figure sur les deux en featuring, sans crédit d’auteur ou de compositeur à son nom.",
+  ),
+  (
+    "Que fait un DJ crédité en featuring dans le bouyon ?",
+    "Dans le bouyon actuel, un DJ invité peut avoir fourni le riddim, une partie de la production, une voix d’ambiance, un tag ou une présence de plateau qui fait l’identité du morceau. Son nom signale une couleur, une équipe, un circuit de soirées. Les fiches publiées ne précisent pas ce rôle titre par titre pour DJ Boko, crédité comme artiste invité.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/dj-boko.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/dj-boko.html#artist", "name": "DJ Boko", "description": "DJ du circuit bouyon francophone, crédité en featuring sur ON ME, WET WET et SHE’S A HOE de TiiTii NBA, sur Bay li et SOUKWE LI de DJ SOFTEE, sur LA PEP’HIT FREESTYLE et sur Jéré Sa.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "ON ME"}, {"@type": "MusicRecording", "name": "WET WET"}, {"@type": "MusicRecording", "name": "SHE’S A HOE"}, {"@type": "MusicRecording", "name": "Bay li"}, {"@type": "MusicRecording", "name": "SOUKWE LI"}, {"@type": "MusicRecording", "name": "LA PEP’HIT FREESTYLE"}, {"@type": "MusicRecording", "name": "Jéré Sa"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -131,13 +177,59 @@ EN = {
   ]
  ],
  "faq": [
-  ("On which TiiTii NBA records is DJ Boko credited?", "On three singles listed in 2025 in platform discographies: “ON ME (feat. DJ BOKO) (BOUYON 2026)”, “WET WET (feat. DJ BOKO) (BOUYON 2026)” and “SHE’S A HOE (feat. DJ BOKO) [Bouyon 2025]”, according to Shazam and Deezer."),
-  ("Why do the records carry a BOUYON 2026 tag when they were released in 2025?", "Because in this scene, the bracketed tag attaches the record to the season and the playlists of the target year, often the next carnival, while the commercial release lands the previous year. Shazam and Discogs date these singles to 2025, and this profile gives both pieces of information as the platforms publish them."),
-  ("Did DJ Boko produce the records where he is credited?", "The verified sheets do not say so. On the records detailed by Deezer, the named writers and composers are Terry Capitolin, Allan Blonbou or Blombou depending on the page, and Julian White, but not DJ Boko. He appears there as a featured guest artist, and this profile attributes to him no production the published credits do not name."),
-  ("What is the link between DJ Boko and Dinho?", "They belong to the same circuit and the same album: the DJ SOFTEE album “Chodong Route Empire C.R.E”, released in 2025, contains “Bay li” and “SOUKWE LI” with DJ Boko as featured artist, and “SKILLI” with DINHO as featured artist alongside Tiitii NBA and QWANN. No verified record credits them together on the same track."),
-  ("Is DJ Boko the DJ of the same name based in Taiwan?", "No, nothing supports that, and this profile separates them explicitly. The Taiwan based DJ Boko, present on YouTube with R and B and hip hop sets, and DJ Mc BoKo from Bulgaria on SoundClick are namesakes with no established link to the bouyon circuit. Only the credits with TiiTii NBA and DJ SOFTEE define the DJ Boko on this page."),
-  ("Where can I hear the records where DJ Boko is credited?", "Start with TiiTii NBA “ON ME” and “WET WET”, then “Bay li” and “SOUKWE LI” on the DJ SOFTEE album “Chodong Route Empire C.R.E”, then the freestyle “LA PEP’HIT FREESTYLE” released on June 4, 2025. Our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> follows new releases from this scene.")
- ],
+  (
+    "Who is DJ Boko?",
+    "DJ Boko is a DJ from the French speaking bouyon circuit, credited as a featured artist on seven verifiable records from 2025 and 2026, mostly with TiiTii NBA and DJ SOFTEE. He is never the lead artist in the verified sources, and no biography, full name or origin is published. His record is a guest discography, dated and checkable on Deezer, Shazam and Discogs.",
+  ),
+  (
+    "On which TiiTii NBA records is DJ Boko credited?",
+    "On three singles listed in 2025 in platform discographies: “ON ME (feat. DJ BOKO) (BOUYON 2026)”, “WET WET (feat. DJ BOKO) (BOUYON 2026)” and “SHE’S A HOE (feat. DJ BOKO) [Bouyon 2025]”, according to Shazam and Deezer. Three features with the same artist in one season: that is the strongest public signal in the record. See also our <a href=\"/en/tiitii-nba.html\">TiiTii NBA</a> page.",
+  ),
+  (
+    "Why do the records carry a BOUYON 2026 tag when they were released in 2025?",
+    "Because in this scene, the bracketed tag attaches the record to the season and the playlists of the target year, often the next carnival, while the commercial release lands the previous year. Shazam and Discogs date these singles to 2025, and this profile gives both pieces of information as the platforms publish them.",
+  ),
+  (
+    "Did DJ Boko produce the records where he is credited?",
+    "The verified sheets do not say so. On the records detailed by Deezer, the named writers and composers are Terry Capitolin, Allan Blonbou or Blombou depending on the page, and Julian White, but not DJ Boko. He appears there as a featured guest artist, and this profile attributes to him no production the published credits do not name.",
+  ),
+  (
+    "What is the link between DJ Boko and Dinho?",
+    "They belong to the same circuit and the same album: the DJ SOFTEE album “Chodong Route Empire C.R.E”, released in 2025, contains “Bay li” and “SOUKWE LI” with DJ Boko as featured artist, and “SKILLI” with DINHO as featured artist alongside Tiitii NBA and QWANN. No verified record credits them together on the same track.",
+  ),
+  (
+    "Is DJ Boko the DJ of the same name based in Taiwan?",
+    "No, nothing supports that, and this profile separates them explicitly. The Taiwan based DJ Boko, present on YouTube with R and B and hip hop sets, and DJ Mc BoKo from Bulgaria on SoundClick are namesakes with no established link to the bouyon circuit. Only the credits with TiiTii NBA and DJ SOFTEE define the DJ Boko on this page.",
+  ),
+  (
+    "Where can I hear the records where DJ Boko is credited?",
+    "Start with TiiTii NBA “ON ME” and “WET WET”, then “Bay li” and “SOUKWE LI” on the DJ SOFTEE album “Chodong Route Empire C.R.E”, then the freestyle “LA PEP’HIT FREESTYLE” released on June 4, 2025. Our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> follows new releases from this scene.",
+  ),
+  (
+    "DJ Boko, DJ BOKO or Dj Boko: how is his name spelled?",
+    "All three spellings circulate, depending on each platform’s and each title’s typography: DJ BOKO in capitals with TiiTii NBA, DJ Boko on the DJ SOFTEE album, Dj Boko elsewhere. Here they name the same credit. This site writes DJ Boko in running text and reproduces titles as the platforms publish them.",
+  ),
+  (
+    "How many records feature DJ Boko?",
+    "Seven verifiable records between 2025 and 2026: “ON ME”, “WET WET” and “SHE’S A HOE” with TiiTii NBA, “Bay li” and “SOUKWE LI” on DJ SOFTEE’s album “Chodong Route Empire C.R.E”, DJ SOFTEE’s collective single “LA PEP’HIT FREESTYLE”, and “Jéré Sa”, a single by YSN, Edday, DJ SOFTEE and Jixels listed in 2026.",
+  ),
+  (
+    "What is DJ SOFTEE’s LA PEP’HIT FREESTYLE?",
+    "It is a DJ SOFTEE single released on June 4, 2025 according to Shazam, in French, at 160 BPM, featuring TIITII NBA, DJ BOKO, LE K and DJ DIRTEE. This collective freestyle format is typical of the scene: a DJ producer gathers several voices and several DJs on one statement track.",
+  ),
+  (
+    "What is Jéré Sa, the 2026 record with DJ Boko?",
+    "“Jéré Sa (feat. DJ BOKO)” is a single by YSN, Edday, DJ SOFTEE and Jixels, listed in 2026 on Jixels’s artist page on Shazam. It is the most recent credit in the record. DJ SOFTEE stays in the main credit, but the arrival of YSN, Edday and Jixels shows DJ Boko’s name moving in a wider circle of French speaking bouyon.",
+  ),
+  (
+    "Who wrote TiiTii NBA’s ON ME and WET WET?",
+    "According to the Deezer playlist devoted to TiiTii NBA, “ON ME” is written by Terry Capitolin and composed by Allan Blombou, running 2 minutes 53, and “WET WET” is written and composed by Terry Capitolin, running 2 minutes 13. DJ Boko appears on both as a featured artist, with no writer or composer credit in his name.",
+  ),
+  (
+    "What does a featured DJ do on a bouyon record?",
+    "In today’s bouyon, a guest DJ may have supplied the riddim, part of the production, a hype voice, a tag or a stage presence that shapes the track’s identity. His name signals a colour, a crew, a party circuit. The published sheets do not specify that role track by track for DJ Boko, who is credited as a guest artist.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/dj-boko.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/dj-boko.html#artist", "name": "DJ Boko", "description": "DJ from the French speaking bouyon circuit, credited as featured artist on TiiTii NBA ON ME, WET WET and SHE’S A HOE, on DJ SOFTEE Bay li and SOUKWE LI, on LA PEP’HIT FREESTYLE and on Jéré Sa.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "ON ME"}, {"@type": "MusicRecording", "name": "WET WET"}, {"@type": "MusicRecording", "name": "SHE’S A HOE"}, {"@type": "MusicRecording", "name": "Bay li"}, {"@type": "MusicRecording", "name": "SOUKWE LI"}, {"@type": "MusicRecording", "name": "LA PEP’HIT FREESTYLE"}, {"@type": "MusicRecording", "name": "Jéré Sa"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

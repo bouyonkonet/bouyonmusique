@@ -68,13 +68,67 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Starsha ?", "Starsha est le nom de scène de Marsha Laurent, chanteuse, autrice et modèle de la Dominique, née à Layou sur la côte ouest et élevée dans le village voisin de St Joseph. Dans son interview à Soca News en 2021, elle explique que Starsha vient de son surnom Star. Elle est active depuis 2017, entre soca, bouyon et dancehall, et associée sur scène à Signal Band selon la fiche de Dominica Festivals."),
-  ("Quel est le premier titre de Starsha ?", "« I Doh Fraid », sorti en 2017. La fiche de Dominica Festivals le présente comme un single écrit par elle même et produit par Dada, qui a aussi produit « Firewood » en 2018, sur le Melanin Riddim. Dans son interview à Soca News, elle cite ces deux titres comme le début de son parcours musical et nomme le producteur comme le propriétaire du Cotton Groove Studio."),
-  ("Quels sont les titres bouyon de Starsha ?", "La fiche de Dominica Festivals nomme « Colours » avec Triple Kay, « Lies » avec Asa Bantan, « Body », « You Make Me » et « Handle It », sur le Sook Pak Riddim. Elle ajoute ses passages dancehall, « Always On My Mind » sur le Sweet Talk Riddim et « Carry On » avec Black Diamond, et son duo « First » avec Zwady sur le Fete Lyfe Riddim, classé dans ses titres soca par la même fiche."),
-  ("Qu’est ce que « System Failure » ?", "Son titre soca de 2021, écrit par Jair Pendenque et posé sur le Dwivayéz Riddim, produit par ProducerDlo et Savion Beats selon le journal AXA Newz du 11 février 2021. La vidéo officielle est sortie le 25 janvier 2021, produite par Dlo de GloSho Multimedia et Savion Augustine de Savion Beats selon son interview à Soca News. Le même riddim porte aussi « Happy Place » de Shelly, « Déliway » de Trilla-G et « Down Dere » de Zwady avec Fireman Lee."),
-  ("Starsha a t elle gagné un prix aux Dominica Music Awards ?", "La fiche artiste de Dominica Festivals écrit qu’elle a terminé en tête de la catégorie Soca Artist of the Year aux Dominica Music Awards 2022, après une année 2021 de collaborations avec Shelly, Triple Kay et Trilla-G. Aucune liste indépendante des lauréats de cette édition n’a été confirmée pendant cette recherche, et ce profil attribue donc le titre à cette fiche, exactement comme elle le formule."),
-  ("Qu’est ce que « Black Girl Magic » ?", "Un titre de Starsha dont la vidéo officielle donne les crédits complets : écrit par Marsha Laurent, avec des crédits d’écriture supplémentaires pour Aswad « Zwady » Polydore, produit par Dernel Green, avec l’ingénierie vocale, le mixage et le mastering de Cornell Phillip. La même description donne ses comptes comme starshaofficial sur Instagram, Facebook et TikTok, là où son interview de 2021 donnait @juststarsha sur Instagram. Notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> suit ce répertoire.")
- ],
+  (
+    "Qui est Starsha ?",
+    "Starsha est le nom de scène de Marsha Laurent, chanteuse, autrice et modèle de la Dominique, née à Layou sur la côte ouest et élevée dans le village voisin de St Joseph. Dans son interview à Soca News en 2021, elle explique que Starsha vient de son surnom Star. Elle est active depuis 2017, entre soca, bouyon et dancehall, et associée sur scène à Signal Band selon la fiche de Dominica Festivals.",
+  ),
+  (
+    "Quel est le premier titre de Starsha ?",
+    "« I Doh Fraid », sorti en 2017. La fiche de Dominica Festivals le présente comme un single écrit par elle-même et produit par Dada, qui a aussi produit « Firewood » en 2018, sur le Melanin Riddim. Dans son interview à Soca News, elle cite ces deux titres comme le début de son parcours musical et nomme le producteur comme le propriétaire du Cotton Groove Studio.",
+  ),
+  (
+    "Quels sont les titres bouyon de Starsha ?",
+    "La fiche de Dominica Festivals nomme « Colours » avec Triple Kay, « Lies » avec Asa Bantan, « Body », « You Make Me » et « Handle It », sur le Sook Pak Riddim. Elle ajoute ses passages dancehall, « Always On My Mind » sur le Sweet Talk Riddim et « Carry On » avec Black Diamond, et son duo « First » avec Zwady sur le Fete Lyfe Riddim, classé dans ses titres soca par la même fiche.",
+  ),
+  (
+    "Qu’est-ce que « System Failure » ?",
+    "Son titre soca de 2021, écrit par Jair Pendenque et posé sur le Dwivayéz Riddim, produit par ProducerDlo et Savion Beats selon le journal AXA Newz du 11 février 2021. La vidéo officielle est sortie le 25 janvier 2021, produite par Dlo de GloSho Multimedia et Savion Augustine de Savion Beats selon son interview à Soca News. Le même riddim porte aussi « Happy Place » de Shelly, « Déliway » de Trilla-G et « Down Dere » de Zwady avec Fireman Lee.",
+  ),
+  (
+    "Starsha a-t-elle gagné un prix aux Dominica Music Awards ?",
+    "La fiche artiste de Dominica Festivals écrit qu’elle a terminé en tête de la catégorie Soca Artist of the Year aux Dominica Music Awards 2022, après une année 2021 de collaborations avec Shelly, Triple Kay et Trilla-G. Aucune liste indépendante des lauréats de cette édition n’a été confirmée pendant cette recherche, et ce profil attribue donc le titre à cette fiche, exactement comme elle le formule.",
+  ),
+  (
+    "Qu’est-ce que « Black Girl Magic » ?",
+    "Un titre de Starsha dont la vidéo officielle donne les crédits complets : écrit par Marsha Laurent, avec des crédits d’écriture supplémentaires pour Aswad « Zwady » Polydore, produit par <a href=\"/dernel-green.html\">Dernel Green</a>, avec l’ingénierie vocale, le mixage et le mastering de Cornell Phillip. La même description donne ses comptes comme starshaofficial sur Instagram, Facebook et TikTok, là où son interview de 2021 donnait @juststarsha sur Instagram.",
+  ),
+  (
+    "D’où vient Starsha ?",
+    "De la Dominique : elle est née à Layou, qu’elle décrit dans son interview de 2021 comme un petit village de pêcheurs de l’ouest de l’île, et elle a grandi dans le village voisin de St Joseph, sur la même côte, où elle résidait encore en 2021. Les deux sources consultées, la fiche de Dominica Festivals et Soca News, s’accordent sur cet ancrage.",
+  ),
+  (
+    "Pourquoi s’appelle-t-elle Starsha ?",
+    "Selon ses propres mots à Soca News en 2021, Starsha vient du surnom Star que tout le monde lui donnait quand son talent a commencé à se remarquer. Elle a gardé le nom parce qu’elle se voyait comme cette étoile. Son nom civil, Marsha Laurent, est confirmé par la fiche de Dominica Festivals et par les crédits d’écriture de « Black Girl Magic ».",
+  ),
+  (
+    "Pourquoi appelle-t-on Starsha la princesse de la soca et du bouyon ?",
+    "C’est une formule qu’elle rapporte elle-même : dans son interview à Soca News en 2021, elle se dit ravie d’être considérée chez elle comme la princesse de la soca et du bouyon. Ce site la cite comme une expression attribuée, pas comme un titre officiel. Son titre institutionnel documenté est celui de Soca Artist of the Year 2022, selon la fiche de Dominica Festivals.",
+  ),
+  (
+    "De quoi parle « System Failure » de Starsha ?",
+    "Selon l’artiste, c’est une chanson sur les femmes caribéennes fortes et leur présence sur la piste de danse. La vidéo la joue comme un jeu de séduction qui pousse un homme au bord de l’arrêt cardiaque, d’où le titre, la panne du système. Le texte est signé Jair Pendenque, auteur et homme de radio, et le titre est devenu son tube soca de 2021.",
+  ),
+  (
+    "Starsha chante-t-elle avec Shelly et Signal Band ?",
+    "Oui. La fiche de Dominica Festivals donne <a href=\"/signal-band.html\">Signal Band</a> comme formation associée : elle se produit souvent avec le groupe, notamment à ses événements comme Lumination. En 2021, elle chante « All Your Love », un duo teinté d’afrobeat avec Sheldon « Shelly » Alfred, le chanteur de Signal Band, et tous deux ont un titre sur le Dwivayéz Riddim.",
+  ),
+  (
+    "Starsha a-t-elle chanté au World Creole Music Festival ?",
+    "Oui, selon la fiche de Dominica Festivals, qui écrit qu’elle a foulé la scène du World Creole Music Festival aux côtés de Signal Band en 2019 et en 2020. La même fiche annonçait ses débuts au Jazz N Creole en 2022, avec des versions jazzy de ses titres : ce site le présente comme une annonce, pas comme une prestation vérifiée.",
+  ),
+  (
+    "Quels titres Starsha a-t-elle faits avec Zwady ?",
+    "Deux traces documentées. « First », un duo sur le Fete Lyfe Riddim cité par la fiche de Dominica Festivals parmi ses titres soca. Et « Black Girl Magic », un titre de Starsha où <a href=\"/zwady.html\">Zwady</a> tient des crédits d’écriture supplémentaires sous son nom d’Aswad Polydore. Les deux artistes ont aussi chacun un titre sur le Dwivayéz Riddim de 2021.",
+  ),
+  (
+    "Quels titres Starsha a-t-elle faits avec Triple Kay ?",
+    "« Colours », un de ses titres bouyon, avec Triple Kay en featuring, et « Xcellent » avec le Triple Kay Global Band en 2021, selon la fiche de Dominica Festivals. La même fiche indique qu’elle a tourné à Antigua et à Anguilla avec le Triple Kay Band dès 2017, l’année de son premier single.",
+  ),
+  (
+    "Quels titres Starsha a-t-elle sortis en 2021 ?",
+    "Son année la plus dense : « System Failure » sur le Dwivayéz Riddim, « All Your Love » avec Shelly, « Xcellent » avec le Triple Kay Global Band, « I Can Relate » avec Trilla-G et le single soca solo « Gyal Like Me ». Aucun album n’est référencé : son catalogue est un catalogue de singles et de riddims, à l’image du carnaval de la Dominique.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/starsha.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/starsha.html#artist", "name": "Starsha", "description": "Chanteuse dominicaine, de son vrai nom Marsha Laurent, née à Layou et élevée à St Joseph. Active depuis 2017 entre soca, bouyon et dancehall : I Doh Fraid, Firewood, Colours avec Triple Kay, Lies avec Asa Bantan, System Failure sur le Dwivayez Riddim en 2021, et Black Girl Magic écrit avec Zwady. La fiche de Dominica Festivals la donne en tête de la catégorie Soca Artist of the Year aux Dominica Music Awards 2022.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'I Doh Fraid'}, {"@type": "MusicRecording", "name": 'Firewood'}, {"@type": "MusicRecording", "name": 'Colours'}, {"@type": "MusicRecording", "name": 'Lies'}, {"@type": "MusicRecording", "name": 'Body'}, {"@type": "MusicRecording", "name": 'You Make Me'}, {"@type": "MusicRecording", "name": 'Handle It'}, {"@type": "MusicRecording", "name": 'System Failure'}, {"@type": "MusicRecording", "name": 'First'}, {"@type": "MusicRecording", "name": 'Memories'}, {"@type": "MusicRecording", "name": 'Carnival Party'}, {"@type": "MusicRecording", "name": 'Gyal Like Me'}, {"@type": "MusicRecording", "name": 'All Your Love'}, {"@type": "MusicRecording", "name": 'Xcellent'}, {"@type": "MusicRecording", "name": 'I Can Relate'}, {"@type": "MusicRecording", "name": 'My Love'}, {"@type": "MusicRecording", "name": 'Always On My Mind'}, {"@type": "MusicRecording", "name": 'Carry On'}, {"@type": "MusicRecording", "name": 'Real Good Whine'}, {"@type": "MusicRecording", "name": 'Black Girl Magic'}], "sameAs": ["https://dominicafestivals.com/2022/06/27/stasha/"]}}],
  "date_modified": "2026-10-20"
 }
@@ -141,13 +195,67 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Starsha?", "Starsha is the stage name of Marsha Laurent, a singer, songwriter and model from Dominica, born in Layou on the west coast and raised in the neighbouring village of St Joseph. In her 2021 Soca News interview she explains that Starsha comes from her nickname Star. She has been active since 2017, across soca, bouyon and dancehall, and associated on stage with Signal Band according to the Dominica Festivals profile."),
-  ("What was Starsha first record?", "“I Doh Fraid”, released in 2017. The Dominica Festivals profile presents it as a single written by herself and produced by Dada, who also produced “Firewood” in 2018, on the Melanin Riddim. In her Soca News interview she names those two records as the start of her musical path and names the producer as the owner of Cotton Groove Studio."),
-  ("What are the bouyon records of Starsha?", "The Dominica Festivals profile names “Colours” with Triple Kay, “Lies” with Asa Bantan, “Body”, “You Make Me” and “Handle It”, on the Sook Pak Riddim. It adds her dancehall moves, “Always On My Mind” on the Sweet Talk Riddim and “Carry On” with Black Diamond, and her duet “First” with Zwady on the Fete Lyfe Riddim, filed among her soca records by the same profile."),
-  ("What is “System Failure”?", "Her 2021 soca record, written by Jair Pendenque and set on the Dwivayéz Riddim, produced by ProducerDlo and Savion Beats according to the AXA Newz paper of February 11, 2021. The official video came out on January 25, 2021, produced by Dlo of GloSho Multimedia and Savion Augustine of Savion Beats according to her Soca News interview. The same riddim also carries “Happy Place” by Shelly, “Déliway” by Trilla-G and “Down Dere” by Zwady with Fireman Lee."),
-  ("Did Starsha win an award at the Dominica Music Awards?", "The Dominica Festivals artist profile writes that she topped the Soca Artist of the Year category at the Dominica Music Awards 2022, after a 2021 year of collaborations with Shelly, Triple Kay and Trilla-G. No independent winners list of that edition was confirmed during this research, and this profile therefore credits the title to that profile, exactly as it words it."),
-  ("What is “Black Girl Magic”?", "A Starsha record whose official video gives the full credits: written by Marsha Laurent, with additional writing credits for Aswad “Zwady” Polydore, produced by Dernel Green, with vocal engineering, mixing and mastering by Cornell Phillip. The same description gives her accounts as starshaofficial on Instagram, Facebook and TikTok, where her 2021 interview gave @juststarsha on Instagram. Our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> follows this repertoire.")
- ],
+  (
+    "Who is Starsha?",
+    "Starsha is the stage name of Marsha Laurent, a singer, songwriter and model from Dominica, born in Layou on the west coast and raised in the neighbouring village of St Joseph. In her 2021 Soca News interview she explains that Starsha comes from her nickname Star. She has been active since 2017, across soca, bouyon and dancehall, and associated on stage with Signal Band according to the Dominica Festivals profile.",
+  ),
+  (
+    "What was Starsha first record?",
+    "“I Doh Fraid”, released in 2017. The Dominica Festivals profile presents it as a single written by herself and produced by Dada, who also produced “Firewood” in 2018, on the Melanin Riddim. In her Soca News interview she names those two records as the start of her musical path and names the producer as the owner of Cotton Groove Studio.",
+  ),
+  (
+    "What are the bouyon records of Starsha?",
+    "The Dominica Festivals profile names “Colours” with Triple Kay, “Lies” with Asa Bantan, “Body”, “You Make Me” and “Handle It”, on the Sook Pak Riddim. It adds her dancehall moves, “Always On My Mind” on the Sweet Talk Riddim and “Carry On” with Black Diamond, and her duet “First” with Zwady on the Fete Lyfe Riddim, filed among her soca records by the same profile.",
+  ),
+  (
+    "What is “System Failure”?",
+    "Her 2021 soca record, written by Jair Pendenque and set on the Dwivayéz Riddim, produced by ProducerDlo and Savion Beats according to the AXA Newz paper of February 11, 2021. The official video came out on January 25, 2021, produced by Dlo of GloSho Multimedia and Savion Augustine of Savion Beats according to her Soca News interview. The same riddim also carries “Happy Place” by Shelly, “Déliway” by Trilla-G and “Down Dere” by Zwady with Fireman Lee.",
+  ),
+  (
+    "Did Starsha win an award at the Dominica Music Awards?",
+    "The Dominica Festivals artist profile writes that she topped the Soca Artist of the Year category at the Dominica Music Awards 2022, after a 2021 year of collaborations with Shelly, Triple Kay and Trilla-G. No independent winners list of that edition was confirmed during this research, and this profile therefore credits the title to that profile, exactly as it words it.",
+  ),
+  (
+    "What is “Black Girl Magic”?",
+    "A Starsha record whose official video gives the full credits: written by Marsha Laurent, with additional writing credits for Aswad “Zwady” Polydore, produced by <a href=\"/en/dernel-green.html\">Dernel Green</a>, with vocal engineering, mixing and mastering by Cornell Phillip. The same description gives her accounts as starshaofficial on Instagram, Facebook and TikTok, where her 2021 interview gave @juststarsha on Instagram.",
+  ),
+  (
+    "Where is Starsha from?",
+    "From Dominica: she was born in Layou, which she describes in her 2021 interview as a small fishing village in the west of the island, and she grew up in the neighbouring village of St Joseph, on the same coast, where she was still residing in 2021. Both sources consulted, the Dominica Festivals profile and Soca News, agree on that anchoring.",
+  ),
+  (
+    "Why is she called Starsha?",
+    "In her own words to Soca News in 2021, Starsha comes from the nickname Star that everyone gave her when her talent began to be noticed. She kept the name because she saw herself as that star. Her legal name, Marsha Laurent, is confirmed by the Dominica Festivals profile and by the writing credits of “Black Girl Magic”.",
+  ),
+  (
+    "Why is Starsha called the soca and bouyon princess?",
+    "It is a phrase she reports herself: in her 2021 Soca News interview, she says she has been delighted to be regarded back home as the soca and bouyon princess. This site quotes it as an attributed phrase, not an official title. Her documented institutional title is Soca Artist of the Year 2022, according to the Dominica Festivals profile.",
+  ),
+  (
+    "What is Starsha's “System Failure” about?",
+    "According to the artist, it is a song about strong Caribbean women and their presence on the dance floor. The video plays it as a seduction game that sends a man to the edge of cardiac arrest, hence the title, the system failure. The lyrics are by Jair Pendenque, writer and radio man, and the record became her 2021 soca hit.",
+  ),
+  (
+    "Does Starsha sing with Shelly and Signal Band?",
+    "Yes. The Dominica Festivals profile gives <a href=\"/en/signal-band.html\">Signal Band</a> as her associated act: she often performs with the band, notably at its signature events such as Lumination. In 2021 she sings “All Your Love”, an afrobeat tinted duet with Sheldon “Shelly” Alfred, the Signal Band singer, and both have a cut on the Dwivayéz Riddim.",
+  ),
+  (
+    "Has Starsha performed at the World Creole Music Festival?",
+    "Yes, according to the Dominica Festivals profile, which writes that she graced the World Creole Music Festival stage alongside Signal Band in 2019 and in 2020. The same profile announced her Jazz N Creole debut in 2022, with jazzy versions of her records: this site presents that as an announcement, not as a verified performance.",
+  ),
+  (
+    "What songs has Starsha made with Zwady?",
+    "Two documented traces. “First”, a duet on the Fete Lyfe Riddim listed by the Dominica Festivals profile among her soca records. And “Black Girl Magic”, a Starsha record on which <a href=\"/en/zwady.html\">Zwady</a> holds additional writing credits under his name Aswad Polydore. The two artists also each have a cut on the 2021 Dwivayéz Riddim.",
+  ),
+  (
+    "What songs has Starsha made with Triple Kay?",
+    "“Colours”, one of her bouyon records, featuring Triple Kay, and “Xcellent” with the Triple Kay Global Band in 2021, according to the Dominica Festivals profile. The same profile says she toured Antigua and Anguilla with the Triple Kay Band as early as 2017, the year of her first single.",
+  ),
+  (
+    "What did Starsha release in 2021?",
+    "Her densest year: “System Failure” on the Dwivayéz Riddim, “All Your Love” with Shelly, “Xcellent” with the Triple Kay Global Band, “I Can Relate” with Trilla-G and the solo soca single “Gyal Like Me”. No album is referenced: her catalog is a catalog of singles and riddims, in the image of Dominica carnival.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/starsha.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/starsha.html#artist", "name": "Starsha", "description": "Dominican singer, real name Marsha Laurent, born in Layou and raised in St Joseph. Active since 2017 across soca, bouyon and dancehall: I Doh Fraid, Firewood, Colours with Triple Kay, Lies with Asa Bantan, System Failure on the Dwivayez Riddim in 2021, and Black Girl Magic written with Zwady. The Dominica Festivals profile places her at the top of the Soca Artist of the Year category at the Dominica Music Awards 2022.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'I Doh Fraid'}, {"@type": "MusicRecording", "name": 'Firewood'}, {"@type": "MusicRecording", "name": 'Colours'}, {"@type": "MusicRecording", "name": 'Lies'}, {"@type": "MusicRecording", "name": 'Body'}, {"@type": "MusicRecording", "name": 'You Make Me'}, {"@type": "MusicRecording", "name": 'Handle It'}, {"@type": "MusicRecording", "name": 'System Failure'}, {"@type": "MusicRecording", "name": 'First'}, {"@type": "MusicRecording", "name": 'Memories'}, {"@type": "MusicRecording", "name": 'Carnival Party'}, {"@type": "MusicRecording", "name": 'Gyal Like Me'}, {"@type": "MusicRecording", "name": 'All Your Love'}, {"@type": "MusicRecording", "name": 'Xcellent'}, {"@type": "MusicRecording", "name": 'I Can Relate'}, {"@type": "MusicRecording", "name": 'My Love'}, {"@type": "MusicRecording", "name": 'Always On My Mind'}, {"@type": "MusicRecording", "name": 'Carry On'}, {"@type": "MusicRecording", "name": 'Real Good Whine'}, {"@type": "MusicRecording", "name": 'Black Girl Magic'}], "sameAs": ["https://dominicafestivals.com/2022/06/27/stasha/"]}}],
  "date_modified": "2026-10-20"
 }

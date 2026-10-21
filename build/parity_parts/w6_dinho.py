@@ -64,13 +64,55 @@ FR = {
   ]
  ],
  "faq": [
-  ("Sur quel titre Dinho est-il crédité avec 1T1 ?", "Sur « Leave Me Alone », sorti le 6 septembre 2024 chez 1T1 et AB BOYZ MUSIC selon Qobuz. Le titre complet, tel que le liste Shazam, est « Leave Me Alone (feat. Dinho, Lejuh, Theomaa et Binksdrick) », avec 1T1 comme artiste principal."),
-  ("Dinho et Dinhno sont-ils la même personne ?", "Ce n’est pas confirmé par une source biographique. Les plateformes écrivent Dinho dans « Leave Me Alone » et dans « SKILLI » de DJ SOFTEE, mais Dinhno, avec un n supplémentaire, dans les crédits de compositeur de « Bouwey » de 1T1 sur Deezer. Ce profil signale les deux orthographes sans trancher à la place des intéressés."),
-  ("Dinho a-t-il sorti un titre sous son seul nom ?", "Aucun single, EP ou album sous le seul nom de Dinho n’a été trouvé dans les sources vérifiées pour ce profil. Son dossier public connu est fait de collaborations : un featuring chez 1T1, un crédit de composition voisin sur « Bouwey », et un featuring chez DJ SOFTEE sur « SKILLI »."),
-  ("Qui est QWANN, cité avec Dinho sur « SKILLI » ?", "QWANN est l’un des artistes invités, avec Tiitii NBA et DINHO, sur « SKILLI (BOUYON 2026) » de DJ SOFTEE, titre de l’album « Chodong Route Empire C.R.E » publié en 2025, d’une durée de 2 minutes 03 selon Deezer. Les auteurs crédités du titre sont Julian White et Terry Capitolin."),
-  ("Pourquoi ne faut-il pas confondre ce Dinho avec d’autres artistes appelés Dinho ?", "Parce que Dinho est un surnom très courant, notamment dans le football brésilien, et que plusieurs musiciens sans lien avec le bouyon portent ce nom dans d’autres genres et d’autres pays. Ce profil ne retient que les crédits liés au circuit bouyon de 1T1 et de DJ SOFTEE, et n’emprunte aucune biographie à un homonyme."),
-  ("Où écouter les titres où Dinho est crédité ?", "Commencez par « Leave Me Alone » de 1T1, puis « Bouwey » sur l’EP « CHORD » de 1T1, puis « SKILLI » sur l’album « Chodong Route Empire C.R.E » de DJ SOFTEE. Notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> suit les nouveautés de cette scène guadeloupéenne.")
- ],
+  (
+    "Qui est Dinho ?",
+    "Dinho est un artiste du circuit bouyon guadeloupéen connu par ses crédits de collaboration : un featuring sur « Leave Me Alone » de 1T1 en 2024, aux côtés de Lejuh, Theomaa et Binksdrick, et un featuring sur « SKILLI » de DJ SOFTEE. Un crédit de composition au nom proche, Dinhno, figure aussi sur « Bouwey » de 1T1. Aucune biographie publique n’est établie à ce jour.",
+  ),
+  (
+    "Sur quel titre Dinho est-il crédité avec 1T1 ?",
+    "Sur « Leave Me Alone », sorti le 6 septembre 2024 chez 1T1 et AB BOYZ MUSIC selon Qobuz. Le titre complet, tel que le liste la page concert de 1T1 sur Shazam, est « Leave Me Alone (feat. Dinho, Lejuh, Theomaa et Binksdrick) », avec 1T1 comme artiste principal. C’est le crédit le plus solide du dossier, confirmé par deux plateformes avec la même orthographe Dinho.",
+  ),
+  (
+    "Dinho et Dinhno sont-ils la même personne ?",
+    "Ce n’est pas confirmé par une source biographique. Les plateformes écrivent Dinho dans « Leave Me Alone » et dans « SKILLI » de DJ SOFTEE, mais Dinhno, avec un n supplémentaire, dans les crédits de compositeur de « Bouwey » de 1T1 sur Deezer. Ce profil signale les deux orthographes sans trancher à la place des intéressés.",
+  ),
+  (
+    "Dinho a-t-il sorti un titre sous son seul nom ?",
+    "Aucun single, EP ou album sous le seul nom de Dinho n’a été trouvé dans les sources vérifiées pour ce profil. Son dossier public connu est fait de collaborations : un featuring chez 1T1, un crédit de composition voisin sur « Bouwey », et un featuring chez DJ SOFTEE sur « SKILLI ».",
+  ),
+  (
+    "Qui est QWANN, cité avec Dinho sur « SKILLI » ?",
+    "QWANN est l’un des artistes invités, avec Tiitii NBA et DINHO, sur « SKILLI (BOUYON 2026) » de DJ SOFTEE, titre de l’album « Chodong Route Empire C.R.E » publié en 2025, d’une durée de 2 minutes 03 selon Deezer. Les auteurs crédités du titre sont Julian White et Terry Capitolin. Sur ce titre, Dinho et QWANN sont donc deux voix invitées du même projet de DJ.",
+  ),
+  (
+    "Pourquoi ne faut-il pas confondre ce Dinho avec d’autres artistes appelés Dinho ?",
+    "Parce que Dinho est un surnom très courant, notamment dans le football brésilien, et que plusieurs musiciens sans lien avec le bouyon portent ce nom dans d’autres genres et d’autres pays. Ce profil ne retient que les crédits liés au circuit bouyon de 1T1 et de DJ SOFTEE, et n’emprunte aucune biographie à un homonyme.",
+  ),
+  (
+    "Où écouter les titres où Dinho est crédité ?",
+    "Commencez par « Leave Me Alone » de 1T1, sorti en septembre 2024, puis « Bouwey » sur l’EP « CHORD » de 1T1, sorti en décembre 2024, puis « SKILLI » sur l’album « Chodong Route Empire C.R.E » de DJ SOFTEE. Ces trois titres sont publiés sur les plateformes. Notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> suit les nouveautés de cette scène guadeloupéenne.",
+  ),
+  (
+    "Dinho est-il un artiste de Guadeloupe ?",
+    "Ses crédits le placent dans le bouyon de Guadeloupe : ses titres connus sortent chez 1T1, chanteur originaire de la Guadeloupe selon Qobuz, sur le label AB BOYZ MUSIC, et chez DJ SOFTEE, DJ producteur de la même scène. Son lieu de naissance et sa commune ne sont en revanche documentés par aucune source vérifiée, et ce site ne les écrit donc pas.",
+  ),
+  (
+    "Qui est 1T1, l’artiste qui a invité Dinho ?",
+    "1T1 est présenté par Qobuz, d’après la biographie Music Story, comme un chanteur francophone des Antilles françaises, originaire de la Guadeloupe, spécialisé dans le bouyon, la soca et le dancehall. Le label AB BOYZ le décrit comme compositeur et producteur, révélé notamment par « Wa wa waaw » avec Theomaa. Son profil complet est sur notre page <a href=\"/1t1.html\">1T1</a>.",
+  ),
+  (
+    "Qui a composé Bouwey de 1T1 ?",
+    "Les playlists Deezer qui reprennent « Bouwey » créditent trois compositeurs : 1t1, Theomaa et Dinhno, avec un n supplémentaire par rapport au Dinho de « Leave Me Alone ». Le titre dure 2 minutes 37 et figure sur l’EP « CHORD » de 1T1, sorti le 13 décembre 2024 chez 1T1 et AB BOYZ MUSIC. Qobuz le cite comme très populaire sur les réseaux.",
+  ),
+  (
+    "Leave Me Alone a-t-il été un succès bouyon ?",
+    "Le titre a duré. Sept mois après sa sortie, le classement Dominican Bouyon and Soca Top Trending Songs d’Island Vybe et Sokah2Soca, pour la semaine se terminant le 26 avril 2025, le listait encore parmi les titres tendance, sous la forme « 1T1 x LeJuh x Theomaa x Dinho ». Shazam le compte aussi parmi les titres mis en avant de 1T1.",
+  ),
+  (
+    "Qui est DJ SOFTEE, avec qui Dinho a chanté ?",
+    "DJ SOFTEE est un DJ producteur du bouyon guadeloupéen récent. Son album « Chodong Route Empire C.R.E », publié en 2025, contient « SKILLI (feat. Tiitii Nba, QWANN et DINHO) (BOUYON 2026) », écrit et composé par Julian White et Terry Capitolin selon Deezer. C’est la troisième trace documentée de Dinho, cette fois en capitales, DINHO. Voir notre page <a href=\"/dj-softee.html\">DJ SOFTEE</a>.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/dinho.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/dinho.html#artist", "name": "Dinho", "description": "Artiste du circuit bouyon guadeloupéen, crédité en featuring sur Leave Me Alone de 1T1 (2024) avec Lejuh, Theomaa et Binksdrick, et sur SKILLI de DJ SOFTEE. Un crédit de composition voisin, orthographié Dinhno, figure sur Bouwey de 1T1.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Leave Me Alone"}, {"@type": "MusicRecording", "name": "Bouwey"}, {"@type": "MusicRecording", "name": "SKILLI"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -131,13 +173,55 @@ EN = {
   ]
  ],
  "faq": [
-  ("On which record is Dinho credited with 1T1?", "On “Leave Me Alone”, released on September 6, 2024 by 1T1 and AB BOYZ MUSIC according to Qobuz. The full title, as Shazam lists it, is “Leave Me Alone (feat. Dinho, Lejuh, Theomaa and Binksdrick)”, with 1T1 as lead artist."),
-  ("Are Dinho and Dinhno the same person?", "That is not confirmed by any biographical source. The platforms write Dinho in “Leave Me Alone” and in DJ SOFTEE “SKILLI”, but Dinhno, with an extra n, in the composer credits for 1T1 “Bouwey” on Deezer. This profile flags both spellings without deciding in place of the people concerned."),
-  ("Has Dinho released a record under his name alone?", "No single, EP or album under the name Dinho alone was found in the sources verified for this profile. His known public record is made of collaborations: a feature with 1T1, a neighbouring composer credit on “Bouwey”, and a feature with DJ SOFTEE on “SKILLI”."),
-  ("Who is QWANN, named with Dinho on SKILLI?", "QWANN is one of the guest artists, with Tiitii NBA and DINHO, on DJ SOFTEE “SKILLI (BOUYON 2026)”, a record from the album “Chodong Route Empire C.R.E” released in 2025, with a duration of 2 minutes 03 according to Deezer. The credited writers of the record are Julian White and Terry Capitolin."),
-  ("Why must this Dinho not be confused with other artists called Dinho?", "Because Dinho is a very common nickname, notably in Brazilian football, and several musicians with no link to bouyon carry this name in other genres and other countries. This profile retains only the credits tied to the 1T1 and DJ SOFTEE bouyon circuit, and borrows no biography from a namesake."),
-  ("Where can I hear the records where Dinho is credited?", "Start with 1T1 “Leave Me Alone”, then “Bouwey” on the 1T1 “CHORD” EP, then “SKILLI” on the DJ SOFTEE album “Chodong Route Empire C.R.E”. Our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> follows new releases from this Guadeloupe scene.")
- ],
+  (
+    "Who is Dinho?",
+    "Dinho is an artist from the Guadeloupe bouyon circuit known through collaboration credits: a feature on 1T1’s “Leave Me Alone” in 2024, alongside Lejuh, Theomaa and Binksdrick, and a feature on DJ SOFTEE’s “SKILLI”. A composer credit under a close name, Dinhno, also appears on 1T1’s “Bouwey”. No public biography is established to date.",
+  ),
+  (
+    "On which record is Dinho credited with 1T1?",
+    "On “Leave Me Alone”, released on September 6, 2024 by 1T1 and AB BOYZ MUSIC according to Qobuz. The full title, as listed on 1T1’s concert page on Shazam, is “Leave Me Alone (feat. Dinho, Lejuh, Theomaa and Binksdrick)”, with 1T1 as lead artist. It is the strongest credit in the record, confirmed by two platforms with the same Dinho spelling.",
+  ),
+  (
+    "Are Dinho and Dinhno the same person?",
+    "That is not confirmed by any biographical source. The platforms write Dinho in “Leave Me Alone” and in DJ SOFTEE “SKILLI”, but Dinhno, with an extra n, in the composer credits for 1T1 “Bouwey” on Deezer. This profile flags both spellings without deciding in place of the people concerned.",
+  ),
+  (
+    "Has Dinho released a record under his name alone?",
+    "No single, EP or album under the name Dinho alone was found in the sources verified for this profile. His known public record is made of collaborations: a feature with 1T1, a neighbouring composer credit on “Bouwey”, and a feature with DJ SOFTEE on “SKILLI”.",
+  ),
+  (
+    "Who is QWANN, named with Dinho on SKILLI?",
+    "QWANN is one of the guest artists, with Tiitii NBA and DINHO, on DJ SOFTEE’s “SKILLI (BOUYON 2026)”, a record from the album “Chodong Route Empire C.R.E” released in 2025, with a duration of 2 minutes 03 according to Deezer. The credited writers are Julian White and Terry Capitolin. On that record, Dinho and QWANN are two guest voices on the same DJ project.",
+  ),
+  (
+    "Why must this Dinho not be confused with other artists called Dinho?",
+    "Because Dinho is a very common nickname, notably in Brazilian football, and several musicians with no link to bouyon carry this name in other genres and other countries. This profile retains only the credits tied to the 1T1 and DJ SOFTEE bouyon circuit, and borrows no biography from a namesake.",
+  ),
+  (
+    "Where can I hear the records where Dinho is credited?",
+    "Start with 1T1’s “Leave Me Alone”, released in September 2024, then “Bouwey” on 1T1’s “CHORD” EP, released in December 2024, then “SKILLI” on DJ SOFTEE’s album “Chodong Route Empire C.R.E”. All three are released on the platforms. Our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> follows new releases from this Guadeloupe scene.",
+  ),
+  (
+    "Is Dinho a Guadeloupe artist?",
+    "His credits place him in Guadeloupe bouyon: his known records come out with 1T1, a singer native of Guadeloupe according to Qobuz, on the AB BOYZ MUSIC label, and with DJ SOFTEE, a DJ producer from the same scene. His birthplace and hometown, however, are documented by no verified source, so this site does not print them.",
+  ),
+  (
+    "Who is 1T1, the artist who featured Dinho?",
+    "1T1 is presented by Qobuz, from the Music Story biography, as a French speaking singer from the French West Indies, native of Guadeloupe, specialising in bouyon, soca and dancehall. The AB BOYZ label describes him as a composer and producer, revealed notably by “Wa wa waaw” with Theomaa. His full profile is on our <a href=\"/en/1t1.html\">1T1</a> page.",
+  ),
+  (
+    "Who composed 1T1’s Bouwey?",
+    "The Deezer playlists carrying “Bouwey” credit three composers: 1t1, Theomaa and Dinhno, with one more n than the Dinho of “Leave Me Alone”. The track runs 2 minutes 37 and sits on 1T1’s “CHORD” EP, released on December 13, 2024 by 1T1 and AB BOYZ MUSIC. Qobuz cites it as very popular on social media.",
+  ),
+  (
+    "Was Leave Me Alone a bouyon hit?",
+    "The song lasted. Seven months after its release, the Dominican Bouyon and Soca Top Trending Songs chart by Island Vybe and Sokah2Soca, for the week ending April 26, 2025, still listed it among trending songs, as “1T1 x LeJuh x Theomaa x Dinho”. Shazam also counts it among 1T1’s featured tracks.",
+  ),
+  (
+    "Who is DJ SOFTEE, whom Dinho sang with?",
+    "DJ SOFTEE is a DJ producer of recent Guadeloupe bouyon. His album “Chodong Route Empire C.R.E”, released in 2025, contains “SKILLI (feat. Tiitii Nba, QWANN and DINHO) (BOUYON 2026)”, written and composed by Julian White and Terry Capitolin according to Deezer. It is Dinho’s third documented trace, this time in capitals, DINHO. See our <a href=\"/en/dj-softee.html\">DJ SOFTEE</a> page.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/dinho.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/dinho.html#artist", "name": "Dinho", "description": "Artist from the Guadeloupe bouyon circuit, credited as featured artist on 1T1 Leave Me Alone (2024) with Lejuh, Theomaa and Binksdrick, and on DJ SOFTEE SKILLI. A neighbouring composer credit, spelled Dinhno, appears on 1T1 Bouwey.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Leave Me Alone"}, {"@type": "MusicRecording", "name": "Bouwey"}, {"@type": "MusicRecording", "name": "SKILLI"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

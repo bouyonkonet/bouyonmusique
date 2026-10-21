@@ -65,13 +65,55 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est YoJoshii ?", "Un producteur bouyon documenté par deux crédits vérifiés, et par rien d’autre dans les sources publiques consultées. Il produit « SEE U » pour Pinpin OSP, dans l’équipe de VGM Product en Guadeloupe, et il coproduit « Back Up Your Chat » pour Ebony Empress et Foxy Jael avec Yung Pierre, en Dominique, en 2026. Aucune biographie, aucun nom civil, aucune origine et aucune page artiste à son nom n’ont été trouvés pendant cette recherche."),
-  ("Quels titres YoJoshii a-t-il produits ?", "Deux titres vérifiés à la source. « SEE U », de Pinpin OSP, dont la description officielle du clip crédite YoJoshii à la production, Mproduction971 à la réalisation et VGM Product à l’enregistrement, au mixage et au mastering. Et « Back Up Your Chat », d’Ebony Empress avec Foxy Jael, produit par YoJoshii et Yung Pierre, mixé par Cleverns Pierre, masterisé par Khallion et enregistré au Felix Studio, annoncé par la presse dominicaine le 15 mai 2026."),
-  ("Qu’est-ce que « Back Up Your Chat » doit à YoJoshii ?", "Sa production, partagée avec Yung Pierre. Selon Black Island Girl Multimedia et la description officielle de la vidéo, le titre d’Ebony Empress et Foxy Jael, écrit par Everlyne Leandra Walters et Aurelle Joseph et enregistré au Felix Studio, est produit par YoJoshii et Yung Pierre, mixé par Cleverns Pierre et masterisé par Khallion. Ebony Empress a dit que c’était la première chanson qu’elle ait jamais créée, modernisée des années plus tard."),
-  ("YoJoshii a-t-il produit d’autres titres de Pinpin OSP ?", "Aucun autre n’a été vérifié. Les fiches des singles du catalogue VGM PRODUCT de Pinpin OSP consultées pour ce profil, « Make it pop » avec Edday en 2023 et « On Fwa » avec Shanika en 2024, créditent d’autres compositeurs, Luchshiy et YasBeats selon les titres, et ne nomment pas YoJoshii. Son seul crédit confirmé chez cet artiste est la production du clip « SEE U »."),
-  ("YoJoshii et le Joshii de « 6 o’clock » de Miimii KDS, est-ce le même producteur ?", "Ce n’est établi par aucune source consultée. Deezer crédite « 6 o’clock », de Miimii KDS, à trois compositeurs : Joshii, TitoWeGlobal et Jervon Henderson, avec une graphie plus courte que YoJoshii. Aucun document ne relie les deux graphies, qui ne partagent ni artiste ni équipe documentés. Ce profil laisse donc la question ouverte et n’attribue pas « 6 o’clock » à YoJoshii."),
-  ("Pourquoi ce profil est-il si court sur YoJoshii ?", "Parce que le dossier public l’est. Deux crédits de production vérifiés, aucune biographie, aucune interview, aucune page artiste confirmée : ce profil publie les deux crédits en détail, avec leurs équipes, leurs dates quand elles existent et leurs sources, il sépare le nom de ses voisins, Yo Joshy, Joshii G et le Joshii de Miimii KDS, et il refuse de remplir les blancs par invention. Il sera complété dès qu’une source nouvelle paraîtra.")
- ],
+  (
+    "Qui est YoJoshii ?",
+    "YoJoshii est un producteur bouyon documenté par deux crédits vérifiés, et par rien d’autre dans les sources publiques consultées. Il produit « SEE U » pour Pinpin OSP, dans l’équipe de VGM Product en Guadeloupe, et il coproduit « Back Up Your Chat » pour Ebony Empress et Foxy Jael avec Yung Pierre, en Dominique, en 2026. Aucune biographie, aucun nom civil, aucune origine et aucune page artiste à son nom n’ont été trouvés pendant cette recherche.",
+  ),
+  (
+    "Quels titres YoJoshii a-t-il produits ?",
+    "Deux titres vérifiés à la source. « SEE U », de Pinpin OSP, dont la description officielle du clip crédite YoJoshii à la production, Mproduction971 à la réalisation et VGM Product à l’enregistrement, au mixage et au mastering. Et « Back Up Your Chat », d’Ebony Empress avec Foxy Jael, produit par YoJoshii et Yung Pierre, mixé par Cleverns Pierre, masterisé par Khallion et enregistré au Felix Studio, annoncé par la presse dominicaine le 15 mai 2026.",
+  ),
+  (
+    "Qui a produit « SEE U » de Pinpin OSP ?",
+    "« SEE U » est produit par YoJoshii, selon la description officielle du clip, qui crédite @PINPINOSPOFFICIEL comme auteur, @Mproduction971 à la réalisation et @vgmproduct à l’enregistrement, au mixage et au mastering. Les mots clés de la vidéo, BOUYON, PINPIN et VGM, revendiquent l’étiquette bouyon. La page consultée n’affiche ni date ni label, et ce profil ne date donc pas le titre. Voir notre page <a href=\"/pinpin-osp.html\">Pinpin OSP</a>.",
+  ),
+  (
+    "Qu’est-ce que « Back Up Your Chat » doit à YoJoshii ?",
+    "Sa production, partagée avec Yung Pierre. Selon Black Island Girl Multimedia et la description officielle de la vidéo, le titre d’Ebony Empress et Foxy Jael, écrit par Everlyne Leandra Walters et Aurelle Joseph et enregistré au Felix Studio, est produit par YoJoshii et Yung Pierre, mixé par Cleverns Pierre et masterisé par Khallion. Les deux crédits de production y sont publiés sous les identifiants @YoJoshii et @YungPierre117.",
+  ),
+  (
+    "Quand « Back Up Your Chat » d’Ebony Empress et Foxy Jael est-il sorti ?",
+    "Sa sortie a été annoncée le 15 mai 2026 par le média dominicain Black Island Girl Multimedia, sous la signature de Sémaj Bernard, qui le présente comme un remix bouyon énergique. La vidéo officielle porte la mention Bouyon 2026. C’est le seul crédit daté du dossier YoJoshii. Le contexte de la chanteuse se lit sur notre page <a href=\"/ebony-empress.html\">Ebony Empress</a>.",
+  ),
+  (
+    "De quoi parle « Back Up Your Chat » ?",
+    "Le texte s’adresse, selon les mots d’Ebony Empress rapportés par la presse dominicaine, aux hommes qui ont plus de paroles que d’actes. Pendant un entretien en direct sur l’émission de Foxy Jael, elle a révélé que c’était la première chanson qu’elle ait jamais créée, ramenée et modernisée des années plus tard parce que le beat avait changé un peu. YoJoshii et Yung Pierre en signent cette nouvelle production.",
+  ),
+  (
+    "YoJoshii travaille-t-il en Guadeloupe ou en Dominique ?",
+    "Ses deux crédits se trouvent de part et d’autre du canal de la Dominique : « SEE U » dans l’équipe guadeloupéenne de VGM Product, « Back Up Your Chat » au Felix Studio avec deux artistes bouyon de la Dominique. Le même nom exact, @YoJoshii, figure sur les deux documents. Aucune source ne donne son origine ni son identité civile : ce profil parle d’une continuité de signature, pas d’une biographie.",
+  ),
+  (
+    "YoJoshii a-t-il produit d’autres titres de Pinpin OSP ?",
+    "Aucun autre n’a été vérifié. Les fiches des singles du catalogue VGM PRODUCT de Pinpin OSP consultées pour ce profil, « Make it pop » avec Edday en 2023 et « On Fwa » avec Shanika en 2024, créditent d’autres compositeurs, Luchshiy et YasBeats selon les titres, et ne nomment pas YoJoshii. Son seul crédit confirmé chez cet artiste est la production du clip « SEE U ».",
+  ),
+  (
+    "YoJoshii et le Joshii de « 6 o’clock » de Miimii KDS, est-ce le même producteur ?",
+    "Ce n’est établi par aucune source consultée. Deezer crédite « 6 o’clock », de Miimii KDS, à trois compositeurs : Joshii, TitoWeGlobal et Jervon Henderson, avec une graphie plus courte que YoJoshii. Aucun document ne relie les deux graphies, qui ne partagent ni artiste ni équipe documentés. Ce profil laisse donc la question ouverte et n’attribue pas « 6 o’clock » à YoJoshii.",
+  ),
+  (
+    "YoJoshii, Yo Joshy et Joshii G : est-ce le même artiste ?",
+    "Non, aucune source ne les relie. Yo Joshy est un artiste shatta de la Martinique qui chante ses propres titres, dont « Hold Up » : un interprète, pas un nom de production. Joshii G apparaît comme producteur d’une vidéo de Vibez King, dans un univers jab et bouyon de la Grenade et de la Dominique. Seul le nom exact YoJoshii, écrit avec le Yo soudé et deux i finaux, entre dans ce dossier.",
+  ),
+  (
+    "Pourquoi ce profil est-il si court sur YoJoshii ?",
+    "Parce que le dossier public l’est. Deux crédits de production vérifiés, aucune biographie, aucune interview, aucune page artiste confirmée : ce profil publie les deux crédits en détail, avec leurs équipes, leurs dates quand elles existent et leurs sources, il sépare le nom de ses voisins, Yo Joshy, Joshii G et le Joshii de Miimii KDS, et il refuse de remplir les blancs par invention. Il sera complété dès qu’une source nouvelle paraîtra.",
+  ),
+  (
+    "Où écouter les productions de YoJoshii ?",
+    "Par ses deux titres vérifiés : « Back Up Your Chat » d’Ebony Empress avec Foxy Jael, le crédit le plus complet, puis « SEE U » de Pinpin OSP, qui montre le même nom dans l’atelier guadeloupéen de VGM Product. Pour entendre la scène bouyon actuelle dans son ensemble, la Road Mix de notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> est le point d’entrée du site.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/yojoshii.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/yojoshii.html#artist", "name": "YoJoshii", "description": "Producteur bouyon documenté par deux crédits vérifiés : la production de SEE U pour Pinpin OSP, dans l’équipe VGM Product, et la coproduction de Back Up Your Chat pour Ebony Empress et Foxy Jael avec Yung Pierre, en 2026. Aucune biographie, aucun nom civil et aucune origine publiés dans les sources consultées. A ne pas confondre avec Yo Joshy, Joshii G, ni avec le compositeur Joshii crédité sur 6 o’clock de Miimii KDS, rapprochement non établi.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'SEE U'}, {"@type": "MusicRecording", "name": 'Back Up Your Chat'}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -134,13 +176,55 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is YoJoshii?", "A bouyon producer documented by two verified credits, and by nothing else in the public sources consulted. He produces “SEE U” for Pinpin OSP, inside the VGM Product team in Guadeloupe, and he co-produces “Back Up Your Chat” for Ebony Empress and Foxy Jael with Yung Pierre, in Dominica, in 2026. No biography, no real name, no origin and no artist page under his name were found during this research."),
-  ("Which records has YoJoshii produced?", "Two records verified at the source. “SEE U”, by Pinpin OSP, whose official video description credits YoJoshii on production, Mproduction971 on direction and VGM Product on recording, mixing and mastering. And “Back Up Your Chat”, by Ebony Empress featuring Foxy Jael, produced by YoJoshii and Yung Pierre, mixed by Cleverns Pierre, mastered by Khallion and recorded at Felix Studio, announced by the Dominican press on May 15, 2026."),
-  ("What does “Back Up Your Chat” owe to YoJoshii?", "Its production, shared with Yung Pierre. According to Black Island Girl Multimedia and the official video description, the Ebony Empress and Foxy Jael record, written by Everlyne Leandra Walters and Aurelle Joseph and recorded at Felix Studio, is produced by YoJoshii and Yung Pierre, mixed by Cleverns Pierre and mastered by Khallion. Ebony Empress said it was the first song she ever created, modernised years later."),
-  ("Has YoJoshii produced other Pinpin OSP records?", "None other was verified. The listings of the Pinpin OSP catalog singles on VGM PRODUCT consulted for this profile, “Make it pop” with Edday in 2023 and “On Fwa” with Shanika in 2024, credit other composers, Luchshiy and YasBeats depending on the record, and do not name YoJoshii. His only confirmed credit with that artist is the production of the “SEE U” video."),
-  ("Are YoJoshii and the Joshii of Miimii KDS “6 o’clock” the same producer?", "That is established by no source consulted. Deezer credits “6 o’clock”, by Miimii KDS, to three composers: Joshii, TitoWeGlobal and Jervon Henderson, in a spelling shorter than YoJoshii. No document links the two spellings, which share no documented artist or team. This profile therefore leaves the question open and does not attribute “6 o’clock” to YoJoshii."),
-  ("Why is this profile so short on YoJoshii?", "Because the public file is. Two verified production credits, no biography, no interview, no confirmed artist page: this profile publishes the two credits in detail, with their teams, their dates where they exist and their sources, it separates the name from its neighbours, Yo Joshy, Joshii G and the Joshii of Miimii KDS, and it refuses to fill the blanks by invention. It will be completed as soon as a new source appears.")
- ],
+  (
+    "Who is YoJoshii?",
+    "YoJoshii is a bouyon producer documented by two verified credits, and by nothing else in the public sources consulted. He produces “SEE U” for Pinpin OSP, inside the VGM Product team in Guadeloupe, and he co-produces “Back Up Your Chat” for Ebony Empress and Foxy Jael with Yung Pierre, in Dominica, in 2026. No biography, no real name, no origin and no artist page under his name were found during this research.",
+  ),
+  (
+    "Which records has YoJoshii produced?",
+    "Two records verified at the source. “SEE U”, by Pinpin OSP, whose official video description credits YoJoshii on production, Mproduction971 on direction and VGM Product on recording, mixing and mastering. And “Back Up Your Chat”, by Ebony Empress featuring Foxy Jael, produced by YoJoshii and Yung Pierre, mixed by Cleverns Pierre, mastered by Khallion and recorded at Felix Studio, announced by the Dominican press on May 15, 2026.",
+  ),
+  (
+    "Who produced “SEE U” by Pinpin OSP?",
+    "“SEE U” was produced by YoJoshii, according to the official video description, which credits @PINPINOSPOFFICIEL as author, @Mproduction971 on direction and @vgmproduct on recording, mixing and mastering. The video keywords, BOUYON, PINPIN and VGM, claim the bouyon label. The page consulted shows no date or label, so this profile does not date the record. See our <a href=\"/en/pinpin-osp.html\">Pinpin OSP</a> page.",
+  ),
+  (
+    "What does “Back Up Your Chat” owe to YoJoshii?",
+    "Its production, shared with Yung Pierre. According to Black Island Girl Multimedia and the official video description, the Ebony Empress and Foxy Jael record, written by Everlyne Leandra Walters and Aurelle Joseph and recorded at Felix Studio, is produced by YoJoshii and Yung Pierre, mixed by Cleverns Pierre and mastered by Khallion. Both production credits are published there under the handles @YoJoshii and @YungPierre117.",
+  ),
+  (
+    "When was “Back Up Your Chat” by Ebony Empress and Foxy Jael released?",
+    "Its release was announced on May 15, 2026 by the Dominican outlet Black Island Girl Multimedia, under the byline of Sémaj Bernard, which presents it as an energetic bouyon remix. The official video carries the Bouyon 2026 tag. It is the only dated credit of the YoJoshii file. The context of the singer can be read on our <a href=\"/en/ebony-empress.html\">Ebony Empress</a> page.",
+  ),
+  (
+    "What is “Back Up Your Chat” about?",
+    "The lyric speaks, in the words of Ebony Empress as reported by the Dominican press, to men who have more talk than action. During a livestream interview on Foxy Jael show, she revealed it was the first song she ever created, brought back and modernised years later because the beat had changed a little. YoJoshii and Yung Pierre sign this new production of it.",
+  ),
+  (
+    "Does YoJoshii work in Guadeloupe or in Dominica?",
+    "His two credits sit on both sides of the Dominica channel: “SEE U” with the Guadeloupe team of VGM Product, “Back Up Your Chat” at Felix Studio with two bouyon artists from Dominica. The same exact name, @YoJoshii, appears on both documents. No source gives his origin or civil identity: this profile speaks of a continuity of signature, not of a biography.",
+  ),
+  (
+    "Has YoJoshii produced other Pinpin OSP records?",
+    "None other was verified. The listings of the Pinpin OSP catalog singles on VGM PRODUCT consulted for this profile, “Make it pop” with Edday in 2023 and “On Fwa” with Shanika in 2024, credit other composers, Luchshiy and YasBeats depending on the record, and do not name YoJoshii. His only confirmed credit with that artist is the production of the “SEE U” video.",
+  ),
+  (
+    "Are YoJoshii and the Joshii of Miimii KDS “6 o’clock” the same producer?",
+    "That is established by no source consulted. Deezer credits “6 o’clock”, by Miimii KDS, to three composers: Joshii, TitoWeGlobal and Jervon Henderson, in a spelling shorter than YoJoshii. No document links the two spellings, which share no documented artist or team. This profile therefore leaves the question open and does not attribute “6 o’clock” to YoJoshii.",
+  ),
+  (
+    "Are YoJoshii, Yo Joshy and Joshii G the same artist?",
+    "No, no source links them. Yo Joshy is a shatta artist from Martinique who sings his own records, among them “Hold Up”: a performer, not a production name. Joshii G appears as the producer of a Vibez King video, in a jab and bouyon world of Grenada and Dominica. Only the exact name YoJoshii, written with the Yo joined and two final i letters, enters this file.",
+  ),
+  (
+    "Why is this profile so short on YoJoshii?",
+    "Because the public file is. Two verified production credits, no biography, no interview, no confirmed artist page: this profile publishes the two credits in detail, with their teams, their dates where they exist and their sources, it separates the name from its neighbours, Yo Joshy, Joshii G and the Joshii of Miimii KDS, and it refuses to fill the blanks by invention. It will be completed as soon as a new source appears.",
+  ),
+  (
+    "Where can I hear the productions of YoJoshii?",
+    "Through his two verified records: “Back Up Your Chat” by Ebony Empress featuring Foxy Jael, the most complete credit, then “SEE U” by Pinpin OSP, which shows the same name in the Guadeloupe workshop of VGM Product. To hear the current bouyon scene as a whole, the Road Mix on our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> page is the site entry point.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/yojoshii.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/yojoshii.html#artist", "name": "YoJoshii", "description": "Bouyon producer documented by two verified credits: the production of SEE U for Pinpin OSP, inside the VGM Product team, and the co-production of Back Up Your Chat for Ebony Empress and Foxy Jael with Yung Pierre, in 2026. No biography, no real name and no origin published in the sources consulted. Not to be confused with Yo Joshy, Joshii G, nor with the composer Joshii credited on 6 o’clock by Miimii KDS, a link that is not established.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'SEE U'}, {"@type": "MusicRecording", "name": 'Back Up Your Chat'}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

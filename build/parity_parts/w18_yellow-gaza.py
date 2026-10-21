@@ -70,13 +70,59 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Yellow Gaza ?", "Yellow Gaza est un acte bouyon de Guadeloupe, classé en Guadeloupe par la plateforme Viberate, dont le catalogue vérifié court de 2013 à 2024. Ses singles datés sont « Vole Nonm a Moun » en 2013, « Y.A.G. » et « Sa ki bon (Bouyon King) » en 2021, « Tout de suite » en 2022 et « PLAN A 3 » avec Yumei en 2024, les titres récents paraissant chez Vadore Concept Groupe. Aucune source consultée ne publie les noms de ses membres ni sa biographie."),
-  ("Quel est le titre le plus connu de Yellow Gaza ?", "« Sa ki bon (Bouyon King) », single sorti le 14 décembre 2021 chez Vadore Concept, à 157 BPM. Les plateformes de statistiques le placent en tête des titres populaires de l’acte. Son générique publié crédite VADORE CONCEPT GROUPE à la composition et Letin Sylia et Letin Severine à l’écriture. La parenthèse Bouyon King fait partie de l’intitulé du titre : ce site la cite comme un intitulé, sans la transformer en classement."),
-  ("Qui écrit les titres de Yellow Gaza ?", "Le couple d’autrices Letin Severine et Letin Sylia est la signature récurrente du catalogue : compositrices de « Vole Nonm a Moun » en 2013, autrices de « Sa ki bon (Bouyon King) » en 2021 et de « PLAN A 3 » en 2024, où Letin Sylia paraît sous la graphie LETIN SYLVIA, avec TITINE EMMANUELLE. Les autres configurations sont GEMAYEL VERMILAS, compositeur de « Y.A.G. » en 2021, et Cedrick Raboteur, auteur et compositeur de « Tout de suite » en 2022."),
-  ("Yellow Gaza et Yellow Gaza Girls, est-ce le même artiste ?", "Les sources donnent deux signatures distinctes, et ce site les tient séparées. « LEVRETTE », sorti le 16 octobre 2025 chez Vadore Concept Groupe, est interprété sous le nom Yellow Gaza Girls, pas Yellow Gaza. Les deux noms partagent la même enseigne et les mêmes autrices, Letin Severine et Letin Sylia, ce qui établit une parenté d’atelier dans la même maison, mais aucun document consulté ne dit que les interprètes sont les mêmes, et le titre de 2025 n’est donc pas porté au catalogue de cette page."),
-  ("Yellow Gaza a-t-il un lien avec Gaza Girls Crew ou Gaza Crew ?", "Aucun lien n’est établi par les sources consultées, et ce profil est celui qui le dit au lieu de laisser les moteurs mélanger les noms. Gaza Girls Crew est un groupe féminin documenté par un single de 2011 chez Bouyon Concept et par la scène parisienne de 2012. Gaza Crew ne survit que dans une liste de mots clés d’une vidéo du cercle de Suppa. Yellow Gaza a son propre catalogue, de 2013 à 2024, chez Vadore Concept pour ses titres récents : trois dossiers séparés, sans fait partagé."),
-  ("Où écouter Yellow Gaza ?", "Commencez par « Sa ki bon (Bouyon King) » en 2021, puis « Vole Nonm a Moun », le single de 2013, « Y.A.G. », « Tout de suite » et « PLAN A 3 » avec Yumei en 2024, puis le titre voisin « LEVRETTE » des Yellow Gaza Girls en 2025. Notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> et notre page <a href=\"/bouyon-gwada.html\">bouyon gwada</a> replacent ces titres dans la scène guadeloupéenne du genre.")
- ],
+  (
+    "Qui est Yellow Gaza ?",
+    "Yellow Gaza est un acte bouyon de Guadeloupe, classé en Guadeloupe par la plateforme Viberate, dont le catalogue vérifié court de 2013 à 2024. Ses singles datés sont « Vole Nonm a Moun » en 2013, « Y.A.G. » et « Sa ki bon (Bouyon King) » en 2021, « Tout de suite » en 2022 et « PLAN A 3 » avec Yumei en 2024. Aucune source consultée ne publie les noms de ses membres ni sa biographie.",
+  ),
+  (
+    "Quel est le titre le plus connu de Yellow Gaza ?",
+    "« Sa ki bon (Bouyon King) », single sorti le 14 décembre 2021 chez Vadore Concept, à 157 BPM. Les plateformes de statistiques le placent en tête des titres populaires de l’acte. Son générique publié crédite VADORE CONCEPT GROUPE à la composition et Letin Sylia et Letin Severine à l’écriture. La parenthèse Bouyon King fait partie de l’intitulé du titre : ce site la cite comme un intitulé, sans la transformer en classement.",
+  ),
+  (
+    "Que veut dire « Vole Nonm a Moun » ?",
+    "Le titre créole se rend par « vole le nom des gens ». C’est le premier single vérifié de Yellow Gaza, sorti le 5 mars 2013 sous le label Yellow Gaza, au nom même de l’acte, à 157 BPM et pour 3:40 sur Deezer. Yellow Gaza en est l’interprète et l’auteur crédité, et Letin Sylia et Letin Severine les compositrices. La plateforme Viberate liste aussi un « V.N.M II », qui se lit comme sa suite.",
+  ),
+  (
+    "Qui écrit les titres de Yellow Gaza ?",
+    "Le couple d’autrices Letin Severine et Letin Sylia est la signature récurrente du catalogue : compositrices de « Vole Nonm a Moun » en 2013, autrices de « Sa ki bon (Bouyon King) » en 2021 et de « PLAN A 3 » en 2024, où Letin Sylia paraît sous la graphie LETIN SYLVIA, avec TITINE EMMANUELLE. Les autres configurations sont GEMAYEL VERMILAS sur « Y.A.G. » et Cedrick Raboteur sur « Tout de suite ».",
+  ),
+  (
+    "Qui a composé « Y.A.G. » de Yellow Gaza ?",
+    "Le générique publié de « Y.A.G. » ne porte qu’un nom : GEMAYEL VERMILAS, crédité comme compositeur. Ce nom est celui de Gomko, artiste de la même scène guadeloupéenne, dont les propres listes de singles portent les titres de Yellow Gaza de cette période. Le single est sorti le 26 novembre 2021 sur le label STREET VYBZ, pour une durée de 3:16.",
+  ),
+  (
+    "Qui chante « PLAN A 3 » avec Yellow Gaza ?",
+    "Yumei, en featuring, sous l’intitulé complet « PLAN A 3 (feat. Yu Mei) [Femmes Fatales Edition Bouyon] ». Le titre est sorti le 7 septembre 2024 chez Vadore Concept Groupe, en français, à 157 BPM, composé par MEYAPIN BORDIN ALLAN et écrit par LETIN SYLVIA, Letin Severine et TITINE EMMANUELLE. C’est le titre le plus récent sous le nom Yellow Gaza. Voir le profil de <a href=\"/yu-mei.html\">Yumei</a>.",
+  ),
+  (
+    "Sur quel label sort Yellow Gaza ?",
+    "Surtout chez Vadore Concept, l’enseigne de production guadeloupéenne des Bouyon Kings. Le premier single, en 2013, sort sous le label Yellow Gaza lui-même ; « Y.A.G. » sort en 2021 chez STREET VYBZ ; puis « Sa ki bon (Bouyon King) », « Tout de suite » et « PLAN A 3 » paraissent chez Vadore Concept ou Vadore Concept Groupe, dont Yellow Gaza est l’un des noms les plus fidèles. Voir notre page <a href=\"/vador.html\">Vador</a>.",
+  ),
+  (
+    "Yellow Gaza et Yellow Gaza Girls, est-ce le même artiste ?",
+    "Les sources donnent deux signatures distinctes, et ce site les tient séparées. « LEVRETTE », sorti le 16 octobre 2025 chez Vadore Concept Groupe, est interprété sous le nom Yellow Gaza Girls, pas Yellow Gaza. Les deux noms partagent la même enseigne et les mêmes autrices, ce qui établit une parenté d’atelier, mais aucun document consulté ne dit que les interprètes sont les mêmes.",
+  ),
+  (
+    "Yellow Gaza a-t-il un lien avec Gaza Girls Crew ou Gaza Crew ?",
+    "Aucun lien n’est établi par les sources consultées. Gaza Girls Crew est un groupe féminin documenté par un single de 2011 chez Bouyon Concept et par la scène parisienne de 2012. Gaza Crew ne survit que dans une liste de mots clés d’une vidéo du cercle de Suppa. Yellow Gaza a son propre catalogue, de 2013 à 2024 : trois dossiers séparés, sans fait partagé.",
+  ),
+  (
+    "Yellow Gaza est-il cité parmi les grands noms du bouyon gwada ?",
+    "Oui. Les articles de référence sur la musique de Guadeloupe, de France et des Petites Antilles citent Yellow Gaza parmi les musiciens populaires du bouyon gwada, dans le voisinage du bouyon hardcore, aux côtés de Wee Low, Suppa et Doc J. La liste ne dit rien de plus sur l’acte, mais elle le range parmi les noms de référence de la scène guadeloupéenne. Voir notre profil de <a href=\"/weelow.html\">Weelow</a>.",
+  ),
+  (
+    "Pourquoi Yellow Gaza est-il classé en musique africaine ?",
+    "Parce que les plateformes n’ont pas de case bouyon. Viberate range Yellow Gaza en musique africaine et autres musiques africaines, avec la Guadeloupe comme territoire, alors que l’acte chante du bouyon gwada en français et en créole sur des riddims hérités de la Dominique. Ce classement renseigne sur les bases de données, qui rangent le genre tantôt en musique africaine, tantôt en reggae et dancehall, pas sur l’artiste.",
+  ),
+  (
+    "Quels autres titres de Yellow Gaza circulent ?",
+    "Viberate nomme parmi ses titres populaires « V.N.M II », « Macrelle » et « Goute Goute », pour lesquels aucune fiche datée n’a été ouverte : ce site ne leur prête ni date, ni label, ni générique. Un post TikTok du compte Loxymore annonce aussi « Yellow Gaza, Bon appetit », disponible en vidéo sur sa chaîne YouTube. Le catalogue réel dépasse donc probablement les cinq singles de plateforme vérifiés.",
+  ),
+  (
+    "Où écouter Yellow Gaza ?",
+    "Commencez par « Sa ki bon (Bouyon King) » en 2021, puis « Vole Nonm a Moun », le single de 2013, « Y.A.G. », « Tout de suite » et « PLAN A 3 » avec Yumei en 2024. Pour la scène bouyon actuelle, de la Dominique à la Guadeloupe, notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> Road Mix de Bouyon Shattaz réunit nouveautés et classiques du carnaval.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/yellow-gaza.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/yellow-gaza.html#artist", "name": "Yellow Gaza", "description": "Acte bouyon de Guadeloupe. Catalogue vérifié de 2013 à 2024 chez Vadore Concept pour ses titres récents : Vole Nonm a Moun, Y.A.G., Sa ki bon (Bouyon King), Tout de suite et PLAN A 3 avec Yumei, écrits en grande partie par Letin Severine et Letin Sylia.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Vole Nonm a Moun"}, {"@type": "MusicRecording", "name": "Y.A.G."}, {"@type": "MusicRecording", "name": "Sa ki bon (Bouyon King)"}, {"@type": "MusicRecording", "name": "Tout de suite"}, {"@type": "MusicRecording", "name": "PLAN A 3"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -142,13 +188,59 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Yellow Gaza?", "Yellow Gaza is a bouyon act from Guadeloupe, classified in Guadeloupe by the Viberate platform, whose verified catalogue runs from 2013 to 2024. Its dated singles are “Vole Nonm a Moun” in 2013, “Y.A.G.” and “Sa ki bon (Bouyon King)” in 2021, “Tout de suite” in 2022 and “PLAN A 3” with Yumei in 2024, the recent records released on Vadore Concept Groupe. No source consulted publishes the names of its members or its biography."),
-  ("What is the best known Yellow Gaza record?", "“Sa ki bon (Bouyon King)”, a single released on December 14, 2021 on Vadore Concept, at 157 BPM. The statistics platforms place it at the head of the popular records of the act. Its published credit roll credits VADORE CONCEPT GROUPE with composition and Letin Sylia and Letin Severine with writing. The Bouyon King bracket is part of the title of the record: this site quotes it as a title, without turning it into a ranking."),
-  ("Who writes the Yellow Gaza records?", "The pair of songwriters Letin Severine and Letin Sylia is the recurring signature of the catalogue: composers of “Vole Nonm a Moun” in 2013, writers of “Sa ki bon (Bouyon King)” in 2021 and of “PLAN A 3” in 2024, where Letin Sylia appears in the spelling LETIN SYLVIA, with TITINE EMMANUELLE. The other configurations are GEMAYEL VERMILAS, composer of “Y.A.G.” in 2021, and Cedrick Raboteur, songwriter and composer of “Tout de suite” in 2022."),
-  ("Are Yellow Gaza and Yellow Gaza Girls the same artist?", "The sources give two distinct billings, and this site keeps them separate. “LEVRETTE”, released on October 16, 2025 on Vadore Concept Groupe, is performed under the name Yellow Gaza Girls, not Yellow Gaza. The two names share the same banner and the same writers, Letin Severine and Letin Sylia, which establishes a workshop kinship inside the same house, but no document consulted says that the performers are the same, and the 2025 record is therefore not carried in the catalogue of this page."),
-  ("Is Yellow Gaza linked to Gaza Girls Crew or Gaza Crew?", "No link is established by the sources consulted, and this profile is the one that says so instead of letting the search engines mix the names. Gaza Girls Crew is a women group documented by a 2011 single on Bouyon Concept and by the Paris stage of 2012. Gaza Crew survives only in a keyword list of a video from the Suppa circle. Yellow Gaza has its own catalogue, from 2013 to 2024, on Vadore Concept for its recent records: three separate files, with no shared fact."),
-  ("Where can I hear Yellow Gaza?", "Start with “Sa ki bon (Bouyon King)” in 2021, then “Vole Nonm a Moun”, the 2013 single, “Y.A.G.”, “Tout de suite” and “PLAN A 3” with Yumei in 2024, then the neighbouring record “LEVRETTE” by Yellow Gaza Girls in 2025. Our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> and our <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a> page place these records back in the Guadeloupe scene of the genre.")
- ],
+  (
+    "Who is Yellow Gaza?",
+    "Yellow Gaza is a bouyon act from Guadeloupe, classified in Guadeloupe by the Viberate platform, whose verified catalogue runs from 2013 to 2024. Its dated singles are “Vole Nonm a Moun” in 2013, “Y.A.G.” and “Sa ki bon (Bouyon King)” in 2021, “Tout de suite” in 2022 and “PLAN A 3” with Yumei in 2024. No source consulted publishes the names of its members or its biography.",
+  ),
+  (
+    "What is the best known Yellow Gaza record?",
+    "“Sa ki bon (Bouyon King)”, a single released on December 14, 2021 on Vadore Concept, at 157 BPM. The statistics platforms place it at the head of the popular records of the act. Its published credit roll credits VADORE CONCEPT GROUPE with composition and Letin Sylia and Letin Severine with writing. The Bouyon King bracket is part of the title of the record: this site quotes it as a title, without turning it into a ranking.",
+  ),
+  (
+    "What does “Vole Nonm a Moun” mean?",
+    "The Creole title can be rendered as “stealing people’s names”. It is the first verified Yellow Gaza single, released on March 5, 2013 under the Yellow Gaza label, the very name of the act, at 157 BPM and 3:40 on Deezer. Yellow Gaza is the performer and credited songwriter, and Letin Sylia and Letin Severine the composers. The Viberate platform also lists a “V.N.M II”, which reads as its sequel.",
+  ),
+  (
+    "Who writes the Yellow Gaza records?",
+    "The pair of songwriters Letin Severine and Letin Sylia is the recurring signature of the catalogue: composers of “Vole Nonm a Moun” in 2013, writers of “Sa ki bon (Bouyon King)” in 2021 and of “PLAN A 3” in 2024, where Letin Sylia appears in the spelling LETIN SYLVIA, with TITINE EMMANUELLE. The other configurations are GEMAYEL VERMILAS on “Y.A.G.” and Cedrick Raboteur on “Tout de suite”.",
+  ),
+  (
+    "Who composed “Y.A.G.” by Yellow Gaza?",
+    "The published credit roll of “Y.A.G.” carries only one name: GEMAYEL VERMILAS, credited as composer. That name is the name of Gomko, an artist of the same Guadeloupe scene, whose own singles listings carry the Yellow Gaza records of that period. The single was released on November 26, 2021 on the STREET VYBZ label, with a running time of 3:16.",
+  ),
+  (
+    "Who sings “PLAN A 3” with Yellow Gaza?",
+    "Yumei, as featured artist, under the full title “PLAN A 3 (feat. Yu Mei) [Femmes Fatales Edition Bouyon]”. The record was released on September 7, 2024 on Vadore Concept Groupe, in French, at 157 BPM, composed by MEYAPIN BORDIN ALLAN and written by LETIN SYLVIA, Letin Severine and TITINE EMMANUELLE. It is the most recent record under the name Yellow Gaza. See the <a href=\"/en/yu-mei.html\">Yumei</a> profile.",
+  ),
+  (
+    "What label is Yellow Gaza on?",
+    "Mostly Vadore Concept, the Guadeloupe production banner of the Bouyon Kings. The first single, in 2013, came out under the Yellow Gaza label itself; “Y.A.G.” came out in 2021 on STREET VYBZ; then “Sa ki bon (Bouyon King)”, “Tout de suite” and “PLAN A 3” were released on Vadore Concept or Vadore Concept Groupe, of which Yellow Gaza is one of the most loyal names. See our <a href=\"/en/vador.html\">Vador</a> page.",
+  ),
+  (
+    "Are Yellow Gaza and Yellow Gaza Girls the same artist?",
+    "The sources give two distinct billings, and this site keeps them separate. “LEVRETTE”, released on October 16, 2025 on Vadore Concept Groupe, is performed under the name Yellow Gaza Girls, not Yellow Gaza. The two names share the same banner and the same writers, which establishes a workshop kinship, but no document consulted says that the performers are the same.",
+  ),
+  (
+    "Is Yellow Gaza linked to Gaza Girls Crew or Gaza Crew?",
+    "No link is established by the sources consulted. Gaza Girls Crew is a women group documented by a 2011 single on Bouyon Concept and by the Paris stage of 2012. Gaza Crew survives only in a keyword list of a video from the Suppa circle. Yellow Gaza has its own catalogue, from 2013 to 2024: three separate files, with no shared fact.",
+  ),
+  (
+    "Is Yellow Gaza listed among the big names of bouyon gwada?",
+    "Yes. The reference articles on the music of Guadeloupe, of France and of the Lesser Antilles cite Yellow Gaza among the popular musicians of bouyon gwada, in the neighbourhood of bouyon hardcore, alongside Wee Low, Suppa and Doc J. The list says nothing more about the act, but it places it among the reference names of the Guadeloupe scene. See our <a href=\"/en/weelow.html\">Weelow</a> profile.",
+  ),
+  (
+    "Why is Yellow Gaza classified as African music?",
+    "Because the platforms have no bouyon box. Viberate files Yellow Gaza under African and Other African Music, with Guadeloupe as territory, while the act sings bouyon gwada in French and Creole over riddims inherited from Dominica. That classification tells us about the databases, which file the genre sometimes as African music, sometimes as reggae and dancehall, not about the artist.",
+  ),
+  (
+    "What other Yellow Gaza songs are around?",
+    "Viberate names among its popular songs “V.N.M II”, “Macrelle” and “Goute Goute”, for which no dated song page was opened: this site gives them no date, no label and no credits. A TikTok post by the Loxymore account also announces “Yellow Gaza, Bon appetit”, available as a video on its YouTube channel. The real catalogue therefore probably goes beyond the five verified platform singles.",
+  ),
+  (
+    "Where can I hear Yellow Gaza?",
+    "Start with “Sa ki bon (Bouyon King)” in 2021, then “Vole Nonm a Moun”, the 2013 single, “Y.A.G.”, “Tout de suite” and “PLAN A 3” with Yumei in 2024. For today’s bouyon scene, from Dominica to Guadeloupe, our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, the Road Mix by Bouyon Shattaz, gathers new releases and carnival classics.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/yellow-gaza.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/yellow-gaza.html#artist", "name": "Yellow Gaza", "description": "Bouyon act from Guadeloupe. Verified catalogue from 2013 to 2024, on Vadore Concept for its recent records: Vole Nonm a Moun, Y.A.G., Sa ki bon (Bouyon King), Tout de suite and PLAN A 3 with Yumei, written in large part by Letin Severine and Letin Sylia.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Vole Nonm a Moun"}, {"@type": "MusicRecording", "name": "Y.A.G."}, {"@type": "MusicRecording", "name": "Sa ki bon (Bouyon King)"}, {"@type": "MusicRecording", "name": "Tout de suite"}, {"@type": "MusicRecording", "name": "PLAN A 3"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

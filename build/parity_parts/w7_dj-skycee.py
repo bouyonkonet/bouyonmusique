@@ -69,13 +69,55 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est DJ Skycee ?", "DJ Skycee est un DJ et compositeur lié au label Stormwave Entertainment, actif dans le bouyon et le shatta des Antilles françaises. Il est connu pour « Sé Miimii » avec Miimii KDS, où il est crédité en featuring et appelé par son nom dans les paroles, et pour avoir composé « Get Money » de Coryy. Son catalogue vérifié compte cinq titres entre 2025 et 2026. Aucune biographie publiée de l’artiste n’a été retrouvée."),
-  ("Qui a produit « Sé Miimii », le titre de Miimii KDS et DJ Skycee ?", "Les crédits publiés attribuent la production et la composition de « Sé Miimii » à Yannis Batta, le mixage à Mag et un crédit de paroles à Emilie Afoy, avec une publication Stormwave Entertainment en 2025. Le rôle documenté de DJ Skycee y est celui d’artiste principal et de DJ mis en avant : le titre le crédite en featuring et les paroles l’appellent, « Skycee wait, surf the riddim ». C’est la précision que les pages promotionnelles omettent le plus souvent."),
-  ("DJ Skycee et DJ Skaytah, est-ce le même artiste ?", "Non. Ce sont deux artistes distincts aux noms presque identiques, sans aucun titre ni crédit en commun dans les sources vérifiées. DJ Skycee est l’artiste Stormwave de « Sé Miimii », « Get Money » et « Caribbean Love ». DJ Skaytah est le producteur de « Kay Ka Fet » et de « Mass (Welcome To Guadeloupe) », dont les crédits portent le nom de Bradley Paulin. Ce site leur consacre deux pages séparées."),
-  ("Quels titres DJ Skycee a-t-il composés ou interprétés ?", "Cinq titres sont vérifiés : « Sé Miimii » avec Miimii KDS, publié le 11 juillet 2025, où il est artiste principal et featuring ; « Je veux » avec Shaimee, où il est interprète ; « Get Money » de Coryy, dont la description officielle le crédite comme compositeur, sous le label Stormwave ENT. ; « Caribbean Love » avec Kima, publié sous son nom ; et « CARIBBEAN GYAL », avec Atox, Billy BYBF et Tito, sorti le 6 février 2026 sur PlayDiTune."),
-  ("D’où vient DJ Skycee ?", "Aucune source publiée retrouvée ne donne son lieu de naissance ou d’origine, et ce site ne le déduit ni du « 97 » de ses identifiants ni du « 972 » de l’identifiant de son collaborateur Coryy. Ce qui est vérifié : la bio de son TikTok officiel, @skycee97, affiche les drapeaux de la Guadeloupe et de la Martinique, et toutes ses collaborations documentées appartiennent au circuit bouyon et shatta de ces deux îles et au label Stormwave."),
-  ("Où suivre et écouter DJ Skycee ?", "Ses comptes vérifiés, donnés par les descriptions officielles de ses vidéos Stormwave et ouverts pour ce profil, sont @skycee_97 sur Instagram et @skycee97 sur TikTok. Ses titres sont sur les plateformes de streaming, à commencer par « Sé Miimii », « Get Money » et « Caribbean Love ». Pour le contexte, écoutez aussi notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> et lisez notre page <a href=\"/miimii-kds.html\">Miimii KDS</a>.")
- ],
+  (
+    "Qui est DJ Skycee ?",
+    "DJ Skycee est un DJ et compositeur lié au label Stormwave Entertainment, actif dans le bouyon et le shatta des Antilles françaises. Il est connu pour « Sé Miimii » avec Miimii KDS, où il est crédité en featuring et appelé par son nom dans les paroles, et pour avoir composé « Get Money » de Coryy. Son catalogue vérifié compte cinq titres entre 2025 et 2026.",
+  ),
+  (
+    "Qui a produit « Sé Miimii », le titre de Miimii KDS et DJ Skycee ?",
+    "Les crédits publiés attribuent la production et la composition de « Sé Miimii » à Yannis Batta, le mixage à Mag et un crédit de paroles à Emilie Afoy, avec une publication Stormwave Entertainment en 2025. Le rôle documenté de DJ Skycee y est celui d’artiste principal et de DJ mis en avant : le titre le crédite en featuring et les paroles l’appellent par son nom.",
+  ),
+  (
+    "Que veut dire « Skycee wait, surf the riddim » dans Sé Miimii ?",
+    "C’est l’appel lancé à DJ Skycee dans « Sé Miimii » : les paroles indexées lui demandent de surfer le riddim, puis le pont le salue d’un « Big up Skycee timal ». C’est le format classique du DJ dans le bouyon et le shatta : le DJ n’est pas un technicien invisible, mais un personnage du titre, appelé, salué et chargé de relancer la rythmique.",
+  ),
+  (
+    "DJ Skycee et DJ Skaytah, est-ce le même artiste ?",
+    "Non. Ce sont deux artistes distincts aux noms presque identiques, sans aucun titre ni crédit en commun dans les sources vérifiées. DJ Skycee est l’artiste Stormwave de « Sé Miimii », « Get Money » et « Caribbean Love ». DJ Skaytah est le producteur de « Kay Ka Fet » et de « Mass (Welcome To Guadeloupe) », dont les crédits portent le nom de Bradley Paulin. Ce site leur consacre deux pages séparées.",
+  ),
+  (
+    "DJ Skycee est-il DJ Skaylone ?",
+    "Non. DJ Skaylone est l’auteur de riddims bouyon publiés sur YouTube depuis la fin des années 2010, sans lien vérifié avec DJ Skycee. Les deux noms se croisent pourtant dans les mêmes tracklists de podcasts bouyon, ce qui entretient la confusion. Le seul DJ Skycee du bouyon est celui des comptes @skycee_97 sur Instagram et @skycee97 sur TikTok, cités par les vidéos officielles Stormwave.",
+  ),
+  (
+    "Quels titres DJ Skycee a-t-il composés ou interprétés ?",
+    "Cinq titres sont vérifiés : « Sé Miimii » avec Miimii KDS, publié le 11 juillet 2025, « Je veux » avec Shaimee, où il est interprète, « Get Money » de Coryy, dont il est crédité compositeur, « Caribbean Love » avec Kima, publié sous son nom, et « CARIBBEAN GYAL », avec Atox, Billy BYBF et Tito, sorti le 6 février 2026 sur PlayDiTune.",
+  ),
+  (
+    "Qui a composé Get Money de Coryy ?",
+    "DJ Skycee. La description officielle de la vidéo présente « Get Money » comme le dernier single de Coryy avec @skycee_97 et précise « Composé par Skycee ». Le mixage et le mastering sont signés HYT, la vidéo est réalisée par ADN et coréalisée par Fwame Studio, avec un copyright Stormwave ENT. 2026. C’est le crédit de compositeur le plus clair de son dossier.",
+  ),
+  (
+    "Qu’est-ce que Caribbean Love de DJ Skycee et Kima ?",
+    "« Caribbean Love » est un titre publié sous le nom « DJ SKYCEE & Kima ». Sa vidéo officielle, réalisée par Stormwave et Alyssa Gaudens, annonce le titre disponible sur toutes les plateformes, sous copyright Stormwave ENT. 2026, et un listing de sorties DJ lui donne une durée de 2 minutes 54. Le texte de la vidéo parle de mettre à l’honneur les talents caribéens.",
+  ),
+  (
+    "Sur quel label est DJ Skycee ?",
+    "Stormwave Entertainment est le label de son catalogue : il est crédité sur « Sé Miimii » et signe les copyrights de « Get Money » et « Caribbean Love » en 2026. Une autre ligne de crédits associe aussi « Sé Miimii » à MF Music, et « CARIBBEAN GYAL » sort chez PlayDiTune, sur l’EP « CARNA » d’Atox et Billy BYBF. Stormwave relie ses artistes, de Miimii KDS à Coryy et Kima.",
+  ),
+  (
+    "Avec qui DJ Skycee a-t-il collaboré ?",
+    "Ses collaborations vérifiées couvrent le circuit bouyon et shatta des Antilles françaises : Miimii KDS sur « Sé Miimii », Shaimee sur « Je veux », Coryy sur « Get Money », Kima sur « Caribbean Love », et Atox, Billy BYBF et Tito sur « CARIBBEAN GYAL ». Le producteur Yanis Batta, aussi écrit Yannis Batta, revient sur « Sé Miimii » et « Je veux ».",
+  ),
+  (
+    "D’où vient DJ Skycee ?",
+    "Aucune source publiée retrouvée ne donne son lieu de naissance, et ce site ne le déduit ni du « 97 » de ses identifiants ni du « 972 » de celui de son collaborateur Coryy. Ce qui est vérifié : la bio de son TikTok officiel, @skycee97, affiche les drapeaux de la Guadeloupe et de la Martinique, et ses collaborations appartiennent au circuit bouyon et shatta de ces deux îles.",
+  ),
+  (
+    "Où suivre et écouter DJ Skycee ?",
+    "Ses comptes vérifiés, donnés par les descriptions officielles de ses vidéos Stormwave, sont @skycee_97 sur Instagram et @skycee97 sur TikTok. Ses titres sont sur les plateformes de streaming, à commencer par « Sé Miimii », « Get Money » et « Caribbean Love ». Pour suivre la scène, commentez ROAD MIX sous une publication de @bouyonshattaz et lisez notre page <a href=\"/playlist-bouyon.html\">playlist bouyon</a>.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/dj-skycee.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/dj-skycee.html#artist", "name": "DJ Skycee", "description": "DJ et compositeur bouyon lié au label Stormwave Entertainment. Connu pour Sé Miimii avec Miimii KDS, compositeur de Get Money de Coryy, artiste de Caribbean Love avec Kima. Artiste distinct de DJ Skaytah.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Sé Miimii"}, {"@type": "MusicRecording", "name": "Je veux"}, {"@type": "MusicRecording", "name": "Get Money"}, {"@type": "MusicRecording", "name": "Caribbean Love"}, {"@type": "MusicRecording", "name": "CARIBBEAN GYAL"}], "sameAs": ["https://www.instagram.com/skycee_97", "https://www.tiktok.com/@skycee97"]}}],
  "date_modified": "2026-10-20"
 }
@@ -141,13 +183,55 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is DJ Skycee?", "DJ Skycee is a DJ and composer tied to the Stormwave Entertainment label, active in the bouyon and shatta of the French Antilles. He is known for “Sé Miimii” with Miimii KDS, where he is credited as a feature and called out by name in the lyrics, and for composing Coryy “Get Money”. His verified catalogue holds five records between 2025 and 2026. No published biography of the artist was found."),
-  ("Who produced Sé Miimii, the Miimii KDS and DJ Skycee record?", "The published credits assign the production and composition of “Sé Miimii” to Yannis Batta, the mixing to Mag and a lyrics credit to Emilie Afoy, with a Stormwave Entertainment publication in 2025. The documented role of DJ Skycee on it is that of main artist and showcased DJ: the title credits him as a feature and the lyrics call out to him, “Skycee wait, surf the riddim”. That is the precision promotional pages most often omit."),
-  ("Are DJ Skycee and DJ Skaytah the same artist?", "No. They are two distinct artists with near identical names, and no shared record or credit in the verified sources. DJ Skycee is the Stormwave artist of “Sé Miimii”, “Get Money” and “Caribbean Love”. DJ Skaytah is the producer of “Kay Ka Fet” and “Mass (Welcome To Guadeloupe)”, whose credits carry the name Bradley Paulin. This site gives them separate pages."),
-  ("What records has DJ Skycee composed or performed?", "Five records are verified: “Sé Miimii” with Miimii KDS, published on July 11, 2025, where he is main artist and feature; “Je veux” with Shaimee, where he is a performer; Coryy “Get Money”, whose official description credits him as composer, on Stormwave ENT.; “Caribbean Love” with Kima, released under his name; and “CARIBBEAN GYAL”, with Atox, Billy BYBF and Tito, released on February 6, 2026 on PlayDiTune."),
-  ("Where does DJ Skycee come from?", "No published source found gives his birthplace or origin, and this site does not deduce it from the “97” in his handles or from the “972” in his collaborator Coryy handle. What is verified: the bio of his official TikTok, @skycee97, displays the flags of Guadeloupe and Martinique, and all his documented collaborations belong to the bouyon and shatta circuit of those two islands and to the Stormwave label."),
-  ("Where can I follow and hear DJ Skycee?", "His verified accounts, given by the official descriptions of his Stormwave videos and opened for this profile, are @skycee_97 on Instagram and @skycee97 on TikTok. His records are on the streaming platforms, starting with “Sé Miimii”, “Get Money” and “Caribbean Love”. For context, hear also our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> and read our <a href=\"/en/miimii-kds.html\">Miimii KDS</a> page.")
- ],
+  (
+    "Who is DJ Skycee?",
+    "DJ Skycee is a DJ and composer tied to the Stormwave Entertainment label, active in the bouyon and shatta of the French Antilles. He is known for “Sé Miimii” with Miimii KDS, where he is credited as a feature and called out by name in the lyrics, and for composing Coryy's “Get Money”. His verified catalogue holds five records between 2025 and 2026.",
+  ),
+  (
+    "Who produced Sé Miimii, the Miimii KDS and DJ Skycee record?",
+    "The published credits assign the production and composition of “Sé Miimii” to Yannis Batta, the mixing to Mag and a lyrics credit to Emilie Afoy, with a Stormwave Entertainment publication in 2025. DJ Skycee's documented role on it is that of main artist and showcased DJ: the title credits him as a feature and the lyrics call out to him by name.",
+  ),
+  (
+    "What does “Skycee wait, surf the riddim” mean in Sé Miimii?",
+    "It is the call aimed at DJ Skycee in “Sé Miimii”: the indexed lyrics ask him to surf the riddim, then the bridge salutes him with “Big up Skycee timal”. It is the classic DJ format in bouyon and shatta: the DJ is not an invisible technician but a character in the song, called out, saluted and tasked with relaunching the rhythm.",
+  ),
+  (
+    "Are DJ Skycee and DJ Skaytah the same artist?",
+    "No. They are two distinct artists with near identical names, and no shared record or credit in the verified sources. DJ Skycee is the Stormwave artist of “Sé Miimii”, “Get Money” and “Caribbean Love”. DJ Skaytah is the producer of “Kay Ka Fet” and “Mass (Welcome To Guadeloupe)”, whose credits carry the name Bradley Paulin. This site gives them separate pages.",
+  ),
+  (
+    "Is DJ Skycee the same as DJ Skaylone?",
+    "No. DJ Skaylone is the author of bouyon riddims published on YouTube since the late 2010s, with no verified link to DJ Skycee. The two names do cross in the same bouyon podcast tracklists, which feeds the confusion. The only DJ Skycee in bouyon is the one behind the @skycee_97 Instagram and @skycee97 TikTok accounts, cited by the official Stormwave videos.",
+  ),
+  (
+    "What records has DJ Skycee composed or performed?",
+    "Five records are verified: “Sé Miimii” with Miimii KDS, published on July 11, 2025, “Je veux” with Shaimee, where he is a performer, Coryy's “Get Money”, which credits him as composer, “Caribbean Love” with Kima, released under his name, and “CARIBBEAN GYAL”, with Atox, Billy BYBF and Tito, released on February 6, 2026 on PlayDiTune.",
+  ),
+  (
+    "Who composed Coryy's Get Money?",
+    "DJ Skycee. The official video description presents “Get Money” as Coryy's latest single with @skycee_97 and states “Composed by Skycee”. Mixing and mastering are by HYT, the video is directed by ADN and co-directed by Fwame Studio, with a Stormwave ENT. 2026 copyright. It is the clearest composer credit in his file.",
+  ),
+  (
+    "What is Caribbean Love by DJ Skycee and Kima?",
+    "“Caribbean Love” is a record released under the name “DJ SKYCEE & Kima”. Its official video, directed by Stormwave and Alyssa Gaudens, announces the record as available on all platforms, under a Stormwave ENT. 2026 copyright, and a DJ release listing gives it a running time of 2 minutes 54. The video text speaks of honouring Caribbean talent.",
+  ),
+  (
+    "What label is DJ Skycee on?",
+    "Stormwave Entertainment is the label of his catalogue: it is credited on “Sé Miimii” and holds the copyrights of “Get Money” and “Caribbean Love” in 2026. Another credit line also ties “Sé Miimii” to MF Music, and “CARIBBEAN GYAL” came out on PlayDiTune, on Atox and Billy BYBF's “CARNA” EP. Stormwave links its artists, from Miimii KDS to Coryy and Kima.",
+  ),
+  (
+    "Who has DJ Skycee worked with?",
+    "His verified collaborations cover the bouyon and shatta circuit of the French Antilles: Miimii KDS on “Sé Miimii”, Shaimee on “Je veux”, Coryy on “Get Money”, Kima on “Caribbean Love”, and Atox, Billy BYBF and Tito on “CARIBBEAN GYAL”. The producer Yanis Batta, also written Yannis Batta, returns on “Sé Miimii” and “Je veux”.",
+  ),
+  (
+    "Where does DJ Skycee come from?",
+    "No published source found gives his birthplace, and this site does not deduce it from the “97” in his handles or from the “972” in his collaborator Coryy's handle. What is verified: the bio of his official TikTok, @skycee97, displays the flags of Guadeloupe and Martinique, and his collaborations belong to the bouyon and shatta circuit of those two islands.",
+  ),
+  (
+    "Where can I follow and hear DJ Skycee?",
+    "His verified accounts, given by the official descriptions of his Stormwave videos, are @skycee_97 on Instagram and @skycee97 on TikTok. His records are on the streaming platforms, starting with “Sé Miimii”, “Get Money” and “Caribbean Love”. To follow the scene, comment ROAD MIX under an @bouyonshattaz post and read our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> page.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/dj-skycee.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/dj-skycee.html#artist", "name": "DJ Skycee", "description": "Bouyon DJ and composer tied to the Stormwave Entertainment label. Known for Sé Miimii with Miimii KDS, composer of Coryy Get Money, artist of Caribbean Love with Kima. A distinct artist from DJ Skaytah.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Sé Miimii"}, {"@type": "MusicRecording", "name": "Je veux"}, {"@type": "MusicRecording", "name": "Get Money"}, {"@type": "MusicRecording", "name": "Caribbean Love"}, {"@type": "MusicRecording", "name": "CARIBBEAN GYAL"}], "sameAs": ["https://www.instagram.com/skycee_97", "https://www.tiktok.com/@skycee97"]}}],
  "date_modified": "2026-10-20"
 }

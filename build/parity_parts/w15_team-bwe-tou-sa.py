@@ -76,13 +76,59 @@ FR = {
   ]
  ],
  "faq": [
-  ("Que veut dire Bwè Tou Sa ?", "En créole guadeloupéen, bwè veut dire boire : le nom du collectif se lit « bois tout ça », comme une injonction de soirée. Le nom colle à la méthode du groupe, des titres courts et directs, faits pour être enchaînés et consommés en fête, et à son laboratoire GAMMALAB, dont le nom revient jusque dans les titres du catalogue."),
-  ("Qui sont les membres de Team Bwè Tou Sa ?", "Les crédits publiés montrent un noyau d\u2019auteurs formé de Ludmilian Flower, Ludmael Flower et Nicolas Macbeth, présents sur presque tout le catalogue. Autour d\u2019eux, la famille documentée par les sorties comprend <a href=\"/lunik.html\">Lunik</a>, FLW, <a href=\"/ma6mo.html\">MA6MO</a>, <a href=\"/le-dext.html\">Le Dext</a> et des partenaires réguliers comme <a href=\"/billy-bybf.html\">Billy BYBF</a> et les <a href=\"/lestef-kjf-boyz.html\">LESTEF KJF BOYZ</a>. Ce profil ne publie pas de composition officielle au-delà de ce que les crédits prouvent."),
-  ("Quels sont les albums de Team Bwè Tou Sa ?", "Trois albums collectifs sont documentés : « VOYÉ SA ALLÉÉ », sorti le 29 juillet 2021 chez T-BTS, avec « Bibik », « Tik tak », « KILOT » et « 50/50 » ; « Voyé sa alléé II », sorti le 8 juillet 2022 chez iMD-GAMMA_LAB, ouvert par « Game Over » et partagé avec toute la famille ; et « TRAVAILLONS », publié en 2024 avec Billy BYBF, qui comprend « NOU KI LA », « BALANSÉ » et « SOUKWÉ »."),
-  ("Quel est le plus gros titre de Team Bwè Tou Sa ?", "Sur Shazam, « 50/50 », enregistré avec les LESTEF KJF BOYZ et sorti chez GAMMALAB le 20 novembre 2020, est le titre le plus identifié du catalogue avec 135 000 Shazams, devant « CHOKOLA » de Lunik avec la Team, à 35 400, et « KILOT », à 10 200. Ce sont les chiffres publiés par la plateforme elle-même au moment de la recherche."),
-  ("Pourquoi les plateformes classent-elles Team Bwè Tou Sa en reggae ?", "Parce que les bases commerciales n\u2019ont pas de catégorie propre pour le bouyon guadeloupéen : Qobuz et Shazam rangent le catalogue en Reggae et Viberate le décrit même comme un groupe de reggae fusion de Paris. Le catalogue contredit ces étiquettes : titres en créole, tempos publiés de 144 à 160 BPM, albums collectifs à la grammaire du riddim et clip de FLW étiqueté bouyon par ses auteurs. Ce site classe la Team dans le bouyon, branche guadeloupéenne."),
-  ("Où écouter Team Bwè Tou Sa et sa famille ?", "Commencez par « 50/50 », « CHOKOLA » et « KILOT », puis par les albums « VOYÉ SA ALLÉÉ » et « TRAVAILLONS ». Sur ce site, les profils de <a href=\"/lunik.html\">Lunik</a>, <a href=\"/ma6mo.html\">MA6MO</a> et <a href=\"/le-dext.html\">Le Dext</a> prolongent l\u2019écoute membre par membre, et notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> replace le collectif dans la scène bouyon suivie par Bouyon Shattaz.")
- ],
+  (
+    "Que veut dire Bwè Tou Sa ?",
+    "En créole guadeloupéen, bwè veut dire boire : le nom du collectif se lit « bois tout ça », comme une injonction de soirée. Le nom colle à la méthode du groupe, des titres courts et directs, faits pour être enchaînés et consommés en fête, et à son laboratoire GAMMALAB, dont le nom revient jusque dans les titres du catalogue.",
+  ),
+  (
+    "Team Bwè Tou Sa vient-il de Guadeloupe ou de Paris ?",
+    "De Guadeloupe : c’est un collectif bouyon guadeloupéen, qui chante en créole et figure à l’affiche du Karukera One Love Music Festival, le festival qui porte le nom créole de l’île. Viberate le présente comme un groupe de reggae fusion de Paris, une erreur d’agrégateur. Les données d’audience de Viberate placent d’ailleurs la France en tête et la Guadeloupe deuxième : l’île et sa diaspora.",
+  ),
+  (
+    "Qui sont les membres de Team Bwè Tou Sa ?",
+    "Les crédits publiés montrent un noyau d’auteurs formé de Ludmilian Flower, Ludmael Flower et Nicolas Macbeth, présents sur presque tout le catalogue. Autour d’eux, la famille documentée par les sorties comprend <a href=\"/lunik.html\">Lunik</a>, FLW, MA6MO, Le Dext et des partenaires réguliers comme Billy BYBF et les LESTEF KJF BOYZ. Ce profil ne publie pas de composition officielle au-delà de ce que les crédits prouvent.",
+  ),
+  (
+    "Que veut dire T-BTS ?",
+    "T-BTS est l’abréviation de Team Bwè Tou Sa, l’étiquette sous laquelle est sorti l’album « VOYÉ SA ALLÉÉ » en 2021. Le clip « GENKIDAMA » affiche d’ailleurs FLW (T-BTS), c’est-à-dire FLW de Team Bwè Tou Sa. Le drapeau a changé de nom au fil des sorties : GAMMALAB en 2020, T-BTS en 2021, iMD-GAMMA_LAB en 2022, puis simplement Team Bwè Tou Sa.",
+  ),
+  (
+    "Qu’est-ce que GAMMALAB pour Team Bwè Tou Sa ?",
+    "GAMMALAB est le laboratoire sonore du collectif. Le nom revient partout : comme label des débuts en 2020, comme ingénieur crédité sur le clip « GENKIDAMA » de FLW, comme ingénieur de mastering sur « KILOT » selon Shazam, et jusque dans les titres du catalogue, de « Toufé GAMMALAB4 » à « Konfyans Gamma lab 6 ». C’est l’atelier du son de la Team, revendiqué comme une signature.",
+  ),
+  (
+    "Quel style de bouyon fait Team Bwè Tou Sa ?",
+    "Un bouyon de catalogue, taillé pour le streaming et la fête. Les tempos publiés par Shazam sont des tempos de bouyon plein : 160 BPM pour « 50/50 », 155 pour « Tik tak », 144 pour « Game Over ». La plupart des titres durent entre deux et trois minutes, avec intros courtes et refrains immédiats, et les albums collectifs reprennent la grammaire des compilations de riddim de la tradition dominicaine.",
+  ),
+  (
+    "Quels sont les albums de Team Bwè Tou Sa ?",
+    "Trois albums collectifs sont documentés : « VOYÉ SA ALLÉÉ », sorti le 29 juillet 2021 chez T-BTS, avec « Bibik », « Tik tak », « KILOT » et « 50/50 » ; « Voyé sa alléé II », sorti le 8 juillet 2022 chez iMD-GAMMA_LAB, ouvert par « Game Over » ; et « TRAVAILLONS », publié en 2024 avec Billy BYBF, qui comprend « NOU KI LA », « BALANSÉ » et « SOUKWÉ ».",
+  ),
+  (
+    "Quel est le plus gros titre de Team Bwè Tou Sa ?",
+    "Sur Shazam, « 50/50 », enregistré avec les LESTEF KJF BOYZ et sorti chez GAMMALAB le 20 novembre 2020, est le titre le plus identifié du catalogue avec 135 000 Shazams, devant « CHOKOLA » de Lunik avec la Team, à 35 400, et « KILOT », à 10 200. Ce sont les chiffres publiés par la plateforme elle-même au moment de la recherche.",
+  ),
+  (
+    "Qui a écrit et produit « Game Over » de Team Bwè Tou Sa ?",
+    "Selon Shazam, « Game Over », titre d’ouverture de « Voyé sa alléé II » daté du 8 juillet 2022, crédite Nicolas Macbeth et Ludmilian Flower au chant et à l’écriture, Terry Baptiste à la composition et Luce Rodrigue à la production, à 144 BPM. C’est un titre écrit par le noyau, produit au laboratoire et placé en tête de l’album manifeste du collectif.",
+  ),
+  (
+    "Avec quels artistes Team Bwè Tou Sa a-t-il collaboré ?",
+    "Au-delà de sa famille, le catalogue accueille Team Bodé sur « Mamamia » puis sur « ZING CHAP #BANGER », DJ Dirtee sur « Tik tak », Natoxie sur « Full Tube » et « O Top », DJ Spïcky sur « SQUAT », Riko, See V et kyce. La Team apparaît aussi sur « P.L.S » de <a href=\"/shanika.html\">Shanika</a>, sorti le 10 août 2023. Ce profil ne fait d’aucun invité un membre permanent.",
+  ),
+  (
+    "Qu’a sorti Team Bwè Tou Sa en 2025 et 2026 ?",
+    "En 2025, une série de bangers : « QUI A DIT ÇA ? » le 30 juin, « ZING CHAP #BANGER » le 1er juillet, « RAKITA » le 11 septembre avec FLW et Lünik, « SINOBÒL #BANGER 2 » le 26 septembre, plus « MINUTE » et « SQUAT ». Début 2026 : « BIG BAG » de FLW en janvier, « FREESTYLE CARNAVAL » le 13 février, puis « FAT CAT » avec Le Dext et « HOT #Oups 5 ».",
+  ),
+  (
+    "Pourquoi les plateformes classent-elles Team Bwè Tou Sa en reggae ?",
+    "Parce que les bases commerciales n’ont pas de catégorie propre pour le bouyon guadeloupéen : Qobuz et Shazam rangent le catalogue en Reggae et Viberate le décrit même comme un groupe de reggae fusion de Paris. Le catalogue contredit ces étiquettes : titres en créole, tempos publiés de 144 à 160 BPM, albums à la grammaire du riddim et clip de FLW étiqueté bouyon par ses auteurs.",
+  ),
+  (
+    "Où écouter Team Bwè Tou Sa et sa famille ?",
+    "Commencez par « 50/50 », « CHOKOLA » et « KILOT », puis par les albums « VOYÉ SA ALLÉÉ » et « TRAVAILLONS », et prolongez avec les profils de Lunik, MA6MO et Le Dext sur ce site. Pour entendre la scène bouyon de Guadeloupe et de la Dominique dans son ensemble, la <a href=\"/playlist-bouyon.html\">playlist ROAD MIX</a> de Bouyon Shattaz rassemble nouveautés, bouyon soca et classiques de carnaval.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/team-bwe-tou-sa.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/team-bwe-tou-sa.html#artist", "name": "Team Bwè Tou Sa", "description": "Collectif bouyon de Guadeloupe lié au laboratoire GAMMALAB. Noyau d\u2019auteurs : Ludmilian Flower, Ludmael Flower et Nicolas Macbeth. Albums VOYÉ SA ALLÉÉ (2021), Voyé sa alléé II (2022) et TRAVAILLONS (2024), famille Lunik, FLW, MA6MO et Le Dext.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "50/50"}, {"@type": "MusicRecording", "name": "CHOKOLA"}, {"@type": "MusicRecording", "name": "KILOT"}, {"@type": "MusicRecording", "name": "WD 40"}, {"@type": "MusicRecording", "name": "Bibik"}, {"@type": "MusicRecording", "name": "Tik tak"}, {"@type": "MusicRecording", "name": "Game Over"}, {"@type": "MusicRecording", "name": "Mamamia"}, {"@type": "MusicRecording", "name": "Timoun la"}, {"@type": "MusicRecording", "name": "Woy !"}, {"@type": "MusicRecording", "name": "Mal élevé"}, {"@type": "MusicRecording", "name": "BALTAZA"}, {"@type": "MusicRecording", "name": "QUI A DIT ÇA ?"}, {"@type": "MusicRecording", "name": "RAKITA"}, {"@type": "MusicRecording", "name": "FAT CAT"}], "sameAs": ["https://www.shazam.com/cs-cz/artist/team-bw%C3%A8-tou-sa/1543840803", "https://www.qobuz.com/se-en/interpreter/team-bwe-tou-sa/10106029"]}}],
  "date_modified": "2026-10-20"
 }
@@ -152,13 +198,59 @@ EN = {
   ]
  ],
  "faq": [
-  ("What does Bwè Tou Sa mean?", "In Guadeloupean Creole, bwè means to drink: the collective name reads as drink all of that, like an order given at a fete. The name fits the group method, short and direct records made to be chained together and consumed at a party, and its GAMMALAB laboratory, whose name returns inside the catalogue titles themselves."),
-  ("Who are the members of Team Bwè Tou Sa?", "The published credits show a writer core made of Ludmilian Flower, Ludmael Flower and Nicolas Macbeth, present across nearly the whole catalogue. Around them, the family documented by the releases includes <a href=\"/en/lunik.html\">Lunik</a>, FLW, <a href=\"/en/ma6mo.html\">MA6MO</a>, <a href=\"/en/le-dext.html\">Le Dext</a> and regular partners such as <a href=\"/en/billy-bybf.html\">Billy BYBF</a> and the <a href=\"/en/lestef-kjf-boyz.html\">LESTEF KJF BOYZ</a>. This profile publishes no official line-up beyond what the credits prove."),
-  ("What are the Team Bwè Tou Sa albums?", "Three collective albums are documented: VOYÉ SA ALLÉÉ, released on July 29, 2021 on T-BTS, with Bibik, Tik tak, KILOT and 50/50; Voyé sa alléé II, released on July 8, 2022 on iMD-GAMMA_LAB, opened by Game Over and shared with the whole family; and TRAVAILLONS, published in 2024 with Billy BYBF, which includes NOU KI LA, BALANSÉ and SOUKWÉ."),
-  ("What is the biggest Team Bwè Tou Sa record?", "On Shazam, 50/50, recorded with the LESTEF KJF BOYZ and released on GAMMALAB on November 20, 2020, is the most identified record in the catalogue with 135,000 Shazams, ahead of CHOKOLA by Lunik with the Team at 35,400, and KILOT at 10,200. Those are the figures published by the platform itself at the time of research."),
-  ("Why do platforms file Team Bwè Tou Sa under reggae?", "Because commercial databases have no proper category for Guadeloupe bouyon: Qobuz and Shazam file the catalogue under Reggae and Viberate even describes it as a reggae fusion band from Paris. The catalogue contradicts those labels: records in Creole, published tempos from 144 to 160 BPM, collective albums built on riddim grammar and an FLW video tagged bouyon by its own makers. This site files the Team under bouyon, on its Guadeloupe branch."),
-  ("Where can I hear Team Bwè Tou Sa and its family?", "Start with 50/50, CHOKOLA and KILOT, then with the albums VOYÉ SA ALLÉÉ and TRAVAILLONS. On this site, the profiles of <a href=\"/en/lunik.html\">Lunik</a>, <a href=\"/en/ma6mo.html\">MA6MO</a> and <a href=\"/en/le-dext.html\">Le Dext</a> extend the listening member by member, and our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> places the collective back inside the bouyon scene followed by Bouyon Shattaz.")
- ],
+  (
+    "What does Bwè Tou Sa mean?",
+    "In Guadeloupean Creole, bwè means to drink: the collective name reads as drink all of that, like an order given at a fete. The name fits the group method, short and direct records made to be chained together and consumed at a party, and its GAMMALAB laboratory, whose name returns inside the catalogue titles themselves.",
+  ),
+  (
+    "Is Team Bwè Tou Sa from Guadeloupe or Paris?",
+    "From Guadeloupe: it is a Guadeloupe bouyon collective, singing in Creole and listed on the Karukera One Love Music Festival line-up, the festival that carries the island's Creole name. Viberate presents it as a reggae fusion band from Paris, an aggregator error. Viberate's own audience data puts France first and Guadeloupe second: the island and its diaspora.",
+  ),
+  (
+    "Who are the members of Team Bwè Tou Sa?",
+    "The published credits show a writer core made of Ludmilian Flower, Ludmael Flower and Nicolas Macbeth, present across nearly the whole catalogue. Around them, the family documented by the releases includes <a href=\"/en/lunik.html\">Lunik</a>, FLW, MA6MO, Le Dext and regular partners such as Billy BYBF and the LESTEF KJF BOYZ. This profile publishes no official line-up beyond what the credits prove.",
+  ),
+  (
+    "What does T-BTS stand for?",
+    "T-BTS is short for Team Bwè Tou Sa, the imprint under which the album “VOYÉ SA ALLÉÉ” came out in 2021. The “GENKIDAMA” video even bills FLW as FLW (T-BTS), that is FLW of Team Bwè Tou Sa. The flag changed name across the releases: GAMMALAB in 2020, T-BTS in 2021, iMD-GAMMA_LAB in 2022, then simply Team Bwè Tou Sa.",
+  ),
+  (
+    "What is GAMMALAB to Team Bwè Tou Sa?",
+    "GAMMALAB is the collective's sound laboratory. The name returns everywhere: as the label of the early days in 2020, as the credited engineer on FLW's “GENKIDAMA” video, as mastering engineer on “KILOT” according to Shazam, and inside the catalogue titles themselves, from “Toufé GAMMALAB4” to “Konfyans Gamma lab 6”. It is the Team's sound workshop, claimed as a signature.",
+  ),
+  (
+    "What style of bouyon does Team Bwè Tou Sa make?",
+    "Catalogue bouyon, cut for streaming and for fetes. The tempos Shazam publishes are full bouyon tempos: 160 BPM for “50/50”, 155 for “Tik tak”, 144 for “Game Over”. Most records run between two and three minutes, with short intros and immediate choruses, and the collective albums follow the grammar of the riddim compilations of the Dominican tradition.",
+  ),
+  (
+    "What are the Team Bwè Tou Sa albums?",
+    "Three collective albums are documented: “VOYÉ SA ALLÉÉ”, released on July 29, 2021 on T-BTS, with “Bibik”, “Tik tak”, “KILOT” and “50/50”; “Voyé sa alléé II”, released on July 8, 2022 on iMD-GAMMA_LAB, opened by “Game Over”; and “TRAVAILLONS”, published in 2024 with Billy BYBF, which includes “NOU KI LA”, “BALANSÉ” and “SOUKWÉ”.",
+  ),
+  (
+    "What is the biggest Team Bwè Tou Sa record?",
+    "On Shazam, “50/50”, recorded with the LESTEF KJF BOYZ and released on GAMMALAB on November 20, 2020, is the most identified record in the catalogue with 135,000 Shazams, ahead of “CHOKOLA” by Lunik with the Team at 35,400, and “KILOT” at 10,200. Those are the figures published by the platform itself at the time of research.",
+  ),
+  (
+    "Who wrote and produced Team Bwè Tou Sa's “Game Over”?",
+    "According to Shazam, “Game Over”, the opening track of “Voyé sa alléé II”, dated July 8, 2022, credits Nicolas Macbeth and Ludmilian Flower on vocals and writing, Terry Baptiste as composer and Luce Rodrigue as producer, at 144 BPM. It is a record written by the core, produced in the laboratory and placed at the head of the collective's manifesto album.",
+  ),
+  (
+    "Which artists has Team Bwè Tou Sa collaborated with?",
+    "Beyond its family, the catalogue hosts Team Bodé on “Mamamia” and then on “ZING CHAP #BANGER”, DJ Dirtee on “Tik tak”, Natoxie on “Full Tube” and “O Top”, DJ Spïcky on “SQUAT”, Riko, See V and kyce. The Team also appears on <a href=\"/en/shanika.html\">Shanika</a>'s “P.L.S”, released on August 10, 2023. This profile turns no guest into a permanent member.",
+  ),
+  (
+    "What did Team Bwè Tou Sa release in 2025 and 2026?",
+    "In 2025, a series of bangers: “QUI A DIT ÇA ?” on June 30, “ZING CHAP #BANGER” on July 1, “RAKITA” on September 11 with FLW and Lünik, “SINOBÒL #BANGER 2” on September 26, plus “MINUTE” and “SQUAT”. Early 2026: FLW's “BIG BAG” in January, “FREESTYLE CARNAVAL” on February 13, then “FAT CAT” with Le Dext and “HOT #Oups 5”.",
+  ),
+  (
+    "Why do platforms file Team Bwè Tou Sa under reggae?",
+    "Because commercial databases have no proper category for Guadeloupe bouyon: Qobuz and Shazam file the catalogue under Reggae and Viberate even describes it as a reggae fusion band from Paris. The catalogue contradicts those labels: records in Creole, published tempos from 144 to 160 BPM, albums built on riddim grammar and an FLW video tagged bouyon by its own makers.",
+  ),
+  (
+    "Where can I hear Team Bwè Tou Sa and its family?",
+    "Start with “50/50”, “CHOKOLA” and “KILOT”, then the albums “VOYÉ SA ALLÉÉ” and “TRAVAILLONS”, and continue with the Lunik, MA6MO and Le Dext profiles on this site. To hear the bouyon scene of Guadeloupe and Dominica as a whole, the Bouyon Shattaz <a href=\"/en/playlist-bouyon.html\">ROAD MIX playlist</a> gathers new releases, bouyon soca and carnival classics.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/team-bwe-tou-sa.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/team-bwe-tou-sa.html#artist", "name": "Team Bwè Tou Sa", "description": "Bouyon collective from Guadeloupe tied to the GAMMALAB laboratory. Writer core: Ludmilian Flower, Ludmael Flower and Nicolas Macbeth. Albums VOYÉ SA ALLÉÉ (2021), Voyé sa alléé II (2022) and TRAVAILLONS (2024), family Lunik, FLW, MA6MO and Le Dext.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "50/50"}, {"@type": "MusicRecording", "name": "CHOKOLA"}, {"@type": "MusicRecording", "name": "KILOT"}, {"@type": "MusicRecording", "name": "WD 40"}, {"@type": "MusicRecording", "name": "Bibik"}, {"@type": "MusicRecording", "name": "Tik tak"}, {"@type": "MusicRecording", "name": "Game Over"}, {"@type": "MusicRecording", "name": "Mamamia"}, {"@type": "MusicRecording", "name": "Timoun la"}, {"@type": "MusicRecording", "name": "Woy !"}, {"@type": "MusicRecording", "name": "Mal élevé"}, {"@type": "MusicRecording", "name": "BALTAZA"}, {"@type": "MusicRecording", "name": "QUI A DIT ÇA ?"}, {"@type": "MusicRecording", "name": "RAKITA"}, {"@type": "MusicRecording", "name": "FAT CAT"}], "sameAs": ["https://www.shazam.com/cs-cz/artist/team-bw%C3%A8-tou-sa/1543840803", "https://www.qobuz.com/se-en/interpreter/team-bwe-tou-sa/10106029"]}}],
  "date_modified": "2026-10-20"
 }

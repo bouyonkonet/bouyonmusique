@@ -92,13 +92,63 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Novy ?", "Novy est un rappeur documenté de 2018 à 2026, classé hip-hop et rap par les plateformes. Son catalogue compte trois albums, « 808 » en 2018, « NUKETOWN (EXTENSION) » en 2023 et « Slizzy Novy » en 2025, deux EP et de nombreux singles en français et en anglais. Aucune source consultée ne publie sa biographie, son origine ou ses comptes officiels : ce profil ne rapporte que son catalogue vérifié."),
-  ("Quel est le titre le plus écouté de Novy ?", "Selon sa page artiste Shazam, ouverte pendant la recherche, le titre le plus écouté de Novy est « Sexynextdoor », tiré de l'album « Slizzy Novy » de 2025, chanté en anglais à 88 BPM. Le duo « La petite m'a dit », avec Gringo Jay, arrive deuxième chez Novy, alors qu'il est le titre le plus écouté du catalogue de Gringo Jay."),
-  ("Quels sont les liens de Novy avec le bouyon ?", "Novy n'est pas étiqueté bouyon par les plateformes, mais il a enregistré avec deux artistes du réseau bouyon : « La marelle », avec Ricky Bishop en featuring, en 2020, puis le trio « La Hacienda » en 2024 et le duo « La petite m'a dit » en 2026 avec Gringo Jay. Ce sont ces collaborations documentées qui justifient sa présence sur ce site."),
-  ("Quels sont les albums et EP de Novy ?", "Les albums vérifiés sont « 808 » (6 juillet 2018, treize titres), « NUKETOWN (EXTENSION) » (30 juin 2023, quatorze titres) et « Slizzy Novy » (25 avril 2025, huit titres). Les EP sont « Purpee Tape, Vol. 1 » en 2018 et « Heart Season, Vol. 1 » en 2020, ce dernier signé avec Joh'iz et contenant « Vini », « Nice », « Mayday » et « Quartier »."),
-  ("D'où vient Novy ?", "Aucune source ouverte pendant la recherche ne le dit. Les plateformes ne publient ni ville ni pays d'origine pour cet artiste, et son catalogue mélange des titres en français et en anglais. Ce profil refuse donc de lui attribuer une origine : il décrit un catalogue bilingue et des collaborations avec des artistes de la diaspora dominicaine, qui sont les faits établis."),
-  ("Novy est-il Tom Novy ou Scor Novy ?", "Non. Tom Novy est un DJ house allemand actif depuis les années 1990, sans rapport avec ce catalogue. Scor Novy est un chanteur R&B basé à Genève, artiste distinct, avec lequel Novy a enregistré un single commun, « Fendi », en 2025 : deux artistes séparés qui ont collaboré, et non une seule et même personne.")
- ],
+  (
+    "Qui est Novy ?",
+    "Novy est un rappeur documenté de 2018 à 2026, classé hip-hop et rap par les plateformes. Son catalogue compte trois albums, « 808 » en 2018, « NUKETOWN (EXTENSION) » en 2023 et « Slizzy Novy » en 2025, deux EP et de nombreux singles en français et en anglais. Aucune source consultée ne publie sa biographie, son origine ou ses comptes officiels : ce profil ne rapporte que son catalogue vérifié.",
+  ),
+  (
+    "Novy est-il Tom Novy ou Scor Novy ?",
+    "Non. Tom Novy est un DJ house allemand actif depuis les années 1990, sans rapport avec ce catalogue. Scor Novy est un chanteur R&B basé à Genève, artiste distinct, avec lequel Novy a enregistré un single commun, « Fendi », en 2025 : deux artistes séparés qui ont collaboré, et non une seule et même personne.",
+  ),
+  (
+    "D'où vient Novy ?",
+    "Aucune source ouverte pendant la recherche ne le dit. Les plateformes ne publient ni ville ni pays d'origine pour cet artiste, et son catalogue mélange des titres en français et en anglais. Ce profil refuse donc de lui attribuer une origine : il décrit un catalogue bilingue et des collaborations avec des artistes de la diaspora dominicaine, qui sont les faits établis.",
+  ),
+  (
+    "En quelle langue rappe Novy ?",
+    "En français et en anglais, selon la langue de chaque titre. Les plateformes étiquettent ses morceaux un par un : « Vini » en français en 2020, « Sexynextdoor » en anglais en 2025, « La petite m'a dit » en français en 2026. Dès son premier album, « 808 », titres français et anglais se partagent la liste sans logique de face A et face B, de « La quête » à « Sunset Boulevard ».",
+  ),
+  (
+    "Quels sont les liens de Novy avec le bouyon ?",
+    "Novy n'est pas étiqueté bouyon par les plateformes, mais il a enregistré avec deux artistes du réseau bouyon : « La marelle », avec Ricky Bishop en featuring, en 2020, puis le trio « La Hacienda » en 2024 et le duo « La petite m'a dit » en 2026 avec Gringo Jay. Ce sont ces collaborations documentées qui justifient sa présence sur ce site.",
+  ),
+  (
+    "Qu'est-ce que l'album « 808 » de Novy ?",
+    "C'est son premier album, sorti le 6 juillet 2018 sous l'enseigne iM Novy : treize titres classés hip-hop et rap par Shazam, de « Intro, Génération Pablito » à « Bonnie & Clyde » et « La quête ». Il se termine par un final collectif, « 777 Shades of Music Outro », qui aligne sept invités, AD Kush, Weston, Ouss, Djoka, Blunt, Matoss et totorhina, comme une photo de groupe.",
+  ),
+  (
+    "Que veut dire NUKETOWN, le titre de l'album de Novy ?",
+    "Le titre de l'album emprunte son nom à une carte célèbre du jeu vidéo Call of Duty. « NUKETOWN (EXTENSION) », deuxième album de Novy, sorti le 30 juin 2023, compte quatorze titres, dont « RACK$ ON », « PANAMA PAPER$ » et « DERNIER DE$IGNER » : des dollars à la place des s, des noms de créateurs et de scandales financiers, un univers de rap référencé très éloigné des chansons d'amour de « Heart Season ».",
+  ),
+  (
+    "Quel est le titre le plus écouté de Novy ?",
+    "Selon sa page artiste Shazam, ouverte pendant la recherche, le titre le plus écouté de Novy est « Sexynextdoor », tiré de l'album « Slizzy Novy » de 2025, chanté en anglais à 88 BPM. Le duo « La petite m'a dit », avec Gringo Jay, arrive deuxième chez Novy, alors qu'il est le titre le plus écouté du catalogue de Gringo Jay.",
+  ),
+  (
+    "Quels sont les albums et EP de Novy ?",
+    "Les albums vérifiés sont « 808 » (6 juillet 2018, treize titres), « NUKETOWN (EXTENSION) » (30 juin 2023, quatorze titres) et « Slizzy Novy » (25 avril 2025, huit titres). Les EP sont « Purpee Tape, Vol. 1 » en 2018 et « Heart Season, Vol. 1 » en 2020, ce dernier signé avec Joh'iz et contenant « Vini », « Nice », « Mayday » et « Quartier ».",
+  ),
+  (
+    "Qu'est-ce que « La marelle » de Novy et Ricky Bishop ?",
+    "C'est un single sorti le 19 octobre 2020 sous l'enseigne iMD-ds, avec Novy en artiste principal et <a href=\"/ricky-bishop.html\">Ricky Bishop</a>, une voix montante du bouyon dominicain, en featuring. À la connaissance de ce dossier, c'est le premier lien documenté entre Novy et le bouyon de la Dominique : le rappeur n'arrive donc pas par hasard près de cette scène en 2026, il y enregistrait dès 2020.",
+  ),
+  (
+    "Qu'est-ce que « La Hacienda » de Novy ?",
+    "Un single sorti le 31 mai 2024 sous l'enseigne VNTIWVTIERE, qui forme en réalité un petit projet en trio : ses trois titres, « La Hacienda », « Pour Cible » et « No Love », huit minutes au total selon la fiche Apple Music, créditent tous Joh'iz et Gringo Jay en featuring. C'est la première rencontre documentée entre Novy et Gringo Jay, deux ans avant leur duo de 2026.",
+  ),
+  (
+    "Qui a écrit « La petite m'a dit » de Novy et Gringo Jay ?",
+    "Selon les crédits ouverts, Yvon Abale et Josef Soliman tiennent les voix, les paroles et la composition du titre, interprété par Novy et <a href=\"/gringo-jay.html\">Gringo Jay</a>. Sorti le 26 septembre 2026 sous l'enseigne Novy, en français, il est classé Afro-Beat sur sa fiche. Yvon Abale était déjà crédité aux paroles et à l'arrangement de « Vini » en 2020, sans que les sources disent s'il est un auteur d'atelier ou le nom d'auteur de l'artiste.",
+  ),
+  (
+    "Qui est Joh'iz, le partenaire de Novy ?",
+    "Joh'iz est le collaborateur central du catalogue de Novy depuis 2020. Il cosigne l'EP « Heart Season, Vol. 1 » du 29 février 2020, puis le single « Mailler » en 2021, figure en featuring sur les trois titres de « La Hacienda » en 2024 avec Gringo Jay, et revient sur « Bossin Up » en 2026, six ans après leur EP commun. Il produit aussi un titre de Banklaady où l'on retrouve l'auteur Joakim Canguio.",
+  ),
+  (
+    "Où écouter Novy ?",
+    "Sur les plateformes, en commençant par « Sexynextdoor », son titre le plus écouté, puis « La petite m'a dit » avec Gringo Jay et « La marelle » avec Ricky Bishop, ses deux portes d'entrée vers le bouyon. Pour entendre le bouyon dominicain et antillais dont il croise le réseau, notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, le Bouyon Road Mix de Bouyon Shattaz, rassemble les nouveautés de la Dominique, de la Guadeloupe et de la Martinique.",
+  )
+],
  "extra_graph": [
   {
    "@type": "ProfilePage",
@@ -227,13 +277,63 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Novy?", "Novy is a rapper documented from 2018 to 2026 and filed under hip-hop and rap by the platforms. His catalog holds three albums, 808 in 2018, NUKETOWN (EXTENSION) in 2023 and Slizzy Novy in 2025, two EPs and many singles in French and English. No consulted source publishes his biography, his origin or his official accounts: this profile reports only his verified catalog."),
-  ("What is Novy's most streamed song?", "According to his Shazam artist page, opened during the research, Novy's most streamed song is Sexynextdoor, from the 2025 Slizzy Novy album, sung in English at 88 BPM. The duet La petite m'a dit, with Gringo Jay, ranks second for Novy, while it is the most streamed song of Gringo Jay's catalog."),
-  ("What are Novy's links to bouyon?", "Novy is not tagged as bouyon by the platforms, but he has recorded with two artists of the bouyon network: La marelle, featuring Ricky Bishop, in 2020, then the La Hacienda trio in 2024 and the La petite m'a dit duet in 2026 with Gringo Jay. Those documented collaborations are why he appears on this site."),
-  ("What are Novy's albums and EPs?", "The verified albums are 808 (July 6, 2018, thirteen tracks), NUKETOWN (EXTENSION) (June 30, 2023, fourteen tracks) and Slizzy Novy (April 25, 2025, eight tracks). The EPs are Purpee Tape, Vol. 1 in 2018 and Heart Season, Vol. 1 in 2020, the latter billed with Joh'iz and containing Vini, Nice, Mayday and Quartier."),
-  ("Where is Novy from?", "No source opened during the research says so. The platforms publish neither a city nor a country of origin for this artist, and his catalog mixes French and English titles. This profile therefore refuses to assign him an origin: it describes a bilingual catalog and collaborations with artists of the Dominican diaspora, which are the established facts."),
-  ("Is Novy the same person as Tom Novy or Scor Novy?", "No. Tom Novy is a German house DJ active since the 1990s, unrelated to this catalog. Scor Novy is an R&B singer based in Geneva, a distinct artist with whom Novy recorded a joint single, Fendi, in 2025: two separate artists who collaborated, not one and the same person.")
- ],
+  (
+    "Who is Novy?",
+    "Novy is a rapper documented from 2018 to 2026 and filed under hip-hop and rap by the platforms. His catalog holds three albums, 808 in 2018, NUKETOWN (EXTENSION) in 2023 and Slizzy Novy in 2025, two EPs and many singles in French and English. No consulted source publishes his biography, his origin or his official accounts: this profile reports only his verified catalog.",
+  ),
+  (
+    "Is Novy the same person as Tom Novy or Scor Novy?",
+    "No. Tom Novy is a German house DJ active since the 1990s, unrelated to this catalog. Scor Novy is an R&B singer based in Geneva, a distinct artist with whom Novy recorded a joint single, Fendi, in 2025: two separate artists who collaborated, not one and the same person.",
+  ),
+  (
+    "Where is Novy from?",
+    "No source opened during the research says so. The platforms publish neither a city nor a country of origin for this artist, and his catalog mixes French and English titles. This profile therefore refuses to assign him an origin: it describes a bilingual catalog and collaborations with artists of the Dominican diaspora, which are the established facts.",
+  ),
+  (
+    "What language does Novy rap in?",
+    "French and English, according to the language of each song. The platforms tag his tracks one by one: Vini in French in 2020, Sexynextdoor in English in 2025, La petite m'a dit in French in 2026. From his first album, 808, French and English titles share the tracklist with no side-A, side-B logic, from La quête to Sunset Boulevard.",
+  ),
+  (
+    "What are Novy's links to bouyon?",
+    "Novy is not tagged as bouyon by the platforms, but he has recorded with two artists of the bouyon network: La marelle, featuring Ricky Bishop, in 2020, then the La Hacienda trio in 2024 and the La petite m'a dit duet in 2026 with Gringo Jay. Those documented collaborations are why he appears on this site.",
+  ),
+  (
+    "What is Novy's album 808?",
+    "It is his first album, released on July 6, 2018 on the iM Novy imprint: thirteen tracks filed under hip-hop and rap by Shazam, from Intro, Génération Pablito to Bonnie & Clyde and La quête. It ends on a collective finale, 777 Shades of Music Outro, lining up seven guests, AD Kush, Weston, Ouss, Djoka, Blunt, Matoss and totorhina, like a group photograph.",
+  ),
+  (
+    "What does NUKETOWN mean in Novy's album title?",
+    "The album title borrows its name from a famous Call of Duty video game map. NUKETOWN (EXTENSION), Novy's second album, released on June 30, 2023, holds fourteen tracks, including RACK$ ON, PANAMA PAPER$ and DERNIER DE$IGNER: dollar signs in place of the letter s, designer names and financial scandals, a reference-heavy rap world far from the love songs of Heart Season.",
+  ),
+  (
+    "What is Novy's most streamed song?",
+    "According to his Shazam artist page, opened during the research, Novy's most streamed song is Sexynextdoor, from the 2025 Slizzy Novy album, sung in English at 88 BPM. The duet La petite m'a dit, with Gringo Jay, ranks second for Novy, while it is the most streamed song of Gringo Jay's catalog.",
+  ),
+  (
+    "What are Novy's albums and EPs?",
+    "The verified albums are 808 (July 6, 2018, thirteen tracks), NUKETOWN (EXTENSION) (June 30, 2023, fourteen tracks) and Slizzy Novy (April 25, 2025, eight tracks). The EPs are Purpee Tape, Vol. 1 in 2018 and Heart Season, Vol. 1 in 2020, the latter billed with Joh'iz and containing Vini, Nice, Mayday and Quartier.",
+  ),
+  (
+    "What is La marelle by Novy and Ricky Bishop?",
+    "It is a single released on October 19, 2020 on the iMD-ds imprint, with Novy as lead artist and <a href=\"/en/ricky-bishop.html\">Ricky Bishop</a>, one of the rising voices of Dominican bouyon, as the featured voice. To this file's knowledge, it is the first documented connection between Novy and Dominica bouyon: the rapper did not arrive near that scene by accident in 2026, he was recording with it in 2020.",
+  ),
+  (
+    "What is Novy's La Hacienda?",
+    "A single released on May 31, 2024 on the VNTIWVTIERE imprint, which is in reality a small trio project: its three tracks, La Hacienda, Pour Cible and No Love, eight minutes in total according to the Apple Music listing, all credit Joh'iz and Gringo Jay as features. It is the first documented meeting between Novy and Gringo Jay, two years before their 2026 duet.",
+  ),
+  (
+    "Who wrote La petite m'a dit by Novy and Gringo Jay?",
+    "According to the credits opened, Yvon Abale and Josef Soliman hold the vocals, lyrics and composition of the track, performed by Novy and <a href=\"/en/gringo-jay.html\">Gringo Jay</a>. Released on September 26, 2026 by the Novy imprint, in French, it is filed as Afro-Beat on its page. Yvon Abale was already credited with lyrics and arrangement on Vini in 2020, and the sources do not say whether he is a workshop writer or the artist's own writer name.",
+  ),
+  (
+    "Who is Joh'iz, Novy's partner?",
+    "Joh'iz is the central collaborator of Novy's catalog since 2020. He co-signs the Heart Season, Vol. 1 EP of February 29, 2020, then the single Mailler in 2021, features on all three tracks of La Hacienda in 2024 with Gringo Jay, and returns on Bossin Up in 2026, six years after their joint EP. He also produces a Banklaady track where the writer Joakim Canguio turns up.",
+  ),
+  (
+    "Where can I hear Novy?",
+    "On the streaming platforms, starting with Sexynextdoor, his most streamed song, then La petite m'a dit with Gringo Jay and La marelle with Ricky Bishop, his two doors into bouyon. To hear the Dominican and Antillean bouyon whose network he crosses, our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, the Bouyon Road Mix by Bouyon Shattaz, gathers new releases from Dominica, Guadeloupe and Martinique.",
+  )
+],
  "extra_graph": [
   {
    "@type": "ProfilePage",

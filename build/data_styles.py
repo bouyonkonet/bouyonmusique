@@ -84,7 +84,7 @@ PAGES = [
   ),
   (
     "Le bouyon soca est-il du vrai bouyon ?",
-    "C’est une fusion : la base rythmique et les claviers viennent du bouyon dominicain, la forme festive vient de la soca. En Dominique, on distingue le bouyon pur du bouyon soca, mais les deux familles vivent côte à côte au carnaval.",
+    "C’est une fusion : la base rythmique et les claviers viennent du bouyon dominicain, la forme festive vient de la soca. En Dominique, on distingue le bouyon pur du bouyon soca, et les puristes insistent pour que le bouyon garde un style clair, reconnaissable et différent, mais les deux familles vivent côte à côte au carnaval.",
   ),
   (
     "Qui a produit les grands titres du bouyon soca ?",
@@ -97,6 +97,38 @@ PAGES = [
   (
     "Où écouter du bouyon soca ?",
     "Dans la <a href=\"/playlist-bouyon.html\">Bouyon Road Mix</a> de Bouyon Shattaz, intitulée Bouyon Music 2026 - Road Mix sur Spotify et disponible aussi sur YouTube, qui fait une place à la fusion reliant Roseau, Castries, Pointe-à-Pitre et Fort-de-France en saison de carnaval. Commentez ROAD MIX sous une publication Instagram de @bouyonshattaz pour la recevoir en message privé. En live, son terrain naturel reste le carnaval, du J’ouvert de Roseau à la route.",
+  ),
+  (
+    "Le bouyon soca vient-il de la Dominique ou de Trinidad ?",
+    "De la Dominique : selon le témoignage de première main de Smokiller, Dada y a lancé le bouyon soca en 2003. Chaque parent a son île : la soca est née à Trinidad dans les années 1970, du calypso et de rythmes indiens comme le dholak, et le bouyon est né en Dominique en 1988, quand WCK a marié jing ping et cadence-lypso aux claviers électroniques. La fusion est dominicaine, sa moitié soca est trinidadienne.",
+  ),
+  (
+    "Quels sont les titres les plus connus du bouyon soca ?",
+    "Les ouvrages de référence retiennent deux disques emblèmes, tous deux liés à Dada. « Famalay », de Machel Montano, Skinny Fabulous et Bunji Garlin, a remporté la Road March 2019 de Trinidad et Tobago, joué 346 fois aux points de jugement selon Wired868. « Conch Shell », pour la saison 2020, crédite Dadamanufakture à la production. On y ajoute « Forward » de Bunji Garlin et « Wet Dem Down » de Shurwayne Winchester, sur le Smoke Riddim de Dada.",
+  ),
+  (
+    "Qu'est-ce que le Smoke Riddim ?",
+    "Le Smoke Riddim est un riddim du producteur dominicain Dada, que le site trinidadien Ebuzztt décrit comme un hybride mêlant soca et bouyon de la Dominique. <a href=\"/bunji-garlin.html\">Bunji Garlin</a> y chante « Forward », titre aujourd'hui présent sur son album « Ayl'Ian » de 2024, et Shurwayne Winchester y pose « Wet Dem Down ». Dada dit avoir choisi ces deux chanteurs pour leur capacité à porter les grandes fêtes.",
+  ),
+  (
+    "Bouyon soca et jump up soca, est-ce la même chose ?",
+    "Ce sont deux noms de la même fusion : certaines sources appellent le bouyon soca jump up soca. Le mot vient des Antilles françaises, où le public de Guadeloupe et de Martinique connaît le bouyon lui-même sous le nom de <a href=\"/jump-up.html\">jump up</a>, déjà donné aux musiques de carnaval très rythmées après « L'hivernage » d'Exile One en 1987. Le bouyon soca reste la fusion dominicaine lancée par Dada en 2003.",
+  ),
+  (
+    "Quel rôle Triple Kay a-t-il joué dans le bouyon soca ?",
+    "Triple Kay est le groupe qui a porté le bouyon soca du studio à la route : selon le témoignage de Smokiller, le style a pris son ampleur quand Triple Kay et d'autres groupes l'ont adopté. La biographie publiée de Dada le crédite de productions pour le groupe, dont « All Out » et « Doh Blow My High ». Devenu <a href=\"/tk-international.html\">TK International</a>, le groupe enregistre toujours, de « Fan Love » (2018) à « Long Spoon » (2025).",
+  ),
+  (
+    "Quelles stars de la soca ont enregistré du bouyon ?",
+    "Un grand article de Billboard consacré au bouyon cite Bunji Garlin, Fay-Ann Lyons, Problem Child, Mr Killa, Voice et Machel Montano parmi les géants de la soca qui ont intégré le bouyon à leurs propres sorties. <a href=\"/problem-child.html\">Problem Child</a>, de Saint-Vincent, en est un cas documenté : « FYM », sorti en janvier 2025 avec le chanteur dominicain Ridge, a été finaliste de la Collaboration de l'année aux Dominica Music Awards 2025.",
+  ),
+  (
+    "Existe-t-il un prix pour le bouyon soca ?",
+    "Oui, aux Antilles françaises : les Hit Lokal Awards ont une catégorie Soca/Bouyon, remportée en 2013 par Bilix et en 2014 par <a href=\"/riddla.html\">Riddla</a> pour « Twitté'y ». À Trinidad, l'épreuve qui consacre la fusion est la Road March, attribuée au titre le plus joué sur la route : « Famalay », produit par Dada, l'a gagnée en 2019. Riddla a ensuite enregistré « Holy Wata » avec TK International, selon la chronique de Karukerament.",
+  ),
+  (
+    "Où voir du bouyon soca en live en 2026 ?",
+    "Au <a href=\"/world-creole-music-festival.html\">World Creole Music Festival</a> de Roseau, du 23 au 25 octobre 2026, trois soirées à Windsor Park où le bouyon partage la scène avec la cadence, le zouk et le kompa. TK International joue la Nuit 1, et le site officiel de Machel Montano l'annonce le 25 octobre. Au carnaval de la Dominique, Mas Domnik, le J'ouvert ouvre les grands jours dès 4 heures du matin avec le bouyon de l'année.",
   )
 ],
 "date_modified": "2026-10-20",
@@ -193,6 +225,38 @@ PAGES = [
   (
     "Où écouter du bouyon gwada aujourd'hui ?",
     "Le plus simple est la Bouyon Road Mix de Bouyon Shattaz, sur Spotify et YouTube, qui mélange les nouveautés de la Dominique, de la Guadeloupe et de la Martinique avec les classiques du carnaval. Suivez @bouyonshattaz sur Instagram et commentez ROAD MIX pour la recevoir en message privé. Tout est réuni sur notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>.",
+  ),
+  (
+    "Quels sont les artistes les plus connus du bouyon gwada ?",
+    "Les articles de référence citent Wee Low, <a href=\"/suppa.html\">Suppa</a>, Doc J et Yellow Gaza parmi les musiciens populaires du début des années 2010, Suppa en figure centrale. Pour les années 2020, la développeuse musicale Maïté Berchel-Bordin a nommé Lejuh, 1T1, Theomaa, Piscine OSP, Aknose et Shanika parmi les artistes bouyon les plus emblématiques du moment en Guadeloupe, dans un entretien publié par CCN en décembre 2025.",
+  ),
+  (
+    "Qu'est-ce que le bouyon hardcore ?",
+    "Le bouyon hardcore est le courant populaire du bouyon gwada, caractérisé selon les articles de référence par des paroles grivoises et violentes. Le collectif bruxellois Rebel Up, qui a documenté la scène au début des années 2010 et publié la mixtape « Bouyon Hardcore 2k13 », décrit des paroles crues en anglais, en français ou en créole, sur des riddims percussifs lourds aux mélodies simplifiées, pour un public averti plutôt que pour toute la foule du carnaval.",
+  ),
+  (
+    "Un titre de bouyon gwada a-t-il été certifié disque d'or ?",
+    "Oui. « Je l'ai vu », du trio familial de Basse-Terre <a href=\"/holly-g.html\">HollyG</a> avec Arendi et VJ Ben, sorti le 22 octobre 2021, a été certifié single or par le SNEP le 10 juillet 2025, deuxième titre bouyon certifié or en France selon l'article de référence sur le genre. « Pow Pow / Allo Doudou », crédité à Miimii KDS avec Niska et Litleboy LSBeats767, a été certifié Single Or en 2026.",
+  ),
+  (
+    "Quel est le tempo du bouyon gwada ?",
+    "Le bouyon gwada garde le tempo du bouyon de fête, autour de 155 à 160 BPM. Les données publiées donnent 160 BPM pour « Sa Zot Vlé » de Gaza Girls Crew en 2011, 157 BPM pour « Bwé Rhum » en 2023, et 155 à 160 BPM pour les titres collectifs d'Aknose en 2023. La vitesse reste la même : ce qui change, c'est le poids des boîtes à rythmes et de la basse. Voir <a href=\"/bpm-du-bouyon.html\">BPM du bouyon</a>.",
+  ),
+  (
+    "Quand le bouyon gwada est-il arrivé à Paris ?",
+    "Selon le collectif Rebel Up, il a fallu attendre décembre 2012 pour que les premiers MCs et DJs dominicains et guadeloupéens viennent à Paris. Un documentaire de 50 minutes, en français et en créole, filme cette première performance de Suppa, des Gaza Girls, de Dj Joe et d'autres. Le bouyon est donc arrivé en France par la diaspora et par le son brut du bouyon gwada, bien avant les certifications. Voir <a href=\"/bouyon-paris.html\">bouyon à Paris</a>.",
+  ),
+  (
+    "Le bouyon gwada et le jump up, est-ce la même chose ?",
+    "Pas tout à fait. Le <a href=\"/jump-up.html\">jump up</a> est le nom courant du bouyon aux Antilles françaises, un nom déjà donné aux musiques de carnaval très rythmées après « L'hivernage » d'Exile One en 1987. Le bouyon gwada est la branche guadeloupéenne et hardcore de ce bouyon, plus dure et plus électronique. TIITII NBA lui-même a découvert WCK par ses parents, sous le nom de jump up.",
+  ),
+  (
+    "Les artistes bouyon de Dominique et de Guadeloupe travaillent-ils ensemble ?",
+    "Oui, dans les deux sens. 1T1, de Guadeloupe, a produit « Leave Me Alone » de Mr Ridge, sorti le 6 septembre 2024 ; Lejuh chante sur « Adios Amigos » de Reo avec Jixels ; DJ JOE et la voix dominicaine d'Asa Bantan partagent « Bwé Rhum » (2023). Le label guadeloupéen More Sewo a signé l'artiste dominicain BONNA. Notre chapitre <a href=\"/gwada-vue-de-dominique.html\">la Gwada vue de la Dominique</a> raconte cette relation.",
+  ),
+  (
+    "Pourquoi le bouyon gwada fait-il polémique ?",
+    "À cause de ses paroles. Le podcast Faya décrit une musique très rapide, aux paroles crues, qui a même frôlé l'interdiction, un exutoire pour la jeunesse qui fait parler, souvent en mal, mais qui fait surtout danser. Le débat reste ouvert : pour Maïté Berchel-Bordin, le bouyon gagnera en maturité en diversifiant ses textes et ses mélodies, et Lejuh a été interrogé en podcast sur la question de savoir si l'on peut faire du bouyon tout public.",
   )
 ],
 "date_modified": "2026-10-20",

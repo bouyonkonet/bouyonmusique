@@ -74,13 +74,63 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qu’est-ce que le RnBouyon, et qui le porte ?", "Le RnBouyon est la fusion de R&B et de bouyon que Deezer attribue à Fallon dans sa sélection Deezer Next 2026. Deezer écrit que Fallon nomme son univers RnBouyon, une fusion qui mêle douceur et énergie pour créer un style à son image. À ce stade du dossier vérifié, Fallon est l’artiste nommée qui porte ce mot, et le producteur né en Dominique Smokiller l’utilise aussi comme intitulé d’un instrumental dans un mix Bouyon Shattaz de 2026."),
-  ("Fallon fait-elle partie de Deezer Next 2026 ?", "Oui. Deezer a annoncé l’arrivée de Timar, Fallon et Heroe dans son programme Deezer Next pour lancer l’année 2026, dans un communiqué daté de Paris le 4 janvier 2026 et publié le 4 février 2026. Le programme offre aux artistes sélectionnés une visibilité renforcée dans l’application, une playlist éditoriale dédiée, une exposition sur les réseaux sociaux de Deezer et des possibilités de scènes, dont la Purple Door Deezer Next en décembre."),
-  ("Quels titres de Fallon sont vérifiés ?", "Deux titres sont cités par Deezer dans ses versions française et anglaise et par son blog The Backstage : « Normal » et « Memories ». Deezer les présente comme les titres où son écriture authentique, sincère et personnelle s’exprime déjà. Aucune source vérifiée ne donne leur année de sortie, leur label ou leurs crédits, et ce profil ne les invente pas."),
-  ("De quelle île vient Fallon ?", "Aucune source vérifiée ne le dit. Deezer parle de son héritage caribéen et de ses racines caribéennes, sans nommer d’île, de ville ou de pays. Ce profil ne lui attribue donc aucune origine insulaire précise. Son adresse documentée en 2026 est la scène francophone soutenue par Deezer Next et la Caraïbe comme héritage revendiqué dans son art."),
-  ("Fallon chante-t-elle du bouyon comme les artistes de carnaval ?", "Fallon chante une forme de bouyon travaillée par le R&B, que Deezer décrit comme un équilibre de douceur et d’énergie. Le bouyon classique, né avec WCK à Roseau en 1988, pousse la voix vers l’appel à la foule et la fête de carnaval. Le RnBouyon de Fallon tire la même matière vers le chant personnel et mélodique du R&B contemporain, ce qui en fait une branche différente, documentée sur notre page RnBouyon."),
-  ("Où écouter Fallon et le RnBouyon ?", "Commencez par « Normal » et « Memories », les deux titres cités par Deezer, puis lisez notre page <a href=\"/rnbouyon.html\">RnBouyon</a> et écoutez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>. Vous y entendrez comment le bouyon, de ses origines dominicaines à ses branches récentes comme le bouyon soca et le New Bouyon, accueille aussi la fusion douce portée par Fallon.")
- ],
+  (
+    "Qu’est-ce que le RnBouyon, et qui le porte ?",
+    "Le RnBouyon est la fusion de R&B et de bouyon que Deezer attribue à Fallon dans sa sélection Deezer Next 2026. Deezer écrit que Fallon nomme son univers RnBouyon, une fusion qui mêle douceur et énergie pour créer un style à son image. À ce stade du dossier vérifié, Fallon est l’artiste nommée qui porte ce mot, et le producteur né en Dominique Smokiller l’utilise aussi comme intitulé d’un instrumental dans un mix Bouyon Shattaz de 2026.",
+  ),
+  (
+    "Fallon fait-elle partie de Deezer Next 2026 ?",
+    "Oui. Deezer a annoncé l’arrivée de Timar, Fallon et Heroe dans son programme Deezer Next pour lancer l’année 2026, dans un communiqué daté de Paris le 4 janvier 2026 et publié le 4 février 2026. Le programme offre aux artistes sélectionnés une visibilité renforcée dans l’application, une playlist éditoriale dédiée, une exposition sur les réseaux sociaux de Deezer et des possibilités de scènes, dont la Purple Door Deezer Next en décembre.",
+  ),
+  (
+    "Quels titres de Fallon sont vérifiés ?",
+    "Deux titres sont cités par Deezer dans ses versions française et anglaise et par son blog The Backstage : « Normal » et « Memories ». Deezer les présente comme les titres où son écriture authentique, sincère et personnelle s’exprime déjà. Aucune source vérifiée ne donne leur année de sortie, leur label ou leurs crédits, et ce profil ne les invente pas.",
+  ),
+  (
+    "De quelle île vient Fallon ?",
+    "Aucune source vérifiée ne le dit. Deezer parle de son héritage caribéen et de ses racines caribéennes, sans nommer d’île, de ville ou de pays. Ce profil ne lui attribue donc aucune origine insulaire précise. Son adresse documentée en 2026 est la scène francophone soutenue par Deezer Next et la Caraïbe comme héritage revendiqué dans son art.",
+  ),
+  (
+    "Fallon chante-t-elle du bouyon comme les artistes de carnaval ?",
+    "Fallon chante une forme de bouyon travaillée par le R&B, que Deezer décrit comme un équilibre de douceur et d’énergie. Le bouyon classique, né avec WCK à Roseau en 1988, pousse la voix vers l’appel à la foule et la fête de carnaval. Le RnBouyon de Fallon tire la même matière vers le chant personnel et mélodique du R&B contemporain, ce qui en fait une branche différente, documentée sur notre page RnBouyon.",
+  ),
+  (
+    "Où écouter Fallon et le RnBouyon ?",
+    "Commencez par « Normal » et « Memories », les deux titres cités par Deezer, puis lisez notre page <a href=\"/rnbouyon.html\">RnBouyon</a>. La Bouyon Road Mix de Bouyon Shattaz, sur Spotify et YouTube, fait entendre comment le bouyon, de ses origines dominicaines à ses branches récentes comme le bouyon soca et le New Bouyon, accueille aussi la fusion douce portée par Fallon.",
+  ),
+  (
+    "Qui est Fallon ?",
+    "Fallon est une artiste que Deezer a choisie pour sa sélection Deezer Next 2026 et qu’il présente comme la porteuse du RnBouyon, une fusion de R&B et de bouyon. Le communiqué la place au croisement de ses racines caribéennes et d’une sensibilité contemporaine, écrit qu’elle redessine les frontières de la pop urbaine et cite deux titres, « Normal » et « Memories », comme preuves de son écriture.",
+  ),
+  (
+    "Comment s’écrit RnBouyon ?",
+    "RnBouyon s’écrit en un seul mot, avec un R majuscule, un n minuscule et un B majuscule. C’est l’orthographe exacte qu’emploie Deezer dans ses versions française et anglaise pour nommer l’univers de Fallon, et la seule orthographe attestée pour cette fusion dans les sources trouvées. Smokiller reprend la même graphie dans le titre de chapitre « RnBouyon Instrumental » d’un mix de 2026.",
+  ),
+  (
+    "Fallon a-t-elle inventé le RnBouyon ?",
+    "Deezer écrit que Fallon nomme son univers RnBouyon, et la version anglaise dit qu’elle façonne cette fusion, au présent : le style est présenté comme un travail en cours, pas comme un genre ancien. Ce site la présente donc comme la porteuse nommée du RnBouyon en 2026, pas comme l’inventrice d’une scène entière. Le mot circule aussi chez Smokiller, de façon indépendante.",
+  ),
+  (
+    "Quelle est la différence entre le RnBouyon de Fallon et le bouyon soca ?",
+    "Le <a href=\"/bouyon-soca.html\">bouyon soca</a> marie le bouyon à la soca de Trinidad : selon le témoignage de première main de Smokiller, Dada l’a lancé en Dominique en 2003, et Triple Kay l’a popularisé. Le RnBouyon de Fallon marie le bouyon au R&B : un chant personnel et mélodique plutôt qu’une structure de fête, entre douceur et énergie, selon Deezer.",
+  ),
+  (
+    "Quels artistes accompagnent Fallon dans Deezer Next 2026 ?",
+    "Deezer a choisi trois artistes pour 2026 : Timar, qui porte le rap, Heroe, une pop intime venue de Normandie, et Fallon, qui porte la rencontre du R&B et du bouyon. Le programme soutient des artistes depuis 2017, dont Angèle, Tiakola, Pomme, PLK, November Ultra et Saint Levant, et plus récemment Marguerite, Miki, RnBoi et R2, selon le blog The Backstage de Deezer.",
+  ),
+  (
+    "Qui a choisi Fallon pour Deezer Next ?",
+    "Le communiqué d’accueil est signé Georges Derval, Head of Editorial, Discovery and Trends chez Deezer, chargé du programme : Deezer se dit ravi d’annoncer l’arrivée de Timar, Fallon et Heroe et compte soutenir leur développement toute l’année, dans l’application, sur les réseaux et au-delà. Pour Fallon, 2026 est donc une année d’accompagnement documentée, pas une consécration.",
+  ),
+  (
+    "D’où vient le bouyon que Fallon mêle au R&B ?",
+    "Le bouyon vient de la Dominique : il a été créé à Roseau en 1988 par <a href=\"/wck.html\">WCK</a>, Windward Caribbean Kulture, qui a fusionné la cadence-lypso et le jing ping avec des claviers électroniques et des boîtes à rythmes. Le mot créole bouyon désigne la soupe où tout se mélange. Toute fusion qui porte son nom, RnBouyon compris, hérite de cette adresse, même loin de Roseau.",
+  ),
+  (
+    "Qu’est-ce que le « RnBouyon Instrumental » de Smokiller ?",
+    "« RnBouyon Instrumental » est un titre de chapitre du mix <a href=\"/bouyon-music-2026.html\">Bouyon Music 2026 Vol. 1</a> réalisé par Smokiller, producteur né en Dominique, pour Bouyon Shattaz. C’est un second usage indépendant du mot, le même mois de février 2026 où Deezer le consacre comme l’univers de Fallon. Il montre que le mot circule, sans faire du RnBouyon un genre déjà établi.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/fallon.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/fallon.html#artist", "name": "Fallon", "description": "Artiste sélectionnée Deezer Next 2026. Deezer présente son univers comme le RnBouyon, fusion de R&B et de bouyon entre douceur et énergie, avec les titres Normal et Memories.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Normal"}, {"@type": "MusicRecording", "name": "Memories"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -152,13 +202,63 @@ EN = {
   ]
  ],
  "faq": [
-  ("What is RnBouyon, and who carries it?", "RnBouyon is the fusion of R&B and bouyon that Deezer attributes to Fallon in its Deezer Next 2026 selection. Deezer writes that Fallon names her world RnBouyon, a fusion mixing softness and energy to create a style in her own image. At this stage of the verified record, Fallon is the named artist carrying that word, and Dominican-born producer Smokiller also uses it as the title of an instrumental in a 2026 Bouyon Shattaz mix."),
-  ("Is Fallon part of Deezer Next 2026?", "Yes. Deezer announced the arrival of Timar, Fallon and Heroe in its Deezer Next program to kick off 2026, in a statement dated Paris, 4 January 2026 and published on 4 February 2026. The program offers selected artists stronger visibility in the app, a dedicated editorial playlist, exposure on Deezer social channels and performance opportunities, including the Purple Door Deezer Next event in December."),
-  ("Which Fallon tracks are verified?", "Two tracks are named by Deezer in its French and English versions and by its The Backstage blog: “Normal” and “Memories”. Deezer presents them as the tracks where her authentic, sincere and personal writing already expresses itself. No verified source gives their release year, label or credits, and this profile does not invent them."),
-  ("Which island is Fallon from?", "No verified source says. Deezer speaks of her Caribbean heritage and her Caribbean roots, without naming an island, a town or a country. This profile therefore assigns her no precise island origin. Her documented address in 2026 is the French speaking scene supported by Deezer Next and the Caribbean as a heritage claimed in her art."),
-  ("Does Fallon sing bouyon like carnival artists?", "Fallon sings a form of bouyon worked through by R&B, which Deezer describes as a balance of softness and energy. Classic bouyon, created with WCK in Roseau in 1988, pushes the voice toward calling the crowd and the carnival fete. Fallon RnBouyon pulls the same material toward the personal, melodic singing of contemporary R&B, which makes it a different branch, documented on our RnBouyon page."),
-  ("Where can I hear Fallon and RnBouyon?", "Start with “Normal” and “Memories”, the two tracks named by Deezer, then read our <a href=\"/en/rnbouyon.html\">RnBouyon</a> page and hear our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>. There you will hear how bouyon, from its Dominican origins to recent branches such as bouyon soca and New Bouyon, also welcomes the soft fusion carried by Fallon.")
- ],
+  (
+    "What is RnBouyon, and who carries it?",
+    "RnBouyon is the fusion of R&B and bouyon that Deezer attributes to Fallon in its Deezer Next 2026 selection. Deezer writes that Fallon names her world RnBouyon, a fusion mixing softness and energy to create a style in her own image. At this stage of the verified record, Fallon is the named artist carrying that word, and Dominican-born producer Smokiller also uses it as the title of an instrumental in a 2026 Bouyon Shattaz mix.",
+  ),
+  (
+    "Is Fallon part of Deezer Next 2026?",
+    "Yes. Deezer announced the arrival of Timar, Fallon and Heroe in its Deezer Next program to kick off 2026, in a statement dated Paris, 4 January 2026 and published on 4 February 2026. The program offers selected artists stronger visibility in the app, a dedicated editorial playlist, exposure on Deezer social channels and performance opportunities, including the Purple Door Deezer Next event in December.",
+  ),
+  (
+    "Which Fallon tracks are verified?",
+    "Two tracks are named by Deezer in its French and English versions and by its The Backstage blog: “Normal” and “Memories”. Deezer presents them as the tracks where her authentic, sincere and personal writing already expresses itself. No verified source gives their release year, label or credits, and this profile does not invent them.",
+  ),
+  (
+    "Which island is Fallon from?",
+    "No verified source says. Deezer speaks of her Caribbean heritage and her Caribbean roots, without naming an island, a town or a country. This profile therefore assigns her no precise island origin. Her documented address in 2026 is the French speaking scene supported by Deezer Next and the Caribbean as a heritage claimed in her art.",
+  ),
+  (
+    "Does Fallon sing bouyon like carnival artists?",
+    "Fallon sings a form of bouyon worked through by R&B, which Deezer describes as a balance of softness and energy. Classic bouyon, created with WCK in Roseau in 1988, pushes the voice toward calling the crowd and the carnival fete. Fallon’s RnBouyon pulls the same material toward the personal, melodic singing of contemporary R&B, which makes it a different branch, documented on our RnBouyon page.",
+  ),
+  (
+    "Where can I hear Fallon and RnBouyon?",
+    "Start with “Normal” and “Memories”, the two tracks named by Deezer, then read our <a href=\"/en/rnbouyon.html\">RnBouyon</a> page. The Bouyon Shattaz Road Mix, on Spotify and YouTube, lets you hear how bouyon, from its Dominican origins to recent branches such as bouyon soca and New Bouyon, also welcomes the soft fusion carried by Fallon.",
+  ),
+  (
+    "Who is Fallon?",
+    "Fallon is an artist Deezer chose for its Deezer Next 2026 selection and presents as the carrier of RnBouyon, a fusion of R&B and bouyon. The statement places her at the crossroads of her Caribbean roots and a contemporary sensitivity, says she is redrawing the boundaries of urban pop, and names two tracks, “Normal” and “Memories”, as proof of her writing.",
+  ),
+  (
+    "How do you spell RnBouyon?",
+    "RnBouyon is written as one word, with a capital R, a lower case n and a capital B. It is the exact spelling Deezer uses in its French and English versions to name Fallon’s world, and the only spelling attested for this fusion in the sources found. Smokiller uses the same spelling in the chapter title “RnBouyon Instrumental” of a 2026 mix.",
+  ),
+  (
+    "Did Fallon invent RnBouyon?",
+    "Deezer writes that Fallon names her world RnBouyon, and the English version says she is shaping this fusion, in the present tense: the style is presented as work in progress, not as an old genre. This site therefore presents her as the named carrier of RnBouyon in 2026, not as the inventor of a whole scene. The word also circulates independently through Smokiller.",
+  ),
+  (
+    "What is the difference between Fallon’s RnBouyon and bouyon soca?",
+    "<a href=\"/en/bouyon-soca.html\">Bouyon soca</a> marries bouyon to Trinidad soca: according to the first-hand testimony of Smokiller, Dada started it in Dominica in 2003, and Triple Kay popularised it. Fallon’s RnBouyon marries bouyon to R&B: personal, melodic singing rather than a fete structure, between softness and energy, according to Deezer.",
+  ),
+  (
+    "Which artists join Fallon in Deezer Next 2026?",
+    "Deezer chose three artists for 2026: Timar, who carries rap, Heroe, an intimate pop artist from Normandy, and Fallon, who carries the meeting of R&B and bouyon. The program has supported artists since 2017, including Angèle, Tiakola, Pomme, PLK, November Ultra and Saint Levant, and more recently Marguerite, Miki, RnBoi and R2, according to Deezer’s The Backstage blog.",
+  ),
+  (
+    "Who chose Fallon for Deezer Next?",
+    "The welcome statement is signed by Georges Derval, Head of Editorial, Discovery and Trends at Deezer, in charge of the program: Deezer is delighted to announce the arrival of Timar, Fallon and Heroe and looks forward to supporting their development all year, in the app, on social media and beyond. For Fallon, 2026 is therefore a documented year of support, not a consecration.",
+  ),
+  (
+    "Where does the bouyon Fallon blends with R&B come from?",
+    "Bouyon comes from Dominica: it was created in Roseau in 1988 by <a href=\"/en/wck.html\">WCK</a>, Windward Caribbean Kulture, which fused cadence-lypso and jing ping with electronic keyboards and drum machines. The Creole word bouyon names the soup in which everything mixes. Every fusion carrying its name, RnBouyon included, inherits that address, even far from Roseau.",
+  ),
+  (
+    "What is Smokiller’s “RnBouyon Instrumental”?",
+    "“RnBouyon Instrumental” is a chapter title in the <a href=\"/en/bouyon-music-2026.html\">Bouyon Music 2026 Vol. 1</a> mix made by Smokiller, a Dominican-born producer, for Bouyon Shattaz. It is a second, independent use of the word, in the same month of February 2026 when Deezer consecrated it as Fallon’s world. It shows the word is circulating, without making RnBouyon an established genre.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/fallon.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/fallon.html#artist", "name": "Fallon", "description": "Deezer Next 2026 selected artist. Deezer presents her world as RnBouyon, a fusion of R&B and bouyon balancing softness and energy, with the tracks Normal and Memories.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Normal"}, {"@type": "MusicRecording", "name": "Memories"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

@@ -81,13 +81,67 @@ FR = {
   ]
  ],
  "faq": [
-  ("Bunji Garlin est-il un artiste bouyon ?", "Non. Bunji Garlin, de son vrai nom Ian Antonio Alvarez, est un artiste soca et ragga soca de Trinité-et-Tobago, né à Arima le 14 juillet 1978. Son lien avec le bouyon est précis et documenté : le producteur dominicain Dada a produit « Famalay », son premier titre de Road March en 2019, et Bunji a chanté « Forward » sur le Smoke Riddim de Dada, un riddim hybride de soca et de bouyon de la Dominique."),
-  ("Combien de fois Bunji Garlin a-t-il gagné le Soca Monarch ?", "Quatre fois l’International Soca Monarch, selon les références : en 2002 avec « Down in the Ghetto », en égalité avec Iwer George, en 2004 avec « Warrior Cry », en 2005 avec « Blaze the Fire » et en 2008 avec « Fiery ». Il a aussi gagné le Ragga Soca Monarch en 2000 et 2001 et le titre de Young King en 2001, et il a gagné le Road March en 2019 avec « Famalay » et en 2023 avec « Hard Fete »."),
-  ("Qu’est-ce que Differentology a gagné et où a-t-il été entendu ?", "« Differentology », publié fin 2012 et produit par Keron Thompson, a gagné le Soul Train Award de la meilleure performance internationale en 2013. Le titre a été remixé par Major Lazer, placé dans un épisode de la série Grey’s Anatomy, a gagné le concours Battle of The Beats de HOT 97 à New York et a été choisi par MTV Iggy comme chanson de l’année. L’album du même nom est sorti en août 2014 chez RCA et VP Records."),
-  ("Pourquoi Differentology n’a-t-il pas gagné le Road March en 2013 ?", "Parce que la route a choisi un autre titre cette année là. Wired868 rapporte que « Differentology » a été écarté au Road March 2013 par le retour de Super Blue avec « Fantastic Friday ». Super Blue est le père de Fay-Ann Lyons, l’épouse de Bunji. Le premier Road March de Bunji viendra en 2019 avec « Famalay », produit par le Dominicain Dada, puis le second en 2023 avec « Hard Fete », co écrit par Fay-Ann."),
-  ("Quel est le vrai nom de Bunji Garlin et d’où vient son nom de scène ?", "Son vrai nom est Ian Antonio Alvarez. Pour le nom de scène, les sources ne racontent pas la même chose : VP Records dit que Bunji est un surnom de famille et que Garlin vient de l’acteur Errol Flynn, tandis que la biographie AllMusic parle du bungee cord pour Bunji et d’un type d’arme pour Garlin. Ce site imprime les deux récits avec leur attribution, sans en choisir un."),
-  ("Bunji Garlin a-t-il vraiment chanté sur un riddim bouyon de la Dominique ?", "Oui. Ebuzztt rapporte que le producteur dominicain Dada a choisi Bunji Garlin et Shurwayne Winchester pour son Smoke Riddim, un riddim hybride qui mélange la soca et le bouyon de la Dominique. Le titre de Bunji sur ce riddim s’appelle « Forward ». Il figure depuis dans son album « Ayl’Ian », publié en 2024, avec Ian Alvarez et Krishna Clyde Lawrence crédités comme compositeurs.")
- ],
+  (
+    "Bunji Garlin est-il un artiste bouyon ?",
+    "Non. Bunji Garlin, de son vrai nom Ian Antonio Alvarez, est un artiste soca et ragga soca de Trinité-et-Tobago, né à Arima le 14 juillet 1978. Son lien avec le bouyon est précis et documenté : le producteur dominicain Dada a produit « Famalay », son premier titre de Road March en 2019, et Bunji a chanté « Forward » sur le Smoke Riddim de Dada, un riddim hybride de soca et de bouyon de la Dominique.",
+  ),
+  (
+    "Combien de fois Bunji Garlin a-t-il gagné le Soca Monarch ?",
+    "Quatre fois l’International Soca Monarch, selon les références : en 2002 avec « Down in the Ghetto », à égalité avec Iwer George, en 2004 avec « Warrior Cry », en 2005 avec « Blaze the Fire » et en 2008 avec « Fiery ». Il a aussi gagné le Ragga Soca Monarch en 2000 et 2001, puis le Road March en 2019 avec « Famalay » et en 2023 avec « Hard Fete ».",
+  ),
+  (
+    "Qu’est-ce que Differentology a gagné et où a-t-il été entendu ?",
+    "« Differentology », publié fin 2012 et produit par Keron Thompson, a gagné le Soul Train Award de la meilleure performance internationale en 2013. Le titre a été remixé par Major Lazer, placé dans un épisode de la série Grey’s Anatomy, a gagné le concours Battle of The Beats de HOT 97 à New York et a été choisi par MTV Iggy comme chanson de l’année. L’album du même nom est sorti en août 2014 chez RCA et VP Records.",
+  ),
+  (
+    "Pourquoi Differentology n’a-t-il pas gagné le Road March en 2013 ?",
+    "Parce que la route a choisi un autre titre cette année là. Wired868 rapporte que « Differentology » a été écarté au Road March 2013 par le retour de Super Blue avec « Fantastic Friday ». Super Blue est le père de Fay-Ann Lyons, l’épouse de Bunji. Le premier Road March de Bunji viendra en 2019 avec « Famalay », produit par le Dominicain Dada, puis le second en 2023 avec « Hard Fete », co écrit par Fay-Ann.",
+  ),
+  (
+    "Quel est le vrai nom de Bunji Garlin et d’où vient son nom de scène ?",
+    "Son vrai nom est Ian Antonio Alvarez. Pour le nom de scène, les sources ne racontent pas la même chose : VP Records dit que Bunji est un surnom de famille et que Garlin vient de l’acteur Errol Flynn, tandis que la biographie AllMusic parle du bungee cord pour Bunji et d’un type d’arme pour Garlin. Ce site imprime les deux récits avec leur attribution, sans en choisir un.",
+  ),
+  (
+    "Bunji Garlin a-t-il vraiment chanté sur un riddim bouyon de la Dominique ?",
+    "Oui. Ebuzztt rapporte que le producteur dominicain Dada a choisi Bunji Garlin et Shurwayne Winchester pour son Smoke Riddim, un riddim hybride qui mélange la soca et le bouyon de la Dominique. Le titre de Bunji sur ce riddim s’appelle « Forward ». Il figure depuis dans son album « Ayl’Ian », publié en 2024, avec Ian Alvarez et Krishna Clyde Lawrence crédités comme compositeurs.",
+  ),
+  (
+    "D’où vient Bunji Garlin ?",
+    "Bunji Garlin vient de Trinité-et-Tobago. Il est né le 14 juillet 1978 à Arima et a grandi à Wallerfield, tout près, dernier de huit enfants, et les références le disent d’ascendance sainte-lucienne et vénézuélienne. Il s’est formé au chant improvisé à Arima Comprehensive et dans les joutes du vendredi soir près du marché d’Arima, avant de passer du dancehall à la soca.",
+  ),
+  (
+    "Qui est la femme de Bunji Garlin ?",
+    "Bunji Garlin est marié depuis le 23 décembre 2006 à Fay-Ann Lyons, chanteuse soca, fille du grand Superblue, elle-même lauréate du Road March et du Soca Monarch. Caribbean Beat la décrit comme une influence directe sur son écriture : le couple écrit ensemble, et TUCO l’a annoncé champion conjoint du Road March 2023 avec « Hard Fete », co-écrit par Fay-Ann et joué 135 fois aux points de jugement.",
+  ),
+  (
+    "Qui a produit Famalay ?",
+    "« Famalay » est produit par DadaMuzic et DSM, avec un mixage de DadaMuzic, selon les crédits publiés avec sa vidéo de performance. DadaMuzic, c’est Dada, le producteur dominicain qui a lancé le bouyon soca en Dominique en 2003. Les compositeurs crédités sont Gamal « Skinny » Doyle, Machel Montano, Ian Alvarez et Krishna Clyde Lawrence. Le parcours du producteur est sur notre page <a href=\"/dada.html\">Dada</a>.",
+  ),
+  (
+    "Pourquoi appelle-t-on Bunji Garlin le Viking de la soca ?",
+    "Le Viking de la soca est un surnom publié par les références et repris par son public, pas un titre officiel décerné par une institution. Il accompagne une réputation de parolier que peu contestent : Bunji se présente lui-même comme un roi des paroles. La presse le surnomme aussi fireman, pour son cri de ralliement, le feu. Ce site imprime ces surnoms comme tels, avec leur attribution.",
+  ),
+  (
+    "Qu’est-ce que le ragga soca de Bunji Garlin ?",
+    "Le ragga soca est la branche de la soca influencée par le dancehall jamaïcain, plus agressive et plus digitale que la soca mélodique des grandes parades. Bunji Garlin en est présenté comme la figure de proue : diction rapide, presque rappée, textes mêlant commentaire social et ordre de fête. Il a remporté le Ragga Soca Monarch de Trinité en 2000 et en 2001, les deux années où ce concours a eu lieu.",
+  ),
+  (
+    "Quelles sont les meilleures chansons de Bunji Garlin ?",
+    "Les titres les plus cités sont « Differentology » (2012), Soul Train Award 2013, « Famalay » et « Hard Fete », ses deux Road March, « Truck on D Road », remixé avec A$AP Ferg, « Jungle Bae » avec Jack Ü et « Big Bad Soca ». Les débuts passent par « Send Dem Riddim Crazy » et « Fire Fi Dem », et « Brrt » figure sur la bande son de Grand Theft Auto IV.",
+  ),
+  (
+    "Avec quels artistes Bunji Garlin a-t-il collaboré ?",
+    "Ses collaborations documentées dépassent la soca : « Jungle Bae » avec Jack Ü (Skrillex et Diplo), « All or Nothing » avec Elliphant et Diplo, « The Message » avec Damian Marley, « Ride It » avec Sebastian Ingrosso et Salvatore Ganacci, « Carnival Tabanca » avec Tarrus Riley, et le remix de « Truck on D Road » avec A$AP Ferg. En soca, il partage « Buss Head » et « Famalay » avec Machel Montano.",
+  ),
+  (
+    "Quel est le dernier album de Bunji Garlin ?",
+    "L’album le plus récent documenté est « Ayl’Ian », paru en 2024 sur le label Bad Beagle. Il contient « Forward », publié le 9 février 2024 selon Shazam, le titre chanté sur le Smoke Riddim de Dada, à 160 BPM. VP Records signale aussi « Party Nice Right Now » parmi ses succès de 2024. Avant lui, « Turn Up » (2017) avait atteint la troisième place du classement Billboard Reggae Albums.",
+  ),
+  (
+    "Famalay est-il un titre de bouyon soca ?",
+    "Par ses crédits, oui : il est produit et mixé par Dada, le producteur qui a inventé le terme bouyon soca en Dominique en 2003 selon le témoignage de Smokiller. Les références du genre retiennent « Famalay » et « Conch Shell » comme titres emblèmes du bouyon soca. Le titre a remporté le Road March de Trinité-et-Tobago en 2019, joué 346 fois. Voir notre page <a href=\"/bouyon-soca.html\">bouyon soca</a>.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/bunji-garlin.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/bunji-garlin.html#artist", "name": "Bunji Garlin", "alternateName": "Ian Antonio Alvarez", "description": "Artiste soca et ragga soca de Trinité-et-Tobago, de son vrai nom Ian Antonio Alvarez, né le 14 juillet 1978 à Arima. Quatre fois vainqueur de l’International Soca Monarch, lauréat du Soul Train Award 2013 pour Differentology, vainqueur du Road March avec Famalay en 2019, produit par le Dominicain Dada, et avec Hard Fete en 2023. Chante Forward sur le Smoke Riddim bouyon soca de Dada.", "genre": "Soca", "track": [{"@type": "MusicRecording", "name": "Differentology (Ready for the Road)"}, {"@type": "MusicRecording", "name": "Down in the Ghetto"}, {"@type": "MusicRecording", "name": "Warrior Cry"}, {"@type": "MusicRecording", "name": "Blaze the Fire"}, {"@type": "MusicRecording", "name": "Fiery"}, {"@type": "MusicRecording", "name": "Clear de Road"}, {"@type": "MusicRecording", "name": "Send Dem Riddim Crazy"}, {"@type": "MusicRecording", "name": "Truck on D Road"}, {"@type": "MusicRecording", "name": "Carnival Tabanca"}, {"@type": "MusicRecording", "name": "The Message"}, {"@type": "MusicRecording", "name": "Big Bad Soca"}, {"@type": "MusicRecording", "name": "Buss Head"}, {"@type": "MusicRecording", "name": "Famalay"}, {"@type": "MusicRecording", "name": "Hard Fete"}, {"@type": "MusicRecording", "name": "Forward"}], "sameAs": ["https://www.instagram.com/bunjigarlin", "https://www.vprecords.com/artist/bunji-garlin/"]}}],
  "date_modified": "2026-10-20"
 }
@@ -160,13 +214,67 @@ EN = {
   ]
  ],
  "faq": [
-  ("Is Bunji Garlin a bouyon artist?", "No. Bunji Garlin, real name Ian Antonio Alvarez, is a soca and ragga soca artist from Trinidad and Tobago, born in Arima on July 14, 1978. His link to bouyon is precise and documented: Dominican producer Dada produced “Famalay”, his first Road March record in 2019, and Bunji sang “Forward” on the Smoke Riddim of Dada, a hybrid riddim of soca and Dominica bouyon."),
-  ("How many times has Bunji Garlin won the Soca Monarch?", "Four times the International Soca Monarch, according to references: in 2002 with “Down in the Ghetto”, tied with Iwer George, in 2004 with “Warrior Cry”, in 2005 with “Blaze the Fire” and in 2008 with “Fiery”. He also won the Ragga Soca Monarch in 2000 and 2001 and the Young King title in 2001, and he won the Road March in 2019 with “Famalay” and in 2023 with “Hard Fete”."),
-  ("What did Differentology win, and where was it heard?", "“Differentology”, released in late 2012 and produced by Keron Thompson, won the Soul Train Award for Best International Performance in 2013. The record was remixed by Major Lazer, featured in an episode of the television drama Grey’s Anatomy, won the HOT 97 Battle of The Beats competition in New York and was chosen by MTV Iggy as its Song of the Year. The album of the same name was released in August 2014 by RCA and VP Records."),
-  ("Why did Differentology not win the Road March in 2013?", "Because the road chose another record that year. Wired868 reports that “Differentology” was brushed aside at the 2013 Road March by the return of Super Blue with “Fantastic Friday”. Super Blue is the father of Fay-Ann Lyons, the wife of Bunji. Bunji first Road March came in 2019 with “Famalay”, produced by Dominican Dada, and his second in 2023 with “Hard Fete”, co written by Fay-Ann."),
-  ("What is Bunji Garlin real name, and where does his stage name come from?", "His real name is Ian Antonio Alvarez. On the stage name, sources do not tell the same story: VP Records says Bunji is a family nickname and Garlin was inspired by actor Errol Flynn, while the AllMusic biography speaks of the bungee cord for Bunji and a type of gun for Garlin. This site prints both accounts with their attribution, without choosing one."),
-  ("Did Bunji Garlin really sing on a Dominica bouyon riddim?", "Yes. Ebuzztt reports that Dominican producer Dada chose Bunji Garlin and Shurwayne Winchester for his Smoke Riddim, a hybrid riddim blending soca and the bouyon of Dominica. The Bunji record on that riddim is called “Forward”. It now appears on his album “Ayl’Ian”, released in 2024, with Ian Alvarez and Krishna Clyde Lawrence credited as songwriters.")
- ],
+  (
+    "Is Bunji Garlin a bouyon artist?",
+    "No. Bunji Garlin, real name Ian Antonio Alvarez, is a soca and ragga soca artist from Trinidad and Tobago, born in Arima on July 14, 1978. His link to bouyon is precise and documented: Dominican producer Dada produced “Famalay”, his first Road March record in 2019, and Bunji sang “Forward” on the Smoke Riddim of Dada, a hybrid riddim of soca and Dominica bouyon.",
+  ),
+  (
+    "How many times has Bunji Garlin won the Soca Monarch?",
+    "Four International Soca Monarch titles, according to the references: in 2002 with “Down in the Ghetto”, tied with Iwer George, in 2004 with “Warrior Cry”, in 2005 with “Blaze the Fire” and in 2008 with “Fiery”. He also won the Ragga Soca Monarch in 2000 and 2001, then the Road March in 2019 with “Famalay” and in 2023 with “Hard Fete”.",
+  ),
+  (
+    "What did Differentology win, and where was it heard?",
+    "“Differentology”, released in late 2012 and produced by Keron Thompson, won the Soul Train Award for Best International Performance in 2013. The record was remixed by Major Lazer, featured in an episode of the television drama Grey’s Anatomy, won the HOT 97 Battle of The Beats competition in New York and was chosen by MTV Iggy as its Song of the Year. The album of the same name was released in August 2014 by RCA and VP Records.",
+  ),
+  (
+    "Why did Differentology not win the Road March in 2013?",
+    "Because the road chose another record that year. Wired868 reports that “Differentology” was brushed aside at the 2013 Road March by the return of Super Blue with “Fantastic Friday”. Super Blue is the father of Fay-Ann Lyons, the wife of Bunji. Bunji first Road March came in 2019 with “Famalay”, produced by Dominican Dada, and his second in 2023 with “Hard Fete”, co written by Fay-Ann.",
+  ),
+  (
+    "What is Bunji Garlin’s real name, and where does his stage name come from?",
+    "His real name is Ian Antonio Alvarez. On the stage name, sources do not tell the same story: VP Records says Bunji is a family nickname and Garlin was inspired by actor Errol Flynn, while the AllMusic biography speaks of the bungee cord for Bunji and a type of gun for Garlin. This site prints both accounts with their attribution, without choosing one.",
+  ),
+  (
+    "Did Bunji Garlin really sing on a Dominica bouyon riddim?",
+    "Yes. Ebuzztt reports that Dominican producer Dada chose Bunji Garlin and Shurwayne Winchester for his Smoke Riddim, a hybrid riddim blending soca and the bouyon of Dominica. The Bunji record on that riddim is called “Forward”. It now appears on his album “Ayl’Ian”, released in 2024, with Ian Alvarez and Krishna Clyde Lawrence credited as songwriters.",
+  ),
+  (
+    "Where is Bunji Garlin from?",
+    "Bunji Garlin is from Trinidad and Tobago. He was born on 14 July 1978 in Arima and grew up nearby in Wallerfield, the last of eight children, and the references describe him as of Saint Lucian and Venezuelan descent. He learned improvised singing at Arima Comprehensive and in the Friday night clashes near Arima market, before moving from dancehall to soca.",
+  ),
+  (
+    "Who is Bunji Garlin’s wife?",
+    "Bunji Garlin has been married since 23 December 2006 to Fay-Ann Lyons, a soca singer, daughter of the great Superblue, and herself a Road March and Soca Monarch winner. Caribbean Beat describes her as a direct influence on his writing: the couple write together, and TUCO announced them joint 2023 Road March champions with “Hard Fete”, co-written by Fay-Ann and played 135 times at the judging points.",
+  ),
+  (
+    "Who produced Famalay?",
+    "“Famalay” is produced by DadaMuzic and DSM, mixed by DadaMuzic, according to the credits published with its performance video. DadaMuzic is Dada, the Dominican producer who launched bouyon soca in Dominica in 2003. The credited composers are Gamal “Skinny” Doyle, Machel Montano, Ian Alvarez and Krishna Clyde Lawrence. The producer’s story is on our <a href=\"/en/dada.html\">Dada</a> page.",
+  ),
+  (
+    "Why is Bunji Garlin called the Viking of Soca?",
+    "The Viking of Soca is a nickname published by the references and taken up by his audience, not an official title awarded by any institution. It goes with a reputation as a lyricist that few dispute: Bunji presents himself as a king of lyrics. The press also calls him the fireman, for his rallying cry, fire. This site prints those nicknames as such, with their attribution.",
+  ),
+  (
+    "What is Bunji Garlin’s ragga soca?",
+    "Ragga soca is the branch of soca influenced by Jamaican dancehall, more aggressive and more digital than the melodic soca of the big parades. Bunji Garlin is presented as its leading figure: fast, almost rapped delivery, lyrics mixing social commentary and party commands. He won Trinidad’s Ragga Soca Monarch in 2000 and 2001, the two years that competition was held.",
+  ),
+  (
+    "What are Bunji Garlin’s best songs?",
+    "The most cited are “Differentology” (2012), a 2013 Soul Train Award winner, “Famalay” and “Hard Fete”, his two Road March winners, “Truck on D Road”, remixed with A$AP Ferg, “Jungle Bae” with Jack Ü and “Big Bad Soca”. His early years run through “Send Dem Riddim Crazy” and “Fire Fi Dem”, and “Brrt” is on the Grand Theft Auto IV soundtrack.",
+  ),
+  (
+    "Which artists has Bunji Garlin collaborated with?",
+    "His documented collaborations reach well beyond soca: “Jungle Bae” with Jack Ü, the Skrillex and Diplo duo, “All or Nothing” with Elliphant and Diplo, “The Message” with Damian Marley, “Ride It” with Sebastian Ingrosso and Salvatore Ganacci, “Carnival Tabanca” with Tarrus Riley, and the “Truck on D Road” remix with A$AP Ferg. In soca, he shares “Buss Head” and “Famalay” with Machel Montano.",
+  ),
+  (
+    "What is Bunji Garlin’s latest album?",
+    "The most recent documented album is “Ayl’Ian”, released in 2024 on the Bad Beagle label. It includes “Forward”, released on 9 February 2024 according to Shazam, the song sung on Dada’s Smoke Riddim, at 160 BPM. VP Records also lists “Party Nice Right Now” among his 2024 hits. Before it, “Turn Up” (2017) reached number three on the Billboard Reggae Albums chart.",
+  ),
+  (
+    "Is Famalay a bouyon soca song?",
+    "By its credits, yes: it is produced and mixed by Dada, the producer who coined the term bouyon soca in Dominica in 2003, according to Smokiller’s testimony. Genre references hold up “Famalay” and “Conch Shell” as the emblem songs of bouyon soca. The track won the Trinidad and Tobago Road March in 2019, played 346 times. See our <a href=\"/en/bouyon-soca.html\">bouyon soca</a> page.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/bunji-garlin.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/bunji-garlin.html#artist", "name": "Bunji Garlin", "alternateName": "Ian Antonio Alvarez", "description": "Soca and ragga soca artist from Trinidad and Tobago, real name Ian Antonio Alvarez, born July 14, 1978 in Arima. Four time International Soca Monarch winner, 2013 Soul Train Award winner for Differentology, Road March winner with Famalay in 2019, produced by Dominican Dada, and with Hard Fete in 2023. Sings Forward on the bouyon soca Smoke Riddim of Dada.", "genre": "Soca", "track": [{"@type": "MusicRecording", "name": "Differentology (Ready for the Road)"}, {"@type": "MusicRecording", "name": "Down in the Ghetto"}, {"@type": "MusicRecording", "name": "Warrior Cry"}, {"@type": "MusicRecording", "name": "Blaze the Fire"}, {"@type": "MusicRecording", "name": "Fiery"}, {"@type": "MusicRecording", "name": "Clear de Road"}, {"@type": "MusicRecording", "name": "Send Dem Riddim Crazy"}, {"@type": "MusicRecording", "name": "Truck on D Road"}, {"@type": "MusicRecording", "name": "Carnival Tabanca"}, {"@type": "MusicRecording", "name": "The Message"}, {"@type": "MusicRecording", "name": "Big Bad Soca"}, {"@type": "MusicRecording", "name": "Buss Head"}, {"@type": "MusicRecording", "name": "Famalay"}, {"@type": "MusicRecording", "name": "Hard Fete"}, {"@type": "MusicRecording", "name": "Forward"}], "sameAs": ["https://www.instagram.com/bunjigarlin", "https://www.vprecords.com/artist/bunji-garlin/"]}}],
  "date_modified": "2026-10-20"
 }

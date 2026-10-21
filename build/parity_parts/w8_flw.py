@@ -59,13 +59,55 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est FLW ?", "FLW est un artiste bouyon qui signe FLW (T-BTS), membre de la Team Bwè Tou Sa. Son titre le plus visible est « GENKIDAMA », publié en clip officiel avec le beatmaker Diixly, et sa discographie vérifiée compte quatre titres entre 2025 et 2026 : « RAKITA », « GENKIDAMA », « BIG BAG » et « HOT #Oups 5 ». Aucune biographie, aucun nom civil et aucune origine ne sont publiés dans les sources ouvertes pour ce profil."),
-  ("Que signifie T-BTS dans FLW (T-BTS) ?", "T-BTS est la forme courte de Team Bwè Tou Sa, le collectif de FLW. C’est aussi le nom du label qui a publié l’album « VOYÉ SA ALLÉÉ » de la Team Bwè Tou Sa en 2021, selon le catalogue Qobuz du collectif. FLW porte donc, dans son propre nom d’artiste, la signature de son équipe et de son label de fabrique."),
-  ("Quels sont les titres vérifiés de FLW ?", "Quatre titres, documentés sur les plateformes : « RAKITA », single de la Team Bwè Tou Sa, FLW et Lünik, sorti le 11 septembre 2025 selon Qobuz ; « GENKIDAMA », avec Diixly, publié en clip officiel ; « BIG BAG (feat. DJ T’CHABS & DJ LARAFALE) », single de FLW et de la Team Bwè Tou Sa, sorti le 20 janvier 2026 selon Qobuz ; et « HOT #Oups 5 », single de Lünik, FLW, See V et la Team Bwè Tou Sa, en 2026."),
-  ("Qui a fait le rythme et le clip de GENKIDAMA ?", "Les crédits publiés du clip officiel sont précis : beatmaker Diixly, ingénieur du son Gammalab, réalisation vidéo Dylan Farah. FLW est l’artiste principal du titre, présenté sous la forme FLW (T-BTS) X Diixly, et la description annonce le son comme disponible sur toutes les plateformes."),
-  ("D’où vient FLW ?", "Ce profil répond honnêtement : aucune source ouverte vérifiée ne publie l’île ou le pays d’origine de FLW. Son collectif, la Team Bwè Tou Sa, circule sur le circuit des Antilles françaises et de la diaspora, avec un public suivi principalement en France puis en Guadeloupe, mais attribuer à FLW une origine personnelle à partir de ce contexte serait une invention, et ce site ne le fait pas."),
-  ("Où écouter FLW ?", "Commencez par le clip officiel de « GENKIDAMA » sur YouTube, dont la description annonce le titre sur toutes les plateformes, puis par « BIG BAG », « RAKITA » et « HOT #Oups 5 » sur les plateformes d’écoute, dans les catalogues de FLW et de la Team Bwè Tou Sa. Notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> replace ces titres dans la vague bouyon 2026 des Antilles françaises et de la Dominique.")
- ],
+  (
+    "Qui est FLW ?",
+    "FLW est un artiste bouyon qui signe FLW (T-BTS), membre de la Team Bwè Tou Sa. Son titre le plus visible est « GENKIDAMA », publié en clip officiel avec le beatmaker Diixly, et sa discographie vérifiée compte quatre titres entre 2025 et 2026 : « RAKITA », « GENKIDAMA », « BIG BAG » et « HOT #Oups 5 ». Aucune biographie, aucun nom civil et aucune origine ne sont publiés dans les sources ouvertes pour ce profil.",
+  ),
+  (
+    "Que signifie T-BTS dans FLW (T-BTS) ?",
+    "T-BTS est la forme courte de Team Bwè Tou Sa, le collectif de FLW. C’est aussi le nom du label qui a publié l’album « VOYÉ SA ALLÉÉ » de la Team Bwè Tou Sa en 2021, selon le catalogue Qobuz du collectif. FLW porte donc, dans son propre nom d’artiste, la signature de son équipe et de son label de fabrique.",
+  ),
+  (
+    "Qu’est-ce que la Team Bwè Tou Sa ?",
+    "La Team Bwè Tou Sa est le collectif bouyon dont FLW fait partie. Il publie depuis 2020 un catalogue dense, avec les albums « VOYÉ SA ALLÉÉ », « Voyé sa alléé II » et « TRAVAILLONS » en 2024, sous ses propres labels T-BTS, GAMMALAB et Team Bwè Tou Sa. Son public est suivi surtout en France puis en Guadeloupe, et l’équipe figure sur l’affiche du festival Karukera One Love à Torcy.",
+  ),
+  (
+    "Quels sont les titres vérifiés de FLW ?",
+    "Quatre titres, documentés sur les plateformes : « RAKITA », single de la Team Bwè Tou Sa, FLW et Lünik, sorti le 11 septembre 2025 selon Qobuz ; « GENKIDAMA », avec Diixly, publié en clip officiel ; « BIG BAG (feat. DJ T’CHABS & DJ LARAFALE) », single de FLW et de la Team Bwè Tou Sa, sorti le 20 janvier 2026 selon Qobuz ; et « HOT #Oups 5 », single de Lünik, FLW, See V et la Team Bwè Tou Sa, en 2026.",
+  ),
+  (
+    "Qui a fait le rythme et le clip de GENKIDAMA ?",
+    "Les crédits publiés du clip officiel sont précis : beatmaker Diixly, ingénieur du son Gammalab, réalisation vidéo Dylan Farah. FLW est l’artiste principal du titre, présenté sous la forme FLW (T-BTS) X Diixly, et la description annonce le son comme disponible sur toutes les plateformes.",
+  ),
+  (
+    "Que veut dire Genkidama, le titre de FLW ?",
+    "Genkidama renvoie, dans l’imaginaire manga partagé par les jeunes publics antillais, à la sphère d’énergie de Dragon Ball. C’est une lecture du titre, pas une explication de l’artiste : aucune source ne publie de déclaration de FLW sur le choix de ce nom. Les hashtags du clip, eux, le cadrent clairement comme un titre bouyon 2026.",
+  ),
+  (
+    "Qui chante en featuring sur « BIG BAG » de FLW ?",
+    "« BIG BAG » est crédité « BIG BAG (feat. DJ T’CHABS & DJ LARAFALE) », single de FLW et de la Team Bwè Tou Sa, sorti le 20 janvier 2026 selon Qobuz. C’est le titre où FLW passe de membre crédité à artiste principal. La présence de deux DJ dans le crédit montre un titre pensé dès sa sortie pour les mixes et les soirées.",
+  ),
+  (
+    "Quel est le premier titre de FLW ?",
+    "Le premier titre vérifié de FLW est « RAKITA », un single de la Team Bwè Tou Sa avec FLW et <a href=\"/lunik.html\">Lünik</a>, sorti le 11 septembre 2025 selon Qobuz. Aucun titre antérieur n’a été trouvé avec un crédit publié. FLW entre donc dans le dossier public par un titre collectif où chaque voix est créditée, un an avant son propre single, « BIG BAG ».",
+  ),
+  (
+    "Avec quels artistes FLW a-t-il collaboré ?",
+    "Ses collaborations vérifiées passent toutes par son collectif : le beatmaker Diixly sur « GENKIDAMA », Lünik sur « RAKITA » et « HOT #Oups 5 », See V sur « HOT #Oups 5 », et les DJ T’CHABS et DJ LARAFALE en featuring sur « BIG BAG ». Côté fabrication, Gammalab et le réalisateur Dylan Farah signent le son et l’image de « GENKIDAMA ».",
+  ),
+  (
+    "Quel style de bouyon fait FLW ?",
+    "FLW fait le bouyon de collectif des Antilles françaises : des titres courts, des crédits partagés entre voix, beatmakers et DJ, et une signature d’équipe, T-BTS, qui vaut label de fabrique. C’est une des formes que prend en 2026 le son né en Dominique, différente du bouyon des groupes live dominicains des années 1990 raconté dans notre <a href=\"/histoire.html\">histoire du bouyon</a>.",
+  ),
+  (
+    "D’où vient FLW ?",
+    "Ce profil répond honnêtement : aucune source ouverte vérifiée ne publie l’île ou le pays d’origine de FLW. Son collectif, la Team Bwè Tou Sa, circule sur le circuit des Antilles françaises et de la diaspora, avec un public suivi principalement en France puis en Guadeloupe, mais attribuer à FLW une origine personnelle à partir de ce contexte serait une invention, et ce site ne le fait pas.",
+  ),
+  (
+    "Où écouter FLW ?",
+    "Commencez par le clip officiel de « GENKIDAMA » sur YouTube, dont la description annonce le titre sur toutes les plateformes, puis par « BIG BAG », « RAKITA » et « HOT #Oups 5 », dans les catalogues de FLW et de la Team Bwè Tou Sa. Pour la vague bouyon 2026 qui l’entoure, notre <a href=\"/playlist-bouyon.html\">playlist Bouyon Road Mix</a> suit les nouveautés de la Dominique, de la Guadeloupe et de la Martinique.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/flw.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/flw.html#artist", "name": "FLW", "description": "Artiste bouyon signant FLW (T-BTS), de la Team Bwè Tou Sa. Artiste principal de GENKIDAMA avec le beatmaker Diixly et de BIG BAG, crédité aussi sur RAKITA et HOT #Oups 5. Aucune origine ni biographie documentée dans le dossier public ouvert pour ce profil.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "GENKIDAMA"}, {"@type": "MusicRecording", "name": "BIG BAG"}, {"@type": "MusicRecording", "name": "RAKITA"}, {"@type": "MusicRecording", "name": "HOT #Oups 5"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -123,13 +165,55 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is FLW?", "FLW is a bouyon artist who signs FLW (T-BTS), a member of Team Bwe Tou Sa. His most visible track is “GENKIDAMA”, released as an official video with beatmaker Diixly, and his verified discography holds four tracks between 2025 and 2026: “RAKITA”, “GENKIDAMA”, “BIG BAG” and “HOT #Oups 5”. No biography, no real name and no origin are published in the sources opened for this profile."),
-  ("What does T-BTS mean in FLW (T-BTS)?", "T-BTS is the short form of Team Bwe Tou Sa, the collective of FLW. It is also the name of the label that released the Team Bwe Tou Sa album “VOYE SA ALLEE” in 2021, according to the collective Qobuz catalogue. FLW therefore carries, in his own artist name, the signature of his team and of its in house label."),
-  ("What are the verified tracks of FLW?", "Four tracks, documented on the platforms: “RAKITA”, a single by Team Bwe Tou Sa, FLW and Lunik, released on 11 September 2025 according to Qobuz; “GENKIDAMA”, with Diixly, released as an official video; “BIG BAG (feat. DJ T’CHABS & DJ LARAFALE)”, a single by FLW and Team Bwe Tou Sa, released on 20 January 2026 according to Qobuz; and “HOT #Oups 5”, a single by Lunik, FLW, See V and Team Bwe Tou Sa, in 2026."),
-  ("Who made the beat and the video of GENKIDAMA?", "The published credits of the official video are precise: beatmaker Diixly, sound engineer Gammalab, video direction Dylan Farah. FLW is the lead artist of the track, presented in the form FLW (T-BTS) X Diixly, and the description announces the track as available on all platforms."),
-  ("Where is FLW from?", "This profile answers honestly: no verified open source publishes the island or country of origin of FLW. His collective, Team Bwe Tou Sa, circulates on the French Caribbean and diaspora circuit, with an audience tracked mainly in France, then Guadeloupe, but assigning FLW a personal origin from that context would be an invention, and this site does not do it."),
-  ("Where can I hear FLW?", "Start with the official “GENKIDAMA” video on YouTube, whose description announces the track on all platforms, then with “BIG BAG”, “RAKITA” and “HOT #Oups 5” on the streaming platforms, in the catalogues of FLW and Team Bwe Tou Sa. Our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> places those tracks inside the 2026 bouyon wave of the French Caribbean and Dominica.")
- ],
+  (
+    "Who is FLW?",
+    "FLW is a bouyon artist who signs FLW (T-BTS), a member of Team Bwe Tou Sa. His most visible track is “GENKIDAMA”, released as an official video with beatmaker Diixly, and his verified discography holds four tracks between 2025 and 2026: “RAKITA”, “GENKIDAMA”, “BIG BAG” and “HOT #Oups 5”. No biography, no real name and no origin are published in the sources opened for this profile.",
+  ),
+  (
+    "What does T-BTS mean in FLW (T-BTS)?",
+    "T-BTS is the short form of Team Bwe Tou Sa, the collective of FLW. It is also the name of the label that released the Team Bwe Tou Sa album “VOYE SA ALLEE” in 2021, according to the collective Qobuz catalogue. FLW therefore carries, in his own artist name, the signature of his team and of its in house label.",
+  ),
+  (
+    "What is Team Bwe Tou Sa?",
+    "Team Bwe Tou Sa is the bouyon collective FLW belongs to. Since 2020 it has published a dense catalogue, with the albums “VOYE SA ALLEE”, “Voye sa allee II” and “TRAVAILLONS” in 2024, on its own labels T-BTS, GAMMALAB and Team Bwe Tou Sa. Its audience is tracked mainly in France, then Guadeloupe, and the team appears on the bill of the Karukera One Love festival in Torcy.",
+  ),
+  (
+    "What are the verified tracks of FLW?",
+    "Four tracks, documented on the platforms: “RAKITA”, a single by Team Bwe Tou Sa, FLW and Lunik, released on 11 September 2025 according to Qobuz; “GENKIDAMA”, with Diixly, released as an official video; “BIG BAG (feat. DJ T’CHABS & DJ LARAFALE)”, a single by FLW and Team Bwe Tou Sa, released on 20 January 2026 according to Qobuz; and “HOT #Oups 5”, a single by Lunik, FLW, See V and Team Bwe Tou Sa, in 2026.",
+  ),
+  (
+    "Who made the beat and the video of GENKIDAMA?",
+    "The published credits of the official video are precise: beatmaker Diixly, sound engineer Gammalab, video direction Dylan Farah. FLW is the lead artist of the track, presented in the form FLW (T-BTS) X Diixly, and the description announces the track as available on all platforms.",
+  ),
+  (
+    "What does Genkidama mean in the FLW song title?",
+    "Genkidama refers, in the manga imaginary shared by young Antillean audiences, to the energy sphere of Dragon Ball. That is a reading of the title, not an explanation from the artist: no source publishes a statement by FLW about the choice of the name. The video hashtags, by contrast, frame it clearly as a 2026 bouyon track.",
+  ),
+  (
+    "Who is featured on “BIG BAG” by FLW?",
+    "“BIG BAG” is credited as “BIG BAG (feat. DJ T’CHABS & DJ LARAFALE)”, a single by FLW and Team Bwe Tou Sa, released on 20 January 2026 according to Qobuz. It is the track where FLW moves from credited member to lead artist. Having two DJs written into the credit shows a track built from release day for mixes and parties.",
+  ),
+  (
+    "What was FLW first song?",
+    "The first verified FLW track is “RAKITA”, a Team Bwe Tou Sa single with FLW and <a href=\"/en/lunik.html\">Lunik</a>, released on 11 September 2025 according to Qobuz. No earlier track was found with a published credit. FLW therefore enters the public record through a collective track where every voice is credited, a year before his own single, “BIG BAG”.",
+  ),
+  (
+    "Who has FLW worked with?",
+    "His verified collaborations all run through his collective: beatmaker Diixly on “GENKIDAMA”, Lunik on “RAKITA” and “HOT #Oups 5”, See V on “HOT #Oups 5”, and DJ T’CHABS and DJ LARAFALE as featured names on “BIG BAG”. On the production side, Gammalab and director Dylan Farah sign the sound and the picture of “GENKIDAMA”.",
+  ),
+  (
+    "What style of bouyon does FLW make?",
+    "FLW makes the collective bouyon of the French Caribbean: short tracks, credits shared between voices, beatmakers and DJs, and a team signature, T-BTS, that works as a mark of manufacture. It is one of the forms the sound born in Dominica takes in 2026, different from the live band bouyon of 1990s Dominica told on our <a href=\"/en/history.html\">history of bouyon</a> page.",
+  ),
+  (
+    "Where is FLW from?",
+    "This profile answers honestly: no verified open source publishes the island or country of origin of FLW. His collective, Team Bwe Tou Sa, circulates on the French Caribbean and diaspora circuit, with an audience tracked mainly in France, then Guadeloupe, but assigning FLW a personal origin from that context would be an invention, and this site does not do it.",
+  ),
+  (
+    "Where can I hear FLW?",
+    "Start with the official “GENKIDAMA” video on YouTube, whose description announces the track on all platforms, then with “BIG BAG”, “RAKITA” and “HOT #Oups 5”, in the catalogues of FLW and Team Bwe Tou Sa. For the 2026 bouyon wave around him, our <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix playlist</a> follows new releases from Dominica, Guadeloupe and Martinique.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/flw.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/flw.html#artist", "name": "FLW", "description": "Bouyon artist signing FLW (T-BTS), of Team Bwe Tou Sa. Lead artist of GENKIDAMA with beatmaker Diixly and of BIG BAG, also credited on RAKITA and HOT #Oups 5. No origin or biography documented in the public record opened for this profile.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "GENKIDAMA"}, {"@type": "MusicRecording", "name": "BIG BAG"}, {"@type": "MusicRecording", "name": "RAKITA"}, {"@type": "MusicRecording", "name": "HOT #Oups 5"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

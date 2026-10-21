@@ -61,13 +61,55 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Dézod ?", "Un nom de voix du bouyon des Antilles françaises, documenté par un seul crédit vérifié : le featuring sur « Copain Copine » de LGC, sorti le 3 janvier 2025 chez LGC Music. Aucune source consultée ne donne son nom civil, son origine ou sa biographie, et ce profil ne publie donc que ce crédit et son contexte."),
-  ("Quel est le titre vérifié de Dézod ?", "« Copain Copine », de LGC en featuring avec Dézod, sorti le 3 janvier 2025, en français et à 160 BPM. La fiche du titre crédite LGC et Dézod aux chœurs, quatre auteurs, Dany David Ledreck, Jean Gardiole, Déreck Ciani et O’neal Chatelot, et Magbeatz à la production. C’est, à ce jour, le seul titre rattaché à Dézod par une fiche ouverte."),
-  ("Dézod a-t-il sorti des titres en solo ?", "Aucun titre solo de Dézod n’a été retrouvé sur les plateformes consultées pendant cette recherche, ni album, ni EP, ni single en nom principal. Si un titre solo existe hors des catalogues indexés, il n’est pas documenté publiquement, et ce profil ne le suppose pas."),
-  ("Le « Dézod » d’Illmino, sorti en 2010, est-il le même artiste ?", "Rien ne le dit, et les fiches disent autre chose. « Dézod » d’Illmino, sorti le 29 novembre 2010 chez Sp Ranz Music, tagué Cajun, à 151 BPM, crédite Illmino comme interprète et auteur, Robson comme compositeur et Cédric Cardonnet comme auteur. C’est un titre d’Illmino, pas un crédit de l’artiste invité de LGC quinze ans plus tard. Ce profil ne fusionne pas les deux."),
-  ("Que signifie le mot dézod ?", "Dans les créoles à base française, dezod est la forme créole du français désordre : les dictionnaires consultés le donnent pour désordre, chaos et vacarme, du créole haïtien au créole marie-galantais. Aucune source ne dit pourquoi l’artiste porte ce nom, et ce profil présente le sens du mot sans en faire une biographie."),
-  ("Où écouter Dézod ?", "Sur « Copain Copine » de LGC, sorti le 3 janvier 2025, à replacer dans le catalogue de son hôte sur notre page <a href=\"/lgc.html\">LGC</a>, puis dans notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> et sur notre page <a href=\"/bouyon-guadeloupe.html\">bouyon Guadeloupe</a>, qui suit la scène gwada où ce titre est né.")
- ],
+  (
+    "Qui est Dézod ?",
+    "Un nom de voix du bouyon des Antilles françaises, documenté par un seul crédit vérifié : le featuring sur « Copain Copine » de LGC, sorti le 3 janvier 2025 chez LGC Music. Aucune source consultée ne donne son nom civil, son origine ou sa biographie, et ce profil ne publie donc que ce crédit et son contexte.",
+  ),
+  (
+    "Quel est le titre vérifié de Dézod ?",
+    "« Copain Copine », de LGC en featuring avec Dézod, sorti le 3 janvier 2025, en français et à 160 BPM. La fiche du titre crédite LGC et Dézod aux chœurs, quatre auteurs, Dany David Ledreck, Jean Gardiole, Déreck Ciani et O’neal Chatelot, et Magbeatz à la production. C’est, à ce jour, le seul titre rattaché à Dézod par une fiche ouverte.",
+  ),
+  (
+    "Dézod a-t-il sorti des titres en solo ?",
+    "Aucun titre solo de Dézod n’a été retrouvé sur les plateformes consultées pendant cette recherche, ni album, ni EP, ni single en nom principal. Si un titre solo existe hors des catalogues indexés, il n’est pas documenté publiquement, et ce profil ne le suppose pas.",
+  ),
+  (
+    "Le « Dézod » d’Illmino, sorti en 2010, est-il le même artiste ?",
+    "Rien ne le dit, et les fiches disent autre chose. « Dézod » d’Illmino, sorti le 29 novembre 2010 chez Sp Ranz Music, tagué Cajun, à 151 BPM, crédite Illmino comme interprète et auteur, Robson comme compositeur et Cédric Cardonnet comme auteur. C’est un titre d’Illmino, pas un crédit de l’artiste invité de LGC quinze ans plus tard. Ce profil ne fusionne pas les deux.",
+  ),
+  (
+    "Que signifie le mot dézod ?",
+    "Dans les créoles à base française, dezod est la forme créole du français désordre : les dictionnaires consultés le donnent pour désordre, chaos et vacarme, du créole haïtien au créole marie-galantais. Aucune source ne dit pourquoi l’artiste porte ce nom, et ce profil présente le sens du mot sans en faire une biographie.",
+  ),
+  (
+    "Où écouter Dézod ?",
+    "Sur « Copain Copine » de LGC, sorti le 3 janvier 2025, à replacer dans le catalogue de son hôte sur notre page <a href=\"/lgc.html\">LGC</a>. La playlist Bouyon Road Mix de Bouyon Shattaz et notre page bouyon Guadeloupe prolongent l’écoute dans la scène gwada où ce titre est né.",
+  ),
+  (
+    "Qui a produit « Copain Copine » de LGC et Dézod ?",
+    "Magbeatz, crédité à la production sur la fiche du titre. C’est un nom déjà connu du catalogue de LGC, puisqu’il produit aussi « Make It Clap » la même année. Le titre sort chez LGC Music, le label qui porte le nom des initiales, et c’est le premier disque du dossier LGC publié sous cette bannière. Voir <a href=\"/magbeatz.html\">Magbeatz</a>.",
+  ),
+  (
+    "Qui a écrit « Copain Copine » ?",
+    "Quatre auteurs : Dany David Ledreck, Jean Gardiole, Déreck Ciani et O’neal Chatelot. Dézod n’est pas crédité à l’écriture, son rôle documenté est vocal, en voix invitée et aux chœurs. Dany David Ledreck et Jean Gardiole sont les piliers de l’atelier d’écriture de LGC, qui revient de titre en titre dans ce catalogue.",
+  ),
+  (
+    "Le « Dezod » de Serbygp, sorti en 2020, est-ce le même Dézod ?",
+    "Non, rien ne relie ce titre à l’invité de LGC. « Dezod », sans accent, sort le 14 avril 2020 chez 1793982 Records DK, en anglais, à 122 BPM, tagué hip hop et rap, avec un seul auteur crédité, Sebastien Pierre. Sa fiche ne mentionne ni LGC, ni la Guadeloupe, ni le bouyon : c’est un homonyme de titre, pas un crédit de Dézod.",
+  ),
+  (
+    "Quel style de bouyon chante Dézod ?",
+    "Le bouyon gwada des Antilles françaises. « Copain Copine » tourne à 160 BPM, le régime standard du bouyon guadeloupéen de cette période, pensé pour les mix de carnaval et les sound systems, et il est chanté en français mêlé de créole. Par son seul titre vérifié, Dézod appartient à cette branche francophone, distincte du bouyon anglophone de la Dominique.",
+  ),
+  (
+    "Que veut dire le titre « Copain Copine » ?",
+    "Copain copine, c’est le duo complice : deux voix qui se répondent, d’égal à égal. Le titre annonce donc le format du morceau, LGC en voix principale et Dézod en invité, les deux crédités aux chœurs. Rien de plus n’est publié sur l’histoire du titre, et ce profil n’invente pas de récit autour de lui.",
+  ),
+  (
+    "Quelle place occupe « Copain Copine » dans le catalogue de LGC ?",
+    "Il ouvre l’année 2025 de LGC : sorti le 3 janvier 2025, il se place entre « Manzèl Good » et « Make It Clap » dans la chronologie que ce site documente, de « Voyé’y Bay » en 2023 à « Woody Wood » en décembre 2025. Dézod est donc la voix invitée choisie pour le premier titre de LGC sur son propre label.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/dezod.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/dezod.html#artist", "name": "Dézod", "description": "Voix invitée du bouyon des Antilles françaises, documentée par un seul crédit vérifié : le featuring et les chœurs sur Copain Copine de LGC, sorti le 3 janvier 2025 chez LGC Music, écrit par Dany David Ledreck, Jean Gardiole, Déreck Ciani et O’neal Chatelot, produit par Magbeatz. Aucun titre solo, aucune biographie et aucune origine publiés dans les sources consultées. A ne pas confondre avec les titres Dézod d’Illmino (2010) et Dezod de Serbygp (2020).", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Copain Copine'}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -126,13 +168,55 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Dézod?", "A voice name in French Antillean bouyon, documented by a single verified credit: the feature on “Copain Copine” by LGC, released on January 3, 2025 on LGC Music. No source consulted gives his legal name, his origin or his biography, and this profile therefore publishes only that credit and its context."),
-  ("What is the verified Dézod record?", "“Copain Copine”, by LGC featuring Dézod, released on January 3, 2025, in French and at 160 BPM. The record listing credits LGC and Dézod on background vocals, four writers, Dany David Ledreck, Jean Gardiole, Déreck Ciani and O’neal Chatelot, and Magbeatz on production. To date, it is the only record attached to Dézod by an opened listing."),
-  ("Has Dézod released solo records?", "No solo record by Dézod was found on the platforms consulted during this research, no album, no EP and no single under his own lead name. If a solo record exists outside the indexed catalogs, it is not publicly documented, and this profile does not assume it."),
-  ("Is the “Dézod” by Illmino, released in 2010, the same artist?", "Nothing says so, and the listings say something else. “Dézod” by Illmino, released on November 29, 2010 on Sp Ranz Music, tagged Cajun, at 151 BPM, credits Illmino as performer and writer, Robson as composer and Cédric Cardonnet as writer. It is a title by Illmino, not a credit by the guest artist of LGC fifteen years later. This profile does not merge the two."),
-  ("What does the word dézod mean?", "In the French based Creoles, dezod is the Creole form of the French désordre, disorder: the dictionaries consulted give it as disorder, chaos and uproar, from Haitian Creole to Marie-Galante Creole. No source says why the artist carries this name, and this profile presents the meaning of the word without turning it into a biography."),
-  ("Where can I hear Dézod?", "On “Copain Copine” by LGC, released on January 3, 2025, placed back inside the catalog of his host on our <a href=\"/en/lgc.html\">LGC</a> page, then in our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> and on our <a href=\"/en/bouyon-guadeloupe.html\">bouyon Guadeloupe</a> page, which follows the gwada scene where this record was born.")
- ],
+  (
+    "Who is Dézod?",
+    "A voice name in French Antillean bouyon, documented by a single verified credit: the feature on “Copain Copine” by LGC, released on January 3, 2025 on LGC Music. No source consulted gives his legal name, his origin or his biography, and this profile therefore publishes only that credit and its context.",
+  ),
+  (
+    "What is the verified Dézod record?",
+    "“Copain Copine”, by LGC featuring Dézod, released on January 3, 2025, in French and at 160 BPM. The record listing credits LGC and Dézod on background vocals, four writers, Dany David Ledreck, Jean Gardiole, Déreck Ciani and O’neal Chatelot, and Magbeatz on production. To date, it is the only record attached to Dézod by an opened listing.",
+  ),
+  (
+    "Has Dézod released solo records?",
+    "No solo record by Dézod was found on the platforms consulted during this research, no album, no EP and no single under his own lead name. If a solo record exists outside the indexed catalogs, it is not publicly documented, and this profile does not assume it.",
+  ),
+  (
+    "Is the “Dézod” by Illmino, released in 2010, the same artist?",
+    "Nothing says so, and the listings say something else. “Dézod” by Illmino, released on November 29, 2010 on Sp Ranz Music, tagged Cajun, at 151 BPM, credits Illmino as performer and writer, Robson as composer and Cédric Cardonnet as writer. It is a title by Illmino, not a credit by the guest artist of LGC fifteen years later. This profile does not merge the two.",
+  ),
+  (
+    "What does the word dézod mean?",
+    "In the French based Creoles, dezod is the Creole form of the French désordre, disorder: the dictionaries consulted give it as disorder, chaos and uproar, from Haitian Creole to Marie-Galante Creole. No source says why the artist carries this name, and this profile presents the meaning of the word without turning it into a biography.",
+  ),
+  (
+    "Where can I hear Dézod?",
+    "On “Copain Copine” by LGC, released on January 3, 2025, best heard inside the catalog of his host on our <a href=\"/en/lgc.html\">LGC</a> page. The Bouyon Shattaz Bouyon Road Mix playlist and our bouyon Guadeloupe page then carry on into the gwada scene where this record was born.",
+  ),
+  (
+    "Who produced “Copain Copine” by LGC and Dézod?",
+    "Magbeatz, credited for production on the record listing. He is a familiar name in the LGC catalog, since he also produced “Make It Clap” the same year. The record came out on LGC Music, the label named after the initials, and it is the first record of the LGC file released under that banner. See <a href=\"/en/magbeatz.html\">Magbeatz</a>.",
+  ),
+  (
+    "Who wrote “Copain Copine”?",
+    "Four writers: Dany David Ledreck, Jean Gardiole, Déreck Ciani and O’neal Chatelot. Dézod is not credited as a writer: his documented role is vocal, as guest voice and on backing vocals. Dany David Ledreck and Jean Gardiole are the pillars of the LGC writing workshop, returning from record to record in that catalog.",
+  ),
+  (
+    "Is the “Dezod” by Serbygp, released in 2020, the same Dézod?",
+    "No, nothing connects that title to LGC's guest. “Dezod”, without the accent, came out on April 14, 2020 on 1793982 Records DK, in English, at 122 BPM, tagged hip hop and rap, with a single credited writer, Sebastien Pierre. Its page mentions neither LGC, nor Guadeloupe, nor bouyon: it is a namesake title, not a Dézod credit.",
+  ),
+  (
+    "What style of bouyon does Dézod sing?",
+    "Bouyon gwada, from the French Antilles. “Copain Copine” runs at 160 BPM, the standard regime of Guadeloupe bouyon in this period, built for carnival mixes and sound systems, and it is sung in French mixed with Creole. Through his single verified record, Dézod belongs to that French speaking branch, distinct from the English language bouyon of Dominica.",
+  ),
+  (
+    "What does the title “Copain Copine” mean?",
+    "Copain copine means boyfriend girlfriend, or pal to pal: the accomplice duet, two voices answering each other. The title announces the format of the song, LGC as lead and Dézod as guest, both credited on backing vocals. Nothing more is published about the story of the song, and this profile builds no narrative around it.",
+  ),
+  (
+    "Where does “Copain Copine” sit in LGC's catalog?",
+    "It opens LGC's year 2025: released on January 3, 2025, it sits between “Manzèl Good” and “Make It Clap” in the chronology this site documents, from “Voyé’y Bay” in 2023 to “Woody Wood” in December 2025. Dézod is therefore the guest voice chosen for LGC's first record on his own label.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/dezod.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/dezod.html#artist", "name": "Dézod", "description": "Guest voice of French Antillean bouyon, documented by a single verified credit: the feature and backing vocals on Copain Copine by LGC, released on January 3, 2025 on LGC Music, written by Dany David Ledreck, Jean Gardiole, Déreck Ciani and O’neal Chatelot, produced by Magbeatz. No solo record, no biography and no origin published in the sources consulted. Not to be confused with the records titled Dézod by Illmino (2010) and Dezod by Serbygp (2020).", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Copain Copine'}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

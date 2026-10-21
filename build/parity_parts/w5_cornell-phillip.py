@@ -78,13 +78,63 @@ FR = {
   ]
  ],
  "faq": [
-  ("Pourquoi appelle-t-on Cornell Phillip « Fingers », et que signifie le titre de parrain du bouyon ?", "Selon DOM767, le surnom « Fingers » vient de sa vitesse et de sa dextérité exceptionnelles au clavier, qui ont fait de lui un musicien de session de premier appel pour Ophelia Marie, Michele Henderson et Rupee. Le même profil le décrit comme largement considéré comme le parrain de la musique bouyon. Ce site rapporte ce titre comme une réputation attribuée par cette source, et non comme un fait établi, conformément à sa règle sur les titres d’artistes."),
-  ("Comment le bouyon est-il né dans la maison Phillip de Goodwill ?", "Cornell Phillip l’a raconté à Billboard. Son frère Daryl, officier culturel, amenait des groupes traditionnels à la maison pour les enregistrer, pendant que son frère Ashton apprenait son système de son et achetait un clavier à Cornell et une basse à Keith. Les garçons ont commencé à accompagner les groupes traditionnels avec ces instruments : le boumboum est devenu la guitare basse, le syak et le tambal sont devenus la boîte à rythmes, et l’accordéon est devenu le clavier. Cette traduction du jing ping et de la cadence-lypso vers les machines, jouée dans des thés dansants, est devenue le bouyon."),
-  ("Faut-il écrire Cornell Phillip ou Cornel Phillip ?", "Les deux orthographes circulent, et ce profil est l’un des rares à le dire ouvertement. DOM767, Billboard, A Virtual Dominica et Carib Scope écrivent Cornell, et son nom complet y est Cornell Emanuel Phillip. Caribbean Times, dans son récit sur l’album « Interpretations » de 2008, écrit Cornel Phillip, et la biographie publiée par Dada cite aussi Cornel « Fingers » Phillip. Les deux formes désignent le même claviériste fondateur de WCK ; ce site utilise Cornell et signale la variante pour que les recherches sous l’autre orthographe aboutissent au même dossier."),
-  ("Qu’est-ce qu’Imperial Publishing et que contient l’album « Interpretations » ?", "Imperial Publishing est le studio d’enregistrement que Cornell Phillip a ouvert en 1995, selon DOM767, devenu un incubateur de talents dominicains qui a professionnalisé la production du calypso et du bouyon. C’est sous ce nom que Shazam date du 1er janvier 2008 l’album « Interpretations », où Cornell Phillip figure comme interprète et auteur, avec notamment le titre « Dominica in Pan ». Caribbean Times rapporte que la version de « Ai Dominique » d’Ophelia Marie utilisée dans une vidéo olympique de Paris 2024 venait de cet album, produit par Phillip."),
-  ("Quel est le lien entre Cornell Phillip et Dada, le producteur du bouyon soca ?", "Dans la biographie d’artiste qu’il a publiée, Dada cite Cornel « Fingers » Phillip, le claviériste fondateur de WCK, parmi ses mentors de production. Le lien relie deux générations : Phillip a co-inventé le bouyon à la fin des années 1980 dans la maison de Goodwill, et Dada a ensuite lancé le bouyon soca en Dominique en 2003, selon le témoignage signé de Smokiller publié sur ce site. La lignée des claviers dominicains passe ainsi de WCK aux producteurs de studio des années 2000."),
-  ("Que demande Cornell Phillip aux jeunes artistes de bouyon aujourd’hui ?", "De la structure, de la composition et des textes qui dépassent le simple slogan. DOM767 rapporte ses critiques constantes en ce sens, son appel à un camp d’écriture réitéré au Bouyon Day de février 2026 pour élever le genre au niveau compétitif mondial, et ses concerts récents, dont celui des anciens de la Saint Mary’s Academy en octobre 2025. Carib Scope ajoute son plaidoyer, sur Creole Heartbeat, pour réinsérer l’éducation musicale formelle dans les écoles primaires et secondaires de la Dominique. À Billboard, il demande aussi que le bouyon reste organique et spécial à la Dominique, même en voyageant « jusqu’à Mars ».")
- ],
+  (
+    "Pourquoi appelle-t-on Cornell Phillip « Fingers », et que signifie le titre de parrain du bouyon ?",
+    "Selon DOM767, le surnom « Fingers » vient de sa vitesse et de sa dextérité exceptionnelles au clavier, qui ont fait de lui un musicien de session de premier appel pour Ophelia Marie, Michele Henderson et Rupee. Le même profil le décrit comme largement considéré comme le parrain de la musique bouyon. Ce site rapporte ce titre comme une réputation attribuée par cette source, et non comme un fait établi, conformément à sa règle sur les titres d’artistes.",
+  ),
+  (
+    "Comment le bouyon est-il né dans la maison Phillip de Goodwill ?",
+    "Cornell Phillip l’a raconté à Billboard. Son frère Daryl, officier culturel, amenait des groupes traditionnels à la maison pour les enregistrer, et son frère Ashton, propriétaire d’un système de son, a acheté un clavier à Cornell et une basse à Keith. Les garçons ont accompagné ces groupes : le boumboum est devenu la basse, le syak et le tambal la boîte à rythmes, l’accordéon le clavier. Cette traduction du jing ping vers les machines est devenue le bouyon.",
+  ),
+  (
+    "Faut-il écrire Cornell Phillip ou Cornel Phillip ?",
+    "Les deux orthographes circulent, et ce profil le dit ouvertement. DOM767, Billboard, A Virtual Dominica et Carib Scope écrivent Cornell, avec le nom complet Cornell Emanuel Phillip. Caribbean Times, à propos de l’album « Interpretations », et la biographie publiée par Dada écrivent Cornel. Les deux formes désignent le même claviériste fondateur de WCK : ce site utilise Cornell et signale la variante pour que chaque recherche mène au même dossier.",
+  ),
+  (
+    "Qu’est-ce qu’Imperial Publishing et que contient l’album « Interpretations » ?",
+    "Imperial Publishing est le studio d’enregistrement que Cornell Phillip a ouvert en 1995, selon DOM767, devenu un incubateur de talents dominicains pour le calypso et le bouyon. Shazam y date du 1er janvier 2008 l’album « Interpretations », où il figure comme interprète et auteur, avec « Dominica in Pan ». Selon Caribbean Times, la version de « Ai Dominique » d’Ophelia Marie utilisée dans une vidéo olympique de Paris 2024 venait de cet album.",
+  ),
+  (
+    "Quel est le lien entre Cornell Phillip et Dada, le producteur du bouyon soca ?",
+    "Dans la biographie qu’il a publiée, Dada cite Cornel « Fingers » Phillip, le claviériste fondateur de WCK, parmi ses mentors de production. Le lien relie deux générations : Phillip a co-inventé le bouyon à la fin des années 1980 à Goodwill, et Dada a lancé le bouyon soca en Dominique en 2003, selon le témoignage signé de Smokiller. Le parcours du producteur est sur notre page <a href=\"/dada.html\">Dada</a>.",
+  ),
+  (
+    "Que demande Cornell Phillip aux jeunes artistes de bouyon aujourd’hui ?",
+    "De la structure, de la composition et des textes qui dépassent le simple slogan. DOM767 rapporte ses critiques constantes en ce sens et son appel à un camp d’écriture, réitéré au Bouyon Day de février 2026, pour hisser le genre au niveau mondial. Carib Scope ajoute son plaidoyer pour l’éducation musicale à l’école. À Billboard, il demande aussi que le bouyon reste organique et spécial à la Dominique, même en voyageant « jusqu’à Mars ».",
+  ),
+  (
+    "Qui est Cornell Phillip ?",
+    "Cornell « Fingers » Phillip est le claviériste fondateur de WCK, le groupe qui a créé le bouyon en Dominique en 1988. Producteur, arrangeur et musicien de session pour Ophelia Marie, Michele Henderson et Rupee, il a ouvert le studio Imperial Publishing en 1995. DOM767 le décrit comme largement considéré comme le parrain du bouyon, un titre attribué. Il est aussi le mari et le producteur de la chanteuse Carlyn XP.",
+  ),
+  (
+    "Cornell Phillip a-t-il inventé le bouyon ?",
+    "Il en est l’un des inventeurs, au sein d’un groupe. Le bouyon est né avec WCK, formé en 1988 autour de la maison Phillip de Goodwill, où Cornell et ses frères accompagnaient au clavier, à la basse et à la boîte à rythmes les groupes traditionnels que leur frère Daryl enregistrait. C’est une création collective et familiale, que l’histoire complète du genre raconte sur notre page <a href=\"/histoire.html\">histoire du bouyon</a>.",
+  ),
+  (
+    "Qui sont les membres fondateurs de WCK ?",
+    "WCK, Windward Caribbean Kulture, s’est formé en 1988 autour de Cornell Phillip, alors encore élève à la St. Mary’s Academy, avec des membres d’un groupe appelé Roof Top Connection. DOM767 nomme parmi les membres originels Derek « Rah » Peters et Keith Goddard, et Billboard raconte que les frères Phillip ont fait venir des amis d’autres familles musicales pour former un vrai groupe. La discographie et l’histoire du groupe sont sur notre page <a href=\"/wck.html\">WCK</a>.",
+  ),
+  (
+    "Quelles sont les chansons les plus connues de WCK avec Cornell Phillip ?",
+    "Les jalons cités par les discographies sont « Culture Shock » et « Dance Floor » (1990), « Follow the Leader » et « Land Of Sunshine » (1991), « Conch Shell », aussi appelé « Vola Vole » ou « Fish Song » (1993), et « Balance Batty », tiré de « Tou Cho Tou Flam » (1995), l’un des premiers grands succès crossover du bouyon. Le premier album, « One More Sway », date de 1988.",
+  ),
+  (
+    "Qui est la femme de Cornell Phillip ?",
+    "La chanteuse Carlyn XP, que la presse caribéenne appelle la Bouyon Queen. Ils se sont mariés le 30 décembre 2012, selon eMage DM, et ont une fille, Chiara. Elle est la chanteuse principale de Fanatik, le groupe qu’ils partagent, il produit la quasi-totalité de ses titres chez Imperial Publishing, et ensemble ils ont lancé Musical Therapy en 2020, des concerts virtuels hebdomadaires suivis jusque dans la diaspora. Voir <a href=\"/carlyn-xp.html\">Carlyn XP</a>.",
+  ),
+  (
+    "Cornell Phillip a-t-il reçu des distinctions ?",
+    "Oui. Selon DOM767, Cornell Phillip a reçu le Golden Drum Award en 2018, une distinction qui salue, dans le paysage culturel dominicain, une contribution majeure aux arts. Elle arrive l’année des trente ans de « One More Sway », le premier album de WCK, et récompense une vie de travail : la création d’un genre, un studio, des centaines de sessions et une présence constante sur les scènes de l’île.",
+  ),
+  (
+    "D’où vient Cornell Phillip ?",
+    "De la Dominique. Cornell Emanuel Phillip est le dernier des onze enfants de Campbell et Mornlight Phillip, une famille profondément musicale dont la maison, à Goodwill, a servi de salle de répétition aux débuts de WCK. Il a appris le piano très jeune avec sa sœur Valena Letang et a été formé à la St. Mary’s Academy de Roseau, où ses amis et lui empruntaient des instruments.",
+  ),
+  (
+    "Où écouter Cornell Phillip ?",
+    "Commencez par les jalons de WCK, où l’on entend ses motifs de clavier : « Culture Shock », « Dance Floor », « Conch Shell » et « Balance Batty ». Écoutez ensuite l’album « Interpretations » (2008) et les titres de Carlyn XP qu’il produit. Pour suivre le bouyon d’aujourd’hui, commentez ROAD MIX sous une publication de @bouyonshattaz sur Instagram, ou ouvrez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/cornell-phillip.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/cornell-phillip.html#artist", "name": "Cornell Phillip", "description": "Claviériste, producteur et arrangeur de la Dominique, membre fondateur de WCK en 1988. Surnommé Fingers pour sa dextérité au clavier, fondateur du studio Imperial Publishing en 1995.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Dominica in Pan"}, {"@type": "MusicRecording", "name": "Culture Shock"}, {"@type": "MusicRecording", "name": "Dance Floor"}, {"@type": "MusicRecording", "name": "Follow the Leader"}, {"@type": "MusicRecording", "name": "Land Of Sunshine"}, {"@type": "MusicRecording", "name": "Conch Shell"}, {"@type": "MusicRecording", "name": "Balance Batty"}, {"@type": "MusicRecording", "name": "Mete Veye"}, {"@type": "MusicRecording", "name": "Original Hold Dem"}, {"@type": "MusicRecording", "name": "Nomn La"}, {"@type": "MusicRecording", "name": "Preg Dance See"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -156,13 +206,63 @@ EN = {
   ]
  ],
  "faq": [
-  ("Why is Cornell Phillip called “Fingers”, and what does the Godfather of Bouyon title mean?", "According to DOM767, the nickname “Fingers” comes from his exceptional speed and dexterity on the keyboard, which made him a first call session musician for Ophelia Marie, Michele Henderson and Rupee. The same profile describes him as widely regarded as the Godfather of Bouyon Music. This site reports that title as a reputation attributed by that source, not as an established fact, in line with its rule on artist titles."),
-  ("How was bouyon born in the Phillip house in Goodwill?", "Cornell Phillip told it to Billboard. His brother Daryl, a cultural officer, brought traditional bands to the house to record them, while his brother Ashton was learning his sound system and bought Cornell a keyboard and Keith a bass guitar. The boys began playing along with the traditional groups on those instruments: the boumboum became the bass guitar, the syak and tambal became the drum machine, and the accordion became the keyboard. That translation of jing ping and cadence-lypso onto machines, played at tea parties, became bouyon."),
-  ("Should it be spelled Cornell Phillip or Cornel Phillip?", "Both spellings circulate, and this profile is one of the few to say so openly. DOM767, Billboard, A Virtual Dominica and Carib Scope write Cornell, and his full name there is Cornell Emanuel Phillip. Caribbean Times, in its report on the 2008 “Interpretations” album, writes Cornel Phillip, and the biography Dada published also lists Cornel “Fingers” Phillip. Both forms name the same founding WCK keyboardist; this site uses Cornell and flags the variant so searches under the other spelling reach the same record."),
-  ("What is Imperial Publishing, and what is on the “Interpretations” album?", "Imperial Publishing is the recording studio Cornell Phillip opened in 1995, according to DOM767, which became an incubator for Dominican talent and helped professionalize calypso and bouyon production. Under that name, Shazam dates the album “Interpretations” to 1 January 2008, with Cornell Phillip credited as performer and songwriter, including the track “Dominica in Pan”. Caribbean Times reports that the version of Ophelia Marie “Ai Dominique” used in a Paris 2024 Olympic video came from this album, produced by Phillip."),
-  ("What is the link between Cornell Phillip and Dada, the bouyon soca producer?", "In the artist biography he published, Dada lists Cornel “Fingers” Phillip, the founding keyboardist of WCK, among his production mentors. The link joins two generations: Phillip co-invented bouyon at the end of the 1980s in the Goodwill house, and Dada then started bouyon soca in Dominica in 2003, according to the signed testimony of Smokiller published on this site. The Dominican keyboard line thus runs from WCK to the studio producers of the 2000s."),
-  ("What does Cornell Phillip ask of young bouyon artists today?", "Structure, composition and lyrics that go beyond the simple chant. DOM767 reports his constant critiques in that direction, his call for a writers camp reiterated at Bouyon Day in February 2026 to elevate the genre to a global competitive level, and his recent concerts, including the Saint Mary’s Academy alumni concert in October 2025. Carib Scope adds his advocacy, on Creole Heartbeat, for reinserting formal music education into Dominica primary and secondary schools. To Billboard, he also asks that bouyon stay organic and special to Dominica, even while travelling “even Mars”.")
- ],
+  (
+    "Why is Cornell Phillip called “Fingers”, and what does the Godfather of Bouyon title mean?",
+    "According to DOM767, the nickname “Fingers” comes from his exceptional speed and dexterity on the keyboard, which made him a first call session musician for Ophelia Marie, Michele Henderson and Rupee. The same profile describes him as widely regarded as the Godfather of Bouyon Music. This site reports that title as a reputation attributed by that source, not as an established fact, in line with its rule on artist titles.",
+  ),
+  (
+    "How was bouyon born in the Phillip house in Goodwill?",
+    "Cornell Phillip told Billboard. His brother Daryl, a cultural officer, brought traditional bands to the house to record them, and his brother Ashton, who ran a sound system, bought Cornell a keyboard and Keith a bass guitar. The boys played along with those bands: the boumboum became the bass, the syak and tambal the drum machine, the accordion the keyboard. That translation of jing ping onto machines became bouyon.",
+  ),
+  (
+    "Should it be spelled Cornell Phillip or Cornel Phillip?",
+    "Both spellings circulate, and this profile says so openly. DOM767, Billboard, A Virtual Dominica and Carib Scope write Cornell, with the full name Cornell Emanuel Phillip. Caribbean Times, on the “Interpretations” album, and the biography Dada published write Cornel. Both forms name the same founding WCK keyboardist: this site uses Cornell and flags the variant so that every search reaches the same record.",
+  ),
+  (
+    "What is Imperial Publishing, and what is on the “Interpretations” album?",
+    "Imperial Publishing is the recording studio Cornell Phillip opened in 1995, according to DOM767, which became an incubator for Dominican talent in calypso and bouyon. Shazam dates the album “Interpretations” there to 1 January 2008, with him credited as performer and songwriter, including “Dominica in Pan”. According to Caribbean Times, the version of Ophelia Marie’s “Ai Dominique” used in a Paris 2024 Olympic video came from this album.",
+  ),
+  (
+    "What is the link between Cornell Phillip and Dada, the bouyon soca producer?",
+    "In the biography he published, Dada lists Cornel “Fingers” Phillip, the founding keyboardist of WCK, among his production mentors. The link joins two generations: Phillip co-invented bouyon at the end of the 1980s in Goodwill, and Dada started bouyon soca in Dominica in 2003, according to the signed testimony of Smokiller. The producer’s story is on our <a href=\"/en/dada.html\">Dada</a> page.",
+  ),
+  (
+    "What does Cornell Phillip ask of young bouyon artists today?",
+    "Structure, composition and lyrics that go beyond the simple chant. DOM767 reports his constant critiques in that direction and his call for a writers camp, reiterated at Bouyon Day in February 2026, to lift the genre to a global level. Carib Scope adds his advocacy for music education in schools. To Billboard, he also asks that bouyon stay organic and special to Dominica, even while travelling as far as Mars.",
+  ),
+  (
+    "Who is Cornell Phillip?",
+    "Cornell “Fingers” Phillip is the founding keyboardist of WCK, the band that created bouyon in Dominica in 1988. A producer, arranger and session musician for Ophelia Marie, Michele Henderson and Rupee, he opened the Imperial Publishing studio in 1995. DOM767 describes him as widely regarded as the Godfather of Bouyon, an attributed title. He is also the husband and producer of singer Carlyn XP.",
+  ),
+  (
+    "Did Cornell Phillip invent bouyon?",
+    "He is one of its inventors, within a band. Bouyon was born with WCK, formed in 1988 around the Phillip house in Goodwill, where Cornell and his brothers played keyboard, bass and drum machine along with the traditional bands their brother Daryl recorded. It was a collective, family creation, and the full story of the genre is told on our <a href=\"/en/history.html\">bouyon history</a> page.",
+  ),
+  (
+    "Who are the founding members of WCK?",
+    "WCK, Windward Caribbean Kulture, formed in 1988 around Cornell Phillip, then still a student at St. Mary’s Academy, with members of a band called Roof Top Connection. DOM767 names Derek “Rah” Peters and Keith Goddard among the original members, and Billboard tells how the Phillip brothers brought in friends from other musical families to form a proper band. The band’s discography and story are on our <a href=\"/en/wck.html\">WCK</a> page.",
+  ),
+  (
+    "What are the best-known WCK songs with Cornell Phillip?",
+    "The milestones cited by the discographies are “Culture Shock” and “Dance Floor” (1990), “Follow the Leader” and “Land Of Sunshine” (1991), “Conch Shell”, also called “Vola Vole” or “Fish Song” (1993), and “Balance Batty”, from “Tou Cho Tou Flam” (1995), one of bouyon’s first big crossover hits. The first album, “One More Sway”, dates from 1988.",
+  ),
+  (
+    "Who is Cornell Phillip’s wife?",
+    "Singer Carlyn XP, whom the Caribbean press calls the Bouyon Queen. They married on 30 December 2012, according to eMage DM, and have a daughter, Chiara. She is lead singer of Fanatik, the band they share, he produces almost all her records at Imperial Publishing, and together they launched Musical Therapy in 2020, weekly virtual concerts followed as far as the diaspora. See <a href=\"/en/carlyn-xp.html\">Carlyn XP</a>.",
+  ),
+  (
+    "Has Cornell Phillip received any awards?",
+    "Yes. According to DOM767, Cornell Phillip received the Golden Drum Award in 2018, a distinction that honours, in Dominica’s cultural landscape, a major contribution to the arts. It came in the thirtieth anniversary year of “One More Sway”, WCK’s first album, and rewards a life’s work: the creation of a genre, a studio, hundreds of sessions and a constant presence on the island’s stages.",
+  ),
+  (
+    "Where is Cornell Phillip from?",
+    "From Dominica. Cornell Emanuel Phillip is the youngest of the eleven children of Campbell and Mornlight Phillip, a deeply musical family whose house in Goodwill served as the rehearsal space of early WCK. He learned piano very young with his sister Valena Letang and was shaped at St. Mary’s Academy in Roseau, where he and his friends borrowed instruments.",
+  ),
+  (
+    "Where can I listen to Cornell Phillip?",
+    "Start with the WCK milestones, where his keyboard patterns lead: “Culture Shock”, “Dance Floor”, “Conch Shell” and “Balance Batty”. Then listen to the album “Interpretations” (2008) and the Carlyn XP records he produces. To follow today’s bouyon, comment ROAD MIX under an @bouyonshattaz post on Instagram, or open our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/cornell-phillip.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/cornell-phillip.html#artist", "name": "Cornell Phillip", "description": "Keyboardist, producer and arranger from Dominica, founding member of WCK in 1988. Nicknamed Fingers for his keyboard dexterity, founder of the Imperial Publishing studio in 1995.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Dominica in Pan"}, {"@type": "MusicRecording", "name": "Culture Shock"}, {"@type": "MusicRecording", "name": "Dance Floor"}, {"@type": "MusicRecording", "name": "Follow the Leader"}, {"@type": "MusicRecording", "name": "Land Of Sunshine"}, {"@type": "MusicRecording", "name": "Conch Shell"}, {"@type": "MusicRecording", "name": "Balance Batty"}, {"@type": "MusicRecording", "name": "Mete Veye"}, {"@type": "MusicRecording", "name": "Original Hold Dem"}, {"@type": "MusicRecording", "name": "Nomn La"}, {"@type": "MusicRecording", "name": "Preg Dance See"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

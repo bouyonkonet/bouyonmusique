@@ -75,13 +75,55 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Teyma ?", "Teyma est une chanteuse française émergente, présentée par Just Music comme l’un des nouveaux talents à suivre sur la scène française, et par le festival Ici Demain de FGO-Barbara comme une artiste émergente dont l’univers mêle pop, bouyon et autres sonorités dansantes. Elle s’est fait remarquer avec « Chichi » et « Shake it up », puis a publié en 2026 « City Boy », « Négatif » et « Sexy dino »."),
-  ("Quels sont les titres de Teyma ?", "Cinq singles sont documentés par la presse et les plateformes : « Chichi », daté de 2025 par le magazine Numéro, écrit par Teyma et composé par Alexay Beats selon Deezer ; « Shake it up », son autre titre de révélation ; « City Boy », single de 2026 signé Dinamarca et Teyma sur Shazam et produit par Dinamarca ; « Négatif », en 2026 ; et « Sexy dino », produit par Holomobb et sorti le 16 octobre 2026."),
-  ("Teyma fait-elle du bouyon ?", "Le bouyon est l’une de ses couleurs déclarées, pas son seul genre. Just Music la place « à la croisée de la pop, du R’n’B, du rap et du bouyon », le festival Ici Demain parle de sa « pop nourrie de bouyon », et Deezer range « Chichi » dans une playlist Bouyon bass comme dans des playlists de R’n’B français. Elle relève de la nouvelle pop française au bouyon, pas des scènes bouyon de Guadeloupe ou de la Dominique."),
-  ("Quel est le vrai nom de Teyma ?", "Aucune des sources ouvertes consultées pour ce profil ne publie son nom complet, son âge ou sa ville d’origine. Le seul élément d’identité vérifié directement est son compte Instagram officiel, lié par Just Music, qui s’affiche sous le nom « Teyma avec un seul A » avec le pseudonyme teymaaa. Ce site ne complète pas ce vide par des suppositions : si un portrait de fond publie son identité, ce profil sera mis à jour."),
-  ("Où voir Teyma en concert ?", "À Paris, le vendredi 20 novembre 2026, à FGO-Barbara, dans le 18e arrondissement, où elle ferme la septième édition du festival Ici Demain selon le site de la salle. Le festival, consacré aux artistes émergents, se tient du 18 au 20 novembre 2026. C’est, dans les sources ouvertes, sa date de scène la mieux documentée à ce jour."),
-  ("Où écouter Teyma ?", "Sur les plateformes, en commençant par « Chichi », son titre de 2025, puis « City Boy » avec Dinamarca et « Sexy dino », son single du 16 octobre 2026 produit par Holomobb. Pour suivre la branche pop du genre, écoutez aussi notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> et lisez notre page <a href=\"/bouyon-music-2026.html\">bouyon music 2026</a>.")
- ],
+  (
+    "Qui est Teyma ?",
+    "Teyma est une chanteuse française émergente, présentée par Just Music comme l’un des nouveaux talents à suivre sur la scène française, et par le festival Ici Demain de FGO-Barbara comme une artiste dont l’univers mêle pop, bouyon et autres sonorités dansantes. Elle s’est fait remarquer avec « Chichi » et « Shake it up », puis a publié en 2026 « City Boy », « Négatif » et « Sexy dino ».",
+  ),
+  (
+    "Comment s’écrit Teyma : Teyma ou Teymaaa ?",
+    "Le nom de scène s’écrit Teyma, avec un seul a final. Son compte Instagram officiel, lié par Just Music et vérifié pour ce profil, s’affiche d’ailleurs sous le nom « Teyma avec un seul A », alors que son pseudonyme, teymaaa, en compte trois. La chanteuse a fait de cette précision orthographique son nom d’affichage : sur les crédits et dans la presse, la bonne graphie reste Teyma.",
+  ),
+  (
+    "Quels sont les titres de Teyma ?",
+    "Cinq singles sont documentés : « Chichi », daté de 2025 par le magazine Numéro, écrit par Teyma et composé par Alexay Beats selon Deezer ; « Shake it up », son autre titre de révélation ; « City Boy », single de 2026 avec Dinamarca ; « Négatif », en 2026 ; et « Sexy dino », produit par Holomobb et sorti le 16 octobre 2026. Aucun album ni EP n’est documenté.",
+  ),
+  (
+    "Qui a écrit « Chichi » de Teyma ?",
+    "Teyma elle-même : les données de playlists Deezer créditent « Chichi » comme écrit par Teyma et composé par Alexay Beats, pour une durée de 1 minute et 54 secondes. Une autrice unique, un compositeur unique, un format court de club. Ce crédit écarte toute présentation de Teyma en simple interprète. Le magazine Numéro date le titre de 2025 et le retient dans sa sélection de l’été 2026.",
+  ),
+  (
+    "Qui a produit « City Boy » de Teyma ?",
+    "Dinamarca, selon Just Music et le dossier du festival Ici Demain, qui parlent d’un single de 2026 produit par lui. Shazam présente « CITY BOY » comme un single signé Dinamarca et Teyma, et le range parmi les titres les plus écoutés du producteur. Les deux lectures se complètent : Teyma chante sur une production de Dinamarca, et le titre sort sous leurs deux noms.",
+  ),
+  (
+    "Qui a produit « Sexy dino » de Teyma ?",
+    "Holomobb. Just Music annonce que Teyma dévoile « Sexy dino », un nouveau single produit par Holomobb, disponible le 16 octobre 2026. C’est le troisième producteur nommé de son parcours, après Alexay Beats sur « Chichi » et Dinamarca sur « City Boy » : aucun nom ne se répète dans les sources, et Teyma construit son son par rencontres successives plutôt qu’avec un producteur attitré.",
+  ),
+  (
+    "Teyma fait-elle du bouyon ?",
+    "Le bouyon est l’une de ses couleurs déclarées, pas son seul genre. Just Music la place « à la croisée de la pop, du R’n’B, du rap et du bouyon », le festival Ici Demain parle de sa « pop nourrie de bouyon », et Deezer range « Chichi » dans une playlist Bouyon bass comme dans des playlists de R’n’B français. Elle relève de la nouvelle pop française au bouyon, pas des scènes de Guadeloupe ou de la Dominique.",
+  ),
+  (
+    "Quel est le lien entre Teyma et Theodora ?",
+    "Just Music écrit que Teyma est « proche de Theodora », une proximité de style rapportée par la presse, pas une collaboration : aucun titre commun n’est documenté. Les playlists confirment le voisinage, Deezer rangeant « Chichi » dans une playlist Bouyon bass aux côtés de « KONGOLESE SOUS BBL » de Theodora. Teyma est citée parmi les voix qui travaillent le bouyon dans la pop française après elle. Voir notre profil de <a href=\"/theodora.html\">Theodora</a>.",
+  ),
+  (
+    "Quels médias ont repéré Teyma ?",
+    "Selon Just Music, Teyma a été sélectionnée par Vogue France parmi les artistes à écouter pendant l’été 2026, a attiré l’attention du magazine britannique NME et bénéficie du soutien d’ELLE, Konbini et Shades. La sélection du magazine Numéro, publiée le 5 juin 2026, a été vérifiée directement : « Chichi », daté de 2025, y figure parmi les chanteuses et rappeuses françaises à suivre.",
+  ),
+  (
+    "Quel est le vrai nom de Teyma ?",
+    "Aucune des sources ouvertes consultées pour ce profil ne publie son nom complet, son âge ou sa ville d’origine. Le seul élément d’identité vérifié directement est son compte Instagram officiel, lié par Just Music, au pseudonyme teymaaa. Ce site ne complète pas ce vide par des suppositions : si un portrait de fond publie son identité, ce profil sera mis à jour.",
+  ),
+  (
+    "Où voir Teyma en concert ?",
+    "À Paris, le vendredi 20 novembre 2026, à FGO-Barbara, dans le 18e arrondissement, où elle ferme la septième édition du festival Ici Demain selon le site de la salle, avec « sa pop nourrie de bouyon et de sonorités dansantes ». Le festival, consacré aux artistes émergents, se tient du 18 au 20 novembre 2026. C’est sa date de scène la mieux documentée à ce jour.",
+  ),
+  (
+    "Où écouter Teyma ?",
+    "Sur les plateformes, en commençant par « Chichi », son titre de 2025, puis « City Boy » avec Dinamarca et « Sexy dino », son single du 16 octobre 2026 produit par Holomobb. Pour entendre le bouyon d’où vient cette couleur, de la Dominique aux Antilles françaises, la <a href=\"/playlist-bouyon.html\">playlist Bouyon Road Mix</a> de Bouyon Shattaz réunit nouveautés et classiques du genre.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/teyma.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/teyma.html#artist", "name": "Teyma", "description": "Chanteuse française émergente à la croisée de la pop, du R’n’B, du rap et du bouyon. Révélée par Chichi et Shake it up, singles City Boy avec Dinamarca, Négatif et Sexy dino produit par Holomobb en 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Chichi"}, {"@type": "MusicRecording", "name": "Shake it up"}, {"@type": "MusicRecording", "name": "City boy"}, {"@type": "MusicRecording", "name": "Négatif"}, {"@type": "MusicRecording", "name": "Sexy dino"}], "sameAs": ["https://www.instagram.com/teymaaa/"]}}],
  "date_modified": "2026-10-20"
 }
@@ -153,13 +195,55 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Teyma?", "Teyma is an emerging French singer, presented by Just Music as one of the new talents to follow on the French scene, and by the Ici Demain festival of FGO-Barbara as an emerging artist whose universe mixes pop, bouyon and other dance sounds. She made her mark with “Chichi” and “Shake it up”, then released “City Boy”, “Négatif” and “Sexy Dino” in 2026."),
-  ("What are Teyma tracks?", "Five singles are documented by the press and the platforms: “Chichi”, dated 2025 by the magazine Numero, written by Teyma and composed by Alexay Beats according to Deezer; “Shake it up”, her other breakthrough track; “City Boy”, a 2026 single signed Dinamarca and Teyma on Shazam and produced by Dinamarca; “Négatif”, in 2026; and “Sexy Dino”, produced by Holomobb and released on 16 October 2026."),
-  ("Does Teyma make bouyon?", "Bouyon is one of her declared colours, not her only genre. Just Music places her “at the crossing of pop, R and B, rap and bouyon”, the Ici Demain festival speaks of her “pop fed on bouyon”, and Deezer files “Chichi” in a Bouyon bass playlist as well as in French R and B playlists. She belongs to the new French pop with bouyon, not to the bouyon scenes of Guadeloupe or Dominica."),
-  ("What is Teyma real name?", "None of the open sources consulted for this profile publishes her full name, her age or her home town. The only identity element checked directly is her official Instagram account, linked by Just Music, which displays the name “Teyma avec un seul A”, Teyma with only one A, with the handle teymaaa. This site does not fill that gap with guesses: if an in depth portrait publishes her identity, this profile will be updated."),
-  ("Where can I see Teyma live?", "In Paris, on Friday 20 November 2026, at FGO-Barbara, in the 18th arrondissement, where she closes the seventh edition of the Ici Demain festival according to the venue site. The festival, devoted to emerging artists, runs from 18 to 20 November 2026. It is, in the open sources, her best documented stage date to date."),
-  ("Where can I hear Teyma?", "On the platforms, starting with “Chichi”, her 2025 track, then “City Boy” with Dinamarca and “Sexy Dino”, her single of 16 October 2026 produced by Holomobb. To follow the pop branch of the genre, also hear our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> and read our <a href=\"/en/bouyon-music-2026.html\">bouyon music 2026</a> page.")
- ],
+  (
+    "Who is Teyma?",
+    "Teyma is an emerging French singer, presented by Just Music as one of the new talents to follow on the French scene, and by the Ici Demain festival of FGO-Barbara as an artist whose universe mixes pop, bouyon and other dance sounds. She made her mark with “Chichi” and “Shake it up”, then released “City Boy”, “Négatif” and “Sexy Dino” in 2026.",
+  ),
+  (
+    "How do you spell Teyma: Teyma or Teymaaa?",
+    "The stage name is spelled Teyma, with a single final a. Her official Instagram account, linked by Just Music and checked for this profile, even displays the name “Teyma avec un seul A”, Teyma with only one A, while her handle, teymaaa, has three. The singer turned that spelling point into her display name: in credits and in the press, the right spelling stays Teyma.",
+  ),
+  (
+    "What are Teyma’s songs?",
+    "Five singles are documented: “Chichi”, dated 2025 by the magazine Numero, written by Teyma and composed by Alexay Beats according to Deezer; “Shake it up”, her other breakthrough track; “City Boy”, a 2026 single with Dinamarca; “Négatif”, in 2026; and “Sexy Dino”, produced by Holomobb and released on 16 October 2026. No album or EP is documented.",
+  ),
+  (
+    "Who wrote Teyma’s “Chichi”?",
+    "Teyma herself: Deezer playlist data credit “Chichi” as written by Teyma and composed by Alexay Beats, with a duration of 1 minute 54 seconds. One writer, one composer, a short club format. That credit rules out presenting Teyma as a mere performer. The magazine Numero dates the track to 2025 and kept it in its summer 2026 selection.",
+  ),
+  (
+    "Who produced Teyma’s “City Boy”?",
+    "Dinamarca, according to Just Music and the Ici Demain festival press pack, which speak of a 2026 single produced by him. Shazam presents “CITY BOY” as a single signed Dinamarca and Teyma, and ranks it among the producer’s most streamed songs. The two readings fit together: Teyma sings on a Dinamarca production, and the track comes out under both names.",
+  ),
+  (
+    "Who produced Teyma’s “Sexy Dino”?",
+    "Holomobb. Just Music announces that Teyma unveils “Sexy dino”, a new single produced by Holomobb, available on 16 October 2026. It is the third named producer of her path, after Alexay Beats on “Chichi” and Dinamarca on “City Boy”: no name repeats in the sources, and Teyma builds her sound through successive meetings rather than with one regular producer.",
+  ),
+  (
+    "Does Teyma make bouyon?",
+    "Bouyon is one of her declared colours, not her only genre. Just Music places her “at the crossing of pop, R and B, rap and bouyon”, the Ici Demain festival speaks of her “pop fed on bouyon”, and Deezer files “Chichi” in a Bouyon bass playlist as well as in French R and B playlists. She belongs to the new French pop with bouyon, not to the scenes of Guadeloupe or Dominica.",
+  ),
+  (
+    "What is the link between Teyma and Theodora?",
+    "Just Music writes that Teyma is “close to Theodora”, a closeness of style reported by the press, not a collaboration: no shared track is documented. Playlists confirm the neighbourhood, Deezer filing “Chichi” in a Bouyon bass playlist alongside “KONGOLESE SOUS BBL” by Theodora. Teyma is cited among the voices working bouyon into French pop after her. See our <a href=\"/en/theodora.html\">Theodora</a> profile.",
+  ),
+  (
+    "Which media have spotted Teyma?",
+    "According to Just Music, Teyma was selected by Vogue France among the artists to listen to during summer 2026, drew the attention of the British magazine NME and has the support of ELLE, Konbini and Shades. The selection of the magazine Numero, published on 5 June 2026, was checked directly: “Chichi”, dated 2025, appears there among the French women singers and rappers to follow.",
+  ),
+  (
+    "What is Teyma’s real name?",
+    "None of the open sources consulted for this profile publishes her full name, her age or her home town. The only identity element checked directly is her official Instagram account, linked by Just Music, under the handle teymaaa. This site does not fill that gap with guesses: if an in depth portrait publishes her identity, this profile will be updated.",
+  ),
+  (
+    "Where can I see Teyma live?",
+    "In Paris, on Friday 20 November 2026, at FGO-Barbara, in the 18th arrondissement, where she closes the seventh edition of the Ici Demain festival according to the venue site, with her “pop fed on bouyon and dance sounds”. The festival, devoted to emerging artists, runs from 18 to 20 November 2026. It is her best documented stage date to date.",
+  ),
+  (
+    "Where can I hear Teyma?",
+    "On the platforms, starting with “Chichi”, her 2025 track, then “City Boy” with Dinamarca and “Sexy Dino”, her single of 16 October 2026 produced by Holomobb. To hear the bouyon that colour comes from, from Dominica to the French Antilles, the <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix playlist</a> by Bouyon Shattaz gathers new releases and classics of the genre.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/teyma.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/teyma.html#artist", "name": "Teyma", "description": "Emerging French singer at the crossing of pop, R and B, rap and bouyon. Revealed by Chichi and Shake it up, with the 2026 singles City Boy with Dinamarca, Négatif and Sexy Dino produced by Holomobb.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Chichi"}, {"@type": "MusicRecording", "name": "Shake it up"}, {"@type": "MusicRecording", "name": "City boy"}, {"@type": "MusicRecording", "name": "Négatif"}, {"@type": "MusicRecording", "name": "Sexy dino"}], "sameAs": ["https://www.instagram.com/teymaaa/"]}}],
  "date_modified": "2026-10-20"
 }

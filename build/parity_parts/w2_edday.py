@@ -84,13 +84,67 @@ FR = {
   ]
  ],
  "faq": [
-  ("D’où vient Edday ?", "Les sources consultées ne donnent pas une seule présentation. ZoukJam, dans son Zouk Book, présente Edday comme un artiste bouyon originaire de la Dominique, influencé par WCK et Triple Kay Band. Le communiqué officiel du WCMF 2026 le groupe avec les noms de la Guadeloupe, aux côtés de Les Aiglons et de Jean-Marc Ferdinand. Ce profil rapporte les deux présentations avec leurs sources, sans en choisir une comme fait établi."),
-  ("Quel est le titre le plus connu d’Edday ?", "Le titre central de son dossier vérifié est « Bouyon All the Way », avec Mr. Vegas, sorti le 26 janvier 2024 sur le label MV Music, dans l’EP Bouyon All Da Way, selon Shazam. Edday y est interprète et auteur crédité, sous le nom ELIEZER VANEROT, aux côtés de Clifford Smith, le nom civil de Mr. Vegas, et de quatre autres auteurs."),
-  ("Quels sont les premiers titres d’Edday ?", "Son catalogue vérifié compte « Bay kou moto la », sorti le 24 juin 2019 sur Jaiye Urban, et « Sco pa tu manaa », sorti le 14 novembre 2019 sur le même label, avec une langue indiquée comme le français par Shazam. Le catalogue compte aussi « Ô Sé fanm la » et « Shaka Shaka », sans date de sortie publiée dans les sources consultées."),
-  ("Edday joue-t-il au WCMF 2026 ?", "Oui, selon les guides publiés du World Creole Music Festival 2026, notamment writeups24 et Sweet TNT, Edday joue la Nuit 2, le samedi 24 octobre 2026, au Windsor Park Sports Stadium de Roseau, sur la même nuit que Ne-Yo, Alkaline, Asa Bantan, Reo et Trilla G."),
-  ("Avec quels artistes Edday a-t-il collaboré ?", "Son catalogue vérifié compte « Foreigner » avec Carlyn XP, « Si Manman’w té sav » avec Drex et Kevni, « Make it pop » avec Pinpin OSP, sorti le 2 novembre 2023, « Changer » avec Dj Chimik, listé dans les tracklists du Soca Podcast, et « Bouyon All the Way » avec Mr. Vegas. ZoukJam souligne de manière générale ses collaborations avec des artistes de plusieurs îles de la Caraïbe."),
-  ("Edday a-t-il joué dans un festival entièrement consacré au bouyon ?", "Oui. En mai 2025, selon Black Island Girl, Edday figurait parmi les artistes du Strictly the Best Festival, Bouyon Edition, à Lotterie Farm, à Saint-Martin, présenté comme le premier festival de l’île dédié entièrement au bouyon, avec plus de 5 000 personnes. Il y partageait l’affiche avec Pudaz, Reo, Trilla G et d’autres, et la clôture de Mr Ridge a réuni tous les artistes bouyon présents sur scène.")
- ],
+  (
+    "D’où vient Edday ?",
+    "Les sources consultées ne donnent pas une seule présentation. ZoukJam, dans son Zouk Book, présente Edday comme un artiste bouyon originaire de la Dominique, influencé par WCK et Triple Kay Band. Le communiqué officiel du WCMF 2026 le groupe avec les noms de la Guadeloupe, aux côtés de Les Aiglons et de Jean-Marc Ferdinand. Ce profil rapporte les deux présentations avec leurs sources, sans en choisir une comme fait établi.",
+  ),
+  (
+    "Quel est le titre le plus connu d’Edday ?",
+    "Le titre central de son dossier vérifié est « Bouyon All the Way », avec Mr. Vegas, sorti le 26 janvier 2024 sur le label MV Music, dans l’EP Bouyon All Da Way, selon Shazam. Edday y est interprète et auteur crédité, sous le nom ELIEZER VANEROT, aux côtés de Clifford Smith, le nom civil de Mr. Vegas, et de quatre autres auteurs.",
+  ),
+  (
+    "Quels sont les premiers titres d’Edday ?",
+    "Son catalogue vérifié compte « Bay kou moto la », sorti le 24 juin 2019 sur Jaiye Urban, et « Sco pa tu manaa », sorti le 14 novembre 2019 sur le même label, avec une langue indiquée comme le français par Shazam. Le catalogue compte aussi « Ô Sé fanm la » et « Shaka Shaka », sans date de sortie publiée dans les sources consultées.",
+  ),
+  (
+    "Edday joue-t-il au WCMF 2026 ?",
+    "Oui, selon les guides publiés du World Creole Music Festival 2026, notamment writeups24 et Sweet TNT, Edday joue la Nuit 2, le samedi 24 octobre 2026, au Windsor Park Sports Stadium de Roseau, sur la même nuit que Ne-Yo, Alkaline, Asa Bantan, Reo et Trilla G. Cette 26e édition se tient du 23 au 25 octobre 2026, pendant la saison de l’Indépendance de la Dominique.",
+  ),
+  (
+    "Avec quels artistes Edday a-t-il collaboré ?",
+    "Son catalogue vérifié compte « Foreigner » avec Carlyn XP, « Si Manman’w té sav » avec Drex et Kevni, « Make it pop » avec Pinpin OSP, sorti le 2 novembre 2023, « Changer » avec Dj Chimik, listé dans les tracklists du Soca Podcast, et « Bouyon All the Way » avec Mr. Vegas. ZoukJam souligne de manière générale ses collaborations avec des artistes de plusieurs îles de la Caraïbe.",
+  ),
+  (
+    "Edday a-t-il joué dans un festival entièrement consacré au bouyon ?",
+    "Oui. En mai 2025, selon Black Island Girl, Edday figurait parmi les artistes du Strictly the Best Festival, Bouyon Edition, à Lotterie Farm, à Saint-Martin, présenté comme le premier festival de l’île dédié entièrement au bouyon, avec plus de 5 000 personnes. Il y partageait l’affiche avec Pudaz, Reo, Trilla G et d’autres, et la clôture de Mr Ridge a réuni tous les artistes bouyon présents sur scène.",
+  ),
+  (
+    "Qui est Edday ?",
+    "Edday est un artiste bouyon, interprète et auteur, que ZoukJam décrit par un style énergique, des refrains accrocheurs et des textes souvent humoristiques ou sociaux, qui racontent le quotidien des jeunes de la Dominique et de la Caraïbe. Son titre central est « Bouyon All the Way », avec le Jamaïcain Mr. Vegas, et il joue la Nuit 2 du World Creole Music Festival 2026 à Roseau.",
+  ),
+  (
+    "Quel est le vrai nom d’Edday ?",
+    "Aucune source consultée ne publie d’identité civile officielle pour Edday, et ce site n’en invente pas. Ses crédits d’auteur montrent en revanche un nom récurrent : ELIEZER VANEROT, crédité sur « Bouyon All the Way », « Bay kou moto la » et « Sco pa tu manaa », sous la forme « eddy ELIEZER VANEROT » sur ce dernier titre, selon Shazam. Ce site le rapporte comme un crédit.",
+  ),
+  (
+    "Qui a écrit « Bouyon All the Way » d’Edday et Mr. Vegas ?",
+    "Selon Shazam, six auteurs sont crédités : Clifford Smith, le nom civil de Mr. Vegas, Cornell Phillip, Jervon Henderson, Alvin Bruny, Naomi Green et ELIEZER VANEROT, le nom récurrent des crédits d’Edday. Le titre est sorti le 26 janvier 2024 sur MV Music, dans l’EP Bouyon All Da Way. Edday n’y est donc pas un simple invité : il est interprète et auteur crédité.",
+  ),
+  (
+    "Quel style de musique fait Edday ?",
+    "Edday fait du bouyon. ZoukJam souligne sa capacité à mêler différents styles et à innover dans ses compositions. Son catalogue réunit des titres en créole et en français, sortis sur des labels de la scène francophone bouyon et shatta des Antilles, comme Jaiye Urban et VGM PRODUCT, et un duo avec une star du dancehall jamaïcain, Mr. Vegas, qui porte le nom du genre dans son titre.",
+  ),
+  (
+    "Qui a influencé Edday ?",
+    "Selon ZoukJam, Edday a été influencé par les pionniers du genre, notamment <a href=\"/wck.html\">WCK</a> (Windward Caribbean Kulture) et Triple Kay Band, deux groupes emblématiques de la Dominique. WCK représente la fondation, le son créé à Roseau en 1988. Triple Kay, devenu Triple Kay International, représente la génération des grandes scènes dominicaines des années 2000, qui a porté le bouyon soca vers toute la Caraïbe.",
+  ),
+  (
+    "Qui a produit « Si Manman’w té sav » d’Edday ?",
+    "Selon le titre de la vidéo officielle référencée par Shazam, « Si Manman’w té sav » est une production de Little Micke. Le titre réunit Edday, Drex et <a href=\"/kevni.html\">Kevni</a>, avec des crédits d’auteur partagés entre Little Micke, Pierre-Emmanuel N’Kom, sandy kevin TEL-AGNESA, eddy ELIEZER VANEROT et Xavier Odacre. Aucune date de sortie n’est publiée dans les sources consultées.",
+  ),
+  (
+    "Qui a écrit « Make it pop » d’Edday et Pinpin OSP ?",
+    "Selon Shazam, « Make it pop », sorti le 2 novembre 2023 en single sur le label VGM PRODUCT, a pour compositeur Luchshiy, avec des crédits d’auteur partagés entre Edday, Brian LOMBA et Corane Vincent. <a href=\"/pinpin-osp.html\">Pinpin OSP</a> appartient à la scène francophone que le public de Guadeloupe connaît bien : ce duo ancre Edday dans la circulation entre la Dominique et les Antilles françaises.",
+  ),
+  (
+    "Avec quels compositeurs Edday travaille-t-il ?",
+    "Ses crédits Shazam nomment plusieurs compositeurs. Christophe Démocrite signe la musique de « Sco pa tu manaa » et de « Ô Sé fanm la », ce dernier avec Jaiye Music Publishing et un clip produit par Jdmo selon le titre de la vidéo. Steeve Fleret compose « Shaka Shaka », où Edday est interprète et auteur. Luchshiy compose « Make it pop » avec Pinpin OSP.",
+  ),
+  (
+    "Où écouter Edday ?",
+    "Commencez par « Bouyon All the Way » avec Mr. Vegas, puis remontez aux singles de 2019, « Bay kou moto la » et « Sco pa tu manaa ». Ses titres circulent aussi dans les mixes de DJ : les tracklists du Soca Podcast listent « Changer » avec Dj Chimik. La <a href=\"/playlist-bouyon.html\">Bouyon Road Mix</a> de Bouyon Shattaz réunit les nouveautés de la Dominique et des Antilles.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/edday.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/edday.html#artist", "name": "Edday", "description": "Artiste bouyon présenté par ZoukJam comme originaire de la Dominique et groupé avec les noms de Guadeloupe dans le communiqué du WCMF 2026, interprète de « Bouyon All the Way » avec Mr. Vegas.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bouyon All the Way"}, {"@type": "MusicRecording", "name": "Bay kou moto la"}, {"@type": "MusicRecording", "name": "Sco pa tu manaa"}, {"@type": "MusicRecording", "name": "Ô Sé fanm la"}, {"@type": "MusicRecording", "name": "Shaka Shaka"}, {"@type": "MusicRecording", "name": "Foreigner"}, {"@type": "MusicRecording", "name": "Si Manman’w té sav"}, {"@type": "MusicRecording", "name": "Make it pop"}, {"@type": "MusicRecording", "name": "Changer"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -171,13 +225,67 @@ EN = {
   ]
  ],
  "faq": [
-  ("Where is Edday from?", "The sources consulted do not give a single presentation. ZoukJam, in its Zouk Book, presents Edday as a bouyon artist originally from Dominica, influenced by WCK and Triple Kay Band. The official WCMF 2026 release groups him with the Guadeloupe names, alongside Les Aiglons and Jean-Marc Ferdinand. This profile reports both presentations with their sources, without choosing one as an established fact."),
-  ("What is the best known track by Edday?", "The central track of his verified record is “Bouyon All the Way”, with Mr. Vegas, released on January 26, 2024 on the MV Music label, in the Bouyon All Da Way EP, according to Shazam. Edday is performer and credited songwriter there, under the name ELIEZER VANEROT, alongside Clifford Smith, the legal name of Mr. Vegas, and four other songwriters."),
-  ("What are the early tracks of Edday?", "His verified catalogue holds “Bay kou moto la”, released on June 24, 2019 on Jaiye Urban, and “Sco pa tu manaa”, released on November 14, 2019 on the same label, with the language listed as French by Shazam. The catalogue also holds “Ô Sé fanm la” and “Shaka Shaka”, with no release date published in the sources consulted."),
-  ("Does Edday play WCMF 2026?", "Yes, according to the published guides of the World Creole Music Festival 2026, notably writeups24 and Sweet TNT, Edday plays Night 2, on Saturday, October 24, 2026, at Windsor Park Sports Stadium in Roseau, on the same night as Ne-Yo, Alkaline, Asa Bantan, Reo and Trilla G."),
-  ("Which artists has Edday collaborated with?", "His verified catalogue holds “Foreigner” with Carlyn XP, “Si Manman’w té sav” with Drex and Kevni, “Make it pop” with Pinpin OSP, released on November 2, 2023, “Changer” with Dj Chimik, listed in the Soca Podcast tracklists, and “Bouyon All the Way” with Mr. Vegas. ZoukJam underlines in general terms his collaborations with artists from several Caribbean islands."),
-  ("Has Edday played a festival dedicated entirely to bouyon?", "Yes. In May 2025, according to Black Island Girl, Edday was among the artists of the Strictly the Best Festival, Bouyon Edition, at Lotterie Farm in St. Maarten, presented as the island first festival dedicated entirely to bouyon, with more than 5,000 people. He shared the bill with Pudaz, Reo, Trilla G and others, and the Mr Ridge closing set brought all the bouyon artists present back on stage.")
- ],
+  (
+    "Where is Edday from?",
+    "The sources consulted do not give a single presentation. ZoukJam, in its Zouk Book, presents Edday as a bouyon artist originally from Dominica, influenced by WCK and Triple Kay Band. The official WCMF 2026 release groups him with the Guadeloupe names, alongside Les Aiglons and Jean-Marc Ferdinand. This profile reports both presentations with their sources, without choosing one as an established fact.",
+  ),
+  (
+    "What is Edday's best known track?",
+    "The central track of his verified record is “Bouyon All the Way”, with Mr. Vegas, released on January 26, 2024 on the MV Music label, in the Bouyon All Da Way EP, according to Shazam. Edday is performer and credited songwriter there, under the name ELIEZER VANEROT, alongside Clifford Smith, the legal name of Mr. Vegas, and four other songwriters.",
+  ),
+  (
+    "What are Edday's early tracks?",
+    "His verified catalogue holds “Bay kou moto la”, released on June 24, 2019 on Jaiye Urban, and “Sco pa tu manaa”, released on November 14, 2019 on the same label, with the language listed as French by Shazam. The catalogue also holds “Ô Sé fanm la” and “Shaka Shaka”, with no release date published in the sources consulted.",
+  ),
+  (
+    "Does Edday play WCMF 2026?",
+    "Yes, according to the published guides of the World Creole Music Festival 2026, notably writeups24 and Sweet TNT, Edday plays Night 2, on Saturday, October 24, 2026, at Windsor Park Sports Stadium in Roseau, on the same night as Ne-Yo, Alkaline, Asa Bantan, Reo and Trilla G. This 26th edition runs from October 23 to 25, 2026, during Dominica's Independence season.",
+  ),
+  (
+    "Which artists has Edday collaborated with?",
+    "His verified catalogue holds “Foreigner” with Carlyn XP, “Si Manman’w té sav” with Drex and Kevni, “Make it pop” with Pinpin OSP, released on November 2, 2023, “Changer” with Dj Chimik, listed in the Soca Podcast tracklists, and “Bouyon All the Way” with Mr. Vegas. ZoukJam underlines in general terms his collaborations with artists from several Caribbean islands.",
+  ),
+  (
+    "Has Edday played a festival dedicated entirely to bouyon?",
+    "Yes. In May 2025, according to Black Island Girl, Edday was among the artists of the Strictly the Best Festival, Bouyon Edition, at Lotterie Farm in St. Maarten, presented as the island's first festival dedicated entirely to bouyon, with more than 5,000 people. He shared the bill with Pudaz, Reo, Trilla G and others, and Mr Ridge's closing set brought all the bouyon artists present back on stage.",
+  ),
+  (
+    "Who is Edday?",
+    "Edday is a bouyon artist, performer and songwriter, whom ZoukJam describes through an energetic style, catchy hooks and often humorous or social lyrics that tell the daily life of young people in Dominica and the Caribbean. His central track is “Bouyon All the Way”, with Jamaican star Mr. Vegas, and he plays Night 2 of the 2026 World Creole Music Festival in Roseau.",
+  ),
+  (
+    "What is Edday's real name?",
+    "No source consulted publishes an official legal identity for Edday, and this site invents none. His songwriting credits do show one recurring name: ELIEZER VANEROT, credited on “Bouyon All the Way”, “Bay kou moto la” and “Sco pa tu manaa”, in the form “eddy ELIEZER VANEROT” on that last track, according to Shazam. This site reports it as a credit.",
+  ),
+  (
+    "Who wrote “Bouyon All the Way” by Edday and Mr. Vegas?",
+    "According to Shazam, six songwriters are credited: Clifford Smith, the legal name of Mr. Vegas, Cornell Phillip, Jervon Henderson, Alvin Bruny, Naomi Green and ELIEZER VANEROT, the recurring name of Edday's credits. The track came out on January 26, 2024 on MV Music, in the Bouyon All Da Way EP. Edday is therefore not a mere guest there: he is performer and credited songwriter.",
+  ),
+  (
+    "What style of music does Edday make?",
+    "Edday makes bouyon. ZoukJam underlines his ability to blend different styles and to innovate in his compositions. His catalogue gathers Creole and French titles, released on labels of the Francophone bouyon and shatta scene of the Antilles, such as Jaiye Urban and VGM PRODUCT, and a duet with a Jamaican dancehall star, Mr. Vegas, that carries the genre's name in its title.",
+  ),
+  (
+    "Who influenced Edday?",
+    "According to ZoukJam, Edday was influenced by the genre's pioneers, notably <a href=\"/en/wck.html\">WCK</a> (Windward Caribbean Kulture) and Triple Kay Band, two iconic Dominican bands. WCK stands for the foundation, the sound created in Roseau in 1988. Triple Kay, later Triple Kay International, stands for the generation of the great Dominican stages of the 2000s, which carried bouyon soca across the Caribbean.",
+  ),
+  (
+    "Who produced Edday's “Si Manman’w té sav”?",
+    "According to the title of the official video referenced by Shazam, “Si Manman’w té sav” is a Little Micke production. The track brings together Edday, Drex and <a href=\"/en/kevni.html\">Kevni</a>, with songwriting credits shared between Little Micke, Pierre-Emmanuel N’Kom, sandy kevin TEL-AGNESA, eddy ELIEZER VANEROT and Xavier Odacre. No release date is published in the sources consulted.",
+  ),
+  (
+    "Who wrote “Make it pop” by Edday and Pinpin OSP?",
+    "According to Shazam, “Make it pop”, released on November 2, 2023 as a single on the VGM PRODUCT label, has Luchshiy as composer, with songwriting credits shared between Edday, Brian LOMBA and Corane Vincent. <a href=\"/en/pinpin-osp.html\">Pinpin OSP</a> belongs to the Francophone scene Guadeloupe audiences know well: the duet anchors Edday in the circulation between Dominica and the French Antilles.",
+  ),
+  (
+    "Which composers does Edday work with?",
+    "His Shazam credits name several composers. Christophe Démocrite writes the music of “Sco pa tu manaa” and “Ô Sé fanm la”, the latter with Jaiye Music Publishing and a video produced by Jdmo according to the video's title. Steeve Fleret composes “Shaka Shaka”, where Edday is performer and songwriter. Luchshiy composes “Make it pop” with Pinpin OSP.",
+  ),
+  (
+    "Where can I listen to Edday?",
+    "Start with “Bouyon All the Way” with Mr. Vegas, then go back to the 2019 singles, “Bay kou moto la” and “Sco pa tu manaa”. His tracks also run through DJ mixes: the Soca Podcast tracklists list “Changer” with Dj Chimik. The Bouyon Shattaz <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix</a> gathers new releases from Dominica and the Antilles.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/edday.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/edday.html#artist", "name": "Edday", "description": "Bouyon artist presented by ZoukJam as originally from Dominica and grouped with the Guadeloupe names in the WCMF 2026 release, performer of “Bouyon All the Way” with Mr. Vegas.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bouyon All the Way"}, {"@type": "MusicRecording", "name": "Bay kou moto la"}, {"@type": "MusicRecording", "name": "Sco pa tu manaa"}, {"@type": "MusicRecording", "name": "Ô Sé fanm la"}, {"@type": "MusicRecording", "name": "Shaka Shaka"}, {"@type": "MusicRecording", "name": "Foreigner"}, {"@type": "MusicRecording", "name": "Si Manman’w té sav"}, {"@type": "MusicRecording", "name": "Make it pop"}, {"@type": "MusicRecording", "name": "Changer"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

@@ -120,13 +120,63 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Le Rebelle ?", "Le Rebelle est un nom d’artiste documenté uniquement par ses sorties : un album, « Polyvalent, Vol. 1 », et un single, « Pec Pec », sortis en septembre 2021 chez iMD-One Again Music. Aucune source ouverte pour ce profil ne publie son identité, sa biographie ou son origine, et ce profil n’en affirme aucune : il publie ses crédits vérifiés, fiche par fiche."),
-  ("Quels titres contient « Polyvalent, Vol. 1 » ?", "Sept titres, sortis le 17 septembre 2021, tous en français : « Acteur Porno », « Bad » avec T-BTS en featuring, « L.b.n.j.f (La Bêtise n’est jamais fini) », « Kaw Komprenn » et « Comité restreint » avec Snyper Lee en featuring, « Déception » et « Love Interdit ». Leurs tempos publiés vont de 72 à 164 BPM, la fiche de « Love Interdit » ne publiant pas de tempo."),
-  ("Quel est le rapport entre Le Rebelle et le bouyon ?", "Un rapport de circuit, documenté par un titre. Les plateformes classent l’album en Hip-Hop et Rap, mais « Bad », à 164 BPM, invite T-BTS, le collectif Team Bwè Tou Sa, avec les voix de Ludmilian Flower et de Nicolas Macbeth, et tout l’album est composé et programmé par Mathurin Denis, signatures du noyau GAMMALAB. Le Rebelle est donc un nom de rap fabriqué à l’intérieur de l’atelier bouyon guadeloupéen."),
-  ("Qui écrit et compose les titres de Le Rebelle ?", "Selon les fiches ouvertes, Stéphane Peccatus est crédité aux voix et aux paroles sur les huit titres du dossier, et Mathurin Denis à la programmation et à la composition sur les sept titres de l’album. Sur le single « Pec Pec », Peccatus tient seul les voix, la programmation, les paroles et la composition."),
-  ("Le Rebelle et Stéphane Peccatus sont-ils la même personne ?", "Le dossier ne permet pas de l’affirmer. Les fiches créditent Le Rebelle comme interprète et Stéphane Peccatus aux voix et aux paroles sur chaque titre, ce qui ressemble à la répartition d’un nom de scène et de son auteur interprète, mais aucune source ouverte ne le confirme. Ce profil garde donc les deux noms séparés, exactement comme les génériques les impriment. Il en va de même pour Snyper Lee, crédité en featuring, et Mitch Jerome, crédité aux voix sur les mêmes titres."),
-  ("Existe-t-il un « Polyvalent, Vol. 2 » ou des titres plus récents ?", "Aucun dans les sources ouvertes pour ce profil. La page artiste de Shazam ne liste que l’album « Polyvalent, Vol. 1 » et le single « Pec Pec », tous deux de septembre 2021, et aucune sortie postérieure n’a été retrouvée pendant cette recherche. Le titre le plus écouté du nom, selon cette même page, est « Love Interdit ».")
- ],
+  (
+    "Qui est Le Rebelle ?",
+    "Le Rebelle est un nom d’artiste documenté uniquement par ses sorties : un album, « Polyvalent, Vol. 1 », et un single, « Pec Pec », sortis en septembre 2021 chez iMD-One Again Music. Aucune source ouverte pour ce profil ne publie son identité, sa biographie ou son origine, et ce profil n’en affirme aucune : il publie ses crédits vérifiés, fiche par fiche.",
+  ),
+  (
+    "Le Rebelle vient-il de la Guadeloupe ?",
+    "Aucune source ouverte ne donne son origine : ni île, ni ville, ni parcours. La Guadeloupe associée à cette page nomme le circuit documenté de ses titres, le featuring de T-BTS et l’atelier GAMMALAB, et non une naissance ou une résidence. Shazam le range aussi parmi des artistes de ce circuit guadeloupéen, mais un voisinage d’algorithme n’est pas une preuve d’origine, et ce site ne l’en déduit pas.",
+  ),
+  (
+    "Quels titres contient « Polyvalent, Vol. 1 » ?",
+    "Sept titres, sortis le 17 septembre 2021, tous en français : « Acteur Porno », « Bad » avec T-BTS en featuring, « L.b.n.j.f (La Bêtise n’est jamais fini) », « Kaw Komprenn » et « Comité restreint » avec Snyper Lee en featuring, « Déception » et « Love Interdit ». Leurs tempos publiés vont de 72 à 164 BPM, la fiche de « Love Interdit » ne publiant pas de tempo.",
+  ),
+  (
+    "Que veut dire L.b.n.j.f dans le titre de Le Rebelle ?",
+    "Le titre complet de la fiche le développe : « L.b.n.j.f (La Bêtise n’est jamais fini) ». C’est le troisième titre de l’album « Polyvalent, Vol. 1 », sorti le 17 septembre 2021, et il monte à 160 BPM, le tempo du bouyon de fête, avec le générique de base de l’album : Stéphane Peccatus aux voix et aux paroles, Mathurin Denis à la programmation et à la composition.",
+  ),
+  (
+    "Quel est le rapport entre Le Rebelle et le bouyon ?",
+    "Un rapport de circuit, documenté par un titre. Les plateformes classent l’album en Hip-Hop et Rap, mais « Bad », à 164 BPM, invite T-BTS, le collectif Team Bwè Tou Sa, avec les voix de Ludmilian Flower et de Nicolas Macbeth, et tout l’album est composé et programmé par Mathurin Denis, signatures du noyau GAMMALAB. Le Rebelle est donc un nom de rap fabriqué à l’intérieur de l’atelier bouyon guadeloupéen.",
+  ),
+  (
+    "Qu’est-ce que le titre « Bad » de Le Rebelle ?",
+    "C’est le titre qui relie Le Rebelle au bouyon. « Bad », avec T-BTS en featuring, est sorti le 17 septembre 2021 sur « Polyvalent, Vol. 1 », chez iMD-One Again Music, en français et à 164 BPM, le titre le plus rapide de l’album. Son générique crédite aux voix Stéphane Peccatus, Ludmilian Flower et Nicolas Macbeth, et Mathurin Denis à la programmation et à la composition.",
+  ),
+  (
+    "Que signifie T-BTS ?",
+    "T-BTS est la forme courte du nom du collectif <a href=\"/team-bwe-tou-sa.html\">Team Bwè Tou Sa</a>, crédité en featuring sur « Bad », de Le Rebelle. Sur ce titre, le noyau d’écriture de la Team chante sur le disque d’un autre nom du circuit, avec les voix de Ludmilian Flower et de Nicolas Macbeth, tandis que l’auteur et le compositeur habituels, Stéphane Peccatus et Mathurin Denis, gardent leurs rôles.",
+  ),
+  (
+    "Qui écrit et compose les titres de Le Rebelle ?",
+    "Selon les fiches ouvertes, Stéphane Peccatus est crédité aux voix et aux paroles sur les huit titres du dossier, et Mathurin Denis à la programmation et à la composition sur les sept titres de l’album. Sur le single « Pec Pec », Peccatus tient seul les voix, la programmation, les paroles et la composition.",
+  ),
+  (
+    "Qui est Mathurin Denis, crédité chez Le Rebelle ?",
+    "Mathurin Denis est le programmeur et compositeur crédité sur les sept titres de « Polyvalent, Vol. 1 ». Les fiches du circuit GAMMALAB impriment le même nom dans le même rôle, de « Game Over » de la Team aux titres voisins. Ce site le cite sous la forme publiée par les fiches de Le Rebelle et renvoie au profil de <a href=\"/denmath.html\">Denmath</a>, le producteur de ce circuit, sans fusionner des lignes de crédit que les documents distinguent.",
+  ),
+  (
+    "Le Rebelle et Stéphane Peccatus sont-ils la même personne ?",
+    "Le dossier ne permet pas de l’affirmer. Les fiches créditent Le Rebelle comme interprète et Stéphane Peccatus aux voix et aux paroles sur chaque titre, ce qui ressemble à la répartition d’un nom de scène et de son auteur interprète, mais aucune source ouverte ne le confirme. Ce profil garde donc les deux noms séparés, exactement comme les génériques les impriment. Il en va de même pour Snyper Lee, crédité en featuring, et Mitch Jerome, crédité aux voix sur les mêmes titres.",
+  ),
+  (
+    "Qu’est-ce que « Pec Pec », le single de Le Rebelle ?",
+    "« Pec Pec » est un single sorti le 14 septembre 2021, trois jours avant l’album, chez iMD-One Again Music, en français et à 160 BPM, selon sa fiche Shazam. C’est le seul titre du dossier sans Mathurin Denis : Stéphane Peccatus y tient ensemble les voix, la programmation, les paroles et la composition. Aucune source ne raconte l’intention de cette sortie, seul l’ordre des dates est établi.",
+  ),
+  (
+    "Existe-t-il un « Polyvalent, Vol. 2 » ou des titres plus récents ?",
+    "Aucun dans les sources ouvertes pour ce profil. La page artiste de Shazam ne liste que l’album « Polyvalent, Vol. 1 » et le single « Pec Pec », tous deux de septembre 2021, et aucune sortie postérieure n’a été retrouvée pendant cette recherche. Le titre le plus écouté du nom, selon cette même page, est « Love Interdit ».",
+  ),
+  (
+    "Quels artistes ressemblent à Le Rebelle ?",
+    "Shazam range parmi les artistes similaires à Le Rebelle des noms que ce site documente dans le même circuit guadeloupéen : LGC, Yellow Gaza, Miky Ding La, Lunik et Team Bwè Tou Sa. C’est un voisinage d’algorithme, cité comme tel : il confirme que les plateformes placent ce nom dans la grappe des artistes de l’atelier GAMMALAB et de sa génération, ce que les génériques montraient déjà.",
+  ),
+  (
+    "Où écouter Le Rebelle ?",
+    "Sur les plateformes, en commençant par « Bad », pour le lien avec le bouyon, puis « Love Interdit », « Déception » et « Comité restreint », ses titres les plus écoutés selon Shazam, et enfin « Pec Pec », le single que son auteur signe seul. Pour entendre la scène bouyon d’aujourd’hui, notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, le Bouyon Road Mix de Bouyon Shattaz, rassemble les nouveautés de la Dominique, de la Guadeloupe et de la Martinique.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/le-rebelle.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/le-rebelle.html#artist", "name": "Le Rebelle", "description": "Nom d’artiste documenté par un album, Polyvalent, Vol. 1 (17 septembre 2021, iMD-One Again Music), et un single, Pec Pec (14 septembre 2021), classés Hip-Hop et Rap. Titres écrits par Stéphane Peccatus, composés et programmés par Mathurin Denis, avec Bad en featuring T-BTS. Aucune biographie ni origine publiées dans les sources ouvertes en octobre 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Acteur Porno"}, {"@type": "MusicRecording", "name": "Bad"}, {"@type": "MusicRecording", "name": "L.b.n.j.f (La Bêtise n'est jamais fini)"}, {"@type": "MusicRecording", "name": "Kaw Komprenn"}, {"@type": "MusicRecording", "name": "Comité restreint"}, {"@type": "MusicRecording", "name": "Déception"}, {"@type": "MusicRecording", "name": "Love Interdit"}, {"@type": "MusicRecording", "name": "Pec Pec"}], "sameAs": ["https://www.shazam.com/artist/le-rebelle/1591231428"]}}],
  "date_modified": "2026-10-20"
 }
@@ -198,13 +248,63 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Le Rebelle?", "Le Rebelle is an artist name documented only by his releases: an album, “Polyvalent, Vol. 1”, and a single, “Pec Pec”, released in September 2021 on iMD-One Again Music. No source opened for this profile publishes an identity, a biography or an origin for him, and this profile claims none of them: it publishes his verified credits, page by page."),
-  ("Which records does “Polyvalent, Vol. 1” hold?", "Seven records, released on September 17, 2021, all in French: “Acteur Porno”, “Bad” featuring T-BTS, “L.b.n.j.f (La Bêtise n'est jamais fini)”, “Kaw Komprenn” and “Comité restreint” featuring Snyper Lee, “Déception” and “Love Interdit”. Their published tempos run from 72 to 164 BPM, the “Love Interdit” page publishing no tempo."),
-  ("What is the relation between Le Rebelle and bouyon?", "A circuit relation, documented by one record. The platforms file the album as Hip-Hop and Rap, but “Bad”, at 164 BPM, invites T-BTS, the collective Team Bwè Tou Sa, with the voices of Ludmilian Flower and Nicolas Macbeth, and the whole album is composed and programmed by Mathurin Denis, signatures of the GAMMALAB core. Le Rebelle is therefore a rap name built inside the Guadeloupe bouyon workshop."),
-  ("Who writes and composes the Le Rebelle records?", "According to the opened pages, Stéphane Peccatus is credited on vocals and lyrics across the eight records of the file, and Mathurin Denis on programming and composition across the seven records of the album. On the single “Pec Pec”, Peccatus alone holds the vocals, the programming, the lyrics and the composition."),
-  ("Are Le Rebelle and Stéphane Peccatus the same person?", "The file does not allow that to be stated. The pages credit Le Rebelle as performer and Stéphane Peccatus on vocals and lyrics on every record, which looks like the split of a stage name and its writer performer, but no opened source confirms it. This profile therefore keeps the two names separate, exactly as the credit blocks print them. The same goes for Snyper Lee, credited as a feature, and Mitch Jerome, credited on vocals on the same records."),
-  ("Is there a “Polyvalent, Vol. 2” or any more recent record?", "None in the sources opened for this profile. The Shazam artist page lists only the album “Polyvalent, Vol. 1” and the single “Pec Pec”, both of September 2021, and no later release was found during this research. The most streamed record of the name, according to that same page, is “Love Interdit”.")
- ],
+  (
+    "Who is Le Rebelle?",
+    "Le Rebelle is an artist name documented only by his releases: an album, “Polyvalent, Vol. 1”, and a single, “Pec Pec”, released in September 2021 on iMD-One Again Music. No source opened for this profile publishes an identity, a biography or an origin for him, and this profile claims none of them: it publishes his verified credits, page by page.",
+  ),
+  (
+    "Is Le Rebelle from Guadeloupe?",
+    "No opened source gives his origin: no island, no town, no path. The Guadeloupe associated with this page names the documented circuit of his records, the T-BTS feature and the GAMMALAB workshop, not a birth or a residence. Shazam also files him among artists of that Guadeloupe circuit, but an algorithmic neighbourhood is no proof of origin, and this site does not draw one from it.",
+  ),
+  (
+    "Which records does “Polyvalent, Vol. 1” hold?",
+    "Seven records, released on September 17, 2021, all in French: “Acteur Porno”, “Bad” featuring T-BTS, “L.b.n.j.f (La Bêtise n'est jamais fini)”, “Kaw Komprenn” and “Comité restreint” featuring Snyper Lee, “Déception” and “Love Interdit”. Their published tempos run from 72 to 164 BPM, the “Love Interdit” page publishing no tempo.",
+  ),
+  (
+    "What does L.b.n.j.f mean in the Le Rebelle title?",
+    "The full title on its page spells it out: “L.b.n.j.f (La Bêtise n'est jamais fini)”. It is the third record of the album “Polyvalent, Vol. 1”, released on September 17, 2021, and it climbs to 160 BPM, the tempo of party bouyon, with the album’s base credits: Stéphane Peccatus on vocals and lyrics, Mathurin Denis on programming and composition.",
+  ),
+  (
+    "What is the relation between Le Rebelle and bouyon?",
+    "A circuit relation, documented by one record. The platforms file the album as Hip-Hop and Rap, but “Bad”, at 164 BPM, invites T-BTS, the collective Team Bwè Tou Sa, with the voices of Ludmilian Flower and Nicolas Macbeth, and the whole album is composed and programmed by Mathurin Denis, signatures of the GAMMALAB core. Le Rebelle is therefore a rap name built inside the Guadeloupe bouyon workshop.",
+  ),
+  (
+    "What is the song “Bad” by Le Rebelle?",
+    "It is the record that ties Le Rebelle to bouyon. “Bad”, featuring T-BTS, was released on September 17, 2021 on “Polyvalent, Vol. 1”, on iMD-One Again Music, in French and at 164 BPM, the fastest record of the album. Its credit block lists Stéphane Peccatus, Ludmilian Flower and Nicolas Macbeth on vocals, and Mathurin Denis on programming and composition.",
+  ),
+  (
+    "What does T-BTS stand for?",
+    "T-BTS is the short form of the name of the collective <a href=\"/en/team-bwe-tou-sa.html\">Team Bwè Tou Sa</a>, credited as a feature on “Bad” by Le Rebelle. On that record, the writing core of the Team sings on the record of another name of the circuit, with the voices of Ludmilian Flower and Nicolas Macbeth, while the usual writer and composer, Stéphane Peccatus and Mathurin Denis, keep their roles.",
+  ),
+  (
+    "Who writes and composes the Le Rebelle records?",
+    "According to the opened pages, Stéphane Peccatus is credited on vocals and lyrics across the eight records of the file, and Mathurin Denis on programming and composition across the seven records of the album. On the single “Pec Pec”, Peccatus alone holds the vocals, the programming, the lyrics and the composition.",
+  ),
+  (
+    "Who is Mathurin Denis, credited on Le Rebelle’s records?",
+    "Mathurin Denis is the programmer and composer credited on the seven records of “Polyvalent, Vol. 1”. The pages of the GAMMALAB circuit print the same name in the same role, from “Game Over” by the Team to neighbouring records. This site cites him in the form the Le Rebelle pages publish and points to the profile of <a href=\"/en/denmath.html\">Denmath</a>, the producer of this circuit, without merging credit lines the documents keep separate.",
+  ),
+  (
+    "Are Le Rebelle and Stéphane Peccatus the same person?",
+    "The file does not allow that to be stated. The pages credit Le Rebelle as performer and Stéphane Peccatus on vocals and lyrics on every record, which looks like the split of a stage name and its writer performer, but no opened source confirms it. This profile therefore keeps the two names separate, exactly as the credit blocks print them. The same goes for Snyper Lee, credited as a feature, and Mitch Jerome, credited on vocals on the same records.",
+  ),
+  (
+    "What is “Pec Pec”, the Le Rebelle single?",
+    "“Pec Pec” is a single released on September 14, 2021, three days before the album, on iMD-One Again Music, in French and at 160 BPM, according to its Shazam page. It is the only record of the file without Mathurin Denis: Stéphane Peccatus holds the vocals, the programming, the lyrics and the composition together. No source tells the intention of that release; only the order of the dates is established.",
+  ),
+  (
+    "Is there a “Polyvalent, Vol. 2” or any more recent record?",
+    "None in the sources opened for this profile. The Shazam artist page lists only the album “Polyvalent, Vol. 1” and the single “Pec Pec”, both of September 2021, and no later release was found during this research. The most streamed record of the name, according to that same page, is “Love Interdit”.",
+  ),
+  (
+    "Which artists are similar to Le Rebelle?",
+    "Shazam places among the artists similar to Le Rebelle names this site documents in the same Guadeloupe circuit: LGC, Yellow Gaza, Miky Ding La, Lunik and Team Bwè Tou Sa. That is an algorithmic neighbourhood, cited as such: it confirms that the platforms place this name in the cluster of the artists of the GAMMALAB workshop and its generation, which the credit blocks already showed.",
+  ),
+  (
+    "Where can I hear Le Rebelle?",
+    "On the streaming platforms, starting with “Bad”, for the bouyon link, then “Love Interdit”, “Déception” and “Comité restreint”, his most streamed records according to Shazam, and finally “Pec Pec”, the single its writer signs alone. To hear today’s bouyon scene, our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, the Bouyon Road Mix by Bouyon Shattaz, gathers new releases from Dominica, Guadeloupe and Martinique.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/le-rebelle.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/le-rebelle.html#artist", "name": "Le Rebelle", "description": "Artist name documented by one album, Polyvalent, Vol. 1 (September 17, 2021, iMD-One Again Music), and one single, Pec Pec (September 14, 2021), filed as Hip-Hop and Rap. Records written by Stephane Peccatus, composed and programmed by Mathurin Denis, with Bad featuring T-BTS. No biography or origin published in the sources opened in October 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Acteur Porno"}, {"@type": "MusicRecording", "name": "Bad"}, {"@type": "MusicRecording", "name": "L.b.n.j.f (La Bêtise n'est jamais fini)"}, {"@type": "MusicRecording", "name": "Kaw Komprenn"}, {"@type": "MusicRecording", "name": "Comité restreint"}, {"@type": "MusicRecording", "name": "Déception"}, {"@type": "MusicRecording", "name": "Love Interdit"}, {"@type": "MusicRecording", "name": "Pec Pec"}], "sameAs": ["https://www.shazam.com/artist/le-rebelle/1591231428"]}}],
  "date_modified": "2026-10-20"
 }

@@ -55,13 +55,55 @@ FR = {
   ]
  ],
  "faq": [
-  ("Quels sont les titres vérifiés de DeeArr ?", "Deux enregistrements sont vérifiés par des sources publiées : Baby Let Me, en artiste principal, présenté par MyuzikBox sous son étiquette 2027 Bouyon, et Stand Up, single de 2026 signé Konshens, Khallion, DeeArr & Boogy Rankss, documenté par AllMusic et Shazam. Aucun autre titre n a été confirmé pendant la recherche de ce profil."),
-  ("Qui a produit et mixé Baby Let Me ?", "Selon la fiche de crédits publiée par MyuzikBox, Baby Let Me est écrit et interprété par DeeArr, produit par ProdByShako, et mixé et masterisé par Bertist « Khallion » Jeffers."),
-  ("Quel est le lien entre Baby Let Me et Stand Up ?", "Le nom Khallion relie les deux crédits. Sur Baby Let Me, Bertist « Khallion » Jeffers est crédité au mixage et à la masterisation. Sur Stand Up, en 2026, Khallion figure comme artiste aux côtés de Konshens, DeeArr et Boogy Rankss. C est le fil de studio que les crédits publiés permettent de suivre."),
-  ("DeeArr a-t-il vraiment collaboré avec Konshens ?", "Oui, selon deux sources indépendantes. La biographie de Konshens publiée par AllMusic indique qu il a collaboré avec Khallion, DeeArr et Boogy Rankss sur le single Stand Up de 2026, et la page artiste de Konshens sur Shazam liste le même single avec les mêmes quatre noms."),
-  ("D où vient DeeArr ?", "Aucune source vérifiable consultée pour ce profil ne donne son origine, son nom civil ou son lieu de base. Les mots clés de la chaîne MyuzikBox relèvent du classement de la chaîne et ne prouvent pas une origine. Ce site ne lui attribue donc aucune île tant qu une source publiée ne le fait pas."),
-  ("Pourquoi ce profil est-il plus court que les autres profils du site ?", "Parce que le dossier public de DeeArr est mince : deux crédits vérifiés, aucune biographie publiée et aucun compte officiel confirmé au moment de la recherche. Ce site préfère un profil court et exact à un profil long et inventé. Il sera complété dès que de nouvelles sources vérifiables paraîtront.")
- ],
+  (
+    "Qui est DeeArr ?",
+    "DeeArr est un artiste bouyon auteur et interprète, crédité seul à l’écriture et au chant de son titre Baby Let Me, produit par ProdByShako. Il figure aussi sur Stand Up, single de 2026 signé Konshens, Khallion, DeeArr & Boogy Rankss. Son dossier public tient à ces deux crédits vérifiés : ni nom civil ni biographie n’ont été publiés à la date de la recherche.",
+  ),
+  (
+    "Quels sont les titres vérifiés de DeeArr ?",
+    "Deux enregistrements sont vérifiés par des sources publiées : Baby Let Me, en artiste principal, présenté par MyuzikBox sous son étiquette 2027 Bouyon, et Stand Up, single de 2026 signé Konshens, Khallion, DeeArr & Boogy Rankss, documenté par AllMusic et Shazam. Aucun autre titre n a été confirmé pendant la recherche de ce profil.",
+  ),
+  (
+    "Qui a produit et mixé Baby Let Me ?",
+    "Baby Let Me est produit par ProdByShako, et mixé et masterisé par Bertist « Khallion » Jeffers, selon la fiche de crédits publiée par MyuzikBox. La même fiche indique que le titre est écrit et interprété par DeeArr lui même. C’est une équipe de studio resserrée : un auteur interprète, un producteur et un ingénieur, dont le nom Khallion revient ensuite sur Stand Up.",
+  ),
+  (
+    "Quel est le lien entre Baby Let Me et Stand Up ?",
+    "Le nom Khallion relie les deux crédits. Sur Baby Let Me, Bertist « Khallion » Jeffers est crédité au mixage et à la masterisation. Sur Stand Up, en 2026, Khallion figure comme artiste aux côtés de Konshens, DeeArr et Boogy Rankss. C est le fil de studio que les crédits publiés permettent de suivre.",
+  ),
+  (
+    "DeeArr a-t-il vraiment collaboré avec Konshens ?",
+    "Oui, selon deux sources indépendantes. La biographie de Konshens publiée par AllMusic indique qu il a collaboré avec Khallion, DeeArr et Boogy Rankss sur le single Stand Up de 2026, et la page artiste de Konshens sur Shazam liste le même single avec les mêmes quatre noms.",
+  ),
+  (
+    "D où vient DeeArr ?",
+    "Aucune source vérifiable consultée pour ce profil ne donne son origine, son nom civil ou son lieu de base. Les mots clés de la chaîne MyuzikBox relèvent du classement de la chaîne et ne prouvent pas une origine. Ce site ne lui attribue donc aucune île tant qu une source publiée ne le fait pas.",
+  ),
+  (
+    "Pourquoi ce profil est-il plus court que les autres profils du site ?",
+    "Parce que le dossier public de DeeArr est mince : deux crédits vérifiés, aucune biographie publiée et aucun compte officiel confirmé au moment de la recherche. Ce site préfère un profil court et exact à un profil long et inventé. Il sera complété dès que de nouvelles sources vérifiables paraîtront.",
+  ),
+  (
+    "Baby Let Me de DeeArr est-il sorti en 2027 ?",
+    "Le chiffre 2027 est l’étiquette de saison de la chaîne MyuzikBox, pas une date de sortie ordinaire. La chaîne classe ses vidéos par saisons de carnaval à venir et avait déjà ouvert ses listes 2027 Bouyon et 2027 Soca en octobre 2026, quand ce profil a été écrit. Sa fiche de crédits affiche donc « Year 2027 » pour Baby Let Me.",
+  ),
+  (
+    "Qu’est-ce que MyuzikBox, la chaîne qui publie Baby Let Me ?",
+    "MyuzikBox est une chaîne YouTube de promotion de la musique caribéenne, qui présente Baby Let Me sous son étiquette 2027 Bouyon. Elle précise elle même ne pas détenir les titres qu’elle publie : la vidéo est une vitrine promotionnelle, pas une page officielle de DeeArr. Sa description publie toutefois une fiche de crédits complète, avec auteur, producteur et ingénieur.",
+  ),
+  (
+    "Qui est Konshens, l’artiste de Stand Up avec DeeArr ?",
+    "Konshens est un artiste dancehall jamaïcain de premier plan, selon sa biographie AllMusic : succès comme Bruk Off en 2016 et Turn Me On en 2017, albums de Mental Maintenance en 2012 à Pool Party en 2025, et un album Soca Virgin en 2020. Sur le single Stand Up de 2026, il partage l’affiche avec Khallion, DeeArr et Boogy Rankss.",
+  ),
+  (
+    "DeeArr fait-il du bouyon ou du dancehall ?",
+    "Du bouyon d’abord : la fiche de crédits de Baby Let Me, son titre en nom propre, indique « Genre : Bouyon ». Son second crédit, Stand Up, le relie au dancehall par Konshens, artiste jamaïcain qui pratique lui même les allers retours avec la soca. DeeArr se situe donc sur ce pont entre le bouyon né en Dominique et le dancehall.",
+  ),
+  (
+    "Où écouter DeeArr ?",
+    "Baby Let Me est présenté en vidéo sur la chaîne YouTube MyuzikBox, sous l’étiquette 2027 Bouyon, et Stand Up figure parmi les sorties listées sur la page artiste de Konshens sur Shazam. Pour entendre ces titres dans le contexte des nouveautés du genre, la <a href=\"/playlist-bouyon.html\">playlist bouyon</a> de Bouyon Shattaz suit les sorties bouyon saison après saison.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/deearr.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/deearr.html#artist", "name": "DeeArr", "description": "DeeArr, artiste bouyon auteur et interprète de Baby Let Me, produit par ProdByShako et mixé par Bertist Khallion Jeffers. Crédité en 2026 sur le single Stand Up de Konshens, avec Khallion et Boogy Rankss.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Baby Let Me"}, {"@type": "MusicRecording", "name": "Stand Up"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -115,13 +157,55 @@ EN = {
   ]
  ],
  "faq": [
-  ("What are the verified DeeArr titles?", "Two recordings are verified by published sources: Baby Let Me, as lead artist, presented by MyuzikBox under its 2027 Bouyon heading, and Stand Up, a 2026 single billed to Konshens, Khallion, DeeArr & Boogy Rankss, documented by AllMusic and Shazam. No other title was confirmed during the research for this profile."),
-  ("Who produced and mixed Baby Let Me?", "According to the credit sheet published by MyuzikBox, Baby Let Me is written and performed by DeeArr, produced by ProdByShako, and mixed and mastered by Bertist “Khallion” Jeffers."),
-  ("What is the link between Baby Let Me and Stand Up?", "The name Khallion connects the two credits. On Baby Let Me, Bertist “Khallion” Jeffers is credited on mix and master. On Stand Up, in 2026, Khallion appears as an artist alongside Konshens, DeeArr and Boogy Rankss. That is the studio thread the published credits allow you to follow."),
-  ("Did DeeArr really collaborate with Konshens?", "Yes, according to two independent sources. The Konshens biography published by AllMusic states that he collaborated with Khallion, DeeArr and Boogy Rankss on the 2026 single Stand Up, and the Konshens artist page on Shazam lists the same single with the same four names."),
-  ("Where is DeeArr from?", "No verifiable source consulted for this profile gives his origin, his real name or his base. The MyuzikBox channel keywords belong to the channel filing and do not prove an origin. This site therefore attributes no island to him until a published source does."),
-  ("Why is this profile shorter than the other profiles on this site?", "Because the DeeArr public file is thin: two verified credits, no published biography and no confirmed official account at the time of the research. This site prefers a short and exact profile to a long and invented one. It will be completed as soon as new verifiable sources appear.")
- ],
+  (
+    "Who is DeeArr?",
+    "DeeArr is a bouyon singer and songwriter, credited alone for the writing and vocals of his song Baby Let Me, produced by ProdByShako. He also appears on Stand Up, a 2026 single billed to Konshens, Khallion, DeeArr & Boogy Rankss. His public record comes down to those two verified credits: no real name and no biography had been published at the time of research.",
+  ),
+  (
+    "What are the verified DeeArr titles?",
+    "Two recordings are verified by published sources: Baby Let Me, as lead artist, presented by MyuzikBox under its 2027 Bouyon heading, and Stand Up, a 2026 single billed to Konshens, Khallion, DeeArr & Boogy Rankss, documented by AllMusic and Shazam. No other title was confirmed during the research for this profile.",
+  ),
+  (
+    "Who produced and mixed Baby Let Me?",
+    "Baby Let Me is produced by ProdByShako, and mixed and mastered by Bertist “Khallion” Jeffers, according to the credit sheet published by MyuzikBox. The same sheet states that the song is written and performed by DeeArr himself. It is a tight studio team: a singer songwriter, a producer and an engineer, whose name Khallion returns on Stand Up.",
+  ),
+  (
+    "What is the link between Baby Let Me and Stand Up?",
+    "The name Khallion connects the two credits. On Baby Let Me, Bertist “Khallion” Jeffers is credited on mix and master. On Stand Up, in 2026, Khallion appears as an artist alongside Konshens, DeeArr and Boogy Rankss. That is the studio thread the published credits allow you to follow.",
+  ),
+  (
+    "Did DeeArr really collaborate with Konshens?",
+    "Yes, according to two independent sources. The Konshens biography published by AllMusic states that he collaborated with Khallion, DeeArr and Boogy Rankss on the 2026 single Stand Up, and the Konshens artist page on Shazam lists the same single with the same four names.",
+  ),
+  (
+    "Where is DeeArr from?",
+    "No verifiable source consulted for this profile gives his origin, his real name or his base. The MyuzikBox channel keywords belong to the channel filing and do not prove an origin. This site therefore attributes no island to him until a published source does.",
+  ),
+  (
+    "Why is this profile shorter than the other profiles on this site?",
+    "Because the DeeArr public file is thin: two verified credits, no published biography and no confirmed official account at the time of the research. This site prefers a short and exact profile to a long and invented one. It will be completed as soon as new verifiable sources appear.",
+  ),
+  (
+    "Was DeeArr’s Baby Let Me released in 2027?",
+    "The number 2027 is the MyuzikBox channel’s season label, not an ordinary release date. The channel files its videos by upcoming carnival seasons and had already opened its 2027 Bouyon and 2027 Soca lists in October 2026, when this profile was written. Its credit sheet therefore shows “Year 2027” for Baby Let Me.",
+  ),
+  (
+    "What is MyuzikBox, the channel that posts Baby Let Me?",
+    "MyuzikBox is a YouTube channel promoting Caribbean music, which presents Baby Let Me under its 2027 Bouyon heading. It states that it does not own the songs it posts: the video is a promotional showcase, not an official DeeArr page. Its description does publish a full credit sheet, though, with writer, producer and engineer.",
+  ),
+  (
+    "Who is Konshens, the artist on Stand Up with DeeArr?",
+    "Konshens is a leading Jamaican dancehall artist, according to his AllMusic biography: hits such as Bruk Off in 2016 and Turn Me On in 2017, albums from Mental Maintenance in 2012 to Pool Party in 2025, and a Soca Virgin album in 2020. On the 2026 single Stand Up he shares the billing with Khallion, DeeArr and Boogy Rankss.",
+  ),
+  (
+    "Is DeeArr bouyon or dancehall?",
+    "Bouyon first: the credit sheet of Baby Let Me, his own lead song, reads “Genre: Bouyon”. His second credit, Stand Up, links him to dancehall through Konshens, a Jamaican artist who himself moves back and forth with soca. DeeArr therefore sits on that bridge between bouyon, born in Dominica, and dancehall.",
+  ),
+  (
+    "Where can I listen to DeeArr?",
+    "Baby Let Me is presented as a video on the MyuzikBox YouTube channel, under its 2027 Bouyon heading, and Stand Up is among the releases listed on the Konshens artist page on Shazam. To hear these songs alongside the genre’s new releases, the Bouyon Shattaz <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> follows bouyon releases season after season.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/deearr.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/deearr.html#artist", "name": "DeeArr", "description": "DeeArr, bouyon artist, writer and performer of Baby Let Me, produced by ProdByShako and mixed by Bertist Khallion Jeffers. Credited in 2026 on the Konshens single Stand Up, with Khallion and Boogy Rankss.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Baby Let Me"}, {"@type": "MusicRecording", "name": "Stand Up"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

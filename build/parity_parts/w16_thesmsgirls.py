@@ -60,13 +60,55 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui sont les SMS Girls ?", "Les SMS Girls sont un duo féminin de bouyon, présenté par l’organisateur de leur soirée genevoise comme « le duo féminin en pleine ascension » qui fait vibrer la scène caribéenne. Leurs titres cités sont « Desann », « Tu te frottes » et « Wet Wet ». Aucune source publiée consultée pour ce profil ne donne les noms des deux membres du duo, et ce site ne les invente pas."),
-  ("Quels sont les titres connus des SMS Girls ?", "Trois titres sont nommés par la page de leur concert de Genève : « Desann », « Tu te frottes » et « Wet Wet », présentés comme des titres qui enflamment les dancefloors. Une liste de sorties 2026 du catalogue Beatport ajoute un quatrième titre, « Attrape ton copain », crédité à Thesmsgirls. Aucune date de sortie ni aucun producteur n’est publié pour ces titres dans les sources consultées."),
-  ("Que signifie SMS dans SMS Girls ?", "Aucune source publiée consultée pour ce profil n’explique la signification des lettres SMS dans le nom du duo, et ce site ne propose aucune expansion inventée. La seule utilisation publiée de ces lettres est le slogan créole de leur showcase martiniquais : « SMS OU JA SAV SÉ YIN KI SEX, DÉSSANN’ ! », qui joue sur le nom du duo et sur le mot créole desann, descendre, sans développer l’acronyme."),
-  ("D’où viennent les SMS Girls ?", "Leur origine n’est pas publiée dans les sources consultées. Ce qui est documenté, c’est leur circuit : des titres en créole, en français et en anglais, un showcase annoncé comme une première en Martinique le 7 novembre 2026, et une première scène en Suisse, à Genève, le 24 octobre 2026. Ce site publie ce circuit vérifié et n’attribue au duo aucune île d’origine non documentée."),
-  ("Où voir les SMS Girls en concert en 2026 ?", "Deux dates sont publiées : le samedi 24 octobre 2026 à l’Uptown de Genève, en Suisse, pour la soirée Comportement Tropical x Wah Gwaan, annoncée comme leur première fois en Suisse, et le samedi 7 novembre 2026 en Martinique, pour l’événement Le Chaudron, un showcase exclusif organisé par Carrib’Events et K-Event dans un lieu tenu secret du secteur centre de l’île."),
-  ("Les SMS Girls ont-elles un album ?", "Aucun album des SMS Girls n’est documenté dans les sources consultées pour ce profil. Leur répertoire public vérifié tient en quatre titres nommés : « Desann », « Tu te frottes », « Wet Wet » et « Attrape ton copain ». Si un album ou un EP est publié et vérifié, ce profil sera complété.")
- ],
+  (
+    "Qui sont les SMS Girls ?",
+    "Les SMS Girls sont un duo féminin de bouyon, présenté par l’organisateur de leur soirée genevoise comme « le duo féminin en pleine ascension » qui fait vibrer la scène caribéenne. Leurs titres cités sont « Desann », « Tu te frottes » et « Wet Wet ». Aucune source publiée consultée pour ce profil ne donne les noms des deux membres du duo, et ce site ne les invente pas.",
+  ),
+  (
+    "SMS Girls ou Thesmsgirls : comment s’écrit le nom du duo ?",
+    "Les pages d’événements écrivent SMS Girls, parfois en majuscules, SMS GIRLS, et c’est la graphie que ce site retient. La forme attachée, Thesmsgirls, apparaît dans une liste de sorties 2026 issue du catalogue Beatport, comme crédit du titre « Attrape ton copain ». Les deux graphies désignent le même nom de scène dans les sources consultées : un duo féminin de bouyon programmé en showcase à Genève et en Martinique.",
+  ),
+  (
+    "Quels sont les titres connus des SMS Girls ?",
+    "Trois titres sont nommés par la page de leur concert de Genève : « Desann », « Tu te frottes » et « Wet Wet », présentés comme des titres qui enflamment les dancefloors. Une liste de sorties 2026 du catalogue Beatport ajoute un quatrième titre, « Attrape ton copain », crédité à Thesmsgirls, d’une durée de 1:56. Aucune date de sortie ni aucun producteur n’est publié pour ces titres dans les sources consultées.",
+  ),
+  (
+    "Que veut dire « Desann » dans le titre des SMS Girls ?",
+    "« Desann » est un mot créole, la forme parlée de descendre. C’est aussi le mot que l’affiche de leur showcase martiniquais met en avant, écrit « DÉSSANN’ », comme un ordre lancé à la foule. Ce profil ne connaît pas les paroles du titre et n’en cite aucune ligne, mais le mot fonctionne déjà comme un mot d’ordre que les organisateurs supposent reconnu par le public.",
+  ),
+  (
+    "Que signifie SMS dans SMS Girls ?",
+    "Aucune source publiée consultée pour ce profil n’explique la signification des lettres SMS dans le nom du duo, et ce site ne propose aucune expansion inventée. La seule utilisation publiée de ces lettres est le slogan créole de leur showcase martiniquais : « SMS OU JA SAV SÉ YIN KI SEX, DÉSSANN’ ! », qui joue sur le nom du duo et sur le mot créole desann, descendre, sans développer l’acronyme.",
+  ),
+  (
+    "En quelle langue chantent les SMS Girls ?",
+    "Leurs titres nommés couvrent trois langues : « Desann » en créole, « Tu te frottes » en français et « Wet Wet » en anglais de dancefloor, et « Attrape ton copain » s’ajoute en français. Ce triangle recoupe exactement la circulation du bouyon et du shatta actuels, entre les Antilles françaises, la Caraïbe anglophone et les soirées de la diaspora en Europe. Le terrain du duo est le bouyon de soirée, fait pour danser.",
+  ),
+  (
+    "D’où viennent les SMS Girls ?",
+    "Leur origine n’est pas publiée dans les sources consultées. Ce qui est documenté, c’est leur circuit : des titres en créole, en français et en anglais, un showcase annoncé comme une première en Martinique le 7 novembre 2026, et une première scène en Suisse, à Genève, le 24 octobre 2026. Ce site publie ce circuit vérifié et n’attribue au duo aucune île d’origine non documentée.",
+  ),
+  (
+    "Où voir les SMS Girls en concert en 2026 ?",
+    "Deux dates sont publiées : le samedi 24 octobre 2026 à l’Uptown de Genève, en Suisse, pour la soirée Comportement Tropical x Wah Gwaan, annoncée comme leur première fois en Suisse, et le samedi 7 novembre 2026 en Martinique, pour l’événement Le Chaudron, un showcase exclusif organisé par Carrib’Events et K-Event dans un lieu tenu secret du secteur centre de l’île.",
+  ),
+  (
+    "Qui joue avec les SMS Girls à Genève ?",
+    "À la soirée Comportement Tropical x Wah Gwaan, une soirée shatta, bouyon, dancehall et afro, l’invité international est le DJ et producteur de Guadeloupe DJ Luchshiy, écrit Luchshyi sur l’affiche. Le reste de l’affiche aligne des DJs de la scène suisse caribéenne et afro : GC Sound, actif depuis 2008, Spice&Curls et DJ Herzo, créateur du concept Comportement Tropical. Voir notre profil de <a href=\"/dj-luchshiy.html\">DJ Luchshiy</a>.",
+  ),
+  (
+    "Qu’est-ce que Le Chaudron, le showcase des SMS Girls en Martinique ?",
+    "Le Chaudron est l’événement du samedi 7 novembre 2026, à partir de 20 heures, organisé par Carrib’Events et K-Event dans un grand espace en plein air tenu secret, secteur centre de la Martinique. Quatre DJs y sont annoncés, DJ Natoxie, DJ Kenjox, DJ Jamjam et DJ Will’One, avec un accès interdit aux mineurs. Les SMS Girls y sont la seule attraction chantée nommée, en showcase exclusif.",
+  ),
+  (
+    "Les SMS Girls ont-elles un album ?",
+    "Aucun album des SMS Girls n’est documenté dans les sources consultées pour ce profil. Leur répertoire public vérifié tient en quatre titres nommés : « Desann », « Tu te frottes », « Wet Wet » et « Attrape ton copain », dont le dernier figure dans une liste de sorties 2026. Si un album ou un EP est publié et vérifié, ce profil sera complété et daté.",
+  ),
+  (
+    "Où écouter les SMS Girls ?",
+    "Commencez par les trois titres que l’organisateur genevois a nommés, « Desann », « Tu te frottes » et « Wet Wet », puis « Attrape ton copain », listé parmi les sorties 2026. Pour entendre la scène dans laquelle le duo circule, des nouveautés de la Dominique à celles de la Guadeloupe et de la Martinique, la <a href=\"/playlist-bouyon.html\">playlist Bouyon Road Mix</a> de Bouyon Shattaz suit les sorties du genre.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/thesmsgirls.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/thesmsgirls.html#artist", "name": "SMS Girls", "description": "Duo féminin bouyon en pleine ascension selon leurs organisateurs. Titres nommés : Desann, Tu te frottes, Wet Wet et Attrape ton copain. Première scène en Suisse à Genève le 24 octobre 2026, puis showcase annoncé comme une première en Martinique le 7 novembre 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Desann"}, {"@type": "MusicRecording", "name": "Tu te frottes"}, {"@type": "MusicRecording", "name": "Wet Wet"}, {"@type": "MusicRecording", "name": "Attrape ton copain"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -126,13 +168,55 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who are the SMS Girls?", "The SMS Girls are a female bouyon duo, presented by the organiser of their Geneva party as the rising female duo making the Caribbean scene vibrate. Their named tracks are “Desann”, “Tu te frottes” and “Wet Wet”. No published source consulted for this profile gives the names of the two members of the duo, and this site does not invent them."),
-  ("Which SMS Girls tracks are known?", "Three tracks are named by the page for their Geneva concert: “Desann”, “Tu te frottes” and “Wet Wet”, presented as tracks that set dancefloors alight. A 2026 release list from the Beatport catalogue adds a fourth track, “Attrape ton copain”, credited to Thesmsgirls. No release date and no producer is published for these tracks in the sources consulted."),
-  ("What does SMS stand for in SMS Girls?", "No published source consulted for this profile explains what the letters SMS stand for in the name of the duo, and this site offers no invented expansion. The only published use of those letters is the Creole slogan of their Martinique showcase, “SMS OU JA SAV SÉ YIN KI SEX, DÉSSANN’!”, which plays on the name of the duo and on the Creole word desann, to go down, without spelling out the acronym."),
-  ("Where do the SMS Girls come from?", "Their origin is not published in the sources consulted. What is documented is their circuit: tracks in Creole, French and English, a showcase billed as a first in Martinique on November 7, 2026, and a first stage in Switzerland, in Geneva, on October 24, 2026. This site publishes that verified circuit and attributes no undocumented home island to the duo."),
-  ("Where can the SMS Girls be seen live in 2026?", "Two dates are published: Saturday October 24, 2026, at Uptown Geneva, in Switzerland, for the Comportement Tropical x Wah Gwaan party, billed as their first time in Switzerland, and Saturday November 7, 2026, in Martinique, for the event Le Chaudron, an exclusive showcase organised by Carrib’Events and K-Event in a secret venue in the centre sector of the island."),
-  ("Do the SMS Girls have an album?", "No SMS Girls album is documented in the sources consulted for this profile. Their verified public repertoire holds in four named tracks: “Desann”, “Tu te frottes”, “Wet Wet” and “Attrape ton copain”. If an album or an EP is published and verified, this profile will be completed.")
- ],
+  (
+    "Who are the SMS Girls?",
+    "The SMS Girls are a female bouyon duo, presented by the organiser of their Geneva party as the rising female duo making the Caribbean scene vibrate. Their named tracks are “Desann”, “Tu te frottes” and “Wet Wet”. No published source consulted for this profile gives the names of the two members of the duo, and this site does not invent them.",
+  ),
+  (
+    "SMS Girls or Thesmsgirls: how is the duo’s name spelled?",
+    "The event pages write SMS Girls, sometimes in capitals, SMS GIRLS, and that is the spelling this site keeps. The joined form, Thesmsgirls, appears in a 2026 release list from the Beatport catalogue, as the credit of the track “Attrape ton copain”. Both spellings point to the same stage name in the sources consulted: a female bouyon duo booked for showcases in Geneva and Martinique.",
+  ),
+  (
+    "Which SMS Girls tracks are known?",
+    "Three tracks are named by the page for their Geneva concert: “Desann”, “Tu te frottes” and “Wet Wet”, presented as tracks that set dancefloors alight. A 2026 release list from the Beatport catalogue adds a fourth track, “Attrape ton copain”, credited to Thesmsgirls, with a duration of 1:56. No release date and no producer is published for these tracks in the sources consulted.",
+  ),
+  (
+    "What does “Desann” mean in the SMS Girls track?",
+    "“Desann” is a Creole word, the spoken form of the French descendre, to go down. It is also the word the poster of their Martinique showcase puts forward, written “DÉSSANN’”, like an order thrown at the crowd. This profile does not know the lyrics of the track and quotes no line, but the word already works as a rallying cry the organisers expect the public to recognise.",
+  ),
+  (
+    "What does SMS stand for in SMS Girls?",
+    "No published source consulted for this profile explains what the letters SMS stand for in the name of the duo, and this site offers no invented expansion. The only published use of those letters is the Creole slogan of their Martinique showcase, “SMS OU JA SAV SÉ YIN KI SEX, DÉSSANN’!”, which plays on the name of the duo and on the Creole word desann, to go down, without spelling out the acronym.",
+  ),
+  (
+    "What language do the SMS Girls sing in?",
+    "Their named tracks cover three languages: “Desann” in Creole, “Tu te frottes” in French and “Wet Wet” in dancefloor English, with “Attrape ton copain” adding another French title. That triangle matches the circulation of today’s bouyon and shatta, between the French Antilles, the English speaking Caribbean and the diaspora parties of Europe. The duo’s ground is party bouyon, made for dancing.",
+  ),
+  (
+    "Where do the SMS Girls come from?",
+    "Their origin is not published in the sources consulted. What is documented is their circuit: tracks in Creole, French and English, a showcase billed as a first in Martinique on November 7, 2026, and a first stage in Switzerland, in Geneva, on October 24, 2026. This site publishes that verified circuit and attributes no undocumented home island to the duo.",
+  ),
+  (
+    "Where can the SMS Girls be seen live in 2026?",
+    "Two dates are published: Saturday October 24, 2026, at Uptown Geneva, in Switzerland, for the Comportement Tropical x Wah Gwaan party, billed as their first time in Switzerland, and Saturday November 7, 2026, in Martinique, for the event Le Chaudron, an exclusive showcase organised by Carrib’Events and K-Event in a secret venue in the centre sector of the island.",
+  ),
+  (
+    "Who plays with the SMS Girls in Geneva?",
+    "At the Comportement Tropical x Wah Gwaan party, a shatta, bouyon, dancehall and afro night, the international guest is the Guadeloupe DJ and producer DJ Luchshiy, spelled Luchshyi on the poster. The rest of the bill lines up DJs of the Swiss Caribbean and afro scene: GC Sound, active since 2008, Spice&Curls and DJ Herzo, creator of the Comportement Tropical concept. See our <a href=\"/en/dj-luchshiy.html\">DJ Luchshiy</a> profile.",
+  ),
+  (
+    "What is Le Chaudron, the SMS Girls showcase in Martinique?",
+    "Le Chaudron is the event of Saturday November 7, 2026, from 8 pm, organised by Carrib’Events and K-Event in a large open air space kept secret, in the centre sector of Martinique. Four DJs are announced, DJ Natoxie, DJ Kenjox, DJ Jamjam and DJ Will’One, and minors are not admitted. The SMS Girls are the only named singing act, in an exclusive showcase.",
+  ),
+  (
+    "Do the SMS Girls have an album?",
+    "No SMS Girls album is documented in the sources consulted for this profile. Their verified public repertoire holds four named tracks: “Desann”, “Tu te frottes”, “Wet Wet” and “Attrape ton copain”, the last one appearing in a 2026 release list. If an album or an EP is published and verified, this profile will be completed and dated.",
+  ),
+  (
+    "Where can I hear the SMS Girls?",
+    "Start with the three tracks the Geneva organiser named, “Desann”, “Tu te frottes” and “Wet Wet”, then “Attrape ton copain”, listed among the 2026 releases. To hear the scene the duo moves in, from new music out of Dominica to that of Guadeloupe and Martinique, the <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix playlist</a> by Bouyon Shattaz follows the genre’s releases.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/thesmsgirls.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/thesmsgirls.html#artist", "name": "SMS Girls", "description": "Female bouyon duo billed by their organisers as a rising act. Named tracks: Desann, Tu te frottes, Wet Wet and Attrape ton copain. First show in Switzerland in Geneva on October 24, 2026, then a showcase billed as a first in Martinique on November 7, 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Desann"}, {"@type": "MusicRecording", "name": "Tu te frottes"}, {"@type": "MusicRecording", "name": "Wet Wet"}, {"@type": "MusicRecording", "name": "Attrape ton copain"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

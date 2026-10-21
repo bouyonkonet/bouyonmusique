@@ -50,13 +50,47 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Cross Vibes Band ?", "Cross Vibes Band est un groupe de bouyon de la Dominique connu, dans le dossier public vérifiable, par une seule mention : le calendrier de février du magazine Domnitjen, qui le liste parmi les groupes d’un Bouyon Festival organisé par le Dominica Festivals Committee à Carnival City, Pottersville Savannah. Aucune biographie, liste de membres ou discographie vérifiée du groupe n’a été retrouvée pendant la recherche de ce profil."),
-  ("Quand et où Cross Vibes Band a-t-il joué, selon le dossier ?", "Selon Domnitjen, le groupe figurait à l’affiche d’un Bouyon Festival en plein air à Carnival City, Pottersville Savannah, à Pottersville, avec un début à 21 heures et une entrée à 20 dollars des Caraïbes orientales, une partie des recettes allant au fonds de secours pour le séisme d’Haïti. La page consultée n’imprime pas d’année, et ce site n’en affirme donc aucune."),
-  ("Quels autres groupes partageaient l’affiche avec Cross Vibes Band ?", "La même annonce liste MFR, Triple Kay, les Swinging Stars, Rhythm and Heat et WCK, le groupe fondateur du bouyon. Cross Vibes Band était donc programmé, par le comité officiel des festivals de la Dominique, sur la même scène que les fondateurs du genre et l’un des plus grands groupes de la génération suivante."),
-  ("Quelles chansons de Cross Vibes Band peut-on écouter ?", "Aucune chanson du groupe n’a pu être vérifiée pendant cette recherche : aucune page de plateforme d’écoute, aucun générique officiel et aucun enregistrement archivé portant son nom n’ont été retrouvés et ouverts. Ce profil ne liste donc aucun titre, plutôt que d’en deviner. Pour écouter le bouyon de groupes de la même époque, notre playlist bouyon réunit notamment WCK et Triple Kay, les noms documentés de la même affiche."),
-  ("Cross Vibes Band est-il le même groupe que les actes appelés Cross Vibes ailleurs sur internet ?", "Cela ne peut pas être confirmé, et ce profil est l’un des rares à le dire franchement. Des actes portant des noms identiques ou voisins existent dans d’autres pays, sans aucun lien vérifié avec le groupe dominicain de l’affiche de Pottersville. Faute de source reliant ces homonymes au groupe de bouyon, ce site ne leur attribue ni biographie, ni chansons, ni images du groupe dominicain, et ne fusionne pas les dossiers."),
-  ("Pourquoi ce profil est-il si court par rapport aux autres artistes du site ?", "Parce que le dossier public du groupe est mince, et que ce site publie la longueur que les sources vérifiées permettent, pas davantage. Un seul document indépendant, le calendrier de Domnitjen, nomme le groupe de manière vérifiable. Plutôt que de remplir les blancs par des inventions, ce profil publie ce document en entier, explique ce qu’il prouve et ce qu’il ne prouve pas, et reste ouvert à toute archive, programme ou enregistrement qui permettrait de le compléter avec des sources.")
- ],
+  (
+    "Qui est Cross Vibes Band ?",
+    "Cross Vibes Band est un groupe de bouyon de la Dominique connu, dans le dossier public vérifiable, par une seule mention : le calendrier de février du magazine Domnitjen, qui le liste parmi les groupes d’un Bouyon Festival organisé par le Dominica Festivals Committee à Carnival City, Pottersville Savannah. Aucune biographie, liste de membres ou discographie vérifiée du groupe n’a été retrouvée pendant la recherche de ce profil.",
+  ),
+  (
+    "Quand et où Cross Vibes Band a-t-il joué, selon le dossier ?",
+    "Selon Domnitjen, le groupe figurait à l’affiche d’un Bouyon Festival en plein air à Carnival City, Pottersville Savannah, à Pottersville, avec un début à 21 heures et une entrée à 20 dollars des Caraïbes orientales, une partie des recettes allant au fonds de secours pour le séisme d’Haïti. La page consultée n’imprime pas d’année, et ce site n’en affirme donc aucune.",
+  ),
+  (
+    "Quels autres groupes partageaient l’affiche avec Cross Vibes Band ?",
+    "La même annonce liste MFR, Triple Kay, les Swinging Stars, Rhythm and Heat et WCK, le groupe fondateur du bouyon. Cross Vibes Band était donc programmé, par le comité officiel des festivals de la Dominique, sur la même scène que les fondateurs du genre et l’un des plus grands groupes de la génération suivante.",
+  ),
+  (
+    "Quelles chansons de Cross Vibes Band peut-on écouter ?",
+    "Aucune chanson du groupe n’a pu être vérifiée pendant cette recherche : aucune page de plateforme d’écoute, aucun générique officiel et aucun enregistrement archivé portant son nom n’ont été retrouvés et ouverts. Ce profil ne liste donc aucun titre, plutôt que d’en deviner. Pour écouter le bouyon de groupes de la même époque, notre playlist bouyon réunit notamment WCK et Triple Kay, les noms documentés de la même affiche.",
+  ),
+  (
+    "Cross Vibes Band est-il le même groupe que les actes appelés Cross Vibes ailleurs sur internet ?",
+    "Cela ne peut pas être confirmé, et ce profil est l’un des rares à le dire franchement. Des actes portant des noms identiques ou voisins existent dans d’autres pays, sans aucun lien vérifié avec le groupe dominicain de l’affiche de Pottersville. Faute de source reliant ces homonymes au groupe de bouyon, ce site ne leur attribue ni biographie, ni chansons, ni images du groupe dominicain, et ne fusionne pas les dossiers.",
+  ),
+  (
+    "Pourquoi ce profil est-il si court par rapport aux autres artistes du site ?",
+    "Parce que le dossier public du groupe est mince, et que ce site publie la longueur que les sources vérifiées permettent, pas davantage. Un seul document indépendant, le calendrier de Domnitjen, nomme le groupe de manière vérifiable. Plutôt que de remplir les blancs par des inventions, ce profil publie ce document en entier, explique ce qu’il prouve et ce qu’il ne prouve pas, et reste ouvert à toute archive, programme ou enregistrement qui permettrait de le compléter avec des sources.",
+  ),
+  (
+    "Comment l’affiche du Bouyon Festival définit-elle le bouyon ?",
+    "Le calendrier de Domnitjen, qui annonce le Bouyon Festival où joue Cross Vibes Band, présente le bouyon comme un mélange de zouk, de cadence et de soca sur une base de musique folklorique traditionnelle, créé dans les années 1980. C’est la définition donnée au public du carnaval de l’époque. Le genre est né en Dominique avec WCK, en 1988, comme le raconte notre page <a href=\"/histoire.html\">histoire du bouyon</a>.",
+  ),
+  (
+    "Où se trouve Carnival City, la scène de Cross Vibes Band ?",
+    "Carnival City, c’est Pottersville Savannah, à Pottersville, aux portes de Roseau, la capitale de la Dominique. C’est la scène extérieure historique des grandes nuits du carnaval de Roseau : concours de calypso, couronnement de la reine du carnaval et concerts de festival s’y succèdent dans le même calendrier de février de Domnitjen. Le carnaval de l’île est présenté sur notre page <a href=\"/carnaval-de-dominique.html\">carnaval de la Dominique</a>.",
+  ),
+  (
+    "Qui est Triple Kay, sur la même affiche que Cross Vibes Band ?",
+    "Triple Kay, aujourd’hui TK International, aussi appelé Triple Kay Band, est un groupe bouyon établi de la Dominique, dans la tradition des groupes live qui a suivi WCK, et le groupe qui a ensuite porté le bouyon soca et les grandes scènes du carnaval. Il joue la nuit 1 du World Creole Music Festival, le 23 octobre 2026. Voir notre page <a href=\"/tk-international.html\">TK International</a>.",
+  ),
+  (
+    "À quelle époque du bouyon appartient Cross Vibes Band ?",
+    "À l’époque des groupes. Au moment que décrit l’affiche du Bouyon Festival, le bouyon dominicain est encore une musique de formations complètes, avec section rythmique et claviers ou cuivres, qui se partagent les scènes du carnaval avec WCK, Triple Kay, MFR, les Swinging Stars et Rhythm and Heat. La génération des artistes solo n’a pas encore pris le relais. Ce son est raconté sur notre page <a href=\"/old-school-bouyon.html\">old school bouyon</a>.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/cross-vibes-band.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/cross-vibes-band.html#artist", "name": "Cross Vibes Band", "description": "Groupe de bouyon de la Dominique, documenté par une annonce du Bouyon Festival du Dominica Festivals Committee à Pottersville Savannah, aux côtés de WCK et Triple Kay. Aucun enregistrement vérifié dans le dossier public.", "genre": "Bouyon", "track": [], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -106,13 +140,47 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Cross Vibes Band?", "Cross Vibes Band is a bouyon band from Dominica known, in the verifiable public record, by a single mention: the February calendar of Domnitjen magazine, which lists it among the bands at a Bouyon Festival organized by the Dominica Festivals Committee at Carnival City, Pottersville Savannah. No verified biography, member list or discography of the band was found during the research for this profile."),
-  ("When and where did Cross Vibes Band play, according to the record?", "According to Domnitjen, the band appeared on the bill of an open air Bouyon Festival at Carnival City, Pottersville Savannah, in Pottersville, starting at 9 p.m. with admission at 20 Eastern Caribbean dollars, part of the proceeds going to the Haiti Earthquake Relief Fund. The page consulted does not print a year, so this site states none."),
-  ("Which other bands shared the bill with Cross Vibes Band?", "The same announcement lists MFR, Triple Kay, the Swinging Stars, Rhythm and Heat and WCK, the founding band of bouyon. Cross Vibes Band was therefore programmed, by Dominica official festivals committee, on the same stage as the founders of the genre and one of the biggest bands of the following generation."),
-  ("Which Cross Vibes Band songs can be heard?", "No song by the band could be verified during this research: no streaming platform page, no official credit and no archived recording carrying its name were found and opened. This profile therefore lists no title, rather than guessing one. To hear band era bouyon from the same era, our bouyon playlist gathers in particular WCK and Triple Kay, the documented names from the same bill."),
-  ("Is Cross Vibes Band the same act as the Cross Vibes names found elsewhere online?", "That cannot be confirmed, and this profile is one of the few to say so plainly. Acts carrying identical or neighbouring names exist in other countries, with no verified link to the Dominican band on the Pottersville bill. With no source connecting those namesakes to the bouyon band, this site attributes neither their biography, their songs nor their images to the Dominican band, and does not merge the records."),
-  ("Why is this profile so much shorter than the other artists on this site?", "Because the band public record is thin, and this site publishes the length that verified sources allow, no more. A single independent document, the Domnitjen calendar, names the band in a verifiable way. Rather than filling the blanks with invention, this profile publishes that document in full, explains what it proves and what it does not prove, and stays open to any archive, programme or recording that could complete it with sources.")
- ],
+  (
+    "Who is Cross Vibes Band?",
+    "Cross Vibes Band is a bouyon band from Dominica known, in the verifiable public record, by a single mention: the February calendar of Domnitjen magazine, which lists it among the bands at a Bouyon Festival organized by the Dominica Festivals Committee at Carnival City, Pottersville Savannah. No verified biography, member list or discography of the band was found during the research for this profile.",
+  ),
+  (
+    "When and where did Cross Vibes Band play, according to the record?",
+    "According to Domnitjen, the band appeared on the bill of an open air Bouyon Festival at Carnival City, Pottersville Savannah, in Pottersville, starting at 9 p.m. with admission at 20 Eastern Caribbean dollars, part of the proceeds going to the Haiti Earthquake Relief Fund. The page consulted does not print a year, so this site states none.",
+  ),
+  (
+    "Which other bands shared the bill with Cross Vibes Band?",
+    "The same announcement lists MFR, Triple Kay, the Swinging Stars, Rhythm and Heat and WCK, the founding band of bouyon. Cross Vibes Band was therefore programmed, by Dominica official festivals committee, on the same stage as the founders of the genre and one of the biggest bands of the following generation.",
+  ),
+  (
+    "Which Cross Vibes Band songs can be heard?",
+    "No song by the band could be verified during this research: no streaming platform page, no official credit and no archived recording carrying its name were found and opened. This profile therefore lists no title, rather than guessing one. To hear band era bouyon from the same era, our bouyon playlist gathers in particular WCK and Triple Kay, the documented names from the same bill.",
+  ),
+  (
+    "Is Cross Vibes Band the same act as the Cross Vibes names found elsewhere online?",
+    "That cannot be confirmed, and this profile is one of the few to say so plainly. Acts carrying identical or neighbouring names exist in other countries, with no verified link to the Dominican band on the Pottersville bill. With no source connecting those namesakes to the bouyon band, this site attributes neither their biography, their songs nor their images to the Dominican band, and does not merge the records.",
+  ),
+  (
+    "Why is this profile so much shorter than the other artists on this site?",
+    "Because the band public record is thin, and this site publishes the length that verified sources allow, no more. A single independent document, the Domnitjen calendar, names the band in a verifiable way. Rather than filling the blanks with invention, this profile publishes that document in full, explains what it proves and what it does not prove, and stays open to any archive, programme or recording that could complete it with sources.",
+  ),
+  (
+    "How does the Bouyon Festival listing define bouyon?",
+    "The Domnitjen calendar, which announces the Bouyon Festival where Cross Vibes Band plays, presents bouyon as a mix of zouk, cadence and soca over a traditional folk music base, created in the 1980s. That is the definition given to the carnival audience of the time. The genre was born in Dominica with WCK, in 1988, as told on our <a href=\"/en/history.html\">bouyon history</a> page.",
+  ),
+  (
+    "Where is Carnival City, the stage Cross Vibes Band played?",
+    "Carnival City is Pottersville Savannah, in Pottersville, at the edge of Roseau, the capital of Dominica. It is the historic outdoor stage of Roseau’s big carnival nights: calypso contests, the carnival queen coronation and festival concerts follow one another in the same Domnitjen February calendar. The island’s carnival is presented on our <a href=\"/en/dominica-carnival.html\">Dominica carnival</a> page.",
+  ),
+  (
+    "Who is Triple Kay, on the same bill as Cross Vibes Band?",
+    "Triple Kay, now TK International, also called Triple Kay Band, is an established bouyon band from Dominica, in the live band tradition that followed WCK, and the band that later carried bouyon soca and the big carnival stages. It plays night 1 of the World Creole Music Festival on 23 October 2026. See our <a href=\"/en/tk-international.html\">TK International</a> page.",
+  ),
+  (
+    "Which era of bouyon does Cross Vibes Band belong to?",
+    "The band era. At the time described by the Bouyon Festival listing, Dominica bouyon is still the music of full bands, with rhythm sections and keyboards or horns, sharing carnival stages with WCK, Triple Kay, MFR, the Swinging Stars and Rhythm and Heat. The generation of solo artists has not yet taken over. That sound is told on our <a href=\"/en/old-school-bouyon.html\">old school bouyon</a> page.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/cross-vibes-band.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/cross-vibes-band.html#artist", "name": "Cross Vibes Band", "description": "Bouyon band from Dominica, documented by a Dominica Festivals Committee Bouyon Festival announcement at Pottersville Savannah, alongside WCK and Triple Kay. No verified recording in the public record.", "genre": "Bouyon", "track": [], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

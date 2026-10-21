@@ -107,6 +107,42 @@ PAGES = [
   (
     "Where can I hear the sounds of a bouyon kit in real tracks?",
     "In the Bouyon Road Mix by Bouyon Shattaz, on Spotify and YouTube, which brings together the riddims of the moment, bouyon soca and carnival classics, from the WCK era to the anthems of the 1990s and 2000s. To get it by direct message, follow @bouyonshattaz on Instagram and comment ROAD MIX. Both players are embedded on the <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> page.",
+  ),
+  (
+    "What is the lapo kabwit?",
+    "The lapo kabwit is the goat-skin drum of chanté mas and Dominica carnival: at <a href=\"/en/mas-domnik.html\">Mas Domnik</a>, whole bands play in lapo kabwit, and in the jing ping line-up these drums give the beat. That is why it fills the first slot of a bouyon kit, sampled or used as the model for the percussion loops of today's software productions.",
+  ),
+  (
+    "Which jing ping sounds belong in a bouyon kit?",
+    "Three <a href=\"/en/jing-ping.html\">jing ping</a> sounds complete the kit without being percussion: the accordion, which leads the dance, the boom-boom, which marks the bass, and the bamboo flute, which brings the high melody running through the party. The keyboard and the synth bass extend them, hence their place as samples or references. Cornell Phillip told Billboard that the accordion turned into bouyon's keyboard.",
+  ),
+  (
+    "How should I organize a bouyon drum kit?",
+    "Follow the Goodwill translation: a tradition folder for the lapo kabwit, the bele drum, the chakchak, the syak or gwaj and the chanté mas strikes; a drums folder, heir of the syak and tambal; a bass folder, heir of the boumboum; a keyboard folder, heir of the accordion, with the bamboo flute; a voices folder for shouts, responses and Creole. Name every file by instrument, tempo and source.",
+  ),
+  (
+    "Can I sample other producers' bouyon riddims?",
+    "Listening is free, chopping is not: a riddim belongs to its producer. In the agreement reached in October 2026 between Bouyon Shattaz and <a href=\"/en/denmath.html\">Denmath</a>'s team, pool members may record freely on a beat, but any public release needs the producer's prior written OK. For a kit: study other people's instrumentals, sample only what you have the right to sample and note the source of every file.",
+  ),
+  (
+    "Is sampling part of bouyon?",
+    "Yes. <a href=\"/en/wrecketeng.html\">Wrecketeng</a>, the Dominican style built on sampled melodies and rap vocals, made sampling one of bouyon's grammars, and today's producers cite it as a root of modern bouyon and RnBouyon. Smokiller, a Dominican-born producer and the founder of Bouyon Shattaz, works in that style: his remixes take familiar melodies and voices and re-dress them at bouyon tempo.",
+  ),
+  (
+    "Reketeng or Wrecketeng: which is the right spelling?",
+    "Wrecketeng is the official spelling, given by <a href=\"/en/dj-cut.html\">DJ Cut</a>, the founding member and pioneer of the style; reketeng is a widespread internet misspelling. Spelling matters in a kit too: writing an instrument or style name correctly, lapo kabwit rather than perc 3, keeps the origin of a sound attached to the file when it travels from one producer to another.",
+  ),
+  (
+    "Why does the keyboard matter so much in a bouyon kit?",
+    "Because bouyon is music where the keyboard leads, as the nickname of Cornell “Fingers” Phillip, the founding keyboardist of <a href=\"/en/wck.html\">WCK</a>, reminds us. The keyboard sounds carry the main loop, heirs of the jing ping accordion. To hear that lead, start with WCK's milestones, Culture Shock, Dance Floor, Conch Shell and Balance Batty, then listen for the same role in today's riddims.",
+  ),
+  (
+    "Why put crowd vocals in a bouyon kit?",
+    "Because a bouyon track is recognized by a voice, in Creole or in English, that talks to the crowd more than it sings. Beats recreate that crowd with background vocals, shouts and responses, inherited from old school singers who worked the crowd like in chanté mas. A shout in the right language places a beat as surely as a lapo kabwit. See <a href=\"/en/bouyon-type-beat.html\">bouyon type beat</a>.",
+  ),
+  (
+    "What file format should bouyon kit sounds be in?",
+    "WAV, the format of DJs and radios. <a href=\"/en/smokiller.html\">Smokiller</a> offers free downloads on smokiller.com, including his Coi Leray Nothing Into Something remix and his Shenseea Vulnerability Bouyon Shattaz remix in WAV, and Bouyon Shattaz rotation packs go out to Caribbean stations. For a kit, the lesson is the same: clean files, with the tempo, the source and the credit in the file name.",
   )
 ],
 "date_modified": "2026-10-20",
@@ -329,6 +365,34 @@ PAGES = [
   (
     "Where can you hear bouyon beats for inspiration?",
     "To learn how to make a bouyon beat, listen first to the Bouyon Shattaz Bouyon Road Mix, on Spotify and YouTube: it brings together the riddims of the moment and the carnival classics. The playlist page also recommends two producer tracks, Klass Money's Throw Dat (Bouyon 2026), produced by Smokiller, and HYPNO's Mauvais Plan. See the <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>.",
+  ),
+  (
+    "What is the difference between a bouyon beat and a dancehall beat?",
+    "A bouyon beat is not a sped-up dancehall beat. It rebuilds the mechanics of a Dominican carnival band: a percussion grid drawn from lapo kabwit and jing ping, a keyboard loop that never lets go, a heavy and simple bass and room for the crowd. Speed alone does not make bouyon: without the percussion and the spirit of Dominica, it is only a fast beat.",
+  ),
+  (
+    "How long should a bouyon track be?",
+    "It depends on the ground. For the road, at Mas Domnik and J’ouvert, the arrangement favours continuity: little intro, a main loop that arrives early and an energy that almost never drops. For the dancefloor and social media, formats are shorter: <a href=\"/en/billy-bybf.html\">Billy Bybf</a>’s album DI YO SA 2 lines up tracks between a minute and a half and under three minutes, the norm of 2020s bouyon gwada.",
+  ),
+  (
+    "How do you test a bouyon beat?",
+    "Dance to it, or watch someone dance: if the body does not follow, the beat is not finished. On October 16, 2026, MB On The Track posted a reel of himself dancing in a bus shelter to his own bouyon instrumental, and the comments asked for the track. Also check that the build-ups make people jump and that the calls get an answer. See <a href=\"/en/bouyon-dance.html\">bouyon dance</a>.",
+  ),
+  (
+    "How do you arrange a bouyon beat for carnival?",
+    "For the road, keep the intro short, bring the main loop in early, follow the carnival model with regular build-ups and leave the voice room for calls and responses. The stakes are competitive: Triple Kay presents Heat as the first People’s Bouyon Road March, in 2019, and CaribMagPlus reported in March 2025 the victory of RAGS at Dominica’s first Bouyon Road March. See <a href=\"/en/dominica-carnival.html\">Dominica carnival</a>.",
+  ),
+  (
+    "Who makes the beats in a bouyon band?",
+    "Often the keyboardist. In Triple Kay, one of Dominica’s most enduring bouyon bands, the lead keyboardist, <a href=\"/en/killa-laurent.html\">Killa Laurent</a>, produces all of the band’s music, and he is credited as riddim producer on Whistle While You Work, where mixing and mastering are signed by Cornel Phillip. In the duo Dcamp & Lewismelo, Lewis produces the riddims, built with the voices rather than bought from outside.",
+  ),
+  (
+    "Can I release a song on another producer's bouyon riddim?",
+    "Only with the producer’s written approval. The pool agreement proposed by Bouyon Shattaz and approved by Denmath’s management offers a simple model: ownership of the beat stays with the producer, pool members record freely, but any public release requires the producer’s prior written approval. Settle the rights in writing before any release, and write every name properly in the credits. See <a href=\"/en/producers-and-passers.html\">producers and passers</a>.",
+  ),
+  (
+    "How do bouyon producers share their beats online?",
+    "Often in public, before the release. <a href=\"/en/prod-bysavion.html\">Savion</a> posts snippets, a few seconds of unreleased material, and the comments steer what comes next: a full track, a rework or the shelf. HYPNO shows his tempo in the reel itself, mauvais plan 160bpm, and MB On The Track titles his beats like “Cigarettes” Bouyon Instrumental 2026 (Prod By MB On The Track), with genre, year and credit.",
   )
 ],
 "extra_graph": [

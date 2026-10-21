@@ -78,13 +78,59 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Kai Du M ?", "Un rappeur français de drill, classé hip hop contemporain par Viberate et Hip-Hop/Rap par Shazam. Ses propres métadonnées de clip l’associent à Grigny et à la Grande Borne, en Essonne. Il est documenté de 2021 à 2023 par la série Freestyle GB, un album, « SHOOTER CLAN », et des featurings. Aucune source consultée ne donne son vrai nom, son âge ou une biographie."),
-  ("Quel est l’album de Kai Du M ?", "« SHOOTER CLAN », paru en 2022 chez 100 Fidjo INC et distribué par Epic Records France selon la fiche YouTube de « Violence urbaine ». Deezer y compte treize titres pour trente neuf minutes, dont « Ça débite » avec SDM, « BS » avec MALTY 2BZ, « Bedo » avec Theodorepourdevrai et « Violence urbaine » avec Kossdar, Rosdagang et Murs OG."),
-  ("Quel est le lien entre Kai Du M et Dj Blax ?", "Un lien de crédits, vérifié sur les plateformes. Blax est crédité compositeur de « Freestyle GB 2 » sur Shazam et de « SC » sur Deezer. Dj Blax est crédité compositeur de trois titres de « SHOOTER CLAN » sur Deezer : « Acteur », « Maudit » et « Violence urbaine », ce dernier confirmé par la fiche YouTube du titre. Aucune source consultée ne dit si Blax et Dj Blax sont une seule et même personne."),
-  ("Que signifie GB dans Freestyle GB ?", "Les sources ne le définissent pas noir sur blanc. La lecture retenue par ce profil s’appuie sur la description du clip « FREESTYLE GB #2 », publiée par l’artiste, dont les mots clés associent le titre à Grigny et à La Grande Borne, la cité de Grigny : GB y est lu comme les initiales de la Grande Borne. La série est attestée aux numéros 2, en mai 2021 chez 100 Fidjo INC, et 4, en juin 2023 chez Hazi.Corp."),
-  ("Avec quels rappeurs Kai Du M a-t-il collaboré ?", "Sur son album : SDM, MALTY 2BZ, Theodorepourdevrai, Kossdar, Rosdagang et Murs OG. En invité : Blasko sur « Addition » en 2023, Jeune OG, DJ MS et Mr Dillinger sur « Ça Bosse » en 2023, Le Rain-T sur « Rain-T » en 2023. Viberate cite aussi « Charge » avec Alkpote et « Valar Morghulis » avec Ol’ Kainry, Alkpote et A2H, ainsi que « C’est Nous » avec Rosdagang parmi ses titres les plus populaires."),
-  ("Kai Du M est-il un artiste bouyon ?", "Non, et ce profil le dit clairement. Kai Du M est un rappeur drill de l’Essonne, sans aucun titre bouyon ou shatta documenté. Il figure sur ce site parce que ses crédits croisent ceux de Dj Blax, compositeur suivi par ce site dans les catalogues bouyon et shatta : c’est un lien de générique entre scènes francophones, pas une parenté de style.")
- ],
+  (
+    "Qui est Kai Du M ?",
+    "Un rappeur français de drill, classé hip hop contemporain par Viberate et Hip-Hop/Rap par Shazam. Ses propres métadonnées de clip l’associent à Grigny et à la Grande Borne, en Essonne. Il est documenté de 2021 à 2023 par la série Freestyle GB, un album, « SHOOTER CLAN », et des featurings. Aucune source consultée ne donne son vrai nom, son âge ou une biographie.",
+  ),
+  (
+    "Quel est l’album de Kai Du M ?",
+    "« SHOOTER CLAN », paru en 2022 chez 100 Fidjo INC et distribué par Epic Records France selon la fiche YouTube de « Violence urbaine ». Deezer y compte treize titres pour trente neuf minutes, dont « Ça débite » avec SDM, « BS » avec MALTY 2BZ, « Bedo » avec Theodorepourdevrai et « Violence urbaine » avec Kossdar, Rosdagang et Murs OG.",
+  ),
+  (
+    "Quel est le lien entre Kai Du M et Dj Blax ?",
+    "Un lien de crédits, vérifié sur les plateformes. Blax est crédité compositeur de « Freestyle GB 2 » sur Shazam et de « SC » sur Deezer. Dj Blax est crédité compositeur de trois titres de « SHOOTER CLAN » sur Deezer : « Acteur », « Maudit » et « Violence urbaine », ce dernier confirmé par la fiche YouTube du titre. Aucune source consultée ne dit si Blax et Dj Blax sont une seule et même personne. Voir <a href=\"/dj-blax.html\">Dj Blax</a>.",
+  ),
+  (
+    "Que signifie GB dans Freestyle GB ?",
+    "Les sources ne le définissent pas noir sur blanc. La lecture retenue par ce profil s’appuie sur la description du clip « FREESTYLE GB #2 », publiée par l’artiste, dont les mots clés associent le titre à Grigny et à La Grande Borne, la cité de Grigny : GB y est lu comme les initiales de la Grande Borne. La série est attestée aux numéros 2, en mai 2021 chez 100 Fidjo INC, et 4, en juin 2023 chez Hazi.Corp.",
+  ),
+  (
+    "Avec quels rappeurs Kai Du M a-t-il collaboré ?",
+    "Sur son album : SDM, MALTY 2BZ, Theodorepourdevrai, Kossdar, Rosdagang et Murs OG. En invité : Blasko sur « Addition » en 2023, Jeune OG, DJ MS et Mr Dillinger sur « Ça Bosse » en 2023, Le Rain-T sur « Rain-T » en 2023. Viberate cite aussi « Charge » avec Alkpote et « Valar Morghulis » avec Ol’ Kainry, Alkpote et A2H, ainsi que « C’est Nous » avec Rosdagang parmi ses titres les plus populaires.",
+  ),
+  (
+    "Kai Du M est-il un artiste bouyon ?",
+    "Non, et ce profil le dit clairement. Kai Du M est un rappeur drill de l’Essonne, sans aucun titre bouyon ou shatta documenté. Il figure sur ce site parce que ses crédits croisent ceux de Dj Blax, compositeur suivi par ce site dans les catalogues bouyon et shatta : c’est un lien de générique entre scènes francophones, pas une parenté de style.",
+  ),
+  (
+    "D’où vient Kai Du M ?",
+    "De Grigny, en Essonne, selon ses propres métadonnées : la description de son clip « FREESTYLE GB #2 », publiée en 2021, porte les mots clés Grigny et La Grande Borne, la cité dont les initiales donnent son nom à la série Freestyle GB. C’est une lecture appuyée sur un document publié par l’artiste, pas une biographie : aucune source ne donne sa ville de naissance.",
+  ),
+  (
+    "Qui a produit l’album « SHOOTER CLAN » de Kai Du M ?",
+    "Deux piliers selon Deezer. AC Beats, producteur maison, signe « Shooter Clan », « Batman », « Chez toi », « Bénéfice » et « Toc Toc / Mapess », ce dernier avec So Eazy. Dj Blax signe « Acteur », « Maudit » et « Violence urbaine ». Le reste revient à Cage Got That Cold, Flem, LS Beats et SA Beats, et Exi. L’album sort chez 100 Fidjo INC, distribué par Epic Records France.",
+  ),
+  (
+    "Qui a produit « Freestyle GB 2 » de Kai Du M ?",
+    "Shazam crédite Blax à la composition, Kai Du M aux paroles et Hoby Studio au mixage et au mastering. Le clip, réalisé par Kuss pour Le Hazi films, crédite de son côté la réalisation musicale et l’arrangement à Z.E et le mixage à Mathis, avec 100FIDJO Inc en producteur exécutif. Sorti le 30 mai 2021, à 146 BPM, c’est son titre le plus identifié sur Shazam.",
+  ),
+  (
+    "Qu’est-ce que « Violence urbaine » de Kai Du M ?",
+    "Le titre de clôture de « SHOOTER CLAN », sorti le 10 juin 2022 selon sa fiche YouTube. Kai Du M y réunit Kossdar, Rosdagang et Murs OG, crédités comme interprètes et paroliers. DJ Blax en signe la composition, Sur Neptune le mixage et le mastering, et Mathis Potter l’enregistrement. C’est le titre le mieux documenté de l’album.",
+  ),
+  (
+    "Qu’est-ce que « Rain-T » de Kai Du M et Le Rain-T ?",
+    "Un single de 2023 sorti en numérique chez Universal selon AllMusic, d’une durée de 2 minutes 45, où Kai Du M et Le Rain-T sont artistes principaux. Les compositeurs et producteurs sont ALF4 et AC Beats, le producteur maison de « SHOOTER CLAN » : la fidélité d’atelier se prolonge donc au-delà de l’album.",
+  ),
+  (
+    "Quels sont les titres les plus populaires de Kai Du M ?",
+    "Viberate place en tête « C’est Nous » avec Rosdagang, puis « GTA #23 », « Charge », « Freestyle GB 2 », « Intro », « Batman », « SC », « Fumer », « Glock » et « Tupac ». Sur Shazam, « Freestyle GB 2 » mène avec environ 1 500 identifications, devant « Addition » avec Blasko, environ 780. Ce sont des compteurs de scène locale, sans classement ni certification documentés.",
+  ),
+  (
+    "Sur quel label Kai Du M sort-il ses titres ?",
+    "Son premier label est 100 Fidjo INC, écrit 100FIDJO dans ses descriptions, producteur exécutif de son clip de 2021 et éditeur de « SHOOTER CLAN », distribué par Epic Records France, une division de Sony Music Entertainment France. En 2023, « Freestyle GB#4 » sort chez Hazi.Corp, dont le nom fait écho à Le Hazi films, la société qui a produit son clip de 2021.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/kai-du-m.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/kai-du-m.html#artist", "name": "Kai Du M", "description": "Rappeur français de drill, associé par ses propres métadonnées à Grigny et à la Grande Borne. Catalogue documenté de 2021 à 2023 : la série Freestyle GB, le single SC et l’album SHOOTER CLAN (2022, 100 Fidjo INC, distribué par Epic Records France). Le compositeur Blax est crédité sur Freestyle GB 2 et SC, et Dj Blax sur trois titres de l’album, Acteur, Maudit et Violence urbaine. Aucun vrai nom ni biographie dans les sources publiques.", "genre": "Drill / Hip-Hop", "track": [{"@type": "MusicRecording", "name": 'Violence urbaine'}, {"@type": "MusicRecording", "name": 'Acteur'}, {"@type": "MusicRecording", "name": 'Maudit'}, {"@type": "MusicRecording", "name": 'Ça débite'}, {"@type": "MusicRecording", "name": 'Batman'}, {"@type": "MusicRecording", "name": 'Shooter Clan'}, {"@type": "MusicRecording", "name": 'SC'}, {"@type": "MusicRecording", "name": 'Freestyle GB 2'}, {"@type": "MusicRecording", "name": 'Freestyle GB#4'}, {"@type": "MusicRecording", "name": 'C’est Nous'}, {"@type": "MusicRecording", "name": 'GTA #23'}, {"@type": "MusicRecording", "name": 'Charge'}, {"@type": "MusicRecording", "name": 'Ça Bosse'}, {"@type": "MusicRecording", "name": 'Addition'}, {"@type": "MusicRecording", "name": 'Rain-T'}, {"@type": "MusicRecording", "name": '402'}], "sameAs": ["https://www.viberate.com/artist/kai-du-m/"]}}],
  "date_modified": "2026-10-20"
 }
@@ -155,13 +201,59 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Kai Du M?", "A French drill rapper, filed as contemporary hip hop by Viberate and Hip-Hop/Rap by Shazam. His own video metadata ties him to Grigny and La Grande Borne, in Essonne. He is documented from 2021 to 2023 by the Freestyle GB series, one album, “SHOOTER CLAN”, and a run of features. No source consulted gives his real name, his age or a biography."),
-  ("What is the Kai Du M album?", "“SHOOTER CLAN”, released in 2022 on 100 Fidjo INC and distributed by Epic Records France according to the YouTube page of “Violence urbaine”. Deezer counts thirteen tracks for thirty nine minutes, including “Ça débite” with SDM, “BS” with MALTY 2BZ, “Bedo” with Theodorepourdevrai and “Violence urbaine” with Kossdar, Rosdagang and Murs OG."),
-  ("What is the link between Kai Du M and Dj Blax?", "A credits link, verified on the platforms. Blax is credited as composer of “Freestyle GB 2” on Shazam and of “SC” on Deezer. Dj Blax is credited as composer of three “SHOOTER CLAN” tracks on Deezer: “Acteur”, “Maudit” and “Violence urbaine”, the last one confirmed by the track YouTube page. No source consulted says whether Blax and Dj Blax are one and the same person."),
-  ("What does GB mean in Freestyle GB?", "The sources do not define it in so many words. The reading kept by this profile rests on the description of the “FREESTYLE GB #2” video, published by the artist, whose keywords tie the record to Grigny and La Grande Borne, the Grigny estate: GB is read there as the initials of La Grande Borne. The series is attested at number 2, in May 2021 on 100 Fidjo INC, and number 4, in June 2023 on Hazi.Corp."),
-  ("Which rappers has Kai Du M worked with?", "On his album: SDM, MALTY 2BZ, Theodorepourdevrai, Kossdar, Rosdagang and Murs OG. As a guest: Blasko on “Addition” in 2023, Jeune OG, DJ MS and Mr Dillinger on “Ça Bosse” in 2023, Le Rain-T on “Rain-T” in 2023. Viberate also cites “Charge” with Alkpote and “Valar Morghulis” with Ol’ Kainry, Alkpote and A2H, plus “C’est Nous” with Rosdagang among his most popular songs."),
-  ("Is Kai Du M a bouyon artist?", "No, and this profile says so plainly. Kai Du M is a drill rapper from Essonne, with no documented bouyon or shatta record. He appears on this site because his credits cross those of Dj Blax, a composer this site follows across bouyon and shatta catalogs: it is a credits link between French speaking scenes, not a kinship of style.")
- ],
+  (
+    "Who is Kai Du M?",
+    "A French drill rapper, filed as contemporary hip hop by Viberate and Hip-Hop/Rap by Shazam. His own video metadata ties him to Grigny and La Grande Borne, in Essonne. He is documented from 2021 to 2023 by the Freestyle GB series, one album, “SHOOTER CLAN”, and a run of features. No source consulted gives his real name, his age or a biography.",
+  ),
+  (
+    "What is the Kai Du M album?",
+    "“SHOOTER CLAN”, released in 2022 on 100 Fidjo INC and distributed by Epic Records France according to the YouTube page of “Violence urbaine”. Deezer counts thirteen tracks for thirty nine minutes, including “Ça débite” with SDM, “BS” with MALTY 2BZ, “Bedo” with Theodorepourdevrai and “Violence urbaine” with Kossdar, Rosdagang and Murs OG.",
+  ),
+  (
+    "What is the link between Kai Du M and Dj Blax?",
+    "A credits link, verified on the platforms. Blax is credited as composer of “Freestyle GB 2” on Shazam and of “SC” on Deezer. Dj Blax is credited as composer of three “SHOOTER CLAN” tracks on Deezer: “Acteur”, “Maudit” and “Violence urbaine”, the last one confirmed by the track YouTube page. No source consulted says whether Blax and Dj Blax are one and the same person. See <a href=\"/en/dj-blax.html\">Dj Blax</a>.",
+  ),
+  (
+    "What does GB mean in Freestyle GB?",
+    "The sources do not define it in so many words. The reading kept by this profile rests on the description of the “FREESTYLE GB #2” video, published by the artist, whose keywords tie the record to Grigny and La Grande Borne, the Grigny estate: GB is read there as the initials of La Grande Borne. The series is attested at number 2, in May 2021 on 100 Fidjo INC, and number 4, in June 2023 on Hazi.Corp.",
+  ),
+  (
+    "Which rappers has Kai Du M worked with?",
+    "On his album: SDM, MALTY 2BZ, Theodorepourdevrai, Kossdar, Rosdagang and Murs OG. As a guest: Blasko on “Addition” in 2023, Jeune OG, DJ MS and Mr Dillinger on “Ça Bosse” in 2023, Le Rain-T on “Rain-T” in 2023. Viberate also cites “Charge” with Alkpote and “Valar Morghulis” with Ol’ Kainry, Alkpote and A2H, plus “C’est Nous” with Rosdagang among his most popular songs.",
+  ),
+  (
+    "Is Kai Du M a bouyon artist?",
+    "No, and this profile says so plainly. Kai Du M is a drill rapper from Essonne, with no documented bouyon or shatta record. He appears on this site because his credits cross those of Dj Blax, a composer this site follows across bouyon and shatta catalogs: it is a credits link between French speaking scenes, not a kinship of style.",
+  ),
+  (
+    "Where is Kai Du M from?",
+    "Grigny, in Essonne, according to his own metadata: the description of his “FREESTYLE GB #2” video, published in 2021, carries the keywords Grigny and La Grande Borne, the estate whose initials name the Freestyle GB series. It is a reading backed by a document the artist published, not a biography: no source gives his birthplace.",
+  ),
+  (
+    "Who produced Kai Du M's album “SHOOTER CLAN”?",
+    "Two pillars according to Deezer. AC Beats, the house producer, signs “Shooter Clan”, “Batman”, “Chez toi”, “Bénéfice” and “Toc Toc / Mapess”, the last with So Eazy. Dj Blax signs “Acteur”, “Maudit” and “Violence urbaine”. The rest goes to Cage Got That Cold, Flem, LS Beats and SA Beats, and Exi. The album came out on 100 Fidjo INC, distributed by Epic Records France.",
+  ),
+  (
+    "Who produced “Freestyle GB 2” by Kai Du M?",
+    "Shazam credits Blax on composition, Kai Du M on lyrics and Hoby Studio on mixing and mastering. The video, directed by Kuss for Le Hazi films, credits musical realization and arrangement to Z.E and mixing to Mathis, with 100FIDJO Inc as executive producer. Released on May 30, 2021, at 146 BPM, it is his most identified record on Shazam.",
+  ),
+  (
+    "What is “Violence urbaine” by Kai Du M?",
+    "The closing track of “SHOOTER CLAN”, released on June 10, 2022 according to its YouTube page. Kai Du M brings together Kossdar, Rosdagang and Murs OG on it, credited as performers and lyricists. DJ Blax signs the composition, Sur Neptune the mixing and mastering, and Mathis Potter the recording. It is the best documented record on the album.",
+  ),
+  (
+    "What is “Rain-T” by Kai Du M and Le Rain-T?",
+    "A 2023 single released digitally on Universal according to AllMusic, running 2 minutes 45, where Kai Du M and Le Rain-T are primary artists. Its composers and producers are ALF4 and AC Beats, the house producer of “SHOOTER CLAN”: the workshop loyalty therefore runs beyond the album.",
+  ),
+  (
+    "What are Kai Du M's most popular songs?",
+    "Viberate puts “C’est Nous” with Rosdagang first, then “GTA #23”, “Charge”, “Freestyle GB 2”, “Intro”, “Batman”, “SC”, “Fumer”, “Glock” and “Tupac”. On Shazam, “Freestyle GB 2” leads with about 1,500 identifications, ahead of “Addition” with Blasko, about 780. Those are local scene counters, with no documented chart placing or certification.",
+  ),
+  (
+    "Which label does Kai Du M release on?",
+    "His first label is 100 Fidjo INC, written 100FIDJO in his descriptions, executive producer of his 2021 video and publisher of “SHOOTER CLAN”, distributed by Epic Records France, a division of Sony Music Entertainment France. In 2023, “Freestyle GB#4” came out on Hazi.Corp, whose name echoes Le Hazi films, the company that produced his 2021 video.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/kai-du-m.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/kai-du-m.html#artist", "name": "Kai Du M", "description": "French drill rapper, tied by his own metadata to Grigny and La Grande Borne. Catalog documented from 2021 to 2023: the Freestyle GB series, the single SC and the album SHOOTER CLAN (2022, 100 Fidjo INC, distributed by Epic Records France). The composer Blax is credited on Freestyle GB 2 and SC, and Dj Blax on three album tracks, Acteur, Maudit and Violence urbaine. No real name or biography in public sources.", "genre": "Drill / Hip-Hop", "track": [{"@type": "MusicRecording", "name": 'Violence urbaine'}, {"@type": "MusicRecording", "name": 'Acteur'}, {"@type": "MusicRecording", "name": 'Maudit'}, {"@type": "MusicRecording", "name": 'Ça débite'}, {"@type": "MusicRecording", "name": 'Batman'}, {"@type": "MusicRecording", "name": 'Shooter Clan'}, {"@type": "MusicRecording", "name": 'SC'}, {"@type": "MusicRecording", "name": 'Freestyle GB 2'}, {"@type": "MusicRecording", "name": 'Freestyle GB#4'}, {"@type": "MusicRecording", "name": 'C’est Nous'}, {"@type": "MusicRecording", "name": 'GTA #23'}, {"@type": "MusicRecording", "name": 'Charge'}, {"@type": "MusicRecording", "name": 'Ça Bosse'}, {"@type": "MusicRecording", "name": 'Addition'}, {"@type": "MusicRecording", "name": 'Rain-T'}, {"@type": "MusicRecording", "name": '402'}], "sameAs": ["https://www.viberate.com/artist/kai-du-m/"]}}],
  "date_modified": "2026-10-20"
 }

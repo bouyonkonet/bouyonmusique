@@ -73,13 +73,55 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Leyou ?", "Leyou est une voix invitée du bouyon guadeloupéen, documentée par un seul titre vérifié : « VIN TCHEK NOU », le troisième titre de l’album « Premières Notes » de Lewismelo, où il est crédité en featuring avec Le Bluff et Tedla. Aucune biographie publique ne documente son nom civil ou son parcours, et ce profil le dit ouvertement."),
-  ("Sur quel album Leyou apparaît-il ?", "Sur « Premières Notes » de Lewismelo, dont la liste des titres publiée par Deezer le crédite sur le troisième titre, « VIN TCHEK NOU », d’une durée de 3 minutes 17. L’album réunit aussi Admiral T et Shanika, Dcamp et KEKS MAFIA, Lejuh et Jixels."),
-  ("Qui a écrit « VIN TCHEK NOU » ?", "Les crédits publiés par Deezer nomment trois auteurs et compositeurs : Youri Ellapin, Keran Landre et Ted Clarin. Aucune source consultée n’attribue publiquement chaque nom à l’une des trois voix invitées, Le Bluff, Leyou et Tedla, et ce profil ne fait donc pas cette attribution à leur place."),
-  ("Leyou est-il l’artiste du titre « Je les entends dire » ?", "Ce n’est pas démontré, et ce profil ne le revendique pas. Un artiste nommé Leyou a publié « Je les entends dire » le 6 juin 2025 chez Privaty Prod, en français, composé par Tiery F, à 109 BPM. Aucun collaborateur, label ou élément publié ne relie ce titre au Leyou crédité sur l’album bouyon de Lewismelo. Les profils automatiques fusionnent ces homonymes ; ici, ils sont séparés."),
-  ("Leyou a-t-il sorti un single solo ou un album ?", "Aucun single solo, EP ou album de Leyou n’est documenté dans les sources consultées. Sa seule apparition vérifiée est le featuring « VIN TCHEK NOU » sur l’album de Lewismelo. C’est une question à laquelle beaucoup de profils répondent en absorbant les catalogues d’homonymes : la réponse vérifiée est non, pas à ce jour dans le dossier public du bouyon."),
-  ("Où écouter Leyou ?", "Sur « VIN TCHEK NOU », le troisième titre de « Premières Notes » de Lewismelo, disponible sur les plateformes, aux côtés de <a href=\"/le-bluff.html\">Le Bluff</a> et Tedla. Pour le bouyon de la même scène, écoutez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> et lisez notre page <a href=\"/bouyon-guadeloupe.html\">bouyon Guadeloupe</a>.")
- ],
+  (
+    "Qui est Leyou ?",
+    "Leyou est une voix invitée du bouyon guadeloupéen, documentée par un seul titre vérifié : « VIN TCHEK NOU », le troisième titre de l’album « Premières Notes » de Lewismelo, où il est crédité en featuring avec Le Bluff et Tedla. Aucune biographie publique ne documente son nom civil ou son parcours, et ce profil le dit ouvertement.",
+  ),
+  (
+    "Sur quel album Leyou apparaît-il ?",
+    "Sur « Premières Notes » de Lewismelo, dont la liste des titres publiée par Deezer le crédite sur le troisième titre, « VIN TCHEK NOU », d’une durée de 3 minutes 17. L’album réunit aussi Admiral T et Shanika, Dcamp et KEKS MAFIA, Lejuh et Jixels.",
+  ),
+  (
+    "Qui a écrit « VIN TCHEK NOU » ?",
+    "Les crédits publiés par Deezer nomment trois auteurs et compositeurs : Youri Ellapin, Keran Landre et Ted Clarin. Aucune source consultée n’attribue publiquement chaque nom à l’une des trois voix invitées, Le Bluff, Leyou et Tedla, et ce profil ne fait donc pas cette attribution à leur place.",
+  ),
+  (
+    "Leyou est-il l’artiste du titre « Je les entends dire » ?",
+    "Ce n’est pas démontré, et ce profil ne le revendique pas. Un artiste nommé Leyou a publié « Je les entends dire » le 6 juin 2025 chez Privaty Prod, en français, composé par Tiery F, à 109 BPM. Aucun collaborateur, label ou élément publié ne relie ce titre au Leyou crédité sur l’album bouyon de Lewismelo. Les profils automatiques fusionnent ces homonymes ; ici, ils sont séparés.",
+  ),
+  (
+    "Leyou a-t-il sorti un single solo ou un album ?",
+    "Aucun single solo, EP ou album de Leyou n’est documenté dans les sources consultées. Sa seule apparition vérifiée est le featuring « VIN TCHEK NOU » sur l’album de Lewismelo. C’est une question à laquelle beaucoup de profils répondent en absorbant les catalogues d’homonymes : la réponse vérifiée est non, pas à ce jour dans le dossier public du bouyon.",
+  ),
+  (
+    "Où écouter Leyou ?",
+    "Sur « VIN TCHEK NOU », le troisième titre de « Premières Notes » de Lewismelo, disponible sur les plateformes, aux côtés de Le Bluff et Tedla. C’est sa seule trace vérifiée. Pour entendre le bouyon de la même scène guadeloupéenne, écoutez ensuite notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, qui suit le genre de la Dominique aux Antilles françaises.",
+  ),
+  (
+    "Que veut dire « VIN TCHEK NOU » ?",
+    "« VIN TCHEK NOU » est un titre en créole des Antilles françaises qui signifie viens nous voir, viens nous checker : une invitation, une présentation d’équipe. C’est le vocabulaire même des sessions collectives du bouyon gwada, et le titre réunit justement trois voix invitées, Le Bluff, Leyou et Tedla, autour de Lewismelo, sur 3 minutes 17.",
+  ),
+  (
+    "Qui est Lewismelo, l’artiste qui a invité Leyou ?",
+    "Lewismelo, de son nom complet Lewis Wayne Campbell selon le crédit de l’« INTRO » de son album, est l’un des noms documentés de la scène guadeloupéenne et la moitié du duo de frères qu’il forme avec Dcamp, présenté sur la page <a href=\"/dcamp-lewismelo.html\">Dcamp et Lewismelo</a>. C’est sur son album « Premières Notes » que Leyou est crédité.",
+  ),
+  (
+    "Qui chante avec Leyou sur « VIN TCHEK NOU » ?",
+    "Le titre est crédité à Lewismelo en artiste principal, avec trois voix en featuring : Le Bluff, Leyou et <a href=\"/tedla.html\">Tedla</a>. Les trois invités sont placés au même niveau, sur le titre de présentation d’équipe de l’album, en troisième position juste après l’« INTRO » et « 5 KILOS ». Aucune source ne précise qui chante quel couplet.",
+  ),
+  (
+    "Leyou et le rappeur LeYou, est-ce le même artiste ?",
+    "Ce n’est pas démontré. Sous l’orthographe LeYou, avec un Y majuscule, un artiste de hip-hop et de rap a sorti « COB » le 19 novembre 2021 et « DLM » le 22 février 2024 chez 2840657 Records DK2, à des tempos de rap, 95 et 81 BPM. Aucun collaborateur, label ou territoire ne le relie au circuit bouyon gwada de « VIN TCHEK NOU ».",
+  ),
+  (
+    "Quels artistes figurent sur « Premières Notes » de Lewismelo ?",
+    "Selon la liste publiée par Deezer : Admiral T et Shanika sur « 5 KILOS », Le Bluff, Leyou et Tedla sur « VIN TCHEK NOU », Dcamp et KEKS MAFIA sur « POMPÉ », <a href=\"/lejuh.html\">Lejuh</a> sur « ALOUETTE », Virtuose sur « KEY » et Jixels sur « HULLABALOO ». L’album fonctionne comme une large session de la génération bouyon gwada.",
+  ),
+  (
+    "Quel style de musique fait Leyou ?",
+    "Sa seule trace vérifiée relève du <a href=\"/bouyon-gwada.html\">bouyon gwada</a>, la branche guadeloupéenne du bouyon né en Dominique. « VIN TCHEK NOU » en réunit les codes : un titre en créole, un format court et une session collective à plusieurs voix invitées. Ce profil n’attribue à Leyou aucun autre style, faute de titre vérifié en dehors de ce circuit.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/leyou.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/leyou.html#artist", "name": "Leyou", "description": "Voix invitée du bouyon guadeloupéen, documentée par un seul titre vérifié : VIN TCHEK NOU, troisième titre de Premières Notes de Lewismelo, avec Le Bluff et Tedla. Aucune biographie publique documentée, et des homonymes actifs sous le même nom dans d’autres scènes, explicitement séparés dans ce profil.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'VIN TCHEK NOU'}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -151,13 +193,55 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Leyou?", "Leyou is a guest voice of Guadeloupe bouyon, documented by one verified record only: “VIN TCHEK NOU”, the third track of the Lewismelo album “Premières Notes”, where he is credited as a feature with Le Bluff and Tedla. No public biography documents his real name or his path, and this profile says so openly."),
-  ("On which album does Leyou appear?", "On “Premières Notes” by Lewismelo, whose track listing published by Deezer credits him on the third track, “VIN TCHEK NOU”, running 3 minutes 17. The album also brings together Admiral T and Shanika, Dcamp and KEKS MAFIA, Lejuh and Jixels."),
-  ("Who wrote “VIN TCHEK NOU”?", "The credits published by Deezer name three writers and composers: youri ellapin, Keran Landre and ted clarin. No source consulted publicly matches each name to one of the three guest voices, Le Bluff, Leyou and Tedla, so this profile does not make that match in their place."),
-  ("Is Leyou the artist of the record “Je les entends dire”?", "That is not shown, and this profile does not claim it. An artist named Leyou released “Je les entends dire” on June 6, 2025 on Privaty Prod, in French, composed by Tiery F, at 109 BPM. No collaborator, label or published element links that record to the Leyou credited on the bouyon album of Lewismelo. Automatic profiles merge those homonyms; here, they are separated."),
-  ("Has Leyou released a solo single or an album?", "No solo single, EP or album by Leyou is documented in the sources consulted. His only verified appearance is the feature “VIN TCHEK NOU” on the Lewismelo album. It is a question many profiles answer by absorbing the catalogues of homonyms: the verified answer is no, not so far in the public bouyon record."),
-  ("Where can I hear Leyou?", "On “VIN TCHEK NOU”, the third track of “Premières Notes” by Lewismelo, available on the platforms, alongside <a href=\"/en/le-bluff.html\">Le Bluff</a> and Tedla. For the bouyon of the same scene, hear our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> and read our <a href=\"/en/bouyon-guadeloupe.html\">bouyon Guadeloupe</a> page.")
- ],
+  (
+    "Who is Leyou?",
+    "Leyou is a guest voice of Guadeloupe bouyon, documented by one verified record only: “VIN TCHEK NOU”, the third track of the Lewismelo album “Premières Notes”, where he is credited as a feature with Le Bluff and Tedla. No public biography documents his real name or his path, and this profile says so openly.",
+  ),
+  (
+    "On which album does Leyou appear?",
+    "On “Premières Notes” by Lewismelo, whose track listing published by Deezer credits him on the third track, “VIN TCHEK NOU”, running 3 minutes 17. The album also brings together Admiral T and Shanika, Dcamp and KEKS MAFIA, Lejuh and Jixels.",
+  ),
+  (
+    "Who wrote “VIN TCHEK NOU”?",
+    "The credits published by Deezer name three writers and composers: youri ellapin, Keran Landre and ted clarin. No source consulted publicly matches each name to one of the three guest voices, Le Bluff, Leyou and Tedla, so this profile does not make that match in their place.",
+  ),
+  (
+    "Is Leyou the artist of the record “Je les entends dire”?",
+    "That is not shown, and this profile does not claim it. An artist named Leyou released “Je les entends dire” on June 6, 2025 on Privaty Prod, in French, composed by Tiery F, at 109 BPM. No collaborator, label or published element links that record to the Leyou credited on the bouyon album of Lewismelo. Automatic profiles merge those homonyms; here, they are separated.",
+  ),
+  (
+    "Has Leyou released a solo single or an album?",
+    "No solo single, EP or album by Leyou is documented in the sources consulted. His only verified appearance is the feature “VIN TCHEK NOU” on the Lewismelo album. It is a question many profiles answer by absorbing the catalogues of homonyms: the verified answer is no, not so far in the public bouyon record.",
+  ),
+  (
+    "Where can I hear Leyou?",
+    "On “VIN TCHEK NOU”, the third track of “Premières Notes” by Lewismelo, available on the platforms, alongside Le Bluff and Tedla. It is his only verified trace. To hear the bouyon of the same Guadeloupe scene, then play our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, which follows the genre from Dominica to the French Antilles.",
+  ),
+  (
+    "What does “VIN TCHEK NOU” mean?",
+    "“VIN TCHEK NOU” is a title in the Creole of the French Antilles meaning come and see us, come check us: an invitation, a team presentation. It is the very vocabulary of bouyon gwada collective sessions, and the track indeed gathers three guest voices, Le Bluff, Leyou and Tedla, around Lewismelo, over 3 minutes 17.",
+  ),
+  (
+    "Who is Lewismelo, the artist who invited Leyou?",
+    "Lewismelo, full name Lewis Wayne Campbell according to the credit of his album “INTRO”, is one of the documented names of the Guadeloupe scene and one half of the brother duo he forms with Dcamp, presented on the <a href=\"/en/dcamp-lewismelo.html\">Dcamp and Lewismelo</a> page. Leyou is credited on his album “Premières Notes”.",
+  ),
+  (
+    "Who sings with Leyou on “VIN TCHEK NOU”?",
+    "The track is credited to Lewismelo as lead artist, with three featured voices: Le Bluff, Leyou and <a href=\"/en/tedla.html\">Tedla</a>. The three guests stand on the same level, on the team presentation track of the album, third in the listing right after the “INTRO” and “5 KILOS”. No source states who sings which verse.",
+  ),
+  (
+    "Is Leyou the same artist as the rapper LeYou?",
+    "That is not shown. Under the spelling LeYou, with a capital Y, a hip hop and rap artist released “COB” on November 19, 2021 and “DLM” on February 22, 2024 on 2840657 Records DK2, at rap tempos, 95 and 81 BPM. No collaborator, label or territory links that artist to the bouyon gwada circuit of “VIN TCHEK NOU”.",
+  ),
+  (
+    "Which artists appear on Lewismelo's “Premières Notes”?",
+    "According to the listing published by Deezer: Admiral T and Shanika on “5 KILOS”, Le Bluff, Leyou and Tedla on “VIN TCHEK NOU”, Dcamp and KEKS MAFIA on “POMPÉ”, <a href=\"/en/lejuh.html\">Lejuh</a> on “ALOUETTE”, Virtuose on “KEY” and Jixels on “HULLABALOO”. The album works like a wide session of the bouyon gwada generation.",
+  ),
+  (
+    "What style of music does Leyou make?",
+    "His only verified trace belongs to <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a>, the Guadeloupe branch of the bouyon born in Dominica. “VIN TCHEK NOU” gathers its codes: a Creole title, a short format and a collective session with several guest voices. This profile assigns Leyou no other style, for lack of any verified record outside that circuit.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/leyou.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/leyou.html#artist", "name": "Leyou", "description": "Guest voice of Guadeloupe bouyon, documented by one verified record only: VIN TCHEK NOU, third track of Premières Notes by Lewismelo, with Le Bluff and Tedla. No documented public biography, and active homonyms under the same name in other scenes, explicitly separated in this profile.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'VIN TCHEK NOU'}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

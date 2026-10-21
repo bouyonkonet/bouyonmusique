@@ -59,13 +59,51 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Gaza Crew ?", "Gaza Crew est un nom de la scène bouyon guadeloupéenne qui ne survit, après une recherche complète menée en octobre 2026, que dans la liste de mots clés de la vidéo « Never Stop Di Bouyon » de Suppa, du cercle Vadore Concept, où les mots Gaza et Crew voisinent avec Girls, Dj Joe, Triple Kay et Asa Bantan. Aucun disque, aucune page d’artiste et aucune biographie au nom exact de Gaza Crew n’ont été retrouvés dans cette scène."),
-  ("Gaza Crew a-t-il sorti des titres ?", "Aucun titre au nom de Gaza Crew n’a été retrouvé sur les plateformes consultées en octobre 2026 : ni single, ni album, ni fiche d’artiste. Le schéma de cette page ne contient donc aucun enregistrement, contrairement aux profils documentés de ce site. Si un disque paraît ou refait surface avec une source vérifiable, cette page sera complétée et datée."),
-  ("Gaza Crew et Gaza Girls Crew sont-ils le même groupe ?", "Les sources consultées ne permettent pas de le dire, et ce profil est celui qui le dit ouvertement au lieu de trancher. Dans la liste de mots clés de la vidéo de Suppa, les mots Gaza, Crew, Gwada et Girls peuvent se lire comme le nom Gaza Girls Crew découpé en pièces, autant que comme un nom autonome. Les Gaza Girls Crew, elles, sont documentées par un single de 2011 chez Bouyon Concept et par le récit de Rebel Up sur Paris 2012. Les deux noms sont donc traités sur deux pages séparées, sans fait partagé."),
-  ("Gaza Crew a-t-il un lien avec le Gaza de Vybz Kartel en Jamaïque ?", "Aucun lien d’organisation, de label ou de personne n’est établi par les sources consultées. Une thèse universitaire de 2013 sur le dancehall des Antilles françaises explique que le mot Gaza, popularisé par Vybz Kartel, a été repris comme vocabulaire par des artistes et supporters francophones, et elle cite les Gaza girls crew en Guadeloupe et Volgaza en Martinique. C’est une circulation de mot documentée, pas une appartenance, et ce profil n’emprunte aucune ligne de l’histoire jamaïcaine."),
-  ("Pourquoi le nom Gaza Crew apparaît-il chez Suppa et Vadore Concept ?", "Parce que la vidéo « Never Stop Di Bouyon » de Suppa, qui renvoie au site de Vadore Concept, porte une liste de mots clés qui photographie le vocabulaire de la scène au début des années 2010 : bouyon, Vadore, Concept, Gaza, Crew, Gwada, Girls, Dj, Joe, Triple Kay, Asa, Bantan, Suppa. Ces listes juxtaposent collaborateurs, voisins de scène et références cherchées par le public, sans distinguer les rôles : c’est pour cela que ce profil la publie comme un indice de vocabulaire, pas comme un crédit."),
-  ("Où entendre le bouyon du cercle de Gaza Crew ?", "Commencez par « Sa Zot Vlé » des Gaza Girls Crew, le single de 2011 chez Bouyon Concept, puis écoutez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> et lisez nos pages <a href=\"/bouyon-gwada.html\">bouyon gwada</a> et <a href=\"/bouyon-paris.html\">bouyon à Paris</a>, qui documentent la scène et le cercle d’où vient la seule trace du nom.")
- ],
+  (
+    "Qui est Gaza Crew ?",
+    "Gaza Crew est un nom de la scène bouyon guadeloupéenne qui ne survit, après une recherche complète menée en octobre 2026, que dans la liste de mots clés de la vidéo « Never Stop Di Bouyon » de Suppa, du cercle Vadore Concept, où les mots Gaza et Crew voisinent avec Girls, Dj Joe, Triple Kay et Asa Bantan. Aucun disque, aucune page d’artiste et aucune biographie au nom exact de Gaza Crew n’ont été retrouvés dans cette scène.",
+  ),
+  (
+    "Gaza Crew a-t-il sorti des titres ?",
+    "Aucun titre au nom de Gaza Crew n’a été retrouvé sur les plateformes consultées en octobre 2026 : ni single, ni album, ni fiche d’artiste. Le schéma de cette page ne contient donc aucun enregistrement, contrairement aux profils documentés de ce site. Si un disque paraît ou refait surface avec une source vérifiable, cette page sera complétée et datée.",
+  ),
+  (
+    "Gaza Crew et Gaza Girls Crew sont-ils le même groupe ?",
+    "Les sources consultées ne permettent pas de le dire. Dans la liste de mots clés de la vidéo de Suppa, les mots Gaza, Crew, Gwada et Girls peuvent se lire comme le nom Gaza Girls Crew découpé en pièces, autant que comme un nom autonome. Les Gaza Girls Crew, elles, sont documentées par un single de 2011 chez Bouyon Concept et par le récit de Rebel Up sur Paris 2012. Les deux noms sont donc traités sur deux pages séparées, sans fait partagé.",
+  ),
+  (
+    "Gaza Crew a-t-il un lien avec le Gaza de Vybz Kartel en Jamaïque ?",
+    "Aucun lien d’organisation, de label ou de personne n’est établi par les sources consultées. Une thèse universitaire de 2013 sur le dancehall des Antilles françaises explique que le mot Gaza, popularisé par Vybz Kartel, a été repris comme vocabulaire par des artistes et supporters francophones, et elle cite les Gaza girls crew en Guadeloupe et Volgaza en Martinique. C’est une circulation de mot documentée, pas une appartenance, et ce profil n’emprunte aucune ligne de l’histoire jamaïcaine.",
+  ),
+  (
+    "Que veut dire Gaza dans le bouyon et le dancehall des Antilles ?",
+    "Dans les Antilles françaises, Gaza est un mot de clan venu du dancehall jamaïcain : popularisé par Vybz Kartel, il a été repris par des artistes et supporters francophones. La thèse 2013AGUY0728 cite en Guadeloupe les Gaza girls crew et en Martinique Volgaza, mot valise formé de Volga, quartier populaire de Fort-de-France, et de Gaza. Il désigne une appartenance de scène, pas un lieu.",
+  ),
+  (
+    "Existe-t-il d’autres groupes appelés Gaza Crew ?",
+    "Oui, et aucun n’est celui de cette page. Le Gaza Crew du dancehall jamaïcain, l’entourage de Vybz Kartel à Portmore, n’a aucun lien documenté avec la scène bouyon, et un crew de breakdance de la bande de Gaza, en Palestine, circule aussi dans les résultats. Ce profil écarte ces homonymes par leur nom pour qu’aucune ligne de leur histoire ne soit prêtée au nom de la scène guadeloupéenne.",
+  ),
+  (
+    "Pourquoi le nom Gaza Crew apparaît-il chez Suppa et Vadore Concept ?",
+    "Parce que la vidéo « Never Stop Di Bouyon » de Suppa, qui renvoie au site de Vadore Concept, porte une liste de mots clés qui photographie le vocabulaire de la scène au début des années 2010 : bouyon, Vadore, Concept, Gaza, Crew, Gwada, Girls, Dj, Joe, Triple Kay, Asa, Bantan, Suppa. Ces listes juxtaposent collaborateurs, voisins de scène et références cherchées par le public, sans distinguer les rôles : c’est pour cela que ce profil la publie comme un indice de vocabulaire, pas comme un crédit.",
+  ),
+  (
+    "Qu’est-ce que Vadore Concept ?",
+    "Vadore Concept est l’enseigne du cercle de <a href=\"/suppa.html\">Suppa</a> : son site figure dans la description de la vidéo « Never Stop Di Bouyon », celle qui porte la seule trace du nom Gaza Crew. Son héritière publiée, Vadore Concept Groupe, sortait encore en 2023 un single de DJ Joe avec la voix d’Asa Bantan, réunissant dix ans plus tard des noms déjà associés dans les mots clés de la vidéo.",
+  ),
+  (
+    "Gaza Crew a-t-il joué au premier concert bouyon de Paris en 2012 ?",
+    "Aucune source ne le dit. Le collectif Rebel Up documente la première performance bouyon à Paris, en décembre 2012, avec Suppa, les Gaza Girls et Dj Joe, filmée par un documentaire de 50 minutes en français et en créole, mais son récit ne nomme jamais de Gaza Crew. Ce profil n’attribue donc pas cette scène parisienne au nom Gaza Crew.",
+  ),
+  (
+    "Quel bouyon jouait le cercle d’où vient le nom Gaza Crew ?",
+    "Le bouyon gwada, la déclinaison guadeloupéenne du bouyon né en Dominique. Le collectif Rebel Up le décrit comme un bouyon hardcore : des paroles crues, en anglais, en français ou en créole, sur des riddims percussifs lourds aux mélodies simplifiées, où un même riddim reçoit plusieurs versions comme dans le dancehall. C’est la musique du cercle de Suppa et de Vadore Concept au début des années 2010.",
+  ),
+  (
+    "Où entendre le bouyon du cercle de Gaza Crew ?",
+    "Commencez par « Sa Zot Vlé » des Gaza Girls Crew, le single de 2011 chez Bouyon Concept, qui donne le son des crews Gaza de Guadeloupe, puis lisez notre page <a href=\"/bouyon-gwada.html\">bouyon gwada</a>, qui documente la scène d’où vient la seule trace du nom. Pour le bouyon d’aujourd’hui, la playlist Bouyon Road Mix de Bouyon Shattaz suit les nouveautés de la Dominique et des Antilles françaises.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/gaza-crew.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/gaza-crew.html#artist", "name": "Gaza Crew", "description": "Nom de la scène bouyon guadeloupéenne retrouvé uniquement dans la liste de mots clés de la vidéo Never Stop Di Bouyon de Suppa, du cercle Vadore Concept, au début des années 2010. Aucun enregistrement, aucune page d’artiste et aucune biographie au nom exact de Gaza Crew retrouvés dans les sources consultées en octobre 2026.", "genre": "Bouyon", "track": [], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -122,13 +160,51 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Gaza Crew?", "Gaza Crew is a name from the Guadeloupe bouyon scene which survives, after a full search carried out in October 2026, only in the keyword list of the video “Never Stop Di Bouyon” by Suppa, from the Vadore Concept circle, where the words Gaza and Crew sit alongside Girls, Dj Joe, Triple Kay and Asa Bantan. No record, no artist page and no biography under the exact name Gaza Crew was found in this scene."),
-  ("Did Gaza Crew release any records?", "No record under the name Gaza Crew was found on the platforms consulted in October 2026: no single, no album, no artist page. The schema of this page therefore contains no recording, unlike the documented profiles of this site. If a record is released or resurfaces with a verifiable source, this page will be completed and dated."),
-  ("Are Gaza Crew and Gaza Girls Crew the same group?", "The sources consulted do not allow that to be said, and this profile is the one that says so openly instead of deciding. In the keyword list of the Suppa video, the words Gaza, Crew, Gwada and Girls can be read as the name Gaza Girls Crew cut into pieces, as much as an autonomous name. The Gaza Girls Crew, on the other hand, are documented by a 2011 single on Bouyon Concept and by the Rebel Up account of Paris 2012. The two names are therefore covered on two separate pages, with no shared fact."),
-  ("Is Gaza Crew linked to the Gaza of Vybz Kartel in Jamaica?", "No organisational, label or personal link is established by the sources consulted. A 2013 university thesis on dancehall in the French Antilles explains that the word Gaza, popularised by Vybz Kartel, was taken up as vocabulary by francophone artists and supporters, and it cites the Gaza girls crew in Guadeloupe and Volgaza in Martinique. It is a documented circulation of a word, not a membership, and this profile borrows no line of the Jamaican history."),
-  ("Why does the name Gaza Crew appear with Suppa and Vadore Concept?", "Because the video “Never Stop Di Bouyon” by Suppa, which points to the Vadore Concept site, carries a keyword list that photographs the vocabulary of the scene in the early 2010s: bouyon, Vadore, Concept, Gaza, Crew, Gwada, Girls, Dj, Joe, Triple Kay, Asa, Bantan, Suppa. Such lists place collaborators, scene neighbours and references searched by the audience side by side, without distinguishing roles: that is why this profile publishes it as a clue of vocabulary, not as a credit."),
-  ("Where can I hear the bouyon of the Gaza Crew circle?", "Start with “Sa Zot Vlé” by the Gaza Girls Crew, the 2011 single on Bouyon Concept, then hear our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> and read our <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a> and <a href=\"/en/bouyon-paris.html\">bouyon in Paris</a> pages, which document the scene and the circle the only trace of the name comes from.")
- ],
+  (
+    "Who is Gaza Crew?",
+    "Gaza Crew is a name from the Guadeloupe bouyon scene which survives, after a full search carried out in October 2026, only in the keyword list of the video “Never Stop Di Bouyon” by Suppa, from the Vadore Concept circle, where the words Gaza and Crew sit alongside Girls, Dj Joe, Triple Kay and Asa Bantan. No record, no artist page and no biography under the exact name Gaza Crew was found in this scene.",
+  ),
+  (
+    "Did Gaza Crew release any records?",
+    "No record under the name Gaza Crew was found on the platforms consulted in October 2026: no single, no album, no artist page. The schema of this page therefore contains no recording, unlike the documented profiles of this site. If a record is released or resurfaces with a verifiable source, this page will be completed and dated.",
+  ),
+  (
+    "Are Gaza Crew and Gaza Girls Crew the same group?",
+    "The sources consulted do not allow that to be said. In the keyword list of the Suppa video, the words Gaza, Crew, Gwada and Girls can be read as the name Gaza Girls Crew cut into pieces, as much as an autonomous name. The Gaza Girls Crew, on the other hand, are documented by a 2011 single on Bouyon Concept and by the Rebel Up account of Paris 2012. The two names are therefore covered on two separate pages, with no shared fact.",
+  ),
+  (
+    "Is Gaza Crew linked to the Gaza of Vybz Kartel in Jamaica?",
+    "No organisational, label or personal link is established by the sources consulted. A 2013 university thesis on dancehall in the French Antilles explains that the word Gaza, popularised by Vybz Kartel, was taken up as vocabulary by francophone artists and supporters, and it cites the Gaza girls crew in Guadeloupe and Volgaza in Martinique. It is a documented circulation of a word, not a membership, and this profile borrows no line of the Jamaican history.",
+  ),
+  (
+    "What does Gaza mean in French Caribbean bouyon and dancehall?",
+    "In the French Antilles, Gaza is a clan word that came from Jamaican dancehall: popularised by Vybz Kartel, it was taken up by francophone artists and supporters. Thesis 2013AGUY0728 cites the Gaza girls crew in Guadeloupe and, in Martinique, Volgaza, a portmanteau of Volga, a working class district of Fort-de-France, and Gaza. It names a scene allegiance, not a place.",
+  ),
+  (
+    "Are there other groups called Gaza Crew?",
+    "Yes, and none of them is the one on this page. The Gaza Crew of Jamaican dancehall, the circle of Vybz Kartel in Portmore, has no documented link with the bouyon scene, and a breakdance crew from the Gaza Strip, in Palestine, also turns up in the results. This profile sets those namesakes aside by name so that no line of their history is lent to the Guadeloupe scene name.",
+  ),
+  (
+    "Why does the name Gaza Crew appear with Suppa and Vadore Concept?",
+    "Because the video “Never Stop Di Bouyon” by Suppa, which points to the Vadore Concept site, carries a keyword list that photographs the vocabulary of the scene in the early 2010s: bouyon, Vadore, Concept, Gaza, Crew, Gwada, Girls, Dj, Joe, Triple Kay, Asa, Bantan, Suppa. Such lists place collaborators, scene neighbours and references searched by the audience side by side, without distinguishing roles: that is why this profile publishes it as a clue of vocabulary, not as a credit.",
+  ),
+  (
+    "What is Vadore Concept?",
+    "Vadore Concept is the banner of the <a href=\"/en/suppa.html\">Suppa</a> circle: its site appears in the description of the video “Never Stop Di Bouyon”, the one that carries the only trace of the name Gaza Crew. Its published heir, Vadore Concept Groupe, was still releasing in 2023 a single by DJ Joe with the voice of Asa Bantan, bringing together ten years later names already paired in the video keywords.",
+  ),
+  (
+    "Did Gaza Crew play the first bouyon show in Paris in 2012?",
+    "No source says so. The Rebel Up collective documents the first bouyon performance in Paris, in December 2012, with Suppa, the Gaza Girls and Dj Joe, filmed by a 50 minute documentary in French and Creole, but its account never names a Gaza Crew. This profile therefore does not credit that Paris stage to the name Gaza Crew.",
+  ),
+  (
+    "What kind of bouyon did the Gaza Crew circle play?",
+    "Bouyon gwada, the Guadeloupe form of the bouyon born in Dominica. The Rebel Up collective describes it as bouyon hardcore: raw lyrics, in English, French or Creole, over heavy percussive riddims with simplified melodies, where one riddim receives several versions as in dancehall. It is the music of the Suppa and Vadore Concept circle in the early 2010s.",
+  ),
+  (
+    "Where can I hear the bouyon of the Gaza Crew circle?",
+    "Start with “Sa Zot Vlé” by the Gaza Girls Crew, the 2011 single on Bouyon Concept, which gives the sound of the Gaza crews of Guadeloupe, then read our <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a> page, which documents the scene the only trace of the name comes from. For today’s bouyon, the Bouyon Road Mix playlist by Bouyon Shattaz follows new releases from Dominica and the French Antilles.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/gaza-crew.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/gaza-crew.html#artist", "name": "Gaza Crew", "description": "Name from the Guadeloupe bouyon scene found only in the keyword list of the video Never Stop Di Bouyon by Suppa, from the Vadore Concept circle, in the early 2010s. No recording, no artist page and no biography under the exact name Gaza Crew found in the sources consulted in October 2026.", "genre": "Bouyon", "track": [], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

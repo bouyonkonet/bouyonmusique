@@ -58,13 +58,55 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qu’est-ce que Sonic Art Studios ?", "C’est un studio d’enregistrement de la Dominique, connu uniquement par les crédits qui le nomment. Un générique de film de 2015 le cite pour l’enregistrement d’une voix off, et les descriptions officielles de deux titres bouyon d’Earlson « Likkle Man » Matthew le citent pour l’enregistrement et le mixage, sous la forme @sonicartstudios. Aucune source consultée ne publie son adresse, son propriétaire ou son site."),
-  ("Où se trouve Sonic Art Studios ?", "À la Dominique, et c’est tout ce que les sources établissent. La localisation vient du générique du film lauréat du Dominica Film Challenge de 2015, qui écrit « recorded at Sonic Art Studios in Dominica ». Aucune source consultée ne nomme la ville, le quartier ou l’adresse du studio, et ce profil ne les devine pas."),
-  ("Quels titres ont été enregistrés à Sonic Art Studios ?", "Deux titres bouyon sont documentés par leurs descriptions officielles. « How De Band Playing », bouyon de 2023 de Mr Delly sur une composition d’Earlson « Likkle Man » Matthew, y a été enregistré et mixé, avec une formation complète de musiciens nommés. Et « To The City », chanté par Peter Prospere, y a été enregistré, mixé et masterisé par Earlson Matthew lui même. Aucun autre titre n’est attribué au studio dans les sources ouvertes."),
-  ("Qui travaille à Sonic Art Studios ?", "Le seul nom de personne attaché au travail du studio dans les sources consultées est Earlson « Likkle Man » Matthew, crédité comme ingénieur de l’enregistrement, du mixage et du mastering de « To The City », et comme compositeur des deux titres du dossier. Aucune source ne nomme un fondateur, un propriétaire ou un autre ingénieur du studio, et ce profil ne présente pas Earlson Matthew comme son propriétaire."),
-  ("Quelle est la plus ancienne trace de Sonic Art Studios ?", "Un film de 2015. Le générique publié du film lauréat du Dominica Film Challenge de 2015, produit par Riot House pour la Discover Dominica Authority, crédite la voix off de Sabrina Bully comme enregistrée au Sonic Art Studios, à la Dominique. Le studio fonctionnait donc déjà à cette date, sur un travail de voix parlée pour un film de promotion de l’île, avant les traces bouyon de 2023 et des années suivantes."),
-  ("Sonic Art Studios est-il le studio du même nom à Nashville ou à Barcelone ?", "Non, rien dans les sources ne relie ces studios entre eux. Des studios portant le nom Sonic Art, au singulier ou au pluriel, existent dans plusieurs pays, dont Nashville aux Etats Unis et Barcelone en Espagne, et les recherches sur ce nom les mélangent. Le studio de ce profil est uniquement celui que le générique de 2015 place à la Dominique et que les crédits des titres d’Earlson Matthew nomment @sonicartstudios.")
- ],
+  (
+    "Qu’est-ce que Sonic Art Studios ?",
+    "Sonic Art Studios est un studio d’enregistrement de la Dominique, connu uniquement par les crédits qui le nomment. Un générique de film de 2015 le cite pour l’enregistrement d’une voix off, et les descriptions officielles de deux titres bouyon d’Earlson « Likkle Man » Matthew le citent pour l’enregistrement et le mixage, sous la forme @sonicartstudios. Aucune source consultée ne publie son adresse, son propriétaire ou son site.",
+  ),
+  (
+    "Où se trouve Sonic Art Studios ?",
+    "À la Dominique, et c’est tout ce que les sources établissent. La localisation vient du générique du film lauréat du Dominica Film Challenge de 2015, qui écrit « recorded at Sonic Art Studios in Dominica ». Aucune source consultée ne nomme la ville, le quartier ou l’adresse du studio, et ce profil ne les devine pas.",
+  ),
+  (
+    "Quels titres ont été enregistrés à Sonic Art Studios ?",
+    "Deux titres bouyon sont documentés par leurs descriptions officielles. « How De Band Playing », bouyon de 2023 de Mr Delly sur une composition d’Earlson « Likkle Man » Matthew, y a été enregistré et mixé, avec une formation complète de musiciens nommés. Et « To The City », chanté par Peter Prospere, y a été enregistré, mixé et masterisé par Earlson Matthew lui même. Aucun autre titre n’est attribué au studio dans les sources ouvertes.",
+  ),
+  (
+    "Qui a écrit « How De Band Playing » de Mr Delly ?",
+    "« How De Band Playing » est écrit et composé par Earlson « Likkle Man » Matthew et interprété par Delton « Mr. Delly » Alfred, selon sa description officielle. Le titre, présenté comme un bouyon de 2023 sous la forme Mr Delly x Likkle Man, a été enregistré et mixé à Sonic Art Studios. Le parcours du chanteur se lit sur notre profil <a href=\"/mr-delly.html\">Mr Delly</a>.",
+  ),
+  (
+    "Quels musiciens jouent sur « How De Band Playing » ?",
+    "La description officielle nomme une formation complète : Elijah JeanJacques à la basse, Joel Francis à la guitare, Nikita « Fridge » Christmas à la batterie, et aux voix additionnelles Erneil « Shabba » Paul, Dorelle Diolen, Serena Alexander, Syan Davis, Deanna Emmanuel et Michael « Bully / Ti Mal » John. C’est le format d’un bouyon de musiciens, joué plutôt que programmé, enregistré et mixé au studio.",
+  ),
+  (
+    "Que veut dire « How De Band Playing » ?",
+    "Le titre reprend un vieux dicton expliqué dans sa description officielle : « How the band, is so you have to dance », autrement dit comme le groupe joue, ainsi il faut danser. Le morceau l’applique aux situations de la vie que l’on ne contrôle pas. Ses mots clés le rattachent au bouyon, au bouyon soca, à la Dominique et au carnaval de la Dominique 2023.",
+  ),
+  (
+    "Qui a enregistré « To The City » de Peter Prospere ?",
+    "Earlson « Likkle Man » Matthew, selon la description officielle : il a composé le titre, puis l’a enregistré, mixé et masterisé à Sonic Art Studios. Peter Prospere le chante, avec Monelle « High Speed » Mondesire à la guitare, Keith Goddard à la basse et un design graphique de Kester Labad. Aucune date de sortie lisible n’est publiée. Voir notre profil <a href=\"/earlson-matthew.html\">Earlson Matthew</a>.",
+  ),
+  (
+    "Qui travaille à Sonic Art Studios ?",
+    "Le seul nom de personne attaché au travail du studio dans les sources consultées est Earlson « Likkle Man » Matthew, crédité comme ingénieur de l’enregistrement, du mixage et du mastering de « To The City », et comme compositeur des deux titres du dossier. Aucune source ne nomme un fondateur, un propriétaire ou un autre ingénieur du studio, et ce profil ne présente pas Earlson Matthew comme son propriétaire.",
+  ),
+  (
+    "Quel est le lien entre Sonic Art Studios et WCK ?",
+    "Le lien passe par Earlson « Likkle Man » Matthew, claviériste de <a href=\"/wck.html\">WCK</a> documenté sur ce site, compositeur des deux titres bouyon enregistrés au studio et ingénieur de « To The City ». Les mots clés de ce titre le rattachent d’ailleurs à WCK, à Triple Kay, au World Creole Music Festival et aux saisons bouyon 2025 et 2026. Aucune source ne fait du studio celui du groupe.",
+  ),
+  (
+    "Quelle est la plus ancienne trace de Sonic Art Studios ?",
+    "Un film de 2015. Le générique publié du film lauréat du Dominica Film Challenge de 2015, produit par Riot House pour la Discover Dominica Authority, crédite la voix off de Sabrina Bully comme enregistrée au Sonic Art Studios, à la Dominique. Le studio fonctionnait donc déjà à cette date, sur un travail de voix parlée pour un film de promotion de l’île, avant les traces bouyon de 2023 et des années suivantes.",
+  ),
+  (
+    "Comment Sonic Art Studios est-il crédité sur les titres ?",
+    "Sous deux formes. Les descriptions YouTube des deux titres bouyon écrivent l’identifiant soudé « @sonicartstudios », dans les lignes « recorded and mixed » et « recorded, mixed and mastered ». La forme développée, « Sonic Art Studios », apparaît avec sa localisation, « in Dominica », dans le générique du film de 2015. Le studio n’apparaît jamais en train de se présenter lui même.",
+  ),
+  (
+    "Sonic Art Studios est-il le studio du même nom à Nashville ou à Barcelone ?",
+    "Non, rien dans les sources ne relie ces studios entre eux. Des studios portant le nom Sonic Art, au singulier ou au pluriel, existent dans plusieurs pays, dont Nashville aux Etats Unis et Barcelone en Espagne, et les recherches sur ce nom les mélangent. Le studio de ce profil est uniquement celui que le générique de 2015 place à la Dominique et que les crédits des titres d’Earlson Matthew nomment @sonicartstudios.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/sonic-art-studios.html#profile", "mainEntity": {"@type": "Organization", "@id": "https://bouyonmusique.com/sonic-art-studios.html#artist", "name": "Sonic Art Studios", "description": "Studio d’enregistrement de la Dominique, connu uniquement par ses crédits publiés. Voix off de Sabrina Bully pour le film lauréat du Dominica Film Challenge de 2015, enregistrement et mixage de How De Band Playing de Mr Delly en 2023, et enregistrement, mixage et mastering de To The City par Earlson Likkle Man Matthew. Aucune adresse, aucun propriétaire et aucune page officielle publiés dans les sources consultées.", "track": [{"@type": "MusicRecording", "name": 'How De Band Playing'}, {"@type": "MusicRecording", "name": 'To The City'}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -122,13 +164,55 @@ EN = {
   ]
  ],
  "faq": [
-  ("What is Sonic Art Studios?", "It is a recording studio in Dominica, known only through the credits that name it. A 2015 film credit block names it for a voice over recording, and the official descriptions of two bouyon records by Earlson “Likkle Man” Matthew name it for recording and mixing, in the form @sonicartstudios. No source consulted publishes its address, its owner or its website."),
-  ("Where is Sonic Art Studios located?", "In Dominica, and that is all the sources establish. The location comes from the credits of the winning film of the 2015 Dominica Film Challenge, which write “recorded at Sonic Art Studios in Dominica”. No source consulted names the town, the district or the address of the studio, and this profile does not guess them."),
-  ("Which records were made at Sonic Art Studios?", "Two bouyon records are documented by their official descriptions. “How De Band Playing”, a 2023 bouyon by Mr Delly on a composition by Earlson “Likkle Man” Matthew, was recorded and mixed there, with a full band of named musicians. And “To The City”, sung by Peter Prospere, was recorded, mixed and mastered there by Earlson Matthew himself. No other record is attributed to the studio in the opened sources."),
-  ("Who works at Sonic Art Studios?", "The only person name attached to the work of the studio in the sources consulted is Earlson “Likkle Man” Matthew, credited as the engineer of the recording, mixing and mastering of “To The City”, and as composer of both records in the file. No source names a founder, an owner or another engineer of the studio, and this profile does not present Earlson Matthew as its owner."),
-  ("What is the oldest trace of Sonic Art Studios?", "A 2015 film. The published credits of the winning film of the 2015 Dominica Film Challenge, produced by Riot House for the Discover Dominica Authority, credit the voice over by Sabrina Bully as recorded at Sonic Art Studios, in Dominica. The studio was therefore already working at that date, on spoken voice work for an island promotion film, before the bouyon traces of 2023 and the following years."),
-  ("Is Sonic Art Studios the studio of the same name in Nashville or Barcelona?", "No, nothing in the sources links those studios together. Studios carrying the name Sonic Art, singular or plural, exist in several countries, including Nashville in the United States and Barcelona in Spain, and searches on this name mix them. The studio of this profile is only the one the 2015 credits place in Dominica and the one the Earlson Matthew record credits name @sonicartstudios.")
- ],
+  (
+    "What is Sonic Art Studios?",
+    "Sonic Art Studios is a recording studio in Dominica, known only through the credits that name it. A 2015 film credit block names it for a voice over recording, and the official descriptions of two bouyon records by Earlson “Likkle Man” Matthew name it for recording and mixing, in the form @sonicartstudios. No source consulted publishes its address, its owner or its website.",
+  ),
+  (
+    "Where is Sonic Art Studios located?",
+    "In Dominica, and that is all the sources establish. The location comes from the credits of the winning film of the 2015 Dominica Film Challenge, which write “recorded at Sonic Art Studios in Dominica”. No source consulted names the town, the district or the address of the studio, and this profile does not guess them.",
+  ),
+  (
+    "Which records were made at Sonic Art Studios?",
+    "Two bouyon records are documented by their official descriptions. “How De Band Playing”, a 2023 bouyon by Mr Delly on a composition by Earlson “Likkle Man” Matthew, was recorded and mixed there, with a full band of named musicians. And “To The City”, sung by Peter Prospere, was recorded, mixed and mastered there by Earlson Matthew himself. No other record is attributed to the studio in the opened sources.",
+  ),
+  (
+    "Who wrote “How De Band Playing” by Mr Delly?",
+    "“How De Band Playing” was written and composed by Earlson “Likkle Man” Matthew and performed by Delton “Mr. Delly” Alfred, according to its official description. The record, presented as a 2023 bouyon in the form Mr Delly x Likkle Man, was recorded and mixed at Sonic Art Studios. The singer path is read on our <a href=\"/en/mr-delly.html\">Mr Delly</a> profile.",
+  ),
+  (
+    "Which musicians play on “How De Band Playing”?",
+    "The official description names a full band: Elijah JeanJacques on bass, Joel Francis on guitar, Nikita “Fridge” Christmas on drums, and on additional vocals Erneil “Shabba” Paul, Dorelle Diolen, Serena Alexander, Syan Davis, Deanna Emmanuel and Michael “Bully / Ti Mal” John. That is the format of a musicians bouyon, played rather than programmed, recorded and mixed at the studio.",
+  ),
+  (
+    "What does “How De Band Playing” mean?",
+    "The title takes up an old saying explained in its official description: “How the band, is so you have to dance”, in other words, the way the band plays is the way you have to dance. The record applies it to the life situations nobody controls. Its keywords tie it to bouyon, bouyon soca, Dominica and Dominica Carnival 2023.",
+  ),
+  (
+    "Who recorded “To The City” by Peter Prospere?",
+    "Earlson “Likkle Man” Matthew, according to the official description: he composed the record, then recorded, mixed and mastered it at Sonic Art Studios. Peter Prospere sings it, with Monelle “High Speed” Mondesire on guitar, Keith Goddard on bass and graphic design by Kester Labad. No readable release date is published. See our <a href=\"/en/earlson-matthew.html\">Earlson Matthew</a> profile.",
+  ),
+  (
+    "Who works at Sonic Art Studios?",
+    "The only person name attached to the work of the studio in the sources consulted is Earlson “Likkle Man” Matthew, credited as the engineer of the recording, mixing and mastering of “To The City”, and as composer of both records in the file. No source names a founder, an owner or another engineer of the studio, and this profile does not present Earlson Matthew as its owner.",
+  ),
+  (
+    "What is the link between Sonic Art Studios and WCK?",
+    "The link runs through Earlson “Likkle Man” Matthew, the <a href=\"/en/wck.html\">WCK</a> keyboardist documented on this site, composer of both bouyon records made at the studio and engineer of “To The City”. That record keywords also tie it to WCK, Triple Kay, the World Creole Music Festival and the bouyon seasons 2025 and 2026. No source makes the studio the band own studio.",
+  ),
+  (
+    "What is the oldest trace of Sonic Art Studios?",
+    "A 2015 film. The published credits of the winning film of the 2015 Dominica Film Challenge, produced by Riot House for the Discover Dominica Authority, credit the voice over by Sabrina Bully as recorded at Sonic Art Studios, in Dominica. The studio was therefore already working at that date, on spoken voice work for an island promotion film, before the bouyon traces of 2023 and the following years.",
+  ),
+  (
+    "How is Sonic Art Studios credited on records?",
+    "In two forms. The YouTube descriptions of the two bouyon records write the fused handle “@sonicartstudios”, in the lines “recorded and mixed” and “recorded, mixed and mastered”. The full form, “Sonic Art Studios”, appears with its location, “in Dominica”, in the credits of the 2015 film. The studio never appears presenting itself.",
+  ),
+  (
+    "Is Sonic Art Studios the studio of the same name in Nashville or Barcelona?",
+    "No, nothing in the sources links those studios together. Studios carrying the name Sonic Art, singular or plural, exist in several countries, including Nashville in the United States and Barcelona in Spain, and searches on this name mix them. The studio of this profile is only the one the 2015 credits place in Dominica and the one the Earlson Matthew record credits name @sonicartstudios.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/sonic-art-studios.html#profile", "mainEntity": {"@type": "Organization", "@id": "https://bouyonmusique.com/en/sonic-art-studios.html#artist", "name": "Sonic Art Studios", "description": "Recording studio in Dominica, known only through its published credits. Voice over by Sabrina Bully for the winning film of the 2015 Dominica Film Challenge, recording and mixing of Mr Delly How De Band Playing in 2023, and recording, mixing and mastering of To The City by Earlson Likkle Man Matthew. No address, no owner and no official page published in the sources consulted.", "track": [{"@type": "MusicRecording", "name": 'How De Band Playing'}, {"@type": "MusicRecording", "name": 'To The City'}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

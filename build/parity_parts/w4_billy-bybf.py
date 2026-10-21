@@ -59,13 +59,67 @@ FR = {
   ]
  ],
  "faq": [
-  ("Quel est le vrai nom derrière Billy BYBF ?", "Les crédits officiels des plateformes nomment Fabien Aurela comme auteur et compositeur de la quasi-totalité du catalogue Billy Bybf, de DI YO SA 2 (2023) à SUPER BAYOBONFÈ (2026), et comme auteur des singles BYBF STUDIO. Billy BYBF est donc lu, dans ce profil, comme son nom de scène. L’artiste ne l’a pas confirmé dans une biographie publiée retrouvée pendant cette recherche, et le lien est présenté comme une lecture des crédits."),
-  ("Qu’est-ce que BYBF STUDIO ?", "BYBF STUDIO est le label qui apparaît sur les fiches Shazam des singles récents de Billy BYBF : BAW SA (SANTA BAYOBONFÈ) le 28 décembre 2025 et SPOUTNIK (BING BANG) le 10 mars 2026, avec Billy BYBF crédité à la production. C’est un imprint à son propre nom, signe d’une production indépendante contrôlée par l’artiste."),
-  ("Quels sont les albums et EP de Billy BYBF ?", "La discographie Deezer documente l’EP Diyosa (23 décembre 2022, crédité BILLY), l’album DI YO SA 2 (2 août 2023, neuf titres), l’album TRAVAILLONS avec Team Bwè Tou Sa (13 juillet 2024, quatorze titres), l’EP SUPER BAYOBONFÈ (29 avril 2026, quatre titres) et l’EP GALAKTIK avec Lunik et Riko (20 août 2026)."),
-  ("Avec qui Billy BYBF travaille-t-il le plus souvent ?", "Les crédits dessinent un cercle stable : le collectif Team Bwè Tou Sa et ses membres Ludmael et Ludmilian FLOWER et Nicolas MACBETH, le producteur Magbeatz sur les singles 2025 et 2026, DJ SKYCEE sur 10 Degrés, NUMBER ONE et BADDIE, et les auteurs récurrents O’Neal Chatelot et Yanis Batta. Il apparaît aussi avec Ricky Bishop sur IG et avec Atox et Tito sur CARIBBEAN GYAL."),
-  ("Billy BYBF est-il guadeloupéen ?", "Aucune biographie publiée ne donne son lieu de naissance. Ce que le catalogue documente est une identité guadeloupéenne revendiquée dans les titres : le single GWADLOUPÉYEN (9 octobre 2026), un répertoire en français et en créole classé langue française par Shazam, et un réseau de collaborations entièrement ancré dans la scène bouyon de Guadeloupe. Ce profil décrit donc un artiste de la scène guadeloupéenne, sans inventer de lieu de naissance."),
-  ("Où écouter Billy BYBF ?", "Son catalogue est sur Deezer, Shazam et YouTube : commencez par DI YO SA 2, puis SPOUTNIK (BING BANG), BAW SA et BADDIE, et poursuivez avec notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> et notre page <a href=\"/bouyon-gwada.html\">bouyon gwada</a>.")
- ],
+  (
+    "Quel est le vrai nom derrière Billy BYBF ?",
+    "Les crédits officiels des plateformes nomment Fabien Aurela comme auteur et compositeur de la quasi-totalité du catalogue Billy Bybf, de DI YO SA 2 (2023) à SUPER BAYOBONFÈ (2026), et comme auteur des singles BYBF STUDIO. Billy BYBF est donc lu, dans ce profil, comme son nom de scène. L’artiste ne l’a pas confirmé dans une biographie publiée retrouvée pendant cette recherche, et le lien est présenté comme une lecture des crédits.",
+  ),
+  (
+    "Qu’est-ce que BYBF STUDIO ?",
+    "BYBF STUDIO est le label qui apparaît sur les fiches Shazam des singles récents de Billy BYBF : BAW SA (SANTA BAYOBONFÈ) le 28 décembre 2025 et SPOUTNIK (BING BANG) le 10 mars 2026, avec Billy BYBF crédité à la production. C’est un imprint à son propre nom, signe d’une production indépendante contrôlée par l’artiste.",
+  ),
+  (
+    "Quels sont les albums et EP de Billy BYBF ?",
+    "La discographie Deezer documente l’EP Diyosa (23 décembre 2022, crédité BILLY), l’album DI YO SA 2 (2 août 2023, neuf titres), l’album TRAVAILLONS avec Team Bwè Tou Sa (13 juillet 2024, quatorze titres), l’EP SUPER BAYOBONFÈ (29 avril 2026, quatre titres) et l’EP GALAKTIK avec Lunik et Riko (20 août 2026).",
+  ),
+  (
+    "Avec qui Billy BYBF travaille-t-il le plus souvent ?",
+    "Les crédits dessinent un cercle stable : le collectif Team Bwè Tou Sa et ses membres Ludmael et Ludmilian FLOWER et Nicolas MACBETH, le producteur Magbeatz sur les singles 2025 et 2026, DJ SKYCEE sur 10 Degrés, NUMBER ONE et BADDIE, et les auteurs récurrents O’Neal Chatelot et Yanis Batta. Il apparaît aussi avec Ricky Bishop sur IG et avec Atox et Tito sur CARIBBEAN GYAL.",
+  ),
+  (
+    "Billy BYBF est-il guadeloupéen ?",
+    "Aucune biographie publiée ne donne son lieu de naissance. Ce que le catalogue documente est une identité guadeloupéenne revendiquée dans les titres : le single GWADLOUPÉYEN (9 octobre 2026), un répertoire en français et en créole classé langue française par Shazam, et un réseau de collaborations entièrement ancré dans la scène bouyon de Guadeloupe. Ce profil décrit donc un artiste de la scène guadeloupéenne, sans inventer de lieu de naissance.",
+  ),
+  (
+    "Où écouter Billy BYBF ?",
+    "Son catalogue est sur Deezer, Shazam et YouTube. Commencez par l’album « DI YO SA 2 », puis « SPOUTNIK (BING BANG) » et « BAW SA » pour la période BYBF STUDIO, et « BADDIE » pour le versant DJ SKYCEE. Pour l’entendre au milieu des nouveautés bouyon, suivez la Bouyon Road Mix : commentez ROAD MIX sous une publication de @bouyonshattaz sur Instagram, ou ouvrez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>.",
+  ),
+  (
+    "Qui est Billy BYBF ?",
+    "Billy BYBF est un artiste de la scène bouyon guadeloupéenne dont le catalogue, de l’EP Diyosa (2022) aux singles d’octobre 2026, est presque entièrement écrit et composé par Fabien Aurela selon les crédits officiels. Il chante en français et en créole, travaille avec le collectif Team Bwè Tou Sa, le producteur Magbeatz et DJ SKYCEE, et publie depuis fin 2025 sur son propre label, BYBF STUDIO.",
+  ),
+  (
+    "Quel style de musique fait Billy BYBF ?",
+    "Billy BYBF fait du bouyon gwada moderne : des titres courts, souvent entre une minute et demie et moins de trois minutes, des refrains en créole et une production électronique rapide. Shazam classe « Bombe Atomique », « SPOUTNIK (BING BANG) » et « BAW SA » à 160 BPM, le tempo du bouyon rapide. Notre page <a href=\"/bouyon-gwada.html\">bouyon gwada</a> raconte comment la Guadeloupe a fait sien ce son né en Dominique.",
+  ),
+  (
+    "Qui produit les titres de Billy BYBF ?",
+    "Le plus souvent, Billy BYBF lui-même. Sur « BAW SA (SANTA BAYOBONFÈ) » et « SPOUTNIK (BING BANG) », les fiches Shazam le créditent à la production, avec Magbeatz à l’enregistrement et Fabien Aurela et O’Neal Chatelot à l’écriture. Sur « BADDIE », les crédits YouTube nomment DJ SKYCEE et Billy Bybf producteurs. Le rôle de Magbeatz dans ce tandem est détaillé sur sa page <a href=\"/magbeatz.html\">Magbeatz</a>.",
+  ),
+  (
+    "Qui a produit BADDIE de Billy BYBF et DJ SKYCEE ?",
+    "« BADDIE » est produit par DJ SKYCEE et Billy Bybf, selon les crédits YouTube officiels du titre. Le single sort le 11 septembre 2026 via TuneCore sous le nom 97TODIWORLD, écrit par Fabien Aurela et Yanis Batta. Il prolonge une série de titres du duo commencée avec « 10 Degrés » en 2024 et « NUMBER ONE » en 2025. Voir aussi notre page <a href=\"/dj-skycee.html\">DJ Skycee</a>.",
+  ),
+  (
+    "Quel est le lien entre Billy BYBF et Team Bwè Tou Sa ?",
+    "Billy BYBF est l’un des partenaires réguliers du collectif guadeloupéen Team Bwè Tou Sa. Ils signent ensemble l’album « TRAVAILLONS » (13 juillet 2024, quatorze titres) et le single « Mal élevé », et Billy BYBF figure déjà sur « Véyé mwen », dans l’album « Voyé sa alléé II » de 2022. En 2025, les bangers « ZING CHAP » et « SINOBÒL » réunissent encore le même cercle. Voir <a href=\"/team-bwe-tou-sa.html\">Team Bwè Tou Sa</a>.",
+  ),
+  (
+    "Quelles sont les dernières sorties de Billy BYBF ?",
+    "Les sorties les plus récentes documentées sont les singles « MALIBU » (14 octobre 2026) et « GWADLOUPÉYEN » (9 octobre 2026), précédés de « BADDIE » avec DJ SKYCEE (11 septembre 2026) et de l’EP « GALAKTIK » avec Lunik et Riko (20 août 2026). Au printemps 2026 étaient sortis l’EP « SUPER BAYOBONFÈ », « SPOUTNIK (BING BANG) » et « BDKMV ». Le rythme reste proche d’une sortie par mois.",
+  ),
+  (
+    "Billy BYBF chante-t-il sur les titres de D.O.C FIX DEM ?",
+    "Oui, sur deux titres de l’atelier guadeloupéen D.O.C FIX DEM. « Asi Mwen » (19 septembre 2025) le crédite au chant avec LGC et Le_Daah, et Fabien Aurela parmi les cinq auteurs. Sur « Tik Tak » (6 février 2026), Billy BYBF est en featuring avec DEE ZEN et DDK, et Fabien Aurela est crédité au chant et à l’écriture. Voir <a href=\"/doc-fix-dem.html\">D.O.C FIX DEM</a>.",
+  ),
+  (
+    "Billy BYBF est-il sur BAISE-MOI de Laka ?",
+    "Oui. « BAISE-MOI », la session collective de Laka sortie le 22 novembre 2023 sous le label LAKA, crédite Billy Bybf parmi huit invités, avec Riko, Le Bluff, Tgx, PIXOU, Le daah, WAYSEE et Team Bwè Tou Sa. Le titre est en français, à 160 BPM, et Fabien Aurela figure parmi ses treize auteurs. Le détail de cette session est sur notre page <a href=\"/laka.html\">Laka</a>.",
+  ),
+  (
+    "Billy BYBF a-t-il joué en concert à Paris ?",
+    "Oui, une date est documentée : la soirée Pops Summer Club #2, le vendredi 16 octobre 2026, au 17 rue Tiquetonne, dans le 2e arrondissement de Paris, annonçait une performance de Billy BYBF avec Zequin, Banklaady et Deezen, et Magbeatz au clavier. Les DJ sets étaient tenus notamment par Atox. Les étiquettes de la soirée allaient du bouyon au shatta et au dancehall. Voir <a href=\"/magbeatz.html\">Magbeatz</a>.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/billy-bybf.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/billy-bybf.html#artist", "name": "Billy BYBF", "alternateName": "Fabien Aurela", "description": "Artiste bouyon de la scène guadeloupéenne. Les crédits officiels nomment Fabien Aurela auteur de son catalogue : DI YO SA 2 (2023), TRAVAILLONS avec Team Bwè Tou Sa (2024), SUPER BAYOBONFÈ (2026) et les singles du label BYBF STUDIO.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "I Pè Mandé-y"}, {"@type": "MusicRecording", "name": "Avec ou Sans"}, {"@type": "MusicRecording", "name": "Kenbé Sa"}, {"@type": "MusicRecording", "name": "Holiday"}, {"@type": "MusicRecording", "name": "Tatami"}, {"@type": "MusicRecording", "name": "Bombe Atomique"}, {"@type": "MusicRecording", "name": "AKFTA"}, {"@type": "MusicRecording", "name": "NO CAP"}, {"@type": "MusicRecording", "name": "DO YOU FEEL IT ?"}, {"@type": "MusicRecording", "name": "BOUNCE4ME"}, {"@type": "MusicRecording", "name": "CHIMEN CHYEN"}, {"@type": "MusicRecording", "name": "SPOUTNIK (BING BANG)"}, {"@type": "MusicRecording", "name": "BAW SA (SANTA BAYOBONFÈ)"}, {"@type": "MusicRecording", "name": "BADDIE"}, {"@type": "MusicRecording", "name": "GWADLOUPÉYEN"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -124,13 +178,67 @@ EN = {
   ]
  ],
  "faq": [
-  ("What is the real name behind Billy BYBF?", "Official platform credits name Fabien Aurela as writer and composer of nearly the whole Billy Bybf catalogue, from DI YO SA 2 (2023) to SUPER BAYOBONFÈ (2026), and as writer of the BYBF STUDIO singles. Billy BYBF is therefore read in this profile as his stage name. The artist has not confirmed it in a published biography found during this research, and the link is presented as a reading of the credits."),
-  ("What is BYBF STUDIO?", "BYBF STUDIO is the label that appears on the Shazam pages of Billy BYBF recent singles: BAW SA (SANTA BAYOBONFÈ) on 28 December 2025 and SPOUTNIK (BING BANG) on 10 March 2026, with Billy BYBF credited as producer. It is an imprint under his own name, a sign of independent production controlled by the artist."),
-  ("What are Billy BYBF albums and EPs?", "The Deezer discography documents the Diyosa EP (23 December 2022, credited BILLY), the album DI YO SA 2 (2 August 2023, nine tracks), the album TRAVAILLONS with Team Bwè Tou Sa (13 July 2024, fourteen tracks), the EP SUPER BAYOBONFÈ (29 April 2026, four tracks) and the GALAKTIK EP with Lunik and Riko (20 August 2026)."),
-  ("Who does Billy BYBF work with most often?", "The credits draw a stable circle: the crew Team Bwè Tou Sa and its members Ludmael and Ludmilian FLOWER and Nicolas MACBETH, producer Magbeatz on the 2025 and 2026 singles, DJ SKYCEE on 10 Degrés, NUMBER ONE and BADDIE, and recurring writers O’Neal Chatelot and Yanis Batta. He also appears with Ricky Bishop on IG and with Atox and Tito on CARIBBEAN GYAL."),
-  ("Is Billy BYBF Guadeloupean?", "No published biography gives his birthplace. What the catalogue documents is a Guadeloupean identity claimed in the titles: the single GWADLOUPÉYEN (9 October 2026), a catalogue in French and Creole classified as French language by Shazam, and a collaboration network entirely anchored in the Guadeloupe bouyon scene. This profile therefore describes an artist of the Guadeloupe scene, without inventing a birthplace."),
-  ("Where can I hear Billy BYBF?", "His catalogue is on Deezer, Shazam and YouTube: start with DI YO SA 2, then SPOUTNIK (BING BANG), BAW SA and BADDIE, and continue with our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> and our <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a> page.")
- ],
+  (
+    "What is the real name behind Billy BYBF?",
+    "Official platform credits name Fabien Aurela as writer and composer of nearly the whole Billy Bybf catalogue, from DI YO SA 2 (2023) to SUPER BAYOBONFÈ (2026), and as writer of the BYBF STUDIO singles. Billy BYBF is therefore read in this profile as his stage name. The artist has not confirmed it in a published biography found during this research, and the link is presented as a reading of the credits.",
+  ),
+  (
+    "What is BYBF STUDIO?",
+    "BYBF STUDIO is the label that appears on the Shazam pages of Billy BYBF recent singles: BAW SA (SANTA BAYOBONFÈ) on 28 December 2025 and SPOUTNIK (BING BANG) on 10 March 2026, with Billy BYBF credited as producer. It is an imprint under his own name, a sign of independent production controlled by the artist.",
+  ),
+  (
+    "What are Billy BYBF albums and EPs?",
+    "The Deezer discography documents the Diyosa EP (23 December 2022, credited BILLY), the album DI YO SA 2 (2 August 2023, nine tracks), the album TRAVAILLONS with Team Bwè Tou Sa (13 July 2024, fourteen tracks), the EP SUPER BAYOBONFÈ (29 April 2026, four tracks) and the GALAKTIK EP with Lunik and Riko (20 August 2026).",
+  ),
+  (
+    "Who does Billy BYBF work with most often?",
+    "The credits draw a stable circle: the crew Team Bwè Tou Sa and its members Ludmael and Ludmilian FLOWER and Nicolas MACBETH, producer Magbeatz on the 2025 and 2026 singles, DJ SKYCEE on 10 Degrés, NUMBER ONE and BADDIE, and recurring writers O’Neal Chatelot and Yanis Batta. He also appears with Ricky Bishop on IG and with Atox and Tito on CARIBBEAN GYAL.",
+  ),
+  (
+    "Is Billy BYBF Guadeloupean?",
+    "No published biography gives his birthplace. What the catalogue documents is a Guadeloupean identity claimed in the titles: the single GWADLOUPÉYEN (9 October 2026), a catalogue in French and Creole classified as French language by Shazam, and a collaboration network entirely anchored in the Guadeloupe bouyon scene. This profile therefore describes an artist of the Guadeloupe scene, without inventing a birthplace.",
+  ),
+  (
+    "Where can I hear Billy BYBF?",
+    "His catalogue is on Deezer, Shazam and YouTube. Start with the album “DI YO SA 2”, then “SPOUTNIK (BING BANG)” and “BAW SA” for the BYBF STUDIO period, and “BADDIE” for the DJ SKYCEE side. To hear him among new bouyon releases, follow the Bouyon Road Mix: comment ROAD MIX under an @bouyonshattaz post on Instagram, or open our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>.",
+  ),
+  (
+    "Who is Billy BYBF?",
+    "Billy BYBF is an artist of the Guadeloupe bouyon scene whose catalogue, from the Diyosa EP (2022) to the October 2026 singles, is almost entirely written and composed by Fabien Aurela according to official credits. He sings in French and Creole, works with the Team Bwè Tou Sa crew, producer Magbeatz and DJ SKYCEE, and since late 2025 has released on his own label, BYBF STUDIO.",
+  ),
+  (
+    "What style of music does Billy BYBF make?",
+    "Billy BYBF makes modern bouyon gwada: short tracks, often between a minute and a half and under three minutes, Creole choruses and fast electronic production. Shazam lists “Bombe Atomique”, “SPOUTNIK (BING BANG)” and “BAW SA” at 160 BPM, the tempo of fast bouyon. Our <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a> page tells how Guadeloupe made this Dominica-born sound its own.",
+  ),
+  (
+    "Who produces Billy BYBF songs?",
+    "Most often, Billy BYBF himself. On “BAW SA (SANTA BAYOBONFÈ)” and “SPOUTNIK (BING BANG)”, the Shazam pages credit him as producer, with Magbeatz as recording engineer and Fabien Aurela and O’Neal Chatelot as writers. On “BADDIE”, the YouTube credits name DJ SKYCEE and Billy Bybf as producers. Magbeatz’s role in this partnership is detailed on his <a href=\"/en/magbeatz.html\">Magbeatz</a> page.",
+  ),
+  (
+    "Who produced BADDIE by Billy BYBF and DJ SKYCEE?",
+    "“BADDIE” was produced by DJ SKYCEE and Billy Bybf, according to the song’s official YouTube credits. The single came out on 11 September 2026 via TuneCore under the name 97TODIWORLD, written by Fabien Aurela and Yanis Batta. It continues a run of duo records that started with “10 Degrés” in 2024 and “NUMBER ONE” in 2025. See also our <a href=\"/en/dj-skycee.html\">DJ Skycee</a> page.",
+  ),
+  (
+    "What is the link between Billy BYBF and Team Bwè Tou Sa?",
+    "Billy BYBF is one of the regular partners of the Guadeloupe crew Team Bwè Tou Sa. Together they released the album “TRAVAILLONS” (13 July 2024, fourteen tracks) and the single “Mal élevé”, and Billy BYBF already appears on “Véyé mwen”, on the 2022 album “Voyé sa alléé II”. In 2025 the bangers “ZING CHAP” and “SINOBÒL” brought the same circle together again. See <a href=\"/en/team-bwe-tou-sa.html\">Team Bwè Tou Sa</a>.",
+  ),
+  (
+    "What are Billy BYBF’s latest releases?",
+    "The most recent documented releases are the singles “MALIBU” (14 October 2026) and “GWADLOUPÉYEN” (9 October 2026), preceded by “BADDIE” with DJ SKYCEE (11 September 2026) and the “GALAKTIK” EP with Lunik and Riko (20 August 2026). Spring 2026 brought the “SUPER BAYOBONFÈ” EP, “SPOUTNIK (BING BANG)” and “BDKMV”. The pace stays close to one release a month.",
+  ),
+  (
+    "Does Billy BYBF sing on D.O.C FIX DEM records?",
+    "Yes, on two records by the Guadeloupe studio name D.O.C FIX DEM. “Asi Mwen” (19 September 2025) credits him on vocals with LGC and Le_Daah, with Fabien Aurela among the five writers. On “Tik Tak” (6 February 2026), Billy BYBF is featured with DEE ZEN and DDK, and Fabien Aurela is credited on vocals and writing. See <a href=\"/en/doc-fix-dem.html\">D.O.C FIX DEM</a>.",
+  ),
+  (
+    "Is Billy BYBF on BAISE-MOI by Laka?",
+    "Yes. “BAISE-MOI”, Laka’s collective session released on 22 November 2023 on the LAKA label, credits Billy Bybf among eight guests, with Riko, Le Bluff, Tgx, PIXOU, Le daah, WAYSEE and Team Bwè Tou Sa. The track is in French, at 160 BPM, and Fabien Aurela is among its thirteen writers. The full session is covered on our <a href=\"/en/laka.html\">Laka</a> page.",
+  ),
+  (
+    "Has Billy BYBF performed live in Paris?",
+    "Yes, one date is documented: the Pops Summer Club #2 night, on Friday 16 October 2026 at 17 rue Tiquetonne in Paris’s 2nd arrondissement, announced a performance by Billy BYBF alongside Zequin, Banklaady and Deezen, with Magbeatz on keyboard. DJ sets included Atox. The night’s tags ran from bouyon to shatta and dancehall. See <a href=\"/en/magbeatz.html\">Magbeatz</a>.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/billy-bybf.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/billy-bybf.html#artist", "name": "Billy BYBF", "alternateName": "Fabien Aurela", "description": "Bouyon artist from the Guadeloupe scene. Official credits name Fabien Aurela as writer of his catalogue: DI YO SA 2 (2023), TRAVAILLONS with Team Bwè Tou Sa (2024), SUPER BAYOBONFÈ (2026) and the BYBF STUDIO singles.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "I Pè Mandé-y"}, {"@type": "MusicRecording", "name": "Avec ou Sans"}, {"@type": "MusicRecording", "name": "Kenbé Sa"}, {"@type": "MusicRecording", "name": "Holiday"}, {"@type": "MusicRecording", "name": "Tatami"}, {"@type": "MusicRecording", "name": "Bombe Atomique"}, {"@type": "MusicRecording", "name": "AKFTA"}, {"@type": "MusicRecording", "name": "NO CAP"}, {"@type": "MusicRecording", "name": "DO YOU FEEL IT ?"}, {"@type": "MusicRecording", "name": "BOUNCE4ME"}, {"@type": "MusicRecording", "name": "CHIMEN CHYEN"}, {"@type": "MusicRecording", "name": "SPOUTNIK (BING BANG)"}, {"@type": "MusicRecording", "name": "BAW SA (SANTA BAYOBONFÈ)"}, {"@type": "MusicRecording", "name": "BADDIE"}, {"@type": "MusicRecording", "name": "GWADLOUPÉYEN"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

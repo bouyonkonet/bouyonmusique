@@ -75,13 +75,63 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui sont les membres du Bushtown Clan nommés dans les sources ?", "La biographie du producteur Dada, sur ShowcaseYourMusic, nomme quatre artistes comme ceux qui ont formé le groupe : Kendel « Loosin » Knight, Kerry « Syco Fury » Severin, Nigel « Jonny Blaze » Anthony et Steven « Bofa » Lander. Le profil de Nemesiz, sur Bandmine, ajoute qu’il a rejoint le Clan en décembre 1998."),
-  ("Quel genre de groupe était le Bushtown Clan ?", "Un collectif dominicain de DJs et de producteurs. La biographie de Dada le décrit comme un groupe populaire de dancehall, de soca, de hip hop et de bouyon. Son travail passait par les performances DJ, les remixes et les enregistrements, avec une production centrée sur l’échantillon."),
-  ("Quel est le lien entre le Bushtown Clan et le Wrecketeng ?", "Le Clan a joué un rôle important dans le développement précoce et la popularisation du Wrecketeng en Dominique. Produit du bouyon-muffin, il a été inspiré par des titres comme « Party », avec Joanne et DJ Cut, pour incorporer davantage de hip hop et de dancehall, dans la chaîne qui a créé le style."),
-  ("Quand le Bushtown Clan a-t-il fait ses débuts locaux ?", "En décembre 2000, selon le profil de Nemesiz sur Bandmine. Le même profil raconte que Nemesiz avait rejoint le Clan en décembre 1998, qu’il était demandé pour de nombreux spectacles, et que le duo de DJs C.A.P., formé sur la route avec le Clan, a créé des mixes en Dominique et à Saint-Martin et sorti son premier mix au même moment que les débuts locaux du Clan."),
-  ("Comment le Bushtown Clan a-t-il influencé Dada ?", "Selon sa biographie, Krishna « Dada » Lawrence a grandi entouré des quatre artistes qui ont formé le Bushtown Clan, et le groupe lui a donné la motivation pour creuser plus profondément la musique. Dada a ensuite fait sortir la Nursery Krew Inc., l’étape suivante du Wrecketeng au début des années 2000, où il produit notamment « Peanuts »."),
-  ("Le Bushtown Clan est-il cité dans le projet Wrecketeng de 2025 ?", "Oui. L’album collaboratif de Smokiller annoncé le 3 décembre 2025 par Dominica News Online cherche, selon le compte rendu de l’annonce, à attirer l’attention sur les contributions de DJ Cut, du Bushtown Clan et de la Nursery Krew Inc. au développement de sons aujourd’hui associés au bouyon contemporain.")
- ],
+  (
+    "Qui sont les membres du Bushtown Clan nommés dans les sources ?",
+    "La biographie du producteur Dada, sur ShowcaseYourMusic, nomme quatre artistes comme ceux qui ont formé le groupe : Kendel « Loosin » Knight, Kerry « Syco Fury » Severin, Nigel « Jonny Blaze » Anthony et Steven « Bofa » Lander. Le profil de Nemesiz, sur Bandmine, ajoute qu’il a rejoint le Clan en décembre 1998. C’est le seul effectif publié du collectif dans les sources consultées.",
+  ),
+  (
+    "Quel genre de groupe était le Bushtown Clan ?",
+    "Un collectif dominicain de DJs et de producteurs. La biographie de Dada le décrit comme un groupe populaire de dancehall, de soca, de hip hop et de bouyon. Son travail passait par les performances DJ, les remixes et les enregistrements, avec une production centrée sur l’échantillon, loin du format des grands groupes live qui avaient bâti la première réputation du bouyon.",
+  ),
+  (
+    "Quel est le lien entre le Bushtown Clan et le Wrecketeng ?",
+    "Le Clan a joué un rôle important dans le développement précoce et la popularisation du Wrecketeng en Dominique. Produit du bouyon-muffin, il a été inspiré par des titres comme « Party », avec Joanne et DJ Cut, pour incorporer davantage de hip hop et de dancehall, dans la chaîne qui a créé le style. Voir <a href=\"/wrecketeng.html\">le Wrecketeng</a>.",
+  ),
+  (
+    "Quand le Bushtown Clan a-t-il fait ses débuts locaux ?",
+    "En décembre 2000, selon le profil de Nemesiz sur Bandmine. Le même profil raconte que Nemesiz avait rejoint le Clan en décembre 1998, qu’il était demandé pour de nombreux spectacles, et que le duo de DJs C.A.P., formé sur la route avec le Clan, a créé des mixes en Dominique et à Saint-Martin et sorti son premier mix au même moment que les débuts locaux du Clan.",
+  ),
+  (
+    "Comment le Bushtown Clan a-t-il influencé Dada ?",
+    "Selon sa biographie, <a href=\"/dada.html\">Dada</a> a grandi entouré des quatre artistes qui ont formé le Bushtown Clan, et le groupe lui a donné la motivation pour creuser plus profondément la musique. Dada a ensuite fait sortir la Nursery Krew Inc., l’étape suivante du Wrecketeng au début des années 2000, où il produit notamment « Peanuts ».",
+  ),
+  (
+    "Le Bushtown Clan est-il cité dans le projet Wrecketeng de 2025 ?",
+    "Oui. L’album collaboratif de Smokiller annoncé le 3 décembre 2025 par Dominica News Online cherche, selon le compte rendu de l’annonce, à attirer l’attention sur les contributions de DJ Cut, du Bushtown Clan et de la Nursery Krew Inc. au développement de sons aujourd’hui associés au bouyon contemporain. Les contributeurs annoncés incluent DJ Cut, Klass Money et Charlie Black.",
+  ),
+  (
+    "D’où vient le Bushtown Clan ?",
+    "Le Bushtown Clan est un collectif de la Dominique, l’île où le bouyon est né, actif sur les spectacles de la fin des années 1990. Son travail ne s’est pas limité à la scène locale : à travers ses membres et le duo de DJs C.A.P., né sur la route avec le Clan, ses mixes circulaient déjà entre la Dominique et Saint-Martin, selon le profil de Nemesiz.",
+  ),
+  (
+    "Qui est Nemesiz, du Bushtown Clan ?",
+    "Nemesiz est un artiste qui, selon son profil sur Bandmine, a rejoint le Bushtown Clan en décembre 1998, puis a été demandé pour de nombreux spectacles dans les mois suivants. Sur la route avec le Clan, il a rencontré un Kerry avec qui il a formé le duo de DJs C.A.P. Ce site ne confond pas ce Kerry avec Kerry « Syco Fury » Severin, cité par Dada : les sources ne permettent pas de l’établir.",
+  ),
+  (
+    "Qu’est-ce que le duo C.A.P., lié au Bushtown Clan ?",
+    "C.A.P. est un duo de DJs formé par Nemesiz avec un Kerry rencontré sur la route avec le Bushtown Clan. Selon le profil de Nemesiz, le duo a marqué l’underground en quelques mois, avec des mixes uniques en Dominique et à Saint-Martin. Son premier mix, intitulé « Weve Just Begun Vol. 1 » dans l’orthographe du profil, est sorti vers décembre 2000, au moment des débuts locaux du Clan.",
+  ),
+  (
+    "Quels remix sont attribués au Bushtown Clan ?",
+    "Aucun remix précis n’est attribué au Clan seul dans les sources consultées. La page française de Wikipedia cite, pour les crews pionniers pris ensemble (Bushtown Clan, Klockerz Krew et Nursery Krew), des remix bouyon de « Big Pimpin’ » de Jay-Z avec UGK et de « Ridin’ Dirty » de Chamillionaire. Cette section porte un bandeau signalant des sources insuffisantes : ce site la rapporte donc en l’attribuant.",
+  ),
+  (
+    "Quelle est la différence entre le Bushtown Clan et WCK ?",
+    "<a href=\"/wck.html\">WCK</a>, formé à Roseau en 1988, a créé le bouyon avec un groupe complet de musiciens sur scène. Le Bushtown Clan appartient à l’autre famille, celle des crews de DJs et de producteurs : des voix, des machines, des danses, des mixes et des remix. Cette différence de format est le cœur de son histoire, car le Wrecketeng est la branche du bouyon née dans la cabine plutôt que sur scène.",
+  ),
+  (
+    "Quel est le lien entre le Bushtown Clan et le bouyon-muffin ?",
+    "Les anciennes versions de la page anglaise de Wikipedia décrivent le Clan comme un produit du <a href=\"/bouyon-muffin.html\">bouyon-muffin</a>, la branche qui intègre le raggamuffin jamaïcain, le hip hop et le dancehall. Sa figure documentée est Skinny Banton, qui collabore avec WCK à partir de 1995. Le Clan a poussé cet héritage plus loin, vers un style fondé sur l’échantillon : le Wrecketeng.",
+  ),
+  (
+    "Quel son faisait le Bushtown Clan ?",
+    "Selon la page anglaise de Wikipedia, le Clan misait sur l’échantillon, l’expérimentation rythmique et des voix déjà enregistrées posées sur des instrumentaux bouyon réarrangés : des titres connus qui revenaient habillés en bouyon. Le son décrit pour le style dans son ensemble réunit percussions rapides, basses lourdes, motifs rythmiques répétitifs et voix influencées par le dancehall et le rap caribéens.",
+  ),
+  (
+    "Le Bushtown Clan a-t-il créé le bouyon soca ?",
+    "Non. Selon le témoignage de première main de Smokiller, le bouyon soca a été lancé par Dada en 2003 en Dominique, puis popularisé par Triple Kay. Le lien du Clan avec ce style est indirect : le groupe a formé l’oreille de Dada, qui dit avoir grandi auprès de ses quatre fondateurs. C’est une filiation musicale documentée, pas une paternité. Voir <a href=\"/bouyon-soca.html\">le bouyon soca</a>.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/bushtown-clan.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/bushtown-clan.html#artist", "name": "Bushtown Clan", "description": "Collectif dominicain de dancehall, soca, hip hop et bouyon, au rôle important dans le développement précoce et la popularisation du Wrecketeng.", "genre": "Bouyon", "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -153,13 +203,63 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who are the members of the Bushtown Clan named in the sources?", "The biography of producer Dada, on ShowcaseYourMusic, names four artists as those who formed the group: Kendel “Loosin” Knight, Kerry “Syco Fury” Severin, Nigel “Jonny Blaze” Anthony and Steven “Bofa” Lander. The profile of Nemesiz, on Bandmine, adds that he joined the Clan in December 1998."),
-  ("What kind of group was the Bushtown Clan?", "A Dominican collective of DJs and producers. The biography of Dada describes it as a popular dancehall, soca, hip hop and bouyon group. Its work ran through DJ performances, remixes and recordings, with a production approach centred on sampling."),
-  ("What is the link between the Bushtown Clan and Wrecketeng?", "The Clan played an important role in the early development and popularisation of Wrecketeng in Dominica. A product of bouyon-muffin, it was inspired by tracks such as “Party”, featuring Joanne and DJ Cut, to incorporate more hip hop and dancehall, in the chain that created the style."),
-  ("When did the Bushtown Clan make its local debut?", "In December 2000, according to the profile of Nemesiz on Bandmine. The same profile tells how Nemesiz had joined the Clan in December 1998, was in demand for numerous shows, and how the DJ duo C.A.P., formed on the road with the Clan, created mixes in Dominica and St Maarten and released its first mix at the same time as the local debut of the Clan."),
-  ("How did the Bushtown Clan influence Dada?", "According to his biography, Krishna “Dada” Lawrence grew up around the four artists who formed the Bushtown Clan, and the group gave him the motivation to dig deeper into music. Dada later brought out Nursery Krew Inc., the next stage of Wrecketeng in the early 2000s, where he produced tracks including “Peanuts”."),
-  ("Is the Bushtown Clan cited in the 2025 Wrecketeng project?", "Yes. The Smokiller collaborative album announced on December 3, 2025 by Dominica News Online seeks, according to the report of the announcement, to draw attention to the contributions of DJ Cut, the Bushtown Clan and Nursery Krew Inc. to the development of sounds now associated with contemporary bouyon.")
- ],
+  (
+    "Who are the members of the Bushtown Clan named in the sources?",
+    "The biography of producer Dada, on ShowcaseYourMusic, names four artists as those who formed the group: Kendel “Loosin” Knight, Kerry “Syco Fury” Severin, Nigel “Jonny Blaze” Anthony and Steven “Bofa” Lander. The profile of Nemesiz, on Bandmine, adds that he joined the Clan in December 1998. It is the only published line up of the collective in the sources consulted.",
+  ),
+  (
+    "What kind of group was the Bushtown Clan?",
+    "A Dominican collective of DJs and producers. The biography of Dada describes it as a popular dancehall, soca, hip hop and bouyon group. Its work ran through DJ performances, remixes and recordings, with a production approach centred on sampling, far from the format of the big live bands that built the first reputation of bouyon.",
+  ),
+  (
+    "What is the link between the Bushtown Clan and Wrecketeng?",
+    "The Clan played an important role in the early development and popularisation of Wrecketeng in Dominica. A product of bouyon-muffin, it was inspired by tracks such as “Party”, featuring Joanne and DJ Cut, to incorporate more hip hop and dancehall, in the chain that created the style. See <a href=\"/en/wrecketeng.html\">Wrecketeng</a>.",
+  ),
+  (
+    "When did the Bushtown Clan make its local debut?",
+    "In December 2000, according to the profile of Nemesiz on Bandmine. The same profile tells how Nemesiz had joined the Clan in December 1998, was in demand for numerous shows, and how the DJ duo C.A.P., formed on the road with the Clan, created mixes in Dominica and St Maarten and released its first mix at the same time as the local debut of the Clan.",
+  ),
+  (
+    "How did the Bushtown Clan influence Dada?",
+    "According to his biography, <a href=\"/en/dada.html\">Dada</a> grew up around the four artists who formed the Bushtown Clan, and the group gave him the motivation to dig deeper into music. Dada later brought out Nursery Krew Inc., the next stage of Wrecketeng in the early 2000s, where he produced tracks including “Peanuts”.",
+  ),
+  (
+    "Is the Bushtown Clan cited in the 2025 Wrecketeng project?",
+    "Yes. The Smokiller collaborative album announced on December 3, 2025 by Dominica News Online seeks, according to the report of the announcement, to draw attention to the contributions of DJ Cut, the Bushtown Clan and Nursery Krew Inc. to the development of sounds now associated with contemporary bouyon. The announced contributors include DJ Cut, Klass Money and Charlie Black.",
+  ),
+  (
+    "Where is the Bushtown Clan from?",
+    "The Bushtown Clan is a collective from Dominica, the island where bouyon was born, active on the show circuit at the end of the 1990s. Its work did not stay in one local scene: through its members and the DJ duo C.A.P., born on the road with the Clan, its mixes already travelled between Dominica and St Maarten, according to the profile of Nemesiz.",
+  ),
+  (
+    "Who is Nemesiz of the Bushtown Clan?",
+    "Nemesiz is an artist who, according to his Bandmine profile, joined the Bushtown Clan in December 1998, then was in demand for numerous shows over the following months. On the road with the Clan, he met a Kerry with whom he formed the DJ duo C.A.P. This site does not merge that Kerry with Kerry “Syco Fury” Severin, named by Dada: the sources do not establish it.",
+  ),
+  (
+    "What is C.A.P., the duo linked to the Bushtown Clan?",
+    "C.A.P. is a DJ duo formed by Nemesiz with a Kerry he met on the road with the Bushtown Clan. According to the Nemesiz profile, the duo made underground history within a few months, with unique mixes in Dominica and St Maarten. Its debut mix, titled “Weve Just Begun Vol. 1” in the profile’s spelling, came out around December 2000, at the time of the Clan’s local debut.",
+  ),
+  (
+    "Which remixes are credited to the Bushtown Clan?",
+    "No specific remix is credited to the Clan alone in the sources consulted. The French Wikipedia page cites, for the pioneer crews taken together (Bushtown Clan, Klockerz Krew and Nursery Krew), bouyon remixes of “Big Pimpin’” by Jay-Z with UGK and “Ridin’ Dirty” by Chamillionaire. That section carries a banner flagging insufficient sources, so this site reports it with attribution.",
+  ),
+  (
+    "What is the difference between the Bushtown Clan and WCK?",
+    "<a href=\"/en/wck.html\">WCK</a>, formed in Roseau in 1988, created bouyon with a full band of musicians on stage. The Bushtown Clan belongs to the other family, the crews of DJs and producers: voices, machines, dances, mixes and remixes. That difference of format is the heart of its story, because Wrecketeng is the branch of bouyon born in the booth rather than on the stage.",
+  ),
+  (
+    "What is the link between the Bushtown Clan and bouyon-muffin?",
+    "Older versions of the English Wikipedia page describe the Clan as a product of <a href=\"/en/bouyon-muffin.html\">bouyon-muffin</a>, the branch that incorporates Jamaican raggamuffin, hip hop and dancehall. Its documented figure is Skinny Banton, who collaborated with WCK from 1995. The Clan pushed that inheritance further, toward a style built on sampling: Wrecketeng.",
+  ),
+  (
+    "What did the Bushtown Clan sound like?",
+    "According to the English Wikipedia page, the Clan relied on sampling, rhythmic experimentation and existing vocal recordings laid over newly arranged bouyon instrumentals: known songs coming back dressed as bouyon. The sound described for the style as a whole combines fast percussion, heavy basslines, repetitive rhythmic patterns and vocals influenced by Caribbean dancehall and rap.",
+  ),
+  (
+    "Did the Bushtown Clan create bouyon soca?",
+    "No. According to the first-hand testimony of Smokiller, bouyon soca was started by Dada in 2003 in Dominica, then popularised by Triple Kay. The Clan’s link to that style is indirect: the group formed the ear of Dada, who says he grew up around its four founders. It is a documented musical parentage, not an authorship. See <a href=\"/en/bouyon-soca.html\">bouyon soca</a>.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/bushtown-clan.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/bushtown-clan.html#artist", "name": "Bushtown Clan", "description": "Dominican dancehall, soca, hip hop and bouyon collective, with an important role in the early development and popularisation of Wrecketeng.", "genre": "Bouyon", "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

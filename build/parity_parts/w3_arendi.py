@@ -76,13 +76,63 @@ FR = {
   ]
  ],
  "faq": [
-  ("Arendi fait-il partie du groupe HollyG ?", "Non. HollyG est un trio familial formé de Holly et de ses nièces 6 Tresses et Cheveux Rouge, de Trois-Rivières et de Vieux-Habitants, en Guadeloupe. Arendi est un artiste solo de Guadeloupe qui a collaboré avec le trio sur « Je l’ai vu », sorti le 22 octobre 2021. Il est le co-interprète du titre, pas un membre du groupe."),
-  ("Quel est le rôle d’Arendi dans le single d’or « Je l’ai vu » ?", "Le SNEP enregistre « Je l’ai vu » sous les noms Holly G et Arendi, avec le label Vadore Concept Groupe et le distributeur Believe. Arendi est donc co-interprète officiel du titre, et le clip le crédite comme auteur, avec HollyG. La certification single d’or a été constatée le 10 juillet 2025, trois ans et neuf mois après la sortie."),
-  ("Quels sont les titres d’Arendi à écouter en premier ?", "Commencez par « Shatta ay », avec Magma QLM, sorti le 5 février 2021 chez 113 Music Empire, son titre bouyon en propre, puis « Je l’ai vu », avec HollyG, sorti le 22 octobre 2021 et certifié single d’or en 2025. Le troisième titre vérifié de ce profil est « Kylian Mbappé (feat. Mata) », listé sur les plateformes avec Arendi comme interprète."),
-  ("Qui écrit les titres d’Arendi ?", "Les crédits publiés nomment Lory Monrose comme auteur ou compositeur sur « Shatta ay », avec Trapking Beats à la composition, et comme auteur sur « Kylian Mbappé (feat. Mata) ». Ce profil rapporte Lory Monrose comme un nom de crédit publié. Aucune source vérifiée ne permet d’en faire un nom civil confirmé, et ce site ne le présente pas comme tel."),
-  ("D’où vient Arendi et que sait-on de sa vie ?", "Les sources vérifiées établissent un artiste de Guadeloupe : indicatif 971 dans ses coordonnées publiques publiées en 2021, chaîne Arendi Officiel classée parmi les chaînes YouTube de Guadeloupe par vidIQ, et collaborations enregistrées au Voodoo Studio avec la scène guadeloupéenne. En revanche, aucune biographie de référence consultée en octobre 2026 ne donne sa commune, sa date de naissance ou son parcours personnel, et ce profil ne les invente pas."),
-  ("Faut-il écrire Arendi ou Arandi ?", "Arendi, avec un e. C’est la graphie de ses titres bouyon, de sa chaîne Arendi Officiel et de la ligne du SNEP pour « Je l’ai vu ». Arandi, avec un a, est un autre nom d’artiste présent sur les plateformes, sans rapport avec le bouyon de Guadeloupe documenté ici.")
- ],
+  (
+    "Qui est Arendi ?",
+    "Arendi est un artiste bouyon de Guadeloupe, connu du grand public pour « Je l’ai vu », chanté avec le trio <a href=\"/holly-g.html\">HollyG</a> et certifié single d’or par le SNEP le 10 juillet 2025, sous les noms Holly G et Arendi. Avant ce titre, il avait déjà signé son propre titre bouyon, « Shatta ay », avec Magma QLM, en février 2021. C’est un artiste solo, pas un membre de HollyG.",
+  ),
+  (
+    "Arendi fait-il partie du groupe HollyG ?",
+    "Non. HollyG est un trio familial formé de Holly et de ses nièces 6 Tresses et Cheveux Rouge, de Trois-Rivières et de Vieux-Habitants, en Guadeloupe. Arendi est un artiste solo de Guadeloupe qui a collaboré avec le trio sur « Je l’ai vu », sorti le 22 octobre 2021. Il est le co-interprète du titre, pas un membre du groupe.",
+  ),
+  (
+    "Quel est le rôle d’Arendi dans le single d’or « Je l’ai vu » ?",
+    "Le SNEP enregistre « Je l’ai vu » sous les noms Holly G et Arendi, avec le label Vadore Concept Groupe et le distributeur Believe. Arendi est donc co-interprète officiel du titre, et le clip le crédite comme auteur, avec HollyG. La certification single d’or a été constatée le 10 juillet 2025, trois ans et neuf mois après la sortie.",
+  ),
+  (
+    "Quels sont les titres d’Arendi à écouter en premier ?",
+    "Commencez par « Shatta ay », avec Magma QLM, sorti le 5 février 2021 chez 113 Music Empire, son titre bouyon en propre, puis « Je l’ai vu », avec HollyG, sorti le 22 octobre 2021 et certifié single d’or en 2025. Le troisième titre vérifié de ce profil est « Kylian Mbappé (feat. Mata) », listé sur les plateformes avec Arendi comme interprète.",
+  ),
+  (
+    "Qui écrit les titres d’Arendi ?",
+    "Les crédits publiés nomment Lory Monrose comme auteur ou compositeur sur « Shatta ay », avec Trapking Beats à la composition, et comme auteur sur « Kylian Mbappé (feat. Mata) ». Ce profil rapporte Lory Monrose comme un nom de crédit publié. Aucune source vérifiée ne permet d’en faire un nom civil confirmé, et ce site ne le présente pas comme tel.",
+  ),
+  (
+    "D’où vient Arendi et que sait-on de sa vie ?",
+    "Les sources vérifiées établissent un artiste de Guadeloupe : indicatif 971 dans ses coordonnées publiques publiées en 2021, chaîne Arendi Officiel classée parmi les chaînes YouTube de Guadeloupe par vidIQ, et collaborations enregistrées au Voodoo Studio avec la scène guadeloupéenne. En revanche, aucune biographie de référence consultée en octobre 2026 ne donne sa commune, sa date de naissance ou son parcours personnel, et ce profil ne les invente pas.",
+  ),
+  (
+    "Faut-il écrire Arendi ou Arandi ?",
+    "Arendi, avec un e. C’est la graphie de ses titres bouyon, de sa chaîne Arendi Officiel et de la ligne du SNEP pour « Je l’ai vu », et ses propres clips l’écrivent aussi Arèndi, avec un accent grave. Arandi, avec un a, est un autre nom d’artiste présent sur les plateformes, sans rapport avec le bouyon de Guadeloupe documenté ici.",
+  ),
+  (
+    "Qui a produit « Shatta ay » d’Arendi ?",
+    "Selon les crédits du clip officiel, « Shatta ay » est écrit par Arèndi et Magma Qlm, composé par Trapking Beats, avec Yg Gucci au piano et un enregistrement au Voodoo Studio. La page Deezer ajoute Lory Monrose comme compositeur et auteur, et rattache le titre, sorti le 5 février 2021, au label 113 Music Empire. Les hashtags officiels du clip le classent en bouyon.",
+  ),
+  (
+    "Qui a composé et produit « Je l’ai vu » d’Arendi et HollyG ?",
+    "Le clip officiel crédite la composition à Dj Flip Tha Boss et l’écriture à HollyG et Arendi. Le titre est enregistré au Voodoo Studio, et la production réunit Vadore Concept, Voodoo Studio, The Best Prod et Dj Raptor Martinique. VJ Ben est associé au titre et au clip, tourné à Galets Beach, au domaine de la Petite Sucrerie. Le SNEP le rattache à Vadore Concept Groupe et Believe.",
+  ),
+  (
+    "Arendi fait-il du bouyon ou du shatta ?",
+    "Du bouyon, d’après ses propres crédits : les hashtags officiels de « Shatta ay » sont Bouyon, Clip Officiel et TrapKingBeats. Le titre emprunte son nom à la culture shatta, le dancehall martiniquais, qui traverse le bouyon gwada de ces années-là. Arendi reste un artiste du bouyon gwada, la branche guadeloupéenne du genre créé en Dominique. Voir <a href=\"/bouyon-ou-shatta.html\">bouyon ou shatta</a>.",
+  ),
+  (
+    "Arendi a-t-il une chaîne YouTube ?",
+    "Oui, Arendi Officiel, annoncée dans les crédits de ses clips. Le classement des chaînes YouTube de Guadeloupe publié par vidIQ la plaçait au huitième rang de l’archipel lors de sa consultation en octobre 2026, avec environ 45 000 abonnés, environ 21 millions de vues cumulées et 29 vidéos. Ce sont les chiffres d’un outil de mesure tiers, rapportés avec cette attribution et cette date.",
+  ),
+  (
+    "Qui est VJ Ben, associé à Arendi ?",
+    "VJ Ben est un artiste de Guadeloupe qui apparaît deux fois dans le dossier d’Arendi : parmi les noms cités à l’image dans le clip de « Shatta ay », puis sur « Je l’ai vu », que la biographie de HollyG présente comme une collaboration avec Arendi et VJ Ben, passée au-delà des 10 millions de vues. Son parcours est raconté sur la page <a href=\"/vj-ben.html\">VJ Ben</a>.",
+  ),
+  (
+    "Qu’est-ce que « Kylian Mbappé (feat. Mata) » d’Arendi ?",
+    "C’est le troisième titre vérifié d’Arendi. Le listing Shazam du titre le présente comme interprète, avec Mata en featuring, et crédite Lory Monrose comme auteur, le même nom d’écriture que sur « Shatta ay ». Ce profil n’en reprend ni date ni label, faute de source vérifiée, mais le titre figure dans les données structurées de la page, aux côtés de « Shatta ay » et de « Je l’ai vu ».",
+  ),
+  (
+    "Où écouter Arendi ?",
+    "Ses trois titres vérifiés, « Shatta ay », « Je l’ai vu » et « Kylian Mbappé (feat. Mata) », sont repris dans notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, la Road Mix de Bouyon Shattaz, au milieu des titres guadeloupéens de la même période. Sur YouTube, sa chaîne s’appelle Arendi Officiel. Pour recevoir la Road Mix en DM, commentez ROAD MIX sous une publication Instagram de @bouyonshattaz.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/arendi.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/arendi.html#artist", "name": "Arendi", "description": "Artiste bouyon de Guadeloupe. Co-interprète, avec HollyG, de Je l’ai vu, certifié single d’or par le SNEP en France, constat du 10 juillet 2025. Auteur interprète de Shatta ay, avec Magma QLM, en 2021.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Shatta ay"}, {"@type": "MusicRecording", "name": "Je l’ai vu"}, {"@type": "MusicRecording", "name": "Kylian Mbappé (feat. Mata)"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -154,13 +204,63 @@ EN = {
   ]
  ],
  "faq": [
-  ("Is Arendi a member of the HollyG group?", "No. HollyG is a family trio made up of Holly and her nieces 6 Tresses and Cheveux Rouge, from Trois-Rivières and Vieux-Habitants, in Guadeloupe. Arendi is a solo artist from Guadeloupe who collaborated with the trio on “Je l’ai vu”, released on 22 October 2021. He is the co-performer of the track, not a member of the group."),
-  ("What is Arendi role in the gold single “Je l’ai vu”?", "SNEP records “Je l’ai vu” under the names Holly G and Arendi, with the label Vadore Concept Groupe and the distributor Believe. Arendi is therefore an official co-performer of the track, and the video credits him as a writer, with HollyG. The gold single certification was recorded on 10 July 2025, three years and nine months after release."),
-  ("Which Arendi tracks should I hear first?", "Start with “Shatta ay”, with Magma QLM, released on 5 February 2021 on 113 Music Empire, his own bouyon track, then “Je l’ai vu”, with HollyG, released on 22 October 2021 and certified gold single in 2025. The third verified track in this profile is “Kylian Mbappé (feat. Mata)”, listed on platforms with Arendi as performer."),
-  ("Who writes Arendi tracks?", "Published credits name Lory Monrose as writer or composer on “Shatta ay”, with Trapking Beats composing, and as writer on “Kylian Mbappé (feat. Mata)”. This profile reports Lory Monrose as a published credit name. No verified source allows it to be turned into a confirmed legal name, and this site does not present it as one."),
-  ("Where is Arendi from and what is known about his life?", "Verified sources establish an artist from Guadeloupe: the 971 code in his public details published in 2021, the Arendi Officiel channel ranked among Guadeloupe YouTube channels by vidIQ, and collaborations recorded at Voodoo Studio with the Guadeloupe scene. However, no reference biography consulted in October 2026 gives his commune, his birth date or his personal path, and this profile does not invent them."),
-  ("Should it be written Arendi or Arandi?", "Arendi, with an e. That is the spelling of his bouyon tracks, of his Arendi Officiel channel and of the SNEP line for “Je l’ai vu”. Arandi, with an a, is another artist name present on platforms, unrelated to the Guadeloupe bouyon documented here.")
- ],
+  (
+    "Who is Arendi?",
+    "Arendi is a bouyon artist from Guadeloupe, known to the wider public for “Je l’ai vu”, sung with the <a href=\"/en/holly-g.html\">HollyG</a> trio and certified gold single by SNEP on 10 July 2025, under the names Holly G and Arendi. Before that track, he had already released his own bouyon track, “Shatta ay”, with Magma QLM, in February 2021. He is a solo artist, not a member of HollyG.",
+  ),
+  (
+    "Is Arendi a member of the HollyG group?",
+    "No. HollyG is a family trio made up of Holly and her nieces 6 Tresses and Cheveux Rouge, from Trois-Rivières and Vieux-Habitants, in Guadeloupe. Arendi is a solo artist from Guadeloupe who collaborated with the trio on “Je l’ai vu”, released on 22 October 2021. He is the co-performer of the track, not a member of the group.",
+  ),
+  (
+    "What is Arendi’s role in the gold single “Je l’ai vu”?",
+    "SNEP records “Je l’ai vu” under the names Holly G and Arendi, with the label Vadore Concept Groupe and the distributor Believe. Arendi is therefore an official co-performer of the track, and the video credits him as a writer, with HollyG. The gold single certification was recorded on 10 July 2025, three years and nine months after release.",
+  ),
+  (
+    "Which Arendi tracks should I hear first?",
+    "Start with “Shatta ay”, with Magma QLM, released on 5 February 2021 on 113 Music Empire, his own bouyon track, then “Je l’ai vu”, with HollyG, released on 22 October 2021 and certified gold single in 2025. The third verified track in this profile is “Kylian Mbappé (feat. Mata)”, listed on platforms with Arendi as performer.",
+  ),
+  (
+    "Who writes Arendi’s tracks?",
+    "Published credits name Lory Monrose as writer or composer on “Shatta ay”, with Trapking Beats composing, and as writer on “Kylian Mbappé (feat. Mata)”. This profile reports Lory Monrose as a published credit name. No verified source allows it to be turned into a confirmed legal name, and this site does not present it as one.",
+  ),
+  (
+    "Where is Arendi from and what is known about his life?",
+    "Verified sources establish an artist from Guadeloupe: the 971 code in his public details published in 2021, the Arendi Officiel channel ranked among Guadeloupe YouTube channels by vidIQ, and collaborations recorded at Voodoo Studio with the Guadeloupe scene. However, no reference biography consulted in October 2026 gives his commune, his birth date or his personal path, and this profile does not invent them.",
+  ),
+  (
+    "Should it be written Arendi or Arandi?",
+    "Arendi, with an e. That is the spelling of his bouyon tracks, of his Arendi Officiel channel and of the SNEP line for “Je l’ai vu”, and his own videos also write it Arèndi, with a grave accent. Arandi, with an a, is another artist name present on platforms, unrelated to the Guadeloupe bouyon documented here.",
+  ),
+  (
+    "Who produced “Shatta ay” by Arendi?",
+    "According to the official video credits, “Shatta ay” was written by Arèndi and Magma Qlm, composed by Trapking Beats, with Yg Gucci on piano and recording at Voodoo Studio. The Deezer page adds Lory Monrose as composer and writer, and ties the track, released on 5 February 2021, to the 113 Music Empire label. The video’s official hashtags file it under bouyon.",
+  ),
+  (
+    "Who composed and produced “Je l’ai vu” by Arendi and HollyG?",
+    "The official video credits the composition to Dj Flip Tha Boss and the writing to HollyG and Arendi. The track was recorded at Voodoo Studio, and production brings together Vadore Concept, Voodoo Studio, The Best Prod and Dj Raptor Martinique. VJ Ben is associated with the track and the video, shot at Galets Beach, on the Petite Sucrerie estate. SNEP ties it to Vadore Concept Groupe and Believe.",
+  ),
+  (
+    "Does Arendi make bouyon or shatta?",
+    "Bouyon, according to his own credits: the official hashtags of “Shatta ay” are Bouyon, Clip Officiel and TrapKingBeats. The track borrows its name from shatta culture, the Martinican dancehall genre, which runs through the bouyon gwada of those years. Arendi remains a bouyon gwada artist, in the Guadeloupe branch of the genre created in Dominica. See <a href=\"/en/bouyon-vs-shatta.html\">bouyon vs shatta</a>.",
+  ),
+  (
+    "Does Arendi have a YouTube channel?",
+    "Yes, Arendi Officiel, announced in the credits of his videos. The ranking of Guadeloupe YouTube channels published by vidIQ placed it eighth in the archipelago when consulted in October 2026, with about 45,000 subscribers, about 21 million cumulative views and 29 videos. These are figures from a third party measurement tool, reported with that attribution and that date.",
+  ),
+  (
+    "Who is VJ Ben, linked to Arendi?",
+    "VJ Ben is a Guadeloupe artist who appears twice in Arendi’s file: among the names shown on screen in the “Shatta ay” video, then on “Je l’ai vu”, which the HollyG biography presents as a collaboration with Arendi and VJ Ben that passed 10 million views. His path is told on the <a href=\"/en/vj-ben.html\">VJ Ben</a> page.",
+  ),
+  (
+    "What is “Kylian Mbappé (feat. Mata)” by Arendi?",
+    "It is Arendi’s third verified track. The Shazam listing for the track presents him as performer, with Mata featured, and credits Lory Monrose as writer, the same writing name as on “Shatta ay”. This profile gives it no date and no label, for lack of a verified source, but the track appears in the page’s structured data, alongside “Shatta ay” and “Je l’ai vu”.",
+  ),
+  (
+    "Where can I listen to Arendi?",
+    "His three verified tracks, “Shatta ay”, “Je l’ai vu” and “Kylian Mbappé (feat. Mata)”, are in our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, the Bouyon Shattaz Road Mix, among Guadeloupe tracks of the same period. On YouTube, his channel is called Arendi Officiel. To receive the Road Mix by DM, comment ROAD MIX under an Instagram post by @bouyonshattaz.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/arendi.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/arendi.html#artist", "name": "Arendi", "description": "Bouyon artist from Guadeloupe. Co-performer, with HollyG, of Je l’ai vu, certified gold single by SNEP in France, recorded on 10 July 2025. Writer and performer of Shatta ay, with Magma QLM, in 2021.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Shatta ay"}, {"@type": "MusicRecording", "name": "Je l’ai vu"}, {"@type": "MusicRecording", "name": "Kylian Mbappé (feat. Mata)"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

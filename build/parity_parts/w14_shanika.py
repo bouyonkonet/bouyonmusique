@@ -75,13 +75,67 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Shanika ?", "Shanika est une chanteuse antillaise de Guadeloupe, présentée par sa biographie publiée chez Music Story comme une artiste immergée dans la musique depuis l’enfance, passée des reprises à ses propres titres dans le style shatta dancehall et bouyon. En décembre 2025, l’éditrice Maïté Berchel-Bordin la cite dans Caraïb Créole News parmi les artistes bouyon les plus emblématiques du moment en Guadeloupe, avec Lejuh, 1T1, Theomaa et Aknose."),
-  ("Quel est le nom de Shanika dans les crédits de ses chansons ?", "C’est le détail que les autres portraits ne donnent pas : les fiches officielles créditent presque tous ses titres, côté écriture, au nom de Maeva Alphonse, également écrit Alphonse Maeva, et sous la forme longue Maeva Ingrid Alphonse sur des featurings récents. Elle signe les paroles de « Chocolate », coécrit « Hot Gal » avec Clifford Smith et « 5 Kilos » avec Christy Campbell, le nom civil d’Admiral T. Elle a aussi coécrit « Ding Dong » sur l’album « BAD QUEEN » de Maureen, sorti le 16 février 2024."),
-  ("Quel titre a fait connaître Shanika ?", "« Kay ve yo », sorti le 27 mai 2023 sur Voodoo Studio et produit par DJ Taffy selon les crédits du clip officiel. Sa biographie publiée dit que ce single a attiré une attention particulière et lui a permis de se produire dans plusieurs pays, dont la France, l’Allemagne et la Guyane."),
-  ("Avec qui Shanika chante t elle « Chocolate » ?", "Avec <a href=\"/le-bluff.html\">Le Bluff</a>. Le titre est sorti le 29 septembre 2023 sur Voodoo Studio. La fiche Shazam crédite Alphonse Maeva pour les paroles, Jonathan ELUSCA pour la composition et la programmation, et donne un tempo de 160 BPM."),
-  ("Qu’est ce que « 5 Kilos » ?", "C’est le deuxième titre de l’album « Premières Notes » de Lewismelo, sorti le 1er novembre 2024, avec Admiral T et Shanika en featuring. Le titre est écrit par Christy Campbell et Maëva Alphonse, et NRJ Antilles l’a présenté comme un nouveau hit signé Lewismelo, Admiral T et Shanika."),
-  ("Où écouter Shanika et la vague bouyon gwada ?", "Commencez par « Kay ve yo », « Chocolate », « Hot Gal » et « 5 Kilos », puis écoutez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> et lisez notre page <a href=\"/bouyon-gwada.html\">bouyon gwada</a> pour la situer parmi les Lejuh, 1T1, Pinpin OSP et Miimii KDS de sa génération.")
- ],
+  (
+    "Qui est Shanika ?",
+    "Shanika est une chanteuse antillaise de Guadeloupe, présentée par sa biographie publiée chez Music Story comme une artiste immergée dans la musique depuis l’enfance, passée des reprises à ses propres titres dans le style shatta dancehall et bouyon. En décembre 2025, l’éditrice Maïté Berchel-Bordin la cite dans Caraïb Créole News parmi les artistes bouyon les plus emblématiques du moment en Guadeloupe, avec Lejuh, 1T1, Theomaa et Aknose.",
+  ),
+  (
+    "D’où vient Shanika ?",
+    "Shanika vient de la Guadeloupe : sa biographie Music Story, reprise par Qobuz, la présente comme une chanteuse antillaise polyvalente de l’île. Son titre « Kay ve yo » l’a ensuite emmenée sur scène en France, en Allemagne et en Guyane. En 2025, elle était l’une des deux invitées de Guadeloupe de The Bouyon Assembly au World Creole Music Festival, en Dominique.",
+  ),
+  (
+    "Shanika est-elle une chanteuse de bouyon ou de shatta ?",
+    "Les deux : sa biographie publiée la place entre le shatta dancehall et le bouyon, la zone exacte où se joue le bouyon gwada actuel. Ses tempos publiés montent à 160 BPM, le tempo de référence du bouyon moderne, sur « Chocolate ». Ses collaborations la relient à deux générations de la scène guadeloupéenne, de HollyG et Pinpin OSP jusqu’à Admiral T.",
+  ),
+  (
+    "Quel est le nom de Shanika dans les crédits de ses chansons ?",
+    "Dans les crédits officiels, Shanika signe ses textes sous le nom de Maeva Alphonse, également écrit Alphonse Maeva, et sous la forme longue Maeva Ingrid Alphonse sur des featurings récents. Elle signe les paroles de « Chocolate », coécrit « Hot Gal » avec Clifford Smith et « 5 Kilos » avec Christy Campbell, le nom civil d’Admiral T. Cette page rapporte ces crédits tels qu’ils sont publiés.",
+  ),
+  (
+    "Shanika écrit-elle pour d’autres artistes ?",
+    "Oui, au moins une fois de façon vérifiée : sur l’album « BAD QUEEN » de Maureen, sorti le 16 février 2024 chez Mau Art Production, le quatrième titre, « Ding Dong », est coécrit par Maureen Lucea et Maëva Alphonse, le nom sous lequel Shanika signe ses textes. Il est composé par Axel Campier et Allan Meyapin Bordin, et Viberate le range parmi les titres associés à son nom.",
+  ),
+  (
+    "Quel titre a fait connaître Shanika ?",
+    "« Kay ve yo », sorti le 27 mai 2023 sur Voodoo Studio et produit par DJ Taffy selon les crédits du clip officiel. Sa biographie publiée dit que ce single a attiré une attention particulière et lui a permis de se produire dans plusieurs pays, dont la France, l’Allemagne et la Guyane. Viberate le place en tête de ses titres les plus populaires.",
+  ),
+  (
+    "« Kay ve yo » de Shanika est-il le même projet que le Kay Vé Yo Riddim ?",
+    "Rien ne permet de l’affirmer. Shazam liste un « Kay Vé Yo Riddim » publié par Natoxie en mars 2023, avec « Kay Vé Yo Folle » de Natoxie et Chatix, mais les sources ouvertes n’établissent pas que le single de Shanika appartient à ce riddim. Ce qui est vérifié, c’est le crédit du clip de Shanika : <a href=\"/dj-taffy.html\">DJ Taffy</a> à la production.",
+  ),
+  (
+    "Avec qui Shanika chante t elle « Chocolate » ?",
+    "Avec <a href=\"/le-bluff.html\">Le Bluff</a>. Le titre est sorti le 29 septembre 2023 sur Voodoo Studio. La fiche Shazam crédite Alphonse Maeva pour les paroles, Jonathan ELUSCA pour la composition et la programmation, et donne un tempo de 160 BPM. C’est un bouyon rapide à deux voix, écrit par l’artiste elle-même, et l’une des portes d’entrée les plus sûres dans son univers.",
+  ),
+  (
+    "Shanika a-t-elle travaillé avec Mr Vegas ?",
+    "Oui, sur « Hot Gal », sorti le 26 janvier 2024 chez Aztec Musique et Voodoo Studio. Deezer crédite l’écriture à Clifford Smith, le nom de naissance de Mr Vegas, et à Maëva Alphonse, avec Tyron, des Wavemakers, à la composition. Viberate présente le titre comme une collaboration de Shanika avec Mr Vegas, que sa biographie Music Story cite aussi parmi ses collaborations marquantes.",
+  ),
+  (
+    "Qu’est ce que « 5 Kilos » ?",
+    "C’est le deuxième titre de l’album « Premières Notes » de Lewismelo, sorti le 1er novembre 2024, avec Admiral T et Shanika en featuring. Le titre est écrit par Christy Campbell et Maëva Alphonse, et NRJ Antilles l’a présenté comme un nouveau hit signé Lewismelo, Admiral T et Shanika. Shanika y coécrit et chante aux côtés de l’une des grandes figures historiques de la musique guadeloupéenne.",
+  ),
+  (
+    "Avec quels artistes bouyon Shanika a-t-elle collaboré ?",
+    "Ses fiches publiées la relient à <a href=\"/1t1.html\">1T1</a> (« Sa Dou » et « bla bla bla », avec HollyG, en 2023), à Le Bluff, à Pinpin OSP sur « On Fwa » en juillet 2024, à Miimii et Mikado sur « Knock Knock », à DJ Taffy sur « Sa ka bay », à Dexterman sur « Sé vou » et « Miaou », puis à Edday et Jixels sur « She miss me » en janvier 2026.",
+  ),
+  (
+    "Quelles sont les chansons les plus populaires de Shanika ?",
+    "Selon Viberate, ses titres les plus populaires sont « Kay ve yo », en tête, puis « 5 KILOS » et « OKEII », suivis de « Hot Gal », « Ding Dong », « Knock Knock », « Mwen ki pa bon », « Tou pa tou », « On Fwa » et « Sa ka bay ». « Okeii », sorti le 18 juillet 2023 sur Voodoo Studio, est écrit par Alphonse Maeva et composé par Nicolas Zita.",
+  ),
+  (
+    "Quels titres Shanika a-t-elle sortis en 2025 ?",
+    "En 2025, Shanika a sorti « Sé vou », avec Dexterman et I Paf Hau, le 17 janvier, « Replay » le 11 avril, puis « Miaou », avec Dexterman, le 28 août, tous sur Voodoo Studio. Le 17 décembre 2025, Safo a publié « Push and go » avec Shanika, coécrit par Glen Safo et Maeva Ingrid Alphonse. Aucun album solo n’est annoncé dans les sources publiées.",
+  ),
+  (
+    "Shanika a-t-elle joué au World Creole Music Festival ?",
+    "Oui. Pour la 25e édition, le samedi 25 octobre 2025 au Windsor Park de Roseau, en Dominique, Shanika était l’une des deux invitées de Guadeloupe, avec Jixels, de The Bouyon Assembly, le segment entièrement bouyon de la nuit 2. Elle partageait ce bloc avec la relève dominicaine, Ridge, Pudaz, Kenny G et Quan. Voir notre page <a href=\"/world-creole-music-festival.html\">World Creole Music Festival</a>.",
+  ),
+  (
+    "Où écouter Shanika et la vague bouyon gwada ?",
+    "Commencez par « Kay ve yo », « Chocolate », « Hot Gal » et « 5 Kilos », ses titres les plus documentés. Pour entendre la scène bouyon de Guadeloupe et de la Dominique dans son ensemble, la <a href=\"/playlist-bouyon.html\">playlist ROAD MIX</a> de Bouyon Shattaz rassemble nouveautés, bouyon soca et classiques de carnaval, sur Spotify et YouTube.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/shanika.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/shanika.html#artist", "name": "Shanika", "description": "Chanteuse antillaise de Guadeloupe, entre shatta dancehall et bouyon. Titres vérifiés : Kay ve yo (2023), Chocolate avec Le Bluff (2023), Hot Gal (2024), 5 Kilos avec Lewismelo et Admiral T (2024). Ses crédits publiés d’autrice portent le nom de Maeva Alphonse.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Kay ve yo"}, {"@type": "MusicRecording", "name": "Okeii"}, {"@type": "MusicRecording", "name": "Chocolate"}, {"@type": "MusicRecording", "name": "Hot Gal"}, {"@type": "MusicRecording", "name": "Tou pa tou"}, {"@type": "MusicRecording", "name": "La La La"}, {"@type": "MusicRecording", "name": "Sa ka bay"}, {"@type": "MusicRecording", "name": "Knock Knock"}, {"@type": "MusicRecording", "name": "Feeling"}, {"@type": "MusicRecording", "name": "Mwen ki pa bon"}, {"@type": "MusicRecording", "name": "Sé vou"}, {"@type": "MusicRecording", "name": "Replay"}, {"@type": "MusicRecording", "name": "5 Kilos"}, {"@type": "MusicRecording", "name": "On Fwa"}], "sameAs": ["https://www.deezer.com/fr/artist/6306886", "https://www.qobuz.com/at-de/interpreter/shanika/1902748"]}}],
  "date_modified": "2026-10-20"
 }
@@ -152,13 +206,67 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Shanika?", "Shanika is a West Indian singer from Guadeloupe, presented by her Music Story published biography as an artist immersed in music since childhood, who moved from covers to her own tracks in the shatta dancehall and bouyon style. In December 2025, the publisher Maïté Berchel-Bordin names her in Caraïb Créole News among the most emblematic bouyon artists of the moment in Guadeloupe, with Lejuh, 1T1, Theomaa and Aknose."),
-  ("What is Shanika name in the credits of her songs?", "That is the detail other portraits do not give: official listings credit nearly all of her tracks, on the writing side, to the name Maeva Alphonse, also written Alphonse Maeva, and in the long form Maeva Ingrid Alphonse on recent features. She signs the lyrics of “Chocolate”, co-writes “Hot Gal” with Clifford Smith and “5 Kilos” with Christy Campbell, the civil name of Admiral T. She also co-wrote “Ding Dong” on the Maureen album “BAD QUEEN”, released on February 16, 2024."),
-  ("Which track made Shanika known?", "“Kay ve yo”, released on May 27, 2023 on Voodoo Studio and produced by DJ Taffy according to the official video credits. Her published biography says the single attracted particular attention and allowed her to perform in several countries, including France, Germany and Guyana."),
-  ("Who does Shanika sing “Chocolate” with?", "With <a href=\"/en/le-bluff.html\">Le Bluff</a>. The track was released on September 29, 2023 on Voodoo Studio. The Shazam listing credits Alphonse Maeva for the lyrics, Jonathan ELUSCA for the composition and programming, and gives a tempo of 160 BPM."),
-  ("What is “5 Kilos”?", "It is the second track of the Lewismelo album “Premières Notes”, released on November 1, 2024, featuring Admiral T and Shanika. The track is written by Christy Campbell and Maëva Alphonse, and NRJ Antilles presented it as a new hit signed Lewismelo, Admiral T and Shanika."),
-  ("Where can I hear Shanika and the bouyon gwada wave?", "Start with “Kay ve yo”, “Chocolate”, “Hot Gal” and “5 Kilos”, then hear our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> and read our <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a> page to place her among the Lejuh, 1T1, Pinpin OSP and Miimii KDS of her generation.")
- ],
+  (
+    "Who is Shanika?",
+    "Shanika is a West Indian singer from Guadeloupe, presented by her Music Story published biography as an artist immersed in music since childhood, who moved from covers to her own tracks in the shatta dancehall and bouyon style. In December 2025, the publisher Maïté Berchel-Bordin named her in Caraïb Créole News among the most emblematic bouyon artists of the moment in Guadeloupe, with Lejuh, 1T1, Theomaa and Aknose.",
+  ),
+  (
+    "Where is Shanika from?",
+    "Shanika is from Guadeloupe: her Music Story biography, carried by Qobuz, presents her as a versatile West Indian singer from the island. Her track “Kay ve yo” then took her to stages in France, Germany and Guyana. In 2025, she was one of the two Guadeloupe guests of The Bouyon Assembly at the World Creole Music Festival, in Dominica.",
+  ),
+  (
+    "Is Shanika a bouyon or a shatta singer?",
+    "Both: her published biography places her between shatta dancehall and bouyon, the exact zone where current bouyon gwada is played. Her published tempos rise to 160 BPM, the reference tempo of modern bouyon, on “Chocolate”. Her collaborations connect her to two generations of the Guadeloupe scene, from HollyG and Pinpin OSP to Admiral T.",
+  ),
+  (
+    "What is Shanika's name in the credits of her songs?",
+    "In the official credits, Shanika signs her lyrics as Maeva Alphonse, also written Alphonse Maeva, and in the long form Maeva Ingrid Alphonse on recent features. She signs the lyrics of “Chocolate”, co-writes “Hot Gal” with Clifford Smith and “5 Kilos” with Christy Campbell, the civil name of Admiral T. This page reports those credits as published.",
+  ),
+  (
+    "Does Shanika write songs for other artists?",
+    "Yes, at least once in a verified way: on Maureen's album “BAD QUEEN”, released on February 16, 2024 on Mau Art Production, the fourth track, “Ding Dong”, is co-written by Maureen Lucea and Maëva Alphonse, the name under which Shanika signs her lyrics. It is composed by Axel Campier and Allan Meyapin Bordin, and Viberate ranks it among the songs associated with her name.",
+  ),
+  (
+    "Which track made Shanika known?",
+    "“Kay ve yo”, released on May 27, 2023 on Voodoo Studio and produced by DJ Taffy according to the official video credits. Her published biography says the single attracted particular attention and allowed her to perform in several countries, including France, Germany and Guyana. Viberate places it at the head of her most popular tracks.",
+  ),
+  (
+    "Is Shanika's “Kay ve yo” the same project as the Kay Vé Yo Riddim?",
+    "Nothing establishes it. Shazam lists a “Kay Vé Yo Riddim” published by Natoxie in March 2023, with “Kay Vé Yo Folle” by Natoxie and Chatix, but the sources opened do not show that Shanika's single belongs to that riddim. What is verified is the credit of her official video: <a href=\"/en/dj-taffy.html\">DJ Taffy</a> on production.",
+  ),
+  (
+    "Who does Shanika sing “Chocolate” with?",
+    "With <a href=\"/en/le-bluff.html\">Le Bluff</a>. The track was released on September 29, 2023 on Voodoo Studio. The Shazam listing credits Alphonse Maeva for the lyrics, Jonathan ELUSCA for the composition and programming, and gives a tempo of 160 BPM. It is a fast two voice bouyon, written by the artist herself, and one of the safest entry points into her world.",
+  ),
+  (
+    "Did Shanika work with Mr Vegas?",
+    "Yes, on “Hot Gal”, released on January 26, 2024 on Aztec Musique and Voodoo Studio. Deezer credits the writing to Clifford Smith, the birth name of Mr Vegas, and to Maëva Alphonse, with Tyron, of the Wavemakers, as composer. Viberate presents the track as a Shanika collaboration with Mr Vegas, whom her Music Story biography also lists among her notable collaborations.",
+  ),
+  (
+    "What is “5 Kilos”?",
+    "It is the second track of the Lewismelo album “Premières Notes”, released on November 1, 2024, featuring Admiral T and Shanika. The track is written by Christy Campbell and Maëva Alphonse, and NRJ Antilles presented it as a new hit signed Lewismelo, Admiral T and Shanika. Shanika co-writes and sings there beside one of the biggest historical figures of Guadeloupe music.",
+  ),
+  (
+    "Which bouyon artists has Shanika collaborated with?",
+    "Her published listings tie her to <a href=\"/en/1t1.html\">1T1</a> (“Sa Dou” and “bla bla bla”, with HollyG, in 2023), to Le Bluff, to Pinpin OSP on “On Fwa” in July 2024, to Miimii and Mikado on “Knock Knock”, to DJ Taffy on “Sa ka bay”, to Dexterman on “Sé vou” and “Miaou”, then to Edday and Jixels on “She miss me” in January 2026.",
+  ),
+  (
+    "What are Shanika's most popular songs?",
+    "According to Viberate, her most popular tracks are “Kay ve yo”, at the head, then “5 KILOS” and “OKEII”, followed by “Hot Gal”, “Ding Dong”, “Knock Knock”, “Mwen ki pa bon”, “Tou pa tou”, “On Fwa” and “Sa ka bay”. “Okeii”, released on July 18, 2023 on Voodoo Studio, is written by Alphonse Maeva and composed by Nicolas Zita.",
+  ),
+  (
+    "What did Shanika release in 2025?",
+    "In 2025, Shanika released “Sé vou”, with Dexterman and I Paf Hau, on January 17, “Replay” on April 11, then “Miaou”, with Dexterman, on August 28, all on Voodoo Studio. On December 17, 2025, Safo released “Push and go” with Shanika, co-written by Glen Safo and Maeva Ingrid Alphonse. No solo album is announced in the published sources.",
+  ),
+  (
+    "Did Shanika play the World Creole Music Festival?",
+    "Yes. For the 25th edition, on Saturday, October 25, 2025 at Windsor Park in Roseau, Dominica, Shanika was one of the two Guadeloupe guests, with Jixels, of The Bouyon Assembly, the all bouyon segment of Night Two. She shared that block with the Dominican new wave, Ridge, Pudaz, Kenny G and Quan. See our <a href=\"/en/world-creole-music-festival.html\">World Creole Music Festival</a> page.",
+  ),
+  (
+    "Where can I hear Shanika and the bouyon gwada wave?",
+    "Start with “Kay ve yo”, “Chocolate”, “Hot Gal” and “5 Kilos”, her best documented tracks. To hear the bouyon scene of Guadeloupe and Dominica as a whole, the Bouyon Shattaz <a href=\"/en/playlist-bouyon.html\">ROAD MIX playlist</a> gathers new releases, bouyon soca and carnival classics, on Spotify and YouTube.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/shanika.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/shanika.html#artist", "name": "Shanika", "description": "West Indian singer from Guadeloupe, between shatta dancehall and bouyon. Verified tracks: Kay ve yo (2023), Chocolate with Le Bluff (2023), Hot Gal (2024), 5 Kilos with Lewismelo and Admiral T (2024). Her published songwriter credits carry the name Maeva Alphonse.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Kay ve yo"}, {"@type": "MusicRecording", "name": "Okeii"}, {"@type": "MusicRecording", "name": "Chocolate"}, {"@type": "MusicRecording", "name": "Hot Gal"}, {"@type": "MusicRecording", "name": "Tou pa tou"}, {"@type": "MusicRecording", "name": "La La La"}, {"@type": "MusicRecording", "name": "Sa ka bay"}, {"@type": "MusicRecording", "name": "Knock Knock"}, {"@type": "MusicRecording", "name": "Feeling"}, {"@type": "MusicRecording", "name": "Mwen ki pa bon"}, {"@type": "MusicRecording", "name": "Sé vou"}, {"@type": "MusicRecording", "name": "Replay"}, {"@type": "MusicRecording", "name": "5 Kilos"}, {"@type": "MusicRecording", "name": "On Fwa"}], "sameAs": ["https://www.deezer.com/fr/artist/6306886", "https://www.qobuz.com/at-de/interpreter/shanika/1902748"]}}],
  "date_modified": "2026-10-20"
 }

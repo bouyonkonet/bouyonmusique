@@ -69,13 +69,59 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Xavvoknockin ?", "Xavvoknockin est un producteur et ingénieur du son du circuit bouyon de Sint Maarten, connu uniquement par ses génériques. Aucune page d’artiste, aucune biographie et aucun compte officiel à ce nom n’ont été retrouvés en octobre 2026. Ses crédits vérifiés sont la production, avec Xavern Labega, de « WTHelly Bouyon » de BRG Hollywood en 2025, et le mixage et le mastering de « Largent » de General Pye avec Ebony Empress."),
-  ("Quels titres Xavvoknockin a-t-il produits ?", "Le seul crédit de production porté par une fiche de plateforme est « WTHelly Bouyon », de BRG Hollywood avec Gwada G, sorti le 16 mai 2025 chez BankrollGang, à 164 BPM, produit par Xavvoknockin et Xavern Labega, avec Knockin Records à l’enregistrement, au mixage et au mastering. Trois autres titres de Trixta Savage, « Bad Man », « Believe In Love » et « A Hundred », portent son nom dans leurs intitulés de vidéos, sous la forme XavvoKnockin, sans fiche datée retrouvée."),
-  ("Xavvoknockin et Knockin Records, est-ce la même chose ?", "Aucune source consultée ne le dit, et ce profil est celui qui le dit ouvertement au lieu de le supposer. Knockin Records est créditée à l’enregistrement et à la finition de « WTHelly Bouyon » en 2025, puis comme label du titre « Storybook Riddim Freestyle » de D4A Nillio en décembre 2025. Le producteur et l’enseigne partagent la racine Knockin et le même circuit bouyon, mais aucun document consulté ne nomme le propriétaire de l’enseigne ni ne les identifie l’un à l’autre."),
-  ("D’où vient Xavvoknockin ?", "Aucune source consultée ne publie son origine personnelle, et ce profil ne l’invente pas. Ce qui est documenté est la scène de ses crédits : BRG Hollywood, General Pye, Ebony Empress et Trixta Savage appartiennent au circuit bouyon de Sint Maarten et de sa région. Le profil situe donc le producteur dans cette scène par ses génériques, sans affirmer une île ou une commune de naissance."),
-  ("Pourquoi Xavvoknockin s’écrit-il de deux façons ?", "Parce que les supports ne l’écrivent pas de la même façon. La fiche de « WTHelly Bouyon » sur Shazam l’écrit Xavvoknockin, en un mot. La description de la vidéo « Largent » et les intitulés des vidéos de Trixta Savage l’écrivent XavvoKnockin, avec une majuscule au milieu. Ce site retient la graphie de la fiche de titre pour le nom de la page, et signale l’autre forme à chaque fois qu’elle est la forme de la source."),
-  ("Où entendre le travail de Xavvoknockin ?", "Commencez par « WTHelly Bouyon » de BRG Hollywood avec Gwada G, son crédit de production, puis « Largent » de General Pye avec Ebony Empress, son crédit de mixage et de mastering. Poursuivez par notre profil de <a href=\"/brg-hollywood.html\">BRG Hollywood</a>, notre page <a href=\"/bouyon-saint-martin.html\">bouyon à Saint-Martin</a> et notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>.")
- ],
+  (
+    "Qui est Xavvoknockin ?",
+    "Xavvoknockin est un producteur et ingénieur du son du circuit bouyon de Sint Maarten, connu uniquement par ses génériques. Aucune page d’artiste, aucune biographie et aucun compte officiel à ce nom n’ont été retrouvés en octobre 2026. Ses crédits vérifiés sont la production, avec Xavern Labega, de « WTHelly Bouyon » de BRG Hollywood en 2025, et le mixage et le mastering de « Largent » de General Pye avec Ebony Empress.",
+  ),
+  (
+    "Quels titres Xavvoknockin a-t-il produits ?",
+    "Le seul crédit de production porté par une fiche de plateforme est « WTHelly Bouyon », de BRG Hollywood avec Gwada G, sorti le 16 mai 2025 chez BankrollGang, coproduit avec Xavern Labega. Trois titres de Trixta Savage portent aussi son nom dans leurs intitulés de vidéos. Sur « Largent », de General Pye avec Ebony Empress, il n’est pas producteur mais ingénieur, au mixage et au mastering.",
+  ),
+  (
+    "Qui a produit « WTHelly Bouyon » de BRG Hollywood ?",
+    "La fiche du titre nomme deux producteurs, Xavvoknockin et Xavern Labega, et crédite Knockin Records à l’enregistrement, au mixage et au mastering. Les auteurs publiés sont Jaheim Malakai Meyers, la forme complète du nom de BRG Hollywood, et Brad M Douglas. Le single, avec Gwada G en featuring, est sorti le 16 mai 2025 sur le label BankrollGang, en anglais, à 164 BPM.",
+  ),
+  (
+    "Qui chante sur « WTHelly Bouyon » ?",
+    "BRG Hollywood, de son nom Jaheim Meyers, artiste bouyon de Sint Maarten, avec Gwada G en featuring. Le titre paraît un mois après « Pocket Rocket », premier single daté du chanteur, et quelques mois avant « We Not Going Home », qui lui vaudra le premier million de vues YouTube d’un artiste du côté néerlandais de Sint Maarten. Voir notre profil de <a href=\"/brg-hollywood.html\">BRG Hollywood</a>.",
+  ),
+  (
+    "Qui a mixé et masterisé « Largent » de General Pye ?",
+    "Xavvoknockin, selon la description officielle de la vidéo YouTube, qui crédite la production à Fr3EzE et le mixage et le mastering à Xavvoknockin. La fiche du titre donne une sortie le 13 octobre 2025 chez Arctic Willow Firm, avec Jeremy Chaloner Reed comme auteur, Fr3eze comme producteur et un tempo de 130 BPM. Elle ne reprend pas le crédit de mixage, porté par la vidéo seule.",
+  ),
+  (
+    "Quels titres de Trixta Savage portent le nom de Xavvoknockin ?",
+    "Trois intitulés de vidéos, relevés sur une page de référencement : « Bad Man », avec JodyBree, et « Believe In Love », avec Young OB, tous deux crédités Prod. by XavvoKnockin, ainsi que « A Hundred », en audio officiel. Aucune fiche de titre datée n’a été ouverte pour ces trois enregistrements : ce sont des crédits de titres de vidéos, sans date de sortie affirmée.",
+  ),
+  (
+    "Xavvoknockin et Knockin Records, est-ce la même chose ?",
+    "Aucune source consultée ne le dit. Knockin Records est créditée à l’enregistrement et à la finition de « WTHelly Bouyon » en 2025, puis comme label de « Storybook Riddim Freestyle » de D4A Nillio en décembre 2025. Le producteur et l’enseigne partagent la racine Knockin et le même circuit bouyon, mais aucun document consulté ne nomme le propriétaire de l’enseigne ni ne les identifie l’un à l’autre.",
+  ),
+  (
+    "Xavvoknockin chante-t-il ?",
+    "Aucun titre interprété par Xavvoknockin lui-même n’est documenté. Tous ses crédits vérifiés sont des crédits de production et d’ingénierie sur les titres d’autres artistes : il fabrique un titre à 164 BPM pour BRG Hollywood et finalise, au mixage et au mastering, un titre à 130 BPM produit par Fr3EzE. Deux postes de la chaîne, mais aucune voix sur disque.",
+  ),
+  (
+    "D’où vient Xavvoknockin ?",
+    "Aucune source consultée ne publie son origine personnelle, et ce profil ne l’invente pas. Ce qui est documenté est la scène de ses crédits : BRG Hollywood, General Pye, Ebony Empress et Trixta Savage appartiennent au circuit bouyon de Sint Maarten et de sa région. Le profil situe donc le producteur dans cette scène par ses génériques, sans affirmer une île ou une commune de naissance.",
+  ),
+  (
+    "Pourquoi Xavvoknockin s’écrit-il de deux façons ?",
+    "Parce que les supports ne l’écrivent pas de la même façon. La fiche de « WTHelly Bouyon » sur Shazam l’écrit Xavvoknockin, en un mot. La description de la vidéo « Largent » et les intitulés des vidéos de Trixta Savage l’écrivent XavvoKnockin, avec une majuscule au milieu. Ce site retient la graphie de la fiche de titre pour le nom de la page, et signale l’autre forme à chaque fois qu’elle est la forme de la source.",
+  ),
+  (
+    "Quel est le lien entre Xavvoknockin et Ebony Empress ?",
+    "Un générique : le mixage et le mastering de « Largent », titre de General Pye où Ebony Empress chante en featuring, portent le nom de Xavvoknockin. Ebony Empress est documentée sur sa propre page comme une artiste du même circuit Sint Maarten et Dominique, présentée dans sa vidéo officielle sous son titre attribué, The Goddess of Bouyon. Voir notre profil d’<a href=\"/ebony-empress.html\">Ebony Empress</a>.",
+  ),
+  (
+    "Le bouyon est-il présent à Sint Maarten ?",
+    "Oui. Le bouyon est né en Dominique à la fin des années 1980, et la partie néerlandaise de Saint-Martin, Sint Maarten, a vu le bouyon dominicain s’implanter et produire ses propres artistes, comme BRG Hollywood, et ses propres producteurs de générique, dont Xavvoknockin est le mieux documenté. Lire notre page <a href=\"/bouyon-saint-martin.html\">bouyon à Saint-Martin</a>.",
+  ),
+  (
+    "Où entendre le travail de Xavvoknockin ?",
+    "Commencez par « WTHelly Bouyon » de BRG Hollywood avec Gwada G, son crédit de production, puis « Largent » de General Pye avec Ebony Empress, son crédit de mixage et de mastering. Pour la scène bouyon actuelle, de la Dominique aux autres îles, notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> Road Mix de Bouyon Shattaz réunit nouveautés et classiques.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/xavvoknockin.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/xavvoknockin.html#artist", "name": "Xavvoknockin", "description": "Producteur et ingénieur du son du circuit bouyon de Sint Maarten, documenté uniquement par ses génériques : production, avec Xavern Labega, de WTHelly Bouyon de BRG Hollywood en 2025, et mixage et mastering de Largent de General Pye avec Ebony Empress. Aucune biographie ni aucun compte officiel publiés.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "WTHelly Bouyon"}, {"@type": "MusicRecording", "name": "Largent"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -141,13 +187,59 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Xavvoknockin?", "Xavvoknockin is a producer and sound engineer from the Sint Maarten bouyon circuit, known only through his credit rolls. No artist page, no biography and no official account under this name was found in October 2026. His verified credits are the production, with Xavern Labega, of “WTHelly Bouyon” by BRG Hollywood in 2025, and the mixing and mastering of “Largent” by General Pye featuring Ebony Empress."),
-  ("Which records did Xavvoknockin produce?", "The only production credit carried by a platform song page is “WTHelly Bouyon”, by BRG Hollywood featuring Gwada G, released on May 16, 2025 on BankrollGang, at 164 BPM, produced by Xavvoknockin and Xavern Labega, with Knockin Records on recording, mixing and mastering. Three further Trixta Savage records, “Bad Man”, “Believe In Love” and “A Hundred”, carry his name in their video headings, in the form XavvoKnockin, with no dated song page found."),
-  ("Are Xavvoknockin and Knockin Records the same thing?", "No source consulted says so, and this profile is the one that says so openly instead of assuming it. Knockin Records is credited with recording and finishing “WTHelly Bouyon” in 2025, then as the label of the record “Storybook Riddim Freestyle” by D4A Nillio in December 2025. The producer and the banner share the Knockin root and the same bouyon circuit, but no document consulted names the owner of the banner or identifies the two as one."),
-  ("Where does Xavvoknockin come from?", "No source consulted publishes his personal origin, and this profile does not invent it. What is documented is the scene of his credits: BRG Hollywood, General Pye, Ebony Empress and Trixta Savage belong to the bouyon circuit of Sint Maarten and its region. The profile therefore places the producer in that scene through his credit rolls, without stating an island or a town of birth."),
-  ("Why is Xavvoknockin spelled in two ways?", "Because the supports do not write it the same way. The “WTHelly Bouyon” song page on Shazam writes it Xavvoknockin, in one word. The “Largent” video description and the headings of the Trixta Savage videos write it XavvoKnockin, with a capital letter in the middle. This site keeps the song page spelling for the name of the page, and flags the other form each time it is the form of the source."),
-  ("Where can I hear the work of Xavvoknockin?", "Start with “WTHelly Bouyon” by BRG Hollywood featuring Gwada G, his production credit, then “Largent” by General Pye featuring Ebony Empress, his mixing and mastering credit. Continue with our profile of <a href=\"/en/brg-hollywood.html\">BRG Hollywood</a>, our <a href=\"/en/bouyon-saint-martin.html\">bouyon in Saint Martin</a> page and our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>.")
- ],
+  (
+    "Who is Xavvoknockin?",
+    "Xavvoknockin is a producer and sound engineer from the Sint Maarten bouyon circuit, known only through his credit rolls. No artist page, no biography and no official account under this name was found in October 2026. His verified credits are the production, with Xavern Labega, of “WTHelly Bouyon” by BRG Hollywood in 2025, and the mixing and mastering of “Largent” by General Pye featuring Ebony Empress.",
+  ),
+  (
+    "Which records did Xavvoknockin produce?",
+    "The only production credit carried by a platform song page is “WTHelly Bouyon”, by BRG Hollywood featuring Gwada G, released on May 16, 2025 on BankrollGang, co-produced with Xavern Labega. Three Trixta Savage records also carry his name in their video headings. On “Largent”, by General Pye featuring Ebony Empress, he is not the producer but the engineer, on mixing and mastering.",
+  ),
+  (
+    "Who produced “WTHelly Bouyon” by BRG Hollywood?",
+    "The song page names two producers, Xavvoknockin and Xavern Labega, and credits Knockin Records with recording, mixing and mastering. The published songwriters are Jaheim Malakai Meyers, the full form of the BRG Hollywood name, and Brad M Douglas. The single, featuring Gwada G, was released on May 16, 2025 on the BankrollGang label, in English, at 164 BPM.",
+  ),
+  (
+    "Who sings on “WTHelly Bouyon”?",
+    "BRG Hollywood, whose name is Jaheim Meyers, a bouyon artist from Sint Maarten, featuring Gwada G. The record came out a month after “Pocket Rocket”, the singer’s first dated single, and a few months before “We Not Going Home”, which would earn him the first million YouTube views by an artist from the Dutch side of Sint Maarten. See our <a href=\"/en/brg-hollywood.html\">BRG Hollywood</a> profile.",
+  ),
+  (
+    "Who mixed and mastered “Largent” by General Pye?",
+    "Xavvoknockin, according to the official YouTube video description, which credits production to Fr3EzE and mixing and mastering to Xavvoknockin. The song page gives a release on October 13, 2025 on Arctic Willow Firm, with Jeremy Chaloner Reed as songwriter, Fr3eze as producer and a tempo of 130 BPM. It does not repeat the mixing credit, which rests on the video alone.",
+  ),
+  (
+    "Which Trixta Savage records carry the name Xavvoknockin?",
+    "Three video headings, found on a video listing page: “Bad Man”, featuring JodyBree, and “Believe In Love”, featuring Young OB, both credited Prod. by XavvoKnockin, and “A Hundred”, an official audio. No dated song page was opened for these three recordings: they are video heading credits, with no release date asserted.",
+  ),
+  (
+    "Are Xavvoknockin and Knockin Records the same thing?",
+    "No source consulted says so. Knockin Records is credited with recording and finishing “WTHelly Bouyon” in 2025, then as the label of “Storybook Riddim Freestyle” by D4A Nillio in December 2025. The producer and the banner share the Knockin root and the same bouyon circuit, but no document consulted names the owner of the banner or identifies the two as one.",
+  ),
+  (
+    "Does Xavvoknockin sing?",
+    "No record performed by Xavvoknockin himself is documented. All his verified credits are production and engineering credits on other artists’ records: he builds a 164 BPM record for BRG Hollywood and finishes, at mixing and mastering, a 130 BPM record produced by Fr3EzE. Two posts of the chain, but no voice on record.",
+  ),
+  (
+    "Where does Xavvoknockin come from?",
+    "No source consulted publishes his personal origin, and this profile does not invent it. What is documented is the scene of his credits: BRG Hollywood, General Pye, Ebony Empress and Trixta Savage belong to the bouyon circuit of Sint Maarten and its region. The profile therefore places the producer in that scene through his credit rolls, without stating an island or a town of birth.",
+  ),
+  (
+    "Why is Xavvoknockin spelled in two ways?",
+    "Because the supports do not write it the same way. The “WTHelly Bouyon” song page on Shazam writes it Xavvoknockin, in one word. The “Largent” video description and the headings of the Trixta Savage videos write it XavvoKnockin, with a capital letter in the middle. This site keeps the song page spelling for the name of the page, and flags the other form each time it is the form of the source.",
+  ),
+  (
+    "What is the link between Xavvoknockin and Ebony Empress?",
+    "A credit roll: the mixing and mastering of “Largent”, the General Pye record on which Ebony Empress sings as featured artist, carry the name Xavvoknockin. Ebony Empress is documented on her own page as an artist of the same Sint Maarten and Dominica circuit, presented in her official video under her attributed title, The Goddess of Bouyon. See our <a href=\"/en/ebony-empress.html\">Ebony Empress</a> profile.",
+  ),
+  (
+    "Is bouyon played in Sint Maarten?",
+    "Yes. Bouyon was born in Dominica in the late 1980s, and the Dutch side of Saint Martin, Sint Maarten, saw Dominican bouyon take root and produce its own artists, like BRG Hollywood, and its own credit roll producers, of whom Xavvoknockin is the best documented. Read our <a href=\"/en/bouyon-saint-martin.html\">bouyon in Saint Martin</a> page.",
+  ),
+  (
+    "Where can I hear the work of Xavvoknockin?",
+    "Start with “WTHelly Bouyon” by BRG Hollywood featuring Gwada G, his production credit, then “Largent” by General Pye featuring Ebony Empress, his mixing and mastering credit. For today’s bouyon scene, from Dominica to the other islands, our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, the Road Mix by Bouyon Shattaz, gathers new releases and classics.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/xavvoknockin.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/xavvoknockin.html#artist", "name": "Xavvoknockin", "description": "Producer and sound engineer from the Sint Maarten bouyon circuit, documented only through his credit rolls: production, with Xavern Labega, of WTHelly Bouyon by BRG Hollywood in 2025, and mixing and mastering of Largent by General Pye featuring Ebony Empress. No published biography or official account.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "WTHelly Bouyon"}, {"@type": "MusicRecording", "name": "Largent"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

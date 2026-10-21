@@ -75,13 +75,59 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Le Bluff ?", "Le Bluff est une voix invitée du bouyon guadeloupéen, documentée par quatre titres : « C HOT » en solo, et trois collaborations de 2023, « Chocolate » avec Shanika, « BAISE-MOI » avec Laka et sa session, et « VIN TCHEK NOU » sur l’album « Premières Notes » de Lewismelo. Aucune biographie publique ne documente son nom civil ou son parcours, et ce profil le dit ouvertement."),
-  ("Quel est le titre solo de Le Bluff ?", "« C HOT », un titre de 2 minutes 10 crédité à Le Bluff seul et référencé dans la playlist « The Sound of Bouyon » de Spotify, aux côtés de titres d’Asa Bantan, Triple Kay International, Kevni et TiiTii NBA. Les pages consultées ne publient ni sa date de sortie ni son label, et ce profil ne les invente pas."),
-  ("Qui chante « Chocolate » avec Shanika ?", "Le Bluff. « Chocolate », sorti le 29 septembre 2023 chez Voodoo Studio, est crédité à Shanika et Le Bluff comme interprètes, avec Alphonse Maeva à l’écriture et au chant et Jonathan ELUSCA, le compositeur derrière Jixels, à la composition et à la programmation. Les plateformes le classent en afro-beat à 160 BPM, dans le tempo du bouyon gwada."),
-  ("Le Bluff a-t-il sorti un album ?", "Aucun album ni EP solo de Le Bluff n’est documenté dans les sources consultées. Sa seule apparition sur un album est un featuring : « VIN TCHEK NOU », troisième titre de « Premières Notes » de Lewismelo, avec Leyou et Tedla. C’est une question à laquelle beaucoup de profils automatiques répondent en inventant une discographie : ici, la réponse vérifiée est non, pas à ce jour dans le dossier public."),
-  ("D’où vient Le Bluff ?", "Les sources consultées le documentent uniquement par le réseau de la scène bouyon des Antilles françaises : Shanika, Laka, les Team Bwè Tou Sa, Billy Bybf et Lewismelo sont ses collaborateurs publiés. Aucune source ne publie son lieu de naissance ou de résidence, et ce profil ne les devine pas à partir de ses collaborations."),
-  ("Où écouter Le Bluff ?", "Ses quatre titres documentés sont sur les plateformes : « C HOT », « Chocolate » avec Shanika, « BAISE-MOI » de Laka et « VIN TCHEK NOU » sur l’album de Lewismelo. Pour le bouyon de la même scène et de la même saison, écoutez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> et lisez notre page <a href=\"/bouyon-guadeloupe.html\">bouyon Guadeloupe</a>.")
- ],
+  (
+    "Qui est Le Bluff ?",
+    "Le Bluff est une voix invitée du bouyon guadeloupéen, documentée par quatre titres : « C HOT » en solo, et trois collaborations de 2023, « Chocolate » avec Shanika, « BAISE-MOI » avec Laka et sa session, et « VIN TCHEK NOU » sur l’album « Premières Notes » de Lewismelo. Aucune biographie publique ne documente son nom civil ou son parcours, et ce profil le dit ouvertement.",
+  ),
+  (
+    "Quel est le titre solo de Le Bluff ?",
+    "« C HOT », un titre de 2 minutes 10 crédité à Le Bluff seul et référencé dans la playlist « The Sound of Bouyon » de Spotify, aux côtés de titres d’Asa Bantan, Triple Kay International, Kevni et TiiTii NBA. Les pages consultées ne publient ni sa date de sortie ni son label, et ce profil ne les invente pas.",
+  ),
+  (
+    "Qui chante « Chocolate » avec Shanika ?",
+    "Le Bluff. « Chocolate », sorti le 29 septembre 2023 chez Voodoo Studio, est crédité à Shanika et Le Bluff comme interprètes, avec Alphonse Maeva à l’écriture et au chant et Jonathan ELUSCA, le compositeur derrière Jixels, à la composition et à la programmation. Les plateformes le classent en afro-beat à 160 BPM, dans le tempo du bouyon gwada.",
+  ),
+  (
+    "Le Bluff a-t-il sorti un album ?",
+    "Aucun album ni EP solo de Le Bluff n’est documenté dans les sources consultées. Sa seule apparition sur un album est un featuring : « VIN TCHEK NOU », troisième titre de « Premières Notes » de Lewismelo, avec Leyou et Tedla. Son catalogue vérifié tient en quatre titres, dont un seul en solo, « C HOT ».",
+  ),
+  (
+    "D’où vient Le Bluff ?",
+    "Les sources consultées le documentent uniquement par le réseau de la scène bouyon des Antilles françaises : Shanika, Laka, les Team Bwè Tou Sa, Billy Bybf et Lewismelo sont ses collaborateurs publiés. Aucune source ne publie son lieu de naissance ou de résidence, et ce profil ne les devine pas à partir de ses collaborations.",
+  ),
+  (
+    "Où écouter Le Bluff ?",
+    "Ses quatre titres documentés sont sur les plateformes : « C HOT », « Chocolate » avec Shanika, « BAISE-MOI » de Laka et « VIN TCHEK NOU » sur l’album de Lewismelo. Pour le bouyon de la même scène et de la même saison, écoutez le Road Mix de Bouyon Shattaz sur notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, qui suit les nouveautés de la Guadeloupe, de la Martinique et de la Dominique.",
+  ),
+  (
+    "« Chocolate » de Shanika et Le Bluff, c’est de l’afro-beat ou du bouyon ?",
+    "Les plateformes classent « Chocolate » en afro-beat, mais son tempo, son studio, son compositeur et ses voix appartiennent au bouyon gwada : 160 BPM, Voodoo Studio, une production de Jonathan ELUSCA, le nom derrière Jixels, et la voix de Shanika. Cette hésitation des classements est fréquente pour la scène actuelle, et ce profil range le titre pour son réseau et son tempo, documentés.",
+  ),
+  (
+    "Qui chante sur « BAISE-MOI » de Laka ?",
+    "Huit invités entourent Laka sur « BAISE-MOI », sorti le 22 novembre 2023 sur le label LAKA : Riko, Tgx, Billy Bybf, PIXOU, Le daah, WAYSEE, Team Bwè Tou Sa et Le Bluff. Shazam le donne à 160 BPM. C’est le format de la session collective, où toute une équipe se partage la même production, couplet après couplet, pour les soirées et les plateformes.",
+  ),
+  (
+    "Qui a écrit « VIN TCHEK NOU » sur l’album de Lewismelo ?",
+    "Les crédits d’écriture publiés nomment Youri Ellapin, Keran Landre et Ted Clarin. « VIN TCHEK NOU », troisième titre de « Premières Notes » de Lewismelo, dure 3 minutes 17 et réunit Le Bluff, Leyou et Tedla en invités. Le titre, viens nous voir en créole, appartient au vocabulaire des sessions : une invitation, une présentation d’équipe.",
+  ),
+  (
+    "Quels artistes figurent sur « Premières Notes » avec Le Bluff ?",
+    "L’album de Lewismelo réunit autour de lui Admiral T et Shanika sur « 5 KILOS », Dcamp et KEKS MAFIA sur « POMPÉ », Lejuh sur « ALOUETTE » et Jixels sur « HULLABALOO ». Le Bluff y tient sa place sur « VIN TCHEK NOU », avec Leyou et Tedla, sur le même disque que des noms établis de la scène guadeloupéenne. Voir le duo <a href=\"/dcamp-lewismelo.html\">Dcamp et Lewismelo</a>.",
+  ),
+  (
+    "Le Bluff a-t-il sorti des titres appelés « Bluff » ?",
+    "Non, les titres intitulés « Bluff » publiés par d’autres artistes ne sont pas les siens. Le nom Le Bluff est aussi une expression courante, que les moteurs de recherche noient sous des résultats sans rapport, du poker aux groupes étrangers. Ce profil ne retient que les occurrences dont les crédits, labels ou collaborations recoupent la scène bouyon des Antilles françaises, sous la graphie « Le bluff » ou « Le Bluff ».",
+  ),
+  (
+    "Quels artistes ressemblent à Le Bluff ?",
+    "Les bases de la scène comme Viberate placent Le Bluff dans le même nuage d’artistes que LaRose, Kima ou les LESTEF KJF BOYZ : le circuit dancehall et bouyon de la Guadeloupe et de la Martinique qui alimente les plateformes depuis le début des années 2020. Ses collaborateurs publiés, Shanika, Laka, Billy Bybf, Team Bwè Tou Sa et Lewismelo, tracent le même territoire.",
+  ),
+  (
+    "Qu’est-ce que la Team Bwè Tou Sa, avec qui chante Le Bluff ?",
+    "La Team Bwè Tou Sa, dont le nom signifie l’équipe boit tout ça en créole, est l’un des collectifs emblématiques des sessions bouyon et dancehall créole en Guadeloupe. Elle figure avec Le Bluff parmi les huit invités de « BAISE-MOI » de Laka en 2023. Ce format de posse cut, où une équipe entière se relaie sur une même production, est une institution du bouyon actuel.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/le-bluff.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/le-bluff.html#artist", "name": "Le Bluff", "description": "Voix invitée du bouyon guadeloupéen, documentée par quatre titres : C HOT en solo, Chocolate avec Shanika, BAISE-MOI avec Laka et VIN TCHEK NOU sur Premières Notes de Lewismelo, en 2023. Aucune biographie publique documentée.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'C HOT'}, {"@type": "MusicRecording", "name": 'Chocolate'}, {"@type": "MusicRecording", "name": 'BAISE-MOI'}, {"@type": "MusicRecording", "name": 'VIN TCHEK NOU'}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -153,13 +199,59 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Le Bluff?", "Le Bluff is a guest voice of Guadeloupe bouyon, documented by four records: “C HOT” solo, and three collaborations of 2023, “Chocolate” with Shanika, “BAISE-MOI” with Laka and his session, and “VIN TCHEK NOU” on the Lewismelo album “Premières Notes”. No public biography documents his real name or his path, and this profile says so openly."),
-  ("What is the solo record of Le Bluff?", "“C HOT”, a record of 2 minutes 10 credited to Le Bluff alone and referenced in the Spotify playlist “The Sound of Bouyon”, alongside records by Asa Bantan, Triple Kay International, Kevni and TiiTii NBA. The pages consulted publish neither its release date nor its label, and this profile does not invent them."),
-  ("Who sings “Chocolate” with Shanika?", "Le Bluff. “Chocolate”, released on September 29, 2023 by Voodoo Studio, is credited to Shanika and Le Bluff as performers, with Alphonse Maeva on writing and vocals and Jonathan ELUSCA, the composer behind Jixels, on composition and programming. The platforms class it as afro-beat at 160 BPM, in the tempo of bouyon gwada."),
-  ("Has Le Bluff released an album?", "No solo album or EP by Le Bluff is documented in the sources consulted. His only appearance on an album is a feature: “VIN TCHEK NOU”, the third track of “Premières Notes” by Lewismelo, with Leyou and Tedla. It is a question many automatic profiles answer by inventing a discography: here, the verified answer is no, not so far in the public record."),
-  ("Where is Le Bluff from?", "The sources consulted document him only through the network of the bouyon scene of the French Antilles: Shanika, Laka, Team Bwè Tou Sa, Billy Bybf and Lewismelo are his published collaborators. No source publishes his birthplace or his place of residence, and this profile does not guess them from his collaborations."),
-  ("Where can I hear Le Bluff?", "His four documented records are on the platforms: “C HOT”, “Chocolate” with Shanika, “BAISE-MOI” by Laka and “VIN TCHEK NOU” on the Lewismelo album. For the bouyon of the same scene and the same season, hear our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> and read our <a href=\"/en/bouyon-guadeloupe.html\">bouyon Guadeloupe</a> page.")
- ],
+  (
+    "Who is Le Bluff?",
+    "Le Bluff is a guest voice of Guadeloupe bouyon, documented by four records: “C HOT” solo, and three collaborations of 2023, “Chocolate” with Shanika, “BAISE-MOI” with Laka and his session, and “VIN TCHEK NOU” on the Lewismelo album “Premières Notes”. No public biography documents his real name or his path, and this profile says so openly.",
+  ),
+  (
+    "What is the solo record of Le Bluff?",
+    "“C HOT”, a record of 2 minutes 10 credited to Le Bluff alone and referenced in the Spotify playlist “The Sound of Bouyon”, alongside records by Asa Bantan, Triple Kay International, Kevni and TiiTii NBA. The pages consulted publish neither its release date nor its label, and this profile does not invent them.",
+  ),
+  (
+    "Who sings “Chocolate” with Shanika?",
+    "Le Bluff. “Chocolate”, released on September 29, 2023 by Voodoo Studio, is credited to Shanika and Le Bluff as performers, with Alphonse Maeva on writing and vocals and Jonathan ELUSCA, the composer behind Jixels, on composition and programming. The platforms class it as afro-beat at 160 BPM, in the tempo of bouyon gwada.",
+  ),
+  (
+    "Has Le Bluff released an album?",
+    "No solo album or EP by Le Bluff is documented in the sources consulted. His only appearance on an album is a feature: “VIN TCHEK NOU”, the third track of “Premières Notes” by Lewismelo, with Leyou and Tedla. His verified catalogue holds four records, only one of them solo, “C HOT”.",
+  ),
+  (
+    "Where is Le Bluff from?",
+    "The sources consulted document him only through the network of the bouyon scene of the French Antilles: Shanika, Laka, Team Bwè Tou Sa, Billy Bybf and Lewismelo are his published collaborators. No source publishes his birthplace or his place of residence, and this profile does not guess them from his collaborations.",
+  ),
+  (
+    "Where can I hear Le Bluff?",
+    "His four documented records are on the platforms: “C HOT”, “Chocolate” with Shanika, “BAISE-MOI” by Laka and “VIN TCHEK NOU” on the Lewismelo album. For the bouyon of the same scene and season, play the Bouyon Shattaz Road Mix on our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> page, which follows new releases from Guadeloupe, Martinique and Dominica.",
+  ),
+  (
+    "Is “Chocolate” by Shanika and Le Bluff afro-beat or bouyon?",
+    "The platforms class “Chocolate” as afro-beat, but its tempo, studio, composer and voices belong to bouyon gwada: 160 BPM, Voodoo Studio, a production by Jonathan ELUSCA, the name behind Jixels, and the voice of Shanika. That hesitation of the classifications is frequent for the current scene, and this profile files the record for its network and tempo, which are documented.",
+  ),
+  (
+    "Who is on “BAISE-MOI” by Laka?",
+    "Eight guests surround Laka on “BAISE-MOI”, released on November 22, 2023 on the LAKA label: Riko, Tgx, Billy Bybf, PIXOU, Le daah, WAYSEE, Team Bwè Tou Sa and Le Bluff. Shazam gives it at 160 BPM. It is the collective session format, where a whole team rides the same production, verse after verse, for parties and platforms.",
+  ),
+  (
+    "Who wrote “VIN TCHEK NOU” on the Lewismelo album?",
+    "The published writing credits name Youri Ellapin, Keran Landre and Ted Clarin. “VIN TCHEK NOU”, the third track of “Premières Notes” by Lewismelo, runs 3 minutes 17 and brings in Le Bluff, Leyou and Tedla as guests. The title, come and see us in Creole, belongs to the vocabulary of the sessions: an invitation, a team presentation.",
+  ),
+  (
+    "Which artists appear on “Premières Notes” with Le Bluff?",
+    "The Lewismelo album gathers Admiral T and Shanika on “5 KILOS”, Dcamp and KEKS MAFIA on “POMPÉ”, Lejuh on “ALOUETTE” and Jixels on “HULLABALOO”. Le Bluff holds his place on “VIN TCHEK NOU”, with Leyou and Tedla, on the same album as established names of the Guadeloupe scene. See the duo <a href=\"/en/dcamp-lewismelo.html\">Dcamp and Lewismelo</a>.",
+  ),
+  (
+    "Did Le Bluff release the songs called “Bluff”?",
+    "No, records titled “Bluff” released by other artists are not his. The name Le Bluff is also a common phrase, which search engines drown under unrelated results, from poker to foreign bands. This profile keeps only the occurrences whose credits, labels or collaborations cross check with the bouyon scene of the French Antilles, spelled “Le bluff” or “Le Bluff”.",
+  ),
+  (
+    "Which artists are similar to Le Bluff?",
+    "Scene databases such as Viberate place Le Bluff in the same artist cloud as LaRose, Kima and the LESTEF KJF BOYZ: the dancehall and bouyon circuit of Guadeloupe and Martinique that has fed the platforms since the start of the 2020s. His published collaborators, Shanika, Laka, Billy Bybf, Team Bwè Tou Sa and Lewismelo, map the same territory.",
+  ),
+  (
+    "What is Team Bwè Tou Sa, the crew Le Bluff sings with?",
+    "Team Bwè Tou Sa, whose name means the team drinks all that in Creole, is one of the emblematic collectives of bouyon and Creole dancehall sessions in Guadeloupe. It appears with Le Bluff among the eight guests on Laka “BAISE-MOI” in 2023. That posse cut format, where a whole team trades verses over one production, is an institution of current bouyon.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/le-bluff.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/le-bluff.html#artist", "name": "Le Bluff", "description": "Guest voice of Guadeloupe bouyon, documented by four records: C HOT solo, Chocolate with Shanika, BAISE-MOI with Laka and VIN TCHEK NOU on Premières Notes by Lewismelo, in 2023. No documented public biography.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'C HOT'}, {"@type": "MusicRecording", "name": 'Chocolate'}, {"@type": "MusicRecording", "name": 'BAISE-MOI'}, {"@type": "MusicRecording", "name": 'VIN TCHEK NOU'}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
