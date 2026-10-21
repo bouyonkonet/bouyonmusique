@@ -70,13 +70,59 @@ FR = {
   ]
  ],
  "faq": [
-  ("Quel est le vrai nom de Daddy Chess ?", "Chester Letang. C’est le nom sous lequel Caribbean Times et Soca News le citent, et l’orthographe majoritaire du reportage de Dominica News sur sa victoire de 2026, qui écrit aussi « Lateng » deux fois dans le même article. Ce site retient « Letang » et signale cette hésitation de la source."),
-  ("Combien de fois Daddy Chess a-t-il été monarque du calypso de la Dominique ?", "Deux fois, à vingt cinq ans de distance. En 2001, un an après ses débuts sur scène, avec « Your Destiny Depends on You » et « Somebody Have to Pay », puis le 14 février 2026 au Windsor Park Sports Stadium, avec « Beauty and the Beast » et « Roof Leaking », selon Dominica News."),
-  ("Quels autres titres Daddy Chess a-t-il remportés ?", "Selon son profil publié sur ItzCaribbean : Road March King en 2008, Stardom King of the Tent en 2001 et en 2008, et Soca Monarch en 2008 et en 2009. En 2008, la presse de carnaval le classe aussi deuxième de la finale du calypso derrière De Dice, alors qu’il venait de gagner la soca et la tente la même saison."),
-  ("Daddy Chess a-t-il chanté sur la scène soca de Trinidad ?", "Oui. La liste publiée des finalistes du International Soca Monarch 2010 le place dans la catégorie Power, comme représentant de la Dominique, avec son titre « Ready or Not », pour la finale du 12 février 2010 au Queen’s Park Oval de Port of Spain. Son profil publié le fait aussi se produire à Londres, dans plusieurs villes des États-Unis et dans toute la Caraïbe."),
-  ("Que faisait Daddy Chess entre ses deux couronnes ?", "Il est resté un concurrent de premier plan du calypso dominicain. Il s’est classé troisième d’une finale remportée par le débutant Trilla G, derrière le neuf fois monarque Dice, puis a atteint les demi-finales de 2025 parmi six anciens monarques encore en course, selon Soca News, avant de gagner la finale de 2026 devant Nacheal et Joy."),
-  ("Pourquoi Daddy Chess figure-t-il sur un site bouyon ?", "Parce que le calypso, la soca et le bouyon partagent les mêmes scènes de carnaval en Dominique, et que les voix des orchestres comme les Swinging Stars, dont il est le chanteur principal, portent le son dominicain entre ces genres. Écoutez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> pour la branche bouyon et bouyon soca de cette même fête.")
- ],
+  (
+    "Qui est Daddy Chess ?",
+    "Daddy Chess est le nom de scène de Chester Letang, chanteur, batteur et compositeur de la Dominique, voix principale du Swinging Stars Orchestra. Son profil publié sur ItzCaribbean le présente aussi comme conférencier motivateur et coach du spectacle. Il a été monarque du calypso de la Dominique en 2001 puis en 2026, et Soca Monarch en 2008 et 2009.",
+  ),
+  (
+    "D’où vient Daddy Chess ?",
+    "Daddy Chess vient de la Dominique, l’île où il a remporté ses couronnes de calypso et de soca, de 2001 à 2026. Il y chante depuis ses débuts sur la scène du calypso en 2000 et y mène le Swinging Stars Orchestra. Ses tournées l’ont ensuite emmené à Londres, aux États-Unis et dans toute la Caraïbe.",
+  ),
+  (
+    "Quel est le vrai nom de Daddy Chess ?",
+    "Chester Letang. C’est le nom sous lequel Caribbean Times et Soca News le citent, et l’orthographe majoritaire du reportage de Dominica News sur sa victoire de 2026, qui écrit aussi « Lateng » deux fois dans le même article. Ce site retient « Letang » et signale cette hésitation de la source.",
+  ),
+  (
+    "Combien de fois Daddy Chess a-t-il été monarque du calypso de la Dominique ?",
+    "Deux fois, à vingt cinq ans de distance. En 2001, un an après ses débuts sur scène, avec « Your Destiny Depends on You » et « Somebody Have to Pay », puis le 14 février 2026 au Windsor Park Sports Stadium, avec « Beauty and the Beast » et « Roof Leaking », selon Dominica News.",
+  ),
+  (
+    "Quels autres titres Daddy Chess a-t-il remportés ?",
+    "Selon son profil publié sur ItzCaribbean : Road March King en 2008, Stardom King of the Tent en 2001 et en 2008, et Soca Monarch en 2008 et en 2009. En 2008, la presse de carnaval le classe aussi deuxième de la finale du calypso derrière De Dice, alors qu’il venait de gagner la soca et la tente la même saison.",
+  ),
+  (
+    "Daddy Chess a-t-il chanté sur la scène soca de Trinidad ?",
+    "Oui. La liste publiée des finalistes du International Soca Monarch 2010 le place dans la catégorie Power, comme représentant de la Dominique, avec son titre « Ready or Not », pour la finale du 12 février 2010 au Queen’s Park Oval de Port of Spain. Son profil publié le fait aussi se produire à Londres, dans plusieurs villes des États-Unis et dans toute la Caraïbe.",
+  ),
+  (
+    "Que faisait Daddy Chess entre ses deux couronnes ?",
+    "Il est resté un concurrent de premier plan du calypso dominicain. Il s’est classé troisième d’une finale remportée par le débutant Trilla G, derrière le neuf fois monarque Dice, puis a atteint les demi-finales de 2025 parmi six anciens monarques encore en course, selon Soca News, avant de gagner la finale de 2026 devant Nacheal et Joy.",
+  ),
+  (
+    "Pourquoi Daddy Chess figure-t-il sur un site bouyon ?",
+    "Parce que le calypso, la soca et le bouyon partagent les mêmes scènes de carnaval en Dominique, et que les voix des orchestres comme les Swinging Stars, dont il est le chanteur principal, portent le son dominicain entre ces genres. Écoutez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> pour la branche bouyon et bouyon soca de cette même fête.",
+  ),
+  (
+    "Quelles sont les meilleures chansons de Daddy Chess ?",
+    "Son profil publié sur ItzCaribbean retient trois succès de fête : « Welcome to De Fete », « Forward We Go » et « Ready or Not ». « Forward We Go » fut la favorite du public en 2008. S’y ajoutent les titres de ses couronnes : « Your Destiny Depends on You » et « Somebody Have to Pay » en 2001, « Beauty and the Beast » et « Roof Leaking » en 2026.",
+  ),
+  (
+    "Pourquoi Daddy Chess est-il surnommé le Soca Man ?",
+    "Parce que son profil publié sur ItzCaribbean écrit qu’il est connu comme le « Soca Man » de la Dominique, une appellation attribuée et non un titre officiel. Elle colle à son palmarès de fête : Soca Monarch en 2008 et 2009, Road March King en 2008, et des succès comme « Forward We Go » ou « Ready or Not ». Il reste pourtant aussi un champion du calypso.",
+  ),
+  (
+    "Comment Daddy Chess a-t-il commencé la musique ?",
+    "Par la batterie. Selon Dominica News, il vient d’une famille profondément enracinée dans la musique, découvre son amour des percussions en 1990, puis son talent pour la composition en 1995. En 2000, il réunit écriture et voix et fait ses débuts sur la scène du calypso, avant de remporter la couronne de monarque dès l’année suivante, en 2001.",
+  ),
+  (
+    "Daddy Chess a-t-il joué au World Creole Music Festival ?",
+    "Oui. Selon The Dominican.net, le programme du World Creole Music Festival 2004 annonçait pour sa dernière soirée les Swinging Stars avec les calypsoniens Hunter, Daddy Chess, Observer et Dice. Il y figurait comme une des voix de l’orchestre de fête, sur la plus grande scène créole de la Dominique, trois ans après sa première couronne de calypso.",
+  ),
+  (
+    "Qui a gagné le Calypso Monarch 2026 en Dominique ?",
+    "Daddy Chess, le samedi 14 février 2026 au Windsor Park Sports Stadium, selon Dominica News. Face à dix finalistes, il s’impose avec « Beauty and the Beast » et « Roof Leaking ». La débutante Nacheal est première dauphine et Joy, gagnante de 2025, deuxième dauphine. C’est sa deuxième couronne, vingt cinq ans après celle de 2001.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/daddy-chess.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/daddy-chess.html#artist", "name": "Daddy Chess", "description": "Chester Letang, chanteur, batteur et compositeur de la Dominique, voix du Swinging Stars Orchestra, surnommé le Soca Man de la Dominique. Monarque du calypso en 2001 et en 2026, Soca Monarch en 2008 et 2009, Road March King en 2008.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Your Destiny Depends on You"}, {"@type": "MusicRecording", "name": "Somebody Have to Pay"}, {"@type": "MusicRecording", "name": "Welcome to De Fete"}, {"@type": "MusicRecording", "name": "Forward We Go"}, {"@type": "MusicRecording", "name": "Ready or Not"}, {"@type": "MusicRecording", "name": "Beauty and the Beast"}, {"@type": "MusicRecording", "name": "Roof Leaking"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -143,13 +189,59 @@ EN = {
   ]
  ],
  "faq": [
-  ("What is Daddy Chess real name?", "Chester Letang. That is the name Caribbean Times and Soca News use for him, and the majority spelling in the Dominica News report on his 2026 victory, which also writes “Lateng” twice inside the same article. This site uses “Letang” and flags that source hesitation."),
-  ("How many times has Daddy Chess been Calypso Monarch of Dominica?", "Twice, twenty five years apart. In 2001, one year after his stage debut, with “Your Destiny Depends on You” and “Somebody Have to Pay”, then on 14 February 2026 at Windsor Park Sports Stadium, with “Beauty and the Beast” and “Roof Leaking”, according to Dominica News."),
-  ("What other titles has Daddy Chess won?", "According to his profile published on ItzCaribbean: Road March King in 2008, Stardom King of the Tent in 2001 and 2008, and Soca Monarch in 2008 and 2009. In 2008 the carnival press also places him second in the calypso final behind De Dice, in the same season he had already won soca and the tent."),
-  ("Has Daddy Chess performed on the Trinidad soca stage?", "Yes. The published finalists list of the 2010 International Soca Monarch places him in the Power category, as the Dominica entry, with his song “Ready or Not”, for the final of 12 February 2010 at Queen’s Park Oval, Port of Spain. His published profile also has him performing in London, in several United States cities and across the Caribbean."),
-  ("What was Daddy Chess doing between his two crowns?", "He stayed a front rank competitor in Dominican calypso. He placed third in a final won by debutant Trilla G, behind nine time monarch Dice, then reached the 2025 semi-finals among six former monarchs still in the race, according to Soca News, before winning the 2026 final ahead of Nacheal and Joy."),
-  ("Why does Daddy Chess appear on a bouyon site?", "Because calypso, soca and bouyon share the same carnival stages in Dominica, and the voices of bands like Swinging Stars, whose lead singer he is, carry the Dominican sound across those genres. Hear our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> for the bouyon and bouyon soca branch of that same fete.")
- ],
+  (
+    "Who is Daddy Chess?",
+    "Daddy Chess is the stage name of Chester Letang, a singer, drummer and composer from Dominica and the lead vocalist of the Swinging Stars Orchestra. His profile published on ItzCaribbean also describes him as a motivational speaker and entertainment coach. He was Dominica Calypso Monarch in 2001 and again in 2026, and Soca Monarch in 2008 and 2009.",
+  ),
+  (
+    "Where is Daddy Chess from?",
+    "Daddy Chess is from Dominica, the island where he won his calypso and soca crowns, from 2001 to 2026. He has sung there since his calypso stage debut in 2000 and fronts the Swinging Stars Orchestra there. His touring later took him to London, the United States and across the Caribbean.",
+  ),
+  (
+    "What is Daddy Chess real name?",
+    "Chester Letang. That is the name Caribbean Times and Soca News use for him, and the majority spelling in the Dominica News report on his 2026 victory, which also writes “Lateng” twice inside the same article. This site uses “Letang” and flags that source hesitation.",
+  ),
+  (
+    "How many times has Daddy Chess been Calypso Monarch of Dominica?",
+    "Twice, twenty five years apart. In 2001, one year after his stage debut, with “Your Destiny Depends on You” and “Somebody Have to Pay”, then on 14 February 2026 at Windsor Park Sports Stadium, with “Beauty and the Beast” and “Roof Leaking”, according to Dominica News.",
+  ),
+  (
+    "What other titles has Daddy Chess won?",
+    "According to his profile published on ItzCaribbean: Road March King in 2008, Stardom King of the Tent in 2001 and 2008, and Soca Monarch in 2008 and 2009. In 2008 the carnival press also places him second in the calypso final behind De Dice, in the same season he had already won soca and the tent.",
+  ),
+  (
+    "Has Daddy Chess performed on the Trinidad soca stage?",
+    "Yes. The published finalists list of the 2010 International Soca Monarch places him in the Power category, as the Dominica entry, with his song “Ready or Not”, for the final of 12 February 2010 at Queen’s Park Oval, Port of Spain. His published profile also has him performing in London, in several United States cities and across the Caribbean.",
+  ),
+  (
+    "What was Daddy Chess doing between his two crowns?",
+    "He stayed a front rank competitor in Dominican calypso. He placed third in a final won by debutant Trilla G, behind nine time monarch Dice, then reached the 2025 semi-finals among six former monarchs still in the race, according to Soca News, before winning the 2026 final ahead of Nacheal and Joy.",
+  ),
+  (
+    "Why does Daddy Chess appear on a bouyon site?",
+    "Because calypso, soca and bouyon share the same carnival stages in Dominica, and the voices of bands like Swinging Stars, whose lead singer he is, carry the Dominican sound across those genres. Hear our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> for the bouyon and bouyon soca branch of that same fete.",
+  ),
+  (
+    "What are Daddy Chess’s best songs?",
+    "His profile published on ItzCaribbean names three party hits: “Welcome to De Fete”, “Forward We Go” and “Ready or Not”. “Forward We Go” was the 2008 crowd favourite. Add the songs behind his crowns: “Your Destiny Depends on You” and “Somebody Have to Pay” in 2001, “Beauty and the Beast” and “Roof Leaking” in 2026.",
+  ),
+  (
+    "Why is Daddy Chess called the Soca Man?",
+    "Because his profile published on ItzCaribbean says he is known as the “Soca Man” of Dominica, an attributed nickname rather than an official title. It fits his party record: Soca Monarch in 2008 and 2009, Road March King in 2008, and hits like “Forward We Go” or “Ready or Not”. Yet he is also a calypso champion.",
+  ),
+  (
+    "How did Daddy Chess start in music?",
+    "On the drums. According to Dominica News, he comes from a family deeply rooted in music, discovered his love of percussion in 1990, then his talent for composition in 1995. In 2000 he combined songwriting and voice and made his calypso stage debut, before winning the Calypso Monarch crown the very next year, in 2001.",
+  ),
+  (
+    "Did Daddy Chess play the World Creole Music Festival?",
+    "Yes. According to The Dominican.net, the 2004 World Creole Music Festival programme billed Swinging Stars with calypsonians Hunter, Daddy Chess, Observer and Dice on its final night. He appeared as one of the band’s voices on Dominica’s biggest Creole stage, three years after his first calypso crown.",
+  ),
+  (
+    "Who won Calypso Monarch 2026 in Dominica?",
+    "Daddy Chess, on Saturday 14 February 2026 at Windsor Park Sports Stadium, according to Dominica News. Facing ten finalists, he won with “Beauty and the Beast” and “Roof Leaking”. Debutant Nacheal was first runner up and Joy, the 2025 winner, second runner up. It was his second crown, twenty five years after the one of 2001.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/daddy-chess.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/daddy-chess.html#artist", "name": "Daddy Chess", "description": "Chester Letang, singer, drummer and composer from Dominica, lead vocalist of the Swinging Stars Orchestra, called the Soca Man of Dominica. Calypso Monarch in 2001 and 2026, Soca Monarch in 2008 and 2009, Road March King in 2008.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Your Destiny Depends on You"}, {"@type": "MusicRecording", "name": "Somebody Have to Pay"}, {"@type": "MusicRecording", "name": "Welcome to De Fete"}, {"@type": "MusicRecording", "name": "Forward We Go"}, {"@type": "MusicRecording", "name": "Ready or Not"}, {"@type": "MusicRecording", "name": "Beauty and the Beast"}, {"@type": "MusicRecording", "name": "Roof Leaking"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

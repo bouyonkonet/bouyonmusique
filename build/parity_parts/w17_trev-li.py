@@ -67,13 +67,51 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Trev-Li ?", "Trev-Li est un artiste dont les titres circulent dans le circuit bouyon de la Dominique. Son titre le plus documenté est « Firetruck (Bouyon) », sorti le 9 mars 2025. Les crédits officiels de ses titres nomment Trevon Lee comme auteur-compositeur et producteur."),
-  ("Quel est le vrai nom derrière Trev-Li ?", "Les crédits publiés sur les plateformes nomment Trevon Lee à l’écriture et à la production de « Firetruck (Bouyon) », et à l’écriture et à la production de « Cokay Weather ». Trev-Li est donc le nom d’artiste de Trevon Lee, d’après ces crédits officiels. Aucune biographie publiée ne donne davantage de détails personnels."),
-  ("Quand « Firetruck (Bouyon) » est-il sorti, et que sait-on de son accueil ?", "« Firetruck (Bouyon) » est sorti le 9 mars 2025, en single. Sa page Shazam affichait plus de 23 000 reconnaissances au moment de la rédaction de ce profil, et une version « Clean » du titre figure dans la tracklist d’un mix carnaval du DJ I AM SONICBOOM, aux côtés de Ridge, Reo et 1T1."),
-  ("Qu’est-ce que « Cokay Weather » ?", "« Cokay Weather » est un duo de Trev-Li avec Freddy, sorti le 11 novembre 2025. Les crédits nomment Trev Li à la voix principale, Freddy comme interprète, Jason Adrien, Carlon Langlais et Trevon Lee à l’écriture, Trevon Lee à la production, et deux guitaristes, Vladislav Chetvernya et Dauren Oleynik. Le titre paraît sous le label Trev Li, à 160 BPM."),
-  ("Trev-Li est-il aussi producteur ?", "Oui, d’après les crédits officiels. Trevon Lee est crédité comme producteur sur « Firetruck (Bouyon) » et sur « Cokay Weather », en plus de ses crédits d’auteur-compositeur sur les deux titres. Il écrit et produit donc lui-même ses enregistrements, ce que ce profil présente comme un fait de crédits vérifiable sur les plateformes."),
-  ("D’où vient Trev-Li ?", "Aucune source consultée pendant la recherche de ce profil ne publie son lieu de naissance ou de résidence, et ce profil ne l’invente pas. Ce qui est documenté, c’est son circuit : des collaborations avec Freddy et Ebony Empress, deux noms de la scène de la Dominique, une page d’artiste qui le rapproche d’Ebony Empress et de Reo, et des titres programmés dans les mixes bouyon de la saison. Si une biographie officielle paraît, cette réponse sera mise à jour.")
- ],
+  (
+    "Qui est Trev-Li ?",
+    "Trev-Li est un artiste dont les titres circulent dans le circuit bouyon de la Dominique, et qui écrit et produit lui-même ses enregistrements, sous le nom de Trevon Lee dans les crédits. Son titre le plus documenté est « Firetruck (Bouyon) », sorti le 9 mars 2025. Il a aussi publié « Cokay Weather » avec Freddy en novembre 2025 et figure en featuring chez Ebony Empress.",
+  ),
+  (
+    "Quel est le vrai nom derrière Trev-Li ?",
+    "Les crédits publiés sur les plateformes nomment Trevon Lee à l’écriture et à la production de « Firetruck (Bouyon) », et à l’écriture et à la production de « Cokay Weather », pendant que Trev Li figure comme interprète. Trev-Li est donc le nom d’artiste de Trevon Lee, d’après ces crédits officiels. Aucune biographie publiée ne donne davantage de détails personnels.",
+  ),
+  (
+    "Trev-Li, Trev Li ou Trevon Lee : comment s’écrit son nom ?",
+    "Les trois formes désignent le même artiste. Ce site écrit Trev-Li, avec un trait d’union ; les plateformes écrivent Trev Li, en deux mots, sur sa page d’artiste, sur le crédit d’interprète et sur le label de « Cokay Weather ». Trevon Lee est le nom complet qui apparaît dans les crédits d’auteur-compositeur et de producteur de ses deux titres les mieux documentés.",
+  ),
+  (
+    "D’où vient Trev-Li ?",
+    "Aucune source consultée ne publie son lieu de naissance ou de résidence, et ce profil ne l’invente pas. Ce qui est documenté, c’est son circuit : des collaborations avec Freddy et Ebony Empress, deux noms de la scène de la Dominique, une page d’artiste qui le rapproche d’Ebony Empress et de Reo, et des titres programmés dans les mixes bouyon de la saison.",
+  ),
+  (
+    "Quand « Firetruck (Bouyon) » est-il sorti, et que sait-on de son accueil ?",
+    "« Firetruck (Bouyon) » est sorti le 9 mars 2025, en single. Sa page Shazam affichait plus de 23 000 reconnaissances au moment de la rédaction de ce profil, et une version « Clean » du titre figure dans la tracklist d’un mix carnaval du DJ I AM SONICBOOM, aux côtés de Ridge, Reo et 1T1. Trevon Lee en est l’auteur-compositeur et le producteur, sans featuring.",
+  ),
+  (
+    "Quelles sont les chansons de Trev-Li ?",
+    "Sa page d’artiste Shazam aligne « Not Backing Down », « Firetruck (Bouyon) », « In a Rental », « Domino », « Take You Home (Bouyon) », « Big Batty Roll Call », « W. T. M. A », « Wood Alone » et « Somebody to Call My Own », plus son featuring sur « KOKAYOKO » d’Ebony Empress. S’y ajoute le duo « Cokay Weather » avec Freddy. Aucun album n’est annoncé dans les sources consultées.",
+  ),
+  (
+    "Trev-Li fait-il du bouyon ?",
+    "Oui, et il l’écrit dans ses titres : deux morceaux de son catalogue portent la mention entre parenthèses, « Firetruck (Bouyon) » et « Take You Home (Bouyon) ». Les plateformes le classent dans le reggae ou le bouyon selon les pages, mais ses collaborations et les mixes de carnaval qui le programment le placent dans le circuit bouyon de la Dominique, l’île où le genre est né.",
+  ),
+  (
+    "Qu’est-ce que « Cokay Weather » ?",
+    "« Cokay Weather » est un duo de Trev-Li avec Freddy, sorti le 11 novembre 2025. Les crédits nomment Trev Li à la voix principale, Freddy comme interprète, Jason Adrien, Carlon Langlais et Trevon Lee à l’écriture, Trevon Lee à la production, et deux guitaristes, Vladislav Chetvernya et Dauren Oleynik. Le titre paraît sous le label Trev Li, à 160 BPM. Voir notre profil de <a href=\"/freddy.html\">Freddy</a>.",
+  ),
+  (
+    "Trev-Li a-t-il chanté avec Ebony Empress ?",
+    "Oui. Sa page d’artiste Shazam signale le titre « KOKAYOKO » d’Ebony Empress, « Cock by di window », où Trev-Li figure en featuring. Ebony Empress est une voix établie de la scène dominicaine, finaliste dans les listes des Dominica Music Awards. Après avoir invité Freddy sur « Cokay Weather », Trev-Li passe ici de l’autre côté, en invité. Voir notre profil d’<a href=\"/ebony-empress.html\">Ebony Empress</a>.",
+  ),
+  (
+    "Trev-Li est-il aussi producteur ?",
+    "Oui, d’après les crédits officiels. Trevon Lee est crédité comme producteur sur « Firetruck (Bouyon) » et sur « Cokay Weather », en plus de ses crédits d’auteur-compositeur sur les deux titres. Il publie aussi « Cokay Weather » sous son propre nom de label, Trev Li, sans structure extérieure nommée : le modèle indépendant d’une grande partie de la nouvelle génération bouyon.",
+  ),
+  (
+    "Où écouter Trev-Li ?",
+    "Commencez par « Firetruck (Bouyon) », le single de mars 2025, puis « Cokay Weather », le duo avec Freddy de novembre 2025, puis les titres de sa page d’artiste, de « Not Backing Down » à « Take You Home (Bouyon) ». Pour les nouveautés de la Dominique suivies par Bouyon Shattaz, la <a href=\"/playlist-bouyon.html\">playlist Bouyon Road Mix</a> réunit les sorties de la scène.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/trev-li.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/trev-li.html#artist", "name": "Trev-Li", "description": "Artiste du circuit bouyon de la Dominique. Crédits officiels au nom de Trevon Lee, auteur-compositeur et producteur de Firetruck (Bouyon) (2025) et de Cokay Weather avec Freddy (2025).", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Firetruck (Bouyon)"}, {"@type": "MusicRecording", "name": "Cokay Weather"}, {"@type": "MusicRecording", "name": "Not Backing Down"}, {"@type": "MusicRecording", "name": "In a Rental"}, {"@type": "MusicRecording", "name": "Domino"}, {"@type": "MusicRecording", "name": "Take You Home (Bouyon)"}, {"@type": "MusicRecording", "name": "Big Batty Roll Call"}, {"@type": "MusicRecording", "name": "W. T. M. A"}, {"@type": "MusicRecording", "name": "Wood Alone"}, {"@type": "MusicRecording", "name": "Somebody to Call My Own"}, {"@type": "MusicRecording", "name": "KOKAYOKO"}], "sameAs": ["https://www.shazam.com/artist/trev-li/1135447629"]}}],
  "date_modified": "2026-10-20"
 }
@@ -139,13 +177,51 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Trev-Li?", "Trev-Li is an artist whose records circulate in the bouyon circuit of Dominica. His best documented record is “Firetruck (Bouyon)”, released on March 9, 2025. The official credits of his records name Trevon Lee as songwriter and producer."),
-  ("What is the real name behind Trev-Li?", "The credits published on the platforms name Trevon Lee for the writing and production of “Firetruck (Bouyon)”, and for the writing and production of “Cokay Weather”. Trev-Li is therefore the artist name of Trevon Lee, according to those official credits. No published biography gives further personal details."),
-  ("When was “Firetruck (Bouyon)” released, and how was it received?", "“Firetruck (Bouyon)” was released on March 9, 2025, as a single. Its Shazam page showed more than 23,000 recognitions when this profile was researched, and a “Clean” version of the record appears in the tracklist of a carnival mix by DJ I AM SONICBOOM, alongside Ridge, Reo and 1T1."),
-  ("What is “Cokay Weather”?", "“Cokay Weather” is a Trev-Li duet with Freddy, released on November 11, 2025. The credits name Trev Li on lead vocals, Freddy as performer, Jason Adrien, Carlon Langlais and Trevon Lee as songwriters, Trevon Lee as producer, and two guitarists, Vladislav Chetvernya and Dauren Oleynik. The record is released on the label Trev Li, at 160 BPM."),
-  ("Is Trev-Li also a producer?", "Yes, according to the official credits. Trevon Lee is credited as producer on “Firetruck (Bouyon)” and on “Cokay Weather”, on top of his songwriter credits on both records. He therefore writes and produces his own recordings, which this profile presents as a credits fact that can be checked on the platforms."),
-  ("Where does Trev-Li come from?", "No source consulted during the research for this profile publishes his birthplace or place of residence, and this profile does not invent one. What is documented is his circuit: collaborations with Freddy and Ebony Empress, two names from the Dominica scene, an artist page that places him next to Ebony Empress and Reo, and records programmed in the bouyon mixes of the season. If an official biography appears, this answer will be updated.")
- ],
+  (
+    "Who is Trev-Li?",
+    "Trev-Li is an artist whose records circulate in the bouyon circuit of Dominica, and who writes and produces his own recordings, under the name Trevon Lee in the credits. His best documented record is “Firetruck (Bouyon)”, released on March 9, 2025. He also released “Cokay Weather” with Freddy in November 2025 and features on a track by Ebony Empress.",
+  ),
+  (
+    "What is the real name behind Trev-Li?",
+    "The credits published on the platforms name Trevon Lee for the writing and production of “Firetruck (Bouyon)”, and for the writing and production of “Cokay Weather”, while Trev Li appears as performer. Trev-Li is therefore the artist name of Trevon Lee, according to those official credits. No published biography gives further personal details.",
+  ),
+  (
+    "Trev-Li, Trev Li or Trevon Lee: how is his name spelled?",
+    "All three forms point to the same artist. This site writes Trev-Li, with a hyphen; the platforms write Trev Li, in two words, on his artist page, on the performer credit and on the label of “Cokay Weather”. Trevon Lee is the full name that appears in the songwriter and producer credits of his two best documented records.",
+  ),
+  (
+    "Where does Trev-Li come from?",
+    "No source consulted publishes his birthplace or place of residence, and this profile does not invent one. What is documented is his circuit: collaborations with Freddy and Ebony Empress, two names from the Dominica scene, an artist page that places him next to Ebony Empress and Reo, and records programmed in the bouyon mixes of the season.",
+  ),
+  (
+    "When was “Firetruck (Bouyon)” released, and how was it received?",
+    "“Firetruck (Bouyon)” was released on March 9, 2025, as a single. Its Shazam page showed more than 23,000 recognitions when this profile was researched, and a “Clean” version of the record appears in the tracklist of a carnival mix by DJ I AM SONICBOOM, alongside Ridge, Reo and 1T1. Trevon Lee is its songwriter and producer, with no featured artist.",
+  ),
+  (
+    "What are Trev-Li’s songs?",
+    "His Shazam artist page lists “Not Backing Down”, “Firetruck (Bouyon)”, “In a Rental”, “Domino”, “Take You Home (Bouyon)”, “Big Batty Roll Call”, “W. T. M. A”, “Wood Alone” and “Somebody to Call My Own”, plus his feature on Ebony Empress’s “KOKAYOKO”. The duet “Cokay Weather” with Freddy adds to them. No album is announced in the sources consulted.",
+  ),
+  (
+    "Does Trev-Li make bouyon?",
+    "Yes, and he writes it into his titles: two tracks of his catalogue carry the label in brackets, “Firetruck (Bouyon)” and “Take You Home (Bouyon)”. The platforms file him under reggae or bouyon depending on the page, but his collaborations and the carnival mixes that play him place him in the bouyon circuit of Dominica, the island where the genre was born.",
+  ),
+  (
+    "What is “Cokay Weather”?",
+    "“Cokay Weather” is a Trev-Li duet with Freddy, released on November 11, 2025. The credits name Trev Li on lead vocals, Freddy as performer, Jason Adrien, Carlon Langlais and Trevon Lee as songwriters, Trevon Lee as producer, and two guitarists, Vladislav Chetvernya and Dauren Oleynik. The record is released on the label Trev Li, at 160 BPM. See our <a href=\"/en/freddy.html\">Freddy</a> profile.",
+  ),
+  (
+    "Has Trev-Li sung with Ebony Empress?",
+    "Yes. His Shazam artist page lists Ebony Empress’s track “KOKAYOKO”, “Cock by di window”, on which Trev-Li features. Ebony Empress is an established voice of the Dominica scene, a finalist in the Dominica Music Awards lists. After inviting Freddy on “Cokay Weather”, Trev-Li switches sides here, as the guest. See our <a href=\"/en/ebony-empress.html\">Ebony Empress</a> profile.",
+  ),
+  (
+    "Is Trev-Li also a producer?",
+    "Yes, according to the official credits. Trevon Lee is credited as producer on “Firetruck (Bouyon)” and on “Cokay Weather”, on top of his songwriter credits on both records. He also releases “Cokay Weather” under his own label name, Trev Li, with no outside structure named: the independent model of much of the new bouyon generation.",
+  ),
+  (
+    "Where can I hear Trev-Li?",
+    "Start with “Firetruck (Bouyon)”, the March 2025 single, then “Cokay Weather”, the duet with Freddy from November 2025, then the tracks of his artist page, from “Not Backing Down” to “Take You Home (Bouyon)”. For the new music from Dominica followed by Bouyon Shattaz, the <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix playlist</a> gathers the scene’s releases.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/trev-li.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/trev-li.html#artist", "name": "Trev-Li", "description": "Artist in the bouyon circuit of Dominica. Official credits in the name of Trevon Lee, songwriter and producer of Firetruck (Bouyon) (2025) and of Cokay Weather with Freddy (2025).", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Firetruck (Bouyon)"}, {"@type": "MusicRecording", "name": "Cokay Weather"}, {"@type": "MusicRecording", "name": "Not Backing Down"}, {"@type": "MusicRecording", "name": "In a Rental"}, {"@type": "MusicRecording", "name": "Domino"}, {"@type": "MusicRecording", "name": "Take You Home (Bouyon)"}, {"@type": "MusicRecording", "name": "Big Batty Roll Call"}, {"@type": "MusicRecording", "name": "W. T. M. A"}, {"@type": "MusicRecording", "name": "Wood Alone"}, {"@type": "MusicRecording", "name": "Somebody to Call My Own"}, {"@type": "MusicRecording", "name": "KOKAYOKO"}], "sameAs": ["https://www.shazam.com/artist/trev-li/1135447629"]}}],
  "date_modified": "2026-10-20"
 }

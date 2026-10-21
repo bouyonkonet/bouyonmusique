@@ -69,13 +69,63 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est DJ Softee ?", "DJ Softee est un DJ et producteur de la scène bouyon de Guadeloupe, documenté par son catalogue de plateformes : l'EP « BOUYON MOOD » et « KARAKOLI » avec Tiitii NBA en 2023, « KPT », « Everyday » avec 1T1, « ALL NIGHT » et « BOUNCE » en 2024, puis « LA PEP'HIT FREESTYLE » et l'EP « Chodong Route Empire C.R.E » en 2025. Le dossier public consulté n'établit ni son nom complet ni son origine précise."),
-  ("DJ Softee est-il la chanteuse pop Softee de Brooklyn ?", "Non. Softee, de son vrai nom Nina Grollman, est une artiste pop américaine auteure de l'album « Natural » sorti en 2023 chez City Slang, documentée par Qobuz et Deezer. Le DJ Softee de ce profil est le producteur bouyon crédité aux côtés de Tiitii NBA, 1T1, DJ Boko et DJ Dirtee sur des titres en français et en créole étiquetés bouyon. Les deux carrières n'ont aucun lien établi."),
-  ("Pourquoi « KPT », sorti en février 2024, est-il étiqueté bouyon warm up 2025 ?", "Parce que l'étiquette vise la saison, pas l'année de mise en ligne. « KPT », de Tiitii NBA avec DJ SOFTEE, sorti le 16 février 2024 chez HEAVEN STUDIO, porte la mention bouyon warm up 2025, et l'EP « Chodong Route Empire C.R.E », sorti le 1er septembre 2025, étiquette ses titres bouyon 2026 et bouyon warm up 2026. Dans le catalogue de DJ Softee, l'année imprimée dans le titre désigne la saison de soirée pour laquelle l'outil est fait."),
-  ("Quels sont les titres de l'EP « Chodong Route Empire C.R.E » ?", "Deezer liste six titres pour l'EP, daté du 1er septembre 2025 : « Bay li » avec DJ Boko, « Ambiance Latino » et « More Wata » avec Tiitii NBA, « SKILLI » avec Tiitii NBA, QWANN et DINHO, « SOUKWÉ LI » avec DJ Boko, et « Supalova » avec Tiitii NBA et DJ Dirtee. Les écritures sont créditées à Julian White, Terry Capitolin et Allan Blonbou selon les titres."),
-  ("Julian White est-il DJ Softee ?", "Le dossier public ne permet pas de le dire. Julian White est crédité comme auteur sur presque tout le catalogue de DJ Softee, seul ou avec Terry Capitolin, Allan Blonbou et Steeve Fleret, mais aucune source consultée n'établit s'il s'agit du nom civil du producteur ou d'un auteur de son atelier. Ce profil cite le crédit tel que les plateformes l'impriment et ne l'identifie pas sans preuve."),
-  ("Où écouter le bouyon de DJ Softee et de son cercle ?", "Commencez par ses titres vérifiés, « KARAKOLI », « ALL NIGHT », « Supalova », « SKILLI » et « LA PEP'HIT FREESTYLE », sur sa page artiste Deezer, puis écoutez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, qui rassemble bouyon, bouyon soca et nouveautés de la Dominique et des Antilles françaises suivies par Bouyon Shattaz.")
- ],
+  (
+    "Qui est DJ Softee ?",
+    "DJ Softee est un DJ et producteur de la scène bouyon de Guadeloupe, documenté par son catalogue de plateformes : l'EP « BOUYON MOOD » et « KARAKOLI » avec Tiitii NBA en 2023, « KPT », « Everyday » avec 1T1, « ALL NIGHT » et « BOUNCE » en 2024, puis « LA PEP'HIT FREESTYLE » et l'EP « Chodong Route Empire C.R.E » en 2025.",
+  ),
+  (
+    "D'où vient DJ Softee ?",
+    "DJ Softee appartient à la scène bouyon de la Guadeloupe : ses collaborations avec Tiitii NBA, 1T1, DJ Boko et DJ Dirtee et ses titres en français et en créole le rattachent à cette branche guadeloupéenne et francophone du genre né en Dominique. Les sources consultées ne donnent ni sa ville ni sa commune de naissance, et ce profil n'en imprime aucune.",
+  ),
+  (
+    "DJ Softee est-il la chanteuse pop Softee de Brooklyn ?",
+    "Non. Softee, de son vrai nom Nina Grollman, est une artiste pop américaine auteure de l'album « Natural » sorti en 2023 chez City Slang, documentée par Qobuz et Deezer. Le DJ Softee de ce profil est le producteur bouyon crédité aux côtés de Tiitii NBA, 1T1, DJ Boko et DJ Dirtee sur des titres en français et en créole étiquetés bouyon. Les deux carrières n'ont aucun lien établi.",
+  ),
+  (
+    "Quel est le titre le plus connu de DJ Softee ?",
+    "« FREESTYLE TRINI 2 », qui réunit Aknose, 1T1, Softee, Tiitii NBA et Nils, est le titre en tête de sa page artiste Shazam, avec 14 000 identifications selon le compteur affiché pendant la recherche. Il circule aussi dans les mixes de la scène, par exemple en deuxième position d'un mix Sewo Jam de 2026. Ce n'est pas un de ses singles courts, mais un freestyle collectif.",
+  ),
+  (
+    "Quel est le premier titre de DJ Softee ?",
+    "La première trace vérifiée est un crédit invité : « Zanana (Version Deluxe) », de Trns, publié le 10 février 2022 par VGM PRODUCT dans l'EP « Mr Zanana », crédite Dj-Softee en artiste invité, à 160 BPM selon Shazam. Son propre catalogue commence ensuite avec l'EP « BOUYON MOOD », sorti le 10 août 2023 avec Tiitii NBA chez 5183189 Records DK2.",
+  ),
+  (
+    "Qu'est-ce que l'EP BOUYON MOOD de DJ Softee ?",
+    "« BOUYON MOOD » est l'EP que DJ Softee publie le 10 août 2023, annoncé avec Tiitii NBA, chez 5183189 Records DK2. Son titre documenté est « KARAKOLI », étiqueté bouyon 2023, affiché à 157 BPM et écrit par Julian White et Terry Capitolin. La même année, Shazam liste aussi le single « FRIDAY NIGHT », étiqueté bouyon 2023, toujours avec Tiitii NBA.",
+  ),
+  (
+    "Quels titres DJ Softee a-t-il faits avec Tiitii NBA ?",
+    "Tiitii NBA est sa voix la plus fréquente : « KARAKOLI » et « FRIDAY NIGHT » en 2023, « KPT » et « ALL NIGHT » en 2024, puis « LA PEP'HIT FREESTYLE », « Ambiance Latino », « More Wata », « SKILLI » et « Supalova » en 2025. Ils se croisent aussi sur « New Bouyon Wave #1 » de D0 Production et sur « FREESTYLE TRINI 2 ».",
+  ),
+  (
+    "Quels titres DJ Softee a-t-il faits avec 1T1 ?",
+    "Trois titres les réunissent dans le dossier vérifié. Le 1er décembre 2023, 1T1 publie « GardaVou », avec Lucky Lukee et DJ SOFTEE, puis, le 7 juin 2024, « Everyday », avec DJ Softee en invité, selon Qobuz. Les deux noms se retrouvent aussi sur « FREESTYLE TRINI 2 », le freestyle collectif avec Aknose, Tiitii NBA et Nils. Voir notre page <a href=\"/1t1.html\">1T1</a>.",
+  ),
+  (
+    "Qu'est-ce que BOUNCE de DJ Softee et DJ Luchshiy ?",
+    "« BOUNCE » est un titre de DJ Softee avec DJ Luchshiy en invité, sorti le 29 novembre 2024 sous le label DJ SOFTEE lui-même, à 160 BPM, avec Julian White seul à l'écriture. Il marque le passage des distributeurs à numéro, comme 5183189 Records DK2, au nom propre : à partir de là, DJ Softee signe ses sorties principales sous son propre label.",
+  ),
+  (
+    "Qu'est-ce que LA PEP'HIT FREESTYLE ?",
+    "Un single au format session, publié par DJ Softee le 4 juin 2025 : 9 minutes 42 selon Deezer, à 160 BPM, en français, avec Tiitii NBA, DJ Boko, Le K et DJ Dirtee en invités. L'écriture est créditée à Julian White et Steeve Fleret, et Steeve Fleret est aussi crédité à la production selon Shazam. Près de dix minutes de relais entre les voix et les DJ d'une même équipe.",
+  ),
+  (
+    "Quels sont les titres de l'EP « Chodong Route Empire C.R.E » ?",
+    "Deezer liste six titres pour l'EP, daté du 1er septembre 2025 : « Bay li » avec DJ Boko, « Ambiance Latino » et « More Wata » avec Tiitii NBA, « SKILLI » avec Tiitii NBA, QWANN et DINHO, « SOUKWÉ LI » avec DJ Boko, et « Supalova » avec Tiitii NBA et DJ Dirtee. Les écritures sont créditées à Julian White, Terry Capitolin et Allan Blonbou selon les titres.",
+  ),
+  (
+    "Pourquoi « KPT », sorti en février 2024, est-il étiqueté bouyon warm up 2025 ?",
+    "Parce que l'étiquette vise la saison, pas l'année de mise en ligne. « KPT », de Tiitii NBA avec DJ SOFTEE, sorti le 16 février 2024 chez HEAVEN STUDIO, porte la mention bouyon warm up 2025, et l'EP « Chodong Route Empire C.R.E », sorti le 1er septembre 2025, étiquette ses titres bouyon 2026. L'année imprimée désigne la saison de soirée visée.",
+  ),
+  (
+    "Julian White est-il DJ Softee ?",
+    "Le dossier public ne permet pas de le dire. Julian White est crédité comme auteur sur presque tout le catalogue de DJ Softee, seul ou avec Terry Capitolin, Allan Blonbou et Steeve Fleret, mais aucune source consultée n'établit s'il s'agit du nom civil du producteur ou d'un auteur de son atelier. Ce profil cite le crédit tel que les plateformes l'impriment, sans l'identifier sans preuve.",
+  ),
+  (
+    "Où écouter le bouyon de DJ Softee et de son cercle ?",
+    "Commencez par « KARAKOLI », « ALL NIGHT », « Supalova », « SKILLI » et « LA PEP'HIT FREESTYLE » sur sa page artiste Deezer, puis « FREESTYLE TRINI 2 ». Pour suivre la scène, notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> rassemble les nouveautés de la Dominique et des Antilles françaises : commentez ROAD MIX sous une publication de @bouyonshattaz sur Instagram pour la recevoir en DM.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/dj-softee.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/dj-softee.html#artist", "name": "DJ Softee", "description": "DJ et producteur bouyon de la scène de Guadeloupe. EP BOUYON MOOD en 2023, singles KPT, ALL NIGHT et BOUNCE en 2024, LA PEP'HIT FREESTYLE et EP Chodong Route Empire C.R.E en 2025, avec Tiitii NBA, DJ Boko, DJ Dirtee, QWANN, DINHO et 1T1. Nom complet non établi par le dossier public.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Zanana (Version Deluxe)"}, {"@type": "MusicRecording", "name": "KARAKOLI"}, {"@type": "MusicRecording", "name": "FRIDAY NIGHT"}, {"@type": "MusicRecording", "name": "New Bouyon Wave #1"}, {"@type": "MusicRecording", "name": "GardaVou"}, {"@type": "MusicRecording", "name": "KPT"}, {"@type": "MusicRecording", "name": "Everyday"}, {"@type": "MusicRecording", "name": "ALL NIGHT"}, {"@type": "MusicRecording", "name": "BOUNCE"}, {"@type": "MusicRecording", "name": "LA PEP'HIT FREESTYLE"}, {"@type": "MusicRecording", "name": "FREESTYLE TRINI 2"}, {"@type": "MusicRecording", "name": "Bay li"}, {"@type": "MusicRecording", "name": "SKILLI"}, {"@type": "MusicRecording", "name": "SOUKWÉ LI"}, {"@type": "MusicRecording", "name": "Supalova"}], "sameAs": ["https://www.deezer.com/mx/artist/194711787"]}}],
  "date_modified": "2026-10-20"
 }
@@ -141,13 +191,63 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is DJ Softee?", "DJ Softee is a DJ and producer from the Guadeloupe bouyon scene, documented by his platform catalogue: the “BOUYON MOOD” EP and “KARAKOLI” with Tiitii NBA in 2023, “KPT”, “Everyday” with 1T1, “ALL NIGHT” and “BOUNCE” in 2024, then “LA PEP'HIT FREESTYLE” and the “Chodong Route Empire C.R.E” EP in 2025. The public record consulted establishes neither his full name nor his precise origin."),
-  ("Is DJ Softee the Brooklyn pop singer Softee?", "No. Softee, real name Nina Grollman, is an American pop artist, author of the album “Natural” released in 2023 on City Slang, documented by Qobuz and Deezer. The DJ Softee of this profile is the bouyon producer credited alongside Tiitii NBA, 1T1, DJ Boko and DJ Dirtee on French and Creole records tagged bouyon. The two careers have no established link."),
-  ("Why is “KPT”, released in February 2024, tagged bouyon warm up 2025?", "Because the tag aims at the season, not at the upload year. “KPT”, by Tiitii NBA with DJ SOFTEE, released on February 16, 2024 on HEAVEN STUDIO, carries the mention bouyon warm up 2025, and the “Chodong Route Empire C.R.E” EP, released on September 1, 2025, tags its records bouyon 2026 and bouyon warm up 2026. In the DJ Softee catalogue, the year printed in the title names the party season the tool is made for."),
-  ("What are the tracks on the “Chodong Route Empire C.R.E” EP?", "Deezer lists six tracks for the EP, dated September 1, 2025: “Bay li” with DJ Boko, “Ambiance Latino” and “More Wata” with Tiitii NBA, “SKILLI” with Tiitii NBA, QWANN and DINHO, “SOUKWÉ LI” with DJ Boko, and “Supalova” with Tiitii NBA and DJ Dirtee. Writing is credited to Julian White, Terry Capitolin and Allan Blonbou depending on the track."),
-  ("Is Julian White DJ Softee?", "The public record does not allow that to be said. Julian White is credited as writer across almost the whole DJ Softee catalogue, alone or with Terry Capitolin, Allan Blonbou and Steeve Fleret, but no source consulted establishes whether that is the producer civil name or a workshop writer. This profile quotes the credit as the platforms print it and does not identify him without proof."),
-  ("Where can I hear bouyon by DJ Softee and his circle?", "Start with his verified records, “KARAKOLI”, “ALL NIGHT”, “Supalova”, “SKILLI” and “LA PEP'HIT FREESTYLE”, on his Deezer artist page, then hear our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, which gathers bouyon, bouyon soca and new releases from Dominica and the French Antilles followed by Bouyon Shattaz.")
- ],
+  (
+    "Who is DJ Softee?",
+    "DJ Softee is a DJ and producer from the Guadeloupe bouyon scene, documented by his platform catalogue: the “BOUYON MOOD” EP and “KARAKOLI” with Tiitii NBA in 2023, “KPT”, “Everyday” with 1T1, “ALL NIGHT” and “BOUNCE” in 2024, then “LA PEP'HIT FREESTYLE” and the “Chodong Route Empire C.R.E” EP in 2025.",
+  ),
+  (
+    "Where is DJ Softee from?",
+    "DJ Softee belongs to the Guadeloupe bouyon scene: his collaborations with Tiitii NBA, 1T1, DJ Boko and DJ Dirtee and his French and Creole records tie him to that Guadeloupean, French speaking branch of a genre born in Dominica. The sources consulted give neither his town nor his birthplace, and this profile prints none.",
+  ),
+  (
+    "Is DJ Softee the Brooklyn pop singer Softee?",
+    "No. Softee, real name Nina Grollman, is an American pop artist, author of the album “Natural” released in 2023 on City Slang, documented by Qobuz and Deezer. The DJ Softee of this profile is the bouyon producer credited alongside Tiitii NBA, 1T1, DJ Boko and DJ Dirtee on French and Creole records tagged bouyon. The two careers have no established link.",
+  ),
+  (
+    "What is DJ Softee's best known record?",
+    "“FREESTYLE TRINI 2”, which brings together Aknose, 1T1, Softee, Tiitii NBA and Nils, is the top record on his Shazam artist page, with 14,000 identifications according to the counter shown during the research. It also plays in scene mixes, for example in second position of a 2026 Sewo Jam mix. It is not one of his short singles but a collective freestyle.",
+  ),
+  (
+    "What was DJ Softee's first record?",
+    "The first verified trace is a guest credit: “Zanana (Version Deluxe)”, by Trns, released on February 10, 2022 by VGM PRODUCT on the “Mr Zanana” EP, credits Dj-Softee as featured artist, at 160 BPM according to Shazam. His own catalogue then starts with the “BOUYON MOOD” EP, released on August 10, 2023 with Tiitii NBA on 5183189 Records DK2.",
+  ),
+  (
+    "What is DJ Softee's BOUYON MOOD EP?",
+    "“BOUYON MOOD” is the EP DJ Softee released on August 10, 2023, announced with Tiitii NBA, on 5183189 Records DK2. Its documented track is “KARAKOLI”, tagged bouyon 2023, listed at 157 BPM and written by Julian White and Terry Capitolin. The same year, Shazam also lists the single “FRIDAY NIGHT”, tagged bouyon 2023, again with Tiitii NBA.",
+  ),
+  (
+    "What songs has DJ Softee made with Tiitii NBA?",
+    "Tiitii NBA is his most frequent voice: “KARAKOLI” and “FRIDAY NIGHT” in 2023, “KPT” and “ALL NIGHT” in 2024, then “LA PEP'HIT FREESTYLE”, “Ambiance Latino”, “More Wata”, “SKILLI” and “Supalova” in 2025. They also meet on D0 Production's “New Bouyon Wave #1” and on “FREESTYLE TRINI 2”.",
+  ),
+  (
+    "What songs has DJ Softee made with 1T1?",
+    "Three records bring them together in the verified file. On December 1, 2023, 1T1 released “GardaVou”, with Lucky Lukee and DJ SOFTEE, then, on June 7, 2024, “Everyday”, with DJ Softee featured, according to Qobuz. The two names also meet on “FREESTYLE TRINI 2”, the collective freestyle with Aknose, Tiitii NBA and Nils. See our <a href=\"/en/1t1.html\">1T1</a> page.",
+  ),
+  (
+    "What is BOUNCE by DJ Softee and DJ Luchshiy?",
+    "“BOUNCE” is a DJ Softee record featuring DJ Luchshiy, released on November 29, 2024 under the DJ SOFTEE label itself, at 160 BPM, with Julian White alone on writing. It marks the move from numbered distributors, such as 5183189 Records DK2, to his own name: from then on, DJ Softee releases his main records under his own label.",
+  ),
+  (
+    "What is LA PEP'HIT FREESTYLE?",
+    "A session format single, released by DJ Softee on June 4, 2025: 9 minutes 42 according to Deezer, at 160 BPM, in French, with Tiitii NBA, DJ Boko, Le K and DJ Dirtee featured. Writing is credited to Julian White and Steeve Fleret, and Steeve Fleret is also credited as producer according to Shazam. Almost ten minutes of relay between the voices and DJs of one crew.",
+  ),
+  (
+    "What are the tracks on the “Chodong Route Empire C.R.E” EP?",
+    "Deezer lists six tracks for the EP, dated September 1, 2025: “Bay li” with DJ Boko, “Ambiance Latino” and “More Wata” with Tiitii NBA, “SKILLI” with Tiitii NBA, QWANN and DINHO, “SOUKWÉ LI” with DJ Boko, and “Supalova” with Tiitii NBA and DJ Dirtee. Writing is credited to Julian White, Terry Capitolin and Allan Blonbou depending on the track.",
+  ),
+  (
+    "Why is “KPT”, released in February 2024, tagged bouyon warm up 2025?",
+    "Because the tag aims at the season, not at the upload year. “KPT”, by Tiitii NBA with DJ SOFTEE, released on February 16, 2024 on HEAVEN STUDIO, carries the mention bouyon warm up 2025, and the “Chodong Route Empire C.R.E” EP, released on September 1, 2025, tags its records bouyon 2026. The printed year names the party season targeted.",
+  ),
+  (
+    "Is Julian White DJ Softee?",
+    "The public record does not allow that to be said. Julian White is credited as writer across almost the whole DJ Softee catalogue, alone or with Terry Capitolin, Allan Blonbou and Steeve Fleret, but no source consulted establishes whether that is the producer's legal name or a workshop writer. This profile quotes the credit as the platforms print it, without identifying him without proof.",
+  ),
+  (
+    "Where can I hear bouyon by DJ Softee and his circle?",
+    "Start with “KARAKOLI”, “ALL NIGHT”, “Supalova”, “SKILLI” and “LA PEP'HIT FREESTYLE” on his Deezer artist page, then “FREESTYLE TRINI 2”. To follow the scene, our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> gathers new releases from Dominica and the French Antilles: comment ROAD MIX under an @bouyonshattaz post on Instagram to receive it by DM.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/dj-softee.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/dj-softee.html#artist", "name": "DJ Softee", "description": "Bouyon DJ and producer from the Guadeloupe scene. BOUYON MOOD EP in 2023, singles KPT, ALL NIGHT and BOUNCE in 2024, LA PEP'HIT FREESTYLE and Chodong Route Empire C.R.E EP in 2025, with Tiitii NBA, DJ Boko, DJ Dirtee, QWANN, DINHO and 1T1. Full name not established by the public record.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Zanana (Version Deluxe)"}, {"@type": "MusicRecording", "name": "KARAKOLI"}, {"@type": "MusicRecording", "name": "FRIDAY NIGHT"}, {"@type": "MusicRecording", "name": "New Bouyon Wave #1"}, {"@type": "MusicRecording", "name": "GardaVou"}, {"@type": "MusicRecording", "name": "KPT"}, {"@type": "MusicRecording", "name": "Everyday"}, {"@type": "MusicRecording", "name": "ALL NIGHT"}, {"@type": "MusicRecording", "name": "BOUNCE"}, {"@type": "MusicRecording", "name": "LA PEP'HIT FREESTYLE"}, {"@type": "MusicRecording", "name": "FREESTYLE TRINI 2"}, {"@type": "MusicRecording", "name": "Bay li"}, {"@type": "MusicRecording", "name": "SKILLI"}, {"@type": "MusicRecording", "name": "SOUKWÉ LI"}, {"@type": "MusicRecording", "name": "Supalova"}], "sameAs": ["https://www.deezer.com/mx/artist/194711787"]}}],
  "date_modified": "2026-10-20"
 }

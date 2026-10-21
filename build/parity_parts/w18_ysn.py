@@ -71,13 +71,67 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Nicolas Lanclume ?", "Nicolas Lanclume est le nom publié dans les crédits des titres d’YSN. Deezer l’écrit sous la forme explicite Nicolas Lanclume (YSN) parmi les compositeurs de « PKM » de Rachelle Allison, et Shazam le crédite comme auteur sur « Viré », « BBL », « HOLIDAY » et « Bad », des titres où YSN paraît comme interprète, compositeur ou producteur. Aucune source consultée ne publie d’autre élément biographique sous ce nom, ni date ni lieu de naissance."),
-  ("Les titres MG2X, OTA et WORKIN sont-ils d’YSN des Antilles ?", "Non, pas selon les sources ouvertes pour ce profil, et c’est le piège principal sur ce nom. Les pages de plateformes intitulées YSN mélangent le beatmaker des Antilles françaises avec un rappeur américain homonyme : « MG2X », « Stunna 2X » et « Toe 2 Toe » chez Muzik Junky, « OTA » avec Euro Gotit et YFN Lucci et « WORKIN » avec Young Dolph chez Authentic Empire Music Group, en 2020 et 2021. Aucun de ces titres ne porte le crédit Nicolas Lanclume, ni le label Hakuna Music Company, ni un partenaire de son circuit. Ce site les exclut de son catalogue."),
-  ("Qu’est-ce que « Lapli Season » ?", "« Lapli Season » est l’album d’YSN sorti le 29 mars 2024 chez Hakuna Music Company. Sa biographie Music Story le présente comme un projet collaboratif réunissant plusieurs artistes, dont Matieu White, Rachelle Allison et Young Chang MC. NRJ Antilles décrit l’album comme réputé pour ses featurings avec 19 artistes de la scène locale, et rattache le titre « Sansasyon », d’YSN et Young Chang MC, à cet album."),
-  ("Qui a composé « PKM » de Rachelle Allison et YSN ?", "Selon la fiche Deezer du single, sorti le 17 janvier 2025 chez Mimesis pour une durée de 2 minutes 31, les compositeurs de « PKM » sont Mike Saint-Auret, Nicolas Lanclume (YSN), Rachelle Paturot et Yohan Corneille Lanclas. Le clip officiel du titre est tagué #Bouyon sur YouTube. YSN a ensuite été crédité compositeur de « Parè Ba-Y » de Rachelle Allison en 2025, puis co-compositeur de « Nyèt » en 2026."),
-  ("Que veut dire le cri « YSN Make Them Move » ?", "C’est la signature sonore publiée d’YSN : le cri « YSN MAKE THEM MOVE ! » ouvre les paroles de « Palabras », son titre de 2025 avec Aknose, et les hashtags officiels du clip le déclinent en YSNMAKETHEMMOVE et YSNMAKEITMOVE, qui est aussi le nom de sa chaîne YouTube publiée dans le générique, @ysnmakeitmove. Pour un beatmaker, la formule est un programme : faire bouger le public."),
-  ("D’où vient YSN ?", "Sa biographie publiée sur Qobuz le présente comme un producteur et beatmaker des Antilles françaises, actif sur la scène locale, au style mêlant sons caribéens et influences contemporaines. Son circuit de travail publié est celui de la Guadeloupe : le label Hakuna Music Company, MBI Family, et des partenaires comme Aknose, Krys, Rachelle Allison et Young Chang MC. Aucune source consultée ne précise son île ou sa commune de naissance, et ce site ne l’invente pas.")
- ],
+  (
+    "Qui est YSN ?",
+    "YSN est un producteur et beatmaker des Antilles françaises, crédité Nicolas Lanclume, présenté par sa biographie Music Story comme un créateur au style mêlant sons caribéens et influences contemporaines. Il a sorti l’album collaboratif « Lapli Season » en 2024 chez Hakuna Music Company, son label maison, et travaille comme compositeur, producteur ou invité pour Aknose, Krys, Rachelle Allison et Young Chang MC.",
+  ),
+  (
+    "Qui est Nicolas Lanclume ?",
+    "Nicolas Lanclume est le nom publié dans les crédits des titres d’YSN. Deezer l’écrit sous la forme explicite Nicolas Lanclume (YSN) parmi les compositeurs de « PKM » de Rachelle Allison, et Shazam le crédite comme auteur sur « Viré », « BBL », « HOLIDAY » et « Bad ». Aucune source consultée ne publie d’autre élément biographique sous ce nom, ni date ni lieu de naissance.",
+  ),
+  (
+    "Les titres MG2X, OTA et WORKIN sont-ils d’YSN des Antilles ?",
+    "Non, et c’est le piège principal sur ce nom. Les pages intitulées YSN mélangent le beatmaker des Antilles françaises avec un rappeur américain homonyme : « MG2X », « Stunna 2X » et « Toe 2 Toe » chez Muzik Junky, « OTA » et « WORKIN » chez Authentic Empire Music Group, en 2020 et 2021. Aucun de ces titres ne porte le crédit Nicolas Lanclume, ni le label Hakuna Music Company. Ce site les exclut.",
+  ),
+  (
+    "YSN et YSN Flow sont-ils le même artiste ?",
+    "Non. YSN Flow est un troisième artiste, un rappeur américain signé sur de tout autres labels, sans aucun lien publié avec le beatmaker des Antilles françaises. Il complète la famille des homonymes, avec le rappeur américain dont les titres sont mêlés à la page YSN des plateformes. Le YSN de cette page est uniquement celui des crédits Nicolas Lanclume et du label Hakuna Music Company.",
+  ),
+  (
+    "Qu’est-ce que « Lapli Season » ?",
+    "« Lapli Season » est l’album d’YSN sorti le 29 mars 2024 chez Hakuna Music Company. Sa biographie Music Story le présente comme un projet collaboratif réunissant plusieurs artistes, dont Matieu White, Rachelle Allison et Young Chang MC. NRJ Antilles le décrit comme réputé pour ses featurings avec 19 artistes de la scène locale, et y rattache « Sansasyon », d’YSN et Young Chang MC.",
+  ),
+  (
+    "Quel est le titre le plus populaire d’YSN ?",
+    "Selon Viberate, « GOD BLESS (Ah la vie qu’on mène) » arrive en tête des titres rattachés à sa page, devant « Manawa », « Palabras » et « Pran On Pyé ». Ce titre de Krys en featuring avec YSN est sorti le 28 juin 2024 chez KRYSmusics, selon la discographie Qobuz de Krys. Aucun chiffre d’écoute propre à YSN ne peut être publié, les compteurs mélangeant son nom avec celui de ses homonymes.",
+  ),
+  (
+    "Qui a composé « PKM » de Rachelle Allison et YSN ?",
+    "Selon la fiche Deezer du single, sorti le 17 janvier 2025 chez Mimesis pour une durée de 2 minutes 31, les compositeurs de « PKM » sont Mike Saint-Auret, Nicolas Lanclume (YSN), Rachelle Paturot et Yohan Corneille Lanclas. Le clip officiel est tagué #Bouyon sur YouTube. YSN a ensuite été crédité compositeur de « Parè Ba-Y » de Rachelle Allison en 2025, puis co-compositeur de « Nyèt » en 2026.",
+  ),
+  (
+    "Qui a produit « HOLIDAY » de Krys ?",
+    "YSN. La fiche Shazam de « HOLIDAY » le crédite aux voix et à la production, avec Nicolas Lanclume comme auteur, à 130 BPM, chez Step Out Productions. Les sources ne s’accordent pas sur le jour de sortie, Qobuz le datant du 28 février 2025 et Shazam du 27 juin 2025 : ce site retient l’année 2025. Sur un titre d’un artiste du calibre de Krys, YSN est publié comme producteur.",
+  ),
+  (
+    "Quels titres YSN a-t-il faits avec Aknose ?",
+    "Deux titres en cinq mois, chez Hakuna Music Company : « Manawa », sorti le 6 septembre 2024, puis « Palabras », sorti le 31 janvier 2025 avec MBI Family en cosignature, dont YSN est le compositeur crédité. En 2026, les deux noms se retrouvent aussi parmi les compositeurs de « Nyèt » de Rachelle Allison. C’est le partenariat le plus suivi de son dossier. Voir notre profil d’<a href=\"/aknose.html\">Aknose</a>.",
+  ),
+  (
+    "« Palabras » d’Aknose et YSN est-il du bouyon ou du dembow ?",
+    "La description officielle du clip présente « Palabras » comme un titre « dans le style Dembow », le rythme rapide de la République dominicaine, composé par YSN et mixé par Zweeng. Les mots clés de la vidéo listent pourtant DEMBOW, SHATTA, DANCEHALL et BOUYON, et ses hashtags placent GUADELOUPE et REPUBLICADOMINICANA côte à côte. Les paroles mêlent créole guadeloupéen et espagnol : un titre de croisement, assumé comme tel.",
+  ),
+  (
+    "Que veut dire le cri « YSN Make Them Move » ?",
+    "C’est la signature sonore publiée d’YSN : le cri « YSN MAKE THEM MOVE ! » ouvre les paroles de « Palabras », son titre de 2025 avec Aknose, et les hashtags officiels du clip le déclinent en YSNMAKETHEMMOVE et YSNMAKEITMOVE, qui est aussi le nom de sa chaîne YouTube publiée dans le générique, @ysnmakeitmove. Pour un beatmaker, la formule est un programme : faire bouger le public.",
+  ),
+  (
+    "YSN fait-il du bouyon ?",
+    "Il travaille dans le circuit bouyon guadeloupéen, sans que les plateformes le classent ainsi : elles rangent ses titres en Hip-Hop, Pop, Dancehall, Reggae ou World. Le rattachement au bouyon vient des titres et du circuit : le clip de « PKM » est tagué #Bouyon, les mots clés de « Palabras » citent le bouyon, et ses partenaires Aknose, 1T1 et Lejuh sont des artistes bouyon. Voir notre page <a href=\"/producteurs-bouyon.html\">producteurs bouyon</a>.",
+  ),
+  (
+    "Quels sont les derniers titres d’YSN ?",
+    "Après le duo avec Aknose, « Pran On Pyé » paraît le 27 juin 2025 chez Hakuna Music Company, présenté par Viberate comme une collaboration avec 1T1 et Lejuh. « Bad », de Sanchii et YSN, suit le 12 décembre 2025, avec YSN crédité producteur, puis sa présence sur « La Manigance », titre collectif sorti chez Because Music et ANTIHERO le 18 décembre 2025. En juin 2026, « Tou Lannwit » paraît sous son nom.",
+  ),
+  (
+    "D’où vient YSN ?",
+    "Sa biographie publiée sur Qobuz le présente comme un producteur et beatmaker des Antilles françaises, actif sur la scène locale. Son circuit de travail publié est celui de la Guadeloupe : le label Hakuna Music Company, MBI Family, et des partenaires comme Aknose, Krys, Rachelle Allison et Young Chang MC. Aucune source consultée ne précise son île ou sa commune de naissance, et ce site ne l’invente pas.",
+  ),
+  (
+    "Où écouter YSN ?",
+    "Suivez l’ordre de son dossier : « Lapli Season » pour le projet collectif, « PKM » pour l’écriture pour Rachelle Allison, « GOD BLESS » et « HOLIDAY » avec Krys, « Manawa » et « Palabras » avec Aknose, puis « Viré », « Pran On Pyé » et « Bad ». Pour la scène bouyon actuelle des Antilles, notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> Road Mix de Bouyon Shattaz réunit nouveautés et classiques.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/ysn.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/ysn.html#artist", "name": "YSN", "alternateName": "Nicolas Lanclume", "description": "Producteur et beatmaker des Antilles françaises, crédité Nicolas Lanclume. Auteur de l’album collaboratif Lapli Season en 2024 chez Hakuna Music Company, co-compositeur de PKM pour Rachelle Allison, partenaire d’Aknose sur Manawa et Palabras, producteur crédité sur HOLIDAY de Krys et Bad de Sanchii.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Nouvo Mood"}, {"@type": "MusicRecording", "name": "DWXG"}, {"@type": "MusicRecording", "name": "Sansasyon"}, {"@type": "MusicRecording", "name": "GOD BLESS (Ah la vie qu'on mène)"}, {"@type": "MusicRecording", "name": "BBL"}, {"@type": "MusicRecording", "name": "Manawa"}, {"@type": "MusicRecording", "name": "PKM"}, {"@type": "MusicRecording", "name": "Palabras"}, {"@type": "MusicRecording", "name": "HOLIDAY"}, {"@type": "MusicRecording", "name": "Viré"}, {"@type": "MusicRecording", "name": "Pran On Pyé"}, {"@type": "MusicRecording", "name": "Bad"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -143,13 +197,67 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Nicolas Lanclume?", "Nicolas Lanclume is the name published in the credits of the records of YSN. Deezer writes it in the explicit form Nicolas Lanclume (YSN) among the composers of “PKM” by Rachelle Allison, and Shazam credits him as songwriter on “Viré”, “BBL”, “HOLIDAY” and “Bad”, records where YSN appears as performer, composer or producer. No source consulted publishes any other biographical element under that name, neither a date nor a place of birth."),
-  ("Are “MG2X”, “OTA” and “WORKIN” by YSN of the West Indies?", "No, not according to the sources opened for this profile, and it is the main trap on this name. Platform pages headed YSN mix the beatmaker from the French West Indies with an American rapper of the same name: “MG2X”, “Stunna 2X” and “Toe 2 Toe” on Muzik Junky, “OTA” with Euro Gotit and YFN Lucci and “WORKIN” with Young Dolph on Authentic Empire Music Group, in 2020 and 2021. None of those records carries the credit Nicolas Lanclume, the label Hakuna Music Company, or a partner of his circuit. This site excludes them from his catalogue."),
-  ("What is “Lapli Season”?", "“Lapli Season” is the album of YSN released on March 29, 2024, on Hakuna Music Company. His Music Story biography presents it as a collaborative project bringing together several artists, including Matieu White, Rachelle Allison and Young Chang MC. NRJ Antilles describes the album as reputed for its features with 19 artists of the local scene, and ties the record “Sansasyon”, by YSN and Young Chang MC, to that album."),
-  ("Who composed “PKM” by Rachelle Allison and YSN?", "According to the Deezer listing of the single, released on January 17, 2025, on Mimesis with a duration of 2 minutes 31, the composers of “PKM” are Mike Saint-Auret, Nicolas Lanclume (YSN), Rachelle Paturot and Yohan Corneille Lanclas. The official video of the record is tagged #Bouyon on YouTube. YSN was then credited as composer of “Parè Ba-Y” by Rachelle Allison in 2025, then as co-composer of “Nyèt” in 2026."),
-  ("What does the shout “YSN Make Them Move” mean?", "It is the published sound signature of YSN: the shout “YSN MAKE THEM MOVE!” opens the lyrics of “Palabras”, his 2025 record with Aknose, and the official hashtags of the video decline it as YSNMAKETHEMMOVE and YSNMAKEITMOVE, which is also the name of his YouTube channel published in the credits, @ysnmakeitmove. For a beatmaker, the formula is a programme: make the audience move."),
-  ("Where does YSN come from?", "His biography published on Qobuz presents him as a producer and beatmaker from the French West Indies, active on the local scene, with a style blending Caribbean sounds and contemporary influences. His published working circuit is that of Guadeloupe: the label Hakuna Music Company, MBI Family, and partners such as Aknose, Krys, Rachelle Allison and Young Chang MC. No source consulted specifies his island or community of birth, and this site does not invent it.")
- ],
+  (
+    "Who is YSN?",
+    "YSN is a producer and beatmaker from the French West Indies, credited as Nicolas Lanclume, presented by his Music Story biography as a creator whose style blends Caribbean sounds and contemporary influences. He released the collaborative album “Lapli Season” in 2024 on Hakuna Music Company, his home label, and works as composer, producer or guest for Aknose, Krys, Rachelle Allison and Young Chang MC.",
+  ),
+  (
+    "Who is Nicolas Lanclume?",
+    "Nicolas Lanclume is the name published in the credits of the records of YSN. Deezer writes it in the explicit form Nicolas Lanclume (YSN) among the composers of “PKM” by Rachelle Allison, and Shazam credits him as songwriter on “Viré”, “BBL”, “HOLIDAY” and “Bad”. No source consulted publishes any other biographical element under that name, neither a date nor a place of birth.",
+  ),
+  (
+    "Are “MG2X”, “OTA” and “WORKIN” by YSN of the West Indies?",
+    "No, and it is the main trap on this name. Platform pages headed YSN mix the beatmaker from the French West Indies with an American rapper of the same name: “MG2X”, “Stunna 2X” and “Toe 2 Toe” on Muzik Junky, “OTA” and “WORKIN” on Authentic Empire Music Group, in 2020 and 2021. None of those records carries the credit Nicolas Lanclume or the label Hakuna Music Company. This site excludes them.",
+  ),
+  (
+    "Are YSN and YSN Flow the same artist?",
+    "No. YSN Flow is a third artist, an American rapper signed to entirely different labels, with no published link to the beatmaker from the French West Indies. He completes the family of namesakes, along with the American rapper whose records are mixed into the YSN platform pages. The YSN of this page is only the one of the Nicolas Lanclume credits and the Hakuna Music Company label.",
+  ),
+  (
+    "What is “Lapli Season”?",
+    "“Lapli Season” is the album of YSN released on March 29, 2024, on Hakuna Music Company. His Music Story biography presents it as a collaborative project bringing together several artists, including Matieu White, Rachelle Allison and Young Chang MC. NRJ Antilles describes it as reputed for its features with 19 artists of the local scene, and ties “Sansasyon”, by YSN and Young Chang MC, to it.",
+  ),
+  (
+    "What is YSN’s most popular song?",
+    "According to Viberate, “GOD BLESS (Ah la vie qu’on mène)” comes first among the records attached to his page, ahead of “Manawa”, “Palabras” and “Pran On Pyé”. That Krys record featuring YSN was released on June 28, 2024 on KRYSmusics, according to the Qobuz discography of Krys. No listening figure of his own can be published, as the counters mix his name with those of his namesakes.",
+  ),
+  (
+    "Who composed “PKM” by Rachelle Allison and YSN?",
+    "According to the Deezer listing of the single, released on January 17, 2025, on Mimesis with a duration of 2 minutes 31, the composers of “PKM” are Mike Saint-Auret, Nicolas Lanclume (YSN), Rachelle Paturot and Yohan Corneille Lanclas. The official video is tagged #Bouyon on YouTube. YSN was then credited as composer of “Parè Ba-Y” by Rachelle Allison in 2025, then as co-composer of “Nyèt” in 2026.",
+  ),
+  (
+    "Who produced “HOLIDAY” by Krys?",
+    "YSN. The Shazam listing of “HOLIDAY” credits him with vocals and production, with Nicolas Lanclume as songwriter, at 130 BPM, on Step Out Productions. The sources disagree on the release day, Qobuz dating it February 28, 2025 and Shazam June 27, 2025: this site keeps the year 2025. On a record by an artist of Krys’s standing, YSN is published as producer.",
+  ),
+  (
+    "Which records did YSN make with Aknose?",
+    "Two records in five months, on Hakuna Music Company: “Manawa”, released on September 6, 2024, then “Palabras”, released on January 31, 2025 with MBI Family co-signing, with YSN as credited composer. In 2026, the two names also meet among the composers of “Nyèt” by Rachelle Allison. It is the most sustained partnership of his file. See our <a href=\"/en/aknose.html\">Aknose</a> profile.",
+  ),
+  (
+    "Is “Palabras” by Aknose and YSN bouyon or dembow?",
+    "The official video description presents “Palabras” as a new record “in the Dembow style”, the fast rhythm of the Dominican Republic, composed by YSN and mixed by Zweeng. Yet the video keywords list DEMBOW, SHATTA, DANCEHALL and BOUYON, and its hashtags set GUADELOUPE and REPUBLICADOMINICANA side by side. The lyrics mix Guadeloupe Creole and Spanish: a crossover record, openly so.",
+  ),
+  (
+    "What does the shout “YSN Make Them Move” mean?",
+    "It is the published sound signature of YSN: the shout “YSN MAKE THEM MOVE!” opens the lyrics of “Palabras”, his 2025 record with Aknose, and the official hashtags of the video decline it as YSNMAKETHEMMOVE and YSNMAKEITMOVE, which is also the name of his YouTube channel published in the credits, @ysnmakeitmove. For a beatmaker, the formula is a programme: make the audience move.",
+  ),
+  (
+    "Does YSN make bouyon?",
+    "He works in the Guadeloupe bouyon circuit, though the platforms do not file him that way: they place his records under Hip-Hop, Pop, Dancehall, Reggae or World. The bouyon link comes from the records and the circuit: the “PKM” video is tagged #Bouyon, the “Palabras” keywords name bouyon, and his partners Aknose, 1T1 and Lejuh are bouyon artists. See our <a href=\"/en/bouyon-producers.html\">bouyon producers</a> page.",
+  ),
+  (
+    "What are YSN’s latest releases?",
+    "After the duo with Aknose, “Pran On Pyé” came out on June 27, 2025 on Hakuna Music Company, presented by Viberate as a collaboration with 1T1 and Lejuh. “Bad”, by Sanchii and YSN, followed on December 12, 2025, with YSN credited as producer, then his presence on “La Manigance”, a collective record released by Because Music and ANTIHERO on December 18, 2025. In June 2026, “Tou Lannwit” came out under his name.",
+  ),
+  (
+    "Where does YSN come from?",
+    "His biography published on Qobuz presents him as a producer and beatmaker from the French West Indies, active on the local scene. His published working circuit is that of Guadeloupe: the label Hakuna Music Company, MBI Family, and partners such as Aknose, Krys, Rachelle Allison and Young Chang MC. No source consulted specifies his island or community of birth, and this site does not invent it.",
+  ),
+  (
+    "Where can I hear YSN?",
+    "Follow the order of his file: “Lapli Season” for the collective project, “PKM” for his writing for Rachelle Allison, “GOD BLESS” and “HOLIDAY” with Krys, “Manawa” and “Palabras” with Aknose, then “Viré”, “Pran On Pyé” and “Bad”. For today’s Antilles bouyon scene, our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, the Road Mix by Bouyon Shattaz, gathers new releases and classics.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/ysn.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/ysn.html#artist", "name": "YSN", "alternateName": "Nicolas Lanclume", "description": "Producer and beatmaker from the French West Indies, credited as Nicolas Lanclume. Maker of the collaborative album Lapli Season in 2024 on Hakuna Music Company, co-composer of PKM for Rachelle Allison, partner of Aknose on Manawa and Palabras, credited producer on HOLIDAY by Krys and Bad by Sanchii.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Nouvo Mood"}, {"@type": "MusicRecording", "name": "DWXG"}, {"@type": "MusicRecording", "name": "Sansasyon"}, {"@type": "MusicRecording", "name": "GOD BLESS (Ah la vie qu'on mène)"}, {"@type": "MusicRecording", "name": "BBL"}, {"@type": "MusicRecording", "name": "Manawa"}, {"@type": "MusicRecording", "name": "PKM"}, {"@type": "MusicRecording", "name": "Palabras"}, {"@type": "MusicRecording", "name": "HOLIDAY"}, {"@type": "MusicRecording", "name": "Viré"}, {"@type": "MusicRecording", "name": "Pran On Pyé"}, {"@type": "MusicRecording", "name": "Bad"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

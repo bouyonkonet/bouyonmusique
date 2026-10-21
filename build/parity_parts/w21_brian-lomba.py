@@ -75,13 +75,59 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Brian Lomba ?", "Brian Lomba est un nom d’auteur et de compositeur du bouyon guadeloupéen, documenté uniquement par les crédits des plateformes. Deezer et Shazam le créditent sur presque tout le catalogue de Pinpin OSP, comme auteur de « Make it pop » et « On Fwa », et comme auteur et compositeur unique de « Ti bébé », « AN NI », « Open Like Dat » et « BACK IT UP ». Une fiche Deezer le crédite sous la forme « Brian PINPIN OSP Lomba », et une autre sous la forme « Brian Marvin Lomba ». Aucune source consultée ne publie sa biographie."),
-  ("Brian Lomba et Pinpin OSP, est-ce la même personne ?", "Aucune source ne le déclare en toutes lettres, et ce profil présente le lien comme une lecture des crédits, pas comme un fait biographique établi. Les pièces publiées sont convergentes : un crédit Deezer soudé, « Brian PINPIN OSP Lomba », auteur et compositeur de « Ti bébé » ; un même nom d’auteur sur presque tout le catalogue ; et un titre, « My Lolly », où la place d’auteur est signée Pinpin OSP lui même. La lecture la plus simple est que Brian Lomba est le nom d’écriture derrière le nom d’affiche Pinpin OSP."),
-  ("Quels titres Brian Lomba a-t-il écrits pour Pinpin OSP ?", "Dix titres sont documentés par des fiches ouvertes. En signature unique d’auteur et de compositeur : « Ti bébé », « AN NI », « Open Like Dat » et « BACK IT UP » avec Ted la et CK Gee. En coécriture : « Make it pop » avec Edday et Corane Vincent, composition de Luchshiy ; « On Fwa » avec Shanika ; « Don’t Play » avec Yovan Andre et YasBeats ; « Douxtcha » avec Stanley Henri ; et « Vody », composé avec DJ Taffy. Le titre « My Lolly » ne porte pas son nom dans les crédits consultés."),
-  ("Quel est le lien entre Brian Lomba et Meryl ?", "Un crédit d’album. « Vite Fait », piste 12 de l’album « La Dame » de Meryl paru en 2025, est publié par Deezer avec deux auteurs, Cindy Elismar, le nom de naissance de Meryl, et Brian Lomba, et cinq compositeurs, Cindy Elismar, Brian Lomba, Joshua Rosinet, Novytch Hereson et Reynald Rulle. C’est, dans les sources ouvertes, le seul crédit de Brian Lomba hors du catalogue de Pinpin OSP."),
-  ("Sur quel label les titres de Brian Lomba sont-ils sortis ?", "Les deux singles documentés par Shazam sont sortis chez VGM Product, écrit VGM PRODUCT sur « Make it pop » en 2023 et VGM PRODUCT’ sur « On Fwa » en 2024. Le clip officiel de « SEE U », autre titre de Pinpin OSP, crédite aussi VGM Product à l’enregistrement, au mixage et au mastering. Le crédit chez Meryl, « Vite Fait », appartient à l’album « La Dame », hors de cette enseigne."),
-  ("Où écouter les titres écrits par Brian Lomba ?", "Par le catalogue de Pinpin OSP : « Make it pop », « On Fwa », « Don’t Play », « Ti bébé », « AN NI », « Vody », « Open Like Dat », « Douxtcha » et « BACK IT UP », puis par « Vite Fait » dans l’album « La Dame » de Meryl. Notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> suit cette vague guadeloupéenne, et le profil <a href=\"/pinpin-osp.html\">Pinpin OSP</a> documente l’artiste d’affiche titre par titre.")
- ],
+  (
+    "Qui est Brian Lomba ?",
+    "Brian Lomba est un nom d’auteur et de compositeur du bouyon guadeloupéen, documenté uniquement par les crédits des plateformes. Deezer et Shazam le créditent sur presque tout le catalogue de Pinpin OSP, comme auteur de « Make it pop » et « On Fwa », et comme auteur et compositeur unique de « Ti bébé », « AN NI », « Open Like Dat » et « BACK IT UP ». Aucune source consultée ne publie sa biographie.",
+  ),
+  (
+    "Brian Lomba et Pinpin OSP, est-ce la même personne ?",
+    "Aucune source ne le déclare en toutes lettres, et ce profil présente le lien comme une lecture des crédits. Les pièces convergent : un crédit Deezer soudé, « Brian PINPIN OSP Lomba », auteur et compositeur de « Ti bébé » ; un même nom d’auteur sur presque tout le catalogue ; et « My Lolly », où la place d’auteur est signée Pinpin OSP lui même. La lecture la plus simple : Brian Lomba est le nom d’écriture derrière le nom d’affiche Pinpin OSP.",
+  ),
+  (
+    "Brian Lomba, Brian Marvin Lomba ou Brian PINPIN OSP Lomba : comment s’écrit son nom ?",
+    "Les plateformes l’écrivent de trois façons. La forme courante est « Brian LOMBA », sur la plupart des crédits. « Brian Marvin Lomba » est publiée par Deezer comme auteur et compositeur unique de « AN NI », avec un deuxième prénom qui n’apparaît nulle part ailleurs. Et « Brian PINPIN OSP Lomba » crédite une des deux versions de « Ti bébé », le nom de scène soudé entre prénom et nom.",
+  ),
+  (
+    "Quels titres Brian Lomba a-t-il écrits pour Pinpin OSP ?",
+    "Dix titres sont documentés par des fiches ouvertes. Seul auteur et compositeur : « Ti bébé », « AN NI », « Open Like Dat » et « BACK IT UP » avec Ted la et CK Gee. En coécriture : « Make it pop » avec Edday et Corane Vincent, « On Fwa » avec Shanika, « Don’t Play » avec Yovan Andre et YasBeats, « Douxtcha » avec Stanley Henri, et « Vody », composé avec DJ Taffy. « My Lolly » ne porte pas son nom.",
+  ),
+  (
+    "Qui a écrit « Make it pop » de Pinpin OSP et Edday ?",
+    "Shazam crédite l’écriture de « Make it pop » à Edday, Brian Lomba et Corane Vincent, et la composition à Luchshiy. Deezer publie une variante du même crédit, avec Edday, Luchshiy, Brian Lomba et Corane Vincent comme compositeurs. Le titre est sorti le 2 novembre 2023 chez VGM PRODUCT, en français et à 160 BPM. C’est le plus ancien titre daté du dossier. Voir notre page <a href=\"/edday.html\">Edday</a>.",
+  ),
+  (
+    "Qui a écrit « On Fwa » de Pinpin OSP et Shanika ?",
+    "Selon sa fiche Shazam, « On Fwa » est écrit par deux noms seulement : Shanika et Brian Lomba, la chanteuse invitée et l’auteur maison, à égalité de signature. Le duo est sorti le 8 juin 2024 chez VGM PRODUCT’, en français. Aucun compositeur séparé n’est publié par Shazam pour ce titre. Le profil de la chanteuse est sur notre page <a href=\"/shanika.html\">Shanika</a>.",
+  ),
+  (
+    "Qui a composé « Vody » de Pinpin OSP ?",
+    "« Vody » est composé par DJ Taffy et Brian Lomba, et écrit par Brian Lomba seul, selon sa fiche Deezer. Avec 3 minutes 26, c’est le titre le plus long du dossier. DJ Taffy, producteur central du bouyon gwada et du cercle de Lejuh, y partage la composition avec l’auteur de la maison VGM. Son profil est sur notre page <a href=\"/dj-taffy.html\">DJ Taffy</a>.",
+  ),
+  (
+    "Brian Lomba a-t-il écrit « My Lolly » ?",
+    "Non, « My Lolly » est le seul titre du catalogue Pinpin OSP référencé par Deezer sans crédit Lomba. Ses auteurs publiés sont Yoan Courcet, Naima Dimina et Pinpin OSP lui même, et ses compositeurs Jehan Dagnet et Carcheline Cereme. Le nom d’affiche y signe donc comme auteur, là où les autres titres signent Brian Lomba.",
+  ),
+  (
+    "Brian Lomba chante-t-il ?",
+    "Non, aucune source consultée ne le crédite comme interprète. Aucun titre ne le crédite au chant, aucune fiche ne le présente comme artiste principal, et aucune page d’artiste ne porte son nom. Il apparaît uniquement dans la rubrique composition et paroles : comme songwriter sur les fiches Shazam, et le plus souvent comme auteur et compositeur à la fois sur Deezer.",
+  ),
+  (
+    "Quel est le lien entre Brian Lomba et Meryl ?",
+    "Un crédit d’album. « Vite Fait », piste 12 de l’album « La Dame » de Meryl paru en 2025, est publié par Deezer avec deux auteurs, Cindy Elismar, le nom de naissance de Meryl, et Brian Lomba, et cinq compositeurs, Cindy Elismar, Brian Lomba, Joshua Rosinet, Novytch Hereson et Reynald Rulle. C’est, dans les sources ouvertes, le seul crédit de Brian Lomba hors du catalogue de Pinpin OSP.",
+  ),
+  (
+    "Sur quel label les titres de Brian Lomba sont-ils sortis ?",
+    "Les deux singles documentés par Shazam sont sortis chez VGM Product, écrit VGM PRODUCT sur « Make it pop » en 2023 et VGM PRODUCT’ sur « On Fwa » en 2024. Le clip officiel de « SEE U », autre titre de Pinpin OSP, crédite aussi VGM Product à l’enregistrement, au mixage et au mastering. Le crédit chez Meryl, « Vite Fait », appartient à l’album « La Dame », hors de cette enseigne.",
+  ),
+  (
+    "À quelle scène appartient Brian Lomba ?",
+    "Ses crédits le placent dans le circuit bouyon de Guadeloupe : des titres en français et en créole sortis chez VGM Product, un producteur nommé Luchshiy, un réalisateur de clip dont le nom porte le code 971, et un titre composé avec DJ Taffy. Aucune source ne publie son lieu de naissance : il est documenté comme auteur de ce circuit par ses crédits seuls. Voir notre page <a href=\"/bouyon-guadeloupe.html\">bouyon Guadeloupe</a>.",
+  ),
+  (
+    "Où écouter les titres écrits par Brian Lomba ?",
+    "Par le catalogue de Pinpin OSP : « Make it pop », « On Fwa », « Don’t Play », « Ti bébé », « AN NI », « Vody », « Open Like Dat », « Douxtcha » et « BACK IT UP », puis par « Vite Fait » dans l’album « La Dame » de Meryl. Le profil <a href=\"/pinpin-osp.html\">Pinpin OSP</a> documente l’artiste d’affiche titre par titre.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/brian-lomba.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/brian-lomba.html#artist", "name": "Brian Lomba", "description": "Auteur et compositeur du bouyon guadeloupéen, connu uniquement par les crédits des plateformes. Signature d’écriture de presque tout le catalogue de Pinpin OSP chez VGM Product, seul ou en équipe, et coauteur de Vite Fait sur l’album La Dame de Meryl en 2025. Une fiche Deezer le crédite sous la forme Brian PINPIN OSP Lomba, une autre sous la forme Brian Marvin Lomba. Aucune biographie publiée dans les sources consultées.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Make it pop'}, {"@type": "MusicRecording", "name": 'On Fwa'}, {"@type": "MusicRecording", "name": "Don't Play"}, {"@type": "MusicRecording", "name": 'Ti bébé'}, {"@type": "MusicRecording", "name": 'AN NI'}, {"@type": "MusicRecording", "name": 'Open Like Dat'}, {"@type": "MusicRecording", "name": 'BACK IT UP'}, {"@type": "MusicRecording", "name": 'Douxtcha'}, {"@type": "MusicRecording", "name": 'Vody'}, {"@type": "MusicRecording", "name": 'Vite Fait'}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -153,13 +199,59 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Brian Lomba?", "Brian Lomba is a songwriter and composer name in Guadeloupe bouyon, documented only by platform credits. Deezer and Shazam credit him across almost the whole Pinpin OSP catalog, as a songwriter on “Make it pop” and “On Fwa”, and as sole songwriter and composer on “Ti bébé”, “AN NI”, “Open Like Dat” and “BACK IT UP”. One Deezer listing credits him in the form “Brian PINPIN OSP Lomba”, and another in the form “Brian Marvin Lomba”. No source consulted publishes his biography."),
-  ("Are Brian Lomba and Pinpin OSP the same person?", "No source states it in so many words, and this profile presents the link as a reading of the credits, not as an established biographical fact. The published pieces converge: a fused Deezer credit, “Brian PINPIN OSP Lomba”, writer and composer of “Ti bébé”; the same writer name across almost the whole catalog; and one record, “My Lolly”, where the writer seat is signed by Pinpin OSP himself. The simplest reading is that Brian Lomba is the writing name behind the billboard name Pinpin OSP."),
-  ("Which records has Brian Lomba written for Pinpin OSP?", "Ten records are documented by opened pages. As sole writer and composer: “Ti bébé”, “AN NI”, “Open Like Dat” and “BACK IT UP” with Ted la and CK Gee. In co-writing: “Make it pop” with Edday and Corane Vincent, composed by Luchshiy; “On Fwa” with Shanika; “Don't Play” with Yovan Andre and YasBeats; “Douxtcha” with Stanley Henri; and “Vody”, composed with DJ Taffy. The record “My Lolly” carries no credit in his name in the sources consulted."),
-  ("What is the link between Brian Lomba and Meryl?", "One album credit. “Vite Fait”, track 12 of Meryl album “La Dame”, released in 2025, is published by Deezer with two writers, Cindy Elismar, Meryl birth name, and Brian Lomba, and five composers, Cindy Elismar, Brian Lomba, Joshua Rosinet, Novytch Hereson and Reynald Rulle. In the opened sources, it is the only Brian Lomba credit outside the Pinpin OSP catalog."),
-  ("On which label were the Brian Lomba records released?", "The two singles documented by Shazam were released on VGM Product, spelled VGM PRODUCT on “Make it pop” in 2023 and VGM PRODUCT' on “On Fwa” in 2024. The official “SEE U” video, another Pinpin OSP record, also credits VGM Product with the recording, mixing and mastering. The Meryl credit, “Vite Fait”, belongs to the album “La Dame”, outside that banner."),
-  ("Where can I hear the records written by Brian Lomba?", "Through the Pinpin OSP catalog: “Make it pop”, “On Fwa”, “Don't Play”, “Ti bébé”, “AN NI”, “Vody”, “Open Like Dat”, “Douxtcha” and “BACK IT UP”, then through “Vite Fait” on Meryl album “La Dame”. Our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> follows this Guadeloupe wave, and the <a href=\"/en/pinpin-osp.html\">Pinpin OSP</a> profile documents the billboard artist record by record.")
- ],
+  (
+    "Who is Brian Lomba?",
+    "Brian Lomba is a songwriter and composer name in Guadeloupe bouyon, documented only by platform credits. Deezer and Shazam credit him across almost the whole Pinpin OSP catalog, as a songwriter on “Make it pop” and “On Fwa”, and as sole songwriter and composer on “Ti bébé”, “AN NI”, “Open Like Dat” and “BACK IT UP”. No source consulted publishes his biography.",
+  ),
+  (
+    "Are Brian Lomba and Pinpin OSP the same person?",
+    "No source states it in so many words, and this profile presents the link as a reading of the credits. The pieces converge: a fused Deezer credit, “Brian PINPIN OSP Lomba”, writer and composer of “Ti bébé”; the same writer name across almost the whole catalog; and “My Lolly”, where the writer seat is signed by Pinpin OSP himself. The simplest reading: Brian Lomba is the writing name behind the billboard name Pinpin OSP.",
+  ),
+  (
+    "Brian Lomba, Brian Marvin Lomba or Brian PINPIN OSP Lomba: how is his name spelled?",
+    "The platforms spell it three ways. The common form is “Brian LOMBA”, on most credits. “Brian Marvin Lomba” is published by Deezer as sole writer and composer of “AN NI”, with a middle name that appears nowhere else. And “Brian PINPIN OSP Lomba” credits one of the two “Ti bébé” versions, the stage name fused between first name and family name.",
+  ),
+  (
+    "Which records has Brian Lomba written for Pinpin OSP?",
+    "Ten records are documented by opened pages. As sole writer and composer: “Ti bébé”, “AN NI”, “Open Like Dat” and “BACK IT UP” with Ted la and CK Gee. In co-writing: “Make it pop” with Edday and Corane Vincent, “On Fwa” with Shanika, “Don't Play” with Yovan Andre and YasBeats, “Douxtcha” with Stanley Henri, and “Vody”, composed with DJ Taffy. “My Lolly” does not carry his name.",
+  ),
+  (
+    "Who wrote “Make it pop” by Pinpin OSP and Edday?",
+    "Shazam credits the writing of “Make it pop” to Edday, Brian Lomba and Corane Vincent, and the composition to Luchshiy. Deezer publishes a variant of the same credit, with Edday, Luchshiy, Brian Lomba and Corane Vincent as composers. The record came out on November 2, 2023 on VGM PRODUCT, in French and at 160 BPM. It is the oldest dated record in the file. See our <a href=\"/en/edday.html\">Edday</a> page.",
+  ),
+  (
+    "Who wrote “On Fwa” by Pinpin OSP and Shanika?",
+    "According to its Shazam page, “On Fwa” was written by two names only: Shanika and Brian Lomba, the guest singer and the house writer, on an equal signature footing. The duet came out on June 8, 2024 on VGM PRODUCT', in French. No separate composer is published by Shazam for this record. The singer profile is on our <a href=\"/en/shanika.html\">Shanika</a> page.",
+  ),
+  (
+    "Who composed “Vody” by Pinpin OSP?",
+    "“Vody” was composed by DJ Taffy and Brian Lomba, and written by Brian Lomba alone, according to its Deezer page. At 3 minutes 26, it is the longest record in the file. DJ Taffy, a central producer of bouyon gwada and of the Lejuh circle, shares the composition there with the VGM house writer. His profile is on our <a href=\"/en/dj-taffy.html\">DJ Taffy</a> page.",
+  ),
+  (
+    "Did Brian Lomba write “My Lolly”?",
+    "No, “My Lolly” is the only Pinpin OSP catalog record listed by Deezer without a Lomba credit. Its published writers are Yoan Courcet, Naima Dimina and Pinpin OSP himself, and its composers Jehan Dagnet and Carcheline Cereme. The billboard name signs there as a writer, where the other records sign Brian Lomba.",
+  ),
+  (
+    "Does Brian Lomba sing?",
+    "No, no source consulted credits him as a performer. No record credits him as a singer, no listing presents him as a lead artist, and no artist page carries his name. He appears only in the composition and lyrics section: as a songwriter on the Shazam pages, and most often as writer and composer at once on Deezer.",
+  ),
+  (
+    "What is the link between Brian Lomba and Meryl?",
+    "One album credit. “Vite Fait”, track 12 of Meryl album “La Dame”, released in 2025, is published by Deezer with two writers, Cindy Elismar, Meryl birth name, and Brian Lomba, and five composers, Cindy Elismar, Brian Lomba, Joshua Rosinet, Novytch Hereson and Reynald Rulle. In the opened sources, it is the only Brian Lomba credit outside the Pinpin OSP catalog.",
+  ),
+  (
+    "On which label were the Brian Lomba records released?",
+    "The two singles documented by Shazam were released on VGM Product, spelled VGM PRODUCT on “Make it pop” in 2023 and VGM PRODUCT' on “On Fwa” in 2024. The official “SEE U” video, another Pinpin OSP record, also credits VGM Product with the recording, mixing and mastering. The Meryl credit, “Vite Fait”, belongs to the album “La Dame”, outside that banner.",
+  ),
+  (
+    "Which scene does Brian Lomba belong to?",
+    "His credits place him in the Guadeloupe bouyon circuit: records in French and Creole released on VGM Product, a producer named Luchshiy, a video director whose name carries the 971 code, and one record composed with DJ Taffy. No source publishes his birthplace: he is documented as a writer of that circuit by his credits alone. See our <a href=\"/en/bouyon-guadeloupe.html\">bouyon Guadeloupe</a> page.",
+  ),
+  (
+    "Where can I hear the records written by Brian Lomba?",
+    "Through the Pinpin OSP catalog: “Make it pop”, “On Fwa”, “Don't Play”, “Ti bébé”, “AN NI”, “Vody”, “Open Like Dat”, “Douxtcha” and “BACK IT UP”, then through “Vite Fait” on Meryl album “La Dame”. The <a href=\"/en/pinpin-osp.html\">Pinpin OSP</a> profile documents the billboard artist record by record.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/brian-lomba.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/brian-lomba.html#artist", "name": "Brian Lomba", "description": "Songwriter and composer in Guadeloupe bouyon, known only through platform credits. The writing signature on almost the whole Pinpin OSP catalog on VGM Product, alone or in a team, and a co-writer of Vite Fait on Meryl album La Dame in 2025. One Deezer listing credits him in the form Brian PINPIN OSP Lomba, another in the form Brian Marvin Lomba. No biography published in the sources consulted.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Make it pop'}, {"@type": "MusicRecording", "name": 'On Fwa'}, {"@type": "MusicRecording", "name": "Don't Play"}, {"@type": "MusicRecording", "name": 'Ti bébé'}, {"@type": "MusicRecording", "name": 'AN NI'}, {"@type": "MusicRecording", "name": 'Open Like Dat'}, {"@type": "MusicRecording", "name": 'BACK IT UP'}, {"@type": "MusicRecording", "name": 'Douxtcha'}, {"@type": "MusicRecording", "name": 'Vody'}, {"@type": "MusicRecording", "name": 'Vite Fait'}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

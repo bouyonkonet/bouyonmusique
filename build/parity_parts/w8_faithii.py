@@ -70,13 +70,59 @@ FR = {
   ]
  ],
  "faq": [
-  ("Pourquoi Faithii est-elle appelée Bouyon Barbie ?", "Parce que c’est le nom sous lequel elle publie et sous lequel elle est nommée : ses singles de 2024 sortent sur le label Bouyon Barbie Music, les listes des Dominica Music Awards la nomment « Bouyon Barbie Faithii », et c’est sous ce nom complet qu’elle a été couronnée artiste féminine de l’année. Ce n’est donc pas un surnom inventé par les réseaux, mais son identité de scène documentée."),
-  ("Quels sont les titres vérifiés de Faithii ?", "Trois titres sont documentés par les crédits des plateformes : « I know y (kenny g) (feat. Faithii) » de Reo, publié le 20 juin 2024, où elle chante en featuring ; « SUPERSTAR », son single publié le 22 août 2024 sur Bouyon Barbie Music, avec l’écriture à son nom ; et « No Money No Honey », publié le 11 octobre 2024 sur le même label, que les mixes des DJ créditent Faithii x Reo. Aucun album ni EP n’est documenté à ce jour."),
-  ("Faithii a-t-elle gagné aux Dominica Music Awards ?", "Oui. Lors de la deuxième édition des Dominica Music Awards, le samedi 3 janvier 2026 à l’InterContinental Dominica Cabrits Resort and Spa de Portsmouth, elle a remporté le titre d’artiste féminine de l’année, devant un champ de finalistes qui comprenait Carlyn XP, Ebony Empress, AbiYah Yisrael et Joy. Elle était aussi finaliste artiste montante de l’année, et « IKY », avec Reo et Kenny G, était nommé en collaboration de l’année."),
-  ("Faithii a-t-elle chanté au World Creole Music Festival ?", "Oui, elle figurait au programme officiel de l’édition 2025, la vingt cinquième, au Windsor Park de Roseau : le deuxième soir, samedi 25 octobre 2025, sur une nuit mise en avant pour Vybz Kartel, aux côtés de WCK, First Serenade, Kenny G, Asa Bantan et Kes The Band, selon le programme annoncé le 4 juillet 2025 et repris par la presse régionale."),
-  ("Pourquoi les plateformes classent-elles Faithii en reggae alors qu’elle fait du bouyon ?", "Parce que les bases de données des plateformes identifient mal le bouyon : les fiches de référence de ses trois titres les rangent sous le genre reggae, alors qu’ils tournent à 160 BPM, circulent dans les mixes bouyon des DJ et sont couronnés par la scène bouyon de la Dominique. C’est un cas documenté du problème de crédit et d’étiquetage qui touche tout le genre, né en Dominique et encore mal rangé par les catalogues mondiaux."),
-  ("Quand Faithii chante-t-elle avec Reo en 2026 ?", "Le programme officiel de Ti Vilaj Kwéyòl 2026 annonce Reo et Faithii ensemble le jeudi 22 octobre 2026 à 16 h 26, aux Jardins botaniques de Roseau, jour de la grande finale, sur le même bloc que Trilla G et Prymex. C’est la suite scénique de leurs titres communs, « I Know Y » et « No Money No Honey ».")
- ],
+  (
+    "Qui est Faithii ?",
+    "Faithii est une chanteuse de bouyon de la Dominique, connue sous le nom de Bouyon Barbie, qui est aussi le nom de son label, Bouyon Barbie Music. Entre juin et octobre 2024, elle a posé trois titres documentés, puis elle a été programmée au World Creole Music Festival 2025 et couronnée artiste féminine de l’année aux Dominica Music Awards en janvier 2026.",
+  ),
+  (
+    "D’où vient Faithii ?",
+    "Faithii vient de la Dominique, l’île où le bouyon est né. Tout ce qui est vérifiable à son sujet l’y rattache : ses collaborations avec Reo et Kenny G, de la scène de Roseau, ses programmations au World Creole Music Festival au Windsor Park et à Ti Vilaj Kwéyòl aux Jardins botaniques, et son titre aux Dominica Music Awards. Aucune biographie fiable ne précise davantage son parcours.",
+  ),
+  (
+    "Pourquoi Faithii est-elle appelée Bouyon Barbie ?",
+    "Parce que c’est le nom sous lequel elle publie et sous lequel elle est nommée : ses singles de 2024 sortent sur le label Bouyon Barbie Music, les listes des Dominica Music Awards la nomment « Bouyon Barbie Faithii », et c’est sous ce nom complet qu’elle a été couronnée artiste féminine de l’année. Ce n’est donc pas un surnom inventé par les réseaux, mais son identité de scène documentée.",
+  ),
+  (
+    "Quels sont les titres vérifiés de Faithii ?",
+    "Trois titres sont documentés par les crédits des plateformes : « I know y (kenny g) (feat. Faithii) » de Reo, publié le 20 juin 2024, où elle chante en featuring ; « SUPERSTAR », son single publié le 22 août 2024 sur Bouyon Barbie Music, avec l’écriture à son nom ; et « No Money No Honey », publié le 11 octobre 2024 sur le même label. Aucun album ni EP n’est documenté à ce jour.",
+  ),
+  (
+    "Qui a écrit « Superstar » de Faithii ?",
+    "Faithii elle-même : le crédit d’écriture de « SUPERSTAR » est à son seul nom. Le titre est sorti le 22 août 2024 sur son label Bouyon Barbie Music, à 160 BPM, la vitesse de croisière du bouyon moderne. C’est son premier single documenté sous son propre nom, une déclaration d’identité publiée avant sa consécration aux Dominica Music Awards.",
+  ),
+  (
+    "« I Know Y », « I Know Why » et « IKY » : est-ce le même titre ?",
+    "Oui. Le titre officiel est « I know y (kenny g) (feat. Faithii) », publié par Reo le 20 juin 2024 sur son label Reo music Ent., avec un crédit d’écriture au nom de Dario Sebastien Yankey, le nom civil documenté de Reo. Les DJ le jouent sous les formes « I Know Why » ou « IKY », nom sous lequel il a été nommé en collaboration de l’année.",
+  ),
+  (
+    "« No Money No Honey » est-il un duo avec Reo ?",
+    "Officiellement non : « No Money No Honey », sorti le 11 octobre 2024 sur Bouyon Barbie Music, est publié au seul nom de Faithii. Mais les tracklists des mixes bouyon diffusés en podcast le créditent « Faithii x Reo », signe que les DJ de la scène le travaillent comme un titre en duo. Les deux artistes sont d’ailleurs programmés ensemble sur scène en 2026.",
+  ),
+  (
+    "Avec quels artistes Faithii a-t-elle collaboré ?",
+    "Ses collaborations documentées passent par Reo, que la presse régionale présente comme le prince de la nouvelle génération du bouyon, et par Kenny G, pilier des riddims de la même scène, sur « I Know Y ». Les DJ associent aussi Reo à « No Money No Honey ». Sur scène, Faithii partage avec Reo un créneau de Ti Vilaj Kwéyòl 2026, sur le même bloc que Trilla G et Prymex.",
+  ),
+  (
+    "Faithii a-t-elle gagné aux Dominica Music Awards ?",
+    "Oui. Lors de la deuxième édition des Dominica Music Awards, le samedi 3 janvier 2026 à l’InterContinental Dominica Cabrits Resort and Spa de Portsmouth, elle a remporté le titre d’artiste féminine de l’année, devant un champ de finalistes qui comprenait Carlyn XP, Ebony Empress, AbiYah Yisrael et Joy. Elle était aussi finaliste artiste montante de l’année, et « IKY », avec Reo et Kenny G, était nommé en collaboration de l’année.",
+  ),
+  (
+    "Faithii a-t-elle chanté au World Creole Music Festival ?",
+    "Oui, elle figurait au programme officiel de l’édition 2025, la vingt cinquième, au Windsor Park de Roseau : le deuxième soir, samedi 25 octobre 2025, sur une nuit mise en avant pour Vybz Kartel, aux côtés de WCK, First Serenade, Kenny G, Asa Bantan et Kes The Band, selon le programme annoncé le 4 juillet 2025 et repris par la presse régionale.",
+  ),
+  (
+    "Quand Faithii chante-t-elle avec Reo en 2026 ?",
+    "Le programme officiel de Ti Vilaj Kwéyòl 2026 annonce Reo et Faithii ensemble le jeudi 22 octobre 2026 à 16 h 26, aux Jardins botaniques de Roseau, jour de la grande finale, sur le même bloc que Trilla G et Prymex. C’est la suite scénique de leurs titres communs, « I Know Y » et « No Money No Honey ».",
+  ),
+  (
+    "Pourquoi les plateformes classent-elles Faithii en reggae alors qu’elle fait du bouyon ?",
+    "Parce que les bases de données des plateformes identifient mal le bouyon : les fiches de référence de ses trois titres les rangent sous le genre reggae, alors qu’ils tournent à 160 BPM, circulent dans les mixes bouyon des DJ et sont couronnés par la scène bouyon de la Dominique. C’est un cas documenté du problème de crédit et d’étiquetage qui touche tout le genre, né en Dominique et encore mal rangé par les catalogues mondiaux.",
+  ),
+  (
+    "Où écouter Faithii et la nouvelle scène bouyon de Roseau ?",
+    "Commencez par ses trois titres vérifiés : « SUPERSTAR », « No Money No Honey » puis « I Know Y », qui tournent dans les mixes bouyon des DJ. Pour la génération qui l’entoure, la <a href=\"/playlist-bouyon.html\">playlist Bouyon Road Mix</a> de Bouyon Shattaz réunit les nouveautés de la Dominique, de la Guadeloupe et de la Martinique, sur Spotify et YouTube, et elle s’obtient aussi en commentant ROAD MIX sur Instagram.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/faithii.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/faithii.html#artist", "name": "Faithii", "description": "Chanteuse bouyon de la Dominique, dite Bouyon Barbie. Singles Superstar et No Money No Honey en 2024 sur Bouyon Barbie Music, featuring sur I Know Y de Reo, artiste féminine de l’année aux Dominica Music Awards 2025.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "I Know Y"}, {"@type": "MusicRecording", "name": "SUPERSTAR"}, {"@type": "MusicRecording", "name": "No Money No Honey"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -142,13 +188,59 @@ EN = {
   ]
  ],
  "faq": [
-  ("Why is Faithii called Bouyon Barbie?", "Because that is the name she releases and is nominated under: her 2024 singles come out on the Bouyon Barbie Music label, the Dominica Music Awards lists name her “Bouyon Barbie Faithii”, and it is under that full name that she was crowned Female Artist of the Year. It is therefore not a nickname invented by social media, but her documented stage identity."),
-  ("What are Faithii verified songs?", "Three records are documented by platform credits: “I know y (kenny g) (feat. Faithii)” by Reo, released on June 20, 2024, where she sings as featured artist; “SUPERSTAR”, her single released on August 22, 2024 on Bouyon Barbie Music, with the writing credit in her name; and “No Money No Honey”, released on October 11, 2024 on the same label, which DJ mixes credit to Faithii x Reo. No album or EP is documented to date."),
-  ("Did Faithii win at the Dominica Music Awards?", "Yes. At the second edition of the Dominica Music Awards, on Saturday January 3, 2026 at the InterContinental Dominica Cabrits Resort and Spa in Portsmouth, she won the Female Artist of the Year title, ahead of a finalist field that included Carlyn XP, Ebony Empress, AbiYah Yisrael and Joy. She was also a Rising Artist finalist, and “IKY”, with Reo and Kenny G, was nominated for Collaboration of the Year."),
-  ("Did Faithii perform at the World Creole Music Festival?", "Yes, she stood on the official programme of the 2025 edition, the twenty fifth, at Windsor Park in Roseau: on the second night, Saturday October 25, 2025, on a night headlined in coverage by Vybz Kartel, alongside WCK, First Serenade, Kenny G, Asa Bantan and Kes The Band, according to the programme announced on July 4, 2025 and carried by regional press."),
-  ("Why do platforms file Faithii as reggae when she makes bouyon?", "Because platform databases identify bouyon poorly: the reference listings of her three records file them under the reggae genre, while they run at 160 BPM, circulate in the bouyon mixes of DJs and are crowned by the bouyon scene of Dominica. It is a documented case of the credit and labelling problem that touches the whole genre, born in Dominica and still badly filed by world catalogues."),
-  ("When does Faithii perform with Reo in 2026?", "The official Ti Vilaj Kweyol 2026 programme bills Reo and Faithii together on Thursday October 22, 2026 at 4:26 PM, at the Botanic Gardens in Roseau, grand finale day, on the same block as Trilla G and Prymex. It is the stage sequel to their joint records, “I Know Y” and “No Money No Honey”.")
- ],
+  (
+    "Who is Faithii?",
+    "Faithii is a bouyon singer from Dominica known as Bouyon Barbie, which is also the name of her label, Bouyon Barbie Music. Between June and October 2024 she put out three documented records, then she was billed at the World Creole Music Festival 2025 and crowned Female Artist of the Year at the Dominica Music Awards in January 2026.",
+  ),
+  (
+    "Where is Faithii from?",
+    "Faithii is from Dominica, the island where bouyon was born. Everything verifiable about her ties her to it: her collaborations with Reo and Kenny G of the Roseau scene, her billings at the World Creole Music Festival at Windsor Park and at Ti Vilaj Kweyol at the Botanic Gardens, and her title at the Dominica Music Awards. No reliable biography gives more detail on her path.",
+  ),
+  (
+    "Why is Faithii called Bouyon Barbie?",
+    "Because that is the name she releases and is nominated under: her 2024 singles come out on the Bouyon Barbie Music label, the Dominica Music Awards lists name her “Bouyon Barbie Faithii”, and it is under that full name that she was crowned Female Artist of the Year. It is therefore not a nickname invented by social media, but her documented stage identity.",
+  ),
+  (
+    "What are Faithii verified songs?",
+    "Three records are documented by platform credits: “I know y (kenny g) (feat. Faithii)” by Reo, released on June 20, 2024, where she sings as featured artist; “SUPERSTAR”, her single released on August 22, 2024 on Bouyon Barbie Music, with the writing credit in her name; and “No Money No Honey”, released on October 11, 2024 on the same label, which DJ mixes credit to Faithii x Reo. No album or EP is documented to date.",
+  ),
+  (
+    "Who wrote “Superstar” by Faithii?",
+    "Faithii herself: the songwriting credit on “SUPERSTAR” is in her name alone. The single came out on August 22, 2024 on her label Bouyon Barbie Music, at 160 BPM, the cruising speed of modern bouyon. It is her first documented single in her own name, a statement of identity released before her crowning at the Dominica Music Awards.",
+  ),
+  (
+    "Are “I Know Y”, “I Know Why” and “IKY” the same song?",
+    "Yes. The official title is “I know y (kenny g) (feat. Faithii)”, released by Reo on June 20, 2024 on his Reo music Ent. label, with a songwriting credit to Dario Sebastien Yankey, Reo documented civil name. In DJ sets it travels as “I Know Why” or “IKY”, credited to Reo, Kenny G and Faithii, and it was under the name “IKY” that it was nominated for Collaboration of the Year.",
+  ),
+  (
+    "Is “No Money No Honey” a duet with Reo?",
+    "Officially no: “No Money No Honey”, released on October 11, 2024 on Bouyon Barbie Music, carries Faithii name alone. But the tracklists of bouyon mixes circulating as podcasts credit it “Faithii x Reo”, a sign that the scene DJs work it as a duo record. The two artists are also billed together on stage in 2026.",
+  ),
+  (
+    "Who has Faithii collaborated with?",
+    "Her documented collaborations run through Reo, whom regional press presents as the prince of the new bouyon generation, and Kenny G, a pillar of the riddims of the same scene, on “I Know Y”. DJs also pair Reo with “No Money No Honey”. On stage, Faithii shares a Ti Vilaj Kweyol 2026 slot with Reo, on the same block as Trilla G and Prymex.",
+  ),
+  (
+    "Did Faithii win at the Dominica Music Awards?",
+    "Yes. At the second edition of the Dominica Music Awards, on Saturday January 3, 2026 at the InterContinental Dominica Cabrits Resort and Spa in Portsmouth, she won the Female Artist of the Year title, ahead of a finalist field that included Carlyn XP, Ebony Empress, AbiYah Yisrael and Joy. She was also a Rising Artist finalist, and “IKY”, with Reo and Kenny G, was nominated for Collaboration of the Year.",
+  ),
+  (
+    "Did Faithii perform at the World Creole Music Festival?",
+    "Yes, she stood on the official programme of the 2025 edition, the twenty fifth, at Windsor Park in Roseau: on the second night, Saturday October 25, 2025, on a night headlined in coverage by Vybz Kartel, alongside WCK, First Serenade, Kenny G, Asa Bantan and Kes The Band, according to the programme announced on July 4, 2025 and carried by regional press.",
+  ),
+  (
+    "When does Faithii perform with Reo in 2026?",
+    "The official Ti Vilaj Kweyol 2026 programme bills Reo and Faithii together on Thursday October 22, 2026 at 4:26 PM, at the Botanic Gardens in Roseau, grand finale day, on the same block as Trilla G and Prymex. It is the stage sequel to their joint records, “I Know Y” and “No Money No Honey”.",
+  ),
+  (
+    "Why do platforms file Faithii as reggae when she makes bouyon?",
+    "Because platform databases identify bouyon poorly: the reference listings of her three records file them under the reggae genre, while they run at 160 BPM, circulate in the bouyon mixes of DJs and are crowned by the bouyon scene of Dominica. It is a documented case of the credit and labelling problem that touches the whole genre, born in Dominica and still badly filed by world catalogues.",
+  ),
+  (
+    "Where can I listen to Faithii and the new Roseau bouyon scene?",
+    "Start with her three verified records: “SUPERSTAR”, “No Money No Honey” and then “I Know Y”, which run in bouyon DJ mixes. For the generation around her, the <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix playlist</a> by Bouyon Shattaz gathers new releases from Dominica, Guadeloupe and Martinique on Spotify and YouTube, and you can also get it by commenting ROAD MIX on Instagram.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/faithii.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/faithii.html#artist", "name": "Faithii", "description": "Bouyon singer from Dominica, known as Bouyon Barbie. Singles Superstar and No Money No Honey in 2024 on Bouyon Barbie Music, featured on Reo I Know Y, Female Artist of the Year at the Dominica Music Awards 2025.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "I Know Y"}, {"@type": "MusicRecording", "name": "SUPERSTAR"}, {"@type": "MusicRecording", "name": "No Money No Honey"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

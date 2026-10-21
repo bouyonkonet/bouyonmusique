@@ -59,13 +59,51 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est D-Mitri ?", "D-Mitri est un artiste crédité sur le titre « Idk Her Name », avec Lyte et Latest, programmé dans le mix « Sweet Fuh Daze 2023 (Vol. 13) » de Digga D puis dans le « Soca/Bouyon 2025-26 Mix » du Jamz Podcast, et crédité comme producteur, sous le pseudo @dmitribts, du remix « All My Life Bouyon » publié sur YouTube avec Daddy Keyz. Le dossier public consulté n’établit ni son nom complet ni son origine."),
-  ("Quel est le titre de D-Mitri que les DJs programment ?", "« Idk Her Name », chanté par D’Mitri avec Lyte et Latest. Il figure en piste 34 de « Sweet Fuh Daze 2023 (Vol. 13) » sur Podtail, puis dans la tracklist du « Soca/Bouyon 2025-26 Mix » du Jamz Podcast sur Listen Notes et Castbox, où le nom est écrit « DMitri »."),
-  ("D-Mitri a-t-il remixé « All My Life » de Lil Durk ?", "Oui, selon la vidéo YouTube « D’Mitri - All My Life Bouyon feat. Daddy Keyz ». Sa description précise que l’auteur ne détient pas les droits sur les voix utilisées, nomme le titre original de Lil Durk avec J. Cole, et crédite la production à @dmitribts et @daddykeyz."),
-  ("D-Mitri est-il Dimitri from Paris ou IHeartDmitri ?", "Non. Dimitri from Paris est un producteur français de house né à Istanbul, actif depuis les années 1980. IHeartDmitri est le nom de scène d’un artiste américain nommé Claude Dmitri Blinov Jr. selon sa page de statistiques. Demitrean, de Fresno, Demetri, d’Ypsilanti, et le chanteur pop roumain Dimitri sont encore d’autres personnes. Aucun de leurs faits n’appartient à ce profil."),
-  ("D’où vient D-Mitri ?", "Le dossier public consulté pendant la recherche de ce profil ne l’établit pas, et cette page ne le devine pas. Ses titres circulent dans des mixes soca et bouyon de la Caraïbe anglophone, ce qui documente son public et ses programmateurs, pas son lieu de naissance ou sa nationalité."),
-  ("Où écouter le bouyon de la scène de D-Mitri ?", "Commencez par les deux traces vérifiées, « Idk Her Name » et le remix « All My Life Bouyon », puis écoutez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, qui rassemble bouyon, bouyon soca et nouveautés de la Dominique suivies par Bouyon Shattaz.")
- ],
+  (
+    "Qui est D-Mitri ?",
+    "D-Mitri est un artiste crédité sur le titre « Idk Her Name », avec Lyte et Latest, programmé dans le mix « Sweet Fuh Daze 2023 (Vol. 13) » de Digga D puis dans le « Soca/Bouyon 2025-26 Mix » du Jamz Podcast, et crédité comme producteur, sous le pseudo @dmitribts, du remix « All My Life Bouyon » publié sur YouTube avec Daddy Keyz. Le dossier public consulté n’établit ni son nom complet ni son origine.",
+  ),
+  (
+    "Quel est le titre de D-Mitri que les DJs programment ?",
+    "« Idk Her Name », chanté par D’Mitri avec Lyte et Latest. Il figure en piste 34 de « Sweet Fuh Daze 2023 (Vol. 13) » sur Podtail, puis dans la tracklist du « Soca/Bouyon 2025-26 Mix » du Jamz Podcast sur Listen Notes et Castbox, où le nom est écrit « DMitri ».",
+  ),
+  (
+    "D-Mitri a-t-il remixé « All My Life » de Lil Durk ?",
+    "Oui, selon la vidéo YouTube « D’Mitri - All My Life Bouyon feat. Daddy Keyz ». Sa description précise que l’auteur ne détient pas les droits sur les voix utilisées, nomme le titre original de Lil Durk avec J. Cole, et crédite la production à @dmitribts et @daddykeyz.",
+  ),
+  (
+    "D-Mitri est-il Dimitri from Paris ou IHeartDmitri ?",
+    "Non. Dimitri from Paris est un producteur français de house né à Istanbul, actif depuis les années 1980. IHeartDmitri est le nom de scène d’un artiste américain nommé Claude Dmitri Blinov Jr. selon sa page de statistiques. Demitrean, de Fresno, Demetri, d’Ypsilanti, et le chanteur pop roumain Dimitri sont encore d’autres personnes. Aucun de leurs faits n’appartient à ce profil.",
+  ),
+  (
+    "D’où vient D-Mitri ?",
+    "Le dossier public consulté pendant la recherche de ce profil ne l’établit pas, et cette page ne le devine pas. Ses titres circulent dans des mixes soca et bouyon de la Caraïbe anglophone, ce qui documente son public et ses programmateurs, pas son lieu de naissance ou sa nationalité.",
+  ),
+  (
+    "Où écouter le bouyon de la scène de D-Mitri ?",
+    "Commencez par les deux traces vérifiées, « Idk Her Name » avec Lyte et Latest et le remix « All My Life Bouyon » avec Daddy Keyz. Pour la scène autour, commentez ROAD MIX sous une publication de @bouyonshattaz sur Instagram afin de recevoir la Bouyon Road Mix en message privé, ou ouvrez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, qui rassemble bouyon, bouyon soca et nouveautés de la Dominique.",
+  ),
+  (
+    "Faut-il écrire D-Mitri, D’Mitri ou DMitri ?",
+    "Les trois formes existent, et aucune page officielle vérifiée de l’artiste ne tranche. La tracklist de « Sweet Fuh Daze 2023 (Vol. 13) » de Digga D écrit « D’Mitri », celle du « Soca/Bouyon 2025-26 Mix » du Jamz Podcast écrit « DMitri », et la vidéo du remix « All My Life Bouyon » porte aussi « D’Mitri ». Ce site retient « D-Mitri » pour sa page, sans prétendre qu’il s’agit de l’orthographe officielle.",
+  ),
+  (
+    "Qui a produit All My Life Bouyon ?",
+    "La description de la vidéo YouTube « D’Mitri - All My Life Bouyon feat. Daddy Keyz » crédite la production à deux pseudos, @dmitribts et @daddykeyz. Daddy Keyz y est donc à la fois artiste invité, dans le titre de la vidéo, et coproducteur. C’est la seule pièce du dossier qui montre D-Mitri derrière les machines, et pas seulement au micro. Aucun compte officiel n’a été vérifié sous ces pseudos.",
+  ),
+  (
+    "Qu’est-ce qu’un remix bouyon comme All My Life Bouyon ?",
+    "C’est la reprise d’un succès venu d’ailleurs, ici « All My Life » de Lil Durk avec J. Cole, recousu sur un rythme bouyon. Cette greffe est une pratique documentée de la scène : elle fait entrer des voix connues du public jeune dans le tempo des fêtes dominicaines. La vidéo de D-Mitri précise d’ailleurs que son auteur ne détient pas les droits sur les voix utilisées. Voir notre page <a href=\"/remix-bouyon.html\">remix bouyon</a>.",
+  ),
+  (
+    "Dans quels mixes entend-on D-Mitri ?",
+    "Dans deux mixes de DJs dont les tracklists sont publiées. « Sweet Fuh Daze 2023 (Vol. 13) », de Digga D pour le Soca Podcast, place « Idk Her Name » en piste 34, près de Boyzie, Mr Killa, Tallpree, Lavaman et Lil Kerry. Le « Soca/Bouyon 2025-26 Mix » du Jamz Podcast le reprogramme avec Patrice Roberts, Machel Montano, Skinny Fabulous, Nailah Blackman, Klassik Frescobar et Trilla G. Voir notre page <a href=\"/bouyon-mix.html\">bouyon mix</a>.",
+  ),
+  (
+    "D-Mitri fait-il du bouyon ou de la soca ?",
+    "Les deux mondes, selon ses traces. « Idk Her Name » circule dans des mixes de soca et de bouyon de la Caraïbe anglophone, d’une saison de carnaval à l’autre, et le remix « All My Life Bouyon » est explicitement un bouyon. Aucune source ne classe l’artiste plus précisément. La frontière entre les deux genres, souvent mêlés dans les mixes de carnaval, est expliquée sur notre page <a href=\"/bouyon-ou-soca.html\">bouyon ou soca</a>.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/d-mitri.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/d-mitri.html#artist", "name": "D-Mitri", "description": "Artiste crédité sur Idk Her Name, avec Lyte et Latest, dans les mixes soca et bouyon de Digga D et du Jamz Podcast, et coproducteur avec Daddy Keyz du remix All My Life Bouyon publié sur YouTube. Nom complet et origine non établis par le dossier public.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Idk Her Name"}, {"@type": "MusicRecording", "name": "All My Life Bouyon"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -122,13 +160,51 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is D-Mitri?", "D-Mitri is an artist credited on the song “Idk Her Name”, with Lyte and Latest, programmed in Digga D mix “Sweet Fuh Daze 2023 (Vol. 13)” and then in the Jamz Podcast “Soca/Bouyon 2025-26 Mix”, and credited as producer, under the handle @dmitribts, of the “All My Life Bouyon” remix published on YouTube with Daddy Keyz. The public record consulted establishes neither his full name nor his origin."),
-  ("Which D-Mitri song do DJs programme?", "“Idk Her Name”, performed by D’Mitri with Lyte and Latest. It appears as track 34 of “Sweet Fuh Daze 2023 (Vol. 13)” on Podtail, then in the tracklist of the Jamz Podcast “Soca/Bouyon 2025-26 Mix” on Listen Notes and Castbox, where the name is written “DMitri”."),
-  ("Did D-Mitri remix Lil Durk “All My Life”?", "Yes, according to the YouTube video “D’Mitri - All My Life Bouyon feat. Daddy Keyz”. Its description states that the uploader does not own rights to the vocals used, names the original song by Lil Durk featuring J. Cole, and credits production to @dmitribts and @daddykeyz."),
-  ("Is D-Mitri Dimitri from Paris or IHeartDmitri?", "No. Dimitri from Paris is a French house producer born in Istanbul, active since the 1980s. IHeartDmitri is the stage name of an American artist named Claude Dmitri Blinov Jr. according to his statistics page. Demitrean from Fresno, Demetri from Ypsilanti, and the Romanian pop singer Dimitri are yet other people. None of their facts belong in this profile."),
-  ("Where is D-Mitri from?", "The public record consulted during the research for this profile does not establish it, and this page does not guess. His songs travel in soca and bouyon mixes from the English speaking Caribbean, which documents his audience and his programmers, not his birthplace or his nationality."),
-  ("Where can I hear the bouyon of the D-Mitri scene?", "Start with the two verified traces, “Idk Her Name” and the “All My Life Bouyon” remix, then hear our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, which gathers bouyon, bouyon soca and new Dominica releases followed by Bouyon Shattaz.")
- ],
+  (
+    "Who is D-Mitri?",
+    "D-Mitri is an artist credited on the song “Idk Her Name”, with Lyte and Latest, programmed in Digga D mix “Sweet Fuh Daze 2023 (Vol. 13)” and then in the Jamz Podcast “Soca/Bouyon 2025-26 Mix”, and credited as producer, under the handle @dmitribts, of the “All My Life Bouyon” remix published on YouTube with Daddy Keyz. The public record consulted establishes neither his full name nor his origin.",
+  ),
+  (
+    "Which song by D-Mitri do DJs play?",
+    "“Idk Her Name”, performed by D’Mitri with Lyte and Latest. It appears as track 34 of “Sweet Fuh Daze 2023 (Vol. 13)” on Podtail, then in the tracklist of the Jamz Podcast “Soca/Bouyon 2025-26 Mix” on Listen Notes and Castbox, where the name is written “DMitri”.",
+  ),
+  (
+    "Did D-Mitri remix “All My Life” by Lil Durk?",
+    "Yes, according to the YouTube video “D’Mitri - All My Life Bouyon feat. Daddy Keyz”. Its description states that the uploader does not own rights to the vocals used, names the original song by Lil Durk featuring J. Cole, and credits production to @dmitribts and @daddykeyz.",
+  ),
+  (
+    "Is D-Mitri Dimitri from Paris or IHeartDmitri?",
+    "No. Dimitri from Paris is a French house producer born in Istanbul, active since the 1980s. IHeartDmitri is the stage name of an American artist named Claude Dmitri Blinov Jr. according to his statistics page. Demitrean from Fresno, Demetri from Ypsilanti, and the Romanian pop singer Dimitri are yet other people. None of their facts belong in this profile.",
+  ),
+  (
+    "Where is D-Mitri from?",
+    "The public record consulted during the research for this profile does not establish it, and this page does not guess. His songs travel in soca and bouyon mixes from the English speaking Caribbean, which documents his audience and his programmers, not his birthplace or his nationality.",
+  ),
+  (
+    "Where can I hear the bouyon of D-Mitri’s scene?",
+    "Start with the two verified traces, “Idk Her Name” with Lyte and Latest and the “All My Life Bouyon” remix with Daddy Keyz. For the scene around them, comment ROAD MIX under an @bouyonshattaz post on Instagram to get the Bouyon Road Mix by direct message, or open our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, which gathers bouyon, bouyon soca and new releases from Dominica.",
+  ),
+  (
+    "Is it spelled D-Mitri, D’Mitri or DMitri?",
+    "All three forms exist, and no verified official page of the artist settles it. The tracklist of Digga D’s “Sweet Fuh Daze 2023 (Vol. 13)” writes “D’Mitri”, the Jamz Podcast “Soca/Bouyon 2025-26 Mix” writes “DMitri”, and the video of the “All My Life Bouyon” remix also reads “D’Mitri”. This site uses “D-Mitri” for its page, without claiming it is the official spelling.",
+  ),
+  (
+    "Who produced All My Life Bouyon?",
+    "The description of the YouTube video “D’Mitri - All My Life Bouyon feat. Daddy Keyz” credits production to two handles, @dmitribts and @daddykeyz. Daddy Keyz is therefore both the featured artist, in the video title, and co-producer. It is the only piece of the record that shows D-Mitri behind the machines, not only at the microphone. No official account was verified under these handles.",
+  ),
+  (
+    "What is a bouyon remix like All My Life Bouyon?",
+    "It is a hit from elsewhere, here “All My Life” by Lil Durk with J. Cole, stitched back onto a bouyon rhythm. This graft is a documented practice of the scene: it brings voices young audiences already know into the tempo of Dominica’s parties. D-Mitri’s video even states that its author does not own the rights to the vocals used. See our <a href=\"/en/remix-bouyon.html\">bouyon remix</a> page.",
+  ),
+  (
+    "Which mixes feature D-Mitri?",
+    "Two DJ mixes with published tracklists. Digga D’s “Sweet Fuh Daze 2023 (Vol. 13)” for the Soca Podcast places “Idk Her Name” at track 34, near Boyzie, Mr Killa, Tallpree, Lavaman and Lil Kerry. The Jamz Podcast “Soca/Bouyon 2025-26 Mix” programmes it again with Patrice Roberts, Machel Montano, Skinny Fabulous, Nailah Blackman, Klassik Frescobar and Trilla G. See our <a href=\"/en/bouyon-mix.html\">bouyon mix</a> page.",
+  ),
+  (
+    "Does D-Mitri make bouyon or soca?",
+    "Both worlds, going by his traces. “Idk Her Name” circulates in English-speaking Caribbean soca and bouyon mixes, from one carnival season to the next, and the “All My Life Bouyon” remix is explicitly bouyon. No source classifies the artist more precisely. The line between the two genres, often mixed together in carnival sets, is explained on our <a href=\"/en/bouyon-vs-soca.html\">bouyon vs soca</a> page.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/d-mitri.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/d-mitri.html#artist", "name": "D-Mitri", "description": "Artist credited on Idk Her Name, with Lyte and Latest, in the soca and bouyon mixes of Digga D and the Jamz Podcast, and co-producer with Daddy Keyz of the All My Life Bouyon remix published on YouTube. Full name and origin not established by the public record.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Idk Her Name"}, {"@type": "MusicRecording", "name": "All My Life Bouyon"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

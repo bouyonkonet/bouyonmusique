@@ -83,13 +83,67 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est DJ Cut ?", "DJ Cut est un DJ et producteur dominicain, attaché à Bucktown Sounds. Il est reconnu parmi les pionniers précoces du Wrecketeng, la branche du bouyon fondée sur l’échantillon, qui remixait des enregistrements hip hop et dancehall sur des instrumentaux bouyon."),
-  ("Qu’est-ce que Bucktown Sounds ?", "Bucktown Sounds est le nom de sound auquel le travail de DJ Cut est attaché dans les sources des années 1990. C’est sous la forme DJ Cut de Bucktown Sounds que les pages de Wikipédia, en anglais et en français, le citent, notamment pour le titre « Party » avec Joanne. Les sources consultées ne publient ni date de fondation ni liste de membres pour Bucktown Sounds."),
-  ("Quel titre relie DJ Cut au bouyon-muffin ?", "« Party », avec Joanne et DJ Cut de Bucktown Sounds. Les sources le décrivent comme un titre combinant le bouyon avec un art du deejaying venu du dancehall, et le présentent comme une inspiration pour des artistes de bouyon-muffin comme le Bushtown Clan, dans la chaîne qui a mené à la création du Wrecketeng."),
-  ("Qui a fixé l’orthographe officielle Wrecketeng ?", "Selon Sean « Smokiller » Francis, fondateur de Bouyon Shattaz et participant de l’époque Nursery Krew, l’orthographe officielle Wrecketeng vient de DJ Cut lui-même. La graphie reketeng, répandue sur internet, est une erreur devenue courante."),
-  ("En quoi consiste la méthode attribuée à DJ Cut ?", "Mixer des enregistrements hip hop et dancehall existants avec des instrumentaux bouyon : retirer le rythme du morceau d’origine, mettre en avant la batterie et la basse bouyon, et poser la voix sur cette nouvelle base, parfois appelée un riddim. Cette méthode a établi un son différent des arrangements de groupes live du bouyon des années 1990."),
-  ("DJ Cut est-il encore actif ?", "Oui, selon les sources récentes consultées. En août 2024, writeups24 le présente comme Legendary DJ Cut parmi les artistes du Summer Daybreak Breakfast Fete Weekend à Grand Bay. Le 3 décembre 2025, Dominica News Online annonce sa contribution à l’album collaboratif de Smokiller consacré aux origines du Wrecketeng, aux côtés de Klass Money, Charlie Black, Keith Goddard, O Banga et Mopo Neck.")
- ],
+  (
+    "Qui est DJ Cut ?",
+    "DJ Cut est un DJ et producteur dominicain, attaché à Bucktown Sounds. Il est reconnu parmi les pionniers précoces du Wrecketeng, la branche du bouyon fondée sur l’échantillon, qui remixait des enregistrements hip hop et dancehall sur des instrumentaux bouyon. Son nom apparaît sur « Party », avec Joanne, le titre que les sources placent au point de bascule entre bouyon-muffin et Wrecketeng.",
+  ),
+  (
+    "Qu’est-ce que Bucktown Sounds ?",
+    "Bucktown Sounds est le nom de sound auquel le travail de DJ Cut est attaché dans les sources des années 1990. C’est sous la forme DJ Cut de Bucktown Sounds que les pages de Wikipédia, en anglais et en français, le citent, notamment pour le titre « Party » avec Joanne. Les sources consultées ne publient ni date de fondation ni liste de membres pour Bucktown Sounds.",
+  ),
+  (
+    "Quel titre relie DJ Cut au bouyon-muffin ?",
+    "« Party », avec Joanne et DJ Cut de Bucktown Sounds. Les sources le décrivent comme un titre combinant le bouyon avec un art du deejaying venu du dancehall, et le présentent comme une inspiration pour des artistes de bouyon-muffin comme le Bushtown Clan, dans la chaîne qui a mené à la création du Wrecketeng.",
+  ),
+  (
+    "Qui a fixé l’orthographe officielle Wrecketeng ?",
+    "Selon Sean « Smokiller » Francis, fondateur de Bouyon Shattaz et participant de l’époque Nursery Krew, l’orthographe officielle Wrecketeng vient de DJ Cut lui-même. La graphie reketeng, répandue sur internet et dans de nombreux titres de mixes, est une erreur devenue courante : ce site l’écrit seulement pour la signaler, jamais comme un autre nom valable du style. Voir <a href=\"/wrecketeng.html\">le Wrecketeng</a>.",
+  ),
+  (
+    "En quoi consiste la méthode attribuée à DJ Cut ?",
+    "Mixer des enregistrements hip hop et dancehall existants avec des instrumentaux bouyon : retirer le rythme du morceau d’origine, mettre en avant la batterie et la basse bouyon, et poser la voix sur cette nouvelle base, parfois appelée un riddim. Cette méthode a établi un son différent des arrangements de groupes live du bouyon des années 1990.",
+  ),
+  (
+    "DJ Cut est-il encore actif ?",
+    "Oui, selon les sources récentes consultées. En août 2024, writeups24 le présente comme Legendary DJ Cut parmi les artistes du Summer Daybreak Breakfast Fete Weekend à Grand Bay. Le 3 décembre 2025, Dominica News Online annonce sa contribution à l’album collaboratif de Smokiller consacré aux origines du Wrecketeng, aux côtés de Klass Money, Charlie Black, Keith Goddard, O Banga et Mopo Neck.",
+  ),
+  (
+    "D’où vient DJ Cut ?",
+    "DJ Cut vient de la Dominique, l’île où le bouyon est né : toutes les sources qui le citent le présentent comme un DJ et producteur dominicain. Son nom circule dans la documentation du bouyon-muffin des années 1990 sous la forme DJ Cut de Bucktown Sounds, et la scène dominicaine l’affiche encore en 2024, à Grand Bay, près de trente ans après ce moment.",
+  ),
+  (
+    "DJ Cut a-t-il inventé le Wrecketeng ?",
+    "DJ Cut est reconnu parmi les pionniers précoces du Wrecketeng, et c’est de lui que vient le nom écrit du style, selon le témoignage de Smokiller. Le style s’est ensuite construit à plusieurs : le Bushtown Clan l’a popularisé par ses performances et ses remixes, puis Nursery Krew Inc l’a développé par des enregistrements originaux. Ce site le présente donc comme une des premières signatures, pas comme un inventeur solitaire.",
+  ),
+  (
+    "Quelle est la différence entre le Wrecketeng de DJ Cut et le bouyon des groupes ?",
+    "Le bouyon des origines est une musique de groupes : <a href=\"/wck.html\">WCK</a>, formé à Roseau en 1988, crée le genre avec des musiciens, des claviers et des boîtes à rythmes. Le Wrecketeng de DJ Cut part de la cabine : il prend des disques hip hop et dancehall existants, en retire le rythme et pose les voix sur une base bouyon. L’échantillon remplace la partition, et le studio remplace la scène.",
+  ),
+  (
+    "Quel est le lien entre DJ Cut et Skinny Banton ?",
+    "Ils se suivent dans la même chaîne. À partir de 1995, <a href=\"/skinny-banton.html\">Skinny Banton</a>, plus tard connu sous le nom de Shadowflow, collabore avec WCK et pose une voix ragga sur les rythmes bouyon : c’est le bouyon-muffin. « Party », avec Joanne et DJ Cut de Bucktown Sounds, montre l’étape suivante : le DJ devient lui-même le producteur du mélange, avec ses disques comme matière première.",
+  ),
+  (
+    "Qui a pris la suite de DJ Cut dans le Wrecketeng ?",
+    "D’abord le <a href=\"/bushtown-clan.html\">Bushtown Clan</a>, inspiré par des titres comme « Party » à intégrer plus de hip hop et de dancehall, puis Nursery Krew Inc au début des années 2000, avec des enregistrements originaux comme « Peanuts », « Sorti Desandre » et le NKI Medley. Les sources associent cette étape à Burn Brain Jolly, Charlie Black, Watty et Smokiller. La page française cite aussi Klockerz Krew parmi les pionniers.",
+  ),
+  (
+    "Qu’est-ce que l’album de Smokiller sur les origines du Wrecketeng ?",
+    "C’est un album collaboratif produit par <a href=\"/smokiller.html\">Smokiller</a>, annoncé par Dominica News Online le 3 décembre 2025, pour mettre en lumière les origines et l’évolution du Wrecketeng. DJ Cut figure parmi les contributeurs annoncés, avec Klass Money, Charlie Black, Keith Goddard, O Banga et Mopo Neck. Le projet salue aussi Burn Brain Jolly et les premiers enregistrements de Nursery Krew Inc, et vise une génération plus jeune.",
+  ),
+  (
+    "Pourquoi DJ Cut est-il appelé « Legendary DJ Cut » ?",
+    "« Legendary DJ Cut » est la formule de writeups24, qui couvrait en août 2024 la huitième édition du Summer Daybreak Breakfast Fete Weekend, à Grand Bay. Le média l’y présente parmi les artistes de la fête du matin, avec DJ King Kembe de Saint-Martin, le First Serenade Band et King Dice. Ce site rapporte ce qualificatif comme une affiche attribuée, qui dit le statut que la scène dominicaine accorde à ses pionniers.",
+  ),
+  (
+    "Qu’est-ce qu’un riddim dans le Wrecketeng de DJ Cut ?",
+    "Dans le Wrecketeng, le riddim désigne la piste dépouillée obtenue en retirant le rythme d’un morceau existant et en mettant en avant la batterie et la basse bouyon, au sens caribéen du mot. Comme le dub, le style repose surtout sur des remix instrumentaux d’enregistrements existants, fortement modifiés. Le son obtenu : percussions rapides, basses lourdes, motifs répétitifs et voix venues du dancehall et du rap.",
+  ),
+  (
+    "Où entendre l’héritage de DJ Cut aujourd’hui ?",
+    "Dans les remix bouyon de Smokiller, qui suivent le même principe que la méthode de DJ Cut : garder la voix d’un morceau connu et reconstruire le rythme en bouyon, comme sur ses versions de « Nothing Into Something » de Coi Leray ou « Vulnerability » de Shenseea. La Bouyon Road Mix de Bouyon Shattaz mêle aussi nouveautés et classiques. Voir <a href=\"/remix-bouyon.html\">le remix bouyon</a>.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/dj-cut.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/dj-cut.html#artist", "name": "DJ Cut", "description": "DJ et producteur dominicain de Bucktown Sounds, reconnu parmi les pionniers précoces du Wrecketeng, la branche du bouyon fondée sur l’échantillon.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Party'}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -170,13 +224,67 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is DJ Cut?", "DJ Cut is a Dominican DJ and producer attached to Bucktown Sounds. He is recognised among the early pioneers of Wrecketeng, the sampling based bouyon offshoot that remixed hip hop and dancehall recordings over bouyon instrumentals."),
-  ("What is Bucktown Sounds?", "Bucktown Sounds is the sound name to which the work of DJ Cut is attached in the sources of the 1990s. The Wikipedia pages, in English and in French, cite him in the form DJ Cut of Bucktown Sounds, notably for the track “Party” with Joanne. The sources consulted publish no founding date and no member list for Bucktown Sounds."),
-  ("Which track connects DJ Cut to bouyon-muffin?", "“Party”, featuring Joanne and DJ Cut of Bucktown Sounds. The sources describe it as a track combining bouyon with dancehall style deejaying, and present it as an inspiration for bouyon-muffin artists such as the Bushtown Clan, in the chain that led to the creation of Wrecketeng."),
-  ("Who fixed the official Wrecketeng spelling?", "According to Sean “Smokiller” Francis, founder of Bouyon Shattaz and a participant of the Nursery Krew era, the official spelling Wrecketeng comes from DJ Cut himself. The spelling reketeng, widespread on the internet, is a mistake that became common."),
-  ("What is the method credited to DJ Cut?", "Mixing existing hip hop and dancehall recordings with bouyon instrumentals: removing the beat of the original track, bringing the bouyon drum and bass parts forward, and laying the voice over that new base, sometimes called a riddim. That method established a sound different from the live band arrangements of 1990s bouyon."),
-  ("Is DJ Cut still active?", "Yes, on the recent sources consulted. In August 2024, writeups24 billed him as Legendary DJ Cut among the performers of the Summer Daybreak Breakfast Fete Weekend in Grand Bay. On December 3, 2025, Dominica News Online announced his contribution to the Smokiller collaborative album on the origins of Wrecketeng, alongside Klass Money, Charlie Black, Keith Goddard, O Banga and Mopo Neck.")
- ],
+  (
+    "Who is DJ Cut?",
+    "DJ Cut is a Dominican DJ and producer attached to Bucktown Sounds. He is recognised among the early pioneers of Wrecketeng, the sampling based bouyon offshoot that remixed hip hop and dancehall recordings over bouyon instrumentals. His name appears on “Party”, featuring Joanne, the track the sources place at the tipping point between bouyon-muffin and Wrecketeng.",
+  ),
+  (
+    "What is Bucktown Sounds?",
+    "Bucktown Sounds is the sound name to which the work of DJ Cut is attached in the sources of the 1990s. The Wikipedia pages, in English and in French, cite him in the form DJ Cut of Bucktown Sounds, notably for the track “Party” with Joanne. The sources consulted publish no founding date and no member list for Bucktown Sounds.",
+  ),
+  (
+    "Which track connects DJ Cut to bouyon-muffin?",
+    "“Party”, featuring Joanne and DJ Cut of Bucktown Sounds. The sources describe it as a track combining bouyon with dancehall style deejaying, and present it as an inspiration for bouyon-muffin artists such as the Bushtown Clan, in the chain that led to the creation of Wrecketeng.",
+  ),
+  (
+    "Who fixed the official Wrecketeng spelling?",
+    "According to Sean “Smokiller” Francis, founder of Bouyon Shattaz and a participant of the Nursery Krew era, the official spelling Wrecketeng comes from DJ Cut himself. The spelling reketeng, widespread on the internet and in many mix titles, is a mistake that became common: this site writes it only to flag it, never as a valid alternative name for the style. See <a href=\"/en/wrecketeng.html\">Wrecketeng</a>.",
+  ),
+  (
+    "What is the method credited to DJ Cut?",
+    "Mixing existing hip hop and dancehall recordings with bouyon instrumentals: removing the beat of the original track, bringing the bouyon drum and bass parts forward, and laying the voice over that new base, sometimes called a riddim. That method established a sound different from the live band arrangements of 1990s bouyon.",
+  ),
+  (
+    "Is DJ Cut still active?",
+    "Yes, on the recent sources consulted. In August 2024, writeups24 billed him as Legendary DJ Cut among the performers of the Summer Daybreak Breakfast Fete Weekend in Grand Bay. On December 3, 2025, Dominica News Online announced his contribution to the Smokiller collaborative album on the origins of Wrecketeng, alongside Klass Money, Charlie Black, Keith Goddard, O Banga and Mopo Neck.",
+  ),
+  (
+    "Where is DJ Cut from?",
+    "DJ Cut is from Dominica, the island where bouyon was born: every source that cites him presents him as a Dominican DJ and producer. His name circulates in the documentation of 1990s bouyon-muffin in the form DJ Cut of Bucktown Sounds, and the Dominican scene was still billing him in 2024, in Grand Bay, nearly thirty years after that moment.",
+  ),
+  (
+    "Did DJ Cut invent Wrecketeng?",
+    "DJ Cut is recognised among the early pioneers of Wrecketeng, and the written name of the style comes from him, according to Smokiller's testimony. The style was then built collectively: the Bushtown Clan popularised it through performances and remixes, then Nursery Krew Inc developed it through original recordings. This site therefore presents him as one of its first signatures, not as a lone inventor.",
+  ),
+  (
+    "What is the difference between DJ Cut's Wrecketeng and band bouyon?",
+    "Early bouyon is band music: <a href=\"/en/wck.html\">WCK</a>, formed in Roseau in 1988, created the genre with musicians, keyboards and drum machines. DJ Cut's Wrecketeng starts from the booth: it takes existing hip hop and dancehall records, removes their beat and lays the voices over a bouyon base. The sample replaces the score, and the studio replaces the stage.",
+  ),
+  (
+    "What is the link between DJ Cut and Skinny Banton?",
+    "They follow each other in the same chain. From 1995, <a href=\"/en/skinny-banton.html\">Skinny Banton</a>, later known as Shadowflow, collaborated with WCK and chanted ragga vocals over bouyon rhythms: that is bouyon-muffin. “Party”, featuring Joanne and DJ Cut of Bucktown Sounds, shows the next step: the DJ himself becomes the producer of the blend, with his records as the raw material.",
+  ),
+  (
+    "Who carried Wrecketeng on after DJ Cut?",
+    "First the <a href=\"/en/bushtown-clan.html\">Bushtown Clan</a>, inspired by tracks like “Party” to bring in more hip hop and dancehall, then Nursery Krew Inc in the early 2000s, with original recordings such as “Peanuts”, “Sorti Desandre” and the NKI Medley. The sources associate that stage with Burn Brain Jolly, Charlie Black, Watty and Smokiller. The French page also names Klockerz Krew among the pioneers.",
+  ),
+  (
+    "What is Smokiller's album on the origins of Wrecketeng?",
+    "It is a collaborative album produced by <a href=\"/en/smokiller.html\">Smokiller</a>, announced by Dominica News Online on December 3, 2025, to highlight the origins and continued development of Wrecketeng. DJ Cut is among the announced contributors, with Klass Money, Charlie Black, Keith Goddard, O Banga and Mopo Neck. The project also acknowledges Burn Brain Jolly and the earlier Nursery Krew Inc recordings, and aims at a younger generation.",
+  ),
+  (
+    "Why is DJ Cut called “Legendary DJ Cut”?",
+    "“Legendary DJ Cut” is the billing used by writeups24, which covered the eighth Summer Daybreak Breakfast Fete Weekend in Grand Bay in August 2024. The outlet lists him among the performers of the morning fete, alongside DJ King Kembe of St Maarten, the First Serenade Band and King Dice. This site reports it as an attributed billing, one that states the status the Dominican scene grants its pioneers.",
+  ),
+  (
+    "What is a riddim in DJ Cut's Wrecketeng?",
+    "In Wrecketeng, the riddim is the stripped down track obtained by removing the beat of an existing piece and emphasising the bouyon drum and bass parts, in the Caribbean use of the word. Like dub, the style consists mostly of instrumental remixes of existing recordings, heavily altered. The resulting sound: fast percussion, heavy basslines, repetitive patterns and vocals drawn from dancehall and rap.",
+  ),
+  (
+    "Where can I hear DJ Cut's legacy today?",
+    "In Smokiller's bouyon remixes, which follow the same principle as DJ Cut's method: keep the voice of a known song and rebuild the rhythm as bouyon, as on his flips of Coi Leray's “Nothing Into Something” or Shenseea's “Vulnerability”. The Bouyon Shattaz Road Mix also mixes new releases and classics. See <a href=\"/en/remix-bouyon.html\">bouyon remix</a>.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/dj-cut.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/dj-cut.html#artist", "name": "DJ Cut", "description": "Dominican DJ and producer of Bucktown Sounds, recognised among the early pioneers of Wrecketeng, the sampling based bouyon offshoot.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Party'}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

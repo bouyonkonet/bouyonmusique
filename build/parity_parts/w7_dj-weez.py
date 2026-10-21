@@ -80,13 +80,55 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est DJ Weez ?", "DJ Weez est un compositeur crédité sur le titre bouyon « Sa Ka Débodé » de Bilix avec Mr Boka, sorti le 12 janvier 2016 sur le label Ôréveil, et l auteur de l instrumental « Boom Boom » listé dans le mix D Riddim Box d Original DJ-Sly en 2020. Aucune biographie ni origine vérifiée n a été retrouvée dans les sources ouvertes consultées en octobre 2026."),
-  ("Quel titre DJ Weez a-t-il composé ?", "Selon les crédits publiés par Shazam, Dj Weez est compositeur de « Sa Ka Débodé » (feat. Mr Boka) de Bilix, aux côtés de Lsbeatz litleboy à la composition et de Franck Offranc aux paroles. Le titre, sorti le 12 janvier 2016 sur Ôréveil, est donné à 160 BPM."),
-  ("Sa Ka Débodé a-t-il été récompensé ?", "Oui. Aux Hit Lokal Awards 2017, « Sa ka débodé » de Bilix remporte la catégorie Soca bouyon. Bilix dit lui même, dans une interview à Blakes, qu on l a connu grâce au bouyon avec « Bodé Apiyé » et « Sa ka débodé »."),
-  ("Quel est le lien entre DJ Weez et Reo ?", "Dans la tracklist du mix D Riddim Box (2020) d Original DJ-Sly, la piste 5 est « DJ Weez, Boom Boom instrumentals » et la piste 6 enchaîne directement « Reo, Boom Boom ». L instrumental de DJ Weez y sert donc de matrice à la version chantée par Reo, sans qu aucune source ne documente une collaboration formelle entre les deux."),
-  ("DJ Weez est-il l animateur radio du Colorado du même nom ?", "Non, rien ne le montre, et ce profil le dit explicitement. Le DJ Weez de KZYR au Colorado est Scott Peterson, animateur d une émission reggae documentée par la presse locale. Aucune source ne le relie au bouyon. Le DJ Weez de cette page est uniquement celui des crédits bouyon de 2016 et 2020."),
-  ("Où écouter le travail de DJ Weez ?", "Commencez par « Sa Ka Débodé » de Bilix et Mr Boka, le titre dont il est le co compositeur crédité, puis écoutez l enchaînement Boom Boom dans le mix D Riddim Box d Original DJ-Sly, et notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> pour le contexte de la scène.")
- ],
+  (
+    "Qui est DJ Weez ?",
+    "DJ Weez est un compositeur crédité sur le titre bouyon « Sa Ka Débodé » de Bilix avec Mr Boka, sorti le 12 janvier 2016 sur le label Ôréveil, et l'auteur de l'instrumental « Boom Boom » listé dans le mix D Riddim Box d'Original DJ-Sly en 2020. Son nom n'apparaît que dans des crédits : c'est un nom de fabrique du bouyon, pas un nom d'affiche.",
+  ),
+  (
+    "Quel titre DJ Weez a-t-il composé ?",
+    "Selon les crédits publiés par Shazam, Dj Weez est compositeur de « Sa Ka Débodé » (feat. Mr Boka) de Bilix, aux côtés de Lsbeatz litleboy à la composition et de Franck Offranc aux paroles. Le titre, sorti en single le 12 janvier 2016 sur le label Ôréveil, est donné à 160 BPM, le tempo rapide typique du bouyon de fête.",
+  ),
+  (
+    "Qui chante Sa Ka Débodé, le titre composé par DJ Weez ?",
+    "« Sa Ka Débodé » est interprété par Bilix, avec Mr Boka en featuring. Bilix porte le titre au micro, Mr Boka y ajoute sa voix, Franck Offranc signe les paroles, et la musique revient à DJ Weez et Lsbeatz litleboy. Le nom de DJ Weez ne figure donc pas sur l'affiche du titre, mais dans sa fabrique. Voir notre page <a href=\"/bilix.html\">Bilix</a>.",
+  ),
+  (
+    "Sa Ka Débodé a-t-il été récompensé ?",
+    "Oui. Aux Hit Lokal Awards 2017, « Sa ka débodé » de Bilix remporte la catégorie Soca bouyon. Bilix dit lui-même, dans une interview à Blakes, qu'on l'a connu grâce au bouyon avec « Bodé Apiyé » et « Sa ka débodé ». Le compositeur crédité DJ Weez est donc, au minimum, le co-compositeur d'un titre primé et durable de la scène guadeloupéenne.",
+  ),
+  (
+    "Qui est Lsbeatz litleboy, co-compositeur avec DJ Weez ?",
+    "Lsbeatz litleboy est le producteur connu sur ce site sous le nom de Litleboy LSBeats767, crédité avec DJ Weez à la composition de « Sa Ka Débodé ». Ce beatmaker est aussi crédité sur « Pow Pow / Allo Doudou », avec Niska et Miimii KDS, certifié Single Or par la SNEP en 2026. Voir notre page <a href=\"/litleboy-lsbeats767.html\">Litleboy LSBeats767</a>.",
+  ),
+  (
+    "Quel est le lien entre DJ Weez et Reo ?",
+    "Dans la tracklist du mix D Riddim Box (2020) d'Original DJ-Sly, la piste 5 est « DJ Weez, Boom Boom instrumentals » et la piste 6 enchaîne directement « Reo, Boom Boom ». L'instrumental de DJ Weez y sert donc de matrice à la version chantée par Reo, l'artiste dominicain souvent présenté comme le prince du bouyon, sans qu'aucune source ne documente une collaboration formelle entre les deux.",
+  ),
+  (
+    "Qu'est-ce que le mix D Riddim Box d'Original DJ-Sly ?",
+    "D Riddim Box est un mix publié en 2020 sur YouTube par Original DJ-Sly, présenté comme un best of du bouyon et du Wrecketeng de l'année, composé pour l'essentiel de titres de la Dominique et des îles voisines. Sa tracklist de 73 titres place l'instrumental « Boom Boom » de DJ Weez en piste 5, juste avant la version de Reo, dans un edit live du mixeur.",
+  ),
+  (
+    "Reketeng ou Wrecketeng : quelle est la bonne orthographe ?",
+    "Wrecketeng. Le titre du mix D Riddim Box, où figure l'instrumental de DJ Weez, écrit Reketeng, l'orthographe qui circule sur internet. L'orthographe officielle du style, donnée par DJ Cut lui-même, son pionnier fondateur, est Wrecketeng, et c'est celle que ce site retient partout. Reketeng n'est qu'une faute répandue. Notre page <a href=\"/wrecketeng.html\">Wrecketeng</a> raconte cette branche dominicaine.",
+  ),
+  (
+    "DJ Weez est-il guadeloupéen ou dominicain ?",
+    "Aucune source ouverte ne donne son origine, et ce profil ne tranche pas. Ses deux traces touchent les deux scènes : un crédit de composition sur un tube guadeloupéen de 2016, « Sa Ka Débodé », et un instrumental au cœur d'une sélection bouyon dominicaine de 2020, juste avant Reo. Entre ces deux îles, le bouyon voyage exactement ainsi, par les riddims et les crédits.",
+  ),
+  (
+    "Qu'est-ce que le bouyon gwada, la scène de Sa Ka Débodé ?",
+    "Le bouyon gwada est la déclinaison guadeloupéenne du bouyon né en Dominique, portée par les tournées des groupes dominicains aux Antilles françaises et par la participation guadeloupéenne au World Creole Music Festival. « Sa Ka Débodé » en est un exemple : un interprète guadeloupéen, un label local, un prix local en Soca bouyon. Lisez notre page <a href=\"/bouyon-gwada.html\">bouyon gwada</a>.",
+  ),
+  (
+    "DJ Weez est-il l'animateur radio du Colorado du même nom ?",
+    "Non, rien ne le montre. Le DJ Weez de KZYR au Colorado est Scott Peterson, animateur d'une émission reggae, et un DJ canadien signe DJ WeezL dans des crédits hip hop. Aucune source ne relie l'un ou l'autre au bouyon. Le DJ Weez de cette page est uniquement celui des crédits bouyon de 2016 et de 2020, et aucun fait des homonymes n'y est utilisé.",
+  ),
+  (
+    "Où écouter le travail de DJ Weez ?",
+    "Commencez par « Sa Ka Débodé » de Bilix et Mr Boka, le titre dont il est co-compositeur crédité, puis écoutez l'enchaînement Boom Boom dans le mix D Riddim Box d'Original DJ-Sly. Pour la scène d'aujourd'hui, notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> suit les deux côtés de la mer des Caraïbes : commentez ROAD MIX sous une publication de @bouyonshattaz pour la recevoir en DM.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/dj-weez.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/dj-weez.html#artist", "name": "DJ Weez", "description": "Compositeur crédité sur Sa Ka Débodé de Bilix et Mr Boka (2016, Ôréveil) aux côtés de Lsbeatz litleboy, et auteur de l instrumental Boom Boom listé dans le mix D Riddim Box d Original DJ-Sly (2020). Origine et biographie non documentées dans les sources ouvertes consultées.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Sa Ka Débodé"}, {"@type": "MusicRecording", "name": "Boom Boom"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -147,13 +189,55 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is DJ Weez?", "DJ Weez is a composer credited on the bouyon record “Sa Ka Débodé” by Bilix featuring Mr Boka, released on January 12, 2016 on the Ôréveil label, and the author of the “Boom Boom” instrumental listed in Original DJ-Sly D Riddim Box mix in 2020. No verified biography or origin was found in the open sources consulted in October 2026."),
-  ("Which record did DJ Weez compose?", "According to the credits published by Shazam, Dj Weez is a composer of “Sa Ka Débodé” (feat. Mr Boka) by Bilix, alongside Lsbeatz litleboy as composer and Franck Offranc as songwriter. The record, released on January 12, 2016 on Ôréveil, is listed at 160 BPM."),
-  ("Was Sa Ka Débodé awarded?", "Yes. At the 2017 Hit Lokal Awards, Bilix “Sa ka débodé” won the Soca bouyon category. Bilix himself told Blakes in an interview that he became known thanks to bouyon, with “Bodé Apiyé” and “Sa ka débodé”."),
-  ("What is the link between DJ Weez and Reo?", "In the track listing of Original DJ-Sly D Riddim Box mix (2020), track 5 is “DJ Weez, Boom Boom instrumentals” and track 6 runs straight into “Reo, Boom Boom”. The DJ Weez instrumental therefore serves as the matrix for the version sung by Reo, although no source documents a formal collaboration between the two."),
-  ("Is DJ Weez the Colorado radio host of the same name?", "No source shows that, and this profile says so explicitly. The KZYR DJ Weez in Colorado is Scott Peterson, host of a reggae show documented by the local press. No source connects him to bouyon. The DJ Weez of this page is only the one in the bouyon credits of 2016 and 2020."),
-  ("Where can I hear the work of DJ Weez?", "Start with “Sa Ka Débodé” by Bilix and Mr Boka, the record he is credited with co-composing, then hear the Boom Boom sequence in Original DJ-Sly D Riddim Box mix, and our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> for the context of the scene.")
- ],
+  (
+    "Who is DJ Weez?",
+    "DJ Weez is a composer credited on the bouyon record “Sa Ka Débodé” by Bilix featuring Mr Boka, released on January 12, 2016 on the Ôréveil label, and the author of the “Boom Boom” instrumental listed in Original DJ-Sly's D Riddim Box mix in 2020. His name only appears in credits: he is a name from the workshop of bouyon, not from the poster.",
+  ),
+  (
+    "Which record did DJ Weez compose?",
+    "According to the credits published by Shazam, Dj Weez is a composer of “Sa Ka Débodé” (feat. Mr Boka) by Bilix, alongside Lsbeatz litleboy as composer and Franck Offranc as songwriter. The record, released as a single on January 12, 2016 on the Ôréveil label, is listed at 160 BPM, the fast tempo typical of party bouyon.",
+  ),
+  (
+    "Who sings Sa Ka Débodé, the record DJ Weez composed?",
+    "“Sa Ka Débodé” is performed by Bilix, featuring Mr Boka. Bilix carries the record on the mic, Mr Boka adds his voice, Franck Offranc writes the lyrics, and the music goes to DJ Weez and Lsbeatz litleboy. DJ Weez's name is therefore not on the record's billing, but in how it was made. See our <a href=\"/en/bilix.html\">Bilix</a> page.",
+  ),
+  (
+    "Was Sa Ka Débodé awarded?",
+    "Yes. At the 2017 Hit Lokal Awards, Bilix's “Sa ka débodé” won the Soca bouyon category. Bilix himself told Blakes in an interview that he became known thanks to bouyon, with “Bodé Apiyé” and “Sa ka débodé”. The credited composer DJ Weez is therefore, at the very least, the co-composer of an awarded and lasting record of the Guadeloupe scene.",
+  ),
+  (
+    "Who is Lsbeatz litleboy, DJ Weez's co-composer?",
+    "Lsbeatz litleboy is the producer known on this site as Litleboy LSBeats767, credited with DJ Weez on the composition of “Sa Ka Débodé”. That beatmaker is also credited on “Pow Pow / Allo Doudou”, with Niska and Miimii KDS, certified Single Or (gold) by SNEP in 2026. See our <a href=\"/en/litleboy-lsbeats767.html\">Litleboy LSBeats767</a> page.",
+  ),
+  (
+    "What is the link between DJ Weez and Reo?",
+    "In the track listing of Original DJ-Sly's D Riddim Box mix (2020), track 5 is “DJ Weez, Boom Boom instrumentals” and track 6 runs straight into “Reo, Boom Boom”. The DJ Weez instrumental therefore serves as the matrix for the version sung by Reo, the Dominican artist often billed as the prince of bouyon, although no source documents a formal collaboration between the two.",
+  ),
+  (
+    "What is Original DJ-Sly's D Riddim Box mix?",
+    "D Riddim Box is a mix published on YouTube in 2020 by Original DJ-Sly, presented as a best of the year's bouyon and Wrecketeng, made mostly of records from Dominica and neighbouring islands. Its 73 track listing places DJ Weez's “Boom Boom” instrumental at track 5, just before Reo's version, in a live edit by the mixer.",
+  ),
+  (
+    "Reketeng or Wrecketeng: which is the correct spelling?",
+    "Wrecketeng. The title of the D Riddim Box mix, which carries DJ Weez's instrumental, writes Reketeng, the spelling that circulates online. The official spelling of the style, given by DJ Cut himself, its founding pioneer, is Wrecketeng, and it is the one this site uses everywhere. Reketeng is only a widespread misspelling. Our <a href=\"/en/wrecketeng.html\">Wrecketeng</a> page tells the story of that Dominican branch.",
+  ),
+  (
+    "Is DJ Weez from Guadeloupe or Dominica?",
+    "No open source gives his origin, and this profile does not decide. His two traces touch both scenes: a composition credit on a 2016 Guadeloupe hit, “Sa Ka Débodé”, and an instrumental at the heart of a 2020 Dominican bouyon selection, just before Reo. Between those two islands, bouyon travels exactly this way, through riddims and credits.",
+  ),
+  (
+    "What is bouyon gwada, the scene of Sa Ka Débodé?",
+    "Bouyon gwada is the Guadeloupe form of the bouyon born in Dominica, carried by Dominican band tours in the French Antilles and by Guadeloupe's participation in the World Creole Music Festival. “Sa Ka Débodé” is an example: a Guadeloupe performer, a local label, a local award in the Soca bouyon category. Read our <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a> page.",
+  ),
+  (
+    "Is DJ Weez the Colorado radio host of the same name?",
+    "No, nothing shows that. The KZYR DJ Weez in Colorado is Scott Peterson, host of a reggae show, and a Canadian DJ signs as DJ WeezL in hip hop credits. No source connects either of them to bouyon. The DJ Weez of this page is only the one in the bouyon credits of 2016 and 2020, and no fact from the namesakes is used here.",
+  ),
+  (
+    "Where can I hear the work of DJ Weez?",
+    "Start with “Sa Ka Débodé” by Bilix and Mr Boka, the record he is credited with co-composing, then hear the Boom Boom sequence in Original DJ-Sly's D Riddim Box mix. For today's scene, our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> follows both sides of the Caribbean Sea: comment ROAD MIX under an @bouyonshattaz post to receive it by DM.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/dj-weez.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/dj-weez.html#artist", "name": "DJ Weez", "description": "Composer credited on Sa Ka Débodé by Bilix and Mr Boka (2016, Ôréveil) alongside Lsbeatz litleboy, and author of the Boom Boom instrumental listed in Original DJ-Sly D Riddim Box mix (2020). Origin and biography not documented in the open sources consulted.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Sa Ka Débodé"}, {"@type": "MusicRecording", "name": "Boom Boom"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

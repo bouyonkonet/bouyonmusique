@@ -61,13 +61,51 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Deejay Guyguy ?", "Deejay Guyguy, écrit Dj Guyguy dans les sources, est un DJ associé au bouyon dont deux crédits ont pu être vérifiés : un remix bouyon du titre Anissa, signé avec Dj Fine Apple et relayé par le site de NRJ Antilles, et un crédit sur le titre Bel Fess Bel Chatte de Miky Ding La et J2MO, listé dans la playlist The Sound of Bouyon de Spotify. Son origine et son nom réel ne sont pas publiés par les sources vérifiées."),
-  ("Qu est ce que le remix d’Anissa de Dj Guyguy et Dj Fine Apple ?", "C est une version bouyon du tube Anissa de Wejdene, datée de 2020 dans le titre même de la page de NRJ Antilles qui en relaie la vidéo YouTube. Comme beaucoup de remixes bouyon de cette période, il relève de la culture du remix de soirée plutôt que d’une sortie commerciale documentée, et aucun chiffre d’écoute vérifié ne peut lui être attaché."),
-  ("Sur quel titre en streaming Deejay Guyguy est il crédité ?", "Sur Bel Fess Bel Chatte, un titre en créole de Miky Ding La et J2MO, où Dj Guyguy apparaît comme troisième nom au crédit. La playlist The Sound of Bouyon de Spotify le liste avec une durée de 2 minutes 41, aux côtés des titres qui définissent le son bouyon actuel."),
-  ("Le DJ GuyGuy d’Audiomack, basé au Ghana, est il le même artiste ?", "Non, rien ne permet de les confondre. Le DJ GuyGuy visible sur Audiomack est un DJ de mixtapes Afrobeats et amapiano basé à Tema, au Ghana. Aucune de ses publications ne croise le bouyon ou les Antilles, et aucune source antillaise ne mène à lui. C est un homonyme, et ce profil ne lui emprunte aucun fait."),
-  ("De quelle île vient Deejay Guyguy ?", "Ce n’est pas établi. Le relais de son remix par NRJ Antilles et la langue créole du titre Bel Fess Bel Chatte situent son terrain dans les Antilles françaises, mais aucune source vérifiée ne donne son île d’origine ou son lieu de résidence. Ce site ne transforme pas un contexte de diffusion en biographie."),
-  ("Pourquoi ce profil est il si court par rapport aux autres artistes du site ?", "Parce que le dossier public vérifié tient en deux crédits. Plutôt que de remplir la page avec des faits empruntés à des homonymes ou inventés, ce profil publie les deux crédits avec leurs sources, explique leur contexte, et liste ce qui reste inconnu. Il sera allongé dès qu’une source primaire confirmera d’autres éléments.")
- ],
+  (
+    "Qui est Deejay Guyguy ?",
+    "Deejay Guyguy, écrit Dj Guyguy dans les sources, est un DJ associé au bouyon dont deux crédits ont pu être vérifiés : un remix bouyon du titre Anissa, signé avec Dj Fine Apple et relayé par le site de NRJ Antilles, et un crédit sur le titre Bel Fess Bel Chatte de Miky Ding La et J2MO, listé dans la playlist The Sound of Bouyon de Spotify. Son origine et son nom réel ne sont pas publiés par les sources vérifiées.",
+  ),
+  (
+    "Qu est ce que le remix d’Anissa de Dj Guyguy et Dj Fine Apple ?",
+    "C est une version bouyon du tube Anissa de Wejdene, datée de 2020 dans le titre même de la page de NRJ Antilles qui en relaie la vidéo YouTube. Comme beaucoup de remixes bouyon de cette période, il relève de la culture du remix de soirée plutôt que d’une sortie commerciale documentée, et aucun chiffre d’écoute vérifié ne peut lui être attaché.",
+  ),
+  (
+    "Sur quel titre en streaming Deejay Guyguy est il crédité ?",
+    "Sur Bel Fess Bel Chatte, un titre en créole de Miky Ding La et J2MO, où Dj Guyguy apparaît comme troisième nom au crédit. La playlist The Sound of Bouyon de Spotify le liste avec une durée de 2 minutes 41, aux côtés des titres qui définissent le son bouyon actuel.",
+  ),
+  (
+    "Le DJ GuyGuy d’Audiomack, basé au Ghana, est il le même artiste ?",
+    "Non, rien ne permet de les confondre. Le DJ GuyGuy visible sur Audiomack est un DJ de mixtapes Afrobeats et amapiano basé à Tema, au Ghana. Aucune de ses publications ne croise le bouyon ou les Antilles, et aucune source antillaise ne mène à lui. C est un homonyme, et ce profil ne lui emprunte aucun fait.",
+  ),
+  (
+    "De quelle île vient Deejay Guyguy ?",
+    "Ce n’est pas établi. Le relais de son remix par NRJ Antilles et la langue créole du titre Bel Fess Bel Chatte situent son terrain dans les Antilles françaises, mais aucune source vérifiée ne donne son île d’origine ou son lieu de résidence. Ce site ne transforme pas un contexte de diffusion en biographie.",
+  ),
+  (
+    "Pourquoi ce profil est il si court par rapport aux autres artistes du site ?",
+    "Parce que le dossier public vérifié tient en deux crédits. Plutôt que de remplir la page avec des faits empruntés à des homonymes ou inventés, ce profil publie les deux crédits avec leurs sources, explique leur contexte, et liste ce qui reste inconnu. Il sera allongé dès qu’une source primaire confirmera d’autres éléments.",
+  ),
+  (
+    "Dj Guyguy, DJ GuyGuy ou Deejay Guyguy : comment s’écrit son nom ?",
+    "Les deux sources vérifiées l’écrivent « Dj Guyguy » : la page de NRJ Antilles sur le remix d’Anissa et la playlist The Sound of Bouyon de Spotify. Ce site titre son profil Deejay Guyguy. La graphie « DJ GuyGuy » renvoie surtout, dans les moteurs, à un homonyme ghanéen de Tema, sans lien avec le bouyon : il faut donc chercher le nom avec le contexte bouyon ou antillais.",
+  ),
+  (
+    "Qu’est-ce qu’un remix bouyon comme celui d’Anissa ?",
+    "Un remix bouyon reprend un tube venu d’ailleurs et le remonte sur le rythme bouyon : accéléré, rebâti pour la danse et les sound systems, puis diffusé en vidéo. Le remix d’Anissa par Dj Guyguy et Dj Fine Apple en est un exemple daté de 2020. Notre page <a href=\"/remix-bouyon.html\">remix bouyon</a> raconte cette culture née des DJs antillais.",
+  ),
+  (
+    "Pourquoi le remix bouyon d’Anissa a-t-il compté ?",
+    "Parce qu’il documente la façon dont le bouyon, né en Dominique, s’est étendu aux Antilles françaises : par les DJs, leurs sélections et leurs remixes de tubes. En 2020, le tube de Wejdene a reçu sa version bouyon, et le site d’une radio antillaise, NRJ Antilles, l’a relayée. Le remix est ainsi sorti des téléphones pour gagner une vitrine éditoriale.",
+  ),
+  (
+    "Qu’est-ce que la playlist The Sound of Bouyon où figure Dj Guyguy ?",
+    "C’est la sélection de référence du genre tenue par The Sounds of Spotify, qui résume le son bouyon actuel. Elle liste Bel Fess Bel Chatte, de Miky Ding La, J2MO et Dj Guyguy, aux côtés de titres de Triple Kay International, Asa Bantan, Reo ou Litleboy. Y figurer signifie que la plateforme range le titre dans le bouyon d’aujourd’hui.",
+  ),
+  (
+    "Où écouter Deejay Guyguy ?",
+    "Ses deux crédits vérifiés s’écoutent à deux endroits : le remix bouyon d’Anissa, avec Dj Fine Apple, sur la page de NRJ Antilles qui en intègre la vidéo YouTube, et Bel Fess Bel Chatte sur Spotify, dans la playlist The Sound of Bouyon. Pour le paysage complet du genre, la <a href=\"/playlist-bouyon.html\">playlist bouyon</a> de Bouyon Shattaz rassemble nouveautés et classiques.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/deejay-guyguy.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/deejay-guyguy.html#artist", "name": "Deejay Guyguy", "description": "DJ associé au bouyon, connu par deux crédits vérifiés : le remix bouyon d’Anissa avec Dj Fine Apple, relayé par NRJ Antilles, et un crédit sur Bel Fess Bel Chatte de Miky Ding La et J2MO.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Anissa Remix Bouyon 2020"}, {"@type": "MusicRecording", "name": "Bèl Fèss Bèl Chatte"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -128,13 +166,51 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Deejay Guyguy?", "Deejay Guyguy, written Dj Guyguy in the sources, is a DJ associated with bouyon whose record holds two verified credits: a bouyon remix of the song Anissa, signed with Dj Fine Apple and relayed by the NRJ Antilles website, and a credit on the track Bel Fess Bel Chatte by Miky Ding La and J2MO, listed in Spotify The Sound of Bouyon playlist. His origin and real name are not given by the verified sources."),
-  ("What is the Anissa remix by Dj Guyguy and Dj Fine Apple?", "It is a bouyon version of the Wejdene hit Anissa, dated 2020 in the very title of the NRJ Antilles page that relays its YouTube video. Like many bouyon remixes of that period, it belongs to party remix culture rather than to a documented commercial release, and no verified listening figure can be attached to it."),
-  ("On which streaming track is Deejay Guyguy credited?", "On Bel Fess Bel Chatte, a Creole language track by Miky Ding La and J2MO, where Dj Guyguy appears as the third name in the credit. Spotify The Sound of Bouyon playlist lists it with a duration of 2 minutes 41, alongside the records that define the current bouyon sound."),
-  ("Is the DJ GuyGuy on Audiomack, based in Ghana, the same artist?", "No, nothing supports merging them. The DJ GuyGuy visible on Audiomack is an Afrobeats and amapiano mixtape DJ based in Tema, Ghana. None of his releases crosses bouyon or the Antilles, and no Antillean source leads to him. He is a namesake, and this profile borrows no fact from him."),
-  ("Which island does Deejay Guyguy come from?", "That is not established. The relay of his remix by NRJ Antilles and the Creole language of the track Bel Fess Bel Chatte place his ground in the French Antilles, but no verified source gives his island of origin or his place of residence. This site does not turn a broadcast context into a biography."),
-  ("Why is this profile so much shorter than the other artist pages on this site?", "Because the verified public record fits in two credits. Rather than filling the page with facts borrowed from namesakes or invented, this profile publishes the two credits with their sources, explains their context, and lists what remains unknown. It will grow as soon as a primary source confirms more.")
- ],
+  (
+    "Who is Deejay Guyguy?",
+    "Deejay Guyguy, written Dj Guyguy in the sources, is a DJ associated with bouyon whose record holds two verified credits: a bouyon remix of the song Anissa, signed with Dj Fine Apple and relayed by the NRJ Antilles website, and a credit on the track Bel Fess Bel Chatte by Miky Ding La and J2MO, listed in Spotify The Sound of Bouyon playlist. His origin and real name are not given by the verified sources.",
+  ),
+  (
+    "What is the Anissa remix by Dj Guyguy and Dj Fine Apple?",
+    "It is a bouyon version of the Wejdene hit Anissa, dated 2020 in the very title of the NRJ Antilles page that relays its YouTube video. Like many bouyon remixes of that period, it belongs to party remix culture rather than to a documented commercial release, and no verified listening figure can be attached to it.",
+  ),
+  (
+    "On which streaming track is Deejay Guyguy credited?",
+    "On Bel Fess Bel Chatte, a Creole language track by Miky Ding La and J2MO, where Dj Guyguy appears as the third name in the credit. Spotify The Sound of Bouyon playlist lists it with a duration of 2 minutes 41, alongside the records that define the current bouyon sound.",
+  ),
+  (
+    "Is the DJ GuyGuy on Audiomack, based in Ghana, the same artist?",
+    "No, nothing supports merging them. The DJ GuyGuy visible on Audiomack is an Afrobeats and amapiano mixtape DJ based in Tema, Ghana. None of his releases crosses bouyon or the Antilles, and no Antillean source leads to him. He is a namesake, and this profile borrows no fact from him.",
+  ),
+  (
+    "Which island does Deejay Guyguy come from?",
+    "That is not established. The relay of his remix by NRJ Antilles and the Creole language of the track Bel Fess Bel Chatte place his ground in the French Antilles, but no verified source gives his island of origin or his place of residence. This site does not turn a broadcast context into a biography.",
+  ),
+  (
+    "Why is this profile so much shorter than the other artist pages on this site?",
+    "Because the verified public record fits in two credits. Rather than filling the page with facts borrowed from namesakes or invented, this profile publishes the two credits with their sources, explains their context, and lists what remains unknown. It will grow as soon as a primary source confirms more.",
+  ),
+  (
+    "Dj Guyguy, DJ GuyGuy or Deejay Guyguy: how is his name spelled?",
+    "Both verified sources write it “Dj Guyguy”: the NRJ Antilles page on the Anissa remix and Spotify’s The Sound of Bouyon playlist. This site titles his profile Deejay Guyguy. The spelling “DJ GuyGuy” mostly leads search engines to a Ghanaian namesake from Tema with no link to bouyon, so search the name together with bouyon or Antilles.",
+  ),
+  (
+    "What is a bouyon remix like the Anissa one?",
+    "A bouyon remix takes a hit from elsewhere and rebuilds it on the bouyon rhythm: sped up, reworked for dancing and sound systems, then shared as a video. The Anissa remix by Dj Guyguy and Dj Fine Apple is one example, dated 2020. Our <a href=\"/en/remix-bouyon.html\">bouyon remix</a> page tells the story of this culture driven by Antillean DJs.",
+  ),
+  (
+    "Why did the bouyon remix of Anissa matter?",
+    "Because it documents how bouyon, born in Dominica, spread through the French Antilles: through DJs, their selections and their remixes of hits. In 2020 the Wejdene hit got its bouyon version, and the website of an Antillean radio station, NRJ Antilles, relayed it. The remix thus moved beyond phones to an editorial showcase.",
+  ),
+  (
+    "What is The Sound of Bouyon playlist that features Dj Guyguy?",
+    "It is the genre’s reference selection run by The Sounds of Spotify, which sums up the current bouyon sound. It lists Bel Fess Bel Chatte, by Miky Ding La, J2MO and Dj Guyguy, alongside songs by Triple Kay International, Asa Bantan, Reo or Litleboy. Being on it means the platform files the song under today’s bouyon.",
+  ),
+  (
+    "Where can I listen to Deejay Guyguy?",
+    "His two verified credits can be heard in two places: the Anissa bouyon remix, with Dj Fine Apple, on the NRJ Antilles page that embeds its YouTube video, and Bel Fess Bel Chatte on Spotify, in The Sound of Bouyon playlist. For the full landscape of the genre, the Bouyon Shattaz <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> gathers new releases and classics.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/deejay-guyguy.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/deejay-guyguy.html#artist", "name": "Deejay Guyguy", "description": "DJ associated with bouyon, known through two verified credits: the bouyon remix of Anissa with Dj Fine Apple, relayed by NRJ Antilles, and a credit on Bel Fess Bel Chatte by Miky Ding La and J2MO.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Anissa Remix Bouyon 2020"}, {"@type": "MusicRecording", "name": "Bèl Fèss Bèl Chatte"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

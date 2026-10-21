@@ -75,13 +75,59 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Derek Rah Peters et qu’a-t-il fait dans WCK ?", "Derek « Rah » Peters est un musicien né en Dominique, batteur, chanteur principal et auteur principal de WCK pendant les années de formation du groupe, selon l’étude universitaire de Timothy Rommen fondée sur un entretien avec lui du 24 octobre 2012. Les listes de membres de WCK le classent parmi les anciens membres, batterie et chant principal. La page Culture of Dominica le décrit comme considéré comme l’une des figures les plus influentes du développement du bouyon, formule que ce site rapporte avec son attribution."),
-  ("Pourquoi son prénom s’écrit-il Derek, Derick et Derrick selon les sources ?", "Parce que les sources elles-mêmes varient, et ce profil est l’un des rares à le dire ouvertement. DOM767 écrit Derek, dans son profil de Cornell Phillip comme dans son article de juin 2024 sur le camp du Dominica State College. Les listes de membres de WCK et la présentation du programme Civic Vibes écrivent Derick. L’article universitaire de Timothy Rommen et la page Culture of Dominica écrivent Derrick. Les trois graphies désignent le même batteur chanteur surnommé Rah ; ce site utilise Derek et signale les variantes pour que toutes les recherches aboutissent au même dossier."),
-  ("Qu’ont donné à Rah Peters le village de Rosalie et le jing ping ?", "Son propre témoignage, recueilli par Rommen en 2012, répond : enfant à Rosalie, petit village de la côte atlantique de la Dominique, il suivait les siens et regardait le groupe de quadrille local jouer le jing ping dès l’âge de deux ans, et c’est là qu’il a vraiment vécu cette vibration. Il raconte aussi le corps de tambours lapo kabwit du carnaval, pour lequel ils fabriquaient leurs propres tambours. Rommen conclut de ses entretiens avec Peters, Cornell Phillip et Keith Joseph que le jing ping et le lapo kabwit sont des influences majeures du bouyon."),
-  ("Derek Rah Peters a-t-il fondé WCK ?", "La réponse documentée est nuancée, et c’est ce qui la rend intéressante. Rommen écrit qu’il a rejoint WCK après que le personnel central eut été recruté et le groupe nommé, quand Cornell et Keith avaient déjà décidé de moderniser les rythmes traditionnels dominicains. DOM767 le range néanmoins parmi les membres originels réunis en 1988 autour de Cornell Phillip. Il est donc un cofondateur de fait : arrivé dans la première heure, puis batteur, chanteur principal et auteur principal pendant les années où le son de WCK et du bouyon s’est formé."),
-  ("Qu’est-ce que « Mic Rah Phone » ?", "C’est un titre de WCK daté de 1999 dans la liste des succès du groupe, l’année de l’album « Set My People Free ». Son titre porte en toutes lettres le surnom de Rah, dans un jeu de mots sur le microphone. Aucune source ouverte pour cette recherche ne publie le crédit d’écriture de ce titre précis, ce profil le présente donc comme un clin d’oeil visible dans le catalogue, et non comme une chanson dont l’auteur serait établi."),
-  ("Que fait Derek Rah Peters aujourd’hui ?", "Les sources récentes le montrent en transmetteur et en témoin. En 2024, DOM767 le présente comme l’icône culturelle chargée des sessions de tambour du camp d’été A.C.T.S du Dominica State College, pour les enfants de 6 à 15 ans. Le 20 octobre 2024, le programme Civic Vibes le reçoit comme pionnier originel du bouyon pour discuter de l’impact du genre sur la culture dominicaine. Aucune activité solo ou discographie récente n’est documentée dans les sources ouvertes pour ce profil.")
- ],
+  (
+    "Qui est Derek Rah Peters et qu’a-t-il fait dans WCK ?",
+    "Derek « Rah » Peters est un musicien né en Dominique, batteur, chanteur principal et auteur principal de WCK pendant les années de formation du groupe, selon l’étude universitaire de Timothy Rommen fondée sur un entretien avec lui du 24 octobre 2012. Les listes de membres de WCK le classent parmi les anciens membres, batterie et chant principal. La page Culture of Dominica le décrit comme considéré comme l’une des figures les plus influentes du développement du bouyon, formule que ce site rapporte avec son attribution.",
+  ),
+  (
+    "Pourquoi son prénom s’écrit-il Derek, Derick et Derrick selon les sources ?",
+    "Parce que les sources elles-mêmes varient, et ce profil est l’un des rares à le dire ouvertement. DOM767 écrit Derek, dans son profil de Cornell Phillip comme dans son article de juin 2024 sur le camp du Dominica State College. Les listes de membres de WCK et la présentation du programme Civic Vibes écrivent Derick. L’article universitaire de Timothy Rommen et la page Culture of Dominica écrivent Derrick. Les trois graphies désignent le même batteur chanteur surnommé Rah ; ce site utilise Derek et signale les variantes pour que toutes les recherches aboutissent au même dossier.",
+  ),
+  (
+    "Qu’ont donné à Rah Peters le village de Rosalie et le jing ping ?",
+    "Son propre témoignage, recueilli par Rommen en 2012, répond : enfant à Rosalie, petit village de la côte atlantique de la Dominique, il suivait les siens et regardait le groupe de quadrille local jouer le jing ping dès l’âge de deux ans, et c’est là qu’il a vraiment vécu cette vibration. Il raconte aussi le corps de tambours lapo kabwit du carnaval, pour lequel ils fabriquaient leurs propres tambours. Rommen conclut de ses entretiens avec Peters, Cornell Phillip et Keith Joseph que le jing ping et le lapo kabwit sont des influences majeures du bouyon.",
+  ),
+  (
+    "Derek Rah Peters a-t-il fondé WCK ?",
+    "La réponse documentée est nuancée, et c’est ce qui la rend intéressante. Rommen écrit qu’il a rejoint WCK après que le personnel central eut été recruté et le groupe nommé, quand Cornell et Keith avaient déjà décidé de moderniser les rythmes traditionnels dominicains. DOM767 le range néanmoins parmi les membres originels réunis en 1988 autour de Cornell Phillip. Il est donc un cofondateur de fait : arrivé dans la première heure, puis batteur, chanteur principal et auteur principal pendant les années où le son de WCK et du bouyon s’est formé.",
+  ),
+  (
+    "Qu’est-ce que « Mic Rah Phone » ?",
+    "C’est un titre de WCK daté de 1999 dans la liste des succès du groupe, l’année de l’album « Set My People Free ». Son titre porte en toutes lettres le surnom de Rah, dans un jeu de mots sur le microphone. Aucune source ouverte pour cette recherche ne publie le crédit d’écriture de ce titre précis, ce profil le présente donc comme un clin d’oeil visible dans le catalogue, et non comme une chanson dont l’auteur serait établi.",
+  ),
+  (
+    "Que fait Derek Rah Peters aujourd’hui ?",
+    "Les sources récentes le montrent en transmetteur et en témoin. En 2024, DOM767 le présente comme l’icône culturelle chargée des sessions de tambour du camp d’été A.C.T.S du Dominica State College, pour les enfants de 6 à 15 ans. Le 20 octobre 2024, le programme Civic Vibes le reçoit comme pionnier originel du bouyon pour discuter de l’impact du genre sur la culture dominicaine. Aucune activité solo ou discographie récente n’est documentée dans les sources ouvertes pour ce profil.",
+  ),
+  (
+    "D’où vient Derek Rah Peters ?",
+    "Derek « Rah » Peters est né en Dominique, selon la page Culture of Dominica. Son enfance musicale se passe à Rosalie, petit village de la côte atlantique de l’île, où il suit le groupe de quadrille local et son jing ping dès l’âge de deux ans. Il rejoint ensuite WCK, le groupe formé à Roseau en 1988 qui a créé le bouyon.",
+  ),
+  (
+    "Qu’est-ce que le lapo kabwit, le tambour de l’enfance de Rah Peters ?",
+    "Le lapo kabwit est un corps de tambours de carnaval dominicain : des ensembles de tambours en peau de chèvre, accompagnés de racleurs et de hochets, qui animent les cortèges. Rah Peters raconte, dans son entretien de 2012 avec Timothy Rommen, que son groupe fabriquait ses propres tambours pour jouer au temps du carnaval. Rommen compte le lapo kabwit parmi les influences majeures du bouyon.",
+  ),
+  (
+    "Qu’est-ce que le jing ping que Rah Peters a entendu à Rosalie ?",
+    "Le jing ping est la musique traditionnelle dominicaine d’accordéon, de boumboum, de siyak et de tanbou, jouée par les groupes de quadrille. À Rosalie, Rah Peters la regardait jouer dès l’âge de deux ans. Le bouyon de WCK a traduit ces instruments en électronique : l’accordéon devenu clavier, le boumboum devenu basse, le siyak et le tambal devenus boîte à rythmes.",
+  ),
+  (
+    "Qui a créé le bouyon, et quelle part revient à Rah Peters ?",
+    "Les références créditent WCK, formé en 1988 à Roseau, de la création du bouyon à la fin des années 1980. Selon DOM767, Cornell Phillip et les membres originels, dont Derek « Rah » Peters et Keith Goddard, ont mêlé le tambour lapo kabwit, la syncope de la cadence-lypso et les synthétiseurs. Rah y tenait la batterie, le chant principal et l’écriture principale.",
+  ),
+  (
+    "Quelles chansons de WCK datent des années de Rah Peters ?",
+    "Les années de formation de WCK, où Rah Peters était batteur, chanteur principal et auteur principal, couvrent les premiers disques : « One More Sway » en 1988, « Culture Shock » en 1990 avec le titre éponyme et « Dance Floor », « Follow the Leader » en 1991 avec « Land Of Sunshine », puis « Kannibal » en 1992. Les sources ne publient pas de répartition d’écriture titre par titre.",
+  ),
+  (
+    "Rah Peters fait-il encore partie de WCK ?",
+    "Non. Les listes de membres publiées par Wikipédia et Alchetron le classent parmi les anciens membres de WCK, avec la mention batterie et chant principal, aux côtés de Cornell Phillip et de Pellam Jno Baptiste, l’autre batteur du groupe. Son ère propre est celle de la formation et des premiers sommets du groupe. En 2024, il enseigne le tambour aux enfants du Dominica State College.",
+  ),
+  (
+    "Où écouter la batterie et la voix de Rah Peters ?",
+    "Dans le catalogue de WCK, puisqu’aucune discographie solo n’est documentée : « Culture Shock », « Conch Shell », « Balance Batty » et « Drum Song » figurent dans notre playlist bouyon. Le récit complet du groupe dont il fut le batteur, le chanteur principal et l’auteur principal aux années de formation est sur notre page <a href=\"/wck.html\">WCK</a>.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/derek-rah-peters.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/derek-rah-peters.html#artist", "name": "Derek Rah Peters", "description": "Musicien né en Dominique, batteur, chanteur principal et auteur principal de WCK pendant les années de formation du groupe qui a créé le bouyon. Formé enfant au jing ping à Rosalie et au tambour lapo kabwit du carnaval.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Culture Shock"}, {"@type": "MusicRecording", "name": "Dance Floor"}, {"@type": "MusicRecording", "name": "Follow the Leader"}, {"@type": "MusicRecording", "name": "Conch Shell"}, {"@type": "MusicRecording", "name": "Balance Batty"}, {"@type": "MusicRecording", "name": "Mete Veye"}, {"@type": "MusicRecording", "name": "Drum Song"}, {"@type": "MusicRecording", "name": "Iron"}, {"@type": "MusicRecording", "name": "Marathon"}, {"@type": "MusicRecording", "name": "Bouyon Connection"}, {"@type": "MusicRecording", "name": "Mic Rah Phone"}, {"@type": "MusicRecording", "name": "Set My People Free"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -153,13 +199,59 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Derek Rah Peters and what did he do in WCK?", "Derek “Rah” Peters is a musician born in Dominica, the drummer, lead singer and principal songwriter of WCK during the band formative years, according to Timothy Rommen academic study based on an interview with him on 24 October 2012. WCK member lists place him among the former members, drums and lead vocals. The Culture of Dominica page describes him as considered one of the most influential figures in the development of bouyon, a wording this site reports with its attribution."),
-  ("Why is his first name spelled Derek, Derick and Derrick in different sources?", "Because the sources themselves vary, and this profile is one of the few to say so openly. DOM767 writes Derek, in its Cornell Phillip profile and in its June 2024 article on the Dominica State College camp. The WCK member lists and the Civic Vibes programme listing write Derick. Timothy Rommen academic article and the Culture of Dominica page write Derrick. All three spellings name the same drummer and singer nicknamed Rah; this site uses Derek and flags the variants so that every search reaches the same record."),
-  ("What did the village of Rosalie and jing ping give Rah Peters?", "His own testimony, collected by Rommen in 2012, answers: as a child in Rosalie, a small village on the Atlantic coast of Dominica, he followed his people and watched the local quadrille group playing jing ping from the age of two, and that is where he really experienced that vibe. He also recalls the lapo kabwit carnival drumming corps, for which they made their own drums. Rommen concludes from his interviews with Peters, Cornell Phillip and Keith Joseph that jing ping and lapo kabwit are significant influences on bouyon."),
-  ("Did Derek Rah Peters found WCK?", "The documented answer is nuanced, and that is what makes it interesting. Rommen writes that he joined WCK after the core personnel had been recruited and the band named, when Cornell and Keith had already decided to modernize Dominica traditional rhythms. DOM767 nevertheless places him among the original members gathered in 1988 around Cornell Phillip. He is therefore a co-founder in fact: he arrived in the first hour, then served as drummer, lead singer and principal songwriter during the years when the sound of WCK and of bouyon was formed."),
-  ("What is “Mic Rah Phone”?", "It is a WCK track dated 1999 in the band hit list, the year of the album “Set My People Free”. Its title carries the Rah nickname in full, in a pun on the microphone. No source opened for this research publishes the writing credit for that specific track, so this profile presents it as a visible nod in the catalogue, not as a song whose authorship is established."),
-  ("What does Derek Rah Peters do today?", "Recent sources show him as a transmitter and a witness. In 2024, DOM767 presents him as the cultural icon leading the drumming sessions of the Dominica State College A.C.T.S summer camp, for children aged 6 to 15. On 20 October 2024, the Civic Vibes programme received him as the original bouyon pioneer to discuss the impact of the genre on Dominican culture. No recent solo activity or discography is documented in the sources opened for this profile.")
- ],
+  (
+    "Who is Derek Rah Peters and what did he do in WCK?",
+    "Derek “Rah” Peters is a musician born in Dominica, the drummer, lead singer and principal songwriter of WCK during the band formative years, according to Timothy Rommen academic study based on an interview with him on 24 October 2012. WCK member lists place him among the former members, drums and lead vocals. The Culture of Dominica page describes him as considered one of the most influential figures in the development of bouyon, a wording this site reports with its attribution.",
+  ),
+  (
+    "Why is his first name spelled Derek, Derick and Derrick in different sources?",
+    "Because the sources themselves vary, and this profile is one of the few to say so openly. DOM767 writes Derek, in its Cornell Phillip profile and in its June 2024 article on the Dominica State College camp. The WCK member lists and the Civic Vibes programme listing write Derick. Timothy Rommen academic article and the Culture of Dominica page write Derrick. All three spellings name the same drummer and singer nicknamed Rah; this site uses Derek and flags the variants so that every search reaches the same record.",
+  ),
+  (
+    "What did the village of Rosalie and jing ping give Rah Peters?",
+    "His own testimony, collected by Rommen in 2012, answers: as a child in Rosalie, a small village on the Atlantic coast of Dominica, he followed his people and watched the local quadrille group playing jing ping from the age of two, and that is where he really experienced that vibe. He also recalls the lapo kabwit carnival drumming corps, for which they made their own drums. Rommen concludes from his interviews with Peters, Cornell Phillip and Keith Joseph that jing ping and lapo kabwit are significant influences on bouyon.",
+  ),
+  (
+    "Did Derek Rah Peters found WCK?",
+    "The documented answer is nuanced, and that is what makes it interesting. Rommen writes that he joined WCK after the core personnel had been recruited and the band named, when Cornell and Keith had already decided to modernize Dominica traditional rhythms. DOM767 nevertheless places him among the original members gathered in 1988 around Cornell Phillip. He is therefore a co-founder in fact: he arrived in the first hour, then served as drummer, lead singer and principal songwriter during the years when the sound of WCK and of bouyon was formed.",
+  ),
+  (
+    "What is “Mic Rah Phone”?",
+    "It is a WCK track dated 1999 in the band hit list, the year of the album “Set My People Free”. Its title carries the Rah nickname in full, in a pun on the microphone. No source opened for this research publishes the writing credit for that specific track, so this profile presents it as a visible nod in the catalogue, not as a song whose authorship is established.",
+  ),
+  (
+    "What does Derek Rah Peters do today?",
+    "Recent sources show him as a transmitter and a witness. In 2024, DOM767 presents him as the cultural icon leading the drumming sessions of the Dominica State College A.C.T.S summer camp, for children aged 6 to 15. On 20 October 2024, the Civic Vibes programme received him as the original bouyon pioneer to discuss the impact of the genre on Dominican culture. No recent solo activity or discography is documented in the sources opened for this profile.",
+  ),
+  (
+    "Where is Derek Rah Peters from?",
+    "Derek “Rah” Peters was born in Dominica, according to the Culture of Dominica page. His musical childhood took place in Rosalie, a small village on the island’s Atlantic coast, where he followed the local quadrille group and its jing ping from the age of two. He then joined WCK, the band formed in Roseau in 1988 that created bouyon.",
+  ),
+  (
+    "What is lapo kabwit, the drum of Rah Peters’s childhood?",
+    "Lapo kabwit is a Dominican carnival drumming corps: ensembles of goatskin drums, accompanied by scrapers and rattles, that drive the street processions. Rah Peters recalls, in his 2012 interview with Timothy Rommen, that his group made its own drums to play at carnival time. Rommen counts lapo kabwit among the significant influences on bouyon.",
+  ),
+  (
+    "What is the jing ping Rah Peters heard in Rosalie?",
+    "Jing ping is Dominica’s traditional music of accordion, boumboum, siyak and tanbou, played by quadrille groups. In Rosalie, Rah Peters watched it played from the age of two. WCK’s bouyon translated those instruments into electronics: the accordion became keyboard, the boumboum became bass, the siyak and tambal became drum machine.",
+  ),
+  (
+    "Who created bouyon, and what part goes to Rah Peters?",
+    "References credit WCK, formed in 1988 in Roseau, with creating bouyon in the late 1980s. According to DOM767, Cornell Phillip and the original members, including Derek “Rah” Peters and Keith Goddard, blended lapo kabwit drumming, cadence-lypso syncopation and synthesisers. Rah held the drums, the lead vocals and the principal songwriting.",
+  ),
+  (
+    "Which WCK songs date from Rah Peters’s years?",
+    "WCK’s formative years, when Rah Peters was drummer, lead singer and principal songwriter, cover the first records: “One More Sway” in 1988, “Culture Shock” in 1990 with the title track and “Dance Floor”, “Follow the Leader” in 1991 with “Land Of Sunshine”, then “Kannibal” in 1992. The sources do not publish a song by song writing split.",
+  ),
+  (
+    "Is Rah Peters still in WCK?",
+    "No. The member lists published by Wikipedia and Alchetron place him among WCK’s former members, with drums and lead vocals, alongside Cornell Phillip and Pellam Jno Baptiste, the band’s other drummer. His own era is that of the band’s formation and first peaks. In 2024 he was teaching drumming to children at the Dominica State College summer camp.",
+  ),
+  (
+    "Where can I hear Rah Peters’s drums and voice?",
+    "In WCK’s catalogue, since no solo discography is documented: “Culture Shock”, “Conch Shell”, “Balance Batty” and “Drum Song” are in our bouyon playlist. The full story of the band he served as drummer, lead singer and principal songwriter during its formative years is on our <a href=\"/en/wck.html\">WCK</a> page.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/derek-rah-peters.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/derek-rah-peters.html#artist", "name": "Derek Rah Peters", "description": "Musician born in Dominica, drummer, lead singer and principal songwriter of WCK during the formative years of the band that created bouyon. Formed as a child by jing ping in Rosalie and by carnival lapo kabwit drumming.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Culture Shock"}, {"@type": "MusicRecording", "name": "Dance Floor"}, {"@type": "MusicRecording", "name": "Follow the Leader"}, {"@type": "MusicRecording", "name": "Conch Shell"}, {"@type": "MusicRecording", "name": "Balance Batty"}, {"@type": "MusicRecording", "name": "Mete Veye"}, {"@type": "MusicRecording", "name": "Drum Song"}, {"@type": "MusicRecording", "name": "Iron"}, {"@type": "MusicRecording", "name": "Marathon"}, {"@type": "MusicRecording", "name": "Bouyon Connection"}, {"@type": "MusicRecording", "name": "Mic Rah Phone"}, {"@type": "MusicRecording", "name": "Set My People Free"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

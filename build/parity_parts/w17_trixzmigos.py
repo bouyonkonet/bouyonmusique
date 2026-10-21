@@ -80,13 +80,55 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui sont les membres de Trixzmigos ?", "Aucune source consultée ne les nomme. Ni la page artiste de Shazam, ni les fiches des titres, ni la liste des finalistes des Dominica Music Awards 2025 ne donnent de nom, de nombre ou de rôle individuel. Le seul crédit d’écriture relevé, sur l’audio officiel de « Toxic Love », dit « Written by Trixz Migos », au nom du groupe. Ce profil publie donc le catalogue, qui est documenté, et non des identités, qui ne le sont pas."),
-  ("Quel est le plus gros titre de Trixzmigos ?", "« What She Like », avec Hussey en featuring, sorti le 10 janvier 2025 chez L2TG RECORDS. Selon Shazam, c’est le titre le plus écouté du catalogue et le plus identifié de tous les temps, avec environ 32 900 identifications, sur un total d’environ 34 600 pour le groupe. Sa vidéo affichait 1,7 million de vues sur YouTube, et Sokah2Soca l’a classé premier des tendances bouyon et soca de la Dominique pour la semaine du 26 avril 2025."),
-  ("Trixzmigos a-t-il gagné un Dominica Music Award en 2025 ?", "Non. Le groupe était finaliste deux fois, dans la catégorie Rising Artist/Band of the Year, orthographié Trixz Migos, et dans la Collaboration of the Year pour « What She Like », avec Hussey. Le palmarès publié par Soca News donne la catégorie montante à Real Reel et la collaboration de l’année à « Someone Else », de Little Boy, Quan et Trilla G. La cérémonie s’est tenue le 3 janvier 2026 à Portsmouth."),
-  ("Trixzmigos et Trixx, est-ce le même artiste ?", "Toutes les sources consultées les traitent comme deux noms séparés. La liste officielle des finalistes des Dominica Music Awards 2025 les aligne sur deux lignes distinctes de la même catégorie montante. Trixx chante de son côté sur « Make Her Bawl », de Signal Band avec Shelly et DJ Taffy, sur « Doe Do Me Dat » et « Fall In De Trap » avec Beevo, et figure seul parmi les artistes confirmés du Ti Vilaj Kwéyòl 2026. Aucun document ne relie les deux noms, et aucun titre ne les crédite ensemble."),
-  ("Sur quels labels Trixzmigos a-t-il sorti ses titres ?", "Trois enseignes apparaissent dans les crédits vérifiés. Vadore Concept Groupe pour « Backshot », le titre de SupaLyne où le groupe figure en featuring le 26 février 2022. LTG RECORDS pour « Nasty 2 », le 9 juin 2023. Et L2TG RECORDS pour « What She Like », le 10 janvier 2025. Aucune source consultée ne dit si ces enseignes sont liées entre elles."),
-  ("Où écouter Trixzmigos ?", "Par la série des singles : « What She Like », « Rum », « Doh Mix Me », « 1View », « Shake Dat », « Dark Love », « The Christmas Story » et « Long Time » avec Hussey, puis « Nasty 2 », « Bikini » avec DJ Taffy, « Take Dat » et « Toxic Love ». Notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> suit cette vague dominicaine, et la page <a href=\"/hussey.html\">Hussey</a> documente la voix invitée du groupe titre par titre.")
- ],
+  (
+    "Qui sont les membres de Trixzmigos ?",
+    "Aucune source consultée ne les nomme. Ni la page artiste de Shazam, ni les fiches des titres, ni la liste des finalistes des Dominica Music Awards 2025 ne donnent de nom, de nombre ou de rôle individuel. Le seul crédit d’écriture relevé, sur l’audio officiel de « Toxic Love », dit « Written by Trixz Migos », au nom du groupe. Ce profil publie donc le catalogue, qui est documenté, et non des identités.",
+  ),
+  (
+    "Comment s’écrit Trixzmigos : Trixz Migos, TrixZ Migos ou Trixmigos ?",
+    "Les quatre formes désignent le même catalogue. Shazam écrit Trixzmigos, YouTube et la liste des finalistes des prix nationaux écrivent Trixz Migos, la catégorie collaboration de ces mêmes prix écrit TrixZ Migos, et un classement de Sokah2Soca écrit Trixmigos, sans z. Les titres, les invités et les labels coïncident d’une liste à l’autre. À ne pas confondre avec Trixx, avec deux x, un autre artiste.",
+  ),
+  (
+    "D’où vient Trixzmigos ?",
+    "De la Dominique, selon trois indices convergents : le contact de réservation publié sous l’audio officiel de « Toxic Love » utilise l’indicatif 767, celui de l’île ; le groupe concourt aux Dominica Music Awards, la cérémonie nationale ; et « What She Like » a pris la tête des tendances bouyon et soca de la Dominique en avril 2025. Trixzmigos appartient à la nouvelle vague bouyon dominicaine.",
+  ),
+  (
+    "Quel est le plus gros titre de Trixzmigos ?",
+    "« What She Like », avec Hussey en featuring, sorti le 10 janvier 2025 chez L2TG RECORDS. Selon Shazam, c’est le titre le plus écouté du catalogue et le plus identifié de tous les temps, avec environ 32 900 identifications sur un total d’environ 34 600 pour le groupe. Sa vidéo affichait 1,7 million de vues, et Sokah2Soca l’a classé premier des tendances de la Dominique fin avril 2025.",
+  ),
+  (
+    "Quel est le premier titre de Trixzmigos ?",
+    "La première trace vérifiée est un featuring : « Backshot », de SupaLyne avec Trixz Migos et Kenny Gee, sorti le 26 février 2022 chez Vadore Concept Groupe, à 157 BPM, écrit par Foster Xavier et Raboteur Cedric. Le premier titre en nom principal relevé est « Nasty 2 », sorti le 9 juin 2023 chez LTG RECORDS, sans qu’aucun « Nasty » premier n’ait été retrouvé.",
+  ),
+  (
+    "Quel est le lien entre Trixzmigos et Hussey ?",
+    "Hussey est la voix invitée principale du groupe : il revient sur huit titres documentés, de « The Christmas Story » en 2024 à « Long Time », la sortie la plus récente du catalogue en 2026, en passant par « What She Like », « Rum », « Doh Mix Me » et « Shake Dat ». C’est avec lui que le groupe a été finaliste de la collaboration de l’année en 2025. Voir notre page <a href=\"/hussey.html\">Hussey</a>.",
+  ),
+  (
+    "Qui a produit « Toxic Love » de Trixzmigos ?",
+    "Selon l’audio officiel de « Toxic Love (Bouyon 2026) », le titre est produit, mixé et masterisé par DiYoute yw3, enregistré au Yw3 Studio, avec Boogy Rankss au beat et une note vocale de Loren. L’écriture est créditée au groupe, « Written by Trixz Migos », et la pochette à Kimmie Designs. C’est le crédit de studio le plus complet du catalogue.",
+  ),
+  (
+    "Quels titres Trixzmigos a-t-il sortis en 2026 ?",
+    "Shazam liste six sorties en 2026 : « Location », avec Shyanne, une version Radio Edit de « In D Morning », « Suck Suck », « Take Dat », partagé avec Klassik Frescobar et Boogy Rankss, « Toxic Love », avec la voix de Loren, et « Long Time », avec Hussey, présenté comme la sortie la plus récente au moment de la recherche. Aucun album n’est référencé : c’est un catalogue de singles.",
+  ),
+  (
+    "Trixzmigos a-t-il gagné un Dominica Music Award en 2025 ?",
+    "Non. Le groupe était finaliste deux fois, dans la catégorie Rising Artist/Band of the Year et dans la Collaboration of the Year pour « What She Like », avec Hussey. Le palmarès publié par Soca News donne la catégorie montante à Real Reel et la collaboration de l’année à « Someone Else », de Little Boy, Quan et Trilla G. La cérémonie s’est tenue le 3 janvier 2026 à Portsmouth.",
+  ),
+  (
+    "Trixzmigos et Trixx, est-ce le même artiste ?",
+    "Toutes les sources consultées les traitent comme deux noms séparés : la liste officielle des finalistes des Dominica Music Awards 2025 les aligne sur deux lignes distinctes de la même catégorie. Trixx chante de son côté sur « Make Her Bawl » de Signal Band et sur des titres avec Beevo, et figure seul au Ti Vilaj Kwéyòl 2026. Aucun document ne relie les deux noms, et aucun titre ne les crédite ensemble.",
+  ),
+  (
+    "Sur quels labels Trixzmigos a-t-il sorti ses titres ?",
+    "Trois enseignes apparaissent dans les crédits vérifiés. Vadore Concept Groupe pour « Backshot », le titre de SupaLyne où le groupe figure en featuring le 26 février 2022. LTG RECORDS pour « Nasty 2 », le 9 juin 2023. Et L2TG RECORDS pour « What She Like », le 10 janvier 2025. Aucune source consultée ne dit si ces enseignes sont liées entre elles, et ce profil ne le suppose pas.",
+  ),
+  (
+    "Où écouter Trixzmigos ?",
+    "Par la série des singles : « What She Like », « Rum », « Doh Mix Me », « 1View », « Shake Dat », « Dark Love », « The Christmas Story » et « Long Time » avec Hussey, puis « Nasty 2 », « Bikini » avec DJ Taffy, « Take Dat » et « Toxic Love ». Pour la vague actuelle, la <a href=\"/playlist-bouyon.html\">playlist Bouyon Road Mix</a> de Bouyon Shattaz suit la scène.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/trixzmigos.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/trixzmigos.html#artist", "name": "Trixzmigos", "description": "Groupe bouyon de la Dominique, aussi écrit Trixz Migos. Catalogue de singles chez Vadore Concept Groupe, LTG RECORDS et L2TG RECORDS, construit autour de la voix invitée Hussey. What She Like, sorti en 2025, est finaliste de la collaboration de l’année aux Dominica Music Awards 2025, et le groupe est finaliste de la catégorie montante la même année. Aucun membre nommé dans les sources publiques.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'What She Like'}, {"@type": "MusicRecording", "name": 'Rum'}, {"@type": "MusicRecording", "name": 'Doh Mix Me'}, {"@type": "MusicRecording", "name": '1View'}, {"@type": "MusicRecording", "name": 'Shake Dat'}, {"@type": "MusicRecording", "name": 'Dark Love'}, {"@type": "MusicRecording", "name": 'The Christmas Story'}, {"@type": "MusicRecording", "name": 'Long Time'}, {"@type": "MusicRecording", "name": 'Nasty 2'}, {"@type": "MusicRecording", "name": 'Bikini'}, {"@type": "MusicRecording", "name": 'Take Dat'}, {"@type": "MusicRecording", "name": 'Toxic Love'}, {"@type": "MusicRecording", "name": 'Backshot'}], "sameAs": ["https://www.shazam.com/artist/trixzmigos/1718934683"]}}],
  "date_modified": "2026-10-20"
 }
@@ -158,13 +200,55 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who are the members of Trixzmigos?", "No source consulted names them. Neither the Shazam artist page, nor the song pages, nor the Dominica Music Awards 2025 finalist list gives a name, a number or an individual role. The only writing credit recorded, on the official audio of “Toxic Love”, says “Written by Trixz Migos”, in the group name. This profile therefore publishes the catalog, which is documented, and not identities, which are not."),
-  ("What is the biggest Trixzmigos record?", "“What She Like”, featuring Hussey, released on January 10, 2025 on L2TG RECORDS. According to Shazam, it is the most streamed record in the catalog and the most identified of all time, with about 32,900 identifications, out of a total of about 34,600 for the group. Its video showed 1.7 million views on YouTube, and Sokah2Soca ranked it first in Dominica bouyon and soca trending songs for the week ending April 26, 2025."),
-  ("Did Trixzmigos win a Dominica Music Award in 2025?", "No. The group was a finalist twice, in the Rising Artist/Band of the Year category, spelled Trixz Migos, and in Collaboration of the Year for “What She Like”, with Hussey. The winners list published by Soca News gives the rising category to Real Reel and Collaboration of the Year to “Someone Else”, by Little Boy, Quan and Trilla G. The ceremony was held on January 3, 2026 in Portsmouth."),
-  ("Are Trixzmigos and Trixx the same artist?", "Every source consulted treats them as two separate names. The official Dominica Music Awards 2025 finalist list lines them up on two distinct lines of the same rising category. Trixx sings separately on “Make Her Bawl”, by Signal Band with Shelly and DJ Taffy, on “Doe Do Me Dat” and “Fall In De Trap” with Beevo, and appears alone among the confirmed artists of Ti Vilaj Kwéyòl 2026. No document links the two names, and no record credits them together."),
-  ("On which labels has Trixzmigos released records?", "Three banners appear in the verified credits. Vadore Concept Groupe for “Backshot”, the SupaLyne record on which the group features on February 26, 2022. LTG RECORDS for “Nasty 2”, on June 9, 2023. And L2TG RECORDS for “What She Like”, on January 10, 2025. No source consulted says whether those banners are linked to each other."),
-  ("Where can I hear Trixzmigos?", "Through the run of singles: “What She Like”, “Rum”, “Doh Mix Me”, “1View”, “Shake Dat”, “Dark Love”, “The Christmas Story” and “Long Time” with Hussey, then “Nasty 2”, “Bikini” with DJ Taffy, “Take Dat” and “Toxic Love”. Our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> follows this Dominican wave, and the <a href=\"/en/hussey.html\">Hussey</a> page documents the group guest voice record by record.")
- ],
+  (
+    "Who are the members of Trixzmigos?",
+    "No source consulted names them. Neither the Shazam artist page, nor the song pages, nor the Dominica Music Awards 2025 finalist list gives a name, a number or an individual role. The only writing credit recorded, on the official audio of “Toxic Love”, says “Written by Trixz Migos”, in the group’s name. This profile therefore publishes the catalog, which is documented, and not identities.",
+  ),
+  (
+    "How is Trixzmigos spelled: Trixz Migos, TrixZ Migos or Trixmigos?",
+    "All four forms point to the same catalog. Shazam writes Trixzmigos, YouTube and the national awards finalist list write Trixz Migos, the collaboration category of the same awards writes TrixZ Migos, and a Sokah2Soca chart writes Trixmigos, without the z. The records, guests and labels match from one list to the next. Not to be confused with Trixx, with two x, a different artist.",
+  ),
+  (
+    "Where is Trixzmigos from?",
+    "From Dominica, according to three converging clues: the booking contact published under the official audio of “Toxic Love” uses the 767 area code, the island’s; the group competes at the Dominica Music Awards, the national ceremony; and “What She Like” topped Dominica’s bouyon and soca trending songs in April 2025. Trixzmigos belongs to the new Dominican bouyon wave.",
+  ),
+  (
+    "What is the biggest Trixzmigos record?",
+    "“What She Like”, featuring Hussey, released on January 10, 2025 on L2TG RECORDS. According to Shazam, it is the most streamed record in the catalog and the most identified of all time, with about 32,900 identifications out of a total of about 34,600 for the group. Its video showed 1.7 million views, and Sokah2Soca ranked it first in Dominica’s trending songs in late April 2025.",
+  ),
+  (
+    "What was the first Trixzmigos record?",
+    "The first verified trace is a feature: “Backshot”, by SupaLyne with Trixz Migos and Kenny Gee, released on February 26, 2022 on Vadore Concept Groupe, at 157 BPM, written by Foster Xavier and Raboteur Cedric. The first record found under the group’s own name is “Nasty 2”, released on June 9, 2023 on LTG RECORDS, although no first “Nasty” was found.",
+  ),
+  (
+    "What is the link between Trixzmigos and Hussey?",
+    "Hussey is the group’s main guest voice: he returns on eight documented records, from “The Christmas Story” in 2024 to “Long Time”, the catalog’s most recent release in 2026, through “What She Like”, “Rum”, “Doh Mix Me” and “Shake Dat”. It is with him that the group was a Collaboration of the Year finalist in 2025. See our <a href=\"/en/hussey.html\">Hussey</a> page.",
+  ),
+  (
+    "Who produced Trixzmigos’ “Toxic Love”?",
+    "According to the official audio of “Toxic Love (Bouyon 2026)”, the record was produced, mixed and mastered by DiYoute yw3, recorded at Yw3 Studio, with Boogy Rankss on the beat and a voice note by Loren. The writing is credited to the group, “Written by Trixz Migos”, and the cover art to Kimmie Designs. It is the most complete studio credit in the catalog.",
+  ),
+  (
+    "Which records did Trixzmigos release in 2026?",
+    "Shazam lists six releases in 2026: “Location”, with Shyanne, a Radio Edit of “In D Morning”, “Suck Suck”, “Take Dat”, shared with Klassik Frescobar and Boogy Rankss, “Toxic Love”, with Loren’s voice, and “Long Time”, with Hussey, shown as the most recent release at the time of research. No album is listed: it is a catalog of singles.",
+  ),
+  (
+    "Did Trixzmigos win a Dominica Music Award in 2025?",
+    "No. The group was a finalist twice, in the Rising Artist/Band of the Year category and in Collaboration of the Year for “What She Like”, with Hussey. The winners list published by Soca News gives the rising category to Real Reel and Collaboration of the Year to “Someone Else”, by Little Boy, Quan and Trilla G. The ceremony was held on January 3, 2026 in Portsmouth.",
+  ),
+  (
+    "Are Trixzmigos and Trixx the same artist?",
+    "Every source consulted treats them as two separate names: the official Dominica Music Awards 2025 finalist list lines them up on two distinct lines of the same category. Trixx sings separately on Signal Band’s “Make Her Bawl” and on records with Beevo, and appears alone at Ti Vilaj Kwéyòl 2026. No document links the two names, and no record credits them together.",
+  ),
+  (
+    "On which labels has Trixzmigos released records?",
+    "Three banners appear in the verified credits. Vadore Concept Groupe for “Backshot”, the SupaLyne record on which the group features on February 26, 2022. LTG RECORDS for “Nasty 2”, on June 9, 2023. And L2TG RECORDS for “What She Like”, on January 10, 2025. No source consulted says whether those banners are linked, and this profile does not assume it.",
+  ),
+  (
+    "Where can I hear Trixzmigos?",
+    "Through the run of singles: “What She Like”, “Rum”, “Doh Mix Me”, “1View”, “Shake Dat”, “Dark Love”, “The Christmas Story” and “Long Time” with Hussey, then “Nasty 2”, “Bikini” with DJ Taffy, “Take Dat” and “Toxic Love”. For today’s Dominican wave, the <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix playlist</a> by Bouyon Shattaz gathers the scene’s new releases.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/trixzmigos.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/trixzmigos.html#artist", "name": "Trixzmigos", "description": "Bouyon group from Dominica, also spelled Trixz Migos. A singles catalog on Vadore Concept Groupe, LTG RECORDS and L2TG RECORDS, built around the guest voice Hussey. What She Like, released in 2025, is a Collaboration of the Year finalist at the Dominica Music Awards 2025, and the group is a rising category finalist the same year. No member named in public sources.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'What She Like'}, {"@type": "MusicRecording", "name": 'Rum'}, {"@type": "MusicRecording", "name": 'Doh Mix Me'}, {"@type": "MusicRecording", "name": '1View'}, {"@type": "MusicRecording", "name": 'Shake Dat'}, {"@type": "MusicRecording", "name": 'Dark Love'}, {"@type": "MusicRecording", "name": 'The Christmas Story'}, {"@type": "MusicRecording", "name": 'Long Time'}, {"@type": "MusicRecording", "name": 'Nasty 2'}, {"@type": "MusicRecording", "name": 'Bikini'}, {"@type": "MusicRecording", "name": 'Take Dat'}, {"@type": "MusicRecording", "name": 'Toxic Love'}, {"@type": "MusicRecording", "name": 'Backshot'}], "sameAs": ["https://www.shazam.com/artist/trixzmigos/1718934683"]}}],
  "date_modified": "2026-10-20"
 }

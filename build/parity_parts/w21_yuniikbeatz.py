@@ -61,13 +61,55 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est YuniikBeatz ?", "Un producteur connu uniquement par ses crédits sur les plateformes. Il est crédité producteur de « Nah Nah » de TIITII NBA, sorti le 28 mars 2025 chez HEAVEN STUDIO, artiste invité au titre de « BOSS » du même chanteur en décembre 2025, et compositeur du « B.A.B Remix » de gapman et Enima en 2024. Aucune source consultée ne donne son nom civil, son lieu ou sa biographie."),
-  ("Quels titres YuniikBeatz a-t-il produits pour TIITII NBA ?", "Deux titres vérifiés. « Nah Nah », sorti le 28 mars 2025 chez HEAVEN STUDIO, en français, à 160 BPM, où la fiche Shazam le crédite Producer, avec Terry Capitolin et Allan Cabald à l’écriture. Et « BOSS », publié le 17 décembre 2025 chez HEAVEN STUDIO sous la mention BOUYON 2026, d’une durée de 1 minute 35 sur Deezer, avec Allan Cabald crédité compositeur."),
-  ("YuniikBeatz est-il Allan Cabald ?", "Aucune source consultée ne le dit. Le nom Allan Cabald apparaît dans les crédits des deux titres bouyon : auteur de « Nah Nah » aux côtés de Terry Capitolin, et compositeur de « BOSS ». Le nom YuniikBeatz y apparaît comme producteur et comme invité au titre. Les deux noms coexistent dans les mêmes fiches sans qu’aucun document ne les identifie l’un à l’autre, et ce profil ne le fait donc pas."),
-  ("YuniikBeatz a-t-il travaillé hors du bouyon ?", "Un crédit portant son nom existe dans le rap français : « B.A.B Remix », de gapman et Enima avec VT, sorti le 3 mai 2024 chez WAVY BOUNCE RECORDS dans l’album « Prochaine Chèvre 2 », en français, à 70 BPM, où YuniikBeatz est crédité compositeur. Aucune source ne confirme qu’il s’agit de la même personne que le producteur des titres de TIITII NBA, et ce profil présente le crédit sans trancher."),
-  ("D’où vient YuniikBeatz ?", "Ce n’est documenté nulle part dans les sources consultées. Ses deux titres bouyon appartiennent à la scène de TIITII NBA, artiste de Guadeloupe, et sortent chez HEAVEN STUDIO. Son crédit rap appartient au circuit français de gapman et Enima. Le lieu de la page est celui des scènes des titres, pas une origine vérifiée du producteur."),
-  ("Où écouter le travail de YuniikBeatz ?", "Par les trois titres crédités : « Nah Nah » et « BOSS » de TIITII NBA pour le versant bouyon, et « B.A.B Remix » de gapman et Enima pour le versant rap. Notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> suit la vague de TIITII NBA, et notre page <a href=\"/producteurs-bouyon.html\">producteurs bouyon</a> replace le rôle des beatmakers dans le son actuel.")
- ],
+  (
+    "Qui est YuniikBeatz ?",
+    "YuniikBeatz est un producteur connu uniquement par ses crédits sur les plateformes. Il est crédité producteur de « Nah Nah » de TIITII NBA, sorti le 28 mars 2025 chez HEAVEN STUDIO, artiste invité au titre de « BOSS » du même chanteur en décembre 2025, et compositeur du « B.A.B Remix » de gapman et Enima en 2024. Aucune source consultée ne donne son nom civil, son lieu ou sa biographie.",
+  ),
+  (
+    "Quels titres YuniikBeatz a-t-il produits pour TIITII NBA ?",
+    "Deux titres vérifiés. « Nah Nah », sorti le 28 mars 2025 chez HEAVEN STUDIO, en français, à 160 BPM, où la fiche Shazam le crédite Producer, avec Terry Capitolin et Allan Cabald à l’écriture. Et « BOSS », publié le 17 décembre 2025 chez HEAVEN STUDIO sous la mention BOUYON 2026, d’une durée de 1 minute 35 sur Deezer, avec Allan Cabald crédité compositeur.",
+  ),
+  (
+    "Qui a produit « Nah Nah » de TIITII NBA ?",
+    "« Nah Nah » est produit par YuniikBeatz, crédité en toutes lettres Producer sur la fiche Shazam du titre. La même fiche crédite TIITII NBA aux voix d’harmonie et l’écriture à Terry Capitolin et Allan Cabald. Le titre sort le 28 mars 2025 chez HEAVEN STUDIO, en français, à 160 BPM, avec YuniikBeatz en featuring dans son intitulé.",
+  ),
+  (
+    "Quand « BOSS » de TIITII NBA feat. YuniikBeatz est-il sorti ?",
+    "« BOSS » a été publié le 17 décembre 2025 chez HEAVEN STUDIO, selon la page album ouverte sur Shazam. Le titre porte la mention BOUYON 2026, dure 1 minute 35 sur Deezer, avec Terry Capitolin à l’écriture et Allan Cabald à la composition. La page de liens officielle de <a href=\"/tiitii-nba.html\">TIITII NBA</a> annonce aussi un visualizer du titre.",
+  ),
+  (
+    "Pourquoi « BOSS » porte-t-il la mention BOUYON 2026 alors qu’il sort en 2025 ?",
+    "Parce que la scène bouyon date ses titres pour la saison de carnaval qui suit. « BOSS », publié le 17 décembre 2025, est donc présenté comme un titre de la saison 2026. Le même usage se retrouve sur « Nah Nah », sorti en mars 2025 sous la mention Bouyon 2025, deux singles de TIITII NBA chez HEAVEN STUDIO avec YuniikBeatz en featuring.",
+  ),
+  (
+    "YuniikBeatz est-il chanteur ou producteur ?",
+    "YuniikBeatz est producteur, pas chanteur. Sur « Nah Nah », la fiche Shazam sépare les rôles et le crédite Producer, et sur « B.A.B Remix » il est crédité compositeur. Son nom en featuring sur les titres de TIITII NBA fonctionne comme une signature de fabrique, la marque du beatmaker affichée à côté du nom du chanteur, comme pour les DJ invités du même catalogue.",
+  ),
+  (
+    "YuniikBeatz est-il Allan Cabald ?",
+    "Aucune source consultée ne le dit. Le nom Allan Cabald apparaît dans les crédits des deux titres bouyon : auteur de « Nah Nah » aux côtés de Terry Capitolin, et compositeur de « BOSS ». Le nom YuniikBeatz y apparaît comme producteur et comme invité au titre. Les deux noms coexistent dans les mêmes fiches sans qu’aucun document ne les identifie l’un à l’autre, et ce profil ne le fait donc pas.",
+  ),
+  (
+    "YuniikBeatz, Yuniq ou Unique Beatz : est-ce le même artiste ?",
+    "Non, ce profil ne les confond pas. Le nom exact est YuniikBeatz, écrit avec deux i et un k, et c’est cette orthographe qui figure sur les trois fiches de crédits vérifiées. Les moteurs de recherche renvoient des noms voisins comme Yuniq, Unique Beatz ou Yunik, qui désignent des artistes différents.",
+  ),
+  (
+    "YuniikBeatz a-t-il travaillé hors du bouyon ?",
+    "Un crédit portant son nom existe dans le rap français : « B.A.B Remix », de gapman et Enima avec VT, sorti le 3 mai 2024 chez WAVY BOUNCE RECORDS dans l’album « Prochaine Chèvre 2 », en français, à 70 BPM, où YuniikBeatz est crédité compositeur. Aucune source ne confirme qu’il s’agit de la même personne que le producteur des titres de TIITII NBA, et ce profil présente le crédit sans trancher.",
+  ),
+  (
+    "Quels autres producteurs travaillent avec TIITII NBA ?",
+    "Le catalogue récent de TIITII NBA fonctionne par producteurs invités tournants : DJ BOKO sur « ON ME » et « WET WET », DJ SKAYLONE sur « NO TIME » et « WOOD », DJ LUCHSHIY sur « DANJÉRÈZ » et « LIKE YOU », DJ SKYCEE sur « FEEL LONELY ». Revenu deux fois en 2025, YuniikBeatz compte parmi les producteurs récurrents de cette année. Notre page <a href=\"/producteurs-bouyon.html\">producteurs bouyon</a> replace ce rôle dans l’histoire du genre.",
+  ),
+  (
+    "D’où vient YuniikBeatz ?",
+    "Son origine n’est documentée dans aucune source consultée. Ses deux titres bouyon appartiennent à la scène de TIITII NBA, artiste de Guadeloupe, et sortent chez HEAVEN STUDIO. Son crédit rap appartient au circuit français de gapman et Enima. Le lieu donné dans le titre de la page est celui de la scène des titres, pas une origine vérifiée du producteur.",
+  ),
+  (
+    "Où écouter le travail de YuniikBeatz ?",
+    "Par ses trois titres crédités : « Nah Nah » et « BOSS » de TIITII NBA pour le versant bouyon, et « B.A.B Remix » de gapman et Enima pour le versant rap, soit moins de six minutes d’écoute. Pour entendre la scène bouyon actuelle dans son ensemble, la Road Mix de notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> est le point d’entrée du site.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/yuniikbeatz.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/yuniikbeatz.html#artist", "name": "YuniikBeatz", "description": "Producteur crédité sur Nah Nah et BOSS de TIITII NBA chez HEAVEN STUDIO en 2025, et compositeur du B.A.B Remix de gapman et Enima chez WAVY BOUNCE RECORDS en 2024. Aucune biographie, aucun lieu et aucun compte officiel dans les sources publiques consultées.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Nah Nah"}, {"@type": "MusicRecording", "name": "BOSS"}, {"@type": "MusicRecording", "name": "B.A.B Remix"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -125,13 +167,55 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is YuniikBeatz?", "A producer known only through his platform credits. He is credited as producer of “Nah Nah” by TIITII NBA, released on March 28, 2025 on HEAVEN STUDIO, as billed guest on “BOSS” by the same singer in December 2025, and as composer of the “B.A.B Remix” by gapman and Enima in 2024. No source consulted gives his civil name, his place or his biography."),
-  ("Which records has YuniikBeatz produced for TIITII NBA?", "Two verified records. “Nah Nah”, released on March 28, 2025 on HEAVEN STUDIO, in French, at 160 BPM, where the Shazam page credits him as Producer, with Terry Capitolin and Allan Cabald as songwriters. And “BOSS”, published on December 17, 2025 on HEAVEN STUDIO under the BOUYON 2026 tag, running 1 minute 35 on Deezer, with Allan Cabald credited as composer."),
-  ("Is YuniikBeatz Allan Cabald?", "No source consulted says so. The name Allan Cabald appears in the credits of both bouyon records: songwriter of “Nah Nah” alongside Terry Capitolin, and composer of “BOSS”. The name YuniikBeatz appears there as producer and as billed guest. The two names coexist in the same listings without any document identifying one as the other, and this profile therefore does not either."),
-  ("Has YuniikBeatz worked outside bouyon?", "A credit bearing his name exists in French rap: “B.A.B Remix”, by gapman and Enima featuring VT, released on May 3, 2024 on WAVY BOUNCE RECORDS in the album “Prochaine Chèvre 2”, in French, at 70 BPM, where YuniikBeatz is credited as composer. No source confirms it is the same person as the producer of the TIITII NBA records, and this profile presents the credit without settling that point."),
-  ("Where is YuniikBeatz from?", "It is documented nowhere in the sources consulted. His two bouyon records belong to the scene of TIITII NBA, an artist from Guadeloupe, and come out on HEAVEN STUDIO. His rap credit belongs to the French circuit of gapman and Enima. The place on this page is the place of the records scenes, not a verified origin of the producer."),
-  ("Where can I hear the work of YuniikBeatz?", "Through the three credited records: “Nah Nah” and “BOSS” by TIITII NBA for the bouyon side, and “B.A.B Remix” by gapman and Enima for the rap side. Our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> follows the TIITII NBA wave, and our <a href=\"/en/bouyon-producers.html\">bouyon producers</a> page places the beatmaker role in the current sound.")
- ],
+  (
+    "Who is YuniikBeatz?",
+    "YuniikBeatz is a producer known only through his platform credits. He is credited as producer of “Nah Nah” by TIITII NBA, released on March 28, 2025 on HEAVEN STUDIO, as billed guest on “BOSS” by the same singer in December 2025, and as composer of the “B.A.B Remix” by gapman and Enima in 2024. No source consulted gives his civil name, his place or his biography.",
+  ),
+  (
+    "Which records has YuniikBeatz produced for TIITII NBA?",
+    "Two verified records. “Nah Nah”, released on March 28, 2025 on HEAVEN STUDIO, in French, at 160 BPM, where the Shazam page credits him as Producer, with Terry Capitolin and Allan Cabald as songwriters. And “BOSS”, published on December 17, 2025 on HEAVEN STUDIO under the BOUYON 2026 tag, running 1 minute 35 on Deezer, with Allan Cabald credited as composer.",
+  ),
+  (
+    "Who produced “Nah Nah” by TIITII NBA?",
+    "“Nah Nah” was produced by YuniikBeatz, credited in full as Producer on the Shazam page of the record. The same page credits TIITII NBA with harmony vocals and the writing to Terry Capitolin and Allan Cabald. The record came out on March 28, 2025 on HEAVEN STUDIO, in French, at 160 BPM, with YuniikBeatz billed as the feature in its title.",
+  ),
+  (
+    "When was “BOSS” by TIITII NBA featuring YuniikBeatz released?",
+    "“BOSS” was published on December 17, 2025 on HEAVEN STUDIO, according to the album page opened on Shazam. The record carries the BOUYON 2026 tag, runs 1 minute 35 on Deezer, with Terry Capitolin as writer and Allan Cabald as composer. The official link page of <a href=\"/en/tiitii-nba.html\">TIITII NBA</a> also announces a visualizer for it.",
+  ),
+  (
+    "Why is “BOSS” tagged BOUYON 2026 when it came out in 2025?",
+    "Because the bouyon scene dates its records for the carnival season that follows. “BOSS”, published on December 17, 2025, is therefore presented as a 2026 season record. The same habit shows on “Nah Nah”, released in March 2025 under the Bouyon 2025 tag: two TIITII NBA singles on HEAVEN STUDIO, both billing YuniikBeatz as the feature.",
+  ),
+  (
+    "Is YuniikBeatz a singer or a producer?",
+    "YuniikBeatz is a producer, not a singer. On “Nah Nah”, the Shazam page separates the roles and credits him as Producer, and on “B.A.B Remix” he is credited as composer. His name billed as a feature on TIITII NBA records works as a factory signature, the beatmaker mark shown next to the singer name, the way the DJ guests of the same catalog are billed.",
+  ),
+  (
+    "Is YuniikBeatz Allan Cabald?",
+    "No source consulted says so. The name Allan Cabald appears in the credits of both bouyon records: songwriter of “Nah Nah” alongside Terry Capitolin, and composer of “BOSS”. The name YuniikBeatz appears there as producer and as billed guest. The two names coexist in the same listings without any document identifying one as the other, and this profile therefore does not either.",
+  ),
+  (
+    "Are YuniikBeatz, Yuniq and Unique Beatz the same artist?",
+    "No, this profile does not merge them. The exact name is YuniikBeatz, spelled with two i letters and a k, and that spelling is the one on all three verified credit pages. Search engines return near names such as Yuniq, Unique Beatz or Yunik, which refer to different artists.",
+  ),
+  (
+    "Has YuniikBeatz worked outside bouyon?",
+    "A credit bearing his name exists in French rap: “B.A.B Remix”, by gapman and Enima featuring VT, released on May 3, 2024 on WAVY BOUNCE RECORDS in the album “Prochaine Chèvre 2”, in French, at 70 BPM, where YuniikBeatz is credited as composer. No source confirms it is the same person as the producer of the TIITII NBA records, and this profile presents the credit without settling that point.",
+  ),
+  (
+    "Which other producers work with TIITII NBA?",
+    "The recent TIITII NBA catalog runs on rotating guest producers: DJ BOKO on “ON ME” and “WET WET”, DJ SKAYLONE on “NO TIME” and “WOOD”, DJ LUCHSHIY on “DANJÉRÈZ” and “LIKE YOU”, DJ SKYCEE on “FEEL LONELY”. Having returned twice in 2025, YuniikBeatz is one of the recurring producers of that year. Our <a href=\"/en/bouyon-producers.html\">bouyon producers</a> page places that role in the history of the genre.",
+  ),
+  (
+    "Where is YuniikBeatz from?",
+    "His origin is documented in none of the sources consulted. His two bouyon records belong to the scene of TIITII NBA, an artist from Guadeloupe, and come out on HEAVEN STUDIO. His rap credit belongs to the French circuit of gapman and Enima. The place in this page title is the place of the records scene, not a verified origin of the producer.",
+  ),
+  (
+    "Where can I hear the work of YuniikBeatz?",
+    "Through his three credited records: “Nah Nah” and “BOSS” by TIITII NBA for the bouyon side, and “B.A.B Remix” by gapman and Enima for the rap side, under six minutes of listening in all. To hear the current bouyon scene as a whole, the Road Mix on our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> page is the site entry point.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/yuniikbeatz.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/yuniikbeatz.html#artist", "name": "YuniikBeatz", "description": "Producer credited on Nah Nah and BOSS by TIITII NBA on HEAVEN STUDIO in 2025, and composer of the B.A.B Remix by gapman and Enima on WAVY BOUNCE RECORDS in 2024. No biography, no place and no official account in the public sources consulted.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Nah Nah"}, {"@type": "MusicRecording", "name": "BOSS"}, {"@type": "MusicRecording", "name": "B.A.B Remix"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

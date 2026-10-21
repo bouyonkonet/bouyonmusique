@@ -80,13 +80,55 @@ FR = {
   ]
  ],
  "faq": [
-  ("Quan et Quan Dawg sont-ils le même artiste ?", "Oui, selon le clip même de Without You, publié en 2025. Son titre annonce Quan Dawg parmi les interprètes, et sa description liste les interprètes un par un en écrivant Quan avec le compte @quandawg_vi à la même place. Le nom long et le nom court désignent donc le même chanteur dans la même collaboration, aux côtés de Nice, Reo, Trilla G et Unstoppable Shax."),
-  ("Quan et Quan Dan sont-ils le même artiste ?", "Les crédits relient les deux formes par un même titre. Leaving, sorti le 10 décembre 2024, crédite Quan Denis parmi ses auteurs sur les plateformes, tandis que le clip du même titre est publié sous le nom de Quan Dan, avec Litleboy et Taffy. La session Dreamer World présente ensuite Early Morning Freestyle sous le nom de Quan Dan, toujours avec Litleboy, son partenaire habituel."),
-  ("Quel est le nom complet publié de Quan ?", "Les crédits d’auteur des plateformes publient Quan Denis, et le titre Pa ka tan / Man allu looking for, sorti en 2022, donne la forme complète quan kyren denis comme auteur. C’est sous ce nom qu’il est crédité comme auteur et comme chanteur sur Fell For You en 2025 et comme auteur sur Someone Else et Leaving."),
-  ("Quels sont les titres les plus connus de Quan ?", "Les plus documentés sont Someone Else, avec Litleboy et Trilla G, finaliste de la collaboration de l’année aux Dominica Music Awards 2025, Pa ka tan / Man allu looking for en 2022, Leaving en 2024, Fell For You en 2025, Kay Ka Fet, programmé par de nombreux DJ, et Without You en 2025, où il est crédité Quan Dawg."),
-  ("D’où vient Quan ?", "Aucune biographie publiée ne le dit, et ce profil n’invente pas de réponse. Les éléments publiés le rattachent à la scène de la Dominique : le clip de Kay Ve Yo en 2020 publie des contacts de réservation en 1-767, l’indicatif dominicain, dont un numéro présenté comme le sien, son partenaire principal est Litleboy LSBeats767, et ses producteurs documentés, DJ Taffy et A-Plus Muzik, appartiennent à cette scène."),
-  ("Où écouter Quan ?", "Commencez par Someone Else et Fell For You avec <a href=\"/litleboy-lsbeats767.html\">Litleboy LSBeats767</a>, puis Without You avec <a href=\"/reo.html\">Reo</a> et <a href=\"/trilla-g.html\">Trilla G</a>. Notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> suit les titres de la nouvelle scène dominicaine, dont ceux de Quan saison après saison.")
- ],
+  (
+    "Quan et Quan Dawg sont-ils le même artiste ?",
+    "Oui, selon le clip même de Without You, publié en 2025. Son titre annonce Quan Dawg parmi les interprètes, et sa description liste les interprètes un par un en écrivant Quan avec le compte @quandawg_vi à la même place. Le nom long et le nom court désignent donc le même chanteur dans la même collaboration, aux côtés de Nice, Reo, Trilla G et Unstoppable Shax.",
+  ),
+  (
+    "Quan et Quan Dan sont-ils le même artiste ?",
+    "Les crédits relient les deux formes par un même titre. Leaving, sorti le 10 décembre 2024, crédite Quan Denis parmi ses auteurs sur les plateformes, tandis que le clip du même titre est publié sous le nom de Quan Dan, avec Litleboy et Taffy. La session Dreamer World présente ensuite Early Morning Freestyle sous le nom de Quan Dan, toujours avec Litleboy, son partenaire habituel.",
+  ),
+  (
+    "Quel est le nom complet publié de Quan ?",
+    "Les crédits d’auteur des plateformes publient Quan Denis, et le titre Pa ka tan / Man allu looking for, sorti en 2022, donne la forme complète quan kyren denis comme auteur. C’est sous ce nom qu’il est crédité comme auteur et comme chanteur sur Fell For You en 2025 et comme auteur sur Someone Else et Leaving.",
+  ),
+  (
+    "Quels sont les titres les plus connus de Quan ?",
+    "Les plus documentés sont Someone Else, avec Litleboy et Trilla G, finaliste de la collaboration de l’année aux Dominica Music Awards 2025, Pa ka tan / Man allu looking for en 2022, Leaving en 2024, Fell For You en 2025, Kay Ka Fet, programmé par de nombreux DJ, et Without You en 2025, où il est crédité Quan Dawg.",
+  ),
+  (
+    "D’où vient Quan ?",
+    "Aucune biographie publiée ne le dit, et ce profil n’invente pas de réponse. Les éléments publiés le rattachent à la scène de la Dominique : le clip de Kay Ve Yo en 2020 publie des contacts de réservation en 1-767, l’indicatif dominicain, dont un numéro présenté comme le sien, son partenaire principal est Litleboy LSBeats767, et ses producteurs documentés, DJ Taffy et A-Plus Muzik, appartiennent à cette scène.",
+  ),
+  (
+    "Où écouter Quan ?",
+    "Commencez par Someone Else et Fell For You avec Litleboy LSBeats767, puis Without You avec Reo, Trilla G, Nice et Unstoppable Shax, sans oublier Kay Ka Fet, que les DJ programment saison après saison. Notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> suit le son de la nouvelle scène dominicaine dans laquelle s’inscrivent ces titres.",
+  ),
+  (
+    "Qui a produit Without You avec Quan Dawg ?",
+    "Selon la description du clip, Without You est produit par <a href=\"/a-plus-musik.html\">A-Plus Muzik</a>, mixé et masterisé par Th3rd House Studios, avec une vidéo signée A.Nibbs. Le titre, publié en 2025, est interprété par Nice, Reo, Trilla G, Unstoppable Shax et Quan Dawg. C’est la collaboration qui a exposé Quan au public le plus large, dans le circuit professionnel du genre.",
+  ),
+  (
+    "Qui a produit Kay Ve Yo de Quan ?",
+    "Selon sa description YouTube, Kay Ve Yo, publié en 2020 avec Bobby, est écrit et composé par Quan Denis et Bobby, posé sur le Yeki Riddim produit par <a href=\"/dj-taffy.html\">DJ Taffy</a>, et enregistré chez Bobos Records, avec une photo de couverture de DJ Wizz. C’est le plus ancien titre documenté de Quan, qui le montre auteur dès 2020, déjà dans le cercle de DJ Taffy.",
+  ),
+  (
+    "Someone Else a-t-il été nommé aux Dominica Music Awards ?",
+    "Oui. La liste des finalistes des Dominica Music Awards 2025 retient « Quan, Litle Boy et Trilla G, Someone Else » parmi les finalistes de la collaboration de l’année, la même catégorie que FYM de Ridge et Problem Child. Publié en 2024 sur la compilation Summer Of Carnivals chez DSM Music et Monk Music, le titre est écrit par Foster Marcel Xavier, Gael Jno Baptiste et Quan Denis.",
+  ),
+  (
+    "Quel est le lien entre Quan et Litleboy LSBeats767 ?",
+    "<a href=\"/litleboy-lsbeats767.html\">Litleboy LSBeats767</a>, producteur et chanteur dont les crédits civils nomment Foster Marcel Xavier, est son partenaire principal. Ensemble, ils signent Pa ka tan en 2022, Someone Else en 2024, Leaving en décembre 2024 et Fell For You en janvier 2025. Quan est crédité à l’écriture sur chaque titre : un associé régulier sur trois saisons, pas un invité de passage.",
+  ),
+  (
+    "Qu’est-ce que Kay Ka Fet de Quan ?",
+    "Kay Ka Fet est son titre le plus cité par les DJ. Les listes de mixes le programment tantôt sous le nom de Quan seul, tantôt sous la forme Litleboy et Quan. Il tourne dans les mixes du Miami Carnival 2024, dans le Prelude 2025 juste après Someone Else, et dans le Bouyon Passport 2026, preuve que ses titres circulent saison après saison bien au-delà de leur île.",
+  ),
+  (
+    "Avec quels artistes Quan a-t-il collaboré ?",
+    "Son partenaire principal est Litleboy LSBeats767. Ses crédits nomment aussi Trilla G sur Someone Else, <a href=\"/dj-taffy.html\">DJ Taffy</a> sur Leaving et le Nasty Christmas Medley, Bobby sur Kay Ve Yo, Freddy sur Your Friend, DeLuxe F et Fuego Dinero sur Fete Life, Mr Keyz sur Early Morning Freestyle, et Nice, Reo, Trilla G et Unstoppable Shax sur Without You.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/quan.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/quan.html#artist", "name": "Quan", "description": "Chanteur bouyon crédité Quan Denis à l’écriture, partenaire régulier de Litleboy LSBeats767 sur Pa ka tan, Someone Else, Leaving et Fell For You. Crédité Quan Dan dans le clip de Leaving et Quan Dawg sur Without You en 2025.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Kay Ve Yo"}, {"@type": "MusicRecording", "name": "Pa ka tan / Man allu looking for"}, {"@type": "MusicRecording", "name": "Someone Else"}, {"@type": "MusicRecording", "name": "Leaving"}, {"@type": "MusicRecording", "name": "Fell For You"}, {"@type": "MusicRecording", "name": "Without You"}, {"@type": "MusicRecording", "name": "Kay Ka Fet"}, {"@type": "MusicRecording", "name": "Fete Life"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -158,13 +200,55 @@ EN = {
   ]
  ],
  "faq": [
-  ("Are Quan and Quan Dawg the same artist?", "Yes, according to the Without You video itself, published in 2025. Its title announces Quan Dawg among the performers, and its description lists the performers one by one, writing Quan with the account @quandawg_vi in the same place. The long name and the short name therefore designate the same singer in the same collaboration, alongside Nice, Reo, Trilla G and Unstoppable Shax."),
-  ("Are Quan and Quan Dan the same artist?", "The credits link the two forms through a single record. Leaving, released on 10 December 2024, credits Quan Denis among its writers on the platforms, while the video of the same record is published under the name Quan Dan, with Litleboy and Taffy. The Dreamer World session then presents Early Morning Freestyle under the name Quan Dan, still with Litleboy, his usual partner."),
-  ("What is the full published name of Quan?", "Platform writing credits publish Quan Denis, and the record Pa ka tan / Man allu looking for, released in 2022, gives the fuller form quan kyren denis as a writer. It is under that name that he is credited as writer and singer on Fell For You in 2025 and as a writer on Someone Else and Leaving."),
-  ("What are the best known records of Quan?", "The most documented are Someone Else, with Litleboy and Trilla G, a finalist for Collaboration of the Year at the Dominica Music Awards 2025, Pa ka tan / Man allu looking for in 2022, Leaving in 2024, Fell For You in 2025, Kay Ka Fet, programmed by many DJs, and Without You in 2025, where he is credited as Quan Dawg."),
-  ("Where does Quan come from?", "No published biography says, and this profile does not invent an answer. The published elements tie him to the Dominica scene: the Kay Ve Yo video in 2020 publishes booking contacts in 1-767, the Dominican area code, including a number presented as his own, his main partner is Litleboy LSBeats767, and his documented producers, DJ Taffy and A-Plus Muzik, belong to that scene."),
-  ("Where can I hear Quan?", "Start with Someone Else and Fell For You with <a href=\"/en/litleboy-lsbeats767.html\">Litleboy LSBeats767</a>, then Without You with <a href=\"/en/reo.html\">Reo</a> and <a href=\"/en/trilla-g.html\">Trilla G</a>. Our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> follows the records of the new Dominican scene, including those of Quan season after season.")
- ],
+  (
+    "Are Quan and Quan Dawg the same artist?",
+    "Yes, according to the Without You video itself, published in 2025. Its title announces Quan Dawg among the performers, and its description lists the performers one by one, writing Quan with the account @quandawg_vi in the same place. The long name and the short name therefore designate the same singer in the same collaboration, alongside Nice, Reo, Trilla G and Unstoppable Shax.",
+  ),
+  (
+    "Are Quan and Quan Dan the same artist?",
+    "The credits link the two forms through a single record. Leaving, released on 10 December 2024, credits Quan Denis among its writers on the platforms, while the video of the same record is published under the name Quan Dan, with Litleboy and Taffy. The Dreamer World session then presents Early Morning Freestyle under the name Quan Dan, still with Litleboy, his usual partner.",
+  ),
+  (
+    "What is the full published name of Quan?",
+    "Platform writing credits publish Quan Denis, and the record Pa ka tan / Man allu looking for, released in 2022, gives the fuller form quan kyren denis as a writer. It is under that name that he is credited as writer and singer on Fell For You in 2025 and as a writer on Someone Else and Leaving.",
+  ),
+  (
+    "What are the best known records of Quan?",
+    "The most documented are Someone Else, with Litleboy and Trilla G, a finalist for Collaboration of the Year at the Dominica Music Awards 2025, Pa ka tan / Man allu looking for in 2022, Leaving in 2024, Fell For You in 2025, Kay Ka Fet, programmed by many DJs, and Without You in 2025, where he is credited as Quan Dawg.",
+  ),
+  (
+    "Where does Quan come from?",
+    "No published biography says, and this profile does not invent an answer. The published elements tie him to the Dominica scene: the Kay Ve Yo video in 2020 publishes booking contacts in 1-767, the Dominican area code, including a number presented as his own, his main partner is Litleboy LSBeats767, and his documented producers, DJ Taffy and A-Plus Muzik, belong to that scene.",
+  ),
+  (
+    "Where can I hear Quan?",
+    "Start with Someone Else and Fell For You with Litleboy LSBeats767, then Without You with Reo, Trilla G, Nice and Unstoppable Shax, and do not miss Kay Ka Fet, which DJs programme season after season. Our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> follows the sound of the new Dominican scene these records belong to.",
+  ),
+  (
+    "Who produced Without You featuring Quan Dawg?",
+    "According to the video description, Without You is produced by <a href=\"/en/a-plus-musik.html\">A-Plus Muzik</a>, mixed and mastered by Th3rd House Studios, with a video by A.Nibbs. The record, published in 2025, is performed by Nice, Reo, Trilla G, Unstoppable Shax and Quan Dawg. It is the collaboration that exposed Quan to his widest audience, inside the professional circuit of the genre.",
+  ),
+  (
+    "Who produced Quan’s Kay Ve Yo?",
+    "According to its YouTube description, Kay Ve Yo, published in 2020 with Bobby, is written and composed by Quan Denis and Bobby, set on the Yeki Riddim produced by <a href=\"/en/dj-taffy.html\">DJ Taffy</a>, and recorded at Bobos Records, with cover photography by DJ Wizz. It is Quan’s oldest documented record, showing him as a writer by 2020, already in DJ Taffy’s circle.",
+  ),
+  (
+    "Was Someone Else nominated at the Dominica Music Awards?",
+    "Yes. The finalist list of the Dominica Music Awards 2025 names “Quan, Litle Boy and Trilla G, Someone Else” among the finalists for Collaboration of the Year, the same category as FYM by Ridge and Problem Child. Released in 2024 on the Summer Of Carnivals compilation on DSM Music and Monk Music, the record is written by Foster Marcel Xavier, Gael Jno Baptiste and Quan Denis.",
+  ),
+  (
+    "What is the link between Quan and Litleboy LSBeats767?",
+    "<a href=\"/en/litleboy-lsbeats767.html\">Litleboy LSBeats767</a>, a producer and singer whose civil credits name Foster Marcel Xavier, is his main partner. Together they released Pa ka tan in 2022, Someone Else in 2024, Leaving in December 2024 and Fell For You in January 2025. Quan is credited as a writer on every one: a regular associate over three seasons, not a passing guest.",
+  ),
+  (
+    "What is Quan’s Kay Ka Fet?",
+    "Kay Ka Fet is the record of his that DJs cite most. Mix lists programme it sometimes under Quan’s name alone, sometimes as Litleboy and Quan. It runs in the Miami Carnival 2024 mixes, in the Prelude 2025 right after Someone Else, and in the Bouyon Passport 2026, proof that his records travel season after season well beyond their island.",
+  ),
+  (
+    "Which artists has Quan worked with?",
+    "His main partner is Litleboy LSBeats767. His credits also name Trilla G on Someone Else, <a href=\"/en/dj-taffy.html\">DJ Taffy</a> on Leaving and the Nasty Christmas Medley, Bobby on Kay Ve Yo, Freddy on Your Friend, DeLuxe F and Fuego Dinero on Fete Life, Mr Keyz on Early Morning Freestyle, and Nice, Reo, Trilla G and Unstoppable Shax on Without You.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/quan.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/quan.html#artist", "name": "Quan", "description": "Bouyon singer credited as Quan Denis in writing, regular partner of Litleboy LSBeats767 on Pa ka tan, Someone Else, Leaving and Fell For You. Credited as Quan Dan in the Leaving video and as Quan Dawg on Without You in 2025.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Kay Ve Yo"}, {"@type": "MusicRecording", "name": "Pa ka tan / Man allu looking for"}, {"@type": "MusicRecording", "name": "Someone Else"}, {"@type": "MusicRecording", "name": "Leaving"}, {"@type": "MusicRecording", "name": "Fell For You"}, {"@type": "MusicRecording", "name": "Without You"}, {"@type": "MusicRecording", "name": "Kay Ka Fet"}, {"@type": "MusicRecording", "name": "Fete Life"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

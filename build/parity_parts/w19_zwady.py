@@ -82,13 +82,59 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Zwady ?", "Zwady est un chanteur et auteur de la scène bouyon et soca de la Dominique. Les crédits des plateformes donnent son nom complet, Aswad Mandela Nelson Polydore, notamment comme auteur de Keep Dancing en 2025 et de Life is For the Living en 2026, et la forme courte Aswad Polydore sur Down Deh, Blaze et I Telling You. Une fiche, Mal Palan, écrit son nom Aswad Polydor, sans le e final. Il chante ses propres singles, des cases de riddims chez plusieurs producteurs, et il écrit aussi pour d’autres, dont Starsha."),
-  ("Quel est le titre le plus écouté de Zwady ?", "Down Deh, sa participation au Dwivayez Riddim de Producerdlo, sorti le 28 août 2020 chez GloSho Music dans l’EP du riddim. Il y chante avec Fireman Lee en featuring, en anglais, à 117 BPM, et le titre est écrit par Dylan Christon Lowe, Savion Augustine, Aswad Polydore et Leslie St. Jean. Sa page artiste Shazam le classe premier de ses titres les plus écoutés, devant I Telling You et ses singles en nom propre. La presse régionale de février 2021 écrivait le titre Down Dere."),
-  ("Quels sont les singles de Zwady en nom propre ?", "Douze singles sont documentés sur sa page artiste, tous chez 1619613 Records DK : 2 Shots en 2017, Redeem Yourself et Roll It en 2019, She Top en 2020, Mother’s Mas et She Bizness en 2023, to the END (2DN) et Juice en 2024, For You et What’s in your Yeti en 2025, Jelly et Life is For the Living, avec Jab King, en 2026. Aucun album n’est référencé : son catalogue en nom propre est un catalogue de singles."),
-  ("Pour qui Zwady a-t-il écrit ?", "Pour Starsha, chanteuse de Layou, à la Dominique. Les crédits officiels de son titre Black Girl Magic donnent une écriture de Marsha Laurent, le nom civil de Starsha, avec des crédits d’écriture additionnels pour Aswad « Zwady » Polydore. Zwady chante aussi en duo avec elle sur First, un titre du Fete Lyfe Riddim listé dans le profil de Starsha publié par Dominica Festivals. Black Girl Magic reste un titre de Starsha : Zwady y tient une ligne d’écriture, pas un rôle d’interprète."),
-  ("D’où vient Zwady ?", "Aucune source consultée ne donne son lieu de naissance ou son village, et ce profil ne l’invente pas. Son ancrage dans la scène de la Dominique est documentaire : le Dwivayez Riddim qui porte son titre le plus écouté est produit par ProducerDlo et Savion Beats, présentés par la presse comme deux producteurs de la Dominique, sa partenaire de duo Starsha est originaire de Layou, et ses producteurs de riddims, ProducerDlo et Dadamanufakture, appartiennent au circuit bouyon et soca de l’île. Si une source primaire publie son origine, cette page sera complétée."),
-  ("Où écouter Zwady ?", "Commencez par Down Deh sur l’EP du Dwivayez Riddim, puis Mal Palan sur le Kryptic Riddim, I Telling You sur le Full Steam Riddim, Blaze et Keep Dancing chez ProducerDlo, et les singles Juice, to the END (2DN) et Life is For the Living. Notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> suit les sorties de cette scène, et les profils de <a href=\"/shelly.html\">Shelly</a> et de <a href=\"/trilla-g.html\">Trilla-G</a> documentent deux autres voix du même Dwivayez Riddim.")
- ],
+  (
+    "Qui est Zwady ?",
+    "Zwady est un chanteur et auteur de la scène bouyon et soca de la Dominique. Les crédits des plateformes donnent son nom complet, Aswad Mandela Nelson Polydore, notamment comme auteur de Keep Dancing en 2025 et de Life is For the Living en 2026, et la forme courte Aswad Polydore sur Down Deh, Blaze et I Telling You. Une fiche, Mal Palan, écrit son nom Aswad Polydor, sans le e final. Il chante ses propres singles, des cases de riddims chez plusieurs producteurs, et il écrit aussi pour d’autres, dont Starsha.",
+  ),
+  (
+    "Quel est le titre le plus écouté de Zwady ?",
+    "Down Deh, sa participation au Dwivayez Riddim de Producerdlo, sorti le 28 août 2020 chez GloSho Music dans l’EP du riddim. Il y chante avec Fireman Lee en featuring, en anglais, à 117 BPM, et le titre est écrit par Dylan Christon Lowe, Savion Augustine, Aswad Polydore et Leslie St. Jean. Sa page artiste Shazam le classe premier de ses titres les plus écoutés, devant I Telling You et ses singles en nom propre. La presse régionale de février 2021 écrivait le titre Down Dere.",
+  ),
+  (
+    "Quels sont les singles de Zwady en nom propre ?",
+    "Douze singles sont documentés sur sa page artiste, tous chez 1619613 Records DK : 2 Shots en 2017, Redeem Yourself et Roll It en 2019, She Top en 2020, Mother’s Mas et She Bizness en 2023, to the END (2DN) et Juice en 2024, For You et What’s in your Yeti en 2025, Jelly et Life is For the Living, avec Jab King, en 2026. Aucun album n’est référencé : son catalogue en nom propre est un catalogue de singles.",
+  ),
+  (
+    "Pour qui Zwady a-t-il écrit ?",
+    "Pour Starsha, chanteuse de Layou, à la Dominique. Les crédits officiels de son titre Black Girl Magic donnent une écriture de Marsha Laurent, le nom civil de Starsha, avec des crédits d’écriture additionnels pour Aswad « Zwady » Polydore. Zwady chante aussi en duo avec elle sur First, un titre du Fete Lyfe Riddim listé dans le profil de Starsha publié par Dominica Festivals. Black Girl Magic reste un titre de Starsha : Zwady y tient une ligne d’écriture, pas un rôle d’interprète.",
+  ),
+  (
+    "D’où vient Zwady ?",
+    "Aucune source consultée ne donne son lieu de naissance ou son village, et ce profil ne l’invente pas. Son ancrage dans la scène de la Dominique est documentaire : le Dwivayez Riddim qui porte son titre le plus écouté est produit par ProducerDlo et Savion Beats, présentés par la presse comme deux producteurs de la Dominique, sa partenaire de duo Starsha est originaire de Layou, et ses producteurs de riddims, ProducerDlo et Dadamanufakture, appartiennent au circuit bouyon et soca de l’île.",
+  ),
+  (
+    "Où écouter Zwady ?",
+    "Commencez par Down Deh sur l’EP du Dwivayez Riddim, puis Mal Palan sur le Kryptic Riddim, I Telling You sur le Full Steam Riddim, Blaze et Keep Dancing chez ProducerDlo, et les singles Juice, to the END (2DN) et Life is For the Living. La playlist Bouyon Road Mix de Bouyon Shattaz, sur notre page <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, suit les sorties de la scène dominicaine autour de lui.",
+  ),
+  (
+    "Qu’est-ce que le Dwivayez Riddim ?",
+    "Le riddim qui porte Down Deh, sorti en EP le 28 août 2020 chez GloSho Music. La presse l’a présenté comme la rencontre de deux producteurs de la Dominique, ProducerDlo et Savion Beats, conçue en plein confinement. Dans le créole de la Dominique, dwive veut dire flâner de fête en fête, et un dwivayez est celui qui le fait. Voir <a href=\"/bouyon-riddim.html\">bouyon riddim</a>.",
+  ),
+  (
+    "Qui a produit Down Deh de Zwady et Fireman Lee ?",
+    "ProducerDlo, de son vrai nom Dylan Lowe, et Savion Beats, de son vrai nom Savion Augustine, les deux producteurs du Dwivayez Riddim. Le titre sort sous le nom de Producerdlo, et ses quatre auteurs crédités sont Dylan Christon Lowe, Savion Augustine, Aswad Polydore, c’est-à-dire Zwady, et Leslie St. Jean.",
+  ),
+  (
+    "Quels artistes chantent sur le Dwivayez Riddim avec Zwady ?",
+    "L’EP de 2020 aligne quatre titres chantés : Happy Place avec <a href=\"/shelly.html\">Shelly</a>, Down Deh avec Zwady et Fireman Lee, System Failure avec Starsha, devenu son tube de 2021, et Deliway avec Trilla-G, plus l’instrumental. La presse citait aussi un titre de Tevin Hartman, Overproof, absent de cette liste : ce site garde les deux versions visibles sans les fusionner.",
+  ),
+  (
+    "Qui a produit Mal Palan de Zwady ?",
+    "Dada Manufakture, crédité à la production, au mixage et au mastering. Mal Palan sort le 6 juillet 2025 chez Dadamanufakture, sur l’album du Kryptic Riddim, en anglais, à 131 BPM, écrit par Aswad Polydor et Clyde Krishna Lawrence. Le riddim réunit aussi Fadda Fox et Faithii, Pumpa, Jael Joseph et d’autres voix, une distribution régionale large.",
+  ),
+  (
+    "Qu’est-ce que I Telling You de Zwady ?",
+    "Sa participation au Full Steam Riddim, sortie le 18 mai 2026 chez Wetty-Beatz Productionz et créditée à Zwady et Wetty Beatz. Paroles d’Aswad Polydore, composition de Phillip Bastien, le nom civil derrière Wetty Beatz. À 153 BPM, c’est le titre le plus rapide de son catalogue documenté, et sa page artiste le classe deuxième de ses titres les plus écoutés.",
+  ),
+  (
+    "Zwady fait-il du reggae ou du bouyon ?",
+    "Ses titres sont des singles et des cases de riddims soca et bouyon pensés pour le carnaval, même si Shazam le range sous l’étiquette Reggae et alterne Reggae et Afro-Beat d’un single à l’autre. Ces étiquettes sont un classement automatique. Le cadre de son catalogue est le <a href=\"/bouyon-soca.html\">bouyon soca</a>, né à la Dominique et lancé par Dada en 2003.",
+  ),
+  (
+    "Avec quels producteurs Zwady a-t-il travaillé ?",
+    "D’abord ProducerDlo, la ligne la plus longue de son dossier : le Dwivayez Riddim en 2020 avec Savion Beats, puis le Sazon Riddim avec MK767 et Blaze en 2025. S’y ajoutent Dada Manufakture sur le Kryptic Riddim, Wetty Beatz sur le Full Steam Riddim en 2026, et Cecil Joseph Jr, producteur de Life is For the Living.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/zwady.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/zwady.html#artist", "name": "Zwady", "description": "Chanteur et auteur de la scène bouyon et soca de la Dominique, nom complet Aswad Mandela Nelson Polydore dans les crédits. Titre le plus écouté : Down Deh, sur le Dwivayez Riddim de ProducerDlo et Savion Beats (2020). Douze singles en nom propre chez 1619613 Records DK entre 2017 et 2026, des cases de riddims chez Dadamanufakture, ProducerDlo et Wetty Beatz, et un crédit d’écriture pour Starsha. Aucune biographie ni origine villageoise dans les sources publiques.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Down Deh"}, {"@type": "MusicRecording", "name": "I Telling You"}, {"@type": "MusicRecording", "name": "Mal Palan"}, {"@type": "MusicRecording", "name": "Blaze"}, {"@type": "MusicRecording", "name": "Keep Dancing"}, {"@type": "MusicRecording", "name": "Life is For the Living"}, {"@type": "MusicRecording", "name": "Jelly"}, {"@type": "MusicRecording", "name": "What's in your Yeti"}, {"@type": "MusicRecording", "name": "For You"}, {"@type": "MusicRecording", "name": "Juice"}, {"@type": "MusicRecording", "name": "to the END (2DN)"}, {"@type": "MusicRecording", "name": "She Bizness"}, {"@type": "MusicRecording", "name": "Mother's Mas"}, {"@type": "MusicRecording", "name": "She Top"}, {"@type": "MusicRecording", "name": "Roll It"}, {"@type": "MusicRecording", "name": "Redeem Yourself"}, {"@type": "MusicRecording", "name": "2 Shots"}, {"@type": "MusicRecording", "name": "First"}], "sameAs": ["https://www.shazam.com/artist/zwady/1490627364"]}}],
  "date_modified": "2026-10-20"
 }
@@ -158,13 +204,59 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Zwady?", "Zwady is a singer and songwriter in Dominica bouyon and soca scene. Platform credits give his full name, Aswad Mandela Nelson Polydore, notably as the writer of Keep Dancing in 2025 and Life is For the Living in 2026, and the short form Aswad Polydore on Down Deh, Blaze and I Telling You. One page, Mal Palan, spells his name Aswad Polydor, without the final e. He sings his own singles, riddim cuts for several producers, and he also writes for others, including Starsha."),
-  ("What is Zwady most streamed record?", "Down Deh, his cut on the Producerdlo Dwivayez Riddim, released on August 28, 2020 on GloSho Music as part of the riddim EP. He sings it with Fireman Lee as a fellow feature, in English, at 117 BPM, and the record was written by Dylan Christon Lowe, Savion Augustine, Aswad Polydore and Leslie St. Jean. His Shazam artist page ranks it first among his most streamed songs, ahead of I Telling You and his lead singles. The regional press of February 2021 spelled the title Down Dere."),
-  ("What are Zwady lead singles?", "Twelve singles are documented on his artist page, all on 1619613 Records DK: 2 Shots in 2017, Redeem Yourself and Roll It in 2019, She Top in 2020, Mother’s Mas and She Bizness in 2023, to the END (2DN) and Juice in 2024, For You and What’s in your Yeti in 2025, Jelly and Life is For the Living, with Jab King, in 2026. No album is referenced: his lead catalog is a singles catalog."),
-  ("Who has Zwady written for?", "For Starsha, the singer from Layou, Dominica. The official credits of her record Black Girl Magic give writing by Marsha Laurent, Starsha legal name, with additional writing credits for Aswad “Zwady” Polydore. Zwady also sings a duet with her on First, a Fete Lyfe Riddim record listed in the Starsha profile published by Dominica Festivals. Black Girl Magic remains a Starsha record: Zwady holds a writing line on it, not a performer role."),
-  ("Where is Zwady from?", "No source consulted gives his birthplace or his village, and this profile does not invent one. His anchoring in the Dominica scene is documentary: the Dwivayez Riddim that carries his most streamed record is produced by ProducerDlo and Savion Beats, presented by the press as two producers from Dominica, his duet partner Starsha comes from Layou, and his riddim producers, ProducerDlo and Dadamanufakture, belong to the island bouyon and soca circuit. If a primary source publishes his origin, this page will be completed."),
-  ("Where can I listen to Zwady?", "Start with Down Deh on the Dwivayez Riddim EP, then Mal Palan on the Kryptic Riddim, I Telling You on the Full Steam Riddim, Blaze and Keep Dancing with ProducerDlo, and the singles Juice, to the END (2DN) and Life is For the Living. Our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> follows the releases of this scene, and the <a href=\"/en/shelly.html\">Shelly</a> and <a href=\"/en/trilla-g.html\">Trilla-G</a> profiles document two more voices of the same Dwivayez Riddim.")
- ],
+  (
+    "Who is Zwady?",
+    "Zwady is a singer and songwriter in Dominica bouyon and soca scene. Platform credits give his full name, Aswad Mandela Nelson Polydore, notably as the writer of Keep Dancing in 2025 and Life is For the Living in 2026, and the short form Aswad Polydore on Down Deh, Blaze and I Telling You. One page, Mal Palan, spells his name Aswad Polydor, without the final e. He sings his own singles, riddim cuts for several producers, and he also writes for others, including Starsha.",
+  ),
+  (
+    "What is Zwady most streamed record?",
+    "Down Deh, his cut on the Producerdlo Dwivayez Riddim, released on August 28, 2020 on GloSho Music as part of the riddim EP. He sings it with Fireman Lee as a fellow feature, in English, at 117 BPM, and the record was written by Dylan Christon Lowe, Savion Augustine, Aswad Polydore and Leslie St. Jean. His Shazam artist page ranks it first among his most streamed songs, ahead of I Telling You and his lead singles. The regional press of February 2021 spelled the title Down Dere.",
+  ),
+  (
+    "What are Zwady lead singles?",
+    "Twelve singles are documented on his artist page, all on 1619613 Records DK: 2 Shots in 2017, Redeem Yourself and Roll It in 2019, She Top in 2020, Mother’s Mas and She Bizness in 2023, to the END (2DN) and Juice in 2024, For You and What’s in your Yeti in 2025, Jelly and Life is For the Living, with Jab King, in 2026. No album is referenced: his lead catalog is a singles catalog.",
+  ),
+  (
+    "Who has Zwady written for?",
+    "For Starsha, the singer from Layou, Dominica. The official credits of her record Black Girl Magic give writing by Marsha Laurent, Starsha legal name, with additional writing credits for Aswad “Zwady” Polydore. Zwady also sings a duet with her on First, a Fete Lyfe Riddim record listed in the Starsha profile published by Dominica Festivals. Black Girl Magic remains a Starsha record: Zwady holds a writing line on it, not a performer role.",
+  ),
+  (
+    "Where is Zwady from?",
+    "No source consulted gives his birthplace or his village, and this profile does not invent one. His anchoring in the Dominica scene is documentary: the Dwivayez Riddim that carries his most streamed record is produced by ProducerDlo and Savion Beats, presented by the press as two producers from Dominica, his duet partner Starsha comes from Layou, and his riddim producers, ProducerDlo and Dadamanufakture, belong to the island bouyon and soca circuit.",
+  ),
+  (
+    "Where can I listen to Zwady?",
+    "Start with Down Deh on the Dwivayez Riddim EP, then Mal Palan on the Kryptic Riddim, I Telling You on the Full Steam Riddim, Blaze and Keep Dancing with ProducerDlo, and the singles Juice, to the END (2DN) and Life is For the Living. The Bouyon Shattaz Bouyon Road Mix, on our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> page, follows the releases of the Dominica scene around him.",
+  ),
+  (
+    "What is the Dwivayez Riddim?",
+    "The riddim that carries Down Deh, released as an EP on August 28, 2020 on GloSho Music. The press presented it as the meeting of two producers from Dominica, ProducerDlo and Savion Beats, conceived in the middle of lockdown. In the French Creole of Dominica, dwive means to lime or wander from fete to fete, and a dwivayez is someone who does that. See <a href=\"/en/bouyon-riddim.html\">bouyon riddim</a>.",
+  ),
+  (
+    "Who produced Down Deh by Zwady and Fireman Lee?",
+    "ProducerDlo, real name Dylan Lowe, and Savion Beats, real name Savion Augustine, the two producers of the Dwivayez Riddim. The record is released under the Producerdlo name, and its four credited writers are Dylan Christon Lowe, Savion Augustine, Aswad Polydore, that is Zwady, and Leslie St. Jean.",
+  ),
+  (
+    "Which artists sing on the Dwivayez Riddim with Zwady?",
+    "The 2020 EP lines up four vocal tracks: Happy Place with <a href=\"/en/shelly.html\">Shelly</a>, Down Deh with Zwady and Fireman Lee, System Failure with Starsha, which became her 2021 hit, and Deliway with Trilla-G, plus the instrumental. The press also cited a Tevin Hartman track, Overproof, missing from that list: this site keeps both versions visible without merging them.",
+  ),
+  (
+    "Who produced Mal Palan by Zwady?",
+    "Dada Manufakture, credited on production, mixing and mastering. Mal Palan was released on July 6, 2025 by Dadamanufakture, on the Kryptic Riddim album, in English, at 131 BPM, written by Aswad Polydor and Clyde Krishna Lawrence. The riddim also brings together Fadda Fox and Faithii, Pumpa, Jael Joseph and other voices, a wide regional cast.",
+  ),
+  (
+    "What is I Telling You by Zwady?",
+    "His cut on the Full Steam Riddim, released on May 18, 2026 by Wetty-Beatz Productionz and credited to Zwady and Wetty Beatz. Lyrics by Aswad Polydore, composition by Phillip Bastien, the legal name behind Wetty Beatz. At 153 BPM, it is the fastest record in his documented catalog, and his artist page ranks it second among his most streamed songs.",
+  ),
+  (
+    "Is Zwady reggae or bouyon?",
+    "His records are soca and bouyon singles and riddim cuts built for carnival, even though Shazam files him under a Reggae tag and alternates Reggae and Afro-Beat from one single to the next. Those tags are automatic filing. The frame of his catalog is <a href=\"/en/bouyon-soca.html\">bouyon soca</a>, born in Dominica and started by Dada in 2003.",
+  ),
+  (
+    "Which producers has Zwady worked with?",
+    "First ProducerDlo, the longest line in his file: the Dwivayez Riddim in 2020 with Savion Beats, then the Sazon Riddim with MK767 and Blaze in 2025. Add Dada Manufakture on the Kryptic Riddim, Wetty Beatz on the Full Steam Riddim in 2026, and Cecil Joseph Jr, producer of Life is For the Living.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/zwady.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/zwady.html#artist", "name": "Zwady", "description": "Singer and songwriter in Dominica bouyon and soca scene, full name Aswad Mandela Nelson Polydore in the credits. Most streamed record: Down Deh, on the Dwivayez Riddim by ProducerDlo and Savion Beats (2020). Twelve lead singles on 1619613 Records DK between 2017 and 2026, riddim cuts for Dadamanufakture, ProducerDlo and Wetty Beatz, and a writing credit for Starsha. No biography or village origin in the public sources.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Down Deh"}, {"@type": "MusicRecording", "name": "I Telling You"}, {"@type": "MusicRecording", "name": "Mal Palan"}, {"@type": "MusicRecording", "name": "Blaze"}, {"@type": "MusicRecording", "name": "Keep Dancing"}, {"@type": "MusicRecording", "name": "Life is For the Living"}, {"@type": "MusicRecording", "name": "Jelly"}, {"@type": "MusicRecording", "name": "What's in your Yeti"}, {"@type": "MusicRecording", "name": "For You"}, {"@type": "MusicRecording", "name": "Juice"}, {"@type": "MusicRecording", "name": "to the END (2DN)"}, {"@type": "MusicRecording", "name": "She Bizness"}, {"@type": "MusicRecording", "name": "Mother's Mas"}, {"@type": "MusicRecording", "name": "She Top"}, {"@type": "MusicRecording", "name": "Roll It"}, {"@type": "MusicRecording", "name": "Redeem Yourself"}, {"@type": "MusicRecording", "name": "2 Shots"}, {"@type": "MusicRecording", "name": "First"}], "sameAs": ["https://www.shazam.com/artist/zwady/1490627364"]}}],
  "date_modified": "2026-10-20"
 }

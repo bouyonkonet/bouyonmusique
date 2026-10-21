@@ -97,13 +97,63 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Keks Mafia ?", "Keks Mafia est un artiste hip hop de la Dominique, né en Dominique selon les bases musicales qui suivent son catalogue. Son son fusionne les beats du hip hop et les mélodies caribéennes, et ses titres circulent dans les mixes bouyon dominicains : « Vicks », « Wo Tat Tat », « One Pot » et « Neighbours » figuraient tous dans le mix « D Riddim Box » d’Original DJ-Sly en 2020."),
-  ("Quel nom apparaît dans les crédits d’écriture de Keks Mafia ?", "Les crédits publiés de ses disques nomment Kevin Lennard comme auteur : sur « POMPÉ », aux côtés de Lewis Wayne Campbell et Dylan Davis Campbell, c’est à dire Lewismelo et Dcamp, et sur « Hot Sauce » en 2024. Aucune biographie officielle ne publie le lien entre ce nom et le pseudonyme Keks Mafia ; ce profil rapporte la convergence des crédits, deux disques de suite, sans la transformer en état civil."),
-  ("Quels sont les titres les plus connus de Keks Mafia ?", "Les plateformes retiennent « Hello Kitty » (2018), « Granny » (2019), « Vicks », « WO TAT TAT », « Drip Drip » et « Shake It » parmi ses titres les plus populaires, et « Bouyon Warm Up » (2022) comme une sortie marquante. S’y ajoutent ses collaborations : « Hot Sauce » avec Trns en 2024 et « POMPÉ » avec Dcamp sur l’album de Lewismelo."),
-  ("Keks Mafia a-t-il fait partie d’un groupe avec Trilla-G et Reo ?", "Selon le témoignage de Trilla-G dans une interview à Billboard, oui, brièvement : encore à l’école, Trilla-G s’est familiarisé avec Reo et Keks Mafia, deux artistes dominicains en pleine ascension ; ils se sont produits ensemble et ont formé un groupe pendant une courte période, avant que chacun suive sa route."),
-  ("Qu’a fait Keks Mafia au Bouyon Jazz Festival de 2021 ?", "Il y a donné une interprétation jazz de ses titres populaires. Le compte rendu du magazine dominicain eMAGE DM sur le premier Bouyon Jazz Festival, tenu le 30 mai 2021 dans le cadre de la Nature Island Jazz XPrience et mené par Carlyn XP, écrit que Keks Mafia y a prouvé que le bouyon peut être aussi polyvalent qu’on le souhaite."),
-  ("Où écouter Keks Mafia et le bouyon de sa génération ?", "Cherchez « POMPÉ » sur l’album « Premières Notes » de Lewismelo pour sa collaboration avec <a href=\"/dcamp.html\">Dcamp</a>, « Hot Sauce » avec Trns pour sa sortie de 2024, puis écoutez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, qui suit la scène dominicaine et les Antilles françaises, et lisez notre page <a href=\"/bouyon-soca.html\">bouyon soca</a> pour la branche la plus voyageuse du genre.")
- ],
+  (
+    "Qui est Keks Mafia ?",
+    "Keks Mafia est un artiste hip hop de la Dominique, né en Dominique selon les bases musicales qui suivent son catalogue. Son son fusionne les beats du hip hop et les mélodies caribéennes, et ses titres circulent dans les mixes bouyon dominicains : « Vicks », « Wo Tat Tat », « One Pot » et « Neighbours » figuraient tous dans le mix « D Riddim Box » d’Original DJ-Sly en 2020.",
+  ),
+  (
+    "Quel nom apparaît dans les crédits d’écriture de Keks Mafia ?",
+    "Les crédits publiés de ses disques nomment Kevin Lennard comme auteur : sur « POMPÉ », aux côtés de Lewis Wayne Campbell et Dylan Davis Campbell, c’est à dire Lewismelo et Dcamp, et sur « Hot Sauce » en 2024. Aucune biographie officielle ne publie le lien entre ce nom et le pseudonyme Keks Mafia ; ce profil rapporte la convergence des crédits, deux disques de suite, sans la transformer en état civil.",
+  ),
+  (
+    "Quels sont les titres les plus connus de Keks Mafia ?",
+    "Les plateformes retiennent « Hello Kitty » (2018), « Granny » (2019), « Vicks », « WO TAT TAT », « Drip Drip » et « Shake It » parmi ses titres les plus populaires, et « Bouyon Warm Up » (2022) comme une sortie marquante. S’y ajoutent ses collaborations : « Hot Sauce » avec Trns en 2024 et « POMPÉ » avec Dcamp sur l’album de Lewismelo.",
+  ),
+  (
+    "Keks Mafia a-t-il fait partie d’un groupe avec Trilla-G et Reo ?",
+    "Selon le témoignage de Trilla-G dans une interview à Billboard, oui, brièvement : encore à l’école, Trilla-G s’est familiarisé avec Reo et Keks Mafia, deux artistes dominicains en pleine ascension ; ils se sont produits ensemble et ont formé un groupe pendant une courte période, avant que chacun suive sa route.",
+  ),
+  (
+    "Qu’a fait Keks Mafia au Bouyon Jazz Festival de 2021 ?",
+    "Il y a donné une interprétation jazz de ses titres populaires. Le compte rendu du magazine dominicain eMAGE DM sur le premier Bouyon Jazz Festival, tenu le 30 mai 2021 dans le cadre de la Nature Island Jazz XPrience et mené par Carlyn XP, écrit que Keks Mafia y a prouvé que le bouyon peut être aussi polyvalent qu’on le souhaite.",
+  ),
+  (
+    "Où écouter Keks Mafia et le bouyon de sa génération ?",
+    "Commencez par « POMPÉ » sur l’album « Premières Notes » de Lewismelo, sa collaboration avec Dcamp, puis « Hot Sauce » avec Trns pour sa sortie de 2024. Pour replacer ce catalogue dans le paysage du genre, écoutez le Road Mix de Bouyon Shattaz sur notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, qui suit les sorties de la Dominique, de la Guadeloupe et de la Martinique.",
+  ),
+  (
+    "Quel style de musique fait Keks Mafia ?",
+    "Keks Mafia fait du hip hop branché sur le bouyon : des couplets rappés posés sur des rythmes caribéens, avec des refrains pensés pour les mixes des DJ. Selon la notice de Viberate, ses textes puisent dans son enfance dominicaine et abordent l’injustice et la pauvreté, ce qui donne à son répertoire une fibre de chronique sociale à côté des titres de fête.",
+  ),
+  (
+    "Keks Mafia vient-il de la Guadeloupe ?",
+    "Non, Keks Mafia vient de la Dominique, où il est né selon les bases musicales. La confusion vient de « POMPÉ », enregistré avec Dcamp, l’un des noms bouyon les plus actifs de la Guadeloupe, sur l’album de Lewismelo. C’est une invitation sur le disque d’un artiste des Antilles françaises : le bouyon né en Dominique circule ainsi entre les îles, collaboration après collaboration.",
+  ),
+  (
+    "De quoi parle « Granny » de Keks Mafia ?",
+    "« Granny » raconte une grand-mère qui est là pour sa famille quoi qu’il arrive. Viberate date ce titre de 2019 et le décrit comme un morceau à la mélodie agréable. Ce sujet familial, loin des clichés du rap de rue, montre dès ses débuts la touche de chroniqueur du quotidien que la plateforme lui reconnaît, à côté du refrain accrocheur de « Hello Kitty » (2018).",
+  ),
+  (
+    "Avec qui Keks Mafia a-t-il fait « Wo Tat Tat » ?",
+    "Les crédits divergent selon les sources. La notice de Viberate nomme FerQuan comme collaborateur de « WO TAT TAT », tandis que la tracklist du mix « D Riddim Box » d’Original DJ-Sly crédite le titre à Keks Mafia, Edday et Quan, avec le sous-titre « All Talk And No Action ». Quan désigne peut-être le même artiste sous une autre forme de nom, mais aucune source ouverte ne permet de trancher.",
+  ),
+  (
+    "Qui a produit « Superstars » de Keks Mafia ?",
+    "DJ Taffy, producteur dominicain. La vidéo YouTube « KEKS MAFIA X HOT HEAD X WALLEY THE RAPPER: SUPERSTARS BOUYON REMIX 2023 » le crédite à la production, et sa description attribue l’écriture aux trois artistes. Le format est celui du bouyon moderne : un remix, trois voix et un producteur DJ aux commandes, avec un disque taillé pour les mixes.",
+  ),
+  (
+    "Qui a écrit et mixé « Hot Sauce » de Trns et Keks Mafia ?",
+    "Selon Shazam, « Hot Sauce » a pour auteurs Trapking, Terens Felicianne, Kevin Lennard et Jehan Dagnet, et Dj-Micky signe le mixage. Le titre, interprété par Trns et Keks Mafia, est sorti le 12 avril 2024 sur le label VGM PRODUCT. Avec son label, sa date et ses crédits complets, c’est la sortie la mieux documentée de son dossier.",
+  ),
+  (
+    "Avec quels artistes Keks Mafia a-t-il collaboré ?",
+    "Ses collaborations documentées vont de Trns (« Hot Sauce ») à Dcamp et Lewismelo (« POMPÉ »), en passant par Hot Head et Walley The Rapper (« Superstars »), Trixzmigos (« Open Wide » avec Fetty Mark, « Man She Want ») et Totally Spice et Simsima (« Krireky »). Le producteur DJ Flip Tha Boss a aussi signé un remix bouyon de son titre « You Draw ».",
+  ),
+  (
+    "Reketeng ou Wrecketeng : quelle orthographe pour le style de Keks Mafia ?",
+    "La bonne orthographe est Wrecketeng, celle donnée par DJ Cut, le pionnier fondateur du courant. « Reketeng », que l’on lit par exemple dans le sous-titre du mix « Best of 2020 Bouyon x Reketeng Mix » où figure Keks Mafia, est une faute répandue sur internet. Ses couplets rappés sur des rythmes bouyon le placent dans ce voisinage sonore, détaillé sur notre page <a href=\"/wrecketeng.html\">Wrecketeng</a>.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/keks-mafia.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/keks-mafia.html#artist", "name": "Keks Mafia", "description": "Artiste hip hop de la Dominique qui fusionne hip hop et bouyon. Titres documentés de Hello Kitty (2018) à Hot Sauce (2024), quatre titres dans le mix D Riddim Box de 2020, interprétation jazz de son répertoire au Bouyon Jazz Festival 2021, et collaboration POMPÉ avec Dcamp sur l’album Premières Notes de Lewismelo.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Hello Kitty"}, {"@type": "MusicRecording", "name": "Granny"}, {"@type": "MusicRecording", "name": "Vicks"}, {"@type": "MusicRecording", "name": "WO TAT TAT"}, {"@type": "MusicRecording", "name": "Drip Drip"}, {"@type": "MusicRecording", "name": "Shake It"}, {"@type": "MusicRecording", "name": "One Pot"}, {"@type": "MusicRecording", "name": "Neighbours"}, {"@type": "MusicRecording", "name": "Tu Veux Ça"}, {"@type": "MusicRecording", "name": "Bouyon Warm Up"}, {"@type": "MusicRecording", "name": "Superstars (Bouyon Remix)"}, {"@type": "MusicRecording", "name": "Krireky"}, {"@type": "MusicRecording", "name": "Hot Sauce"}, {"@type": "MusicRecording", "name": "POMPÉ"}, {"@type": "MusicRecording", "name": "Open Wide"}, {"@type": "MusicRecording", "name": "Man She Want"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -174,13 +224,63 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Keks Mafia?", "Keks Mafia is a hip hop artist from Dominica, Dominica-born according to the music databases tracking his catalogue. His sound fuses hip hop beats and Caribbean melodies, and his records circulate in Dominican bouyon mixes: “Vicks”, “Wo Tat Tat”, “One Pot” and “Neighbours” all appeared in the Original DJ-Sly “D Riddim Box” mix in 2020."),
-  ("What name appears in the Keks Mafia writing credits?", "The published credits of his records name Kevin Lennard as a songwriter: on “POMPÉ”, alongside Lewis Wayne Campbell and Dylan Davis Campbell, that is Lewismelo and Dcamp, and on “Hot Sauce” in 2024. No official biography publishes the link between that name and the Keks Mafia stage name; this profile reports the credit convergence, two records running, without turning it into a civil identity."),
-  ("What are the best known Keks Mafia songs?", "The platforms hold “Hello Kitty” (2018), “Granny” (2019), “Vicks”, “WO TAT TAT”, “Drip Drip” and “Shake It” among his most popular songs, and “Bouyon Warm Up” (2022) as a notable release. His collaborations add to the list: “Hot Sauce” with Trns in 2024 and “POMPÉ” with Dcamp on the Lewismelo album."),
-  ("Was Keks Mafia in a group with Trilla-G and Reo?", "According to the Trilla-G testimony in a Billboard interview, yes, briefly: still in school, Trilla-G became familiar with Reo and Keks Mafia, two rising Dominican artists; they performed together and made a group for a short time, before each followed his own road."),
-  ("What did Keks Mafia do at the 2021 Bouyon Jazz Festival?", "He gave a jazz interpretation of his popular tunes. The review by the Dominican magazine eMAGE DM of the first Bouyon Jazz Festival, held on 30 May 2021 as part of the Nature Island Jazz XPrience and headlined by Carlyn XP, writes that Keks Mafia proved there that bouyon can be as versatile as one wants it to be."),
-  ("Where can I hear Keks Mafia and the bouyon of his generation?", "Look for “POMPÉ” on the Lewismelo album “Premières Notes” for his collaboration with <a href=\"/en/dcamp.html\">Dcamp</a>, “Hot Sauce” with Trns for his 2024 release, then hear our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, which follows the Dominican scene and the French Antilles, and read our <a href=\"/en/bouyon-soca.html\">bouyon soca</a> page for the most travelled branch of the genre.")
- ],
+  (
+    "Who is Keks Mafia?",
+    "Keks Mafia is a hip hop artist from Dominica, Dominica-born according to the music databases tracking his catalogue. His sound fuses hip hop beats and Caribbean melodies, and his records circulate in Dominican bouyon mixes: “Vicks”, “Wo Tat Tat”, “One Pot” and “Neighbours” all appeared in the Original DJ-Sly “D Riddim Box” mix in 2020.",
+  ),
+  (
+    "What name appears in the Keks Mafia writing credits?",
+    "The published credits of his records name Kevin Lennard as a songwriter: on “POMPÉ”, alongside Lewis Wayne Campbell and Dylan Davis Campbell, that is Lewismelo and Dcamp, and on “Hot Sauce” in 2024. No official biography publishes the link between that name and the Keks Mafia stage name; this profile reports the credit convergence, two records running, without turning it into a civil identity.",
+  ),
+  (
+    "What are the best known Keks Mafia songs?",
+    "The platforms hold “Hello Kitty” (2018), “Granny” (2019), “Vicks”, “WO TAT TAT”, “Drip Drip” and “Shake It” among his most popular songs, and “Bouyon Warm Up” (2022) as a notable release. His collaborations add to the list: “Hot Sauce” with Trns in 2024 and “POMPÉ” with Dcamp on the Lewismelo album.",
+  ),
+  (
+    "Was Keks Mafia in a group with Trilla-G and Reo?",
+    "According to the Trilla-G testimony in a Billboard interview, yes, briefly: still in school, Trilla-G became familiar with Reo and Keks Mafia, two rising Dominican artists; they performed together and made a group for a short time, before each followed his own road.",
+  ),
+  (
+    "What did Keks Mafia do at the 2021 Bouyon Jazz Festival?",
+    "He gave a jazz interpretation of his popular tunes. The review by the Dominican magazine eMAGE DM of the first Bouyon Jazz Festival, held on 30 May 2021 as part of the Nature Island Jazz XPrience and headlined by Carlyn XP, writes that Keks Mafia proved there that bouyon can be as versatile as one wants it to be.",
+  ),
+  (
+    "Where can I hear Keks Mafia and the bouyon of his generation?",
+    "Start with “POMPÉ” on the Lewismelo album “Premières Notes”, his collaboration with Dcamp, then “Hot Sauce” with Trns for his 2024 release. To set that catalogue back into the landscape of the genre, play the Bouyon Shattaz Road Mix on our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> page, which follows releases from Dominica, Guadeloupe and Martinique.",
+  ),
+  (
+    "What kind of music does Keks Mafia make?",
+    "Keks Mafia makes hip hop plugged into bouyon: rapped verses laid over Caribbean rhythms, with hooks built for DJ mixes. According to the Viberate notice, his lyrics draw on his Dominican childhood and address injustice and poverty, which gives his repertoire a social chronicler fibre alongside the party records that dominate bouyon playlists.",
+  ),
+  (
+    "Is Keks Mafia from Guadeloupe?",
+    "No, Keks Mafia is from Dominica, where he was born according to the music databases. The confusion comes from “POMPÉ”, recorded with Dcamp, one of the most active bouyon names from Guadeloupe, on the Lewismelo album. It is a guest spot on the record of a French Antilles act: that is how bouyon, born in Dominica, travels between the islands, collaboration after collaboration.",
+  ),
+  (
+    "What is the Keks Mafia song “Granny” about?",
+    "“Granny” tells of a grandmother who is there for her family no matter what. Viberate dates the record to 2019 and describes it as a track with a pleasant melody. That family subject, far from street rap clichés, shows from the start the everyday chronicler touch the platform credits him with, next to the catchy hook of “Hello Kitty” (2018).",
+  ),
+  (
+    "Who is on “Wo Tat Tat” with Keks Mafia?",
+    "The credits differ by source. The Viberate notice names FerQuan as the collaborator on “WO TAT TAT”, while the Original DJ-Sly “D Riddim Box” mix track listing credits the record to Keks Mafia, Edday and Quan, subtitled “All Talk And No Action”. Quan may point to the same collaborator under another name form, but no open source allows a clean decision.",
+  ),
+  (
+    "Who produced the Keks Mafia song “Superstars”?",
+    "DJ Taffy, a Dominican producer. The YouTube video “KEKS MAFIA X HOT HEAD X WALLEY THE RAPPER: SUPERSTARS BOUYON REMIX 2023” credits him with the production, and its description credits the writing to the three artists. The format is pure modern bouyon: a remix, three voices and a DJ producer in command, with a record built for the mixes.",
+  ),
+  (
+    "Who wrote and mixed “Hot Sauce” by Trns and Keks Mafia?",
+    "According to Shazam, “Hot Sauce” was written by Trapking, Terens Felicianne, Kevin Lennard and Jehan Dagnet, with mixing by Dj-Micky. The record, performed by Trns and Keks Mafia, was released on 12 April 2024 by the label VGM PRODUCT. With label, date and full credits, it is the best documented release in his file.",
+  ),
+  (
+    "Who has Keks Mafia collaborated with?",
+    "His documented collaborations run from Trns (“Hot Sauce”) to Dcamp and Lewismelo (“POMPÉ”), through Hot Head and Walley The Rapper (“Superstars”), Trixzmigos (“Open Wide” with Fetty Mark, “Man She Want”) and Totally Spice and Simsima (“Krireky”). The producer DJ Flip Tha Boss also signed a bouyon remix of his track “You Draw”.",
+  ),
+  (
+    "Reketeng or Wrecketeng: how do you spell the style Keks Mafia raps in?",
+    "The correct spelling is Wrecketeng, the one given by DJ Cut, the founding pioneer of the style. “Reketeng”, seen for example in the subtitle of the “Best of 2020 Bouyon x Reketeng Mix” that carries Keks Mafia, is a widespread internet misspelling. His rapped verses over bouyon rhythms place him in that sonic neighbourhood, detailed on our <a href=\"/en/wrecketeng.html\">Wrecketeng</a> page.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/keks-mafia.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/keks-mafia.html#artist", "name": "Keks Mafia", "description": "Hip hop artist from Dominica fusing hip hop and bouyon. Documented records from Hello Kitty (2018) to Hot Sauce (2024), four records in the 2020 D Riddim Box mix, a jazz reinterpretation of his repertoire at the 2021 Bouyon Jazz Festival, and the POMPÉ collaboration with Dcamp on the Lewismelo album Premières Notes.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Hello Kitty"}, {"@type": "MusicRecording", "name": "Granny"}, {"@type": "MusicRecording", "name": "Vicks"}, {"@type": "MusicRecording", "name": "WO TAT TAT"}, {"@type": "MusicRecording", "name": "Drip Drip"}, {"@type": "MusicRecording", "name": "Shake It"}, {"@type": "MusicRecording", "name": "One Pot"}, {"@type": "MusicRecording", "name": "Neighbours"}, {"@type": "MusicRecording", "name": "Tu Veux Ça"}, {"@type": "MusicRecording", "name": "Bouyon Warm Up"}, {"@type": "MusicRecording", "name": "Superstars (Bouyon Remix)"}, {"@type": "MusicRecording", "name": "Krireky"}, {"@type": "MusicRecording", "name": "Hot Sauce"}, {"@type": "MusicRecording", "name": "POMPÉ"}, {"@type": "MusicRecording", "name": "Open Wide"}, {"@type": "MusicRecording", "name": "Man She Want"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

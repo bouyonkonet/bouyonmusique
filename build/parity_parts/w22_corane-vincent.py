@@ -70,13 +70,63 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Corane Vincent ?", "Un nom d’auteur et de compositeur du cercle bouyon gwada de DJ Luchshiy, documenté uniquement par ses crédits : auteur de « KKM », « XMAS FREESTYLE » et « CHABIN » en 2023, co-auteur de « Make it pop » et de « Mi Boss LA », puis compositeur et programmation de « 6 Dwèt » en 2025. Aucune source consultée ne donne son identité civile, son origine ou sa biographie, et ce profil ne publie donc que les crédits, ouverts fiche par fiche."),
-  ("Quel est le premier crédit vérifié de Corane Vincent ?", "Le plus ancien daté de ce dossier est « KKM », de DJ Luchshiy avec Aknose, sorti le 24 avril 2023 chez LUCHSHIY AND BRO, à 160 BPM. La fiche Shazam du titre crédite deux auteurs : Corane Vincent et Gael Rampath. Ce profil dit « le plus ancien du dossier », et non le premier de sa carrière, qu’aucune source ne permet de dater."),
-  ("Sur quels titres de DJ Luchshiy Corane Vincent est-il crédité ?", "Trois titres ouverts pour ce profil : « KKM » en avril 2023, co-écrit avec Gael Rampath ; « XMAS FREESTYLE » et « CHABIN », sortis le 22 décembre 2023 dans l’ensemble de Noël avec Lestef et Edday, où il est le seul auteur crédité et où Luchshiy And Bro produit. « XMAS FREESTYLE » affichait 33 611 identifications sur sa fiche, le compteur le plus élevé du dossier."),
-  ("Quel est son rôle sur « Make it pop » de Pinpin OSP ?", "Auteur, un rôle partagé. Le titre, sorti le 2 novembre 2023 chez VGM PRODUCT, en français, crédite Edday, Brian Lomba et Corane Vincent comme auteurs, et Luchshiy comme compositeur. C’est le seul crédit du dossier où Corane Vincent écrit aux côtés de Brian Lomba, l’autre auteur récurrent du même cercle."),
-  ("Qu’est-ce que « Mi Boss LA » ajoute au dossier ?", "Un crédit d’écriture hors de l’enseigne LUCHSHIY AND BRO. Le titre de Riddla, avec DJ Luchshiy en featuring et Grand-mère Baptiste Prod à la production, figure sur la compilation Summer Of Carnivals, Vol. 1 de 2024, où la fiche Qobuz crédite Wesley Boulogne et Corane Vincent comme auteurs. Aucune fiche de single d’origine n’a été ouverte pendant cette recherche, et ce profil n’affirme ni sa date de première sortie ni son enseigne d’origine."),
-  ("Pourquoi sait-on si peu de choses sur Corane Vincent ?", "Parce que le nom n’existe publiquement que dans les crédits. Aucune page d’artiste, aucune interview, aucun compte officiel vérifié par ouverture directe n’ont été trouvés pendant cette recherche, et la liste sameAs de cette page est donc vide. Son rôle, lui, a changé dans les fiches : auteur en 2023, puis compositeur et programmation sur « 6 Dwèt » en 2025. Ce profil publie ces faits de crédits, signale la limite en toutes lettres, et sera complété si une source officielle paraît.")
- ],
+  (
+    "Qui est Corane Vincent ?",
+    "Un nom d’auteur et de compositeur du cercle bouyon gwada de DJ Luchshiy, documenté uniquement par ses crédits : auteur de « KKM », « XMAS FREESTYLE » et « CHABIN » en 2023, co-auteur de « Make it pop » et de « Mi Boss LA », puis compositeur et programmation de « 6 Dwèt » en 2025. Aucune source consultée ne donne son identité civile, son origine ou sa biographie, et ce profil ne publie donc que les crédits, ouverts fiche par fiche.",
+  ),
+  (
+    "Corane Vincent vient-il de la Guadeloupe ?",
+    "Aucune source consultée ne donne son origine personnelle. Ce site place le dossier en Guadeloupe sur la base de la scène, pas de la personne : ses titres sont ceux du bouyon gwada documenté autour de DJ Luchshiy, de LUCHSHIY AND BRO à Lestef KJF, Edday et Pinpin OSP. Le nom n’a ni page d’artiste ni compte officiel vérifié, et ce profil ne prétend pas connaître son lieu de naissance.",
+  ),
+  (
+    "Quel est le premier crédit vérifié de Corane Vincent ?",
+    "Le plus ancien daté de ce dossier est « KKM », de DJ Luchshiy avec Aknose, sorti le 24 avril 2023 chez LUCHSHIY AND BRO, à 160 BPM. La fiche Shazam du titre crédite deux auteurs : Corane Vincent et Gael Rampath. Ce profil dit « le plus ancien du dossier », et non le premier de sa carrière, qu’aucune source ne permet de dater.",
+  ),
+  (
+    "Sur quels titres de DJ Luchshiy Corane Vincent est-il crédité ?",
+    "Trois titres ouverts pour ce profil : « KKM » en avril 2023, co-écrit avec Gael Rampath ; « XMAS FREESTYLE » et « CHABIN », sortis le 22 décembre 2023 dans l’ensemble de Noël avec Lestef et Edday, où il est le seul auteur crédité et où Luchshiy And Bro produit. « XMAS FREESTYLE » affichait 33 611 identifications sur sa fiche, le compteur le plus élevé du dossier.",
+  ),
+  (
+    "Qui a écrit « CHABIN » de DJ Luchshiy ?",
+    "Corane Vincent, seul nom crédité dans la rubrique composition et paroles de la fiche Shazam. « CHABIN », de DJ Luchshiy avec Lestef et Edday, est sorti le 22 décembre 2023 chez LUCHSHIY AND BRO, à 160 BPM, avec 8 771 identifications affichées à l’ouverture. Il partage sa date, son enseigne et son featuring avec « XMAS FREESTYLE », écrit lui aussi par Corane Vincent seul.",
+  ),
+  (
+    "Quel est le rôle de Corane Vincent sur « Make it pop » de Pinpin OSP ?",
+    "Auteur, un rôle partagé. Le titre, sorti le 2 novembre 2023 chez VGM PRODUCT, en français, crédite Edday, Brian Lomba et Corane Vincent comme auteurs, et Luchshiy comme compositeur. C’est le seul crédit du dossier où Corane Vincent écrit aux côtés de Brian Lomba, l’autre auteur récurrent du même cercle.",
+  ),
+  (
+    "Qu’est-ce que « Mi Boss LA » ajoute au dossier ?",
+    "Un crédit d’écriture hors de l’enseigne LUCHSHIY AND BRO. Le titre de Riddla, avec DJ Luchshiy en featuring et Grand-mère Baptiste Prod à la production, figure sur la compilation Summer Of Carnivals, Vol. 1 de 2024, où la fiche Qobuz crédite Wesley Boulogne et Corane Vincent comme auteurs. Aucune fiche de single d’origine n’a été ouverte pendant cette recherche, et ce profil n’affirme ni sa date de première sortie ni son enseigne d’origine.",
+  ),
+  (
+    "Quel est le rôle de Corane Vincent sur « 6 Dwèt » ?",
+    "Programmation et composition, deux rôles nouveaux dans le dossier. « 6 Dwèt », de Lestef KJF et Totally Spice’s avec DJ Luchshiy, est sorti le 15 février 2025 chez Dreamtracks, à 160 BPM. La fiche crédite Corane Vincent en programmation, puis compositeur aux côtés de Stephane Cornano, tandis que Yoan Courcet arrange, produit et enregistre, et que les paroles reviennent à Naima Dimina et Carcheline Cereme.",
+  ),
+  (
+    "Qu’est-ce que la compilation « Summer Of Carnivals, Vol. 1 » ?",
+    "C’est une compilation présentée par Int’l Stephen, publiée en 2024 chez DSM Music et Monk Music, qui réunit 53 titres soca et carnaval, dont Problem Child, Shelly et Signal Band, TK International et Lil Rick. Deux crédits de Corane Vincent y figurent : « Xmas Freestyle » de DJ Luchshiy en piste 28, et « Mi Boss LA » de Riddla en piste 31, preuve de la seconde vie des titres bouyon en compilation.",
+  ),
+  (
+    "Avec qui Corane Vincent écrit-il ?",
+    "Avec des partenaires qui changent d’un titre à l’autre : Gael Rampath sur « KKM », Edday et <a href=\"/brian-lomba.html\">Brian Lomba</a> sur « Make it pop », Wesley Boulogne sur « Mi Boss LA », Stephane Cornano à la composition de « 6 Dwèt ». Sur « XMAS FREESTYLE » et « CHABIN », le nom écrit seul. Les fiches montrent donc un auteur de cercle, appelé titre par titre, plutôt qu’une équipe fixe.",
+  ),
+  (
+    "Sur quels labels sortent les titres écrits par Corane Vincent ?",
+    "Sur quatre structures au moins. LUCHSHIY AND BRO, l’enseigne de DJ Luchshiy, publie « KKM », « XMAS FREESTYLE » et « CHABIN » ; VGM PRODUCT publie « Make it pop » de Pinpin OSP ; DSM Music et Monk Music portent la compilation où figure « Mi Boss LA » ; et Dreamtracks publie « 6 Dwèt » en 2025. Le nom circule entre ces enseignes, toujours depuis la même position, celle des crédits.",
+  ),
+  (
+    "Quel est le tempo des titres de Corane Vincent ?",
+    "160 BPM pour quatre des cinq fiches Shazam ouvertes : « KKM », « CHABIN », « Make it pop » et « 6 Dwèt ». La cinquième, « XMAS FREESTYLE », laisse le champ vide. C’est le tempo de croisière du single bouyon actuel, des pages dominicaines aux titres du cercle Luchshiy, et les crédits de Corane Vincent s’y placent sans exception documentée. Notre page <a href=\"/bpm-du-bouyon.html\">BPM du bouyon</a> explique ce standard.",
+  ),
+  (
+    "Pourquoi sait-on si peu de choses sur Corane Vincent ?",
+    "Parce que le nom n’existe publiquement que dans les crédits. Aucune page d’artiste, aucune interview, aucun compte officiel vérifié par ouverture directe n’ont été trouvés pendant cette recherche, et la liste sameAs de cette page est donc vide. Son rôle, lui, a changé dans les fiches : auteur en 2023, puis compositeur et programmation sur « 6 Dwèt » en 2025. Ce profil publie ces faits de crédits, signale la limite en toutes lettres, et sera complété si une source officielle paraît.",
+  ),
+  (
+    "Où écouter les titres de Corane Vincent ?",
+    "Commencez par « XMAS FREESTYLE » et « CHABIN », les deux titres de Noël 2023 qu’il signe seul, puis « KKM » et « Make it pop », enfin « Mi Boss LA » de Riddla et « 6 Dwèt » de Lestef KJF et Totally Spice’s. Pour entendre la scène bouyon actuelle, notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, le Bouyon Road Mix de Bouyon Shattaz, rassemble les nouveautés de la Dominique, de la Guadeloupe et de la Martinique.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/corane-vincent.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/corane-vincent.html#artist", "name": "Corane Vincent", "description": "Nom d’auteur bouyon du cercle de DJ Luchshiy en Guadeloupe, connu uniquement par ses crédits. Auteur de KKM, XMAS FREESTYLE et CHABIN pour DJ Luchshiy en 2023, co-auteur de Make it pop pour Pinpin OSP et de Mi Boss LA pour Riddla, compositeur et programmation de 6 Dwèt en 2025. Aucune biographie ni identité civile dans les sources publiques consultées.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'KKM'}, {"@type": "MusicRecording", "name": 'XMAS FREESTYLE'}, {"@type": "MusicRecording", "name": 'CHABIN'}, {"@type": "MusicRecording", "name": 'Make it pop'}, {"@type": "MusicRecording", "name": 'Mi Boss LA'}, {"@type": "MusicRecording", "name": '6 Dwèt'}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -143,13 +193,63 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Corane Vincent?", "A writing and composing name in the bouyon gwada circle of DJ Luchshiy, documented only through its credits: songwriter of “KKM”, “XMAS FREESTYLE” and “CHABIN” in 2023, co-writer of “Make it pop” and “Mi Boss LA”, then composer and programming on “6 Dwèt” in 2025. No source consulted gives a civil identity, an origin or a biography, and this profile therefore publishes only the credits, opened page by page."),
-  ("What is the earliest verified Corane Vincent credit?", "The oldest dated in this file is “KKM”, by DJ Luchshiy featuring Aknose, released on April 24, 2023 on LUCHSHIY AND BRO, at 160 BPM. The Shazam page of the record credits two writers: Corane Vincent and Gael Rampath. This profile says “the oldest in the file”, not the first of a career, which no source allows to date."),
-  ("On which DJ Luchshiy records is Corane Vincent credited?", "Three records opened for this profile: “KKM” in April 2023, co-written with Gael Rampath; “XMAS FREESTYLE” and “CHABIN”, released on December 22, 2023 in the Christmas set with Lestef and Edday, where the name is the sole credited writer and Luchshiy And Bro produces. “XMAS FREESTYLE” showed 33,611 identifications on its page, the highest counter in the file."),
-  ("What is the role on Pinpin OSP “Make it pop”?", "Songwriter, a shared role. The record, released on 2 November 2023 on VGM PRODUCT, in French, credits Edday, Brian Lomba and Corane Vincent as songwriters, and Luchshiy as composer. It is the only credit in the file where Corane Vincent writes alongside Brian Lomba, the other recurring writer of the same circle."),
-  ("What does “Mi Boss LA” add to the file?", "A writing credit outside the LUCHSHIY AND BRO banner. The Riddla record, featuring DJ Luchshiy and produced by Grand-mère Baptiste Prod, stands on the 2024 compilation Summer Of Carnivals, Vol. 1, where the Qobuz page credits Wesley Boulogne and Corane Vincent as writers. No original single page was opened during this research, and this profile claims neither its first release date nor its original label."),
-  ("Why is so little known about Corane Vincent?", "Because the name exists publicly only in the credits. No artist page, no interview, and no official account verified by direct opening were found during this research, and the sameAs list of this page is therefore empty. Its role, though, changed across the pages: writer in 2023, then composer and programming on “6 Dwèt” in 2025. This profile publishes those credit facts, states the limit in full, and will be completed if an official source appears.")
- ],
+  (
+    "Who is Corane Vincent?",
+    "A writing and composing name in the bouyon gwada circle of DJ Luchshiy, documented only through its credits: songwriter of “KKM”, “XMAS FREESTYLE” and “CHABIN” in 2023, co-writer of “Make it pop” and “Mi Boss LA”, then composer and programming on “6 Dwèt” in 2025. No source consulted gives a civil identity, an origin or a biography, and this profile therefore publishes only the credits, opened page by page.",
+  ),
+  (
+    "Is Corane Vincent from Guadeloupe?",
+    "No source consulted gives a personal origin. This site places the file in Guadeloupe on the basis of the scene, not of the person: the records are those of the bouyon gwada documented around DJ Luchshiy, from LUCHSHIY AND BRO to Lestef KJF, Edday and Pinpin OSP. The name has no artist page and no verified official account, and this profile does not pretend to know a birthplace.",
+  ),
+  (
+    "What is the earliest verified Corane Vincent credit?",
+    "The oldest dated in this file is “KKM”, by DJ Luchshiy featuring Aknose, released on April 24, 2023 on LUCHSHIY AND BRO, at 160 BPM. The Shazam page of the record credits two writers: Corane Vincent and Gael Rampath. This profile says “the oldest in the file”, not the first of a career, which no source allows to date.",
+  ),
+  (
+    "On which DJ Luchshiy records is Corane Vincent credited?",
+    "Three records opened for this profile: “KKM” in April 2023, co-written with Gael Rampath; “XMAS FREESTYLE” and “CHABIN”, released on December 22, 2023 in the Christmas set with Lestef and Edday, where the name is the sole credited writer and Luchshiy And Bro produces. “XMAS FREESTYLE” showed 33,611 identifications on its page, the highest counter in the file.",
+  ),
+  (
+    "Who wrote “CHABIN” by DJ Luchshiy?",
+    "Corane Vincent, the sole name in the composition and lyrics section of the Shazam page. “CHABIN”, by DJ Luchshiy featuring Lestef and Edday, was released on December 22, 2023 on LUCHSHIY AND BRO, at 160 BPM, with 8,771 identifications shown when opened. It shares its date, banner and feature with “XMAS FREESTYLE”, also written by Corane Vincent alone.",
+  ),
+  (
+    "What is Corane Vincent’s role on Pinpin OSP’s “Make it pop”?",
+    "Songwriter, a shared role. The record, released on 2 November 2023 on VGM PRODUCT, in French, credits Edday, Brian Lomba and Corane Vincent as songwriters, and Luchshiy as composer. It is the only credit in the file where Corane Vincent writes alongside Brian Lomba, the other recurring writer of the same circle.",
+  ),
+  (
+    "What does “Mi Boss LA” add to the file?",
+    "A writing credit outside the LUCHSHIY AND BRO banner. The Riddla record, featuring DJ Luchshiy and produced by Grand-mère Baptiste Prod, stands on the 2024 compilation Summer Of Carnivals, Vol. 1, where the Qobuz page credits Wesley Boulogne and Corane Vincent as writers. No original single page was opened during this research, and this profile claims neither its first release date nor its original label.",
+  ),
+  (
+    "What is Corane Vincent’s role on “6 Dwèt”?",
+    "Programming and composition, two roles new to the file. “6 Dwèt”, by Lestef KJF and Totally Spice’s featuring DJ Luchshiy, was released on February 15, 2025 on Dreamtracks, at 160 BPM. The page credits Corane Vincent on programming, then as composer alongside Stephane Cornano, while Yoan Courcet arranges, produces and engineers, and the lyrics belong to Naima Dimina and Carcheline Cereme.",
+  ),
+  (
+    "What is the “Summer Of Carnivals, Vol. 1” compilation?",
+    "It is a compilation presented by Int’l Stephen, released in 2024 on DSM Music and Monk Music, gathering 53 soca and carnival tracks, including Problem Child, Shelly and Signal Band, TK International and Lil Rick. Two Corane Vincent credits stand on it: “Xmas Freestyle” by DJ Luchshiy as track 28, and “Mi Boss LA” by Riddla as track 31, proof of the second life of bouyon records in compilations.",
+  ),
+  (
+    "Who does Corane Vincent write with?",
+    "With partners who change from record to record: Gael Rampath on “KKM”, Edday and <a href=\"/en/brian-lomba.html\">Brian Lomba</a> on “Make it pop”, Wesley Boulogne on “Mi Boss LA”, Stephane Cornano on the composition of “6 Dwèt”. On “XMAS FREESTYLE” and “CHABIN”, the name writes alone. The pages therefore show a circle writer, called record by record, rather than a fixed team.",
+  ),
+  (
+    "Which labels released the songs Corane Vincent wrote?",
+    "At least four structures. LUCHSHIY AND BRO, the banner of DJ Luchshiy, released “KKM”, “XMAS FREESTYLE” and “CHABIN”; VGM PRODUCT released “Make it pop” by Pinpin OSP; DSM Music and Monk Music carry the compilation holding “Mi Boss LA”; and Dreamtracks released “6 Dwèt” in 2025. The name circulates between those banners, always from the same position, the credit line.",
+  ),
+  (
+    "What tempo are Corane Vincent’s songs?",
+    "160 BPM for four of the five Shazam pages opened: “KKM”, “CHABIN”, “Make it pop” and “6 Dwèt”. The fifth, “XMAS FREESTYLE”, leaves the field empty. That is the cruising tempo of the current bouyon single, from Dominican pages to the records of the Luchshiy circle, and the Corane Vincent credits sit inside it with no documented exception. Our <a href=\"/en/bouyon-bpm.html\">bouyon BPM</a> page explains that standard.",
+  ),
+  (
+    "Why is so little known about Corane Vincent?",
+    "Because the name exists publicly only in the credits. No artist page, no interview, and no official account verified by direct opening were found during this research, and the sameAs list of this page is therefore empty. Its role, though, changed across the pages: writer in 2023, then composer and programming on “6 Dwèt” in 2025. This profile publishes those credit facts, states the limit in full, and will be completed if an official source appears.",
+  ),
+  (
+    "Where can I hear Corane Vincent’s songs?",
+    "Start with “XMAS FREESTYLE” and “CHABIN”, the two 2023 Christmas records the name writes alone, then “KKM” and “Make it pop”, and finally “Mi Boss LA” by Riddla and “6 Dwèt” by Lestef KJF and Totally Spice’s. To hear today’s bouyon scene, our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, the Bouyon Road Mix by Bouyon Shattaz, gathers new releases from Dominica, Guadeloupe and Martinique.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/corane-vincent.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/corane-vincent.html#artist", "name": "Corane Vincent", "description": "Bouyon writing name from the DJ Luchshiy circle in Guadeloupe, known only through its credits. Songwriter of KKM, XMAS FREESTYLE and CHABIN for DJ Luchshiy in 2023, co-writer of Make it pop for Pinpin OSP and of Mi Boss LA for Riddla, composer and programming on 6 Dwet in 2025. No biography or civil identity in the public sources consulted.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'KKM'}, {"@type": "MusicRecording", "name": 'XMAS FREESTYLE'}, {"@type": "MusicRecording", "name": 'CHABIN'}, {"@type": "MusicRecording", "name": 'Make it pop'}, {"@type": "MusicRecording", "name": 'Mi Boss LA'}, {"@type": "MusicRecording", "name": '6 Dwèt'}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

@@ -41,13 +41,51 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Bilix ?", "Bilix est un artiste bouyon présenté comme né en Guadeloupe par la page d’analyse Viberate, seule source biographique ouverte pendant cette recherche. Son dossier vérifiable est un catalogue de titres entre 2016 et 2021, dont Sa Ka Débodé avec Mr Boka, Miel Pop avec Triple Kay International et La fille de la personne avec Blicassty et Natoxie."),
-  ("Quel est le titre le plus important de Bilix ?", "Sur le plan documentaire, Miel Pop, publié le 25 juillet 2019 par Turnt Up Tv et crédité Bilix et Triple Kay International. Collaborer avec l’un des groupes majeurs du bouyon de la Dominique relie son catalogue à l’île source du genre. Sur le plan de l’écoute mesurée par Viberate, Sa Ka Débodé (2016) reste parmi ses titres les plus écoutés."),
-  ("Franck Offranc est-il le vrai nom de Bilix ?", "Personne ne peut l’affirmer à partir des sources ouvertes. Le nom Franck Offranc revient comme auteur dans les crédits Shazam de plusieurs titres de Bilix : Sa Ka Débodé, Bay Li, La fille de la personne et Dynamite. Aucune source ouverte ne déclare qu’il s’agit du nom civil de l’artiste, donc ce profil signale le crédit récurrent sans le transformer en identité."),
-  ("Bilix a-t-il vraiment joué à l’Olympia et au Zénith ?", "Ce n’est pas vérifié. La page Viberate de l’artiste affirme des concerts à l’Olympia de Paris, au Zénith de Toulouse et au Palais des Sports de Marseille, ainsi que des festivals africains. Aucune autre source ouverte pendant cette recherche ne corrobore ces affirmations, et ce profil ne les présente donc pas comme des faits. La réponse honnête est : dossier insuffisant."),
-  ("Quels titres de Bilix peut-on vérifier sur les plateformes ?", "Sept titres disposent de fiches Shazam détaillées : Sa Ka Débodé (feat. Mr Boka, 2016), Sang (Remix) avec Daly et neuf autres voix (2018), Miel Pop avec Triple Kay International (2019), Bay Li avec YMW, La fille de la personne avec Blicassty et Natoxie (2021), Dynamite avec Sissy, et Vendetta de Warped en featuring. Viberate en liste d’autres, dont Ti KoKa et Canicule, sans fiches détaillées ouvertes."),
-  ("Où écouter Bilix ?", "Ses titres sont sur Shazam et les plateformes de streaming : commencez par Sa Ka Débodé et Miel Pop, puis poursuivez avec notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> et notre page <a href=\"/bouyon-gwada.html\">bouyon gwada</a>.")
- ],
+  (
+    "Qui est Bilix ?",
+    "Bilix est un artiste bouyon présenté comme né en Guadeloupe par la page d’analyse Viberate, seule source biographique ouverte pendant cette recherche. Son dossier vérifiable est un catalogue de titres entre 2016 et 2021, dont Sa Ka Débodé avec Mr Boka, Miel Pop avec Triple Kay International et La fille de la personne avec Blicassty et Natoxie.",
+  ),
+  (
+    "Quel est le titre le plus important de Bilix ?",
+    "Sur le plan documentaire, Miel Pop, publié le 25 juillet 2019 par Turnt Up Tv et crédité Bilix et Triple Kay International. Collaborer avec l’un des groupes majeurs du bouyon de la Dominique relie son catalogue à l’île source du genre. Sur le plan de l’écoute mesurée par Viberate, Sa Ka Débodé (2016) reste parmi ses titres les plus écoutés.",
+  ),
+  (
+    "Franck Offranc est-il le vrai nom de Bilix ?",
+    "Personne ne peut l’affirmer à partir des sources ouvertes. Le nom Franck Offranc revient comme auteur dans les crédits Shazam de plusieurs titres de Bilix : Sa Ka Débodé, Bay Li, La fille de la personne et Dynamite. Aucune source ouverte ne déclare qu’il s’agit du nom civil de l’artiste, donc ce profil signale le crédit récurrent sans le transformer en identité.",
+  ),
+  (
+    "Bilix a-t-il vraiment joué à l’Olympia et au Zénith ?",
+    "Ce n’est pas vérifié. La page Viberate de l’artiste affirme des concerts à l’Olympia de Paris, au Zénith de Toulouse et au Palais des Sports de Marseille, ainsi que des festivals africains. Aucune autre source ouverte pendant cette recherche ne corrobore ces affirmations, et ce profil ne les présente donc pas comme des faits. La réponse honnête est : dossier insuffisant.",
+  ),
+  (
+    "Quels titres de Bilix peut-on vérifier sur les plateformes ?",
+    "Sept titres disposent de fiches Shazam détaillées : Sa Ka Débodé (feat. Mr Boka, 2016), Sang (Remix) avec Daly et neuf autres voix (2018), Miel Pop avec Triple Kay International (2019), Bay Li avec YMW, La fille de la personne avec Blicassty et Natoxie (2021), Dynamite avec Sissy, et Vendetta de Warped en featuring. Viberate en liste d’autres, dont Ti KoKa et Canicule, sans fiches détaillées ouvertes.",
+  ),
+  (
+    "Où écouter Bilix ?",
+    "Ses titres sont sur Shazam et les plateformes de streaming : commencez par Sa Ka Débodé et Miel Pop, puis écoutez la scène qui les entoure dans notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, la Road Mix de Bouyon Shattaz, que l’on reçoit en DM en commentant ROAD MIX sous une publication Instagram de @bouyonshattaz.",
+  ),
+  (
+    "Qui a composé Sa Ka Débodé de Bilix ?",
+    "Selon Shazam, Sa Ka Débodé, en featuring avec <a href=\"/mr-boka.html\">Mr Boka</a>, est composé par Dj Weez et Lsbeatz litleboy et écrit par Franck Offranc. Le titre est sorti le 12 janvier 2016 sur le label Ôréveil, à 160 BPM, le tempo du bouyon rapide. C’est le plus ancien titre documenté de Bilix, et Viberate le classe encore parmi ses titres les plus écoutés.",
+  ),
+  (
+    "Bilix est-il guadeloupéen ou dominicain ?",
+    "La page Viberate le présente comme né en Guadeloupe, et ce site reprend cette origine avec cette attribution, faute de biographie publiée. Ses crédits le montrent en revanche entre les deux îles : des titres en créole et en français ancrés dans le bouyon gwada, et Miel Pop, en 2019, avec <a href=\"/tk-international.html\">Triple Kay International</a>, un des groupes majeurs du bouyon de la Dominique.",
+  ),
+  (
+    "Qu’est-ce que La fille de la personne de Bilix ?",
+    "La fille de la personne est un titre de Blicassty et Bilix avec Natoxie en featuring, publié le 25 janvier 2021 par Cpascho Production, selon Shazam. L’écriture est créditée à Offranc Franck et Lucas Duranty. Viberate le classe parmi les titres les plus écoutés de Bilix, avec Ti KoKa, Sang (Remix), Sa Ka Débodé et Canicule, ce qui en fait un repère de son catalogue récent.",
+  ),
+  (
+    "Qu’est-ce que Sang (Remix) avec Bilix ?",
+    "Sang (Remix) est un titre collectif de Daly, publié le 23 novembre 2018 par Hitmaker army sur l’album One Man Gang. Bilix y pose sa voix aux côtés de Keros-n, Warped, Lighta, LilLow, Arsonist, Pon2mik, Drexi, Kriler et Marik. Ce format de posse cut, où une dizaine de voix partagent un même riddim, place Bilix dans le circuit collectif de sa génération aux Antilles françaises.",
+  ),
+  (
+    "Qui a produit Bay Li de Bilix ?",
+    "Selon Shazam, Bay Li, crédité à YMW et Bilix, est produit par DWAYNE SKERRIT et Anne Arrindell, et écrit par YMW et Franck Offranc, le nom d’auteur qui revient sur plusieurs titres de Bilix. Aucune date de sortie n’est reprise ici. Le titre fait partie des sept titres de Bilix disposant d’une fiche Shazam détaillée, avec Sa Ka Débodé, Miel Pop et La fille de la personne.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/bilix.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/bilix.html#artist", "name": "Bilix", "description": "Artiste bouyon associé à la Guadeloupe, présenté comme né en Guadeloupe par Viberate. Catalogue vérifié sur Shazam de 2016 à 2021, dont Sa Ka Débodé et Miel Pop avec Triple Kay International de la Dominique.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Sa Ka Débodé"}, {"@type": "MusicRecording", "name": "Sang - Remix"}, {"@type": "MusicRecording", "name": "Miel Pop"}, {"@type": "MusicRecording", "name": "Bay Li"}, {"@type": "MusicRecording", "name": "La fille de la personne"}, {"@type": "MusicRecording", "name": "Dynamite"}, {"@type": "MusicRecording", "name": "Vendetta"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -89,13 +127,51 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Bilix?", "Bilix is a bouyon artist presented as born in Guadeloupe by the Viberate analytics page, the only biographical source opened during this research. His verifiable file is a catalogue of records between 2016 and 2021, including Sa Ka Débodé with Mr Boka, Miel Pop with Triple Kay International and La fille de la personne with Blicassty and Natoxie."),
-  ("What is Bilix most important record?", "On the documentary level, Miel Pop, released on 25 July 2019 by Turnt Up Tv and credited to Bilix and Triple Kay International. Working with one of the major bands of Dominican bouyon connects his catalogue to the source island of the genre. On the listening level measured by Viberate, Sa Ka Débodé (2016) remains among his most streamed records."),
-  ("Is Franck Offranc Bilix real name?", "Nobody can state that from the opened sources. The name Franck Offranc returns as a writer in the Shazam credits of several Bilix records: Sa Ka Débodé, Bay Li, La fille de la personne and Dynamite. No opened source states that it is the artist civil name, so this profile flags the recurring credit without turning it into an identity."),
-  ("Did Bilix really play the Olympia and the Zenith?", "That is not verified. The artist Viberate page claims concerts at the Olympia in Paris, the Zenith in Toulouse and the Palais des Sports in Marseille, plus African festivals. No other source opened during this research corroborates those claims, and this profile therefore does not present them as facts. The honest answer is: the file is insufficient."),
-  ("Which Bilix records can be checked on the platforms?", "Seven records have detailed Shazam pages: Sa Ka Débodé (feat. Mr Boka, 2016), Sang (Remix) with Daly and nine other voices (2018), Miel Pop with Triple Kay International (2019), Bay Li with YMW, La fille de la personne with Blicassty and Natoxie (2021), Dynamite with Sissy, and Vendetta by Warped featuring Bilix. Viberate lists others, including Ti KoKa and Canicule, without detailed pages opened."),
-  ("Where can I hear Bilix?", "His records are on Shazam and the streaming platforms: start with Sa Ka Débodé and Miel Pop, then continue with our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> and our <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a> page.")
- ],
+  (
+    "Who is Bilix?",
+    "Bilix is a bouyon artist presented as born in Guadeloupe by the Viberate analytics page, the only biographical source opened during this research. His verifiable file is a catalogue of records between 2016 and 2021, including Sa Ka Débodé with Mr Boka, Miel Pop with Triple Kay International and La fille de la personne with Blicassty and Natoxie.",
+  ),
+  (
+    "What is Bilix’s most important record?",
+    "On the documentary level, Miel Pop, released on 25 July 2019 by Turnt Up Tv and credited to Bilix and Triple Kay International. Working with one of the major bands of Dominican bouyon connects his catalogue to the source island of the genre. On the listening level measured by Viberate, Sa Ka Débodé (2016) remains among his most streamed records.",
+  ),
+  (
+    "Is Franck Offranc Bilix’s real name?",
+    "Nobody can state that from the opened sources. The name Franck Offranc returns as a writer in the Shazam credits of several Bilix records: Sa Ka Débodé, Bay Li, La fille de la personne and Dynamite. No opened source states that it is the artist civil name, so this profile flags the recurring credit without turning it into an identity.",
+  ),
+  (
+    "Did Bilix really play the Olympia and the Zenith?",
+    "That is not verified. The artist Viberate page claims concerts at the Olympia in Paris, the Zenith in Toulouse and the Palais des Sports in Marseille, plus African festivals. No other source opened during this research corroborates those claims, and this profile therefore does not present them as facts. The honest answer is: the file is insufficient.",
+  ),
+  (
+    "Which Bilix records can be checked on the platforms?",
+    "Seven records have detailed Shazam pages: Sa Ka Débodé (feat. Mr Boka, 2016), Sang (Remix) with Daly and nine other voices (2018), Miel Pop with Triple Kay International (2019), Bay Li with YMW, La fille de la personne with Blicassty and Natoxie (2021), Dynamite with Sissy, and Vendetta by Warped featuring Bilix. Viberate lists others, including Ti KoKa and Canicule, without detailed pages opened.",
+  ),
+  (
+    "Where can I hear Bilix?",
+    "His tracks are on Shazam and the streaming platforms: start with Sa Ka Débodé and Miel Pop, then hear the scene around them in our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, the Bouyon Shattaz Road Mix, which you receive by DM by commenting ROAD MIX under an Instagram post by @bouyonshattaz.",
+  ),
+  (
+    "Who composed Sa Ka Débodé by Bilix?",
+    "According to Shazam, Sa Ka Débodé, featuring <a href=\"/en/mr-boka.html\">Mr Boka</a>, was composed by Dj Weez and Lsbeatz litleboy and written by Franck Offranc. The track came out on 12 January 2016 on the Ôréveil label, at 160 BPM, the tempo of fast bouyon. It is Bilix’s oldest documented track, and Viberate still ranks it among his most streamed.",
+  ),
+  (
+    "Is Bilix from Guadeloupe or Dominica?",
+    "The Viberate page presents him as born in Guadeloupe, and this site reports that origin with that attribution, for lack of a published biography. His credits, however, show him between the two islands: tracks in Creole and French rooted in bouyon gwada, and Miel Pop, in 2019, with <a href=\"/en/tk-international.html\">Triple Kay International</a>, one of the major bands of Dominican bouyon.",
+  ),
+  (
+    "What is La fille de la personne by Bilix?",
+    "La fille de la personne is a track by Blicassty and Bilix featuring Natoxie, released on 25 January 2021 by Cpascho Production, according to Shazam. The writing is credited to Offranc Franck and Lucas Duranty. Viberate ranks it among Bilix’s most streamed tracks, with Ti KoKa, Sang (Remix), Sa Ka Débodé and Canicule, which makes it a landmark of his recent catalogue.",
+  ),
+  (
+    "What is Sang (Remix) with Bilix?",
+    "Sang (Remix) is a collective track by Daly, released on 23 November 2018 by Hitmaker army on the album One Man Gang. Bilix sings on it alongside Keros-n, Warped, Lighta, LilLow, Arsonist, Pon2mik, Drexi, Kriler and Marik. This posse cut format, where about ten voices share one riddim, places Bilix in the collective circuit of his generation in the French Antilles.",
+  ),
+  (
+    "Who produced Bay Li by Bilix?",
+    "According to Shazam, Bay Li, credited to YMW and Bilix, was produced by DWAYNE SKERRIT and Anne Arrindell, and written by YMW and Franck Offranc, the writer name that recurs on several Bilix tracks. No release date is given here. The track is one of the seven Bilix tracks with a detailed Shazam page, with Sa Ka Débodé, Miel Pop and La fille de la personne.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/bilix.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/bilix.html#artist", "name": "Bilix", "description": "Bouyon artist linked to Guadeloupe, presented as born in Guadeloupe by Viberate. Catalogue verified on Shazam from 2016 to 2021, including Sa Ka Débodé and Miel Pop with Triple Kay International from Dominica.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Sa Ka Débodé"}, {"@type": "MusicRecording", "name": "Sang - Remix"}, {"@type": "MusicRecording", "name": "Miel Pop"}, {"@type": "MusicRecording", "name": "Bay Li"}, {"@type": "MusicRecording", "name": "La fille de la personne"}, {"@type": "MusicRecording", "name": "Dynamite"}, {"@type": "MusicRecording", "name": "Vendetta"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

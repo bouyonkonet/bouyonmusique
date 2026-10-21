@@ -68,13 +68,55 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Judi Silva ?", "Une voix du bouyon des Antilles françaises, documentée par trois titres vérifiés : « EN LEY » avec DJ Leguste et Le Daah en 2023, « Monte Descend » en nom principal en 2024, et « Woody Wood » avec D.O.C FIX DEM et LGC en 2025. Aucune source consultée ne publie sa biographie ou son origine, et ce profil s’en tient à ces trois titres et à leurs crédits."),
-  ("Quels sont les titres vérifiés de Judi Silva ?", "Trois titres. « EN LEY », de DJ Leguste en featuring avec Judi Silva et Le Daah, sorti le 15 juillet 2023, en français, à 160 BPM. « Monte Descend », en nom principal, sorti le 4 février 2024 chez 5106881 Records DK, à 160 BPM. « Woody Wood », de D.O.C FIX DEM avec Judi Silva et LGC, sorti le 19 décembre 2025, à 160 BPM. Aucun album ni EP n’est documenté."),
-  ("Judi Silva écrit-elle ses titres ?", "Sur un titre, oui, selon les crédits publiés. La fiche de « Woody Wood » la crédite comme autrice, aux côtés de Gardiole Jean et de Landry Mette, et comme chanteuse. La fiche de « Monte Descend » ne nomme aucun auteur, et celle de « EN LEY » crédite judikael christine, Daryl Biabiany et Terry Baptiste, sans qu’aucune source ne relie le premier de ces noms à Judi Silva."),
-  ("Judi Silva et Judi Silvano, est-ce la même personne ?", "Aucune source ne le dit, et les dossiers sont séparés. Judi Silvano est une chanteuse de jazz américaine documentée depuis les années 1990, avec des albums chez Blue Note et une longue carrière internationale. Les trois titres bouyon de ce profil sont crédités à Judi Silva, dans les réseaux de DJ Leguste et de LGC, et ce profil ne fusionne pas les deux noms."),
-  ("Quel est le titre le plus identifié de Judi Silva ?", "« Monte Descend », son single en nom principal sorti le 4 février 2024, avec environ 1 786 identifications relevées sur sa fiche Shazam lors de cette recherche, contre environ 930 pour « EN LEY » et une seule pour « Woody Wood », titre très récent au moment du relevé. Ces compteurs datent du jour de la recherche et évoluent."),
-  ("Où écouter Judi Silva ?", "Par ses trois titres, « EN LEY », « Monte Descend » et « Woody Wood », à replacer dans les catalogues de <a href=\"/dj-leguste.html\">DJ Leguste</a> et de <a href=\"/lgc.html\">LGC</a> sur ce site, puis dans notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, qui suit la vague guadeloupéenne actuelle.")
- ],
+  (
+    "Qui est Judi Silva ?",
+    "Une voix du bouyon des Antilles françaises, documentée par trois titres vérifiés : « EN LEY » avec DJ Leguste et Le Daah en 2023, « Monte Descend » en nom principal en 2024, et « Woody Wood » avec D.O.C FIX DEM et LGC en 2025. Aucune source consultée ne publie sa biographie ou son origine, et ce profil s’en tient à ces trois titres et à leurs crédits.",
+  ),
+  (
+    "Quels sont les titres vérifiés de Judi Silva ?",
+    "Trois titres. « EN LEY », de DJ Leguste en featuring avec Judi Silva et Le Daah, sorti le 15 juillet 2023, en français, à 160 BPM. « Monte Descend », en nom principal, sorti le 4 février 2024 chez 5106881 Records DK, à 160 BPM. « Woody Wood », de D.O.C FIX DEM avec Judi Silva et LGC, sorti le 19 décembre 2025, à 160 BPM. Aucun album ni EP n’est documenté.",
+  ),
+  (
+    "Judi Silva écrit-elle ses titres ?",
+    "Sur un titre, oui, selon les crédits publiés. La fiche de « Woody Wood » la crédite comme autrice, aux côtés de Gardiole Jean et de Landry Mette, et comme chanteuse. La fiche de « Monte Descend » ne nomme aucun auteur, et celle de « EN LEY » crédite judikael christine, Daryl Biabiany et Terry Baptiste, sans qu’aucune source ne relie le premier de ces noms à Judi Silva.",
+  ),
+  (
+    "Judi Silva et Judi Silvano, est-ce la même personne ?",
+    "Aucune source ne le dit, et les dossiers sont séparés. Judi Silvano est une chanteuse de jazz américaine documentée depuis les années 1990, avec des albums chez Blue Note et une longue carrière internationale. Les trois titres bouyon de ce profil sont crédités à Judi Silva, dans les réseaux de DJ Leguste et de LGC, et ce profil ne fusionne pas les deux noms.",
+  ),
+  (
+    "Quel est le titre le plus identifié de Judi Silva ?",
+    "« Monte Descend », son single en nom principal sorti le 4 février 2024, avec environ 1 786 identifications relevées sur sa fiche Shazam lors de cette recherche, contre environ 930 pour « EN LEY » et une seule pour « Woody Wood », titre très récent au moment du relevé. Ces compteurs datent du jour de la recherche et évoluent.",
+  ),
+  (
+    "Où écouter Judi Silva ?",
+    "Par ses trois titres, « EN LEY », « Monte Descend » et « Woody Wood », à replacer dans le catalogue de <a href=\"/dj-leguste.html\">DJ Leguste</a>, où sa voix entre dans le genre, puis dans celui de LGC. Pour la scène guadeloupéenne actuelle autour d’elle, la playlist Bouyon Road Mix de Bouyon Shattaz prend le relais.",
+  ),
+  (
+    "Qui a produit « Woody Wood » de D.O.C FIX DEM, Judi Silva et LGC ?",
+    "Landry Mette, crédité à la production, avec Clarisse Daryl au mixage. La fiche du titre, sorti le 19 décembre 2025 sur le label D.O.C FIX DEM, crédite aussi l’écriture à Gardiole Jean, Landry Mette et Judi Silva. C’est le titre le plus riche en crédits de son dossier. Voir <a href=\"/doc-fix-dem.html\">D.O.C FIX DEM</a>.",
+  ),
+  (
+    "Qui a produit « EN LEY » avec Judi Silva ?",
+    "DJ Leguste, producteur du bouyon des Antilles françaises dont le nom civil documenté est Ryan Auguste, qui sort le titre sur son propre label le 15 juillet 2023. « EN LEY » est le deuxième single de sa première année documentée, juste après « LE GARS CHAUD », et figure parmi les titres mis en avant sur sa page d’artiste.",
+  ),
+  (
+    "Judi Silva et judikael christine, est-ce la même personne ?",
+    "Aucune source ne le dit. Sur la fiche de « EN LEY », Judi Silva est créditée comme voix invitée, et judikael christine comme auteur, avec Daryl Biabiany et Terry Baptiste. Les deux noms se ressemblent, mais aucun document ne les relie, et ce site ne fusionne jamais deux personnes sur une simple ressemblance : les deux lignes restent deux lignes.",
+  ),
+  (
+    "Que veut dire « Monte Descend » ?",
+    "Monte descend, c’est monter et descendre : une formule de danse, une consigne de mouvement comme le bouyon et les musiques de carnaval en produisent des centaines. Le titre annonce un morceau fait pour le corps avant le texte. Sa fiche, tournant à 160 BPM comme les deux autres titres du dossier, ne nomme ni auteur, ni producteur, ni invité.",
+  ),
+  (
+    "Sur quel label Judi Silva a-t-elle sorti « Monte Descend » ?",
+    "Sur 5106881 Records DK, un nom de distribution numérique numéroté, du type que génèrent les distributeurs automatiques pour les sorties indépendantes. Aucun label de scène, aucun producteur, aucune équipe n’est affiché : « Monte Descend » ressemble à une sortie autoportée, là où « EN LEY » et « Woody Wood » sont des sorties d’atelier.",
+  ),
+  (
+    "Avec quels artistes Judi Silva a-t-elle collaboré ?",
+    "Ses trois titres la relient à DJ Leguste et Le Daah en 2023, puis à D.O.C FIX DEM, LGC, Jean Gardiole (crédité Gardiole Jean) et Landry Mette en 2025. Elle fait ainsi le pont entre deux des ateliers les mieux documentés du bouyon gwada, celui de DJ Leguste et celui de LGC, réunis sur « Woody Wood ».",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/judi-silva.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/judi-silva.html#artist", "name": "Judi Silva", "description": "Voix du bouyon des Antilles françaises, documentée par trois titres vérifiés : EN LEY, featuring sur le single de DJ Leguste avec Le Daah, sorti en 2023 ; Monte Descend, single en nom principal sorti en 2024 chez 5106881 Records DK ; Woody Wood, avec D.O.C FIX DEM et LGC, sorti en 2025, où elle est créditée au chant et à l’écriture. Aucune biographie et aucune origine publiées dans les sources consultées. A ne pas confondre avec la chanteuse de jazz Judi Silvano.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'EN LEY'}, {"@type": "MusicRecording", "name": 'Monte Descend'}, {"@type": "MusicRecording", "name": 'Woody Wood'}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -140,13 +182,55 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Judi Silva?", "A voice of French Antillean bouyon, documented by three verified records: “EN LEY” with DJ Leguste and Le Daah in 2023, “Monte Descend” under her own lead name in 2024, and “Woody Wood” with D.O.C FIX DEM and LGC in 2025. No source consulted publishes her biography or her origin, and this profile holds to those three records and their credits."),
-  ("What are the verified records of Judi Silva?", "Three records. “EN LEY”, by DJ Leguste featuring Judi Silva and Le Daah, released on July 15, 2023, in French, at 160 BPM. “Monte Descend”, under her lead name, released on February 4, 2024 on 5106881 Records DK, at 160 BPM. “Woody Wood”, by D.O.C FIX DEM with Judi Silva and LGC, released on December 19, 2025, at 160 BPM. No album or EP is documented."),
-  ("Does Judi Silva write her records?", "On one record, yes, according to the published credits. The “Woody Wood” listing credits her as a songwriter, alongside Gardiole Jean and Landry Mette, and as a singer. The “Monte Descend” listing names no writer, and the “EN LEY” listing credits judikael christine, Daryl Biabiany and Terry Baptiste, with no source linking the first of those names to Judi Silva."),
-  ("Are Judi Silva and Judi Silvano the same person?", "No source says so, and the files are separate. Judi Silvano is an American jazz singer documented since the 1990s, with albums on Blue Note and a long international career. The three bouyon records of this profile are credited to Judi Silva, inside the networks of DJ Leguste and LGC, and this profile does not merge the two names."),
-  ("What is the most identified Judi Silva record?", "“Monte Descend”, her lead name single released on February 4, 2024, with about 1,786 identifications counted on its Shazam page during this research, against about 930 for “EN LEY” and a single one for “Woody Wood”, a very recent record at the time of counting. Those counters date from the day of research and keep moving."),
-  ("Where can I hear Judi Silva?", "Through her three records, “EN LEY”, “Monte Descend” and “Woody Wood”, placed back inside the catalogs of <a href=\"/en/dj-leguste.html\">DJ Leguste</a> and <a href=\"/en/lgc.html\">LGC</a> on this site, then in our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, which follows the current Guadeloupe wave.")
- ],
+  (
+    "Who is Judi Silva?",
+    "A voice of French Antillean bouyon, documented by three verified records: “EN LEY” with DJ Leguste and Le Daah in 2023, “Monte Descend” under her own lead name in 2024, and “Woody Wood” with D.O.C FIX DEM and LGC in 2025. No source consulted publishes her biography or her origin, and this profile holds to those three records and their credits.",
+  ),
+  (
+    "What are the verified records of Judi Silva?",
+    "Three records. “EN LEY”, by DJ Leguste featuring Judi Silva and Le Daah, released on July 15, 2023, in French, at 160 BPM. “Monte Descend”, under her lead name, released on February 4, 2024 on 5106881 Records DK, at 160 BPM. “Woody Wood”, by D.O.C FIX DEM with Judi Silva and LGC, released on December 19, 2025, at 160 BPM. No album or EP is documented.",
+  ),
+  (
+    "Does Judi Silva write her records?",
+    "On one record, yes, according to the published credits. The “Woody Wood” listing credits her as a songwriter, alongside Gardiole Jean and Landry Mette, and as a singer. The “Monte Descend” listing names no writer, and the “EN LEY” listing credits judikael christine, Daryl Biabiany and Terry Baptiste, with no source linking the first of those names to Judi Silva.",
+  ),
+  (
+    "Are Judi Silva and Judi Silvano the same person?",
+    "No source says so, and the files are separate. Judi Silvano is an American jazz singer documented since the 1990s, with albums on Blue Note and a long international career. The three bouyon records of this profile are credited to Judi Silva, inside the networks of DJ Leguste and LGC, and this profile does not merge the two names.",
+  ),
+  (
+    "What is the most identified Judi Silva record?",
+    "“Monte Descend”, her lead name single released on February 4, 2024, with about 1,786 identifications counted on its Shazam page during this research, against about 930 for “EN LEY” and a single one for “Woody Wood”, a very recent record at the time of counting. Those counters date from the day of research and keep moving.",
+  ),
+  (
+    "Where can I hear Judi Silva?",
+    "Through her three records, “EN LEY”, “Monte Descend” and “Woody Wood”, best heard inside the catalog of <a href=\"/en/dj-leguste.html\">DJ Leguste</a>, where her voice entered the genre, then that of LGC. For the current Guadeloupe scene around her, the Bouyon Shattaz Bouyon Road Mix playlist takes over.",
+  ),
+  (
+    "Who produced “Woody Wood” by D.O.C FIX DEM, Judi Silva and LGC?",
+    "Landry Mette, credited on production, with Clarisse Daryl on mixing. The listing of the record, released on December 19, 2025 on the D.O.C FIX DEM label, also credits the writing to Gardiole Jean, Landry Mette and Judi Silva. It is the richest record in credits of her file. See <a href=\"/en/doc-fix-dem.html\">D.O.C FIX DEM</a>.",
+  ),
+  (
+    "Who produced “EN LEY” with Judi Silva?",
+    "DJ Leguste, a French Antillean bouyon producer whose documented legal name is Ryan Auguste, who released the record on his own label on July 15, 2023. “EN LEY” is the second single of his first documented year, right after “LE GARS CHAUD”, and it is among the highlighted records on his artist page.",
+  ),
+  (
+    "Are Judi Silva and judikael christine the same person?",
+    "No source says so. On the “EN LEY” listing, Judi Silva is credited as a guest voice, and judikael christine as a writer, with Daryl Biabiany and Terry Baptiste. The two names look alike, but no document links them, and this site never merges two people on a mere resemblance: the two lines stay two lines.",
+  ),
+  (
+    "What does “Monte Descend” mean?",
+    "Monte descend means up and down, go up go down: a dance formula, a movement instruction of the kind bouyon and carnival musics produce by the hundred. The title announces a record made for the body before the text. Its listing, at 160 BPM like the two other records in the file, names no writer, no producer and no guest.",
+  ),
+  (
+    "On which label did Judi Silva release “Monte Descend”?",
+    "On 5106881 Records DK, a numbered digital distribution name, of the kind automatic distributors generate for independent releases. No scene label, no producer and no team are displayed: “Monte Descend” looks like a self carried release, where “EN LEY” and “Woody Wood” are workshop releases.",
+  ),
+  (
+    "Which artists has Judi Silva worked with?",
+    "Her three records connect her to DJ Leguste and Le Daah in 2023, then to D.O.C FIX DEM, LGC, Jean Gardiole (credited as Gardiole Jean) and Landry Mette in 2025. She thus bridges two of the best documented workshops of bouyon gwada, that of DJ Leguste and that of LGC, brought together on “Woody Wood”.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/judi-silva.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/judi-silva.html#artist", "name": "Judi Silva", "description": "Voice of French Antillean bouyon, documented by three verified records: EN LEY, a feature on the DJ Leguste single with Le Daah, released in 2023; Monte Descend, a lead name single released in 2024 on 5106881 Records DK; Woody Wood, with D.O.C FIX DEM and LGC, released in 2025, where she is credited on vocals and writing. No biography and no origin published in the sources consulted. Not to be confused with jazz singer Judi Silvano.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'EN LEY'}, {"@type": "MusicRecording", "name": 'Monte Descend'}, {"@type": "MusicRecording", "name": 'Woody Wood'}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

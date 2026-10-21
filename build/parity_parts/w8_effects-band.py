@@ -79,13 +79,51 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Effects Band ?", "Effects Band est un groupe cité par le guide de GuideDM sur les musiciens qui ont façonné le son de la Dominique. Dans son récit, après la création du bouyon par WCK, la Serenade Band, c’est à dire First Serenade, et Effects Band ont aidé à affiner et à réimaginer le son bouyon, avant le relais pris par Triple Kay International et Signal Band. Aucune biographie vérifiée du groupe n’a été retrouvée en octobre 2026."),
-  ("Quels sont les titres connus d Effects Band ?", "Aucun titre attribué à Effects Band par une source ouverte vérifiable n’a été retrouvé pendant la recherche de ce profil, et cette page le dit plutôt que d’inventer une discographie. La liste des enregistrements vérifiés de son schéma est donc volontairement vide."),
-  ("Effects Band a t’il créé le bouyon ?", "Non, selon les sources. Le bouyon a été créé en Dominique à la fin des années 1980 par WCK, qui a fusionné jing ping, cadence lypso et danses traditionnelles avec boîtes à rythmes, synthétiseurs et basse lourde. Le guide place Effects Band dans le temps suivant, celui de l’affinage et de la réinvention du son, aux côtés de First Serenade."),
-  ("Effects Band est il le Normil Effects Band ou the EFFECTS des plateformes ?", "Aucune source ne l’établit, et ce profil ne le prétend pas. Le Normil Effects Band est un acte de Papouasie Nouvelle Guinée présent sur YouTube, et les pages d’analytique au nom de the EFFECTS concernent un autre acte. Sans preuve qu’il s’agisse du même groupe que l Effects Band bouyon cité par GuideDM, leurs titres ne lui sont pas attribués ici."),
-  ("Pourquoi les listes de groupes bouyon ne nomment elles pas Effects Band ?", "C est un fait du dossier, que ce profil signale au lieu de le cacher. Les articles de référence sur le bouyon listent les groupes old school et new school, de WCK et First Serenade à Triple Kay et Signal Band, sans nommer Effects Band. Sa seule trace vérifiée reste la phrase du guide de GuideDM, qui le place pourtant dans la lignée des affineurs du son."),
-  ("Où écouter le bouyon de la lignée d Effects Band ?", "Lisez notre page d <a href=\"/histoire.html\">histoire du bouyon</a> pour la création du genre, notre page <a href=\"/bouyon-soca.html\">bouyon soca</a> pour la branche lancée en Dominique en 2003 par Dada selon le témoignage de Smokiller, et écoutez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, qui suit les groupes et les nouveautés de la Dominique.")
- ],
+  (
+    "Qui est Effects Band ?",
+    "Effects Band est un groupe cité par le guide de GuideDM sur les musiciens qui ont façonné le son de la Dominique. Dans son récit, après la création du bouyon par WCK, la Serenade Band, c’est à dire First Serenade, et Effects Band ont aidé à affiner et à réimaginer le son bouyon, avant le relais pris par Triple Kay International et Signal Band.",
+  ),
+  (
+    "Effects Band est-il un groupe dominicain ?",
+    "Oui, dans le seul récit qui le nomme : le guide de GuideDM, publié en octobre 2025, place Effects Band dans l’histoire de la musique de la Dominique, au moment du passage de la cadence au bouyon. Le groupe y appartient au cercle des groupes de scène de cette période de transition. Aucune commune d’origine ni aucun membre ne sont documentés au delà de cet ancrage dominicain.",
+  ),
+  (
+    "Effects Band a-t-il créé le bouyon ?",
+    "Non, selon les sources. Le bouyon a été créé en Dominique à la fin des années 1980 par WCK, qui a fusionné jing ping, cadence lypso et danses traditionnelles avec boîtes à rythmes, synthétiseurs et basse lourde. Le guide de GuideDM place Effects Band dans le temps suivant, celui de l’affinage et de la réinvention du son, aux côtés de First Serenade.",
+  ),
+  (
+    "Quel est le lien entre Effects Band et First Serenade ?",
+    "Le guide de GuideDM les cite ensemble, dans la même phrase, comme les groupes qui ont aidé à affiner et à réimaginer le son bouyon créé par WCK. First Serenade, que le guide appelle la Serenade Band, est un des groupes fondateurs reconnus par les références sur le bouyon. Être cité à ses côtés place Effects Band dans le cercle des groupes de scène de la transition.",
+  ),
+  (
+    "Que veut dire affiner le son bouyon, le rôle prêté à Effects Band ?",
+    "Inventer un son est un moment, le rendre jouable soir après soir devant les foules du carnaval et des fêtes de village en est un autre. Affiner, c’est resserrer arrangements, transitions et tempo, et réimaginer, essayer d’autres couleurs sans perdre la basse et l’appel à la foule du bouyon dominicain. Ce site ne prête au groupe aucune innovation précise, faute de source.",
+  ),
+  (
+    "Qui a pris le relais d’Effects Band dans l’histoire du bouyon ?",
+    "Selon le guide de GuideDM, le relais passe à Triple Kay International et à Signal Band, les groupes qui ont porté le bouyon dominicain vers ses formes de carnaval les plus connues, puis vers ses branches voyageuses. Effects Band appartient, dans ce récit, à la couche des groupes qui ont rendu le son transmissible entre les fondateurs et la génération du carnaval. Voir notre page <a href=\"/signal-band.html\">Signal Band</a>.",
+  ),
+  (
+    "Reketeng ou Wrecketeng : quelle orthographe retenir ?",
+    "Wrecketeng. Le guide qui cite Effects Band termine son panorama des branches du bouyon, bouyon soca, bouyon muffin, bouyon gwada, par une branche qu’il écrit reketeng. L’orthographe officielle est Wrecketeng, telle que l’a donnée DJ Cut, son pionnier fondateur, et reketeng n’est qu’une faute répandue sur internet. Notre page <a href=\"/wrecketeng.html\">Wrecketeng</a> raconte cette branche dominicaine.",
+  ),
+  (
+    "Quels sont les titres connus d’Effects Band ?",
+    "Aucun titre attribué à Effects Band par une source ouverte vérifiable n’a été retrouvé pendant la recherche de ce profil : ni fiche de morceau, ni tracklist de concert, ni crédit d’album. La phrase de GuideDM nomme le groupe et son rôle, pas ses morceaux. Cette page le dit plutôt que d’inventer une discographie, et la liste de son schéma reste vide.",
+  ),
+  (
+    "Effects Band est-il le Normil Effects Band ou the EFFECTS des plateformes ?",
+    "Aucune source ne l’établit, et ce profil ne le prétend pas. Le Normil Effects Band est un acte de Papouasie Nouvelle Guinée présent sur YouTube, et les pages d’analytique au nom de the EFFECTS concernent un autre acte. Sans preuve qu’il s’agisse du même groupe que l’Effects Band bouyon cité par GuideDM, leurs titres ne lui sont pas attribués ici.",
+  ),
+  (
+    "Pourquoi les listes de groupes bouyon ne nomment-elles pas Effects Band ?",
+    "C’est un fait du dossier, que ce profil signale au lieu de le cacher. Les articles de référence sur le bouyon listent les groupes old school et new school, de WCK et First Serenade à Triple Kay et Signal Band, sans nommer Effects Band. Sa seule trace vérifiée reste la phrase du guide de GuideDM, qui le place pourtant dans la lignée des affineurs du son.",
+  ),
+  (
+    "Où écouter le bouyon de la lignée d’Effects Band ?",
+    "Faute de titre signé, il faut écouter la lignée : notre page d’<a href=\"/histoire.html\">histoire du bouyon</a> retrace la création du genre par WCK et la suite des groupes jusqu’à Signal Band. Pour le bouyon dominicain d’aujourd’hui, suivez @bouyonshattaz sur Instagram et commentez ROAD MIX sous une publication : la Bouyon Road Mix vous est envoyée en DM.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/effects-band.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/effects-band.html#artist", "name": "Effects Band", "description": "Groupe cité par GuideDM, avec First Serenade, parmi ceux qui ont aidé à affiner et à réimaginer le son bouyon créé par WCK en Dominique. Aucun enregistrement individuel vérifié retrouvé en octobre 2026.", "genre": "Bouyon", "track": [], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -144,13 +182,51 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Effects Band?", "Effects Band is a band cited by the GuideDM guide to the musicians who shaped the sound of Dominica. In its account, after WCK created bouyon, the Serenade Band, that is First Serenade, and Effects Band helped refine and reimagine the bouyon sound, before Triple Kay International and Signal Band took the torch. No verified biography of the band was found in October 2026."),
-  ("What are the known songs of Effects Band?", "No title assigned to Effects Band by a verifiable open source was found during the research for this profile, and this page says so rather than inventing a discography. The verified recordings list in its schema is therefore deliberately empty."),
-  ("Did Effects Band create bouyon?", "No, according to the sources. Bouyon was created in Dominica in the late 1980s by WCK, which fused jing ping, cadence-lypso and traditional dances with drum machines, synthesizers and heavy bass. The guide places Effects Band in the following phase, that of refining and reimagining the sound, alongside First Serenade."),
-  ("Is Effects Band the Normil Effects Band or the platform act the EFFECTS?", "No source establishes that, and this profile does not claim it. Normil Effects Band is a Papua New Guinea act on YouTube, and analytics pages under the name the EFFECTS concern another act. Without proof that they are the same band as the bouyon Effects Band cited by GuideDM, their titles are not assigned to it here."),
-  ("Why do the bouyon band lists not name Effects Band?", "That is a fact of the record, which this profile points out instead of hiding. The reference articles on bouyon list the old school and new school bands, from WCK and First Serenade to Triple Kay and Signal Band, without naming Effects Band. Its only verified trace remains the sentence in the GuideDM guide, which nevertheless places it in the lineage of the refiners of the sound."),
-  ("Where can I hear the bouyon of the Effects Band lineage?", "Read our <a href=\"/en/history.html\">history of bouyon</a> page for the creation of the genre, our <a href=\"/en/bouyon-soca.html\">bouyon soca</a> page for the branch started in Dominica in 2003 by Dada according to Smokiller testimony, and hear our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, which follows the bands and the new releases of Dominica.")
- ],
+  (
+    "Who is Effects Band?",
+    "Effects Band is a group cited by GuideDM's guide to the musicians who shaped the sound of Dominica. In its account, after WCK created bouyon, the Serenade Band, that is First Serenade, and Effects Band helped refine and reimagine the bouyon sound, before the torch passed to Triple Kay International and Signal Band.",
+  ),
+  (
+    "Is Effects Band a Dominican band?",
+    "Yes, in the only account that names it: GuideDM's guide, published in October 2025, places Effects Band in the history of Dominica's music, at the moment of the shift from cadence to bouyon. The band belongs there to the circle of stage bands of that transition period. No home town and no member are documented beyond that Dominican anchoring.",
+  ),
+  (
+    "Did Effects Band create bouyon?",
+    "No, according to the sources. Bouyon was created in Dominica in the late 1980s by WCK, which fused jing ping, cadence lypso and traditional dances with drum machines, synthesizers and heavy bass. GuideDM's guide places Effects Band in the next phase, that of refining and reimagining the sound, alongside First Serenade.",
+  ),
+  (
+    "What is the link between Effects Band and First Serenade?",
+    "GuideDM's guide cites them together, in the same sentence, as the groups that helped refine and reimagine the bouyon sound created by WCK. First Serenade, which the guide calls the Serenade Band, is one of the founding groups recognised by the reference articles on bouyon. Being cited alongside it places Effects Band in the circle of stage bands of the transition.",
+  ),
+  (
+    "What does refining the bouyon sound, the role credited to Effects Band, mean?",
+    "Inventing a sound is one moment, making it playable night after night in front of carnival and village fete crowds is another. Refining means tightening arrangements, transitions and tempo, and reimagining means trying other colours without losing the bass and crowd calls of Dominican bouyon. This site credits the band with no specific innovation, for lack of a source.",
+  ),
+  (
+    "Who took over from Effects Band in the history of bouyon?",
+    "According to GuideDM's guide, the torch passed to Triple Kay International and Signal Band, the groups that carried Dominican bouyon to its best known carnival forms, then to its travelling branches. In that account, Effects Band belongs to the layer of bands that made the sound transmissible between the founders and the carnival generation. See our <a href=\"/en/signal-band.html\">Signal Band</a> page.",
+  ),
+  (
+    "Reketeng or Wrecketeng: which spelling is right?",
+    "Wrecketeng. The guide that cites Effects Band ends its survey of bouyon branches, bouyon soca, bouyon muffin, bouyon gwada, with a branch it writes as reketeng. The official spelling is Wrecketeng, as given by DJ Cut, its founding pioneer, and reketeng is only a widespread internet misspelling. Our <a href=\"/en/wrecketeng.html\">Wrecketeng</a> page tells the story of that Dominican branch.",
+  ),
+  (
+    "What are the known songs of Effects Band?",
+    "No song attributed to Effects Band by a verifiable open source was found during the research for this profile: no track listing, no concert setlist, no album credit. GuideDM's sentence names the band and its role, not its songs. This page says so rather than inventing a discography, and the list in its schema stays empty.",
+  ),
+  (
+    "Is Effects Band the Normil Effects Band or the platform act the EFFECTS?",
+    "No source establishes that, and this profile does not claim it. Normil Effects Band is an act from Papua New Guinea present on YouTube, and the analytics pages for the EFFECTS concern another act. Without proof that it is the same group as the bouyon Effects Band cited by GuideDM, their songs are not assigned to it here.",
+  ),
+  (
+    "Why do the bouyon band lists not name Effects Band?",
+    "It is a fact of the file, which this profile flags instead of hiding. The reference articles on bouyon list the old school and new school bands, from WCK and First Serenade to Triple Kay and Signal Band, without naming Effects Band. Its only verified trace remains GuideDM's sentence, which nevertheless places it in the lineage of the sound's refiners.",
+  ),
+  (
+    "Where can I hear the bouyon of the Effects Band lineage?",
+    "With no signed track, you have to hear the lineage: our <a href=\"/en/history.html\">history of bouyon</a> page traces the creation of the genre by WCK and the line of bands down to Signal Band. For today's Dominican bouyon, follow @bouyonshattaz on Instagram and comment ROAD MIX under a post: the Bouyon Road Mix is sent to you by DM.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/effects-band.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/effects-band.html#artist", "name": "Effects Band", "description": "Band cited by GuideDM, with First Serenade, among those who helped refine and reimagine the bouyon sound created by WCK in Dominica. No individual verified recording found in October 2026.", "genre": "Bouyon", "track": [], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

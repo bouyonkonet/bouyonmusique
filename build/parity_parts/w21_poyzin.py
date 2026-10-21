@@ -61,13 +61,59 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Poyzin ?", "Une chanteuse connue uniquement par deux crédits en featuring dans le bouyon dominicain. Elle chante et co écrit « Rum », de Trixzmigos avec Hussey, sorti le 7 février 2025 chez LTG RECORDS, et elle est l’invitée nommée de « Shift Her Panty », le titre de Ras B publié en vidéo sur YouTube. Aucune source consultée ne donne sa biographie, son lieu ou un titre solo."),
-  ("Sur quels titres Poyzin chante-t-elle ?", "Deux titres attestés. « Rum », de Trixzmigos, où la fiche Shazam la crédite aux voix avec le groupe et Hussey, et parmi les auteurs. Et « Shift Her Panty », de Ras B avec Poyzin en featuring, attesté par l’intitulé de sa vidéo YouTube, sans fiche streaming retrouvée pendant cette recherche."),
-  ("Poyzin a-t-elle écrit « Rum » ?", "La fiche du titre sur Shazam la crédite parmi les quatre auteurs, sous la forme exacte « Poyzin Nina corriette », aux côtés de Alexander Tafari Darroux, Kymone Hussey 6ix et Chrissie lewis Apple. La production du titre est signée Kwib La Beats. Aucune autre source ne confirme l’identité derrière ce crédit d’auteur, et ce profil le publie comme un crédit, pas comme un état civil."),
-  ("Poyzin et Sweet PoyZin, est-ce la même artiste ?", "Aucune source consultée ne le dit. Sweet PoyZin, orthographe différente, est l’artiste principale de « Without You (Women Response) », avec Shyanne, Carlyn XP, Ebony Empress et Starsha. Poyzin n’apparaît de son côté qu’en invitée, sur « Rum » et « Shift Her Panty ». Les deux noms ne sont crédités ensemble nulle part, et ce profil ne les fusionne pas."),
-  ("Poyzin a-t-elle sorti un titre solo ?", "Aucun titre en nom principal n’a été retrouvé pendant cette recherche, ni single, ni EP, ni page artiste sur les plateformes consultées. Son dossier public se limite aux deux featuring de 2025, chez Trixzmigos et chez Ras B. Si un titre solo paraît, ce profil sera complété et daté."),
-  ("Où écouter Poyzin ?", "Sur « Rum », de Trixzmigos avec Hussey, disponible sur les plateformes et suivi dans notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, et sur la vidéo « Shift Her Panty » de Ras B sur YouTube. Le contexte se lit sur nos pages <a href=\"/trixzmigos.html\">Trixzmigos</a>, <a href=\"/hussey.html\">Hussey</a> et <a href=\"/ras-b.html\">Ras B</a>.")
- ],
+  (
+    "Qui est Poyzin ?",
+    "Poyzin est une chanteuse connue uniquement par deux crédits en featuring dans le bouyon dominicain. Elle chante et co écrit « Rum », de Trixzmigos avec Hussey, sorti le 7 février 2025 chez LTG RECORDS, et elle est l’invitée nommée de « Shift Her Panty », le titre de Ras B publié en vidéo sur YouTube. Aucune source consultée ne donne sa biographie, son lieu ou un titre solo.",
+  ),
+  (
+    "Sur quels titres Poyzin chante-t-elle ?",
+    "Deux titres attestés. « Rum », de Trixzmigos, où la fiche Shazam la crédite aux voix avec le groupe et Hussey, et parmi les auteurs. Et « Shift Her Panty », de Ras B avec Poyzin en featuring, attesté par l’intitulé de sa vidéo YouTube, sans fiche streaming retrouvée pendant cette recherche.",
+  ),
+  (
+    "Quand « Rum » de Trixzmigos avec Hussey et Poyzin est-il sorti ?",
+    "« Rum » est sorti le 7 février 2025 chez LTG RECORDS, en anglais, à 160 BPM. Shazam le classe parmi les titres les plus écoutés de <a href=\"/trixzmigos.html\">Trixzmigos</a>, dans le sillage de « What She Like », le plus gros titre du groupe. La fiche affichait 120 identifications Shazam à son ouverture, un compteur qui mesure le titre du groupe et non la voix invitée.",
+  ),
+  (
+    "Qui a produit « Rum » de Trixzmigos ?",
+    "« Rum » est produit par Kwib La Beats, selon la fiche Shazam du titre. Kwib La Beats est le nom de travail de Shane Massicott selon la presse dominicaine, et c’est aussi le producteur du Up Next Cypher Vol. 1 de Trilla-G, le projet qui a présenté Ras B. Les deux titres connus de Poyzin se touchent donc par le même atelier de studio.",
+  ),
+  (
+    "Poyzin a-t-elle écrit « Rum » ?",
+    "Oui, la fiche du titre sur Shazam la crédite parmi les quatre auteurs, sous la forme exacte « Poyzin Nina corriette », aux côtés d’Alexander Tafari Darroux, Kymone Hussey 6ix et Chrissie lewis Apple. Aucune autre source ne confirme l’identité derrière ce crédit d’auteur, et ce profil le publie comme un crédit, pas comme un état civil.",
+  ),
+  (
+    "Qui est Ras B, le partenaire de Poyzin sur « Shift Her Panty » ?",
+    "Ras B, de son nom Bayna Bellot, est un artiste émergent du bouyon dominicain. Trilla-G l’a réuni dans son Up Next Cypher Vol. 1, publié par Still Trill Entertainment, aux côtés de G’z Up, Don Lash, Pa Pel, Avatar Omish et Pryhmex. Sur « Shift Her Panty », il tient le nom principal et Poyzin le featuring. Son profil est sur notre page <a href=\"/ras-b.html\">Ras B</a>.",
+  ),
+  (
+    "Où trouver « Shift Her Panty » de Ras B et Poyzin ?",
+    "Sur YouTube, sous l’intitulé « Ras B ft Poyzin - Shift Her Panty ( #bouyon ) ». C’est la seule trace publique retrouvée du titre : aucune fiche n’a été repérée sur les plateformes de streaming consultées, et la page vidéo n’a livré ni date, ni label, ni crédits. Ce profil le traite donc comme un titre attesté par son intitulé vidéo.",
+  ),
+  (
+    "Avec quels artistes Poyzin a-t-elle chanté ?",
+    "Poyzin a chanté avec le groupe Trixzmigos et avec Hussey, leur voix invitée récurrente, sur « Rum », puis avec Ras B sur « Shift Her Panty ». Sur « Rum », elle partage aussi l’écriture avec Alexander Tafari Darroux et Chrissie lewis Apple, sous la production de Kwib La Beats. Elle circule ainsi dans la relève dominicaine de 2025 et 2026, sans titre en nom principal.",
+  ),
+  (
+    "Poyzin et Sweet PoyZin, est-ce la même artiste ?",
+    "Aucune source consultée ne le dit. Sweet PoyZin, orthographe différente, est l’artiste principale de « Without You (Women Response) », avec Shyanne, Carlyn XP, Ebony Empress et Starsha. Poyzin n’apparaît de son côté qu’en invitée, sur « Rum » et « Shift Her Panty ». Les deux noms ne sont crédités ensemble nulle part, et ce profil ne les fusionne pas.",
+  ),
+  (
+    "Poyzin, Poyzyn ou Poizine : quelle est la bonne orthographe ?",
+    "La chanteuse de « Rum » s’écrit Poyzin, avec un i, comme sur la fiche Shazam du titre. Poyzyn, avec un y final, est une vidéo de hip hop underground d’ENOKH XMORTIZ chez Acid Kult Muzick, et Poizine est un titre de Mexem sorti en 1993 chez Mangrove Productions. Ces homonymes n’ont aucun lien documenté avec la chanteuse.",
+  ),
+  (
+    "À quelle scène appartient Poyzin ?",
+    "Poyzin appartient à la nouvelle vague du bouyon dominicain de 2025 et 2026. « Rum » fait partie du catalogue de Trixzmigos, groupe finaliste aux Dominica Music Awards 2025, chez LTG RECORDS, et Ras B est une voix de la relève de l’île. Le lieu donné dans le titre de la page est celui de ces titres : aucune source consultée ne dit d’où vient la chanteuse elle même.",
+  ),
+  (
+    "Poyzin a-t-elle sorti un titre solo ?",
+    "Non, aucun titre en nom principal n’a été retrouvé pendant cette recherche, ni single, ni EP, ni page artiste sur les plateformes consultées. Son dossier public se limite aux deux featuring de 2025, chez Trixzmigos et chez Ras B. Si un titre solo paraît, ce profil sera complété et daté.",
+  ),
+  (
+    "Où écouter Poyzin ?",
+    "Sur « Rum », de Trixzmigos avec Hussey, disponible sur les plateformes de streaming, et sur la vidéo « Shift Her Panty » de Ras B sur YouTube. Pour entendre la nouvelle vague bouyon dans son ensemble, la Road Mix de notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> est le point d’entrée du site.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/poyzin.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/poyzin.html#artist", "name": "Poyzin", "description": "Chanteuse créditée aux voix et à l’écriture de Rum, de Trixzmigos avec Hussey, sorti en 2025 chez LTG RECORDS, et invitée de Shift Her Panty, le titre de Ras B publié en vidéo. Aucune sortie solo, aucune page artiste et aucune biographie dans les sources publiques consultées. A ne pas confondre avec Sweet PoyZin, nom voisin sans lien documenté.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Rum"}, {"@type": "MusicRecording", "name": "Shift Her Panty"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -125,13 +171,59 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Poyzin?", "A singer known only through two feature credits in Dominican bouyon. She sings and co writes “Rum”, by Trixzmigos with Hussey, released on February 7, 2025 on LTG RECORDS, and she is the named guest of “Shift Her Panty”, the Ras B record published as a video on YouTube. No source consulted gives her biography, her place or a solo record."),
-  ("On which records does Poyzin sing?", "Two attested records. “Rum”, by Trixzmigos, where the Shazam page credits her on vocals with the group and Hussey, and among the writers. And “Shift Her Panty”, by Ras B featuring Poyzin, attested by the title of its YouTube video, with no streaming listing found during this research."),
-  ("Did Poyzin write “Rum”?", "The song page on Shazam credits her among the four writers, in the exact form “Poyzin Nina corriette”, alongside Alexander Tafari Darroux, Kymone Hussey 6ix and Chrissie lewis Apple. The production of the record is signed Kwib La Beats. No other source confirms the identity behind that writer credit, and this profile publishes it as a credit, not as a civil identity."),
-  ("Are Poyzin and Sweet PoyZin the same artist?", "No source consulted says so. Sweet PoyZin, a different spelling, is the lead artist of “Without You (Women Response)”, featuring Shyanne, Carlyn XP, Ebony Empress and Starsha. Poyzin, for her part, appears only as a guest, on “Rum” and “Shift Her Panty”. The two names are credited together nowhere, and this profile does not merge them."),
-  ("Has Poyzin released a solo record?", "No lead name record was found during this research, no single, no EP and no artist page on the platforms consulted. Her public file is limited to the two features of 2025, with Trixzmigos and with Ras B. If a solo record appears, this profile will be completed and dated."),
-  ("Where can I hear Poyzin?", "On “Rum”, by Trixzmigos with Hussey, available on the platforms and followed in our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, and on the Ras B “Shift Her Panty” video on YouTube. The context is read on our <a href=\"/en/trixzmigos.html\">Trixzmigos</a>, <a href=\"/en/hussey.html\">Hussey</a> and <a href=\"/en/ras-b.html\">Ras B</a> pages.")
- ],
+  (
+    "Who is Poyzin?",
+    "Poyzin is a singer known only through two feature credits in Dominican bouyon. She sings and co writes “Rum”, by Trixzmigos with Hussey, released on February 7, 2025 on LTG RECORDS, and she is the named guest of “Shift Her Panty”, the Ras B record published as a video on YouTube. No source consulted gives her biography, her place or a solo record.",
+  ),
+  (
+    "On which records does Poyzin sing?",
+    "Two attested records. “Rum”, by Trixzmigos, where the Shazam page credits her on vocals with the group and Hussey, and among the writers. And “Shift Her Panty”, by Ras B featuring Poyzin, attested by the title of its YouTube video, with no streaming listing found during this research.",
+  ),
+  (
+    "When was “Rum” by Trixzmigos with Hussey and Poyzin released?",
+    "“Rum” was released on February 7, 2025 on LTG RECORDS, in English, at 160 BPM. Shazam lists it among the most streamed songs of <a href=\"/en/trixzmigos.html\">Trixzmigos</a>, in the wake of “What She Like”, the biggest record of the group. The page showed 120 Shazam identifications when opened, a counter that measures the group record, not the guest voice.",
+  ),
+  (
+    "Who produced “Rum” by Trixzmigos?",
+    "“Rum” was produced by Kwib La Beats, according to the Shazam page of the record. Kwib La Beats is the working name of Shane Massicott according to the Dominican press, and also the producer of the Trilla-G Up Next Cypher Vol. 1, the project that presented Ras B. The two known Poyzin records therefore touch each other through the same studio workshop.",
+  ),
+  (
+    "Did Poyzin write “Rum”?",
+    "Yes, the song page on Shazam credits her among the four writers, in the exact form “Poyzin Nina corriette”, alongside Alexander Tafari Darroux, Kymone Hussey 6ix and Chrissie lewis Apple. No other source confirms the identity behind that writer credit, and this profile publishes it as a credit, not as a civil identity.",
+  ),
+  (
+    "Who is Ras B, the partner of Poyzin on “Shift Her Panty”?",
+    "Ras B, whose name is Bayna Bellot, is an emerging artist of Dominican bouyon. Trilla-G gathered him in his Up Next Cypher Vol. 1, released through Still Trill Entertainment, alongside G’z Up, Don Lash, Pa Pel, Avatar Omish and Pryhmex. On “Shift Her Panty”, he holds the lead name and Poyzin the feature. His profile is on our <a href=\"/en/ras-b.html\">Ras B</a> page.",
+  ),
+  (
+    "Where can I find “Shift Her Panty” by Ras B and Poyzin?",
+    "On YouTube, under the title “Ras B ft Poyzin - Shift Her Panty ( #bouyon )”. It is the only public trace found of the record: no listing was found on the streaming platforms consulted, and the video page returned no date, label or credits. This profile therefore treats it as a record attested by its video title.",
+  ),
+  (
+    "Which artists has Poyzin sung with?",
+    "Poyzin has sung with the group Trixzmigos and with Hussey, their recurring guest voice, on “Rum”, then with Ras B on “Shift Her Panty”. On “Rum”, she also shares the writing with Alexander Tafari Darroux and Chrissie lewis Apple, under the production of Kwib La Beats. She thus circulates in the Dominican new wave of 2025 and 2026, without a lead name record.",
+  ),
+  (
+    "Are Poyzin and Sweet PoyZin the same artist?",
+    "No source consulted says so. Sweet PoyZin, a different spelling, is the lead artist of “Without You (Women Response)”, featuring Shyanne, Carlyn XP, Ebony Empress and Starsha. Poyzin, for her part, appears only as a guest, on “Rum” and “Shift Her Panty”. The two names are credited together nowhere, and this profile does not merge them.",
+  ),
+  (
+    "Poyzin, Poyzyn or Poizine: which is the right spelling?",
+    "The singer of “Rum” is spelled Poyzin, with an i, as on the Shazam page of the record. Poyzyn, with a final y, is an underground hip hop video by ENOKH XMORTIZ on Acid Kult Muzick, and Poizine is a Mexem song released in 1993 on Mangrove Productions. Those namesakes have no documented link with the singer.",
+  ),
+  (
+    "Which scene does Poyzin belong to?",
+    "Poyzin belongs to the Dominican bouyon new wave of 2025 and 2026. “Rum” is part of the catalog of Trixzmigos, a group that was a finalist at the Dominica Music Awards 2025, on LTG RECORDS, and Ras B is a rising voice of the island. The place in this page title is the place of those records: no source consulted says where the singer herself comes from.",
+  ),
+  (
+    "Has Poyzin released a solo record?",
+    "No, no lead name record was found during this research, no single, no EP and no artist page on the platforms consulted. Her public file is limited to the two features of 2025, with Trixzmigos and with Ras B. If a solo record appears, this profile will be completed and dated.",
+  ),
+  (
+    "Where can I hear Poyzin?",
+    "On “Rum”, by Trixzmigos with Hussey, available on the streaming platforms, and on the Ras B “Shift Her Panty” video on YouTube. To hear the bouyon new wave as a whole, the Road Mix on our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> page is the site entry point.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/poyzin.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/poyzin.html#artist", "name": "Poyzin", "description": "Singer credited on vocals and writing of Rum, by Trixzmigos with Hussey, released in 2025 on LTG RECORDS, and guest of Shift Her Panty, the Ras B record published as a video. No solo release, no artist page and no biography in the public sources consulted. Not to be merged with Sweet PoyZin, a neighbouring name with no documented link.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Rum"}, {"@type": "MusicRecording", "name": "Shift Her Panty"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

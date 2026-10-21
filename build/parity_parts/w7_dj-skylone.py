@@ -62,13 +62,51 @@ FR = {
   ]
  ],
  "faq": [
-  ("Faut-il écrire Skylone ou Skaylone ?", "Skaylone, avec un A après le SK. C'est l'orthographe de sa propre chaîne YouTube, intitulée DJ SKAYLONE Skay Beats, celle de tous ses titres de vidéos, et celle du crédit Shazam de « WOOD » avec Tiitii NBA en 2024. L'orthographe courte Skylone ne survit que dans l'adresse de cette page. Aucune source consultée n'imprime le nom sans le A."),
-  ("Qui est DJ Skaylone ?", "DJ Skaylone est un DJ et beatmaker de la scène bouyon francophone, qui se présente lui même comme DJ et beatmaker publiant toutes ses compositions, dont certaines téléchargeables, sur sa chaîne YouTube Skay Beats. Son dossier vérifié comprend ses riddims YouTube, de « INSTRU BOUYON » aux riddims de Noël 2019 et 2020, et un crédit de streaming en 2024, « WOOD » avec Tiitii NBA. Le dossier public consulté n'établit ni son nom complet ni son origine."),
-  ("Quel est le riddim le plus vu de DJ Skaylone ?", "Parmi les vidéos de sa chaîne consultées pendant cette recherche, « Chris Riddim », étiqueté bouyon et daté de 2018 dans son titre, affiche le compteur le plus élevé, 29 000 vues au moment de la recherche, devant « INSTRU BOUYON », 16 000 vues, et « trumpet riddim », 12 000 vues. Ce profil cite ces compteurs tels que YouTube les affichait, comme des ordres de grandeur de circulation."),
-  ("Où télécharger les riddims de DJ Skaylone ?", "Sur sa chaîne YouTube officielle, quand le titre de la vidéo l'annonce. Plusieurs de ses vidéos, dont « CHRISMAS SKAY RIDDIM » pour Noël 2020, indiquent « lien de téléchargement en description », et la présentation de la chaîne précise que certaines de ses compositions sont téléchargeables. Ce site ne réhéberge pas ces fichiers : il documente la pratique, qui est une des infrastructures historiques du bouyon francophone."),
-  ("« No Time » est-il un single officiel de DJ Skaylone ?", "Pas selon les fiches consultées. « No Time », listé comme « Tiitii NBA x Dj Skaylone, No Time Raw », apparaît dans les tracklists du Blaqrose Supreme podcast, un mix bouyon, mais aucune fiche de plateforme de streaming trouvée ne le documente avec une date ou un label. Ce profil le classe donc comme une trace de tracklist de DJ, distincte du crédit de streaming vérifié de « WOOD »."),
-  ("Où écouter le bouyon de la scène de DJ Skaylone ?", "Commencez par « WOOD », de Tiitii NBA avec DJ SKAYLONE, sorti le 22 novembre 2024 chez HEAVEN STUDIO, et par les riddims de sa chaîne YouTube, puis écoutez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, qui rassemble bouyon, bouyon soca et nouveautés de la Dominique et des Antilles françaises suivies par Bouyon Shattaz.")
- ],
+  (
+    "Faut-il écrire Skylone ou Skaylone ?",
+    "Skaylone, avec un A après le SK. C'est l'orthographe de sa propre chaîne YouTube, intitulée DJ SKAYLONE Skay Beats, celle de tous ses titres de vidéos, et celle du crédit Shazam de « WOOD » avec Tiitii NBA en 2024. L'orthographe courte Skylone ne survit que dans l'adresse de cette page. Aucune source consultée n'imprime le nom sans le A.",
+  ),
+  (
+    "Qui est DJ Skaylone ?",
+    "DJ Skaylone est un DJ et beatmaker de la scène bouyon francophone, qui se présente comme publiant toutes ses compositions, dont certaines téléchargeables, sur sa chaîne YouTube Skay Beats. Son dossier vérifié comprend ses riddims YouTube, de « INSTRU BOUYON » aux riddims de Noël 2019 et 2020, et un crédit de streaming en 2024, « WOOD » avec Tiitii NBA.",
+  ),
+  (
+    "Depuis quand DJ Skaylone publie-t-il des riddims ?",
+    "Depuis une dizaine d'années avant cette recherche, selon les compteurs de YouTube. La plus ancienne vidéo affichée de sa chaîne est « INSTRU BOUYON », publiée il y a environ dix ans, suivie, il y a environ neuf ans, de « trumpet riddim », « CHO TIME RIDDIM » et « RESPECTAR ». Viennent ensuite les titres datés dans leur intitulé : bouyon 2018, bouyon 2019, puis Noël 2020.",
+  ),
+  (
+    "Quel est le riddim le plus vu de DJ Skaylone ?",
+    "Parmi les vidéos de sa chaîne consultées pendant cette recherche, « Chris Riddim », étiqueté bouyon et daté de 2018 dans son titre, affiche le compteur le plus élevé, 29 000 vues au moment de la recherche, devant « INSTRU BOUYON », 16 000 vues, et « trumpet riddim », 12 000 vues. Ce profil cite ces compteurs tels que YouTube les affichait, comme des ordres de grandeur.",
+  ),
+  (
+    "Pourquoi les riddims de DJ Skaylone portent-ils des noms d'instruments ?",
+    "Parce que chaque riddim prend le nom de son accroche, selon la grammaire des riddims caribéens héritée du dancehall : la trompette pour « trumpet riddim », la guitare pour « GUITARE RIDDIM », le moment chaud pour « CHO TIME RIDDIM ». L'instrumental devient un produit nommé, que les DJ repèrent dans une liste et que les chanteurs demandent comme base. Pour le format, voir notre page <a href=\"/bouyon-riddim.html\">bouyon riddim</a>.",
+  ),
+  (
+    "Quels riddims de Noël DJ Skaylone a-t-il publiés ?",
+    "Deux, deux années de suite. « NOEL RIVE », étiqueté bouyon 2019, affichait 8 000 vues pendant la recherche, et « CHRISMAS SKAY RIDDIM », pour Noël 2020, annonce le lien de téléchargement en description et affichait 1 600 vues. L'orthographe Chrismas, sans t, est celle du titre publié. Ces riddims de saison visent les soirées bouyon de fin d'année des Antilles françaises.",
+  ),
+  (
+    "Où télécharger les riddims de DJ Skaylone ?",
+    "Sur sa chaîne YouTube officielle, quand le titre de la vidéo l'annonce. Plusieurs de ses vidéos, dont « CHRISMAS SKAY RIDDIM » pour Noël 2020, indiquent « lien de téléchargement en description », et la présentation de la chaîne précise que certaines de ses compositions sont téléchargeables. Ce site ne réhéberge pas ces fichiers : il documente la pratique, une des infrastructures historiques du bouyon francophone.",
+  ),
+  (
+    "Qu'est-ce que WOOD, le titre de Tiitii NBA avec DJ Skaylone ?",
+    "« WOOD », étiqueté bouyon 2025, est un titre de Tiitii NBA sorti le 22 novembre 2024 chez HEAVEN STUDIO, en français et à 160 BPM selon Shazam, qui crédite DJ SKAYLONE en artiste invité et Terry Capitolin comme auteur. C'est son premier, et à ce jour son seul, crédit sur une grande plateforme de streaming, dix ans après ses premiers riddims YouTube.",
+  ),
+  (
+    "« No Time » est-il un single officiel de DJ Skaylone ?",
+    "Pas selon les fiches consultées. « No Time », listé « Tiitii NBA x Dj Skaylone, No Time Raw », apparaît dans les tracklists du Blaqrose Supreme podcast, un mix bouyon, mais aucune fiche de plateforme de streaming trouvée ne le documente avec une date ou un label. Ce profil le classe donc comme une trace de tracklist de DJ, distincte du crédit de streaming vérifié de « WOOD ».",
+  ),
+  (
+    "DJ Skaylone, DJ Skycee et DJ Skaytah : est-ce le même artiste ?",
+    "Non, ce sont trois artistes différents. DJ Skycee, crédité sur « Sé Miimii » de Miimii KDS, apparaît dans les mêmes tracklists de podcasts bouyon que DJ Skaylone, mais avec une autre orthographe et d'autres titres. DJ Skaytah est le producteur de « Kay Ka Fet » et de « Mass ». Les comptes SkyLone d'autres plateformes n'ont aucun lien établi avec le beatmaker de Skay Beats.",
+  ),
+  (
+    "Où écouter le bouyon de la scène de DJ Skaylone ?",
+    "Commencez par « WOOD », de Tiitii NBA avec DJ SKAYLONE, sorti le 22 novembre 2024 chez HEAVEN STUDIO, puis par « Chris Riddim » sur sa chaîne YouTube. Pour les nouveautés bouyon d'aujourd'hui, suivez @bouyonshattaz sur Instagram et commentez ROAD MIX sous une publication : la Bouyon Road Mix de notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> vous est envoyée en DM.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/dj-skylone.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/dj-skylone.html#artist", "name": "DJ Skaylone", "description": "DJ et beatmaker bouyon, orthographe vérifiée Skaylone. Chaîne YouTube DJ SKAYLONE Skay Beats de riddims téléchargeables, dont Instru Bouyon, Chris Riddim et Guitare Riddim, riddims de Noël 2019 et 2020, puis crédit de streaming WOOD avec Tiitii NBA en 2024. Nom complet et origine non établis par le dossier public.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Instru Bouyon"}, {"@type": "MusicRecording", "name": "Trumpet Riddim"}, {"@type": "MusicRecording", "name": "Respectar"}, {"@type": "MusicRecording", "name": "Cho Time Riddim"}, {"@type": "MusicRecording", "name": "Chris Riddim"}, {"@type": "MusicRecording", "name": "Guitare Riddim"}, {"@type": "MusicRecording", "name": "Noel Rive"}, {"@type": "MusicRecording", "name": "Chrismas Skay Riddim"}, {"@type": "MusicRecording", "name": "No Time"}, {"@type": "MusicRecording", "name": "WOOD"}], "sameAs": ["https://www.youtube.com/channel/UCdKvMxXkfn8rhbmBuP8B6aw"]}}],
  "date_modified": "2026-10-20"
 }
@@ -127,13 +165,51 @@ EN = {
   ]
  ],
  "faq": [
-  ("Is it Skylone or Skaylone?", "Skaylone, with an A after the SK. That is the spelling of his own YouTube channel, titled DJ SKAYLONE Skay Beats, the spelling of all his video titles, and the spelling of the Shazam credit of “WOOD” with Tiitii NBA in 2024. The short spelling Skylone survives only in the address of this page. No source consulted prints the name without the A."),
-  ("Who is DJ Skaylone?", "DJ Skaylone is a DJ and beatmaker from the French speaking bouyon scene, who presents himself as a DJ and beatmaker publishing all his compositions, some of them downloadable, on his YouTube channel Skay Beats. His verified record includes his YouTube riddims, from “INSTRU BOUYON” to the Christmas riddims of 2019 and 2020, and a streaming credit in 2024, “WOOD” with Tiitii NBA. The public record consulted establishes neither his full name nor his origin."),
-  ("What is DJ Skaylone most viewed riddim?", "Among the videos of his channel consulted during this research, “Chris Riddim”, tagged bouyon and dated 2018 in its title, shows the highest counter, 29,000 views at the time of the research, ahead of “INSTRU BOUYON”, 16,000 views, and “trumpet riddim”, 12,000 views. This profile quotes those counters as YouTube showed them, as orders of magnitude of circulation."),
-  ("Where can the DJ Skaylone riddims be downloaded?", "On his official YouTube channel, when the video title announces it. Several of his videos, including “CHRISMAS SKAY RIDDIM” for Christmas 2020, state “download link in description”, and the channel presentation says that some of his compositions are downloadable. This site does not rehost those files: it documents the practice, which is one of the historical infrastructures of French speaking bouyon."),
-  ("Is “No Time” an official DJ Skaylone single?", "Not according to the pages consulted. “No Time”, listed as “Tiitii NBA x Dj Skaylone, No Time Raw”, appears in the tracklists of the Blaqrose Supreme podcast, a bouyon mix, but no streaming platform page found documents it with a date or a label. This profile therefore files it as a DJ tracklist trace, separate from the verified streaming credit of “WOOD”."),
-  ("Where can I hear the bouyon of the DJ Skaylone scene?", "Start with “WOOD”, by Tiitii NBA with DJ SKAYLONE, released on November 22, 2024 on HEAVEN STUDIO, and with the riddims on his YouTube channel, then hear our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, which gathers bouyon, bouyon soca and new releases from Dominica and the French Antilles followed by Bouyon Shattaz.")
- ],
+  (
+    "Is it Skylone or Skaylone?",
+    "Skaylone, with an A after the SK. That is the spelling of his own YouTube channel, titled DJ SKAYLONE Skay Beats, the spelling of all his video titles, and the spelling of the Shazam credit of “WOOD” with Tiitii NBA in 2024. The short spelling Skylone survives only in the address of this page. No source consulted prints the name without the A.",
+  ),
+  (
+    "Who is DJ Skaylone?",
+    "DJ Skaylone is a DJ and beatmaker from the French speaking bouyon scene, who presents himself as publishing all his compositions, some of them downloadable, on his YouTube channel Skay Beats. His verified record includes his YouTube riddims, from “INSTRU BOUYON” to the Christmas riddims of 2019 and 2020, and a streaming credit in 2024, “WOOD” with Tiitii NBA.",
+  ),
+  (
+    "How long has DJ Skaylone been releasing riddims?",
+    "For about ten years before this research, according to YouTube's counters. The oldest video shown on his channel is “INSTRU BOUYON”, published about ten years ago, followed, about nine years ago, by “trumpet riddim”, “CHO TIME RIDDIM” and “RESPECTAR”. Then come the records dated in their titles: bouyon 2018, bouyon 2019, then Christmas 2020.",
+  ),
+  (
+    "What is DJ Skaylone's most viewed riddim?",
+    "Among the videos of his channel consulted during this research, “Chris Riddim”, tagged bouyon and dated 2018 in its title, shows the highest counter, 29,000 views at the time of the research, ahead of “INSTRU BOUYON”, 16,000 views, and “trumpet riddim”, 12,000 views. This profile quotes those counters as YouTube showed them, as orders of magnitude.",
+  ),
+  (
+    "Why are DJ Skaylone's riddims named after instruments?",
+    "Because each riddim takes the name of its hook, following the Caribbean riddim grammar inherited from dancehall: the trumpet for “trumpet riddim”, the guitar for “GUITARE RIDDIM”, the hot moment for “CHO TIME RIDDIM”. The instrumental becomes a named product that DJs spot in a list and singers ask for as a base. For the format, see our <a href=\"/en/bouyon-riddim.html\">bouyon riddim</a> page.",
+  ),
+  (
+    "Which Christmas riddims did DJ Skaylone release?",
+    "Two, two years running. “NOEL RIVE”, tagged bouyon 2019, showed 8,000 views during the research, and “CHRISMAS SKAY RIDDIM”, for Christmas 2020, announces the download link in its description and showed 1,600 views. The spelling Chrismas, without a t, is the one of the published title. These seasonal riddims target the year end bouyon parties of the French Antilles.",
+  ),
+  (
+    "Where can the DJ Skaylone riddims be downloaded?",
+    "On his official YouTube channel, when the video title announces it. Several of his videos, including “CHRISMAS SKAY RIDDIM” for Christmas 2020, state “download link in description”, and the channel presentation says that some of his compositions are downloadable. This site does not rehost those files: it documents the practice, one of the historical infrastructures of French speaking bouyon.",
+  ),
+  (
+    "What is WOOD, the Tiitii NBA record with DJ Skaylone?",
+    "“WOOD”, tagged bouyon 2025, is a Tiitii NBA record released on November 22, 2024 on HEAVEN STUDIO, in French and at 160 BPM according to Shazam, which credits DJ SKAYLONE as featured artist and Terry Capitolin as songwriter. It is his first, and so far only, credit on a major streaming platform, ten years after his first YouTube riddims.",
+  ),
+  (
+    "Is “No Time” an official DJ Skaylone single?",
+    "Not according to the pages consulted. “No Time”, listed as “Tiitii NBA x Dj Skaylone, No Time Raw”, appears in the tracklists of the Blaqrose Supreme podcast, a bouyon mix, but no streaming platform page found documents it with a date or a label. This profile therefore files it as a DJ tracklist trace, separate from the verified streaming credit of “WOOD”.",
+  ),
+  (
+    "Are DJ Skaylone, DJ Skycee and DJ Skaytah the same artist?",
+    "No, they are three different artists. DJ Skycee, credited on Miimii KDS's “Sé Miimii”, appears in the same bouyon podcast tracklists as DJ Skaylone, but with another spelling and other records. DJ Skaytah is the producer of “Kay Ka Fet” and “Mass”. The SkyLone accounts on other platforms have no established link with the Skay Beats beatmaker.",
+  ),
+  (
+    "Where can I hear the bouyon of the DJ Skaylone scene?",
+    "Start with “WOOD”, by Tiitii NBA with DJ SKAYLONE, released on November 22, 2024 on HEAVEN STUDIO, then with “Chris Riddim” on his YouTube channel. For today's new bouyon releases, follow @bouyonshattaz on Instagram and comment ROAD MIX under a post: the Bouyon Road Mix from our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> is sent to you by DM.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/dj-skylone.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/dj-skylone.html#artist", "name": "DJ Skaylone", "description": "Bouyon DJ and beatmaker, verified spelling Skaylone. YouTube channel DJ SKAYLONE Skay Beats of downloadable riddims, including Instru Bouyon, Chris Riddim and Guitare Riddim, Christmas riddims of 2019 and 2020, then streaming credit WOOD with Tiitii NBA in 2024. Full name and origin not established by the public record.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Instru Bouyon"}, {"@type": "MusicRecording", "name": "Trumpet Riddim"}, {"@type": "MusicRecording", "name": "Respectar"}, {"@type": "MusicRecording", "name": "Cho Time Riddim"}, {"@type": "MusicRecording", "name": "Chris Riddim"}, {"@type": "MusicRecording", "name": "Guitare Riddim"}, {"@type": "MusicRecording", "name": "Noel Rive"}, {"@type": "MusicRecording", "name": "Chrismas Skay Riddim"}, {"@type": "MusicRecording", "name": "No Time"}, {"@type": "MusicRecording", "name": "WOOD"}], "sameAs": ["https://www.youtube.com/channel/UCdKvMxXkfn8rhbmBuP8B6aw"]}}],
  "date_modified": "2026-10-20"
 }

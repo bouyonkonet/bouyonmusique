@@ -73,13 +73,55 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Tenslay ?", "Tenslay, écrit TENSLAY sur les plateformes, est un artiste présenté comme venant de France par l’outil d’analyse Viberate, qui le classe en reggae et reggae fusion. Son catalogue documenté tourne autour du motif Vcvc et de collaborations avec DJ TILOV, dont le single « Apb Vcvc », sorti le 10 juin 2022 chez WORLDFIRE. Aucun article de presse ni aucune interview publiée ne le présente à ce jour."),
-  ("Quels sont les titres vérifiés de Tenslay ?", "Cinq titres sont listés par Viberate parmi les plus écoutés de l’artiste : « Douxtcha », « Doglife! Vcvc » avec DJ TILOV, « Apb Vcvc » avec DJ TILOV, « DOGLIFE #VCVC2 » et « DO WHAT YOU WANT ». Seul « Apb Vcvc » dispose d’un crédit complet vérifié : sortie le 10 juin 2022, label WORLDFIRE, langue française, tempo de 160 BPM selon Shazam."),
-  ("Que veut dire Vcvc dans les titres de Tenslay ?", "Aucune source ouverte ne l’explique. Le motif Vcvc apparaît dans trois titres du catalogue, « Apb Vcvc », « Doglife! Vcvc » et « DOGLIFE #VCVC2 », ce qui en fait une signature récurrente du projet. Faute d’interview ou de texte de l’artiste qui le décoderait, ce site ne propose aucune signification inventée : le motif est documenté, son sens ne l’est pas encore."),
-  ("Tenslay fait-il du reggae ou du bouyon ?", "Les plateformes ne sont pas d’accord, et ce profil le dit. Viberate le classe en reggae fusion, mais Spotify range « Doglife! Vcvc » dans sa playlist The Sound of Bouyon, les journaux de diffusion de Hitz Africa FM le montrent en rotation afro-caribéenne, et son audience mesurée se concentre en France, en Guadeloupe et en Martinique. Ce site le classe donc parmi les artistes bouyon, en signalant l’étiquette reggae comme un fait de plateforme."),
-  ("Quel est le vrai nom de Tenslay ?", "Le seul nom de type civil rattaché au projet dans les crédits ouverts est « stanley henri », crédité comme auteur de « Apb Vcvc » dans les crédits publiés par Shazam. Aucune source ne confirme qu’il s’agit du nom légal complet du chanteur, et aucune biographie publiée ne donne son identité, sa ville ou sa date de naissance. Ce profil reproduit le crédit tel quel, sans le transformer en état civil."),
-  ("Où écouter Tenslay ?", "Sur les plateformes de streaming, en commençant par « Apb Vcvc » et « Doglife! Vcvc », ses deux titres cosignés par DJ TILOV, puis « Douxtcha », son titre le plus écouté selon Viberate. Pour situer ces titres dans le genre, écoutez aussi notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> et lisez notre page <a href=\"/bouyon-gwada.html\">bouyon gwada</a>.")
- ],
+  (
+    "Qui est Tenslay ?",
+    "Tenslay, écrit TENSLAY sur les plateformes, est un chanteur présenté comme venant de France par l’outil d’analyse Viberate, qui le classe en reggae et reggae fusion. Son catalogue documenté tourne autour du motif Vcvc et de collaborations avec DJ TILOV, dont le single « Apb Vcvc », sorti le 10 juin 2022 chez WORLDFIRE. Aucun article de presse ni aucune interview publiée ne le présente à ce jour.",
+  ),
+  (
+    "D’où vient Tenslay ?",
+    "Viberate présente Tenslay comme un artiste de France, sans préciser de ville. Sa carte d’audience, consultée en octobre 2026, place la France en tête avec 77,83 pour cent des écoutes mesurées, devant la Guadeloupe avec 14,17 pour cent et la Martinique avec 2,68 pour cent. C’est le triangle du bouyon francophone, mais une carte d’audience mesure des écoutes, pas une origine, et ce profil n’en déduit aucune adresse.",
+  ),
+  (
+    "Quels sont les titres vérifiés de Tenslay ?",
+    "Cinq titres sont listés par Viberate parmi les plus écoutés de l’artiste : « Douxtcha », « Doglife! Vcvc » avec DJ TILOV, « Apb Vcvc » avec DJ TILOV, « DOGLIFE #VCVC2 » et « DO WHAT YOU WANT ». Seul « Apb Vcvc » dispose d’un crédit complet vérifié : sortie le 10 juin 2022, label WORLDFIRE, langue française, tempo de 160 BPM selon Shazam.",
+  ),
+  (
+    "Quel est le titre le plus écouté de Tenslay ?",
+    "« Douxtcha » arrive en tête de la liste des titres les plus écoutés de Tenslay selon Viberate, devant les deux titres Vcvc signés avec DJ TILOV, « Doglife! Vcvc » et « Apb Vcvc ». Aucune date de sortie, aucun label et aucun collaborateur vérifiés n’accompagnent « Douxtcha » dans les sources ouvertes : ce profil le cite donc comme un titre listé par l’outil d’analyse, sans lui prêter d’année.",
+  ),
+  (
+    "Quand est sorti « Apb Vcvc » de Tenslay ?",
+    "« Apb Vcvc (feat. DJ TILOV) » est sorti le 10 juin 2022 sous le label WORLDFIRE, selon sa page Shazam, en langue française et à un tempo de 160 BPM, la vitesse des titres de club du bouyon moderne. La même page signale un clip associé, intitulé « TENSLAY - APB VCVC (DJ TILOV) ». C’est le seul titre du catalogue qui dispose d’un crédit complet et daté.",
+  ),
+  (
+    "Qui est DJ TILOV, le partenaire de Tenslay ?",
+    "DJ TILOV est le partenaire récurrent du catalogue de Tenslay : il cosigne ses deux titres les mieux documentés, « Apb Vcvc », où il est crédité en featuring, et « Doglife! Vcvc », crédité Tenslay et DJ TILOV. Ce sont aussi les deux titres que les plateformes et la radio ont le plus exposés. Les sources ouvertes ne précisent pas leur relation au delà de ces cosignatures.",
+  ),
+  (
+    "Que veut dire Vcvc dans les titres de Tenslay ?",
+    "Aucune source ouverte ne l’explique. Le motif Vcvc apparaît dans trois titres du catalogue, « Apb Vcvc », « Doglife! Vcvc » et « DOGLIFE #VCVC2 », ce qui en fait une signature récurrente du projet. Faute d’interview ou de texte de l’artiste qui le décoderait, ce site ne propose aucune signification inventée : le motif est documenté, son sens ne l’est pas encore.",
+  ),
+  (
+    "Tenslay fait-il du reggae ou du bouyon ?",
+    "Les plateformes ne sont pas d’accord. Viberate le classe en reggae fusion, mais Spotify range « Doglife! Vcvc » dans sa playlist The Sound of Bouyon, la radio Hitz Africa FM le fait tourner en rotation afro-caribéenne, et son audience mesurée se concentre en France, en Guadeloupe et en Martinique. Ce site le classe donc parmi les artistes bouyon, en signalant l’étiquette reggae comme un fait de plateforme.",
+  ),
+  (
+    "Où « Doglife! Vcvc » a-t-il été diffusé ?",
+    "Spotify range « Doglife! Vcvc » de Tenslay et DJ TILOV dans sa playlist The Sound of Bouyon, au milieu de titres du genre, avec une durée de 2 minutes et 3 secondes. Les journaux de diffusion de la station Hitz Africa FM, repris par Online Radio Box, le montrent aussi en rotation, dans des listes où circulent des titres bouyon de la même génération.",
+  ),
+  (
+    "Tenslay chante-t-il en français ?",
+    "Oui pour son titre le mieux documenté : Shazam indique le français comme langue de « Apb Vcvc ». Tenslay chante donc dans la langue des scènes bouyon de Guadeloupe, de Martinique et de France, et non dans celle des scènes anglophones de la Dominique, l’île où le genre est né, ou de Sainte-Lucie. Son audience mesurée suit la même géographie francophone. Voir notre page <a href=\"/bouyon-gwada.html\">bouyon gwada</a>.",
+  ),
+  (
+    "Quel est le vrai nom de Tenslay ?",
+    "Le seul nom de type civil rattaché au projet dans les crédits ouverts est « stanley henri », crédité comme auteur de « Apb Vcvc » dans les crédits publiés par Shazam. Aucune source ne confirme qu’il s’agit du nom légal du chanteur, et aucune biographie publiée ne donne sa ville ou sa date de naissance. Ce profil reproduit le crédit tel quel, sans le transformer en état civil.",
+  ),
+  (
+    "Où écouter Tenslay ?",
+    "Sur les plateformes de streaming, en commençant par « Apb Vcvc » et « Doglife! Vcvc », ses deux titres cosignés par DJ TILOV, puis « Douxtcha », son titre le plus écouté selon Viberate. Pour entendre la scène bouyon francophone et dominicaine qui l’entoure, la <a href=\"/playlist-bouyon.html\">playlist Bouyon Road Mix</a> de Bouyon Shattaz réunit les nouveautés de la Dominique, de la Guadeloupe et de la Martinique.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/tenslay.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/tenslay.html#artist", "name": "Tenslay", "description": "Artiste présenté de France par Viberate. Catalogue documenté autour du motif Vcvc, avec DJ TILOV : Apb Vcvc, single sorti le 10 juin 2022 chez WORLDFIRE, Doglife! Vcvc rangé par Spotify dans The Sound of Bouyon.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Douxtcha"}, {"@type": "MusicRecording", "name": "Doglife! Vcvc"}, {"@type": "MusicRecording", "name": "Apb Vcvc"}, {"@type": "MusicRecording", "name": "DOGLIFE #VCVC2"}, {"@type": "MusicRecording", "name": "DO WHAT YOU WANT"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -151,13 +193,55 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Tenslay?", "Tenslay, written TENSLAY on the platforms, is an artist presented as from France by the analytics tool Viberate, which files him under reggae and reggae fusion. His documented catalogue turns around the Vcvc motif and collaborations with DJ TILOV, including the single “Apb Vcvc”, released on 10 June 2022 on WORLDFIRE. No press article and no published interview presents him to date."),
-  ("What are Tenslay verified tracks?", "Five tracks are listed by Viberate among the artist most played: “Douxtcha”, “Doglife! Vcvc” with DJ TILOV, “Apb Vcvc” with DJ TILOV, “DOGLIFE #VCVC2” and “DO WHAT YOU WANT”. Only “Apb Vcvc” carries a complete verified credit: released on 10 June 2022, label WORLDFIRE, French language, tempo of 160 BPM according to Shazam."),
-  ("What does Vcvc mean in Tenslay track titles?", "No open source explains it. The Vcvc motif appears in three catalogue tracks, “Apb Vcvc”, “Doglife! Vcvc” and “DOGLIFE #VCVC2”, which makes it a recurring signature of the project. With no interview and no text from the artist decoding it, this site offers no invented meaning: the motif is documented, its meaning is not yet."),
-  ("Does Tenslay make reggae or bouyon?", "The platforms disagree, and this profile says so. Viberate files him under reggae fusion, but Spotify places “Doglife! Vcvc” in its playlist The Sound of Bouyon, the broadcast logs of Hitz Africa FM show it in Afro-Caribbean rotation, and his measured audience concentrates in France, Guadeloupe and Martinique. This site therefore files him among the bouyon artists, while reporting the reggae label as a platform fact."),
-  ("What is Tenslay real name?", "The only civil style name attached to the project in the open credits is “stanley henri”, credited as the songwriter of “Apb Vcvc” in the credits published by Shazam. No source confirms that it is the singer complete legal name, and no published biography gives his identity, his city or his date of birth. This profile reproduces the credit as it stands, without turning it into a civil record."),
-  ("Where can I hear Tenslay?", "On the streaming platforms, starting with “Apb Vcvc” and “Doglife! Vcvc”, his two tracks co-signed by DJ TILOV, then “Douxtcha”, his most played track according to Viberate. To place those tracks in the genre, also hear our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> and read our <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a> page.")
- ],
+  (
+    "Who is Tenslay?",
+    "Tenslay, written TENSLAY on the platforms, is a singer presented as from France by the analytics tool Viberate, which files him under reggae and reggae fusion. His documented catalogue turns around the Vcvc motif and collaborations with DJ TILOV, including the single “Apb Vcvc”, released on 10 June 2022 on WORLDFIRE. No press article and no published interview presents him to date.",
+  ),
+  (
+    "Where is Tenslay from?",
+    "Viberate presents Tenslay as an artist from France, without naming a city. His audience map, consulted in October 2026, puts France first with 77.83 percent of measured listening, ahead of Guadeloupe with 14.17 percent and Martinique with 2.68 percent. That is the triangle of French speaking bouyon, but an audience map measures listening, not origin, and this profile infers no address from it.",
+  ),
+  (
+    "What are Tenslay’s verified tracks?",
+    "Five tracks are listed by Viberate among the artist’s most played: “Douxtcha”, “Doglife! Vcvc” with DJ TILOV, “Apb Vcvc” with DJ TILOV, “DOGLIFE #VCVC2” and “DO WHAT YOU WANT”. Only “Apb Vcvc” carries a complete verified credit: released on 10 June 2022, label WORLDFIRE, French language, tempo of 160 BPM according to Shazam.",
+  ),
+  (
+    "What is Tenslay’s most played song?",
+    "“Douxtcha” tops the list of Tenslay’s most played tracks according to Viberate, ahead of the two Vcvc tracks signed with DJ TILOV, “Doglife! Vcvc” and “Apb Vcvc”. No verified release date, label or collaborator comes with “Douxtcha” in the open sources: this profile therefore cites it as a track listed by the analytics tool, without lending it a year.",
+  ),
+  (
+    "When was Tenslay’s “Apb Vcvc” released?",
+    "“Apb Vcvc (feat. DJ TILOV)” was released on 10 June 2022 on the WORLDFIRE label, according to its Shazam page, in French and at a tempo of 160 BPM, the speed of modern bouyon club tracks. The same page lists a related music video titled “TENSLAY - APB VCVC (DJ TILOV)”. It is the only track in the catalogue with a complete, dated credit.",
+  ),
+  (
+    "Who is DJ TILOV, Tenslay’s partner?",
+    "DJ TILOV is the recurring partner of Tenslay’s catalogue: he co-signs his two best documented tracks, “Apb Vcvc”, where he is credited as feature, and “Doglife! Vcvc”, credited to Tenslay and DJ TILOV. Those are also the two tracks the platforms and radio exposed the most. The open sources do not specify their relationship beyond those co-signatures.",
+  ),
+  (
+    "What does Vcvc mean in Tenslay track titles?",
+    "No open source explains it. The Vcvc motif appears in three catalogue tracks, “Apb Vcvc”, “Doglife! Vcvc” and “DOGLIFE #VCVC2”, which makes it a recurring signature of the project. With no interview and no text from the artist decoding it, this site offers no invented meaning: the motif is documented, its meaning is not yet.",
+  ),
+  (
+    "Does Tenslay make reggae or bouyon?",
+    "The platforms disagree. Viberate files him under reggae fusion, but Spotify places “Doglife! Vcvc” in its playlist The Sound of Bouyon, the radio station Hitz Africa FM plays it in Afro-Caribbean rotation, and his measured audience concentrates in France, Guadeloupe and Martinique. This site therefore files him among the bouyon artists, while reporting the reggae label as a platform fact.",
+  ),
+  (
+    "Where has “Doglife! Vcvc” been played?",
+    "Spotify places “Doglife! Vcvc” by Tenslay and DJ TILOV in its playlist The Sound of Bouyon, among tracks of the genre, with a duration of 2 minutes 3 seconds. The broadcast logs of the station Hitz Africa FM, carried by Online Radio Box, also show it in rotation, in lists where bouyon tracks of the same generation circulate.",
+  ),
+  (
+    "Does Tenslay sing in French?",
+    "Yes for his best documented track: Shazam gives French as the language of “Apb Vcvc”. Tenslay therefore sings in the language of the bouyon scenes of Guadeloupe, Martinique and France, not in that of the English speaking scenes of Dominica, the island where the genre was born, or Saint Lucia. His measured audience follows the same French speaking map. See our <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a> page.",
+  ),
+  (
+    "What is Tenslay’s real name?",
+    "The only civil style name attached to the project in the open credits is “stanley henri”, credited as the songwriter of “Apb Vcvc” in the credits published by Shazam. No source confirms that it is the singer’s legal name, and no published biography gives his city or his date of birth. This profile reproduces the credit as it stands, without turning it into a civil record.",
+  ),
+  (
+    "Where can I hear Tenslay?",
+    "On the streaming platforms, starting with “Apb Vcvc” and “Doglife! Vcvc”, his two tracks co-signed by DJ TILOV, then “Douxtcha”, his most played track according to Viberate. To hear the French speaking and Dominican bouyon scene around him, the <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix playlist</a> by Bouyon Shattaz gathers new music from Dominica, Guadeloupe and Martinique.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/tenslay.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/tenslay.html#artist", "name": "Tenslay", "description": "Artist presented as from France by Viberate. Documented catalogue around the Vcvc motif, with DJ TILOV: Apb Vcvc, a single released on 10 June 2022 on WORLDFIRE, and Doglife! Vcvc, filed by Spotify in The Sound of Bouyon.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Douxtcha"}, {"@type": "MusicRecording", "name": "Doglife! Vcvc"}, {"@type": "MusicRecording", "name": "Apb Vcvc"}, {"@type": "MusicRecording", "name": "DOGLIFE #VCVC2"}, {"@type": "MusicRecording", "name": "DO WHAT YOU WANT"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

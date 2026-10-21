@@ -68,13 +68,51 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est MA6MO ?", "MA6MO est un artiste du circuit bouyon de Guadeloupe dont le nom n’apparait, dans le dossier public vérifié, que dans les crédits de trois titres : « Sexuelle Attirance » avec Ti locksée en 2022, « Bibik » avec Team Bwè Tou Sa et FLW, et « LÉSÉ NOU PASÉ » avec TiiTii NBA et Diixly en 2026. Aucune biographie officielle publiée n’a été retrouvée pendant la recherche de ce profil."),
-  ("Quels sont les titres vérifiés de MA6MO ?", "Trois titres sont établis par les plateformes : « Sexuelle Attirance », duo avec Ti locksée publié sur l’album « Voyé sa alléé II » de Team Bwè Tou Sa en 2022 ; « Bibik », titre de Team Bwè Tou Sa où MA6MO est crédité en featuring avec FLW ; et « LÉSÉ NOU PASÉ », single 2026 de TiiTii NBA qui le crédite avec Diixly."),
-  ("MA6MO a-t-il sorti un album ou un single solo ?", "Aucun album, EP ou single sous le seul nom de MA6MO n’a été retrouvé sur les plateformes consultées pour ce profil. Son catalogue vérifiable se compose de collaborations : un duo et deux featurings. Si une sortie solo existe sous une autre graphie, elle n’est pas rattachée à son nom dans les catalogues publics."),
-  ("MA6MO et Nicolas Macbeth sont-ils la même personne ?", "Le dossier ne permet pas de l’affirmer. Deezer crédite « LÉSÉ NOU PASÉ » aux auteurs Terry Capitolin et Nicolas MACBETH, et ce dernier nom apparait comme chanteur et auteur dans les crédits de Team Bwè Tou Sa. Le recoupement est réel mais aucune source ne confirme que MA6MO et Nicolas Macbeth sont une seule personne, donc ce profil garde les deux noms séparés."),
-  ("Pourquoi ce profil ne donne-t-il ni origine ni biographie de MA6MO ?", "Parce qu’aucune source fiable ne les publie. Les crédits rattachent MA6MO au circuit bouyon de Guadeloupe, via Team Bwè Tou Sa et TiiTii NBA, mais aucune source ne confirme son île de naissance, son nom civil ou son parcours. Ce site préfère afficher ces limites plutôt que d’inventer une biographie, et le profil sera complété si des éléments vérifiables sont confirmés."),
-  ("Où écouter MA6MO ?", "Commencez par « Sexuelle Attirance » sur l’album « Voyé sa alléé II » de Team Bwè Tou Sa, puis « Bibik » du même collectif avec FLW, et « LÉSÉ NOU PASÉ » de TiiTii NBA. Pour le contexte, notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> et notre page <a href=\"/bouyon-gwada.html\">bouyon gwada</a> couvrent la scène dont ces titres sont issus.")
- ],
+  (
+    "Qui est MA6MO ?",
+    "MA6MO est un artiste du circuit bouyon de Guadeloupe dont le nom n’apparait, dans le dossier public vérifié, que dans les crédits de trois titres : « Sexuelle Attirance » avec Ti locksée en 2022, « Bibik » avec Team Bwè Tou Sa et FLW, et « LÉSÉ NOU PASÉ » avec TiiTii NBA et Diixly en 2026. Aucune biographie officielle publiée n’a été retrouvée pendant la recherche de ce profil.",
+  ),
+  (
+    "Quels sont les titres vérifiés de MA6MO ?",
+    "Trois titres sont établis par les plateformes : « Sexuelle Attirance », duo avec Ti locksée publié sur l’album « Voyé sa alléé II » de Team Bwè Tou Sa en 2022 ; « Bibik », titre de Team Bwè Tou Sa où MA6MO est crédité en featuring avec FLW ; et « LÉSÉ NOU PASÉ », single 2026 de TiiTii NBA qui le crédite avec Diixly.",
+  ),
+  (
+    "MA6MO a-t-il sorti un album ou un single solo ?",
+    "Aucun album, EP ou single sous le seul nom de MA6MO n’a été retrouvé sur les plateformes consultées pour ce profil. Son catalogue vérifiable se compose de collaborations : un duo et deux featurings. Si une sortie solo existe sous une autre graphie, elle n’est pas rattachée à son nom dans les catalogues publics.",
+  ),
+  (
+    "MA6MO et Nicolas Macbeth sont-ils la même personne ?",
+    "Le dossier ne permet pas de l’affirmer. Deezer crédite « LÉSÉ NOU PASÉ » aux auteurs Terry Capitolin et Nicolas MACBETH, et ce dernier nom apparait comme chanteur et auteur dans les crédits de Team Bwè Tou Sa. Le recoupement est réel mais aucune source ne confirme que MA6MO et Nicolas Macbeth sont une seule personne, donc ce profil garde les deux noms séparés.",
+  ),
+  (
+    "Pourquoi ce profil ne donne-t-il ni origine ni biographie de MA6MO ?",
+    "Parce qu’aucune source fiable ne les publie. Les crédits rattachent MA6MO au circuit bouyon de Guadeloupe, via Team Bwè Tou Sa et TiiTii NBA, mais aucune source ne confirme son île de naissance, son nom civil ou son parcours. Ce site préfère afficher ces limites plutôt que d’inventer une biographie, et le profil sera complété si des éléments vérifiables sont confirmés.",
+  ),
+  (
+    "Où écouter MA6MO ?",
+    "Commencez par « Sexuelle Attirance » sur l’album « Voyé sa alléé II » de Team Bwè Tou Sa, son seul titre en artiste principal, puis « Bibik » du même collectif avec FLW, et « LÉSÉ NOU PASÉ » de TiiTii NBA. Pour entendre la scène bouyon gwada dont ces titres sont issus, écoutez ensuite notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>.",
+  ),
+  (
+    "Qu’est-ce que « Sexuelle Attirance » de MA6MO et Ti locksée ?",
+    "C’est le huitième titre de « Voyé sa alléé II », le deuxième album de Team Bwè Tou Sa, sorti le 8 juillet 2022 chez iMD-GAMMA_LAB. Crédité en duo à MA6MO et <a href=\"/ti-locksee.html\">Ti locksée</a>, c’est à ce jour le seul titre où MA6MO apparaît en artiste principal, et sa première trace vérifiée dans le catalogue public.",
+  ),
+  (
+    "Qu’est-ce que « Bibik » de Team Bwè Tou Sa ?",
+    "« Bibik » est un titre de Team Bwè Tou Sa crédité avec MA6MO et <a href=\"/flw.html\">FLW</a>, aussi diffusé sous la forme « Bibik (feat. MA6MO & FLW) ». La page Shazam du collectif le classe parmi ses titres les plus joués, aux côtés de « CHOKOLA », « 50/50 », « KILOT » et « WD 40 ». Aucune source consultée ne donne sa date de sortie exacte.",
+  ),
+  (
+    "Qui a écrit « LÉSÉ NOU PASÉ » de TiiTii NBA ?",
+    "Selon Deezer, « LÉSÉ NOU PASÉ (feat. Ma6mo & Diixly) (WARM UP 2026) » est écrit par Terry Capitolin et Nicolas MACBETH et composé par Sofiann Farah, pour 2 minutes 23. Ce single 2026 de <a href=\"/tiitii-nba.html\">TiiTii NBA</a> crédite deux invités, Ma6mo et Diixly, et son titre créole annonce un morceau d’échauffement qui demande à laisser passer.",
+  ),
+  (
+    "MA6MO fait-il partie de Team Bwè Tou Sa ?",
+    "Les crédits en font un proche du collectif : un duo sur l’album « Voyé sa alléé II » en 2022, puis un featuring sur « Bibik ». La page <a href=\"/team-bwe-tou-sa.html\">Team Bwè Tou Sa</a> de ce site le range dans la famille documentée par les sorties, avec Lunik, FLW et Le Dext. Aucune annonce officielle d’adhésion n’a été trouvée.",
+  ),
+  (
+    "Comment s’écrit MA6MO ?",
+    "Avec un chiffre : le 6 se place au milieu du nom. Les crédits de Team Bwè Tou Sa écrivent MA6MO en capitales, tandis que le single « LÉSÉ NOU PASÉ » de TiiTii NBA le crédite sous la forme Ma6mo. Les deux graphies désignent le même invité dans les catalogues, et ce profil retient MA6MO comme nom principal.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/ma6mo.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/ma6mo.html#artist", "name": "MA6MO", "description": "Artiste du circuit bouyon de Guadeloupe connu uniquement par ses crédits publics : Sexuelle Attirance avec Ti locksée (2022), Bibik avec Team Bwè Tou Sa et FLW, LÉSÉ NOU PASÉ avec TiiTii NBA et Diixly (2026). Aucune biographie officielle vérifiée à ce jour.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Sexuelle Attirance"}, {"@type": "MusicRecording", "name": "Bibik"}, {"@type": "MusicRecording", "name": "LÉSÉ NOU PASÉ"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -137,13 +175,51 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is MA6MO?", "MA6MO is an artist of the Guadeloupe bouyon circuit whose name appears, in the verified public record, only in the credits of three records: “Sexuelle Attirance” with Ti locksée in 2022, “Bibik” with Team Bwè Tou Sa and FLW, and “LÉSÉ NOU PASÉ” with TiiTii NBA and Diixly in 2026. No published official biography was found during the research for this profile."),
-  ("What are the verified records of MA6MO?", "Three records are established by the platforms: “Sexuelle Attirance”, a duet with Ti locksée released on the Team Bwè Tou Sa album “Voyé sa alléé II” in 2022; “Bibik”, a Team Bwè Tou Sa record where MA6MO is credited as a feature with FLW; and “LÉSÉ NOU PASÉ”, a 2026 TiiTii NBA single that credits him with Diixly."),
-  ("Has MA6MO released a solo album or single?", "No album, EP or single under the name MA6MO alone was found on the platforms consulted for this profile. His verifiable catalogue is made of collaborations: one duet and two features. If a solo release exists under another spelling, it is not attached to his name in the public catalogues."),
-  ("Are MA6MO and Nicolas Macbeth the same person?", "The record does not allow that to be stated. Deezer credits “LÉSÉ NOU PASÉ” to writers Terry Capitolin and Nicolas MACBETH, and that name also appears as a singer and writer in the Team Bwè Tou Sa credits. The overlap is real but no source confirms that MA6MO and Nicolas Macbeth are one person, so this profile keeps the two names separate."),
-  ("Why does this profile give no origin or biography for MA6MO?", "Because no reliable source publishes them. The credits tie MA6MO to the Guadeloupe bouyon circuit, through Team Bwè Tou Sa and TiiTii NBA, but no source confirms his island of birth, his legal name or his path. This site prefers to display those limits rather than invent a biography, and the profile will be completed if verifiable elements are confirmed."),
-  ("Where can I hear MA6MO?", "Start with “Sexuelle Attirance” on the Team Bwè Tou Sa album “Voyé sa alléé II”, then “Bibik” by the same collective with FLW, and “LÉSÉ NOU PASÉ” by TiiTii NBA. For context, our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> and our <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a> page cover the scene those records come from.")
- ],
+  (
+    "Who is MA6MO?",
+    "MA6MO is an artist of the Guadeloupe bouyon circuit whose name appears, in the verified public record, only in the credits of three records: “Sexuelle Attirance” with Ti locksée in 2022, “Bibik” with Team Bwè Tou Sa and FLW, and “LÉSÉ NOU PASÉ” with TiiTii NBA and Diixly in 2026. No published official biography was found during the research for this profile.",
+  ),
+  (
+    "What are the verified records of MA6MO?",
+    "Three records are established by the platforms: “Sexuelle Attirance”, a duet with Ti locksée released on the Team Bwè Tou Sa album “Voyé sa alléé II” in 2022; “Bibik”, a Team Bwè Tou Sa record where MA6MO is credited as a feature with FLW; and “LÉSÉ NOU PASÉ”, a 2026 TiiTii NBA single that credits him with Diixly.",
+  ),
+  (
+    "Has MA6MO released a solo album or single?",
+    "No album, EP or single under the name MA6MO alone was found on the platforms consulted for this profile. His verifiable catalogue is made of collaborations: one duet and two features. If a solo release exists under another spelling, it is not attached to his name in the public catalogues.",
+  ),
+  (
+    "Are MA6MO and Nicolas Macbeth the same person?",
+    "The record does not allow that to be stated. Deezer credits “LÉSÉ NOU PASÉ” to writers Terry Capitolin and Nicolas MACBETH, and that name also appears as a singer and writer in the Team Bwè Tou Sa credits. The overlap is real but no source confirms that MA6MO and Nicolas Macbeth are one person, so this profile keeps the two names separate.",
+  ),
+  (
+    "Why does this profile give no origin or biography for MA6MO?",
+    "Because no reliable source publishes them. The credits tie MA6MO to the Guadeloupe bouyon circuit, through Team Bwè Tou Sa and TiiTii NBA, but no source confirms his island of birth, his legal name or his path. This site prefers to display those limits rather than invent a biography, and the profile will be completed if verifiable elements are confirmed.",
+  ),
+  (
+    "Where can I hear MA6MO?",
+    "Start with “Sexuelle Attirance” on the Team Bwè Tou Sa album “Voyé sa alléé II”, his only record as a lead artist, then “Bibik” by the same collective with FLW, and “LÉSÉ NOU PASÉ” by TiiTii NBA. To hear the bouyon gwada scene those records come from, then play our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>.",
+  ),
+  (
+    "What is “Sexuelle Attirance” by MA6MO and Ti locksée?",
+    "It is the eighth track of “Voyé sa alléé II”, the second Team Bwè Tou Sa album, released on 8 July 2022 by iMD-GAMMA_LAB. Credited as a duet to MA6MO and <a href=\"/en/ti-locksee.html\">Ti locksée</a>, it is to date the only record where MA6MO appears as a lead artist, and his first verified trace in the public catalogue.",
+  ),
+  (
+    "What is “Bibik” by Team Bwè Tou Sa?",
+    "“Bibik” is a Team Bwè Tou Sa record credited with MA6MO and <a href=\"/en/flw.html\">FLW</a>, also circulating as “Bibik (feat. MA6MO & FLW)”. The collective's Shazam page ranks it among its most played records, alongside “CHOKOLA”, “50/50”, “KILOT” and “WD 40”. No source consulted gives its exact release date.",
+  ),
+  (
+    "Who wrote “LÉSÉ NOU PASÉ” by TiiTii NBA?",
+    "According to Deezer, “LÉSÉ NOU PASÉ (feat. Ma6mo & Diixly) (WARM UP 2026)” is written by Terry Capitolin and Nicolas MACBETH and composed by Sofiann Farah, running 2 minutes 23. This 2026 <a href=\"/en/tiitii-nba.html\">TiiTii NBA</a> single credits two guests, Ma6mo and Diixly, and its Creole title announces a warm up record about letting people through.",
+  ),
+  (
+    "Is MA6MO a member of Team Bwè Tou Sa?",
+    "The credits make him a close associate of the collective: a duet on the album “Voyé sa alléé II” in 2022, then a feature on “Bibik”. This site's <a href=\"/en/team-bwe-tou-sa.html\">Team Bwè Tou Sa</a> page files him in the family documented by the releases, with Lunik, FLW and Le Dext. No official membership announcement was found.",
+  ),
+  (
+    "How is MA6MO spelled?",
+    "With a number: the 6 stands in the middle of the name. The Team Bwè Tou Sa credits write MA6MO in capitals, while TiiTii NBA's single “LÉSÉ NOU PASÉ” credits him as Ma6mo. Both spellings point to the same guest in the catalogues, and this profile keeps MA6MO as the main name.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/ma6mo.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/ma6mo.html#artist", "name": "MA6MO", "description": "Artist of the Guadeloupe bouyon circuit known only through his public credits: Sexuelle Attirance with Ti locksée (2022), Bibik with Team Bwè Tou Sa and FLW, LÉSÉ NOU PASÉ with TiiTii NBA and Diixly (2026). No verified official biography to date.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Sexuelle Attirance"}, {"@type": "MusicRecording", "name": "Bibik"}, {"@type": "MusicRecording", "name": "LÉSÉ NOU PASÉ"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

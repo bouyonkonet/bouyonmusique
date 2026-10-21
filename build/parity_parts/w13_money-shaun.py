@@ -69,13 +69,47 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Money Shaun ?", "Money Shaun est une voix du bouyon connue par ses featuring avec le producteur dominicain Ridge, aussi publié sous le nom de Mr Ridge. Aucune biographie officielle ni page artiste solo n a été retrouvée sur les grandes plateformes pendant la recherche de ce profil : son nom est documenté par deux titres, She Want That Ah et She Stupid, et par leur présence répétée dans les mixes des DJs bouyon et soca."),
-  ("She Want That Ah est il un titre de Mr Ridge ou de Money Shaun ?", "Les deux, mais pas dans le même rôle, et c est le point que les tracklists brouillent souvent. La publication officielle, sur YouTube, est intitulée Mr Ridge feat. Money Shaun : le titre est publié sous le nom de Mr Ridge, avec Money Shaun comme artiste invité, et la production est créditée à Cross D Bridge Studio et More Sewo. Les mixes le citent ensuite sous des formes raccourcies, Mr Ridge & Money Shaun ou Ridge & Money Shaun, qui mettent les deux noms au même niveau. La forme complète et correcte reste celle de la publication d origine."),
-  ("Quels titres de Money Shaun sont documentés ?", "Deux titres vérifiables : She Want That Ah, de Mr Ridge avec Money Shaun en featuring, produit par Cross D Bridge Studio et More Sewo, et She Stupid, qui réunit Ridge, Money Shaun et <a href=\"/1t1.html\">1T1</a> et que les tracklists du podcast DJ Close Connections citent, notamment dans Soca Passport (Island Hoppin' 2024). Aucun titre solo et aucun autre featuring crédité n a été retrouvé de façon vérifiable."),
-  ("Qui a produit She Want That Ah ?", "La description de la vidéo officielle crédite la production à Cross D Bridge Studio et à More Sewo. Cross D Bridge est aussi le nom sous lequel <a href=\"/ridge.html\">Ridge</a>, l artiste principal du titre, est connu sur Instagram, @crossdbridge, ce qui rattache le studio à Ridge lui même. More Sewo est le label auquel est aussi signé <a href=\"/bonna.html\">BONNA</a>."),
-  ("D où vient Money Shaun ?", "Le dossier public ne le dit pas, et ce profil ne l invente pas. Aucune source consultée ne donne sa ville ni son pays d origine. Ce qui est documenté, c est son circuit : un producteur dominicain, Ridge, un studio, Cross D Bridge Studio, un label, More Sewo, et des titres classés par les DJs dans les sélections bouyon de Dominique. Son origine personnelle reste à confirmer par l artiste ou son entourage."),
-  ("Où écouter Money Shaun ?", "Par la vidéo officielle de She Want That Ah publiée sous le nom de Mr Ridge, et par les mixes qui programment ses deux titres : Soca Passport de DJ Close Connections, Sewo Jam 2023-2024 de Digga D, le Miami Carnival Soca Mix 2024 de Deejblaze ou le mix Carnaval 2024 de DJ T-Sia. Suivez aussi notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>.")
- ],
+  (
+    "Qui est Money Shaun ?",
+    "Money Shaun est une voix du bouyon connue par ses featuring avec le producteur dominicain Ridge, aussi publié sous le nom de Mr Ridge. Aucune biographie officielle ni page artiste solo n’a été retrouvée sur les grandes plateformes pendant la recherche de ce profil : son nom est documenté par deux titres, She Want That Ah et She Stupid, et par leur présence répétée dans les mixes des DJs bouyon et soca.",
+  ),
+  (
+    "She Want That Ah est-il un titre de Mr Ridge ou de Money Shaun ?",
+    "Les deux, mais pas dans le même rôle. La publication officielle, sur YouTube, s’intitule Mr Ridge feat. Money Shaun : le titre sort sous le nom de Mr Ridge, avec Money Shaun en artiste invité, et la production est créditée à Cross D Bridge Studio et More Sewo. Les mixes le raccourcissent ensuite en Mr Ridge & Money Shaun, mais la forme correcte reste celle de la publication d’origine.",
+  ),
+  (
+    "Quels titres de Money Shaun sont documentés ?",
+    "Deux titres vérifiables : She Want That Ah, de Mr Ridge avec Money Shaun en featuring, produit par Cross D Bridge Studio et More Sewo, et She Stupid, qui réunit Ridge, Money Shaun et <a href=\"/1t1.html\">1T1</a> et que citent les tracklists du podcast DJ Close Connections, notamment Soca Passport (Island Hoppin' 2024). Aucun titre solo et aucun autre featuring crédité n’a été retrouvé de façon vérifiable.",
+  ),
+  (
+    "Qui a produit She Want That Ah ?",
+    "La description de la vidéo officielle crédite la production à Cross D Bridge Studio et à More Sewo. Cross D Bridge est aussi le nom sous lequel <a href=\"/ridge.html\">Ridge</a>, l’artiste principal du titre, est connu sur Instagram (@crossdbridge), ce qui rattache le studio à Ridge lui-même. More Sewo est le label auquel est aussi signé BONNA, l’artiste bouyon de La Plaine, en Dominique.",
+  ),
+  (
+    "D’où vient Money Shaun ?",
+    "Le dossier public ne le dit pas, et ce profil ne l’invente pas : aucune source consultée ne donne sa ville ni son pays d’origine. Ce qui est documenté, c’est son circuit : un producteur dominicain, Ridge, un studio, Cross D Bridge Studio, un label, More Sewo, et des titres classés par les DJs dans les sélections bouyon de la Dominique. Son origine personnelle reste à confirmer par l’artiste ou son entourage.",
+  ),
+  (
+    "Où écouter Money Shaun ?",
+    "Par la vidéo officielle de She Want That Ah publiée sous le nom de Mr Ridge, puis par les mixes qui programment ses deux titres : Soca Passport de DJ Close Connections, Sewo Jam 2023-2024 de Digga D, le Miami Carnival Soca Mix 2024 de Deejblaze ou le mix Carnaval 2024 de DJ T-Sia. Pour entendre la scène bouyon au sens large, suivez aussi notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>.",
+  ),
+  (
+    "Qu’est-ce que She Stupid avec Money Shaun ?",
+    "She Stupid est le deuxième titre documenté de Money Shaun, cité sous la forme Ridge, Money Shaun & 1t1 dans les tracklists du podcast DJ Close Connections et dans la liste Soca Passport (Island Hoppin' 2024). Le titre y côtoie le répertoire bouyon dominicain du moment, dont Asa Bantan, Signal Band et Trilla-G. Il existe dans le dossier public par sa vie en mix, sans fiche plateforme complète retrouvée.",
+  ),
+  (
+    "Qui est Mr Ridge, le partenaire de Money Shaun ?",
+    "Mr Ridge, nom d’artiste <a href=\"/ridge.html\">Ridge</a>, est un artiste bouyon dominicain, claviériste et producteur, connu sur Instagram sous le nom @crossdbridge. Il a remporté le prix Bouyon Artist of the Year aux Caribbean Music Awards 2026, selon les résultats publiés en septembre 2026. Les deux titres documentés de Money Shaun sont des titres de Ridge, ce qui fait de Money Shaun la voix associée à ce producteur.",
+  ),
+  (
+    "Quel est le lien entre Money Shaun et 1T1 ?",
+    "Ils se retrouvent sur She Stupid, crédité Ridge, Money Shaun & 1t1 dans les tracklists du podcast DJ Close Connections. <a href=\"/1t1.html\">1T1</a> est un producteur central du bouyon guadeloupéen actuel, et sa rencontre avec Ridge et Money Shaun sur un même titre illustre la circulation permanente entre la Dominique et la Guadeloupe : les riddims, les voix et les featuring traversent la mer dans les deux sens.",
+  ),
+  (
+    "Qu’est-ce que More Sewo, crédité sur She Want That Ah ?",
+    "More Sewo est le label crédité à la production de She Want That Ah aux côtés de Cross D Bridge Studio, selon la description de la vidéo officielle. C’est aussi le label auquel est signé <a href=\"/bonna.html\">BONNA</a>, l’artiste bouyon de La Plaine, en Dominique. Pour Money Shaun, ce crédit est la seule attache industrielle documentée : aucun label personnel ni management publié n’a été retrouvé.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/money-shaun.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/money-shaun.html#artist", "name": "Money Shaun", "description": "Voix bouyon connue par ses featuring avec Ridge : She Want That Ah, produit par Cross D Bridge Studio et More Sewo, et She Stupid avec Ridge et 1T1. Aucune biographie officielle publiée à ce jour.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "She Want That Ah"}, {"@type": "MusicRecording", "name": "She Stupid"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -138,13 +172,47 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Money Shaun?", "Money Shaun is a bouyon voice known through his features with the Dominican producer Ridge, also released under the name Mr Ridge. No official biography and no solo artist page were found on the major platforms during the research for this profile: his name is documented by two records, She Want That Ah and She Stupid, and by their repeated presence in bouyon and soca DJ mixes."),
-  ("Is She Want That Ah a Mr Ridge record or a Money Shaun record?", "Both, but not in the same role, and that is the point the tracklists often blur. The official publication, on YouTube, is titled Mr Ridge feat. Money Shaun: the record is released under the name of Mr Ridge, with Money Shaun as the featured artist, and the production is credited to Cross D Bridge Studio and More Sewo. The mixes then bill it in shortened forms, Mr Ridge & Money Shaun or Ridge & Money Shaun, which put both names on the same level. The full and correct form remains the one of the original publication."),
-  ("Which Money Shaun records are documented?", "Two checkable records: She Want That Ah, by Mr Ridge with Money Shaun featured, produced by Cross D Bridge Studio and More Sewo, and She Stupid, which brings together Ridge, Money Shaun and <a href=\"/en/1t1.html\">1T1</a> and which the DJ Close Connections podcast tracklists name, notably in Soca Passport (Island Hoppin' 2024). No solo record and no other credited feature was found in a checkable way."),
-  ("Who produced She Want That Ah?", "The official video description credits the production to Cross D Bridge Studio and to More Sewo. Cross D Bridge is also the name under which <a href=\"/en/ridge.html\">Ridge</a>, the lead artist of the record, is known on Instagram, @crossdbridge, which ties the studio to Ridge himself. More Sewo is the label <a href=\"/en/bonna.html\">BONNA</a> is also signed to."),
-  ("Where is Money Shaun from?", "The public record does not say, and this profile does not invent it. No source consulted gives his town or his country of origin. What is documented is his circuit: a Dominican producer, Ridge, a studio, Cross D Bridge Studio, a label, More Sewo, and records filed by DJs inside Dominica bouyon selections. His personal origin remains to be confirmed by the artist or his circle."),
-  ("Where can I hear Money Shaun?", "Through the official She Want That Ah video released under the name of Mr Ridge, and through the mixes that programme his two records: DJ Close Connections Soca Passport, Digga D Sewo Jam 2023-2024, Deejblaze Miami Carnival Soca Mix 2024 or DJ T-Sia Carnaval 2024 mix. Follow our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> as well.")
- ],
+  (
+    "Who is Money Shaun?",
+    "Money Shaun is a bouyon voice known through his features with the Dominican producer Ridge, also released under the name Mr Ridge. No official biography and no solo artist page were found on the major platforms during the research for this profile: his name is documented by two records, She Want That Ah and She Stupid, and by their repeated presence in bouyon and soca DJ mixes.",
+  ),
+  (
+    "Is She Want That Ah a Mr Ridge record or a Money Shaun record?",
+    "Both, but not in the same role. The official publication, on YouTube, is titled Mr Ridge feat. Money Shaun: the record is released under the name of Mr Ridge, with Money Shaun as the featured artist, and the production is credited to Cross D Bridge Studio and More Sewo. Mixes then shorten it to Mr Ridge & Money Shaun, but the correct form remains the one of the original publication.",
+  ),
+  (
+    "Which Money Shaun records are documented?",
+    "Two checkable records: She Want That Ah, by Mr Ridge with Money Shaun featured, produced by Cross D Bridge Studio and More Sewo, and She Stupid, which brings together Ridge, Money Shaun and <a href=\"/en/1t1.html\">1T1</a> and which the DJ Close Connections podcast tracklists name, notably in Soca Passport (Island Hoppin' 2024). No solo record and no other credited feature was found in a checkable way.",
+  ),
+  (
+    "Who produced She Want That Ah?",
+    "The official video description credits the production to Cross D Bridge Studio and to More Sewo. Cross D Bridge is also the name under which <a href=\"/en/ridge.html\">Ridge</a>, the lead artist of the record, is known on Instagram (@crossdbridge), which ties the studio to Ridge himself. More Sewo is the label BONNA, the bouyon artist from La Plaine in Dominica, is also signed to.",
+  ),
+  (
+    "Where is Money Shaun from?",
+    "The public record does not say, and this profile does not invent it: no source consulted gives his town or his country of origin. What is documented is his circuit: a Dominican producer, Ridge, a studio, Cross D Bridge Studio, a label, More Sewo, and records filed by DJs inside Dominica bouyon selections. His personal origin remains to be confirmed by the artist or his circle.",
+  ),
+  (
+    "Where can I hear Money Shaun?",
+    "Through the official She Want That Ah video released under the name of Mr Ridge, then through the mixes that programme his two records: DJ Close Connections’ Soca Passport, Digga D’s Sewo Jam 2023-2024, Deejblaze’s Miami Carnival Soca Mix 2024 or DJ T-Sia’s Carnaval 2024 mix. To hear the wider bouyon scene, follow our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> as well.",
+  ),
+  (
+    "What is She Stupid with Money Shaun?",
+    "She Stupid is Money Shaun’s second documented record, billed as Ridge, Money Shaun & 1t1 in the DJ Close Connections podcast tracklists and in the Soca Passport (Island Hoppin' 2024) listing. There it sits among the Dominica bouyon repertoire of the moment, including Asa Bantan, Signal Band and Trilla-G. It exists in the public record through its life in mixes, with no complete platform listing found.",
+  ),
+  (
+    "Who is Mr Ridge, Money Shaun’s partner?",
+    "Mr Ridge, artist name <a href=\"/en/ridge.html\">Ridge</a>, is a Dominican bouyon artist, keyboardist and producer, known on Instagram as @crossdbridge. He won Bouyon Artist of the Year at the Caribbean Music Awards 2026, according to the results published in September 2026. Both of Money Shaun’s documented records are Ridge records, which makes Money Shaun the voice associated with that producer.",
+  ),
+  (
+    "What is the link between Money Shaun and 1T1?",
+    "They meet on She Stupid, billed as Ridge, Money Shaun & 1t1 in the DJ Close Connections podcast tracklists. <a href=\"/en/1t1.html\">1T1</a> is a central producer of today’s Guadeloupe bouyon, and his meeting with Ridge and Money Shaun on one record shows the constant traffic between Dominica and Guadeloupe: riddims, voices and features cross the sea in both directions.",
+  ),
+  (
+    "What is More Sewo, credited on She Want That Ah?",
+    "More Sewo is the label credited with the production of She Want That Ah alongside Cross D Bridge Studio, according to the official video description. It is also the label <a href=\"/en/bonna.html\">BONNA</a>, the bouyon artist from La Plaine in Dominica, is signed to. For Money Shaun, this credit is the only documented industry tie: no personal label and no published management were found.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/money-shaun.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/money-shaun.html#artist", "name": "Money Shaun", "description": "Bouyon voice known through his features with Ridge: She Want That Ah, produced by Cross D Bridge Studio and More Sewo, and She Stupid with Ridge and 1T1. No official biography published to date.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "She Want That Ah"}, {"@type": "MusicRecording", "name": "She Stupid"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

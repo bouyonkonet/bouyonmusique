@@ -70,13 +70,47 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Trixx ?", "Trixx est un artiste bouyon émergent de la Dominique. Son dossier public vérifié comprend un featuring sur « Make Her Bawl » de Signal Band, des titres avec Beevo et Freddy repérés dans des tracklists de DJs, une place à l’affiche du premier Bouyon Festival de Saint-Martin en mai 2025, et une nomination de finaliste aux Dominica Music Awards 2025."),
-  ("Trixx est-il membre de Trixz Migos ?", "Aucune source consultée ne le dit. Dans la liste officielle des finalistes des Dominica Music Awards 2025, Trixx et Trixz Migos figurent comme deux entrées distinctes de la même catégorie, Rising Artist/Band of the Year : les prix les traitent donc comme deux actes séparés. Les titres du groupe, comme « What She Like » avec Hussey, sont documentés sur le profil du groupe, pas ici. La confusion vient aussi des orthographes variables du nom du groupe dans les tracklists, jusqu’à une forme « Trixx Migos »."),
-  ("Quels sont les titres vérifiés de Trixx ?", "Quatre collaborations : « Make Her Bawl », avec Signal Band, Shelly et DJ Taffy, classé dans le Dominican Bouyon and Soca Top Trending Songs d’Island Vybe pour la semaine se terminant le 26 avril 2025 ; « Doe do me Dat », avec Beevo, dans la sélection du DJWILLYWONKA FACTORY ; « Fall In De Trap », avec Freddy et Beevo, dans le podcast Dj Close Connections ; et un medley « Nasty Freestyle » avec Litleboy, Gwada G et Freddy, dans le mix Bouyon Passport 2026. Aucun titre solo n’est documenté à ce jour."),
-  ("Trixx a-t-il gagné aux Dominica Music Awards 2025 ?", "Non : il était finaliste de la catégorie Rising Artist/Band of the Year, dont le gagnant, annoncé lors de la cérémonie du 3 janvier à l’InterContinental Dominica Cabrits Resort and Spa, à Portsmouth, est Real Reel, selon le compte rendu de Soca News. Les autres finalistes étaient Nice, Faithii, Riddim Knockers Band et Trixz Migos."),
-  ("Où Trixx s’est-il produit sur scène ?", "Au premier Bouyon Festival, organisé par Two Brothers Entertainment à Saint-Martin en mai 2025, selon le compte rendu de Black Island Girl Multimedia. L’affiche réunissait notamment Pudaz, Litle Boy, Freddy, Reo, Nice, Kenny G, Trilla G, Khallion et Edday, et Mr Ridge fermait la soirée. C’est la principale prestation scénique documentée de Trixx dans les sources consultées."),
-  ("Où écouter Trixx ?", "Partez de « Make Her Bawl » de Signal Band, où il est crédité avec Shelly et DJ Taffy, puis cherchez « Doe do me Dat » et « Fall In De Trap » dans les sélections des DJs de la scène dominicaine, comme celles du DJWILLYWONKA FACTORY et de Dj Close Connections. Notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> suit les nouveautés de sa génération au fil des saisons.")
- ],
+  (
+    "Qui est Trixx ?",
+    "Trixx est un artiste bouyon émergent de la Dominique. Son dossier public vérifié comprend un featuring sur « Make Her Bawl » de Signal Band, des titres avec Beevo et Freddy repérés dans des tracklists de DJs, une place à l’affiche du premier Bouyon Festival de Saint-Martin en mai 2025, et une nomination de finaliste aux Dominica Music Awards 2025.",
+  ),
+  (
+    "D’où vient Trixx ?",
+    "Trixx appartient à la vague bouyon actuelle de la Dominique, l’île où le genre est né : les prix nationaux de la Dominique l’ont nommé finaliste en 2025, et ses partenaires de titres, Signal Band, Beevo et Freddy, sont des noms de la même scène. Aucune source consultée ne publie en revanche son village d’origine ni son vrai nom, et ce profil n’en imprime aucun.",
+  ),
+  (
+    "Trixx est-il membre de Trixz Migos ?",
+    "Aucune source consultée ne le dit. Dans la liste officielle des finalistes des Dominica Music Awards 2025, Trixx et Trixz Migos figurent comme deux entrées distinctes de la même catégorie, Rising Artist/Band of the Year : les prix les traitent donc comme deux actes séparés. Les titres du groupe, comme « What She Like » avec Hussey, sont documentés sur le profil du groupe, pas ici.",
+  ),
+  (
+    "Trixx, Trixz Migos ou Trixx Migos : comment ne pas confondre les noms ?",
+    "Trixx, avec deux x, est l’artiste solo de ce profil. Le groupe s’écrit Trixz Migos, mais les sources le publient aussi sous les formes Trixzmigos, TrixZ Migos, Trixmigos et même Trixx Migos dans une tracklist, pour le même « What She Like ». Ces variantes entretiennent le flou. La règle de ce site : les titres du groupe vont au profil du groupe, ceux crédités à Trixx restent ici.",
+  ),
+  (
+    "Quels sont les titres vérifiés de Trixx ?",
+    "Quatre collaborations : « Make Her Bawl », avec Signal Band, Shelly et DJ Taffy, classé en tendance en avril 2025 ; « Doe do me Dat », avec Beevo, dans la sélection du DJWILLYWONKA FACTORY ; « Fall In De Trap », avec Freddy et Beevo, dans le podcast Dj Close Connections ; et un medley « Nasty Freestyle » avec Litleboy, Gwada G et Freddy, dans le mix Bouyon Passport 2026. Aucun titre solo n’est documenté.",
+  ),
+  (
+    "Qui chante sur « Make Her Bawl » avec Trixx ?",
+    "Le crédit complet, publié par le classement Dominican Bouyon and Soca Top Trending Songs d’Island Vybe pour la semaine se terminant le 26 avril 2025, est Signal Band, Shelly, DJ Taffy et Trixx. Signal Band est le groupe dominant du bouyon actuel, Shelly son chanteur, DJ Taffy l’un de ses producteurs attitrés : être le quatrième nom de ce crédit est la ligne la plus forte du dossier de Trixx.",
+  ),
+  (
+    "Avec qui Trixx a-t-il collaboré ?",
+    "Surtout avec Beevo, son partenaire le plus régulier : ils signent « Doe do me Dat » à deux, puis « Fall In De Trap » avec Freddy, repérés dans deux mixes différents. Freddy revient aussi sur le medley « Nasty Freestyle » avec Litleboy et Gwada G, et Trixx est crédité avec Signal Band, Shelly et DJ Taffy sur « Make Her Bawl ». Voir notre profil de <a href=\"/beevo.html\">Beevo</a>.",
+  ),
+  (
+    "Trixx a-t-il gagné aux Dominica Music Awards 2025 ?",
+    "Non : il était finaliste de la catégorie Rising Artist/Band of the Year, dont le gagnant, annoncé lors de la cérémonie du 3 janvier à l’InterContinental Dominica Cabrits Resort and Spa, à Portsmouth, est Real Reel, selon le compte rendu de Soca News. Les autres finalistes étaient Nice, Faithii, Riddim Knockers Band et Trixz Migos.",
+  ),
+  (
+    "Où Trixx s’est-il produit sur scène ?",
+    "Au premier Bouyon Festival, organisé par Two Brothers Entertainment à Saint-Martin en mai 2025, selon le compte rendu de Black Island Girl Multimedia, qui le présente comme la première édition d’un festival consacré au genre hors de la Dominique. L’affiche réunissait notamment Pudaz, Litle Boy, Freddy, Reo, Nice, Kenny G, Trilla G, Khallion et Edday, et Mr Ridge fermait la soirée.",
+  ),
+  (
+    "Où écouter Trixx ?",
+    "Partez de « Make Her Bawl » de Signal Band, où il est crédité avec Shelly et DJ Taffy, puis cherchez « Doe do me Dat » et « Fall In De Trap » dans les sélections des DJs de la scène dominicaine, comme celles du DJWILLYWONKA FACTORY et de Dj Close Connections. Pour les nouveautés de sa génération, la <a href=\"/playlist-bouyon.html\">playlist Bouyon Road Mix</a> de Bouyon Shattaz suit la scène.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/trixx.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/trixx.html#artist", "name": "Trixx", "description": "Artiste bouyon émergent de la Dominique. Finaliste Rising Artist/Band of the Year aux Dominica Music Awards 2025, crédité sur Make Her Bawl de Signal Band et sur des titres avec Beevo et Freddy. Listé séparément du groupe Trixz Migos dans les listes officielles consultées.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Make Her Bawl"}, {"@type": "MusicRecording", "name": "Doe do me Dat"}, {"@type": "MusicRecording", "name": "Fall In De Trap"}, {"@type": "MusicRecording", "name": "Nasty Freestyle"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -142,13 +176,47 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Trixx?", "Trixx is an emerging bouyon artist from Dominica. His verified public file includes a feature on Signal Band “Make Her Bawl”, records with Beevo and Freddy traced in DJ tracklists, a place on the bill of the first Bouyon Festival in St. Maarten in May 2025, and a finalist nomination at the Dominica Music Awards 2025."),
-  ("Is Trixx a member of Trixz Migos?", "No source consulted says so. In the official Dominica Music Awards 2025 finalists list, Trixx and Trixz Migos appear as two distinct entries in the same category, Rising Artist/Band of the Year: the awards therefore treat them as two separate acts. The group records, such as “What She Like” with Hussey, are documented on the group profile, not here. The confusion also comes from the variable spellings of the group name in tracklists, up to a “Trixx Migos” form."),
-  ("What are the verified Trixx records?", "Four collaborations: “Make Her Bawl”, with Signal Band, Shelly and DJ Taffy, charted in Island Vybe Dominican Bouyon and Soca Top Trending Songs for the week ending April 26, 2025; “Doe do me Dat”, with Beevo, in the DJWILLYWONKA FACTORY selection; “Fall In De Trap”, with Freddy and Beevo, in the Dj Close Connections podcast; and a “Nasty Freestyle” medley with Litleboy, Gwada G and Freddy, in the Bouyon Passport 2026 mix. No solo record is documented to date."),
-  ("Did Trixx win at the Dominica Music Awards 2025?", "No: he was a finalist in the Rising Artist/Band of the Year category, whose winner, announced at the January 3 ceremony at the InterContinental Dominica Cabrits Resort and Spa in Portsmouth, is Real Reel, according to the Soca News report. The other finalists were Nice, Faithii, Riddim Knockers Band and Trixz Migos."),
-  ("Where has Trixx performed live?", "At the first Bouyon Festival, organised by Two Brothers Entertainment in St. Maarten in May 2025, according to the Black Island Girl Multimedia report. The bill also included Pudaz, Litle Boy, Freddy, Reo, Nice, Kenny G, Trilla G, Khallion and Edday, and Mr Ridge closed the night. It is the main documented live performance by Trixx in the sources consulted."),
-  ("Where can I hear Trixx?", "Start from Signal Band “Make Her Bawl”, where he is credited with Shelly and DJ Taffy, then look for “Doe do me Dat” and “Fall In De Trap” in the selections of DJs from the Dominican scene, such as the DJWILLYWONKA FACTORY and Dj Close Connections. Our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> follows the new releases of his generation season by season.")
- ],
+  (
+    "Who is Trixx?",
+    "Trixx is an emerging bouyon artist from Dominica. His verified public file includes a feature on Signal Band’s “Make Her Bawl”, records with Beevo and Freddy traced in DJ tracklists, a place on the bill of the first Bouyon Festival in St. Maarten in May 2025, and a finalist nomination at the Dominica Music Awards 2025.",
+  ),
+  (
+    "Where is Trixx from?",
+    "Trixx belongs to the current bouyon wave of Dominica, the island where the genre was born: Dominica’s national awards named him a finalist in 2025, and his partners on record, Signal Band, Beevo and Freddy, are names of the same scene. No source consulted, however, publishes his home village or his real name, and this profile prints neither.",
+  ),
+  (
+    "Is Trixx a member of Trixz Migos?",
+    "No source consulted says so. In the official Dominica Music Awards 2025 finalists list, Trixx and Trixz Migos appear as two distinct entries in the same category, Rising Artist/Band of the Year: the awards therefore treat them as two separate acts. The group’s records, such as “What She Like” with Hussey, are documented on the group profile, not here.",
+  ),
+  (
+    "Trixx, Trixz Migos or Trixx Migos: how not to mix up the names?",
+    "Trixx, with two x, is the solo artist of this profile. The group is spelled Trixz Migos, but sources also publish it as Trixzmigos, TrixZ Migos, Trixmigos and even Trixx Migos in one tracklist, for the same “What She Like”. Those variants feed the confusion. This site’s rule: the group’s records go to the group profile, those credited to Trixx stay here.",
+  ),
+  (
+    "What are the verified Trixx records?",
+    "Four collaborations: “Make Her Bawl”, with Signal Band, Shelly and DJ Taffy, trending in April 2025; “Doe do me Dat”, with Beevo, in the DJWILLYWONKA FACTORY selection; “Fall In De Trap”, with Freddy and Beevo, in the Dj Close Connections podcast; and a “Nasty Freestyle” medley with Litleboy, Gwada G and Freddy, in the Bouyon Passport 2026 mix. No solo record is documented.",
+  ),
+  (
+    "Who sings on “Make Her Bawl” with Trixx?",
+    "The full credit, published by Island Vybe’s Dominican Bouyon and Soca Top Trending Songs chart for the week ending April 26, 2025, is Signal Band, Shelly, DJ Taffy and Trixx. Signal Band is the leading group of today’s bouyon, Shelly its singer, DJ Taffy one of its regular producers: being the fourth name on that credit is the strongest line in the Trixx file.",
+  ),
+  (
+    "Who has Trixx worked with?",
+    "Mostly with Beevo, his most regular partner: they sign “Doe do me Dat” as a pair, then “Fall In De Trap” with Freddy, traced in two different mixes. Freddy also returns on the “Nasty Freestyle” medley with Litleboy and Gwada G, and Trixx is credited with Signal Band, Shelly and DJ Taffy on “Make Her Bawl”. See our <a href=\"/en/beevo.html\">Beevo</a> profile.",
+  ),
+  (
+    "Did Trixx win at the Dominica Music Awards 2025?",
+    "No: he was a finalist in the Rising Artist/Band of the Year category, whose winner, announced at the January 3 ceremony at the InterContinental Dominica Cabrits Resort and Spa in Portsmouth, is Real Reel, according to the Soca News report. The other finalists were Nice, Faithii, Riddim Knockers Band and Trixz Migos.",
+  ),
+  (
+    "Where has Trixx performed live?",
+    "At the first Bouyon Festival, organised by Two Brothers Entertainment in St. Maarten in May 2025, according to the Black Island Girl Multimedia report, which presents it as the first festival devoted to the genre outside Dominica. The bill also included Pudaz, Litle Boy, Freddy, Reo, Nice, Kenny G, Trilla G, Khallion and Edday, and Mr Ridge closed the night.",
+  ),
+  (
+    "Where can I hear Trixx?",
+    "Start from Signal Band’s “Make Her Bawl”, where he is credited with Shelly and DJ Taffy, then look for “Doe do me Dat” and “Fall In De Trap” in the selections of DJs from the Dominican scene, such as the DJWILLYWONKA FACTORY and Dj Close Connections. For the new music of his generation, the <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix playlist</a> by Bouyon Shattaz follows the scene.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/trixx.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/trixx.html#artist", "name": "Trixx", "description": "Emerging bouyon artist from Dominica. Rising Artist/Band of the Year finalist at the Dominica Music Awards 2025, credited on Signal Band Make Her Bawl and on records with Beevo and Freddy. Listed separately from the group Trixz Migos in the official lists consulted.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Make Her Bawl"}, {"@type": "MusicRecording", "name": "Doe do me Dat"}, {"@type": "MusicRecording", "name": "Fall In De Trap"}, {"@type": "MusicRecording", "name": "Nasty Freestyle"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

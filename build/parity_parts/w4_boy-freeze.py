@@ -86,13 +86,63 @@ FR = {
   ]
  ],
  "faq": [
-  ("Boy Freeze et Fr3EzE sont-ils le même artiste ?", "Aucune source consultee en octobre 2026 n’emploie le nom Boy Freeze, et aucune né le relié a Fr3EzE. Le Freeze vérifié de la scène bouyon est Fr3EzE, producteur dominicain crédité sur Mood de TriSzy, Bye to the Old Me et l’album de Trilla-G. Ce profil suit ce dossier vérifié et signale l’ecart de nom au lieu de le presenter comme une identite établie."),
-  ("Qui a produit « Mood » de TriSzy ?", "Selon CaribMagPlus, « Mood », le single de TriSzy sorti en avril 2025, a été produit par Fr3EzE, producteur dominicain. Le mixage et le mastering du titre sont attribues a Tha WizZarD."),
-  ("Quel est le rôle exact de Fr3EzE sur « Bye to the Old Me » ?", "Le generique publié par Island Vybe et Sokah2Soca crédité Fr3EzE de la programmation additionnelle du riddim. La composition et la réalisation du titre, interprète par Shelly, Nice et Pudaz, sont attribuees a Dernel « Dernz » Green. Ce profil retient le generique plutot que les formules de presse plus larges."),
-  ("Sur quel album de Trilla-G Fr3EzE est-il crédité ?", "The Bajan Reporter liste Fr3EzE parmi les crédits de production de « Take Me as I Am: The Album », le projet de 13 titres de Trilla-G sorti le 22 octobre 2025, aux côtés de Mask Man et de DernzMusik pour la Dominique."),
-  ("Quels riddims de Fr3EzE peut-on vérifier ?", "Sa chaîne YouTube et les tracklists de podcasts bouyon documentent notamment « Skyfall » (Bouyon Riddim 2024), « Nothing At All Riddim », « Hold Me Closer Riddim », « To The Moon Bouyon Remix » et le warm up « Love in the dark » d’après Adele, affiché a plus d’un million de vues sur la chaîne."),
-  ("Connait-on le vrai nom et la ville de Fr3EzE ?", "Non. Les sources ouvertes consultees le presentent comme un producteur de la Dominique, sans nom civil, ville, âge ou label publiés. Ce profil né les invente pas, et ses données structurees né contiennent aucun lien officiel non vérifié.")
- ],
+  (
+    "Boy Freeze et Fr3EzE sont-ils le même artiste ?",
+    "Rien ne le confirme : aucune source consultée en octobre 2026 n’emploie le nom Boy Freeze, et aucune ne le relie à Fr3EzE. Le Freeze vérifié de la scène bouyon est Fr3EzE, producteur dominicain crédité sur « Mood » de TriSzy, sur « Bye to the Old Me » et sur l’album de Trilla-G. Ce profil suit ce dossier vérifié et signale l’écart de nom au lieu de le présenter comme une identité établie.",
+  ),
+  (
+    "Qui a produit « Mood » de TriSzy ?",
+    "Selon CaribMagPlus, « Mood », le single de TriSzy sorti en avril 2025, a été produit par Fr3EzE, producteur dominicain, et mixé et masterisé par Tha WizZarD. TriSzy, de son vrai nom Tristan Shillingford, y revient au bouyon après un parcours hip hop, R&B, dancehall et soca. Le titre a dépassé les 6 000 vues sur YouTube dans les semaines qui ont suivi sa sortie.",
+  ),
+  (
+    "Quel est le rôle exact de Fr3EzE sur « Bye to the Old Me » ?",
+    "Le générique publié par Island Vybe et Sokah2Soca crédite Fr3EzE de la programmation additionnelle du riddim. L’écriture revient à Sheldon Alfred, Miguel Hussey et Udi Prince, la composition et la réalisation à Dernel « Dernz » Green, pour un titre interprété par Shelly, Nice et Pudaz. La fiche plateforme de la version de Signal Band avec Shelly nomme aussi Andel Horsford, le nom complet de Fr3EzE, à la production avec Dernel Green.",
+  ),
+  (
+    "Sur quel album de Trilla-G Fr3EzE est-il crédité ?",
+    "The Bajan Reporter liste Fr3EzE parmi les crédits de production de « Take Me as I Am: The Album », le premier album de Trilla-G, 13 titres sortis le 22 octobre 2025 et enregistrés aux Th3rdHouse Studios des Îles Vierges américaines. Il y représente la Dominique aux côtés de Mask Man et de DernzMusik. Le titre phare, « Take Me As I Am », avait dépassé le million de vues sur YouTube.",
+  ),
+  (
+    "Quels riddims de Fr3EzE peut-on vérifier ?",
+    "Sa chaîne YouTube et les tracklists de podcasts bouyon documentent notamment « Skyfall » (Bouyon Riddim 2024), « Nothing At All Riddim », « Hold Me Closer Riddim », « Up and down Riddim », « To The Moon Bouyon Remix » et un remix bouyon de « All I Want For Christmas is You ». Le podcast de Blaqrose Suprême programme à lui seul quatre titres de Fr3EzE. Voir notre page <a href=\"/bouyon-riddim.html\">riddim bouyon</a>.",
+  ),
+  (
+    "Connait-on le vrai nom et la ville de Fr3EzE ?",
+    "En partie. Des crédits relevés ailleurs sur ce site donnent son nom complet : la fiche de « Bye to de Old Me » nomme Andel Horsford, et CaribMagPlus écrit Andel « Fr3EzE » Horsford à propos de « Congratulations » de Trilla-G. Aucune source consultée ne publie en revanche sa ville, son âge ou un label. Ce profil n’invente pas ces éléments, et ses données structurées ne portent aucun lien officiel non vérifié.",
+  ),
+  (
+    "Qui est Fr3EzE ?",
+    "Fr3EzE est un producteur bouyon de la Dominique, présenté par CaribMagPlus comme un producteur dominicain important. Il a produit « Mood » de TriSzy, programmé le riddim de « Bye to the Old Me » en renfort, figure parmi les producteurs de l’album de Trilla-G et coproduit « Congratulations ». Sa chaîne YouTube aligne riddims, remixes et warm ups bouyon. Les Dominica Music Awards 2025 l’ont retenu parmi les finalistes du producteur de l’année.",
+  ),
+  (
+    "Comment s’écrit le nom : Fr3EzE, Fre3ze ou Freeze ?",
+    "La graphie des crédits et de sa chaîne est Fr3EzE, avec un 3 à la place du e, et elle se prononce Freeze. D’autres formes circulent : Fre3ze dans la liste des finalistes des Dominica Music Awards 2025, Fr3eze dans une tracklist de riddims. « Boy Freeze », le nom de cette page, n’apparaît dans aucune source consultée. Ce site retient Fr3EzE et signale les variantes pour que chaque recherche mène au même producteur.",
+  ),
+  (
+    "Fr3EzE a-t-il été nommé aux Dominica Music Awards ?",
+    "Oui. Andel « Fre3ze » Horsford figure parmi les six finalistes de la catégorie producteur de l’année des Dominica Music Awards 2025, avec Arade « Maskman » Moses, Tha Wizzard, DJ Taffy, Litle Boy et Cross D Bridge Studio. Lors de la cérémonie du 3 janvier 2026, le prix est revenu à Mr Ridge, et le clip de « Bye to de Old Me » a été élu clip de l’année. Voir <a href=\"/dj-taffy.html\">DJ Taffy</a>.",
+  ),
+  (
+    "Qui a produit Congratulations de Trilla-G ?",
+    "Selon CaribMagPlus, le 10 février 2026, « Congratulations » est produit par Andel « Fr3EzE » Horsford et Dernel Green. Trilla-G a écrit ce single pendant sa maladie et l’a publié après l’annonce de sa rémission, avec Th3rd en invité, des écritures additionnelles de Shane Maloone et Christon Jno Baptiste et la guitare live de Giovannie Green. Le parcours de l’artiste est sur notre page <a href=\"/trilla-g.html\">Trilla-G</a>.",
+  ),
+  (
+    "Fr3EzE est-il dominicain ?",
+    "Oui, toutes les sources qui le situent le rattachent à la Dominique. CaribMagPlus le présente comme un producteur dominicain, The Bajan Reporter le range parmi les crédits de production de la Dominique sur l’album de Trilla-G, et il est finaliste des Dominica Music Awards 2025. Ses collaborateurs documentés, Signal Band, Shelly, Trilla-G, Dernel Green et TriSzy, appartiennent à la scène dominicaine, l’île où le bouyon est né.",
+  ),
+  (
+    "Quels autres titres bouyon Fr3EzE a-t-il produits ?",
+    "Les profils de ce site relèvent deux autres productions. « Work Dat », de DJ MJ avec Unstoppable Shax et Blasian Gyal, sort le 1er février 2025 sur le label DJMJ ANYWAY, produit par Fr3EzE et Mv Designs, à 160 BPM. « Largent », de General Pye avec Ebony Empress, présenté comme Bouyon 2026 sur YouTube, est produit par Fr3EzE et mixé par Xavvoknockin. Voir <a href=\"/dj-mj.html\">DJ MJ</a>.",
+  ),
+  (
+    "Qu’est-ce que le warm up Love in the dark de Fr3EzE ?",
+    "C’est une version bouyon de « Love in the dark » d’Adele, publiée sur la chaîne de Fr3EzE avec la mention « prod by Fr3EzE », et affichée à plus d’un million de vues : le titre le plus vu de sa chaîne. Un warm up rebâtit une ballade ou un tube venu d’ailleurs sur la rythmique dominicaine pour faire chauffer soirées et mixes avant le carnaval. Voir <a href=\"/bouyon-instrumental.html\">bouyon instrumental</a>.",
+  ),
+  (
+    "Où écouter les productions de Fr3EzE ?",
+    "Commencez par « Mood » de TriSzy et « Bye to the Old Me » de Shelly, Nice et Pudaz, puis l’album « Take Me as I Am » de Trilla-G. Sa chaîne YouTube rassemble ses riddims et warm ups, de « Skyfall » à « Love in the dark ». Pour suivre le bouyon dominicain actuel, commentez ROAD MIX sous une publication de @bouyonshattaz sur Instagram, ou ouvrez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/boy-freeze.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/boy-freeze.html#artist", "name": "Boy Freeze", "description": "Nom recherche pour le Freeze vérifié du bouyon, Fr3EzE, producteur de la Dominique : producteur de Mood de TriSzy, programmation additionnelle sur Bye to the Old Me, crédit sur l’album Take Me as I Am de Trilla-G. Aucune source n’emploie le nom Boy Freeze.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Mood"}, {"@type": "MusicRecording", "name": "Bye to the Old Me"}, {"@type": "MusicRecording", "name": "Skyfall"}, {"@type": "MusicRecording", "name": "Love in the dark Warm up"}, {"@type": "MusicRecording", "name": "Nothing At All Riddim"}, {"@type": "MusicRecording", "name": "Hold Me Closer Riddim"}, {"@type": "MusicRecording", "name": "To The Moon Bouyon Remix"}, {"@type": "MusicRecording", "name": "All I Want For Christmas is You Bouyon Remix"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -155,13 +205,63 @@ EN = {
   ]
  ],
  "faq": [
-  ("Are Boy Freeze and Fr3EzE the same artist?", "No source consulted in October 2026 uses the Boy Freeze name, and none links it to Fr3EzE. The verified Freeze of the bouyon scene is Fr3EzE, a producer from Dominica credited on TriSzy Mood, Bye to the Old Me and the Trilla-G album. This profile follows that verified record and flags the name gap instead of presenting it as an established identity."),
-  ("Who produced TriSzy “Mood”?", "According to CaribMagPlus, “Mood”, the TriSzy single released in April 2025, was produced by Fr3EzE, a producer from Dominica. Mixing and mastering of the track are credited to Tha WizZarD."),
-  ("What is the exact Fr3EzE role on “Bye to the Old Me”?", "The credit roll published by Island Vybe and Sokah2Soca credits Fr3EzE with additional riddim programming. Composition and engineering of the track, performed by Shelly, Nice and Pudaz, are credited to Dernel “Dernz” Green. This profile stands on the credit roll rather than on wider press formulas."),
-  ("On which Trilla-G album is Fr3EzE credited?", "The Bajan Reporter lists Fr3EzE among the production credits of “Take Me as I Am: The Album”, the 13 track Trilla-G project released on 22 October 2025, alongside Mask Man and DernzMusik for Dominica."),
-  ("Which Fr3EzE riddims can be verified?", "His YouTube channel and bouyon podcast tracklists document among others “Skyfall” (Bouyon Riddim 2024), “Nothing At All Riddim”, “Hold Me Closer Riddim”, “To The Moon Bouyon Remix” and the “Love in the dark” warm up after Adele, shown at over one million views on the channel."),
-  ("Do we know the real name and town of Fr3EzE?", "No. The open sources consulted present him as a producer from Dominica, with no published real name, town, age or label. This profile does not invent them, and its structured data carries no unverified official link.")
- ],
+  (
+    "Are Boy Freeze and Fr3EzE the same artist?",
+    "Nothing confirms it: no source consulted in October 2026 uses the name Boy Freeze, and none links it to Fr3EzE. The verified Freeze of the bouyon scene is Fr3EzE, a producer from Dominica credited on TriSzy’s “Mood”, on “Bye to the Old Me” and on the Trilla-G album. This profile follows that verified record and flags the name gap instead of presenting it as an established identity.",
+  ),
+  (
+    "Who produced “Mood” by TriSzy?",
+    "According to CaribMagPlus, “Mood”, TriSzy’s single released in April 2025, was produced by Fr3EzE, a producer from Dominica, and mixed and mastered by Tha WizZarD. TriSzy, real name Tristan Shillingford, returns to bouyon on it after a path through hip hop, R&B, dancehall and soca. The track passed 6,000 YouTube views in the weeks after its release.",
+  ),
+  (
+    "What exactly did Fr3EzE do on “Bye to the Old Me”?",
+    "The credit roll published by Island Vybe and Sokah2Soca credits Fr3EzE with additional riddim programming. Writing goes to Sheldon Alfred, Miguel Hussey and Udi Prince, composition and engineering to Dernel “Dernz” Green, on a track performed by Shelly, Nice and Pudaz. The platform page of the Signal Band version with Shelly also names Andel Horsford, Fr3EzE’s full name, as producer with Dernel Green.",
+  ),
+  (
+    "On which Trilla-G album is Fr3EzE credited?",
+    "The Bajan Reporter lists Fr3EzE among the production credits of “Take Me as I Am: The Album”, Trilla-G’s first album, 13 tracks released on 22 October 2025 and recorded at Th3rdHouse Studios in the US Virgin Islands. He represents Dominica there alongside Mask Man and DernzMusik. The lead track, “Take Me As I Am”, had passed one million views on YouTube.",
+  ),
+  (
+    "Which riddims by Fr3EzE can be verified?",
+    "His YouTube channel and bouyon podcast tracklists document among others “Skyfall” (Bouyon Riddim 2024), “Nothing At All Riddim”, “Hold Me Closer Riddim”, “Up and down Riddim”, “To The Moon Bouyon Remix” and a bouyon remix of “All I Want For Christmas is You”. Blaqrose Suprême’s podcast alone programmes four Fr3EzE tracks. See our <a href=\"/en/bouyon-riddim.html\">bouyon riddim</a> page.",
+  ),
+  (
+    "Do we know Fr3EzE’s real name and town?",
+    "Partly. Credits recorded elsewhere on this site give his full name: the platform page of “Bye to de Old Me” names Andel Horsford, and CaribMagPlus writes Andel “Fr3EzE” Horsford about Trilla-G’s “Congratulations”. No source consulted publishes his town, age or label, however. This profile does not invent them, and its structured data carries no unverified official link.",
+  ),
+  (
+    "Who is Fr3EzE?",
+    "Fr3EzE is a bouyon producer from Dominica, described by CaribMagPlus as a prominent Dominican producer. He produced TriSzy’s “Mood”, added riddim programming on “Bye to the Old Me”, is among the producers of Trilla-G’s album and co-produced “Congratulations”. His YouTube channel lines up bouyon riddims, remixes and warm ups. The Dominica Music Awards 2025 named him among the Producer of the Year finalists.",
+  ),
+  (
+    "How do you spell the name: Fr3EzE, Fre3ze or Freeze?",
+    "The spelling on his credits and channel is Fr3EzE, with a 3 in place of the e, and it is pronounced Freeze. Other forms circulate: Fre3ze in the Dominica Music Awards 2025 finalist list, Fr3eze in a riddim tracklist. “Boy Freeze”, the name of this page, appears in no source consulted. This site uses Fr3EzE and flags the variants so that every search leads to the same producer.",
+  ),
+  (
+    "Was Fr3EzE nominated at the Dominica Music Awards?",
+    "Yes. Andel “Fre3ze” Horsford is among the six Producer of the Year finalists at the Dominica Music Awards 2025, with Arade “Maskman” Moses, Tha Wizzard, DJ Taffy, Litle Boy and Cross D Bridge Studio. At the ceremony on 3 January 2026 the award went to Mr Ridge, and the “Bye to de Old Me” video won music video of the year. See <a href=\"/en/dj-taffy.html\">DJ Taffy</a>.",
+  ),
+  (
+    "Who produced Congratulations by Trilla-G?",
+    "According to CaribMagPlus, on 10 February 2026, “Congratulations” is produced by Andel “Fr3EzE” Horsford and Dernel Green. Trilla-G wrote the single during his illness and released it after announcing his remission, with Th3rd as guest, additional writing by Shane Maloone and Christon Jno Baptiste and live guitar by Giovannie Green. The artist’s story is on our <a href=\"/en/trilla-g.html\">Trilla-G</a> page.",
+  ),
+  (
+    "Is Fr3EzE from Dominica?",
+    "Yes, every source that places him ties him to Dominica. CaribMagPlus presents him as a Dominican producer, The Bajan Reporter lists him among the Dominica production credits on Trilla-G’s album, and he is a Dominica Music Awards 2025 finalist. His documented collaborators, Signal Band, Shelly, Trilla-G, Dernel Green and TriSzy, belong to the scene of Dominica, the island where bouyon was born.",
+  ),
+  (
+    "What other bouyon tracks has Fr3EzE produced?",
+    "This site’s profiles record two more productions. “Work Dat”, by DJ MJ with Unstoppable Shax and Blasian Gyal, came out on 1 February 2025 on the DJMJ ANYWAY label, produced by Fr3EzE and Mv Designs, at 160 BPM. “Largent”, by General Pye with Ebony Empress, presented as Bouyon 2026 on YouTube, is produced by Fr3EzE and mixed by Xavvoknockin. See <a href=\"/en/dj-mj.html\">DJ MJ</a>.",
+  ),
+  (
+    "What is Fr3EzE’s Love in the dark warm up?",
+    "It is a bouyon version of Adele’s “Love in the dark”, posted on Fr3EzE’s channel as “prod by Fr3EzE” and shown at over one million views: the most viewed title on his channel. A warm up rebuilds a ballad or a hit from elsewhere on the Dominican rhythm to heat up parties and mixes before carnival. See <a href=\"/en/bouyon-instrumental.html\">bouyon instrumental</a>.",
+  ),
+  (
+    "Where can I hear Fr3EzE’s productions?",
+    "Start with TriSzy’s “Mood” and “Bye to the Old Me” by Shelly, Nice and Pudaz, then Trilla-G’s album “Take Me as I Am”. His YouTube channel gathers his riddims and warm ups, from “Skyfall” to “Love in the dark”. To follow today’s Dominica bouyon, comment ROAD MIX under an @bouyonshattaz post on Instagram, or open our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/boy-freeze.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/boy-freeze.html#artist", "name": "Boy Freeze", "description": "Name searched for the verified Freeze of bouyon, Fr3EzE, producer from Dominica: producer of TriSzy Mood, additional programming on Bye to the Old Me, credit on the Trilla-G album Take Me as I Am. No source uses the Boy Freeze name.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Mood"}, {"@type": "MusicRecording", "name": "Bye to the Old Me"}, {"@type": "MusicRecording", "name": "Skyfall"}, {"@type": "MusicRecording", "name": "Love in the dark Warm up"}, {"@type": "MusicRecording", "name": "Nothing At All Riddim"}, {"@type": "MusicRecording", "name": "Hold Me Closer Riddim"}, {"@type": "MusicRecording", "name": "To The Moon Bouyon Remix"}, {"@type": "MusicRecording", "name": "All I Want For Christmas is You Bouyon Remix"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

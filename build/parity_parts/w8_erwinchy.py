@@ -82,13 +82,47 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Erwinchy ?", "Erwinchy est un artiste de la scène bouyon dominicaine dont le dossier public vérifié compte trois traces : un duo avec Gwada G, « Make A Woman Cum », dans le mix Sewo Jam 2023-2024, un titre avec Kross Beatz listé « Secret Riddim Up » dans un mix du podcast de Blaqrose Supreme, et une programmation officielle à Ti Vilaj Kwéyòl 2026. Aucune biographie vérifiée n’a été retrouvée en octobre 2026."),
-  ("Quels sont les titres vérifiés d Erwinchy ?", "Deux titres, tous deux relevés dans des tracklists publiées : « Make A Woman Cum », en duo avec Gwada G, septième titre de Sewo Jam, le mix hommage à la Dominique de Digga D, et « Secret Riddim Up », avec Kross Beatz, listé à 52 minutes 07 dans un mix bouyon de Blaqrose Supreme. Aucun autre titre n’est listé ici, faute de source vérifiable."),
-  ("Erwinchy joue t’il à Ti Vilaj Kwéyòl 2026, et quand exactement ?", "Oui, selon le programme officiel publié par le ministère du Tourisme et Discover Dominica : le jeudi 22 octobre 2026, jour de la grande finale aux Botanic Gardens de Roseau, le programme annonce « Ignition and Erwinchy » à 14 h 32, entre Explosive Band et Derick « Rah » Peters, sur une journée clôturée par Shelly et Signal Band. C’est le type de précision datée sur lequel ce profil s’appuie."),
-  ("Qui est Ignition, programmé avec Erwinchy ?", "Le programme officiel de Ti Vilaj Kwéyòl 2026 associe les deux noms sous la forme « Ignition and Erwinchy », sans préciser s’il s’agit d’un duo, d’un groupe d’accompagnement ou d’un plateau partagé. Ce profil reproduit cette association telle que la source la publie, et ne tranche pas ce qu elle ne précise pas."),
-  ("Erwinchy a t’il une page Spotify officielle ?", "Un agrégateur de statistiques liste un artiste sous le nom Erwinchy avec une page Spotify associée, mais pendant la recherche d’octobre 2026 cette page n’a livré ni discographie ni biographie utilisable, et le lien Spotify exact n’a pas été ouvert et vérifié. Cette page ne lie donc aucun profil de streaming, et le champ sameAs de son schéma reste vide."),
-  ("Où écouter le bouyon de la génération d Erwinchy ?", "Commencez par la tracklist publiée de Sewo Jam, qui aligne Erwinchy avec Trilla G, Asa Bantan, Triple Kay et Signal Band, puis lisez notre page <a href=\"/bouyon-soca.html\">bouyon soca</a> et écoutez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, qui suit la scène dominicaine actuelle suivie par Bouyon Shattaz.")
- ],
+  (
+    "Qui est Erwinchy ?",
+    "Erwinchy est un artiste de la scène bouyon dominicaine dont le dossier public vérifié compte trois traces : un duo avec Gwada G, « Make A Woman Cum », dans le mix Sewo Jam 2023-2024, un titre avec Kross Beatz listé « Secret Riddim Up » dans un mix du podcast de Blaqrose Supreme, et une programmation officielle à la grande finale de Ti Vilaj Kwéyòl 2026.",
+  ),
+  (
+    "D’où vient Erwinchy ?",
+    "Erwinchy appartient à la scène bouyon de la Dominique : ses titres tournent dans Sewo Jam, le mix hommage à la Dominique de Digga D, et le programme officiel du ministère du Tourisme et de Discover Dominica le place en finale de Ti Vilaj Kwéyòl 2026, à Roseau. Ni sa commune ni sa date de naissance ne sont documentées, et ce profil n’en imprime aucune.",
+  ),
+  (
+    "Quels sont les titres vérifiés d’Erwinchy ?",
+    "Deux titres, tous deux relevés dans des tracklists publiées : « Make A Woman Cum », en duo avec Gwada G, septième titre de Sewo Jam, le mix hommage à la Dominique de Digga D, et « Secret Riddim Up », avec Kross Beatz, listé à 52 minutes 07 dans un mix bouyon de Blaqrose Supreme. Aucun autre titre n’est listé ici, faute de source vérifiable.",
+  ),
+  (
+    "Quel est le lien entre Erwinchy et Gwada G ?",
+    "Ils partagent « Make A Woman Cum », crédité « Erwinchy x Gwada G » en septième position de Sewo Jam 2023-2024. Gwada G, artiste de la Dominique, est un des noms récurrents des tracklists bouyon de ces saisons, présent dans Sewo Jam en solo, en duo et sur les riddims de DJ Taffy. Les deux noms avancent par les duos, le format naturel du bouyon de saison. Voir notre page <a href=\"/gwada-g.html\">Gwada G</a>.",
+  ),
+  (
+    "Qu’est-ce que Sewo Jam, le mix où figure Erwinchy ?",
+    "Sewo Jam est le mix de Digga D publié dans le Soca Podcast pour les saisons 2023-2024, présenté comme un hommage à la Dominique où règne la fierté du bouyon. Sa tracklist aligne Trilla G et Shelly, Asa Bantan, Triple Kay International, Signal Band, First Serenade Band et Carlyn XP. Erwinchy y tient la septième place, juste avant les titres de Mr Gwada et de DJ Taffy.",
+  ),
+  (
+    "Pourquoi le titre Make A Woman Cum est-il aussi direct ?",
+    "Parce qu’il appartient au registre de fête adulte du bouyon de carnaval dominicain, qui assume depuis ses débuts un langage direct, taquin et souvent grivois, hérité du chanté mas, la tradition des chansons de carnaval à double sens. Ce site reproduit le titre tel que la tracklist de Sewo Jam le publie. C’est un registre de soirées et de mixes, plus que de programmation familiale.",
+  ),
+  (
+    "Quand voir Erwinchy à Ti Vilaj Kwéyòl 2026 ?",
+    "Le jeudi 22 octobre 2026 à 14 h 32, selon le programme officiel publié par le ministère du Tourisme et Discover Dominica : jour de la grande finale aux Botanic Gardens de Roseau, le programme annonce « Ignition and Erwinchy », entre Explosive Band et Derick « Rah » Peters, sur une journée clôturée par Shelly et Signal Band à 19 heures.",
+  ),
+  (
+    "Qui est Ignition, programmé avec Erwinchy ?",
+    "Ignition Band est un groupe de la scène bouyon dominicaine dont le dossier compte un titre, « Taste De Waist », en dixième position du mix bouyon 2020 « D Riddim Box » d’Original DJ-Sly. Le programme de Ti Vilaj Kwéyòl 2026 associe les deux noms sous la forme « Ignition and Erwinchy », sans préciser s’il s’agit d’un duo, d’un groupe d’accompagnement ou d’un plateau partagé. Voir notre page <a href=\"/ignition-band.html\">Ignition Band</a>.",
+  ),
+  (
+    "Erwinchy a-t-il une page Spotify officielle ?",
+    "Un agrégateur de statistiques liste un artiste sous le nom Erwinchy avec une page Spotify associée, mais pendant la recherche d’octobre 2026 cette page n’a livré ni discographie ni biographie utilisable, et le lien Spotify exact n’a pas été ouvert et vérifié. Cette page ne lie donc aucun profil de streaming, et le champ sameAs de son schéma reste vide.",
+  ),
+  (
+    "Où écouter le bouyon de la génération d’Erwinchy ?",
+    "Commencez par la tracklist publiée de Sewo Jam, qui aligne Erwinchy avec Trilla G, Asa Bantan, Triple Kay et Signal Band. Pour les nouveautés dominicaines d’aujourd’hui, suivez @bouyonshattaz sur Instagram et commentez ROAD MIX sous une publication : la Bouyon Road Mix de notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> vous est envoyée en DM.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/erwinchy.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/erwinchy.html#artist", "name": "Erwinchy", "description": "Artiste de la scène bouyon dominicaine relevé dans les tracklists Sewo Jam et Blaqrose Supreme, et programmé avec Ignition à Ti Vilaj Kwéyòl 2026 aux Botanic Gardens de Roseau.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Make A Woman Cum"}, {"@type": "MusicRecording", "name": "Secret Riddim Up"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -147,13 +181,47 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Erwinchy?", "Erwinchy is an artist of the Dominican bouyon scene whose verified public record holds three traces: a duet with Gwada G, “Make A Woman Cum”, in the Sewo Jam 2023-2024 mix, a track with Kross Beatz listed as “Secret Riddim Up” in a Blaqrose Supreme podcast mix, and an official Ti Vilaj Kweyol 2026 scheduling. No verified biography was found in October 2026."),
-  ("What are the verified songs of Erwinchy?", "Two tracks, both taken from published tracklists: “Make A Woman Cum”, a duet with Gwada G, seventh track of Sewo Jam, the Digga D homage mix to Dominica, and “Secret Riddim Up”, with Kross Beatz, listed at 52 minutes 07 in a Blaqrose Supreme bouyon mix. No other title is listed here, for lack of a verifiable source."),
-  ("Is Erwinchy playing Ti Vilaj Kweyol 2026, and exactly when?", "Yes, according to the official schedule published by the Ministry of Tourism and Discover Dominica: on Thursday 22 October 2026, grand finale day at the Botanic Gardens in Roseau, the schedule lists “Ignition and Erwinchy” at 2:32 PM, between Explosive Band and Derick “Rah” Peters, on a day closed by Shelly and Signal Band. That is the kind of dated precision this profile relies on."),
-  ("Who is Ignition, scheduled with Erwinchy?", "The official Ti Vilaj Kweyol 2026 schedule pairs the two names in the form “Ignition and Erwinchy”, without stating whether it is a duo, a backing band or a shared slot. This profile reproduces that pairing as the source publishes it, and does not decide what it does not specify."),
-  ("Does Erwinchy have an official Spotify page?", "A statistics aggregator lists an artist under the name Erwinchy with an associated Spotify page, but during the October 2026 research that page returned no usable discography or biography, and the exact Spotify link was not opened and verified. This page therefore links to no streaming profile, and the sameAs field in its schema stays empty."),
-  ("Where can I hear the bouyon of the Erwinchy generation?", "Start with the published Sewo Jam tracklist, which lines Erwinchy up with Trilla G, Asa Bantan, Triple Kay and Signal Band, then read our <a href=\"/en/bouyon-soca.html\">bouyon soca</a> page and hear our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, which follows the current Dominican scene followed by Bouyon Shattaz.")
- ],
+  (
+    "Who is Erwinchy?",
+    "Erwinchy is an artist from the Dominican bouyon scene whose verified public record holds three traces: a duet with Gwada G, “Make A Woman Cum”, in the Sewo Jam 2023-2024 mix, a track with Kross Beatz listed as “Secret Riddim Up” in a Blaqrose Supreme podcast mix, and an official booking at the grand finale of Ti Vilaj Kweyol 2026.",
+  ),
+  (
+    "Where is Erwinchy from?",
+    "Erwinchy belongs to the Dominica bouyon scene: his tracks play in Sewo Jam, Digga D's homage mix to Dominica, and the official programme of the Ministry of Tourism and Discover Dominica books him for the Ti Vilaj Kweyol 2026 finale in Roseau. Neither his town nor his date of birth is documented, and this profile prints neither.",
+  ),
+  (
+    "What are Erwinchy's verified tracks?",
+    "Two tracks, both taken from published tracklists: “Make A Woman Cum”, a duet with Gwada G, seventh track of Sewo Jam, Digga D's homage mix to Dominica, and “Secret Riddim Up”, with Kross Beatz, listed at 52 minutes 07 in a Blaqrose Supreme bouyon mix. No other track is listed here, for lack of a verifiable source.",
+  ),
+  (
+    "What is the link between Erwinchy and Gwada G?",
+    "They share “Make A Woman Cum”, credited “Erwinchy x Gwada G” in seventh position of Sewo Jam 2023-2024. Gwada G, an artist from Dominica, is one of the recurring names in the bouyon tracklists of those seasons, present in Sewo Jam solo, in duets and on DJ Taffy's riddims. Both names move through duets, the natural format of seasonal bouyon. See our <a href=\"/en/gwada-g.html\">Gwada G</a> page.",
+  ),
+  (
+    "What is Sewo Jam, the mix that features Erwinchy?",
+    "Sewo Jam is Digga D's mix published in the Soca Podcast for the 2023-2024 seasons, presented as a homage to Dominica where bouyon pride reigns. Its tracklist lines up Trilla G and Shelly, Asa Bantan, Triple Kay International, Signal Band, First Serenade Band and Carlyn XP. Erwinchy holds seventh place, just before the tracks by Mr Gwada and DJ Taffy.",
+  ),
+  (
+    "Why is the title Make A Woman Cum so direct?",
+    "Because it belongs to the adult party register of Dominican carnival bouyon, which has embraced from the start a direct, teasing and often bawdy language, inherited from chanté mas, the tradition of double meaning carnival songs. This site reproduces the title as the Sewo Jam tracklist publishes it. It is a register of parties and mixes, more than of family programming.",
+  ),
+  (
+    "When can I see Erwinchy at Ti Vilaj Kweyol 2026?",
+    "On Thursday 22 October 2026 at 2:32 PM, according to the official programme published by the Ministry of Tourism and Discover Dominica: on grand finale day at the Botanic Gardens in Roseau, the programme lists “Ignition and Erwinchy”, between Explosive Band and Derick “Rah” Peters, on a day closed by Shelly and Signal Band at 7 PM.",
+  ),
+  (
+    "Who is Ignition, billed with Erwinchy?",
+    "Ignition Band is a band from the Dominican bouyon scene whose file holds one track, “Taste De Waist”, tenth in Original DJ-Sly's 2020 bouyon mix “D Riddim Box”. The Ti Vilaj Kweyol 2026 programme pairs the two names as “Ignition and Erwinchy”, without saying whether it is a duo, a backing band or a shared slot. See our <a href=\"/en/ignition-band.html\">Ignition Band</a> page.",
+  ),
+  (
+    "Does Erwinchy have an official Spotify page?",
+    "A statistics aggregator lists an artist under the name Erwinchy with an associated Spotify page, but during the October 2026 research that page returned no usable discography or biography, and the exact Spotify link was not opened and verified. This page therefore links no streaming profile, and the sameAs field of its schema stays empty.",
+  ),
+  (
+    "Where can I hear the bouyon of Erwinchy's generation?",
+    "Start with the published Sewo Jam tracklist, which lines up Erwinchy with Trilla G, Asa Bantan, Triple Kay and Signal Band. For today's Dominican new releases, follow @bouyonshattaz on Instagram and comment ROAD MIX under a post: the Bouyon Road Mix from our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> is sent to you by DM.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/erwinchy.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/erwinchy.html#artist", "name": "Erwinchy", "description": "Artist of the Dominican bouyon scene found in the Sewo Jam and Blaqrose Supreme tracklists, and scheduled with Ignition at Ti Vilaj Kweyol 2026 at the Botanic Gardens in Roseau.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Make A Woman Cum"}, {"@type": "MusicRecording", "name": "Secret Riddim Up"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

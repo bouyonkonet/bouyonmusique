@@ -77,13 +77,67 @@ FR = {
   ]
  ],
  "faq": [
-  ("Comment s’écrit le nom de 1T1 ?", "Le nom s’écrit 1T1, avec le chiffre 1 au début et à la fin. C est sous cette forme qu’il signe ses sorties sur les plateformes, son EP CHORD de 2024 et sa chaîne officielle @1t1beats. Les plateformes l’écrivent parfois 1t1 en minuscules, mais la forme de l’artiste est 1T1."),
-  ("D où vient 1T1 et quel est son métier ?", "1T1 est originaire de la Guadeloupe, selon sa biographie Qobuz rédigée par Music Story, qui le présente comme un chanteur francophone des Antilles françaises spécialisé dans le bouyon, la soca et le dancehall. Son label AB BOYZ Music le décrit en plus comme compositeur et producteur guadeloupéen."),
-  ("Quel est le titre le plus connu de 1T1 ?", "« Bouwéy », avec Theomaa, extrait de l’EP CHORD sorti le 13 décembre 2024, est son titre signature. quel-dj le décrit comme une fusion de bouyon, soca et dancehall devenue un incontournable des playlists festives, et les données Shazam le donnent à la 48e place du classement mondial de la plateforme, avec 7 jours dans le Top 50 au printemps 2025."),
-  ("Quand « Moustik » de 1T1 et Aknose est-il sorti ?", "« Moustik » est sorti en septembre 2023 : Qobuz date la sortie du 28 septembre 2023 et quel-dj du 29 septembre 2023. Le site spécialisé le présente comme une collaboration entre le producteur 1T1 et Aknose, dans la vague bouyon moderne, avec des paroles en créole guadeloupéen."),
-  ("1T1 produit-il pour d’autres artistes ?", "Oui. Les crédits officiels nomment 1T1 comme compositeur et producteur d « Air Force 1 » de Lejuh, le titre que NRJ Antilles a présenté comme un new hit, et comme producteur de « Lolita » de Lejuh, sorti en juin 2024. Lejuh chante en retour sur plusieurs titres de 1T1, dont « Leave Me Alone » et « Mas La Rivé »."),
-  ("« Bouwéy » est-il certifié single d’or en France ?", "Des publications sur les réseaux sociaux présentent « Bouwéy » comme un single d’or certifié par le SNEP. Pendant la recherche de ce profil, aucune confirmation n’a été trouvée dans les sources officielles du SNEP consultées, donc ce site ne présente pas cette certification comme vérifiée. Les faits établis sont l’EP CHORD de décembre 2024, la description du titre par quel-dj et sa présence au classement mondial Shazam.")
- ],
+  (
+    "Qui est 1T1 ?",
+    "1T1 est un chanteur, compositeur et producteur bouyon de la Guadeloupe, présenté par son label AB BOYZ Music comme le nouveau phénomène bouyon. Il s’est fait connaître avec « Wa wa waaw », avec Theomaa, puis avec « Moustik », avec Aknose, et « Bouwéy », sur l’EP CHORD de 2024. En décembre 2025, CCN le cite parmi les artistes bouyon les plus emblématiques du moment en Guadeloupe.",
+  ),
+  (
+    "Comment s’écrit le nom de 1T1 ?",
+    "Le nom s’écrit 1T1, avec le chiffre 1 au début et à la fin. C’est sous cette forme qu’il signe ses sorties sur les plateformes, son EP CHORD de 2024 et sa chaîne officielle @1t1beats. Les plateformes l’écrivent parfois 1t1 en minuscules, mais la forme de l’artiste est 1T1.",
+  ),
+  (
+    "D’où vient 1T1 et quel est son métier ?",
+    "1T1 est originaire de la Guadeloupe, selon sa biographie Qobuz rédigée par Music Story, qui le présente comme un chanteur francophone des Antilles françaises spécialisé dans le bouyon, la soca et le dancehall. Son label AB BOYZ Music le décrit en plus comme compositeur et producteur guadeloupéen.",
+  ),
+  (
+    "Quel est le titre le plus connu de 1T1 ?",
+    "« Bouwéy », avec Theomaa, extrait de l’EP CHORD sorti le 13 décembre 2024, est son titre signature. quel-dj le décrit comme une fusion de bouyon, soca et dancehall devenue un incontournable des playlists festives, et les données Shazam le donnent à la 48e place du classement mondial de la plateforme, avec 7 jours dans le Top 50 au printemps 2025.",
+  ),
+  (
+    "Quand « Moustik » de 1T1 et Aknose est-il sorti ?",
+    "« Moustik » est sorti en septembre 2023 : Qobuz date la sortie du 28 septembre 2023 et quel-dj du 29 septembre 2023. Le site spécialisé le présente comme une collaboration entre le producteur 1T1 et Aknose, dans la vague bouyon moderne, avec des paroles en créole guadeloupéen.",
+  ),
+  (
+    "1T1 produit-il pour d’autres artistes ?",
+    "Oui. Les crédits officiels nomment 1T1 comme compositeur et producteur d’« Air Force 1 » de Lejuh, le titre que NRJ Antilles a présenté comme un new hit, et comme producteur de « Lolita » de Lejuh, sorti en juin 2024. Lejuh chante en retour sur plusieurs titres de 1T1, dont « Leave Me Alone » et « Mas La Rivé ».",
+  ),
+  (
+    "« Bouwéy » est-il certifié single d’or en France ?",
+    "Des publications sur les réseaux sociaux présentent « Bouwéy » comme un single d’or certifié par le SNEP. Pendant la recherche de ce profil, aucune confirmation n’a été trouvée dans les sources officielles du SNEP consultées, donc ce site ne présente pas cette certification comme vérifiée. Les faits établis sont l’EP CHORD de décembre 2024, la description du titre par quel-dj et sa présence au classement mondial Shazam.",
+  ),
+  (
+    "Qui a écrit et produit « Bouwéy » ?",
+    "Selon les crédits du clip officiel, « Bouwéy » est composé par 1T1 et <a href=\"/dinho.html\">Dinho</a>, écrit par 1T1 et Theomaa, enregistré par 1T1 et mixé par Jbreazy, avec un mastering de PM Studio. Theomaa chante sur le titre. C’est la même fabrique que « Best Friend », l’autre titre de l’EP CHORD mis en clip : 1T1 compose et enregistre lui-même avant de confier le mix à un collaborateur régulier.",
+  ),
+  (
+    "Qu’est-ce que l’EP CHORD de 1T1 ?",
+    "« CHORD » est l’EP publié par 1T1 le 13 décembre 2024 sur 1T1 et AB BOYZ MUSIC, selon Qobuz. C’est le premier format long de son catalogue documenté. Deux de ses titres ont des clips officiels : « Bouwéy », avec Theomaa, devenu son titre signature, et « Best Friend », aussi écrit « Bestfriend ». Deux semaines plus tôt, le 27 novembre 2024, 1T1 avait sorti le single dancehall « Bay Li ».",
+  ),
+  (
+    "Comment 1T1 s’est-il fait connaître ?",
+    "Selon son label AB BOYZ Music, dans un article de mai 2024, 1T1 s’est fait connaître grâce à « Wa wa waaw », en collaboration avec Theomaa. « Wa wa Waaaw » figure toujours parmi ses titres les plus recherchés sur Shazam. Son catalogue documenté commence en 2023 par des titres collectifs, dont « SIcré Kon Miel » avec Luky et Nils et « Bidiba Bidibou » avec Aknose et Softee, tous deux sortis le 2 juin 2023.",
+  ),
+  (
+    "1T1 et Theomaa forment-ils un duo ?",
+    "Oui, au sens d’un duo de création : <a href=\"/theomaa.html\">Theomaa</a> est le partenaire le plus constant du catalogue de 1T1. Ils signent ensemble « Wa wa waaw », « Piney » en 2023, « PnL (Piney) », « Gasolina », « Bouwéy » sur l’EP CHORD, puis « Ouba », sorti le 5 décembre 2025, composé par Qwann et 1T1 et écrit par 1T1 et Theomaa. Le duo est donc toujours actif plus d’un an après l’EP.",
+  ),
+  (
+    "Qu’est-ce que « In Di Corner » de 1T1 ?",
+    "« In Di Corner » est un titre de 1T1 sorti le 30 janvier 2026, avec <a href=\"/miimii-kds.html\">Miimii KDS</a> en featuring selon le clip officiel. Il est composé par 1T1, écrit par 1T1 et Miimii KDS, et mixé par Jbreazy. Sur Shazam, il est devenu le deuxième titre le plus recherché de 1T1 après « Bouwéy », signe que sa période récente ne vit pas seulement sur l’EP de 2024.",
+  ),
+  (
+    "Qu’est-ce que « Mas La Rivé » ?",
+    "« Mas La Rivé » est un titre collectif publié par 1T1 le 12 janvier 2024, selon Qobuz. Il réunit neuf noms : 1T1, Theomaa, <a href=\"/aknose.html\">Aknose</a>, DJ Softee, Dj TKrys, Bismok, Jicypie, Dj Kylled et Lejuh. C’est la plus large réunion documentée de son cercle, et elle montre sa méthode : un producteur tient la machine, et la scène guadeloupéenne de sa génération vient poser dessus.",
+  ),
+  (
+    "Quel style de musique fait 1T1 ?",
+    "Sa biographie Qobuz le présente comme spécialisé dans le bouyon, la soca et le dancehall. quel-dj décrit « Bouwéy » comme une fusion de ces trois styles et classe « Moustik » dans la vague bouyon moderne, avec des paroles en créole guadeloupéen. C’est du <a href=\"/bouyon-gwada.html\">bouyon gwada</a>, la branche guadeloupéenne du genre né en Dominique, et 1T1 sort aussi des singles dancehall comme « Bay Li ».",
+  ),
+  (
+    "Où écouter 1T1 ?",
+    "Ses titres sont sur les plateformes sous le nom 1T1, et sa chaîne YouTube officielle est @1t1beats. Pour l’entendre au milieu du genre actuel, de la Dominique aux Antilles françaises, ouvrez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, la Road Mix de Bouyon Shattaz, ou commentez ROAD MIX sous une publication Instagram de @bouyonshattaz pour la recevoir en DM. Commencez par « Bouwéy » et « Moustik ».",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/1t1.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/1t1.html#artist", "name": "1T1", "description": "Compositeur, producteur et chanteur bouyon originaire de la Guadeloupe. Connu pour Bouwéy avec Theomaa sur l’EP CHORD de 2024, Moustik avec Aknose et ses productions pour Lejuh.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bouwéy"}, {"@type": "MusicRecording", "name": "Moustik"}, {"@type": "MusicRecording", "name": "Wa wa waaw"}, {"@type": "MusicRecording", "name": "SIcré Kon Miel"}, {"@type": "MusicRecording", "name": "Leave Me Alone"}, {"@type": "MusicRecording", "name": "Best Friend"}, {"@type": "MusicRecording", "name": "bla bla bla"}, {"@type": "MusicRecording", "name": "Mas La Rivé"}, {"@type": "MusicRecording", "name": "Bay Li"}, {"@type": "MusicRecording", "name": "Ouba"}, {"@type": "MusicRecording", "name": "In Di Corner"}, {"@type": "MusicRecording", "name": "Piney"}], "sameAs": ["https://www.instagram.com/1t1.off/", "https://www.youtube.com/@1t1beats"]}}],
  "date_modified": "2026-10-20"
 }
@@ -155,13 +209,67 @@ EN = {
   ]
  ],
  "faq": [
-  ("How is the name 1T1 written?", "The name is written 1T1, with the digit 1 at the start and at the end. It is under that form that he signs his releases on the platforms, his 2024 CHORD EP and his official channel @1t1beats. Platforms sometimes write it 1t1 in lower case, but the artist’s form is 1T1."),
-  ("Where is 1T1 from and what is his job?", "1T1 is from Guadeloupe, according to his Qobuz biography written by Music Story, which presents him as a French speaking singer from the French West Indies specialising in bouyon, soca and dancehall. His label AB BOYZ Music also describes him as a Guadeloupe composer and producer."),
-  ("What is the best known record by 1T1?", "“Bouwéy”, with Theomaa, taken from the CHORD EP released on 13 December 2024, is his signature record. quel-dj describes it as a fusion of bouyon, soca and dancehall that became an essential of festive playlists, and Shazam data place it at number 48 on the platform global chart, with 7 days in the Top 50 in spring 2025."),
-  ("When was “Moustik” by 1T1 and Aknose released?", "“Moustik” was released in September 2023: Qobuz dates the release to 28 September 2023 and quel-dj to 29 September 2023. The specialist site presents it as a collaboration between producer 1T1 and Aknose, in the modern bouyon wave, with lyrics in Guadeloupean Creole."),
-  ("Does 1T1 produce for other artists?", "Yes. Official credits name 1T1 as composer and producer of “Air Force 1” by Lejuh, the record NRJ Antilles presented as a new hit, and as producer of “Lolita” by Lejuh, released in June 2024. Lejuh sings in return on several 1T1 records, including “Leave Me Alone” and “Mas La Rivé”."),
-  ("Is “Bouwéy” certified gold single in France?", "Social media posts present “Bouwéy” as a gold single certified by the SNEP. During the research for this profile, no confirmation was found in the official SNEP sources consulted, so this site does not present that certification as verified. The established facts are the December 2024 CHORD EP, the description of the record by quel-dj and its presence on the Shazam global chart.")
- ],
+  (
+    "Who is 1T1?",
+    "1T1 is a bouyon singer, composer and producer from Guadeloupe, presented by his label AB BOYZ Music as the new bouyon phenomenon. He made his name with “Wa wa waaw”, with Theomaa, then with “Moustik”, with Aknose, and “Bouwéy”, on the 2024 CHORD EP. In December 2025, CCN named him among the most emblematic bouyon artists of the moment in Guadeloupe.",
+  ),
+  (
+    "How is the name 1T1 written?",
+    "The name is written 1T1, with the digit 1 at the start and at the end. It is under that form that he signs his releases on the platforms, his 2024 CHORD EP and his official channel @1t1beats. Platforms sometimes write it 1t1 in lower case, but the artist’s form is 1T1.",
+  ),
+  (
+    "Where is 1T1 from and what is his job?",
+    "1T1 is from Guadeloupe, according to his Qobuz biography written by Music Story, which presents him as a French speaking singer from the French West Indies specialising in bouyon, soca and dancehall. His label AB BOYZ Music also describes him as a Guadeloupe composer and producer.",
+  ),
+  (
+    "What is the best known record by 1T1?",
+    "“Bouwéy”, with Theomaa, taken from the CHORD EP released on 13 December 2024, is his signature record. quel-dj describes it as a fusion of bouyon, soca and dancehall that became an essential of festive playlists, and Shazam data place it at number 48 on the platform global chart, with 7 days in the Top 50 in spring 2025.",
+  ),
+  (
+    "When was “Moustik” by 1T1 and Aknose released?",
+    "“Moustik” was released in September 2023: Qobuz dates the release to 28 September 2023 and quel-dj to 29 September 2023. The specialist site presents it as a collaboration between producer 1T1 and Aknose, in the modern bouyon wave, with lyrics in Guadeloupean Creole.",
+  ),
+  (
+    "Does 1T1 produce for other artists?",
+    "Yes. Official credits name 1T1 as composer and producer of “Air Force 1” by Lejuh, the record NRJ Antilles presented as a new hit, and as producer of “Lolita” by Lejuh, released in June 2024. Lejuh sings in return on several 1T1 records, including “Leave Me Alone” and “Mas La Rivé”.",
+  ),
+  (
+    "Is “Bouwéy” certified gold single in France?",
+    "Social media posts present “Bouwéy” as a gold single certified by the SNEP. During the research for this profile, no confirmation was found in the official SNEP sources consulted, so this site does not present that certification as verified. The established facts are the December 2024 CHORD EP, the description of the record by quel-dj and its presence on the Shazam global chart.",
+  ),
+  (
+    "Who wrote and produced “Bouwéy”?",
+    "According to the official video credits, “Bouwéy” was composed by 1T1 and <a href=\"/en/dinho.html\">Dinho</a>, written by 1T1 and Theomaa, recorded by 1T1 and mixed by Jbreazy, with mastering by PM Studio. Theomaa sings on the track. It comes from the same workshop as “Best Friend”, the other CHORD EP track with a video: 1T1 composes and records himself before handing the mix to a regular collaborator.",
+  ),
+  (
+    "What is the CHORD EP by 1T1?",
+    "“CHORD” is the EP released by 1T1 on 13 December 2024 on 1T1 and AB BOYZ MUSIC, according to Qobuz. It is the first long format in his documented catalogue. Two of its tracks have official videos: “Bouwéy”, with Theomaa, which became his signature track, and “Best Friend”, also written “Bestfriend”. Two weeks earlier, on 27 November 2024, 1T1 had released the dancehall single “Bay Li”.",
+  ),
+  (
+    "How did 1T1 become known?",
+    "According to his label AB BOYZ Music, in a May 2024 article, 1T1 made his name with “Wa wa waaw”, a collaboration with Theomaa. “Wa wa Waaaw” is still among his most searched tracks on Shazam. His documented catalogue starts in 2023 with collective tracks, including “SIcré Kon Miel” with Luky and Nils and “Bidiba Bidibou” with Aknose and Softee, both released on 2 June 2023.",
+  ),
+  (
+    "Are 1T1 and Theomaa a duo?",
+    "Yes, in the sense of a creative duo: <a href=\"/en/theomaa.html\">Theomaa</a> is the most constant partner in 1T1’s catalogue. Together they signed “Wa wa waaw”, “Piney” in 2023, “PnL (Piney)”, “Gasolina”, “Bouwéy” on the CHORD EP, then “Ouba”, released on 5 December 2025, composed by Qwann and 1T1 and written by 1T1 and Theomaa. The duo is still active more than a year after the EP.",
+  ),
+  (
+    "What is “In Di Corner” by 1T1?",
+    "“In Di Corner” is a 1T1 track released on 30 January 2026, featuring <a href=\"/en/miimii-kds.html\">Miimii KDS</a> according to the official video. It was composed by 1T1, written by 1T1 and Miimii KDS, and mixed by Jbreazy. On Shazam, it became 1T1’s second most searched track after “Bouwéy”, a sign that his recent period does not live on the 2024 EP alone.",
+  ),
+  (
+    "What is “Mas La Rivé”?",
+    "“Mas La Rivé” is a collective track released by 1T1 on 12 January 2024, according to Qobuz. It gathers nine names: 1T1, Theomaa, <a href=\"/en/aknose.html\">Aknose</a>, DJ Softee, Dj TKrys, Bismok, Jicypie, Dj Kylled and Lejuh. It is the largest documented gathering of his circle, and it shows his method: one producer runs the machine, and the Guadeloupe scene of his generation comes to sing over it.",
+  ),
+  (
+    "What style of music does 1T1 make?",
+    "His Qobuz biography presents him as specialising in bouyon, soca and dancehall. quel-dj describes “Bouwéy” as a fusion of those three styles and places “Moustik” in the modern bouyon wave, with lyrics in Guadeloupean Creole. It is <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a>, the Guadeloupe branch of the genre born in Dominica, and 1T1 also releases dancehall singles such as “Bay Li”.",
+  ),
+  (
+    "Where can I listen to 1T1?",
+    "His tracks are on the platforms under the name 1T1, and his official YouTube channel is @1t1beats. To hear him inside today’s genre, from Dominica to the French Antilles, open our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, the Bouyon Shattaz Road Mix, or comment ROAD MIX under an Instagram post by @bouyonshattaz to receive it by DM. Start with “Bouwéy” and “Moustik”.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/1t1.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/1t1.html#artist", "name": "1T1", "description": "Bouyon composer, producer and singer from Guadeloupe. Known for Bouwéy with Theomaa on the 2024 CHORD EP, Moustik with Aknose and his productions for Lejuh.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bouwéy"}, {"@type": "MusicRecording", "name": "Moustik"}, {"@type": "MusicRecording", "name": "Wa wa waaw"}, {"@type": "MusicRecording", "name": "SIcré Kon Miel"}, {"@type": "MusicRecording", "name": "Leave Me Alone"}, {"@type": "MusicRecording", "name": "Best Friend"}, {"@type": "MusicRecording", "name": "bla bla bla"}, {"@type": "MusicRecording", "name": "Mas La Rivé"}, {"@type": "MusicRecording", "name": "Bay Li"}, {"@type": "MusicRecording", "name": "Ouba"}, {"@type": "MusicRecording", "name": "In Di Corner"}, {"@type": "MusicRecording", "name": "Piney"}], "sameAs": ["https://www.instagram.com/1t1.off/", "https://www.youtube.com/@1t1beats"]}}],
  "date_modified": "2026-10-20"
 }

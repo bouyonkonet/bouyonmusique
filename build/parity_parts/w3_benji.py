@@ -75,13 +75,63 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Benji, l’artiste bouyon ?", "Benji est le nom de scène de Wayne Benjamin, chanteur bouyon de la Dominique et l’un des trois chanteurs de première ligne de Triple Kay International, avec David « Sonic Tazzy » George et Lennan « Ticky » Matthew. Il est présenté selon les sources comme Mr Benji N2O ou Mr Benji N’O."),
-  ("Benji et Benjai sont-ils le même artiste ?", "Non. Benji est Wayne Benjamin, de la Dominique, chanteur de Triple Kay. Benjai est un artiste soca différent, né Rodney Le Blanc à Trinité et Tobago, lié à l’Asylum Band et à la HD Family. Les deux noms se ressemblent, les deux artistes n’ont ni la même île, ni le même groupe, ni le même catalogue."),
-  ("Qu’a changé Benji dans le son de Triple Kay ?", "Selon le site officiel du groupe, Benji a produit et chanté « Log On », puis produit le titre « Sewo » en 2004 comme invité, avant de devenir membre en 2005. Son influence a fait basculer le répertoire de Triple Kay, venu de la cadence-lypso, du compas et du zouk, vers le bouyon rapide pour lequel Benji était déjà connu."),
-  ("Quand Benji est-il devenu ambassadeur culturel de la Dominique ?", "En janvier 2021. eMAGE DM a annoncé le 27 janvier 2021 que Wayne Benjamin, Mr Benji N2O, était nommé ambassadeur culturel par le gouvernement de la Dominique, avec une prise de fonction au 1er février 2021. Writeups24 a confirmé l’approbation du Cabinet le lendemain."),
-  ("Quels titres écouter pour découvrir Benji ?", "Écoutez les enregistrements de Triple Kay avec Benji en première ligne : « Log On », « Sewo », « Please », « Nous Konnet Vive », « Lock De Gate », « Still Standing », « Heat », « Toufe » et « Whistle ». « Sewo » a été nommé titre de l’année en 2005, et « Heat » a remporté le People Bouyon Road March en 2019, selon le site officiel du groupe."),
-  ("Pourquoi son nom s’écrit-il N2O et N’O ?", "Parce que les sources publiées utilisent les deux orthographes. eMAGE DM et A Virtual Dominica écrivent Mr Benji N2O, tandis que le site officiel de Triple Kay et Soca News écrivent Mr Benji N’O. Aucune source consultée n’explique la différence, donc ce site imprime les deux formes avec leur attribution, sans en inventer une autre.")
- ],
+  (
+    "Qui est Benji, l’artiste bouyon ?",
+    "Benji est le nom de scène de Wayne Benjamin, chanteur bouyon de la Dominique et l’un des trois chanteurs de première ligne de Triple Kay International, avec David « Sonic Tazzy » George et Lennan « Ticky » Matthew. Il est présenté selon les sources comme Mr Benji N2O ou Mr Benji N’O.",
+  ),
+  (
+    "Benji et Benjai sont-ils le même artiste ?",
+    "Non. Benji est Wayne Benjamin, de la Dominique, chanteur de Triple Kay. Benjai est un artiste soca différent, né Rodney Le Blanc à Trinité et Tobago, lié à l’Asylum Band et à la HD Family. Les deux noms se ressemblent, les deux artistes n’ont ni la même île, ni le même groupe, ni le même catalogue.",
+  ),
+  (
+    "Qu’a changé Benji dans le son de Triple Kay ?",
+    "Selon le site officiel du groupe, Benji a produit et chanté « Log On », puis produit le titre « Sewo » en 2004 comme invité, avant de devenir membre en 2005. Son influence a fait basculer le répertoire de Triple Kay, venu de la cadence-lypso, du compas et du zouk, vers le bouyon rapide pour lequel Benji était déjà connu.",
+  ),
+  (
+    "Quand Benji est-il devenu ambassadeur culturel de la Dominique ?",
+    "En janvier 2021. eMAGE DM a annoncé le 27 janvier 2021 que Wayne Benjamin, Mr Benji N2O, était nommé ambassadeur culturel par le gouvernement de la Dominique, avec une prise de fonction au 1er février 2021. Writeups24 a confirmé l’approbation du Cabinet le lendemain.",
+  ),
+  (
+    "Quels titres écouter pour découvrir Benji ?",
+    "Écoutez les enregistrements de Triple Kay avec Benji en première ligne : « Log On », « Sewo », « Please », « Nous Konnet Vive », « Lock De Gate », « Still Standing », « Heat », « Toufe » et « Whistle ». « Sewo » a été nommé titre de l’année en 2005, et « Heat » a remporté le People Bouyon Road March en 2019. Retrouvez-les dans notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>.",
+  ),
+  (
+    "Pourquoi son nom s’écrit-il N2O et N’O ?",
+    "Parce que les sources publiées utilisent les deux orthographes. eMAGE DM et A Virtual Dominica écrivent Mr Benji N2O, tandis que le site officiel de Triple Kay et Soca News écrivent Mr Benji N’O. Aucune source consultée n’explique la différence, donc ce site imprime les deux formes avec leur attribution, sans en inventer une autre.",
+  ),
+  (
+    "Quels prix Benji a-t-il reçus ?",
+    "A Virtual Dominica rapporte que Wayne « Mr Benji N2O » Benjamin a été reconnu Best Male Artist of the Year aux Flamboyant Awards 2005, l’année où « Sewo » était titre de l’année. Writeups24 indique qu’il a été premier dauphin d’une compétition tenue à Saint Kitts et Nevis en 2009, sans la nommer. En 2021, le gouvernement de la Dominique l’a nommé ambassadeur culturel.",
+  ),
+  (
+    "D’où vient Benji ?",
+    "Benji est un artiste de la Dominique. Il chante dans Triple Kay, groupe fondé par trois amis de la communauté de Laudat, et ses fonctions publiques documentées le rattachent à Roseau, où il siège au conseil municipal, ainsi qu’au comité de développement de Fond Cole, selon le ministre Edward Registe cité par eMAGE DM. Aucune source vérifiée ne publie sa commune de naissance.",
+  ),
+  (
+    "Qui sont les autres membres de Triple Kay avec Benji ?",
+    "Selon le site officiel du groupe, <a href=\"/tk-international.html\">Triple Kay</a> compte neuf musiciens. Benji forme le trio de chanteurs de première ligne avec David « Sonic Tazzy » George, à la fausse voix aiguë, et Lennan « Ticky » Matthew, à la voix douce. Kendel « Killa » Laurent produit la musique du groupe, et Jeoffrey « JJ Yout » Joseph en est le parolier principal.",
+  ),
+  (
+    "Quels Road Marchs Benji a-t-il gagnés avec Triple Kay ?",
+    "Avec Benji en première ligne, Triple Kay remporte le People Road March en 2008 avec « Please », selon A Virtual Dominica, puis un deuxième People Road March en 2015 avec « Lock De Gate » et le Road March 2017 avec « Roll dat Boom Boom », selon le site officiel. En 2019, « Heat » remporte ce que le groupe présente comme le premier People Bouyon Road March au monde.",
+  ),
+  (
+    "Triple Kay a-t-il créé le bouyon soca ?",
+    "Non. Le <a href=\"/bouyon-soca.html\">bouyon soca</a> a été lancé en Dominique en 2003 par Dada, selon le témoignage de première main de Sean « Smokiller » Francis publié sur ce site. Triple Kay fait partie des groupes qui l’ont adopté et popularisé dans leur propre version du bouyon. L’arrivée de Benji dans le groupe, entre 2003 et 2005, se situe exactement dans ces années de soudure.",
+  ),
+  (
+    "Sur quels albums de Triple Kay chante Benji ?",
+    "Benji chante « Log On » à l’époque de « Fanatik », produit le titre phare de « Sewo » comme invité en 2004, puis devient membre à part entière en 2005. Les albums suivants portent sa marque : « All Out » en 2006, « Pressure » en 2007, « Colours » en 2008, « Allo » en 2009, « Hush Your Mouth » en 2011 et « Bubblin » en 2012. Aucun album solo de Benji n’est documenté.",
+  ),
+  (
+    "Qu’est-ce que « Nous Konnet Vive » de Triple Kay ?",
+    "« Nous Konnet Vive » est un titre de Triple Kay de 2014, choisi comme thème officiel des célébrations du carnaval de la Dominique, selon le site officiel du groupe. Son remix réunit les stars bouyon Nayee, Rah et <a href=\"/asa-bantan.html\">Asa Bantan</a>. C’est un des titres où l’on entend Benji en première ligne, dans la fonction nationale que le groupe tient saison après saison.",
+  ),
+  (
+    "Triple Kay, le groupe de Benji, joue-t-il au World Creole Music Festival ?",
+    "Oui, c’est un pilier du festival : selon son site officiel, Triple Kay joue au World Creole Music Festival depuis 2002 et n’a manqué aucune édition depuis 2005. Pour 2026, la page <a href=\"/tk-international.html\">TK International</a> de ce site place le groupe sur la nuit 1 du festival, le vendredi 23 octobre 2026, à Roseau.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/benji.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/benji.html#artist", "name": "Benji", "alternateName": "Wayne Benjamin", "description": "Artiste bouyon de la Dominique, de son vrai nom Wayne Benjamin. Chanteur de première ligne de Triple Kay International, producteur et chanteur de Log On et de Sewo, Best Male Artist aux Flamboyant Awards 2005, nommé ambassadeur culturel de la Dominique en 2021. Les titres listés sont des enregistrements de Triple Kay.", "genre": "Bouyon", "homeLocation": {"@type": "Place", "name": "Dominique"}, "track": [{"@type": "MusicRecording", "name": "Log On"}, {"@type": "MusicRecording", "name": "Sewo"}, {"@type": "MusicRecording", "name": "Please"}, {"@type": "MusicRecording", "name": "Nous Konnet Vive"}, {"@type": "MusicRecording", "name": "Lock De Gate"}, {"@type": "MusicRecording", "name": "Waist"}, {"@type": "MusicRecording", "name": "Nice Time"}, {"@type": "MusicRecording", "name": "F.T.M (Fete Till Morning)"}, {"@type": "MusicRecording", "name": "Roll dat Boom Boom"}, {"@type": "MusicRecording", "name": "Jose"}, {"@type": "MusicRecording", "name": "Still Standing"}, {"@type": "MusicRecording", "name": "Heat"}, {"@type": "MusicRecording", "name": "Toufe"}, {"@type": "MusicRecording", "name": "Whistle"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -154,13 +204,63 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Benji, the bouyon artist?", "Benji is the stage name of Wayne Benjamin, a bouyon singer from Dominica and one of the three frontline vocalists of Triple Kay International, with David “Sonic Tazzy” George and Lennan “Ticky” Matthew. Sources present him as Mr Benji N2O or Mr Benji N’O."),
-  ("Are Benji and Benjai the same artist?", "No. Benji is Wayne Benjamin, from Dominica, singer with Triple Kay. Benjai is a different soca artist, born Rodney Le Blanc in Trinidad and Tobago, linked to the Asylum Band and the HD Family. The names look alike, the two artists share neither island, band nor catalogue."),
-  ("What did Benji change in the Triple Kay sound?", "According to the band official site, Benji produced and sang “Log On”, then produced the “Sewo” title track in 2004 as a guest, before becoming a member in 2005. His influence swung the Triple Kay repertoire, which came from cadence-lypso, compas and zouk, toward the fast bouyon Benji was already known for."),
-  ("When did Benji become a Cultural Ambassador of Dominica?", "In January 2021. eMAGE DM announced on January 27, 2021, that Wayne Benjamin, Mr Benji N2O, had been named a Cultural Ambassador by the Government of Dominica, taking effect on February 1, 2021. Writeups24 confirmed the Cabinet approval the next day."),
-  ("Which records should I hear to discover Benji?", "Hear the Triple Kay recordings with Benji on the frontline: “Log On”, “Sewo”, “Please”, “Nous Konnet Vive”, “Lock De Gate”, “Still Standing”, “Heat”, “Toufe” and “Whistle”. “Sewo” was named Song of the Year in 2005, and “Heat” won the People Bouyon Road March in 2019, according to the band official site."),
-  ("Why is his name written both N2O and N’O?", "Because published sources use both spellings. eMAGE DM and A Virtual Dominica write Mr Benji N2O, while the official Triple Kay site and Soca News write Mr Benji N’O. No source consulted explains the difference, so this site prints both forms with their attribution, without inventing another one.")
- ],
+  (
+    "Who is Benji, the bouyon artist?",
+    "Benji is the stage name of Wayne Benjamin, a bouyon singer from Dominica and one of the three frontline vocalists of Triple Kay International, with David “Sonic Tazzy” George and Lennan “Ticky” Matthew. Sources present him as Mr Benji N2O or Mr Benji N’O.",
+  ),
+  (
+    "Are Benji and Benjai the same artist?",
+    "No. Benji is Wayne Benjamin, from Dominica, singer with Triple Kay. Benjai is a different soca artist, born Rodney Le Blanc in Trinidad and Tobago, linked to the Asylum Band and the HD Family. The names look alike, the two artists share neither island, band nor catalogue.",
+  ),
+  (
+    "What did Benji change in the Triple Kay sound?",
+    "According to the band’s official site, Benji produced and sang “Log On”, then produced the “Sewo” title track in 2004 as a guest, before becoming a member in 2005. His influence swung the Triple Kay repertoire, which came from cadence-lypso, compas and zouk, toward the fast bouyon Benji was already known for.",
+  ),
+  (
+    "When did Benji become a Cultural Ambassador of Dominica?",
+    "In January 2021. eMAGE DM announced on January 27, 2021, that Wayne Benjamin, Mr Benji N2O, had been named a Cultural Ambassador by the Government of Dominica, taking effect on February 1, 2021. Writeups24 confirmed the Cabinet approval the next day.",
+  ),
+  (
+    "Which records should I hear to discover Benji?",
+    "Hear the Triple Kay recordings with Benji on the frontline: “Log On”, “Sewo”, “Please”, “Nous Konnet Vive”, “Lock De Gate”, “Still Standing”, “Heat”, “Toufe” and “Whistle”. “Sewo” was named Song of the Year in 2005, and “Heat” won the People Bouyon Road March in 2019. Find them in our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>.",
+  ),
+  (
+    "Why is his name written both N2O and N’O?",
+    "Because published sources use both spellings. eMAGE DM and A Virtual Dominica write Mr Benji N2O, while the official Triple Kay site and Soca News write Mr Benji N’O. No source consulted explains the difference, so this site prints both forms with their attribution, without inventing another one.",
+  ),
+  (
+    "What awards has Benji received?",
+    "A Virtual Dominica reports that Wayne “Mr Benji N2O” Benjamin was recognised as Best Male Artist of the Year at the 2005 Flamboyant Awards, the year “Sewo” was Song of the Year. Writeups24 says he was first runner up in a competition held in St Kitts and Nevis in 2009, without naming it. In 2021, the Government of Dominica named him a Cultural Ambassador.",
+  ),
+  (
+    "Where is Benji from?",
+    "Benji is an artist from Dominica. He sings in Triple Kay, a band founded by three friends from the Laudat community, and his documented public roles tie him to Roseau, where he sits on the City Council, and to the Fond Cole Development Committee, according to Minister Edward Registe quoted by eMAGE DM. No verified source publishes his community of birth.",
+  ),
+  (
+    "Who are the other members of Triple Kay with Benji?",
+    "According to the band’s official site, <a href=\"/en/tk-international.html\">Triple Kay</a> has nine musicians. Benji forms the frontline vocal trio with David “Sonic Tazzy” George, with his high falsetto, and Lennan “Ticky” Matthew, with his soft voice. Kendel “Killa” Laurent produces the band’s music, and Jeoffrey “JJ Yout” Joseph is its main lyricist.",
+  ),
+  (
+    "Which Road Marches did Benji win with Triple Kay?",
+    "With Benji on the frontline, Triple Kay won the People Road March in 2008 with “Please”, according to A Virtual Dominica, then a second People Road March in 2015 with “Lock De Gate” and the 2017 Road March with “Roll dat Boom Boom”, according to the official site. In 2019, “Heat” won what the band presents as the world’s first People Bouyon Road March.",
+  ),
+  (
+    "Did Triple Kay create bouyon soca?",
+    "No. <a href=\"/en/bouyon-soca.html\">Bouyon soca</a> was launched in Dominica in 2003 by Dada, according to the first-hand testimony of Sean “Smokiller” Francis published on this site. Triple Kay is one of the bands that adopted and popularised it in their own version of bouyon. Benji’s arrival in the band, between 2003 and 2005, falls exactly in those welding years.",
+  ),
+  (
+    "Which Triple Kay albums does Benji sing on?",
+    "Benji sang “Log On” in the “Fanatik” era, produced the title track of “Sewo” as a guest in 2004, then became a full member in 2005. The following albums carry his mark: “All Out” in 2006, “Pressure” in 2007, “Colours” in 2008, “Allo” in 2009, “Hush Your Mouth” in 2011 and “Bubblin” in 2012. No solo Benji album is documented.",
+  ),
+  (
+    "What is “Nous Konnet Vive” by Triple Kay?",
+    "“Nous Konnet Vive” is a 2014 Triple Kay track, chosen as the official theme of Dominica’s carnival celebrations, according to the band’s official site. Its remix brings together bouyon stars Nayee, Rah and <a href=\"/en/asa-bantan.html\">Asa Bantan</a>. It is one of the tracks where Benji can be heard on the frontline, in the national role the band plays season after season.",
+  ),
+  (
+    "Does Triple Kay, Benji’s band, play the World Creole Music Festival?",
+    "Yes, it is a pillar of the festival: according to its official site, Triple Kay has played the World Creole Music Festival since 2002 and has not missed an edition since 2005. For 2026, this site’s <a href=\"/en/tk-international.html\">TK International</a> page places the band on Night 1 of the festival, Friday 23 October 2026, in Roseau.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/benji.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/benji.html#artist", "name": "Benji", "alternateName": "Wayne Benjamin", "description": "Bouyon artist from Dominica, real name Wayne Benjamin. Frontline singer with Triple Kay International, producer and singer of Log On and Sewo, Best Male Artist at the 2005 Flamboyant Awards, named a Cultural Ambassador of Dominica in 2021. The records listed are Triple Kay recordings.", "genre": "Bouyon", "homeLocation": {"@type": "Place", "name": "Dominica"}, "track": [{"@type": "MusicRecording", "name": "Log On"}, {"@type": "MusicRecording", "name": "Sewo"}, {"@type": "MusicRecording", "name": "Please"}, {"@type": "MusicRecording", "name": "Nous Konnet Vive"}, {"@type": "MusicRecording", "name": "Lock De Gate"}, {"@type": "MusicRecording", "name": "Waist"}, {"@type": "MusicRecording", "name": "Nice Time"}, {"@type": "MusicRecording", "name": "F.T.M (Fete Till Morning)"}, {"@type": "MusicRecording", "name": "Roll dat Boom Boom"}, {"@type": "MusicRecording", "name": "Jose"}, {"@type": "MusicRecording", "name": "Still Standing"}, {"@type": "MusicRecording", "name": "Heat"}, {"@type": "MusicRecording", "name": "Toufe"}, {"@type": "MusicRecording", "name": "Whistle"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

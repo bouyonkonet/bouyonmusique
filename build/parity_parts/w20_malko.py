@@ -76,13 +76,63 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Malko ?", "Malko est le nom d’artiste de Malko Joseph-Lissade, artiste francophone ancré à Montréal et signé chez Cult Nation. Son nom complet figure dans les crédits d’auteur de ses titres. PAN M 360 le présentait à 23 ans, lors des Francos de Montréal, comme un acteur prometteur de la relève hip hop, citant Josman, Laylow et Stromae parmi ses influences. Aucune source consultée ne publie son lieu de naissance."),
-  ("Quel est le rapport entre Malko et le bouyon ?", "Un rapport de producteur, pas de genre. Hypnotic Beatz, le producteur documenté sur ce site sous le nom de HYPNO pour son bouyon, est crédité à la production de MOTOMAMI et ONE LOVE en 2023, de deux titres de MAELSTRÖM, de trois titres de SAHARA et de cinq titres d’Émotionnellement indisponible. Aucune source ne présente Malko comme un artiste bouyon, et ce profil ne le fait pas non plus."),
-  ("Quel est le titre le plus connu de Malko ?", "MOTOMAMI, deuxième titre de 30°, sorti le 18 août 2023 chez Cult Nation. Selon la présentation de Cult Nation reprise par PAN M 360, il est devenu en quelques semaines la chanson la plus écoutée du catalogue de Malko sur Spotify. Il ne faut pas le confondre avec l’album MOTOMAMI de Rosalía, paru en 2022 : aucune source consultée ne relie les deux œuvres."),
-  ("Quels sont les disques de Malko chez Cult Nation ?", "Quatre projets ont été ouverts fiche par fiche pour ce profil : 30°, trois titres, le 18 août 2023 ; MAELSTRÖM, six titres, son premier EP selon son label, le 1er décembre 2023 ; SAHARA, quatre titres, le 19 juillet 2024 ; et Émotionnellement indisponible, six titres, le 11 octobre 2024, avec Chanceko sur Parapluie. La page discographique de Qobuz ajoute des singles du même label, de Spleen Amore en 2021 à Fashion Week en 2025."),
-  ("Malko a-t-il gagné un prix à l’ADISQ en 2025 ?", "Non. Émotionnellement indisponible était nommé Album de l’année R&B/Soul au Premier Gala de l’ADISQ 2025, le 5 novembre 2025 au MTELUS. Le compte rendu des gagnants publié par Atuvu donne la catégorie à Shah Frank pour Aura. Malko était donc nommé, aux côtés d’ANJXLXE, de Blynk et de Naomi, et non vainqueur."),
-  ("Pourquoi y a-t-il autant de disques sous le nom de Malko sur les plateformes ?", "Parce que plusieurs artistes sans rapport partagent ce nom de scène, et que certaines plateformes les fusionnent. La page Qobuz ouverte pour cette recherche listait 492 albums sous le nom Malko, du trip hop de 2006 au rock basque. Ce profil ne retient que les disques Cult Nation dont les crédits portent le nom complet Malko Joseph-Lissade ou son atelier Willy Wonder et William Lareau.")
- ],
+  (
+    "Qui est Malko ?",
+    "Malko est le nom d’artiste de Malko Joseph-Lissade, artiste francophone ancré à Montréal et signé chez Cult Nation. Son nom complet figure dans les crédits d’auteur de ses titres. PAN M 360 le présentait à 23 ans, lors des Francos de Montréal, comme un acteur prometteur de la relève hip hop, citant Josman, Laylow et Stromae parmi ses influences. Aucune source consultée ne publie son lieu de naissance.",
+  ),
+  (
+    "Quel est le rapport entre Malko et le bouyon ?",
+    "Un rapport de producteur, pas de genre. Hypnotic Beatz, le producteur documenté sur ce site sous le nom de HYPNO pour son bouyon, est crédité à la production de MOTOMAMI et ONE LOVE en 2023, de deux titres de MAELSTRÖM, de trois titres de SAHARA et de cinq titres d’Émotionnellement indisponible. Aucune source ne présente Malko comme un artiste bouyon, et ce profil ne le fait pas non plus.",
+  ),
+  (
+    "Quel est le titre le plus connu de Malko ?",
+    "MOTOMAMI, deuxième titre de 30°, sorti le 18 août 2023 chez Cult Nation. Selon la présentation de Cult Nation reprise par PAN M 360, il est devenu en quelques semaines la chanson la plus écoutée du catalogue de Malko sur Spotify. Il ne faut pas le confondre avec l’album MOTOMAMI de Rosalía, paru en 2022 : aucune source consultée ne relie les deux œuvres.",
+  ),
+  (
+    "Quels sont les disques de Malko chez Cult Nation ?",
+    "Quatre projets ont été ouverts fiche par fiche pour ce profil : 30°, trois titres, le 18 août 2023 ; MAELSTRÖM, six titres, son premier EP selon son label, le 1er décembre 2023 ; SAHARA, quatre titres, le 19 juillet 2024 ; et Émotionnellement indisponible, six titres, le 11 octobre 2024, avec Chanceko sur Parapluie. La page discographique de Qobuz ajoute des singles du même label, de Spleen Amore en 2021 à Fashion Week en 2025.",
+  ),
+  (
+    "Malko a-t-il gagné un prix à l’ADISQ en 2025 ?",
+    "Non. Émotionnellement indisponible était nommé Album de l’année R&B/Soul au Premier Gala de l’ADISQ 2025, le 5 novembre 2025 au MTELUS. Le compte rendu des gagnants publié par Atuvu donne la catégorie à Shah Frank pour Aura. Malko était donc nommé, aux côtés d’ANJXLXE, de Blynk et de Naomi, et non vainqueur.",
+  ),
+  (
+    "Pourquoi y a-t-il autant de disques sous le nom de Malko sur les plateformes ?",
+    "Parce que plusieurs artistes sans rapport partagent ce nom de scène, et que certaines plateformes les fusionnent. La page Qobuz ouverte pour cette recherche listait 492 albums sous le nom Malko, du trip hop de 2006 au rock basque. Ce profil ne retient que les disques Cult Nation dont les crédits portent le nom complet Malko Joseph-Lissade ou son atelier Willy Wonder et William Lareau.",
+  ),
+  (
+    "Qui a produit MOTOMAMI de Malko ?",
+    "Willy Wonder et Hypnotic Beats, ainsi écrit sur la page Qobuz de 30°, crédités à la production. La composition revient à Yannick Cabald, William Lareau et Malko Joseph-Lissade. Le même duo de production signe « ONE LOVE », troisième titre du projet, tandis que « TORNADE » ne porte pas le crédit d’Hypnotic. MOTOMAMI dure deux minutes trois.",
+  ),
+  (
+    "Qui est Hypnotic Beatz, le producteur de Malko ?",
+    "Le producteur que ce site documente sous le nom de <a href=\"/hypno.html\">HYPNO</a>, pour son bouyon à 160 BPM, notamment le titre MAUVAIS PLAN. Chez Malko, il est crédité, sous les graphies Hypnotic Beats ou Hypnotic Beatz, sur MOTOMAMI et ONE LOVE, sur deux titres de MAELSTRÖM, trois de SAHARA et cinq d’Émotionnellement indisponible. C’est lui le pont entre les deux scènes.",
+  ),
+  (
+    "D’où vient Malko ?",
+    "Malko est ancré à Montréal, où il a signé chez Cult Nation et joué aux Francos de Montréal. La présentation reprise par PAN M 360 le situe entre le Québec et la France, avec un retour à Paris au printemps 2024 pour travailler avec RayDaPrince, Lucci et Bloody. Aucune source consultée ne publie son lieu de naissance, et ce profil n’en invente pas.",
+  ),
+  (
+    "Qu’est-ce que l’EP MAELSTRÖM de Malko ?",
+    "Son premier EP selon son label, sorti le 1er décembre 2023 chez Cult Nation : six titres pour douze minutes quarante cinq, classés hip hop et rap par Qobuz. On y trouve « GOD COMPLEX », « paradis », « TRISTE & CÉLÈBRE », « P3LÉ » avec Halo, « le monde sur moi » et « lettre à maman ». Hypnotic Beatz produit « P3LÉ » et « lettre à maman ».",
+  ),
+  (
+    "Malko a-t-il été nommé Breakthrough Artist par Amazon Music Canada ?",
+    "Selon la présentation de son label Cult Nation reprise par PAN M 360, oui : avec MAELSTRÖM, Malko serait devenu le premier artiste francophone nommé Breakthrough Artist par Amazon Music Canada. C’est une affirmation du label, relayée par un média culturel montréalais, qu’aucune source indépendante ouverte ne détaille ni ne contredit, et ce site la présente comme telle.",
+  ),
+  (
+    "Qui travaille avec Malko en studio ?",
+    "Un atelier stable, lisible dans les crédits. Willy Wonder, présenté par PAN M 360 comme son partenaire créatif, produit ou coproduit presque tous ses titres. William Lareau compose à ses côtés sur presque tout le catalogue, Yannick Cabald sur les titres produits par Hypnotic Beatz. Jean-Christophe Barrette mixe ou masterise SAHARA et Émotionnellement indisponible, après Richard Addison de Trillium Sound.",
+  ),
+  (
+    "Qu’est-ce que SAHARA de Malko ?",
+    "Un projet de quatre titres pour huit minutes trente sept, sorti le 19 juillet 2024 chez Cult Nation : « Aaliyah », « Baby Push », « Habanero » et « Mami Quiere ». Hypnotic Beatz en produit trois, tous sauf « Habanero ». Pour un lecteur bouyon, c’est la porte d’entrée la plus directe dans le catalogue de Malko, puisque « Aaliyah » et « Baby Push » figurent aussi dans la liste des productions de HYPNO.",
+  ),
+  (
+    "Malko a-t-il joué aux Francos de Montréal ?",
+    "Oui : la présentation publiée par PAN M 360, adaptée d’un texte de Cult Nation, correspond à un concert gratuit de Malko sur la scène Desjardins des Francos de Montréal, le grand festival francophone de sa ville d’ancrage. Avec la nomination à l’ADISQ 2025, c’est l’une des traces de sa reconnaissance au Québec.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/malko.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/malko.html#artist", "name": "Malko", "description": "Artiste francophone de Montréal, nom complet Malko Joseph-Lissade, signé chez Cult Nation. Auteur de 30 degrés, MAELSTRÖM, SAHARA et Émotionnellement indisponible, nommé à l’ADISQ 2025. Plusieurs de ses titres sont produits par Hypnotic Beatz, le producteur documenté sur ce site comme HYPNO. Il n’est pas un artiste bouyon.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'TORNADE'}, {"@type": "MusicRecording", "name": 'MOTOMAMI'}, {"@type": "MusicRecording", "name": 'ONE LOVE'}, {"@type": "MusicRecording", "name": 'GOD COMPLEX'}, {"@type": "MusicRecording", "name": 'paradis'}, {"@type": "MusicRecording", "name": 'TRISTE & CÉLÈBRE'}, {"@type": "MusicRecording", "name": 'P3LÉ'}, {"@type": "MusicRecording", "name": 'le monde sur moi'}, {"@type": "MusicRecording", "name": 'lettre à maman'}, {"@type": "MusicRecording", "name": 'Aaliyah'}, {"@type": "MusicRecording", "name": 'Baby Push'}, {"@type": "MusicRecording", "name": 'Habanero'}, {"@type": "MusicRecording", "name": 'Mami Quiere'}, {"@type": "MusicRecording", "name": 'Champagne'}, {"@type": "MusicRecording", "name": 'Club Story'}, {"@type": "MusicRecording", "name": 'Émotionnellement indisponible'}, {"@type": "MusicRecording", "name": 'DNA'}, {"@type": "MusicRecording", "name": 'Parapluie'}, {"@type": "MusicRecording", "name": 'Le plus beau des diamants'}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -154,13 +204,63 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Malko?", "Malko is the artist name of Malko Joseph-Lissade, a Francophone artist anchored in Montreal and signed to Cult Nation. His full name appears in the writer credits of his records. PAN M 360 presented him at 23, at the Francos de Montréal, as a promising figure of the hip hop new wave, naming Josman, Laylow and Stromae among his influences. No source consulted publishes his birthplace."),
-  ("What is the link between Malko and bouyon?", "A producer link, not a genre link. Hypnotic Beatz, the producer documented on this site as HYPNO for his bouyon, is credited with producing MOTOMAMI and ONE LOVE in 2023, two records on MAELSTRÖM, three records on SAHARA and five records on Émotionnellement indisponible. No source presents Malko as a bouyon artist, and this profile does not either."),
-  ("What is the best known Malko record?", "MOTOMAMI, the second record on 30°, released on August 18, 2023 on Cult Nation. According to the Cult Nation presentation carried by PAN M 360, it became within a few weeks the most streamed song in Malko catalog on Spotify. It should not be confused with the MOTOMAMI album by Rosalía, released in 2022: no source consulted links the two works."),
-  ("What are the Malko records on Cult Nation?", "Four projects were opened page by page for this profile: 30°, three records, on August 18, 2023; MAELSTRÖM, six records, his first EP according to his label, on December 1, 2023; SAHARA, four records, on July 19, 2024; and Émotionnellement indisponible, six records, on October 11, 2024, with Chanceko on Parapluie. The Qobuz discography page adds singles on the same label, from Spleen Amore in 2021 to Fashion Week in 2025."),
-  ("Did Malko win an ADISQ award in 2025?", "No. Émotionnellement indisponible was nominated for Album of the Year R&B/Soul at the Premier Gala de l’ADISQ 2025, on November 5, 2025 at MTELUS. The winners report published by Atuvu gives the category to Shah Frank for Aura. Malko was therefore a nominee, alongside ANJXLXE, Blynk and Naomi, and not the winner."),
-  ("Why are there so many records under the name Malko on the platforms?", "Because several unrelated artists share that stage name, and some platforms merge them. The Qobuz page opened for this research listed 492 albums under the name Malko, from 2006 trip hop to Basque rock. This profile only holds the Cult Nation records whose credits carry the full name Malko Joseph-Lissade or his workshop Willy Wonder and William Lareau.")
- ],
+  (
+    "Who is Malko?",
+    "Malko is the artist name of Malko Joseph-Lissade, a Francophone artist anchored in Montreal and signed to Cult Nation. His full name appears in the writer credits of his records. PAN M 360 presented him at 23, at the Francos de Montréal, as a promising figure of the hip hop new wave, naming Josman, Laylow and Stromae among his influences. No source consulted publishes his birthplace.",
+  ),
+  (
+    "What is the link between Malko and bouyon?",
+    "A producer link, not a genre link. Hypnotic Beatz, the producer documented on this site as HYPNO for his bouyon, is credited with producing MOTOMAMI and ONE LOVE in 2023, two records on MAELSTRÖM, three records on SAHARA and five records on Émotionnellement indisponible. No source presents Malko as a bouyon artist, and this profile does not either.",
+  ),
+  (
+    "What is the best known Malko record?",
+    "MOTOMAMI, the second record on 30°, released on August 18, 2023 on Cult Nation. According to the Cult Nation presentation carried by PAN M 360, it became within a few weeks the most streamed song in Malko catalog on Spotify. It should not be confused with the MOTOMAMI album by Rosalía, released in 2022: no source consulted links the two works.",
+  ),
+  (
+    "What are the Malko records on Cult Nation?",
+    "Four projects were opened page by page for this profile: 30°, three records, on August 18, 2023; MAELSTRÖM, six records, his first EP according to his label, on December 1, 2023; SAHARA, four records, on July 19, 2024; and Émotionnellement indisponible, six records, on October 11, 2024, with Chanceko on Parapluie. The Qobuz discography page adds singles on the same label, from Spleen Amore in 2021 to Fashion Week in 2025.",
+  ),
+  (
+    "Did Malko win an ADISQ award in 2025?",
+    "No. Émotionnellement indisponible was nominated for Album of the Year R&B/Soul at the Premier Gala de l’ADISQ 2025, on November 5, 2025 at MTELUS. The winners report published by Atuvu gives the category to Shah Frank for Aura. Malko was therefore a nominee, alongside ANJXLXE, Blynk and Naomi, and not the winner.",
+  ),
+  (
+    "Why are there so many records under the name Malko on the platforms?",
+    "Because several unrelated artists share that stage name, and some platforms merge them. The Qobuz page opened for this research listed 492 albums under the name Malko, from 2006 trip hop to Basque rock. This profile only holds the Cult Nation records whose credits carry the full name Malko Joseph-Lissade or his workshop Willy Wonder and William Lareau.",
+  ),
+  (
+    "Who produced MOTOMAMI by Malko?",
+    "Willy Wonder and Hypnotic Beats, spelled that way on the Qobuz page of 30°, credited on production. Composition goes to Yannick Cabald, William Lareau and Malko Joseph-Lissade. The same production pair signs “ONE LOVE”, the third record of the project, while “TORNADE” does not carry the Hypnotic credit. MOTOMAMI runs two minutes three.",
+  ),
+  (
+    "Who is Hypnotic Beatz, Malko's producer?",
+    "The producer this site documents as <a href=\"/en/hypno.html\">HYPNO</a>, for his 160 BPM bouyon, notably the record MAUVAIS PLAN. On Malko's records he is credited, as Hypnotic Beats or Hypnotic Beatz, on MOTOMAMI and ONE LOVE, on two MAELSTRÖM records, three on SAHARA and five on Émotionnellement indisponible. He is the bridge between the two scenes.",
+  ),
+  (
+    "Where is Malko from?",
+    "Malko is anchored in Montreal, where he signed with Cult Nation and played the Francos de Montréal. The presentation carried by PAN M 360 places him between Quebec and France, with a return to Paris in spring 2024 to work with RayDaPrince, Lucci and Bloody. No source consulted publishes his birthplace, and this profile invents none.",
+  ),
+  (
+    "What is Malko's EP MAELSTRÖM?",
+    "His first EP according to his label, released on December 1, 2023 on Cult Nation: six records for twelve minutes forty five, tagged hip hop and rap by Qobuz. It holds “GOD COMPLEX”, “paradis”, “TRISTE & CÉLÈBRE”, “P3LÉ” with Halo, “le monde sur moi” and “lettre à maman”. Hypnotic Beatz produces “P3LÉ” and “lettre à maman”.",
+  ),
+  (
+    "Was Malko named Breakthrough Artist by Amazon Music Canada?",
+    "According to the presentation of his label Cult Nation carried by PAN M 360, yes: with MAELSTRÖM, Malko became the first Francophone artist named Breakthrough Artist by Amazon Music Canada. It is a label claim, relayed by a Montreal cultural outlet, that no independent source opened details or contradicts, and this site presents it as such.",
+  ),
+  (
+    "Who works with Malko in the studio?",
+    "A stable workshop, readable in the credits. Willy Wonder, presented by PAN M 360 as his creative partner, produces or co-produces almost every record. William Lareau composes beside him on nearly the whole catalog, Yannick Cabald on the records produced by Hypnotic Beatz. Jean-Christophe Barrette mixes or masters SAHARA and Émotionnellement indisponible, after Richard Addison of Trillium Sound.",
+  ),
+  (
+    "What is Malko's SAHARA?",
+    "A four record project running eight minutes thirty seven, released on July 19, 2024 on Cult Nation: “Aaliyah”, “Baby Push”, “Habanero” and “Mami Quiere”. Hypnotic Beatz produces three of them, all but “Habanero”. For a bouyon reader, it is the most direct entry point into Malko's catalog, since “Aaliyah” and “Baby Push” also sit in HYPNO's list of productions.",
+  ),
+  (
+    "Has Malko played the Francos de Montréal?",
+    "Yes: the presentation published by PAN M 360, adapted from a Cult Nation text, corresponds to a free Malko concert on the Desjardins stage of the Francos de Montréal, the major Francophone festival of his anchor city. With the 2025 ADISQ nomination, it is one of the traces of his recognition in Quebec.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/malko.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/malko.html#artist", "name": "Malko", "description": "Francophone artist from Montreal, full name Malko Joseph-Lissade, signed to Cult Nation. Author of 30°, MAELSTROM, SAHARA and Emotionnellement indisponible, nominated at the ADISQ 2025. Several of his records are produced by Hypnotic Beatz, the producer documented on this site as HYPNO. He is not a bouyon artist.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'TORNADE'}, {"@type": "MusicRecording", "name": 'MOTOMAMI'}, {"@type": "MusicRecording", "name": 'ONE LOVE'}, {"@type": "MusicRecording", "name": 'GOD COMPLEX'}, {"@type": "MusicRecording", "name": 'paradis'}, {"@type": "MusicRecording", "name": 'TRISTE & CÉLÈBRE'}, {"@type": "MusicRecording", "name": 'P3LÉ'}, {"@type": "MusicRecording", "name": 'le monde sur moi'}, {"@type": "MusicRecording", "name": 'lettre à maman'}, {"@type": "MusicRecording", "name": 'Aaliyah'}, {"@type": "MusicRecording", "name": 'Baby Push'}, {"@type": "MusicRecording", "name": 'Habanero'}, {"@type": "MusicRecording", "name": 'Mami Quiere'}, {"@type": "MusicRecording", "name": 'Champagne'}, {"@type": "MusicRecording", "name": 'Club Story'}, {"@type": "MusicRecording", "name": 'Émotionnellement indisponible'}, {"@type": "MusicRecording", "name": 'DNA'}, {"@type": "MusicRecording", "name": 'Parapluie'}, {"@type": "MusicRecording", "name": 'Le plus beau des diamants'}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

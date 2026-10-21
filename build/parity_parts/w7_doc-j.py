@@ -79,13 +79,51 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Doc J ?", "Doc J est un musicien cité par les articles de référence sur la musique de Guadeloupe parmi les musiciens populaires du bouyon gwada, la déclinaison guadeloupéenne du bouyon né en Dominique, dans le voisinage du bouyon hardcore, aux côtés de Wee Low, Suppa et Yellow Gaza. Aucune biographie vérifiée de Doc J n a été retrouvée en octobre 2026."),
-  ("Qu est ce que le bouyon hardcore, le courant de Doc J ?", "Selon les articles de référence, le bouyon hardcore est une branche populaire du bouyon gwada, caractérisée par des paroles grivoises et violentes. C est dans la liste des musiciens populaires de ce courant que le nom de Doc J apparaît, avec Wee Low, Suppa et Yellow Gaza."),
-  ("Quels sont les titres connus de Doc J ?", "Aucun titre attribué à Doc J par une source ouverte vérifiable n a été retrouvé pendant la recherche de ce profil, et cette page le dit plutôt que d inventer une discographie. La liste des enregistrements vérifiés de son schéma est donc volontairement vide."),
-  ("Doc J est-il Doc Gynéco ou le D.O.C des plateformes ?", "Aucune source ne l établit, et ce profil ne le prétend pas. Doc Gynéco est un rappeur français documenté séparément, et un D.O.C récent publie des titres bouyon sous le label FIX DEM RECORDS. Sans preuve qu il s agisse du même artiste que le Doc J du bouyon gwada, leurs titres et leurs parcours ne lui sont pas attribués ici."),
-  ("Doc J est-il dominicain ou guadeloupéen ?", "Les références placent Doc J dans la scène du bouyon gwada, c est à dire la déclinaison guadeloupéenne du bouyon, parmi des musiciens populaires de cette scène locale. Elles ne donnent pas sa commune ni sa biographie, et ce profil ne précise donc pas au delà de cet ancrage guadeloupéen documenté par la liste."),
-  ("Où écouter le bouyon de la scène de Doc J ?", "Lisez notre page <a href=\"/bouyon-gwada.html\">bouyon gwada</a> pour la déclinaison guadeloupéenne du genre, notre page d <a href=\"/histoire.html\">histoire du bouyon</a> pour le trajet du son depuis la Dominique, et écoutez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, qui suit la scène actuelle de la Dominique et de la Guadeloupe.")
- ],
+  (
+    "Qui est Doc J ?",
+    "Doc J est un musicien cité par les articles de référence sur la musique de Guadeloupe parmi les musiciens populaires du bouyon gwada, la déclinaison guadeloupéenne du bouyon né en Dominique, dans le voisinage du bouyon hardcore, aux côtés de Wee Low, Suppa et Yellow Gaza. Cette citation, reprise d'article en article, est à ce jour sa trace publique vérifiée.",
+  ),
+  (
+    "Dans quelles sources Doc J est-il cité ?",
+    "Dans l'article de référence sur la musique de Guadeloupe, qui consacre une section au bouyon gwada et conclut par une liste de musiciens populaires : Wee Low, Suppa, Doc J et Yellow Gaza. La même liste, dans la même formulation, est reprise par les articles de référence sur la musique de France et sur la musique des Petites Antilles, ainsi que par leurs miroirs.",
+  ),
+  (
+    "Qu'est-ce que le bouyon hardcore, le courant de Doc J ?",
+    "Selon les articles de référence, le bouyon hardcore est une branche populaire du bouyon gwada, caractérisée par des paroles grivoises et violentes. Là où le bouyon de carnaval parle à toute la foule, il assume un registre cru et direct, qui l'a longtemps tenu à l'écart des programmations familiales. C'est dans la liste des musiciens populaires de ce courant que figure Doc J.",
+  ),
+  (
+    "Qui sont les autres musiciens cités avec Doc J ?",
+    "Les articles de référence citent Doc J avec Wee Low, Suppa et Yellow Gaza, dans cet ordre, parmi les musiciens populaires du bouyon gwada. Chacun de ces noms a son propre dossier, et ce site ne prête à Doc J ni les titres ni les parcours de ses voisins de liste : la seule chose qu'ils partagent de manière vérifiée est cette citation commune. Voir notre page <a href=\"/suppa.html\">Suppa</a>.",
+  ),
+  (
+    "Quels sont les titres connus de Doc J ?",
+    "Aucun titre attribué à Doc J par une source ouverte vérifiable n'a été retrouvé pendant la recherche de ce profil : ni fiche de morceau, ni crédit de composition, ni tracklist nommant un de ses titres. Cette page le dit plutôt que d'inventer une discographie, et la liste des enregistrements vérifiés de son schéma est donc volontairement vide, en attendant une source.",
+  ),
+  (
+    "Doc J apparaît-il dans des mixes bouyon ?",
+    "Son nom figure dans les mots clés d'un mix YouTube de 2019, « Strickly Bouyon » de Djeasy, qui liste Doc J parmi ses références bouyon gwada, aux côtés de Miky Ding'la et de Reo. Des mots clés ne sont pas une tracklist : aucun titre de Doc J n'en est tiré ici, mais la mention confirme que son nom reste associé à la scène bouyon gwada.",
+  ),
+  (
+    "Doc J est-il Doc Gynéco ou le D.O.C des plateformes ?",
+    "Aucune source ne l'établit, et ce profil ne le prétend pas. Doc Gynéco est un rappeur français documenté séparément, sans lien documenté avec le bouyon hardcore, et un D.O.C récent publie des titres bouyon sous le label FIX DEM RECORDS. Sans preuve qu'il s'agisse du même artiste que le Doc J du bouyon gwada, leurs titres et leurs parcours ne lui sont pas attribués ici.",
+  ),
+  (
+    "Doc J est-il dominicain ou guadeloupéen ?",
+    "Les références placent Doc J dans la scène du bouyon gwada, la déclinaison guadeloupéenne du bouyon, parmi les musiciens populaires de cette scène locale, et non parmi les artistes dominicains venus en tournée. Elles ne donnent ni sa commune ni sa biographie, et ce profil ne précise donc rien au delà de cet ancrage guadeloupéen documenté par la liste.",
+  ),
+  (
+    "Comment le bouyon est-il arrivé en Guadeloupe, sur la scène de Doc J ?",
+    "Par les échanges avec la Dominique, où le genre est né. Selon les références, la participation massive de la Guadeloupe au World Creole Music Festival et les tournées de Triple Kay et du MFR Band ont popularisé le bouyon sur place, puis des artistes locaux ont été intégrés, comme Daly sur le remix « Allo » de Triple Kay. De cette appropriation est né le bouyon gwada.",
+  ),
+  (
+    "Bouyon et jump up, est-ce la même chose ?",
+    "En Guadeloupe et en Martinique, oui dans le langage courant : les références sur lesquelles repose ce profil rappellent que le bouyon, musique populaire de la Dominique, y est connu comme jump up. Il a connu son âge d'or aux Antilles françaises dans les années 1990, avec des titres comme « Met Veye » de WCK. Voir notre page <a href=\"/jump-up.html\">jump up</a>.",
+  ),
+  (
+    "Où écouter le bouyon de la scène de Doc J ?",
+    "Faute de titre signé, il faut écouter la branche : notre page <a href=\"/bouyon-gwada.html\">bouyon gwada</a> décrit la déclinaison guadeloupéenne du genre et ses artistes. Pour la scène actuelle de la Dominique et de la Guadeloupe, suivez @bouyonshattaz sur Instagram et commentez ROAD MIX sous une publication : la Bouyon Road Mix vous est envoyée en DM.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/doc-j.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/doc-j.html#artist", "name": "Doc J", "description": "Musicien cité par les articles de référence parmi les musiciens populaires du bouyon gwada et du bouyon hardcore en Guadeloupe, aux côtés de Wee Low, Suppa et Yellow Gaza. Aucun enregistrement individuel vérifié retrouvé en octobre 2026.", "genre": "Bouyon", "track": [], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -144,13 +182,51 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Doc J?", "Doc J is a musician cited by the reference articles on the music of Guadeloupe among the popular musicians of bouyon gwada, the Guadeloupean form of the bouyon born in Dominica, in the neighbourhood of bouyon hardcore, alongside Wee Low, Suppa and Yellow Gaza. No verified biography of Doc J was found in October 2026."),
-  ("What is bouyon hardcore, the current of Doc J?", "According to the reference articles, bouyon hardcore is a popular offshoot within bouyon gwada, characterised by lewd and violent lyrics. The name Doc J appears in the list of popular musicians of that current, with Wee Low, Suppa and Yellow Gaza."),
-  ("What are the known titles of Doc J?", "No title attributed to Doc J by a verifiable open source was found during the research for this profile, and this page says so rather than inventing a discography. The verified recordings list in his schema is therefore deliberately empty."),
-  ("Is Doc J Doc Gynéco, or the platform act D.O.C?", "No source establishes that, and this profile does not claim it. Doc Gynéco is a separately documented French rapper, and a recent D.O.C releases bouyon titles under the FIX DEM RECORDS label. Without proof that it is the same artist as the bouyon gwada Doc J, their titles and paths are not assigned to him here."),
-  ("Is Doc J Dominican or Guadeloupean?", "The references place Doc J in the bouyon gwada scene, that is the Guadeloupean form of bouyon, among popular musicians of that local scene. They give neither his town nor his biography, so this profile does not go beyond that documented Guadeloupean anchoring."),
-  ("Where can I hear the bouyon of the Doc J scene?", "Read our <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a> page for the Guadeloupean form of the genre, our <a href=\"/en/history.html\">history of bouyon</a> page for the path of the sound from Dominica, and hear our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, which follows the current scene in Dominica and Guadeloupe.")
- ],
+  (
+    "Who is Doc J?",
+    "Doc J is a musician cited by the reference articles on the music of Guadeloupe among the popular musicians of bouyon gwada, the Guadeloupe form of the bouyon born in Dominica, in the neighbourhood of bouyon hardcore, alongside Wee Low, Suppa and Yellow Gaza. That citation, repeated from article to article, is his verified public trace to date.",
+  ),
+  (
+    "Which sources mention Doc J?",
+    "The reference article on the music of Guadeloupe, which gives a section to bouyon gwada and ends with a list of popular musicians: Wee Low, Suppa, Doc J and Yellow Gaza. The same list, in the same wording, is carried by the reference articles on the music of France and on the music of the Lesser Antilles, as well as by their mirrors.",
+  ),
+  (
+    "What is bouyon hardcore, the current of Doc J?",
+    "According to the reference articles, bouyon hardcore is a popular offshoot within bouyon gwada, characterised by lewd and violent lyrics. Where carnival bouyon speaks to the whole crowd, it embraces a raw, direct register that long kept it out of family programming. Doc J's name appears in the list of popular musicians of that current.",
+  ),
+  (
+    "Which other musicians are listed with Doc J?",
+    "The reference articles list Doc J with Wee Low, Suppa and Yellow Gaza, in that order, among the popular musicians of bouyon gwada. Each of those names has its own file, and this site does not lend Doc J the songs or careers of his list neighbours: the only verified thing they share is this common citation. See our <a href=\"/en/suppa.html\">Suppa</a> page.",
+  ),
+  (
+    "What are the known titles of Doc J?",
+    "No title attributed to Doc J by a verifiable open source was found during the research for this profile: no track listing, no composition credit, no mix tracklist naming one of his songs. This page says so rather than inventing a discography, and the verified recordings list in his schema is therefore deliberately empty, pending a source.",
+  ),
+  (
+    "Does Doc J appear in bouyon mixes?",
+    "His name appears in the keywords of a 2019 YouTube mix, “Strickly Bouyon” by Djeasy, which lists Doc J among its bouyon gwada references, alongside Miky Ding'la and Reo. Keywords are not a tracklist: no Doc J title is drawn from it here, but the mention confirms that his name remains tied to the bouyon gwada scene.",
+  ),
+  (
+    "Is Doc J Doc Gynéco, or the platform act D.O.C?",
+    "No source establishes that, and this profile does not claim it. Doc Gynéco is a separately documented French rapper with no documented link to bouyon hardcore, and a recent D.O.C releases bouyon titles under the FIX DEM RECORDS label. Without proof that it is the same artist as the bouyon gwada Doc J, their titles and paths are not assigned to him here.",
+  ),
+  (
+    "Is Doc J Dominican or Guadeloupean?",
+    "The references place Doc J in the bouyon gwada scene, the Guadeloupe form of bouyon, among popular musicians of that local scene, not among the Dominican artists who came on tour. They give neither his town nor his biography, so this profile goes no further than that Guadeloupe anchoring documented by the list.",
+  ),
+  (
+    "How did bouyon reach Guadeloupe, the scene of Doc J?",
+    "Through exchanges with Dominica, where the genre was born. According to the references, Guadeloupe's massive participation in the World Creole Music Festival and the tours of Triple Kay and the MFR Band popularised bouyon there, then local artists were brought in, like Daly on Triple Kay's “Allo” remix. Bouyon gwada was born from that local adoption.",
+  ),
+  (
+    "Are bouyon and jump up the same thing?",
+    "In Guadeloupe and Martinique, yes in everyday speech: the references this profile relies on note that bouyon, a popular music of Dominica, is known there as jump up. It had its golden age in the French Antilles in the 1990s, with songs like WCK's “Met Veye”. See our <a href=\"/en/jump-up.html\">jump up</a> page.",
+  ),
+  (
+    "Where can I hear the bouyon of the Doc J scene?",
+    "With no signed track, you have to hear the branch: our <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a> page describes the Guadeloupe form of the genre and its artists. For the current scene in Dominica and Guadeloupe, follow @bouyonshattaz on Instagram and comment ROAD MIX under a post: the Bouyon Road Mix is sent to you by DM.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/doc-j.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/doc-j.html#artist", "name": "Doc J", "description": "Musician cited by reference articles among the popular musicians of bouyon gwada and bouyon hardcore in Guadeloupe, alongside Wee Low, Suppa and Yellow Gaza. No verified individual recording found in October 2026.", "genre": "Bouyon", "track": [], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

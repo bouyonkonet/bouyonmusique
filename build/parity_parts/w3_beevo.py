@@ -64,13 +64,43 @@ FR = {
   ]
  ],
  "faq": [
-  ("Beevo a-t-il sorti un titre en solo ?", "Aucun titre en solo de Beevo n’a été trouvé dans les sources ouvertes consultées en octobre 2026. Sa discographie vérifiée se limite à deux collaborations : « Doe do me Dat », avec Trixx, et « Fall In De Trap », avec Trixx et Freddy, toutes deux repérées dans des tracklists de mixes de DJ de la scène dominicaine."),
-  ("D’où vient Beevo ?", "Son origine n’est pas documentée par les sources ouvertes consultées. Beevo apparaît dans des mixes construits autour de la scène bouyon et soca de la Dominique, aux côtés d’artistes dominicains comme Reo, Asa Bantan et Signal Band. Ce site situe donc sa circulation dans cette scène, sans lui attribuer une naissance ou une commune qu’aucune source ne confirme."),
-  ("Qui est Trixx, le partenaire récurrent de Beevo ?", "Trixx est l’artiste aux côtés duquel Beevo apparaît dans ses deux titres vérifiés, « Doe do me Dat » et « Fall In De Trap ». Trixx figure aussi, dans les mêmes mixes, sur des titres comme « Make Her Bawl », avec Shelly et DJ Taffy. Ce profil rapporte ces crédits de tracklists sans en faire un duo officiel, qu’aucune source ne documente."),
-  ("« Doe do me Dat » et « Rum Dat Do Me Dat » sont-ils le même titre ?", "Non. « Doe do me Dat » est crédité à Trixx et Beevo dans la sélection du DJWILLYWONKA FACTORY. « Rum Dat Do Me Dat » est crédité à Khallion et Reo dans la sélection du podcast Dj Close Connections. Les titres se ressemblent, mais les interprètes publiés sont différents, et ce site les garde séparés."),
-  ("Pourquoi le profil de Beevo est-il plus court que les autres profils du site ?", "Parce que son dossier vérifié est mince : deux apparitions en collaboration dans des tracklists de DJ, sans biographie, sans page officielle et sans titre en solo documentés en octobre 2026. Ce site préfère un profil court et exact à un portrait rempli de détails invérifiables. Le profil sera complété dès que des sources vérifiées sur Beevo seront publiées."),
-  ("Le Beevo des sites de statistiques de plateformes est-il le même artiste ?", "Aucune source consultée ne permet de l’affirmer. Des sites de statistiques listent des entrées d’artistes sous le nom Beevo, sans lien établi avec les mixes dominicains qui documentent « Doe do me Dat » et « Fall In De Trap ». Ce profil ne fusionne pas ces entrées avec l’artiste des tracklists, et ses données structurées ne reprennent aucun lien officiel non vérifié.")
- ],
+  (
+    "Qui est Beevo ?",
+    "Beevo est un nom émergent du bouyon dont la trace publique vérifiée tient en deux collaborations avec <a href=\"/trixx.html\">Trixx</a>, repérées dans des mixes de DJ centrés sur la Dominique : « Doe do me Dat », dans la sélection d’avant carnaval du DJWILLYWONKA FACTORY, et « Fall In De Trap », avec Trixx et Freddy, dans le podcast Dj Close Connections. Aucune biographie publiée ne le présente.",
+  ),
+  (
+    "Beevo a-t-il sorti un titre en solo ?",
+    "Aucun titre en solo de Beevo n’a été trouvé dans les sources ouvertes consultées en octobre 2026. Sa discographie vérifiée se limite à deux collaborations : « Doe do me Dat », avec Trixx, et « Fall In De Trap », avec Trixx et Freddy, toutes deux repérées dans des tracklists de mixes de DJ de la scène dominicaine.",
+  ),
+  (
+    "D’où vient Beevo ?",
+    "Son origine n’est pas documentée par les sources ouvertes consultées. Beevo apparaît dans des mixes construits autour de la scène bouyon et soca de la Dominique, aux côtés d’artistes dominicains comme Reo, Asa Bantan et Signal Band. Ce site situe donc sa circulation dans cette scène, sans lui attribuer une naissance ou une commune qu’aucune source ne confirme.",
+  ),
+  (
+    "Qui est Trixx, le partenaire récurrent de Beevo ?",
+    "Trixx est l’artiste aux côtés duquel Beevo apparaît dans ses deux titres vérifiés, « Doe do me Dat » et « Fall In De Trap ». Trixx figure aussi, dans les mêmes mixes, sur « Make Her Bawl », avec Shelly et DJ Taffy, et sa page sur ce site le donne finaliste Rising Artist/Band of the Year aux Dominica Music Awards 2025. Aucune source ne fait d’eux un duo officiel.",
+  ),
+  (
+    "« Doe do me Dat » et « Rum Dat Do Me Dat » sont-ils le même titre ?",
+    "Non. « Doe do me Dat » est crédité à Trixx et Beevo dans la sélection du DJWILLYWONKA FACTORY. « Rum Dat Do Me Dat » est crédité à Khallion et Reo dans la sélection du podcast Dj Close Connections. Les titres se ressemblent, mais les interprètes publiés sont différents, et ce site les garde séparés.",
+  ),
+  (
+    "Pourquoi le profil de Beevo est-il plus court que les autres profils du site ?",
+    "Parce que son dossier vérifié est mince : deux apparitions en collaboration dans des tracklists de DJ, sans biographie, sans page officielle et sans titre en solo documentés en octobre 2026. Ce site préfère un profil court et exact à un portrait rempli de détails invérifiables. Le profil sera complété dès que des sources vérifiées sur Beevo seront publiées.",
+  ),
+  (
+    "Le Beevo des sites de statistiques de plateformes est-il le même artiste ?",
+    "Aucune source consultée ne permet de l’affirmer. Des sites de statistiques listent des entrées d’artistes sous le nom Beevo, sans lien établi avec les mixes dominicains qui documentent « Doe do me Dat » et « Fall In De Trap ». Ce profil ne fusionne pas ces entrées avec l’artiste des tracklists, et ses données structurées ne reprennent aucun lien officiel non vérifié.",
+  ),
+  (
+    "Qui chante sur « Fall In De Trap » avec Beevo ?",
+    "La tracklist du podcast Dj Close Connections crédite « Fall In De Trap » à Trixx, <a href=\"/freddy.html\">Freddy</a> et Beevo. Freddy apparaît aussi ailleurs dans les tracklists de la scène dominicaine, par exemple avec Quan et Litle Boy. Le mix place le titre parmi « Make Her Bawl » de Shelly, Trixx et DJ Taffy, des titres de Reo, d’Asa Bantan et de Signal Band, et des stars de la soca trinidadienne.",
+  ),
+  (
+    "Dans quels mixes entendre Beevo ?",
+    "Dans deux mixes publiés de la scène dominicaine. Le DJWILLYWONKA FACTORY, une sélection d’avant carnaval, place « Doe do me Dat » de Trixx et Beevo en dixième position, dans une liste qui compte aussi Ridge, Reo, Asa Bantan, Signal Band et 1T1. Le podcast Dj Close Connections, sélection soca et bouyon plus large, contient « Fall In De Trap » avec Trixx et Freddy.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/beevo.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/beevo.html#artist", "name": "Beevo", "description": "Nom émergent du bouyon repéré dans les mixes de la scène de la Dominique : Doe do me Dat, avec Trixx, et Fall In De Trap, avec Trixx et Freddy. Aucun titre en solo ni biographie documentés en octobre 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Doe do me Dat"}, {"@type": "MusicRecording", "name": "Fall In De Trap"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -132,13 +162,43 @@ EN = {
   ]
  ],
  "faq": [
-  ("Has Beevo released a solo track?", "No solo Beevo track was found in the open sources consulted in October 2026. His verified discography is limited to two collaborations: “Doe do me Dat”, with Trixx, and “Fall In De Trap”, with Trixx and Freddy, both spotted in tracklists of DJ mixes from the Dominican scene."),
-  ("Where is Beevo from?", "His origin is not documented by the open sources consulted. Beevo appears in mixes built around the bouyon and soca scene of Dominica, alongside Dominican artists such as Reo, Asa Bantan and Signal Band. This site therefore places his circulation in that scene, without assigning him a birthplace or a commune that no source confirms."),
-  ("Who is Trixx, the recurring Beevo partner?", "Trixx is the artist alongside whom Beevo appears on both his verified tracks, “Doe do me Dat” and “Fall In De Trap”. Trixx also appears, in the same mixes, on tracks such as “Make Her Bawl”, with Shelly and DJ Taffy. This profile reports those tracklist credits without turning them into an official duo, which no source documents."),
-  ("Are “Doe do me Dat” and “Rum Dat Do Me Dat” the same track?", "No. “Doe do me Dat” is credited to Trixx and Beevo in the DJWILLYWONKA FACTORY selection. “Rum Dat Do Me Dat” is credited to Khallion and Reo in the Dj Close Connections podcast selection. The titles look alike, but the published performers are different, and this site keeps them separate."),
-  ("Why is the Beevo profile shorter than the other profiles on this site?", "Because his verified record is thin: two collaboration appearances in DJ tracklists, with no biography, no official page and no documented solo track in October 2026. This site prefers a short and exact profile to a portrait filled with unverifiable detail. The profile will be completed as soon as verified sources on Beevo are published."),
-  ("Is the Beevo on platform statistics sites the same artist?", "No consulted source allows that to be stated. Statistics sites list artist entries under the name Beevo, with no established link to the Dominican mixes documenting “Doe do me Dat” and “Fall In De Trap”. This profile does not merge those entries with the tracklist artist, and its structured data carries no unverified official link.")
- ],
+  (
+    "Who is Beevo?",
+    "Beevo is an emerging bouyon name whose verified public trace comes down to two collaborations with <a href=\"/en/trixx.html\">Trixx</a>, spotted in DJ mixes centred on Dominica: “Doe do me Dat”, in the pre-carnival selection of DJWILLYWONKA FACTORY, and “Fall In De Trap”, with Trixx and Freddy, in the Dj Close Connections podcast. No published biography presents him.",
+  ),
+  (
+    "Has Beevo released a solo track?",
+    "No solo Beevo track was found in the open sources consulted in October 2026. His verified discography is limited to two collaborations: “Doe do me Dat”, with Trixx, and “Fall In De Trap”, with Trixx and Freddy, both spotted in tracklists of DJ mixes from the Dominican scene.",
+  ),
+  (
+    "Where is Beevo from?",
+    "His origin is not documented by the open sources consulted. Beevo appears in mixes built around the bouyon and soca scene of Dominica, alongside Dominican artists such as Reo, Asa Bantan and Signal Band. This site therefore places his circulation in that scene, without assigning him a birthplace or a commune that no source confirms.",
+  ),
+  (
+    "Who is Trixx, Beevo’s recurring partner?",
+    "Trixx is the artist alongside whom Beevo appears on both his verified tracks, “Doe do me Dat” and “Fall In De Trap”. Trixx also appears, in the same mixes, on “Make Her Bawl”, with Shelly and DJ Taffy, and his page on this site lists him as a Rising Artist/Band of the Year finalist at the Dominica Music Awards 2025. No source makes them an official duo.",
+  ),
+  (
+    "Are “Doe do me Dat” and “Rum Dat Do Me Dat” the same track?",
+    "No. “Doe do me Dat” is credited to Trixx and Beevo in the DJWILLYWONKA FACTORY selection. “Rum Dat Do Me Dat” is credited to Khallion and Reo in the Dj Close Connections podcast selection. The titles look alike, but the published performers are different, and this site keeps them separate.",
+  ),
+  (
+    "Why is the Beevo profile shorter than the other profiles on this site?",
+    "Because his verified record is thin: two collaboration appearances in DJ tracklists, with no biography, no official page and no documented solo track in October 2026. This site prefers a short and exact profile to a portrait filled with unverifiable detail. The profile will be completed as soon as verified sources on Beevo are published.",
+  ),
+  (
+    "Is the Beevo on platform statistics sites the same artist?",
+    "No consulted source allows that to be stated. Statistics sites list artist entries under the name Beevo, with no established link to the Dominican mixes documenting “Doe do me Dat” and “Fall In De Trap”. This profile does not merge those entries with the tracklist artist, and its structured data carries no unverified official link.",
+  ),
+  (
+    "Who sings on “Fall In De Trap” with Beevo?",
+    "The Dj Close Connections podcast tracklist credits “Fall In De Trap” to Trixx, <a href=\"/en/freddy.html\">Freddy</a> and Beevo. Freddy also appears elsewhere in the tracklists of the Dominican scene, for example with Quan and Litle Boy. The mix places the track among “Make Her Bawl” by Shelly, Trixx and DJ Taffy, tracks by Reo, Asa Bantan and Signal Band, and Trinidad soca stars.",
+  ),
+  (
+    "In which mixes can I hear Beevo?",
+    "In two published mixes of the Dominican scene. DJWILLYWONKA FACTORY, a pre-carnival selection, places “Doe do me Dat” by Trixx and Beevo at number ten, in a list that also includes Ridge, Reo, Asa Bantan, Signal Band and 1T1. The Dj Close Connections podcast, a broader soca and bouyon selection, contains “Fall In De Trap” with Trixx and Freddy.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/beevo.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/beevo.html#artist", "name": "Beevo", "description": "Emerging bouyon name spotted in mixes from the Dominica scene: Doe do me Dat, with Trixx, and Fall In De Trap, with Trixx and Freddy. No solo track or biography documented in October 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Doe do me Dat"}, {"@type": "MusicRecording", "name": "Fall In De Trap"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

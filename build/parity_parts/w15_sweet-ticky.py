@@ -71,13 +71,67 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Sweet Ticky ?", "Sweet Ticky est le nom sous lequel ce chanteur bouyon est recherché. Dans les sources publiées ouvertes pour ce profil, le seul Ticky documenté du bouyon est Lennan « Ticky » Matthew, l'un des trois chanteurs de front de TK International, le groupe de Laudat, en Dominique. Aucune discographie solo sous le nom complet Sweet Ticky n'a pu être vérifiée, et ce profil couvre donc le chanteur documenté, en disant ouvertement cette limite."),
-  ("Quel est le vrai nom de Ticky, le chanteur de TK International ?", "Les sources publiées, le site officiel du groupe comme Soca News, donnent Lennan Matthew, avec Ticky comme surnom de scène. Ses deux partenaires de front sont David « Sonic Tazzy » George et Wayne « Mr Benji N'O » Benjamin."),
-  ("Quelle est la signature vocale de Ticky dans le trio ?", "Le site officiel de TK International décrit les trois voix ainsi : les chants râpeux de Benji, les falsettos aigus de Tazzy et les voix douces de Lennan. La douceur est donc la signature publiée de Ticky, celle qui porte les passages chantés et mélodiques du groupe."),
-  ("Quels titres de TK International ont gagné des Road March ?", "Selon le site officiel du groupe : « Please » en 2008, « Lock De Gate » en 2015, deuxième titre de People's Road March du groupe, « Roll dat Boom Boom » en 2017, et « Heat » en 2019, qui a gagné le tout premier titre de Peoples Bouyon Road March de l'histoire. « Nous Konnet Vive » a en outre été la chanson thème officielle du carnaval de la Dominique en 2014."),
-  ("D'où vient TK International et quand le groupe a-t-il commencé ?", "Le groupe vient de Laudat, en Dominique, où il a été fondé par trois amis. Il a fait ses débuts au World Creole Music Festival et à Creole in the Park en 2002, a publié son premier album « Big Ting » en 2000 selon son site officiel, et n'a manqué aucune édition du WCMF depuis 2005."),
-  ("Où écouter Ticky et TK International ?", "Commencez par les titres du groupe retenus sous ce profil, de « Big Ting » à « Still Standing » et « Whistle », puis écoutez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> et lisez notre page <a href=\"/carnaval-de-dominique.html\">carnaval de la Dominique</a>, la scène où les titres de Road March du groupe ont été gagnés.")
- ],
+  (
+    "Qui est Sweet Ticky ?",
+    "Sweet Ticky est le nom sous lequel ce chanteur bouyon est recherché. Dans les sources publiées ouvertes pour ce profil, le seul Ticky documenté du bouyon est Lennan « Ticky » Matthew, l'un des trois chanteurs de front de TK International, le groupe de Laudat, en Dominique. Aucune discographie solo sous le nom complet Sweet Ticky n'a pu être vérifiée, et ce profil couvre donc le chanteur documenté.",
+  ),
+  (
+    "Quel est le vrai nom de Ticky, le chanteur de TK International ?",
+    "Les sources publiées, le site officiel du groupe comme Soca News, donnent Lennan Matthew, avec Ticky comme surnom de scène. Ses deux partenaires de front sont David « Sonic Tazzy » George et Wayne « Mr Benji N'O » Benjamin. Le site officiel présente ces trois chanteurs comme le visage du groupe, et le même trio menait encore le groupe au WCMF 2025.",
+  ),
+  (
+    "Quelle est la signature vocale de Ticky dans le trio ?",
+    "La douceur. Le site officiel de TK International décrit les trois voix ainsi : les chants râpeux de Benji, les falsettos aigus de Tazzy et les voix douces de Lennan. Ticky porte donc les passages chantés et mélodiques du groupe, là où les chants de Benji portent l'attaque. Un chanteur que le public appelle Sweet, et dont le groupe décrit la voix comme douce.",
+  ),
+  (
+    "TK International et Triple Kay, est-ce le même groupe ?",
+    "Oui. TK International est aussi appelé Triple Kay Band ou Triple Kay International : c'est le même groupe de Laudat, en Dominique, fondé par trois amis et nommé d'après eux, puis passé à neuf membres. Soca News le présente avec neuf albums, des centaines de chansons et des milliers d'heures de concerts dans le monde. Voir notre page <a href=\"/tk-international.html\">TK International</a>.",
+  ),
+  (
+    "Qui produit et écrit les titres de TK International ?",
+    "Selon le site officiel du groupe, Kendel « Killa » Laurent, aux claviers principaux, produit toute la musique du groupe, et Jeoffrey « JJ Yout » Joseph, aux seconds claviers et aux chœurs, écrit une grande partie des paroles. Les voix de front, Ticky compris, travaillent donc sur des productions et des textes maison, stables depuis des années.",
+  ),
+  (
+    "Quand Ticky est-il passé au bouyon ?",
+    "Au milieu des années 2000. Après les débuts créoles de « Big Ting » en 2000 et « Fanatik » en 2003, Benji a produit en 2004 le titre éponyme de l'album « Sewo », puis est devenu membre à part entière en 2005, et le répertoire s'est tourné vers le bouyon. Selon le site officiel, David et Lennan ont vite suivi, s'imposant comme un trio vocal bouyon dominant.",
+  ),
+  (
+    "Quels sont les albums de TK International ?",
+    "Selon le site officiel et Soca News : « Big Ting » en 2000, « Fanatik » en 2003, « Sewo », puis « All Out » en 2006, « Pressure » en 2007, « Colours » en 2008, « Allo » en 2009, « Hush Your Mouth » en 2011 et « Bubblin » en 2012, le dernier album complet. Depuis, le groupe sort des singles. Aucun album solo de Ticky n'apparaît dans cette discographie.",
+  ),
+  (
+    "Quels titres de TK International ont gagné des Road March ?",
+    "Selon le site officiel du groupe : « Please » en 2008, « Lock De Gate » en 2015, deuxième titre de People's Road March du groupe, « Roll dat Boom Boom » en 2017, et « Heat » en 2019, qui a gagné le tout premier titre de Peoples Bouyon Road March de l'histoire. « Nous Konnet Vive » a en outre été la chanson thème officielle du carnaval de la Dominique en 2014.",
+  ),
+  (
+    "Quelles sont les chansons les plus populaires de TK International ?",
+    "Selon le site officiel, « Jose », en 2017, est devenu en un mois le deuxième clip YouTube le plus populaire du groupe, derrière « Soos » de 2007. « Toufe » est présenté comme la chanson la plus aimée du début des années 2020, et le single « Whistle » a dominé plusieurs classements régionaux, dont celui d'Antigua. La voix de Ticky fait partie du son de chacun de ces titres.",
+  ),
+  (
+    "Qu'est-ce que « Still Standing » de TK International ?",
+    "« Still Standing » est un titre de 2018, produit après les destructions de l'ouragan Maria en Dominique. Selon le site officiel du groupe, il est devenu un hymne de résilience pour le pays et pour toutes les nations traversant des circonstances difficiles. Il fait partie des titres du groupe retenus sous ce profil pour la voix de Ticky au sein du trio.",
+  ),
+  (
+    "D'où vient TK International et quand le groupe a-t-il commencé ?",
+    "Le groupe vient de Laudat, en Dominique, où il a été fondé par trois amis. Il a publié son premier album, « Big Ting », en 2000 selon son site officiel, puis a fait ses débuts au World Creole Music Festival et à Creole in the Park en 2002. Il n'a manqué aucune édition du WCMF depuis 2005 et a joué toutes les éditions de Creole in the Park sauf une.",
+  ),
+  (
+    "Ticky a-t-il joué au World Creole Music Festival 2025 ?",
+    "Oui, avec son groupe : une critique du festival publiée par Mondo Local montre TK International sur la scène du vendredi 24 octobre 2025, avec ses trois chanteurs, David « Sonic Tazzy » George, Wayne « Mr. Benji N'O » Benjamin et Lennan « Ticky » Matthew, et présente le groupe comme « The People's Band ». Voir notre page <a href=\"/world-creole-music-festival.html\">World Creole Music Festival</a>.",
+  ),
+  (
+    "Quel est le rôle de TK International dans le bouyon soca ?",
+    "Selon le témoignage signé de Sean « Smokiller » Francis, producteur né en Dominique et acteur de cette époque, le bouyon soca a été lancé par Dada en Dominique en 2003, puis est devenu populaire quand Triple Kay et d'autres groupes l'ont adopté dans leur propre version du bouyon. Le groupe de Ticky se tient donc au point exact où un style de studio devient un son de foule.",
+  ),
+  (
+    "Quelles distinctions TK International a-t-il reçues ?",
+    "En 2022, le groupe a reçu le Meritorious Service Award du Commonwealth de la Dominique et le Golden Drum Award, pour sa contribution à la culture et à la promotion du pays dans le monde. Son événement de carnaval, Mega Monday, a aussi gagné le prix de Best Carnival Monday Band avec sa présentation Visions 20/20, selon le site officiel du groupe.",
+  ),
+  (
+    "Où écouter Ticky et TK International ?",
+    "Commencez par les titres du groupe retenus sous ce profil, de « Big Ting » à « Still Standing » et « Whistle », en passant par « Heat », le premier Peoples Bouyon Road March. Pour entendre la scène bouyon de la Dominique aujourd'hui, la <a href=\"/playlist-bouyon.html\">playlist ROAD MIX</a> de Bouyon Shattaz rassemble nouveautés, bouyon soca et classiques de carnaval.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/sweet-ticky.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/sweet-ticky.html#artist", "name": "Sweet Ticky", "description": "Chanteur bouyon de la Dominique. Le Ticky documenté des sources publiées est Lennan Matthew, voix douce du trio de front de TK International, groupe de Laudat actif depuis 2002.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Big Ting"}, {"@type": "MusicRecording", "name": "L'amour"}, {"@type": "MusicRecording", "name": "Fanatik"}, {"@type": "MusicRecording", "name": "Log On"}, {"@type": "MusicRecording", "name": "Nous Konnet Vive"}, {"@type": "MusicRecording", "name": "Lock De Gate"}, {"@type": "MusicRecording", "name": "Still Standing"}, {"@type": "MusicRecording", "name": "Heat"}, {"@type": "MusicRecording", "name": "Toufe"}, {"@type": "MusicRecording", "name": "Whistle"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -148,13 +202,67 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Sweet Ticky?", "Sweet Ticky is the name this bouyon singer is searched under. In the published sources opened for this profile, the only documented Ticky in bouyon is Lennan “Ticky” Matthew, one of the three frontline vocalists of TK International, the band from Laudat, Dominica. No solo discography under the full name Sweet Ticky could be verified, so this profile covers the documented singer, and states that limit openly."),
-  ("What is the real name of Ticky, the TK International singer?", "The published sources, the band official website as well as Soca News, give Lennan Matthew, with Ticky as his stage nickname. His two frontline partners are David “Sonic Tazzy” George and Wayne “Mr Benji N'O” Benjamin."),
-  ("What is the vocal signature of Ticky in the trio?", "The TK International official site describes the three voices this way: Benji raspy chants, Tazzy high pitched falsettos and Lennan smooth vocals. Smoothness is therefore the published signature of Ticky, the voice that carries the sung, melodic passages of the band."),
-  ("Which TK International records won Road March titles?", "According to the band official site: “Please” in 2008, “Lock De Gate” in 2015, the band second People's Road March title, “Roll dat Boom Boom” in 2017, and “Heat” in 2019, which won the first ever Peoples Bouyon Road March title in history. “Nous Konnet Vive” was also the official theme song of Dominica carnival celebrations in 2014."),
-  ("Where does TK International come from, and when did the band start?", "The band comes from Laudat, Dominica, where it was founded by three friends. It debuted at the World Creole Music Festival and Creole in the Park in 2002, released its debut album “Big Ting” in 2000 according to its official site, and has not missed a WCMF performance since 2005."),
-  ("Where can I hear Ticky and TK International?", "Start with the band records kept under this profile, from “Big Ting” to “Still Standing” and “Whistle”, then hear our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> and read our <a href=\"/en/dominica-carnival.html\">Dominica carnival</a> page, the stage where the band Road March titles were won.")
- ],
+  (
+    "Who is Sweet Ticky?",
+    "Sweet Ticky is the name this bouyon singer is searched under. In the published sources opened for this profile, the only documented Ticky in bouyon is Lennan “Ticky” Matthew, one of the three frontline vocalists of TK International, the band from Laudat, Dominica. No solo discography under the full name Sweet Ticky could be verified, so this profile covers the documented singer.",
+  ),
+  (
+    "What is the real name of Ticky, the TK International singer?",
+    "The published sources, the band's official website as well as Soca News, give Lennan Matthew, with Ticky as his stage nickname. His two frontline partners are David “Sonic Tazzy” George and Wayne “Mr Benji N'O” Benjamin. The official site presents those three singers as the face of the band, and the same trio still fronted the band at the 2025 WCMF.",
+  ),
+  (
+    "What is the vocal signature of Ticky in the trio?",
+    "Smoothness. The TK International official site describes the three voices this way: Benji's raspy chants, Tazzy's high pitched falsettos and Lennan's smooth vocals. Ticky therefore carries the sung, melodic passages of the band, where Benji's chants carry the attack. A singer the public calls Sweet, whose band describes his voice as smooth.",
+  ),
+  (
+    "Are TK International and Triple Kay the same band?",
+    "Yes. TK International is also called the Triple Kay Band or Triple Kay International: it is the same band from Laudat, Dominica, founded by three friends and named after them, then grown to nine members. Soca News credits it with nine albums, hundreds of songs and thousands of hours of worldwide performances. See our <a href=\"/en/tk-international.html\">TK International</a> page.",
+  ),
+  (
+    "Who produces and writes TK International's songs?",
+    "According to the band's official site, Kendel “Killa” Laurent, on lead keys, produces all of the band's music, and Jeoffrey “JJ Yout” Joseph, on back keys and back vocals, writes much of the lyrics. The frontline voices, Ticky included, therefore work on in house productions and lyrics, stable for years.",
+  ),
+  (
+    "When did Ticky move to bouyon?",
+    "In the mid 2000s. After the Creole beginnings of “Big Ting” in 2000 and “Fanatik” in 2003, Benji produced the title track of the album “Sewo” in 2004, then became a full member in 2005, and the repertoire turned to bouyon. According to the official site, David and Lennan soon followed, establishing themselves as a dominant bouyon vocal performing trio.",
+  ),
+  (
+    "What are TK International's albums?",
+    "According to the official site and Soca News: “Big Ting” in 2000, “Fanatik” in 2003, “Sewo”, then “All Out” in 2006, “Pressure” in 2007, “Colours” in 2008, “Allo” in 2009, “Hush Your Mouth” in 2011 and “Bubblin” in 2012, the last full length album. Since then, the band has released singles. No Ticky solo album appears in that discography.",
+  ),
+  (
+    "Which TK International records won Road March titles?",
+    "According to the band's official site: “Please” in 2008, “Lock De Gate” in 2015, the band's second People's Road March title, “Roll dat Boom Boom” in 2017, and “Heat” in 2019, which won the first ever Peoples Bouyon Road March title in history. “Nous Konnet Vive” was also the official theme song of Dominica carnival celebrations in 2014.",
+  ),
+  (
+    "What are TK International's most popular songs?",
+    "According to the official site, “Jose”, in 2017, became within a month the band's second most popular YouTube upload, behind 2007's “Soos”. “Toufe” is presented as the most loved song of the early 2020s, and the single “Whistle” topped several regional charts, including in Antigua. Ticky's voice is part of the sound of each of those records.",
+  ),
+  (
+    "What is TK International's “Still Standing”?",
+    "“Still Standing” is a 2018 record, produced after the devastation of Hurricane Maria in Dominica. According to the band's official site, it became an anthem of resilience for the country and for all nations experiencing adverse circumstances. It is one of the band records kept under this profile for Ticky's voice within the trio.",
+  ),
+  (
+    "Where does TK International come from, and when did the band start?",
+    "The band comes from Laudat, Dominica, where it was founded by three friends. It released its debut album, “Big Ting”, in 2000 according to its official site, then debuted at the World Creole Music Festival and Creole in the Park in 2002. It has not missed a WCMF performance since 2005 and has played all but one staging of Creole in the Park.",
+  ),
+  (
+    "Did Ticky play the 2025 World Creole Music Festival?",
+    "Yes, with his band: a festival review published by Mondo Local shows TK International on the Friday stage on October 24, 2025, with its three vocalists, David “Sonic Tazzy” George, Wayne “Mr. Benji N'O” Benjamin and Lennan “Ticky” Matthew, and bills the band as The People's Band. See our <a href=\"/en/world-creole-music-festival.html\">World Creole Music Festival</a> page.",
+  ),
+  (
+    "What is TK International's role in bouyon soca?",
+    "According to the signed testimony of Sean “Smokiller” Francis, a Dominican-born producer and a participant in that era, bouyon soca was started by Dada in Dominica in 2003, then became popular when Triple Kay and other bands adopted it in their own version of bouyon. Ticky's band therefore stands at the exact point where a studio style becomes a crowd sound.",
+  ),
+  (
+    "What awards has TK International received?",
+    "In 2022, the band received the Commonwealth of Dominica Meritorious Service Award and the Golden Drum Award, for its contribution to culture and the promotion of the country worldwide. Its signature carnival event, Mega Monday, also won Best Carnival Monday Band with its Visions 20/20 presentation, according to the band's official site.",
+  ),
+  (
+    "Where can I hear Ticky and TK International?",
+    "Start with the band records kept under this profile, from “Big Ting” to “Still Standing” and “Whistle”, by way of “Heat”, the first Peoples Bouyon Road March. To hear Dominica's bouyon scene today, the Bouyon Shattaz <a href=\"/en/playlist-bouyon.html\">ROAD MIX playlist</a> gathers new releases, bouyon soca and carnival classics.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/sweet-ticky.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/sweet-ticky.html#artist", "name": "Sweet Ticky", "description": "Bouyon singer from Dominica. The documented Ticky of the published sources is Lennan Matthew, the smooth voice of the TK International frontline trio, a band from Laudat active since 2002.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Big Ting"}, {"@type": "MusicRecording", "name": "L'amour"}, {"@type": "MusicRecording", "name": "Fanatik"}, {"@type": "MusicRecording", "name": "Log On"}, {"@type": "MusicRecording", "name": "Nous Konnet Vive"}, {"@type": "MusicRecording", "name": "Lock De Gate"}, {"@type": "MusicRecording", "name": "Still Standing"}, {"@type": "MusicRecording", "name": "Heat"}, {"@type": "MusicRecording", "name": "Toufe"}, {"@type": "MusicRecording", "name": "Whistle"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

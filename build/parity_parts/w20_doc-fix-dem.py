@@ -76,13 +76,59 @@ FR = {
   ]
  ],
  "faq": [
-  ("Que signifie D.O.C FIX DEM ?", "Aucune source consultée ne le publie, et ce profil ne l invente pas. Les fiches établissent seulement les usages du nom : interprète en nom principal, producteur crédité sur « Asi Mwen » et « Tik Tak », et racine des enseignes de sortie FIX DEM, D.O.C FIX DEM et FIX DEM RECORDS. Le développement des initiales et le sens de FIX DEM restent des questions ouvertes du dossier."),
-  ("D.O.C FIX DEM est il une personne ou un collectif ?", "Les sources ne tranchent pas. Les plateformes créditent le nom au singulier, comme interprète et producteur, mais aucun nom de personne ne lui est attaché dans les crédits, et les voix de ses titres sont créditées séparément, autour d une équipe d écriture menée par Landry Mette. Ce site le range donc parmi les groupes dans ses données structurées, par prudence, et publie les crédits qui justifient cette prudence."),
-  ("Quels sont les titres vérifiés de D.O.C FIX DEM ?", "Six enregistrements. « Asi Mwen » le 19 septembre 2025, « Woody Wood » avec Judi Silva et LGC et « ELLE DANSE BOUYON », où D.O.C FIX IT est l artiste principal et D.O.C FIX DEM l invité, le 19 décembre 2025, « Fwadi » avec Waysee le 16 janvier 2026, « Tik Tak » le 6 février 2026, et un crédit de compositeur sur « BIG BELLY » de Lejuh. Un septième titre signalé, « ANDOLOKO » avec Gringo Jay, n a pas été retenu faute de fiche ouverte et vérifiée."),
-  ("Qui travaille derrière D.O.C FIX DEM ?", "Une équipe récurrente, selon les crédits publiés : Landry Mette, auteur et producteur de tous les titres vérifiés et pianiste sur « Tik Tak », Clarisse Daryl, autrice, productrice et ingénieure du mixage, Gardiole Jean et Judi Silva au chant et à l écriture sur « Woody Wood », et des voix tournantes, Billy BYBF, LGC, Le_Daah, Fabien Aurela, DDK, Enzo Vandal et Yohan Corneille. Aucune source ne dit que l une de ces personnes est D.O.C FIX DEM."),
-  ("Quel est le lien entre D.O.C FIX DEM, LGC et Lejuh ?", "Un réseau de crédits croisés, publié par les fiches et les clips. LGC chante sur « Asi Mwen » et paraît sur « Woody Wood » aux côtés de D.O.C FIX DEM. D.O.C FIX DEM est crédité comme compositeur, avec DJ Luchshiy, sur « BIG BELLY » de Lejuh. Et les auteurs des deux catalogues se recoupent, à commencer par Jean Gardiole, auteur pilier de LGC et voix de « Woody Wood »."),
-  ("Où écouter D.O.C FIX DEM ?", "Par ses singles, « Asi Mwen », « Woody Wood », « Fwadi » et « Tik Tak », puis « ELLE DANSE BOUYON » de D.O.C FIX IT où il est invité, et « BIG BELLY » de <a href=\"/lejuh.html\">Lejuh</a> où il est compositeur. Pour la scène autour, notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> et les pages <a href=\"/lgc.html\">LGC</a> et <a href=\"/judi-silva.html\">Judi Silva</a> prolongent l écoute.")
- ],
+  (
+    "Que signifie D.O.C FIX DEM ?",
+    "Aucune source consultée ne le publie, et ce profil ne l’invente pas. Les fiches établissent seulement les usages du nom : interprète en nom principal, producteur crédité sur « Asi Mwen » et « Tik Tak », et racine des enseignes de sortie FIX DEM, D.O.C FIX DEM et FIX DEM RECORDS. Le développement des initiales et le sens de FIX DEM restent des questions ouvertes du dossier.",
+  ),
+  (
+    "D.O.C FIX DEM est-il une personne ou un collectif ?",
+    "Les sources ne tranchent pas. Les plateformes créditent le nom au singulier, comme interprète et producteur, mais aucun nom de personne ne lui est attaché dans les crédits, et les voix de ses titres sont créditées séparément, autour d’une équipe d’écriture menée par Landry Mette. Ce site le range donc parmi les groupes dans ses données structurées, par prudence, et publie les crédits qui justifient cette prudence.",
+  ),
+  (
+    "Quels sont les titres vérifiés de D.O.C FIX DEM ?",
+    "Six enregistrements. « Asi Mwen » le 19 septembre 2025, « Woody Wood » avec Judi Silva et LGC et « ELLE DANSE BOUYON », où D.O.C FIX IT est l’artiste principal et D.O.C FIX DEM l’invité, le 19 décembre 2025, « Fwadi » avec Waysee le 16 janvier 2026, « Tik Tak » le 6 février 2026, et un crédit de compositeur sur « BIG BELLY » de Lejuh. Un septième titre signalé, « ANDOLOKO » avec Gringo Jay, n’a pas été retenu faute de fiche ouverte et vérifiée.",
+  ),
+  (
+    "Qui travaille derrière D.O.C FIX DEM ?",
+    "Une équipe récurrente, selon les crédits publiés : Landry Mette, auteur et producteur de tous les titres vérifiés et pianiste sur « Tik Tak », Clarisse Daryl, autrice, productrice et ingénieure du mixage, Gardiole Jean et Judi Silva au chant et à l’écriture sur « Woody Wood », et des voix tournantes, Billy BYBF, LGC, Le_Daah, Fabien Aurela, DDK, Enzo Vandal et Yohan Corneille. Aucune source ne dit que l’une de ces personnes est D.O.C FIX DEM.",
+  ),
+  (
+    "Quel est le lien entre D.O.C FIX DEM, LGC et Lejuh ?",
+    "Un réseau de crédits croisés, publié par les fiches et les clips. LGC chante sur « Asi Mwen » et paraît sur « Woody Wood » aux côtés de D.O.C FIX DEM. D.O.C FIX DEM est crédité comme compositeur, avec DJ Luchshiy, sur « BIG BELLY » de Lejuh. Et les auteurs des deux catalogues se recoupent, à commencer par Jean Gardiole, auteur pilier de LGC et voix de « Woody Wood ».",
+  ),
+  (
+    "Où écouter D.O.C FIX DEM ?",
+    "Par ses singles, « Asi Mwen », « Woody Wood », « Fwadi » et « Tik Tak », puis « ELLE DANSE BOUYON » de D.O.C FIX IT où il est invité, et « BIG BELLY » de <a href=\"/lejuh.html\">Lejuh</a> où il est compositeur. Pour la scène guadeloupéenne autour de lui, la playlist Bouyon Road Mix de Bouyon Shattaz prend le relais.",
+  ),
+  (
+    "Qui a produit « Asi Mwen » de D.O.C FIX DEM ?",
+    "Quatre noms sont crédités à la production : D.O.C FIX DEM lui-même, Landry Mette, Clarisse Daryl et <a href=\"/d0-production.html\">D0 Production</a>, avec Landry Mette et Clarisse Daryl aussi au mixage. Sorti le 19 septembre 2025 sous l’enseigne FIX DEM, à 160 BPM, le titre dure 1 minute 49 et réunit Billy BYBF, LGC et Le_Daah au chant.",
+  ),
+  (
+    "D.O.C FIX DEM et D.O.C FIX IT, est-ce le même nom ?",
+    "Pas dans les sources : ce sont deux lignes de crédit distinctes. D.O.C FIX IT est l’artiste principal de « ELLE DANSE BOUYON », sorti le 19 décembre 2025 chez FIX DEM RECORDS, où D.O.C FIX DEM n’est qu’invité. Les deux noms partagent un auteur, Landry Mette, et la racine FIX DEM, mais rien ne dit qu’ils désignent la même entité. Voir <a href=\"/doc-fix-it.html\">D.O.C FIX IT</a>.",
+  ),
+  (
+    "D.O.C FIX DEM a-t-il un lien avec le rappeur The D.O.C. ?",
+    "Non, aucun lien documenté. The D.O.C. est un rappeur américain documenté depuis la fin des années 1980, associé à N.W.A et à Dr. Dre, sans rapport avec le bouyon ou la Guadeloupe. Les titres retenus ici sont ceux dont les crédits se recoupent avec la scène gwada : Landry Mette, LGC, Lejuh, Judi Silva et les enseignes FIX DEM.",
+  ),
+  (
+    "Qu’est-ce que « Fwadi » de D.O.C FIX DEM et Waysee ?",
+    "Un single sorti le 16 janvier 2026 sous les noms de D.O.C FIX DEM et Waysee. À 129 BPM, c’est le tempo le plus lent du dossier, tagué Hip-Hop/Rap par la plateforme. Yohan Corneille y est crédité au chant et à l’écriture, Landry Mette à l’écriture et à la production. Ce site n’en déduit aucun changement de style que les sources écrites ne décrivent pas.",
+  ),
+  (
+    "Qui chante sur « Tik Tak » de D.O.C FIX DEM ?",
+    "La ligne de titre invite <a href=\"/billy-bybf.html\">Billy BYBF</a>, DEE ZEN et DDK, et la fiche détaille au chant Fabien Aurela, DDK et Enzo Vandal, avec Landry Mette au piano. Sorti le 6 février 2026, à 148 BPM, le titre est produit par D.O.C FIX DEM et Landry Mette. C’est, à ce jour, la dernière sortie vérifiée en nom principal.",
+  ),
+  (
+    "Qui a composé « BIG BELLY » de Lejuh ?",
+    "D.O.C FIX DEM et DJ Luchshiy, crédités comme compositeurs dans la description du clip officiel. Le mixage et le mastering reviennent à Hakuna Music Company, la réalisation à Kinvi, et les mots-clés du clip placent le titre dans le bouyon et le trapbouyon de Guadeloupe, en 2026. Pour D.O.C FIX DEM, c’est un crédit de compositeur, présenté comme tel.",
+  ),
+  (
+    "Quel est le titre le plus identifié de D.O.C FIX DEM ?",
+    "« ELLE DANSE BOUYON » affiche le plus haut compteur du dossier, environ 120 identifications, mais D.O.C FIX DEM n’y est qu’invité de D.O.C FIX IT. Parmi ses titres en nom principal, « Asi Mwen » mène avec environ 24 identifications, devant « Fwadi » (16) et « Woody Wood » (une seule). Ces chiffres datent du jour de la recherche et évoluent.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/doc-fix-dem.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/doc-fix-dem.html#artist", "name": "D.O.C FIX DEM", "description": "Nom du bouyon guadeloupéen crédité comme interprète, producteur et enseigne de sortie, porté par un atelier d écriture mené par Landry Mette avec Clarisse Daryl. Titres vérifiés de 2025 et 2026 : Asi Mwen, Woody Wood avec Judi Silva et LGC, ELLE DANSE BOUYON en invité de D.O.C FIX IT, Fwadi, Tik Tak, et un crédit de compositeur sur BIG BELLY de Lejuh. Aucune source ne développe les initiales ni ne nomme les personnes derrière le nom.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Asi Mwen'}, {"@type": "MusicRecording", "name": 'Woody Wood'}, {"@type": "MusicRecording", "name": 'ELLE DANSE BOUYON'}, {"@type": "MusicRecording", "name": 'Fwadi'}, {"@type": "MusicRecording", "name": 'Tik Tak'}, {"@type": "MusicRecording", "name": 'BIG BELLY'}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -154,13 +200,59 @@ EN = {
   ]
  ],
  "faq": [
-  ("What does D.O.C FIX DEM mean?", "No source consulted publishes it, and this profile does not invent it. The listings establish only the uses of the name: lead performer, credited producer on “Asi Mwen” and “Tik Tak”, and root of the release banners FIX DEM, D.O.C FIX DEM and FIX DEM RECORDS. The expansion of the initials and the meaning of FIX DEM remain open questions of the file."),
-  ("Is D.O.C FIX DEM a person or a collective?", "The sources do not settle it. The platforms credit the name in the singular, as performer and producer, but no person name is attached to it in the credits, and the voices of its records are credited separately, around a writing team led by Landry Mette. This site therefore files it among groups in its structured data, out of caution, and publishes the credits that justify that caution."),
-  ("What are the verified records of D.O.C FIX DEM?", "Six recordings. “Asi Mwen” on September 19, 2025, “Woody Wood” with Judi Silva and LGC and “ELLE DANSE BOUYON”, where D.O.C FIX IT is the lead artist and D.O.C FIX DEM the guest, on December 19, 2025, “Fwadi” with Waysee on January 16, 2026, “Tik Tak” on February 6, 2026, and a composer credit on “BIG BELLY” by Lejuh. A seventh flagged record, “ANDOLOKO” with Gringo Jay, was not kept for lack of an opened and verified listing."),
-  ("Who works behind D.O.C FIX DEM?", "A recurring team, according to the published credits: Landry Mette, writer and producer of every verified record and pianist on “Tik Tak”, Clarisse Daryl, writer, producer and mixing engineer, Gardiole Jean and Judi Silva on vocals and writing on “Woody Wood”, and rotating voices, Billy BYBF, LGC, Le_Daah, Fabien Aurela, DDK, Enzo Vandal and Yohan Corneille. No source says that any one of those people is D.O.C FIX DEM."),
-  ("What is the link between D.O.C FIX DEM, LGC and Lejuh?", "A network of crossed credits, published by the listings and the videos. LGC sings on “Asi Mwen” and appears on “Woody Wood” alongside D.O.C FIX DEM. D.O.C FIX DEM is credited as a composer, with DJ Luchshiy, on “BIG BELLY” by Lejuh. And the writers of the two catalogs overlap, starting with Jean Gardiole, pillar writer of LGC and a voice of “Woody Wood”."),
-  ("Where can I hear D.O.C FIX DEM?", "Through its singles, “Asi Mwen”, “Woody Wood”, “Fwadi” and “Tik Tak”, then “ELLE DANSE BOUYON” by D.O.C FIX IT where it is a guest, and “BIG BELLY” by <a href=\"/en/lejuh.html\">Lejuh</a> where it is a composer. For the scene around it, our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> and the <a href=\"/en/lgc.html\">LGC</a> and <a href=\"/en/judi-silva.html\">Judi Silva</a> pages extend the listening.")
- ],
+  (
+    "What does D.O.C FIX DEM mean?",
+    "No source consulted publishes it, and this profile does not invent it. The listings establish only the uses of the name: lead performer, credited producer on “Asi Mwen” and “Tik Tak”, and root of the release banners FIX DEM, D.O.C FIX DEM and FIX DEM RECORDS. The expansion of the initials and the meaning of FIX DEM remain open questions of the file.",
+  ),
+  (
+    "Is D.O.C FIX DEM a person or a collective?",
+    "The sources do not settle it. The platforms credit the name in the singular, as performer and producer, but no person name is attached to it in the credits, and the voices of its records are credited separately, around a writing team led by Landry Mette. This site therefore files it among groups in its structured data, out of caution, and publishes the credits that justify that caution.",
+  ),
+  (
+    "What are the verified records of D.O.C FIX DEM?",
+    "Six recordings. “Asi Mwen” on September 19, 2025, “Woody Wood” with Judi Silva and LGC and “ELLE DANSE BOUYON”, where D.O.C FIX IT is the lead artist and D.O.C FIX DEM the guest, on December 19, 2025, “Fwadi” with Waysee on January 16, 2026, “Tik Tak” on February 6, 2026, and a composer credit on “BIG BELLY” by Lejuh. A seventh flagged record, “ANDOLOKO” with Gringo Jay, was not kept for lack of an opened and verified listing.",
+  ),
+  (
+    "Who works behind D.O.C FIX DEM?",
+    "A recurring team, according to the published credits: Landry Mette, writer and producer of every verified record and pianist on “Tik Tak”, Clarisse Daryl, writer, producer and mixing engineer, Gardiole Jean and Judi Silva on vocals and writing on “Woody Wood”, and rotating voices, Billy BYBF, LGC, Le_Daah, Fabien Aurela, DDK, Enzo Vandal and Yohan Corneille. No source says that any one of those people is D.O.C FIX DEM.",
+  ),
+  (
+    "What is the link between D.O.C FIX DEM, LGC and Lejuh?",
+    "A network of crossed credits, published by the listings and the videos. LGC sings on “Asi Mwen” and appears on “Woody Wood” alongside D.O.C FIX DEM. D.O.C FIX DEM is credited as a composer, with DJ Luchshiy, on “BIG BELLY” by Lejuh. And the writers of the two catalogs overlap, starting with Jean Gardiole, pillar writer of LGC and a voice of “Woody Wood”.",
+  ),
+  (
+    "Where can I hear D.O.C FIX DEM?",
+    "Through its singles, “Asi Mwen”, “Woody Wood”, “Fwadi” and “Tik Tak”, then “ELLE DANSE BOUYON” by D.O.C FIX IT where it is a guest, and “BIG BELLY” by <a href=\"/en/lejuh.html\">Lejuh</a> where it is a composer. For the Guadeloupe scene around it, the Bouyon Shattaz Bouyon Road Mix playlist takes over.",
+  ),
+  (
+    "Who produced “Asi Mwen” by D.O.C FIX DEM?",
+    "Four names are credited on production: D.O.C FIX DEM itself, Landry Mette, Clarisse Daryl and <a href=\"/en/d0-production.html\">D0 Production</a>, with Landry Mette and Clarisse Daryl also on mixing. Released on September 19, 2025 under the FIX DEM banner, at 160 BPM, the record runs 1 minute 49 and brings together Billy BYBF, LGC and Le_Daah on vocals.",
+  ),
+  (
+    "Are D.O.C FIX DEM and D.O.C FIX IT the same name?",
+    "Not in the sources: they are two distinct credit lines. D.O.C FIX IT is the lead artist of “ELLE DANSE BOUYON”, released on December 19, 2025 on FIX DEM RECORDS, where D.O.C FIX DEM is only a guest. The two names share a writer, Landry Mette, and the FIX DEM root, but nothing says they designate the same entity. See <a href=\"/en/doc-fix-it.html\">D.O.C FIX IT</a>.",
+  ),
+  (
+    "Is D.O.C FIX DEM related to the rapper The D.O.C.?",
+    "No, there is no documented link. The D.O.C. is an American rapper documented since the late 1980s, associated with N.W.A and Dr. Dre, with no relation to bouyon or Guadeloupe. The records kept here are those whose credits cross check with the gwada scene: Landry Mette, LGC, Lejuh, Judi Silva and the FIX DEM banners.",
+  ),
+  (
+    "What is “Fwadi” by D.O.C FIX DEM and Waysee?",
+    "A single released on January 16, 2026 under the names of D.O.C FIX DEM and Waysee. At 129 BPM, it is the slowest tempo of the file, tagged Hip-Hop/Rap by the platform. Yohan Corneille is credited on vocals and writing, Landry Mette on writing and production. This site deduces from it no change of style that the written sources do not describe.",
+  ),
+  (
+    "Who sings on “Tik Tak” by D.O.C FIX DEM?",
+    "The title line invites <a href=\"/en/billy-bybf.html\">Billy BYBF</a>, DEE ZEN and DDK, and the listing details Fabien Aurela, DDK and Enzo Vandal on vocals, with Landry Mette on piano. Released on February 6, 2026, at 148 BPM, the record is produced by D.O.C FIX DEM and Landry Mette. To date, it is the last verified lead name release.",
+  ),
+  (
+    "Who composed “BIG BELLY” by Lejuh?",
+    "D.O.C FIX DEM and DJ Luchshiy, credited as composers in the description of the official video. Mixing and mastering go to Hakuna Music Company, direction to Kinvi, and the video keywords place the record in the bouyon and trapbouyon of Guadeloupe, in 2026. For D.O.C FIX DEM, it is a composer credit, presented as such.",
+  ),
+  (
+    "What is the most identified D.O.C FIX DEM record?",
+    "“ELLE DANSE BOUYON” shows the highest counter of the file, about 120 identifications, but D.O.C FIX DEM is only a guest of D.O.C FIX IT on it. Among its lead name records, “Asi Mwen” leads with about 24 identifications, ahead of “Fwadi” (16) and “Woody Wood” (a single one). Those figures date from the day of research and keep moving.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/doc-fix-dem.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/doc-fix-dem.html#artist", "name": "D.O.C FIX DEM", "description": "Guadeloupe bouyon name credited as performer, producer and release banner, carried by a writing workshop led by Landry Mette with Clarisse Daryl. Verified records of 2025 and 2026: Asi Mwen, Woody Wood with Judi Silva and LGC, ELLE DANSE BOUYON as guest of D.O.C FIX IT, Fwadi, Tik Tak, and a composer credit on BIG BELLY by Lejuh. No source expands the initials or names the people behind the name.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Asi Mwen'}, {"@type": "MusicRecording", "name": 'Woody Wood'}, {"@type": "MusicRecording", "name": 'ELLE DANSE BOUYON'}, {"@type": "MusicRecording", "name": 'Fwadi'}, {"@type": "MusicRecording", "name": 'Tik Tak'}, {"@type": "MusicRecording", "name": 'BIG BELLY'}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

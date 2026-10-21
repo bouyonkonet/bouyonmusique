@@ -62,13 +62,55 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est DJ Joe ?", "DJ Joe est un DJ de la scène bouyon dont le dossier public vérifiable tient en deux traces : le documentaire de la première performance bouyon à Paris en décembre 2012, où Rebel Up cite Suppa, Gaza Girls, Dj Joe et d'autres, et le single « Bwé Rhum » avec Asa Bantan, sorti le 5 février 2023 chez Vadore Concept Groupe. Le dossier consulté n'établit ni son nom complet ni son origine."),
-  ("Le DJ Joe de Paris 2012 et celui de « Bwé Rhum » sont-ils la même personne ?", "Les sources consultées ne le prouvent pas en une phrase, et ce profil est le seul à le dire ouvertement. Le rapprochement repose sur une proximité documentée : la vidéo de Suppa « Never Stop Di Bouyon » renvoie au site de Vadore Concept et sa liste de mots clés associe déjà Dj Joe et Asa Bantan au début des années 2010, et le single de 2023 paraît chez Vadore Concept Groupe avec Asa Bantan. C'est un pont solide, présenté comme un pont, pas comme une certitude."),
-  ("Qu'est-ce que « Bwé Rhum » ?", "« Bwé Rhum » est un single de DJ JOE avec Asa Bantan, annoté « Bouyon Kings Mixtape », sorti le 5 février 2023 chez Vadore Concept Groupe, à 157 BPM selon sa fiche Shazam, qui crédite Foster XAVIER comme auteur. La page artiste d'Asa Bantan liste le même enregistrement sous le titre « Bwé Rhum (feat. DJ JOE) »."),
-  ("Pourquoi la fiche de « Bwé Rhum » crédite-t-elle un personnage de Sesame Street ?", "Parce que les métadonnées des plateformes sont parfois fausses, et ce profil cite l'erreur au lieu de la cacher. La fiche Shazam du titre crédite Foster XAVIER comme auteur, et sa ligne de compositeur se lit « Sesame Street's Little Boy », qui n'est pas le nom d'une personne. Ce profil retient les crédits lisibles, label, date, tempo, interprètes, et signale le reste comme une erreur de métadonnées."),
-  ("DJ Joe est-il un DJ soca ou house connu sous le même nom ?", "Non, rien dans le dossier bouyon ne le relie aux nombreux autres DJ Joe des scènes house, hip hop ou soca, et ce profil n'emprunte aucun fait à leurs carrières. Le nom DJ Joe est l'un des plus communs au monde : seules les deux traces situées à l'intérieur de la scène bouyon, Paris 2012 et le single Vadore Concept de 2023, sont retenues ici."),
-  ("Où écouter le bouyon du cercle de DJ Joe ?", "Commencez par « Bwé Rhum » avec Asa Bantan, puis écoutez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> et lisez notre page d'<a href=\"/histoire.html\">histoire du bouyon</a>, qui retrace le genre de la Dominique vers la Guadeloupe et la diaspora de Paris.")
- ],
+  (
+    "Qui est DJ Joe ?",
+    "DJ Joe est un DJ de la scène bouyon dont le dossier public vérifiable tient en deux traces : le documentaire de la première performance bouyon à Paris en décembre 2012, où Rebel Up cite Suppa, Gaza Girls, Dj Joe et d'autres, et le single « Bwé Rhum » avec Asa Bantan, sorti le 5 février 2023 chez Vadore Concept Groupe. Le dossier consulté n'établit ni son nom complet ni son origine.",
+  ),
+  (
+    "Le DJ Joe de Paris 2012 et celui de « Bwé Rhum » sont-ils la même personne ?",
+    "Les sources consultées ne le prouvent pas en une phrase, et ce profil est le seul à le dire ouvertement. Le rapprochement repose sur une proximité documentée : la vidéo de Suppa « Never Stop Di Bouyon » renvoie au site de Vadore Concept et sa liste de mots clés associe déjà Dj Joe et Asa Bantan au début des années 2010, et le single de 2023 paraît chez Vadore Concept Groupe avec Asa Bantan. C'est un pont solide, présenté comme un pont, pas comme une certitude.",
+  ),
+  (
+    "Qu'est-ce que « Bwé Rhum » ?",
+    "« Bwé Rhum » est un single de DJ JOE avec Asa Bantan, annoté « Bouyon Kings Mixtape », sorti le 5 février 2023 chez Vadore Concept Groupe, à 157 BPM selon sa fiche Shazam, qui crédite Foster XAVIER comme auteur. La page artiste d'Asa Bantan liste le même enregistrement sous le titre « Bwé Rhum (feat. DJ JOE) ».",
+  ),
+  (
+    "Pourquoi la fiche de « Bwé Rhum » crédite-t-elle un personnage de Sesame Street ?",
+    "Parce que les métadonnées des plateformes sont parfois fausses, et ce profil cite l'erreur au lieu de la cacher. La fiche Shazam du titre crédite Foster XAVIER comme auteur, et sa ligne de compositeur se lit « Sesame Street's Little Boy », qui n'est pas le nom d'une personne. Ce profil retient les crédits lisibles, label, date, tempo, interprètes, et signale le reste comme une erreur de métadonnées.",
+  ),
+  (
+    "DJ Joe est-il un DJ soca ou house connu sous le même nom ?",
+    "Non, rien dans le dossier bouyon ne le relie aux nombreux autres DJ Joe des scènes house, hip hop ou soca, et ce profil n'emprunte aucun fait à leurs carrières. Le nom DJ Joe est l'un des plus communs au monde : seules les deux traces situées à l'intérieur de la scène bouyon, Paris 2012 et le single Vadore Concept de 2023, sont retenues ici.",
+  ),
+  (
+    "Où écouter le bouyon du cercle de DJ Joe ?",
+    "Commencez par « Bwé Rhum » avec Asa Bantan, sorti en 2023 chez Vadore Concept Groupe et listé sous les deux noms sur Shazam. Pour la trace de 2012, le documentaire de 50 minutes cité par Rebel Up filme la première scène bouyon de Paris. Notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> prolonge l’écoute, de la Dominique à la Guadeloupe et à la diaspora.",
+  ),
+  (
+    "Quand le bouyon est-il arrivé sur scène à Paris ?",
+    "En décembre 2012, selon le collectif Rebel Up : il a fallu attendre cette date pour que les premiers MCs et DJs dominicains et guadeloupéens du bouyon se produisent à Paris, devant le public de la diaspora antillaise. Un documentaire de 50 minutes, en français et en créole, filme cette première performance de Suppa, Gaza Girls, Dj Joe et d’autres.",
+  ),
+  (
+    "Qu’est-ce que le bouyon hardcore, la scène de DJ Joe en 2012 ?",
+    "Selon Rebel Up, le bouyon hardcore, dit « bouyon gwada » en Guadeloupe, est le sous style de l’époque : des paroles crues, en anglais, en français ou en créole, sur des riddims percussifs lourds aux mélodies simplifiées, où un même riddim à succès reçoit plusieurs versions, comme dans le dancehall. C’est dans ce monde que le nom Dj Joe apparaît en 2012.",
+  ),
+  (
+    "Qu’est-ce que Vadore Concept Groupe ?",
+    "C’est le label qui publie « Bwé Rhum » de DJ JOE avec Asa Bantan, le 5 février 2023. L’enseigne existait déjà au début des années 2010 : la vidéo « Never Stop Di Bouyon » de Suppa renvoie au site de Vadore Concept, et ses mots clés associent Vadore, Gaza Crew, Dj Joe, Triple Kay et Asa Bantan. C’est le fil qui relie les deux traces du dossier.",
+  ),
+  (
+    "Qui est Asa Bantan, la voix de Bwé Rhum ?",
+    "Asa Bantan est un artiste de Grand Bay, en Dominique, largement appelé le King of Bouyon par le public et les médias de la scène, une formulation attribuée et non un titre officiel. C’est l’une des voix les plus reconnaissables du bouyon dominicain, et sa page artiste sur Shazam liste « Bwé Rhum (feat. DJ JOE) ». Son profil complet est sur notre page <a href=\"/asa-bantan.html\">Asa Bantan</a>.",
+  ),
+  (
+    "Que veut dire Bwé Rhum ?",
+    "En créole, « Bwé Rhum » signifie boire du rhum. Avec la mention « Bouyon Kings Mixtape » dans son titre, le single de DJ JOE et Asa Bantan se place dans la tradition des titres de fête du carnaval, faits pour les sound systems et les classements de DJs. Un classement communautaire de VirtualDJ le liste d’ailleurs parmi les titres bouyon de 2023.",
+  ),
+  (
+    "Qui est Suppa, avec qui DJ Joe a joué à Paris ?",
+    "Suppa est présenté sur ce site comme une figure centrale du bouyon gwada. Rebel Up le cite en tête de la première performance bouyon à Paris, en décembre 2012, avec Gaza Girls et Dj Joe. Sa vidéo « Never Stop Di Bouyon », avec Ti Cho et Ghetto Princess, renvoie au site de Vadore Concept. Voir notre page <a href=\"/suppa.html\">Suppa</a>.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/dj-joe.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/dj-joe.html#artist", "name": "DJ Joe", "description": "DJ de la scène bouyon cité par Rebel Up dans le documentaire de la première performance bouyon à Paris en décembre 2012, avec Suppa et Gaza Girls, et crédité du single Bwé Rhum avec Asa Bantan chez Vadore Concept Groupe en 2023. Le dossier public ne prouve pas en une phrase que les deux traces décrivent la même personne et n'établit ni nom complet ni origine.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bwé Rhum (feat. Asa Bantan) [Bouyon Kings Mixtape]"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -126,13 +168,55 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is DJ Joe?", "DJ Joe is a DJ from the bouyon scene whose verifiable public record comes down to two traces: the documentary of the first bouyon performance in Paris in December 2012, where Rebel Up names Suppa, Gaza Girls, Dj Joe and others, and the single “Bwé Rhum” with Asa Bantan, released on February 5, 2023 on Vadore Concept Groupe. The record consulted establishes neither his full name nor his origin."),
-  ("Are the DJ Joe of Paris 2012 and the DJ Joe of Bwe Rhum the same person?", "The sources consulted do not prove it in one sentence, and this profile is the one that says so openly. The pairing rests on documented proximity: the Suppa video “Never Stop Di Bouyon” points to the Vadore Concept site and its keyword list already associates Dj Joe and Asa Bantan in the early 2010s, and the 2023 single was released on Vadore Concept Groupe with Asa Bantan. It is a solid bridge, presented as a bridge, not as a certainty."),
-  ("What is Bwe Rhum?", "“Bwé Rhum” is a single by DJ JOE with Asa Bantan, annotated “Bouyon Kings Mixtape”, released on February 5, 2023 on Vadore Concept Groupe, at 157 BPM according to its Shazam page, which credits Foster XAVIER as songwriter. The artist page of Asa Bantan lists the same recording under the title “Bwé Rhum (feat. DJ JOE)”."),
-  ("Why does the Bwe Rhum page credit a Sesame Street character?", "Because platform metadata is sometimes wrong, and this profile quotes the error instead of hiding it. The Shazam page of the record credits Foster XAVIER as songwriter, and its composer line reads “Sesame Street's Little Boy”, which is not the name of a person. This profile keeps the readable credits, label, date, tempo, performers, and flags the rest as a metadata error."),
-  ("Is DJ Joe a soca or house DJ known under the same name?", "No, nothing in the bouyon file links him to the many other DJ Joes of the house, hip hop or soca scenes, and this profile borrows no fact from their careers. The name DJ Joe is one of the most common in the world: only the two traces located inside the bouyon scene, Paris 2012 and the 2023 Vadore Concept single, are kept here."),
-  ("Where can I hear the bouyon of the DJ Joe circle?", "Start with “Bwé Rhum” with Asa Bantan, then hear our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> and read our <a href=\"/en/history.html\">history of bouyon</a> page, which traces the genre from Dominica to Guadeloupe and the Paris diaspora.")
- ],
+  (
+    "Who is DJ Joe?",
+    "DJ Joe is a DJ from the bouyon scene whose verifiable public record comes down to two traces: the documentary of the first bouyon performance in Paris in December 2012, where Rebel Up names Suppa, Gaza Girls, Dj Joe and others, and the single “Bwé Rhum” with Asa Bantan, released on February 5, 2023 on Vadore Concept Groupe. The record consulted establishes neither his full name nor his origin.",
+  ),
+  (
+    "Are the DJ Joe of Paris 2012 and the DJ Joe of Bwe Rhum the same person?",
+    "The sources consulted do not prove it in one sentence, and this profile is the one that says so openly. The pairing rests on documented proximity: the Suppa video “Never Stop Di Bouyon” points to the Vadore Concept site and its keyword list already associates Dj Joe and Asa Bantan in the early 2010s, and the 2023 single was released on Vadore Concept Groupe with Asa Bantan. It is a solid bridge, presented as a bridge, not as a certainty.",
+  ),
+  (
+    "What is Bwe Rhum?",
+    "“Bwé Rhum” is a single by DJ JOE with Asa Bantan, annotated “Bouyon Kings Mixtape”, released on February 5, 2023 on Vadore Concept Groupe, at 157 BPM according to its Shazam page, which credits Foster XAVIER as songwriter. The artist page of Asa Bantan lists the same recording under the title “Bwé Rhum (feat. DJ JOE)”.",
+  ),
+  (
+    "Why does the Bwe Rhum page credit a Sesame Street character?",
+    "Because platform metadata is sometimes wrong, and this profile quotes the error instead of hiding it. The Shazam page of the record credits Foster XAVIER as songwriter, and its composer line reads “Sesame Street's Little Boy”, which is not the name of a person. This profile keeps the readable credits, label, date, tempo, performers, and flags the rest as a metadata error.",
+  ),
+  (
+    "Is DJ Joe a soca or house DJ known under the same name?",
+    "No, nothing in the bouyon file links him to the many other DJ Joes of the house, hip hop or soca scenes, and this profile borrows no fact from their careers. The name DJ Joe is one of the most common in the world: only the two traces located inside the bouyon scene, Paris 2012 and the 2023 Vadore Concept single, are kept here.",
+  ),
+  (
+    "Where can I hear the bouyon of the DJ Joe circle?",
+    "Start with “Bwé Rhum” with Asa Bantan, released in 2023 on Vadore Concept Groupe and listed under both names on Shazam. For the 2012 trace, the 50 minute documentary cited by Rebel Up films the first bouyon stage show in Paris. Our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> takes the listening further, from Dominica to Guadeloupe and the diaspora.",
+  ),
+  (
+    "When did bouyon first hit the stage in Paris?",
+    "In December 2012, according to the Rebel Up collective: it took until then for the first Dominican and Guadeloupean bouyon MCs and DJs to perform in Paris, in front of the Antillean diaspora. A 50 minute documentary, in French and Creole, films that first performance by Suppa, Gaza Girls, Dj Joe and others.",
+  ),
+  (
+    "What is bouyon hardcore, DJ Joe’s scene in 2012?",
+    "According to Rebel Up, bouyon hardcore, called “bouyon gwada” in Guadeloupe, was the sub style of the time: raw lyrics, in English, French or Creole, over heavy percussive riddims with simplified melodies, where one hit riddim gets several versions, as in dancehall. It is in that world that the name Dj Joe appears in 2012.",
+  ),
+  (
+    "What is Vadore Concept Groupe?",
+    "It is the label that released DJ JOE’s “Bwé Rhum” with Asa Bantan on February 5, 2023. The name already existed in the early 2010s: Suppa’s video “Never Stop Di Bouyon” points to the Vadore Concept site, and its keywords associate Vadore, Gaza Crew, Dj Joe, Triple Kay and Asa Bantan. That is the thread linking the two traces in the record.",
+  ),
+  (
+    "Who is Asa Bantan, the voice on Bwé Rhum?",
+    "Asa Bantan is an artist from Grand Bay, Dominica, widely called the King of Bouyon by the scene’s public and media, an attributed wording rather than an official title. He is one of the most recognisable voices of Dominican bouyon, and his Shazam artist page lists “Bwé Rhum (feat. DJ JOE)”. His full profile is on our <a href=\"/en/asa-bantan.html\">Asa Bantan</a> page.",
+  ),
+  (
+    "What does Bwé Rhum mean?",
+    "In Creole, “Bwé Rhum” means drinking rum. With the mention “Bouyon Kings Mixtape” in its title, the single by DJ JOE and Asa Bantan sits in the tradition of carnival party songs made for sound systems and DJ charts. A VirtualDJ community chart indeed lists it among the bouyon tracks of 2023.",
+  ),
+  (
+    "Who is Suppa, whom DJ Joe played with in Paris?",
+    "Suppa is presented on this site as a central figure of bouyon gwada. Rebel Up names him first in the first bouyon performance in Paris, in December 2012, with Gaza Girls and Dj Joe. His video “Never Stop Di Bouyon”, with Ti Cho and Ghetto Princess, points to the Vadore Concept site. See our <a href=\"/en/suppa.html\">Suppa</a> page.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/dj-joe.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/dj-joe.html#artist", "name": "DJ Joe", "description": "DJ from the bouyon scene named by Rebel Up in the documentary of the first bouyon performance in Paris in December 2012, with Suppa and Gaza Girls, and credited with the single Bwe Rhum with Asa Bantan on Vadore Concept Groupe in 2023. The public record does not prove in one sentence that the two traces describe the same person and establishes neither a full name nor an origin.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bwé Rhum (feat. Asa Bantan) [Bouyon Kings Mixtape]"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

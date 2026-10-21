@@ -76,13 +76,59 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Le Daah ?", "Une voix du bouyon des Antilles françaises, documentée uniquement en featuring entre 2023 et 2025 : deux singles de DJ Leguste, « LE GARS CHAUD » et « EN LEY » avec Judi Silva, le posse cut « BAISE-MOI » de Laka, « Asi Mwen » de D.O.C FIX DEM, et la vidéo « SOUKWE SA BABY » de Tichouboy. Aucune source consultée ne publie sa biographie, son nom civil ou son origine."),
-  ("Quels sont les titres vérifiés de Le Daah ?", "Quatre singles de streaming et une vidéo. « LE GARS CHAUD », de DJ Leguste, le 26 mai 2023. « EN LEY », de DJ Leguste avec Judi Silva, le 15 juillet 2023. « BAISE-MOI », de Laka avec huit invités, le 22 novembre 2023. « Asi Mwen », de D.O.C FIX DEM, le 19 septembre 2025, où il est écrit Le_Daah. Et la vidéo « SOUKWE SA BABY », de Tichouboy produite par DJ Leguste, en 2023, sans single de streaming retrouvé."),
-  ("Le Daah a-t-il sorti un titre en nom principal ?", "Aucun n’a été retrouvé pendant cette recherche. Tous ses titres vérifiés le créditent en featuring, chez DJ Leguste, Laka, Tichouboy et D.O.C FIX DEM, et aucune page artiste ne porte son nom sur les plateformes consultées. Ce profil le documente donc comme une voix invitée, ce qui est exactement ce que les crédits publiés décrivent."),
-  ("Le Daah chante-t-il sur « GROS COCOTTE » de 47# ?", "Le dossier ne permet pas de trancher. Le single, sorti le 13 février 2022 chez 3720450 Records DK via DistroKid, imprime ses invités comme un seul bloc soudé, « Barbar le daah dj swafet dj kevy », sans séparation entre les noms. Une grille radio de RPH, en avril 2026, lit ce bloc comme « Barbar & Le Daah ». Ce profil signale le titre et les deux lectures, sans le compter dans le catalogue vérifié."),
-  ("D’où vient Le Daah ?", "Aucune source consultée ne le dit. Son activité documentée se déroule dans le bouyon guadeloupéen : les singles de DJ Leguste, le posse cut de Laka et l’atelier FIX DEM, et ses réseaux, imprimés dans la description de la vidéo « SOUKWE SA BABY » en 2023, sont Instagram et TikTok sous le nom de le_daaah et Snapchat sous mandrl47. Son origine personnelle n’est pas publiée, et ce profil ne la devine pas."),
-  ("Où écouter Le Daah ?", "Par ses featurings, dans l’ordre du dossier : « EN LEY » et « LE GARS CHAUD » chez <a href=\"/dj-leguste.html\">DJ Leguste</a>, « BAISE-MOI » chez <a href=\"/laka.html\">Laka</a>, « Asi Mwen » chez <a href=\"/doc-fix-dem.html\">D.O.C FIX DEM</a>, et la vidéo « SOUKWE SA BABY » de Tichouboy sur YouTube. Notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> suit la scène gwada où ces titres circulent.")
- ],
+  (
+    "Qui est Le Daah ?",
+    "Le Daah est une voix du bouyon des Antilles françaises, documentée uniquement en featuring entre 2023 et 2025 : deux singles de DJ Leguste, « LE GARS CHAUD » et « EN LEY » avec Judi Silva, le posse cut « BAISE-MOI » de Laka, « Asi Mwen » de D.O.C FIX DEM, et la vidéo « SOUKWE SA BABY » de Tichouboy. Aucune source consultée ne publie sa biographie, son nom civil ou son origine.",
+  ),
+  (
+    "Quels sont les titres vérifiés de Le Daah ?",
+    "Quatre singles de streaming et une vidéo. « LE GARS CHAUD », de DJ Leguste, le 26 mai 2023. « EN LEY », de DJ Leguste avec Judi Silva, le 15 juillet 2023. « BAISE-MOI », de Laka avec huit invités, le 22 novembre 2023. « Asi Mwen », de D.O.C FIX DEM, le 19 septembre 2025, où il est écrit Le_Daah. Et la vidéo « SOUKWE SA BABY », de Tichouboy produite par DJ Leguste, en 2023, sans single de streaming retrouvé.",
+  ),
+  (
+    "Qui a écrit « LE GARS CHAUD » de DJ Leguste et Le Daah ?",
+    "La fiche Shazam crédite l’écriture de « LE GARS CHAUD » à ryan auguste et Daryl Biabiany. Le single sort le 26 mai 2023 sous le label DJ LEGUSTE, en français, à 160 BPM. C’est le premier single documenté du catalogue de <a href=\"/dj-leguste.html\">DJ Leguste</a>, ce qui fait de Le Daah la première voix invitée de ce catalogue, présente dès le titre d’ouverture.",
+  ),
+  (
+    "Qui a écrit « EN LEY » de DJ Leguste avec Judi Silva et Le Daah ?",
+    "« EN LEY » est écrit par judikael christine, Daryl Biabiany et Terry Baptiste, selon sa fiche Shazam. Sorti le 15 juillet 2023 sous le label DJ LEGUSTE, en français, à 160 BPM, il réunit deux voix invitées, <a href=\"/judi-silva.html\">Judi Silva</a> et Le Daah. Avec environ 930 identifications Shazam relevées, c’est le titre le plus exposé du dossier.",
+  ),
+  (
+    "Qui chante sur « BAISE-MOI » de Laka ?",
+    "« BAISE-MOI », sorti le 22 novembre 2023 sous le label LAKA, aligne huit invités : Riko, Le bluff, Tgx, Billy Bybf, PIXOU, Le daah, WAYSEE et Team Bwè Tou Sa. Treize auteurs sont crédités, dont Daryl Biabiany, Terry Baptiste et ryan auguste, déjà présents sur les titres de Le Daah chez DJ Leguste. Le contexte se lit sur notre page <a href=\"/laka.html\">Laka</a>.",
+  ),
+  (
+    "Qui a produit « Asi Mwen » avec Le_Daah ?",
+    "Selon la fiche Shazam, « Asi Mwen » est produit par D.O.C FIX DEM, Landry Mette, Clarisse Daryl et D0 Production, et mixé par Landry Mette et Clarisse Daryl. Le single sort le 19 septembre 2025 sous le label FIX DEM, à 160 BPM, avec Billy BYBF, LGC et Le_Daah au chant. Il est écrit par Landry Mette, Clarisse Daryl, Fabien Aurela, Gardiole Jean et Biabiany Daryl. Voir notre page <a href=\"/doc-fix-dem.html\">D.O.C FIX DEM</a>.",
+  ),
+  (
+    "Qui a produit « SOUKWE SA BABY » de Tichouboy et Le Daah ?",
+    "DJ Leguste, selon l’intitulé de la vidéo publiée sur la chaîne de Tichouboy, « TICHOUBOY feat LE DAAH (Prod by DJ LEGUSTE) ». La description crédite aussi SKANMAKER et G-ISLANDS FILMZ, et ses mots clés la rangent dans le bouyon de 2023. Aucun single de streaming de ce titre n’a été retrouvé : il vit dans le dossier comme une pièce vidéo, réelle et créditée.",
+  ),
+  (
+    "Le Daah, Le daah ou Le_Daah : comment s’écrit son nom ?",
+    "Les crédits l’écrivent de quatre façons : Le Daah sur les deux singles de DJ Leguste, Le daah sur « BAISE-MOI », Le_Daah sur « Asi Mwen », et LE DAAH dans la vidéo de Tichouboy. Ses propres réseaux, imprimés dans la description de cette vidéo, utilisent le_daaah, avec trois a. Ce profil retient Le Daah, la forme des deux singles de 2023.",
+  ),
+  (
+    "Le Daah est-il Daryl Biabiany ?",
+    "Aucune source consultée ne le dit. Daryl Biabiany revient comme auteur sur les quatre singles de streaming de Le Daah, mais il est un auteur de l’atelier de DJ Leguste, crédité aussi sur des titres où Le Daah ne chante pas. Ce profil le traite comme un auteur récurrent autour de la voix, pas comme son nom civil révélé : confondre l’auteur et la voix serait une erreur de lecture des crédits.",
+  ),
+  (
+    "Le Daah a-t-il sorti un titre en nom principal ?",
+    "Non, aucun n’a été retrouvé pendant cette recherche. Tous ses titres vérifiés le créditent en featuring, chez DJ Leguste, Laka, Tichouboy et D.O.C FIX DEM, et aucune page artiste ne porte son nom sur les plateformes consultées. Ce profil le documente donc comme une voix invitée, ce qui est exactement ce que les crédits publiés décrivent.",
+  ),
+  (
+    "Le Daah chante-t-il sur « GROS COCOTTE » de 47# ?",
+    "Le dossier ne permet pas de trancher. Le single, sorti le 13 février 2022 chez 3720450 Records DK via DistroKid, imprime ses invités comme un seul bloc soudé, « Barbar le daah dj swafet dj kevy », sans séparation entre les noms. Une grille radio de RPH, en avril 2026, lit ce bloc comme « Barbar & Le Daah ». Ce profil signale le titre et les deux lectures, sans le compter dans le catalogue vérifié.",
+  ),
+  (
+    "D’où vient Le Daah ?",
+    "Son activité documentée se déroule dans le bouyon guadeloupéen : les singles de DJ Leguste, le posse cut de Laka et l’atelier FIX DEM. Ses réseaux, imprimés dans la description de la vidéo « SOUKWE SA BABY » en 2023, sont Instagram et TikTok sous le nom de le_daaah et Snapchat sous mandrl47. Aucune source consultée ne publie son origine personnelle, et ce profil ne la devine pas.",
+  ),
+  (
+    "Où écouter Le Daah ?",
+    "Par ses featurings, dans l’ordre du dossier : « EN LEY » et « LE GARS CHAUD » chez DJ Leguste, « BAISE-MOI » chez Laka, « Asi Mwen » chez D.O.C FIX DEM, et la vidéo « SOUKWE SA BABY » de Tichouboy sur YouTube. Pour entendre la scène bouyon actuelle dans son ensemble, la Road Mix de notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> est le point d’entrée du site.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/le-daah.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/le-daah.html#artist", "name": "Le Daah", "description": "Voix du bouyon des Antilles françaises, documentée uniquement en featuring : LE GARS CHAUD et EN LEY chez DJ Leguste en 2023, BAISE-MOI chez Laka en 2023, Asi Mwen chez D.O.C FIX DEM en 2025 sous la graphie Le_Daah, et la vidéo SOUKWE SA BABY de Tichouboy. Aucun titre en nom principal, aucune biographie et aucune origine publiés dans les sources consultées.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'LE GARS CHAUD'}, {"@type": "MusicRecording", "name": 'EN LEY'}, {"@type": "MusicRecording", "name": 'BAISE-MOI'}, {"@type": "MusicRecording", "name": 'SOUKWE SA BABY'}, {"@type": "MusicRecording", "name": 'Asi Mwen'}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -154,13 +200,59 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Le Daah?", "A voice of French Antillean bouyon, documented only as a feature between 2023 and 2025: two DJ Leguste singles, “LE GARS CHAUD” and “EN LEY” with Judi Silva, the Laka posse cut “BAISE-MOI”, “Asi Mwen” by D.O.C FIX DEM, and the Tichouboy video “SOUKWE SA BABY”. No source consulted publishes his biography, his legal name or his origin."),
-  ("What are the verified records of Le Daah?", "Four streaming singles and one video. “LE GARS CHAUD”, by DJ Leguste, on May 26, 2023. “EN LEY”, by DJ Leguste with Judi Silva, on July 15, 2023. “BAISE-MOI”, by Laka with eight guests, on November 22, 2023. “Asi Mwen”, by D.O.C FIX DEM, on September 19, 2025, where he is spelled Le_Daah. And the video “SOUKWE SA BABY”, by Tichouboy produced by DJ Leguste, in 2023, with no streaming single found."),
-  ("Has Le Daah released a record under his own lead name?", "None was found during this research. Every verified record credits him as a feature, for DJ Leguste, Laka, Tichouboy and D.O.C FIX DEM, and no artist page carries his name on the platforms consulted. This profile therefore documents him as a guest voice, which is exactly what the published credits describe."),
-  ("Does Le Daah sing on “GROS COCOTTE” by 47#?", "The file does not allow to settle it. The single, released on February 13, 2022 on 3720450 Records DK via DistroKid, prints its guests as one single welded block, “Barbar le daah dj swafet dj kevy”, with no separation between the names. A radio tracklist of RPH, in April 2026, reads that block as “Barbar & Le Daah”. This profile flags the record and both readings, without counting it in the verified catalog."),
-  ("Where does Le Daah come from?", "No source consulted says it. His documented activity unfolds in Guadeloupe bouyon: the DJ Leguste singles, the Laka posse cut and the FIX DEM workshop, and his handles, printed in the description of the “SOUKWE SA BABY” video in 2023, are Instagram and TikTok under the name le_daaah and Snapchat under mandrl47. His personal origin is not published, and this profile does not guess it."),
-  ("Where can I hear Le Daah?", "Through his features, in the order of the file: “EN LEY” and “LE GARS CHAUD” for <a href=\"/en/dj-leguste.html\">DJ Leguste</a>, “BAISE-MOI” for <a href=\"/en/laka.html\">Laka</a>, “Asi Mwen” for <a href=\"/en/doc-fix-dem.html\">D.O.C FIX DEM</a>, and the “SOUKWE SA BABY” video by Tichouboy on YouTube. Our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> follows the gwada scene where those records circulate.")
- ],
+  (
+    "Who is Le Daah?",
+    "Le Daah is a voice of French Antillean bouyon, documented only as a feature between 2023 and 2025: two DJ Leguste singles, “LE GARS CHAUD” and “EN LEY” with Judi Silva, the Laka posse cut “BAISE-MOI”, “Asi Mwen” by D.O.C FIX DEM, and the Tichouboy video “SOUKWE SA BABY”. No source consulted publishes his biography, his legal name or his origin.",
+  ),
+  (
+    "What are the verified records of Le Daah?",
+    "Four streaming singles and one video. “LE GARS CHAUD”, by DJ Leguste, on May 26, 2023. “EN LEY”, by DJ Leguste with Judi Silva, on July 15, 2023. “BAISE-MOI”, by Laka with eight guests, on November 22, 2023. “Asi Mwen”, by D.O.C FIX DEM, on September 19, 2025, where he is spelled Le_Daah. And the video “SOUKWE SA BABY”, by Tichouboy produced by DJ Leguste, in 2023, with no streaming single found.",
+  ),
+  (
+    "Who wrote “LE GARS CHAUD” by DJ Leguste and Le Daah?",
+    "The Shazam page credits the writing of “LE GARS CHAUD” to ryan auguste and Daryl Biabiany. The single came out on May 26, 2023 on the DJ LEGUSTE label, in French, at 160 BPM. It is the first documented single of the <a href=\"/en/dj-leguste.html\">DJ Leguste</a> catalog, which makes Le Daah the first guest voice of that catalog, present from its opening record on.",
+  ),
+  (
+    "Who wrote “EN LEY” by DJ Leguste with Judi Silva and Le Daah?",
+    "“EN LEY” was written by judikael christine, Daryl Biabiany and Terry Baptiste, according to its Shazam page. Released on July 15, 2023 on the DJ LEGUSTE label, in French, at 160 BPM, it brings together two guest voices, <a href=\"/en/judi-silva.html\">Judi Silva</a> and Le Daah. With about 930 Shazam identifications counted, it is the most exposed record of the file.",
+  ),
+  (
+    "Who sings on “BAISE-MOI” by Laka?",
+    "“BAISE-MOI”, released on November 22, 2023 on the LAKA label, stacks eight guests: Riko, Le bluff, Tgx, Billy Bybf, PIXOU, Le daah, WAYSEE and Team Bwè Tou Sa. Thirteen songwriters are credited, among them Daryl Biabiany, Terry Baptiste and ryan auguste, already present on the Le Daah records for DJ Leguste. The context is read on our <a href=\"/en/laka.html\">Laka</a> page.",
+  ),
+  (
+    "Who produced “Asi Mwen” with Le_Daah?",
+    "According to the Shazam page, “Asi Mwen” was produced by D.O.C FIX DEM, Landry Mette, Clarisse Daryl and D0 Production, and mixed by Landry Mette and Clarisse Daryl. The single came out on September 19, 2025 on the FIX DEM label, at 160 BPM, with Billy BYBF, LGC and Le_Daah on vocals. It is written by Landry Mette, Clarisse Daryl, Fabien Aurela, Gardiole Jean and Biabiany Daryl. See our <a href=\"/en/doc-fix-dem.html\">D.O.C FIX DEM</a> page.",
+  ),
+  (
+    "Who produced “SOUKWE SA BABY” by Tichouboy and Le Daah?",
+    "DJ Leguste, according to the title line of the video published on the Tichouboy channel, “TICHOUBOY feat LE DAAH (Prod by DJ LEGUSTE)”. The description also credits SKANMAKER and G-ISLANDS FILMZ, and its keywords file it under the bouyon of 2023. No streaming single of this title was found: it lives in the file as a video piece, real and credited.",
+  ),
+  (
+    "Le Daah, Le daah or Le_Daah: how is his name spelled?",
+    "The credits spell him four ways: Le Daah on the two DJ Leguste singles, Le daah on “BAISE-MOI”, Le_Daah on “Asi Mwen”, and LE DAAH in the Tichouboy video. His own handles, printed in the description of that video, use le_daaah, with three a letters. This profile keeps Le Daah, the form of the two 2023 singles.",
+  ),
+  (
+    "Is Le Daah Daryl Biabiany?",
+    "No source consulted says so. Daryl Biabiany returns as a songwriter on all four streaming singles of Le Daah, but he is a writer of the DJ Leguste workshop, also credited on records where Le Daah does not sing. This profile treats him as a recurring writer around the voice, not as its revealed legal name: confusing the writer and the voice would be a misreading of the credits.",
+  ),
+  (
+    "Has Le Daah released a record under his own lead name?",
+    "No, none was found during this research. Every verified record credits him as a feature, for DJ Leguste, Laka, Tichouboy and D.O.C FIX DEM, and no artist page carries his name on the platforms consulted. This profile therefore documents him as a guest voice, which is exactly what the published credits describe.",
+  ),
+  (
+    "Does Le Daah sing on “GROS COCOTTE” by 47#?",
+    "The file does not allow to settle it. The single, released on February 13, 2022 on 3720450 Records DK via DistroKid, prints its guests as one single welded block, “Barbar le daah dj swafet dj kevy”, with no separation between the names. A radio tracklist of RPH, in April 2026, reads that block as “Barbar & Le Daah”. This profile flags the record and both readings, without counting it in the verified catalog.",
+  ),
+  (
+    "Where does Le Daah come from?",
+    "His documented activity unfolds in Guadeloupe bouyon: the DJ Leguste singles, the Laka posse cut and the FIX DEM workshop. His handles, printed in the description of the “SOUKWE SA BABY” video in 2023, are Instagram and TikTok under the name le_daaah and Snapchat under mandrl47. No source consulted publishes his personal origin, and this profile does not guess it.",
+  ),
+  (
+    "Where can I hear Le Daah?",
+    "Through his features, in the order of the file: “EN LEY” and “LE GARS CHAUD” for DJ Leguste, “BAISE-MOI” for Laka, “Asi Mwen” for D.O.C FIX DEM, and the “SOUKWE SA BABY” video by Tichouboy on YouTube. To hear the current bouyon scene as a whole, the Road Mix on our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> page is the site entry point.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/le-daah.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/le-daah.html#artist", "name": "Le Daah", "description": "Voice of French Antillean bouyon, documented only as a feature: LE GARS CHAUD and EN LEY for DJ Leguste in 2023, BAISE-MOI for Laka in 2023, Asi Mwen for D.O.C FIX DEM in 2025 under the spelling Le_Daah, and the Tichouboy video SOUKWE SA BABY. No lead name record, no biography and no origin published in the sources consulted.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'LE GARS CHAUD'}, {"@type": "MusicRecording", "name": 'EN LEY'}, {"@type": "MusicRecording", "name": 'BAISE-MOI'}, {"@type": "MusicRecording", "name": 'SOUKWE SA BABY'}, {"@type": "MusicRecording", "name": 'Asi Mwen'}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

@@ -69,13 +69,55 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui sont Les Ptits du RZT ?", "Les Ptits du RZT sont un groupe actif dans le bouyon et le shatta, connu par les crédits des plateformes : featuring sur « Malpalé » de LESTEF KJF BOYZ en 2024, single « Tata Yéyé » la même année, et co-signature de « Look My Style » en 2025. Aucune biographie publique vérifiée, avec membres et origine, n’a été retrouvée pendant la recherche de ce profil."),
-  ("Quels titres des Ptits du RZT peut-on vérifier ?", "Trois enregistrements sont vérifiés au niveau des fiches plateformes : « Malpalé », de LESTEF KJF BOYZ avec Les Ptits du RZT en featuring, sorti le 6 février 2024 ; « Tata Yéyé », leur single du 21 juin 2024 ; et « Look My Style », co-crédité aux deux groupes sur l’EP « Riddim Aleatoire » du 18 juin 2025."),
-  ("Que veut dire RZT dans Les Ptits du RZT ?", "Aucune source retrouvée pendant la recherche n’explique le sigle RZT, et ce profil ne propose aucune expansion inventée. C’est une des questions qu’un profil officiel du groupe pourrait trancher, et que les sources publiques ne tranchent pas encore."),
-  ("Qui a écrit « Tata Yéyé » ?", "La fiche plateforme du single, sorti le 21 juin 2024 sur 7156982 Records DK, crédite l’écriture à Les p’tits Rzt et à 1t1. C’est la seule collaboration d’écriture documentée du groupe en dehors de son cercle avec LESTEF KJF BOYZ."),
-  ("Où Les Ptits du RZT se sont-ils produits en 2026 ?", "Le samedi 10 octobre 2026, la soirée « Les P’Tits Du Rzt Birthday » a eu lieu à L’Empire Club de Chilly-Mazarin, en Essonne, avec Miimii KDS, Pern, Lucky, Dinero et MK en show et huit DJs aux platines, selon la page de billetterie Bizouk. Le club conserve la soirée dans ses photos de soirées passées."),
-  ("Pourquoi ce profil est-il plus court que d’autres profils du site ?", "Parce que le dossier public du groupe est mince : trois enregistrements vérifiés et un événement documenté, sans biographie ni interview retrouvées. Ce site préfère un profil court et entièrement vérifiable à un long texte rempli d’éléments non sourcés, et il complètera cette page si le dossier s’étoffe.")
- ],
+  (
+    "Qui sont Les Ptits du RZT ?",
+    "Les Ptits du RZT sont un groupe actif dans le bouyon et le shatta, connu par les crédits des plateformes : featuring sur « Malpalé » de LESTEF KJF BOYZ en 2024, single « Tata Yéyé » la même année, et co-signature de « Look My Style » en 2025. Aucune biographie publique vérifiée, avec membres et origine, n’a été retrouvée pendant la recherche de ce profil.",
+  ),
+  (
+    "Quels titres des Ptits du RZT peut-on vérifier ?",
+    "Trois enregistrements sont vérifiés au niveau des fiches plateformes : « Malpalé », de LESTEF KJF BOYZ avec Les Ptits du RZT en featuring, sorti le 6 février 2024 ; « Tata Yéyé », leur single du 21 juin 2024 ; et « Look My Style », co-crédité aux deux groupes sur l’EP « Riddim Aleatoire » du 18 juin 2025.",
+  ),
+  (
+    "Que veut dire RZT dans Les Ptits du RZT ?",
+    "Aucune source retrouvée pendant la recherche n’explique le sigle RZT, et ce profil ne propose aucune expansion inventée. Les sources ne s’accordent même pas sur la casse : les plateformes écrivent RZT ou Rzt, l’affiche de leur soirée « Rzt ». C’est une question qu’un profil officiel du groupe pourrait trancher, et ce profil la laisse ouverte plutôt que de deviner.",
+  ),
+  (
+    "Qui a écrit « Tata Yéyé » ?",
+    "La fiche plateforme du single, sorti le 21 juin 2024 sur 7156982 Records DK, crédite l’écriture à Les p’tits Rzt et à 1t1, un artiste dont le parcours dans le bouyon gwada est documenté sur ce site. C’est la seule collaboration d’écriture documentée du groupe en dehors de son cercle avec LESTEF KJF BOYZ, et son deuxième point d’ancrage vérifié après « Malpalé ».",
+  ),
+  (
+    "Où Les Ptits du RZT se sont-ils produits en 2026 ?",
+    "Le samedi 10 octobre 2026, la soirée « Les P’Tits Du Rzt Birthday » a eu lieu à L’Empire Club de Chilly-Mazarin, en Essonne, avec Miimii KDS, Pern, Lucky, Dinero et MK en show et huit DJs aux platines, selon la page de billetterie Bizouk. Deux salles, deux ambiances, un dress code noir et or, et le club conserve la soirée dans ses photos de soirées passées.",
+  ),
+  (
+    "Pourquoi ce profil est-il plus court que d’autres profils du site ?",
+    "Parce que le dossier public du groupe est mince : trois enregistrements vérifiés et un événement documenté, sans biographie ni interview retrouvées. Ce site préfère un profil court et entièrement vérifiable à un long texte rempli d’éléments non sourcés, et il complètera cette page si le groupe, son entourage ou ses labels publient de nouveaux éléments.",
+  ),
+  (
+    "Comment s’écrit Les Ptits du RZT ?",
+    "L’orthographe varie selon les sources. Les plateformes écrivent « Les p’tits du RZT », « Les p’tits Rzt » ou, sous forme masquée, « Les p’t**s Rzt », et l’affiche de leur soirée écrit « Les P’Tits Du Rzt ». Ce site emploie la forme « Les Ptits du RZT » et signale les variantes, sans prétendre qu’une orthographe officielle unique a été confirmée par le groupe.",
+  ),
+  (
+    "Qui a écrit « Malpalé » avec Les Ptits du RZT ?",
+    "L’écriture et la composition de « Malpalé » sont créditées à Stephan Cornano, l’auteur central du catalogue de LESTEF KJF BOYZ. Le single, sorti le 6 février 2024 sur le label 4360476 Records DK et facturé « feat. Les p’tits du RZT », dure 3 minutes 4. C’est la première trace discographique vérifiée du groupe, déjà assez établi pour figurer en invité.",
+  ),
+  (
+    "Qu’est-ce que « Look My Style » des Ptits du RZT ?",
+    "« Look My Style », avec Zepek en featuring, est un titre de l’EP « Riddim Aleatoire » de LESTEF KJF BOYZ, sorti le 18 juin 2025. La fiche du morceau le co-crédite à LESTEF KJF BOYZ et aux Ptits du RZT, alors que la fiche de l’EP ne nomme que LESTEF sur certaines plateformes. Ce profil retient la fiche du morceau, plus précise, et signale l’écart.",
+  ),
+  (
+    "Quel est le lien entre Les Ptits du RZT et LESTEF KJF BOYZ ?",
+    "C’est le fil le plus solide du dossier : deux collaborations espacées, un featuring sur « Malpalé » en 2024, puis un co-crédit sur « Look My Style » en 2025. LESTEF KJF BOYZ est un groupe de Guadeloupe actif depuis 2021, connu pour sa série « KJF » et ses collaborations avec DJ Luchshiy. Voir notre profil <a href=\"/lestef-kjf-boyz.html\">LESTEF KJF BOYZ</a>.",
+  ),
+  (
+    "Quels DJs ont joué à la soirée des Ptits du RZT à L’Empire Club ?",
+    "Huit DJs étaient annoncés aux platines de « Les P’Tits Du Rzt Birthday », le 10 octobre 2026 à Chilly-Mazarin : Thomm, Djabkilla, Zerfly, Lil Killa, DJ Softee, Juiicy, Will et Junior, autour des shows de Miimii KDS, Pern, Lucky, Dinero et MK et d’artistes surprises. Ce plateau place la soirée dans le circuit bouyon et shatta de la région parisienne.",
+  ),
+  (
+    "Où écouter Les Ptits du RZT ?",
+    "L’écoute commence par leurs trois titres vérifiés : « Malpalé » avec LESTEF KJF BOYZ, leur single « Tata Yéyé » et « Look My Style » sur l’EP « Riddim Aleatoire ». Pour le bouyon et le shatta qui portent ces noms entre les Antilles et la région parisienne, écoutez le Road Mix de Bouyon Shattaz sur notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/les-ptits-du-rzt.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/les-ptits-du-rzt.html#artist", "name": "Les Ptits du RZT", "description": "Groupe de bouyon et shatta documente par trois credits verifies : Malpale avec LESTEF KJF BOYZ (2024), le single Tata Yeye co-ecrit avec 1t1 (2024) et Look My Style (2025). Aucune biographie publique verifiee retrouvee.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "MALPALÉ"}, {"@type": "MusicRecording", "name": "TATA YÉYÉ"}, {"@type": "MusicRecording", "name": "Look My Style"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -142,13 +184,55 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who are Les Ptits du RZT?", "Les Ptits du RZT are a group active in bouyon and shatta, known through platform credits: a feature on LESTEF KJF BOYZ “Malpalé” in 2024, the single “Tata Yéyé” the same year, and a co-credit on “Look My Style” in 2025. No verified public biography, with members and origin, was found during the research for this profile."),
-  ("Which Les Ptits du RZT tracks can be verified?", "Three recordings are verified at platform record level: “Malpalé”, by LESTEF KJF BOYZ featuring Les Ptits du RZT, released on February 6, 2024; “Tata Yéyé”, their single of June 21, 2024; and “Look My Style”, co-credited to both groups on the “Riddim Aleatoire” EP of June 18, 2025."),
-  ("What does RZT mean in Les Ptits du RZT?", "No source found during the research explains the initials RZT, and this profile offers no invented expansion. It is one of the questions an official profile of the group could settle, and one the public sources do not settle yet."),
-  ("Who wrote “Tata Yéyé”?", "The platform record for the single, released on June 21, 2024 on 7156982 Records DK, credits the writing to Les p’tits Rzt and 1t1. It is the group only documented writing collaboration outside its circle with LESTEF KJF BOYZ."),
-  ("Where did Les Ptits du RZT perform in 2026?", "On Saturday, October 10, 2026, the “Les P’Tits Du Rzt Birthday” party took place at L’Empire Club in Chilly-Mazarin, in Essonne, with Miimii KDS, Pern, Lucky, Dinero and MK in show and eight DJs at the decks, according to the Bizouk ticketing page. The club keeps the party in its past party photos."),
-  ("Why is this profile shorter than other profiles on this site?", "Because the group public file is thin: three verified recordings and one documented event, with no biography or interview found. This site prefers a short, fully checkable profile to a long text filled with unsourced elements, and it will complete this page if the file grows.")
- ],
+  (
+    "Who are Les Ptits du RZT?",
+    "Les Ptits du RZT are a group active in bouyon and shatta, known through platform credits: a feature on LESTEF KJF BOYZ “Malpalé” in 2024, the single “Tata Yéyé” the same year, and a co-credit on “Look My Style” in 2025. No verified public biography, with members and origin, was found during the research for this profile.",
+  ),
+  (
+    "Which Les Ptits du RZT tracks can be verified?",
+    "Three recordings are verified at platform record level: “Malpalé”, by LESTEF KJF BOYZ featuring Les Ptits du RZT, released on February 6, 2024; “Tata Yéyé”, their single of June 21, 2024; and “Look My Style”, co-credited to both groups on the “Riddim Aleatoire” EP of June 18, 2025.",
+  ),
+  (
+    "What does RZT mean in Les Ptits du RZT?",
+    "No source found during the research explains the initials RZT, and this profile offers no invented expansion. The sources do not even agree on the casing: the platforms write RZT or Rzt, and the party poster writes “Rzt”. It is a question an official profile of the group could settle, and this profile leaves it open rather than guessing.",
+  ),
+  (
+    "Who wrote “Tata Yéyé”?",
+    "The platform record for the single, released on June 21, 2024 on 7156982 Records DK, credits the writing to Les p’tits Rzt and 1t1, an artist whose path in bouyon gwada is documented on this site. It is the group only documented writing collaboration outside its circle with LESTEF KJF BOYZ, and its second verified anchor point after “Malpalé”.",
+  ),
+  (
+    "Where did Les Ptits du RZT perform in 2026?",
+    "On Saturday, October 10, 2026, the “Les P’Tits Du Rzt Birthday” party took place at L’Empire Club in Chilly-Mazarin, in Essonne, with Miimii KDS, Pern, Lucky, Dinero and MK in show and eight DJs at the decks, according to the Bizouk ticketing page. Two rooms, two atmospheres, a black and gold dress code, and the club keeps the party in its past party photos.",
+  ),
+  (
+    "Why is this profile shorter than other profiles on this site?",
+    "Because the group public file is thin: three verified recordings and one documented event, with no biography or interview found. This site prefers a short, fully checkable profile to a long text filled with unsourced elements, and it will complete this page if the group, its circle or its labels publish new elements.",
+  ),
+  (
+    "How do you spell Les Ptits du RZT?",
+    "The spelling varies between sources. The platforms write “Les p’tits du RZT”, “Les p’tits Rzt” or, in masked form, “Les p’t**s Rzt”, and their party poster writes “Les P’Tits Du Rzt”. This site uses the form “Les Ptits du RZT” and flags the variants, without pretending that a single official spelling has been confirmed by the group.",
+  ),
+  (
+    "Who wrote “Malpalé” with Les Ptits du RZT?",
+    "Writing and composition of “Malpalé” are credited to Stephan Cornano, the central writer of the LESTEF KJF BOYZ catalogue. The single, released on February 6, 2024 on the label 4360476 Records DK and billed “feat. Les p’tits du RZT”, runs 3 minutes 4. It is the group first verified discographic trace, already established enough to be billed as a guest.",
+  ),
+  (
+    "What is “Look My Style” by Les Ptits du RZT?",
+    "“Look My Style”, featuring Zepek, is a track from the LESTEF KJF BOYZ EP “Riddim Aleatoire”, released on June 18, 2025. The track record co-credits it to LESTEF KJF BOYZ and Les Ptits du RZT, while the EP record on some platforms names only LESTEF. This profile keeps the track record, the more precise one, and flags the gap.",
+  ),
+  (
+    "What is the link between Les Ptits du RZT and LESTEF KJF BOYZ?",
+    "It is the strongest thread in the file: two collaborations spaced apart, a feature on “Malpalé” in 2024, then a co-credit on “Look My Style” in 2025. LESTEF KJF BOYZ is a Guadeloupe group active since 2021, known for its “KJF” series and its collaborations with DJ Luchshiy. See our <a href=\"/en/lestef-kjf-boyz.html\">LESTEF KJF BOYZ</a> profile.",
+  ),
+  (
+    "Which DJs played the Les Ptits du RZT party at L’Empire Club?",
+    "Eight DJs were billed at the decks of “Les P’Tits Du Rzt Birthday”, on October 10, 2026 in Chilly-Mazarin: Thomm, Djabkilla, Zerfly, Lil Killa, DJ Softee, Juiicy, Will and Junior, around shows by Miimii KDS, Pern, Lucky, Dinero and MK and surprise artists. That line-up places the party inside the bouyon and shatta circuit of the Paris region.",
+  ),
+  (
+    "Where can I hear Les Ptits du RZT?",
+    "Listening starts with their three verified tracks: “Malpalé” with LESTEF KJF BOYZ, their single “Tata Yéyé” and “Look My Style” on the “Riddim Aleatoire” EP. For the bouyon and shatta that carry these names between the Antilles and the Paris region, play the Bouyon Shattaz Road Mix on our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> page.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/les-ptits-du-rzt.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/les-ptits-du-rzt.html#artist", "name": "Les Ptits du RZT", "description": "Bouyon and shatta group documented by three verified credits: Malpale with LESTEF KJF BOYZ (2024), the single Tata Yeye co-written with 1t1 (2024) and Look My Style (2025). No verified public biography found.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "MALPALÉ"}, {"@type": "MusicRecording", "name": "TATA YÉYÉ"}, {"@type": "MusicRecording", "name": "Look My Style"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

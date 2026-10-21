@@ -79,13 +79,59 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Gringo Jay ?", "Un chanteur et rappeur classé urbano latino par Shazam, actif en nom principal depuis 2020 avec une vingtaine de singles en espagnol et un EP, « CIEL GRIS », en 2023. Ses fiches le créditent au rap sur « CAMBIO » et « BAMBAM » et au chant sur « BOUGETONASS » et « BENDICIÓNES ». Aucune source consultée ne publie sa biographie ou son origine."),
-  ("Quel est le rapport entre Gringo Jay et le bouyon ?", "Un titre précis : « ANDOLOKO », crédité à D.O.C FIX DEM, l’atelier du bouyon guadeloupéen documenté sur ce site, avec Gringo Jay en featuring. Ses paroles publiées sont en espagnol et s’ouvrent sur son tag, « Otra vez el Gringo ». Le titre est le deuxième plus écouté de sa page artiste Shazam. La fiche ouverte ne publie ni label ni date de sortie formelle, et ce profil n’en invente pas."),
-  ("Quels sont les titres les plus écoutés de Gringo Jay ?", "Selon la liste des titres les plus écoutés de sa page artiste Shazam, ouverte pour cette recherche : « La petite m’a dit », avec Novy, puis « ANDOLOKO », avec D.O.C FIX DEM, « BAMBAM », « ESUNAMALA », « BOUGETONASS », avec BLUE B, « VAMOSPALOTEL », « BENDICIÓNES », « CAMBIO », « LEAN BACK », où il est l’invité de Banklaady, et « LEDIJENO ». La page comptait environ 1 160 identifications au moment de l’ouverture."),
-  ("Depuis quand Gringo Jay sort-il des titres ?", "Sa discographie listée sur Shazam commence en 2020, avec « Deja de J***r » et « Después Del Guayateo ». Elle se poursuit avec la série de featurings avec Drogo The Crow en 2021 et 2022, « CULOPATRA » et l’EP « CIEL GRIS » en 2023, « LEDIJENO » et « ESUNABANDI » en 2024, cinq singles et un featuring en 2025, et sept pièces listées en 2026, dont « BAMBAM » et « La petite m’a dit »."),
-  ("Dans quelles langues chante Gringo Jay ?", "Principalement en espagnol : toutes ses fiches en nom principal ouvertes sont classées en espagnol, et « ANDOLOKO » publie des paroles espagnoles. Deux titres le portent en français : « LEAN BACK », où il est l’invité de Banklaady en janvier 2025, et « La petite m’a dit », le duo avec Novy de septembre 2026, devenu son titre le plus écouté sur Shazam. L’anglais n’apparaît que par lignes isolées, comme les « Shake your body mami » de « ANDOLOKO »."),
-  ("D’où vient Gringo Jay ?", "Aucune source consultée ne le dit. Ni sa page artiste ni ses fiches ne publient de pays, de ville ou de nationalité, et ce profil ne lui en attribue aucun. Sa ligne « Tengo un pana Domi » dans « LEDIJENO » parle d’un ami dominicain, pas de lui même. La Guadeloupe citée dans le titre de cette page est le lieu de sa connexion au bouyon, l’atelier D.O.C FIX DEM, pas une origine documentée.")
- ],
+  (
+    "Qui est Gringo Jay ?",
+    "Gringo Jay est un chanteur et rappeur classé urbano latino par Shazam, actif en nom principal depuis 2020 avec une vingtaine de singles en espagnol et un EP, « CIEL GRIS », en 2023. Ses fiches le créditent au rap sur « CAMBIO » et « BAMBAM » et au chant sur « BOUGETONASS » et « BENDICIÓNES ». Aucune source consultée ne publie sa biographie ou son origine.",
+  ),
+  (
+    "Quel est le rapport entre Gringo Jay et le bouyon ?",
+    "Un titre précis : « ANDOLOKO », crédité à D.O.C FIX DEM, l’atelier du bouyon guadeloupéen documenté sur ce site, avec Gringo Jay en featuring. Ses paroles publiées sont en espagnol et s’ouvrent sur son tag, « Otra vez el Gringo ». Le titre est le deuxième plus écouté de sa page artiste Shazam. La fiche ouverte ne publie ni label ni date de sortie formelle, et ce profil n’en invente pas.",
+  ),
+  (
+    "Que veut dire « ANDOLOKO » ?",
+    "« ANDOLOKO » est un mot valise : la fin du titre déplie « ando loco », je suis fou, scandé jusqu’à devenir « Loqui-Lokazo ». Les paroles, publiées sur Shazam, sont en espagnol, s’ouvrent sur « Otra vez el Gringo » puis un salut à l’hôte, « Dimelo D.O.C », avec des lignes de danse en anglais. C’est une pièce à part dans le catalogue de <a href=\"/doc-fix-dem.html\">D.O.C FIX DEM</a>.",
+  ),
+  (
+    "Les titres de Gringo Jay sont-ils du bouyon ?",
+    "Non, ses titres en nom principal relèvent de l’urbano latino et du rap, à des tempos de 80 BPM pour « CAMBIO », 95 pour « LEAN BACK », 115 pour « BAMBAM » et 127 pour « BOUGETONASS », bien en dessous des 160 BPM des singles bouyon. Sur « ANDOLOKO », c’est sa voix et son espagnol qui entrent chez D.O.C FIX DEM, pas son régime musical. Voir notre page <a href=\"/bpm-du-bouyon.html\">BPM du bouyon</a>.",
+  ),
+  (
+    "Quels sont les titres les plus écoutés de Gringo Jay ?",
+    "Selon la liste des titres les plus écoutés de sa page artiste Shazam, ouverte pour cette recherche : « La petite m’a dit », avec Novy, puis « ANDOLOKO », avec D.O.C FIX DEM, « BAMBAM », « ESUNAMALA », « BOUGETONASS », avec BLUE B, « VAMOSPALOTEL », « BENDICIÓNES », « CAMBIO », « LEAN BACK », où il est l’invité de Banklaady, et « LEDIJENO ». La page comptait environ 1 160 identifications au moment de l’ouverture.",
+  ),
+  (
+    "Qui chante « La petite m’a dit » avec Gringo Jay ?",
+    "« La petite m’a dit » est un duo de Novy et Gringo Jay, sorti le 26 septembre 2026 sous le label Novy, en français. La fiche Shazam ajoute deux voix, Yvon Abale et Josef Soliman, qui en signent aussi l’écriture. C’est, au moment de la recherche, le titre le plus récent de sa discographie et le plus écouté de sa page artiste.",
+  ),
+  (
+    "Qui écrit les titres de Gringo Jay ?",
+    "Joseph Soliman Tamara Butrón est crédité auteur de « CAMBIO », « BOUGETONASS » et « BAMBAM », les trois fiches en nom principal ouvertes. « BENDICIÓNES » est écrit par Gringo Jay lui même et Genius Beats. Le duo avec Novy crédite Yvon Abale et Josef Soliman, une forme proche mais pas identique. Aucune source ne relie ces noms à l’interprète, et ce profil les garde séparés.",
+  ),
+  (
+    "Qui produit les titres de Gringo Jay ?",
+    "La production tourne d’un titre à l’autre : JD27 produit « BOUGETONASS », Blunty coproduit « BAMBAM », Genius Beats produit « BENDICIÓNES », et Benga Television est crédité ingénieur sur « CAMBIO ». Les paroles de « ESUNAMALA » nomment aussi un « JD produciendo », sans qu’aucune source confirme qu’il s’agit de JD27. Ses labels varient aussi : ESKALERA, OGBC et une enseigne numérotée.",
+  ),
+  (
+    "Depuis quand Gringo Jay sort-il des titres ?",
+    "Sa discographie listée sur Shazam commence en 2020, avec « Deja de J***r » et « Después Del Guayateo ». Elle se poursuit avec la série de featurings avec Drogo The Crow en 2021 et 2022, « CULOPATRA » et l’EP « CIEL GRIS » en 2023, « LEDIJENO » et « ESUNABANDI » en 2024, cinq singles et un featuring en 2025, et sept pièces listées en 2026, dont « BAMBAM » et « La petite m’a dit ».",
+  ),
+  (
+    "Que veulent dire les titres VAMOSPALOTEL et LEDIJENO ?",
+    "Ce sont des phrases compressées en un mot, que leurs paroles décompressent. « VAMOSPALOTEL » se déplie dans son refrain : « de la disco nos vamos al hotel », de la boîte on va à l’hôtel. « LEDIJENO » se lit « Le dije no », je lui ai dit non, répété en boucle. « ESUNAMALA » et « ESUNABANDI » jouent sur la même formule : una mala, una bandida.",
+  ),
+  (
+    "Dans quelles langues chante Gringo Jay ?",
+    "Principalement en espagnol : toutes ses fiches en nom principal ouvertes sont classées en espagnol, et « ANDOLOKO » publie des paroles espagnoles. Deux titres le portent en français : « LEAN BACK », où il est l’invité de Banklaady en janvier 2025, et « La petite m’a dit », le duo avec Novy de septembre 2026, devenu son titre le plus écouté sur Shazam. L’anglais n’apparaît que par lignes isolées, comme les « Shake your body mami » de « ANDOLOKO ».",
+  ),
+  (
+    "Gringo Jay, BenElGringo et le rappeur Gringo : est-ce le même artiste ?",
+    "Non. BenElGringo, crédité en featuring sur « Groupie » de HotSpanish, est un nom différent, et le rappeur allemand facturé simplement Gringo n’a aucun rapport avec cette discographie. Le Gringo Jay de ce profil est uniquement celui de la page artiste Shazam ouverte pour la recherche : urbano latino, en espagnol, avec deux titres en français et le featuring bouyon « ANDOLOKO ».",
+  ),
+  (
+    "D’où vient Gringo Jay ?",
+    "Aucune source consultée ne le dit. Ni sa page artiste ni ses fiches ne publient de pays, de ville ou de nationalité, et ce profil ne lui en attribue aucun. Sa ligne « Tengo un pana Domi » dans « LEDIJENO » parle d’un ami dominicain, pas de lui même. La Guadeloupe citée dans le titre de cette page est le lieu de sa connexion au bouyon, l’atelier D.O.C FIX DEM, pas une origine documentée.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/gringo-jay.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/gringo-jay.html#artist", "name": "Gringo Jay", "description": "Chanteur et rappeur classé urbano latino par Shazam, catalogue de singles en espagnol de 2020 à 2026, dont BAMBAM, ESUNAMALA et BOUGETONASS. Il chante en featuring sur ANDOLOKO de l’atelier bouyon guadeloupéen D.O.C FIX DEM, son deuxième titre le plus écouté, et en français sur LEAN BACK avec Banklaady et La petite m’a dit avec Novy. Aucune biographie et aucune origine publiées dans les sources consultées.", "genre": "Urbano latino", "track": [{"@type": "MusicRecording", "name": 'ANDOLOKO'}, {"@type": "MusicRecording", "name": "La petite m'a dit"}, {"@type": "MusicRecording", "name": 'BAMBAM'}, {"@type": "MusicRecording", "name": 'ESUNAMALA'}, {"@type": "MusicRecording", "name": 'BOUGETONASS'}, {"@type": "MusicRecording", "name": 'VAMOSPALOTEL'}, {"@type": "MusicRecording", "name": 'BENDICIÓNES'}, {"@type": "MusicRecording", "name": 'CAMBIO'}, {"@type": "MusicRecording", "name": 'LEAN BACK'}, {"@type": "MusicRecording", "name": 'LEDIJENO'}, {"@type": "MusicRecording", "name": 'ESUNABANDI'}, {"@type": "MusicRecording", "name": 'CULOPATRA'}, {"@type": "MusicRecording", "name": 'CULOPATRA RMX'}, {"@type": "MusicRecording", "name": 'SPACESHIP'}, {"@type": "MusicRecording", "name": 'Chanel O Fendi'}, {"@type": "MusicRecording", "name": 'Veinte'}, {"@type": "MusicRecording", "name": 'Perfíl Criminal'}, {"@type": "MusicRecording", "name": 'Después Del Guayateo'}, {"@type": "MusicRecording", "name": 'Amenazan'}, {"@type": "MusicRecording", "name": 'La para'}], "sameAs": ["https://www.shazam.com/artist/gringo-jay/1523179126"]}}],
  "date_modified": "2026-10-20"
 }
@@ -157,13 +203,59 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Gringo Jay?", "A singer and rapper classified as urbano latino by Shazam, active under his lead name since 2020 with around twenty singles in Spanish and one EP, “CIEL GRIS”, in 2023. His listings credit him on rap on “CAMBIO” and “BAMBAM” and on vocals on “BOUGETONASS” and “BENDICIÓNES”. No source consulted publishes his biography or his origin."),
-  ("What is the link between Gringo Jay and bouyon?", "One precise record: “ANDOLOKO”, credited to D.O.C FIX DEM, the Guadeloupe bouyon workshop documented on this site, with Gringo Jay as a feature. Its published lyrics are in Spanish and open on his tag, “Otra vez el Gringo”. The record is the second most streamed on his Shazam artist page. The opened page publishes neither a label nor a formal release date, and this profile invents none."),
-  ("What are the most streamed records of Gringo Jay?", "According to the most streamed list of his Shazam artist page, opened for this research: “La petite m’a dit”, with Novy, then “ANDOLOKO”, with D.O.C FIX DEM, “BAMBAM”, “ESUNAMALA”, “BOUGETONASS”, with BLUE B, “VAMOSPALOTEL”, “BENDICIÓNES”, “CAMBIO”, “LEAN BACK”, where he is the guest of Banklaady, and “LEDIJENO”. The page counted about 1,160 identifications at the time of opening."),
-  ("Since when has Gringo Jay been releasing records?", "His discography listed on Shazam begins in 2020, with “Deja de J***r” and “Después Del Guayateo”. It continues with the run of features with Drogo The Crow in 2021 and 2022, “CULOPATRA” and the “CIEL GRIS” EP in 2023, “LEDIJENO” and “ESUNABANDI” in 2024, five singles and one feature in 2025, and seven listed pieces in 2026, among them “BAMBAM” and “La petite m’a dit”."),
-  ("In which languages does Gringo Jay sing?", "Mainly in Spanish: every lead name listing opened is filed in Spanish, and “ANDOLOKO” publishes Spanish lyrics. Two records carry him in French: “LEAN BACK”, where he is the guest of Banklaady in January 2025, and “La petite m’a dit”, the duo with Novy of September 2026, which became his most streamed record on Shazam. English appears only in isolated lines, such as the “Shake your body mami” of “ANDOLOKO”."),
-  ("Where does Gringo Jay come from?", "No source consulted says it. Neither his artist page nor his listings publish a country, a city or a nationality, and this profile attributes none to him. His line “Tengo un pana Domi” in “LEDIJENO” speaks of a Dominican friend, not of himself. The Guadeloupe quoted in the title of this page is the place of his connection to bouyon, the D.O.C FIX DEM workshop, not a documented origin.")
- ],
+  (
+    "Who is Gringo Jay?",
+    "Gringo Jay is a singer and rapper classified as urbano latino by Shazam, active under his lead name since 2020 with around twenty singles in Spanish and one EP, “CIEL GRIS”, in 2023. His listings credit him on rap on “CAMBIO” and “BAMBAM” and on vocals on “BOUGETONASS” and “BENDICIÓNES”. No source consulted publishes his biography or his origin.",
+  ),
+  (
+    "What is the link between Gringo Jay and bouyon?",
+    "One precise record: “ANDOLOKO”, credited to D.O.C FIX DEM, the Guadeloupe bouyon workshop documented on this site, with Gringo Jay as a feature. Its published lyrics are in Spanish and open on his tag, “Otra vez el Gringo”. The record is the second most streamed on his Shazam artist page. The opened page publishes neither a label nor a formal release date, and this profile invents none.",
+  ),
+  (
+    "What does “ANDOLOKO” mean?",
+    "“ANDOLOKO” is a portmanteau word: the end of the record unfolds “ando loco”, I am crazy, chanted until it becomes “Loqui-Lokazo”. The lyrics, published on Shazam, are in Spanish, open on “Otra vez el Gringo” then a shout to the host, “Dimelo D.O.C”, with dance lines in English. It is a piece apart in the <a href=\"/en/doc-fix-dem.html\">D.O.C FIX DEM</a> catalog.",
+  ),
+  (
+    "Are Gringo Jay’s records bouyon?",
+    "No, his lead name records belong to urbano latino and rap, at tempos of 80 BPM for “CAMBIO”, 95 for “LEAN BACK”, 115 for “BAMBAM” and 127 for “BOUGETONASS”, well below the 160 BPM of bouyon singles. On “ANDOLOKO”, it is his voice and his Spanish that enter D.O.C FIX DEM, not his musical regime. See our <a href=\"/en/bouyon-bpm.html\">bouyon BPM</a> page.",
+  ),
+  (
+    "What are the most streamed records of Gringo Jay?",
+    "According to the most streamed list of his Shazam artist page, opened for this research: “La petite m’a dit”, with Novy, then “ANDOLOKO”, with D.O.C FIX DEM, “BAMBAM”, “ESUNAMALA”, “BOUGETONASS”, with BLUE B, “VAMOSPALOTEL”, “BENDICIÓNES”, “CAMBIO”, “LEAN BACK”, where he is the guest of Banklaady, and “LEDIJENO”. The page counted about 1,160 identifications at the time of opening.",
+  ),
+  (
+    "Who sings “La petite m’a dit” with Gringo Jay?",
+    "“La petite m’a dit” is a duo by Novy and Gringo Jay, released on September 26, 2026 on the Novy label, in French. The Shazam page adds two voices, Yvon Abale and Josef Soliman, who also sign the writing. At the time of research, it is the most recent record of his discography and the most streamed on his artist page.",
+  ),
+  (
+    "Who writes Gringo Jay’s records?",
+    "Joseph Soliman Tamara Butrón is credited as songwriter of “CAMBIO”, “BOUGETONASS” and “BAMBAM”, the three lead name listings opened. “BENDICIÓNES” is written by Gringo Jay himself and Genius Beats. The duo with Novy credits Yvon Abale and Josef Soliman, a close but not identical form. No source ties those names to the performer, and this profile keeps them separate.",
+  ),
+  (
+    "Who produces Gringo Jay’s records?",
+    "Production rotates from record to record: JD27 produces “BOUGETONASS”, Blunty co produces “BAMBAM”, Genius Beats produces “BENDICIÓNES”, and Benga Television is credited as engineer on “CAMBIO”. The lyrics of “ESUNAMALA” also name a “JD produciendo”, without any source confirming it is JD27. His labels vary too: ESKALERA, OGBC and a numbered banner.",
+  ),
+  (
+    "Since when has Gringo Jay been releasing records?",
+    "His discography listed on Shazam begins in 2020, with “Deja de J***r” and “Después Del Guayateo”. It continues with the run of features with Drogo The Crow in 2021 and 2022, “CULOPATRA” and the “CIEL GRIS” EP in 2023, “LEDIJENO” and “ESUNABANDI” in 2024, five singles and one feature in 2025, and seven listed pieces in 2026, among them “BAMBAM” and “La petite m’a dit”.",
+  ),
+  (
+    "What do the titles VAMOSPALOTEL and LEDIJENO mean?",
+    "They are phrases compressed into one word, which their lyrics decompress. “VAMOSPALOTEL” unfolds in its hook: “de la disco nos vamos al hotel”, from the club we go to the hotel. “LEDIJENO” reads “Le dije no”, I told her no, repeated in a loop. “ESUNAMALA” and “ESUNABANDI” play on the same formula: una mala, una bandida.",
+  ),
+  (
+    "In which languages does Gringo Jay sing?",
+    "Mainly in Spanish: every lead name listing opened is filed in Spanish, and “ANDOLOKO” publishes Spanish lyrics. Two records carry him in French: “LEAN BACK”, where he is the guest of Banklaady in January 2025, and “La petite m’a dit”, the duo with Novy of September 2026, which became his most streamed record on Shazam. English appears only in isolated lines, such as the “Shake your body mami” of “ANDOLOKO”.",
+  ),
+  (
+    "Are Gringo Jay, BenElGringo and the rapper Gringo the same artist?",
+    "No. BenElGringo, credited as a feature on “Groupie” by HotSpanish, is a different name, and the German rapper billed simply as Gringo has no relation to this discography. The Gringo Jay of this profile is only the one of the Shazam artist page opened for the research: urbano latino, in Spanish, with two records in French and the bouyon feature “ANDOLOKO”.",
+  ),
+  (
+    "Where does Gringo Jay come from?",
+    "No source consulted says it. Neither his artist page nor his listings publish a country, a city or a nationality, and this profile attributes none to him. His line “Tengo un pana Domi” in “LEDIJENO” speaks of a Dominican friend, not of himself. The Guadeloupe quoted in the title of this page is the place of his connection to bouyon, the D.O.C FIX DEM workshop, not a documented origin.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/gringo-jay.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/gringo-jay.html#artist", "name": "Gringo Jay", "description": "Singer and rapper classified as urbano latino by Shazam, a catalog of singles in Spanish from 2020 to 2026, among them BAMBAM, ESUNAMALA and BOUGETONASS. He features on ANDOLOKO by the Guadeloupe bouyon workshop D.O.C FIX DEM, his second most streamed record, and sings in French on LEAN BACK with Banklaady and La petite m’a dit with Novy. No biography and no origin published in the sources consulted.", "genre": "Urbano latino", "track": [{"@type": "MusicRecording", "name": 'ANDOLOKO'}, {"@type": "MusicRecording", "name": "La petite m'a dit"}, {"@type": "MusicRecording", "name": 'BAMBAM'}, {"@type": "MusicRecording", "name": 'ESUNAMALA'}, {"@type": "MusicRecording", "name": 'BOUGETONASS'}, {"@type": "MusicRecording", "name": 'VAMOSPALOTEL'}, {"@type": "MusicRecording", "name": 'BENDICIÓNES'}, {"@type": "MusicRecording", "name": 'CAMBIO'}, {"@type": "MusicRecording", "name": 'LEAN BACK'}, {"@type": "MusicRecording", "name": 'LEDIJENO'}, {"@type": "MusicRecording", "name": 'ESUNABANDI'}, {"@type": "MusicRecording", "name": 'CULOPATRA'}, {"@type": "MusicRecording", "name": 'CULOPATRA RMX'}, {"@type": "MusicRecording", "name": 'SPACESHIP'}, {"@type": "MusicRecording", "name": 'Chanel O Fendi'}, {"@type": "MusicRecording", "name": 'Veinte'}, {"@type": "MusicRecording", "name": 'Perfíl Criminal'}, {"@type": "MusicRecording", "name": 'Después Del Guayateo'}, {"@type": "MusicRecording", "name": 'Amenazan'}, {"@type": "MusicRecording", "name": 'La para'}], "sameAs": ["https://www.shazam.com/artist/gringo-jay/1523179126"]}}],
  "date_modified": "2026-10-20"
 }

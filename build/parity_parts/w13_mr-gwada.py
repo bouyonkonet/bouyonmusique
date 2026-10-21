@@ -78,13 +78,67 @@ FR = {
   ]
  ],
  "faq": [
-  ("Quel est le vrai nom de Mr Gwada ?", "Selon sa biographie d’artiste publiee sur ReverbNation, son nom est Kernel Stevens, mieux connu comme Benz Mr Gwada. Les credits Shazam de ses titres récents, dont « Touch Down » et « Se Pa Taw », portent Kernel Stevens comme auteur."),
-  ("Pourquoi Mr Gwada s’appelle-t-il Mr Gwada alors qu’il est Dominicain ?", "Selon sa biographie, il a quitte la Dominique en 2000 pour rejoindre son pere en Guadeloupe. Le succès immediat de sa chanson bouyon « Gwada », produite par DJ Flip et inspiree de son expérience en Guadeloupe, lui a valu le surnom de Mr Gwada, donne par ses fans et ses pairs."),
-  ("Mr Gwada a-t-il vraiment ete tête d’affiche du World Créole Music Festival en 2013 ?", "Sa biographie l’affirme : elle dit qu’il y est apparu comme l’une des têtes d’affiche en 2013, apres son premier tube. En revanche, l’annonce des têtes d’affiche 2013 publiee par la presse caribeenne consultee pour ce dossier nomme d’autres artistes et ne le liste pas. Ce profil présente donc ce point comme une affirmation de l’artiste, pas comme un fait corroboré par la presse du festival."),
-  ("Quel est le lien entre Mr Gwada et Dada, le producteur de Famalay ?", "Sa biographie indique qu’apres « Gwada », il a sorti le single « Come Join Me » sur le Daydream Riddim, produit par Krishna « Dada » Lawrence. Dada est le producteur dominicain crédité sur « Famalay » et auquel ce site attribue le lancement du bouyon soca en 2003, sur témoignage signe."),
-  ("Quels sont les titres vérifiés récents de Mr Gwada ?", "Sur Shazam : « Touch Down », extrait de l’album « Bouyon » sorti le 11 mai 2020 ; « Who Fool Dem » avec Fucha Kid, le 14 septembre 2020 ; « CREW (HEY) » sur le Trance Bouyon Riddim avec Menace XL, le 10 janvier 2024 ; et « Se Pa Taw », le 27 fevrier 2024. Sa biographie liste aussi « Big Chain », « Pa Ni Papie », « 1 Night Stand », « Toxic Love », « Never Thirsty » et « Best Life »."),
-  ("qu’est-ce que Bouyon Nation 767 ?", "Selon sa biographie, Bouyon Nation 767 est le mouvement fonde par Mr Gwada pour porter le bouyon vers le monde, avec des tournees dans la Caraibe, aux États Unis et en Europe. Le nombre 767 est l’indicatif telephonique de la Dominique, son île d’origine.")
- ],
+  (
+    "Quel est le vrai nom de Mr Gwada ?",
+    "Selon sa biographie d’artiste publiée sur ReverbNation, son nom est Kernel Stevens, mieux connu comme Benz Mr Gwada. Les crédits Shazam de ses titres récents, dont « Touch Down » et « Se Pa Taw », portent Kernel Stevens comme auteur, ce qui ancre l’identité civile derrière le nom de scène. Il est aussi crédité sous les formes Benz aka Mr Gwada et Benz Mr Gwada.",
+  ),
+  (
+    "Pourquoi Mr Gwada s’appelle-t-il Mr Gwada alors qu’il est Dominicain ?",
+    "Selon sa biographie, il a quitté la Dominique en 2000 pour rejoindre son père en Guadeloupe. Le succès immédiat de sa chanson bouyon « Gwada », produite par DJ Flip et inspirée de son expérience en Guadeloupe, lui a valu le surnom de Mr Gwada, donné affectueusement par ses fans et ses pairs. C’est donc un artiste baptisé par son public d’adoption.",
+  ),
+  (
+    "Mr Gwada a-t-il vraiment été tête d’affiche du World Créole Music Festival en 2013 ?",
+    "Sa biographie l’affirme : elle dit qu’il y est apparu comme l’une des têtes d’affiche en 2013, après son premier tube. En revanche, l’annonce des têtes d’affiche 2013 publiée par la presse caribéenne consultée pour ce dossier nomme d’autres artistes et ne le liste pas. Ce profil présente donc ce point comme une affirmation de l’artiste, pas comme un fait corroboré par la presse du <a href=\"/world-creole-music-festival.html\">festival</a>.",
+  ),
+  (
+    "Quel est le lien entre Mr Gwada et Dada, le producteur de Famalay ?",
+    "Sa biographie indique qu’après « Gwada », il a sorti le single « Come Join Me » sur le Daydream Riddim, produit par Krishna « Dada » Lawrence. <a href=\"/dada.html\">Dada</a> est le producteur dominicain crédité sur « Famalay » et auquel ce site attribue le lancement du bouyon soca en Dominique en 2003, sur le témoignage signé de Sean « Smokiller » Francis.",
+  ),
+  (
+    "Quels sont les titres vérifiés récents de Mr Gwada ?",
+    "Sur Shazam : « Touch Down », extrait de l’album « Bouyon » sorti le 11 mai 2020 ; « Who Fool Dem » avec Fucha Kid, le 14 septembre 2020 ; « CREW (HEY) » sur le Trance Bouyon Riddim avec Menace XL, le 10 janvier 2024 ; et « Se Pa Taw », le 27 février 2024. Sa biographie liste aussi « Big Chain », « Pa Ni Papie » et « 1 Night Stand ».",
+  ),
+  (
+    "Qu’est-ce que Bouyon Nation 767 ?",
+    "Selon sa biographie, Bouyon Nation 767 est le mouvement fondé par Mr Gwada pour porter le bouyon vers le monde, avec des tournées dans la Caraïbe, aux États-Unis et en Europe. Le nombre 767 est l’indicatif téléphonique de la Dominique, son île d’origine. Les dates de tournée précises, elles, ne sont pas documentées dans les sources ouvertes consultées pour ce profil.",
+  ),
+  (
+    "Mr Gwada et Gwada G sont-ils la même personne ?",
+    "Non. Mr Gwada, de son vrai nom Kernel Stevens, est le chanteur dominicain parti vivre en Guadeloupe en 2000 et nommé d’après son tube « Gwada ». <a href=\"/gwada-g.html\">Gwada G</a> est un artiste différent, suivi dans une autre page de ce site, lui aussi de la Dominique malgré son nom. Les deux noms se ressemblent, mais les crédits, les titres et les parcours sont distincts.",
+  ),
+  (
+    "Qui a produit la chanson « Gwada » de Mr Gwada ?",
+    "Selon sa biographie, « Gwada » a été produite par DJ Flip. La chanson raconte son expérience personnelle en Guadeloupe et circule aussi sous la forme « everybody wan go GWADA », tout le monde veut aller en Gwada. Sa biographie la présente comme son premier tube bouyon, celui dont le succès immédiat lui a donné son nom de scène.",
+  ),
+  (
+    "Mr Gwada est-il de la Dominique ou de la Guadeloupe ?",
+    "Des deux, dans cet ordre. Selon sa biographie, Kernel Stevens vient de la Dominique, l’île où le bouyon est né, et s’est installé en Guadeloupe en 2000 pour rejoindre son père. Il y a construit son identité de scène en mêlant le bouyon dominicain au créole français, ce qui fait de lui un chaînon vécu entre le bouyon de Roseau et le public du <a href=\"/bouyon-gwada.html\">bouyon gwada</a>.",
+  ),
+  (
+    "Avec qui Mr Gwada a-t-il commencé sa carrière ?",
+    "Selon sa biographie, il a d’abord chanté avec <a href=\"/derek-rah-peters.html\">Derek Rah Peters</a>, pionnier de WCK (écrit Derrick Rah Peters dans cette biographie), sur le projet d’album solo de Peters intitulé « Lone Rain Jah ». Cette collaboration a été sa première grande introduction au bouyon. Chanter aux côtés d’un pionnier du groupe fondateur le place dans la lignée directe des fondateurs du genre.",
+  ),
+  (
+    "Quel est le premier album de Mr Gwada ?",
+    "Selon sa biographie, son premier album bouyon s’intitule « Bouyon Biznis », le business du bouyon, sorti après sa collaboration avec Derrick Rah Peters. Les sources ouvertes ne donnent ni sa date exacte ni sa liste de titres, et ce profil n’invente rien pour le compléter. Un autre album, « Bouyon », sorti sous son nom le 11 mai 2020, contient « Touch Down » selon Shazam.",
+  ),
+  (
+    "Que veut dire « Pa Ni Papie » de Mr Gwada ?",
+    "« Pa Ni Papie » veut dire il n’y a pas de papiers, dans l’orthographe du créole écrit des Antilles françaises. Le titre figure dans le catalogue que liste sa biographie et tourne dans les tracklists du Soca Podcast sous la forme « Pa Ni Papie (Kinkin La) ». Il illustre sa signature : un chanteur dominicain qui parle la langue de la rue et de la fête guadeloupéennes.",
+  ),
+  (
+    "En quelle langue chante Mr Gwada ?",
+    "Il mêle l’anglais dominicain et le créole français. Selon sa biographie, une fois installé en Guadeloupe, il a commencé à mélanger ses textes avec le créole français, et ce mélange est devenu le style auquel on l’identifie aujourd’hui. Des titres comme « Se Pa Taw », ce n’est pas à toi, sorti en février 2024, montrent que cette signature bilingue structure encore ses sorties récentes.",
+  ),
+  (
+    "Avec quels artistes Mr Gwada a-t-il collaboré ?",
+    "Ses crédits vérifiés nomment Fucha Kid sur « Who Fool Dem » (2020), Menace XL sur « CREW (HEY) » (2024) et <a href=\"/dj-taffy.html\">DJ Taffy</a> dans la vidéo de « Se Pa Taw ». Les tracklists du Soca Podcast ajoutent « Big Chain » avec Bobo Bantan, « Tek It » avec Nayee, « Deja Koke » avec Kassidje et « Money » avec DJ Taffy. « Winning » est coécrit avec Bryelle Joseph.",
+  ),
+  (
+    "Où écouter Mr Gwada ?",
+    "Commencez par « Gwada », l’acte de naissance de son nom, puis « Touch Down » et « Se Pa Taw » pour sa signature actuelle, et « Big Chain » avec Bobo Bantan pour la rotation d’aujourd’hui. Ses titres passent dans les tracklists du Soca Podcast et sur la radio Kool FM Tropikal. Pour le son de sa génération, écoutez aussi notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/mr-gwada.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/mr-gwada.html#artist", "name": "Mr Gwada", "description": "Chanteur et auteur bouyon de la Dominique, de son vrai nom Kernel Stevens. Parti vivre en Guadeloupe en 2000, il a fait du mélange du bouyon dominicain et du créole français sa signature, et tire son nom de scene de son tube Gwada.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Gwada"}, {"@type": "MusicRecording", "name": "Come Join Me"}, {"@type": "MusicRecording", "name": "Big Chain"}, {"@type": "MusicRecording", "name": "Bcuz U Leave"}, {"@type": "MusicRecording", "name": "1 Night Stand"}, {"@type": "MusicRecording", "name": "Pa Ni Papie"}, {"@type": "MusicRecording", "name": "Toxic Love"}, {"@type": "MusicRecording", "name": "Never Thirsty"}, {"@type": "MusicRecording", "name": "Best Life"}, {"@type": "MusicRecording", "name": "Touch Down"}, {"@type": "MusicRecording", "name": "Who Fool Dem"}, {"@type": "MusicRecording", "name": "Winning"}, {"@type": "MusicRecording", "name": "CREW (HEY) Trance Bouyon Riddim"}, {"@type": "MusicRecording", "name": "Se Pa Taw"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -158,13 +212,67 @@ EN = {
   ]
  ],
  "faq": [
-  ("What is Mr Gwada real name?", "According to his artist biography published on ReverbNation, his name is Kernel Stevens, better known as Benz Mr Gwada. The Shazam credits of his recent records, including “Touch Down” and “Se Pa Taw”, carry Kernel Stevens as songwriter."),
-  ("Why is he called Mr Gwada if he is Dominican?", "According to his biography, he left Dominica in 2000 to join his father in Guadeloupe. The instant success of his bouyon song “Gwada”, produced by DJ Flip and drawn from his experience in Guadeloupe, earned him the name Mr Gwada, given by his fans and peers."),
-  ("Did Mr Gwada really headline the World Creole Music Festival in 2013?", "His biography says so: it states that he appeared there as one of the headliners in 2013, after his first hit. The 2013 headliner announcement published by Caribbean press and consulted for this file, however, names other artists and does not list him. This profile therefore presents the point as a claim by the artist, not as a fact corroborated by festival press."),
-  ("What is the link between Mr Gwada and Dada, the Famalay producer?", "His biography states that after “Gwada”, he released the single “Come Join Me” on the Daydream Riddim, produced by Krishna “Dada” Lawrence. Dada is the Dominican producer credited on “Famalay” and to whom this site attributes the start of bouyon soca in 2003, on signed testimony."),
-  ("What are Mr Gwada verified recent records?", "On Shazam: “Touch Down”, from the album “Bouyon” released on 11 May 2020; “Who Fool Dem” with Fucha Kid, on 14 September 2020; “CREW (HEY)” on the Trance Bouyon Riddim with Menace XL, on 10 January 2024; and “Se Pa Taw”, on 27 February 2024. His biography also lists “Big Chain”, “Pa Ni Papie”, “1 Night Stand”, “Toxic Love”, “Never Thirsty” and “Best Life”."),
-  ("What is Bouyon Nation 767?", "According to his biography, Bouyon Nation 767 is the movement founded by Mr Gwada to take bouyon to the world, with tours in the Caribbean, the United States and Europe. The number 767 is the telephone area code of Dominica, his home island.")
- ],
+  (
+    "What is Mr Gwada’s real name?",
+    "According to his artist biography published on ReverbNation, his name is Kernel Stevens, better known as Benz Mr Gwada. The Shazam credits of his recent records, including “Touch Down” and “Se Pa Taw”, carry Kernel Stevens as songwriter, which anchors the civil identity behind the stage name. He is also credited as Benz aka Mr Gwada and Benz Mr Gwada.",
+  ),
+  (
+    "Why is he called Mr Gwada if he is Dominican?",
+    "According to his biography, he left Dominica in 2000 to join his father in Guadeloupe. The instant success of his bouyon song “Gwada”, produced by DJ Flip and drawn from his experience in Guadeloupe, earned him the name Mr Gwada, given affectionately by his fans and peers. He is, in short, an artist named by his adopted audience.",
+  ),
+  (
+    "Did Mr Gwada really headline the World Creole Music Festival in 2013?",
+    "His biography says so: it states that he appeared there as one of the headliners in 2013, after his first hit. The 2013 headliner announcement published by Caribbean press and consulted for this file, however, names other artists and does not list him. This profile therefore presents the point as a claim by the artist, not as a fact corroborated by <a href=\"/en/world-creole-music-festival.html\">festival</a> press.",
+  ),
+  (
+    "What is the link between Mr Gwada and Dada, the Famalay producer?",
+    "His biography states that after “Gwada”, he released the single “Come Join Me” on the Daydream Riddim, produced by Krishna “Dada” Lawrence. <a href=\"/en/dada.html\">Dada</a> is the Dominican producer credited on “Famalay” and to whom this site attributes the start of bouyon soca in Dominica in 2003, on the signed testimony of Sean “Smokiller” Francis.",
+  ),
+  (
+    "What are Mr Gwada’s verified recent records?",
+    "On Shazam: “Touch Down”, from the album “Bouyon” released on 11 May 2020; “Who Fool Dem” with Fucha Kid, on 14 September 2020; “CREW (HEY)” on the Trance Bouyon Riddim with Menace XL, on 10 January 2024; and “Se Pa Taw”, on 27 February 2024. His biography also lists “Big Chain”, “Pa Ni Papie” and “1 Night Stand”.",
+  ),
+  (
+    "What is Bouyon Nation 767?",
+    "According to his biography, Bouyon Nation 767 is the movement founded by Mr Gwada to take bouyon to the world, with tours in the Caribbean, the United States and Europe. The number 767 is the telephone area code of Dominica, his home island. Precise tour dates, on the other hand, are not documented in the open sources consulted for this profile.",
+  ),
+  (
+    "Are Mr Gwada and Gwada G the same person?",
+    "No. Mr Gwada, real name Kernel Stevens, is the Dominican singer who moved to Guadeloupe in 2000 and was named after his hit “Gwada”. <a href=\"/en/gwada-g.html\">Gwada G</a> is a different artist, covered on another page of this site, who is also from Dominica despite his name. The two names look alike, but the credits, records and careers are separate.",
+  ),
+  (
+    "Who produced Mr Gwada’s song “Gwada”?",
+    "According to his biography, “Gwada” was produced by DJ Flip. The song tells his personal experience in Guadeloupe and also circulates as “everybody wan go GWADA”, everybody wants to go to Gwada. His biography presents it as his first bouyon hit, the one whose instant success gave him his stage name.",
+  ),
+  (
+    "Is Mr Gwada from Dominica or Guadeloupe?",
+    "Both, in that order. According to his biography, Kernel Stevens comes from Dominica, the island where bouyon was born, and settled in Guadeloupe in 2000 to join his father. There he built his stage identity by mixing Dominican bouyon with French Creole, which makes him a lived link between Roseau bouyon and the <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a> audience.",
+  ),
+  (
+    "Who did Mr Gwada start his career with?",
+    "According to his biography, he first sang with <a href=\"/en/derek-rah-peters.html\">Derek Rah Peters</a>, the WCK pioneer (spelled Derrick Rah Peters in that biography), on Peters’ solo album project titled “Lone Rain Jah”. That collaboration was his first major introduction to bouyon. Singing beside a pioneer of the founding band places him in the direct line of the genre’s founders.",
+  ),
+  (
+    "What is Mr Gwada’s first album?",
+    "According to his biography, his first bouyon album is titled “Bouyon Biznis”, the business of bouyon, released after his work with Derrick Rah Peters. The open sources give neither its exact date nor its track list, and this profile invents nothing to complete it. Another album, “Bouyon”, released under his name on 11 May 2020, contains “Touch Down” according to Shazam.",
+  ),
+  (
+    "What does Mr Gwada’s “Pa Ni Papie” mean?",
+    "“Pa Ni Papie” means there are no papers, spelled in the written Creole of the French Antilles. The song appears in the catalogue his biography lists and runs in the Soca Podcast tracklists as “Pa Ni Papie (Kinkin La)”. It shows his signature: a Dominican singer who speaks the street and party language of Guadeloupe.",
+  ),
+  (
+    "What language does Mr Gwada sing in?",
+    "He mixes Dominican English and French Creole. According to his biography, once settled in Guadeloupe he began mixing his lyrics with French Creole, and that blend became the style he is popularly identified with today. Records such as “Se Pa Taw”, it is not yours, released in February 2024, show that this bilingual signature still shapes his latest releases.",
+  ),
+  (
+    "Which artists has Mr Gwada worked with?",
+    "His verified credits name Fucha Kid on “Who Fool Dem” (2020), Menace XL on “CREW (HEY)” (2024) and <a href=\"/en/dj-taffy.html\">DJ Taffy</a> in the “Se Pa Taw” video. The Soca Podcast tracklists add “Big Chain” with Bobo Bantan, “Tek It” with Nayee, “Deja Koke” with Kassidje and “Money” with DJ Taffy. “Winning” is co-written with Bryelle Joseph.",
+  ),
+  (
+    "Where can I hear Mr Gwada?",
+    "Start with “Gwada”, the birth certificate of his name, then “Touch Down” and “Se Pa Taw” for his current signature, and “Big Chain” with Bobo Bantan for today’s rotation. His records run in the Soca Podcast tracklists and on Kool FM Tropikal radio. For the sound of his generation, hear our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> as well.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/mr-gwada.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/mr-gwada.html#artist", "name": "Mr Gwada", "description": "Bouyon singer and songwriter from Dominica, real name Kernel Stevens. He moved to Guadeloupe in 2000, made the mix of Dominican bouyon and French Creole his signature, and takes his stage name from his hit Gwada.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Gwada"}, {"@type": "MusicRecording", "name": "Come Join Me"}, {"@type": "MusicRecording", "name": "Big Chain"}, {"@type": "MusicRecording", "name": "Bcuz U Leave"}, {"@type": "MusicRecording", "name": "1 Night Stand"}, {"@type": "MusicRecording", "name": "Pa Ni Papie"}, {"@type": "MusicRecording", "name": "Toxic Love"}, {"@type": "MusicRecording", "name": "Never Thirsty"}, {"@type": "MusicRecording", "name": "Best Life"}, {"@type": "MusicRecording", "name": "Touch Down"}, {"@type": "MusicRecording", "name": "Who Fool Dem"}, {"@type": "MusicRecording", "name": "Winning"}, {"@type": "MusicRecording", "name": "CREW (HEY) Trance Bouyon Riddim"}, {"@type": "MusicRecording", "name": "Se Pa Taw"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

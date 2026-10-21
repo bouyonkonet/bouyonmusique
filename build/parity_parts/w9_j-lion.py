@@ -91,13 +91,55 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est J Lion ?", "J Lion est un artiste relevé dans les tracklists de la saison 2026 sur deux circuits : la sélection Vincy Mas 2026 de DJ JEL, pour le carnaval de Saint-Vincent et les Grenadines, lui attribue cinq titres, et les sélections bouyon de la Dominique retiennent son duo « No Love » avec Ridge ainsi que son titre solo « Take Another Man ». Aucune biographie vérifiée, aucun nom complet et aucune origine documentée n’ont été retrouvés en octobre 2026."),
-  ("Quels sont les titres vérifiés de J Lion ?", "Six titres, tous relevés dans des tracklists publiées : « Take Another Man », « Shake It » avec Romey, « Jam Dem », « Pon Pam » et « Bhaad Dab », listés par DJ JEL pour Vincy Mas 2026, plus « No Love », en duo avec Ridge, listé dans la sélection Bouyon Passport 2026. Quatre des titres vincentais sont confirmés par une deuxième liste indépendante, celle du podcast DJ Close Connections."),
-  ("J Lion est il dominicain ou vincentais ?", "Aucune source ouverte consultée ne le dit, et ce profil ne tranche pas. Ses titres sont documentés des deux côtés : à Saint-Vincent, par les sélections Vincy Mas 2026 de DJ JEL et de DJ Close Connections, et en Dominique, par la sélection Bouyon Passport 2026 et par le mix bouyon 2026 de Smokiller, qui présente « Take Another Man » parmi les meilleures nouveautés bouyon de la Dominique. C’est une question à laquelle le dossier public, à ce jour, ne répond pas."),
-  ("Qui produit les titres de J Lion pour Vincy Mas 2026 ?", "Le nom qui revient dans ses crédits vincentais est Joshybeatz : quatre des cinq titres listés par DJ JEL le portent en collaboration, « Shake It », « Jam Dem », « Pon Pam » et « Bhaad Dab », ce dernier avec aussi JC Productions. J Lion apparaît donc, dans ce circuit, comme une voix récurrente de l’atelier de ce producteur pour la saison de carnaval 2026."),
-  ("Quel est le lien entre J Lion et Ridge ?", "« No Love », un duo de Ridge et J Lion, figure dans la sélection « Bouyon Passport 2026 » du podcast DJ Close Connections, datée du 4 février 2026, au milieu des titres de Trilla G, Reo, Shelly et TK International. Les listes de titres similaires de Shazam, pour ce même cercle bouyon, portent aussi ce titre. C’est, à ce jour, le crédit bouyon le plus net de J Lion, avec un des noms centraux de la scène dominicaine. Voir notre profil de <a href=\"/ridge.html\">Ridge</a>."),
-  ("Où écouter J Lion ?", "Commencez par les documents sources : l’épisode « 2026 Vincy Soca Take Over » de DJ JEL, dont la tracklist complète est publiée sur jelinthemix.com, la sélection Bouyon Passport 2026 de DJ Close Connections, et le « Bouyon Music 2026 Mix Vol. 1 » de Smokiller sur YouTube, qui place « Take Another Man » à 6 minutes 33. Puis lisez notre page <a href=\"/bouyon-soca.html\">bouyon soca</a> et écoutez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>. Aucune page de streaming officielle de J Lion n’a été confirmée pendant la recherche, donc cette page n’en lie aucune.")
- ],
+  (
+    "Qui est J Lion ?",
+    "J Lion est un artiste relevé dans les tracklists de la saison 2026 sur deux circuits : la sélection Vincy Mas 2026 de DJ JEL, pour le carnaval de Saint-Vincent et les Grenadines, lui attribue cinq titres, et les sélections bouyon de la Dominique retiennent son duo « No Love » avec Ridge ainsi que son titre solo « Take Another Man ». Aucune biographie vérifiée, aucun nom complet et aucune origine documentée n’ont été retrouvés en octobre 2026.",
+  ),
+  (
+    "J Lion ou Jlion : comment s’écrit son nom ?",
+    "Les deux formes désignent le même artiste : les tracklists écrivent le nom tantôt J Lion, tantôt Jlion, sans espace. Ce site retient J Lion, la forme la plus fréquente dans les titres solo comme « Take Another Man » et dans la description du mix bouyon 2026 de Smokiller, et signale la variante pour que les lecteurs retrouvent les mêmes titres sous les deux graphies.",
+  ),
+  (
+    "Quels sont les titres vérifiés de J Lion ?",
+    "Six titres, tous relevés dans des tracklists publiées : « Take Another Man », « Shake It » avec Romey, « Jam Dem », « Pon Pam » et « Bhaad Dab », listés par DJ JEL pour Vincy Mas 2026, plus « No Love », en duo avec Ridge, listé dans la sélection Bouyon Passport 2026. Quatre des titres vincentais sont confirmés par une deuxième liste indépendante, celle du podcast DJ Close Connections.",
+  ),
+  (
+    "J Lion est-il dominicain ou vincentais ?",
+    "Aucune source ouverte consultée ne le dit, et ce profil ne tranche pas. Ses titres sont documentés des deux côtés : à Saint-Vincent, par les sélections Vincy Mas 2026 de DJ JEL et de DJ Close Connections, et en Dominique, par la sélection Bouyon Passport 2026 et par le mix bouyon 2026 de Smokiller, qui présente « Take Another Man » parmi les meilleures nouveautés bouyon de la Dominique.",
+  ),
+  (
+    "Qui chante « Take Another Man » ?",
+    "« Take Another Man » est un titre de J Lion crédité en solo. DJ JEL le range dans sa sélection Vincy Mas 2026, et le « Bouyon Music 2026 Mix Vol. 1 » de Smokiller pour Bouyon Shattaz le place à 6 minutes 33, juste après « Come Ova » de KTB, comme nouveauté bouyon de la Dominique. Le même titre circule donc à la fois dans le circuit soca vincentais et dans le circuit bouyon dominicain.",
+  ),
+  (
+    "Qui produit les titres de J Lion pour Vincy Mas 2026 ?",
+    "Le nom qui revient dans ses crédits vincentais est Joshybeatz : quatre des cinq titres listés par DJ JEL le portent en collaboration, « Shake It », « Jam Dem », « Pon Pam » et « Bhaad Dab », ce dernier avec aussi JC Productions. J Lion apparaît donc, dans ce circuit, comme une voix récurrente de l’atelier de ce producteur pour la saison de carnaval 2026.",
+  ),
+  (
+    "Avec qui J Lion chante-t-il sur « Shake It » ?",
+    "Dans la liste de DJ JEL pour Vincy Mas 2026, « Shake It » réunit J Lion et Romey, avec Shatta TBG et le producteur Joshybeatz. L’édition Vincy Mas 2026 du « Soca Passport » de DJ Close Connections crédite le titre plus simplement à J Lion et Romey. C’est un titre de soca de route, une consigne de danse courte et directe, pensée pour les fêtes et les camions de carnaval.",
+  ),
+  (
+    "Quel est le lien entre J Lion et Ridge ?",
+    "« No Love », un duo de Ridge et J Lion, figure dans la sélection « Bouyon Passport 2026 » du podcast DJ Close Connections, datée du 4 février 2026, au milieu des titres de Trilla G, Reo, Shelly et TK International. Les listes de titres similaires de Shazam, pour ce même cercle bouyon, portent aussi ce titre. C’est, à ce jour, le crédit bouyon le plus net de J Lion, avec un des noms centraux de la scène dominicaine. Voir notre profil de <a href=\"/ridge.html\">Ridge</a>.",
+  ),
+  (
+    "J Lion fait-il du bouyon ou de la soca ?",
+    "Les deux, selon les listes de 2026 : ses titres vincentais relèvent de la soca de route de Vincy Mas, tandis que « No Love » avec Ridge et « Take Another Man » sont retenus dans des sélections bouyon dominicaines. Ce va-et-vient est celui du <a href=\"/bouyon-soca.html\">bouyon soca</a>, lancé en Dominique en 2003 par Dada selon le témoignage de Sean « Smokiller » Francis, qui a fait des voix voyageuses une norme entre les îles.",
+  ),
+  (
+    "Qu’est-ce que Vincy Mas, le carnaval où J Lion est programmé par les DJ ?",
+    "Vincy Mas est le carnaval de Saint-Vincent et les Grenadines, que DJ JEL présente comme le carnaval le plus chaud de la Caraïbe. Ses sélections « Take Over » servent de mode d’emploi sonore de la saison, dans l’ordre d’un mix de près de trois heures. En 2026, J Lion y figure cinq fois, une campagne de saison entière portée par le même réseau de production.",
+  ),
+  (
+    "J Lion est-il dans le mix bouyon 2026 de Bouyon Shattaz ?",
+    "Oui. Le « Bouyon Music 2026 Mix Vol. 1 », mixé par Smokiller pour Bouyon Shattaz et publié sur YouTube, annonce dans sa description le meilleur de la nouvelle musique bouyon de la Dominique en 2026, « de Trilla-G, J Lion, Tipsy ». Sa tracklist en chapitres place « Take Another Man » de J Lion à 6 minutes 33, avant les titres de Tipsy et de Trilla-G.",
+  ),
+  (
+    "Où écouter J Lion ?",
+    "Commencez par les documents sources : l’épisode « 2026 Vincy Soca Take Over » de DJ JEL, dont la tracklist complète est publiée sur jelinthemix.com, la sélection Bouyon Passport 2026 de DJ Close Connections, et le « Bouyon Music 2026 Mix Vol. 1 » de Smokiller sur YouTube. Pour la suite de la scène, notre <a href=\"/playlist-bouyon.html\">playlist Bouyon Road Mix</a> suit les nouveautés bouyon. Aucune page de streaming officielle de J Lion n’a été confirmée.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/j-lion.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/j-lion.html#artist", "name": "J Lion", "description": "Artiste relevé dans les tracklists 2026 de DJ JEL pour Vincy Mas à Saint-Vincent et dans les sélections bouyon de la Dominique, avec Take Another Man, Shake It, Jam Dem, Pon Pam, Bhaad Dab et No Love avec Ridge. Origine non documentée dans les sources ouvertes.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Take Another Man"}, {"@type": "MusicRecording", "name": "Shake It"}, {"@type": "MusicRecording", "name": "Jam Dem"}, {"@type": "MusicRecording", "name": "Pon Pam"}, {"@type": "MusicRecording", "name": "Bhaad Dab"}, {"@type": "MusicRecording", "name": "No Love"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -156,13 +198,55 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is J Lion?", "J Lion is an artist found in the tracklists of the 2026 season on two circuits: the Vincy Mas 2026 selection by DJ JEL, for the carnival of Saint Vincent and the Grenadines, credits him with five tracks, and the Dominican bouyon selections hold his duet “No Love” with Ridge as well as his solo track “Take Another Man”. No verified biography, no full name and no documented origin were found in October 2026."),
-  ("What are the verified songs of J Lion?", "Six tracks, all taken from published tracklists: “Take Another Man”, “Shake It” with Romey, “Jam Dem”, “Pon Pam” and “Bhaad Dab”, listed by DJ JEL for Vincy Mas 2026, plus “No Love”, a duet with Ridge, listed in the Bouyon Passport 2026 selection. Four of the Vincentian tracks are confirmed by a second independent list, that of the DJ Close Connections podcast."),
-  ("Is J Lion Dominican or Vincentian?", "No source opened consulted says so, and this profile does not decide. His tracks are documented on both sides: in Saint Vincent, by the Vincy Mas 2026 selections of DJ JEL and DJ Close Connections, and in Dominica, by the Bouyon Passport 2026 selection and by the 2026 bouyon mix by Smokiller, which presents “Take Another Man” among the best new bouyon releases of Dominica. That is a question the public record, to date, does not answer."),
-  ("Who produces the J Lion tracks for Vincy Mas 2026?", "The name that returns in his Vincentian credits is Joshybeatz: four of the five tracks listed by DJ JEL carry him as a collaboration, “Shake It”, “Jam Dem”, “Pon Pam” and “Bhaad Dab”, the last one also with JC Productions. In this circuit, J Lion therefore appears as a recurring voice of that producer workshop for the 2026 carnival season."),
-  ("What is the link between J Lion and Ridge?", "“No Love”, a duet by Ridge and J Lion, appears in the “Bouyon Passport 2026” selection of the DJ Close Connections podcast, dated 4 February 2026, among tracks by Trilla G, Reo, Shelly and TK International. The Shazam similar songs listings for that same bouyon circle also carry this title. It is, to date, the clearest bouyon credit of J Lion, with one of the central names of the Dominican scene. See our <a href=\"/en/ridge.html\">Ridge</a> profile."),
-  ("Where can I hear J Lion?", "Start with the source documents: the “2026 Vincy Soca Take Over” episode by DJ JEL, whose full tracklist is published on jelinthemix.com, the Bouyon Passport 2026 selection by DJ Close Connections, and the “Bouyon Music 2026 Mix Vol. 1” by Smokiller on YouTube, which places “Take Another Man” at 6 minutes 33. Then read our <a href=\"/en/bouyon-soca.html\">bouyon soca</a> page and hear our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>. No official streaming page of J Lion was confirmed during the research, so this page links to none.")
- ],
+  (
+    "Who is J Lion?",
+    "J Lion is an artist found in the tracklists of the 2026 season on two circuits: the Vincy Mas 2026 selection by DJ JEL, for the carnival of Saint Vincent and the Grenadines, credits him with five tracks, and the Dominican bouyon selections hold his duet “No Love” with Ridge as well as his solo track “Take Another Man”. No verified biography, no full name and no documented origin were found in October 2026.",
+  ),
+  (
+    "J Lion or Jlion: how is his name spelled?",
+    "Both forms name the same artist: the tracklists write it sometimes J Lion, sometimes Jlion, without a space. This site keeps J Lion, the most frequent form in the solo titles such as “Take Another Man” and in the description of the 2026 bouyon mix by Smokiller, and flags the variant so readers can find the same tracks under both spellings.",
+  ),
+  (
+    "What are the verified songs of J Lion?",
+    "Six tracks, all taken from published tracklists: “Take Another Man”, “Shake It” with Romey, “Jam Dem”, “Pon Pam” and “Bhaad Dab”, listed by DJ JEL for Vincy Mas 2026, plus “No Love”, a duet with Ridge, listed in the Bouyon Passport 2026 selection. Four of the Vincentian tracks are confirmed by a second independent list, that of the DJ Close Connections podcast.",
+  ),
+  (
+    "Is J Lion Dominican or Vincentian?",
+    "No source opened consulted says so, and this profile does not decide. His tracks are documented on both sides: in Saint Vincent, by the Vincy Mas 2026 selections of DJ JEL and DJ Close Connections, and in Dominica, by the Bouyon Passport 2026 selection and by the 2026 bouyon mix by Smokiller, which presents “Take Another Man” among the best new bouyon releases of Dominica.",
+  ),
+  (
+    "Who sings “Take Another Man”?",
+    "“Take Another Man” is a J Lion track credited solo. DJ JEL files it in his Vincy Mas 2026 selection, and the “Bouyon Music 2026 Mix Vol. 1” by Smokiller for Bouyon Shattaz places it at 6 minutes 33, just after “Come Ova” by KTB, as a new Dominica bouyon release. The same track therefore runs both in the Vincentian soca circuit and in the Dominican bouyon circuit.",
+  ),
+  (
+    "Who produces the J Lion tracks for Vincy Mas 2026?",
+    "The name that returns in his Vincentian credits is Joshybeatz: four of the five tracks listed by DJ JEL carry him as a collaboration, “Shake It”, “Jam Dem”, “Pon Pam” and “Bhaad Dab”, the last one also with JC Productions. In this circuit, J Lion therefore appears as a recurring voice of that producer workshop for the 2026 carnival season.",
+  ),
+  (
+    "Who does J Lion sing with on “Shake It”?",
+    "In the DJ JEL list for Vincy Mas 2026, “Shake It” brings together J Lion and Romey, with Shatta TBG and producer Joshybeatz. The Vincy Mas 2026 edition of the DJ Close Connections “Soca Passport” credits it more simply to J Lion and Romey. It is a road soca track, a short and direct dance instruction, built for fetes and carnival trucks.",
+  ),
+  (
+    "What is the link between J Lion and Ridge?",
+    "“No Love”, a duet by Ridge and J Lion, appears in the “Bouyon Passport 2026” selection of the DJ Close Connections podcast, dated 4 February 2026, among tracks by Trilla G, Reo, Shelly and TK International. The Shazam similar songs listings for that same bouyon circle also carry this title. It is, to date, the clearest bouyon credit of J Lion, with one of the central names of the Dominican scene. See our <a href=\"/en/ridge.html\">Ridge</a> profile.",
+  ),
+  (
+    "Does J Lion make bouyon or soca?",
+    "Both, according to the 2026 lists: his Vincentian tracks belong to the road soca of Vincy Mas, while “No Love” with Ridge and “Take Another Man” are kept in Dominican bouyon selections. That back and forth is the one of <a href=\"/en/bouyon-soca.html\">bouyon soca</a>, started in Dominica in 2003 by Dada according to the testimony of Sean “Smokiller” Francis, which made travelling voices a norm between the islands.",
+  ),
+  (
+    "What is Vincy Mas, the carnival where DJs list J Lion?",
+    "Vincy Mas is the carnival of Saint Vincent and the Grenadines, which DJ JEL presents as the hottest carnival in the Caribbean. His “Take Over” selections work as a sound guide to the season, in the order of a mix of nearly three hours. In 2026, J Lion appears in it five times, a whole season campaign carried by the same production network.",
+  ),
+  (
+    "Is J Lion in the Bouyon Shattaz 2026 bouyon mix?",
+    "Yes. The “Bouyon Music 2026 Mix Vol. 1”, mixed by Smokiller for Bouyon Shattaz and published on YouTube, announces in its description the best new Dominica bouyon music of 2026 “from Trilla-G, J Lion, Tipsy”. Its chapter tracklist places “Take Another Man” by J Lion at 6 minutes 33, ahead of tracks by Tipsy and Trilla-G.",
+  ),
+  (
+    "Where can I hear J Lion?",
+    "Start with the source documents: the “2026 Vincy Soca Take Over” episode by DJ JEL, whose full tracklist is published on jelinthemix.com, the Bouyon Passport 2026 selection by DJ Close Connections, and the “Bouyon Music 2026 Mix Vol. 1” by Smokiller on YouTube. For the rest of the scene, our <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix playlist</a> follows new bouyon releases. No official J Lion streaming page was confirmed.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/j-lion.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/j-lion.html#artist", "name": "J Lion", "description": "Artist found in the 2026 tracklists of DJ JEL for Vincy Mas in Saint Vincent and in the bouyon selections of Dominica, with Take Another Man, Shake It, Jam Dem, Pon Pam, Bhaad Dab and No Love with Ridge. Origin not documented in the sources opened.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Take Another Man"}, {"@type": "MusicRecording", "name": "Shake It"}, {"@type": "MusicRecording", "name": "Jam Dem"}, {"@type": "MusicRecording", "name": "Pon Pam"}, {"@type": "MusicRecording", "name": "Bhaad Dab"}, {"@type": "MusicRecording", "name": "No Love"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

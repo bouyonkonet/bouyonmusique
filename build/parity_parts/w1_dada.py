@@ -75,13 +75,67 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui a commencé le bouyon soca, et en quelle année ?", "Selon le témoignage de première main de Sean « Smokiller » Francis, producteur né en Dominique et présent dans les pièces avec Dada et la Nursery Krew, le bouyon soca a été inventé et lancé par Dada en Dominique en 2003. Le style est ensuite devenu populaire quand Triple Kay et d’autres groupes l’ont adopté dans leur propre version du bouyon."),
-  ("Pourquoi les ouvrages de référence racontent-ils une autre origine ?", "Parce que les références publiées ne s’accordent pas entre elles. Un texte largement repris décrit le terme comme inventé par des producteurs non dominicains, principalement de Sainte-Lucie, tandis que l’article consacré au bouyon soca place ses origines culturelles en Dominique au début des années 2000 et cite le producteur Dada parmi ceux qui ont popularisé le style. Ce site retient le témoignage signé d’un participant direct pour le fait d’origine, et le présente comme un témoignage."),
-  ("Dada a-t-il produit « Famalay » et « Conch Shell » ?", "Oui, selon la presse et les crédits officiels. Ebuzztt présente Dada comme le producteur derrière « Famalay », de Machel Montano, Skinny Fabulous et Bunji Garlin, titre de Road March 2019 de Trinidad et Tobago, dont les crédits nomment DadaMuzic et DSM à la production. Pour « Conch Shell », de Skinny Fabulous, Machel Montano et Iwer George, les crédits nomment Dadamanufakture à la production."),
-  ("Quel est le lien entre Dada, la Nursery Krew et Triple Kay ?", "Le témoignage de Smokiller place la naissance du bouyon soca en 2003 dans les pièces partagées avec Dada et la Nursery Krew, et sa diffusion dans l’adoption du style par Triple Kay. La biographie d’artiste publiée par Dada va dans le même sens : elle lui attribue des productions pour Triple Kay International et la mise en avant de la <a href=\"/nursery-krew-inc.html\">Nursery Krew Inc.</a>, avec des titres comme « Peanuts » et « Calaloo »."),
-  ("Qu’est-ce que le « Smoke Riddim » de Dada ?", "Selon Ebuzztt, le « Smoke Riddim » est un riddim hybride de Dada qui mélange la soca et le bouyon de la Dominique. Bunji Garlin y chante « Forward » et Shurwayne Winchester y livre « Wet Dem Down ». Dada y explique avoir choisi ces deux artistes pour leur capacité à porter les grandes fêtes et à ramener l’énergie des fêtes d’avant."),
-  ("Où écouter le bouyon soca de Dada et de sa génération ?", "Commencez par « Famalay » et « Conch Shell », les titres emblèmes du genre, puis lisez notre page <a href=\"/bouyon-soca.html\">bouyon soca</a> et écoutez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, qui mélange bouyon, bouyon soca et nouveautés de la Dominique suivies par Bouyon Shattaz.")
- ],
+  (
+    "Qui a commencé le bouyon soca, et en quelle année ?",
+    "Selon le témoignage de première main de Sean « Smokiller » Francis, producteur né en Dominique et présent dans les pièces avec Dada et la Nursery Krew, le bouyon soca a été inventé et lancé par Dada en Dominique en 2003. Le style est ensuite devenu populaire quand Triple Kay et d’autres groupes l’ont adopté dans leur propre version du bouyon.",
+  ),
+  (
+    "Pourquoi les ouvrages de référence racontent-ils une autre origine ?",
+    "Parce que les références publiées ne s’accordent pas entre elles. Un texte largement repris décrit le terme comme inventé par des producteurs non dominicains, principalement de Sainte-Lucie, tandis que l’article consacré au bouyon soca place ses origines culturelles en Dominique au début des années 2000 et cite le producteur Dada parmi ceux qui ont popularisé le style. Ce site retient le témoignage signé d’un participant direct pour le fait d’origine, et le présente comme un témoignage.",
+  ),
+  (
+    "Dada a-t-il produit « Famalay » et « Conch Shell » ?",
+    "Oui, selon la presse et les crédits officiels. Ebuzztt présente Dada comme le producteur derrière « Famalay », de Machel Montano, Skinny Fabulous et Bunji Garlin, titre de Road March 2019 de Trinidad et Tobago, dont les crédits nomment DadaMuzic et DSM à la production. Pour « Conch Shell », de Skinny Fabulous, Machel Montano et Iwer George, les crédits nomment Dadamanufakture à la production.",
+  ),
+  (
+    "Quel est le lien entre Dada, la Nursery Krew et Triple Kay ?",
+    "Le témoignage de Smokiller place la naissance du bouyon soca en 2003 dans les pièces partagées avec Dada et la Nursery Krew, et sa diffusion dans l’adoption du style par Triple Kay. La biographie d’artiste publiée par Dada va dans le même sens : elle lui attribue des productions pour Triple Kay International et la mise en avant de la <a href=\"/nursery-krew-inc.html\">Nursery Krew Inc.</a>, avec des titres comme « Peanuts » et « Calaloo ».",
+  ),
+  (
+    "Qu’est-ce que le « Smoke Riddim » de Dada ?",
+    "Selon Ebuzztt, le « Smoke Riddim » est un riddim hybride de Dada qui mélange la soca et le bouyon de la Dominique. Bunji Garlin y chante « Forward » et Shurwayne Winchester y livre « Wet Dem Down ». Dada y explique avoir choisi ces deux artistes pour leur capacité à porter les grandes fêtes et à ramener l’énergie des fêtes d’avant.",
+  ),
+  (
+    "Où écouter le bouyon soca de Dada et de sa génération ?",
+    "Commencez par « Famalay » et « Conch Shell », les titres emblèmes du genre, puis écoutez la <a href=\"/playlist-bouyon.html\">Bouyon Road Mix</a> de Bouyon Shattaz, sur Spotify et YouTube, qui mélange bouyon, bouyon soca, nouveautés de la Dominique et classiques du carnaval. Pour la recevoir en message privé, suivez @bouyonshattaz sur Instagram et commentez ROAD MIX sous une publication.",
+  ),
+  (
+    "Qui est Dada ?",
+    "Dada est un producteur de la Dominique, crédité par le témoignage de Sean « Smokiller » Francis comme celui qui a inventé le terme bouyon soca et lancé le style en 2003. Ses crédits publiés le relient à Triple Kay International, à Nursery Krew Inc, puis à « Famalay » et « Conch Shell », les deux titres que les références citent comme emblèmes du bouyon soca.",
+  ),
+  (
+    "D’où vient le producteur Dada ?",
+    "Dada vient de la Dominique : c’est un producteur dominicain, qui travaillait dans les studios de Roseau au début des années 2000, dans le cercle de la Nursery Krew. Les crédits officiels de « Conch Shell » gardent la trace de cette adresse : Skinny Fabulous y a été enregistré chez Dadamanufakture, en Dominique. Ce site ne publie pas son nom complet, faute de confirmation directe.",
+  ),
+  (
+    "Que veulent dire DadaMuzic et Dadamanufakture dans les crédits ?",
+    "Ce sont les deux noms sous lesquels Dada apparaît dans les crédits officiels de ses plus gros titres. Sur « Famalay », DadaMuzic est crédité à la production avec DSM, et seul au mixage. Sur « Conch Shell », Dadamanufakture est crédité à la production, et les crédits précisent que Skinny Fabulous a été enregistré chez Dadamanufakture, en Dominique. Les deux renvoient au même producteur.",
+  ),
+  (
+    "Quels titres Dada a-t-il produits pour Triple Kay International ?",
+    "Selon la biographie d’artiste que Dada a publiée sur Showcase Your Music, il a produit pour Triple Kay International des titres comme « All Out », « Do You Believe » et « Doh Blow My High », et il a coproduit le mix de fête « The After Dust » sur l’album « All Out » du groupe, sorti en 2006. Ce site cite cette biographie autopubliée en l’attribuant.",
+  ),
+  (
+    "Qui a appris la production à Dada ?",
+    "Selon sa biographie d’artiste autopubliée, Dada s’est formé dans le cercle du <a href=\"/bushtown-clan.html\">Bushtown Clan</a>, le groupe dancehall, soca, hip hop et bouyon de sa jeunesse, puis est passé à la production à quinze ans, sur boîtes à rythmes, claviers et surtout ordinateur avec FL Studio. La même biographie cite parmi ses mentors Cornel « Fingers » Phillip, claviériste fondateur de WCK.",
+  ),
+  (
+    "Avec quels artistes de soca Dada a-t-il travaillé ?",
+    "Au-delà de « Famalay » et « Conch Shell », Ebuzztt documente le « Smoke Riddim » de Dada, donné à <a href=\"/bunji-garlin.html\">Bunji Garlin</a> pour « Forward » et à Shurwayne Winchester pour « Wet Dem Down ». Le même article lui attribue, pour la même saison, la production de « Look Meh Friend » pour Patrice Roberts et un crédit d’ingénieur de mixage sur « Market » de Nadia Batson.",
+  ),
+  (
+    "Quelle est la différence entre le bouyon et le bouyon soca lancé par Dada ?",
+    "Le bouyon est le genre né en Dominique, avec son tempo rapide, ses motifs de clavier en boucle et sa basse synthé lourde. Le bouyon soca, lancé par Dada en 2003 selon le témoignage de Smokiller, branche ce moteur rythmique sur la structure festive de la soca de Trinidad et Tobago. En Dominique, le bouyon a toujours gardé un style distinct de la soca. Voir <a href=\"/bouyon-soca.html\">le bouyon soca</a>.",
+  ),
+  (
+    "Pourquoi le bouyon soca est-il aussi appelé jump up ?",
+    "Certaines sources désignent le style sous le nom de jump up soca. En Guadeloupe et en Martinique, où le bouyon soca est devenu très populaire, le public connaît d’ailleurs le bouyon sous le nom de jump up. Ces noms décrivent la même famille de sons, dont l’origine reste la Dominique : le style a été lancé par Dada en 2003, selon le témoignage de Smokiller publié sur ce site.",
+  ),
+  (
+    "Où le bouyon soca de Dada s’est-il répandu ?",
+    "Après son lancement en Dominique en 2003 et son adoption par Triple Kay, le bouyon soca a aussi grandi à Sainte-Lucie et à Antigua, puis est devenu très populaire en Guadeloupe et en Martinique. Ses scènes couvrent aujourd’hui les Îles Vierges, Saint-Vincent et Trinidad et Tobago, où « Famalay », produit par Dada, a été le titre de Road March 2019. Voir <a href=\"/histoire.html\">l’histoire du bouyon</a>.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/dada.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/dada.html#artist", "name": "Dada", "description": "Producteur de la Dominique. Selon le témoignage signé de Sean Smokiller Francis, il a inventé le terme bouyon soca et lancé le style en Dominique en 2003. Producteur crédité sur Famalay et Conch Shell.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Famalay'}, {"@type": "MusicRecording", "name": 'Conch Shell'}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -153,13 +207,67 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who started bouyon soca, and in what year?", "According to the first-hand testimony of Sean “Smokiller” Francis, a Dominican-born producer who was present in the rooms with Dada and the Nursery Krew, bouyon soca was coined and started by Dada in Dominica in 2003. The style then became popular when Triple Kay and other bands adopted it in their own version of bouyon."),
-  ("Why do reference works tell a different origin story?", "Because the published references do not agree with each other. One widely copied text describes the term as coined by non-Dominican producers, mainly from Saint Lucia, while the article devoted to bouyon soca places its cultural origins in Dominica in the early 2000s and names producer Dada among those who popularised the style. This site stands on the signed testimony of a direct participant for the fact of origin, and presents it as testimony."),
-  ("Did Dada produce “Famalay” and “Conch Shell”?", "Yes, according to the press and official credits. Ebuzztt presents Dada as the producer behind “Famalay”, by Machel Montano, Skinny Fabulous and Bunji Garlin, the 2019 Road March title of Trinidad and Tobago, whose credits name DadaMuzic and DSM as producers. For “Conch Shell”, by Skinny Fabulous, Machel Montano and Iwer George, the credits name Dadamanufakture as producer."),
-  ("What is the link between Dada, the Nursery Krew and Triple Kay?", "Smokiller testimony places the birth of bouyon soca in 2003 in the rooms shared with Dada and the Nursery Krew, and its spread in the adoption of the style by Triple Kay. The artist biography Dada published points the same way: it credits him with productions for Triple Kay International and with bringing out <a href=\"/en/nursery-krew-inc.html\">Nursery Krew Inc.</a>, with tracks such as “Peanuts” and “Calaloo”."),
-  ("What is Dada “Smoke Riddim”?", "According to Ebuzztt, the “Smoke Riddim” is a hybrid riddim by Dada blending soca and Dominica bouyon. Bunji Garlin sings “Forward” on it and Shurwayne Winchester delivers “Wet Dem Down”. Dada explained that he chose those two artists for their ability to carry big fetes and bring back the energy of fetes as they used to be."),
-  ("Where can I hear bouyon soca by Dada and his generation?", "Start with “Famalay” and “Conch Shell”, the emblem records of the genre, then read our <a href=\"/en/bouyon-soca.html\">bouyon soca</a> page and hear our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, which mixes bouyon, bouyon soca and new Dominican releases followed by Bouyon Shattaz.")
- ],
+  (
+    "Who started bouyon soca, and in what year?",
+    "According to the first-hand testimony of Sean “Smokiller” Francis, a Dominican-born producer who was present in the rooms with Dada and the Nursery Krew, bouyon soca was coined and started by Dada in Dominica in 2003. The style then became popular when Triple Kay and other bands adopted it in their own version of bouyon.",
+  ),
+  (
+    "Why do reference works tell a different origin story?",
+    "Because the published references do not agree with each other. One widely copied text describes the term as coined by non-Dominican producers, mainly from Saint Lucia, while the article devoted to bouyon soca places its cultural origins in Dominica in the early 2000s and names producer Dada among those who popularised the style. This site stands on the signed testimony of a direct participant for the fact of origin, and presents it as testimony.",
+  ),
+  (
+    "Did Dada produce “Famalay” and “Conch Shell”?",
+    "Yes, according to the press and official credits. Ebuzztt presents Dada as the producer behind “Famalay”, by Machel Montano, Skinny Fabulous and Bunji Garlin, the 2019 Road March title of Trinidad and Tobago, whose credits name DadaMuzic and DSM as producers. For “Conch Shell”, by Skinny Fabulous, Machel Montano and Iwer George, the credits name Dadamanufakture as producer.",
+  ),
+  (
+    "What is the link between Dada, the Nursery Krew and Triple Kay?",
+    "Smokiller testimony places the birth of bouyon soca in 2003 in the rooms shared with Dada and the Nursery Krew, and its spread in the adoption of the style by Triple Kay. The artist biography Dada published points the same way: it credits him with productions for Triple Kay International and with bringing out <a href=\"/en/nursery-krew-inc.html\">Nursery Krew Inc.</a>, with tracks such as “Peanuts” and “Calaloo”.",
+  ),
+  (
+    "What is Dada's “Smoke Riddim”?",
+    "According to Ebuzztt, the “Smoke Riddim” is a hybrid riddim by Dada blending soca and Dominica bouyon. Bunji Garlin sings “Forward” on it and Shurwayne Winchester delivers “Wet Dem Down”. Dada explained that he chose those two artists for their ability to carry big fetes and bring back the energy of fetes as they used to be.",
+  ),
+  (
+    "Where can I hear bouyon soca by Dada and his generation?",
+    "Start with “Famalay” and “Conch Shell”, the emblem records of the genre, then play the Bouyon Shattaz <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix</a>, on Spotify and YouTube, which mixes bouyon, bouyon soca, new Dominican releases and carnival classics. To get it by private message, follow @bouyonshattaz on Instagram and comment ROAD MIX under a post.",
+  ),
+  (
+    "Who is Dada?",
+    "Dada is a producer from Dominica, credited by the testimony of Sean “Smokiller” Francis as the man who coined the term bouyon soca and started the style in 2003. His published credits link him to Triple Kay International, to Nursery Krew Inc, then to “Famalay” and “Conch Shell”, the two records the references hold up as emblems of bouyon soca.",
+  ),
+  (
+    "Where is the producer Dada from?",
+    "Dada is from Dominica: he is a Dominican producer who worked in Roseau studios in the early 2000s, in the Nursery Krew circle. The official credits of “Conch Shell” keep a trace of that address: Skinny Fabulous was recorded there at Dadamanufakture, in Dominica. This site does not print his full name, pending direct confirmation.",
+  ),
+  (
+    "What do DadaMuzic and Dadamanufakture mean in the credits?",
+    "They are the two names under which Dada appears in the official credits of his biggest records. On “Famalay”, DadaMuzic is credited as producer with DSM, and alone as mixer. On “Conch Shell”, Dadamanufakture is credited as producer, and the credits state that Skinny Fabulous was recorded at Dadamanufakture, in Dominica. Both point to the same producer.",
+  ),
+  (
+    "Which songs did Dada produce for Triple Kay International?",
+    "According to the artist biography Dada published on Showcase Your Music, he produced tracks such as “All Out”, “Do You Believe” and “Doh Blow My High” for Triple Kay International, and co-produced the party mix “The After Dust” on the band's album “All Out”, released in 2006. This site cites that self published biography with attribution.",
+  ),
+  (
+    "Who taught Dada to produce?",
+    "According to his self published artist biography, Dada was formed in the circle of the <a href=\"/en/bushtown-clan.html\">Bushtown Clan</a>, the dancehall, soca, hip hop and bouyon group of his youth, then moved into production at fifteen, on drum machines, keyboards and above all on computer with FL Studio. The same biography names among his mentors Cornel “Fingers” Phillip, the founding keyboardist of WCK.",
+  ),
+  (
+    "Which soca artists has Dada worked with?",
+    "Beyond “Famalay” and “Conch Shell”, Ebuzztt documents Dada's “Smoke Riddim”, given to <a href=\"/en/bunji-garlin.html\">Bunji Garlin</a> for “Forward” and to Shurwayne Winchester for “Wet Dem Down”. The same article credits him, for the same season, with producing “Look Meh Friend” for Patrice Roberts and with a mix engineer credit on Nadia Batson's “Market”.",
+  ),
+  (
+    "What is the difference between bouyon and the bouyon soca Dada started?",
+    "Bouyon is the genre born in Dominica, with its fast tempo, looping keyboard patterns and heavy synth bass. Bouyon soca, started by Dada in 2003 according to Smokiller's testimony, plugs that rhythm engine into the festive structure of Trinidad and Tobago soca. In Dominica, bouyon always kept a style distinct from soca. See <a href=\"/en/bouyon-soca.html\">bouyon soca</a>.",
+  ),
+  (
+    "Why is bouyon soca also called jump up?",
+    "Some sources refer to the style as jump up soca. In Guadeloupe and Martinique, where bouyon soca became very popular, audiences also know bouyon as jump up. These names describe the same family of sounds, whose origin remains Dominica: the style was started by Dada in 2003, according to the Smokiller testimony published on this site.",
+  ),
+  (
+    "Where did Dada's bouyon soca spread?",
+    "After its start in Dominica in 2003 and its adoption by Triple Kay, bouyon soca also grew in Saint Lucia and Antigua, then became very popular in Guadeloupe and Martinique. Its scenes today cover the Virgin Islands, Saint Vincent and Trinidad and Tobago, where “Famalay”, produced by Dada, was the 2019 Road March title. See <a href=\"/en/history.html\">the history of bouyon</a>.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/dada.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/dada.html#artist", "name": "Dada", "description": "Producer from Dominica. According to the signed testimony of Sean Smokiller Francis, he coined the term bouyon soca and started the style in Dominica in 2003. Producer credited on Famalay and Conch Shell.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Famalay'}, {"@type": "MusicRecording", "name": 'Conch Shell'}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

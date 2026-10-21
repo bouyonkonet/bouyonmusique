@@ -72,13 +72,67 @@ FR = {
   ]
  ],
  "faq": [
-  ("VJ Ben est-il crédité sur le single d'or « Je l'ai vu » ?", "Cela dépend du document. Le clip officiel est titré HOLLY G x ARENDI x VJ BEN, et la biographie de HollyG publiée par Qobuz présente le titre comme une collaboration avec Arendi et VJ Ben. En revanche, le registre officiel du SNEP, qui a certifié le titre single d'or le 10 juillet 2025, ne nomme que HOLLY G & ARENDI, chez Vadore Concept Groupe et Believe. VJ Ben ne figure ni dans la fiche de certification, ni dans les auteurs du générique du clip, signés HollyG et Arendi, avec Dj Flip tha boss à la composition."),
-  ("Quels sont les titres en propre de VJ Ben ?", "Sa page d'artiste Spotify, ouverte pour ce profil, liste notamment « Ti KoKa » (2019), « Yinki ban mwen » et « One Dance » (2020), « Owa'y », « Purple Mood #3 » et « Money Addict » (2021), « Bla bla bla » et « Médicament » (2022), « Mercedes » (2025) et « No Love » (2026), ainsi que les formats longs « Trentenaire mixtape » (2021) et « Shatta vs Bouyon Connexion » (2023), et un « Je l'ai vu (Charles V Remix) » en 2023."),
-  ("VJ Ben est-il chanteur ou DJ ?", "Les deux, selon les sources. Il publie des singles sous son nom depuis 2019, apparaît au générique du clip « Shatta ay » d'Arendi et Magma QLM, et NRJ Antilles le présente en septembre 2026 comme un DJ : la radio a diffusé son set exclusif dans NRJ Beach Party, sa série consacrée aux DJ des Antilles, et relayé son titre « OWA'Y » avec Niko le même mois."),
-  ("D'où vient VJ Ben ?", "Aucune source consultée ne publie sa commune d'origine ni sa biographie. Ce que les données montrent, c'est sa géographie d'écoute : selon Music Metrics Vault, ses premières villes d'auditeurs sont Paris, Les Abymes en Guadeloupe, Fort-de-France en Martinique, Le Lamentin et Lyon, la carte typique d'un artiste des Antilles françaises porté par la diaspora. Ce profil ne transforme pas cette carte d'écoute en lieu de naissance."),
-  ("Quel est le lien entre VJ Ben, Vadore Concept et le Voodoo Studio ?", "« Je l'ai vu », le titre auquel son nom est associé, a été enregistré au Voodoo Studio et produit notamment par Vadore Concept, dont l'héritière Vadore Concept Groupe a publié le single chez Believe. Le clip de « Shatta ay », enregistré dans le même studio, le crédite parmi les personnes qui y apparaissent. VJ Ben est un visage récurrent de ce cercle de production guadeloupéen du bouyon et du shatta."),
-  ("Où écouter VJ Ben ?", "Sur sa page d'artiste Spotify, qui rassemble ses singles de 2019 à 2026, et dans notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, qui mélange bouyon gwada, shatta et nouveautés des Antilles françaises suivies par Bouyon Shattaz. Commencez par « Je l'ai vu » avec HollyG et Arendi, puis « Owa'y » et « No Love ».")
- ],
+  (
+    "Qui est VJ Ben ?",
+    "VJ Ben est un artiste et DJ de la scène bouyon et shatta des Antilles françaises, dont le nom figure en troisième position dans le titre du clip officiel de « Je l’ai vu », avec HollyG et Arendi. Sa page Spotify liste un catalogue en propre de 2019 à 2026. Aucune source consultée ne publie son nom complet, sa date de naissance ni sa biographie.",
+  ),
+  (
+    "VJ Ben est-il crédité sur le single d'or « Je l'ai vu » ?",
+    "Cela dépend du document. Le clip officiel est titré HOLLY G x ARENDI x VJ BEN, et la biographie de HollyG publiée par Qobuz présente le titre comme une collaboration avec Arendi et VJ Ben. En revanche, le registre du SNEP, qui a certifié le titre single d’or le 10 juillet 2025, ne nomme que HOLLY G & ARENDI, et les auteurs du générique sont HollyG et Arendi.",
+  ),
+  (
+    "Qui a produit « Je l'ai vu » de HollyG, Arendi et VJ Ben ?",
+    "Le générique du clip officiel crédite une production réunissant Vadore Concept, Voodoo studio, The best prod et Dj Raptor Martinique. La composition revient à Dj Flip tha boss, l’écriture à HollyG et Arendi, et l’enregistrement au Voodoo Studio, avec Mighty Production au cadrage et Voodoo Production au montage. Le titre est sorti le 22 octobre 2021 chez Vadore Concept Groupe.",
+  ),
+  (
+    "Où a été tourné le clip de « Je l'ai vu » ?",
+    "Selon le générique publié avec le clip officiel, le tournage a eu lieu à Galets Beach, au domaine de la Petite Sucrerie, en Guadeloupe. Les hashtags du clip disent la scène : Bouyon, Guadeloupe, VadoreConcept, VoodooStudio. La vidéo a dépassé les 10 millions de vues sur YouTube, selon la biographie de HollyG publiée par Qobuz. Voir notre page <a href=\"/holly-g.html\">HollyG</a>.",
+  ),
+  (
+    "Combien de vues compte « Je l'ai vu » ?",
+    "Plus de 10 millions de vues sur YouTube, selon la biographie de HollyG publiée par Qobuz et signée Music Story, un compteur rare pour un titre bouyon chanté depuis la Guadeloupe. Le titre a ensuite été certifié single d’or par le SNEP le 10 juillet 2025, soit 15 millions d’équivalents streams en France, trois ans et neuf mois après sa sortie.",
+  ),
+  (
+    "Quels sont les titres en propre de VJ Ben ?",
+    "Sa page d'artiste Spotify liste notamment « Ti KoKa » (2019), « Yinki ban mwen » et « One Dance » (2020), « Owa'y », « Purple Mood #3 » et « Money Addict » (2021), « Bla bla bla » et « Médicament » (2022), « Mercedes » (2025) et « No Love » (2026), ainsi que « Trentenaire mixtape » (2021) et « Shatta vs Bouyon Connexion » (2023).",
+  ),
+  (
+    "Qui chante « Owa'y » avec VJ Ben ?",
+    "« Owa'y » est un single de VJ Ben avec Niko, sorti en 2021 selon sa page Spotify. En septembre 2026, NRJ Antilles l’a relayé avec son clip sous la forme « VJ BEN feat NIKO - OWA'Y », cinq ans après sa sortie. C’est l’un des deux titres de son catalogue que d’autres sources recoupent, signe d’une durée de vie rare pour un titre de soirée.",
+  ),
+  (
+    "Qui est sur « No Love » de VJ Ben ?",
+    "« No Love » est le single de VJ Ben daté de 2026 sur sa page Spotify. La tracklist du mix Sewo Jam 2026 de Digga D le cite sous la forme Dega Youth x VJ Ben, parmi les sélections bouyon de la saison, aux côtés des voix dominicaines et guadeloupéennes du moment. C’est sa trace la plus récente dans les mixes bouyon.",
+  ),
+  (
+    "Existe-t-il un remix de « Je l'ai vu » ?",
+    "Oui. La page Spotify de VJ Ben liste un « Je l'ai vu (Charles V Remix) », sorti en single en 2023, et le remix de Charles V paraît aussi dans la compilation « Shatta vs Bouyon Connexion ». Le titre d’or de 2021 a donc continué à vivre dans le catalogue de l’artiste que le registre du SNEP n’a pas retenu, entre le clip de 2021 et la certification de 2025.",
+  ),
+  (
+    "VJ Ben est-il chanteur ou DJ ?",
+    "Les deux, selon les sources. Il publie des singles sous son nom depuis 2019, apparaît au générique du clip « Shatta ay » d'Arendi et Magma QLM, et NRJ Antilles le présente en septembre 2026 comme un DJ : la radio a diffusé son set exclusif dans NRJ Beach Party, sa série consacrée aux DJ des Antilles, et relayé son titre « OWA'Y » avec Niko le même mois.",
+  ),
+  (
+    "Que veut dire VJ dans VJ Ben ?",
+    "Dans le vocabulaire des soirées antillaises, VJ désigne celui qui anime, parle au micro et enchaîne les titres, à la frontière du DJ et du maître de cérémonie. Le préfixe dit le double métier de VJ Ben : artiste de studio sous son nom depuis 2019, et homme de platines, comme le confirme le set exclusif qu’il a donné à NRJ Antilles en 2026.",
+  ),
+  (
+    "VJ Ben fait-il du bouyon ou du shatta ?",
+    "Les deux scènes à la fois. VJ Ben est actif dans le bouyon et le shatta des Antilles françaises : selon Music Metrics Vault, sa page Spotify porte les étiquettes shatta, zouk et kompa, et son catalogue compte « Shatta vs Bouyon Connexion » en 2023, tandis que son titre majeur, « Je l’ai vu », est un bouyon gwada. Voir notre page <a href=\"/shatta-bouyon.html\">shatta et bouyon</a>.",
+  ),
+  (
+    "D'où vient VJ Ben ?",
+    "Aucune source consultée ne publie sa commune d'origine ni sa biographie. Ce que les données montrent, c'est sa géographie d'écoute : selon Music Metrics Vault, ses premières villes d'auditeurs sont Paris, Les Abymes en Guadeloupe, Fort-de-France en Martinique, Le Lamentin et Lyon, la carte typique d'un artiste des Antilles françaises porté par la diaspora. Ce profil ne transforme pas cette carte d'écoute en lieu de naissance.",
+  ),
+  (
+    "Quel est le lien entre VJ Ben, Vadore Concept et le Voodoo Studio ?",
+    "« Je l'ai vu », le titre auquel son nom est associé, a été enregistré au Voodoo Studio et produit notamment par Vadore Concept, et c’est Vadore Concept Groupe qui a publié le single chez Believe. Le clip de « Shatta ay », enregistré dans le même studio, le crédite parmi les personnes qui y apparaissent. VJ Ben est un visage récurrent de ce cercle de production guadeloupéen.",
+  ),
+  (
+    "Où écouter VJ Ben ?",
+    "Sur sa page d'artiste Spotify, qui rassemble ses singles de 2019 à 2026 : commencez par « Je l'ai vu » avec HollyG et Arendi, puis « Owa'y » et « No Love ». Pour la scène qui l’entoure, notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> Road Mix de Bouyon Shattaz réunit nouveautés de la Dominique, de la Guadeloupe et de la Martinique, et classiques du carnaval.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/vj-ben.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/vj-ben.html#artist", "name": "VJ Ben", "description": "Artiste bouyon et shatta et DJ des Antilles françaises. Nom associé au clip officiel de Je l'ai vu de HollyG et Arendi (2021), certifié single d'or par le SNEP en 2025 sous les noms de Holly G et Arendi. Catalogue Spotify en propre de 2019 à 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Je l'ai vu"}, {"@type": "MusicRecording", "name": "Owa'y"}, {"@type": "MusicRecording", "name": "No Love"}, {"@type": "MusicRecording", "name": "Bla bla bla"}, {"@type": "MusicRecording", "name": "Ti KoKa"}, {"@type": "MusicRecording", "name": "Yinki ban mwen"}, {"@type": "MusicRecording", "name": "Médicament"}, {"@type": "MusicRecording", "name": "One Dance"}, {"@type": "MusicRecording", "name": "Purple Mood #3"}, {"@type": "MusicRecording", "name": "Money Addict"}, {"@type": "MusicRecording", "name": "Mercedes"}, {"@type": "MusicRecording", "name": "Je l'ai vu (Charles V Remix)"}], "sameAs": ["https://open.spotify.com/artist/2O9VQiT2acYaA9JIMybpaV"]}}],
  "date_modified": "2026-10-20"
 }
@@ -144,13 +198,67 @@ EN = {
   ]
  ],
  "faq": [
-  ("Is VJ Ben credited on the gold single “Je l'ai vu”?", "It depends on the document. The official video is titled HOLLY G x ARENDI x VJ BEN, and the HollyG biography published by Qobuz presents the track as a collaboration with Arendi and VJ Ben. On the other hand, the official SNEP register, which certified the track gold single on 10 July 2025, names only HOLLY G & ARENDI, on Vadore Concept Groupe and Believe. VJ Ben appears neither in the certification entry, nor among the writers in the video credits, which name HollyG and Arendi, with Dj Flip tha boss as composer."),
-  ("What are the tracks under the name of VJ Ben?", "His Spotify artist page, opened for this profile, lists among others “Ti KoKa” (2019), “Yinki ban mwen” and “One Dance” (2020), “Owa'y”, “Purple Mood #3” and “Money Addict” (2021), “Bla bla bla” and “Médicament” (2022), “Mercedes” (2025) and “No Love” (2026), as well as the long formats “Trentenaire mixtape” (2021) and “Shatta vs Bouyon Connexion” (2023), and a “Je l'ai vu (Charles V Remix)” in 2023."),
-  ("Is VJ Ben a singer or a DJ?", "Both, according to the sources. He has released singles under his own name since 2019, he is credited among the people appearing in the “Shatta ay” video by Arendi and Magma QLM, and NRJ Antilles presented him in September 2026 as a DJ: the station aired his exclusive set on NRJ Beach Party, its series devoted to Antilles DJs, and carried his track “OWA'Y” with Niko the same month."),
-  ("Where does VJ Ben come from?", "No source consulted publishes his home commune or his biography. What the data show is his listening geography: according to Music Metrics Vault, his top listener cities are Paris, Les Abymes in Guadeloupe, Fort-de-France in Martinique, Le Lamentin and Lyon, the typical map of a French Antilles artist carried by the diaspora. This profile does not turn that listening map into a birthplace."),
-  ("What is the link between VJ Ben, Vadore Concept and Voodoo Studio?", "“Je l'ai vu”, the track his name is associated with, was recorded at Voodoo Studio and produced among others by Vadore Concept, whose successor Vadore Concept Groupe released the single through Believe. The “Shatta ay” video, recorded in the same studio, credits him among the people appearing in it. VJ Ben is a recurring face of that Guadeloupe production circle of bouyon and shatta."),
-  ("Where can I hear VJ Ben?", "On his Spotify artist page, which gathers his singles from 2019 to 2026, and in our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, which mixes bouyon gwada, shatta and new releases from the French Antilles followed by Bouyon Shattaz. Start with “Je l'ai vu” with HollyG and Arendi, then “Owa'y” and “No Love”.")
- ],
+  (
+    "Who is VJ Ben?",
+    "VJ Ben is an artist and DJ of the bouyon and shatta scene of the French Antilles, whose name stands third in the title of the official video of “Je l'ai vu”, with HollyG and Arendi. His Spotify page lists a catalogue under his own name from 2019 to 2026. No source consulted publishes his full name, his date of birth or a biography.",
+  ),
+  (
+    "Is VJ Ben credited on the gold single “Je l'ai vu”?",
+    "It depends on the document. The official video is titled HOLLY G x ARENDI x VJ BEN, and the HollyG biography published by Qobuz presents the track as a collaboration with Arendi and VJ Ben. On the other hand, the SNEP register, which certified the track gold single on 10 July 2025, names only HOLLY G & ARENDI, and the writers in the video credits are HollyG and Arendi.",
+  ),
+  (
+    "Who produced “Je l'ai vu” by HollyG, Arendi and VJ Ben?",
+    "The credits of the official video name a production bringing together Vadore Concept, Voodoo studio, The best prod and Dj Raptor Martinique. Composition goes to Dj Flip tha boss, writing to HollyG and Arendi, and recording to Voodoo Studio, with Mighty Production on camera and Voodoo Production on editing. The track was released on 22 October 2021 by Vadore Concept Groupe.",
+  ),
+  (
+    "Where was the “Je l'ai vu” video filmed?",
+    "According to the credits published with the official video, it was filmed at Galets Beach, at the Domaine de la petite sucrerie, in Guadeloupe. The video hashtags state the scene: Bouyon, Guadeloupe, VadoreConcept, VoodooStudio. The video passed 10 million views on YouTube, according to the HollyG biography published by Qobuz. See our <a href=\"/en/holly-g.html\">HollyG</a> page.",
+  ),
+  (
+    "How many views does “Je l'ai vu” have?",
+    "Over 10 million views on YouTube, according to the HollyG biography published by Qobuz and credited to Music Story, a rare counter for a bouyon track sung from Guadeloupe. The track was then certified gold single by SNEP on 10 July 2025, which means 15 million stream equivalents in France, three years and nine months after its release.",
+  ),
+  (
+    "What are the tracks under the name of VJ Ben?",
+    "His Spotify artist page lists among others “Ti KoKa” (2019), “Yinki ban mwen” and “One Dance” (2020), “Owa'y”, “Purple Mood #3” and “Money Addict” (2021), “Bla bla bla” and “Médicament” (2022), “Mercedes” (2025) and “No Love” (2026), as well as “Trentenaire mixtape” (2021) and “Shatta vs Bouyon Connexion” (2023).",
+  ),
+  (
+    "Who sings “Owa'y” with VJ Ben?",
+    "“Owa'y” is a VJ Ben single with Niko, released in 2021 according to his Spotify page. In September 2026, NRJ Antilles carried it with its video as “VJ BEN feat NIKO - OWA'Y”, five years after its release. It is one of the two tracks of his catalogue confirmed by other sources, a sign of a lifespan party records rarely have.",
+  ),
+  (
+    "Who is on VJ Ben’s “No Love”?",
+    "“No Love” is the VJ Ben single dated 2026 on his Spotify page. The tracklist of the Digga D mix Sewo Jam 2026 lists it as Dega Youth x VJ Ben, among the bouyon selections of the season, alongside the Dominican and Guadeloupe voices of the moment. It is his most recent trace in the bouyon mixes.",
+  ),
+  (
+    "Is there a remix of “Je l'ai vu”?",
+    "Yes. The Spotify page of VJ Ben lists a “Je l'ai vu (Charles V Remix)”, released as a single in 2023, and the Charles V remix also appears on the “Shatta vs Bouyon Connexion” compilation. The 2021 gold track therefore kept living in the catalogue of the artist the SNEP register did not keep, between the 2021 video and the 2025 certification.",
+  ),
+  (
+    "Is VJ Ben a singer or a DJ?",
+    "Both, according to the sources. He has released singles under his own name since 2019, he is credited among the people appearing in the “Shatta ay” video by Arendi and Magma QLM, and NRJ Antilles presented him in September 2026 as a DJ: the station aired his exclusive set on NRJ Beach Party, its series devoted to Antilles DJs, and carried his track “OWA'Y” with Niko the same month.",
+  ),
+  (
+    "What does VJ mean in VJ Ben?",
+    "In the vocabulary of Antillean parties, VJ names the person who hosts, speaks on the microphone and chains the tracks, on the border between DJ and master of ceremonies. The prefix states the double trade of VJ Ben: recording artist under his own name since 2019, and decks man, as the exclusive set he gave NRJ Antilles in 2026 confirms.",
+  ),
+  (
+    "Does VJ Ben make bouyon or shatta?",
+    "Both scenes at once. VJ Ben is active in the bouyon and shatta of the French Antilles: according to Music Metrics Vault, his Spotify page carries the tags shatta, zouk and kompa, and his catalogue includes “Shatta vs Bouyon Connexion” in 2023, while his major track, “Je l'ai vu”, is bouyon gwada. See our <a href=\"/en/shatta-bouyon.html\">shatta and bouyon</a> page.",
+  ),
+  (
+    "Where does VJ Ben come from?",
+    "No source consulted publishes his home commune or his biography. What the data show is his listening geography: according to Music Metrics Vault, his top listener cities are Paris, Les Abymes in Guadeloupe, Fort-de-France in Martinique, Le Lamentin and Lyon, the typical map of a French Antilles artist carried by the diaspora. This profile does not turn that listening map into a birthplace.",
+  ),
+  (
+    "What is the link between VJ Ben, Vadore Concept and Voodoo Studio?",
+    "“Je l'ai vu”, the track his name is associated with, was recorded at Voodoo Studio and produced among others by Vadore Concept, and it was Vadore Concept Groupe that released the single through Believe. The “Shatta ay” video, recorded in the same studio, credits him among the people appearing in it. VJ Ben is a recurring face of that Guadeloupe production circle.",
+  ),
+  (
+    "Where can I hear VJ Ben?",
+    "On his Spotify artist page, which gathers his singles from 2019 to 2026: start with “Je l'ai vu” with HollyG and Arendi, then “Owa'y” and “No Love”. For the scene around him, our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, the Road Mix by Bouyon Shattaz, gathers new releases from Dominica, Guadeloupe and Martinique, and carnival classics.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/vj-ben.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/vj-ben.html#artist", "name": "VJ Ben", "description": "Bouyon and shatta artist and DJ from the French Antilles. Name associated with the official video of Je l'ai vu by HollyG and Arendi (2021), certified gold single by SNEP in 2025 under the names of Holly G and Arendi. Spotify catalogue under his own name from 2019 to 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Je l'ai vu"}, {"@type": "MusicRecording", "name": "Owa'y"}, {"@type": "MusicRecording", "name": "No Love"}, {"@type": "MusicRecording", "name": "Bla bla bla"}, {"@type": "MusicRecording", "name": "Ti KoKa"}, {"@type": "MusicRecording", "name": "Yinki ban mwen"}, {"@type": "MusicRecording", "name": "Médicament"}, {"@type": "MusicRecording", "name": "One Dance"}, {"@type": "MusicRecording", "name": "Purple Mood #3"}, {"@type": "MusicRecording", "name": "Money Addict"}, {"@type": "MusicRecording", "name": "Mercedes"}, {"@type": "MusicRecording", "name": "Je l'ai vu (Charles V Remix)"}], "sameAs": ["https://open.spotify.com/artist/2O9VQiT2acYaA9JIMybpaV"]}}],
  "date_modified": "2026-10-20"
 }

@@ -59,13 +59,51 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Freddy, l’artiste bouyon ?", "Freddy est un artiste bouyon de la scène de la Dominique, crédité sous ce seul nom. Ses apparitions vérifiées sont trois titres en collaboration dans des mixes de DJ, « Fall In De Trap » avec Trixx et Beevo, « Your Friend » avec Quan et Litle Boy et le medley « Nasty Freestyle » avec Litleboy, Gwada G, Trixx et Niice, et deux affiches de 2025 : le Bouyon Day officiel de Roseau et le premier festival bouyon de Saint-Martin. Aucune biographie ni aucun nom complet ne sont publiés dans les sources ouvertes pour ce profil."),
-  ("Quels sont les titres vérifiés de Freddy ?", "Trois titres, tous documentés par des tracklists de mixes : « Fall In De Trap », crédité à Trixx, Freddy et Beevo dans l’épisode Bouyon Passport 2026 du podcast Dj Close Connections, le 4 février 2026 ; « Your Friend », crédité à Quan et Litle Boy avec Freddy en featuring dans la sélection pré-carnaval du DJWILLYWONKA FACTORY ; et « Nasty Freestyle Medley », où une tracklist du podcast Blaqrose Supreme crédite Litleboy avec Gwada G, Trixx, Freddy et Niice. Aucun titre en solo n’a été trouvé."),
-  ("Freddy a-t-il joué au Bouyon Day 2025 de la Dominique ?", "Oui, selon la source officielle : le communiqué de la Discover Dominica Authority du 24 février 2025, qui annonce Bouyon in de Streets le 25 février 2025 sur Hanover Street à Roseau, liste Freddy parmi les artistes programmés, aux côtés d’Asa Bantan, Litle Boy, Quan, Reo, Kenny G et TK International. C’est un fait de scène publié par l’autorité du tourisme de la Dominique, et c’est le type de preuve que les profils basés sur les seules plateformes ne voient pas."),
-  ("Freddy a-t-il joué à Saint-Martin ?", "Oui, selon le compte rendu publié par Black Island Girl Multimedia le 12 mai 2025 : le Strictly the Best Festival, édition bouyon, organisé par Two Brothers Entertainment à Lotterie Farm, premier festival entièrement dédié au bouyon à Saint-Martin avec plus de 5 000 spectateurs, comptait Freddy parmi ses artistes, avec Pudaz, Litle Boy, Reo, Trilla G, Trixx, Khallion et Edday, et Mr Ridge en clôture."),
-  ("Ce Freddy est-il Trapboy Freddy ou un autre artiste connu du même nom ?", "Non, et ce profil tient à le dire clairement, parce que la confusion est le risque principal de ce dossier. Trapboy Freddy est un rappeur américain, Freddie Mercury était un chanteur britannique, et aucun d’eux n’a de rapport avec le bouyon de la Dominique. Le Freddy de cette page est uniquement l’artiste crédité sous ce nom dans les tracklists et les affiches du bouyon dominicain citées ici ; aucune information d’un homonyme n’est utilisée dans ce profil."),
-  ("Où écouter Freddy ?", "Dans les mixes qui documentent ses titres : l’épisode Bouyon Passport 2026 du podcast Dj Close Connections, pour « Fall In De Trap » et « Nasty Freestyle », et la sélection pré-carnaval du DJWILLYWONKA FACTORY, pour « Your Friend ». Aucune page d’artiste commerciale de Freddy n’a été trouvée sur les plateformes consultées pour ce profil ; notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> suit le reste de la scène de la Dominique à laquelle ses crédits le rattachent.")
- ],
+  (
+    "Qui est Freddy, l’artiste bouyon ?",
+    "Freddy est un artiste bouyon de la scène de la Dominique, crédité sous ce seul nom. Ses apparitions vérifiées sont trois titres en collaboration dans des mixes de DJ, dont « Fall In De Trap » avec Trixx et Beevo, et deux affiches de 2025 : le Bouyon Day officiel de Roseau et le premier festival bouyon de Saint-Martin. Aucune biographie ni aucun nom complet ne sont publiés dans les sources ouvertes pour ce profil.",
+  ),
+  (
+    "D’où vient Freddy ?",
+    "Freddy appartient à la scène bouyon de la Dominique : toutes ses apparitions documentées, les mixes de la scène dominicaine et les affiches de 2025, le placent sur ce circuit, de Hanover Street à Roseau jusqu’au festival de Saint-Martin où il figurait parmi les artistes de la scène. Aucune source ne publie en revanche son lieu de naissance, et ce profil n’en imprime donc aucun.",
+  ),
+  (
+    "Quels sont les titres vérifiés de Freddy ?",
+    "Trois titres, tous documentés par des tracklists de mixes : « Fall In De Trap », crédité à Trixx, Freddy et Beevo dans l’épisode Bouyon Passport 2026 du podcast Dj Close Connections, le 4 février 2026 ; « Your Friend », crédité à Quan et Litle Boy avec Freddy en featuring dans la sélection pré-carnaval du DJWILLYWONKA FACTORY ; et « Nasty Freestyle Medley », où une tracklist du podcast Blaqrose Supreme crédite Litleboy avec Gwada G, Trixx, Freddy et Niice.",
+  ),
+  (
+    "Qui chante « Fall In De Trap » ?",
+    "« Fall In De Trap » est crédité à Trixx, Freddy et Beevo, dans cet ordre, dans l’épisode Bouyon Passport 2026 du podcast Dj Close Connections publié le 4 février 2026. Le mix le place parmi les titres dominicains du moment, à côté de Shelly, Trilla G, Reo et Tehilah. Aucune date de sortie commerciale, aucun label ni aucun crédit de production n’ont été trouvés pour ce titre.",
+  ),
+  (
+    "Avec qui Freddy chante-t-il sur « Your Friend » ?",
+    "Sur « Your Friend », Freddy est l’invité de Quan et Litle Boy : la tracklist de la sélection pré-carnaval du DJWILLYWONKA FACTORY crédite le titre « Quan x Litle Boy ft Freddy ». Ce mix construit autour de la scène de la Dominique aligne aussi Ridge, Trilla G, Reo, Asa Bantan, Signal Band et Kenny G, soit le répertoire dominicain d’avant carnaval.",
+  ),
+  (
+    "Qu’est-ce que le « Nasty Freestyle Medley » avec Freddy ?",
+    "C’est un medley collectif où plusieurs voix se partagent un même rythme en freestyle. La tracklist du podcast Blaqrose Supreme le crédite à Litleboy avec Gwada G, Trixx, Freddy et Niice ; celle du Bouyon Passport 2026 de Dj Close Connections l’écrit « Nasty Frestyle » et tronque la ligne. Les deux sources s’accordent sur la présence de Freddy.",
+  ),
+  (
+    "Avec quels artistes Freddy a-t-il collaboré ?",
+    "Les crédits de Freddy l’entourent du cœur de la scène dominicaine actuelle : <a href=\"/trixx.html\">Trixx</a>, présent sur deux de ses trois titres, Beevo sur « Fall In De Trap », Quan et Litle Boy sur « Your Friend », Gwada G et Niice sur le « Nasty Freestyle Medley ». Sur scène en 2025, il a partagé les affiches de Reo, Asa Bantan, Kenny G, Trilla G et Mr Ridge.",
+  ),
+  (
+    "Freddy a-t-il joué au Bouyon Day 2025 de la Dominique ?",
+    "Oui, selon la source officielle : le communiqué de la Discover Dominica Authority du 24 février 2025, qui annonce Bouyon in de Streets le 25 février 2025 sur Hanover Street à Roseau, liste Freddy parmi les artistes programmés, aux côtés d’Asa Bantan, Litle Boy, Quan, Reo, Kenny G et TK International. C’est un fait de scène publié par l’autorité du tourisme de la Dominique, et c’est le type de preuve que les profils basés sur les seules plateformes ne voient pas.",
+  ),
+  (
+    "Freddy a-t-il joué à Saint-Martin ?",
+    "Oui, selon le compte rendu publié par Black Island Girl Multimedia le 12 mai 2025 : le Strictly the Best Festival, édition bouyon, organisé par Two Brothers Entertainment à Lotterie Farm, premier festival entièrement dédié au bouyon à Saint-Martin avec plus de 5 000 spectateurs, comptait Freddy parmi ses artistes, avec Pudaz, Litle Boy, Reo, Trilla G, Trixx, Khallion et Edday, et Mr Ridge en clôture.",
+  ),
+  (
+    "Ce Freddy est-il Trapboy Freddy ou un autre artiste connu du même nom ?",
+    "Non, et ce profil tient à le dire clairement, parce que la confusion est le risque principal de ce dossier. Trapboy Freddy est un rappeur américain, Freddie Mercury était un chanteur britannique, et aucun d’eux n’a de rapport avec le bouyon de la Dominique. Le Freddy de cette page est uniquement l’artiste crédité sous ce nom dans les tracklists et les affiches du bouyon dominicain citées ici ; aucune information d’un homonyme n’est utilisée dans ce profil.",
+  ),
+  (
+    "Où écouter Freddy ?",
+    "Dans les mixes qui documentent ses titres : l’épisode Bouyon Passport 2026 du podcast Dj Close Connections, pour « Fall In De Trap » et « Nasty Freestyle », et la sélection pré-carnaval du DJWILLYWONKA FACTORY, pour « Your Friend ». Aucune page d’artiste commerciale de Freddy n’a été trouvée ; notre <a href=\"/playlist-bouyon.html\">playlist Bouyon Road Mix</a> suit le reste de la scène de la Dominique à laquelle ses crédits le rattachent.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/freddy.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/freddy.html#artist", "name": "Freddy", "description": "Artiste bouyon de la scène de la Dominique, crédité sur Fall In De Trap avec Trixx et Beevo, sur Your Friend avec Quan et Litle Boy, et dans le medley Nasty Freestyle. Programmé au Bouyon Day 2025 de la Discover Dominica Authority à Roseau et au premier festival bouyon de Saint-Martin en 2025. Aucun nom complet ni biographie documentés dans le dossier public ouvert pour ce profil.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Fall In De Trap"}, {"@type": "MusicRecording", "name": "Your Friend"}, {"@type": "MusicRecording", "name": "Nasty Freestyle Medley"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -123,13 +161,51 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Freddy, the bouyon artist?", "Freddy is a bouyon artist of the Dominica scene, credited under that single name. His verified appearances are three collaboration tracks in DJ mixes, “Fall In De Trap” with Trixx and Beevo, “Your Friend” with Quan and Litle Boy and the “Nasty Freestyle” medley with Litleboy, Gwada G, Trixx and Niice, and two bills of 2025: the official Bouyon Day in Roseau and the first bouyon festival in St. Maarten. No biography and no full name are published in the sources opened for this profile."),
-  ("What are the verified tracks of Freddy?", "Three tracks, all documented by mix tracklists: “Fall In De Trap”, credited to Trixx, Freddy and Beevo in the Bouyon Passport 2026 episode of the Dj Close Connections podcast, on 4 February 2026; “Your Friend”, credited to Quan and Litle Boy with Freddy featured in the pre-carnival selection of the DJWILLYWONKA FACTORY; and “Nasty Freestyle Medley”, where a Blaqrose Supreme podcast tracklist credits Litleboy featuring Gwada G, Trixx, Freddy and Niice. No solo track was found."),
-  ("Did Freddy play Dominica Bouyon Day 2025?", "Yes, according to the official source: the press release of the Discover Dominica Authority of 24 February 2025, announcing Bouyon in de Streets on 25 February 2025 on Hanover Street in Roseau, lists Freddy among the booked artists, alongside Asa Bantan, Litle Boy, Quan, Reo, Kenny G and TK International. It is a stage fact published by the tourism authority of Dominica, and it is the kind of evidence that platform only profiles do not see."),
-  ("Did Freddy play in St. Maarten?", "Yes, according to the report published by Black Island Girl Multimedia on 12 May 2025: the Strictly the Best Festival, Bouyon Edition, organised by Two Brothers Entertainment at Lotterie Farm, the first festival entirely dedicated to bouyon in St. Maarten with more than 5,000 spectators, counted Freddy among its artists, with Pudaz, Litle Boy, Reo, Trilla G, Trixx, Khallion and Edday, and Mr Ridge closing."),
-  ("Is this Freddy Trapboy Freddy or another known artist of the same name?", "No, and this profile is keen to say it clearly, because confusion is the main risk of this record. Trapboy Freddy is an American rapper, Freddie Mercury was a British singer, and neither has any connection with the bouyon of Dominica. The Freddy of this page is only the artist credited under that name in the Dominican bouyon tracklists and bills cited here; no information from a namesake is used in this profile."),
-  ("Where can I hear Freddy?", "In the mixes that document his tracks: the Bouyon Passport 2026 episode of the Dj Close Connections podcast, for “Fall In De Trap” and “Nasty Freestyle”, and the pre-carnival selection of the DJWILLYWONKA FACTORY, for “Your Friend”. No commercial artist page of Freddy was found on the platforms consulted for this profile; our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> follows the rest of the Dominica scene to which his credits attach him.")
- ],
+  (
+    "Who is Freddy, the bouyon artist?",
+    "Freddy is a bouyon artist of the Dominica scene, credited under that single name. His verified appearances are three collaboration tracks in DJ mixes, including “Fall In De Trap” with Trixx and Beevo, and two bills of 2025: the official Bouyon Day in Roseau and the first bouyon festival in St. Maarten. No biography and no full name are published in the sources opened for this profile.",
+  ),
+  (
+    "Where is Freddy from?",
+    "Freddy belongs to the Dominica bouyon scene: all his documented appearances, the Dominican scene mixes and the 2025 bills, place him on that circuit, from Hanover Street in Roseau to the St. Maarten festival where he was billed among the artists of the scene. No source, however, publishes his birthplace, so this profile prints none.",
+  ),
+  (
+    "What are the verified tracks of Freddy?",
+    "Three tracks, all documented by mix tracklists: “Fall In De Trap”, credited to Trixx, Freddy and Beevo in the Bouyon Passport 2026 episode of the Dj Close Connections podcast, on 4 February 2026; “Your Friend”, credited to Quan and Litle Boy with Freddy featured in the pre-carnival selection of the DJWILLYWONKA FACTORY; and “Nasty Freestyle Medley”, where a Blaqrose Supreme podcast tracklist credits Litleboy featuring Gwada G, Trixx, Freddy and Niice.",
+  ),
+  (
+    "Who sings “Fall In De Trap”?",
+    "“Fall In De Trap” is credited to Trixx, Freddy and Beevo, in that order, in the Bouyon Passport 2026 episode of the Dj Close Connections podcast published on 4 February 2026. The mix places it among the Dominican tracks of the moment, next to Shelly, Trilla G, Reo and Tehilah. No commercial release date, label or production credit was found for the track.",
+  ),
+  (
+    "Who does Freddy sing with on “Your Friend”?",
+    "On “Your Friend”, Freddy is the guest of Quan and Litle Boy: the tracklist of the DJWILLYWONKA FACTORY pre-carnival selection credits the track “Quan x Litle Boy ft Freddy”. That mix, built around the Dominica scene, also lines up Ridge, Trilla G, Reo, Asa Bantan, Signal Band and Kenny G, the Dominican repertoire before carnival.",
+  ),
+  (
+    "What is the “Nasty Freestyle Medley” with Freddy?",
+    "It is a collective medley where several voices share one rhythm in freestyle. The Blaqrose Supreme podcast tracklist credits it to Litleboy featuring Gwada G, Trixx, Freddy and Niice; the Dj Close Connections Bouyon Passport 2026 list spells it “Nasty Frestyle” and truncates the line. Both sources agree that Freddy is on it.",
+  ),
+  (
+    "Who has Freddy collaborated with?",
+    "Freddy credits surround him with the core of the current Dominican scene: <a href=\"/en/trixx.html\">Trixx</a>, on two of his three tracks, Beevo on “Fall In De Trap”, Quan and Litle Boy on “Your Friend”, Gwada G and Niice on the “Nasty Freestyle Medley”. On stage in 2025, he shared bills with Reo, Asa Bantan, Kenny G, Trilla G and Mr Ridge.",
+  ),
+  (
+    "Did Freddy play Dominica Bouyon Day 2025?",
+    "Yes, according to the official source: the press release of the Discover Dominica Authority of 24 February 2025, announcing Bouyon in de Streets on 25 February 2025 on Hanover Street in Roseau, lists Freddy among the booked artists, alongside Asa Bantan, Litle Boy, Quan, Reo, Kenny G and TK International. It is a stage fact published by the tourism authority of Dominica, and it is the kind of evidence that platform only profiles do not see.",
+  ),
+  (
+    "Did Freddy play in St. Maarten?",
+    "Yes, according to the report published by Black Island Girl Multimedia on 12 May 2025: the Strictly the Best Festival, Bouyon Edition, organised by Two Brothers Entertainment at Lotterie Farm, the first festival entirely dedicated to bouyon in St. Maarten with more than 5,000 spectators, counted Freddy among its artists, with Pudaz, Litle Boy, Reo, Trilla G, Trixx, Khallion and Edday, and Mr Ridge closing.",
+  ),
+  (
+    "Is this Freddy Trapboy Freddy or another known artist of the same name?",
+    "No, and this profile is keen to say it clearly, because confusion is the main risk of this record. Trapboy Freddy is an American rapper, Freddie Mercury was a British singer, and neither has any connection with the bouyon of Dominica. The Freddy of this page is only the artist credited under that name in the Dominican bouyon tracklists and bills cited here; no information from a namesake is used in this profile.",
+  ),
+  (
+    "Where can I hear Freddy?",
+    "In the mixes that document his tracks: the Bouyon Passport 2026 episode of the Dj Close Connections podcast, for “Fall In De Trap” and “Nasty Freestyle”, and the pre-carnival selection of the DJWILLYWONKA FACTORY, for “Your Friend”. No commercial artist page of Freddy was found; our <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix playlist</a> follows the rest of the Dominica scene to which his credits attach him.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/freddy.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/freddy.html#artist", "name": "Freddy", "description": "Bouyon artist of the Dominica scene, credited on Fall In De Trap with Trixx and Beevo, on Your Friend with Quan and Litle Boy, and in the Nasty Freestyle medley. Billed at Bouyon Day 2025 of the Discover Dominica Authority in Roseau and at the first bouyon festival in St. Maarten in 2025. No full name or biography documented in the public record opened for this profile.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Fall In De Trap"}, {"@type": "MusicRecording", "name": "Your Friend"}, {"@type": "MusicRecording", "name": "Nasty Freestyle Medley"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

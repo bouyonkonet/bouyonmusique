@@ -77,13 +77,59 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Chronic Law ?", "Chronic Law est le nom de scène d Akeeme Campbell, artiste dancehall jamaïcain originaire de St. Thomas, dans l est de la Jamaïque, membre du collectif 6ix basé à Montego Bay. Shazam donne sa naissance le 17 décembre 1993 et son genre comme Modern Dancehall. DancehallMag précise que ses pages officielles le présentent aussi sous les noms de 1Law et Lawboss."),
-  ("Chronic Law est-il un artiste bouyon ?", "Non. Son genre documenté est le dancehall moderne jamaïcain, et aucune source consultée ne lui connaît de titre bouyon. Sa présence sur ce site tient à une collaboration : le single Asphalt, paru le 27 mai 2026 avec Kkrytical, artiste dancehall documenté sur ce site, dont il partage les voix et l écriture selon la fiche Shazam du titre."),
-  ("Quel est le plus gros titre de Chronic Law ?", "Deux réponses selon la mesure. En nom principal, Empty, publié le 23 juin 2022 selon Shazam, que World Music Views a mesuré comme le titre le plus écouté de tous les temps sur YouTube Jamaica, devant Protocol de Skeng. Toutes voix confondues, St. Thomas Native, de Popcaan avec Chronic Law en featuring, est le titre le plus identifié de sa page Shazam, avec environ 240 000 identifications relevées lors de la recherche."),
-  ("Qu est-ce que le collectif 6ix dont fait partie Chronic Law ?", "Un collectif dancehall basé à Montego Bay, à l ouest de la Jamaïque. Shazam et DancehallMag présentent Chronic Law comme un de ses membres, et le profil de 2019 de DancehallReggaeWorld précise que l équipe 6ix est menée par Squash. Cette appartenance explique sa très large audience dans la paroisse de St. James, loin de son St. Thomas natal, dans l est."),
-  ("Qu est-ce que le titre Asphalt ?", "Un single de Kkrytical et Chronic Law, publié le 27 mai 2026 selon sa fiche Shazam. Les crédits complets y figurent : les deux artistes aux voix, Ronald Longmore et Akeeme Campbell à l écriture, Topranks Ent et Mr. Chin à la production. Kaboom Magazine cite Asphalt parmi les titres qui ont construit la reconnaissance de Kkrytical, aux côtés de Loyalty, Hustla et 7.62."),
-  ("Qu est-ce que l EP I.C.E. de Chronic Law ?", "Un projet construit avec le producteur Notnice, dont le titre développé est Inside, Cold, and Empty. Le compte rendu de Hunnypot Unlimited le décrit comme un disque de neuf titres, produit en grande partie par Notnice et écrit au sortir d une détention de 73 jours dans un centre de rétention migratoire aux États Unis. Ses titres cités par le compte rendu incluent Like Samson, Prayer Work, Tree Limb, Ride or Die, Pain Pt. 2, It s Hard et If A Neva God.")
- ],
+  (
+    "Qui est Chronic Law ?",
+    "Chronic Law est le nom de scène d’Akeeme Campbell, artiste dancehall jamaïcain originaire de St. Thomas, dans l’est de la Jamaïque, membre du collectif 6ix basé à Montego Bay. Shazam donne sa naissance le 17 décembre 1993 et son genre comme Modern Dancehall. DancehallMag précise que ses pages officielles le présentent aussi sous les noms de 1Law et Lawboss.",
+  ),
+  (
+    "Quel est le vrai nom de Chronic Law ?",
+    "Chronic Law s’appelle Akeeme Campbell, l’orthographe des crédits d’auteur de Shazam et de DancehallMag. Un profil de DancehallReggaeWorld publié en février 2019 écrit Ackeme, sans le deuxième e : les deux graphies désignent le même homme. Ses pages officielles le présentent aussi comme 1Law et Lawboss, souvent écrit Law Boss, des alias du même deejay et non d’autres artistes.",
+  ),
+  (
+    "D’où vient Chronic Law ?",
+    "Chronic Law vient de St. Thomas, dans l’est de la Jamaïque, selon Shazam et DancehallMag, et son titre « St. Thomas Native » avec Popcaan nomme sa paroisse. Le profil de 2019 précise la ville, Yallahs, et son école, la Morant Bay High School, mais le dit aussi de Portland quelques lignes plus loin : ce profil retient St. Thomas et signale cette mention comme une erreur interne.",
+  ),
+  (
+    "Chronic Law est-il un artiste bouyon ?",
+    "Non. Son genre documenté est le dancehall moderne jamaïcain, et aucune source consultée ne lui connaît de titre bouyon. Sa présence sur ce site tient à une collaboration : le single « Asphalt », paru le 27 mai 2026 avec Kkrytical, artiste dancehall documenté sur ce site, dont il partage les voix et l’écriture selon la fiche Shazam du titre.",
+  ),
+  (
+    "Quel a été le premier titre de Chronic Law ?",
+    "Selon le profil de DancehallReggaeWorld de février 2019, son premier enregistrement date de 2009 : « War Dem A Ask fah », un titre dancehall hardcore produit par Sting G Music Ltd sur le Cemetary Riddim. Cette trace n’a pas été retrouvée sur les fiches de plateformes ouvertes, et elle est donc citée au niveau de sa source. Le public le découvre près de dix ans plus tard, en 2018.",
+  ),
+  (
+    "Quel titre a lancé la carrière de Chronic Law ?",
+    "« Government », sorti en septembre 2018, produit par Cashflow Rinse et KevStar Records, décrit par le profil de 2019 comme un succès immédiat auprès des fans de dancehall hardcore. Il suit « Stress Free », en août 2018 avec Romaine McFarlane chez EastSyde Records. DancehallMag associe aussi sa percée à « Hillside », puis à « Cyan Kool » et « Hilltop Badness ».",
+  ),
+  (
+    "Quel est le plus gros titre de Chronic Law ?",
+    "Deux réponses selon la mesure. En nom principal, « Empty », publié le 23 juin 2022 selon Shazam, que World Music Views a mesuré comme le titre le plus écouté de tous les temps sur YouTube Jamaica, devant « Protocol » de Skeng. Toutes voix confondues, « St. Thomas Native », de Popcaan avec Chronic Law en featuring, est le titre le plus identifié de sa page Shazam, avec environ 240 000 identifications relevées lors de la recherche.",
+  ),
+  (
+    "Quels titres Chronic Law a-t-il faits avec Popcaan ?",
+    "Deux titres sont documentés. « St. Thomas Native », de Popcaan avec Chronic Law en featuring, le titre le plus identifié de sa page Shazam, qui nomme sa paroisse d’origine. Et « Kick It Wid Myself », publié le 3 janvier 2025 selon World Music Views, qui le présente comme un hymne pour la jeunesse de St. Thomas.",
+  ),
+  (
+    "Qu’est-ce que la pain music de Chronic Law ?",
+    "C’est la façon dont DancehallMag décrit sa musique : une pain music socialement consciente, une musique de la douleur, aux thèmes récurrents de survie, de foi, de résilience et de réalités des quartiers pauvres, portée par des récits de rue bruts, un phrasé mélodique et une écriture émotionnellement directe. « Empty », ballade de deuil, et la série « Corrupt » en sont les exemples les plus mesurés.",
+  ),
+  (
+    "Qu’est-ce que le collectif 6ix dont fait partie Chronic Law ?",
+    "Un collectif dancehall basé à Montego Bay, à l’ouest de la Jamaïque. Shazam et DancehallMag présentent Chronic Law comme un de ses membres, et le profil de 2019 de DancehallReggaeWorld précise que l’équipe 6ix est menée par Squash. Cette appartenance explique sa très large audience dans la paroisse de St. James, loin de son St. Thomas natal, dans l’est.",
+  ),
+  (
+    "Qu’est-ce que le titre « Asphalt » ?",
+    "Un single de Kkrytical et Chronic Law, publié le 27 mai 2026 selon sa fiche Shazam. Les crédits complets y figurent : les deux artistes aux voix, Ronald Longmore et Akeeme Campbell à l’écriture, Topranks Ent et Mr. Chin à la production. Kaboom Magazine cite « Asphalt » parmi les titres qui ont construit la reconnaissance de Kkrytical, aux côtés de « Loyalty », « Hustla » et « 7.62 ».",
+  ),
+  (
+    "Qui est Kkrytical, le partenaire de Chronic Law sur « Asphalt » ?",
+    "Kkrytical, de son vrai nom Ron Longmore, est un artiste dancehall né en Jamaïque et basé à New York, selon Kaboom Magazine, qui annonce le 6 août 2026 sa signature en management mondial exclusif chez Showtime Services. Il signe l’écriture d’« Asphalt » sous le nom Ronald Longmore, aux côtés d’Akeeme Campbell. Son profil est sur notre page <a href=\"/kkrytical.html\">Kkrytical</a>.",
+  ),
+  (
+    "Qu’est-ce que l’EP I.C.E. de Chronic Law ?",
+    "Un projet construit avec le producteur Notnice, dont le titre développé est Inside, Cold, and Empty. Le compte rendu de Hunnypot Unlimited le décrit comme un disque de neuf titres, produit en grande partie par Notnice et écrit au sortir d’une détention de 73 jours dans un centre de rétention migratoire aux États Unis. Il y place « Like Samson » au centre, et le referme sur « If A Neva God », tourné vers la foi.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/chronic-law.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/chronic-law.html#artist", "name": "Chronic Law", "description": "Artiste dancehall jamaïcain de St. Thomas, de son vrai nom Akeeme Campbell, membre du collectif 6ix. Connu pour Government, Empty et St. Thomas Native avec Popcaan, et pour l EP I.C.E. avec Notnice. Il n est pas un artiste bouyon : son lien avec ce site est le single Asphalt, enregistré avec Kkrytical en 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Asphalt'}, {"@type": "MusicRecording", "name": 'Empty'}, {"@type": "MusicRecording", "name": 'St. Thomas Native'}, {"@type": "MusicRecording", "name": 'Badness Upgrade 2.0'}, {"@type": "MusicRecording", "name": 'NY Girls'}, {"@type": "MusicRecording", "name": 'Higher Life'}, {"@type": "MusicRecording", "name": 'Weekend (Bup Bup)'}, {"@type": "MusicRecording", "name": 'Corrupt'}, {"@type": "MusicRecording", "name": 'Rolling Calf'}, {"@type": "MusicRecording", "name": 'Me Alone'}, {"@type": "MusicRecording", "name": 'Bad N Boasy'}, {"@type": "MusicRecording", "name": 'Fi the Streets'}, {"@type": "MusicRecording", "name": 'Whats Cooking'}, {"@type": "MusicRecording", "name": 'Like Samson'}, {"@type": "MusicRecording", "name": 'Ride or Die'}, {"@type": "MusicRecording", "name": 'Small Talk'}], "sameAs": ["https://www.shazam.com/artist/chronic-law-t-square-boss-and-natty-gargo/628181096"]}}],
  "date_modified": "2026-10-20"
 }
@@ -155,13 +201,59 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Chronic Law?", "Chronic Law is the stage name of Akeeme Campbell, a Jamaican dancehall artist from St. Thomas, in the east of Jamaica, and a member of the Montego Bay based 6ix collective. Shazam gives his birth as December 17, 1993 and his genre as Modern Dancehall. DancehallMag adds that his official pages also present him under the names 1Law and Lawboss."),
-  ("Is Chronic Law a bouyon artist?", "No. His documented genre is modern Jamaican dancehall, and no source consulted knows any bouyon record by him. His presence on this site rests on one collaboration: the single Asphalt, released on May 27, 2026 with Kkrytical, a dancehall artist documented on this site, with whom he shares the vocals and the writing according to the Shazam page of the record."),
-  ("What is the biggest Chronic Law record?", "Two answers, by measure. As a lead artist, Empty, published on June 23, 2022 according to Shazam, which World Music Views measured as the most streamed song of all time on YouTube Jamaica, ahead of Protocol by Skeng. Across all voices, St. Thomas Native, by Popcaan featuring Chronic Law, is the most identified record on his Shazam page, with about 240,000 identifications counted during the research."),
-  ("What is the 6ix collective Chronic Law belongs to?", "A dancehall collective based in Montego Bay, in the west of Jamaica. Shazam and DancehallMag present Chronic Law as one of its members, and the 2019 DancehallReggaeWorld profile states that the 6ix team is headed by Squash. That membership explains his very wide audience in the parish of St. James, far from his native St. Thomas, in the east."),
-  ("What is the record Asphalt?", "A single by Kkrytical and Chronic Law, published on May 27, 2026 according to its Shazam page. The full credits appear there: both artists on vocals, Ronald Longmore and Akeeme Campbell as writers, Topranks Ent and Mr. Chin as producers. Kaboom Magazine names Asphalt among the records that built the recognition of Kkrytical, beside Loyalty, Hustla and 7.62."),
-  ("What is the I.C.E. EP by Chronic Law?", "A project built with producer Notnice, whose expanded title is Inside, Cold, and Empty. The Hunnypot Unlimited review describes it as a nine track record, produced largely by Notnice and written after a 73 day detention in a US immigration facility. Its records named by the review include Like Samson, Prayer Work, Tree Limb, Ride or Die, Pain Pt. 2, It s Hard and If A Neva God.")
- ],
+  (
+    "Who is Chronic Law?",
+    "Chronic Law is the stage name of Akeeme Campbell, a Jamaican dancehall artist from St. Thomas, in the east of Jamaica, and a member of the Montego Bay based 6ix collective. Shazam gives his birth as December 17, 1993 and his genre as Modern Dancehall. DancehallMag adds that his official pages also present him under the names 1Law and Lawboss.",
+  ),
+  (
+    "What is Chronic Law’s real name?",
+    "Chronic Law’s real name is Akeeme Campbell, the spelling in the Shazam writer credits and on DancehallMag. A DancehallReggaeWorld profile published in February 2019 spells it Ackeme, without the second e: the two spellings name the same man. His official pages also present him as 1Law and Lawboss, often written Law Boss, aliases of the same deejay and not other artists.",
+  ),
+  (
+    "Where is Chronic Law from?",
+    "Chronic Law is from St. Thomas, in the east of Jamaica, according to Shazam and DancehallMag, and his record “St. Thomas Native” with Popcaan names his parish. The 2019 profile names the town, Yallahs, and his school, Morant Bay High School, but also calls him a Portland artist a few lines later: this profile holds St. Thomas and flags that mention as an internal error.",
+  ),
+  (
+    "Is Chronic Law a bouyon artist?",
+    "No. His documented genre is modern Jamaican dancehall, and no source consulted knows any bouyon record by him. His presence on this site rests on one collaboration: the single “Asphalt”, released on May 27, 2026 with Kkrytical, a dancehall artist documented on this site, with whom he shares the vocals and the writing according to the Shazam page of the record.",
+  ),
+  (
+    "What was Chronic Law’s first record?",
+    "According to the DancehallReggaeWorld profile of February 2019, his first recording dates to 2009: “War Dem A Ask fah”, a hardcore dancehall record produced by Sting G Music Ltd on the Cemetary Riddim. That trace was not found on the platform pages opened, so it is cited at the level of its source. The public discovered him nearly ten years later, in 2018.",
+  ),
+  (
+    "Which record launched Chronic Law’s career?",
+    "“Government”, released in September 2018, produced by Cashflow Rinse and KevStar Records, described by the 2019 profile as an instant hit with hardcore dancehall fans. It followed “Stress Free”, in August 2018 with Romaine McFarlane on EastSyde Records. DancehallMag also ties his breakthrough to “Hillside”, then to “Cyan Kool” and “Hilltop Badness”.",
+  ),
+  (
+    "What is the biggest Chronic Law record?",
+    "Two answers, by measure. As a lead artist, “Empty”, published on June 23, 2022 according to Shazam, which World Music Views measured as the most streamed song of all time on YouTube Jamaica, ahead of “Protocol” by Skeng. Across all voices, “St. Thomas Native”, by Popcaan featuring Chronic Law, is the most identified record on his Shazam page, with about 240,000 identifications counted during the research.",
+  ),
+  (
+    "Which records has Chronic Law made with Popcaan?",
+    "Two records are documented. “St. Thomas Native”, by Popcaan featuring Chronic Law, the most identified record on his Shazam page, which names his home parish. And “Kick It Wid Myself”, released on January 3, 2025 according to World Music Views, which presents it as an anthem for the youth of St. Thomas.",
+  ),
+  (
+    "What is Chronic Law’s pain music?",
+    "It is how DancehallMag describes his music: socially aware pain music, with recurring themes of survival, faith, resilience and inner city realities, carried by raw street narratives, melodic phrasing and emotionally direct writing. “Empty”, a mourning ballad, and the “Corrupt” series are its most measured examples.",
+  ),
+  (
+    "What is the 6ix collective Chronic Law belongs to?",
+    "A dancehall collective based in Montego Bay, in the west of Jamaica. Shazam and DancehallMag present Chronic Law as one of its members, and the 2019 DancehallReggaeWorld profile states that the 6ix team is headed by Squash. That membership explains his very wide audience in the parish of St. James, far from his native St. Thomas, in the east.",
+  ),
+  (
+    "What is the record “Asphalt”?",
+    "A single by Kkrytical and Chronic Law, published on May 27, 2026 according to its Shazam page. The full credits appear there: both artists on vocals, Ronald Longmore and Akeeme Campbell as writers, Topranks Ent and Mr. Chin as producers. Kaboom Magazine names “Asphalt” among the records that built the recognition of Kkrytical, beside “Loyalty”, “Hustla” and “7.62”.",
+  ),
+  (
+    "Who is Kkrytical, Chronic Law’s partner on “Asphalt”?",
+    "Kkrytical, real name Ron Longmore, is a Jamaican born, New York based dancehall artist, according to Kaboom Magazine, which announced on August 6, 2026 his signing to exclusive worldwide management with Showtime Services. He signs the writing of “Asphalt” as Ronald Longmore, beside Akeeme Campbell. His profile is on our <a href=\"/en/kkrytical.html\">Kkrytical</a> page.",
+  ),
+  (
+    "What is the I.C.E. EP by Chronic Law?",
+    "A project built with producer Notnice, whose expanded title is Inside, Cold, and Empty. The Hunnypot Unlimited review describes it as a nine track record, produced largely by Notnice and written after a 73 day detention in a US immigration facility. It places “Like Samson” at the centre of the project, and closes on “If A Neva God”, turned toward faith.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/chronic-law.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/chronic-law.html#artist", "name": "Chronic Law", "description": "Jamaican dancehall artist from St. Thomas, real name Akeeme Campbell, a member of the 6ix collective. Known for Government, Empty and St. Thomas Native with Popcaan, and for the I.C.E. EP with Notnice. He is not a bouyon artist: his link with this site is the single Asphalt, recorded with Kkrytical in 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Asphalt'}, {"@type": "MusicRecording", "name": 'Empty'}, {"@type": "MusicRecording", "name": 'St. Thomas Native'}, {"@type": "MusicRecording", "name": 'Badness Upgrade 2.0'}, {"@type": "MusicRecording", "name": 'NY Girls'}, {"@type": "MusicRecording", "name": 'Higher Life'}, {"@type": "MusicRecording", "name": 'Weekend (Bup Bup)'}, {"@type": "MusicRecording", "name": 'Corrupt'}, {"@type": "MusicRecording", "name": 'Rolling Calf'}, {"@type": "MusicRecording", "name": 'Me Alone'}, {"@type": "MusicRecording", "name": 'Bad N Boasy'}, {"@type": "MusicRecording", "name": 'Fi the Streets'}, {"@type": "MusicRecording", "name": 'Whats Cooking'}, {"@type": "MusicRecording", "name": 'Like Samson'}, {"@type": "MusicRecording", "name": 'Ride or Die'}, {"@type": "MusicRecording", "name": 'Small Talk'}], "sameAs": ["https://www.shazam.com/artist/chronic-law-t-square-boss-and-natty-gargo/628181096"]}}],
  "date_modified": "2026-10-20"
 }

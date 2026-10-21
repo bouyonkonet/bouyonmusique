@@ -67,13 +67,31 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Tasmo ?", "Tasmo est un nom d'artiste associé au bouyon. À la date de ce profil, le 20 octobre 2026, aucune source vérifiable ouverte pendant la recherche ne documente ce chanteur : ni origine, ni nom complet, ni titre confirmé, ni label. Ce profil établit cet état du dossier, démonte les homonymies et sera complété dès qu'une source paraîtra."),
-  ("Tasmo est-il le même artiste que Tasmo B M, d'Afrique du Sud ?", "Non, rien ne permet de le dire, et tout indique deux artistes différents. Tasmo B M, de son vrai nom publié Semoshile Moses Daliwe, est un artiste hip hop sud-africain né à Kroonstad, fondateur du label Black Maipatile Entertainment en 2018, auteur de titres comme « Ere Ke Di Bone » et « I Made it To A Day » en 2021, selon sa fiche Music in Africa. Aucune source ne le relie au bouyon ou à la Caraïbe."),
-  ("Tasmo est-il le DJ allemand des sets drum and bass ?", "Non plus, selon les sources ouvertes. Les mixes publiés sous le nom de Tasmo sur Castbox documentent un DJ lié au site tasmo.rocks, auteur de sets drum and bass et chillout pour le Remote Chaos Communication Congress en Allemagne. Aucune de ces pages ne mentionne le bouyon, la soca ou la Caraïbe. C'est un deuxième homonyme, distinct du chanteur que ce profil cherche à documenter."),
-  ("Quels sont les titres de Tasmo ?", "Aucun titre n'a pu être vérifié sous ce nom sur les plateformes consultées pour ce profil, et l'encadré de cette page ne liste donc aucun enregistrement. Attribuer à Tasmo les titres de ses homonymes, ceux de Tasmo B M par exemple, serait une erreur, et ce site ne la commet pas."),
-  ("D'où vient Tasmo ?", "Aucune source vérifiable ne le dit à ce jour, et ce profil ne l'invente pas. Le nom est associé au bouyon, genre né en Dominique et développé entre la Dominique, la Guadeloupe et la Martinique, mais l'origine personnelle de cet artiste reste non documentée dans les archives publiques ouvertes pour cette recherche."),
-  ("Où écouter du bouyon en attendant que le dossier de Tasmo se remplisse ?", "Par notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, qui mélange bouyon, bouyon soca et nouveautés de la Dominique suivies par Bouyon Shattaz, et par notre page <a href=\"/bouyon-gwada.html\">bouyon gwada</a> pour la branche la plus dure du genre. Dès qu'un titre vérifiable de Tasmo paraîtra, il sera cité ici avec sa source.")
- ],
+  (
+    "Qui est Tasmo ?",
+    "Tasmo est un nom d'artiste associé au bouyon. À la date de ce profil, le 20 octobre 2026, aucune source vérifiable ouverte pendant la recherche ne documente ce chanteur : ni origine, ni nom complet, ni titre confirmé, ni label. Ce profil établit cet état du dossier, démonte les homonymies et sera complété dès qu'une source paraîtra.",
+  ),
+  (
+    "Tasmo est-il le même artiste que Tasmo B M, d'Afrique du Sud ?",
+    "Non, rien ne permet de le dire, et tout indique deux artistes différents. Tasmo B M, de son vrai nom publié Semoshile Moses Daliwe, est un artiste hip hop sud-africain né à Kroonstad, fondateur du label Black Maipatile Entertainment en 2018, auteur de titres comme « Ere Ke Di Bone » et « I Made it To A Day » en 2021, selon sa fiche Music in Africa. Aucune source ne le relie au bouyon ou à la Caraïbe.",
+  ),
+  (
+    "Tasmo est-il le DJ allemand des sets drum and bass ?",
+    "Non plus, selon les sources ouvertes. Les mixes publiés sous le nom de Tasmo sur Castbox documentent un DJ lié au site tasmo.rocks, auteur de sets drum and bass et chillout pour le Remote Chaos Communication Congress en Allemagne. Aucune de ces pages ne mentionne le bouyon, la soca ou la Caraïbe. C'est un deuxième homonyme, distinct du chanteur que ce profil cherche à documenter.",
+  ),
+  (
+    "Quels sont les titres de Tasmo ?",
+    "Aucun titre n'a pu être vérifié sous ce nom sur les plateformes consultées pour ce profil, et l'encadré de cette page ne liste donc aucun enregistrement. Attribuer à Tasmo les titres de ses homonymes, ceux de Tasmo B M par exemple, serait une erreur, et ce site ne la commet pas.",
+  ),
+  (
+    "D'où vient Tasmo ?",
+    "Aucune source vérifiable ne le dit à ce jour, et ce profil ne l'invente pas. Le nom est associé au bouyon, genre né en Dominique et développé entre la Dominique, la Guadeloupe et la Martinique, mais l'origine personnelle de cet artiste reste non documentée dans les archives publiques ouvertes pour cette recherche.",
+  ),
+  (
+    "Où écouter du bouyon en attendant que le dossier de Tasmo se remplisse ?",
+    "Par notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, qui mélange bouyon, bouyon soca et nouveautés de la Dominique suivies par Bouyon Shattaz, et par notre page bouyon gwada pour la branche la plus dure du genre. Dès qu'un titre vérifiable de Tasmo paraîtra, il sera cité ici avec sa source.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/tasmo.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/tasmo.html#artist", "name": "Tasmo", "description": "Nom d'artiste associé au bouyon. Aucune source vérifiable ne documente encore son origine, son nom complet ou sa discographie ; à ne pas confondre avec Tasmo B M, artiste hip hop sud-africain, ni avec le DJ allemand Tasmo.", "genre": "Bouyon", "track": [], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -139,13 +157,31 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Tasmo?", "Tasmo is an artist name associated with bouyon. On the date of this profile, 20 October 2026, no checkable source opened during the research documents this singer: no origin, no full name, no confirmed record, no label. This profile establishes that state of the record, takes the namesake confusions apart, and will be completed as soon as a source appears."),
-  ("Is Tasmo the same artist as Tasmo B M from South Africa?", "No, nothing allows that to be said, and everything points to two different artists. Tasmo B M, whose published real name is Semoshile Moses Daliwe, is a South African hip hop artist born in Kroonstad, founder of the Black Maipatile Entertainment label in 2018, and the author of records such as “Ere Ke Di Bone” and “I Made it To A Day” in 2021, according to his Music in Africa page. No source links him to bouyon or the Caribbean."),
-  ("Is Tasmo the German DJ of the drum and bass sets?", "Not either, according to the opened sources. The mixes published under the name Tasmo on Castbox document a DJ linked to the tasmo.rocks site, the author of drum and bass and chillout sets for the Remote Chaos Communication Congress in Germany. None of those pages mentions bouyon, soca or the Caribbean. He is a second namesake, distinct from the singer this profile seeks to document."),
-  ("What are the songs of Tasmo?", "No song could be verified under this name on the platforms consulted for this profile, so the box on this page lists no recording. Attributing to Tasmo the songs of his namesakes, those of Tasmo B M for example, would be an error, and this site does not commit it."),
-  ("Where does Tasmo come from?", "No checkable source says so to this day, and this profile does not invent it. The name is associated with bouyon, a genre born in Dominica and developed between Dominica, Guadeloupe and Martinique, but the personal origin of this artist remains undocumented in the public archives opened for this research."),
-  ("Where can I hear bouyon while the record of Tasmo fills up?", "Through our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, which mixes bouyon, bouyon soca and new Dominican releases followed by Bouyon Shattaz, and through our <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a> page for the hardest branch of the genre. As soon as a checkable record by Tasmo appears, it will be quoted here with its source.")
- ],
+  (
+    "Who is Tasmo?",
+    "Tasmo is an artist name associated with bouyon. On the date of this profile, 20 October 2026, no checkable source opened during the research documents this singer: no origin, no full name, no confirmed record, no label. This profile establishes that state of the record, takes the namesake confusions apart, and will be completed as soon as a source appears.",
+  ),
+  (
+    "Is Tasmo the same artist as Tasmo B M from South Africa?",
+    "No, nothing allows that to be said, and everything points to two different artists. Tasmo B M, whose published real name is Semoshile Moses Daliwe, is a South African hip hop artist born in Kroonstad, founder of the Black Maipatile Entertainment label in 2018, and the author of records such as “Ere Ke Di Bone” and “I Made it To A Day” in 2021, according to his Music in Africa page. No source links him to bouyon or the Caribbean.",
+  ),
+  (
+    "Is Tasmo the German DJ of the drum and bass sets?",
+    "Not either, according to the opened sources. The mixes published under the name Tasmo on Castbox document a DJ linked to the tasmo.rocks site, the author of drum and bass and chillout sets for the Remote Chaos Communication Congress in Germany. None of those pages mentions bouyon, soca or the Caribbean. He is a second namesake, distinct from the singer this profile seeks to document.",
+  ),
+  (
+    "What are the songs of Tasmo?",
+    "No song could be verified under this name on the platforms consulted for this profile, so the box on this page lists no recording. Attributing to Tasmo the songs of his namesakes, those of Tasmo B M for example, would be an error, and this site does not commit it.",
+  ),
+  (
+    "Where does Tasmo come from?",
+    "No checkable source says so to this day, and this profile does not invent it. The name is associated with bouyon, a genre born in Dominica and developed between Dominica, Guadeloupe and Martinique, but the personal origin of this artist remains undocumented in the public archives opened for this research.",
+  ),
+  (
+    "Where can I hear bouyon while the record of Tasmo fills up?",
+    "Through our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, which mixes bouyon, bouyon soca and new Dominican releases followed by Bouyon Shattaz, and through our bouyon gwada page for the hardest branch of the genre. As soon as a checkable record by Tasmo appears, it will be quoted here with its source.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/tasmo.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/tasmo.html#artist", "name": "Tasmo", "description": "Artist name associated with bouyon. No checkable source yet documents his origin, his full name or his discography; not to be confused with Tasmo B M, a South African hip hop artist, nor with the German DJ Tasmo.", "genre": "Bouyon", "track": [], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

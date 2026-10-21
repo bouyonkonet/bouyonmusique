@@ -71,13 +71,63 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Sukie ?", "Sukie est un artiste rave et bouyon de la Dominique, de son vrai nom Shane Edwards, connu sous le nom de scène complet Sukie Burn Brain. La presse régionale le présente sous ces deux noms reliés : Nice FM écrit que Sukie, de son vrai nom Shane Edwards, est aussi Sukie Burn Brain, et DOM767 le décrit comme un artiste rave dominicain âgé de 36 ans en décembre 2022."),
-  ("Pourquoi la presse décrit elle Sukie comme un artiste controversé ?", "Parce que le Bajan Reporter, dans un portrait de novembre 2023 de la journaliste Jael Joseph, qualifie ainsi son invité : son entretien avec l’artiste bouyon controversé Sukie Burn Brain a rassemblé 25 000 vues, dont 1 000 spectateurs en direct. Le qualificatif est celui de cet article. Il reflète le dossier public de l’artiste, marqué par les affaires judiciaires publiées en Dominique et à la Grenade."),
-  ("Qu’est il arrivé à Sukie à la Grenade en décembre 2022 ?", "Selon DOM767 et les rapports régionaux, Sukie était à la Grenade pour le concert Fire and Ice au National Cricket Stadium, avec Ridge. Une adolescente guyanaise venue du Canada, logée dans le même hôtel, a rapporté à la police qu’il l’avait touchée de manière inappropriée. Arrêté et inculpé d’attentat à la pudeur, il s’est vu refuser la libération sous caution et a été détenu à la prison de Richmond Hill. DOM767 rapporte ensuite une condamnation à six mois de prison, dont quatre purgés, avec une libération pour bonne conduite."),
-  ("Sukie a t il vraiment enregistré des chansons en prison ?", "C’est ce que rapporte DOM767, en citant nommément le commissaire des prisons par intérim de la Grenade, Rupert Neckles : Sukie a enregistré des chansons pendant sa détention à Richmond Hill et comptait les publier après sa libération pour raconter son expérience de la prison. Aucun titre, aucune date de sortie et aucune parution de ces chansons ne sont confirmés dans les sources consultées, et ce profil les publie donc comme une annonce rapportée, pas comme un disque vérifié."),
-  ("Les sources se contredisent elles sur son arrestation ?", "Oui, sur un point précis, et ce profil est celui qui le montre. Nice FM, citant la Grenada Broadcasting Network, parle de deux chefs d’attentat à la pudeur au moment de l’arrestation. Caribbean Times parle d’un seul chef. Ce profil publie les deux versions avec leurs sources au lieu d’en choisir une en silence. Les rapports s’accordent en revanche sur l’arrestation, le refus de caution, la détention à Richmond Hill et le concert Fire and Ice manqué."),
-  ("Quels titres de Sukie sont vérifiés, et où écouter sa génération ?", "Un seul titre est vérifié titre par titre dans les sources consultées : « Say My Name », de Keks Mafia avec Sukie Burn Brain, présent dans la tracklist publiée du podcast de Blaqrose Supreme. Les comptes rendus du Bouyon Road March 2025 mentionnent des sorties récentes de Sukie sans les nommer. Pour écouter sa génération dominicaine, commencez par notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> et par les pages de <a href=\"/ridge.html\">Ridge</a> et de <a href=\"/keks-mafia.html\">Keks Mafia</a>.")
- ],
+  (
+    "Qui est Sukie ?",
+    "Sukie est un artiste rave et bouyon de la Dominique, de son vrai nom Shane Edwards, connu sous le nom de scène complet Sukie Burn Brain. La presse régionale le présente sous ces deux noms reliés : Nice FM écrit que Sukie, de son vrai nom Shane Edwards, est aussi Sukie Burn Brain, et DOM767 le décrit comme un artiste rave dominicain âgé de 36 ans en décembre 2022.",
+  ),
+  (
+    "Sukie et Sukie Burn Brain sont-ils le même artiste ?",
+    "Oui. Sukie est la forme courte, Sukie Burn Brain le nom de scène complet, et Shane Edwards le nom civil sous lequel la presse a couvert ses affaires. Nice FM, reprenant la Grenada Broadcasting Network, relie explicitement les trois, et DOM767 le présente comme Shane Edwards, populairement connu sous le nom de Sukie Burn Brain. Toutes les sources de ce profil parlent du même homme.",
+  ),
+  (
+    "D’où vient Sukie ?",
+    "Sukie vient de la Dominique : DOM767, le site d’information dominicain qui a signé le récit le plus complet de son retour, le présente comme un artiste rave dominicain, et Caribbean Times parle d’un artiste dominicain de 36 ans. Les sources ne publient ni date de naissance, ni village d’origine, et ce profil n’en invente aucun. Il est revenu en Dominique au printemps 2023.",
+  ),
+  (
+    "Que veut dire « artiste rave » pour Sukie ?",
+    "Que Sukie appartient au monde rave, la fête bouyon poussée au réglage le plus haut : une voix lancée par-dessus la foule, avec l’énergie du sound system. Là où beaucoup d’artistes de ce site sont chanteurs de band ou producteurs, Sukie Burn Brain travaille la fête elle-même, ce qui laisse par nature moins de traces cataloguées sur les plateformes de streaming.",
+  ),
+  (
+    "Pourquoi la presse décrit elle Sukie comme un artiste controversé ?",
+    "Parce que le Bajan Reporter, dans un portrait de novembre 2023 de la journaliste Jael Joseph, qualifie ainsi son invité : son entretien avec l’artiste bouyon controversé Sukie Burn Brain a rassemblé 25 000 vues, dont 1 000 spectateurs en direct. Le qualificatif est celui de cet article. Il reflète le dossier public de l’artiste, marqué par les affaires judiciaires publiées en Dominique et à la Grenade.",
+  ),
+  (
+    "Qu’était le concert Fire and Ice à la Grenade ?",
+    "Fire and Ice, présenté comme « the ultimate Concert », se tenait au National Cricket Stadium de la Grenade en décembre 2022. Selon la presse, Sukie devait s’y produire avec un autre Dominicain, Mr Ridge, et la chanteuse dancehall jamaïcaine Shenseea était aussi attendue. Il a été arrêté avant sa prestation, et le concert s’est tenu sans lui. Notre page <a href=\"/ridge.html\">Ridge</a> documente l’autre Dominicain de l’affiche.",
+  ),
+  (
+    "Qu’est il arrivé à Sukie à la Grenade en décembre 2022 ?",
+    "Selon DOM767 et les rapports régionaux, Sukie a été arrêté peu avant le concert Fire and Ice, après qu’une adolescente logée dans le même hôtel a rapporté à la police qu’il l’avait touchée de manière inappropriée. Inculpé d’attentat à la pudeur, il s’est vu refuser la caution et a été détenu à Richmond Hill. DOM767 rapporte ensuite une condamnation à six mois de prison.",
+  ),
+  (
+    "Quand Sukie est-il sorti de prison ?",
+    "Après quatre mois sur les six prononcés, pour bonne conduite, selon DOM767 le 29 mars 2023. Le commissaire des prisons par intérim de la Grenade, Rupert Neckles, explique que le règlement retire un tiers de la peine pour bonne conduite et travail. De retour en Dominique au printemps 2023, Sukie a été aperçu par beaucoup de gens, qui ont publié des vidéos de lui sur les réseaux sociaux.",
+  ),
+  (
+    "Sukie a t il vraiment enregistré des chansons en prison ?",
+    "C’est ce que rapporte DOM767, en citant nommément le commissaire des prisons par intérim de la Grenade, Rupert Neckles : Sukie a enregistré des chansons pendant sa détention à Richmond Hill et comptait les publier après sa libération pour raconter son expérience de la prison. Aucun titre ni aucune sortie de ces chansons ne sont confirmés dans les sources consultées.",
+  ),
+  (
+    "Les sources se contredisent elles sur son arrestation ?",
+    "Oui, sur un point précis. Nice FM, citant la Grenada Broadcasting Network, parle de deux chefs d’attentat à la pudeur au moment de l’arrestation, et Caribbean Times d’un seul chef. Ce profil publie les deux versions avec leurs sources au lieu d’en choisir une en silence. Les rapports s’accordent sur l’arrestation, le refus de caution, la détention à Richmond Hill et le concert Fire and Ice manqué.",
+  ),
+  (
+    "Qu’en est-il de l’affaire de Sukie en Dominique ?",
+    "Selon Nice FM, Sukie avait été arrêté en Dominique en septembre 2022 et inculpé de coups sur une femme et de menaces, puis libéré sous caution en octobre. Le procès devait s’ouvrir le 6 décembre 2022 devant le tribunal de Roseau, et DOM767 indique que l’affaire était encore pendante en mars 2023. Aucune source consultée n’en donne l’issue, et ce profil n’invente aucun verdict.",
+  ),
+  (
+    "Sukie fait-il partie de la vague du Bouyon Road March 2025 ?",
+    "Oui, selon la presse musicale. En mars 2025, les comptes rendus de CAT Radio et CaribMagPlus sur le premier titre de Bouyon Road March de la Dominique décrivent l’élan du moment comme porté par les sorties récentes d’artistes comme Sukie Burn Brain, Mr. Ridge, Kenny G, Reo et Signal Band. Ces rapports ne nomment toutefois aucun de ses titres : ils établissent une activité, pas un catalogue.",
+  ),
+  (
+    "Quels titres de Sukie sont vérifiés ?",
+    "Un seul titre est vérifié titre par titre dans les sources consultées : « Say My Name », de <a href=\"/keks-mafia.html\">Keks Mafia</a> avec Sukie Burn Brain, présent dans la tracklist publiée du podcast de Blaqrose Supreme. C’est un featuring, pas un single solo. Les comptes rendus du Bouyon Road March 2025 mentionnent des sorties récentes de Sukie sans les nommer, et les titres de listes non sourcées ont été écartés.",
+  ),
+  (
+    "Où écouter la génération bouyon de Sukie ?",
+    "Commencez par « Say My Name », de Keks Mafia avec Sukie Burn Brain, son seul titre vérifié, puis par les artistes que la presse de 2025 cite à ses côtés, comme Ridge, Kenny G, Reo et Signal Band. Pour entendre la scène bouyon dominicaine d’aujourd’hui, la <a href=\"/playlist-bouyon.html\">playlist ROAD MIX</a> de Bouyon Shattaz rassemble nouveautés, bouyon soca et classiques de carnaval.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/sukie.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/sukie.html#artist", "name": "Sukie", "alternateName": "Sukie Burn Brain", "description": "Artiste rave et bouyon de la Dominique, de son vrai nom Shane Edwards. Attendu au concert Fire and Ice à la Grenade en décembre 2022, il a été arrêté puis, selon DOM767, condamné à six mois de prison, dont quatre purgés, période pendant laquelle le commissaire des prisons a rapporté qu’il avait enregistré des chansons sur son expérience.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Say My Name"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -143,13 +193,63 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Sukie?", "Sukie is a rave and bouyon artist from Dominica, real name Shane Edwards, known by the full stage name Sukie Burn Brain. The regional press presents him under those two connected names: Nice FM writes that Sukie, whose real name is Shane Edwards, also goes by Sukie Burn Brain, and DOM767 describes him as a Dominican rave artiste who was 36 in December 2022."),
-  ("Why does the press describe Sukie as a controversial artist?", "Because the Bajan Reporter, in a November 2023 profile of journalist Jael Joseph, calls her guest exactly that: her interview with controversial Bouyon artist Sukie Burn Brain amassed 25k views, with 1,000 people tuning in live. The word is that article word. It reflects the public file of the artist, marked by the court cases published in Dominica and Grenada."),
-  ("What happened to Sukie in Grenada in December 2022?", "According to DOM767 and the regional reports, Sukie was in Grenada for the Fire and Ice concert at the National Cricket Stadium, with Ridge. A Guyanese teenage girl who had come from Canada, staying in the same hotel, reported to police that he had touched her inappropriately. Arrested and charged with indecent assault, he was denied bail and held at Richmond Hill prison. DOM767 then reports a sentence of six months in prison, of which he served four, released for good behaviour."),
-  ("Did Sukie really record songs in prison?", "That is what DOM767 reports, quoting by name the Acting Commissioner of Prisons in Grenada, Rupert Neckles: Sukie recorded songs during his detention at Richmond Hill and planned to release them after his incarceration to detail his prison experience. No title, no release date and no release of those songs is confirmed in the sources consulted, and this profile therefore publishes them as a reported announcement, not as a verified record."),
-  ("Do the sources contradict each other about his arrest?", "Yes, on one precise point, and this profile is the one that shows it. Nice FM, citing the Grenada Broadcasting Network, speaks of two counts of indecent assault at the arrest stage. Caribbean Times speaks of one count. This profile publishes both versions with their sources instead of silently choosing one. The reports do agree on the arrest, the bail refusal, the detention at Richmond Hill and the missed Fire and Ice concert."),
-  ("Which Sukie titles are verified, and where can I hear his generation?", "A single title is verified title by title in the sources consulted: “Say My Name”, by Keks Mafia featuring Sukie Burn Brain, present in the published tracklist of the Blaqrose Supreme podcast. The Bouyon Road March 2025 reports mention recent releases by Sukie without naming them. To hear his Dominican generation, start with our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> and the pages of <a href=\"/en/ridge.html\">Ridge</a> and <a href=\"/en/keks-mafia.html\">Keks Mafia</a>.")
- ],
+  (
+    "Who is Sukie?",
+    "Sukie is a rave and bouyon artist from Dominica, real name Shane Edwards, known by the full stage name Sukie Burn Brain. The regional press presents him under those two connected names: Nice FM writes that Sukie, whose real name is Shane Edwards, also goes by Sukie Burn Brain, and DOM767 describes him as a Dominican rave artiste who was 36 in December 2022.",
+  ),
+  (
+    "Are Sukie and Sukie Burn Brain the same artist?",
+    "Yes. Sukie is the short form, Sukie Burn Brain the full stage name, and Shane Edwards the civil name under which the press covered his cases. Nice FM, reporting the Grenada Broadcasting Network, explicitly connects the three, and DOM767 presents him as Shane Edwards, popularly known as Sukie Burn Brain. Every source in this profile speaks of the same man.",
+  ),
+  (
+    "Where is Sukie from?",
+    "Sukie is from Dominica: DOM767, the Dominican news site that signed the fullest account of his return, presents him as a Dominican rave artiste, and Caribbean Times speaks of a 36 year old Dominican artiste. The sources publish no date of birth and no home village, and this profile invents none. He came back to Dominica in the spring of 2023.",
+  ),
+  (
+    "What does “rave artist” mean for Sukie?",
+    "It means Sukie belongs to the rave world, the bouyon party pushed to its highest setting: a voice thrown over the crowd, with sound system energy. Where many artists on this site are band singers or producers, Sukie Burn Brain works the party itself, which by nature leaves fewer catalogued traces on the streaming platforms.",
+  ),
+  (
+    "Why does the press describe Sukie as a controversial artist?",
+    "Because the Bajan Reporter, in a November 2023 profile of journalist Jael Joseph, calls her guest exactly that: her interview with controversial Bouyon artist Sukie Burn Brain amassed 25k views, with 1,000 people tuning in live. The word is that article's word. It reflects the public file of the artist, marked by the court cases published in Dominica and Grenada.",
+  ),
+  (
+    "What was the Fire and Ice concert in Grenada?",
+    "Fire and Ice, billed as the ultimate Concert, was held at the Grenada National Cricket Stadium in December 2022. According to the press, Sukie was due to perform there with another Dominican, Mr Ridge, and the Jamaican dancehall singer Shenseea was also expected. He was arrested before his performance, and the concert went ahead without him. Our <a href=\"/en/ridge.html\">Ridge</a> page documents the other Dominican on the bill.",
+  ),
+  (
+    "What happened to Sukie in Grenada in December 2022?",
+    "According to DOM767 and the regional reports, Sukie was arrested shortly before the Fire and Ice concert, after a teenage girl staying in the same hotel reported to police that he had touched her inappropriately. Charged with indecent assault, he was denied bail and held at Richmond Hill prison. DOM767 then reports a sentence of six months in prison.",
+  ),
+  (
+    "When was Sukie released from prison?",
+    "After four of the six months handed down, for good behaviour, according to DOM767 on March 29, 2023. Grenada's Acting Commissioner of Prisons, Rupert Neckles, explains that the regulations take one third off a sentence for good behaviour and industry. Back in Dominica in the spring of 2023, Sukie was sighted by many people, who uploaded videos of him to social media.",
+  ),
+  (
+    "Did Sukie really record songs in prison?",
+    "That is what DOM767 reports, quoting by name the Acting Commissioner of Prisons in Grenada, Rupert Neckles: Sukie recorded songs during his detention at Richmond Hill and planned to release them after his incarceration to detail his prison experience. No title and no release of those songs is confirmed in the sources consulted.",
+  ),
+  (
+    "Do the sources contradict each other about his arrest?",
+    "Yes, on one precise point. Nice FM, citing the Grenada Broadcasting Network, speaks of two counts of indecent assault at the arrest stage, and Caribbean Times of one count. This profile publishes both versions with their sources instead of silently choosing one. The reports agree on the arrest, the bail refusal, the detention at Richmond Hill and the missed Fire and Ice concert.",
+  ),
+  (
+    "What happened to Sukie's case in Dominica?",
+    "According to Nice FM, Sukie had been arrested in Dominica in September 2022 and charged with battery on a female and threats, then granted bail in October. The trial was expected to start on December 6, 2022 in the Roseau Magistrate court, and DOM767 says the case was still pending in March 2023. No source consulted gives its outcome, and this profile invents no verdict.",
+  ),
+  (
+    "Is Sukie part of the 2025 Bouyon Road March wave?",
+    "Yes, according to the music press. In March 2025, the CAT Radio and CaribMagPlus reports on Dominica's first Bouyon Road March title describe the momentum of the moment as carried by recent releases from artists such as Sukie Burn Brain, Mr. Ridge, Kenny G, Reo and Signal Band. Those reports name none of his titles, though: they establish an activity, not a catalogue.",
+  ),
+  (
+    "Which Sukie songs are verified?",
+    "A single title is verified title by title in the sources consulted: “Say My Name”, by <a href=\"/en/keks-mafia.html\">Keks Mafia</a> featuring Sukie Burn Brain, present in the published tracklist of the Blaqrose Supreme podcast. It is a feature, not a solo single. The Bouyon Road March 2025 reports mention recent releases by Sukie without naming them, and titles from unsourced lists were set aside.",
+  ),
+  (
+    "Where can I hear Sukie's bouyon generation?",
+    "Start with “Say My Name”, by Keks Mafia featuring Sukie Burn Brain, his only verified title, then the artists the 2025 press names beside him, such as Ridge, Kenny G, Reo and Signal Band. To hear today's Dominican bouyon scene, the Bouyon Shattaz <a href=\"/en/playlist-bouyon.html\">ROAD MIX playlist</a> gathers new releases, bouyon soca and carnival classics.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/sukie.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/sukie.html#artist", "name": "Sukie", "alternateName": "Sukie Burn Brain", "description": "Rave and bouyon artist from Dominica, real name Shane Edwards. Booked for the Fire and Ice concert in Grenada in December 2022, he was arrested and then, according to DOM767, sentenced to six months in prison, of which he served four, a period during which the prisons commissioner reported he had recorded songs about his experience.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Say My Name"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

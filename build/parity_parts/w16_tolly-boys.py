@@ -64,13 +64,63 @@ FR = {
   ]
  ],
  "faq": [
-  ("Tolly Boys et Tallyboy, est-ce le même artiste ?", "Non, et c’est la confusion la plus fréquente sur ce nom. Tolly Boys, avec un o, est l’acte bouyon de Sint Maarten documenté ici, derrière les singles de Tolly Boy’s YMW et le label YMW Tolly Boys, autour de l’auteur Youry Fleming. Tallyboy, avec un a, est un artiste solo différent, de Sainte-Lucie, qui a sa propre page sur ce site. Ni la même personne, ni la même île, ni le même catalogue."),
-  ("Qui écrit les titres des Tolly Boys ?", "Les crédits publiés par Shazam donnent Youry Fleming comme auteur des trois singles de Tolly Boy’s YMW : « Get on Bad » en 2018, « Oú Paté Vwey » en 2019, où le nom est publié sous la forme Fleming xavier Youry, et « GoDownGoDown » en 2020, sous la forme Fleming Youry. Le même Youry réapparaît en 2023 comme artiste invité, sous la forme Youry Ymw, sur « Payé » de Wizito."),
-  ("Quels sont les titres vérifiés de Tolly Boy’s YMW ?", "Trois singles sont documentés par des fiches publiées : « Get on Bad », avec Ciio et King Kembe, sorti le 30 décembre 2018, « Oú Paté Vwey », sorti le 14 février 2019 chez YMW, et « GoDownGoDown », sorti le 19 janvier 2020 chez YMW. Leurs tempos publiés vont de 162 a 174 BPM selon Shazam. Le titre « Bay Li », de YMW et Bilix en 2020, est un titre du cercle, cité dans ce profil mais pas crédité à Tolly Boy’s YMW."),
-  ("Quel est le titre le plus célèbre des Tolly Boys ?", "Selon l’étude universitaire menée dans une école primaire de Sint Maarten, le titre le plus célèbre du groupe est celui dont les écoliers chantaient le hook : « Tolly she want, tolly she go and get », l’étude précisant que tolly est un argot local désignant le pénis. L’étude ne publie pas le titre officiel de cette chanson, et ce site ne lui en invente pas un : le hook cité est la trace publiée de ce titre."),
-  ("Qu’est-ce que YMW Tolly Boys ?", "YMW Tolly Boys, écrit aussi YMW TOLLY BOYS, est le label publié sur les titres récents du cercle : « Payé » de Wizito avec Youry Ymw en 2023, « Love Me » de Wizito en 2024 et « TunTun » de Wizito avec Ti Al et Dj Chimik en 2025. Les singles de 2019 et 2020 de Tolly Boy’s YMW sortent déjà sous la marque YMW. Le label prolonge donc le nom de l’acte de Sint Maarten dans une deuxième génération de titres, dont ceux de Bernard Gumbs, dit Wizito."),
-  ("D’où viennent les Tolly Boys ?", "L’étude universitaire qui les documente les décrit comme des interprètes locaux de bouyon à Sint Maarten, la partie néerlandaise de l’île de Saint-Martin, où des écoliers chantaient leurs titres en classe. C’est le rattachement géographique publié du groupe. Aucune source consultée ne donne en revanche la liste de ses membres ni son lieu de formation précis, et ce site ne les invente pas.")
- ],
+  (
+    "Qui sont les Tolly Boys ?",
+    "Les Tolly Boys sont un acte bouyon de Sint Maarten, la partie néerlandaise de Saint-Martin, décrit par une étude universitaire comme des interprètes locaux de bouyon que les écoliers de l’île chantaient en classe. Sous le nom Tolly Boy’s YMW, ils publient trois singles entre fin 2018 et début 2020, écrits par Youry Fleming, et le nom continue ensuite comme label, YMW Tolly Boys, jusqu’en 2025.",
+  ),
+  (
+    "Tolly Boys et Tallyboy, est-ce le même artiste ?",
+    "Non, et c’est la confusion la plus fréquente sur ce nom. Tolly Boys, avec un o, est l’acte bouyon de Sint Maarten documenté ici, derrière les singles de Tolly Boy’s YMW et le label YMW Tolly Boys, autour de l’auteur Youry Fleming. Tallyboy, avec un a, est un artiste solo différent, de Sainte-Lucie. Ni la même personne, ni la même île, ni le même catalogue. Voir notre page <a href=\"/tallyboy.html\">Tallyboy</a>.",
+  ),
+  (
+    "Comment s’écrit le nom : Tolly Boys, Tolly Boy’s YMW ou YMW Tolly Boys ?",
+    "Les trois formes existent et ne désignent pas tout à fait la même chose. Tolly Boys est le nom de l’acte, tel que l’écrit l’étude universitaire de Sint Maarten. Tolly Boy’s YMW, avec apostrophe et Boy au singulier, est le crédit d’artiste des singles sur les plateformes. YMW Tolly Boys, parfois en capitales, est le label qui publie les titres du cercle de 2023 à 2025.",
+  ),
+  (
+    "D’où viennent les Tolly Boys ?",
+    "L’étude universitaire qui les documente les décrit comme des interprètes locaux de bouyon à Sint Maarten, la partie néerlandaise de l’île de Saint-Martin, où des écoliers chantaient leurs titres en classe. C’est le rattachement géographique publié du groupe. Aucune source consultée ne donne en revanche la liste de ses membres ni son lieu de formation précis, et ce site ne les invente pas.",
+  ),
+  (
+    "Qui écrit les titres des Tolly Boys ?",
+    "Les crédits publiés par Shazam donnent Youry Fleming comme auteur des trois singles de Tolly Boy’s YMW : « Get on Bad » en 2018, « Oú Paté Vwey » en 2019, où le nom est publié sous la forme Fleming xavier Youry, et « GoDownGoDown » en 2020, sous la forme Fleming Youry. Le même Youry réapparaît en 2023 comme artiste invité, sous la forme Youry Ymw, sur « Payé » de Wizito.",
+  ),
+  (
+    "Quels sont les titres vérifiés de Tolly Boy’s YMW ?",
+    "Trois singles sont documentés par des fiches publiées : « Get on Bad », avec Ciio et King Kembe, sorti le 30 décembre 2018, « Oú Paté Vwey », sorti le 14 février 2019 chez YMW, et « GoDownGoDown », sorti le 19 janvier 2020 chez YMW. Le titre « Bay Li », de YMW et Bilix en 2020, est un titre du cercle, cité dans ce profil mais pas crédité à Tolly Boy’s YMW.",
+  ),
+  (
+    "Qui chante avec les Tolly Boys sur « Get on Bad » ?",
+    "Ciio et King Kembe, crédités en featuring sur « Get on Bad », sorti le 30 décembre 2018 chez 1087489 Records DK2. King Kembe est un nom du circuit du carnaval de Saint-Martin, ce qui ancre le single dans le bassin de l’île dès la première fiche. Shazam crédite Youry Fleming comme auteur du titre, qui tourne à 174 BPM, le tempo le plus rapide du dossier.",
+  ),
+  (
+    "À quel tempo jouent les Tolly Boys ?",
+    "Vite : selon Shazam, leurs trois singles tournent entre 162 et 174 BPM. « Get on Bad » est à 174 BPM, « GoDownGoDown » à 169 BPM et « Oú Paté Vwey » à 162 BPM. Le titre du cercle « Bay Li », avec Bilix, est un peu plus lent, à 157 BPM. Ces tempos sont ceux des musiques de carnaval de route, faites pour la fête en mouvement.",
+  ),
+  (
+    "Qui a produit « Bay Li » de YMW et Bilix ?",
+    "Selon sa fiche Shazam, « Bay Li » est produit par DWAYNE SKERRIT et Anne Arrindell, et écrit par YMW et Franck Offranc. Il sort le 14 juillet 2020 chez YMW X BILIX, à 157 BPM, et l’en tête vidéo de la fiche affiche « TOLLY BOYS & BILIX - BAY LI ». Le crédit d’artiste publié reste YMW et Bilix : c’est un titre du cercle, pas un single de Tolly Boy’s YMW.",
+  ),
+  (
+    "Quel est le titre le plus célèbre des Tolly Boys ?",
+    "Selon l’étude universitaire menée dans une école primaire de Sint Maarten, c’est celui dont les écoliers chantaient le hook : « Tolly she want, tolly she go and get », l’étude précisant que tolly est un argot local désignant le pénis. L’étude ne publie pas le titre officiel de cette chanson, et ce site ne lui en invente pas un : le hook cité est la trace publiée de ce titre.",
+  ),
+  (
+    "Que dit l’étude universitaire sur les Tolly Boys ?",
+    "L’article « An educated Sint Maartener? », publié dans la revue Globalisation, Societies and Education, étudie l’appartenance nationale dans une école primaire de Sint Maarten. Il décrit les Tolly Boys comme des interprètes locaux de bouyon : les élèves chantaient leurs titres spontanément, les jouaient sur leurs téléphones et, en l’absence de l’enseignant, sur l’ordinateur de la classe. Leur notoriété locale précède ainsi leurs singles publiés.",
+  ),
+  (
+    "Qu’est-ce que YMW Tolly Boys ?",
+    "YMW Tolly Boys, écrit aussi YMW TOLLY BOYS, est le label des titres récents du cercle : « Payé » de Wizito avec Youry Ymw en 2023, « Love Me » de Wizito en 2024 et « TunTun » de Wizito avec Ti Al et Dj Chimik en 2025. Les singles de 2019 et 2020 sortent déjà sous la marque YMW. Le label prolonge ainsi le nom de l’acte dans une deuxième génération de titres.",
+  ),
+  (
+    "Quel est le lien entre les Tolly Boys et Wizito ?",
+    "Wizito, de son nom Bernard Gumbs, publie ses titres sur le label YMW Tolly Boys : « Payé » en 2023, « Love Me » en 2024 et « TunTun » en 2025, dont il est crédité comme auteur. Youry, l’auteur des singles de Tolly Boy’s YMW, est l’invité de « Payé » sous le nom Youry Ymw. Ces titres restent au catalogue de Wizito. Voir notre page <a href=\"/bernard-gumbs-wizito.html\">Bernard Gumbs (Wizito)</a>.",
+  ),
+  (
+    "Où écouter les Tolly Boys ?",
+    "Commencez par « Get on Bad », avec Ciio et King Kembe, pour le tempo le plus rapide et l’ancrage carnaval, puis « Oú Paté Vwey » et « GoDownGoDown », les singles maison de 2019 et 2020, avant les titres de Wizito sortis chez YMW Tolly Boys. Pour le bouyon d’aujourd’hui, de la Dominique aux Antilles, la <a href=\"/playlist-bouyon.html\">playlist Bouyon Road Mix</a> de Bouyon Shattaz suit les nouveautés du genre.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/tolly-boys.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/tolly-boys.html#artist", "name": "Tolly Boys", "alternateName": "Tolly Boy's YMW", "description": "Acte bouyon de Sint Maarten, documenté par une étude universitaire comme interprète local de bouyon et par les singles de Tolly Boy's YMW écrits par Youry Fleming : Get on Bad en 2018, Oú Paté Vwey en 2019 et GoDownGoDown en 2020. Le label du cercle, YMW Tolly Boys, publie les titres de Wizito de 2023 a 2025. A ne pas confondre avec Tallyboy, artiste de Sainte-Lucie.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Get on Bad"}, {"@type": "MusicRecording", "name": "Oú Paté Vwey"}, {"@type": "MusicRecording", "name": "GoDownGoDown"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -133,13 +183,63 @@ EN = {
   ]
  ],
  "faq": [
-  ("Are Tolly Boys and Tallyboy the same artist?", "No, and it is the most frequent confusion on this name. Tolly Boys, with an o, is the Sint Maarten bouyon act documented here, behind the Tolly Boy’s YMW singles and the label YMW Tolly Boys, around songwriter Youry Fleming. Tallyboy, with an a, is a different solo artist, from Saint Lucia, who has his own page on this site. Not the same person, not the same island, not the same catalogue."),
-  ("Who writes the Tolly Boys songs?", "The credits published by Shazam give Youry Fleming as songwriter of the three Tolly Boy’s YMW singles: “Get on Bad” in 2018, “Oú Paté Vwey” in 2019, where the name is published under the form Fleming xavier Youry, and “GoDownGoDown” in 2020, under the form Fleming Youry. The same Youry returns in 2023 as a featured artist, under the form Youry Ymw, on “Payé” by Wizito."),
-  ("Which Tolly Boy’s YMW records are verified?", "Three singles are documented by published listings: “Get on Bad”, with Ciio and King Kembe, released on December 30, 2018, “Oú Paté Vwey”, released on February 14, 2019, by YMW, and “GoDownGoDown”, released on January 19, 2020, by YMW. Their published tempos run from 162 to 174 BPM according to Shazam. The record “Bay Li”, by YMW and Bilix in 2020, is a record of the circle, cited in this profile but not credited to Tolly Boy’s YMW."),
-  ("What is the most famous Tolly Boys song?", "According to the academic study carried out in a primary school on Sint Maarten, the most famous song of the group is the one whose hook the schoolchildren sang: “Tolly she want, tolly she go and get”, the study noting that tolly is local slang for penis. The study does not publish the official title of that song, and this site does not invent one for it: the quoted hook is the published trace of that song."),
-  ("What is YMW Tolly Boys?", "YMW Tolly Boys, also written YMW TOLLY BOYS, is the label published on the recent records of the circle: “Payé” by Wizito with Youry Ymw in 2023, “Love Me” by Wizito in 2024 and “TunTun” by Wizito with Ti Al and Dj Chimik in 2025. The 2019 and 2020 singles of Tolly Boy’s YMW already come out under the YMW brand. The label therefore carries the name of the Sint Maarten act into a second generation of records, among them those of Bernard Gumbs, known as Wizito."),
-  ("Where do the Tolly Boys come from?", "The academic study that documents them describes them as local performers of bouyon on Sint Maarten, the Dutch side of the island of Saint Martin, where schoolchildren sang their songs in class. That is the published geographic tie of the group. No source consulted, on the other hand, gives its member list or its precise place of formation, and this site does not invent them.")
- ],
+  (
+    "Who are the Tolly Boys?",
+    "The Tolly Boys are a bouyon act from Sint Maarten, the Dutch side of Saint Martin, described by an academic study as local bouyon performers whose songs the island’s schoolchildren sang in class. As Tolly Boy’s YMW, they released three singles between late 2018 and early 2020, written by Youry Fleming, and the name then carried on as a label, YMW Tolly Boys, through 2025.",
+  ),
+  (
+    "Are Tolly Boys and Tallyboy the same artist?",
+    "No, and it is the most frequent confusion on this name. Tolly Boys, with an o, is the Sint Maarten bouyon act documented here, behind the Tolly Boy’s YMW singles and the label YMW Tolly Boys, around songwriter Youry Fleming. Tallyboy, with an a, is a different solo artist, from Saint Lucia. Not the same person, not the same island, not the same catalogue. See our <a href=\"/en/tallyboy.html\">Tallyboy</a> page.",
+  ),
+  (
+    "How is the name spelled: Tolly Boys, Tolly Boy’s YMW or YMW Tolly Boys?",
+    "All three forms exist and they do not mean quite the same thing. Tolly Boys is the name of the act, as the Sint Maarten academic study writes it. Tolly Boy’s YMW, with an apostrophe and Boy in the singular, is the artist credit of the singles on the platforms. YMW Tolly Boys, sometimes in capitals, is the label that releases the circle’s records from 2023 to 2025.",
+  ),
+  (
+    "Where do the Tolly Boys come from?",
+    "The academic study that documents them describes them as local performers of bouyon on Sint Maarten, the Dutch side of the island of Saint Martin, where schoolchildren sang their songs in class. That is the published geographic tie of the group. No source consulted, on the other hand, gives its member list or its precise place of formation, and this site does not invent them.",
+  ),
+  (
+    "Who writes the Tolly Boys songs?",
+    "The credits published by Shazam give Youry Fleming as songwriter of the three Tolly Boy’s YMW singles: “Get on Bad” in 2018, “Oú Paté Vwey” in 2019, where the name is published under the form Fleming xavier Youry, and “GoDownGoDown” in 2020, under the form Fleming Youry. The same Youry returns in 2023 as a featured artist, under the form Youry Ymw, on “Payé” by Wizito.",
+  ),
+  (
+    "Which Tolly Boy’s YMW records are verified?",
+    "Three singles are documented by published listings: “Get on Bad”, with Ciio and King Kembe, released on December 30, 2018, “Oú Paté Vwey”, released on February 14, 2019, by YMW, and “GoDownGoDown”, released on January 19, 2020, by YMW. The record “Bay Li”, by YMW and Bilix in 2020, is a record of the circle, cited in this profile but not credited to Tolly Boy’s YMW.",
+  ),
+  (
+    "Who features with the Tolly Boys on “Get on Bad”?",
+    "Ciio and King Kembe, credited as features on “Get on Bad”, released on December 30, 2018 by 1087489 Records DK2. King Kembe is a name from the Saint Martin carnival circuit, which anchors the single in the island’s scene from the first listing. Shazam credits Youry Fleming as songwriter of the track, which runs at 174 BPM, the fastest tempo in the file.",
+  ),
+  (
+    "What tempo do the Tolly Boys play at?",
+    "Fast: according to Shazam, their three singles run between 162 and 174 BPM. “Get on Bad” is at 174 BPM, “GoDownGoDown” at 169 BPM and “Oú Paté Vwey” at 162 BPM. The circle record “Bay Li”, with Bilix, is a little slower, at 157 BPM. Those are the tempos of road carnival music, made for the party on the move.",
+  ),
+  (
+    "Who produced “Bay Li” by YMW and Bilix?",
+    "According to its Shazam listing, “Bay Li” was produced by DWAYNE SKERRIT and Anne Arrindell, and written by YMW and Franck Offranc. It came out on July 14, 2020 on YMW X BILIX, at 157 BPM, and the video header of the listing reads “TOLLY BOYS & BILIX - BAY LI”. The published artist credit remains YMW and Bilix: it is a circle record, not a Tolly Boy’s YMW single.",
+  ),
+  (
+    "What is the most famous Tolly Boys song?",
+    "According to the academic study carried out in a primary school on Sint Maarten, it is the one whose hook the schoolchildren sang: “Tolly she want, tolly she go and get”, the study noting that tolly is local slang for penis. The study does not publish the official title of that song, and this site does not invent one for it: the quoted hook is the published trace of that song.",
+  ),
+  (
+    "What does the academic study say about the Tolly Boys?",
+    "The article “An educated Sint Maartener?”, published in the journal Globalisation, Societies and Education, studies national belonging in a primary school on Sint Maarten. It describes the Tolly Boys as local performers of bouyon: pupils sang their songs spontaneously, played them on their phones and, when the teacher was away, on the classroom computer. Their local fame thus came before their published singles.",
+  ),
+  (
+    "What is YMW Tolly Boys?",
+    "YMW Tolly Boys, also written YMW TOLLY BOYS, is the label on the circle’s recent records: “Payé” by Wizito with Youry Ymw in 2023, “Love Me” by Wizito in 2024 and “TunTun” by Wizito with Ti Al and Dj Chimik in 2025. The 2019 and 2020 singles already came out under the YMW brand. The label carries the act’s name into a second generation of records, among them those of Bernard Gumbs, known as Wizito.",
+  ),
+  (
+    "What is the link between the Tolly Boys and Wizito?",
+    "Wizito, whose name is Bernard Gumbs, releases his records on the YMW Tolly Boys label: “Payé” in 2023, “Love Me” in 2024 and “TunTun” in 2025, which credit him as songwriter. Youry, the songwriter of the Tolly Boy’s YMW singles, is the guest on “Payé” as Youry Ymw. Those records stay in Wizito’s catalogue. See our <a href=\"/en/bernard-gumbs-wizito.html\">Bernard Gumbs (Wizito)</a> page.",
+  ),
+  (
+    "Where can I hear the Tolly Boys?",
+    "Start with “Get on Bad”, with Ciio and King Kembe, for the fastest tempo and the carnival roots, then “Oú Paté Vwey” and “GoDownGoDown”, the in house singles of 2019 and 2020, before the Wizito records released on YMW Tolly Boys. For today’s bouyon, from Dominica to the Antilles, the <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix playlist</a> by Bouyon Shattaz follows the genre’s new releases.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/tolly-boys.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/tolly-boys.html#artist", "name": "Tolly Boys", "alternateName": "Tolly Boy's YMW", "description": "Bouyon act from Sint Maarten, documented by an academic study as local performers of bouyon and by the Tolly Boy's YMW singles written by Youry Fleming: Get on Bad in 2018, Oú Paté Vwey in 2019 and GoDownGoDown in 2020. The label of the circle, YMW Tolly Boys, releases the Wizito records from 2023 to 2025. Not to be confused with Tallyboy, the Saint Lucia artist.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Get on Bad"}, {"@type": "MusicRecording", "name": "Oú Paté Vwey"}, {"@type": "MusicRecording", "name": "GoDownGoDown"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

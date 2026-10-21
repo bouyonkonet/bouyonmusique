@@ -83,13 +83,63 @@ FR = {
   ],
  ],
  "faq": [
-  ("Qui faisait partie de Nursery Krew Inc ?", "Selon la page anglaise de Wikipedia consacrée au bouyon, les artistes et producteurs associés à Nursery Krew Inc sont Burn Brain Jolly, Charlie Black, Watty et Smokiller. Aucune source vérifiée ne publie d’effectif officiel du crew : ce sont les noms associés par Wikipedia. La biographie de Dada ajoute qu’il a lancé le groupe et produit ses titres."),
-  ("Quels enregistrements portent le nom de Nursery Krew Inc ?", "Wikipedia cite « Peanuts », « Sorti Desandre » et le NKI Medley, sans donner d’années de sortie. La biographie de Dada, publiée sur Showcase Your Music, cite de son côté « Peanuts », « Calaloo » et « Don’t F**k Around », présenté comme un titre dancehall, tous produits par Dada. « Peanuts » est le titre attesté par les deux sources."),
-  ("Quel est le lien entre Nursery Krew Inc et le Wrecketeng ?", "Selon Wikipedia, Nursery Krew Inc a fait avancer le Wrecketeng au début des années 2000 par des enregistrements originaux et du travail de production. Le style avait été ouvert par DJ Cut et le Bushtown Clan, dans une pratique de remix et de sampling : le Krew représente l’étape des titres originaux dans la même lignée."),
-  ("Qui a produit les titres de Nursery Krew Inc ?", "Selon la biographie de Krishna « Dada » Lawrence publiée sur Showcase Your Music, Dada a lancé le groupe et produit ses titres cités, dont « Peanuts », « Calaloo » et « Don’t F**k Around ». Cette biographie affirme que le groupe a pris la Dominique d’assaut. C’est une source de présentation d’artiste : ce profil la rapporte comme telle."),
-  ("Nursery Krew Inc ou Nursery Crew Ink : quelle est la bonne orthographe ?", "La page anglaise de Wikipedia, la biographie de Dada et les comptes rendus du projet Wrecketeng de 2025 écrivent Nursery Krew Inc. La page française de Wikipedia écrit « Nursery Crew Ink », une variante propre à cette page. Ce site retient Nursery Krew Inc."),
-  ("Quel est le lien entre Nursery Krew Inc et Smokiller ?", "Smokiller fait partie des noms associés au crew par Wikipedia. En décembre 2025, Dominica News Online a rapporté son album collaboratif consacré au Wrecketeng, qui reconnaît l’influence de Burn Brain Jolly et des enregistrements de Nursery Krew Inc, avec Charlie Black parmi les contributeurs annoncés : le producteur de 2025 documente ainsi le crew dont il fut associé.")
- ],
+  (
+    "Qui faisait partie de Nursery Krew Inc ?",
+    "Selon la page anglaise de Wikipedia consacrée au bouyon, les artistes et producteurs associés à Nursery Krew Inc sont Burn Brain Jolly, Charlie Black, Watty et Smokiller. Aucune source vérifiée ne publie d’effectif officiel du crew : ce sont les noms associés par Wikipedia. La biographie de Dada ajoute qu’il a lancé le groupe et produit ses titres.",
+  ),
+  (
+    "Quels enregistrements portent le nom de Nursery Krew Inc ?",
+    "Wikipedia cite « Peanuts », « Sorti Desandre » et le NKI Medley, sans donner d’années de sortie. La biographie de Dada, publiée sur Showcase Your Music, cite de son côté « Peanuts », « Calaloo » et « Don’t F**k Around », présenté comme un titre dancehall, tous produits par Dada. « Peanuts » est le titre attesté par les deux sources.",
+  ),
+  (
+    "Quel est le lien entre Nursery Krew Inc et le Wrecketeng ?",
+    "Selon Wikipedia, Nursery Krew Inc a fait avancer le Wrecketeng au début des années 2000 par des enregistrements originaux et du travail de production. Le style avait été ouvert par DJ Cut et le Bushtown Clan, dans une pratique de remix et de sampling : le Krew représente l’étape des titres originaux dans la même lignée. Voir <a href=\"/wrecketeng.html\">le Wrecketeng</a>.",
+  ),
+  (
+    "Qui a produit les titres de Nursery Krew Inc ?",
+    "Selon la biographie d’artiste de <a href=\"/dada.html\">Dada</a> publiée sur Showcase Your Music, Dada a lancé le groupe et produit ses titres cités, dont « Peanuts », « Calaloo » et « Don’t F**k Around ». Cette biographie affirme que le groupe a pris la Dominique d’assaut. C’est une source de présentation d’artiste : ce profil la rapporte comme telle.",
+  ),
+  (
+    "Nursery Krew Inc ou Nursery Crew Ink : quelle est la bonne orthographe ?",
+    "La bonne orthographe est Nursery Krew Inc : c’est celle de la page anglaise de Wikipedia, de la biographie de Dada et des comptes rendus du projet Wrecketeng de 2025. La page française de Wikipedia écrit « Nursery Crew Ink », une variante propre à cette page. Ce site retient Nursery Krew Inc, abrégé en NKI.",
+  ),
+  (
+    "Quel est le lien entre Nursery Krew Inc et Smokiller ?",
+    "Smokiller fait partie des noms associés au crew par Wikipedia. En décembre 2025, Dominica News Online a rapporté son album collaboratif consacré au Wrecketeng, qui reconnaît l’influence de Burn Brain Jolly et des enregistrements de Nursery Krew Inc, avec Charlie Black parmi les contributeurs annoncés : le producteur de 2025 documente ainsi le crew dont il fut associé.",
+  ),
+  (
+    "Que veut dire NKI dans le bouyon ?",
+    "NKI est l’abréviation de Nursery Krew Inc, un crew dominicain du début des années 2000 associé au Wrecketeng. Le sigle se retrouve dans le titre du NKI Medley, l’un des trois enregistrements que Wikipedia attache au crew avec « Peanuts » et « Sorti Desandre ». Ces titres ont contribué, selon la même source, au développement du style et à sa reconnaissance en Dominique.",
+  ),
+  (
+    "D’où vient Nursery Krew Inc, et quand était-il actif ?",
+    "Nursery Krew Inc est un crew de la Dominique, actif au début des années 2000, selon la page anglaise de Wikipedia consacrée au bouyon. Ce n’était ni un groupe live de l’époque fondatrice comme WCK, ni un artiste solo : c’était un collectif d’artistes et de producteurs réuni autour du travail en studio. Aucune source vérifiée ne donne de date de formation exacte.",
+  ),
+  (
+    "Quelle est la différence entre Nursery Krew Inc et le Bushtown Clan ?",
+    "Le <a href=\"/bushtown-clan.html\">Bushtown Clan</a> a développé et popularisé le Wrecketeng par la pratique du DJ, du remix et de l’échantillon ; Nursery Krew Inc a signé des enregistrements originaux dans la même lignée. Les deux sont liés : selon sa biographie, Dada a grandi autour des membres du Bushtown Clan avant de lancer le Krew. Le Clan inspire et forme, Dada produit, le Krew enregistre.",
+  ),
+  (
+    "Quelle est la différence entre Nursery Krew Inc et Triple Kay ?",
+    "Triple Kay International, formé à Laudat, est un groupe de scène énergique, l’un des grands noms du bouyon dominicain des années 2000. Nursery Krew Inc est un crew de studio, du côté de la production associée au Wrecketeng. Les deux chemins ont fait grandir le bouyon moderne en parallèle, et un même producteur les relie : Dada, qui a travaillé pour Triple Kay et lancé le Krew.",
+  ),
+  (
+    "Qui est Burn Brain Jolly ?",
+    "Burn Brain Jolly est l’un des quatre noms que Wikipedia associe à Nursery Krew Inc, avec Charlie Black, Watty et Smokiller. C’est aussi le seul des quatre que l’album Wrecketeng annoncé par Smokiller en décembre 2025 salue nommément pour son influence, avec les enregistrements du Krew. Aucune biographie publique détaillée n’a été trouvée : son nom vit dans les sources à travers le Krew.",
+  ),
+  (
+    "Qu’est-ce que le NKI Medley ?",
+    "Le NKI Medley est l’un des trois enregistrements que Wikipedia attache au nom de Nursery Krew Inc, avec « Peanuts » et « Sorti Desandre », sans date de sortie. Dans la culture des crews et des sound systems, un medley enchaîne des titres ou des extraits en un seul morceau : la vitrine d’un collectif. Il montre un Krew pensé comme une écurie de voix, pas comme un groupe d’un seul titre.",
+  ),
+  (
+    "Nursery Krew Inc a-t-il un lien avec le bouyon soca ?",
+    "Oui, par Dada. Selon le témoignage de première main de Sean « Smokiller » Francis, Dada a inventé le terme bouyon soca et lancé le style en Dominique en 2003, dans les pièces partagées avec la Nursery Krew. Le style est devenu populaire quand Triple Kay et d’autres groupes l’ont adopté. Le producteur qui a lancé le Krew a donc ouvert une autre grande branche. Voir <a href=\"/bouyon-soca.html\">le bouyon soca</a>.",
+  ),
+  (
+    "Qui est Charlie Black, de Nursery Krew Inc ?",
+    "Charlie Black est l’un des noms que Wikipedia associe à Nursery Krew Inc au début des années 2000. Il réapparaît vingt ans plus tard parmi les contributeurs annoncés de l’album Wrecketeng de <a href=\"/smokiller.html\">Smokiller</a>, rapporté par Dominica News Online le 3 décembre 2025, aux côtés de DJ Cut, Klass Money, Keith Goddard, O Banga et Mopo Neck. Son retour dessine la continuité que revendique le projet.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/nursery-krew-inc.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/nursery-krew-inc.html#artist", "name": "Nursery Krew Inc", "description": "Crew dominicain du début des années 2000 qui a fait avancer le Wrecketeng par des enregistrements originaux, avec Burn Brain Jolly, Charlie Black, Watty et Smokiller parmi les noms associés.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Peanuts'}, {"@type": "MusicRecording", "name": 'Sorti Desandre'}, {"@type": "MusicRecording", "name": 'NKI Medley'}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -166,13 +216,63 @@ EN = {
   ],
  ],
  "faq": [
-  ("Who was in Nursery Krew Inc?", "According to the English Wikipedia page on bouyon, the artists and producers associated with Nursery Krew Inc are Burn Brain Jolly, Charlie Black, Watty and Smokiller. No verified source publishes an official membership list for the crew: these are the names associated by Wikipedia. Dada’s biography adds that he brought the group out and produced its songs."),
-  ("Which recordings carry the Nursery Krew Inc name?", "Wikipedia names “Peanuts”, “Sorti Desandre” and the NKI Medley, without giving release years. Dada’s biography, published on Showcase Your Music, names “Peanuts”, “Calaloo” and “Don’t F**k Around”, the last presented as a dancehall song, all produced by Dada. “Peanuts” is the title attested by both sources."),
-  ("What is the link between Nursery Krew Inc and Wrecketeng?", "According to Wikipedia, Nursery Krew Inc further developed Wrecketeng in the early 2000s through original recordings and music production. The style had been opened by DJ Cut and the Bushtown Clan as a remix and sampling practice: the Krew marks the original recordings step in the same lineage."),
-  ("Who produced Nursery Krew Inc’s songs?", "According to the biography of Krishna “Dada” Lawrence published on Showcase Your Music, Dada brought the group out and produced its named songs, including “Peanuts”, “Calaloo” and “Don’t F**k Around”. The biography says the group took Dominica by storm. It is an artist presentation source, and this profile reports it as such."),
-  ("Nursery Krew Inc or Nursery Crew Ink: which spelling is right?", "The English Wikipedia page, Dada’s biography and the reports of the 2025 Wrecketeng project write Nursery Krew Inc. The French Wikipedia page writes “Nursery Crew Ink”, a variant found on that page only. This site uses Nursery Krew Inc."),
-  ("What is the link between Nursery Krew Inc and Smokiller?", "Smokiller is one of the names Wikipedia associates with the crew. In December 2025, Dominica News Online reported his collaborative Wrecketeng album, which acknowledged the influence of Burn Brain Jolly and the Nursery Krew Inc recordings, with Charlie Black among the announced contributors: the 2025 producer documents the crew he was associated with.")
- ],
+  (
+    "Who was in Nursery Krew Inc?",
+    "According to the English Wikipedia page on bouyon, the artists and producers associated with Nursery Krew Inc are Burn Brain Jolly, Charlie Black, Watty and Smokiller. No verified source publishes an official membership list for the crew: these are the names associated by Wikipedia. Dada’s biography adds that he brought the group out and produced its songs.",
+  ),
+  (
+    "Which recordings carry the Nursery Krew Inc name?",
+    "Wikipedia names “Peanuts”, “Sorti Desandre” and the NKI Medley, without giving release years. Dada’s biography, published on Showcase Your Music, names “Peanuts”, “Calaloo” and “Don’t F**k Around”, the last presented as a dancehall song, all produced by Dada. “Peanuts” is the title attested by both sources.",
+  ),
+  (
+    "What is the link between Nursery Krew Inc and Wrecketeng?",
+    "According to Wikipedia, Nursery Krew Inc further developed Wrecketeng in the early 2000s through original recordings and music production. The style had been opened by DJ Cut and the Bushtown Clan as a remix and sampling practice: the Krew marks the original recordings step in the same lineage. See <a href=\"/en/wrecketeng.html\">Wrecketeng</a>.",
+  ),
+  (
+    "Who produced Nursery Krew Inc’s songs?",
+    "According to the artist biography of <a href=\"/en/dada.html\">Dada</a> published on Showcase Your Music, Dada brought the group out and produced its named songs, including “Peanuts”, “Calaloo” and “Don’t F**k Around”. The biography says the group took Dominica by storm. It is an artist presentation source, and this profile reports it as such.",
+  ),
+  (
+    "Nursery Krew Inc or Nursery Crew Ink: which spelling is right?",
+    "The right spelling is Nursery Krew Inc: it is the one used by the English Wikipedia page, Dada’s biography and the reports of the 2025 Wrecketeng project. The French Wikipedia page writes “Nursery Crew Ink”, a variant found on that page only. This site uses Nursery Krew Inc, shortened to NKI.",
+  ),
+  (
+    "What is the link between Nursery Krew Inc and Smokiller?",
+    "Smokiller is one of the names Wikipedia associates with the crew. In December 2025, Dominica News Online reported his collaborative Wrecketeng album, which acknowledged the influence of Burn Brain Jolly and the Nursery Krew Inc recordings, with Charlie Black among the announced contributors: the 2025 producer documents the crew he was associated with.",
+  ),
+  (
+    "What does NKI stand for in bouyon?",
+    "NKI stands for Nursery Krew Inc, a Dominican crew of the early 2000s associated with Wrecketeng. The initials appear in the title of the NKI Medley, one of the three recordings Wikipedia attaches to the crew alongside “Peanuts” and “Sorti Desandre”. Those recordings contributed, according to the same source, to the style’s development and its recognition within Dominica.",
+  ),
+  (
+    "Where is Nursery Krew Inc from, and when was it active?",
+    "Nursery Krew Inc is a crew from Dominica, active in the early 2000s, according to the English Wikipedia page on bouyon. It was neither a founding era live band like WCK nor a solo artist: it was a collective of artists and producers gathered around studio work. No verified source gives an exact formation date.",
+  ),
+  (
+    "What is the difference between Nursery Krew Inc and the Bushtown Clan?",
+    "The <a href=\"/en/bushtown-clan.html\">Bushtown Clan</a> developed and popularised Wrecketeng through DJ practice, remixes and sampling; Nursery Krew Inc signed original recordings in the same lineage. The two are linked: according to his biography, Dada grew up around the Bushtown Clan members before bringing out the Krew. The Clan inspires and forms, Dada produces, the Krew records.",
+  ),
+  (
+    "What is the difference between Nursery Krew Inc and Triple Kay?",
+    "Triple Kay International, formed in Laudat, is an energetic stage band, one of Dominica’s prominent bouyon groups of the 2000s. Nursery Krew Inc is a studio crew, on the production side associated with Wrecketeng. Both paths grew modern bouyon in parallel, and one producer links them: Dada, who worked with Triple Kay and brought out the Krew.",
+  ),
+  (
+    "Who is Burn Brain Jolly?",
+    "Burn Brain Jolly is one of the four names Wikipedia associates with Nursery Krew Inc, with Charlie Black, Watty and Smokiller. He is also the only one of the four that the Wrecketeng album announced by Smokiller in December 2025 acknowledges by name for his influence, together with the Krew’s recordings. No detailed public biography was found: his name lives in the sources through the Krew.",
+  ),
+  (
+    "What is the NKI Medley?",
+    "The NKI Medley is one of the three recordings Wikipedia attaches to the Nursery Krew Inc name, with “Peanuts” and “Sorti Desandre”, without a release date. In crew and sound system culture, a medley runs titles or excerpts together as a single piece: the showcase of a collective. It shows a Krew built as a stable of voices, not a one song group.",
+  ),
+  (
+    "Is Nursery Krew Inc connected to bouyon soca?",
+    "Yes, through Dada. According to the first-hand testimony of Sean “Smokiller” Francis, Dada coined the term bouyon soca and started the style in Dominica in 2003, in the rooms shared with the Nursery Krew. The style became popular when Triple Kay and other bands adopted it. The producer who brought out the Krew therefore opened another major branch. See <a href=\"/en/bouyon-soca.html\">bouyon soca</a>.",
+  ),
+  (
+    "Who is Charlie Black of Nursery Krew Inc?",
+    "Charlie Black is one of the names Wikipedia associates with Nursery Krew Inc in the early 2000s. He reappears twenty years later among the announced contributors to <a href=\"/en/smokiller.html\">Smokiller</a>’s Wrecketeng album, reported by Dominica News Online on December 3, 2025, alongside DJ Cut, Klass Money, Keith Goddard, O Banga and Mopo Neck. His return draws the continuity the project claims.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/nursery-krew-inc.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/nursery-krew-inc.html#artist", "name": "Nursery Krew Inc", "description": "Early 2000s Dominican crew that further developed Wrecketeng through original recordings, with Burn Brain Jolly, Charlie Black, Watty and Smokiller among the associated names.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Peanuts'}, {"@type": "MusicRecording", "name": 'Sorti Desandre'}, {"@type": "MusicRecording", "name": 'NKI Medley'}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
