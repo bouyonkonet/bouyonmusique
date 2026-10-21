@@ -93,7 +93,344 @@ FR = {
   ("qu’est-ce que « Little Miss Arima » ?", "C’est son deuxième album, annoncé en novembre 2024 : 13 titres mêlant soca, dancehall et rythmes insulaires, avec M1, Lady Lava, Jahllano, Freetown Collective, Vghn et Yung Bredda, distribué par Monk Music. Elle le présente comme une lettre d’amour à Arima, la ville où elle a été élevée, et sa pochette honore son ascendance parmi les Premiers Peuples de Trinidad et Tobago."),
   ("Quelle première historique Nessa Preppy a-t-elle signée au Brésil ?", "Selon Soca News, le 26 juillet 2025, elle est devenue la première artiste soca à se produire au Festival Latinidades de Brasília, le plus grand festival d’Amérique latine consacré à l’art et à la culture des femmes noires, dont cette édition a réuni environ 8 000 personnes.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/nessa-preppy.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/nessa-preppy.html#artist", "name": "Nessa Preppy", "description": "Chanteuse de soca de Trinidad et Tobago, de son vrai nom Vanessa John. Née en Allemagne et élevée à Arima, révélée par Tingo en 2018, portée par le remix d’Issa Snack avec Machel Montano, auteure des albums The Art of Flex et Little Miss Arima.", "genre": "Soca", "track": [{"@type": "MusicRecording", "name": "Tingo"}, {"@type": "MusicRecording", "name": "Issa Snack"}, {"@type": "MusicRecording", "name": "Issa Snack (Remix)"}, {"@type": "MusicRecording", "name": "Right Now"}, {"@type": "MusicRecording", "name": "Tingin'"}, {"@type": "MusicRecording", "name": "Matey"}, {"@type": "MusicRecording", "name": "Splash"}, {"@type": "MusicRecording", "name": "Toat No Feelings"}, {"@type": "MusicRecording", "name": "Who Ready!"}, {"@type": "MusicRecording", "name": "Dyam Ting"}, {"@type": "MusicRecording", "name": "By Mehself"}, {"@type": "MusicRecording", "name": "Permission"}, {"@type": "MusicRecording", "name": "Sha La La"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/nessa-preppy.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/nessa-preppy.html#artist", "name": "Nessa Preppy", "description": "Chanteuse de soca de Trinidad et Tobago, de son vrai nom Vanessa John. Née en Allemagne et élevée à Arima, révélée par Tingo en 2018, portée par le remix d’Issa Snack avec Machel Montano, auteure des albums The Art of Flex et Little Miss Arima.", "genre": "Soca", "track": [{"@type": "MusicRecording", "name": "Tingo"}, {"@type": "MusicRecording", "name": "Issa Snack"}, {"@type": "MusicRecording", "name": "Issa Snack (Remix)"}, {"@type": "MusicRecording", "name": "Right Now"}, {"@type": "MusicRecording", "name": "Tingin'"}, {"@type": "MusicRecording", "name": "Matey"}, {"@type": "MusicRecording", "name": "Splash"}, {"@type": "MusicRecording", "name": "Toat No Feelings"}, {"@type": "MusicRecording", "name": "Who Ready!"}, {"@type": "MusicRecording", "name": "Dyam Ting"}, {"@type": "MusicRecording", "name": "By Mehself"}, {"@type": "MusicRecording", "name": "Permission"}, {"@type": "MusicRecording", "name": "Sha La La"},
+      {
+       "@type": "MusicRecording",
+       "name": "Warm Up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hot Gyal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wassi"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Feelings"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Front Way"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Feel It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bless D Dance"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Baddie"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Touch The Ground"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Make It Clap"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Go Bestie"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wild"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Or You Don't"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Walk N Wine"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Blessings"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rocket"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Music Is Life"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "On Fire"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cause It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "9 Months Time"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Motion"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Road Friends"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nice Again"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nice Again (Send Out Riddim, Pt. 2)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DRINKZ"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Get Loose"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "To My Ex"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lovah"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Party Gang"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dy Mood (feat. XplicitMevon)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Time Like Now (Road Mix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tek Jam"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Drill Dem"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Show Off"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Beg & Bawl"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Gal Ride"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nasty Flow"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shake It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "NO TIME LIKE NOW (DIGICEL)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Touching It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Double Team"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Hands"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Give It Up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Love Long Time"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lime Light (feat. Konshens)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Together (Digicel Anthem)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fly"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doh Wah Love (Raw)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doh Wah Love"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dollars"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "So High (feat. Boy Boy & London Future)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Take Dat Kool It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TOO BAD (feat. Destra)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bubble"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bounce It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cupid"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Honeypot"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Road Budy (Road Mix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Issa Snack (Roadmix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fling It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Gimme Gimme (feat. Multisymptom)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MAJAH"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Non Stop"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Turn Up the Sound"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Clock Dat Tea"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "911"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Chase"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Back Hurt"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Juicy (feat. Nessa Preppy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dotish love (feat. Nessa Preppy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doh Like Me"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Gooder Than Good"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pretty"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Serious"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shell Down"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sweet Tooth"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Back It Up (feat. Nessa Preppy & Greyc) [Remix]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Horn Back"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Matey (Your Man Is My Man) Refit"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pull Up (feat. Salty)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Road Budy"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bash Gyal (feat. Nessa Preppy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Activate"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fuck Feelings"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -172,6 +509,343 @@ EN = {
   ("What is Little Miss Arima?", "It is her second album, announced in November 2024: 13 tracks blending soca, dancehall and island rhythms, with M1, Lady Lava, Jahllano, Freetown Collective, Vghn and Yung Bredda, distributed by Monk Music. She presents it as a love letter to Arima, the town where she was raised, and its artwork honours her descent from the First Peoples of Trinidad and Tobago."),
   ("What historic first did Nessa Preppy sign in Brazil?", "According to Soca News, on 26 July 2025 she became the first soca artist to perform at Festival Latinidades in Brasília, the largest festival in Latin America dedicated to the art and culture of Black women, whose that edition gathered about 8,000 people.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/nessa-preppy.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/nessa-preppy.html#artist", "name": "Nessa Preppy", "description": "Soca singer from Trinidad and Tobago, real name Vanessa John. Born in Germany and raised in Arima, revealed by Tingo in 2018, carried by the Issa Snack remix with Machel Montano, author of the albums The Art of Flex and Little Miss Arima.", "genre": "Soca", "track": [{"@type": "MusicRecording", "name": "Tingo"}, {"@type": "MusicRecording", "name": "Issa Snack"}, {"@type": "MusicRecording", "name": "Issa Snack (Remix)"}, {"@type": "MusicRecording", "name": "Right Now"}, {"@type": "MusicRecording", "name": "Tingin'"}, {"@type": "MusicRecording", "name": "Matey"}, {"@type": "MusicRecording", "name": "Splash"}, {"@type": "MusicRecording", "name": "Toat No Feelings"}, {"@type": "MusicRecording", "name": "Who Ready!"}, {"@type": "MusicRecording", "name": "Dyam Ting"}, {"@type": "MusicRecording", "name": "By Mehself"}, {"@type": "MusicRecording", "name": "Permission"}, {"@type": "MusicRecording", "name": "Sha La La"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/nessa-preppy.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/nessa-preppy.html#artist", "name": "Nessa Preppy", "description": "Soca singer from Trinidad and Tobago, real name Vanessa John. Born in Germany and raised in Arima, revealed by Tingo in 2018, carried by the Issa Snack remix with Machel Montano, author of the albums The Art of Flex and Little Miss Arima.", "genre": "Soca", "track": [{"@type": "MusicRecording", "name": "Tingo"}, {"@type": "MusicRecording", "name": "Issa Snack"}, {"@type": "MusicRecording", "name": "Issa Snack (Remix)"}, {"@type": "MusicRecording", "name": "Right Now"}, {"@type": "MusicRecording", "name": "Tingin'"}, {"@type": "MusicRecording", "name": "Matey"}, {"@type": "MusicRecording", "name": "Splash"}, {"@type": "MusicRecording", "name": "Toat No Feelings"}, {"@type": "MusicRecording", "name": "Who Ready!"}, {"@type": "MusicRecording", "name": "Dyam Ting"}, {"@type": "MusicRecording", "name": "By Mehself"}, {"@type": "MusicRecording", "name": "Permission"}, {"@type": "MusicRecording", "name": "Sha La La"},
+      {
+       "@type": "MusicRecording",
+       "name": "Warm Up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hot Gyal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wassi"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Feelings"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Front Way"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Feel It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bless D Dance"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Baddie"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Touch The Ground"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Make It Clap"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Go Bestie"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wild"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Or You Don't"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Walk N Wine"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Blessings"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rocket"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Music Is Life"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "On Fire"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cause It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "9 Months Time"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Motion"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Road Friends"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nice Again"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nice Again (Send Out Riddim, Pt. 2)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DRINKZ"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Get Loose"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "To My Ex"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lovah"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Party Gang"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dy Mood (feat. XplicitMevon)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Time Like Now (Road Mix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tek Jam"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Drill Dem"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Show Off"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Beg & Bawl"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Gal Ride"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nasty Flow"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shake It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "NO TIME LIKE NOW (DIGICEL)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Touching It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Double Team"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Hands"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Give It Up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Love Long Time"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lime Light (feat. Konshens)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Together (Digicel Anthem)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fly"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doh Wah Love (Raw)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doh Wah Love"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dollars"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "So High (feat. Boy Boy & London Future)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Take Dat Kool It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TOO BAD (feat. Destra)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bubble"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bounce It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cupid"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Honeypot"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Road Budy (Road Mix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Issa Snack (Roadmix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fling It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Gimme Gimme (feat. Multisymptom)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MAJAH"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Non Stop"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Turn Up the Sound"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Clock Dat Tea"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "911"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Chase"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Back Hurt"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Juicy (feat. Nessa Preppy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dotish love (feat. Nessa Preppy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doh Like Me"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Gooder Than Good"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pretty"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Serious"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shell Down"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sweet Tooth"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Back It Up (feat. Nessa Preppy & Greyc) [Remix]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Horn Back"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Matey (Your Man Is My Man) Refit"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pull Up (feat. Salty)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Road Budy"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bash Gyal (feat. Nessa Preppy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Activate"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fuck Feelings"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
