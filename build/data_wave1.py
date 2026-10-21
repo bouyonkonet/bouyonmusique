@@ -296,8 +296,64 @@ PAGES = [
       {
        "@type": "MusicRecording",
        "name": "Down"
-      }
-     ]
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Batty Bubble"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bwé Rhum"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Taking Over"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mad People Fete"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fete Is Fete"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stampede"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Flags Up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Simon Say"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "In She Garden (Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Take Jam (feat. Asa Bantan)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bwé Rhum (Bouyon Kings Mixtape)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Play Mass (feat. Asa Bantan)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Better Than Your Boyfriend (feat. Asa Bantan)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Made It (feat. Asa Bantan)"
+      },
+]
     }
    }
   ],
@@ -2009,7 +2065,19 @@ PAGES = [
        "@type": "MusicRecording",
        "name": "No Time 4 Stress"
       },
-     ]
+      {
+       "@type": "MusicRecording",
+       "name": "Have What They Have"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stick It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Boosolavi"
+      },
+]
     }
    }
   ]
