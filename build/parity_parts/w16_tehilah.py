@@ -81,7 +81,96 @@ FR = {
   ("Tehilah est elle l’artiste britannique de l’EP « Still Here » ?", "Non. L’auteure de « Still Here » s’écrit Tehillah, avec un double l, et son label la présente comme une créatrice née et basée dans le sud est de l’Angleterre. La Tehilah de ce profil s’écrit avec un seul l, porte l’accent sur le e dans son crédit complet, Kelsey Téhilah LeBlanc, et son dossier publié est entièrement dominicain : présentation radio de 2021, duo avec Reo en 2025, nomination en 2026."),
   ("Où écouter Tehilah ?", "Sur « La vie doux » de <a href=\"/reo.html\">Reo</a>, disponible sur les plateformes depuis le 26 juin 2025, et dans le mix Bouyon Music 2026 Vol. 1 de Bouyon Shattaz où le duo figure en chapitre. Pour le bouyon de la même saison, écoutez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> et lisez notre page <a href=\"/bouyon-dominique.html\">bouyon Dominique</a>.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/tehilah.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/tehilah.html#artist", "name": "Tehilah", "description": "Chanteuse de la Dominique, Kelsey Tehilah LeBlanc. Présentée en 2021 pour son style Antillean Soul, voix douce, guitare autodidacte et débuts dans la chorale. Co créditée avec Reo sur La vie doux, sorti le 26 juin 2025, rapporté numéro 4 du classement Outre-Mer Songs et nommé chanson bouyon de l’année aux Caribbean Music Awards 2026. Aucun titre solo vérifié à ce jour.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'La vie doux'}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/tehilah.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/tehilah.html#artist", "name": "Tehilah", "description": "Chanteuse de la Dominique, Kelsey Tehilah LeBlanc. Présentée en 2021 pour son style Antillean Soul, voix douce, guitare autodidacte et débuts dans la chorale. Co créditée avec Reo sur La vie doux, sorti le 26 juin 2025, rapporté numéro 4 du classement Outre-Mer Songs et nommé chanson bouyon de l’année aux Caribbean Music Awards 2026. Aucun titre solo vérifié à ce jour.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'La vie doux'},
+      {
+       "@type": "MusicRecording",
+       "name": "All By Myself"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Vices (I Can't Go Without it)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Angel Bby"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Breathe"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Apology (stripped)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Quiet Nights"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DARE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DND BADDIE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "OvOs"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Move"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dazed"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dried Roses"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lapidé Yo (feat. Téhilah)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Folded (Cover) [feat. Téhilah]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "White Toes (feat. Téhilah)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Strange Love (feat. Téhilah)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Throw That Booty Back (feat. Cherié & Téhilah)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wave"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pull Up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "EMOTIONAL TIES (feat. Téhilah)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Won't Let Up (feat. Téhilah)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Issa Vybe (feat. Téhilah)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -158,6 +247,95 @@ EN = {
   ("Is Tehilah the British artist of the “Still Here” EP?", "No. The author of “Still Here” is spelled Tehillah, with a double l, and her label presents her as a creative born and based in the South East of England. The Tehilah of this profile is spelled with a single l, carries the accent on the e in her full credit, Kelsey Téhilah LeBlanc, and her published file is entirely Dominican: radio presentation in 2021, duet with Reo in 2025, nomination in 2026."),
   ("Where can I hear Tehilah?", "On “La vie doux” by <a href=\"/en/reo.html\">Reo</a>, available on the platforms since June 26, 2025, and in the Bouyon Music 2026 Mix Vol. 1 by Bouyon Shattaz where the duet appears as a chapter. For the bouyon of the same season, hear our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> and read our <a href=\"/en/bouyon-dominica.html\">bouyon Dominica</a> page.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/tehilah.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/tehilah.html#artist", "name": "Tehilah", "description": "Singer from Dominica, Kelsey Tehilah LeBlanc. Presented in 2021 for her Antillean Soul style, soft voice, self taught guitar and church choir beginnings. Co credited with Reo on La vie doux, released June 26, 2025, reported number 4 in the Outre-Mer Songs chart and nominated as Bouyon Song of the Year at the 2026 Caribbean Music Awards. No verified solo record so far.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'La vie doux'}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/tehilah.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/tehilah.html#artist", "name": "Tehilah", "description": "Singer from Dominica, Kelsey Tehilah LeBlanc. Presented in 2021 for her Antillean Soul style, soft voice, self taught guitar and church choir beginnings. Co credited with Reo on La vie doux, released June 26, 2025, reported number 4 in the Outre-Mer Songs chart and nominated as Bouyon Song of the Year at the 2026 Caribbean Music Awards. No verified solo record so far.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'La vie doux'},
+      {
+       "@type": "MusicRecording",
+       "name": "All By Myself"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Vices (I Can't Go Without it)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Angel Bby"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Breathe"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Apology (stripped)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Quiet Nights"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DARE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DND BADDIE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "OvOs"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Move"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dazed"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dried Roses"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lapidé Yo (feat. Téhilah)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Folded (Cover) [feat. Téhilah]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "White Toes (feat. Téhilah)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Strange Love (feat. Téhilah)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Throw That Booty Back (feat. Cherié & Téhilah)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wave"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pull Up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "EMOTIONAL TIES (feat. Téhilah)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Won't Let Up (feat. Téhilah)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Issa Vybe (feat. Téhilah)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

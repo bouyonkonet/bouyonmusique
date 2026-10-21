@@ -80,7 +80,28 @@ FR = {
   ("Pourquoi certains tracklists écrivent-ils « Binkdrick » ?", "Parce que les listes de titres des mixes se recopient de DJ en DJ, et qu’au moins une liste en circulation a perdu le s du nom. L’orthographe des crédits officiels, sur Qobuz et Shazam, est « Binksdrick ». Pour un artiste à un seul crédit, cette faute compte : elle rend le nom introuvable dans les recherches de plateformes."),
   ("Où écouter Binksdrick et découvrir son cercle ?", "Commencez par « Leave Me Alone » dans notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, puis lisez les profils de <a href=\"/1t1.html\">1T1</a> et de <a href=\"/lejuh.html\">Lejuh</a> sur ce site : ce sont les deux noms du même titre dont les catalogues complets permettent de replacer le crédit de Binksdrick dans la scène bouyon de Guadeloupe.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/binksdrick.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/binksdrick.html#artist", "name": "Binksdrick", "description": "Artiste bouyon de Guadeloupe connu par un crédit vérifié : featuring sur Leave Me Alone de 1T1 (6 septembre 2024) avec Dinho, Lejuh et Theomaa. Aucun titre solo ni biographie publiés dans les sources consultées.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Leave Me Alone"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/binksdrick.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/binksdrick.html#artist", "name": "Binksdrick", "description": "Artiste bouyon de Guadeloupe connu par un crédit vérifié : featuring sur Leave Me Alone de 1T1 (6 septembre 2024) avec Dinho, Lejuh et Theomaa. Aucun titre solo ni biographie publiés dans les sources consultées.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Leave Me Alone"},
+      {
+       "@type": "MusicRecording",
+       "name": "QUE PASA (feat. Binksdrick)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "1er Feu (feat. Binksdrick, Miimii, Qwann & Dinho)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BS"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Flex"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pikéy"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -156,6 +177,27 @@ EN = {
   ("Why do some tracklists write “Binkdrick”?", "Because mix tracklists are copied from DJ to DJ, and at least one circulating list lost the s of the name. The spelling in the official credits, on Qobuz and Shazam, is “Binksdrick”. For a one credit artist, that mistake matters: it makes the name unfindable in platform searches."),
   ("Where can I hear Binksdrick and discover his circle?", "Start with “Leave Me Alone” in our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, then read the profiles of <a href=\"/en/1t1.html\">1T1</a> and <a href=\"/en/lejuh.html\">Lejuh</a> on this site: they are the two names from the same record whose full catalogues let you place the credit of Binksdrick inside the Guadeloupe bouyon scene.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/binksdrick.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/binksdrick.html#artist", "name": "Binksdrick", "description": "Bouyon artist from Guadeloupe known through one verified credit: a feature on Leave Me Alone by 1T1 (6 September 2024) with Dinho, Lejuh and Theomaa. No solo record or biography published in the sources consulted.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Leave Me Alone"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/binksdrick.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/binksdrick.html#artist", "name": "Binksdrick", "description": "Bouyon artist from Guadeloupe known through one verified credit: a feature on Leave Me Alone by 1T1 (6 September 2024) with Dinho, Lejuh and Theomaa. No solo record or biography published in the sources consulted.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Leave Me Alone"},
+      {
+       "@type": "MusicRecording",
+       "name": "QUE PASA (feat. Binksdrick)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "1er Feu (feat. Binksdrick, Miimii, Qwann & Dinho)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BS"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Flex"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pikéy"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

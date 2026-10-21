@@ -77,7 +77,36 @@ FR = {
   ("Pourquoi les plateformes classent-elles Faithii en reggae alors qu’elle fait du bouyon ?", "Parce que les bases de données des plateformes identifient mal le bouyon : les fiches de référence de ses trois titres les rangent sous le genre reggae, alors qu’ils tournent à 160 BPM, circulent dans les mixes bouyon des DJ et sont couronnés par la scène bouyon de la Dominique. C’est un cas documenté du problème de crédit et d’étiquetage qui touche tout le genre, né en Dominique et encore mal rangé par les catalogues mondiaux."),
   ("Quand Faithii chante-t-elle avec Reo en 2026 ?", "Le programme officiel de Ti Vilaj Kwéyòl 2026 annonce Reo et Faithii ensemble le jeudi 22 octobre 2026 à 16 h 26, aux Jardins botaniques de Roseau, jour de la grande finale, sur le même bloc que Trilla G et Prymex. C’est la suite scénique de leurs titres communs, « I Know Y » et « No Money No Honey ».")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/faithii.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/faithii.html#artist", "name": "Faithii", "description": "Chanteuse bouyon de la Dominique, dite Bouyon Barbie. Singles Superstar et No Money No Honey en 2024 sur Bouyon Barbie Music, featuring sur I Know Y de Reo, artiste féminine de l’année aux Dominica Music Awards 2025.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "I Know Y"}, {"@type": "MusicRecording", "name": "SUPERSTAR"}, {"@type": "MusicRecording", "name": "No Money No Honey"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/faithii.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/faithii.html#artist", "name": "Faithii", "description": "Chanteuse bouyon de la Dominique, dite Bouyon Barbie. Singles Superstar et No Money No Honey en 2024 sur Bouyon Barbie Music, featuring sur I Know Y de Reo, artiste féminine de l’année aux Dominica Music Awards 2025.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "I Know Y"}, {"@type": "MusicRecording", "name": "SUPERSTAR"}, {"@type": "MusicRecording", "name": "No Money No Honey"},
+      {
+       "@type": "MusicRecording",
+       "name": "Clock Dat Tea"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Trippin'"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Come On Baby (feat. Trilla-G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Like It Like That"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Feelings (feat. Faithii)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I know y (kenny g) (feat. Faithii)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Have What They Have"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -149,6 +178,35 @@ EN = {
   ("Why do platforms file Faithii as reggae when she makes bouyon?", "Because platform databases identify bouyon poorly: the reference listings of her three records file them under the reggae genre, while they run at 160 BPM, circulate in the bouyon mixes of DJs and are crowned by the bouyon scene of Dominica. It is a documented case of the credit and labelling problem that touches the whole genre, born in Dominica and still badly filed by world catalogues."),
   ("When does Faithii perform with Reo in 2026?", "The official Ti Vilaj Kweyol 2026 programme bills Reo and Faithii together on Thursday October 22, 2026 at 4:26 PM, at the Botanic Gardens in Roseau, grand finale day, on the same block as Trilla G and Prymex. It is the stage sequel to their joint records, “I Know Y” and “No Money No Honey”.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/faithii.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/faithii.html#artist", "name": "Faithii", "description": "Bouyon singer from Dominica, known as Bouyon Barbie. Singles Superstar and No Money No Honey in 2024 on Bouyon Barbie Music, featured on Reo I Know Y, Female Artist of the Year at the Dominica Music Awards 2025.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "I Know Y"}, {"@type": "MusicRecording", "name": "SUPERSTAR"}, {"@type": "MusicRecording", "name": "No Money No Honey"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/faithii.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/faithii.html#artist", "name": "Faithii", "description": "Bouyon singer from Dominica, known as Bouyon Barbie. Singles Superstar and No Money No Honey in 2024 on Bouyon Barbie Music, featured on Reo I Know Y, Female Artist of the Year at the Dominica Music Awards 2025.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "I Know Y"}, {"@type": "MusicRecording", "name": "SUPERSTAR"}, {"@type": "MusicRecording", "name": "No Money No Honey"},
+      {
+       "@type": "MusicRecording",
+       "name": "Clock Dat Tea"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Trippin'"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Come On Baby (feat. Trilla-G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Like It Like That"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Feelings (feat. Faithii)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I know y (kenny g) (feat. Faithii)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Have What They Have"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

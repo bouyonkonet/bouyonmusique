@@ -91,7 +91,44 @@ FR = {
   ("Qui a composé « Je l’ai vu » et qui chante avec HollyG ?", "Le clip officiel crédite HollyG et Arendi comme auteurs du titre, Dj Flip Tha Boss comme compositeur, et associe VJ Ben au titre et au clip. L’enregistrement est crédité au Voodoo Studio et la production réunit Vadore Concept, Voodoo Studio, The Best Prod et Dj Raptor Martinique. Le SNEP enregistre le titre sous les noms Holly G et Arendi."),
   ("Quels sont les titres de HollyG à écouter en premier ?", "Commencez par « Bandit », sorti le 16 septembre 2021 et présenté comme le titre phare du groupe avec plus de 9 millions de vues selon sa biographie, puis « Je l’ai vu », sorti le 22 octobre 2021, dépassant les 10 millions de vues et certifié single d’or en 2025. Poursuivez avec « Ma belle », « Kon Jant », « Mood » et « Coller la petite », et retrouvez le groupe dans notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/holly-g.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/holly-g.html#artist", "name": "HollyG", "description": "Trio familial bouyon de Trois-Rivières et Vieux-Habitants, en Basse-Terre, Guadeloupe, formé de Holly et de ses nièces 6 Tresses et Cheveux Rouge. Je l’ai vu, avec Arendi, certifié single d’or par le SNEP en France, constat du 10 juillet 2025.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bandit"}, {"@type": "MusicRecording", "name": "Je l’ai vu"}, {"@type": "MusicRecording", "name": "Ma belle"}, {"@type": "MusicRecording", "name": "Kon Jant"}, {"@type": "MusicRecording", "name": "23H"}, {"@type": "MusicRecording", "name": "Je l’ai vu (Charles V Remix)"}, {"@type": "MusicRecording", "name": "Tibilap Tibilap"}, {"@type": "MusicRecording", "name": "Mood"}, {"@type": "MusicRecording", "name": "Chounette Cluny"}, {"@type": "MusicRecording", "name": "Wa Coco"}, {"@type": "MusicRecording", "name": "Coller la petite"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/holly-g.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/holly-g.html#artist", "name": "HollyG", "description": "Trio familial bouyon de Trois-Rivières et Vieux-Habitants, en Basse-Terre, Guadeloupe, formé de Holly et de ses nièces 6 Tresses et Cheveux Rouge. Je l’ai vu, avec Arendi, certifié single d’or par le SNEP en France, constat du 10 juillet 2025.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bandit"}, {"@type": "MusicRecording", "name": "Je l’ai vu"}, {"@type": "MusicRecording", "name": "Ma belle"}, {"@type": "MusicRecording", "name": "Kon Jant"}, {"@type": "MusicRecording", "name": "23H"}, {"@type": "MusicRecording", "name": "Je l’ai vu (Charles V Remix)"}, {"@type": "MusicRecording", "name": "Tibilap Tibilap"}, {"@type": "MusicRecording", "name": "Mood"}, {"@type": "MusicRecording", "name": "Chounette Cluny"}, {"@type": "MusicRecording", "name": "Wa Coco"}, {"@type": "MusicRecording", "name": "Coller la petite"},
+      {
+       "@type": "MusicRecording",
+       "name": "Coco (feat. Shanika, Holly beiiy & HollyG)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Anlè Sa"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Boat"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Holiday"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ou vé sa"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pull up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dan la déwo (feat. HollyG)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "bla bla bla (feat. HollyG & Shanika)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Twerk (feat. HollyG) [Bonus]"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -178,6 +215,43 @@ EN = {
   ("Who composed “Je l’ai vu” and who sings with HollyG?", "The official video credits HollyG and Arendi as writers of the track, Dj Flip Tha Boss as composer, and associates VJ Ben with the track and the video. Recording is credited to Voodoo Studio and production brings together Vadore Concept, Voodoo Studio, The Best Prod and Dj Raptor Martinique. SNEP records the track under the names Holly G and Arendi."),
   ("Which HollyG tracks should I hear first?", "Start with “Bandit”, released on 16 September 2021 and presented as the group flagship track with over 9 million views according to its biography, then “Je l’ai vu”, released on 22 October 2021, passing 10 million views and certified gold single in 2025. Continue with “Ma belle”, “Kon Jant”, “Mood” and “Coller la petite”, and find the group in our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/holly-g.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/holly-g.html#artist", "name": "HollyG", "description": "Family bouyon trio from Trois-Rivières and Vieux-Habitants, in Basse-Terre, Guadeloupe, made up of Holly and her nieces 6 Tresses and Cheveux Rouge. Je l’ai vu, with Arendi, certified gold single by SNEP in France, recorded on 10 July 2025.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bandit"}, {"@type": "MusicRecording", "name": "Je l’ai vu"}, {"@type": "MusicRecording", "name": "Ma belle"}, {"@type": "MusicRecording", "name": "Kon Jant"}, {"@type": "MusicRecording", "name": "23H"}, {"@type": "MusicRecording", "name": "Je l’ai vu (Charles V Remix)"}, {"@type": "MusicRecording", "name": "Tibilap Tibilap"}, {"@type": "MusicRecording", "name": "Mood"}, {"@type": "MusicRecording", "name": "Chounette Cluny"}, {"@type": "MusicRecording", "name": "Wa Coco"}, {"@type": "MusicRecording", "name": "Coller la petite"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/holly-g.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/holly-g.html#artist", "name": "HollyG", "description": "Family bouyon trio from Trois-Rivières and Vieux-Habitants, in Basse-Terre, Guadeloupe, made up of Holly and her nieces 6 Tresses and Cheveux Rouge. Je l’ai vu, with Arendi, certified gold single by SNEP in France, recorded on 10 July 2025.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bandit"}, {"@type": "MusicRecording", "name": "Je l’ai vu"}, {"@type": "MusicRecording", "name": "Ma belle"}, {"@type": "MusicRecording", "name": "Kon Jant"}, {"@type": "MusicRecording", "name": "23H"}, {"@type": "MusicRecording", "name": "Je l’ai vu (Charles V Remix)"}, {"@type": "MusicRecording", "name": "Tibilap Tibilap"}, {"@type": "MusicRecording", "name": "Mood"}, {"@type": "MusicRecording", "name": "Chounette Cluny"}, {"@type": "MusicRecording", "name": "Wa Coco"}, {"@type": "MusicRecording", "name": "Coller la petite"},
+      {
+       "@type": "MusicRecording",
+       "name": "Coco (feat. Shanika, Holly beiiy & HollyG)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Anlè Sa"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Boat"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Holiday"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ou vé sa"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pull up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dan la déwo (feat. HollyG)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "bla bla bla (feat. HollyG & Shanika)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Twerk (feat. HollyG) [Bonus]"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

@@ -82,7 +82,48 @@ FR = {
   ("Quel est le lien entre LESTEF KJF BOYZ et DJ Luchshiy ?", "La collaboration est documentée dans les deux sens. En décembre 2023, Lestef est invité sur « Xmas Freestyle » et « Chabin » de <a href=\"/dj-luchshiy.html\">DJ Luchshiy</a>, avec Edday. En 2025 et 2026, le groupe accueille DJ Luchshiy sur ses propres singles « No Come Back (Whatcha Say) » et « Take Ur Time », sortis sur le label du DJ, LUCHSHIY AND BRO."),
   ("Qu’est-ce que « Riddim Aleatoire » ?", "« Riddim Aleatoire » est l’EP de LESTEF KJF BOYZ sorti le 18 juin 2025 sous le label LESTEF KJF. Ses cinq titres, « Karibbean Gyal », « Look My Style », « Ride It », « Ratatouille Live » et « Are U Ready », sont tous écrits par Stephan Cornano. Écoutez aussi notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> pour le contexte de la scène.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/lestef-kjf-boyz.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/lestef-kjf-boyz.html#artist", "name": "LESTEF KJF BOYZ", "description": "Groupe de Guadeloupe. Serie KJF (KJF 2, KJF 4, KJF 5), 50/50 avec Team Bwe Tou Sa, KKV, Malpale, co-ecriture de La Boue de Meryl, EP Riddim Aleatoire (2025) et singles avec DJ Luchshiy. Ecriture centrale : Stephan Cornano.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "KJF 4"}, {"@type": "MusicRecording", "name": "50/50"}, {"@type": "MusicRecording", "name": "KJF 2"}, {"@type": "MusicRecording", "name": "KJF 5"}, {"@type": "MusicRecording", "name": "TAKE IT OUT"}, {"@type": "MusicRecording", "name": "KKV"}, {"@type": "MusicRecording", "name": "MALPALÉ"}, {"@type": "MusicRecording", "name": "MORNE FLEURET FREESTYLE"}, {"@type": "MusicRecording", "name": "La Boue"}, {"@type": "MusicRecording", "name": "Karibbean Gyal"}, {"@type": "MusicRecording", "name": "NO COME BACK (WHATCHA SAY)"}, {"@type": "MusicRecording", "name": "TAKE UR TIME"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/lestef-kjf-boyz.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/lestef-kjf-boyz.html#artist", "name": "LESTEF KJF BOYZ", "description": "Groupe de Guadeloupe. Serie KJF (KJF 2, KJF 4, KJF 5), 50/50 avec Team Bwe Tou Sa, KKV, Malpale, co-ecriture de La Boue de Meryl, EP Riddim Aleatoire (2025) et singles avec DJ Luchshiy. Ecriture centrale : Stephan Cornano.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "KJF 4"}, {"@type": "MusicRecording", "name": "50/50"}, {"@type": "MusicRecording", "name": "KJF 2"}, {"@type": "MusicRecording", "name": "KJF 5"}, {"@type": "MusicRecording", "name": "TAKE IT OUT"}, {"@type": "MusicRecording", "name": "KKV"}, {"@type": "MusicRecording", "name": "MALPALÉ"}, {"@type": "MusicRecording", "name": "MORNE FLEURET FREESTYLE"}, {"@type": "MusicRecording", "name": "La Boue"}, {"@type": "MusicRecording", "name": "Karibbean Gyal"}, {"@type": "MusicRecording", "name": "NO COME BACK (WHATCHA SAY)"}, {"@type": "MusicRecording", "name": "TAKE UR TIME"},
+      {
+       "@type": "MusicRecording",
+       "name": "I JUST WANT (feat. BRG HOLLYWOOD & DINHO)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "NASTY GIRL (feat. GWADA G & JOSHII G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Open DI Place"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Are U Ready"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ratatouille Live"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ride It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Look My Style"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nou Chô (feat. FREDDY & LESTEF KJF BOYZ)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Position"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Freestyle Loup Garou"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -161,6 +202,47 @@ EN = {
   ("What is the link between LESTEF KJF BOYZ and DJ Luchshiy?", "The collaboration is documented in both directions. In December 2023, Lestef was featured on <a href=\"/en/dj-luchshiy.html\">DJ Luchshiy</a> “Xmas Freestyle” and “Chabin”, with Edday. In 2025 and 2026, the group hosted DJ Luchshiy on its own singles “No Come Back (Whatcha Say)” and “Take Ur Time”, released on the DJ label, LUCHSHIY AND BRO."),
   ("What is “Riddim Aleatoire”?", "“Riddim Aleatoire” is the LESTEF KJF BOYZ EP released on June 18, 2025 under the label LESTEF KJF. Its five tracks, “Karibbean Gyal”, “Look My Style”, “Ride It”, “Ratatouille Live” and “Are U Ready”, are all written by Stephan Cornano. Hear our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> too for the context of the scene.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/lestef-kjf-boyz.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/lestef-kjf-boyz.html#artist", "name": "LESTEF KJF BOYZ", "description": "Group from Guadeloupe. KJF series (KJF 2, KJF 4, KJF 5), 50/50 with Team Bwe Tou Sa, KKV, Malpale, co-writing credit on Meryl La Boue, EP Riddim Aleatoire (2025) and singles with DJ Luchshiy. Central writing: Stephan Cornano.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "KJF 4"}, {"@type": "MusicRecording", "name": "50/50"}, {"@type": "MusicRecording", "name": "KJF 2"}, {"@type": "MusicRecording", "name": "KJF 5"}, {"@type": "MusicRecording", "name": "TAKE IT OUT"}, {"@type": "MusicRecording", "name": "KKV"}, {"@type": "MusicRecording", "name": "MALPALÉ"}, {"@type": "MusicRecording", "name": "MORNE FLEURET FREESTYLE"}, {"@type": "MusicRecording", "name": "La Boue"}, {"@type": "MusicRecording", "name": "Karibbean Gyal"}, {"@type": "MusicRecording", "name": "NO COME BACK (WHATCHA SAY)"}, {"@type": "MusicRecording", "name": "TAKE UR TIME"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/lestef-kjf-boyz.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/lestef-kjf-boyz.html#artist", "name": "LESTEF KJF BOYZ", "description": "Group from Guadeloupe. KJF series (KJF 2, KJF 4, KJF 5), 50/50 with Team Bwe Tou Sa, KKV, Malpale, co-writing credit on Meryl La Boue, EP Riddim Aleatoire (2025) and singles with DJ Luchshiy. Central writing: Stephan Cornano.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "KJF 4"}, {"@type": "MusicRecording", "name": "50/50"}, {"@type": "MusicRecording", "name": "KJF 2"}, {"@type": "MusicRecording", "name": "KJF 5"}, {"@type": "MusicRecording", "name": "TAKE IT OUT"}, {"@type": "MusicRecording", "name": "KKV"}, {"@type": "MusicRecording", "name": "MALPALÉ"}, {"@type": "MusicRecording", "name": "MORNE FLEURET FREESTYLE"}, {"@type": "MusicRecording", "name": "La Boue"}, {"@type": "MusicRecording", "name": "Karibbean Gyal"}, {"@type": "MusicRecording", "name": "NO COME BACK (WHATCHA SAY)"}, {"@type": "MusicRecording", "name": "TAKE UR TIME"},
+      {
+       "@type": "MusicRecording",
+       "name": "I JUST WANT (feat. BRG HOLLYWOOD & DINHO)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "NASTY GIRL (feat. GWADA G & JOSHII G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Open DI Place"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Are U Ready"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ratatouille Live"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ride It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Look My Style"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nou Chô (feat. FREDDY & LESTEF KJF BOYZ)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Position"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Freestyle Loup Garou"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

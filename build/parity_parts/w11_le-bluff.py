@@ -82,7 +82,36 @@ FR = {
   ("D’où vient Le Bluff ?", "Les sources consultées le documentent uniquement par le réseau de la scène bouyon des Antilles françaises : Shanika, Laka, les Team Bwè Tou Sa, Billy Bybf et Lewismelo sont ses collaborateurs publiés. Aucune source ne publie son lieu de naissance ou de résidence, et ce profil ne les devine pas à partir de ses collaborations."),
   ("Où écouter Le Bluff ?", "Ses quatre titres documentés sont sur les plateformes : « C HOT », « Chocolate » avec Shanika, « BAISE-MOI » de Laka et « VIN TCHEK NOU » sur l’album de Lewismelo. Pour le bouyon de la même scène et de la même saison, écoutez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> et lisez notre page <a href=\"/bouyon-guadeloupe.html\">bouyon Guadeloupe</a>.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/le-bluff.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/le-bluff.html#artist", "name": "Le Bluff", "description": "Voix invitée du bouyon guadeloupéen, documentée par quatre titres : C HOT en solo, Chocolate avec Shanika, BAISE-MOI avec Laka et VIN TCHEK NOU sur Premières Notes de Lewismelo, en 2023. Aucune biographie publique documentée.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'C HOT'}, {"@type": "MusicRecording", "name": 'Chocolate'}, {"@type": "MusicRecording", "name": 'BAISE-MOI'}, {"@type": "MusicRecording", "name": 'VIN TCHEK NOU'}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/le-bluff.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/le-bluff.html#artist", "name": "Le Bluff", "description": "Voix invitée du bouyon guadeloupéen, documentée par quatre titres : C HOT en solo, Chocolate avec Shanika, BAISE-MOI avec Laka et VIN TCHEK NOU sur Premières Notes de Lewismelo, en 2023. Aucune biographie publique documentée.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'C HOT'}, {"@type": "MusicRecording", "name": 'Chocolate'}, {"@type": "MusicRecording", "name": 'BAISE-MOI'}, {"@type": "MusicRecording", "name": 'VIN TCHEK NOU'},
+      {
+       "@type": "MusicRecording",
+       "name": "STV"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fais ça (feat. Lewismelo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Face à Face (feat. DJ LEGUSTE)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I LIKE (feat. Le bluff)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bay Kiki (feat. DLN, Karnage, JNS & Le Bluff)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dérapé la (feat. DJ LEGUSTE)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BOUMBOULOUM (performance live studio) (feat. Le Bluff & Tisma) (Live)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -160,6 +189,35 @@ EN = {
   ("Where is Le Bluff from?", "The sources consulted document him only through the network of the bouyon scene of the French Antilles: Shanika, Laka, Team Bwè Tou Sa, Billy Bybf and Lewismelo are his published collaborators. No source publishes his birthplace or his place of residence, and this profile does not guess them from his collaborations."),
   ("Where can I hear Le Bluff?", "His four documented records are on the platforms: “C HOT”, “Chocolate” with Shanika, “BAISE-MOI” by Laka and “VIN TCHEK NOU” on the Lewismelo album. For the bouyon of the same scene and the same season, hear our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> and read our <a href=\"/en/bouyon-guadeloupe.html\">bouyon Guadeloupe</a> page.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/le-bluff.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/le-bluff.html#artist", "name": "Le Bluff", "description": "Guest voice of Guadeloupe bouyon, documented by four records: C HOT solo, Chocolate with Shanika, BAISE-MOI with Laka and VIN TCHEK NOU on Premières Notes by Lewismelo, in 2023. No documented public biography.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'C HOT'}, {"@type": "MusicRecording", "name": 'Chocolate'}, {"@type": "MusicRecording", "name": 'BAISE-MOI'}, {"@type": "MusicRecording", "name": 'VIN TCHEK NOU'}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/le-bluff.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/le-bluff.html#artist", "name": "Le Bluff", "description": "Guest voice of Guadeloupe bouyon, documented by four records: C HOT solo, Chocolate with Shanika, BAISE-MOI with Laka and VIN TCHEK NOU on Premières Notes by Lewismelo, in 2023. No documented public biography.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'C HOT'}, {"@type": "MusicRecording", "name": 'Chocolate'}, {"@type": "MusicRecording", "name": 'BAISE-MOI'}, {"@type": "MusicRecording", "name": 'VIN TCHEK NOU'},
+      {
+       "@type": "MusicRecording",
+       "name": "STV"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fais ça (feat. Lewismelo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Face à Face (feat. DJ LEGUSTE)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I LIKE (feat. Le bluff)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bay Kiki (feat. DLN, Karnage, JNS & Le Bluff)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dérapé la (feat. DJ LEGUSTE)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BOUMBOULOUM (performance live studio) (feat. Le Bluff & Tisma) (Live)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

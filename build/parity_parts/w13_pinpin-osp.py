@@ -70,7 +70,56 @@ FR = {
   ("Qui travaille avec Pinpin OSP chez VGM Product ?", "Les crédits publiés dessinent une équipe stable : Brian Lomba, auteur sur « On Fwa », « Make it pop » et « Don’t Play » ; Luchshiy, compositeur sur « Make it pop » ; YasBeats, compositeur sur « Don’t Play » ; YoJoshii, producteur du clip « SEE U » ; et VGM Product, label des singles et crédit d’enregistrement, de mixage et de mastering sur « SEE U »."),
   ("Où écouter Pinpin OSP et le bouyon gwada ?", "Commencez par « Make it pop » et « On Fwa », puis regardez le clip « SEE U ». Notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> et notre page <a href=\"/bouyon-gwada.html\">bouyon gwada</a> replacent ensuite Pinpin OSP dans l’ensemble de sa scène, entre Guadeloupe et Dominique, là où le genre est né.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/pinpin-osp.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/pinpin-osp.html#artist", "name": "Pinpin OSP", "description": "Artiste de Guadeloupe classé hip hop et bouyon. Singles documentés sur VGM Product : Make it pop avec Edday en 2023 et On Fwa avec Shanika en 2024. La signification de OSP n’est publiée par aucune source consultée.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "On Fwa"}, {"@type": "MusicRecording", "name": "Make it pop"}, {"@type": "MusicRecording", "name": "Don't Play"}, {"@type": "MusicRecording", "name": "Open Like Dat"}, {"@type": "MusicRecording", "name": "My Lolly"}, {"@type": "MusicRecording", "name": "SEE U"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/pinpin-osp.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/pinpin-osp.html#artist", "name": "Pinpin OSP", "description": "Artiste de Guadeloupe classé hip hop et bouyon. Singles documentés sur VGM Product : Make it pop avec Edday en 2023 et On Fwa avec Shanika en 2024. La signification de OSP n’est publiée par aucune source consultée.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "On Fwa"}, {"@type": "MusicRecording", "name": "Make it pop"}, {"@type": "MusicRecording", "name": "Don't Play"}, {"@type": "MusicRecording", "name": "Open Like Dat"}, {"@type": "MusicRecording", "name": "My Lolly"}, {"@type": "MusicRecording", "name": "SEE U"},
+      {
+       "@type": "MusicRecording",
+       "name": "AN NI"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Coup de cœur (Loxymore One Shot)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DOUXTCHA"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BACK IT UP (feat. Ted la & CK gee)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ti bébé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "OPEN LIKE THAT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PVF"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Manzel La Vey"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "VODY"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Full"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Vite Fait"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "On biten ba'w (feat. Pinpin OSP)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -135,6 +184,55 @@ EN = {
   ("Who works with Pinpin OSP at VGM Product?", "The published credits draw a stable team: Brian Lomba, songwriter on “On Fwa”, “Make it pop” and “Don't Play”; Luchshiy, composer on “Make it pop”; YasBeats, composer on “Don't Play”; YoJoshii, producer of the “SEE U” video; and VGM Product, label of the singles and the recording, mixing and mastering credit on “SEE U”."),
   ("Where can I hear Pinpin OSP and Gwada bouyon?", "Start with “Make it pop” and “On Fwa”, then watch the “SEE U” video. Our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> and our <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a> page then place Pinpin OSP inside his whole scene, between Guadeloupe and Dominica, where the genre was born.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/pinpin-osp.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/pinpin-osp.html#artist", "name": "Pinpin OSP", "description": "Artist from Guadeloupe filed under hip hop and bouyon. Documented singles on VGM Product: Make it pop with Edday in 2023 and On Fwa with Shanika in 2024. The meaning of OSP is published by no source consulted.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "On Fwa"}, {"@type": "MusicRecording", "name": "Make it pop"}, {"@type": "MusicRecording", "name": "Don't Play"}, {"@type": "MusicRecording", "name": "Open Like Dat"}, {"@type": "MusicRecording", "name": "My Lolly"}, {"@type": "MusicRecording", "name": "SEE U"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/pinpin-osp.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/pinpin-osp.html#artist", "name": "Pinpin OSP", "description": "Artist from Guadeloupe filed under hip hop and bouyon. Documented singles on VGM Product: Make it pop with Edday in 2023 and On Fwa with Shanika in 2024. The meaning of OSP is published by no source consulted.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "On Fwa"}, {"@type": "MusicRecording", "name": "Make it pop"}, {"@type": "MusicRecording", "name": "Don't Play"}, {"@type": "MusicRecording", "name": "Open Like Dat"}, {"@type": "MusicRecording", "name": "My Lolly"}, {"@type": "MusicRecording", "name": "SEE U"},
+      {
+       "@type": "MusicRecording",
+       "name": "AN NI"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Coup de cœur (Loxymore One Shot)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DOUXTCHA"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BACK IT UP (feat. Ted la & CK gee)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ti bébé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "OPEN LIKE THAT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PVF"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Manzel La Vey"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "VODY"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Full"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Vite Fait"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "On biten ba'w (feat. Pinpin OSP)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

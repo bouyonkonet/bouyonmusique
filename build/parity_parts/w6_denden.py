@@ -81,7 +81,24 @@ FR = {
   ("Denden a-t-elle gagné aux Flammes 2025 ?", "Non, elle a été nommée. Aux Flammes 2025, Denden figurait parmi les trois nommées pour la révélation féminine de l’année, avec Clara Charlotte et Theodora. Le trophée, remis le 13 mai 2025 à La Seine Musicale, est revenu à Theodora."),
   ("Quels sont les titres vérifiés de Denden ?", "Les singles documentés sont Ils se demandent (2024), Faut doser, qui interpole Promiscuous de Nelly Furtado et Timbaland, Padtal (2025), Validé (juillet 2025, labels Y&W et Aura Music) et Clap Clap, auxquels s’ajoutent des versions Ils se demandent (Slowed) et Padtal - Speed Up. Aucun album n’est listé dans les sources à ce jour.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/denden.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/denden.html#artist", "name": "Denden", "description": "Chanteuse française née Eden Yaba à Villepinte en 2005. Premier single Ils se demandent (2024) certifié or en France et en Belgique ; son titre Padtal (2025), composé par Davy One, est classé dans la playlist Bouyon bass de Deezer.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Ils se demandent"}, {"@type": "MusicRecording", "name": "Faut doser"}, {"@type": "MusicRecording", "name": "Padtal"}, {"@type": "MusicRecording", "name": "Validé"}, {"@type": "MusicRecording", "name": "Clap Clap"}, {"@type": "MusicRecording", "name": "Ils se demandent (Slowed)"}, {"@type": "MusicRecording", "name": "Padtal - Speed Up"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/denden.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/denden.html#artist", "name": "Denden", "description": "Chanteuse française née Eden Yaba à Villepinte en 2005. Premier single Ils se demandent (2024) certifié or en France et en Belgique ; son titre Padtal (2025), composé par Davy One, est classé dans la playlist Bouyon bass de Deezer.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Ils se demandent"}, {"@type": "MusicRecording", "name": "Faut doser"}, {"@type": "MusicRecording", "name": "Padtal"}, {"@type": "MusicRecording", "name": "Validé"}, {"@type": "MusicRecording", "name": "Clap Clap"}, {"@type": "MusicRecording", "name": "Ils se demandent (Slowed)"}, {"@type": "MusicRecording", "name": "Padtal - Speed Up"},
+      {
+       "@type": "MusicRecording",
+       "name": "Comme moi"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Den 2X"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Timinik"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Padtal (Slowed)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -155,6 +172,23 @@ EN = {
   ("Did Denden win at Les Flammes 2025?", "No, she was nominated. At Les Flammes 2025, Denden was one of the three nominees for female breakthrough of the year, with Clara Charlotte and Theodora. The trophy, handed over on 13 May 2025 at La Seine Musicale, went to Theodora."),
   ("What are Denden verified tracks?", "The documented singles are Ils se demandent (2024), Faut doser, which interpolates Promiscuous by Nelly Furtado and Timbaland, Padtal (2025), Valide (July 2025, Y&W and Aura Music labels) and Clap Clap, with the variants Ils se demandent (Slowed) and Padtal - Speed Up on top. No album is listed in the sources to date.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/denden.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/denden.html#artist", "name": "Denden", "description": "French singer born Eden Yaba in Villepinte in 2005. First single Ils se demandent (2024) certified gold in France and Belgium; her track Padtal (2025), composed by Davy One, is filed in Deezer Bouyon bass playlist.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Ils se demandent"}, {"@type": "MusicRecording", "name": "Faut doser"}, {"@type": "MusicRecording", "name": "Padtal"}, {"@type": "MusicRecording", "name": "Validé"}, {"@type": "MusicRecording", "name": "Clap Clap"}, {"@type": "MusicRecording", "name": "Ils se demandent (Slowed)"}, {"@type": "MusicRecording", "name": "Padtal - Speed Up"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/denden.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/denden.html#artist", "name": "Denden", "description": "French singer born Eden Yaba in Villepinte in 2005. First single Ils se demandent (2024) certified gold in France and Belgium; her track Padtal (2025), composed by Davy One, is filed in Deezer Bouyon bass playlist.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Ils se demandent"}, {"@type": "MusicRecording", "name": "Faut doser"}, {"@type": "MusicRecording", "name": "Padtal"}, {"@type": "MusicRecording", "name": "Validé"}, {"@type": "MusicRecording", "name": "Clap Clap"}, {"@type": "MusicRecording", "name": "Ils se demandent (Slowed)"}, {"@type": "MusicRecording", "name": "Padtal - Speed Up"},
+      {
+       "@type": "MusicRecording",
+       "name": "Comme moi"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Den 2X"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Timinik"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Padtal (Slowed)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
