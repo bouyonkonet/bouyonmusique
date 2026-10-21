@@ -345,6 +345,47 @@ EXTRA_TERMS_EN = {
     "Mas Domnik": "mas-domnik.html",
 }
 
+# Playlist embeds (2026-10-21): matched by keyword between page topic and playlist
+# title only. See playlist-embeds/match-table.md. Providers stack YouTube first.
+PLAYLIST_EMBEDS = {
+    "bouyon-mix.html": [
+        ("youtube", "PLB1axoRydQrdtCBSbvnkbSoKWJxFV8Xto", "Shatta Bouyon Mix 2026 | Dancehall & Afrobeats"),
+        ("spotify", "4ikmgg9FzDug5tLttfhfQp", "Bouyon Music 2026 | Road Mix"),
+    ],
+    "playlist-shatta.html": [
+        ("youtube", "PLB1axoRydQrdtCBSbvnkbSoKWJxFV8Xto", "Shatta Bouyon Mix 2026 | Dancehall & Afrobeats"),
+    ],
+    "shatta-bouyon.html": [
+        ("youtube", "PLB1axoRydQrdtCBSbvnkbSoKWJxFV8Xto", "Shatta Bouyon Mix 2026 | Dancehall & Afrobeats"),
+    ],
+    "bouyon-music-2026.html": [
+        ("spotify", "4ikmgg9FzDug5tLttfhfQp", "Bouyon Music 2026 | Road Mix"),
+    ],
+    "new-bouyon-2026.html": [
+        ("spotify", "4ikmgg9FzDug5tLttfhfQp", "Bouyon Music 2026 | Road Mix"),
+    ],
+    "bouyon-songs.html": [
+        ("spotify", "4ikmgg9FzDug5tLttfhfQp", "Bouyon Music 2026 | Road Mix"),
+    ],
+}
+
+def playlist_embeds_html(slug):
+    out = ""
+    for kind, pid, title in PLAYLIST_EMBEDS.get(slug, []):
+        if kind == "youtube":
+            out += ('\n<h2>Watch next</h2>\n'
+                    f'<h3>{esc(title)}</h3>\n'
+                    '<div style="position:relative;padding-top:56.25%;margin:1em 0">'
+                    f'<iframe src="https://www.youtube-nocookie.com/embed/videoseries?list={pid}" title="{esc(title)}" loading="lazy" '
+                    'style="position:absolute;inset:0;width:100%;height:100%;border:0;border-radius:12px" '
+                    'allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>\n')
+        else:
+            out += ('\n<h2>Listen next</h2>\n'
+                    f'<h3>{esc(title)}</h3>\n'
+                    f'<iframe src="https://open.spotify.com/embed/playlist/{pid}?utm_source=generator" title="{esc(title)}" width="100%" height="352" '
+                    'style="border:0;border-radius:12px" loading="lazy" allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>\n')
+    return out
+
 def render(page):
     same_cat = [p for p in PAGES if p["cat"] == page["cat"] and p["slug"] != page["slug"]]
     rel = spread_pick(same_cat, page["slug"], 9)
@@ -416,6 +457,7 @@ def render(page):
 <p><a href="/en/playlist-bouyon.html">Open the bouyon playlist</a> - Follow <a href="https://www.instagram.com/bouyonshattaz/">@bouyonshattaz</a> and comment ROAD MIX to get it by DM.</p>
 </div>
 """
+    embed_html = playlist_embeds_html(page["slug"])
     return f"""<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -454,7 +496,7 @@ def render(page):
 <p class="lead">{page["intro"]}</p>
 {sections}
 {cta}
-{faq_html}
+{embed_html}{faq_html}
 {rel_html}
 {strip_html}
 </div>
