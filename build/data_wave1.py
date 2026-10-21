@@ -502,8 +502,244 @@ PAGES = [
       {
        "@type": "MusicRecording",
        "name": "Dominica I From"
-      }
-     ]
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Back it up gyal (feat. Edday)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bike man (feat. Ras B)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "FYL"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "CoMeSS (feat. Asa Bantan)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dotish love (feat. Nessa Preppy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Plottin"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Perfect"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Do Not Know"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stampede (feat. Trilla - G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Without you (feat. Nice, Trilla-G, Unstoppable Shax & Quan dawg)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "12345678"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "In D Bedroom (feat. Freddy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doh trust dem"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lovers business"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bikini"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Leave your man (feat. Dj taffy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "What to do (feat. Trixx ft Reo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Roadkill"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "She like man"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Carnival feeling"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Face Down"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doh lose your man"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Party animal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hard Fork"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "S***p"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sauvage"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Gyalis"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Girlfriend"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BDPB (feat. Youry YMW)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Same Girl (feat. Trilla G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Crack P****i"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tonight"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "We Getting Paid"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Backshot"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Come Back"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Yay"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Koké"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Caribbean Whine"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Like Woman (feat. Kevni, Edday, Larose & Yg Gucci)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Benadryl"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Chance"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dou dou (feat. Litleboy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "We Outside (feat. Dj Flip Tha Boss)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dance With Me"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bus Drivah"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Boom Boom"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ouu (feat. Trilla G & Dj Realboss)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pay Me (Dolla)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bouyon Train"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ouu Lala (feat. Edday)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dangerous"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sa Ka Bay (feat. Dj Bling)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Through the Night (feat. Frog & Reo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DO WHAT YOU WANT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doe call my name (feat. Reo & Youry ymw)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shut Up (feat. Reo & Khallion) [Remix]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rum Dat Do Me Dat (feat. Reo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "On Me (feat. Savion, DiYoute, OBM & Reo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "REST IT DOWN (feat. Reo)"
+      },
+]
     }
    }
   ],

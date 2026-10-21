@@ -88,7 +88,248 @@ FR = {
   ("Quel est le vrai nom de Bunji Garlin et d’où vient son nom de scène ?", "Son vrai nom est Ian Antonio Alvarez. Pour le nom de scène, les sources ne racontent pas la même chose : VP Records dit que Bunji est un surnom de famille et que Garlin vient de l’acteur Errol Flynn, tandis que la biographie AllMusic parle du bungee cord pour Bunji et d’un type d’arme pour Garlin. Ce site imprime les deux récits avec leur attribution, sans en choisir un."),
   ("Bunji Garlin a-t-il vraiment chanté sur un riddim bouyon de la Dominique ?", "Oui. Ebuzztt rapporte que le producteur dominicain Dada a choisi Bunji Garlin et Shurwayne Winchester pour son Smoke Riddim, un riddim hybride qui mélange la soca et le bouyon de la Dominique. Le titre de Bunji sur ce riddim s’appelle « Forward ». Il figure depuis dans son album « Ayl’Ian », publié en 2024, avec Ian Alvarez et Krishna Clyde Lawrence crédités comme compositeurs.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/bunji-garlin.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/bunji-garlin.html#artist", "name": "Bunji Garlin", "alternateName": "Ian Antonio Alvarez", "description": "Artiste soca et ragga soca de Trinité-et-Tobago, de son vrai nom Ian Antonio Alvarez, né le 14 juillet 1978 à Arima. Quatre fois vainqueur de l’International Soca Monarch, lauréat du Soul Train Award 2013 pour Differentology, vainqueur du Road March avec Famalay en 2019, produit par le Dominicain Dada, et avec Hard Fete en 2023. Chante Forward sur le Smoke Riddim bouyon soca de Dada.", "genre": "Soca", "track": [{"@type": "MusicRecording", "name": "Differentology (Ready for the Road)"}, {"@type": "MusicRecording", "name": "Down in the Ghetto"}, {"@type": "MusicRecording", "name": "Warrior Cry"}, {"@type": "MusicRecording", "name": "Blaze the Fire"}, {"@type": "MusicRecording", "name": "Fiery"}, {"@type": "MusicRecording", "name": "Clear de Road"}, {"@type": "MusicRecording", "name": "Send Dem Riddim Crazy"}, {"@type": "MusicRecording", "name": "Truck on D Road"}, {"@type": "MusicRecording", "name": "Carnival Tabanca"}, {"@type": "MusicRecording", "name": "The Message"}, {"@type": "MusicRecording", "name": "Big Bad Soca"}, {"@type": "MusicRecording", "name": "Buss Head"}, {"@type": "MusicRecording", "name": "Famalay"}, {"@type": "MusicRecording", "name": "Hard Fete"}, {"@type": "MusicRecording", "name": "Forward"}], "sameAs": ["https://www.instagram.com/bunjigarlin", "https://www.vprecords.com/artist/bunji-garlin/"]}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/bunji-garlin.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/bunji-garlin.html#artist", "name": "Bunji Garlin", "alternateName": "Ian Antonio Alvarez", "description": "Artiste soca et ragga soca de Trinité-et-Tobago, de son vrai nom Ian Antonio Alvarez, né le 14 juillet 1978 à Arima. Quatre fois vainqueur de l’International Soca Monarch, lauréat du Soul Train Award 2013 pour Differentology, vainqueur du Road March avec Famalay en 2019, produit par le Dominicain Dada, et avec Hard Fete en 2023. Chante Forward sur le Smoke Riddim bouyon soca de Dada.", "genre": "Soca", "track": [{"@type": "MusicRecording", "name": "Differentology (Ready for the Road)"}, {"@type": "MusicRecording", "name": "Down in the Ghetto"}, {"@type": "MusicRecording", "name": "Warrior Cry"}, {"@type": "MusicRecording", "name": "Blaze the Fire"}, {"@type": "MusicRecording", "name": "Fiery"}, {"@type": "MusicRecording", "name": "Clear de Road"}, {"@type": "MusicRecording", "name": "Send Dem Riddim Crazy"}, {"@type": "MusicRecording", "name": "Truck on D Road"}, {"@type": "MusicRecording", "name": "Carnival Tabanca"}, {"@type": "MusicRecording", "name": "The Message"}, {"@type": "MusicRecording", "name": "Big Bad Soca"}, {"@type": "MusicRecording", "name": "Buss Head"}, {"@type": "MusicRecording", "name": "Famalay"}, {"@type": "MusicRecording", "name": "Hard Fete"}, {"@type": "MusicRecording", "name": "Forward"},
+      {
+       "@type": "MusicRecording",
+       "name": "Carnival Contract"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Drop It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "At This Time (Infinity Riddim)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Carry It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Still A Road Man"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bus a Wine"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bring It (feat. Hunter)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Whine Up Your Body"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Trini Lingo"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "110 Overcharge"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Go Ask Yuh Mudda"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "All Night"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jumbo Jet"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "See Meh"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rango (Born Bad)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Entering Greenzland"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Celebration"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Red Light District"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Turn Up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Badang!"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Climb"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Trini Road"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Today"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Road Bunx (feat. Stadic)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jump Up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Party Nice Right Now"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bumpa Love"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Plenty Gal (feat. Beenie Man)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bottle"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Level"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Savage"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "The Struggle"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hard Fete (N.M.G Roadmix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Put In the Thing"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Take over Town"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Blaze It Up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Carry It (N.M.G Roadmix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Force"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Yeezy Bro"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "A.T.S.A (Across the Stage Again)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hands Up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "The Sound"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fete I Like"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Television"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lookin' for China"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Brrrt"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Carnival Contract (N.M.G Road Mix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Chicken and Dumplin"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Position"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Thousand"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bicycle Ride (Soca Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Famalay (Travis World Road Mix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "All Aboard (feat. Bunji Garlin & Edwin Yearwood)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wine Low"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Home Is Where The Heart Is"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Flatten"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Big Song"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Next"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PROMOTA"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "GOAT (Precision Productions Bouyon Mix)"
+      },
+], "sameAs": ["https://www.instagram.com/bunjigarlin", "https://www.vprecords.com/artist/bunji-garlin/"]}}],
  "date_modified": "2026-10-20"
 }
 
@@ -167,6 +408,247 @@ EN = {
   ("What is Bunji Garlin real name, and where does his stage name come from?", "His real name is Ian Antonio Alvarez. On the stage name, sources do not tell the same story: VP Records says Bunji is a family nickname and Garlin was inspired by actor Errol Flynn, while the AllMusic biography speaks of the bungee cord for Bunji and a type of gun for Garlin. This site prints both accounts with their attribution, without choosing one."),
   ("Did Bunji Garlin really sing on a Dominica bouyon riddim?", "Yes. Ebuzztt reports that Dominican producer Dada chose Bunji Garlin and Shurwayne Winchester for his Smoke Riddim, a hybrid riddim blending soca and the bouyon of Dominica. The Bunji record on that riddim is called “Forward”. It now appears on his album “Ayl’Ian”, released in 2024, with Ian Alvarez and Krishna Clyde Lawrence credited as songwriters.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/bunji-garlin.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/bunji-garlin.html#artist", "name": "Bunji Garlin", "alternateName": "Ian Antonio Alvarez", "description": "Soca and ragga soca artist from Trinidad and Tobago, real name Ian Antonio Alvarez, born July 14, 1978 in Arima. Four time International Soca Monarch winner, 2013 Soul Train Award winner for Differentology, Road March winner with Famalay in 2019, produced by Dominican Dada, and with Hard Fete in 2023. Sings Forward on the bouyon soca Smoke Riddim of Dada.", "genre": "Soca", "track": [{"@type": "MusicRecording", "name": "Differentology (Ready for the Road)"}, {"@type": "MusicRecording", "name": "Down in the Ghetto"}, {"@type": "MusicRecording", "name": "Warrior Cry"}, {"@type": "MusicRecording", "name": "Blaze the Fire"}, {"@type": "MusicRecording", "name": "Fiery"}, {"@type": "MusicRecording", "name": "Clear de Road"}, {"@type": "MusicRecording", "name": "Send Dem Riddim Crazy"}, {"@type": "MusicRecording", "name": "Truck on D Road"}, {"@type": "MusicRecording", "name": "Carnival Tabanca"}, {"@type": "MusicRecording", "name": "The Message"}, {"@type": "MusicRecording", "name": "Big Bad Soca"}, {"@type": "MusicRecording", "name": "Buss Head"}, {"@type": "MusicRecording", "name": "Famalay"}, {"@type": "MusicRecording", "name": "Hard Fete"}, {"@type": "MusicRecording", "name": "Forward"}], "sameAs": ["https://www.instagram.com/bunjigarlin", "https://www.vprecords.com/artist/bunji-garlin/"]}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/bunji-garlin.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/bunji-garlin.html#artist", "name": "Bunji Garlin", "alternateName": "Ian Antonio Alvarez", "description": "Soca and ragga soca artist from Trinidad and Tobago, real name Ian Antonio Alvarez, born July 14, 1978 in Arima. Four time International Soca Monarch winner, 2013 Soul Train Award winner for Differentology, Road March winner with Famalay in 2019, produced by Dominican Dada, and with Hard Fete in 2023. Sings Forward on the bouyon soca Smoke Riddim of Dada.", "genre": "Soca", "track": [{"@type": "MusicRecording", "name": "Differentology (Ready for the Road)"}, {"@type": "MusicRecording", "name": "Down in the Ghetto"}, {"@type": "MusicRecording", "name": "Warrior Cry"}, {"@type": "MusicRecording", "name": "Blaze the Fire"}, {"@type": "MusicRecording", "name": "Fiery"}, {"@type": "MusicRecording", "name": "Clear de Road"}, {"@type": "MusicRecording", "name": "Send Dem Riddim Crazy"}, {"@type": "MusicRecording", "name": "Truck on D Road"}, {"@type": "MusicRecording", "name": "Carnival Tabanca"}, {"@type": "MusicRecording", "name": "The Message"}, {"@type": "MusicRecording", "name": "Big Bad Soca"}, {"@type": "MusicRecording", "name": "Buss Head"}, {"@type": "MusicRecording", "name": "Famalay"}, {"@type": "MusicRecording", "name": "Hard Fete"}, {"@type": "MusicRecording", "name": "Forward"},
+      {
+       "@type": "MusicRecording",
+       "name": "Carnival Contract"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Drop It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "At This Time (Infinity Riddim)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Carry It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Still A Road Man"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bus a Wine"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bring It (feat. Hunter)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Whine Up Your Body"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Trini Lingo"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "110 Overcharge"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Go Ask Yuh Mudda"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "All Night"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jumbo Jet"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "See Meh"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rango (Born Bad)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Entering Greenzland"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Celebration"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Red Light District"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Turn Up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Badang!"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Climb"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Trini Road"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Today"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Road Bunx (feat. Stadic)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jump Up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Party Nice Right Now"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bumpa Love"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Plenty Gal (feat. Beenie Man)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bottle"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Level"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Savage"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "The Struggle"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hard Fete (N.M.G Roadmix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Put In the Thing"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Take over Town"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Blaze It Up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Carry It (N.M.G Roadmix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Force"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Yeezy Bro"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "A.T.S.A (Across the Stage Again)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hands Up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "The Sound"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fete I Like"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Television"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lookin' for China"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Brrrt"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Carnival Contract (N.M.G Road Mix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Chicken and Dumplin"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Position"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Thousand"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bicycle Ride (Soca Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Famalay (Travis World Road Mix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "All Aboard (feat. Bunji Garlin & Edwin Yearwood)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wine Low"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Home Is Where The Heart Is"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Flatten"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Big Song"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Next"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PROMOTA"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "GOAT (Precision Productions Bouyon Mix)"
+      },
+], "sameAs": ["https://www.instagram.com/bunjigarlin", "https://www.vprecords.com/artist/bunji-garlin/"]}}],
  "date_modified": "2026-10-20"
 }
