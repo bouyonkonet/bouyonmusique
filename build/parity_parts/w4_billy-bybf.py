@@ -66,7 +66,244 @@ FR = {
   ("Billy BYBF est-il guadeloupéen ?", "Aucune biographie publiée ne donne son lieu de naissance. Ce que le catalogue documente est une identité guadeloupéenne revendiquée dans les titres : le single GWADLOUPÉYEN (9 octobre 2026), un répertoire en français et en créole classé langue française par Shazam, et un réseau de collaborations entièrement ancré dans la scène bouyon de Guadeloupe. Ce profil décrit donc un artiste de la scène guadeloupéenne, sans inventer de lieu de naissance."),
   ("Où écouter Billy BYBF ?", "Son catalogue est sur Deezer, Shazam et YouTube : commencez par DI YO SA 2, puis SPOUTNIK (BING BANG), BAW SA et BADDIE, et poursuivez avec notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> et notre page <a href=\"/bouyon-gwada.html\">bouyon gwada</a>.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/billy-bybf.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/billy-bybf.html#artist", "name": "Billy BYBF", "alternateName": "Fabien Aurela", "description": "Artiste bouyon de la scène guadeloupéenne. Les crédits officiels nomment Fabien Aurela auteur de son catalogue : DI YO SA 2 (2023), TRAVAILLONS avec Team Bwè Tou Sa (2024), SUPER BAYOBONFÈ (2026) et les singles du label BYBF STUDIO.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "I Pè Mandé-y"}, {"@type": "MusicRecording", "name": "Avec ou Sans"}, {"@type": "MusicRecording", "name": "Kenbé Sa"}, {"@type": "MusicRecording", "name": "Holiday"}, {"@type": "MusicRecording", "name": "Tatami"}, {"@type": "MusicRecording", "name": "Bombe Atomique"}, {"@type": "MusicRecording", "name": "AKFTA"}, {"@type": "MusicRecording", "name": "NO CAP"}, {"@type": "MusicRecording", "name": "DO YOU FEEL IT ?"}, {"@type": "MusicRecording", "name": "BOUNCE4ME"}, {"@type": "MusicRecording", "name": "CHIMEN CHYEN"}, {"@type": "MusicRecording", "name": "SPOUTNIK (BING BANG)"}, {"@type": "MusicRecording", "name": "BAW SA (SANTA BAYOBONFÈ)"}, {"@type": "MusicRecording", "name": "BADDIE"}, {"@type": "MusicRecording", "name": "GWADLOUPÉYEN"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/billy-bybf.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/billy-bybf.html#artist", "name": "Billy BYBF", "alternateName": "Fabien Aurela", "description": "Artiste bouyon de la scène guadeloupéenne. Les crédits officiels nomment Fabien Aurela auteur de son catalogue : DI YO SA 2 (2023), TRAVAILLONS avec Team Bwè Tou Sa (2024), SUPER BAYOBONFÈ (2026) et les singles du label BYBF STUDIO.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "I Pè Mandé-y"}, {"@type": "MusicRecording", "name": "Avec ou Sans"}, {"@type": "MusicRecording", "name": "Kenbé Sa"}, {"@type": "MusicRecording", "name": "Holiday"}, {"@type": "MusicRecording", "name": "Tatami"}, {"@type": "MusicRecording", "name": "Bombe Atomique"}, {"@type": "MusicRecording", "name": "AKFTA"}, {"@type": "MusicRecording", "name": "NO CAP"}, {"@type": "MusicRecording", "name": "DO YOU FEEL IT ?"}, {"@type": "MusicRecording", "name": "BOUNCE4ME"}, {"@type": "MusicRecording", "name": "CHIMEN CHYEN"}, {"@type": "MusicRecording", "name": "SPOUTNIK (BING BANG)"}, {"@type": "MusicRecording", "name": "BAW SA (SANTA BAYOBONFÈ)"}, {"@type": "MusicRecording", "name": "BADDIE"}, {"@type": "MusicRecording", "name": "GWADLOUPÉYEN"},
+      {
+       "@type": "MusicRecording",
+       "name": "PÉTÉ TÈT-AW"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MOVE IT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SOUSÈL"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BDKMV (Bitch, Don't Kill My Vibe)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ELLE VEUT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Boom boom pow"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SINOBÒL #BANGER 2"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MOVÉ FEELING"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "JUST DO IT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PAS DANS ÇA"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "IG"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "10 Degrés"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "An soum"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "RADIKAL"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Back It Up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Glissé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SSS"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "An ja sou"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Black Nasty"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Yo Pepa"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Intro"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tu veux (feat. Lünik)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Madame"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Vakans"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dis-moi"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sé su sé manman"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "An ké rivé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Konplex (Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "OK (feat. JUDI SILVA & BILLY BYBF)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SAFE PLACE (TAKE MY MONEY)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TONIGHT (feat. BILLY BYBF & DEE ZEN)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "CARIBBEAN GYAL (feat. Dj Skycee & Tito)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tik Tak"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "EMOTHUGZ (feat. Billy Bybf & Maréva)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Asi Mwen (feat. Billy BYBF, D0 Production, LGC & Le_Daah)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Number one"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ZING CHAP #BANGER"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sit down #Oups 2"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ABBL"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BONDAL"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "CHEAT OR LOVE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BACKALIVE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MOUN"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PASSE-PASSE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BOXER"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SOUKWÉ"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "RACE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "NOU KI LA"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BALANSÉ"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "VOIR ÇA"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BRUTALITÉ"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MAL ÉLEVÉ"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nous y est"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BAISE-MOI (feat. Riko, Le bluff, Tgx, Billy Bybf, PIXOU, Le daah, WAYSEE & Team Bwè Tou Sa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nou an chyen"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Adiksyon (feat. Pikaso, Jeda, Broki, Billy BYBF, Victoire, Mariano, Antiyè Entier, Yemsha & Vin's)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nou ka fè'y (feat. BILLY BYBF)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lodè Wonm (feat. NDO, Billy BYBF, LeKen, Tortle & Bride)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "GALAKTIK MEDDLEY"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -131,6 +368,243 @@ EN = {
   ("Is Billy BYBF Guadeloupean?", "No published biography gives his birthplace. What the catalogue documents is a Guadeloupean identity claimed in the titles: the single GWADLOUPÉYEN (9 October 2026), a catalogue in French and Creole classified as French language by Shazam, and a collaboration network entirely anchored in the Guadeloupe bouyon scene. This profile therefore describes an artist of the Guadeloupe scene, without inventing a birthplace."),
   ("Where can I hear Billy BYBF?", "His catalogue is on Deezer, Shazam and YouTube: start with DI YO SA 2, then SPOUTNIK (BING BANG), BAW SA and BADDIE, and continue with our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> and our <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a> page.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/billy-bybf.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/billy-bybf.html#artist", "name": "Billy BYBF", "alternateName": "Fabien Aurela", "description": "Bouyon artist from the Guadeloupe scene. Official credits name Fabien Aurela as writer of his catalogue: DI YO SA 2 (2023), TRAVAILLONS with Team Bwè Tou Sa (2024), SUPER BAYOBONFÈ (2026) and the BYBF STUDIO singles.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "I Pè Mandé-y"}, {"@type": "MusicRecording", "name": "Avec ou Sans"}, {"@type": "MusicRecording", "name": "Kenbé Sa"}, {"@type": "MusicRecording", "name": "Holiday"}, {"@type": "MusicRecording", "name": "Tatami"}, {"@type": "MusicRecording", "name": "Bombe Atomique"}, {"@type": "MusicRecording", "name": "AKFTA"}, {"@type": "MusicRecording", "name": "NO CAP"}, {"@type": "MusicRecording", "name": "DO YOU FEEL IT ?"}, {"@type": "MusicRecording", "name": "BOUNCE4ME"}, {"@type": "MusicRecording", "name": "CHIMEN CHYEN"}, {"@type": "MusicRecording", "name": "SPOUTNIK (BING BANG)"}, {"@type": "MusicRecording", "name": "BAW SA (SANTA BAYOBONFÈ)"}, {"@type": "MusicRecording", "name": "BADDIE"}, {"@type": "MusicRecording", "name": "GWADLOUPÉYEN"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/billy-bybf.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/billy-bybf.html#artist", "name": "Billy BYBF", "alternateName": "Fabien Aurela", "description": "Bouyon artist from the Guadeloupe scene. Official credits name Fabien Aurela as writer of his catalogue: DI YO SA 2 (2023), TRAVAILLONS with Team Bwè Tou Sa (2024), SUPER BAYOBONFÈ (2026) and the BYBF STUDIO singles.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "I Pè Mandé-y"}, {"@type": "MusicRecording", "name": "Avec ou Sans"}, {"@type": "MusicRecording", "name": "Kenbé Sa"}, {"@type": "MusicRecording", "name": "Holiday"}, {"@type": "MusicRecording", "name": "Tatami"}, {"@type": "MusicRecording", "name": "Bombe Atomique"}, {"@type": "MusicRecording", "name": "AKFTA"}, {"@type": "MusicRecording", "name": "NO CAP"}, {"@type": "MusicRecording", "name": "DO YOU FEEL IT ?"}, {"@type": "MusicRecording", "name": "BOUNCE4ME"}, {"@type": "MusicRecording", "name": "CHIMEN CHYEN"}, {"@type": "MusicRecording", "name": "SPOUTNIK (BING BANG)"}, {"@type": "MusicRecording", "name": "BAW SA (SANTA BAYOBONFÈ)"}, {"@type": "MusicRecording", "name": "BADDIE"}, {"@type": "MusicRecording", "name": "GWADLOUPÉYEN"},
+      {
+       "@type": "MusicRecording",
+       "name": "PÉTÉ TÈT-AW"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MOVE IT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SOUSÈL"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BDKMV (Bitch, Don't Kill My Vibe)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ELLE VEUT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Boom boom pow"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SINOBÒL #BANGER 2"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MOVÉ FEELING"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "JUST DO IT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PAS DANS ÇA"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "IG"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "10 Degrés"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "An soum"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "RADIKAL"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Back It Up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Glissé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SSS"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "An ja sou"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Black Nasty"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Yo Pepa"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Intro"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tu veux (feat. Lünik)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Madame"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Vakans"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dis-moi"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sé su sé manman"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "An ké rivé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Konplex (Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "OK (feat. JUDI SILVA & BILLY BYBF)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SAFE PLACE (TAKE MY MONEY)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TONIGHT (feat. BILLY BYBF & DEE ZEN)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "CARIBBEAN GYAL (feat. Dj Skycee & Tito)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tik Tak"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "EMOTHUGZ (feat. Billy Bybf & Maréva)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Asi Mwen (feat. Billy BYBF, D0 Production, LGC & Le_Daah)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Number one"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ZING CHAP #BANGER"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sit down #Oups 2"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ABBL"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BONDAL"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "CHEAT OR LOVE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BACKALIVE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MOUN"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PASSE-PASSE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BOXER"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SOUKWÉ"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "RACE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "NOU KI LA"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BALANSÉ"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "VOIR ÇA"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BRUTALITÉ"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MAL ÉLEVÉ"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nous y est"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BAISE-MOI (feat. Riko, Le bluff, Tgx, Billy Bybf, PIXOU, Le daah, WAYSEE & Team Bwè Tou Sa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nou an chyen"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Adiksyon (feat. Pikaso, Jeda, Broki, Billy BYBF, Victoire, Mariano, Antiyè Entier, Yemsha & Vin's)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nou ka fè'y (feat. BILLY BYBF)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lodè Wonm (feat. NDO, Billy BYBF, LeKen, Tortle & Bride)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "GALAKTIK MEDDLEY"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

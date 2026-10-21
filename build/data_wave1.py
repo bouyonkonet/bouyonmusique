@@ -3521,7 +3521,231 @@ PAGES = [
        "@type": "MusicRecording",
        "name": "Expectations"
       },
-     ]
+      {
+       "@type": "MusicRecording",
+       "name": "Ice Cream Man Pt. II"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Love On Repeat"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rule You"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Naija"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "My Girl"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Black Sand Beach"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Move On"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tango"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Different Kinda Animal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ice Tea"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Migraine"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ole Skool Love"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Bad Vibes"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "All I Need Is Love"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Yearning"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Easy Tomorrow"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cut Off"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Runway"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shooting Star"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cheater's Confession"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fighter"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hard Wine"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Find a Way"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Memories"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Free Mind"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Strain of Success"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Just Like That"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Contact"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Old Timer"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Reject"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Na Change"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stronger"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Promise"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "24 Hours"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Glory"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Big Time"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Faze"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doin' It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doin Road"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "One Woman Man"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Black Beauty"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bomb in the City"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Too Soon"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lose It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Don't Leave"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "P***y Cat"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Icecream Man"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Karma"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "It's Summer"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "It Hurt Them (feat. Colton T)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Face No Case (feat. Shelly & Colton T)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Every Gyal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Big Iron (feat. Colton T)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Champion (feat. Colton T)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Koupé kann (feat. MC Chroné & Colton T) [Carnaval vol.2K19]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "You Are My World (feat. Colton T)"
+      },
+]
     }
    }
   ]
