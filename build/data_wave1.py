@@ -1064,7 +1064,475 @@ PAGES = [
        "@type": "MusicRecording",
        "name": "Fym"
       },
-     ]
+      {
+       "@type": "MusicRecording",
+       "name": "Lack of Sex"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dah Wuh She Get (feat. Lead Pipe)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shirley (feat. Peter Ram)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Back Door (feat. Jagwa De Champ)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Takah Takah (feat. Dirty Dawg Pudaz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Gimme Room (feat. Shanta Prince)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Freeness Is For"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bad My Girl"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Is a Bala"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fair Exchange"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Two Rules"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Push Your Hand"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "How You Is My Cousin"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Do Baby"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "She Stupid"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Speedy da Bur!"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Love"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "More Cock"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rum Family (feat. Yung Shing Taw & More Sewo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Not Giving Up (feat. Nayee)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Haterz Looking"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Boomboom Dere"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Christmas Chalala"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Christmas Money"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Alexsis (feat. Sukie)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Anita Bouyon (feat. Midnight Groovers)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Granny Wine (feat. Sukie)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rockstar Keyboard Solo"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doh Talk to Me (feat. Omar Omar)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jenny"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Alle Cocay Mamaw (feat. Jkuan)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "W.D.M.a. (feat. Dirty Dawg Pudaz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "What Is There for Me (feat. Dirty Dawg Pudaz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Reply"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "B.D.Y.M.M."
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Not Me"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Boosolavi"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bend Down (feat. LITLE'BÖY)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "P***y Cat (feat. N.I.C.E.)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stick It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "The Code"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cover Up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shut up & Pay Me"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "She Wan That Ah"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ridge Ki Ca Mene (feat. Sakis Lapo Kabwit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Toxic Love Accordion"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Toxic Love Creole"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Urpen That (feat. Dirty Dawg Pudaz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jing Ping Kompa"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Am to Pm (feat. Hon Roosevelt Skerrit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sweet Caroline Bouyon"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tolly (feat. Pndrn)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nasty Chant (feat. Dirty Dawg Pudaz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bend Yuh Back (feat. Dirty Dawg Pudaz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Who Paro"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "D Coo Coo (feat. Dirty Dawg Pudaz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Man Giving Woman Money"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Take That Baby (feat. Dirty Dawg Pudaz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Make That Booty Clap (feat. Dirty Dawg Pudaz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Take Your Time (feat. Dirty Dawg Pudaz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Its All About Sewo (feat. Sukie)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Johnny (feat. Sukie & Da Doll)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pas Normal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Backerz (feat. Dirty Dawg Pudaz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Electric (feat. Burn Brain Jolly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kenip Season (feat. Burn Brain Jolly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Babawhoolay (feat. Burn Brain Jolly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bellevue Live (feat. Burn Brain Jolly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Da Is Sewo (feat. Burn Brain Jolly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "West Bank (feat. Burn Brain Jolly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "See Paris n Die (feat. Burn Brain Jolly & More Paris)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kettle (feat. Burn Brain Jolly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Police Beating Them (feat. Burn Brain Jolly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hi My Name Is Jolly (feat. Burn Brain Jolly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Je T’aime Dayleeway"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Chiney Wine"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Want Drugs (Live)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Suck D P***y (Live)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Laff and Shaff (feat. Burn Brain Jolly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nasty Business"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Toxic Love"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Coco Nana (feat. Sukie)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shake Your Boomboom (feat. Sukie)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Chiney Wine Official"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Climax (Live)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lolololololo"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Me Dat Dere"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tongue in Bottom"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Love My Music (Live)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Coco Field"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Propaganda"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Killa Fun Solo (Live)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dayleeway"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Drugs (Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Plenty Woman (Live)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Just D Tip"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Impossible"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Your Woman Not Your Woman (Live)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bump on D Head"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "J'ai Faim (Live)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Chiney Wine Solo"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Suck the P***y Tonight"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ridgy up Friday Mal Parle"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Doh Mind"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Peppa Pig"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Green Jing Ping"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doh Call My Phone"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Come n Kokay"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bizaw"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Christmas Medley"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Don't Go"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Money Riddim"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bamsie Clap (feat. Skinny Fabulous)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Badman (feat. Konshens)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Blue (feat. Ridge)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pani Love"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "She Want That Ah (Remix)"
+      },
+]
     }
    }
   ],
