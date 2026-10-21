@@ -84,7 +84,68 @@ FR = {
   ("La mention de Kassidje sur LANDR concerne-t-elle le même artiste ?", "Ce n’est pas confirmé. Un beatmaker, compositeur et ingénieur du son basé à Toulouse liste « kassidjé » parmi les artistes avec lesquels il a travaillé, dans l’annuaire professionnel du réseau LANDR. La graphie concorde avec celle de la tracklist de Faya, mais le profil ne donne ni titre ni date, et aucune source ne permet de vérifier qu’il s’agit du même artiste. Ce profil signale la mention comme une piste non confirmée."),
   ("Où écouter le bouyon de la scène de Kassidje ?", "Lisez notre page <a href=\"/bouyon-gwada.html\">bouyon gwada</a> pour la déclinaison guadeloupéenne du genre, notre page d’<a href=\"/histoire.html\">histoire du bouyon</a> pour le trajet du son depuis la Dominique, et écoutez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, qui suit la scène actuelle de la Guadeloupe et de la Dominique, celle dans laquelle « A pa taw » a circulé.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/kassidje.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/kassidje.html#artist", "name": "Kassidje", "description": "Artiste crédité avec Doc J sur le titre bouyon A pa taw, transmis par la tracklist de l’épisode guadeloupéen du podcast Faya. Aucune biographie ni autre enregistrement vérifié retrouvé en octobre 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "A pa taw"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/kassidje.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/kassidje.html#artist", "name": "Kassidje", "description": "Artiste crédité avec Doc J sur le titre bouyon A pa taw, transmis par la tracklist de l’épisode guadeloupéen du podcast Faya. Aucune biographie ni autre enregistrement vérifié retrouvé en octobre 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "A pa taw"},
+      {
+       "@type": "MusicRecording",
+       "name": "PETE UN CABLE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DANGEROUS DRIVER"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Baybay 2"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bay Bay / kassidjé Gazagirl /bouyon Ridge /Arthuro more siwo /Rdog"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Poum Poum"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tousa Sikré / Kassidjé Gazagirl / bouyon J2mo /"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bouyon hardcore"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doudou"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sèpen Sèpen (feat. Gaza Izzy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dangerous Gyal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bikini"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Milkshake"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sa ZOT VLÉ"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BOIT LE LAIT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TCHIN TCHIN / KASSIDJÉ GAZAGIRL / BOUYON J2MO"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -149,6 +210,67 @@ EN = {
   ("Does the Kassidje mention on LANDR concern the same artist?", "It is not confirmed. A beatmaker, composer and audio engineer based in Toulouse lists “kassidjé” among the artists he has worked with, in the professional directory of the LANDR Network. The spelling matches the Faya tracklist, but the profile gives neither title nor date, and no source allows checking that it is the same artist. This profile flags the mention as an unconfirmed lead."),
   ("Where can I hear the bouyon of the Kassidje scene?", "Read our <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a> page for the Guadeloupean form of the genre, our <a href=\"/en/history.html\">history of bouyon</a> page for the path of the sound from Dominica, and hear our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, which follows the current scene of Guadeloupe and Dominica, the one in which “A pa taw” circulated.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/kassidje.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/kassidje.html#artist", "name": "Kassidje", "description": "Artist credited with Doc J on the bouyon record A pa taw, carried by the tracklist of the Guadeloupe episode of the Faya podcast. No biography and no other verified recording found in October 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "A pa taw"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/kassidje.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/kassidje.html#artist", "name": "Kassidje", "description": "Artist credited with Doc J on the bouyon record A pa taw, carried by the tracklist of the Guadeloupe episode of the Faya podcast. No biography and no other verified recording found in October 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "A pa taw"},
+      {
+       "@type": "MusicRecording",
+       "name": "PETE UN CABLE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DANGEROUS DRIVER"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Baybay 2"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bay Bay / kassidjé Gazagirl /bouyon Ridge /Arthuro more siwo /Rdog"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Poum Poum"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tousa Sikré / Kassidjé Gazagirl / bouyon J2mo /"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bouyon hardcore"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doudou"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sèpen Sèpen (feat. Gaza Izzy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dangerous Gyal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bikini"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Milkshake"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sa ZOT VLÉ"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BOIT LE LAIT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TCHIN TCHIN / KASSIDJÉ GAZAGIRL / BOUYON J2MO"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

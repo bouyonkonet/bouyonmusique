@@ -65,7 +65,72 @@ FR = {
   ("Qu'est-ce que le bouyon hardcore, le courant où les références rangent Weelow ?", "Selon les articles de référence, le bouyon hardcore est une branche populaire du bouyon gwada, la déclinaison guadeloupéenne du bouyon né en Dominique, caractérisée par des paroles grivoises et violentes. C'est dans la liste des musiciens populaires de ce courant et de cette branche que le nom de Wee Low apparaît, avec Suppa, Doc J et Yellow Gaza. Le single vérifié de Weelow, mesuré à 155 BPM, correspond au régime rapide de cette scène du début des années 2010."),
   ("Où écouter Weelow ?", "Le titre vérifié, « Frappéy », est référencé sur les plateformes qui portent la fiche du single de 2012. Pour entendre la branche dans son ensemble, notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> mélange bouyon, bouyon gwada et nouveautés de la Dominique et de la Guadeloupe suivies par Bouyon Shattaz, et notre page <a href=\"/bouyon-gwada.html\">bouyon gwada</a> raconte l'histoire du courant.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/weelow.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/weelow.html#artist", "name": "Weelow", "description": "Artiste cité par les articles de référence, sous l'orthographe Wee Low, parmi les musiciens populaires du bouyon gwada et du bouyon hardcore en Guadeloupe, aux côtés de Suppa, Doc J et Yellow Gaza. Un seul enregistrement vérifié : Frappéy, single sorti le 3 juin 2012.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Frappéy"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/weelow.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/weelow.html#artist", "name": "Weelow", "description": "Artiste cité par les articles de référence, sous l'orthographe Wee Low, parmi les musiciens populaires du bouyon gwada et du bouyon hardcore en Guadeloupe, aux côtés de Suppa, Doc J et Yellow Gaza. Un seul enregistrement vérifié : Frappéy, single sorti le 3 juin 2012.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Frappéy"},
+      {
+       "@type": "MusicRecording",
+       "name": "Coco Chanel"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Left Right"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Back to the moon Freestyle"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ni Sa La"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pompey"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Benef"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Burberry"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Yone Pa Yone"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "YEAH (REMIX FUKUMEAN)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kush la Blue"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dope Boy"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Aux Antilles"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Le monde est perdu (Hystri Presents Djox Jonathan & Weelow)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Association de MC's contre le clergé (Remastered 2025)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bwa bander (feat. Weelow)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lévé dansé"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -129,6 +194,71 @@ EN = {
   ("What is bouyon hardcore, the current where the references place Weelow?", "According to the reference articles, bouyon hardcore is a popular offshoot within bouyon gwada, the Guadeloupe form of the bouyon born in Dominica, characterised by lewd and violent lyrics. The name Wee Low appears in the list of popular musicians of that current and that branch, with Suppa, Doc J and Yellow Gaza. The verified single by Weelow, measured at 155 BPM, matches the fast regime of that early 2010s scene."),
   ("Where can I hear Weelow?", "The verified track, “Frappéy”, is referenced on the platforms carrying the record page of the 2012 single. To hear the branch as a whole, our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> mixes bouyon, bouyon gwada and new releases from Dominica and Guadeloupe followed by Bouyon Shattaz, and our <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a> page tells the history of the current.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/weelow.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/weelow.html#artist", "name": "Weelow", "description": "Artist cited by reference articles, under the spelling Wee Low, among the popular musicians of bouyon gwada and bouyon hardcore in Guadeloupe, alongside Suppa, Doc J and Yellow Gaza. One verified recording only: Frappéy, a single released on 3 June 2012.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Frappéy"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/weelow.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/weelow.html#artist", "name": "Weelow", "description": "Artist cited by reference articles, under the spelling Wee Low, among the popular musicians of bouyon gwada and bouyon hardcore in Guadeloupe, alongside Suppa, Doc J and Yellow Gaza. One verified recording only: Frappéy, a single released on 3 June 2012.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Frappéy"},
+      {
+       "@type": "MusicRecording",
+       "name": "Coco Chanel"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Left Right"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Back to the moon Freestyle"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ni Sa La"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pompey"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Benef"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Burberry"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Yone Pa Yone"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "YEAH (REMIX FUKUMEAN)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kush la Blue"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dope Boy"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Aux Antilles"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Le monde est perdu (Hystri Presents Djox Jonathan & Weelow)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Association de MC's contre le clergé (Remastered 2025)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bwa bander (feat. Weelow)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lévé dansé"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
