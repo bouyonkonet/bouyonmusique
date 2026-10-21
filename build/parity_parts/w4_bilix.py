@@ -48,7 +48,116 @@ FR = {
   ("Quels titres de Bilix peut-on vérifier sur les plateformes ?", "Sept titres disposent de fiches Shazam détaillées : Sa Ka Débodé (feat. Mr Boka, 2016), Sang (Remix) avec Daly et neuf autres voix (2018), Miel Pop avec Triple Kay International (2019), Bay Li avec YMW, La fille de la personne avec Blicassty et Natoxie (2021), Dynamite avec Sissy, et Vendetta de Warped en featuring. Viberate en liste d’autres, dont Ti KoKa et Canicule, sans fiches détaillées ouvertes."),
   ("Où écouter Bilix ?", "Ses titres sont sur Shazam et les plateformes de streaming : commencez par Sa Ka Débodé et Miel Pop, puis poursuivez avec notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> et notre page <a href=\"/bouyon-gwada.html\">bouyon gwada</a>.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/bilix.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/bilix.html#artist", "name": "Bilix", "description": "Artiste bouyon associé à la Guadeloupe, présenté comme né en Guadeloupe par Viberate. Catalogue vérifié sur Shazam de 2016 à 2021, dont Sa Ka Débodé et Miel Pop avec Triple Kay International de la Dominique.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Sa Ka Débodé"}, {"@type": "MusicRecording", "name": "Sang - Remix"}, {"@type": "MusicRecording", "name": "Miel Pop"}, {"@type": "MusicRecording", "name": "Bay Li"}, {"@type": "MusicRecording", "name": "La fille de la personne"}, {"@type": "MusicRecording", "name": "Dynamite"}, {"@type": "MusicRecording", "name": "Vendetta"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/bilix.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/bilix.html#artist", "name": "Bilix", "description": "Artiste bouyon associé à la Guadeloupe, présenté comme né en Guadeloupe par Viberate. Catalogue vérifié sur Shazam de 2016 à 2021, dont Sa Ka Débodé et Miel Pop avec Triple Kay International de la Dominique.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Sa Ka Débodé"}, {"@type": "MusicRecording", "name": "Sang - Remix"}, {"@type": "MusicRecording", "name": "Miel Pop"}, {"@type": "MusicRecording", "name": "Bay Li"}, {"@type": "MusicRecording", "name": "La fille de la personne"}, {"@type": "MusicRecording", "name": "Dynamite"}, {"@type": "MusicRecording", "name": "Vendetta"},
+      {
+       "@type": "MusicRecording",
+       "name": "Long Spoon"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MEDICAMENT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Passe me voir (feat. Sissy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Neva Let Yuh Go"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Coco"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Canicule (feat. Arendi)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Chuck Norris"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mango la mi"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Adoré"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tu le mérites"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Brilé kalori (Emblématik fitness)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bodé Apiyé (feat. Bilix, Locomurder, Tchek Off & Dirty P) [Instrumental]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Yélélé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pa ni lanmou (feat. Bilix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cocktail (feat. Bilix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Chalè la (feat. Bilix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Koke Là Chanté (Canefield Riddim)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Madanm an mwen (feat. Bilix & Locomurder)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "#Teamholiday (feat. Circumstance, ALEK, Pocho Ramirez & PM)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fils du soleil (feat. Bilix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ti KoKa (feat. Larose, Bilix & Edday)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "One Love (feat. Bilix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "En Kounia M****** (feat. Bilix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Si Bitch (feat. Loco Murda, Bilix & STG)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pliss Abomination (feat. Bilix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Yinki move tan"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Condamné"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -96,6 +205,115 @@ EN = {
   ("Which Bilix records can be checked on the platforms?", "Seven records have detailed Shazam pages: Sa Ka Débodé (feat. Mr Boka, 2016), Sang (Remix) with Daly and nine other voices (2018), Miel Pop with Triple Kay International (2019), Bay Li with YMW, La fille de la personne with Blicassty and Natoxie (2021), Dynamite with Sissy, and Vendetta by Warped featuring Bilix. Viberate lists others, including Ti KoKa and Canicule, without detailed pages opened."),
   ("Where can I hear Bilix?", "His records are on Shazam and the streaming platforms: start with Sa Ka Débodé and Miel Pop, then continue with our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> and our <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a> page.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/bilix.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/bilix.html#artist", "name": "Bilix", "description": "Bouyon artist linked to Guadeloupe, presented as born in Guadeloupe by Viberate. Catalogue verified on Shazam from 2016 to 2021, including Sa Ka Débodé and Miel Pop with Triple Kay International from Dominica.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Sa Ka Débodé"}, {"@type": "MusicRecording", "name": "Sang - Remix"}, {"@type": "MusicRecording", "name": "Miel Pop"}, {"@type": "MusicRecording", "name": "Bay Li"}, {"@type": "MusicRecording", "name": "La fille de la personne"}, {"@type": "MusicRecording", "name": "Dynamite"}, {"@type": "MusicRecording", "name": "Vendetta"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/bilix.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/bilix.html#artist", "name": "Bilix", "description": "Bouyon artist linked to Guadeloupe, presented as born in Guadeloupe by Viberate. Catalogue verified on Shazam from 2016 to 2021, including Sa Ka Débodé and Miel Pop with Triple Kay International from Dominica.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Sa Ka Débodé"}, {"@type": "MusicRecording", "name": "Sang - Remix"}, {"@type": "MusicRecording", "name": "Miel Pop"}, {"@type": "MusicRecording", "name": "Bay Li"}, {"@type": "MusicRecording", "name": "La fille de la personne"}, {"@type": "MusicRecording", "name": "Dynamite"}, {"@type": "MusicRecording", "name": "Vendetta"},
+      {
+       "@type": "MusicRecording",
+       "name": "Long Spoon"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MEDICAMENT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Passe me voir (feat. Sissy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Neva Let Yuh Go"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Coco"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Canicule (feat. Arendi)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Chuck Norris"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mango la mi"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Adoré"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tu le mérites"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Brilé kalori (Emblématik fitness)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bodé Apiyé (feat. Bilix, Locomurder, Tchek Off & Dirty P) [Instrumental]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Yélélé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pa ni lanmou (feat. Bilix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cocktail (feat. Bilix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Chalè la (feat. Bilix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Koke Là Chanté (Canefield Riddim)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Madanm an mwen (feat. Bilix & Locomurder)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "#Teamholiday (feat. Circumstance, ALEK, Pocho Ramirez & PM)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fils du soleil (feat. Bilix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ti KoKa (feat. Larose, Bilix & Edday)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "One Love (feat. Bilix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "En Kounia M****** (feat. Bilix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Si Bitch (feat. Loco Murda, Bilix & STG)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pliss Abomination (feat. Bilix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Yinki move tan"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Condamné"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
