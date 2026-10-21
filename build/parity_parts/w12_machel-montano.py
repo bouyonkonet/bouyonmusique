@@ -97,7 +97,248 @@ FR = {
   ("Pourquoi Machel Montano est-il surnommé le roi de la soca ?", "C’est le titre que lui attribuent largement la presse et les institutions culturelles, de Billboard à la Brooklyn Public Library. Il repose sur des faits vérifiables : une carrière commencée enfant dans les années 1980, douze titres de Road March, six titres d’International Soca Monarch, un Soul Train Award en 2014 et un rôle central dans la mondialisation de la soca. Comme tous les titres d’artiste, celui-ci est une attribution, pas un fait officiel."),
   ("Quels titres de Machel Montano écouter pour entendre le lien avec le bouyon ?", "Commencez par « Famalay » et « Conch Shell », les deux productions de Dada que les références du bouyon soca retiennent comme emblèmes du genre. Enchaînez avec les titres du record : « Big Truck », « Pump Yuh Flag », « Ministry of Road », « Like Ah Boss », « Soca Kingdom » et « Encore ». Notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> replace les deux premiers dans le paysage dominicain.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/machel-montano.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/machel-montano.html#artist", "name": "Machel Montano", "description": "Chanteur, auteur et producteur soca de Trinidad et Tobago, largement présenté comme le roi de la soca. Recordman du Road March avec 12 titres. Ses titres Famalay et Conch Shell sont produits par le Dominicain Dada, et son site officiel l’annonce au World Creole Music Festival de Roseau le 25 octobre 2026.", "genre": "Soca", "track": [{"@type": "MusicRecording", "name": "Too Young To Soca"}, {"@type": "MusicRecording", "name": "Big Truck"}, {"@type": "MusicRecording", "name": "Toro Toro"}, {"@type": "MusicRecording", "name": "Band Of De Year"}, {"@type": "MusicRecording", "name": "Jumbie"}, {"@type": "MusicRecording", "name": "Pump Yuh Flag"}, {"@type": "MusicRecording", "name": "Ministry of Road"}, {"@type": "MusicRecording", "name": "Like Ah Boss"}, {"@type": "MusicRecording", "name": "One Wine"}, {"@type": "MusicRecording", "name": "Waiting on the Stage"}, {"@type": "MusicRecording", "name": "Soca Kingdom"}, {"@type": "MusicRecording", "name": "Famalay"}, {"@type": "MusicRecording", "name": "Conch Shell"}, {"@type": "MusicRecording", "name": "Pardy"}, {"@type": "MusicRecording", "name": "Encore"}], "sameAs": ["https://machelmontano.com/"]}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/machel-montano.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/machel-montano.html#artist", "name": "Machel Montano", "description": "Chanteur, auteur et producteur soca de Trinidad et Tobago, largement présenté comme le roi de la soca. Recordman du Road March avec 12 titres. Ses titres Famalay et Conch Shell sont produits par le Dominicain Dada, et son site officiel l’annonce au World Creole Music Festival de Roseau le 25 octobre 2026.", "genre": "Soca", "track": [{"@type": "MusicRecording", "name": "Too Young To Soca"}, {"@type": "MusicRecording", "name": "Big Truck"}, {"@type": "MusicRecording", "name": "Toro Toro"}, {"@type": "MusicRecording", "name": "Band Of De Year"}, {"@type": "MusicRecording", "name": "Jumbie"}, {"@type": "MusicRecording", "name": "Pump Yuh Flag"}, {"@type": "MusicRecording", "name": "Ministry of Road"}, {"@type": "MusicRecording", "name": "Like Ah Boss"}, {"@type": "MusicRecording", "name": "One Wine"}, {"@type": "MusicRecording", "name": "Waiting on the Stage"}, {"@type": "MusicRecording", "name": "Soca Kingdom"}, {"@type": "MusicRecording", "name": "Famalay"}, {"@type": "MusicRecording", "name": "Conch Shell"}, {"@type": "MusicRecording", "name": "Pardy"}, {"@type": "MusicRecording", "name": "Encore"},
+      {
+       "@type": "MusicRecording",
+       "name": "Encore (Stage Mix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Carnival Birthday"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Elevate"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pull D Pin"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tempa Wine"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Compromise"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PARDY (Road Mix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Truth & Balance"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Home Is Where The Heart Is"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wah We Doin"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "The Truth"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wave It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bet Meh"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nice Time"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fallen Fetters"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fling It Up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Slow Wine"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Super Soca"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Play Harder"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Love You"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Toco Loco"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jammin"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dancè"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Brace Up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Come For It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "In We Blood"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Remedy"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pop Ah Bottle"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Erupt"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Party Done"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Happiest Man Alive"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Epic"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Haunted"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ministry of Road (M.O.R.)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bruck It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mr. Fete"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mr. Fete (Road Mix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bottle of Rum"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Vibes Cyah Done"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "One More Time"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bend Over"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Advantage"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Guh Down (Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Indian Gyal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Witch Doctor"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fly Away"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Push Bumpers"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shake the Place"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Soul of Calypso"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Like Yuh Self"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fast Wine"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dance With You"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Her Mudda"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Possessed"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Reveling"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Reveling (Road Mix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Oil & Music (Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Whine"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Alright (Ramajay)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Come Back"
+      },
+], "sameAs": ["https://machelmontano.com/"]}}],
  "date_modified": "2026-10-20"
 }
 
@@ -184,6 +425,247 @@ EN = {
   ("Why is Machel Montano called the King of Soca?", "It is the title widely given to him by the press and cultural institutions, from Billboard to Brooklyn Public Library. It rests on verifiable facts: a career begun as a child in the 1980s, twelve Road March titles, six International Soca Monarch titles, a Soul Train Award in 2014 and a central role in the globalisation of soca. Like all artist titles, it is an attribution, not an official fact."),
   ("Which Machel Montano records should I hear to catch the bouyon link?", "Start with “Famalay” and “Conch Shell”, the two Dada productions that bouyon soca references hold up as emblems of the genre. Follow with the record run: “Big Truck”, “Pump Yuh Flag”, “Ministry of Road”, “Like Ah Boss”, “Soca Kingdom” and “Encore”. Our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> places the first two back inside the Dominican landscape.")
  ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/machel-montano.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/machel-montano.html#artist", "name": "Machel Montano", "description": "Soca singer, songwriter and producer from Trinidad and Tobago, widely billed as the King of Soca. All time Road March record holder with 12 titles. His records Famalay and Conch Shell are produced by Dominica Dada, and his official website lists him at the World Creole Music Festival in Roseau on 25 October 2026.", "genre": "Soca", "track": [{"@type": "MusicRecording", "name": "Too Young To Soca"}, {"@type": "MusicRecording", "name": "Big Truck"}, {"@type": "MusicRecording", "name": "Toro Toro"}, {"@type": "MusicRecording", "name": "Band Of De Year"}, {"@type": "MusicRecording", "name": "Jumbie"}, {"@type": "MusicRecording", "name": "Pump Yuh Flag"}, {"@type": "MusicRecording", "name": "Ministry of Road"}, {"@type": "MusicRecording", "name": "Like Ah Boss"}, {"@type": "MusicRecording", "name": "One Wine"}, {"@type": "MusicRecording", "name": "Waiting on the Stage"}, {"@type": "MusicRecording", "name": "Soca Kingdom"}, {"@type": "MusicRecording", "name": "Famalay"}, {"@type": "MusicRecording", "name": "Conch Shell"}, {"@type": "MusicRecording", "name": "Pardy"}, {"@type": "MusicRecording", "name": "Encore"}], "sameAs": ["https://machelmontano.com/"]}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/machel-montano.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/machel-montano.html#artist", "name": "Machel Montano", "description": "Soca singer, songwriter and producer from Trinidad and Tobago, widely billed as the King of Soca. All time Road March record holder with 12 titles. His records Famalay and Conch Shell are produced by Dominica Dada, and his official website lists him at the World Creole Music Festival in Roseau on 25 October 2026.", "genre": "Soca", "track": [{"@type": "MusicRecording", "name": "Too Young To Soca"}, {"@type": "MusicRecording", "name": "Big Truck"}, {"@type": "MusicRecording", "name": "Toro Toro"}, {"@type": "MusicRecording", "name": "Band Of De Year"}, {"@type": "MusicRecording", "name": "Jumbie"}, {"@type": "MusicRecording", "name": "Pump Yuh Flag"}, {"@type": "MusicRecording", "name": "Ministry of Road"}, {"@type": "MusicRecording", "name": "Like Ah Boss"}, {"@type": "MusicRecording", "name": "One Wine"}, {"@type": "MusicRecording", "name": "Waiting on the Stage"}, {"@type": "MusicRecording", "name": "Soca Kingdom"}, {"@type": "MusicRecording", "name": "Famalay"}, {"@type": "MusicRecording", "name": "Conch Shell"}, {"@type": "MusicRecording", "name": "Pardy"}, {"@type": "MusicRecording", "name": "Encore"},
+      {
+       "@type": "MusicRecording",
+       "name": "Encore (Stage Mix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Carnival Birthday"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Elevate"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pull D Pin"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tempa Wine"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Compromise"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PARDY (Road Mix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Truth & Balance"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Home Is Where The Heart Is"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wah We Doin"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "The Truth"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wave It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bet Meh"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nice Time"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fallen Fetters"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fling It Up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Slow Wine"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Super Soca"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Play Harder"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Love You"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Toco Loco"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jammin"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dancè"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Brace Up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Come For It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "In We Blood"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Remedy"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pop Ah Bottle"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Erupt"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Party Done"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Happiest Man Alive"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Epic"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Haunted"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ministry of Road (M.O.R.)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bruck It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mr. Fete"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mr. Fete (Road Mix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bottle of Rum"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Vibes Cyah Done"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "One More Time"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bend Over"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Advantage"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Guh Down (Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Indian Gyal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Witch Doctor"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fly Away"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Push Bumpers"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shake the Place"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Soul of Calypso"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Like Yuh Self"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fast Wine"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dance With You"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Her Mudda"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Possessed"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Reveling"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Reveling (Road Mix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Oil & Music (Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Whine"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Alright (Ramajay)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Come Back"
+      },
+], "sameAs": ["https://machelmontano.com/"]}}],
  "date_modified": "2026-10-20"
 }
