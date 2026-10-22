@@ -2,6 +2,10 @@
 
 The repo root is the deployed GitHub Pages site (HTML output). This build/ folder is the source of truth for generated pages.
 
+Current direction, October 21, 2026: improve existing French coverage and music discovery; measure clicks before expanding the 675-URL sitemap. See ../AGENTS.md. The 2027 review pages are outside this deployment and must not be added by regeneration.
+
+The five reviewed listening additions live in music_discovery_blocks.json. Both generators apply music_discovery.py after generation so these additions survive rebuilds without replacing existing titles, H1s, canonical URLs, playlists or article bodies. To reapply only these additions, run `python3 build/music_discovery.py` from the repository root. This does not change the sitemap.
+
 - generate.py builds the French pages into the repo root. generate_en_full.py builds the full English mirror into /en/.
 - Both generators hardcode their output path as ~/workspace/bouyonmusique.com (the SITE variable at the top of each file). Clone the repo to that path, or edit SITE before running.
 - Content lives in data_*.py modules: French module + matching *_en.py module. New content goes in a new module pair, registered in the import lists of generate.py and generate_en_full.py.
