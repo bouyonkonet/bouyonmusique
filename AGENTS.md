@@ -10,3 +10,8 @@ The user requested 2026–2027 keyword work for Bouyon and music websites only, 
 - This repository is bouyonkonet/bouyonmusique. Verify that exact owner and use the bouyonkonet credential explicitly before external writes. Never connect Bouyon content to an NXUSDEV account or organization.
 - The 2027 review batch and measurement baseline are in /home/nxusdev/reports/keyword-rollout-2026-2027. Do not publish that directory as part of the site.
 - Keep generator sources and deployed HTML consistent. Read build/README.md before generation.
+
+
+## Search Console and indexing (no browser)
+
+Use `~/bouyon-indexing/gsc_index.py` for all Google Search Console work on bouyonsoca.com, bouyonshattaz.com, bouyonmusique.com and smokiller.com: sitemap submit/status, URL Inspection (is a page indexed, last crawl, Google canonical), new-domain verification and IndexNow. Runbook: `~/bouyon-indexing/README.md`. Do not open a browser for these. The "Request indexing" button has no API; leave it to the owner. Daily checks are owned by the Search Indexing Operator agents (BOU and BOUA); report indexing problems to them instead of re-running checks.
