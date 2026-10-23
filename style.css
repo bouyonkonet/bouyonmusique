@@ -51,3 +51,8 @@ footer h4{color:var(--text);margin-bottom:10px;font-size:16px}
 footer ul{list-style:none}
 footer li{margin:6px 0}
 @media(max-width:640px){h1{font-size:33px}.hero{padding:44px 0 30px}body{font-size:16px}}
+.pubdate{font-size:14px;color:var(--muted)}
+.muted{color:var(--muted);font-size:15px}
+.tracklist{margin:12px 0 12px 24px}
+.tracklist li{margin:6px 0}
+.tracklist a:first-child{font-variant-numeric:tabular-nums}

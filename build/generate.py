@@ -204,7 +204,7 @@ CAT_FAQ = {
 }
 
 
-SITE = os.path.expanduser("~/workspace/bouyonmusique.com")
+SITE = os.environ.get("BOUYONMUSIQUE_SITE") or os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 PAGES = []
@@ -230,6 +230,18 @@ _en_owner = {}
 for _fr, _en in FR2EN.items():
     _en_owner[_en] = _fr
 FR2EN = {_fr: _en for _fr, _en in FR2EN.items() if _en_owner[_en] == _fr}
+
+# Artist hubs, mixtapes and chroniques (BOU-3200): see hubs.py and editorial.py.
+import editorial, hubs
+from data_chroniques import CHRONIQUES
+from data_mixtapes import MIXTAPES, SMOKILLER_CHANNEL
+EDITORIAL = editorial.items(MIXTAPES, CHRONIQUES)
+PAGE_BY_SLUG = {p["slug"]: p for p in PAGES + EDITORIAL}
+ARTISTS = hubs.artists(PAGES)
+ARTIST_BY_SLUG = {a["slug"]: a for a in ARTISTS}
+MENTIONS = hubs.mentions(PAGES, ARTISTS, "/")
+MENTIONS.update({e["slug"]: e["artists"] for e in EDITORIAL})
+MENTIONED_IN = hubs.invert(MENTIONS)
 
 CORE = [
     ("/", "Bouyon Musique (accueil)"),
@@ -257,6 +269,7 @@ def header(active_cat):
       <a href="/histoire.html">Histoire</a>
       <a href="/artistes.html">Artistes</a>
       <a href="/playlist-bouyon.html">Playlists</a>
+      <a href="/mixtapes/">Mixtapes</a>
       <a href="/bouyon-danse.html">Bouyon danse</a>
       <a href="/plan-du-site.html">Tous les sujets</a>
       <a href="/faq.html">FAQ</a>
@@ -308,7 +321,7 @@ def page_terms(all_pages, page, extra):
         if 3 <= len(h1name) <= 40:
             cand.append(h1name)
         for t in cand:
-            if t and t not in GENERIC_TERMS and len(t) >= 3:
+            if t and t not in GENERIC_TERMS and t not in hubs.LINK_ONLY and len(t) >= 3:
                 terms.setdefault(t, q["slug"])
     for t, s in extra.items():
         if s in slugs and s != page["slug"]:
@@ -344,8 +357,9 @@ def linkify_sections(page, all_pages, extra, prefix, cap=8):
                     # only match plain text, never inside a link inserted earlier in this loop
                     segs = re.split(r'(<a [^>]*>.*?</a>)', part)
                     for j, seg in enumerate(segs):
-                        if not seg.startswith("<a ") and pat.search(seg):
-                            segs[j] = pat.sub('<a href="' + target + '">' + term + '</a>', seg, count=1)
+                        m = None if seg.startswith("<a ") else hubs.first_match(pat, seg)
+                        if m:
+                            segs[j] = seg[:m.start()] + '<a href="' + target + '">' + term + '</a>' + seg[m.end():]
                             used.add(target)
                             count += 1
                             break
@@ -461,6 +475,38 @@ def playlist_embeds_html(slug):
                     'style="border:0;border-radius:12px" loading="lazy" allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>\n')
     return out
 
+def byline(page):
+    pub, mod = page.get("date_published"), page.get("date_modified")
+    out = f'<p class="pubdate">Par <a href="/smokiller.html" rel="author">Smokiller</a> · Publié le <time datetime="{pub}">{fmt_date_fr(pub)}</time>'
+    if mod and mod > pub:
+        out += f' · Mis à jour le <time datetime="{mod}">{fmt_date_fr(mod)}</time>'
+    return out + "</p>"
+
+def cited_html(slugs):
+    """Every page: the artists it mentions, linked to their profiles."""
+    if not slugs:
+        return ""
+    links = " \u00b7 ".join(f'<a href="/{s}">{esc(ARTIST_BY_SLUG[s]["nav"])}</a>' for s in slugs)
+    return f'\n<h2>Artistes cités dans cette page</h2>\n<p class="strip">{links}</p>\n'
+
+def hub_html(page):
+    """Artist profiles: every page of the site that mentions the artist, grouped by section."""
+    refs = [PAGE_BY_SLUG[s] for s in MENTIONED_IN.get(page["slug"], [])]
+    if page["slug"] not in ARTIST_BY_SLUG or not refs:
+        return "", None
+    groups = {}
+    for r in refs:
+        groups.setdefault(r["cat"], []).append(r)
+    name = page["nav"]
+    lead = f"Une page du site cite {esc(name)}." if len(refs) == 1 else f"{len(refs)} pages du site citent {esc(name)}."
+    out = f'\n<h2>{esc(name)} sur Bouyon Musique</h2>\n<p>{lead}</p>\n'
+    for cat in sorted(groups, key=lambda c: (c not in ("Mixtapes", "Chroniques"), c == "Artistes bouyon")):
+        links = " \u00b7 ".join(f'<a href="/{r["slug"]}">{esc(r["nav"])}</a>' for r in groups[cat])
+        out += f'<h3>{esc(cat)}</h3>\n<p class="strip">{links}</p>\n'
+    ld = {"@type": "ItemList", "name": f"Pages qui citent {name}", "itemListElement": [
+        {"@type": "ListItem", "position": i + 1, "name": r["nav"], "url": "https://bouyonmusique.com/" + r["slug"]} for i, r in enumerate(refs)]}
+    return out, ld
+
 def render(page, all_pages):
     same_cat = [p for p in all_pages if p["cat"] == page["cat"] and p["slug"] != page["slug"]]
     rel = spread_pick(same_cat, page["slug"], 9)
@@ -480,13 +526,16 @@ def render(page, all_pages):
         "name": page["title"],
         "description": page["desc"],
         "inLanguage": page.get("lang", "fr"),
-        "dateModified": BUILD_DATE,
+        "dateModified": page.get("date_modified") or page.get("date_published") or BUILD_DATE,
         "isPartOf": {"@id": "https://bouyonmusique.com/#site"},
         "publisher": {"@id": "https://bouyonmusique.com/#org"},
         "author": {"@id": "https://bouyonmusique.com/#smokiller"},
     }
     if page.get("date_published"):
         ld["datePublished"] = page["date_published"]
+    cited = MENTIONS.get(page["slug"], [])
+    if cited:
+        ld["mentions"] = [{"@id": ARTIST_BY_SLUG[s]["id"]} for s in cited]
     breadcrumb = {
         "@type": "BreadcrumbList",
         "itemListElement": [
@@ -511,10 +560,15 @@ def render(page, all_pages):
         _e = dict(_e)
         if _e.get("@type") in ("ProfilePage", "Article") and page.get("date_published"):
             _e.setdefault("datePublished", page["date_published"])
+        if _e.get("@type") == "ProfilePage" and isinstance(_e.get("mainEntity"), dict):
+            _e["mainEntity"] = hubs.as_music_group(_e["mainEntity"])
         graph.append(_e)
+    hub, hub_ld = hub_html(page)
+    if hub_ld:
+        graph.append(hub_ld)
     date_html = ""
     if page.get("date_published"):
-        date_html = f'\n<p class="pubdate">Publié le {fmt_date_fr(page["date_published"])}</p>'
+        date_html = "\n" + byline(page)
     rel_html = ""
     if rel:
         rel_html = '\n<h2>À lire aussi</h2>\n<div class="grid">\n'
@@ -582,9 +636,9 @@ def render(page, all_pages):
 <p class="breadcrumb"><a href="/">Accueil</a> / {esc(page["cat"])} / {esc(page["nav"])}</p>
 <h1>{esc(page["h1"])}</h1>{date_html}
 <p class="lead">{page["intro"]}</p>
-{sections}
+{sections}{hub}
 {cta}
-{embed_html}{faq_html}
+{embed_html}{faq_html}{cited_html(cited)}
 {rel_html}
 {strip_html}
 </div>
@@ -593,6 +647,45 @@ def render(page, all_pages):
 </body>
 </html>
 """
+
+def previous_lastmods():
+    """loc -> lastmod from the sitemaps currently on disk (single file or index)."""
+    out = {}
+    for name in sorted(os.listdir(SITE)):
+        if name.startswith("sitemap") and name.endswith(".xml"):
+            text = open(os.path.join(SITE, name), encoding="utf-8").read()
+            for loc, mod in re.findall(r"<url>\s*<loc>https://bouyonmusique\.com([^<]*)</loc>\s*<lastmod>([^<]+)</lastmod>", text):
+                out[loc] = mod
+    return out
+
+def video_xml(e):
+    x = lambda t: html.escape(t, quote=False)
+    return f"""    <video:video>
+      <video:thumbnail_loc>https://bouyonmusique.com/mixtapes/img/{e["video_id"]}.jpg</video:thumbnail_loc>
+      <video:title>{x(e["youtube_title"])}</video:title>
+      <video:description>{x(faq_text(e["intro"]))}</video:description>
+      <video:player_loc>https://www.youtube.com/embed/{e["video_id"]}</video:player_loc>
+      <video:duration>{e["duration"]}</video:duration>
+      <video:publication_date>{e["upload_date"]}</video:publication_date>
+    </video:video>
+"""
+
+def write_editorial():
+    ctx = {
+        "esc": esc, "plain": faq_text, "fmt_date": fmt_date_fr, "header": header(""), "byline": byline,
+        "cited": cited_html, "pages": PAGE_BY_SLUG, "artists": ARTIST_BY_SLUG, "site_entities": SITE_ENTITIES,
+        "channel": SMOKILLER_CHANNEL, "footer": lambda page, same: footer(page, same),
+    }
+    for kind, k in editorial.KINDS.items():
+        rows = [e for e in EDITORIAL if e["kind"] == kind]
+        if not rows:
+            continue
+        os.makedirs(os.path.join(SITE, k["dir"]), exist_ok=True)
+        for e in rows:
+            with open(os.path.join(SITE, e["slug"]), "w", encoding="utf-8") as f:
+                f.write(editorial.render(e, rows, ctx))
+        with open(os.path.join(SITE, k["dir"], "index.html"), "w", encoding="utf-8") as f:
+            f.write(editorial.render_index(kind, rows, ctx))
 
 def main():
     for page in PAGES:
@@ -657,34 +750,71 @@ def main():
 """
     with open(os.path.join(SITE, "plan-du-site.html"), "w", encoding="utf-8") as f:
         f.write(plan)
-    # sitemap
+    write_editorial()
+    # Sitemaps (BOU-3200): sitemap.xml is an index of one sitemap per page type.
     urls = [u for u, _ in CORE] + [f'/{p["slug"]}' for p in PAGES] + ["/plan-du-site.html"] + ["/en/history.html", "/en/artists.html", "/en/playlist-bouyon.html", "/en/bouyon-dance.html", "/en/faq.html", "/en/site-map.html"] + [f'/en/{s}' for s in FR2EN.values()]
+    for kind in editorial.KINDS:
+        rows = [e for e in EDITORIAL if e["kind"] == kind]
+        if rows:
+            urls += ["/" + editorial.KINDS[kind]["dir"]] + [f'/{e["slug"]}' for e in rows]
     seen, ordered = set(), []
     for u in urls:
         if u not in seen:
             seen.add(u); ordered.append(u)
-    lastmod = {}
-    for p in PAGES:
+    # Hand-built pages have no date in the data: keep the lastmod already published.
+    lastmod = previous_lastmods()
+    for p in PAGES + EDITORIAL:
         lastmod[f'/{p["slug"]}'] = p.get("date_modified") or p.get("date_published", BUILD_DATE)
     for _slug_en, _d in ENDATES.items():
         lastmod[f"/en/{_slug_en}"] = _d
-    items = ""
+    for kind, k in editorial.KINDS.items():
+        rows = [e for e in EDITORIAL if e["kind"] == kind]
+        if rows:
+            lastmod["/" + k["dir"]] = max(e.get("date_modified") or e["date_published"] for e in rows)
+    artist_urls = {"/artistes.html"} | {f'/{p["slug"]}' for p in PAGES if p["cat"] == "Artistes bouyon"}
+    videos = {f'/{e["slug"]}': e for e in EDITORIAL if e.get("video_id") and e["kind"] == "mixtape"}
+    def kind_of(u):
+        if u.startswith("/en/"):
+            return "en"
+        if u in artist_urls:
+            return "artistes"
+        for kind, k in editorial.KINDS.items():
+            if u.startswith("/" + k["dir"]):
+                return k["dir"].strip("/")
+        return "pages"
+    groups = {}
     for u in ordered:
-        pr = "1.0" if u == "/" else ("0.9" if u in [c for c, _ in CORE] else "0.8")
-        items += f"""  <url>
+        groups.setdefault(kind_of(u), []).append(u)
+    index = ""
+    for name, us in groups.items():
+        items = ""
+        for u in us:
+            pr = "1.0" if u == "/" else ("0.9" if u in [c for c, _ in CORE] else "0.8")
+            items += f"""  <url>
     <loc>https://bouyonmusique.com{u}</loc>
     <lastmod>{lastmod.get(u, BUILD_DATE)}</lastmod>
     <changefreq>weekly</changefreq>
     <priority>{pr}</priority>
-  </url>
+{video_xml(videos[u]) if u in videos else ""}  </url>
 """
-    sitemap = f"""<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+        ns = ' xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"' if any(u in videos for u in us) else ""
+        with open(os.path.join(SITE, f"sitemap-{name}.xml"), "w", encoding="utf-8") as f:
+            f.write(f"""<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"{ns}>
 {items}</urlset>
+""")
+        index += f"""  <sitemap>
+    <loc>https://bouyonmusique.com/sitemap-{name}.xml</loc>
+    <lastmod>{max(lastmod.get(u, BUILD_DATE) for u in us)}</lastmod>
+  </sitemap>
 """
     with open(os.path.join(SITE, "sitemap.xml"), "w", encoding="utf-8") as f:
-        f.write(sitemap)
-    print(f"Wrote {len(PAGES)} generated pages, plan-du-site, sitemap with {len(ordered)} URLs")
+        f.write(f"""<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{index}</sitemapindex>
+""")
+    print("Sitemaps: " + ", ".join(f"{n} {len(us)}" for n, us in groups.items()))
+    print(f"Wrote {len(PAGES)} generated pages, {len(EDITORIAL)} mixtapes and chroniques, plan-du-site, sitemap index with {len(ordered)} URLs")
 
 if __name__ == "__main__":
     main()
