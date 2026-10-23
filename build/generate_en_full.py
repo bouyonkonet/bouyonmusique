@@ -204,7 +204,7 @@ CAT_FAQ = {
 }
 
 
-SITE = os.path.expanduser("~/workspace/bouyonmusique.com/en")
+SITE = os.path.join(os.environ.get("BOUYONMUSIQUE_SITE") or os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "en")
 BUILD = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, BUILD)
 
@@ -215,6 +215,14 @@ for mod in ["data_styles_en", "data_guides_en", "data_places_en", "data_events_a
 
 for _p in PAGES:
     _p.setdefault("date_published", spread_date(_p["fr_slug"]))
+
+# Artist hubs (BOU-3200): see hubs.py. English pages link English profiles only.
+import hubs
+PAGE_BY_SLUG = {p["slug"]: p for p in PAGES}
+ARTISTS = hubs.artists(PAGES)
+ARTIST_BY_SLUG = {a["slug"]: a for a in ARTISTS}
+MENTIONS = hubs.mentions(PAGES, ARTISTS, "/en/")
+MENTIONED_IN = hubs.invert(MENTIONS)
 
 CORE_EN = [
     ("/en/", "Bouyon Music (home)"),
@@ -292,7 +300,7 @@ def page_terms(all_pages, page, extra):
         if 3 <= len(h1name) <= 40:
             cand.append(h1name)
         for t in cand:
-            if t and t not in GENERIC_TERMS and len(t) >= 3:
+            if t and t not in GENERIC_TERMS and t not in hubs.LINK_ONLY and len(t) >= 3:
                 terms.setdefault(t, q["slug"])
     for t, s in extra.items():
         if s in slugs and s != page["slug"]:
@@ -328,8 +336,9 @@ def linkify_sections(page, all_pages, extra, prefix, cap=8):
                     # only match plain text, never inside a link inserted earlier in this loop
                     segs = re.split(r'(<a [^>]*>.*?</a>)', part)
                     for j, seg in enumerate(segs):
-                        if not seg.startswith("<a ") and pat.search(seg):
-                            segs[j] = pat.sub('<a href="' + target + '">' + term + '</a>', seg, count=1)
+                        m = None if seg.startswith("<a ") else hubs.first_match(pat, seg)
+                        if m:
+                            segs[j] = seg[:m.start()] + '<a href="' + target + '">' + term + '</a>' + seg[m.end():]
                             used.add(target)
                             count += 1
                             break
@@ -445,6 +454,38 @@ def playlist_embeds_html(slug):
                     'style="border:0;border-radius:12px" loading="lazy" allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>\n')
     return out
 
+def byline(page):
+    pub, mod = page.get("date_published"), page.get("date_modified")
+    out = f'<p class="pubdate">By <a href="/en/smokiller.html" rel="author">Smokiller</a> · Published <time datetime="{pub}">{fmt_date_en(pub)}</time>'
+    if mod and mod > pub:
+        out += f' · Updated <time datetime="{mod}">{fmt_date_en(mod)}</time>'
+    return out + "</p>"
+
+def cited_html(slugs):
+    """Every page: the artists it mentions, linked to their profiles."""
+    if not slugs:
+        return ""
+    links = " \u00b7 ".join(f'<a href="/en/{s}">{esc(ARTIST_BY_SLUG[s]["nav"])}</a>' for s in slugs)
+    return f'\n<h2>Artists mentioned on this page</h2>\n<p class="strip">{links}</p>\n'
+
+def hub_html(page):
+    """Artist profiles: every page of the site that mentions the artist, grouped by section."""
+    refs = [PAGE_BY_SLUG[s] for s in MENTIONED_IN.get(page["slug"], [])]
+    if page["slug"] not in ARTIST_BY_SLUG or not refs:
+        return "", None
+    groups = {}
+    for r in refs:
+        groups.setdefault(r["cat"], []).append(r)
+    name = page["nav"]
+    lead = f"One page on this site mentions {esc(name)}." if len(refs) == 1 else f"{len(refs)} pages on this site mention {esc(name)}."
+    out = f'\n<h2>{esc(name)} on Bouyon Music</h2>\n<p>{lead}</p>\n'
+    for cat in sorted(groups, key=lambda c: c == "Bouyon artists"):
+        links = " \u00b7 ".join(f'<a href="/en/{r["slug"]}">{esc(r["nav"])}</a>' for r in groups[cat])
+        out += f'<h3>{esc(cat)}</h3>\n<p class="strip">{links}</p>\n'
+    ld = {"@type": "ItemList", "name": f"Pages that mention {name}", "itemListElement": [
+        {"@type": "ListItem", "position": i + 1, "name": r["nav"], "url": "https://bouyonmusique.com/en/" + r["slug"]} for i, r in enumerate(refs)]}
+    return out, ld
+
 def render(page):
     same_cat = [p for p in PAGES if p["cat"] == page["cat"] and p["slug"] != page["slug"]]
     rel = spread_pick(same_cat, page["slug"], 9)
@@ -459,7 +500,7 @@ def render(page):
     graph = [{
         "@context": "https://schema.org", "@type": "WebPage", "@id": url + "#page", "url": url,
         "name": page["title"], "description": page["desc"], "inLanguage": "en",
-        "dateModified": BUILD_DATE,
+        "dateModified": page.get("date_modified") or page.get("date_published") or BUILD_DATE,
         "isPartOf": {"@id": "https://bouyonmusique.com/#site"},
         "publisher": {"@id": "https://bouyonmusique.com/#org"},
         "author": {"@id": "https://bouyonmusique.com/#smokiller"},
@@ -473,6 +514,9 @@ def render(page):
     }] + SITE_ENTITIES
     if graph and graph[0].get("@type") == "WebPage" and page.get("date_published"):
         graph[0]["datePublished"] = page["date_published"]
+    cited = MENTIONS.get(page["slug"], [])
+    if cited:
+        graph[0]["mentions"] = [{"@id": ARTIST_BY_SLUG[s]["id"]} for s in cited]
     faq_html = ""
     if faq_list:
         faq_html = '\n<h2>Frequently asked questions</h2>\n'
@@ -484,10 +528,15 @@ def render(page):
         _e = dict(_e)
         if _e.get("@type") in ("ProfilePage", "Article") and page.get("date_published"):
             _e.setdefault("datePublished", page["date_published"])
+        if _e.get("@type") == "ProfilePage" and isinstance(_e.get("mainEntity"), dict):
+            _e["mainEntity"] = hubs.as_music_group(_e["mainEntity"])
         graph.append(_e)
+    hub, hub_ld = hub_html(page)
+    if hub_ld:
+        graph.append(hub_ld)
     date_html = ""
     if page.get("date_published"):
-        date_html = f'\n<p class="pubdate">Published {fmt_date_en(page["date_published"])}</p>'
+        date_html = "\n" + byline(page)
     rel_html = ""
     if rel:
         rel_html = '\n<h2>Read next</h2>\n<div class="grid">\n'
@@ -553,9 +602,9 @@ def render(page):
 <p class="breadcrumb"><a href="/en/">Home</a> / {esc(page["cat"])} / {esc(page["nav"])}</p>
 <h1>{esc(page["h1"])}</h1>{date_html}
 <p class="lead">{page["intro"]}</p>
-{sections}
+{sections}{hub}
 {cta}
-{embed_html}{faq_html}
+{embed_html}{faq_html}{cited_html(cited)}
 {rel_html}
 {strip_html}
 </div>
