@@ -1,6 +1,8 @@
 # Build system for bouyonmusique.com
 
-The repo root is the deployed GitHub Pages site (HTML output). This build/ folder is the source of truth for generated pages.
+The repo root holds the site output (HTML). This build/ folder is the source of truth for generated pages. GitHub Pages deploys through .github/workflows/pages.yml, which publishes only site files (HTML, CSS, images, sitemaps, robots.txt, CNAME). build/, AGENTS.md and README.md are never served.
+
+Internal notes (research logs, plans, audits, discovery queues, playlist inventories) live in the bouyonmusique-notes repo, under the same build/ paths. Check it out beside this repo (~/bouyonmusique-notes). Artist pages read build/listen_sources.json (title + URL only); after editing the research logs in the notes repo, run `python3 build/sources_listen.py --export`.
 
 Current direction, October 21, 2026: improve existing French coverage and music discovery; measure clicks before expanding the 675-URL sitemap. See ../AGENTS.md. The 2027 review pages are outside this deployment and must not be added by regeneration.
 
@@ -20,4 +22,4 @@ The five reviewed listening additions live in music_discovery_blocks.json. Both 
 - Chroniques: data_chroniques.py (empty) uses the same renderer under /chroniques/. The shape of an entry is documented there. Nothing is published while the list is empty.
 - sitemap.xml is a sitemap index: sitemap-pages.xml, sitemap-artistes.xml, sitemap-mixtapes.xml (with video entries), sitemap-en.xml, and sitemap-chroniques.xml once a chronique exists. Hand-built pages keep the lastmod already in the sitemaps.
 - The root pages index.html, histoire/histories and artistes are hand-built, not generator-driven. Everything else comes from the modules.
-- Read TAKEOVER-PLAN-20261020.md in this folder for the strategy. Content and style rules are in the handoff prompt; they are strict (verified facts only, no copied text, no em dashes anywhere).
+- Read build/TAKEOVER-PLAN-20261020.md in the notes repo for the strategy. Content and style rules are in the handoff prompt; they are strict (verified facts only, no copied text, no em dashes anywhere).
