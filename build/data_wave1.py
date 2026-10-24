@@ -1437,8 +1437,8 @@ PAGES = [
    [
     "Artiste bouyon de l’année aux Caribbean Music Awards 2026",
     [
-     "En 2026, Ridge est nommé aux Caribbean Music Awards pour le titre de Bouyon Artist of the Year, selon Dominica News, puis il remporte ce prix : les résultats publiés en septembre 2026 lui donnent le titre d’artiste bouyon de l’année. Il avait déjà remporté ce même titre aux Caribbean Music Awards 2025. Cette victoire est le repère vérifié de son année : elle place un artiste dominicain, claviériste et producteur, en tête de la catégorie bouyon d’une cérémonie caribéenne. Pour un genre qui cherche une reconnaissance à la hauteur de son influence, voir une catégorie bouyon, des artistes dominicains nommés et un lauréat dominicain compte beaucoup.",
-     "Il faut lire ce prix avec précision. Nous rapportons la nomination de 2026 telle qu’elle est publiée par Dominica News, et la victoire telle que la donnent les résultats publiés en septembre 2026. Nous ne reprenons pas, comme un fait, les titres d’awards que l’artiste affiche lui même dans sa bio avec une mention de type trois fois primé : une auto présentation sur un réseau social n’a pas la même valeur qu’une sélection rapportée par un média. Cette distinction protège l’artiste autant que le lecteur, parce qu’elle garde son dossier sur des éléments vérifiables.",
+     "En 2026, Ridge est nommé aux Caribbean Music Awards pour le titre de Bouyon Artist of the Year, selon Dominica News, puis il remporte ce prix : les résultats publiés en septembre 2026 lui donnent le titre d’artiste bouyon de l’année. Il avait déjà remporté ce même titre en 2024 et en 2025, deux années de suite selon Dominica News Online. Cette victoire est le repère vérifié de son année : elle place un artiste dominicain, claviériste et producteur, en tête de la catégorie bouyon d’une cérémonie caribéenne. Pour un genre qui cherche une reconnaissance à la hauteur de son influence, voir une catégorie bouyon, des artistes dominicains nommés et un lauréat dominicain compte beaucoup.",
+     "Il faut lire ce prix avec précision. Nous rapportons la nomination de 2026 telle qu’elle est publiée par Dominica News, et la victoire telle que la donnent les résultats publiés en septembre 2026. Ce prix confirme aussi la mention « trois fois primé » de sa bio : Dominica News Online rapporte qu’en 2025 il a reçu le titre d’artiste bouyon de l’année pour la deuxième fois consécutive, après 2024, la première année de la catégorie bouyon. Avec 2026, Ridge compte donc trois titres consécutifs, tous rapportés par un média.",
      "Pour le public qui découvre Ridge par cette page, le prix sert de porte d’entrée simple : s’il est l’artiste bouyon de l’année 2026 aux Caribbean Music Awards, il mérite une écoute attentive, en particulier en live. La suite du dossier, avec le WCMF et les répétitions filmées à Roseau, montre justement un artiste qui prépare la scène comme un musicien de groupe, et non comme un nom posé sur une bande son. C’est là que son prix prend son sens le plus concret."
     ]
    ],
@@ -1479,7 +1479,7 @@ PAGES = [
   "faq": [
   (
     "Qui est Ridge ?",
-    "Ridge, ou Mr Ridge, est un artiste bouyon dominicain, claviériste et producteur, connu sur Instagram sous le nom @crossdbridge. Il a remporté le prix Bouyon Artist of the Year aux Caribbean Music Awards 2025, puis de nouveau en 2026 selon les résultats publiés en septembre 2026, et il est confirmé à l’affiche du WCMF 2026, où il se présente à la tête d’un vrai groupe live.",
+    "Ridge, ou Mr Ridge, est un artiste bouyon dominicain, claviériste et producteur, connu sur Instagram sous le nom @crossdbridge. Il a remporté le prix Bouyon Artist of the Year aux Caribbean Music Awards en 2024 et en 2025, selon Dominica News Online, puis de nouveau en 2026 selon les résultats publiés en septembre 2026, et il est confirmé à l’affiche du WCMF 2026, où il se présente à la tête d’un vrai groupe live.",
   ),
   (
     "D’où vient Ridge ?",
@@ -1503,7 +1503,7 @@ PAGES = [
   ),
   (
     "Quels prix Ridge a-t-il reçus ?",
-    "Selon le compte rendu de Black Island Girl, Mr Ridge a reçu le prix de producteur de l’année à la deuxième édition des Dominica Music Awards, le 3 janvier 2026. En 2026, nommé aux Caribbean Music Awards dans la catégorie Bouyon Artist of the Year selon Dominica News, il remporte aussi ce prix, selon les résultats publiés en septembre 2026, après l’avoir déjà remporté en 2025. Ce site ne reprend pas comme un fait la mention de type trois fois primé de sa bio.",
+    "Selon le compte rendu de Black Island Girl, Mr Ridge a reçu le prix de producteur de l’année à la deuxième édition des Dominica Music Awards, le 3 janvier 2026. En 2026, nommé aux Caribbean Music Awards dans la catégorie Bouyon Artist of the Year selon Dominica News, il remporte aussi ce prix, selon les résultats publiés en septembre 2026, après l’avoir déjà remporté en 2024 et en 2025, deux années de suite selon Dominica News Online : trois titres consécutifs.",
   ),
   (
     "Quand Ridge joue-t-il au WCMF 2026 ?",

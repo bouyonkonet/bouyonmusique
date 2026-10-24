@@ -16,3 +16,9 @@ The user requested 2026–2027 keyword work for Bouyon and music websites only, 
 ## Search Console and indexing (no browser)
 
 Use `~/bouyon-indexing/gsc_index.py` for all Google Search Console work on bouyonsoca.com, bouyonshattaz.com, bouyonmusique.com and smokiller.com: sitemap submit/status, URL Inspection (is a page indexed, last crawl, Google canonical), new-domain verification and IndexNow. Runbook: `~/bouyon-indexing/README.md`. Do not open a browser for these. The "Request indexing" button has no API; leave it to the owner. Daily checks are owned by the Search Indexing Operator agents (BOU and BOUA); report indexing problems to them instead of re-running checks.
+
+## Fact sources for awards, results and Dominica news (owner rule, 2026-10-24)
+
+- Before writing or changing any award, nomination, result, lineup or Dominica news fact, check Dominica News Online (dominicanewsonline.com) and the Caribbean Music Awards pages (caribbeanmusicawards.com). They are the reference sources for these facts.
+- Do not leave a nomination standing as the latest word when these sources report the result. Example: Mr. Ridge won Bouyon Artist of the Year at the Caribbean Music Awards in 2024, 2025 (second consecutive time, per Dominica News Online) and 2026.
+- Facts the owner (Sean "Smokiller" Francis) confirms first-hand override other sources: Shelly is a man (Signal Band's singer); Gwada G is from Dominica; bouyon soca was launched by Dada in Dominica in 2003; Wrecketeng is the official spelling (reketeng is the misspelling); Smokiller is described as Dominican-born only.
