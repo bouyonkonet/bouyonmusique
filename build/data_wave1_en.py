@@ -1454,7 +1454,7 @@ PAGES = [
    [
     "Bouyon Artist of the Year at the 2026 Caribbean Music Awards",
     [
-     "In 2026 Ridge was a Caribbean Music Awards nominee for Bouyon Artist of the Year, according to Dominica News, and then won the award: results published in September 2026 give him the title of bouyon artist of the year. That win is the verified marker of his year: it places a Dominican artist, keyboardist and producer at the top of the bouyon category of a Caribbean ceremony. For a genre looking for recognition equal to its influence, seeing a bouyon category, Dominican artists nominated and a Dominican winner counts for a lot.",
+     "In 2026 Ridge was a Caribbean Music Awards nominee for Bouyon Artist of the Year, according to Dominica News, and then won the award: results published in September 2026 give him the title of bouyon artist of the year. He had already won the same title at the 2025 Caribbean Music Awards. That win is the verified marker of his year: it places a Dominican artist, keyboardist and producer at the top of the bouyon category of a Caribbean ceremony. For a genre looking for recognition equal to its influence, seeing a bouyon category, Dominican artists nominated and a Dominican winner counts for a lot.",
      "This award should be read with precision. We report the 2026 nomination as published by Dominica News, and the win as given by the results published in September 2026. We do not repeat, as fact, the award titles the artist displays himself in his bio with a claim of the three times type: a self presentation on a social network does not carry the same weight as a selection reported by a news outlet. That distinction protects the artist as much as the reader, because it keeps his file on verifiable elements.",
      "For readers discovering Ridge through this page, the award is a simple entry point: if he is the 2026 Bouyon Artist of the Year at the Caribbean Music Awards, he deserves careful listening, in particular live. The rest of the file, with WCMF and the rehearsal footage from Roseau, shows an artist preparing the stage like a band musician, and not like a name placed over a backing track. That is where his award takes its most concrete meaning."
     ]
@@ -1497,7 +1497,7 @@ PAGES = [
   "faq": [
   (
     "Who is Ridge?",
-    "Ridge, or Mr Ridge, is a Dominican bouyon artist, keyboardist and producer, known on Instagram as @crossdbridge. He won Bouyon Artist of the Year at the 2026 Caribbean Music Awards, according to results published in September 2026, and he is confirmed on the WCMF 2026 bill, where he leads a real live band.",
+    "Ridge, or Mr Ridge, is a Dominican bouyon artist, keyboardist and producer, known on Instagram as @crossdbridge. He won Bouyon Artist of the Year at the 2025 Caribbean Music Awards, and again in 2026 according to results published in September 2026, and he is confirmed on the WCMF 2026 bill, where he leads a real live band.",
   ),
   (
     "Where is Ridge from?",
@@ -1521,7 +1521,7 @@ PAGES = [
   ),
   (
     "What awards has Ridge received?",
-    "According to Black Island Girl's report, Mr Ridge received the producer of the year award at the second Dominica Music Awards, on January 3, 2026. In 2026, nominated at the Caribbean Music Awards in the Bouyon Artist of the Year category according to Dominica News, he also won that award, according to results published in September 2026. This site does not repeat as fact the three-times-awarded style claim in his bio.",
+    "According to Black Island Girl's report, Mr Ridge received the producer of the year award at the second Dominica Music Awards, on January 3, 2026. In 2026, nominated at the Caribbean Music Awards in the Bouyon Artist of the Year category according to Dominica News, he also won that award, according to results published in September 2026, after already winning it in 2025. This site does not repeat as fact the three-times-awarded style claim in his bio.",
   ),
   (
     "When does Ridge play WCMF 2026?",
@@ -4883,7 +4883,7 @@ PAGES = [
   (
     "Awards, bills and the Dominica scene",
     [
-      "The official lists of 2025 confirm his place. At the 2025 Caribbean Music Awards, litleboy was among the nine nominees for Bouyon Artist of the Year, with Asa Bantan, Kenny G, Mr. Ridge, Quan, Shelly Alfred, Trilla G, Triple K and Pudaz. At the 2025 Dominica Music Awards, Litle Boy was a finalist for Producer of the Year, alongside DJ Taffy and Tha Wizzard among others.",
+      "The official lists of 2025 confirm his place. At the 2025 Caribbean Music Awards, litleboy was among the nine nominees for Bouyon Artist of the Year, with Asa Bantan, Kenny G, Mr. Ridge, Quan, Shelly Alfred, Trilla G, Triple K and Pudaz; the title went to Mr. Ridge. At the 2025 Dominica Music Awards, Litle Boy was a finalist for Producer of the Year, alongside DJ Taffy and Tha Wizzard among others.",
       "On stage, Litle Boy was on the bill of Bouyon Day, Bouyon in de Streets, on Hanover Street in Roseau on February 25, 2025, according to the Discover Dominica Authority release, then in May 2025 on the bill of the Strictly the Best Festival, Bouyon Edition, in Saint Martin. Those public traces place him in Dominica's bouyon scene, which gives the 767 in his name, the island's telephone area code, an anchoring those traces make consistent, without turning it into a biography."
     ],
   ),

@@ -55,7 +55,7 @@ PAGES = [
     "Le réseau de Trilla-G : titres collectifs et nominations",
     [
       "« Without You », titre collectif présenté comme Bouyon 2025, réunit Unstoppable Shax, <a href=\"/nice.html\">Nice</a>, Reo, Trilla-G et Quan Dawg, sur une production d'A-Plus Muzik, mixée et masterisée par Th3rd House Studios.",
-      "Les listes officielles dessinent le même cercle. Aux Caribbean Music Awards 2025, Trilla G figure parmi les neuf nommés de Bouyon Artist of the Year, avec Asa Bantan, Kenny G, litleboy, Mr. Ridge, Quan, Shelly Alfred, Triple K et Pudaz. En 2026, il est de nouveau finaliste de la catégorie, et Black Island Girl le range avec BRG Hollywood et 1T1 dans « une nouvelle vague d'interprètes ». Aux Dominica Music Awards 2025, Trilla G et Reo figurent dans les catégories d'artistes et de vidéos."
+      "Les listes officielles dessinent le même cercle. Aux Caribbean Music Awards 2025, Trilla G figure parmi les neuf nommés de Bouyon Artist of the Year, avec Asa Bantan, Kenny G, litleboy, Mr. Ridge, Quan, Shelly Alfred, Triple K et Pudaz ; le titre revient à Mr. Ridge. En 2026, il est de nouveau finaliste de la catégorie, et Black Island Girl le range avec BRG Hollywood et 1T1 dans « une nouvelle vague d'interprètes ». Aux Dominica Music Awards 2025, Trilla G et Reo figurent dans les catégories d'artistes et de vidéos."
     ],
   ),
   (
@@ -106,7 +106,7 @@ PAGES = [
   ),
   (
     "Trilla-G est-il nommé artiste bouyon de l'année aux Caribbean Music Awards ?",
-    "Oui. Aux Caribbean Music Awards 2025, Trilla G figurait parmi les neuf nommés de Bouyon Artist of the Year, avec Asa Bantan, Kenny G, litleboy, Mr. Ridge, Quan, Shelly Alfred, Triple K et Pudaz. En 2026, il est de nouveau finaliste de la catégorie, que Mr Ridge a remportée selon les résultats publiés en septembre 2026. Voir <a href=\"/ridge.html\">le profil de Ridge</a>.",
+    "Oui. Aux Caribbean Music Awards 2025, Trilla G figurait parmi les neuf nommés de Bouyon Artist of the Year, avec Asa Bantan, Kenny G, litleboy, Mr. Ridge, Quan, Shelly Alfred, Triple K et Pudaz ; le titre est revenu à Mr. Ridge. En 2026, il est de nouveau finaliste de la catégorie, que Mr Ridge a remportée selon les résultats publiés en septembre 2026. Voir <a href=\"/ridge.html\">le profil de Ridge</a>.",
   ),
   (
     "Quand est sorti l'album « Take Me as I Am » de Trilla-G ?",
