@@ -82,13 +82,63 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Kevni ?", "Kevni est un artiste créole de la scène dancehall et bouyon de Guadeloupe. Il chante en français et en créole guadeloupéen, publie chez Baby Nomore Music, et s’est fait connaître du public antillais en 2019 sur « Boug an mwen » de Krys et Pompis, avant de sortir l’album « EVERYWHERE I GO » en 2024. À ne pas confondre avec Keen’V, le chanteur français né à Rouen, qui est un autre artiste."),
-  ("Quel est le titre le plus connu de Kevni ?", "« Boug an mwen », sorti le 10 mai 2019 par Krys, Pompis et Kevni. Krys raconte dans une interview au podcast #streamcaribbean que le titre met en image le passage de relais entre les générations du dancehall, Kevni représentant alors la génération émergente de la scène. Un remix a réuni Matieu White, Drexi, Lion P, Dexterman et Daddy Yod."),
-  ("Quel album Kevni a-t-il sorti en 2024 ?", "« EVERYWHERE I GO », publié le 23 février 2024 par Baby Nomore Music. L’album compte onze titres, dont « STOÏC », « PROFÉSÈ », « BÈL FLÈ », « BOSS MAN », « À QUOI TU SERS », « SHEITAN » et « CONTRARIÉTÉ », avec des featurings d’Aknose, Poplane et Dory. Les discographies des plateformes listent aussi ses albums « INEVITAB », daté de 2023, et « TOP BOY »."),
-  ("Quel est le lien de Kevni avec le bouyon ?", "En 2024, Kevni pose sa voix sur quatre titres bouyon de TiiTii NBA : « BIG BONDA » et « BAD MOOD » en singles, et « C QUOI LES BAILS » et « WHAT’S POPPIN » sur l’album « HOT BOUYON VIBES ». Ces titres sont écrits par Sandy Tel-Agnesa, son auteure régulière, et composés par Pascal Peter et Terry Capitolin."),
-  ("D’où vient Kevni ?", "Les sources consultées le documentent comme un artiste de la scène guadeloupéenne : c’est là que se trouvent son label, ses collaborations et le public de ses débuts, de Krys à TiiTii NBA. Aucune source consultée ne publie son lieu de naissance ni son nom complet, et ce profil ne les invente pas. Ici, la réponse est celle que le dossier permet, et rien de plus."),
-  ("Où écouter Kevni et le bouyon de sa génération ?", "Ses titres sont disponibles sur les plateformes de streaming sous le nom Kevni, de « Boug an mwen » à l’album « EVERYWHERE I GO ». Pour le bouyon de Guadeloupe et de la Dominique, écoutez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> et lisez notre page d’<a href=\"/histoire.html\">histoire du bouyon</a>.")
- ],
+  (
+    "Qui est Kevni ?",
+    "Kevni est un artiste créole de la scène dancehall et bouyon de Guadeloupe. Il chante en français et en créole guadeloupéen, publie chez Baby Nomore Music, et s’est fait connaître du public antillais en 2019 sur « Boug an mwen » de Krys et Pompis, avant de sortir l’album « EVERYWHERE I GO » en 2024 et de poser sa voix sur quatre titres bouyon de TiiTii NBA la même année.",
+  ),
+  (
+    "Quel est le titre le plus connu de Kevni ?",
+    "« Boug an mwen », sorti le 10 mai 2019 par Krys, Pompis et Kevni. Krys raconte dans une interview au podcast #streamcaribbean que le titre met en image le passage de relais entre les générations du dancehall, Kevni représentant alors la génération émergente de la scène. Un remix a réuni Matieu White, Drexi, Lion P, Dexterman et Daddy Yod.",
+  ),
+  (
+    "Quel album Kevni a-t-il sorti en 2024 ?",
+    "« EVERYWHERE I GO », publié le 23 février 2024 par Baby Nomore Music. L’album compte onze titres, dont « STOÏC », « PROFÉSÈ », « BÈL FLÈ », « BOSS MAN », « À QUOI TU SERS », « SHEITAN » et « CONTRARIÉTÉ », avec des featurings d’Aknose, Poplane et Dory. Les discographies des plateformes listent aussi ses albums « INEVITAB », daté de 2023, et « TOP BOY ».",
+  ),
+  (
+    "Quel est le lien de Kevni avec le bouyon ?",
+    "En 2024, Kevni pose sa voix sur quatre titres bouyon de TiiTii NBA : « BIG BONDA » et « BAD MOOD » en singles, et « C QUOI LES BAILS » et « WHAT’S POPPIN » sur l’album « HOT BOUYON VIBES ». Ces titres sont écrits par Sandy Tel-Agnesa, le nom d’auteur qui revient dans tout son catalogue, et composés par Pascal Peter et Terry Capitolin.",
+  ),
+  (
+    "D’où vient Kevni ?",
+    "Les sources consultées le documentent comme un artiste de la scène guadeloupéenne : c’est là que se trouvent son label, ses collaborations et le public de ses débuts, de Krys à TiiTii NBA. Aucune source consultée ne publie son lieu de naissance ni son nom complet, et ce profil ne les invente pas : la réponse est celle que le dossier permet.",
+  ),
+  (
+    "Où écouter Kevni et le bouyon de sa génération ?",
+    "Ses titres sont disponibles sur les plateformes de streaming sous le nom Kevni, de « Boug an mwen » à l’album « EVERYWHERE I GO », et ses sessions bouyon de 2024 sur l’album « HOT BOUYON VIBES » de TiiTii NBA. Pour le bouyon de Guadeloupe et de la Dominique, écoutez le Road Mix de Bouyon Shattaz sur notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>.",
+  ),
+  (
+    "Kevni et Keen’V, est-ce le même artiste ?",
+    "Non, Kevni n’est pas Keen’V, malgré la confusion fréquente des moteurs de recherche. Keen’V est Kevin Bonnet, chanteur né à Rouen en 1983, connu pour ses tubes de dance pop française. Kevni est un artiste créole des Antilles françaises, actif sur la scène de Guadeloupe depuis la fin des années 2010 : les deux hommes ne partagent ni parcours ni public.",
+  ),
+  (
+    "Qui écrit les chansons de Kevni ?",
+    "Surtout Sandy Tel-Agnesa, crédité sur les textes de « Tourne Toi », « PROFÉSÈ » et « EVERYWHERE I GO », puis de ses titres bouyon « C QUOI LES BAILS » et « WHAT’S POPPIN ». Côté composition, les crédits nomment ELICE Sulivan (« Tourne Toi »), Ayobami Julius Fayemi (« PROFÉSÈ »), Serbin Freddy (« EVERYWHERE I GO ») et Pascal Peter et Terry Capitolin pour les sessions avec TiiTii NBA.",
+  ),
+  (
+    "En quelle langue chante Kevni ?",
+    "Kevni chante en français et en créole guadeloupéen, souvent dans le même titre. Les plateformes classent ses disques en langue française, mais c’est le créole qui porte les titres et les refrains, de « Tchè Mwen Malad » à « Bèl Flè ». « Ghetto Gyal » est même chanté entièrement en créole guadeloupéen, une langue directe et imagée, ancrée dans la vie de quartier.",
+  ),
+  (
+    "De quoi parle « Ghetto Gyal » de Kevni ?",
+    "« Ghetto Gyal » parle de débrouille, d’argent qui manque et de la loyauté d’un couple parti de rien, selon ses paroles publiées. Le titre est chanté entièrement en créole guadeloupéen et compte parmi les morceaux qui montrent le mieux l’écriture de Kevni : un créole direct, plein d’images, enraciné dans la vie de quartier et loin des formules.",
+  ),
+  (
+    "Avec qui Kevni chante-t-il « Si Manman’w té sav » ?",
+    "Avec Drex et Edday. Le clip officiel est crédité « Drexi x Kevni x Edday » et produit par Little Micke. C’est une chanson en créole sur la famille et sur ce que les mères ne savent pas, que les bases musicales classent parmi ses titres les plus connus. Elle fait partie, avec les clips de « Tourne Toi », « Mové Machin » et « PROFÉSÈ », de la partie visible de son parcours.",
+  ),
+  (
+    "Kevni fait-il du dancehall ou du bouyon ?",
+    "Les deux. Kevni vient du dancehall créole : le 16 juin 2022, il sort « Tourne Toi » et « Mové Machin », classés dancehall moderne à 160 BPM, et son catalogue descend jusqu’à 84 BPM avec « À QUOI TU SERS ». Depuis 2024, il est aussi une voix invitée du bouyon de Guadeloupe, avec quatre titres chez TiiTii NBA, sans changer de langue ni de public.",
+  ),
+  (
+    "Quels titres de Kevni figurent sur « HOT BOUYON VIBES » ?",
+    "Deux titres : « C QUOI LES BAILS », qui dure 1 minute 52, et « WHAT’S POPPIN », 1 minute 51. L’album bouyon de TiiTii NBA, sorti en 2024, accueille aussi d’autres invités, comme 1T1 sur « TAM TAM ». Ces formats courts sont taillés pour les enchaînements des DJ et les boucles des réseaux sociaux, et la voix dancehall de Kevni s’y plie sans perdre son flow.",
+  ),
+  (
+    "Kevni a-t-il collaboré avec des artistes de Martinique ?",
+    "Oui : les bases musicales référencent « Pa fe rol » avec Natoxie, l’une des voix connues du dancehall martiniquais, un titre étiqueté Shattastyle. Elles citent aussi « Seule » avec PON2MIK, un morceau plus lent et mélancolique. Le shatta, genre dancehall né en Martinique, partage le même territoire sonore que le bouyon. Ces entrées sont citées comme références de bases de données, en attendant des pages de crédits détaillées.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/kevni.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/kevni.html#artist", "name": "Kevni", "description": "Artiste créole de la scène dancehall et bouyon de Guadeloupe. Révélé sur Boug an mwen de Krys et Pompis en 2019, album EVERYWHERE I GO en 2024 chez Baby Nomore Music, quatre titres bouyon avec TiiTii NBA la même année.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'STOÏC'}, {"@type": "MusicRecording", "name": 'PROFÉSÈ'}, {"@type": "MusicRecording", "name": 'BÈL FLÈ'}, {"@type": "MusicRecording", "name": 'BOSS MAN'}, {"@type": "MusicRecording", "name": 'EVERYWHERE I GO'}, {"@type": "MusicRecording", "name": 'À QUOI TU SERS'}, {"@type": "MusicRecording", "name": 'SHEITAN'}, {"@type": "MusicRecording", "name": 'CONTRARIÉTÉ'}, {"@type": "MusicRecording", "name": 'TCHÈ MWEN MALAD'}, {"@type": "MusicRecording", "name": '2-2'}, {"@type": "MusicRecording", "name": 'IF U KNOW ME'}, {"@type": "MusicRecording", "name": 'Tourne Toi'}, {"@type": "MusicRecording", "name": 'Mové Machin'}, {"@type": "MusicRecording", "name": 'Boug an mwen'}, {"@type": "MusicRecording", "name": 'BIG BONDA'},
       {
        "@type": "MusicRecording",
@@ -585,13 +635,63 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Kevni?", "Kevni is a Creole artist of the Guadeloupe dancehall and bouyon scene. He sings in French and Guadeloupean Creole, releases on Baby Nomore Music, and came to French Caribbean attention in 2019 on “Boug an mwen” by Krys and Pompis, before releasing the album “EVERYWHERE I GO” in 2024. Not to be confused with Keen’V, the French singer born in Rouen, who is a different artist."),
-  ("What is Kevni best known song?", "“Boug an mwen”, released on May 10, 2019 by Krys, Pompis and Kevni. Krys explained in an interview with the #streamcaribbean podcast that the record pictures the baton pass between the generations of dancehall, with Kevni then representing the emerging generation of the scene. A remix brought in Matieu White, Drexi, Lion P, Dexterman and Daddy Yod."),
-  ("Which album did Kevni release in 2024?", "“EVERYWHERE I GO”, released on February 23, 2024 by Baby Nomore Music. The album holds eleven tracks, including “STOÏC”, “PROFÉSÈ”, “BÈL FLÈ”, “BOSS MAN”, “À QUOI TU SERS”, “SHEITAN” and “CONTRARIÉTÉ”, with features by Aknose, Poplane and Dory. Platform discographies also list his albums “INEVITAB”, dated 2023, and “TOP BOY”."),
-  ("What is Kevni link to bouyon?", "In 2024, Kevni put his voice on four TiiTii NBA bouyon records: “BIG BONDA” and “BAD MOOD” as singles, and “C QUOI LES BAILS” and “WHAT’S POPPIN” on the album “HOT BOUYON VIBES”. Those records are written by Sandy Tel-Agnesa, his regular writer, and composed by Pascal Peter and Terry Capitolin."),
-  ("Where is Kevni from?", "The sources consulted document him as an artist of the Guadeloupe scene: that is where his label, his collaborations and the audience of his beginnings are, from Krys to TiiTii NBA. No source consulted publishes his birthplace or his full name, and this profile does not invent them. Here, the answer is the one the record allows, and no more."),
-  ("Where can I hear Kevni and the bouyon of his generation?", "His records are available on the streaming platforms under the name Kevni, from “Boug an mwen” to the album “EVERYWHERE I GO”. For bouyon from Guadeloupe and Dominica, hear our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> and read our <a href=\"/en/history.html\">history of bouyon</a> page.")
- ],
+  (
+    "Who is Kevni?",
+    "Kevni is a Creole artist of the Guadeloupe dancehall and bouyon scene. He sings in French and Guadeloupean Creole, releases on Baby Nomore Music, and came to French Caribbean attention in 2019 on “Boug an mwen” by Krys and Pompis, before releasing the album “EVERYWHERE I GO” in 2024 and putting his voice on four TiiTii NBA bouyon records the same year.",
+  ),
+  (
+    "What is Kevni best known song?",
+    "“Boug an mwen”, released on May 10, 2019 by Krys, Pompis and Kevni. Krys explained in an interview with the #streamcaribbean podcast that the record pictures the baton pass between the generations of dancehall, with Kevni then representing the emerging generation of the scene. A remix brought in Matieu White, Drexi, Lion P, Dexterman and Daddy Yod.",
+  ),
+  (
+    "Which album did Kevni release in 2024?",
+    "“EVERYWHERE I GO”, released on February 23, 2024 by Baby Nomore Music. The album holds eleven tracks, including “STOÏC”, “PROFÉSÈ”, “BÈL FLÈ”, “BOSS MAN”, “À QUOI TU SERS”, “SHEITAN” and “CONTRARIÉTÉ”, with features by Aknose, Poplane and Dory. Platform discographies also list his albums “INEVITAB”, dated 2023, and “TOP BOY”.",
+  ),
+  (
+    "What is Kevni link to bouyon?",
+    "In 2024, Kevni put his voice on four TiiTii NBA bouyon records: “BIG BONDA” and “BAD MOOD” as singles, and “C QUOI LES BAILS” and “WHAT’S POPPIN” on the album “HOT BOUYON VIBES”. Those records are written by Sandy Tel-Agnesa, the writer name that recurs across his catalogue, and composed by Pascal Peter and Terry Capitolin.",
+  ),
+  (
+    "Where is Kevni from?",
+    "The sources consulted document him as an artist of the Guadeloupe scene: that is where his label, his collaborations and the audience of his beginnings are, from Krys to TiiTii NBA. No source consulted publishes his birthplace or his full name, and this profile does not invent them: the answer is the one the record allows.",
+  ),
+  (
+    "Where can I hear Kevni and the bouyon of his generation?",
+    "His records are available on the streaming platforms under the name Kevni, from “Boug an mwen” to the album “EVERYWHERE I GO”, and his 2024 bouyon sessions sit on the TiiTii NBA album “HOT BOUYON VIBES”. For bouyon from Guadeloupe and Dominica, play the Bouyon Shattaz Road Mix on our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> page.",
+  ),
+  (
+    "Is Kevni the same artist as Keen’V?",
+    "No, Kevni is not Keen’V, despite the frequent confusion in search engines. Keen’V is Kevin Bonnet, a singer born in Rouen in 1983, known for French dance pop hits. Kevni is a Creole artist from the French Caribbean, active on the Guadeloupe scene since the end of the 2010s: the two men share neither a path nor an audience.",
+  ),
+  (
+    "Who writes Kevni songs?",
+    "Mostly Sandy Tel-Agnesa, credited on “Tourne Toi”, “PROFÉSÈ” and “EVERYWHERE I GO”, then his bouyon records “C QUOI LES BAILS” and “WHAT’S POPPIN”. On the composing side, the credits name ELICE Sulivan (“Tourne Toi”), Ayobami Julius Fayemi (“PROFÉSÈ”), Serbin Freddy (“EVERYWHERE I GO”) and Pascal Peter and Terry Capitolin for the TiiTii NBA sessions.",
+  ),
+  (
+    "What language does Kevni sing in?",
+    "Kevni sings in French and Guadeloupean Creole, often inside the same record. The platforms class his records as French language, but it is Creole that carries the titles and the choruses, from “Tchè Mwen Malad” to “Bèl Flè”. “Ghetto Gyal” is even sung entirely in Guadeloupean Creole, a direct, image filled language rooted in neighbourhood life.",
+  ),
+  (
+    "What is the Kevni song “Ghetto Gyal” about?",
+    "“Ghetto Gyal” is about hustling, missing money and the loyalty of a couple that started from nothing, according to its published lyrics. The record is sung entirely in Guadeloupean Creole and is one of the pieces that best show Kevni writing: a direct, image filled Creole, rooted in neighbourhood life and far from formulas.",
+  ),
+  (
+    "Who sings “Si Manman’w té sav” with Kevni?",
+    "Drex and Edday. The official video is credited “Drexi x Kevni x Edday” and produced by Little Micke. It is a Creole song about family and what mothers do not know, which music databases rank among his best known records. With the videos of “Tourne Toi”, “Mové Machin” and “PROFÉSÈ”, it forms the visible part of his path.",
+  ),
+  (
+    "Does Kevni make dancehall or bouyon?",
+    "Both. Kevni comes from Creole dancehall: on June 16, 2022 he released “Tourne Toi” and “Mové Machin”, classed as modern dancehall at 160 BPM, and his catalogue comes down to 84 BPM with “À QUOI TU SERS”. Since 2024 he is also a guest voice of Guadeloupe bouyon, with four TiiTii NBA records, without changing language or audience.",
+  ),
+  (
+    "Which Kevni songs are on “HOT BOUYON VIBES”?",
+    "Two records: “C QUOI LES BAILS”, which runs 1 minute 52, and “WHAT’S POPPIN”, 1 minute 51. The 2024 TiiTii NBA bouyon album also hosts other guests, such as 1T1 on “TAM TAM”. Those short formats are cut for DJ blends and social media loops, and Kevni dancehall voice bends to them without losing its flow.",
+  ),
+  (
+    "Has Kevni worked with artists from Martinique?",
+    "Yes: music databases reference “Pa fe rol” with Natoxie, one of the known voices of Martinique dancehall, a record tagged Shattastyle. They also cite “Seule” with PON2MIK, a slower, more melancholic piece. Shatta, the dancehall genre born in Martinique, shares the same sound territory as bouyon. Those entries are cited as database references, pending detailed credit pages.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/kevni.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/kevni.html#artist", "name": "Kevni", "description": "Creole artist of the Guadeloupe dancehall and bouyon scene. Broke through on Boug an mwen by Krys and Pompis in 2019, album EVERYWHERE I GO in 2024 on Baby Nomore Music, four bouyon records with TiiTii NBA the same year.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'STOÏC'}, {"@type": "MusicRecording", "name": 'PROFÉSÈ'}, {"@type": "MusicRecording", "name": 'BÈL FLÈ'}, {"@type": "MusicRecording", "name": 'BOSS MAN'}, {"@type": "MusicRecording", "name": 'EVERYWHERE I GO'}, {"@type": "MusicRecording", "name": 'À QUOI TU SERS'}, {"@type": "MusicRecording", "name": 'SHEITAN'}, {"@type": "MusicRecording", "name": 'CONTRARIÉTÉ'}, {"@type": "MusicRecording", "name": 'TCHÈ MWEN MALAD'}, {"@type": "MusicRecording", "name": '2-2'}, {"@type": "MusicRecording", "name": 'IF U KNOW ME'}, {"@type": "MusicRecording", "name": 'Tourne Toi'}, {"@type": "MusicRecording", "name": 'Mové Machin'}, {"@type": "MusicRecording", "name": 'Boug an mwen'}, {"@type": "MusicRecording", "name": 'BIG BONDA'},
       {
        "@type": "MusicRecording",

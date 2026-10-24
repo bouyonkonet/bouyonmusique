@@ -84,7 +84,7 @@ PAGES = [
   ),
   (
     "Le bouyon soca est-il du vrai bouyon ?",
-    "C’est une fusion : la base rythmique et les claviers viennent du bouyon dominicain, la forme festive vient de la soca. En Dominique, on distingue le bouyon pur du bouyon soca, mais les deux familles vivent côte à côte au carnaval.",
+    "C’est une fusion : la base rythmique et les claviers viennent du bouyon dominicain, la forme festive vient de la soca. En Dominique, on distingue le bouyon pur du bouyon soca, et les puristes insistent pour que le bouyon garde un style clair, reconnaissable et différent, mais les deux familles vivent côte à côte au carnaval.",
   ),
   (
     "Qui a produit les grands titres du bouyon soca ?",
@@ -97,6 +97,38 @@ PAGES = [
   (
     "Où écouter du bouyon soca ?",
     "Dans la <a href=\"/playlist-bouyon.html\">Bouyon Road Mix</a> de Bouyon Shattaz, intitulée Bouyon Music 2026 - Road Mix sur Spotify et disponible aussi sur YouTube, qui fait une place à la fusion reliant Roseau, Castries, Pointe-à-Pitre et Fort-de-France en saison de carnaval. Commentez ROAD MIX sous une publication Instagram de @bouyonshattaz pour la recevoir en message privé. En live, son terrain naturel reste le carnaval, du J’ouvert de Roseau à la route.",
+  ),
+  (
+    "Le bouyon soca vient-il de la Dominique ou de Trinidad ?",
+    "De la Dominique : selon le témoignage de première main de Smokiller, Dada y a lancé le bouyon soca en 2003. Chaque parent a son île : la soca est née à Trinidad dans les années 1970, du calypso et de rythmes indiens comme le dholak, et le bouyon est né en Dominique en 1988, quand WCK a marié jing ping et cadence-lypso aux claviers électroniques. La fusion est dominicaine, sa moitié soca est trinidadienne.",
+  ),
+  (
+    "Quels sont les titres les plus connus du bouyon soca ?",
+    "Les ouvrages de référence retiennent deux disques emblèmes, tous deux liés à Dada. « Famalay », de Machel Montano, Skinny Fabulous et Bunji Garlin, a remporté la Road March 2019 de Trinidad et Tobago, joué 346 fois aux points de jugement selon Wired868. « Conch Shell », pour la saison 2020, crédite Dadamanufakture à la production. On y ajoute « Forward » de Bunji Garlin et « Wet Dem Down » de Shurwayne Winchester, sur le Smoke Riddim de Dada.",
+  ),
+  (
+    "Qu'est-ce que le Smoke Riddim ?",
+    "Le Smoke Riddim est un riddim du producteur dominicain Dada, que le site trinidadien Ebuzztt décrit comme un hybride mêlant soca et bouyon de la Dominique. <a href=\"/bunji-garlin.html\">Bunji Garlin</a> y chante « Forward », titre aujourd'hui présent sur son album « Ayl'Ian » de 2024, et Shurwayne Winchester y pose « Wet Dem Down ». Dada dit avoir choisi ces deux chanteurs pour leur capacité à porter les grandes fêtes.",
+  ),
+  (
+    "Bouyon soca et jump up soca, est-ce la même chose ?",
+    "Ce sont deux noms de la même fusion : certaines sources appellent le bouyon soca jump up soca. Le mot vient des Antilles françaises, où le public de Guadeloupe et de Martinique connaît le bouyon lui-même sous le nom de <a href=\"/jump-up.html\">jump up</a>, déjà donné aux musiques de carnaval très rythmées après « L'hivernage » d'Exile One en 1987. Le bouyon soca reste la fusion dominicaine lancée par Dada en 2003.",
+  ),
+  (
+    "Quel rôle Triple Kay a-t-il joué dans le bouyon soca ?",
+    "Triple Kay est le groupe qui a porté le bouyon soca du studio à la route : selon le témoignage de Smokiller, le style a pris son ampleur quand Triple Kay et d'autres groupes l'ont adopté. La biographie publiée de Dada le crédite de productions pour le groupe, dont « All Out » et « Doh Blow My High ». Devenu <a href=\"/tk-international.html\">TK International</a>, le groupe enregistre toujours, de « Fan Love » (2018) à « Long Spoon » (2025).",
+  ),
+  (
+    "Quelles stars de la soca ont enregistré du bouyon ?",
+    "Un grand article de Billboard consacré au bouyon cite Bunji Garlin, Fay-Ann Lyons, Problem Child, Mr Killa, Voice et Machel Montano parmi les géants de la soca qui ont intégré le bouyon à leurs propres sorties. <a href=\"/problem-child.html\">Problem Child</a>, de Saint-Vincent, en est un cas documenté : « FYM », sorti en janvier 2025 avec le chanteur dominicain Ridge, a été finaliste de la Collaboration de l'année aux Dominica Music Awards 2025.",
+  ),
+  (
+    "Existe-t-il un prix pour le bouyon soca ?",
+    "Oui, aux Antilles françaises : les Hit Lokal Awards ont une catégorie Soca/Bouyon, remportée en 2013 par Bilix et en 2014 par <a href=\"/riddla.html\">Riddla</a> pour « Twitté'y ». À Trinidad, l'épreuve qui consacre la fusion est la Road March, attribuée au titre le plus joué sur la route : « Famalay », produit par Dada, l'a gagnée en 2019. Riddla a ensuite enregistré « Holy Wata » avec TK International, selon la chronique de Karukerament.",
+  ),
+  (
+    "Où voir du bouyon soca en live en 2026 ?",
+    "Au <a href=\"/world-creole-music-festival.html\">World Creole Music Festival</a> de Roseau, du 23 au 25 octobre 2026, trois soirées à Windsor Park où le bouyon partage la scène avec la cadence, le zouk et le kompa. TK International joue la Nuit 1, et le site officiel de Machel Montano l'annonce le 25 octobre. Au carnaval de la Dominique, Mas Domnik, le J'ouvert ouvre les grands jours dès 4 heures du matin avec le bouyon de l'année.",
   )
 ],
 "date_modified": "2026-10-21",
@@ -193,6 +225,38 @@ PAGES = [
   (
     "Où écouter du bouyon gwada aujourd'hui ?",
     "Le plus simple est la Bouyon Road Mix de Bouyon Shattaz, sur Spotify et YouTube, qui mélange les nouveautés de la Dominique, de la Guadeloupe et de la Martinique avec les classiques du carnaval. Suivez @bouyonshattaz sur Instagram et commentez ROAD MIX pour la recevoir en message privé. Tout est réuni sur notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>.",
+  ),
+  (
+    "Quels sont les artistes les plus connus du bouyon gwada ?",
+    "Les articles de référence citent Wee Low, <a href=\"/suppa.html\">Suppa</a>, Doc J et Yellow Gaza parmi les musiciens populaires du début des années 2010, Suppa en figure centrale. Pour les années 2020, la développeuse musicale Maïté Berchel-Bordin a nommé Lejuh, 1T1, Theomaa, Piscine OSP, Aknose et Shanika parmi les artistes bouyon les plus emblématiques du moment en Guadeloupe, dans un entretien publié par CCN en décembre 2025.",
+  ),
+  (
+    "Qu'est-ce que le bouyon hardcore ?",
+    "Le bouyon hardcore est le courant populaire du bouyon gwada, caractérisé selon les articles de référence par des paroles grivoises et violentes. Le collectif bruxellois Rebel Up, qui a documenté la scène au début des années 2010 et publié la mixtape « Bouyon Hardcore 2k13 », décrit des paroles crues en anglais, en français ou en créole, sur des riddims percussifs lourds aux mélodies simplifiées, pour un public averti plutôt que pour toute la foule du carnaval.",
+  ),
+  (
+    "Un titre de bouyon gwada a-t-il été certifié disque d'or ?",
+    "Oui. « Je l'ai vu », du trio familial de Basse-Terre <a href=\"/holly-g.html\">HollyG</a> avec Arendi et VJ Ben, sorti le 22 octobre 2021, a été certifié single or par le SNEP le 10 juillet 2025, deuxième titre bouyon certifié or en France selon l'article de référence sur le genre. « Pow Pow / Allo Doudou », crédité à Miimii KDS avec Niska et Litleboy LSBeats767, a été certifié Single Or en 2026.",
+  ),
+  (
+    "Quel est le tempo du bouyon gwada ?",
+    "Le bouyon gwada garde le tempo du bouyon de fête, autour de 155 à 160 BPM. Les données publiées donnent 160 BPM pour « Sa Zot Vlé » de Gaza Girls Crew en 2011, 157 BPM pour « Bwé Rhum » en 2023, et 155 à 160 BPM pour les titres collectifs d'Aknose en 2023. La vitesse reste la même : ce qui change, c'est le poids des boîtes à rythmes et de la basse. Voir <a href=\"/bpm-du-bouyon.html\">BPM du bouyon</a>.",
+  ),
+  (
+    "Quand le bouyon gwada est-il arrivé à Paris ?",
+    "Selon le collectif Rebel Up, il a fallu attendre décembre 2012 pour que les premiers MCs et DJs dominicains et guadeloupéens viennent à Paris. Un documentaire de 50 minutes, en français et en créole, filme cette première performance de Suppa, des Gaza Girls, de Dj Joe et d'autres. Le bouyon est donc arrivé en France par la diaspora et par le son brut du bouyon gwada, bien avant les certifications. Voir <a href=\"/bouyon-paris.html\">bouyon à Paris</a>.",
+  ),
+  (
+    "Le bouyon gwada et le jump up, est-ce la même chose ?",
+    "Pas tout à fait. Le <a href=\"/jump-up.html\">jump up</a> est le nom courant du bouyon aux Antilles françaises, un nom déjà donné aux musiques de carnaval très rythmées après « L'hivernage » d'Exile One en 1987. Le bouyon gwada est la branche guadeloupéenne et hardcore de ce bouyon, plus dure et plus électronique. TIITII NBA lui-même a découvert WCK par ses parents, sous le nom de jump up.",
+  ),
+  (
+    "Les artistes bouyon de Dominique et de Guadeloupe travaillent-ils ensemble ?",
+    "Oui, dans les deux sens. 1T1, de Guadeloupe, a produit « Leave Me Alone » de Mr Ridge, sorti le 6 septembre 2024 ; Lejuh chante sur « Adios Amigos » de Reo avec Jixels ; DJ JOE et la voix dominicaine d'Asa Bantan partagent « Bwé Rhum » (2023). Le label guadeloupéen More Sewo a signé l'artiste dominicain BONNA. Notre chapitre <a href=\"/gwada-vue-de-dominique.html\">la Gwada vue de la Dominique</a> raconte cette relation.",
+  ),
+  (
+    "Pourquoi le bouyon gwada fait-il polémique ?",
+    "À cause de ses paroles. Le podcast Faya décrit une musique très rapide, aux paroles crues, qui a même frôlé l'interdiction, un exutoire pour la jeunesse qui fait parler, souvent en mal, mais qui fait surtout danser. Le débat reste ouvert : pour Maïté Berchel-Bordin, le bouyon gagnera en maturité en diversifiant ses textes et ses mélodies, et Lejuh a été interrogé en podcast sur la question de savoir si l'on peut faire du bouyon tout public.",
   )
 ],
 "date_modified": "2026-10-21",
@@ -212,10 +276,46 @@ PAGES = [
 ("Pourquoi la France compte", ["Les Antilles françaises et la diaspora à Paris sont devenues un marché majeur du bouyon : certifications, scènes et distribution passent souvent par la France. C’est exactement pour garder le crédit et l’origine du côté de la Dominique que Bouyon Shattaz documente le shatta bouyon au quotidien."]),
 ],
 "faq": [
-("Qu'est-ce que le shatta bouyon ?", "Le shatta bouyon est la forme actuelle et la plus visible du bouyon sur les réseaux et dans les clubs. Il repose sur des riddims courts, durs et dansants, produits par la nouvelle génération antillaise et française, qui gardent l'ADN du bouyon né en Dominique : tempo rapide, claviers en boucle, basse synthétique et créole au micro."),
-("Le shatta est-il la même chose que le bouyon ?", 'Non. Le shatta est une famille de sons antillais modernes ; le shatta bouyon est la partie de cette famille construite directement sur les riddims et l’énergie du bouyon dominicain. Le bouyon, lui, est le genre historique créé en 1988 en Dominique, avec ses groupes live, ses carnavals et ses classiques. Voir la page <a href="/bouyon-ou-shatta.html">bouyon ou shatta</a>.'),
-("D'où vient le shatta bouyon ?", "Ses racines sont dominicaines. Même dans sa forme la plus moderne, le shatta bouyon garde les marqueurs du genre créé par WCK en 1988 en Dominique. Ce qui change, c'est la production : digitale, minimale, taillée pour le club et le téléphone, et portée par la nouvelle génération de producteurs antillais et français."),
-("Pourquoi la France compte-t-elle pour le shatta bouyon ?", "Parce que les Antilles françaises et la diaspora à Paris sont devenues un marché majeur du bouyon : certifications, scènes et distribution passent souvent par la France. C'est justement pour garder le crédit et l'origine du côté de la Dominique que Bouyon Shattaz documente le shatta bouyon au quotidien."),
+  (
+    "Qu'est-ce que le shatta bouyon ?",
+    "Le shatta bouyon est la forme actuelle et la plus visible du bouyon sur les réseaux et dans les clubs. Il repose sur des riddims courts, durs et dansants, produits par la nouvelle génération antillaise et française, qui gardent l'ADN du bouyon né en Dominique : tempo rapide, claviers en boucle, basse synthétique et créole au micro.",
+  ),
+  (
+    "Le shatta est-il la même chose que le bouyon ?",
+    "Non. Le shatta est un genre dancehall martiniquais, pas une branche du bouyon. Le bouyon, lui, est le genre historique créé en 1988 en Dominique par WCK, avec ses groupes live, ses carnavals et ses classiques. Le shatta bouyon est le point de rencontre des deux : des riddims courts et durs posés sur les claviers, le tempo et le créole du bouyon dominicain. Voir la page <a href=\"/bouyon-ou-shatta.html\">bouyon ou shatta</a>.",
+  ),
+  (
+    "D'où vient le shatta bouyon ?",
+    "Ses racines sont dominicaines. Même dans sa forme la plus moderne, le shatta bouyon garde les marqueurs du genre créé par WCK en 1988 en Dominique. Ce qui change, c'est la production : digitale, minimale, taillée pour le club et le téléphone, et portée par la nouvelle génération de producteurs antillais et français.",
+  ),
+  (
+    "Pourquoi la France compte-t-elle pour le shatta bouyon ?",
+    "Parce que les Antilles françaises et la diaspora à Paris sont devenues un marché majeur du bouyon : certifications, scènes et distribution passent souvent par la France. C'est justement pour garder le crédit et l'origine du côté de la Dominique que Bouyon Shattaz documente le shatta bouyon au quotidien.",
+  ),
+  (
+    "Quelle est la différence entre le shatta bouyon et le bouyon gwada ?",
+    "Le bouyon gwada est la branche hardcore du bouyon, née de collaborations entre musiciens de la Dominique et de la Guadeloupe : plus dure, plus électronique, chantée largement en créole guadeloupéen. Le shatta bouyon est la forme pensée pour les réseaux et les clubs, avec des riddims courts produits par la nouvelle génération antillaise et française. Le bouyon gwada fait le pont entre le bouyon dominicain et ces formes modernes.",
+  ),
+  (
+    "Le shatta bouyon et le bouyon moderne, c'est pareil ?",
+    "Pas tout à fait : le shatta bouyon est une composante du bouyon moderne. Le bouyon moderne est plus large et réunit la base dominicaine de WCK, l'énergie du bouyon gwada, la forme réseau du shatta bouyon et tout le travail des producteurs qui fabriquent des riddims entre Roseau, Pointe-à-Pitre et Paris. Voir la page <a href=\"/bouyon-moderne.html\">bouyon moderne</a>.",
+  ),
+  (
+    "Pourquoi les producteurs de shatta bouyon dansent-ils sur leurs propres sons ?",
+    "Pour lancer le mouvement. Le shatta bouyon vit au rythme des formats courts : un riddim se lance en vidéo de quelques secondes, le producteur danse dessus, puis le public reprend le pas et réclame la version longue. C'est la version réseaux d'un réflexe ancien du carnaval de la Dominique, où le public répondait déjà en dansant aux groupes live.",
+  ),
+  (
+    "Le shatta bouyon est-il un genre nouveau ?",
+    "C'est la forme actuelle d'un genre plus ancien. Le bouyon a été créé en 1988 en Dominique et compte plus de trente ans d'histoire. Le shatta bouyon en garde les marqueurs : tempo rapide, claviers en boucle, basse synthétique et créole au micro. Ce qui est nouveau, c'est la production, digitale, minimale, taillée pour le club et le téléphone.",
+  ),
+  (
+    "Comment reconnaître un titre shatta bouyon ?",
+    "À son beat qui frappe en quelques secondes et à sa boucle qui reste en tête. Le shatta bouyon garde le tempo rapide, les claviers en boucle, la basse synthétique et le créole au micro du bouyon dominicain, mais dans une production digitale et minimale. Ses riddims sont courts, durs et dansants, avec un pas de danse facile à reprendre en vidéo.",
+  ),
+  (
+    "Où écouter du shatta bouyon ?",
+    "Sur la Bouyon Road Mix de Bouyon Shattaz, sur Spotify et YouTube, qui mélange bouyon, bouyon soca et shatta bouyon dans une même sélection, avec les nouveautés et les classiques du carnaval. Pour la recevoir en message privé, suivez @bouyonshattaz sur Instagram et commentez ROAD MIX. Voir aussi la page <a href=\"/playlist-shatta.html\">playlist shatta</a>.",
+  )
 ],
 "date_modified": "2026-10-20",
 },
@@ -231,10 +331,50 @@ PAGES = [
 ],
 "date_modified": "2026-10-20",
 "faq": [
-("Qu'est-ce que le bouyon ?", "Le bouyon est un genre musical né en Dominique à la fin des années 1980. Son nom vient du mot kwéyòl pour la soupe : c'est un mélange de jing ping, de cadence-lypso, de calypso et de production électronique, lancé par le groupe WCK."),
-("Où écouter les styles de bouyon ?", "La page playlists du site rassemble la Bouyon Road Mix de Bouyon Shattaz sur Spotify et YouTube, avec les nouveautés bouyon et les classiques du carnaval."),
-("Qu'est-ce que le bouyon-muffin ?", "Le bouyon-muffin est l'un des premiers enfants du bouyon : dès les années 1990, des chanteurs dominicains posent des voix inspirées du dancehall et du raggamuffin jamaïcains sur les rythmes rapides du bouyon. Le résultat est un style vocal très reconnaissable, entre chant, cri et toast, avec des textes sur la vie quotidienne et la politique de l'île."),
-("Quelle influence le bouyon-muffin a-t-il eue sur le bouyon moderne ?", "Le bouyon-muffin a installé une manière de chanter sur le bouyon qui marque encore la scène actuelle : débit rapide, refrains scandés, créole et anglais mélangés. C'est l'un des ponts entre le bouyon des groupes live, comme celui de l'<a href=\"/old-school-bouyon.html\">old school bouyon</a>, et le bouyon des producteurs d'aujourd'hui."),
+  (
+    "Qu'est-ce que le bouyon ?",
+    "Le bouyon est un genre musical né en Dominique à la fin des années 1980, lancé par le groupe WCK, formé à Roseau en 1988. Son nom vient du mot kwéyòl pour la soupe : c'est un mélange de jing ping, de cadence-lypso, de calypso et de production électronique. Le bouyon-muffin est l'une de ses premières branches, née quand les chanteurs des années 1990 y ont posé des voix ragga.",
+  ),
+  (
+    "Où écouter les styles de bouyon ?",
+    "Sur la Bouyon Road Mix de Bouyon Shattaz, sur Spotify et YouTube, qui rassemble les nouveautés bouyon et les classiques du carnaval. La page <a href=\"/playlist-bouyon.html\">playlist bouyon</a> du site intègre directement les deux lecteurs. Pour recevoir la sélection en message privé, suivez @bouyonshattaz sur Instagram et commentez ROAD MIX sous une publication.",
+  ),
+  (
+    "Qu'est-ce que le bouyon-muffin ?",
+    "Le bouyon-muffin est l'un des premiers enfants du bouyon : dès les années 1990, des chanteurs dominicains posent des voix inspirées du dancehall et du raggamuffin jamaïcains sur les rythmes rapides du bouyon. Le résultat est un style vocal très reconnaissable, entre chant, cri et toast, avec des textes sur la vie quotidienne et la politique de l'île.",
+  ),
+  (
+    "Quelle influence le bouyon-muffin a-t-il eue sur le bouyon moderne ?",
+    "Le bouyon-muffin a installé une manière de chanter sur le bouyon qui marque encore la scène actuelle : débit rapide, refrains scandés, créole et anglais mélangés. C'est l'un des ponts entre le bouyon des groupes live, comme celui de l'<a href=\"/old-school-bouyon.html\">old school bouyon</a>, et le bouyon des producteurs d'aujourd'hui.",
+  ),
+  (
+    "Qui est l'artiste clé du bouyon-muffin ?",
+    "Skinny Banton, selon Wikipedia en anglais comme en français. Dès 1995, il collabore avec WCK en posant un chant influencé par le ragga sur les rythmes bouyon. La liste des anciens membres de WCK le nomme Wayne « Skinny Banton » Robinson, aux voix principales, et il est ensuite connu sous le nom de Shadowflow. Voir la page <a href=\"/skinny-banton.html\">Skinny Banton</a>.",
+  ),
+  (
+    "Quand le bouyon-muffin est-il apparu ?",
+    "Dans les années 1990, en Dominique. Son histoire documentée commence au milieu de la décennie : à partir de 1995, Skinny Banton collabore avec WCK et pose une voix ragga sur les rythmes bouyon. C'est l'époque où le bouyon domine la scène de l'île et où, au chant classique des groupes, s'ajoute un style plus parlé venu du dancehall jamaïcain.",
+  ),
+  (
+    "Le bouyon-muffin vient-il de la Jamaïque ?",
+    "Non, il est né en Dominique. L'influence jamaïcaine est dans la voix : la génération dominicaine des années 1990 écoute le dancehall de Kingston et en reprend le style raggamuffin. Mais la base reste le bouyon de l'île, nourri du chanté mas, de la tradition du cri de carnaval et de la machine rythmique lancée par WCK en 1988.",
+  ),
+  (
+    "Quelle différence entre le bouyon-muffin et le bouyon classique ?",
+    "La base rythmique est la même, la voix change. Le bouyon classique est celui des groupes fondateurs comme WCK : formations live, claviers et machines sur une base de cadence-lypso et de jing ping. Le bouyon-muffin garde ces rythmes mais remplace le chant de groupe par un débit toasté et parlé, à la manière du raggamuffin et du dancehall.",
+  ),
+  (
+    "Quel titre relie le bouyon-muffin au Wrecketeng ?",
+    "« Party », avec Joanne et DJ Cut de Bucktown Sounds. Selon Wikipedia, ce titre combine le bouyon avec un art du deejaying venu du dancehall, et les enregistrements de ce type ont poussé des artistes du bouyon-muffin, comme le Bushtown Clan, à intégrer davantage de hip hop et de dancehall. Cette chaîne a mené à la création du <a href=\"/wrecketeng.html\">Wrecketeng</a>.",
+  ),
+  (
+    "De quoi parlent les textes du bouyon-muffin ?",
+    "De la vie quotidienne et de la politique de l'île. Le bouyon-muffin garde la fonction de commentaire du bouyon, qui raconte la vie de l'île comme la cadence-lypso avant lui, mais avec des voix façon raggamuffin : débit rapide, refrains scandés, créole et anglais mélangés. Le résultat est un style vocal très reconnaissable, entre chant, cri et toast.",
+  ),
+  (
+    "Le Bushtown Clan fait-il partie du bouyon-muffin ?",
+    "Oui, les sources le présentent comme un produit du bouyon-muffin. Ce collectif dominicain de DJs et de producteurs, inspiré par des titres comme « Party », a poussé plus loin le hip hop et le dancehall dans le bouyon, et il a joué un rôle important dans le développement précoce du Wrecketeng par les performances DJ, les remixes et les enregistrements. Voir la page <a href=\"/bushtown-clan.html\">Bushtown Clan</a>.",
+  )
 ],
 },
 {
@@ -249,11 +389,54 @@ PAGES = [
 ],
 "date_modified": "2026-10-20",
 "faq": [
-("Qu'est-ce que le bouyon ?", "Le bouyon est un genre musical né en Dominique à la fin des années 1980. Son nom vient du mot kwéyòl pour la soupe : c'est un mélange de jing ping, de cadence-lypso, de calypso et de production électronique, lancé par le groupe WCK."),
-("Où écouter les styles de bouyon ?", "La page playlists du site rassemble la Bouyon Road Mix de Bouyon Shattaz sur Spotify et YouTube, avec les nouveautés bouyon et les classiques du carnaval."),
-("Qu'est-ce que le Wrecketeng ?", "Le Wrecketeng est une branche du bouyon née en Dominique dans le sillage du bouyon-muffin. La lignée passe par DJ Cut, avec Bucktown Sounds et le Bushtown Clan, puis par la Nursery Krew Inc. au début des années 2000, dont faisait partie Smokiller. Sa méthode : prendre des enregistrements existants, les dépouiller et les reconstruire sur des instrumentaux bouyon."),
-("Wrecketeng ou wrecketeng : quelle orthographe ?", "Les deux désignent une seule lignée. Les références anciennes, jusqu'à Billboard en juin 2025, écrivent Wrecketeng. L'orthographe Wrecketeng est celle que Smokiller a mise en avant avec son projet de retour annoncé en décembre 2025, aux côtés de DJ Cut et des vétérans de la Nursery Krew. Voir le chapitre <a href=\"/wrecketeng.html\">Wrecketeng</a>."),
-("Quel lien entre le Wrecketeng et le RnBouyon ?", "Pour Bouyon Shattaz, les étiquettes des années 2020, le New Bouyon comme le RnBouyon, sont les héritières du Wrecketeng : elles en réemploient la méthode, prendre des chansons existantes, hip hop, trap ou R&B, et les reconstruire sur la machinerie bouyon. Wikipedia, en anglais et en français, fait la même lecture."),
+  (
+    "Qu'est-ce que le bouyon ?",
+    "C'est le genre musical de la Dominique dont le Wrecketeng est sorti : né à la fin des années 1980, lancé par le groupe WCK à Roseau en 1988. Son nom vient du mot kwéyòl pour la soupe, car il mélange jing ping, cadence-lypso, calypso et production électronique. Après 1988, les musiciens dominicains l'ont décliné en fusions : bouyon soca, bouyon-muffin, Wrecketeng.",
+  ),
+  (
+    "Où écouter les styles de bouyon ?",
+    "La Bouyon Road Mix de Bouyon Shattaz, sur Spotify et YouTube, rassemble les nouveautés bouyon et les classiques du carnaval. Pour entendre l'héritage du Wrecketeng, écoutez aussi les remixes bouyon de Smokiller, dont la méthode descend de cette école du sample : des voix connues reconstruites au tempo bouyon. Les deux lecteurs sont sur la page <a href=\"/playlist-bouyon.html\">playlist bouyon</a>.",
+  ),
+  (
+    "Qu'est-ce que le Wrecketeng ?",
+    "Le Wrecketeng est une branche du bouyon née en Dominique dans le sillage du bouyon-muffin. La lignée passe par DJ Cut, avec Bucktown Sounds et le Bushtown Clan, puis par la Nursery Krew Inc. au début des années 2000, dont faisait partie Smokiller. Sa méthode : prendre des enregistrements existants, les dépouiller et les reconstruire sur des instrumentaux bouyon.",
+  ),
+  (
+    "Reketeng ou Wrecketeng : quelle est la bonne orthographe ?",
+    "Wrecketeng. Selon Smokiller, fondateur de Bouyon Shattaz et participant de l'époque Nursery Krew, cette orthographe officielle vient de DJ Cut lui-même, le pionnier du style. La graphie « reketeng », très répandue sur internet et reprise par des publications jusqu'à Billboard, est une erreur devenue courante. Ce site écrit Wrecketeng partout. Voir le chapitre <a href=\"/wrecketeng.html\">Wrecketeng</a>.",
+  ),
+  (
+    "Quel lien entre le Wrecketeng et le RnBouyon ?",
+    "Pour Bouyon Shattaz, les étiquettes des années 2020, le New Bouyon comme le RnBouyon, sont les héritières du Wrecketeng : elles en réemploient la méthode, prendre des chansons existantes, hip hop, trap ou R&B, et les reconstruire sur la machinerie bouyon. Wikipedia, en anglais et en français, fait la même lecture.",
+  ),
+  (
+    "Qui a créé le Wrecketeng ?",
+    "DJ Cut, DJ et producteur dominicain attaché à Bucktown Sounds, est reconnu parmi les pionniers précoces du style. Son titre « Party », avec Joanne, a inspiré des artistes du bouyon-muffin comme le Bushtown Clan, qui ont popularisé le Wrecketeng en Dominique. La Nursery Krew Inc. l'a ensuite fait avancer au début des années 2000 avec des enregistrements originaux. Voir la page <a href=\"/dj-cut.html\">DJ Cut</a>.",
+  ),
+  (
+    "Comment fait-on un morceau de Wrecketeng ?",
+    "On part d'un enregistrement existant, souvent hip hop ou dancehall, et on en retire la section rythmique. On met ensuite en avant la batterie et la basse du bouyon, puis on pose la voix d'origine, ou d'autres éléments mélodiques, sur cette nouvelle base rapide. La piste ainsi dépouillée est parfois appelée un riddim. Comme le dub, le style vit surtout de remixes instrumentaux.",
+  ),
+  (
+    "Quand le Wrecketeng est-il apparu ?",
+    "À la fin des années 1990, en Dominique, dans le sillage du bouyon-muffin. Après les collaborations de Skinny Banton avec WCK à partir de 1995, le titre « Party » de Joanne et DJ Cut ouvre la voie, puis le Bushtown Clan popularise le style. Au début des années 2000, la Nursery Krew Inc. le prolonge par des enregistrements originaux.",
+  ),
+  (
+    "Qu'est-ce que la Nursery Krew Inc. ?",
+    "Un crew dominicain du début des années 2000, abrégé NKI, qui a fait passer le Wrecketeng du remix de DJ aux enregistrements originaux. Wikipedia lui associe Burn Brain Jolly, Charlie Black, Watty et Smokiller, et cite les titres « Peanuts », « Sorti Desandre » et le NKI Medley. Selon sa biographie, le producteur Dada a lancé le groupe et produit ses titres. Voir la page <a href=\"/nursery-krew-inc.html\">Nursery Krew Inc</a>.",
+  ),
+  (
+    "Le Wrecketeng fait-il son retour ?",
+    "Oui. Le 3 décembre 2025, Dominica News Online a annoncé un album collaboratif produit par Smokiller pour mettre en lumière les origines du Wrecketeng. Parmi les contributeurs annoncés figurent DJ Cut, Klass Money, Charlie Black, Keith Goddard, O Banga et Mopo Neck. Le projet reconnaît aussi l'influence de Burn Brain Jolly et de la Nursery Krew Inc. : le style est relancé, pas seulement commémoré.",
+  ),
+  (
+    "Quelle différence entre le Wrecketeng et le bouyon-muffin ?",
+    "Le bouyon-muffin est un style de voix : des chanteurs posent un débit ragga sur les rythmes bouyon. Le Wrecketeng est un style de DJ et de producteurs : il prend des enregistrements existants, les dépouille et les reconstruit sur des instrumentaux bouyon. Le second est né dans le sillage du premier, et des artistes du bouyon-muffin, comme le Bushtown Clan, ont aidé à l'établir.",
+  ),
+  (
+    "Quel est le lien entre Smokiller et le Wrecketeng ?",
+    "Smokiller, producteur né en Dominique, fait partie des noms que Wikipedia associe à la Nursery Krew Inc., le crew qui a fait avancer le Wrecketeng au début des années 2000. Il travaille explicitement dans ce style : sa méthode de remix rhabille des mélodies et des voix familières au tempo bouyon. Il est aussi le producteur de l'album collaboratif sur les origines du Wrecketeng annoncé en décembre 2025.",
+  )
 ],
 },
 {
@@ -267,10 +450,54 @@ PAGES = [
 ("Le jump up au carnaval", ["Au carnaval de Guadeloupe et de Martinique, le jump up est la bande-son des groupes à peaux, des déboulés et des fêtes de rue. Il relie les traditions de carnaval des trois îles créolophones : la Dominique, la Gwada et la Martinique."]),
 ],
 "faq": [
-("Jump up et bouyon, c’est pareil ?", "En Guadeloupe et en Martinique, oui, dans le langage courant : le jump up désigne la musique bouyon venue de la Dominique. Le terme existait déjà pour les musiques de carnaval très rythmées, et le public antillais a naturellement rangé le bouyon dans cette famille. Pour beaucoup, bouyon et jump up sont le même son."),
-("Pourquoi appelle-t-on le bouyon jump up ?", "Parce que le nom résume l'effet de la musique : un tempo rapide qui fait sauter tout le monde. C'est ainsi que les Antilles françaises, Guadeloupe et Martinique, désignent la musique bouyon de la Dominique. Si vous cherchez du bouyon en Guadeloupe ou en Martinique, demandez donc du jump up."),
-("D'où vient le terme jump up ?", "Le terme jump up existait déjà dans les Antilles françaises pour désigner des musiques de carnaval très rythmées, notamment après le titre L'hivernage d'Exile One en 1987, surnommé The Yo. Quand le bouyon dominicain a traversé la mer, le public antillais l'a rangé naturellement dans cette famille."),
-("Où entend-on du jump up ?", 'Surtout au carnaval de Guadeloupe et de Martinique, où le jump up est la bande-son des groupes à peaux, des déboulés et des fêtes de rue. Il relie les traditions de carnaval des trois îles créolophones : la Dominique, berceau du bouyon, la Guadeloupe et la Martinique. Voir aussi le <a href="/carnaval-de-dominique.html">carnaval de la Dominique</a>.'),
+  (
+    "Jump up et bouyon, c’est pareil ?",
+    "En Guadeloupe et en Martinique, oui, dans le langage courant : le jump up désigne la musique bouyon venue de la Dominique. Le terme existait déjà pour les musiques de carnaval très rythmées, et le public antillais a naturellement rangé le bouyon dans cette famille. Pour beaucoup, bouyon et jump up sont le même son.",
+  ),
+  (
+    "Pourquoi appelle-t-on le bouyon jump up ?",
+    "Parce que le nom résume l'effet de la musique : un tempo rapide qui fait sauter tout le monde. C'est ainsi que les Antilles françaises, Guadeloupe et Martinique, désignent la musique bouyon de la Dominique. Si vous cherchez du bouyon en Guadeloupe ou en Martinique, demandez donc du jump up.",
+  ),
+  (
+    "D'où vient le terme jump up ?",
+    "Le terme jump up existait déjà dans les Antilles françaises pour désigner des musiques de carnaval très rythmées, notamment après le titre L'hivernage d'Exile One en 1987, surnommé The Yo. Quand le bouyon dominicain a traversé la mer, le public antillais l'a rangé naturellement dans cette famille.",
+  ),
+  (
+    "Où entend-on du jump up ?",
+    "Surtout au carnaval de Guadeloupe et de Martinique, où le jump up est la bande-son des groupes à peaux, des déboulés et des fêtes de rue. Il relie les traditions de carnaval des trois îles créolophones : la Dominique, berceau du bouyon, la Guadeloupe et la Martinique. Voir aussi le <a href=\"/carnaval-de-dominique.html\">carnaval de la Dominique</a>.",
+  ),
+  (
+    "Le jump up vient-il de la Dominique ou de la Guadeloupe ?",
+    "La musique vient de la Dominique, le nom des Antilles françaises. Le jump up est le bouyon créé à Roseau en 1988 par le groupe WCK ; c'est le public de Guadeloupe et de Martinique qui l'a appelé ainsi, en le rangeant dans sa famille de musiques de carnaval très rythmées. La Guadeloupe a ensuite développé sa propre branche, le bouyon gwada.",
+  ),
+  (
+    "Comment danse-t-on le jump up ?",
+    "En sautant : c'est tout le sens du nom. En Guadeloupe, le mot désigne aussi la façon de danser le bouyon en sautant, devenue la signature des soirées gwada. Il n'existe pas de pas officiel : on ondule sur les refrains, on saute ensemble sur les montées et on répond aux appels du chanteur ou du DJ. Voir la page <a href=\"/bouyon-danse.html\">bouyon danse</a>.",
+  ),
+  (
+    "Le jump up, c'est du zouk ?",
+    "Non. Le zouk vient de la Guadeloupe et de la Martinique, popularisé au début des années 1980 par des groupes comme Kassav : un son propre, dansant, romantique dans sa version zouk love. Le jump up est le bouyon venu de la Dominique, plus rapide, plus brut, plus carnaval que salon. Le zouk fait pourtant partie des ingrédients du bouyon. Voir <a href=\"/bouyon-ou-zouk.html\">bouyon ou zouk</a>.",
+  ),
+  (
+    "Quel lien entre Exile One et le jump up ?",
+    "Le terme jump up est notamment associé à L'hivernage d'Exile One, en 1987, un titre surnommé The Yo : après lui, le mot a servi dans les Antilles françaises à désigner des musiques de carnaval très rythmées. Exile One est un groupe dominicain, star de la cadence-lypso des années 1970, l'un des deux parents musicaux du bouyon avec le jing ping.",
+  ),
+  (
+    "Pourquoi le bouyon a-t-il si bien pris en Guadeloupe et en Martinique ?",
+    "Parce que les îles parlent des créoles proches. Le kwéyòl dominicain a servi de passeport linguistique au bouyon, qui a traversé la mer par le carnaval et les échanges entre îles créolophones. Le public antillais l'a rangé dans sa famille du jump up, et le son est devenu incontournable dans les fêtes et les carnavals. Voir <a href=\"/bouyon-et-kweyol.html\">bouyon et kwéyòl</a>.",
+  ),
+  (
+    "Le jump up est-il rapide ?",
+    "Oui, c'est sa raison d'être : un tempo qui fait sauter tout le monde. Le bouyon n'a pas de BPM unique, mais les exemples documentés sur ce site tournent autour de 160 BPM, comme Mauvais Plan du producteur HYPNO. Cette vitesse vient des danses traditionnelles dominicaines et de la compétition du carnaval. Voir la page <a href=\"/bpm-du-bouyon.html\">BPM du bouyon</a>.",
+  ),
+  (
+    "Quelle différence entre jump up et bouyon gwada ?",
+    "Le jump up est le nom courant du bouyon dans les Antilles françaises. Le bouyon gwada, aussi appelé hardcore bouyon, est une branche précise, née de collaborations entre musiciens de la Dominique et de la Guadeloupe : plus dure, plus électronique et chantée largement en créole guadeloupéen. Le premier nomme le genre, le second un de ses styles. Voir la page <a href=\"/bouyon-gwada.html\">bouyon gwada</a>.",
+  ),
+  (
+    "Quelle playlist écouter pour le jump up ?",
+    "La Bouyon Road Mix de Bouyon Shattaz, sur Spotify et YouTube. Elle rassemble les nouveautés de la Dominique, de la Guadeloupe et de la Martinique, le bouyon soca, les riddims du moment et les classiques du carnaval. Pour la recevoir en message privé, suivez @bouyonshattaz sur Instagram et commentez ROAD MIX. Voir la <a href=\"/playlist-bouyon.html\">playlist bouyon</a>.",
+  )
 ],
 "date_modified": "2026-10-20",
 },
@@ -286,11 +513,50 @@ PAGES = [
 ],
 "date_modified": "2026-10-20",
 "faq": [
-("Qu'est-ce que le bouyon ?", "Le bouyon est un genre musical né en Dominique à la fin des années 1980. Son nom vient du mot kwéyòl pour la soupe : c'est un mélange de jing ping, de cadence-lypso, de calypso et de production électronique, lancé par le groupe WCK."),
-("Où écouter les styles de bouyon ?", "La page playlists du site rassemble la Bouyon Road Mix de Bouyon Shattaz sur Spotify et YouTube, avec les nouveautés bouyon et les classiques du carnaval."),
-("Qu'est-ce que l'old school bouyon ?", "L'old school bouyon est le bouyon des groupes live qui ont fait la loi en Dominique dans les années 1990. C'est un son de scène, de carnaval et de fêtes de village, joué en formation complète avec des titres longs, construits pour durer toute une nuit. Les puristes le citent comme la référence du genre."),
-("Quels sont les groupes de l'old school bouyon ?", 'Les noms cités sont WCK, Roots Stems and Branches et First Serenade, ainsi que leurs héritiers. Ces groupes jouaient en formation complète : section rythmique, claviers, guitares, parfois des cuivres, et des chanteurs qui travaillaient le public comme au chanté mas. Voir la page de <a href="/wck.html">WCK</a>, le groupe pionnier.'),
-("Quelle différence entre old school bouyon et bouyon moderne ?", "L'old school bouyon est joué par des groupes live, avec des titres longs pensés pour une nuit de fête, pas pour un format de trente secondes. Ses fans estiment qu'il garde ce que le bouyon moderne risque de perdre : les instruments du jing ping et du lapo kabwit, le créole dominicain et le lien direct avec le carnaval de Roseau."),
+  (
+    "Qu'est-ce que le bouyon ?",
+    "Un genre musical de la Dominique, créé à Roseau en 1988 par le groupe WCK. Son nom vient du kwéyòl et désigne une soupe, parce que le genre mélange jing ping, cadence-lypso, calypso et claviers électroniques. Dans les années 1990, ses groupes live en font la musique du carnaval de Roseau et des fêtes de village : c'est l'époque que l'on appelle aujourd'hui old school.",
+  ),
+  (
+    "Où écouter les styles de bouyon ?",
+    "Commencez par les groupes fondateurs, WCK, Roots Stems and Branches et First Serenade, puis passez à la Bouyon Road Mix de Bouyon Shattaz, sur Spotify et YouTube, qui mêle classiques du carnaval et nouveautés bouyon. La sélection commentée des titres est sur la page <a href=\"/chansons-bouyon.html\">chansons bouyon</a>, et la playlist arrive en message privé si vous commentez ROAD MIX sur @bouyonshattaz.",
+  ),
+  (
+    "Qu'est-ce que l'old school bouyon ?",
+    "L'old school bouyon est le bouyon des groupes live qui ont fait la loi en Dominique dans les années 1990. C'est un son de scène, de carnaval et de fêtes de village, joué en formation complète avec des titres longs, construits pour durer toute une nuit. Les puristes le citent comme la référence du genre.",
+  ),
+  (
+    "Quels sont les groupes de l'old school bouyon ?",
+    "Les noms cités sont WCK, Roots Stems and Branches et First Serenade, ainsi que leurs héritiers. Ces groupes jouaient en formation complète : section rythmique, claviers, guitares, parfois des cuivres, et des chanteurs qui travaillaient le public comme au chanté mas. Voir la page de <a href=\"/wck.html\">WCK</a>, le groupe pionnier.",
+  ),
+  (
+    "Quelle différence entre old school bouyon et bouyon moderne ?",
+    "L'old school bouyon est joué par des groupes live, avec des titres longs pensés pour une nuit de fête, pas pour un format de trente secondes. Ses fans estiment qu'il garde ce que le bouyon moderne risque de perdre : les instruments du jing ping et du lapo kabwit, le créole dominicain et le lien direct avec le carnaval de Roseau.",
+  ),
+  (
+    "Que veut dire RSB dans le bouyon ?",
+    "RSB est le sigle de Roots, Stems and Branches, l'un des groupes originels du bouyon en Dominique. Le dossier de ce site le place aux côtés de WCK, formé à Roseau en 1988, et de First Serenade, dans la génération fondatrice qui a inventé une musique plus rapide, plus électronique et plus directe que ce qui l'avait précédée. Les trois noms forment le socle de l'old school.",
+  ),
+  (
+    "Quels instruments joue l'old school bouyon ?",
+    "Ceux d'un groupe complet : section rythmique, claviers, guitares et parfois cuivres, avec des chanteurs qui travaillent la foule comme au chanté mas. WCK a branché les claviers électroniques et les boîtes à rythmes sur l'héritage du jing ping et du lapo kabwit, le tambour en peau de chèvre du carnaval. Voir les <a href=\"/instruments-du-bouyon.html\">instruments du bouyon</a>.",
+  ),
+  (
+    "Quels groupes ont pris le relais des pionniers du bouyon ?",
+    "Selon un guide de la musique de la Dominique publié en octobre 2025, First Serenade et Effects Band ont aidé à affiner et à réimaginer le son après la création du genre par WCK. Le relais a ensuite été pris par Triple Kay International et Signal Band, deux groupes dominicains qui prolongent la tradition des groupes live. Voir la page <a href=\"/tk-international.html\">TK International</a>.",
+  ),
+  (
+    "Les groupes old school jouent-ils encore ?",
+    "Oui. WCK, Roots, Stems and Branches et First Serenade figurent au programme de Ti Vilaj Kwéyòl 2026, du 19 au 22 octobre aux Jardins botaniques de Roseau. WCK et First Serenade étaient aussi à l'affiche de la deuxième nuit du World Creole Music Festival 2025, le samedi 25 octobre. Les pionniers restent une présence vivante de la fête dominicaine.",
+  ),
+  (
+    "Pourquoi le bouyon des années 1990 reste-t-il une référence ?",
+    "Parce qu'il a été pendant une décennie la bande-son de tout un pays. Dans les années 1990, le bouyon domine la scène de la Dominique, du carnaval de Roseau aux fêtes de village, et devient un répertoire que les générations suivantes citent et transforment. Les puristes y entendent ce que le bouyon moderne risque de perdre : la rawness, ce côté brut et réel.",
+  ),
+  (
+    "Le bouyon-muffin fait-il partie de l'old school ?",
+    "Il en est contemporain. Dans les années 1990, pendant que les groupes live dominent, les voix du bouyon évoluent : à partir de 1995, Skinny Banton pose un chant ragga sur les rythmes de WCK, et le bouyon-muffin naît de ce mélange. Il fait le pont entre le bouyon des groupes live et celui des producteurs d'aujourd'hui. Voir la page <a href=\"/bouyon-muffin.html\">bouyon-muffin</a>.",
+  )
 ],
 },
 {
@@ -305,10 +571,38 @@ PAGES = [
 ],
 "date_modified": "2026-10-20",
 "faq": [
-("Qu'est-ce que le gospel bouyon ?", "Le gospel bouyon applique la machine rythmique du bouyon, tempo rapide, claviers et énergie collective, à des textes de louange chrétienne. Il garde la boucle de clavier, la basse qui pousse et les réponses en choeur, mais remplace les thèmes de fête par la foi, la gratitude et le témoignage."),
-("Quelle différence entre le gospel bouyon et le bouyon de carnaval ?", "La musique est la même, le message change. Le gospel bouyon garde les codes du genre : boucle de clavier, basse qui pousse, réponses en choeur. Ses textes parlent de foi, de gratitude et de témoignage plutôt que de fête, et il se joue dans un contexte d'église et de concert gospel, devant le même public que le carnaval."),
-("Qu'est-ce que le bouyon ?", "Le bouyon est un genre musical né en Dominique à la fin des années 1980. Son nom vient du mot kwéyòl pour la soupe : c'est un mélange de jing ping, de cadence-lypso, de calypso et de production électronique, lancé par le groupe WCK."),
-("Où écouter les styles de bouyon ?", 'La page <a href="/playlist-bouyon.html">playlists</a> du site rassemble la Bouyon Road Mix de Bouyon Shattaz sur Spotify et YouTube, avec les nouveautés bouyon et les classiques du carnaval. Pour la recevoir directement, il suffit de suivre @bouyonshattaz sur Instagram et de commenter ROAD MIX : la playlist arrive en message privé.'),
+  (
+    "Qu'est-ce que le gospel bouyon ?",
+    "Le gospel bouyon applique la machine rythmique du bouyon, tempo rapide, claviers et énergie collective, à des textes de louange chrétienne. Il garde la boucle de clavier, la basse qui pousse et les réponses en choeur, mais remplace les thèmes de fête par la foi, la gratitude et le témoignage.",
+  ),
+  (
+    "Quelle différence entre le gospel bouyon et le bouyon de carnaval ?",
+    "La musique est la même, le message change. Le gospel bouyon garde les codes du genre : boucle de clavier, basse qui pousse, réponses en choeur. Ses textes parlent de foi, de gratitude et de témoignage plutôt que de fête, et il se joue dans un contexte d'église et de concert gospel, devant le même public que le carnaval.",
+  ),
+  (
+    "Qu'est-ce que le bouyon ?",
+    "Le genre que le gospel bouyon met au service de la louange : une musique née en Dominique à la fin des années 1980, lancée par le groupe WCK à Roseau en 1988. Son nom vient du mot kwéyòl pour la soupe, car il mélange jing ping, cadence-lypso, calypso et production électronique. Tempo rapide, claviers et énergie collective en sont la signature.",
+  ),
+  (
+    "Où écouter les styles de bouyon ?",
+    "La page <a href=\"/playlist-bouyon.html\">playlists</a> du site rassemble la Bouyon Road Mix de Bouyon Shattaz sur Spotify et YouTube, avec les nouveautés bouyon et les classiques du carnaval. Pour la recevoir directement, il suffit de suivre @bouyonshattaz sur Instagram et de commenter ROAD MIX : la playlist arrive en message privé.",
+  ),
+  (
+    "Le gospel bouyon est-il un vrai style de bouyon ?",
+    "Oui. Ce site le classe parmi les styles de bouyon, car il en garde tous les codes musicaux : boucle de clavier, basse qui pousse, tempo rapide et réponses en choeur. Seul le message change, la louange chrétienne remplaçant les thèmes de fête. Le gospel bouyon fait d'ailleurs partie des recherches régulières des fans du genre.",
+  ),
+  (
+    "D'où vient le rythme du gospel bouyon ?",
+    "De la Dominique. Le gospel bouyon emprunte la machine rythmique du bouyon, créé à Roseau en 1988 par WCK à partir du jing ping, de la cadence-lypso, des claviers électroniques et des boîtes à rythmes. Dans les Caraïbes, où l'église fait partie de la vie musicale, ce rythme dominicain a trouvé sa place dans la louange. Voir l'<a href=\"/histoire.html\">histoire du bouyon</a>.",
+  ),
+  (
+    "Pourquoi chante-t-on la louange sur du bouyon ?",
+    "Parce que le bouyon est devenu la langue musicale commune de la Dominique. Dans les Caraïbes, l'église fait partie de la vie musicale, et le public visé par le gospel bouyon est le même que celui du carnaval. Il lui parle avec un rythme familier, en remplaçant la fête par la foi, la gratitude et le témoignage.",
+  ),
+  (
+    "Que dit le gospel bouyon de la place du bouyon ?",
+    "Qu'il est devenu un patrimoine, pas une mode. Quand un même rythme sert à la fois la rue, le carnaval et l'église, il dépasse le statut de son du moment : c'est le son d'un peuple. Le gospel bouyon le montre en portant la boucle de clavier et la basse du bouyon jusque dans les concerts de louange.",
+  )
 ],
 },
 {
@@ -322,10 +616,54 @@ PAGES = [
 ("Un genre en réseau", ["La scène moderne fonctionne en réseau : médias comme Bouyon Shattaz, pages bouyon des Antilles, DJ de Gwada et de Paris, artistes dominicains. C’est ce réseau qui décide quels riddims deviennent des titres de carnaval, et c’est lui que ce site documente page après page."]),
 ],
 "faq": [
-("Qu’est-ce que le bouyon moderne ?", "C’est le bouyon de 2026, la somme de toutes les évolutions du genre depuis 1988 : la base dominicaine de WCK, l’énergie du bouyon gwada, la forme réseau du shatta bouyon et le travail des producteurs qui fabriquent des riddims dans leur chambre entre Roseau, Pointe-à-Pitre et Paris."),
-("Comment se produit le bouyon moderne ?", "Sur logiciel : boucles de percussions inspirées du lapo kabwit, claviers samplés et basses dessinées pour les téléphones comme pour les gros systèmes. Les producteurs publient des extraits, dansent dessus, lisent les commentaires, puis sortent la version longue que le public réclame. Le réseau des médias, des DJ et des pages bouyon décide ensuite quels riddims deviennent des titres de carnaval."),
-("Quelle différence entre bouyon moderne et shatta bouyon ?", 'Le <a href="/shatta-bouyon.html">shatta bouyon</a> est une composante du bouyon moderne : des riddims courts, durs et dansants, produits par la nouvelle génération antillaise et française pour le club et le téléphone. Le bouyon moderne est plus large : il réunit aussi la base dominicaine de WCK, l’énergie du bouyon gwada et toute la scène des producteurs.'),
-("Où suivre le bouyon moderne ?", 'Sur <a href="https://www.instagram.com/bouyonshattaz/">@bouyonshattaz</a>, qui publie au quotidien l’actualité du bouyon en anglais et en français, et dans la <a href="/nouveautes-bouyon-2026.html">page nouveautés bouyon 2026</a> de ce site. La Bouyon Road Mix de Bouyon Shattaz rassemble aussi les nouveautés bouyon et les classiques du carnaval sur Spotify et YouTube.'),
+  (
+    "Qu’est-ce que le bouyon moderne ?",
+    "C’est le bouyon de 2026, la somme de toutes les évolutions du genre depuis 1988 : la base dominicaine de WCK, l’énergie du bouyon gwada, la forme réseau du shatta bouyon et le travail des producteurs qui fabriquent des riddims dans leur chambre entre Roseau, Pointe-à-Pitre et Paris.",
+  ),
+  (
+    "Comment se produit le bouyon moderne ?",
+    "Sur logiciel : boucles de percussions inspirées du lapo kabwit, claviers samplés et basses dessinées pour les téléphones comme pour les gros systèmes. Les producteurs publient des extraits, dansent dessus, lisent les commentaires, puis sortent la version longue que le public réclame. Le réseau des médias, des DJ et des pages bouyon décide ensuite quels riddims deviennent des titres de carnaval.",
+  ),
+  (
+    "Quelle différence entre bouyon moderne et shatta bouyon ?",
+    "Le <a href=\"/shatta-bouyon.html\">shatta bouyon</a> est une composante du bouyon moderne : des riddims courts, durs et dansants, produits par la nouvelle génération antillaise et française pour le club et le téléphone. Le bouyon moderne est plus large : il réunit aussi la base dominicaine de WCK, l’énergie du bouyon gwada et toute la scène des producteurs.",
+  ),
+  (
+    "Où suivre le bouyon moderne ?",
+    "Sur le compte Instagram @bouyonshattaz, qui publie au quotidien l'actualité du bouyon en anglais et en français, et sur la page <a href=\"/nouveautes-bouyon-2026.html\">nouveautés bouyon 2026</a> de ce site. La Bouyon Road Mix de Bouyon Shattaz rassemble aussi les nouveautés bouyon et les classiques du carnaval sur Spotify et YouTube, et arrive en message privé si vous commentez ROAD MIX.",
+  ),
+  (
+    "Qui sont les producteurs du bouyon moderne ?",
+    "Parmi les noms suivis par Bouyon Shattaz : Smokiller, producteur né en Dominique et fondateur du média, Denmath, qui signe Tropical Riddim et Harley Riddim, HYPNO, auteur de Mauvais Plan, et Savion. Certains, comme MB On The Track, dansent sur leurs propres productions : le producteur est devenu un visage du genre. Voir la page <a href=\"/producteurs-bouyon.html\">producteurs bouyon</a>.",
+  ),
+  (
+    "Quelle différence entre bouyon moderne et old school bouyon ?",
+    "L'old school bouyon est joué par des groupes live, avec des titres longs pensés pour toute une nuit de fête. Le bouyon moderne naît sur logiciel : les producteurs publient des extraits courts, dansent dessus, puis sortent la version longue que le public réclame. Les fans de l'old school estiment qu'il garde mieux le lien avec le jing ping, le lapo kabwit et le carnaval de Roseau. Voir l'<a href=\"/old-school-bouyon.html\">old school bouyon</a>.",
+  ),
+  (
+    "Où se fabrique le bouyon moderne ?",
+    "Entre Roseau, Pointe-à-Pitre et Paris, souvent dans la chambre des producteurs. La base reste dominicaine, héritée de WCK, mais la scène fonctionne en réseau : médias comme Bouyon Shattaz, pages bouyon des Antilles, DJ de Gwada et de Paris, artistes dominicains. C'est ce réseau qui décide quels riddims deviennent des titres de carnaval.",
+  ),
+  (
+    "Qu'est-ce que le New Bouyon ?",
+    "Un nom qui recouvre trois usages : l'EP New Bouyon Age de TiiTii NBA, sorti le 22 mars 2023, le concept New Bouyon de Ricky Bishop lancé en 2024, et une étiquette générique pour le bouyon des années 2020. Ses techniques, samples, percussions programmées et basses électroniques, descendent du Wrecketeng dominicain de la fin des années 1990. Voir <a href=\"/new-bouyon.html\">New Bouyon</a>.",
+  ),
+  (
+    "Quel est le lien entre le Wrecketeng et le bouyon moderne ?",
+    "Le Wrecketeng, style dominicain bâti sur des mélodies samplées et des voix rap, est cité par les producteurs actuels comme une racine du bouyon moderne. Il a installé une logique de transformation : la mélodie peut venir d'ailleurs, mais le traitement, le tempo et la voix la rendent dominicaine. Le bouyon moderne a généralisé cette méthode, jusqu'au RnBouyon. Voir <a href=\"/wrecketeng.html\">Wrecketeng</a>.",
+  ),
+  (
+    "Qu'est-ce qu'un riddim dans le bouyon moderne ?",
+    "L'instrumental partagé sur lequel plusieurs artistes posent leurs voix. Les riddims sont au coeur de la production bouyon et portent souvent un nom, comme Tropical Riddim et Harley Riddim de Denmath. Aujourd'hui, un riddim se lance en vidéo de quinze secondes, le producteur danse dessus, puis le public réclame la version longue. Voir la page <a href=\"/bouyon-riddim.html\">bouyon riddim</a>.",
+  ),
+  (
+    "Quels titres écouter pour découvrir le bouyon moderne ?",
+    "Parmi les titres récents mis en avant sur ce site : Life Nice d'Asa Bantan, Joli BB de Reo avec Maurane Voyer, FIX UP de G'z Up, Throw Dat (Bouyon 2026) de Klass Money produit par Smokiller et Mauvais Plan de HYPNO. La sélection commentée, classiques compris, est sur la page <a href=\"/chansons-bouyon.html\">chansons bouyon</a>.",
+  ),
+  (
+    "Le remix fait-il partie du bouyon moderne ?",
+    "Oui, c'est l'un de ses moteurs. Un remix bouyon prend un hit afro, pop, rap ou R&B et le rejoue avec un tempo relevé, une boucle de clavier et des percussions dominicaines. Smokiller a ainsi retourné Nothing Into Something et Players de Coi Leray, Vulnerability de Shenseea et Heaven Baby d'Ayra Starr. Voir la page <a href=\"/remix-bouyon.html\">remix bouyon</a>.",
+  )
 ],
 "date_modified": "2026-10-20",
 },

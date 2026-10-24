@@ -72,13 +72,47 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est A-Plus Muzik ?", "A-Plus Muzik est le nom de producteur crédité sur « Without You », le titre collectif Bouyon 2025 de Nice, Reo, Trilla-G, Unstoppable Shax et Quan Dawg. C’est le seul crédit vérifié d’A-Plus Muzik dans les sources consultées, et aucune source ne précise s’il s’agit d’une personne, d’un studio ou d’un label."),
-  ("Qui chante sur « Without You », le titre produit par A-Plus Muzik ?", "La description officielle de la vidéo crédite cinq interprètes : Unstoppable Shax, Nice, Reo, Trilla-G et Quan Dawg, crédité Quan dans le corps de la description. Le titre est présenté comme Bouyon 2025, avec des liens Spotify et Apple Music dans la description."),
-  ("Qui a mixé et masterisé « Without You » ?", "Le mixage et le mastering de « Without You » sont crédités à Th3rd House Studios, selon la description officielle de la vidéo. La production est signée A-Plus Muzik et la vidéo est signée A.Nibbs : les trois rôles sont donc crédités séparément."),
-  ("A-Plus Muzik est-il le rappeur américain A-Plus ou le producteur PLUSS ?", "Non, rien ne le relie à eux. L’artiste hip hop américain A-Plus, des collectifs Hieroglyphics et Souls of Mischief, et le producteur américain PLUSS, également écrit A+, du label EarDrummers, sont des homonymes sans rapport documenté avec le bouyon ni avec « Without You ». Le producteur de ce profil est identifié uniquement par le crédit A-Plus Muzik et le pseudo @aplusmuzik1 publiés sur la vidéo du titre."),
-  ("Connaît-on le nom réel et l’origine d’A-Plus Muzik ?", "Non. Aucune source vérifiée consultée pour ce profil ne donne de nom réel, d’origine géographique ou de biographie pour A-Plus Muzik. Le titre qu’il a produit est dominicain et ses mots clés citent les îles Vierges américaines, mais l’origine du producteur lui même n’est pas établie, et ce site ne l’invente pas."),
-  ("Quels autres titres A-Plus Muzik a-t-il produits ?", "Aucun autre titre n’a été retrouvé dans les sources consultées : « Without You » est, à ce jour, la seule production publiquement documentée et vérifiable sous le nom A-Plus Muzik. Si d’autres crédits sont publiés, ce profil sera complété avec leurs sources.")
- ],
+  (
+    "Qui est A-Plus Muzik ?",
+    "A-Plus Muzik est le nom de producteur crédité sur « Without You », le titre collectif Bouyon 2025 de Nice, Reo, Trilla-G, Unstoppable Shax et Quan Dawg. C’est le seul crédit vérifié d’A-Plus Muzik dans les sources consultées, et aucune source ne précise s’il s’agit d’une personne, d’un studio ou d’un label.",
+  ),
+  (
+    "Qui chante sur « Without You », le titre produit par A-Plus Muzik ?",
+    "La description officielle de la vidéo crédite cinq interprètes : Unstoppable Shax, Nice, Reo, Trilla-G et Quan Dawg, crédité Quan dans le corps de la description. Le titre est présenté comme Bouyon 2025, avec des liens Spotify et Apple Music dans la description.",
+  ),
+  (
+    "Qui a mixé et masterisé « Without You » ?",
+    "Le mixage et le mastering de « Without You » sont crédités à Th3rd House Studios, selon la description officielle de la vidéo. La production est signée A-Plus Muzik et la vidéo est signée A.Nibbs : les trois rôles sont donc crédités séparément.",
+  ),
+  (
+    "A-Plus Muzik est-il le rappeur américain A-Plus ou le producteur PLUSS ?",
+    "Non, rien ne le relie à eux. L’artiste hip hop américain A-Plus, des collectifs Hieroglyphics et Souls of Mischief, et le producteur américain PLUSS, également écrit A+, du label EarDrummers, sont des homonymes sans rapport documenté avec le bouyon ni avec « Without You ». Le producteur de ce profil est identifié uniquement par le crédit A-Plus Muzik et le pseudo @aplusmuzik1 publiés sur la vidéo du titre.",
+  ),
+  (
+    "Connaît-on le nom réel et l’origine d’A-Plus Muzik ?",
+    "Non. Aucune source vérifiée consultée pour ce profil ne donne de nom réel, d’origine géographique ou de biographie pour A-Plus Muzik. Le titre qu’il a produit est dominicain et ses mots clés citent les îles Vierges américaines, mais l’origine du producteur lui même n’est pas établie, et ce site ne l’invente pas.",
+  ),
+  (
+    "Quels autres titres A-Plus Muzik a-t-il produits ?",
+    "Aucun autre titre n’a été retrouvé dans les sources consultées : « Without You » est, à ce jour, la seule production publiquement documentée et vérifiable sous le nom A-Plus Muzik. Si d’autres crédits sont publiés, ce profil sera complété avec leurs sources.",
+  ),
+  (
+    "Comment s’écrit le nom A-Plus Muzik ?",
+    "Le crédit publié s’écrit A-Plus Muzik : un trait d’union, un s à Plus et un k à Muzik, suivi du pseudo @aplusmuzik1, dans la description officielle de la vidéo « Without You ». C’est la seule ancre fiable pour ce producteur. Les formes voisines, A-Plus, A Plus ou A+, renvoient souvent à d’autres artistes dans les moteurs de recherche, et rien ne les relie à ce crédit.",
+  ),
+  (
+    "« Without You » est-il un titre de la Dominique ou des îles Vierges ?",
+    "Les deux rives y sont présentes. Nice, <a href=\"/reo.html\">Reo</a> et Trilla-G appartiennent à la génération dominicaine documentée sur ce site, tandis que Quan est crédité avec le pseudo @quandawg_vi et que les mots-clés de la vidéo citent usvi et virgin islands. Ce site présente donc « Without You » comme un titre dominicain qui regarde aussi vers les îles Vierges américaines, sans attribuer d’origine à chaque interprète.",
+  ),
+  (
+    "Où écouter « Without You », produit par A-Plus Muzik ?",
+    "La description officielle de la vidéo renvoie vers Spotify et Apple Music. Le titre a aussi circulé dans les mixes de la saison : il figure dans la liste du Bouyon Mix 2025 Part 2 de Blaqrose Supreme et dans celle du mix Factory de DJWillyWonka, aux côtés de titres de Signal Band. Pour le contexte, notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> replace les titres collectifs de 2025 au milieu du genre actuel.",
+  ),
+  (
+    "Les interprètes de « Without You » jouent-ils au World Creole Music Festival 2026 ?",
+    "Deux d’entre eux, oui. Selon les guides publiés du festival, la nuit de clôture du World Creole Music Festival de Roseau, le dimanche 25 octobre 2026, réunit notamment Shelly et The Signal Band, Unstoppable Shax, <a href=\"/nice.html\">Nice</a> et DJ Taffy. Le producteur A-Plus Muzik, lui, n’apparaît sur aucune affiche relevée, comme c’est souvent le cas pour les producteurs, présents dans les génériques et absents des programmes.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/a-plus-musik.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/a-plus-musik.html#artist", "name": "A-Plus Muzik", "description": "Nom de producteur bouyon crédité sur Without You, le titre collectif Bouyon 2025 de Nice, Reo, Trilla-G, Unstoppable Shax et Quan Dawg. Aucun autre crédit, nom réel ou origine n’est vérifié à ce jour.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Without You"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -150,13 +184,47 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is A-Plus Muzik?", "A-Plus Muzik is the producer name credited on “Without You”, the Bouyon 2025 collective record by Nice, Reo, Trilla-G, Unstoppable Shax and Quan Dawg. It is the only verified credit of A-Plus Muzik in the sources consulted, and no source states whether it is a person, a studio or a label."),
-  ("Who sings on “Without You”, the record produced by A-Plus Muzik?", "The official video description credits five performers: Unstoppable Shax, Nice, Reo, Trilla-G and Quan Dawg, credited as Quan in the body of the description. The record is presented as Bouyon 2025, with Spotify and Apple Music links in the description."),
-  ("Who mixed and mastered “Without You”?", "Mixing and mastering on “Without You” are credited to Th3rd House Studios, according to the official video description. Production is signed A-Plus Muzik and the video is by A.Nibbs: the three roles are therefore credited separately."),
-  ("Is A-Plus Muzik the American rapper A-Plus or the producer PLUSS?", "No, nothing connects him to them. The American hip hop artist A-Plus, of the Hieroglyphics and Souls of Mischief collectives, and the American producer PLUSS, also written A+, of the EarDrummers label, are namesakes with no documented link to bouyon or to “Without You”. The producer in this profile is identified only by the A-Plus Muzik credit and the @aplusmuzik1 handle published on the record video."),
-  ("Do we know the real name and origin of A-Plus Muzik?", "No. No verified source consulted for this profile gives a real name, a geographical origin or a biography for A-Plus Muzik. The record he produced is Dominican and its keywords cite the US Virgin Islands, but the origin of the producer himself is not established, and this site does not invent it."),
-  ("Which other records has A-Plus Muzik produced?", "No other record was found in the sources consulted: “Without You” is, to date, the only publicly documented and verifiable production under the name A-Plus Muzik. If further credits are published, this profile will be completed with their sources.")
- ],
+  (
+    "Who is A-Plus Muzik?",
+    "A-Plus Muzik is the producer name credited on “Without You”, the Bouyon 2025 collective record by Nice, Reo, Trilla-G, Unstoppable Shax and Quan Dawg. It is the only verified credit of A-Plus Muzik in the sources consulted, and no source states whether it is a person, a studio or a label.",
+  ),
+  (
+    "Who sings on “Without You”, the record produced by A-Plus Muzik?",
+    "The official video description credits five performers: Unstoppable Shax, Nice, Reo, Trilla-G and Quan Dawg, credited as Quan in the body of the description. The record is presented as Bouyon 2025, with Spotify and Apple Music links in the description.",
+  ),
+  (
+    "Who mixed and mastered “Without You”?",
+    "Mixing and mastering on “Without You” are credited to Th3rd House Studios, according to the official video description. Production is signed A-Plus Muzik and the video is by A.Nibbs: the three roles are therefore credited separately.",
+  ),
+  (
+    "Is A-Plus Muzik the American rapper A-Plus or the producer PLUSS?",
+    "No, nothing connects him to them. The American hip hop artist A-Plus, of the Hieroglyphics and Souls of Mischief collectives, and the American producer PLUSS, also written A+, of the EarDrummers label, are namesakes with no documented link to bouyon or to “Without You”. The producer in this profile is identified only by the A-Plus Muzik credit and the @aplusmuzik1 handle published on the record video.",
+  ),
+  (
+    "Do we know the real name and origin of A-Plus Muzik?",
+    "No. No verified source consulted for this profile gives a real name, a geographical origin or a biography for A-Plus Muzik. The record he produced is Dominican and its keywords cite the US Virgin Islands, but the origin of the producer himself is not established, and this site does not invent it.",
+  ),
+  (
+    "Which other records has A-Plus Muzik produced?",
+    "No other record was found in the sources consulted: “Without You” is, to date, the only publicly documented and verifiable production under the name A-Plus Muzik. If further credits are published, this profile will be completed with their sources.",
+  ),
+  (
+    "How is the name A-Plus Muzik spelled?",
+    "The published credit reads A-Plus Muzik: a hyphen, an s in Plus and a k in Muzik, followed by the handle @aplusmuzik1, in the official description of the “Without You” video. It is the only reliable anchor for this producer. Nearby forms, A-Plus, A Plus or A+, often lead to other artists in search engines, and nothing links them to this credit.",
+  ),
+  (
+    "Is “Without You” a track from Dominica or from the Virgin Islands?",
+    "Both shores are present. Nice, <a href=\"/en/reo.html\">Reo</a> and Trilla-G belong to the Dominican generation documented on this site, while Quan is credited with the handle @quandawg_vi and the video keywords cite usvi and virgin islands. This site therefore presents “Without You” as a Dominican track that also looks toward the US Virgin Islands, without assigning an origin to each performer.",
+  ),
+  (
+    "Where can I hear “Without You”, produced by A-Plus Muzik?",
+    "The official video description links to Spotify and Apple Music. The track also travelled through the season’s mixes: it appears in the tracklist of the Blaqrose Supreme Bouyon Mix 2025 Part 2 and in that of the DJWillyWonka Factory mix, alongside Signal Band tracks. For context, our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> places the 2025 collective tracks inside today’s genre.",
+  ),
+  (
+    "Do the “Without You” performers play the World Creole Music Festival 2026?",
+    "Two of them do. According to the published festival guides, the closing night of the World Creole Music Festival in Roseau, on Sunday 25 October 2026, brings together Shelly and The Signal Band, Unstoppable Shax, <a href=\"/en/nice.html\">Nice</a> and DJ Taffy, among others. The producer A-Plus Muzik appears on no bill found, as is often the case for producers, present in the credits and absent from the line-ups.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/a-plus-musik.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/a-plus-musik.html#artist", "name": "A-Plus Muzik", "description": "Bouyon producer name credited on Without You, the Bouyon 2025 collective record by Nice, Reo, Trilla-G, Unstoppable Shax and Quan Dawg. No other credit, real name or origin is verified to date.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Without You"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

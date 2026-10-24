@@ -45,7 +45,7 @@ FR = {
    [
     "Deux noms reviennent dans presque toutes les fiches de Miky Ding La : Pandemuzik et la famille UpFull. Pandemuzik est le label de ses sorties récentes. Shazam crédite Pandemuzik comme producteur de « En La », comme label de « Manm'zel La » en 2024, de « Kichta » en 2025 et de l album de 2026. Le clip de rue de « Vin Di Mwen », réalisé par TTB Productionz avec un enregistrement et un mastering de Ludosmizik, indique Production : Pandemuzik, et donne le contact presse et booking chez Pandemuzik. L artiste et le label travaillent donc en continu, du clip au disque.",
     "UpFull apparaît sous plusieurs formes, et il faut les distinguer proprement. « Pervers Mixtape, Vol. 1 » sort en 2021 chez Up Full Media Group selon Shazam. L EP « IN REAL LIFE » sort le 28 mars 2025 chez UpFull Music selon Shazam. Et l album « MDL Acte 1 » de 2026 porte chez Deezer la mention Distribution UpFull Music, aux côtés de Pandemuzik. Autrement dit, le même réseau produit, édite et distribue l artiste depuis ses débuts documentés : une fidélité rare, et une explication de la cohérence de son catalogue.",
-    "C est aussi ce réseau partagé qui explique l orbite Miimii KDS. <a href=\"/miimii-kds.html\">Miimii KDS</a>, la chanteuse de Sainte-Rose révélée par « Sé Miimii », publie elle aussi dans l orbite Pandemuzik et UpFull. Les plateformes mélangent alors les catalogues voisins dans leurs pages de recommandations et leurs listes de sorties : c est ainsi que l album de Miky Ding La se retrouve affiché à l intérieur de la page artiste de Miimii KDS chez Deezer, et son titre « ON DOZ » dans la discographie associée chez Qobuz. Un lecteur pressé peut croire à un titre de Miimii KDS. Les crédits, eux, sont formels, et la section suivante les lit en détail.",
+    "C est aussi ce réseau partagé qui explique l orbite Miimii KDS. <a href=\"/miimii-kds.html\">Miimii KDS</a>, la chanteuse guadeloupéenne révélée par « Sé Miimii », publie elle aussi dans l orbite Pandemuzik et UpFull. Les plateformes mélangent alors les catalogues voisins dans leurs pages de recommandations et leurs listes de sorties : c est ainsi que l album de Miky Ding La se retrouve affiché à l intérieur de la page artiste de Miimii KDS chez Deezer, et son titre « ON DOZ » dans la discographie associée chez Qobuz. Un lecteur pressé peut croire à un titre de Miimii KDS. Les crédits, eux, sont formels, et la section suivante les lit en détail.",
     "Le troisième pôle du réseau est le producteur 1T1. En 2023, 1T1 publie « Sa Dou » avec Miky Ding La et Shanika en featuring. La fiche Deezer donne une durée de 02:47, un copyright 2023 au nom de 1T1, et des auteurs partagés : Terry Baptiste, Miky Dingla et Shanika. Le clip précise le dispositif complet : compositeur 1T1 Prod, enregistrement au Voodoo Studio, réalisation Andy.G Visual. Ce featuring place Miky Ding La dans le cercle des voix que les producteurs bouyon de Guadeloupe appellent sur leurs titres, un cercle que notre site documente artiste par artiste."
    ]
   ],
@@ -78,13 +78,63 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Miky Ding La ?", "Miky Ding La est un chanteur de Guadeloupe, présenté par Viberate comme un artiste reggae et dancehall, dont le catalogue publié entre chez Pandemuzik et UpFull Music le place aussi dans le bouyon. Les plateformes le créditent comme auteur de ses titres sous le nom ADEQUILOM Mike, aussi écrit Mike Adequilom."),
-  ("ON DOZ est il un titre de Miimii KDS ou de Miky Ding La ?", "De Miky Ding La, selon les deux plateformes qui publient le titre. Deezer, dans l album MDL Acte 1 daté du 13 juillet 2026, crédite ON DOZ à Miky Ding La comme artiste, à ADEQUILOM Mike comme auteur et à O'neal Chatelot et Anthony Lessueur comme compositeurs. Qobuz liste ON DOZ comme un titre de Miky Ding La, sorti chez Pandemuzik le 15 juillet 2026. Le titre circule dans l orbite de <a href=\"/miimii-kds.html\">Miimii KDS</a> parce que les deux catalogues partagent la distribution Pandemuzik et UpFull, et que les plateformes affichent les sorties voisines sur leurs pages, mais aucun crédit ne la nomme sur ce titre."),
-  ("Quel est le nom d auteur derrière Miky Ding La ?", "Les plateformes impriment ADEQUILOM Mike comme auteur de presque tous ses titres, et Deezer l écrit Mike Adequilom en toutes lettres, par exemple sur Weed tou lé jou, dont le compositeur est Christophe Democrite. Sur En La, Shazam crédite ADEQUILOM Mike à l écriture, Seagull Beats à la composition et Pandemuzik à la production."),
-  ("Quels sont les titres documentés de Miky Ding La ?", "Sur les fiches plateformes : Polygam en 2021 sur Pervers Mixtape, Vol. 1, Sa Dou avec 1T1 et Shanika en 2023, En La, Manm'zel La en 2024, Guadeloupe avec Nicy et Keros-N et La Bèl époque avec Mighty Kalimba sur l EP IN REAL LIFE en 2025, Kichta avec Keros-N en 2025, puis l album MDL Acte 1 en 2026 avec PARENTALITÉ, GID AN MWEN, BAY ADAN, VIN DI MWEN, ON DOZ et Woman."),
-  ("Sur quels labels sort la musique de Miky Ding La ?", "Principalement Pandemuzik, crédité comme producteur et label de En La, Manm'zel La, Kichta et MDL Acte 1, et la famille UpFull : Up Full Media Group pour Pervers Mixtape, Vol. 1 en 2021, UpFull Music pour l EP IN REAL LIFE en 2025 et la distribution de MDL Acte 1 en 2026. Son featuring Sa Dou est sorti chez 1T1 en 2023."),
-  ("Où écouter Miky Ding La ?", "Son catalogue est disponible sur Deezer, Qobuz, Shazam et les plateformes de streaming, chez Pandemuzik et UpFull Music. Commencez par ON DOZ et PARENTALITÉ, puis Sa Dou et Kichta, et suivez les sorties de la scène dans notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>.")
- ],
+  (
+    "Qui est Miky Ding La ?",
+    "Miky Ding La est un chanteur de Guadeloupe, présenté par Viberate comme un artiste reggae et dancehall, dont le catalogue publié entre chez Pandemuzik et UpFull Music le place aussi dans le bouyon. Les plateformes le créditent comme auteur de ses titres sous le nom ADEQUILOM Mike, aussi écrit Mike Adequilom.",
+  ),
+  (
+    "ON DOZ est-il un titre de Miimii KDS ou de Miky Ding La ?",
+    "Un titre de Miky Ding La, selon les deux plateformes qui le publient. Deezer, dans l'album MDL Acte 1 daté du 13 juillet 2026, crédite ON DOZ à Miky Ding La comme artiste, à ADEQUILOM Mike comme auteur et à O'neal Chatelot et Anthony Lessueur comme compositeurs, et Qobuz le liste chez Pandemuzik au 15 juillet 2026. Il circule dans l'orbite de <a href=\"/miimii-kds.html\">Miimii KDS</a> par la distribution partagée, mais aucun crédit ne la nomme.",
+  ),
+  (
+    "Quel est le nom d'auteur derrière Miky Ding La ?",
+    "Les plateformes impriment ADEQUILOM Mike comme auteur de presque tous ses titres, et Deezer l écrit Mike Adequilom en toutes lettres, par exemple sur Weed tou lé jou, dont le compositeur est Christophe Democrite. Sur En La, Shazam crédite ADEQUILOM Mike à l écriture, Seagull Beats à la composition et Pandemuzik à la production.",
+  ),
+  (
+    "Quels sont les titres documentés de Miky Ding La ?",
+    "Sur les fiches plateformes : Polygam en 2021 sur Pervers Mixtape, Vol. 1, Sa Dou avec 1T1 et Shanika en 2023, En La, Manm'zel La en 2024, Guadeloupe avec Nicy et Keros-N et La Bèl époque avec Mighty Kalimba sur l EP IN REAL LIFE en 2025, Kichta avec Keros-N en 2025, puis l album MDL Acte 1 en 2026 avec PARENTALITÉ, GID AN MWEN, BAY ADAN, VIN DI MWEN, ON DOZ et Woman.",
+  ),
+  (
+    "Sur quels labels sort la musique de Miky Ding La ?",
+    "Principalement Pandemuzik, crédité comme producteur et label de En La, Manm'zel La, Kichta et MDL Acte 1, et la famille UpFull : Up Full Media Group pour Pervers Mixtape, Vol. 1 en 2021, UpFull Music pour l EP IN REAL LIFE en 2025 et la distribution de MDL Acte 1 en 2026. Son featuring Sa Dou est sorti chez 1T1 en 2023.",
+  ),
+  (
+    "Où écouter Miky Ding La ?",
+    "Son catalogue est disponible sur Deezer, Qobuz, Shazam et les plateformes de streaming, via Pandemuzik et UpFull Music. Commencez par ON DOZ et PARENTALITÉ, puis Sa Dou avec 1T1 et Shanika, et Kichta avec Keros-N. Pour suivre ensuite les sorties de la scène guadeloupéenne, écoutez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>.",
+  ),
+  (
+    "D'où vient Miky Ding La ?",
+    "Miky Ding La vient de Guadeloupe. Viberate le présente comme un artiste de reggae et de dancehall de Guadeloupe, et ses labels, Pandemuzik et UpFull, comme ses collaborations le confirment en pratique. L'un de ses titres porte d'ailleurs le nom de l'île, « Guadeloupe », avec Nicy et Keros-N. Aucune source consultée ne précise sa commune d'origine.",
+  ),
+  (
+    "Qu'est-ce que l'album MDL Acte 1 de Miky Ding La ?",
+    "« MDL Acte 1 » est l'album de Miky Ding La daté du 13 juillet 2026 par Deezer, avec la mention Distribution UpFull Music et Pandemuzik. Son titre reprend ses initiales, MDL. Il compte six titres, « PARENTALITÉ », « GID AN MWEN », « BAY ADAN », « VIN DI MWEN », « ON DOZ » et « Woman », tous écrits par ADEQUILOM Mike, seul ou accompagné.",
+  ),
+  (
+    "Qui a produit « Sa Dou » avec Miky Ding La et Shanika ?",
+    "<a href=\"/1t1.html\">1T1</a>. « Sa Dou » sort en 2023 sous le nom de 1T1, en featuring avec Miky Ding La et Shanika, pour 02:47. Deezer crédite l'écriture et la composition à Terry Baptiste, Miky Dingla et Shanika, et le clip indique 1T1 Prod à la composition, un enregistrement au Voodoo Studio et une réalisation d'Andy.G Visual.",
+  ),
+  (
+    "Qui a écrit « PARENTALITÉ » de Miky Ding La ?",
+    "Selon Deezer, « PARENTALITÉ », le titre d'ouverture de « MDL Acte 1 », est écrit par ADEQUILOM Mike, Sébastien Julien-Emmanuel-Lurel et Lionel Sapotille, sur une composition de Ludovic Annette, et dure 03:33. Qobuz le propose aussi en single, classé World, chez Pandemuzik, daté du 15 juillet 2026.",
+  ),
+  (
+    "Miky Ding La, c'est du dancehall ou du bouyon ?",
+    "Les deux. Viberate le classe en reggae et dancehall, et ses débuts, avec « Pervers Mixtape, Vol. 1 » en 2021, relèvent du dancehall créole. Mais trois signaux indépendants le lisent aussi en bouyon : « Koke La », associé aux Bouyon Kings, le clip de « SA DOU » publié avec les mots-clés BOUYON et GWADA, et « Weed tou lé jou » dans une playlist Bouyon bass.",
+  ),
+  (
+    "Qui chante sur « Woman » de Miky Ding La ?",
+    "L'album « MDL Acte 1 » publie « Woman » sous le seul nom de Miky Ding La, sur une composition d'Ajani Pacquette et Dylan Lowe, pour 03:06. Mais les tracklists de mix bouyon et soca l'annoncent comme « Miky Ding La x Riddla x Shanika », un titre à trois voix avec <a href=\"/riddla.html\">Riddla</a> et Shanika, sa partenaire de « Sa Dou ».",
+  ),
+  (
+    "Comment s'écrit le nom de Miky Ding La ?",
+    "Le nom varie légèrement selon les pages : Miky Ding La sur la plupart des plateformes, Miky Ding'La sur Viberate, MIKY DINGLA dans les crédits de « Sa Dou », et MikyDingla pour les comptes listés sous le clip de « Vin Di Mwen ». Son album reprend ses initiales, MDL. Le nom d'auteur, lui, ne bouge pas : ADEQUILOM Mike.",
+  ),
+  (
+    "Quel est le lien entre Miky Ding La et Keros-N ?",
+    "Keros-N est l'un de ses partenaires les plus réguliers. Il chante sur « Guadeloupe », avec Nicy, sur l'EP « IN REAL LIFE » sorti le 28 mars 2025 chez UpFull Music, puis partage « Kichta », titre commun sorti le 28 juin 2025 sur la « Yo Mélé Mixtape » chez Pandemuzik. Viberate cite aussi « Traka, Remix » avec Keros-N et Nicy.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/miky-ding-la.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/miky-ding-la.html#artist", "name": "Miky Ding La", "description": "Chanteur de Guadeloupe, auteur crédité sous le nom Mike Adequilom. Artiste Pandemuzik et UpFull Music, auteur et interprète de ON DOZ et de l album MDL Acte 1 en 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "ON DOZ"}, {"@type": "MusicRecording", "name": "PARENTALITÉ"}, {"@type": "MusicRecording", "name": "GID AN MWEN"}, {"@type": "MusicRecording", "name": "BAY ADAN"}, {"@type": "MusicRecording", "name": "VIN DI MWEN"}, {"@type": "MusicRecording", "name": "Woman"}, {"@type": "MusicRecording", "name": "Guadeloupe"}, {"@type": "MusicRecording", "name": "La Bèl époque"}, {"@type": "MusicRecording", "name": "Manm'zel La"}, {"@type": "MusicRecording", "name": "En La"}, {"@type": "MusicRecording", "name": "Kichta"}, {"@type": "MusicRecording", "name": "Sa Dou"}, {"@type": "MusicRecording", "name": "Weed tou lé jou"}, {"@type": "MusicRecording", "name": "Polygam"},
       {
        "@type": "MusicRecording",
@@ -520,7 +570,7 @@ EN = {
    [
     "Two names come back in almost every Miky Ding La listing: Pandemuzik and the UpFull family. Pandemuzik is the label of his recent releases. Shazam credits Pandemuzik as producer of “En La”, as the label of “Manm'zel La” in 2024, of “Kichta” in 2025 and of the 2026 album. The street clip for “Vin Di Mwen”, directed by TTB Productionz with recording and mastering by Ludosmizik, states Production: Pandemuzik, and gives the press and booking contact at Pandemuzik. Artist and label therefore work continuously, from video to record.",
     "UpFull appears in several forms, and they need to be told apart properly. “Pervers Mixtape, Vol. 1” came out in 2021 on Up Full Media Group according to Shazam. The “IN REAL LIFE” EP came out on 28 March 2025 on UpFull Music according to Shazam. And the 2026 album “MDL Acte 1” carries, on Deezer, the line Distribution UpFull Music, alongside Pandemuzik. In other words, the same network has produced, published and distributed the artist since his first documented releases: a rare loyalty, and an explanation for the coherence of his catalogue.",
-    "That shared network also explains the Miimii KDS orbit. <a href=\"/en/miimii-kds.html\">Miimii KDS</a>, the singer from Sainte-Rose revealed by “Sé Miimii”, also releases in the Pandemuzik and UpFull orbit. The platforms then blend neighbouring catalogues in their recommendation pages and new release lists: that is how Miky Ding La album ends up displayed inside the Miimii KDS artist page on Deezer, and his record “ON DOZ” inside the associated discography on Qobuz. A hurried reader can believe it is a Miimii KDS record. The credits, however, are formal, and the next section reads them in detail.",
+    "That shared network also explains the Miimii KDS orbit. <a href=\"/en/miimii-kds.html\">Miimii KDS</a>, the Guadeloupean singer revealed by “Sé Miimii”, also releases in the Pandemuzik and UpFull orbit. The platforms then blend neighbouring catalogues in their recommendation pages and new release lists: that is how Miky Ding La album ends up displayed inside the Miimii KDS artist page on Deezer, and his record “ON DOZ” inside the associated discography on Qobuz. A hurried reader can believe it is a Miimii KDS record. The credits, however, are formal, and the next section reads them in detail.",
     "The third pole of the network is the producer 1T1. In 2023, 1T1 released “Sa Dou” featuring Miky Ding La and Shanika. The Deezer listing gives a duration of 02:47, a 2023 copyright in the name of 1T1, and shared writers: Terry Baptiste, Miky Dingla and Shanika. The video completes the picture: composer 1T1 Prod, recording at Voodoo Studio, direction by Andy.G Visual. That feature places Miky Ding La inside the circle of voices that Guadeloupe bouyon producers call onto their records, a circle this site documents artist by artist."
    ]
   ],
@@ -553,13 +603,63 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Miky Ding La?", "Miky Ding La is a singer from Guadeloupe, presented by Viberate as a reggae and dancehall artist, whose catalogue released through Pandemuzik and UpFull Music also places him inside bouyon. The platforms credit him as the writer of his records under the name ADEQUILOM Mike, also spelled Mike Adequilom."),
-  ("Is ON DOZ a Miimii KDS record or a Miky Ding La record?", "A Miky Ding La record, according to both platforms that publish it. Deezer, in the MDL Acte 1 album dated 13 July 2026, credits ON DOZ to Miky Ding La as artist, to ADEQUILOM Mike as writer and to O'neal Chatelot and Anthony Lessueur as composers. Qobuz lists ON DOZ as a Miky Ding La record, released on Pandemuzik on 15 July 2026. The record travels in the orbit of <a href=\"/en/miimii-kds.html\">Miimii KDS</a> because the two catalogues share the Pandemuzik and UpFull distribution, and because the platforms display neighbouring releases on their pages, but no credit names her on this record."),
-  ("What is the writer name behind Miky Ding La?", "The platforms print ADEQUILOM Mike as the writer of almost all his records, and Deezer spells it Mike Adequilom in full, for example on Weed tou lé jou, whose composer is Christophe Democrite. On En La, Shazam credits ADEQUILOM Mike with the writing, Seagull Beats with the composition and Pandemuzik with the production."),
-  ("Which Miky Ding La records are documented?", "From the platform listings: Polygam in 2021 on Pervers Mixtape, Vol. 1, Sa Dou with 1T1 and Shanika in 2023, En La, Manm'zel La in 2024, Guadeloupe with Nicy and Keros-N and La Bèl époque with Mighty Kalimba on the IN REAL LIFE EP in 2025, Kichta with Keros-N in 2025, then the MDL Acte 1 album in 2026 with PARENTALITÉ, GID AN MWEN, BAY ADAN, VIN DI MWEN, ON DOZ and Woman."),
-  ("On which labels is Miky Ding La music released?", "Mainly Pandemuzik, credited as producer and label of En La, Manm'zel La, Kichta and MDL Acte 1, and the UpFull family: Up Full Media Group for Pervers Mixtape, Vol. 1 in 2021, UpFull Music for the IN REAL LIFE EP in 2025 and the distribution of MDL Acte 1 in 2026. His feature Sa Dou was released under 1T1 in 2023."),
-  ("Where can I hear Miky Ding La?", "His catalogue is available on Deezer, Qobuz, Shazam and the streaming platforms, through Pandemuzik and UpFull Music. Start with ON DOZ and PARENTALITÉ, then Sa Dou and Kichta, and follow the scene releases in our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>.")
- ],
+  (
+    "Who is Miky Ding La?",
+    "Miky Ding La is a singer from Guadeloupe, presented by Viberate as a reggae and dancehall artist, whose catalogue released through Pandemuzik and UpFull Music also places him inside bouyon. The platforms credit him as the writer of his records under the name ADEQUILOM Mike, also spelled Mike Adequilom.",
+  ),
+  (
+    "Is ON DOZ a Miimii KDS record or a Miky Ding La record?",
+    "A Miky Ding La record, according to both platforms that publish it. Deezer, in the MDL Acte 1 album dated 13 July 2026, credits ON DOZ to Miky Ding La as artist, to ADEQUILOM Mike as writer and to O'neal Chatelot and Anthony Lessueur as composers, and Qobuz lists it on Pandemuzik on 15 July 2026. It travels in the orbit of <a href=\"/en/miimii-kds.html\">Miimii KDS</a> through the shared distribution, but no credit names her.",
+  ),
+  (
+    "What is the writer name behind Miky Ding La?",
+    "The platforms print ADEQUILOM Mike as the writer of almost all his records, and Deezer spells it Mike Adequilom in full, for example on Weed tou lé jou, whose composer is Christophe Democrite. On En La, Shazam credits ADEQUILOM Mike with the writing, Seagull Beats with the composition and Pandemuzik with the production.",
+  ),
+  (
+    "Which Miky Ding La records are documented?",
+    "From the platform listings: Polygam in 2021 on Pervers Mixtape, Vol. 1, Sa Dou with 1T1 and Shanika in 2023, En La, Manm'zel La in 2024, Guadeloupe with Nicy and Keros-N and La Bèl époque with Mighty Kalimba on the IN REAL LIFE EP in 2025, Kichta with Keros-N in 2025, then the MDL Acte 1 album in 2026 with PARENTALITÉ, GID AN MWEN, BAY ADAN, VIN DI MWEN, ON DOZ and Woman.",
+  ),
+  (
+    "On which labels is Miky Ding La's music released?",
+    "Mainly Pandemuzik, credited as producer and label of En La, Manm'zel La, Kichta and MDL Acte 1, and the UpFull family: Up Full Media Group for Pervers Mixtape, Vol. 1 in 2021, UpFull Music for the IN REAL LIFE EP in 2025 and the distribution of MDL Acte 1 in 2026. His feature Sa Dou was released under 1T1 in 2023.",
+  ),
+  (
+    "Where can I hear Miky Ding La?",
+    "His catalogue is available on Deezer, Qobuz, Shazam and the streaming platforms, through Pandemuzik and UpFull Music. Start with ON DOZ and PARENTALITÉ, then Sa Dou with 1T1 and Shanika, and Kichta with Keros-N. To follow the Guadeloupe scene releases after that, play our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>.",
+  ),
+  (
+    "Where is Miky Ding La from?",
+    "Miky Ding La is from Guadeloupe. Viberate presents him as a reggae and dancehall artist from Guadeloupe, and his labels, Pandemuzik and UpFull, as well as his collaborations, confirm it in practice. One of his records is even named after the island, “Guadeloupe”, with Nicy and Keros-N. No source consulted gives his home commune.",
+  ),
+  (
+    "What is Miky Ding La's album MDL Acte 1?",
+    "“MDL Acte 1” is the Miky Ding La album dated 13 July 2026 by Deezer, with the line Distribution UpFull Music and Pandemuzik. Its title takes his initials, MDL. It holds six tracks, “PARENTALITÉ”, “GID AN MWEN”, “BAY ADAN”, “VIN DI MWEN”, “ON DOZ” and “Woman”, all written by ADEQUILOM Mike, alone or with others.",
+  ),
+  (
+    "Who produced “Sa Dou” with Miky Ding La and Shanika?",
+    "<a href=\"/en/1t1.html\">1T1</a>. “Sa Dou” came out in 2023 under the name of 1T1, featuring Miky Ding La and Shanika, running 02:47. Deezer credits the writing and composition to Terry Baptiste, Miky Dingla and Shanika, and the video names 1T1 Prod as composer, a recording at Voodoo Studio and direction by Andy.G Visual.",
+  ),
+  (
+    "Who wrote “PARENTALITÉ” by Miky Ding La?",
+    "According to Deezer, “PARENTALITÉ”, the opening track of “MDL Acte 1”, is written by ADEQUILOM Mike, Sébastien Julien-Emmanuel-Lurel and Lionel Sapotille, over a composition by Ludovic Annette, and runs 03:33. Qobuz also offers it as a single, filed under World, on Pandemuzik, dated 15 July 2026.",
+  ),
+  (
+    "Is Miky Ding La dancehall or bouyon?",
+    "Both. Viberate files him under reggae and dancehall, and his start, with “Pervers Mixtape, Vol. 1” in 2021, is Creole dancehall. But three independent signals also read him as bouyon: “Koke La”, associated with the Bouyon Kings, the “SA DOU” video published with the keywords BOUYON and GWADA, and “Weed tou lé jou” inside a Bouyon bass playlist.",
+  ),
+  (
+    "Who sings on “Woman” by Miky Ding La?",
+    "The album “MDL Acte 1” publishes “Woman” under the single name of Miky Ding La, over a composition by Ajani Pacquette and Dylan Lowe, running 03:06. But bouyon and soca mix tracklists bill it as “Miky Ding La x Riddla x Shanika”, a three voice record with <a href=\"/en/riddla.html\">Riddla</a> and Shanika, his “Sa Dou” partner.",
+  ),
+  (
+    "How is Miky Ding La's name spelled?",
+    "The name varies slightly from page to page: Miky Ding La on most platforms, Miky Ding'La on Viberate, MIKY DINGLA in the “Sa Dou” credits, and MikyDingla for the accounts listed under the “Vin Di Mwen” video. His album takes his initials, MDL. The writer name, however, does not move: ADEQUILOM Mike.",
+  ),
+  (
+    "What is the link between Miky Ding La and Keros-N?",
+    "Keros-N is one of his most regular partners. He sings on “Guadeloupe”, with Nicy, on the “IN REAL LIFE” EP released on 28 March 2025 on UpFull Music, then shares “Kichta”, a joint record released on 28 June 2025 on the “Yo Mélé Mixtape” on Pandemuzik. Viberate also lists “Traka, Remix” with Keros-N and Nicy.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/miky-ding-la.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/miky-ding-la.html#artist", "name": "Miky Ding La", "description": "Singer from Guadeloupe, credited as a writer under the name Mike Adequilom. Pandemuzik and UpFull Music artist, writer and performer of ON DOZ and of the MDL Acte 1 album in 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "ON DOZ"}, {"@type": "MusicRecording", "name": "PARENTALITÉ"}, {"@type": "MusicRecording", "name": "GID AN MWEN"}, {"@type": "MusicRecording", "name": "BAY ADAN"}, {"@type": "MusicRecording", "name": "VIN DI MWEN"}, {"@type": "MusicRecording", "name": "Woman"}, {"@type": "MusicRecording", "name": "Guadeloupe"}, {"@type": "MusicRecording", "name": "La Bèl époque"}, {"@type": "MusicRecording", "name": "Manm'zel La"}, {"@type": "MusicRecording", "name": "En La"}, {"@type": "MusicRecording", "name": "Kichta"}, {"@type": "MusicRecording", "name": "Sa Dou"}, {"@type": "MusicRecording", "name": "Weed tou lé jou"}, {"@type": "MusicRecording", "name": "Polygam"},
       {
        "@type": "MusicRecording",

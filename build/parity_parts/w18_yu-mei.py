@@ -77,13 +77,67 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Yu Meï ?", "Yu Meï, aussi écrite Yumei, est une chanteuse de bouyon de la scène guadeloupéenne, membre du duo Ultimes Pétasses. Les crédits publiés de ses titres nomment Emmanuelle Titine comme autrice, et la fiche de « Leakey » la crédite au chant. France-Antilles la présente en octobre 2026 comme une chanteuse de bouyon de 29 ans. Son catalogue publié court de « Eat Up » en 2020 à des crédits d’écriture en 2025."),
-  ("Quels sont les titres de Yu Meï ?", "Ses singles publiés sont « Eat Up » (13 juillet 2020), « Pine Up » (19 septembre 2020, ressorti avec Lambi en featuring le 29 avril 2023), « Dife Kako » (9 novembre 2021), « Leakey » (14 janvier 2022), « Youpi Ya » avec Anonymous G (29 mars 2023), « X » (3 avril 2024) et « 10 sur 10 » (24 avril 2024). S’y ajoutent « Laisse-moi passer » avec la Team Bwè Tou Sa et le featuring « PLAN A 3 » de Yellow Gaza, sorti le 7 septembre 2024."),
-  ("Yu Meï et Yumei, est-ce la même artiste ?", "Oui. Yu Meï est la graphie de ses propres singles, Yumei celle du single « PLAN A 3 » de Yellow Gaza et des podcasts qui l’ont reçue, et YU MEI celle du clip de la Team Bwè Tou Sa. Les crédits relient les formes : le même nom d’autrice, Emmanuelle Titine, paraît sur ses titres solo comme, inversé en Titine Emmanuelle, parmi les autrices de « PLAN A 3 »."),
-  ("C’est quoi, les Ultimes Pétasses ?", "C’est le nom collectif auquel Yu Meï est associée dès ses premiers titres. Le podcast Faya crédite « Eat Up » et « Pine Up » sous la forme Ultimes Pétasses et Yu Meï et la reçoit comme invitée sous ce nom, Le Mwakast intitule son épisode de mai 2023 « YUMEI : Ultime P*tasse », et notre page sur le document Faya la décrit comme membre du duo Ultimes Pétasses. Le nom des autres membres n’a pas été retrouvé dans les sources consultées."),
-  ("Yu Meï écrit-elle pour d’autres artistes ?", "Oui, selon les crédits publiés. Emmanuelle Titine coécrit « SHAKE iT! » de Shani Da Flava, sorti le 3 septembre 2025 chez SIDESHOW et repris sur l’album « TRAP SUCRÉE! », avec Shannon Lobel Abes. Yu Meï est aussi créditée à l’écriture et à la composition de « 7 sur 7 » de Ricky Bishop, sur le projet « #newbouyonexperience » paru le 25 mai 2025. Sur ses propres singles, elle est l’autrice créditée de presque tous les titres."),
-  ("Pourquoi Yu Meï a-t-elle pris la parole dans la presse en octobre 2026 ?", "Parce que plusieurs vidéos intimes la concernant ont été diffusées sans son consentement. Dans l’entretien publié par France-Antilles le 5 octobre 2026, elle dit avoir signalé les faits et saisi les autorités compétentes, rappelle que transférer un tel contenu sans accord engage la responsabilité de celui qui le fait, invite les victimes de faits similaires à conserver les preuves et à se rapprocher des autorités, et refuse que cette affaire définisse la femme et l’artiste qu’elle est.")
- ],
+  (
+    "Qui est Yu Meï ?",
+    "Yu Meï, aussi écrite Yumei, est une chanteuse de bouyon de la scène guadeloupéenne, membre du duo Ultimes Pétasses. Les crédits publiés de ses titres nomment Emmanuelle Titine comme autrice, et la fiche de « Leakey » la crédite au chant. France-Antilles la présente en octobre 2026 comme une chanteuse de bouyon de 29 ans. Son catalogue publié court de « Eat Up » en 2020 à des crédits d’écriture en 2025.",
+  ),
+  (
+    "Quels sont les titres de Yu Meï ?",
+    "Ses singles publiés sont « Eat Up » (13 juillet 2020), « Pine Up » (19 septembre 2020, ressorti avec Lambi le 29 avril 2023), « Dife Kako » (9 novembre 2021), « Leakey » (14 janvier 2022), « Youpi Ya » avec Anonymous G (29 mars 2023), « X » (3 avril 2024) et « 10 sur 10 » (24 avril 2024). S’y ajoutent « Laisse-moi passer » avec la Team Bwè Tou Sa et le featuring « PLAN A 3 » de Yellow Gaza.",
+  ),
+  (
+    "Yu Meï et Yumei, est-ce la même artiste ?",
+    "Oui. Yu Meï est la graphie de ses propres singles, Yumei celle du single « PLAN A 3 » de Yellow Gaza et des podcasts qui l’ont reçue, et YU MEI celle du clip de la Team Bwè Tou Sa. Les crédits relient les formes : le même nom d’autrice, Emmanuelle Titine, paraît sur ses titres solo comme, inversé en Titine Emmanuelle, parmi les autrices de « PLAN A 3 ».",
+  ),
+  (
+    "D’où vient Yu Meï ?",
+    "Son territoire documenté est la Guadeloupe : l’épisode guadeloupéen du podcast Faya, enregistré autour de Pointe-à-Pitre, la compte parmi ses invités de la scène locale, et son catalogue circule dans les équipes du bouyon guadeloupéen, de la Team Bwè Tou Sa à l’univers Yellow Gaza. Aucune source consultée ne publie son lieu de naissance, et ce site n’en invente aucun. Voir notre page <a href=\"/bouyon-guadeloupe.html\">bouyon en Guadeloupe</a>.",
+  ),
+  (
+    "C’est quoi, les Ultimes Pétasses ?",
+    "C’est le nom collectif auquel Yu Meï est associée dès ses premiers titres. Le podcast Faya crédite « Eat Up » et « Pine Up » sous la forme Ultimes Pétasses et Yu Meï et la reçoit sous ce nom, Le Mwakast intitule son épisode de mai 2023 « YUMEI : Ultime P*tasse », et le clip de la Team Bwè Tou Sa reprend UltimesPetasse et UPCREW dans ses mots clés. Le nom des autres membres n’a pas été retrouvé.",
+  ),
+  (
+    "Qui chante « PLAN A 3 » avec Yellow Gaza ?",
+    "Yu Meï, créditée Yumei, sur « PLAN A 3 (feat. Yu Meï) [Femmes Fatales Edition Bouyon] », sorti le 7 septembre 2024 chez Vadore Concept Groupe, en français, à 157 BPM. Shazam crédite Meyapin Bordin Allan à la composition et trois autrices, Letin Sylvia, Letin Severine et Titine Emmanuelle : Yu Meï y chante un texte qu’elle a coécrit. C’est son titre le plus exposé. Voir notre profil de <a href=\"/yellow-gaza.html\">Yellow Gaza</a>.",
+  ),
+  (
+    "Qui a produit « Leakey » de Yu Meï ?",
+    "Jordan Sapotille, selon la fiche Shazam du titre, sorti le 14 janvier 2022 chez Up World, à 146 BPM. La même fiche crédite Emmanuelle Titine au chant et à l’écriture, avec Brandon Benoist comme coauteur. Avec 1 minute 20 environ sur Deezer, c’est le titre le plus court de son catalogue, et le mieux crédité de sa première période.",
+  ),
+  (
+    "Qui compose les titres de Yu Meï ?",
+    "Les compositeurs changent d’une fiche à l’autre, autour d’une autrice stable. Jordan Sapotille compose « Eat Up » et « Dife Kako » et produit « Leakey », Jordan Ramdaya compose « Pine Up », Jordan Sapotille, Chris-Kevy Magne et Daryl Clarisse « Youpi Ya », quatre noms dont Keywan Nerplat composent « X », et Morgan Bourgeois « 10 sur 10 ». L’écriture, elle, revient presque toujours à Emmanuelle Titine.",
+  ),
+  (
+    "Qu’est-ce que « Laisse-moi passer » de la Team Bwè Tou Sa et Yu Meï ?",
+    "Un titre crédité à T-BTS avec YU MEI en featuring, présenté par son clip officiel comme un bouyon de 2021, produit par CamRich, masterisé par GAMMALAB et Fly Beu Records, avec une vidéo de Dylan Farah. Deezer le liste au 31 octobre 2024, avec cinq noms en écriture et composition, dont Emmanuelle Titine. Voir la page de la <a href=\"/team-bwe-tou-sa.html\">Team Bwè Tou Sa</a>.",
+  ),
+  (
+    "Sur quel label sort Yu Meï ?",
+    "Ses singles solo sortent chez Up World, que les fiches écrivent aussi Upfull Music ou Up Full Music selon les dates, comme « Leakey », « X » et « 10 sur 10 ». Son featuring sur « PLAN A 3 » paraît en revanche chez Vadore Concept Groupe, la maison de Yellow Gaza. Les rééditions récentes portent des lignes de copyright datées de 2025 chez Up World, mais les dates de sortie d’origine restent celles de 2020 à 2024.",
+  ),
+  (
+    "Quel bouyon chante Yu Meï ?",
+    "Le bouyon gwada rapide et cru de sa génération : des titres courts, souvent sous les trois minutes, pensés pour les soirées et les réseaux, chantés en créole antillais mêlé de français, comme le montrent les paroles publiées de « Pine Up ». Le podcast Faya décrit ce bouyon guadeloupéen comme une musique très rapide aux paroles sans détour, faite comme un exutoire pour la jeunesse des soirées.",
+  ),
+  (
+    "Dans quels podcasts Yu Meï est-elle passée ?",
+    "Dans deux podcasts au moins. Le Mwakast, consacré à la culture antillaise, la reçoit le 23 mai 2023 comme « la chanteuse de Bouyon Yumei ». Faya, le podcast de Renaud Brizard, la reçoit dans son épisode « Voicenotes from Guadeloupe : le bouyon », aux côtés de Le Cok Sportif, DJ Beaw, Tytys et Doc J, et referme sa tracklist sur « Eat Up », « Pine Up » et « Laisse-moi passer ».",
+  ),
+  (
+    "Yu Meï écrit-elle pour d’autres artistes ?",
+    "Oui, selon les crédits publiés. Emmanuelle Titine coécrit « SHAKE iT! » de Shani Da Flava, sorti le 3 septembre 2025 chez SIDESHOW et repris sur l’album « TRAP SUCRÉE! ». Yu Meï est aussi créditée à l’écriture et à la composition de « 7 sur 7 » de Ricky Bishop, sur le projet « #newbouyonexperience » paru le 25 mai 2025. Voir le profil de <a href=\"/ricky-bishop.html\">Ricky Bishop</a>.",
+  ),
+  (
+    "Pourquoi Yu Meï a-t-elle pris la parole dans la presse en octobre 2026 ?",
+    "Parce que plusieurs vidéos intimes la concernant ont été diffusées sans son consentement. Dans l’entretien publié par France-Antilles le 5 octobre 2026, elle dit avoir signalé les faits et saisi les autorités compétentes, invite les victimes de faits similaires à conserver les preuves et à se rapprocher des autorités, et refuse que cette affaire définisse la femme et l’artiste qu’elle est.",
+  ),
+  (
+    "Où écouter Yu Meï ?",
+    "Sa page d’artiste Deezer rassemble ses singles. Commencez par « Eat Up » et « Pine Up », le point de départ des Ultimes Pétasses, puis « Leakey », « X » et « 10 sur 10 », et le featuring « PLAN A 3 » avec Yellow Gaza. Pour la scène bouyon actuelle, de la Dominique à la Guadeloupe, notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> Road Mix de Bouyon Shattaz réunit nouveautés et classiques.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/yu-mei.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/yu-mei.html#artist", "name": "Yu Meï", "alternateName": "Yumei", "description": "Chanteuse de bouyon de la scène guadeloupéenne, membre du duo Ultimes Pétasses. Crédits publiés sous le nom d’autrice Emmanuelle Titine, de Eat Up en 2020 au featuring PLAN A 3 avec Yellow Gaza en 2024, et comme autrice pour Shani Da Flava et Ricky Bishop en 2025.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Eat Up"}, {"@type": "MusicRecording", "name": "Pine Up"}, {"@type": "MusicRecording", "name": "Dife Kako"}, {"@type": "MusicRecording", "name": "Leakey"}, {"@type": "MusicRecording", "name": "Youpi Ya (feat. Anonymous G)"}, {"@type": "MusicRecording", "name": "X"}, {"@type": "MusicRecording", "name": "10 sur 10"}, {"@type": "MusicRecording", "name": "Laisse moi passer"}, {"@type": "MusicRecording", "name": "PLAN A 3 (feat. Yu Meï) [Femmes Fatales Edition Bouyon]"}], "sameAs": ["https://www.deezer.com/artist/107130122"]}}],
  "date_modified": "2026-10-20"
 }
@@ -155,13 +209,67 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Yu Meï?", "Yu Meï, also printed Yumei, is a bouyon singer from the Guadeloupe scene, a member of the duo Ultimes Pétasses. The published credits of her records name Emmanuelle Titine as writer, and the “Leakey” page credits her on vocals. France-Antilles presented her in October 2026 as a 29 year old bouyon singer. Her published catalogue runs from “Eat Up” in 2020 to writing credits in 2025."),
-  ("What are Yu Meï records?", "Her published singles are “Eat Up” (July 13, 2020), “Pine Up” (September 19, 2020, reissued with Lambi featured on April 29, 2023), “Dife Kako” (November 9, 2021), “Leakey” (January 14, 2022), “Youpi Ya” with Anonymous G (March 29, 2023), “X” (April 3, 2024) and “10 sur 10” (April 24, 2024). Add “Laisse-moi passer” with Team Bwè Tou Sa and the Yellow Gaza feature “PLAN A 3”, released on September 7, 2024."),
-  ("Are Yu Meï and Yumei the same artist?", "Yes. Yu Meï is the spelling of her own singles, Yumei the spelling of the Yellow Gaza single “PLAN A 3” and of the podcasts that hosted her, and YU MEI the spelling of the Team Bwè Tou Sa clip. The credits connect the forms: the same writer name, Emmanuelle Titine, appears on her solo records and, reversed as Titine Emmanuelle, among the writers of “PLAN A 3”."),
-  ("What is Ultimes Pétasses?", "It is the collective name Yu Meï is associated with from her first records. The Faya podcast credits “Eat Up” and “Pine Up” in the form Ultimes Pétasses and Yu Meï and hosts her as a guest under that name, Le Mwakast titles its May 2023 episode “YUMEI: Ultime P*tasse”, and our page on the Faya document describes her as a member of the duo Ultimes Pétasses. The other members names were not found in the sources consulted."),
-  ("Does Yu Meï write for other artists?", "Yes, according to the published credits. Emmanuelle Titine co-writes Shani Da Flava “SHAKE iT!”, released on September 3, 2025 on SIDESHOW and included on the album “TRAP SUCRÉE!”, with Shannon Lobel Abes. Yu Meï is also credited as writer and composer of Ricky Bishop “7 sur 7”, on the project “#newbouyonexperience” released on May 25, 2025. On her own singles, she is the credited writer of nearly every record."),
-  ("Why did Yu Meï speak to the press in October 2026?", "Because several intimate videos of her were shared without her consent. In the interview published by France-Antilles on October 5, 2026, she says she reported the facts and took the matter to the competent authorities, recalls that forwarding such content without agreement engages the responsibility of the person who does it, invites victims of similar acts to keep the evidence and approach the authorities, and refuses to let the case define the woman and the artist she is.")
- ],
+  (
+    "Who is Yu Meï?",
+    "Yu Meï, also printed Yumei, is a bouyon singer from the Guadeloupe scene, a member of the duo Ultimes Pétasses. The published credits of her records name Emmanuelle Titine as writer, and the “Leakey” page credits her on vocals. France-Antilles presented her in October 2026 as a 29 year old bouyon singer. Her published catalogue runs from “Eat Up” in 2020 to writing credits in 2025.",
+  ),
+  (
+    "What are Yu Meï records?",
+    "Her published singles are “Eat Up” (July 13, 2020), “Pine Up” (September 19, 2020, reissued with Lambi on April 29, 2023), “Dife Kako” (November 9, 2021), “Leakey” (January 14, 2022), “Youpi Ya” with Anonymous G (March 29, 2023), “X” (April 3, 2024) and “10 sur 10” (April 24, 2024). Add “Laisse-moi passer” with Team Bwè Tou Sa and the Yellow Gaza feature “PLAN A 3”.",
+  ),
+  (
+    "Are Yu Meï and Yumei the same artist?",
+    "Yes. Yu Meï is the spelling of her own singles, Yumei the spelling of the Yellow Gaza single “PLAN A 3” and of the podcasts that hosted her, and YU MEI the spelling of the Team Bwè Tou Sa clip. The credits connect the forms: the same writer name, Emmanuelle Titine, appears on her solo records and, reversed as Titine Emmanuelle, among the writers of “PLAN A 3”.",
+  ),
+  (
+    "Where is Yu Meï from?",
+    "Her documented territory is Guadeloupe: the Guadeloupe episode of the Faya podcast, recorded around Pointe-à-Pitre, counts her among its guests from the local scene, and her catalogue circulates through the crews of Guadeloupe bouyon, from Team Bwè Tou Sa to the Yellow Gaza world. No source consulted publishes her birthplace, and this site invents none. See our <a href=\"/en/bouyon-guadeloupe.html\">bouyon in Guadeloupe</a> page.",
+  ),
+  (
+    "What is Ultimes Pétasses?",
+    "It is the collective name Yu Meï is associated with from her first records. The Faya podcast credits “Eat Up” and “Pine Up” in the form Ultimes Pétasses and Yu Meï and hosts her under that name, Le Mwakast titles its May 2023 episode “YUMEI: Ultime P*tasse”, and the Team Bwè Tou Sa clip carries UltimesPetasse and UPCREW in its keywords. The other members names were not found.",
+  ),
+  (
+    "Who sings “PLAN A 3” with Yellow Gaza?",
+    "Yu Meï, credited as Yumei, on “PLAN A 3 (feat. Yu Meï) [Femmes Fatales Edition Bouyon]”, released on September 7, 2024 on Vadore Concept Groupe, in French, at 157 BPM. Shazam credits Meyapin Bordin Allan as composer and three writers, Letin Sylvia, Letin Severine and Titine Emmanuelle: Yu Meï sings a text she co-wrote. It is her most exposed record. See our <a href=\"/en/yellow-gaza.html\">Yellow Gaza</a> profile.",
+  ),
+  (
+    "Who produced “Leakey” by Yu Meï?",
+    "Jordan Sapotille, according to the Shazam page of the record, released on January 14, 2022 on Up World, at 146 BPM. The same page credits Emmanuelle Titine on vocals and writing, with Brandon Benoist as co-writer. At about 1 minute 20 on Deezer, it is the shortest record of her catalogue, and the best credited of her first period.",
+  ),
+  (
+    "Who composes Yu Meï’s records?",
+    "The composers change from one listing to the next, around one stable writer. Jordan Sapotille composes “Eat Up” and “Dife Kako” and produces “Leakey”, Jordan Ramdaya composes “Pine Up”, Jordan Sapotille, Chris-Kevy Magne and Daryl Clarisse “Youpi Ya”, four names including Keywan Nerplat compose “X”, and Morgan Bourgeois “10 sur 10”. The writing almost always goes to Emmanuelle Titine.",
+  ),
+  (
+    "What is “Laisse-moi passer” by Team Bwè Tou Sa and Yu Meï?",
+    "A record credited to T-BTS featuring YU MEI, presented by its official clip as a 2021 bouyon, produced by CamRich, mastered by GAMMALAB and Fly Beu Records, with a video by Dylan Farah. Deezer lists it on October 31, 2024, with five names in writing and composition, including Emmanuelle Titine. See the <a href=\"/en/team-bwe-tou-sa.html\">Team Bwè Tou Sa</a> page.",
+  ),
+  (
+    "What label is Yu Meï on?",
+    "Her solo singles come out on Up World, which the listings also write Upfull Music or Up Full Music depending on the date, like “Leakey”, “X” and “10 sur 10”. Her “PLAN A 3” feature, on the other hand, came out on Vadore Concept Groupe, the house of Yellow Gaza. Recent reissues carry 2025 copyright lines at Up World, but the original release dates remain those of 2020 to 2024.",
+  ),
+  (
+    "What kind of bouyon does Yu Meï sing?",
+    "The fast and raw bouyon gwada of her generation: short records, often under three minutes, built for parties and social media, sung in Antillean Creole mixed with French, as the published lyrics of “Pine Up” show. The Faya podcast describes this Guadeloupe bouyon as a very fast music with blunt lyrics, made as a release valve for the party youth.",
+  ),
+  (
+    "Which podcasts has Yu Meï been on?",
+    "At least two. Le Mwakast, devoted to Antillean culture, hosted her on May 23, 2023 as “the bouyon singer Yumei”. Faya, the podcast of Renaud Brizard, hosted her in its episode “Voicenotes from Guadeloupe: le bouyon”, alongside Le Cok Sportif, DJ Beaw, Tytys and Doc J, and closes its tracklist on “Eat Up”, “Pine Up” and “Laisse-moi passer”.",
+  ),
+  (
+    "Does Yu Meï write for other artists?",
+    "Yes, according to the published credits. Emmanuelle Titine co-writes Shani Da Flava “SHAKE iT!”, released on September 3, 2025 on SIDESHOW and included on the album “TRAP SUCRÉE!”. Yu Meï is also credited as writer and composer of Ricky Bishop “7 sur 7”, on the project “#newbouyonexperience” released on May 25, 2025. See the <a href=\"/en/ricky-bishop.html\">Ricky Bishop</a> profile.",
+  ),
+  (
+    "Why did Yu Meï speak to the press in October 2026?",
+    "Because several intimate videos of her were shared without her consent. In the interview published by France-Antilles on October 5, 2026, she says she reported the facts and took the matter to the competent authorities, invites victims of similar acts to keep the evidence and approach the authorities, and refuses to let the case define the woman and the artist she is.",
+  ),
+  (
+    "Where can I hear Yu Meï?",
+    "Her Deezer artist page gathers her singles. Start with “Eat Up” and “Pine Up”, the Ultimes Pétasses starting point, then “Leakey”, “X” and “10 sur 10”, and the “PLAN A 3” feature with Yellow Gaza. For today’s bouyon scene, from Dominica to Guadeloupe, our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, the Road Mix by Bouyon Shattaz, gathers new releases and classics.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/yu-mei.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/yu-mei.html#artist", "name": "Yu Meï", "alternateName": "Yumei", "description": "Bouyon singer from the Guadeloupe scene, member of the duo Ultimes Petasses. Published credits under the writer name Emmanuelle Titine, from Eat Up in 2020 to the PLAN A 3 feature with Yellow Gaza in 2024, and as a writer for Shani Da Flava and Ricky Bishop in 2025.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Eat Up"}, {"@type": "MusicRecording", "name": "Pine Up"}, {"@type": "MusicRecording", "name": "Dife Kako"}, {"@type": "MusicRecording", "name": "Leakey"}, {"@type": "MusicRecording", "name": "Youpi Ya (feat. Anonymous G)"}, {"@type": "MusicRecording", "name": "X"}, {"@type": "MusicRecording", "name": "10 sur 10"}, {"@type": "MusicRecording", "name": "Laisse moi passer"}, {"@type": "MusicRecording", "name": "PLAN A 3 (feat. Yu Meï) [Femmes Fatales Edition Bouyon]"}], "sameAs": ["https://www.deezer.com/artist/107130122"]}}],
  "date_modified": "2026-10-20"
 }

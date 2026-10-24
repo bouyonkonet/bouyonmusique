@@ -119,13 +119,55 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Nicolas Macbeth ?", "Nicolas Macbeth est un nom d’auteur, de compositeur et de voix documenté dans les crédits du collectif Team Bwè Tou Sa et de son laboratoire GAMMALAB, de 2020 à 2026. Aucune source ouverte pour ce profil ne publie son identité civile, sa biographie ou son origine, et ce profil n’en affirme aucune : il publie ses crédits vérifiés, fiche par fiche."),
-  ("Sur quels titres Nicolas Macbeth est-il crédité comme auteur ?", "Entre autres : « WD 40 » (2020), « 50/50 », « Bibik », « En ba dlo », « Nanni nannan », « Lolo » et « KILOT » sur « VOYÉ SA ALLÉÉ » (2021), onze titres de « TRAVAILLONS » (2024) dont « CHEAT OR LOVE », « RACE » et « VOIR ÇA », « Kenbé Sa » de Billy Bybf (2023), « BAISE-MOI » de Laka (2023), « Laisse moi passer » avec Yu Meï (2024), « SINOBÒL #BANGER 2 » (2025) et « LÉSÉ NOU PASÉ » de TiiTii NBA (2026)."),
-  ("Nicolas Macbeth chante-t-il, ou seulement écrit-il ?", "Les deux, selon les fiches ouvertes. Shazam le crédite aux voix et aux paroles sur « Game Over », titre d’ouverture de « Voyé sa alléé II » en 2022, et aux voix sur « Bad » de Le Rebelle avec T-BTS en 2021. Sur la plupart des autres titres du dossier, dont les onze titres de « TRAVAILLONS », son crédit publié est un crédit d’écriture et de composition."),
-  ("Quel est son rôle dans Team Bwè Tou Sa ?", "Les crédits le placent dans le noyau d’auteurs du collectif, aux côtés de Ludmilian Flower et Ludmael Flower, rejoints par Fabien AURELA sur « TRAVAILLONS ». Il signe dès les titres fondateurs de 2020 et 2021 et reste présent jusqu’aux sorties de 2025 et 2026. Ce profil ne publie pas de composition officielle du collectif au delà de ce que ces crédits prouvent."),
-  ("Nicolas Macbeth et MA6MO sont-ils la même personne ?", "Le dossier ne permet pas de l’affirmer. Sur « LÉSÉ NOU PASÉ » (2026), MA6MO est artiste invité et Nicolas MACBETH est l’un des deux auteurs crédités. Le recoupement dans le même circuit GAMMALAB est réel, mais aucune source ouverte ne confirme que les deux noms désignent une seule personne, donc ce profil les garde séparés, comme le fait le profil de MA6MO sur ce site."),
-  ("Où écouter les titres signés Nicolas Macbeth ?", "Commencez par « 50/50 », « KILOT » et « Game Over » du collectif, puis par l’album « TRAVAILLONS » et par « LÉSÉ NOU PASÉ » de <a href=\"/tiitii-nba.html\">TiiTii NBA</a>. Notre page <a href=\"/team-bwe-tou-sa.html\">Team Bwè Tou Sa</a> suit le catalogue complet du collectif, et notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> replace ces titres dans la scène guadeloupéenne actuelle.")
- ],
+  (
+    "Qui est Nicolas Macbeth ?",
+    "Nicolas Macbeth est un nom d’auteur, de compositeur et de voix documenté dans les crédits du collectif Team Bwè Tou Sa et de son laboratoire GAMMALAB, de 2020 à 2026. Aucune source ouverte pour ce profil ne publie son identité civile, sa biographie ou son origine, et ce profil n’en affirme aucune : il publie ses crédits vérifiés, fiche par fiche.",
+  ),
+  (
+    "Sur quels titres Nicolas Macbeth est-il crédité comme auteur ?",
+    "Entre autres : « WD 40 » (2020), « 50/50 », « Bibik » et « KILOT » sur « VOYÉ SA ALLÉÉ » (2021), onze titres de « TRAVAILLONS » (2024), « Kenbé Sa » de Billy Bybf et « BAISE-MOI » de Laka (2023), « Laisse moi passer » avec Yu Meï (2024), « SINOBÒL #BANGER 2 » (2025) et « LÉSÉ NOU PASÉ » de TiiTii NBA (2026). Sur « VOYÉ SA ALLÉÉ », il cosigne aussi « En ba dlo », « Nanni nannan » et « Lolo ».",
+  ),
+  (
+    "Quel est le premier crédit connu de Nicolas Macbeth ?",
+    "Le premier crédit daté est « WD 40 », single de Team Bwè Tou Sa sorti le 1er octobre 2020, en français et à 160 BPM selon sa fiche Shazam. Ses auteurs y sont deux : Ludmilian FLOWER et Nicolas MACBETH. La signature est donc collective dès le départ, un duo d’écriture au service d’un titre du collectif, avant même le premier album de 2021.",
+  ),
+  (
+    "Qui a écrit « 50/50 » de Team Bwè Tou Sa ?",
+    "Selon sa fiche Shazam, « 50/50 » est écrit par Ludmilian FLOWER et Nicolas MACBETH, et la liste Deezer ajoute Ludmael FLOWER parmi les compositeurs. Enregistré avec les <a href=\"/lestef-kjf-boyz.html\">LESTEF KJF BOYZ</a>, le single est d’abord sorti chez GAMMALAB le 20 novembre 2020, puis repris sur l’album « VOYÉ SA ALLÉÉ » en 2021. C’est le titre le plus identifié du catalogue du collectif sur Shazam.",
+  ),
+  (
+    "Qui a produit « Game Over » de Team Bwè Tou Sa ?",
+    "La fiche Shazam de « Game Over » crédite Luce Rodrigue à la programmation et à la production, et Terry BAPTISTE à la composition. Nicolas MACBETH et Ludmilian FLOWER y sont crédités aux voix et aux paroles. Le titre ouvre l’album « Voyé sa alléé II », sorti le 8 juillet 2022 chez iMD-GAMMA_LAB, en français et à 144 BPM.",
+  ),
+  (
+    "Nicolas Macbeth chante-t-il, ou seulement écrit-il ?",
+    "Les deux, selon les fiches ouvertes. Shazam le crédite aux voix et aux paroles sur « Game Over », titre d’ouverture de « Voyé sa alléé II » en 2022, et aux voix sur « Bad » de Le Rebelle avec T-BTS en 2021. Sur la plupart des autres titres du dossier, dont les onze titres de « TRAVAILLONS », son crédit publié est un crédit d’écriture et de composition.",
+  ),
+  (
+    "Combien de titres de « TRAVAILLONS » Nicolas Macbeth a-t-il écrits ?",
+    "Onze sur quatorze, selon la page Deezer de l’album publié en 2024 par Team Bwè Tou Sa avec Billy Bybf : il y est crédité auteur et compositeur de « CHEAT OR LOVE », « BRUTALITÉ », « BOXER », « MAL ÉLEVÉ », « PASSE-PASSE », « RACE », « BALANSÉ », « SOUKWÉ », « BONDAL », « MOUN » et « VOIR ÇA ». Les trois autres titres sont « NOU KI LA », « ABBL » et « BACKALIVE ».",
+  ),
+  (
+    "Quel est son rôle dans Team Bwè Tou Sa ?",
+    "Les crédits le placent dans le noyau d’auteurs du collectif, aux côtés de Ludmilian Flower et Ludmael Flower, rejoints par Fabien AURELA sur « TRAVAILLONS ». Il signe dès les titres fondateurs de 2020 et 2021 et reste présent jusqu’aux sorties de 2025 et 2026. Ce profil ne publie pas de composition officielle du collectif au delà de ce que ces crédits prouvent. Voir notre page <a href=\"/team-bwe-tou-sa.html\">Team Bwè Tou Sa</a>.",
+  ),
+  (
+    "Qui a écrit « Kenbé Sa » de Billy Bybf ?",
+    "« Kenbé Sa » est écrit et composé par Fabien AURELA et Nicolas MACBETH, selon la page artiste Deezer de <a href=\"/billy-bybf.html\">Billy Bybf</a>. Le titre figure sur l’album « DI YO SA 2 », daté du 2 août 2023. C’est l’un des crédits où la signature de Nicolas Macbeth sort du catalogue du collectif pour un artiste solo du même réseau, en duo d’écriture.",
+  ),
+  (
+    "Qui a écrit « LÉSÉ NOU PASÉ » de TiiTii NBA ?",
+    "Selon le catalogue Deezer, « LÉSÉ NOU PASÉ » est écrit par Terry Capitolin et Nicolas MACBETH, sur une composition de Sofiann Farah. Le single de <a href=\"/tiitii-nba.html\">TiiTii NBA</a>, sous-titré « WARM UP 2026 », crédite MA6MO et Diixly en invités et dure 2 minutes 23. C’est la trace la plus récente du nom, hors de tout cadre collectif.",
+  ),
+  (
+    "Nicolas Macbeth et MA6MO sont-ils la même personne ?",
+    "Le dossier ne permet pas de l’affirmer. Sur « LÉSÉ NOU PASÉ » (2026), MA6MO est artiste invité et Nicolas MACBETH est l’un des deux auteurs crédités. Le recoupement dans le même circuit GAMMALAB est réel, mais aucune source ouverte ne confirme que les deux noms désignent une seule personne, donc ce profil les garde séparés, comme le fait le profil de MA6MO sur ce site.",
+  ),
+  (
+    "Où écouter les titres signés Nicolas Macbeth ?",
+    "Commencez par « 50/50 », « KILOT » et « Game Over » du collectif Team Bwè Tou Sa, puis par l’album « TRAVAILLONS » et par « LÉSÉ NOU PASÉ » de TiiTii NBA. Pour entendre la scène bouyon actuelle dans son ensemble, la Road Mix de notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> est le point d’entrée du site.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/nicolas-macbeth.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/nicolas-macbeth.html#artist", "name": "Nicolas Macbeth", "description": "Nom d’auteur, de compositeur et de voix du noyau du collectif bouyon Team Bwè Tou Sa et du laboratoire GAMMALAB, crédité de 2020 à 2026 sur WD 40, 50/50, KILOT, Game Over, onze titres de TRAVAILLONS, Kenbé Sa, BAISE-MOI, Laisse moi passer, SINOBÒL #BANGER 2 et LÉSÉ NOU PASÉ. Aucune identité civile ni biographie publiée dans les sources ouvertes en octobre 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "WD 40"}, {"@type": "MusicRecording", "name": "50/50"}, {"@type": "MusicRecording", "name": "Bibik"}, {"@type": "MusicRecording", "name": "En ba dlo"}, {"@type": "MusicRecording", "name": "Nanni nannan"}, {"@type": "MusicRecording", "name": "Lolo"}, {"@type": "MusicRecording", "name": "KILOT"}, {"@type": "MusicRecording", "name": "Game Over"}, {"@type": "MusicRecording", "name": "Bad"}, {"@type": "MusicRecording", "name": "Kenbé Sa"}, {"@type": "MusicRecording", "name": "BAISE-MOI"}, {"@type": "MusicRecording", "name": "Laisse moi passer"}, {"@type": "MusicRecording", "name": "CHEAT OR LOVE"}, {"@type": "MusicRecording", "name": "BRUTALITÉ"}, {"@type": "MusicRecording", "name": "BOXER"}, {"@type": "MusicRecording", "name": "MAL ÉLEVÉ"}, {"@type": "MusicRecording", "name": "PASSE-PASSE"}, {"@type": "MusicRecording", "name": "RACE"}, {"@type": "MusicRecording", "name": "BALANSÉ"}, {"@type": "MusicRecording", "name": "SOUKWÉ"}, {"@type": "MusicRecording", "name": "BONDAL"}, {"@type": "MusicRecording", "name": "MOUN"}, {"@type": "MusicRecording", "name": "VOIR ÇA"}, {"@type": "MusicRecording", "name": "SINOBÒL #BANGER 2"}, {"@type": "MusicRecording", "name": "LÉSÉ NOU PASÉ"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -197,13 +239,55 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Nicolas Macbeth?", "Nicolas Macbeth is a writer, composer and voice name documented in the credits of the collective Team Bwè Tou Sa and its GAMMALAB laboratory, from 2020 to 2026. No source opened for this profile publishes a civil identity, a biography or an origin for him, and this profile claims none of them: it publishes his verified credits, page by page."),
-  ("On which records is Nicolas Macbeth credited as a writer?", "Among others: “WD 40” (2020), “50/50”, “Bibik”, “En ba dlo”, “Nanni nannan”, “Lolo” and “KILOT” on “VOYÉ SA ALLÉÉ” (2021), eleven records of “TRAVAILLONS” (2024) including “CHEAT OR LOVE”, “RACE” and “VOIR ÇA”, “Kenbé Sa” by Billy Bybf (2023), “BAISE-MOI” by Laka (2023), “Laisse moi passer” with Yu Meï (2024), “SINOBÒL #BANGER 2” (2025) and “LÉSÉ NOU PASÉ” by TiiTii NBA (2026)."),
-  ("Does Nicolas Macbeth sing, or only write?", "Both, according to the opened pages. Shazam credits him on vocals and lyrics on “Game Over”, the opening record of “Voyé sa alléé II” in 2022, and on vocals on “Bad” by Le Rebelle featuring T-BTS in 2021. On most other records of the file, including the eleven “TRAVAILLONS” records, his published credit is a writing and composition credit."),
-  ("What is his role in Team Bwè Tou Sa?", "The credits place him in the writing core of the collective, alongside Ludmilian Flower and Ludmael Flower, joined by Fabien AURELA on “TRAVAILLONS”. He signs from the founding records of 2020 and 2021 and stays present through the releases of 2025 and 2026. This profile publishes no official line-up of the collective beyond what those credits prove."),
-  ("Are Nicolas Macbeth and MA6MO the same person?", "The file does not allow that to be stated. On “LÉSÉ NOU PASÉ” (2026), MA6MO is a guest artist and Nicolas MACBETH is one of the two credited writers. The overlap inside the same GAMMALAB circuit is real, but no opened source confirms that the two names designate one person, so this profile keeps them separate, as the MA6MO profile on this site does."),
-  ("Where can I hear the records signed by Nicolas Macbeth?", "Start with “50/50”, “KILOT” and “Game Over” by the collective, then with the album “TRAVAILLONS” and with “LÉSÉ NOU PASÉ” by <a href=\"/en/tiitii-nba.html\">TiiTii NBA</a>. Our <a href=\"/en/team-bwe-tou-sa.html\">Team Bwè Tou Sa</a> page follows the full catalogue of the collective, and our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> places those records back inside the current Guadeloupe scene.")
- ],
+  (
+    "Who is Nicolas Macbeth?",
+    "Nicolas Macbeth is a writer, composer and voice name documented in the credits of the collective Team Bwè Tou Sa and its GAMMALAB laboratory, from 2020 to 2026. No source opened for this profile publishes a civil identity, a biography or an origin for him, and this profile claims none of them: it publishes his verified credits, page by page.",
+  ),
+  (
+    "On which records is Nicolas Macbeth credited as a writer?",
+    "Among others: “WD 40” (2020), “50/50”, “Bibik” and “KILOT” on “VOYÉ SA ALLÉÉ” (2021), eleven records of “TRAVAILLONS” (2024), “Kenbé Sa” by Billy Bybf and “BAISE-MOI” by Laka (2023), “Laisse moi passer” with Yu Meï (2024), “SINOBÒL #BANGER 2” (2025) and “LÉSÉ NOU PASÉ” by TiiTii NBA (2026). On “VOYÉ SA ALLÉÉ”, he also co-signs “En ba dlo”, “Nanni nannan” and “Lolo”.",
+  ),
+  (
+    "What is the first known credit of Nicolas Macbeth?",
+    "The first dated credit is “WD 40”, a Team Bwè Tou Sa single released on October 1, 2020, in French and at 160 BPM according to its Shazam page. Its writers there are two: Ludmilian FLOWER and Nicolas MACBETH. The signature is therefore collective from the start, a writing duo in the service of a collective record, before the first album of 2021.",
+  ),
+  (
+    "Who wrote “50/50” by Team Bwè Tou Sa?",
+    "According to its Shazam page, “50/50” was written by Ludmilian FLOWER and Nicolas MACBETH, and the Deezer listing adds Ludmael FLOWER among the composers. Recorded with the <a href=\"/en/lestef-kjf-boyz.html\">LESTEF KJF BOYZ</a>, the single was first released on GAMMALAB on November 20, 2020, then carried onto the album “VOYÉ SA ALLÉÉ” in 2021. It is the most identified record of the collective catalogue on Shazam.",
+  ),
+  (
+    "Who produced “Game Over” by Team Bwè Tou Sa?",
+    "The Shazam page of “Game Over” credits Luce Rodrigue with programming and production, and Terry BAPTISTE as composer. Nicolas MACBETH and Ludmilian FLOWER are credited there on vocals and lyrics. The record opens the album “Voyé sa alléé II”, released on July 8, 2022 on iMD-GAMMA_LAB, in French and at 144 BPM.",
+  ),
+  (
+    "Does Nicolas Macbeth sing, or only write?",
+    "Both, according to the opened pages. Shazam credits him on vocals and lyrics on “Game Over”, the opening record of “Voyé sa alléé II” in 2022, and on vocals on “Bad” by Le Rebelle featuring T-BTS in 2021. On most other records of the file, including the eleven “TRAVAILLONS” records, his published credit is a writing and composition credit.",
+  ),
+  (
+    "How many records on “TRAVAILLONS” did Nicolas Macbeth write?",
+    "Eleven out of fourteen, according to the Deezer page of the album released in 2024 by Team Bwè Tou Sa with Billy Bybf: he is credited as writer and composer of “CHEAT OR LOVE”, “BRUTALITÉ”, “BOXER”, “MAL ÉLEVÉ”, “PASSE-PASSE”, “RACE”, “BALANSÉ”, “SOUKWÉ”, “BONDAL”, “MOUN” and “VOIR ÇA”. The three other records are “NOU KI LA”, “ABBL” and “BACKALIVE”.",
+  ),
+  (
+    "What is his role in Team Bwè Tou Sa?",
+    "The credits place him in the writing core of the collective, alongside Ludmilian Flower and Ludmael Flower, joined by Fabien AURELA on “TRAVAILLONS”. He signs from the founding records of 2020 and 2021 and stays present through the releases of 2025 and 2026. This profile publishes no official line-up of the collective beyond what those credits prove. See our <a href=\"/en/team-bwe-tou-sa.html\">Team Bwè Tou Sa</a> page.",
+  ),
+  (
+    "Who wrote “Kenbé Sa” by Billy Bybf?",
+    "“Kenbé Sa” was written and composed by Fabien AURELA and Nicolas MACBETH, according to the Deezer artist page of <a href=\"/en/billy-bybf.html\">Billy Bybf</a>. The record sits on the album “DI YO SA 2”, dated August 2, 2023. It is one of the credits where the signature of Nicolas Macbeth leaves the collective catalogue for a solo artist of the same network, as a writing duo.",
+  ),
+  (
+    "Who wrote “LÉSÉ NOU PASÉ” by TiiTii NBA?",
+    "According to the Deezer catalogue, “LÉSÉ NOU PASÉ” was written by Terry Capitolin and Nicolas MACBETH, on a composition by Sofiann Farah. The <a href=\"/en/tiitii-nba.html\">TiiTii NBA</a> single, subtitled “WARM UP 2026”, credits MA6MO and Diixly as guests and runs 2 minutes 23. It is the most recent trace of the name, outside any collective frame.",
+  ),
+  (
+    "Are Nicolas Macbeth and MA6MO the same person?",
+    "The file does not allow that to be stated. On “LÉSÉ NOU PASÉ” (2026), MA6MO is a guest artist and Nicolas MACBETH is one of the two credited writers. The overlap inside the same GAMMALAB circuit is real, but no opened source confirms that the two names designate one person, so this profile keeps them separate, as the MA6MO profile on this site does.",
+  ),
+  (
+    "Where can I hear the records signed by Nicolas Macbeth?",
+    "Start with “50/50”, “KILOT” and “Game Over” by the collective Team Bwè Tou Sa, then with the album “TRAVAILLONS” and with “LÉSÉ NOU PASÉ” by TiiTii NBA. To hear the current bouyon scene as a whole, the Road Mix on our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> page is the site entry point.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/nicolas-macbeth.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/nicolas-macbeth.html#artist", "name": "Nicolas Macbeth", "description": "Writer, composer and voice name of the core of the bouyon collective Team Bwè Tou Sa and the GAMMALAB laboratory, credited from 2020 to 2026 on WD 40, 50/50, KILOT, Game Over, eleven records of TRAVAILLONS, Kenbé Sa, BAISE-MOI, Laisse moi passer, SINOBÒL #BANGER 2 and LÉSÉ NOU PASÉ. No civil identity or biography published in the sources opened in October 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "WD 40"}, {"@type": "MusicRecording", "name": "50/50"}, {"@type": "MusicRecording", "name": "Bibik"}, {"@type": "MusicRecording", "name": "En ba dlo"}, {"@type": "MusicRecording", "name": "Nanni nannan"}, {"@type": "MusicRecording", "name": "Lolo"}, {"@type": "MusicRecording", "name": "KILOT"}, {"@type": "MusicRecording", "name": "Game Over"}, {"@type": "MusicRecording", "name": "Bad"}, {"@type": "MusicRecording", "name": "Kenbé Sa"}, {"@type": "MusicRecording", "name": "BAISE-MOI"}, {"@type": "MusicRecording", "name": "Laisse moi passer"}, {"@type": "MusicRecording", "name": "CHEAT OR LOVE"}, {"@type": "MusicRecording", "name": "BRUTALITÉ"}, {"@type": "MusicRecording", "name": "BOXER"}, {"@type": "MusicRecording", "name": "MAL ÉLEVÉ"}, {"@type": "MusicRecording", "name": "PASSE-PASSE"}, {"@type": "MusicRecording", "name": "RACE"}, {"@type": "MusicRecording", "name": "BALANSÉ"}, {"@type": "MusicRecording", "name": "SOUKWÉ"}, {"@type": "MusicRecording", "name": "BONDAL"}, {"@type": "MusicRecording", "name": "MOUN"}, {"@type": "MusicRecording", "name": "VOIR ÇA"}, {"@type": "MusicRecording", "name": "SINOBÒL #BANGER 2"}, {"@type": "MusicRecording", "name": "LÉSÉ NOU PASÉ"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

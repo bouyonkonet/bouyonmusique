@@ -77,13 +77,47 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Kassidje ?", "Kassidje est un artiste dont le seul crédit vérifié retrouvé en octobre 2026 est un titre bouyon, « A pa taw », enregistré avec Doc J. Le titre figure, sous la graphie Kassidjé, dans la tracklist publiée de l’épisode guadeloupéen du podcast Faya, consacré au bouyon de Guadeloupe. Aucune biographie vérifiée de Kassidje n’a été retrouvée."),
-  ("Quel est le titre connu de Kassidje ?", "Un seul : « A pa taw », un duo avec Doc J, musicien cité par les références parmi les noms populaires du bouyon gwada. La tracklist de Faya le place entre « Cho MM » de Le Cok Sportif et « Big Ting Poppin » de Daly, au milieu des titres qui tournaient dans les soirées bouyon guadeloupéennes documentées par l’épisode."),
-  ("Qu’est ce que le podcast Faya, la source de ce profil ?", "Faya est le podcast du global dancefloor de Renaud Brizard, pour Nique, la radio : chaque épisode explore une scène de club, avec les invités de la scène et une tracklist publiée. Son épisode « Voicenotes from Guadeloupe : le bouyon » atterrit à Pointe-à-Pitre, reçoit entre autres Doc J, et décrit un bouyon très rapide, aux paroles crues, présent depuis dix ans dans toutes les soirées guadeloupéennes."),
-  ("Kassidje est-il guadeloupéen ?", "Le dossier ne permet pas de l’affirmer. Le seul ancrage documenté de Kassidje est guadeloupéen par contexte : son titre connu a été diffusé dans un épisode consacré au bouyon de Guadeloupe, en duo avec Doc J, artiste de la scène du bouyon gwada. Aucune source ouverte ne publie son origine, sa commune ou son parcours, et ce profil ne les invente pas."),
-  ("La mention de Kassidje sur LANDR concerne-t-elle le même artiste ?", "Ce n’est pas confirmé. Un beatmaker, compositeur et ingénieur du son basé à Toulouse liste « kassidjé » parmi les artistes avec lesquels il a travaillé, dans l’annuaire professionnel du réseau LANDR. La graphie concorde avec celle de la tracklist de Faya, mais le profil ne donne ni titre ni date, et aucune source ne permet de vérifier qu’il s’agit du même artiste. Ce profil signale la mention comme une piste non confirmée."),
-  ("Où écouter le bouyon de la scène de Kassidje ?", "Lisez notre page <a href=\"/bouyon-gwada.html\">bouyon gwada</a> pour la déclinaison guadeloupéenne du genre, notre page d’<a href=\"/histoire.html\">histoire du bouyon</a> pour le trajet du son depuis la Dominique, et écoutez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, qui suit la scène actuelle de la Guadeloupe et de la Dominique, celle dans laquelle « A pa taw » a circulé.")
- ],
+  (
+    "Qui est Kassidje ?",
+    "Kassidje est un artiste dont le seul crédit vérifié retrouvé en octobre 2026 est un titre bouyon, « A pa taw », enregistré avec Doc J. Le titre figure, sous la graphie Kassidjé, dans la tracklist publiée de l’épisode guadeloupéen du podcast Faya, consacré au bouyon de Guadeloupe. Aucune biographie vérifiée de Kassidje n’a été retrouvée.",
+  ),
+  (
+    "Kassidje ou Kassidjé : comment s’écrit son nom ?",
+    "La tracklist du podcast Faya imprime le nom avec un accent, Kassidjé, dans la ligne « Doc J et Kassidjé : A pa taw ». Cette page retient la graphie sans accent de son adresse, Kassidje, et signale la variante pour que les lecteurs qui cherchent le titre retrouvent la même ligne. La mention relevée sur l’annuaire LANDR porte elle aussi l’accent, en minuscules : kassidjé.",
+  ),
+  (
+    "Quel est le titre connu de Kassidje ?",
+    "Un seul : « A pa taw », un duo avec Doc J, musicien cité par les références parmi les noms populaires du bouyon gwada. La tracklist de Faya le place entre « Cho MM » de Le Cok Sportif et « Big Ting Poppin » de Daly, au milieu des titres qui tournaient dans les soirées bouyon guadeloupéennes documentées par l’épisode.",
+  ),
+  (
+    "Qui est Doc J, le partenaire de Kassidje sur « A pa taw » ?",
+    "<a href=\"/doc-j.html\">Doc J</a> est un des noms établis du bouyon gwada : les articles de référence sur la musique de Guadeloupe le citent parmi ses musiciens populaires, dans le voisinage du bouyon hardcore, aux côtés de Wee Low, Suppa et Yellow Gaza. Il est aussi l’un des invités de l’épisode guadeloupéen de Faya, où il apparaît en solo avec « Valey pa crachey ».",
+  ),
+  (
+    "Qu’est-ce que le podcast Faya, la source de ce profil ?",
+    "Faya est le podcast du global dancefloor de Renaud Brizard, pour Nique, la radio : chaque épisode explore une scène de club, avec les invités de la scène et une tracklist publiée. Son épisode « Voicenotes from Guadeloupe : le bouyon » atterrit à Pointe-à-Pitre, reçoit entre autres Doc J, et décrit un bouyon très rapide, aux paroles crues, présent depuis dix ans dans toutes les soirées guadeloupéennes.",
+  ),
+  (
+    "Quels autres artistes figurent dans l’épisode guadeloupéen de Faya avec Kassidje ?",
+    "Les invités de l’épisode sont Le Cok Sportif, DJ Beaw, Tytys, Doc J et Yu Meï, du duo Ultimes Pétasses. La tracklist s’ouvre sur « Dlo Coco » de Le Cok Sportif et La Mokerie, puis passe par Daly, Reo et DJ Bling avec « Sa ka bay », Man Smooky, Tytys, les Yellow Gaza Girls et les Ultimes Pétasses, avec même un classique de zouk, « Alice ça glisse » de Franky Vincent.",
+  ),
+  (
+    "D’où vient le bouyon gwada de la scène de Kassidje ?",
+    "Il vient de la Dominique : le bouyon y est né, WCK ayant lancé le style en 1988, et sa déclinaison guadeloupéenne est née de l’appropriation locale de ce son, après des années de tournées des groupes dominicains aux Antilles françaises. L’épisode de Faya en décrit le résultat côté soirées : un son rapide et cru, porté par des artistes qui enregistrent en créole et en français.",
+  ),
+  (
+    "Kassidje est-il guadeloupéen ?",
+    "Le dossier ne permet pas de l’affirmer. Le seul ancrage documenté de Kassidje est guadeloupéen par contexte : son titre connu a été diffusé dans un épisode consacré au bouyon de Guadeloupe, en duo avec Doc J, artiste de la scène du bouyon gwada. Aucune source ouverte ne publie son origine, sa commune ou son parcours, et ce profil ne les invente pas.",
+  ),
+  (
+    "La mention de Kassidje sur LANDR concerne-t-elle le même artiste ?",
+    "Ce n’est pas confirmé. Un beatmaker, compositeur et ingénieur du son basé à Toulouse liste « kassidjé » parmi les artistes avec lesquels il a travaillé, dans l’annuaire professionnel du réseau LANDR. La graphie concorde avec celle de la tracklist de Faya, mais le profil ne donne ni titre ni date, et aucune source ne permet de vérifier qu’il s’agit du même artiste. Ce profil signale la mention comme une piste non confirmée.",
+  ),
+  (
+    "Où écouter le bouyon de la scène de Kassidje ?",
+    "Lisez notre page <a href=\"/bouyon-gwada.html\">bouyon gwada</a> pour la déclinaison guadeloupéenne du genre et son trajet depuis la Dominique. Pour la scène actuelle de la Guadeloupe et de la Dominique, celle dans laquelle « A pa taw » a circulé, la playlist Bouyon Road Mix de Bouyon Shattaz réunit nouveautés et classiques sur Spotify et YouTube.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/kassidje.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/kassidje.html#artist", "name": "Kassidje", "description": "Artiste crédité avec Doc J sur le titre bouyon A pa taw, transmis par la tracklist de l’épisode guadeloupéen du podcast Faya. Aucune biographie ni autre enregistrement vérifié retrouvé en octobre 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "A pa taw"},
       {
        "@type": "MusicRecording",
@@ -203,13 +237,47 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Kassidje?", "Kassidje is an artist whose only verified credit found in October 2026 is a bouyon record, “A pa taw”, recorded with Doc J. The record appears, spelled Kassidjé, in the published tracklist of the Guadeloupe episode of the Faya podcast, devoted to the bouyon of Guadeloupe. No verified biography of Kassidje was found."),
-  ("What is the known record of Kassidje?", "Only one: “A pa taw”, a duet with Doc J, a musician cited by the references among the popular names of bouyon gwada. The Faya tracklist places it between Le Cok Sportif “Cho MM” and Daly “Big Ting Poppin”, in the middle of the records that were turning in the Guadeloupean bouyon parties documented by the episode."),
-  ("What is the Faya podcast, the source of this profile?", "Faya is the global dancefloor podcast of Renaud Brizard, for Nique, la radio: each episode explores one club scene, with guests from the scene and a published tracklist. Its episode “Voicenotes from Guadeloupe: le bouyon” lands in Pointe-à-Pitre, hosts Doc J among others, and describes a very fast bouyon, with raw lyrics, present for ten years in every Guadeloupean party."),
-  ("Is Kassidje Guadeloupean?", "The file does not allow stating it. The only documented anchoring of Kassidje is Guadeloupean by context: his known record was played in an episode devoted to the bouyon of Guadeloupe, as a duet with Doc J, an artist of the bouyon gwada scene. No open source publishes his origin, his town or his path, and this profile does not invent them."),
-  ("Does the Kassidje mention on LANDR concern the same artist?", "It is not confirmed. A beatmaker, composer and audio engineer based in Toulouse lists “kassidjé” among the artists he has worked with, in the professional directory of the LANDR Network. The spelling matches the Faya tracklist, but the profile gives neither title nor date, and no source allows checking that it is the same artist. This profile flags the mention as an unconfirmed lead."),
-  ("Where can I hear the bouyon of the Kassidje scene?", "Read our <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a> page for the Guadeloupean form of the genre, our <a href=\"/en/history.html\">history of bouyon</a> page for the path of the sound from Dominica, and hear our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, which follows the current scene of Guadeloupe and Dominica, the one in which “A pa taw” circulated.")
- ],
+  (
+    "Who is Kassidje?",
+    "Kassidje is an artist whose only verified credit found in October 2026 is a bouyon record, “A pa taw”, recorded with Doc J. The record appears, spelled Kassidjé, in the published tracklist of the Guadeloupe episode of the Faya podcast, devoted to the bouyon of Guadeloupe. No verified biography of Kassidje was found.",
+  ),
+  (
+    "Kassidje or Kassidjé: how is the name spelled?",
+    "The Faya podcast tracklist prints the name with an accent, Kassidjé, in the line “Doc J and Kassidjé: A pa taw”. This page keeps the unaccented spelling of its own address, Kassidje, and flags the variant so that readers searching for the record find the same line. The mention found in the LANDR directory also carries the accent, in lower case: kassidjé.",
+  ),
+  (
+    "What is the known record of Kassidje?",
+    "Only one: “A pa taw”, a duet with Doc J, a musician cited by the references among the popular names of bouyon gwada. The Faya tracklist places it between Le Cok Sportif “Cho MM” and Daly “Big Ting Poppin”, in the middle of the records that were turning in the Guadeloupean bouyon parties documented by the episode.",
+  ),
+  (
+    "Who is Doc J, Kassidje partner on “A pa taw”?",
+    "<a href=\"/en/doc-j.html\">Doc J</a> is one of the established names of bouyon gwada: the reference articles on the music of Guadeloupe cite him among its popular musicians, in the neighbourhood of bouyon hardcore, alongside Wee Low, Suppa and Yellow Gaza. He is also one of the guests of the Faya Guadeloupe episode, where he appears solo with “Valey pa crachey”.",
+  ),
+  (
+    "What is the Faya podcast, the source of this profile?",
+    "Faya is the global dancefloor podcast of Renaud Brizard, for Nique, la radio: each episode explores one club scene, with guests from the scene and a published tracklist. Its episode “Voicenotes from Guadeloupe: le bouyon” lands in Pointe-à-Pitre, hosts Doc J among others, and describes a very fast bouyon, with raw lyrics, present for ten years in every Guadeloupean party.",
+  ),
+  (
+    "Which other artists appear in the Faya Guadeloupe episode with Kassidje?",
+    "The guests of the episode are Le Cok Sportif, DJ Beaw, Tytys, Doc J and Yu Meï, of the duo Ultimes Pétasses. The tracklist opens with “Dlo Coco” by Le Cok Sportif and La Mokerie, then runs through Daly, Reo and DJ Bling with “Sa ka bay”, Man Smooky, Tytys, the Yellow Gaza Girls and the Ultimes Pétasses, with even a zouk classic, Franky Vincent “Alice ça glisse”.",
+  ),
+  (
+    "Where does the bouyon gwada of the Kassidje scene come from?",
+    "It comes from Dominica: bouyon was born there, with WCK starting the style in 1988, and its Guadeloupean form was born of the local adoption of that sound, after years of Dominican bands touring the French Antilles. The Faya episode describes the result from the party side: a fast, raw sound, carried by artists recording in Creole and in French.",
+  ),
+  (
+    "Is Kassidje Guadeloupean?",
+    "The file does not allow stating it. The only documented anchoring of Kassidje is Guadeloupean by context: his known record was played in an episode devoted to the bouyon of Guadeloupe, as a duet with Doc J, an artist of the bouyon gwada scene. No open source publishes his origin, his town or his path, and this profile does not invent them.",
+  ),
+  (
+    "Does the Kassidje mention on LANDR concern the same artist?",
+    "It is not confirmed. A beatmaker, composer and audio engineer based in Toulouse lists “kassidjé” among the artists he has worked with, in the professional directory of the LANDR Network. The spelling matches the Faya tracklist, but the profile gives neither title nor date, and no source allows checking that it is the same artist. This profile flags the mention as an unconfirmed lead.",
+  ),
+  (
+    "Where can I hear the bouyon of the Kassidje scene?",
+    "Read our <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a> page for the Guadeloupean form of the genre and its path from Dominica. For the current scene of Guadeloupe and Dominica, the one in which “A pa taw” circulated, the Bouyon Road Mix playlist by Bouyon Shattaz gathers new releases and classics on Spotify and YouTube.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/kassidje.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/kassidje.html#artist", "name": "Kassidje", "description": "Artist credited with Doc J on the bouyon record A pa taw, carried by the tracklist of the Guadeloupe episode of the Faya podcast. No biography and no other verified recording found in October 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "A pa taw"},
       {
        "@type": "MusicRecording",

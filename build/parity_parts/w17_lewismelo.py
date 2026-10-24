@@ -77,13 +77,55 @@ FR = {
   ]
  ],
  "faq": [
-  ("Quel est l’album solo de Lewismelo ?", "« Premières Notes », sorti le 1er novembre 2024 sous son label Lewismeloproduction, selon la fiche Deezer. Huit titres : « INTRO », « 5 KILOS » avec Admiral T et Shanika, « VIN TCHEK NOU » avec Le Bluff, Leyou et Tedla, « POMPÉ » avec Dcamp et KEKS MAFIA, « ALOUETTE » avec Lejuh, « KEY » avec Virtuose, « HULLABALOO » avec Jixels, et « THANK YOU », signé de Lewis Wayne Campbell seul, comme l’introduction."),
-  ("Lewismelo a-t-il sorti des titres en solo avant son album ?", "Oui. Son single « Clean Body », avec Dcamp en featuring, est sorti le 24 octobre 2023 sous le label Dcampproduction, selon Shazam, à 160 BPM, avec Lewis Wayne Campbell et Dylan Davis Campbell aux crédits d’écriture. C’est le premier titre vérifié facturé à Lewismelo seul en artiste principal."),
-  ("Quels titres Lewismelo a-t-il signés avec Admiral T ?", "Deux singles sont facturés « Admiral T & Lewismelo » sur la page artiste d’Admiral T : « On ti rhum », en 2024, et « FVCK YOU », dont le compte officiel d’Admiral T crédite la production à Lewismelo, sur le Titan Riddim. Admiral T est aussi l’invité de Lewismelo sur « 5 KILOS », dans l’album « Premières Notes »."),
-  ("Lewismelo est-il le fils d’Admiral T ?", "NRJ Antilles a présenté « On ti rhum » comme un titre signé « Admiral T & Lewis son fils », selon la formule de la radio. C’est la formulation publiée par une radio régionale de référence, et ce profil la rapporte comme telle. Les crédits confirment la proximité de travail : Admiral T publie sous le nom civil de Christy Campbell, écrit « 5 KILOS » sur l’album de Lewismelo, et Lewismelo compose trois titres de l’album « MAESTRO » d’Admiral T."),
-  ("Lewismelo a-t-il composé pour l’album d’Admiral T ?", "Oui. Sur « MAESTRO », l’album d’Admiral T paru le 1er février 2025 sous ELITE BASE, la fiche Deezer crédite Lewis Campbell comme compositeur sur « MY FAMILY », « NOU PAKA BA FANM KOU » et « DÈVIZ AN MWEN ». C’est un versant producteur de son dossier solo, distinct de ses propres titres."),
-  ("Par où commencer pour écouter Lewismelo en solo ?", "Commencez par « Clean Body » pour le premier single, puis écoutez « Premières Notes » en entier, de « INTRO » à « THANK YOU », puis « On ti rhum » et « FVCK YOU » avec Admiral T. Le catalogue du duo est sur la page <a href=\"/dcamp-lewismelo.html\">Dcamp & Lewismelo</a>, et notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> replace le tout dans la scène complète.")
- ],
+  (
+    "Qui est Lewismelo ?",
+    "Lewismelo est le nom d’artiste de Lewis Wayne Campbell, la moitié productrice du duo Dcamp & Lewismelo. En nom propre, il a publié le single « Clean Body » en 2023, l’album « Premières Notes » le 1er novembre 2024 sous son label Lewismeloproduction, et deux singles cosignés avec Admiral T, « On ti rhum » et « FVCK YOU ». Il compose aussi pour l’album « MAESTRO » d’Admiral T.",
+  ),
+  (
+    "Quel est le vrai nom de Lewismelo ?",
+    "Lewis Wayne Campbell, le nom qui figure dans les crédits d’écriture et de composition de ses titres, comme « INTRO » et « THANK YOU » sur « Premières Notes ». Sur l’album « MAESTRO » d’Admiral T, il est crédité sous la forme courte Lewis Campbell. Le pseudonyme lewismelo971 apparaît dans une mention de production publiée par le compte d’Admiral T, sans qu’un compte officiel de Lewismelo ait été vérifié.",
+  ),
+  (
+    "Quel est le lien entre Lewismelo et Dcamp ?",
+    "Lewismelo et Dcamp, Lewis Wayne Campbell et Dylan Davis Campbell, sont les deux frères du duo Dcamp & Lewismelo. Dans le tandem, Lewis est l’homme des riddims, crédité à la composition, pendant que les textes sont signés à deux. En solo, chacun invite l’autre : Dcamp est en featuring sur « Clean Body » et sur « POMPÉ ». Voir la page du duo <a href=\"/dcamp-lewismelo.html\">Dcamp & Lewismelo</a>.",
+  ),
+  (
+    "D’où vient Lewismelo ?",
+    "Lewismelo travaille au coeur de la scène bouyon de Guadeloupe : son album « Premières Notes » reçoit Admiral T, Shanika, Lejuh, Le Bluff et d’autres voix de ce réseau, et il cosigne « Sòti Gwadloup » avec Admiral T, Dcamp et Lejuh. Aucune source consultée ne publie en revanche sa date ni son lieu de naissance, et ce profil n’en imprime aucun.",
+  ),
+  (
+    "Quel est l’album solo de Lewismelo ?",
+    "« Premières Notes », sorti le 1er novembre 2024 sous son label Lewismeloproduction, selon la fiche Deezer. Huit titres : « INTRO », « 5 KILOS » avec Admiral T et Shanika, « VIN TCHEK NOU » avec Le Bluff, Leyou et Tedla, « POMPÉ » avec Dcamp et KEKS MAFIA, « ALOUETTE » avec Lejuh, « KEY » avec Virtuose, « HULLABALOO » avec Jixels, et « THANK YOU ».",
+  ),
+  (
+    "Qui chante et qui écrit « 5 KILOS » de Lewismelo ?",
+    "« 5 KILOS », deuxième titre de « Premières Notes », réunit Admiral T et Shanika autour de Lewismelo, pour 3 minutes 05. Ses crédits d’écriture et de composition nomment Christy Campbell, le nom civil d’Admiral T, et Maëva Alphonse, le nom de Shanika dans les crédits. Sur son propre album, Lewismelo laisse ainsi l’écriture de plusieurs titres à ses invités et garde pour lui le cadre et la production.",
+  ),
+  (
+    "Lewismelo a-t-il sorti des titres en solo avant son album ?",
+    "Oui. Son single « Clean Body », avec Dcamp en featuring, est sorti le 24 octobre 2023 sous le label Dcampproduction, selon Shazam, à 160 BPM, avec Lewis Wayne Campbell et Dylan Davis Campbell aux crédits d’écriture. C’est le premier titre vérifié facturé à Lewismelo seul en artiste principal, un an avant l’album.",
+  ),
+  (
+    "Quels titres Lewismelo a-t-il signés avec Admiral T ?",
+    "Deux singles sont facturés « Admiral T & Lewismelo » sur la page artiste d’Admiral T : « On ti rhum », en 2024, et « FVCK YOU », dont le compte officiel d’Admiral T crédite la production à Lewismelo, sur le Titan Riddim. Admiral T est aussi son invité sur « 5 KILOS », et les deux noms figurent, avec Dcamp et Lejuh, sur le single « Sòti Gwadloup » de 2024.",
+  ),
+  (
+    "Lewismelo est-il le fils d’Admiral T ?",
+    "NRJ Antilles a présenté « On ti rhum » comme un titre signé « Admiral T & Lewis son fils », selon la formule de la radio, et ce profil la rapporte comme telle, sans l’établir par une autre source. Les crédits confirment la proximité de travail : Admiral T publie sous le nom civil de Christy Campbell, écrit « 5 KILOS » sur l’album de Lewismelo, et Lewismelo compose pour « MAESTRO ».",
+  ),
+  (
+    "Lewismelo a-t-il composé pour l’album d’Admiral T ?",
+    "Oui. Sur « MAESTRO », l’album d’Admiral T paru le 1er février 2025 sous ELITE BASE, la fiche Deezer crédite Lewis Campbell comme compositeur sur « MY FAMILY », « NOU PAKA BA FANM KOU » et « DÈVIZ AN MWEN », ce dernier écrit par Christy Campbell et Shannon Renciot. C’est le versant producteur de son dossier solo, distinct de ses propres titres.",
+  ),
+  (
+    "Qu’est-ce que Lewismeloproduction ?",
+    "C’est le label qui porte son nom : il publie l’album « Premières Notes » le 1er novembre 2024, puis, en janvier 2025, le single du duo « BAY LA BÈT ». En miroir, le premier single solo de Lewismelo, « Clean Body », est sorti sous Dcampproduction, le label de son frère. Les deux enseignes fonctionnent comme une maison commune, et c’est la facturation artiste, plus que le label, qui dit qui porte un titre.",
+  ),
+  (
+    "Par où commencer pour écouter Lewismelo en solo ?",
+    "Commencez par « Clean Body » pour le premier single, puis écoutez « Premières Notes » en entier, de « INTRO » à « THANK YOU », puis « On ti rhum » et « FVCK YOU » avec Admiral T. Pour entendre la scène bouyon qui l’entoure, de la Dominique à la Guadeloupe, la <a href=\"/playlist-bouyon.html\">playlist Bouyon Road Mix</a> de Bouyon Shattaz réunit nouveautés et classiques du genre.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/lewismelo.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/lewismelo.html#artist", "name": "Lewismelo", "description": "Lewismelo, Lewis Wayne Campbell, producteur et artiste bouyon de Guadeloupe, moitié du duo Dcamp & Lewismelo. En solo : le single Clean Body (2023), l’album Premières Notes (2024, Lewismeloproduction) avec Admiral T, Shanika, Dcamp et KEKS MAFIA en invités, les singles On ti rhum et FVCK YOU cosignés avec Admiral T, et des compositions sur l’album MAESTRO d’Admiral T.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "INTRO"}, {"@type": "MusicRecording", "name": "5 KILOS"}, {"@type": "MusicRecording", "name": "VIN TCHEK NOU"}, {"@type": "MusicRecording", "name": "POMPÉ"}, {"@type": "MusicRecording", "name": "ALOUETTE"}, {"@type": "MusicRecording", "name": "KEY"}, {"@type": "MusicRecording", "name": "HULLABALOO"}, {"@type": "MusicRecording", "name": "THANK YOU"}, {"@type": "MusicRecording", "name": "Clean Body"}, {"@type": "MusicRecording", "name": "On ti rhum"}, {"@type": "MusicRecording", "name": "FVCK YOU"},
       {
        "@type": "MusicRecording",
@@ -231,13 +273,55 @@ EN = {
   ]
  ],
  "faq": [
-  ("What is the solo album of Lewismelo?", "“Premières Notes”, released on November 1, 2024 on his label Lewismeloproduction, according to the Deezer listing. Eight tracks: “INTRO”, “5 KILOS” with Admiral T and Shanika, “VIN TCHEK NOU” with Le Bluff, Leyou and Tedla, “POMPÉ” with Dcamp and KEKS MAFIA, “ALOUETTE” with Lejuh, “KEY” with Virtuose, “HULLABALOO” with Jixels, and “THANK YOU”, signed by Lewis Wayne Campbell alone, like the introduction."),
-  ("Did Lewismelo release solo titles before his album?", "Yes. His single “Clean Body”, with Dcamp as a feature, was released on October 24, 2023 under the Dcampproduction label, according to Shazam, at 160 BPM, with Lewis Wayne Campbell and Dylan Davis Campbell on the writing credits. It is the first verified title billed to Lewismelo alone as lead artist."),
-  ("Which titles did Lewismelo sign with Admiral T?", "Two singles are billed “Admiral T & Lewismelo” on the Admiral T artist page: “On ti rhum”, in 2024, and “FVCK YOU”, whose production the official Admiral T account credits to Lewismelo, on the Titan Riddim. Admiral T is also the guest of Lewismelo on “5 KILOS”, on the album “Premières Notes”."),
-  ("Is Lewismelo the son of Admiral T?", "NRJ Antilles presented “On ti rhum” as a record signed “Admiral T & Lewis son fils”, Admiral T and Lewis his son, in the radio station wording. That is the formulation published by a reference regional radio, and this profile reports it as such. The credits confirm the working closeness: Admiral T publishes under the civil name Christy Campbell, writes “5 KILOS” on the Lewismelo album, and Lewismelo composes three tracks of the Admiral T album “MAESTRO”."),
-  ("Did Lewismelo compose for the Admiral T album?", "Yes. On “MAESTRO”, the Admiral T album released on February 1, 2025 under ELITE BASE, the Deezer listing credits Lewis Campbell as composer on “MY FAMILY”, “NOU PAKA BA FANM KOU” and “DÈVIZ AN MWEN”. That is a producer side of his solo file, distinct from his own titles."),
-  ("Where should I start listening to Lewismelo solo?", "Start with “Clean Body” for the first single, then hear “Premières Notes” in full, from “INTRO” to “THANK YOU”, then “On ti rhum” and “FVCK YOU” with Admiral T. The duo catalogue is on the <a href=\"/en/dcamp-lewismelo.html\">Dcamp & Lewismelo</a> page, and our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> places it all back inside the full scene.")
- ],
+  (
+    "Who is Lewismelo?",
+    "Lewismelo is the artist name of Lewis Wayne Campbell, the producing half of the duo Dcamp & Lewismelo. Under his own name, he released the single “Clean Body” in 2023, the album “Premières Notes” on November 1, 2024 on his label Lewismeloproduction, and two singles co-billed with Admiral T, “On ti rhum” and “FVCK YOU”. He also composes for Admiral T’s album “MAESTRO”.",
+  ),
+  (
+    "What is Lewismelo’s real name?",
+    "Lewis Wayne Campbell, the name in the writing and composing credits of his tracks, such as “INTRO” and “THANK YOU” on “Premières Notes”. On Admiral T’s album “MAESTRO”, he is credited under the short form Lewis Campbell. The handle lewismelo971 appears in a production mention published by Admiral T’s account, although no official Lewismelo account was verified.",
+  ),
+  (
+    "What is the link between Lewismelo and Dcamp?",
+    "Lewismelo and Dcamp, Lewis Wayne Campbell and Dylan Davis Campbell, are the two brothers of the duo Dcamp & Lewismelo. In the pair, Lewis is the riddim man, credited for composition, while lyrics are signed by both. Solo, each invites the other: Dcamp features on “Clean Body” and on “POMPÉ”. See the duo page <a href=\"/en/dcamp-lewismelo.html\">Dcamp & Lewismelo</a>.",
+  ),
+  (
+    "Where is Lewismelo from?",
+    "Lewismelo works at the heart of the Guadeloupe bouyon scene: his album “Premières Notes” welcomes Admiral T, Shanika, Lejuh, Le Bluff and other voices of that network, and he co-bills “Sòti Gwadloup” with Admiral T, Dcamp and Lejuh. No source consulted, however, publishes his date or place of birth, and this profile prints neither.",
+  ),
+  (
+    "What is the solo album of Lewismelo?",
+    "“Premières Notes”, released on November 1, 2024 on his label Lewismeloproduction, according to the Deezer listing. Eight tracks: “INTRO”, “5 KILOS” with Admiral T and Shanika, “VIN TCHEK NOU” with Le Bluff, Leyou and Tedla, “POMPÉ” with Dcamp and KEKS MAFIA, “ALOUETTE” with Lejuh, “KEY” with Virtuose, “HULLABALOO” with Jixels, and “THANK YOU”.",
+  ),
+  (
+    "Who sings and who wrote Lewismelo’s “5 KILOS”?",
+    "“5 KILOS”, the second track of “Premières Notes”, brings Admiral T and Shanika around Lewismelo, for 3 minutes 05. Its writing and composing credits name Christy Campbell, Admiral T’s civil name, and Maëva Alphonse, Shanika’s name in the credits. On his own album, Lewismelo thus leaves the writing of several tracks to his guests and keeps the frame and the production for himself.",
+  ),
+  (
+    "Did Lewismelo release solo titles before his album?",
+    "Yes. His single “Clean Body”, with Dcamp as a feature, was released on October 24, 2023 under the Dcampproduction label, according to Shazam, at 160 BPM, with Lewis Wayne Campbell and Dylan Davis Campbell on the writing credits. It is the first verified title billed to Lewismelo alone as lead artist, a year before the album.",
+  ),
+  (
+    "Which titles did Lewismelo sign with Admiral T?",
+    "Two singles are billed “Admiral T & Lewismelo” on Admiral T’s artist page: “On ti rhum”, in 2024, and “FVCK YOU”, whose production Admiral T’s official account credits to Lewismelo, on the Titan Riddim. Admiral T is also his guest on “5 KILOS”, and both names appear, with Dcamp and Lejuh, on the 2024 single “Sòti Gwadloup”.",
+  ),
+  (
+    "Is Lewismelo the son of Admiral T?",
+    "NRJ Antilles presented “On ti rhum” as a record signed “Admiral T & Lewis son fils”, Admiral T and Lewis his son, in the radio station’s wording, and this profile reports it as such, without establishing it through another source. The credits confirm the working closeness: Admiral T publishes under the civil name Christy Campbell, writes “5 KILOS” on Lewismelo’s album, and Lewismelo composes for “MAESTRO”.",
+  ),
+  (
+    "Did Lewismelo compose for the Admiral T album?",
+    "Yes. On “MAESTRO”, Admiral T’s album released on February 1, 2025 under ELITE BASE, the Deezer listing credits Lewis Campbell as composer on “MY FAMILY”, “NOU PAKA BA FANM KOU” and “DÈVIZ AN MWEN”, the last written by Christy Campbell and Shannon Renciot. That is the producer side of his solo file, distinct from his own titles.",
+  ),
+  (
+    "What is Lewismeloproduction?",
+    "It is the label bearing his name: it released the album “Premières Notes” on November 1, 2024, then, in January 2025, the duo single “BAY LA BÈT”. In mirror, Lewismelo’s first solo single, “Clean Body”, came out on Dcampproduction, his brother’s label. The two imprints work as one shared house, and the artist billing, more than the label, shows who carries a track.",
+  ),
+  (
+    "Where should I start listening to Lewismelo solo?",
+    "Start with “Clean Body” for the first single, then hear “Premières Notes” in full, from “INTRO” to “THANK YOU”, then “On ti rhum” and “FVCK YOU” with Admiral T. To hear the bouyon scene around him, from Dominica to Guadeloupe, the <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix playlist</a> by Bouyon Shattaz gathers new releases and classics of the genre.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/lewismelo.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/lewismelo.html#artist", "name": "Lewismelo", "description": "Lewismelo, Lewis Wayne Campbell, bouyon producer and artist from Guadeloupe, one half of the duo Dcamp & Lewismelo. Solo: the single Clean Body (2023), the album Premières Notes (2024, Lewismeloproduction) with Admiral T, Shanika, Dcamp and KEKS MAFIA as guests, the singles On ti rhum and FVCK YOU co-billed with Admiral T, and compositions on the Admiral T album MAESTRO.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "INTRO"}, {"@type": "MusicRecording", "name": "5 KILOS"}, {"@type": "MusicRecording", "name": "VIN TCHEK NOU"}, {"@type": "MusicRecording", "name": "POMPÉ"}, {"@type": "MusicRecording", "name": "ALOUETTE"}, {"@type": "MusicRecording", "name": "KEY"}, {"@type": "MusicRecording", "name": "HULLABALOO"}, {"@type": "MusicRecording", "name": "THANK YOU"}, {"@type": "MusicRecording", "name": "Clean Body"}, {"@type": "MusicRecording", "name": "On ti rhum"}, {"@type": "MusicRecording", "name": "FVCK YOU"},
       {
        "@type": "MusicRecording",

@@ -74,13 +74,63 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Jixels ?", "Jixels est un claviériste, producteur et artiste bouyon ancré en Guadeloupe, actif en singles depuis 2023. RFI l’a présenté comme le maître du clavier de « Poukwa », le titre de Krys avec Edday publié en 2025. Son titre le plus recherché sur Shazam est « Nouveau La », avec BRG Hollywood, à plus de 213 000 Shazams, et son catalogue compte plus de vingt singles entre 2023 et 2026, dont « BALAOU FRIT », « Poukwa », « Touchdown » et « Jéré Sa »."),
-  ("Quel nom signe les crédits d’auteur et de compositeur de Jixels ?", "Le nom Jonathan Elusca, et c’est le fait que les autres profils ne relèvent pas. Deezer le crédite comme auteur et compositeur unique de « FÈ SA TRANBLÉ », Shazam le crédite comme co-auteur de « TEAM MDC (VOU) », sorti sous le label JIXELS STUDIO’Z en décembre 2023, et Deezer le crédite comme compositeur de « She miss me » d’Edday, avec Shanika et Jixels, sous la graphie Johnathan Elusca. Ce profil rapporte ces crédits publiés, avec leur variante d’orthographe, sans inventer de biographie autour de ce nom."),
-  ("C’est quoi « Poukwa » ?", "« Poukwa » est un single de 2025 crédité à Krys, Edday et Jixels. RFI, dans Couleurs tropicales, l’a présenté comme le banger bouyon du chanteur guadeloupéen Krys, en collaboration avec Edday, artiste incontournable du bouyon aux Antilles, et Jixels, maître du clavier. Un classement de la Grenade reproduit par iCharts l’a placé en tête de son top. Sur Shazam, le titre compte 5 410 recherches, ce qui en fait l’un des titres les plus identifiés du trio."),
-  ("Pourquoi Shazam classe-t-il Jixels en musique de fête de fin d’année ?", "Parce que ses premières sorties commerciales sont des titres de saison de décembre. « TEAM MDC (VOU) », sorti le 6 décembre 2023 sous JIXELS STUDIO’Z, est classé Christmas par Shazam, et « XMAS CHO » suit en 2024. La page d’artiste de Jixels porte donc l’étiquette Holiday, musique festive, alors que le coeur de son catalogue est le bouyon de carnaval et de soirée. C’est un artefact de catalogue qui dit une vraie chose : Jixels publie au rythme du calendrier antillais, des fêtes de fin d’année au carnaval."),
-  ("Jixels joue-t-il en live ?", "Oui, selon ses propres publications et la presse locale. Son compte TikTok documente un show au festival de la bouffe à Kourou, en Guyane, avec les codes 971 et 973, et une vidéo d’un spectateur du Bblack Cruise Festival le désigne comme le vrai showman. Au Goziéval 2026, le compte de la Ville du Gosier présente MMG comme le groupe de Jixels, un nouveau groupe qui a eu le coeur du public. Un avant programme du World Creole Music Festival 2025 le listait aussi parmi les DJ de la Night 2, ligne d’avant programme qu’aucun compte rendu ouvert pour ce profil ne confirme en prestation."),
-  ("Où écouter Jixels ?", "Commencez par « Nouveau La » avec <a href=\"/brg-hollywood.html\">BRG Hollywood</a>, son titre le plus shazamé, puis « Poukwa » avec Krys et <a href=\"/edday.html\">Edday</a>, « BALAOU FRIT » avec Lestef KJF pour le freestyle, et « Jéré Sa » avec <a href=\"/dj-boko.html\">DJ BOKO</a> pour sa sortie 2026 la plus connectée. Notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> suit le même circuit, de la Guadeloupe à la Dominique.")
- ],
+  (
+    "Qui est Jixels ?",
+    "Jixels est un claviériste, producteur et artiste bouyon ancré en Guadeloupe, actif en singles depuis 2023. RFI l’a présenté comme le maître du clavier de « Poukwa », le titre de Krys avec Edday publié en 2025. Son titre le plus recherché sur Shazam est « Nouveau La », avec BRG Hollywood, à plus de 213 000 Shazams, et son catalogue compte plus de vingt singles entre 2023 et 2026.",
+  ),
+  (
+    "D’où vient Jixels ?",
+    "Jixels est ancré en Guadeloupe : son compte TikTok porte l’indicatif de l’île dans son identifiant, jixels971, la Ville du Gosier a salué son groupe MMG au Goziéval 2026, et RFI le présente aux côtés du chanteur guadeloupéen Krys. Aucune biographie ne publie en revanche sa date ni son lieu de naissance : c’est un ancrage documenté, pas un état civil.",
+  ),
+  (
+    "Jixels ou Jixel : comment s’écrit son nom ?",
+    "La forme publiée par ses catalogues est Jixels, parfois en capitales, JIXELS, comme sur son label JIXELS STUDIO’Z. La tracklist du mini mix Sewo Jam de Digga D écrit pourtant Jixel, au singulier, sur « You Mad », crédité à Reo, DJ Lucshiy, Jixel et Edday. Ce profil garde cette graphie telle quelle : les crédits des mixes sont souvent tapés à la volée avant d’être stabilisés sur les plateformes.",
+  ),
+  (
+    "Quel nom signe les crédits d’auteur et de compositeur de Jixels ?",
+    "Le nom Jonathan Elusca. Deezer le crédite comme auteur et compositeur unique de « FÈ SA TRANBLÉ », Shazam le crédite comme co-auteur de « TEAM MDC (VOU) », sorti sous le label JIXELS STUDIO’Z en décembre 2023, et Deezer le crédite comme compositeur de « She miss me » d’Edday, avec Shanika et Jixels, sous la graphie Johnathan Elusca. Ce profil rapporte ces crédits publiés, avec leur variante d’orthographe, sans inventer de biographie autour de ce nom.",
+  ),
+  (
+    "Quel est le premier titre de Jixels ?",
+    "Le premier titre commercial documenté est « PEACHY », signé JIXELS et TEAM-MDC, sorti le 18 octobre 2023, auquel le compteur indépendant MyStreamCount attribue 6 250 écoutes sur Spotify. Il est suivi le 6 décembre 2023 par « TEAM MDC (VOU) », sur le label JIXELS STUDIO’Z, à 160 BPM, avec quatre auteurs crédités dont Jonathan ELUSCA.",
+  ),
+  (
+    "Qu’est-ce que TEAM MDC dans les titres de Jixels ?",
+    "TEAM MDC est la signature d’équipe qui accompagne Jixels depuis ses débuts : TEAM-MDC co-signe « PEACHY » en octobre 2023, puis donne son nom à « TEAM MDC (VOU) » sur le label JIXELS STUDIO’Z. Les lettres reviennent en 2024 avec LESEB MDC, invité de « SHE LIKE TNB ». Aucune source ne dit ce que signifie MDC : ce profil y lit seulement une équipe de maison derrière les invités.",
+  ),
+  (
+    "Pourquoi le clavier est-il au centre du bouyon de Jixels ?",
+    "Parce que, dans le bouyon moderne, le clavier est le moteur mélodique, l’héritage direct des claviers de <a href=\"/wck.html\">WCK</a> qui ont fondé le genre en Dominique. RFI a d’ailleurs présenté Jixels comme le maître du clavier de « Poukwa ». Ses titres sont construits comme des véhicules pour les voix invitées, avec des introductions et des refrains au clavier qui portent la mélodie.",
+  ),
+  (
+    "C’est quoi « Poukwa » ?",
+    "« Poukwa » est un single de 2025 crédité à Krys, Edday et Jixels. RFI, dans Couleurs tropicales, l’a présenté comme le banger bouyon du chanteur guadeloupéen Krys, en collaboration avec Edday, artiste incontournable du bouyon aux Antilles, et Jixels, maître du clavier. Un classement de la Grenade reproduit par iCharts l’a placé en tête de son top. Sur Shazam, le titre compte 5 410 recherches.",
+  ),
+  (
+    "Qui chante « Nouveau La » avec Jixels ?",
+    "« Nouveau La » est un titre de BRG Hollywood avec Jixels en featuring. C’est le titre le plus recherché de Jixels sur Shazam, avec 213 000 Shazams, loin devant « CHUT » et ses 15 500. Les tracklists du Soca Podcast le programment sous le crédit DJ IBO et Brg Hollywood featuring Jixels, parmi leurs sélections du carnaval 2026.",
+  ),
+  (
+    "Quels titres Jixels a-t-il faits avec Edday ?",
+    "Edday est son partenaire le plus régulier : « Poukwa » avec Krys et « AN MAS LA » avec FANA et MAS’MOUL MASSIF en 2025, puis en 2026 « Touchdown », « Jéré Sa » avec YSN, DJ SOFTEE et DJ BOKO, et « She miss me » avec Shanika, où Jonathan Elusca est crédité comme compositeur. La tracklist Sewo Jam ajoute « You Mad » avec Reo. Voir le profil d’<a href=\"/edday.html\">Edday</a>.",
+  ),
+  (
+    "C’est quoi « BALAOU FRIT » de Jixels ?",
+    "« BALAOU FRIT (MORNE FLEURET FREESTYLE) » est un single de 2024 de Jixels avec LESTEF KJF, publié aussi en version Radio Edit, et devenu son titre freestyle de référence. Les tracklists du mini mix Sewo Jam de Digga D le programment sous la forme « Balou Frit », crédité à Jixels et Lestef KJF, parmi les titres de carnaval de la Dominique et des Antilles françaises.",
+  ),
+  (
+    "Pourquoi Shazam classe-t-il Jixels en musique de fête de fin d’année ?",
+    "Parce que ses premières sorties commerciales sont des titres de saison de décembre. « TEAM MDC (VOU) », sorti le 6 décembre 2023 sous JIXELS STUDIO’Z, est classé Christmas par Shazam, et « XMAS CHO » suit en 2024. La page d’artiste de Jixels porte donc l’étiquette Holiday, musique festive, alors que le coeur de son catalogue est le bouyon de carnaval et de soirée. Jixels publie au rythme du calendrier antillais, des fêtes de fin d’année au carnaval.",
+  ),
+  (
+    "Jixels joue-t-il en live ?",
+    "Oui, selon ses propres publications et la presse locale. Son compte TikTok documente un show au festival de la bouffe à Kourou, en Guyane, avec les codes 971 et 973. Au Goziéval 2026, le compte de la Ville du Gosier présente MMG comme le groupe de Jixels, un nouveau groupe qui a eu le coeur du public. Un avant programme du World Creole Music Festival 2025 le listait aussi parmi les DJ de la Night 2, ligne qu’aucun compte rendu ouvert ne confirme en prestation.",
+  ),
+  (
+    "Où écouter Jixels ?",
+    "Commencez par « Nouveau La » avec BRG Hollywood, son titre le plus shazamé, puis « Poukwa » avec Krys et Edday, « BALAOU FRIT » avec Lestef KJF pour le freestyle, et « Jéré Sa » avec DJ BOKO pour sa sortie 2026 la plus connectée. Notre <a href=\"/playlist-bouyon.html\">playlist Bouyon Road Mix</a> suit le même circuit, de la Guadeloupe à la Dominique.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/jixels.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/jixels.html#artist", "name": "Jixels", "description": "Claviériste, producteur et artiste bouyon ancré en Guadeloupe, présenté par RFI comme le maître du clavier de Poukwa, de Krys, Edday et Jixels. Featuring le plus shazamé sur Nouveau La de BRG Hollywood, partenaire récurrent d’Edday, de Lestef KJF et de DJ BOKO sur Jéré Sa. Les crédits publiés de ses titres portent le nom de Jonathan Elusca comme auteur et compositeur.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "PEACHY"}, {"@type": "MusicRecording", "name": "TEAM MDC (VOU)"}, {"@type": "MusicRecording", "name": "FÈ SA TRANBLÉ"}, {"@type": "MusicRecording", "name": "BALAOU FRIT (MORNE FLEURET FREESTYLE)"}, {"@type": "MusicRecording", "name": "Kiss Me"}, {"@type": "MusicRecording", "name": "YO KA PALÉ"}, {"@type": "MusicRecording", "name": "XMAS CHO"}, {"@type": "MusicRecording", "name": "Poukwa"}, {"@type": "MusicRecording", "name": "AN MAS LA"}, {"@type": "MusicRecording", "name": "VODY 22"}, {"@type": "MusicRecording", "name": "Nouveau La"}, {"@type": "MusicRecording", "name": "Kalollipop"}, {"@type": "MusicRecording", "name": "Jéré Sa"}, {"@type": "MusicRecording", "name": "Touchdown"},
       {
        "@type": "MusicRecording",
@@ -240,13 +290,63 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Jixels?", "Jixels is a keyboardist, producer and bouyon artist anchored in Guadeloupe, active in singles since 2023. RFI presented him as the master of the keyboard on “Poukwa”, the Krys track with Edday published in 2025. His most searched track on Shazam is “Nouveau La”, with BRG Hollywood, at more than 213,000 Shazams, and his catalogue counts more than twenty singles between 2023 and 2026, including “BALAOU FRIT”, “Poukwa”, “Touchdown” and “Jéré Sa”. His own TikTok account carries the Guadeloupe code in its handle, jixels971, and his published credits attach the writer and composer name Jonathan Elusca to his tracks."),
-  ("Which name signs the writing and composition credits of Jixels?", "The name Jonathan Elusca, and it is the fact other profiles do not pick up. Deezer credits him as sole writer and composer of “FÈ SA TRANBLÉ”, Shazam credits him as co-writer of “TEAM MDC (VOU)”, released under the JIXELS STUDIO’Z label in December 2023, and Deezer credits him as composer of Edday “She miss me”, with Shanika and Jixels, under the spelling Johnathan Elusca. This profile reports those published credits, with their spelling variant, without inventing a biography around that name."),
-  ("What is “Poukwa”?", "“Poukwa” is a 2025 single credited to Krys, Edday and Jixels. RFI, on Couleurs tropicales, presented it as the bouyon banger of the Guadeloupean singer Krys, in collaboration with Edday, an essential bouyon artist in the Antilles, and Jixels, master of the keyboard. A Grenada chart reproduced by iCharts placed it at the top of its ranking. On Shazam, the track counts 5,410 searches, which makes it one of the most identified tracks of the trio."),
-  ("Why does Shazam class Jixels as end of year party music?", "Because his first commercial releases are December season tracks. “TEAM MDC (VOU)”, released on 6 December 2023 under JIXELS STUDIO’Z, is classed Christmas by Shazam, and “XMAS CHO” follows in 2024. The Jixels artist page therefore carries the Holiday tag, festive music, while the core of his catalogue is carnival and party bouyon. It is a catalogue artefact that tells a true thing: Jixels publishes at the rhythm of the Antillean calendar, from the end of year parties to carnival."),
-  ("Does Jixels play live?", "Yes, according to his own publications and the local press. His TikTok account documents a show at the food festival in Kourou, in French Guiana, with the codes 971 and 973, and a video by a spectator of the Bblack Cruise Festival calls him the real showman. At the 2026 Goziéval, the Ville du Gosier account presents MMG as the group of Jixels, a new group that won the heart of the public. Another of his own videos shows him testing dancehall for the first time with FANA, on the wyflriddim hashtag, proof that his stage life also runs through the freestyle and sound system side of the circuit. A preview of the 2025 World Creole Music Festival also listed him among the DJs of Night 2, a preview line that no report opened for this profile confirms as a performance."),
-  ("Where can I hear Jixels?", "Start with “Nouveau La” with <a href=\"/en/brg-hollywood.html\">BRG Hollywood</a>, his most shazamed track, then “Poukwa” with Krys and <a href=\"/en/edday.html\">Edday</a>, “BALAOU FRIT” with Lestef KJF for the freestyle, and “Jéré Sa” with <a href=\"/en/dj-boko.html\">DJ BOKO</a> for his most connected 2026 release. Our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> follows the same circuit, from Guadeloupe to Dominica.")
- ],
+  (
+    "Who is Jixels?",
+    "Jixels is a keyboardist, producer and bouyon artist anchored in Guadeloupe, active in singles since 2023. RFI presented him as the master of the keyboard on “Poukwa”, the Krys track with Edday published in 2025. His most searched track on Shazam is “Nouveau La”, with BRG Hollywood, at more than 213,000 Shazams, and his catalogue counts more than twenty singles between 2023 and 2026.",
+  ),
+  (
+    "Where is Jixels from?",
+    "Jixels is anchored in Guadeloupe: his TikTok account carries the island code in its handle, jixels971, the Ville du Gosier hailed his group MMG at the 2026 Goziéval, and RFI presents him alongside the Guadeloupean singer Krys. No biography, however, publishes his date or place of birth: this is a documented anchoring, not a birth record.",
+  ),
+  (
+    "Jixels or Jixel: how is his name spelled?",
+    "The form published by his catalogues is Jixels, sometimes in capitals, JIXELS, as on his JIXELS STUDIO’Z label. The tracklist of the Digga D Sewo Jam mini mix, however, writes Jixel, in the singular, on “You Mad”, credited to Reo, DJ Lucshiy, Jixel and Edday. This profile keeps that spelling as published: mix credits are often typed on the fly before being stabilised on the platforms.",
+  ),
+  (
+    "Which name signs the writing and composition credits of Jixels?",
+    "The name Jonathan Elusca. Deezer credits him as sole writer and composer of “FÈ SA TRANBLÉ”, Shazam credits him as co-writer of “TEAM MDC (VOU)”, released under the JIXELS STUDIO’Z label in December 2023, and Deezer credits him as composer of Edday “She miss me”, with Shanika and Jixels, under the spelling Johnathan Elusca. This profile reports those published credits, with their spelling variant, without inventing a biography around that name.",
+  ),
+  (
+    "What was Jixels first song?",
+    "The first documented commercial release is “PEACHY”, signed JIXELS and TEAM-MDC, released on 18 October 2023, which the independent counter MyStreamCount credits with 6,250 Spotify streams. It was followed on 6 December 2023 by “TEAM MDC (VOU)”, on the JIXELS STUDIO’Z label, at 160 BPM, with four credited songwriters including Jonathan ELUSCA.",
+  ),
+  (
+    "What is TEAM MDC in Jixels songs?",
+    "TEAM MDC is the crew signature that has accompanied Jixels since his start: TEAM-MDC co-signs “PEACHY” in October 2023, then gives its name to “TEAM MDC (VOU)” on the JIXELS STUDIO’Z label. The letters return in 2024 with LESEB MDC, featured on “SHE LIKE TNB”. No source says what MDC stands for: this profile reads it only as a home team behind the guests.",
+  ),
+  (
+    "Why is the keyboard central to Jixels bouyon?",
+    "Because in modern bouyon the keyboard is the melodic engine, the direct heritage of the <a href=\"/en/wck.html\">WCK</a> keyboards that founded the genre in Dominica. RFI in fact presented Jixels as the master of the keyboard on “Poukwa”. His tracks are built as vehicles for the guest voices, with keyboard introductions and choruses that carry the melody.",
+  ),
+  (
+    "What is “Poukwa”?",
+    "“Poukwa” is a 2025 single credited to Krys, Edday and Jixels. RFI, on Couleurs tropicales, presented it as the bouyon banger of the Guadeloupean singer Krys, in collaboration with Edday, an essential bouyon artist in the Antilles, and Jixels, master of the keyboard. A Grenada chart reproduced by iCharts placed it at the top of its ranking. On Shazam, the track counts 5,410 searches.",
+  ),
+  (
+    "Who sings “Nouveau La” with Jixels?",
+    "“Nouveau La” is a BRG Hollywood track featuring Jixels. It is the most searched Jixels track on Shazam, with 213,000 Shazams, far ahead of “CHUT” and its 15,500. The Soca Podcast tracklists programme it under the credit DJ IBO and Brg Hollywood featuring Jixels, among their 2026 carnival selections.",
+  ),
+  (
+    "Which songs has Jixels made with Edday?",
+    "Edday is his most regular partner: “Poukwa” with Krys and “AN MAS LA” with FANA and MAS’MOUL MASSIF in 2025, then in 2026 “Touchdown”, “Jéré Sa” with YSN, DJ SOFTEE and DJ BOKO, and “She miss me” with Shanika, where Jonathan Elusca is credited as composer. The Sewo Jam tracklist adds “You Mad” with Reo. See the <a href=\"/en/edday.html\">Edday</a> profile.",
+  ),
+  (
+    "What is “BALAOU FRIT” by Jixels?",
+    "“BALAOU FRIT (MORNE FLEURET FREESTYLE)” is a 2024 Jixels single with LESTEF KJF, also published in a Radio Edit version, and it became his reference freestyle track. The tracklists of the Digga D Sewo Jam mini mix programme it as “Balou Frit”, credited to Jixels and Lestef KJF, among the carnival tracks of Dominica and the French Antilles.",
+  ),
+  (
+    "Why does Shazam class Jixels as end of year party music?",
+    "Because his first commercial releases are December season tracks. “TEAM MDC (VOU)”, released on 6 December 2023 under JIXELS STUDIO’Z, is classed Christmas by Shazam, and “XMAS CHO” follows in 2024. The Jixels artist page therefore carries the Holiday tag, festive music, while the core of his catalogue is carnival and party bouyon. Jixels publishes at the rhythm of the Antillean calendar, from the end of year parties to carnival.",
+  ),
+  (
+    "Does Jixels play live?",
+    "Yes, according to his own publications and the local press. His TikTok account documents a show at the food festival in Kourou, in French Guiana, with the codes 971 and 973. At the 2026 Goziéval, the Ville du Gosier account presents MMG as the group of Jixels, a new group that won the heart of the public. A preview of the 2025 World Creole Music Festival also listed him among the DJs of Night 2, a line no report opened confirms as a performance.",
+  ),
+  (
+    "Where can I hear Jixels?",
+    "Start with “Nouveau La” with BRG Hollywood, his most shazamed track, then “Poukwa” with Krys and Edday, “BALAOU FRIT” with Lestef KJF for the freestyle, and “Jéré Sa” with DJ BOKO for his most connected 2026 release. Our <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix playlist</a> follows the same circuit, from Guadeloupe to Dominica.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/jixels.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/jixels.html#artist", "name": "Jixels", "description": "Keyboardist, producer and bouyon artist anchored in Guadeloupe, presented by RFI as the master of the keyboard on Poukwa, by Krys, Edday and Jixels. Most shazamed feature on Nouveau La by BRG Hollywood, recurring partner of Edday, Lestef KJF and DJ BOKO on Jéré Sa. The published credits of his tracks carry the name Jonathan Elusca as writer and composer.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "PEACHY"}, {"@type": "MusicRecording", "name": "TEAM MDC (VOU)"}, {"@type": "MusicRecording", "name": "FÈ SA TRANBLÉ"}, {"@type": "MusicRecording", "name": "BALAOU FRIT (MORNE FLEURET FREESTYLE)"}, {"@type": "MusicRecording", "name": "Kiss Me"}, {"@type": "MusicRecording", "name": "YO KA PALÉ"}, {"@type": "MusicRecording", "name": "XMAS CHO"}, {"@type": "MusicRecording", "name": "Poukwa"}, {"@type": "MusicRecording", "name": "AN MAS LA"}, {"@type": "MusicRecording", "name": "VODY 22"}, {"@type": "MusicRecording", "name": "Nouveau La"}, {"@type": "MusicRecording", "name": "Kalollipop"}, {"@type": "MusicRecording", "name": "Jéré Sa"}, {"@type": "MusicRecording", "name": "Touchdown"},
       {
        "@type": "MusicRecording",

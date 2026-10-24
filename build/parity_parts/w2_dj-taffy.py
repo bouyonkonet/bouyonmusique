@@ -51,8 +51,8 @@ FR = {
   [
    "Les collaborations du Riddim Beast : Gwada G, Nice, Wotlis, Quan et les voix du studio",
    [
-    "Un producteur se lit à ses invités. Ceux de DJ Taffy dessinent la carte complète de son réseau. Côté Guadeloupe : Gwada G, figure du bouyon gwada, invité sur « On your back » en 2023, et partenaire des titres « Se Pa Taw » et « Money », crédités Mr Gwada x DJ Taffy dans les tracklists du Soca Podcast, ainsi que de « S.O.T.T », crédité DJ Taffy X Zone Rouge X Gwada G. Le même Gwada G figure, comme DJ Taffy, au programme de la Nuit 3 du WCMF 2026 : les collaborateurs de studio se retrouvent sur la grande scène de Roseau, ce qui dit la cohérence du réseau.",
-    "Côté Dominique : Nice, invité sous le nom Nice767 sur « Situationship » en 2023, et lui aussi programmé à la Nuit 3 du WCMF 2026 selon les guides publiés, où son profil de ce site le documente à la page <a href=\"/nice.html\">Nice</a>. Wotlis, invité récurrent des albums, sur « Tie up » en 2024 et « Sick » en 2025, et sur « Dat She Want », crédité Dj Taffy avec Paw et Wotlis dans les tracklists de mixes. Paw, présent sur « Sick » et sur « Dat She Want ». Quan, associé au titre « Peep Peep Pop Pop » dans le titre de sa vidéo, et au « DJ Taffy X Quan (Bouyon stars) » de la liste Viberate. Et « Leaving », crédité Litleboy x Quan Dan x DJ Taffy dans les tracklists, qui relie le studio de DJ Taffy à Litle Boy, autre producteur nommé aux Dominica Music Awards 2025.",
+    "Un producteur se lit à ses invités. Ceux de DJ Taffy dessinent la carte complète de son réseau. Côté Dominique d’abord : Gwada G, artiste dominicain malgré un nom de scène qui évoque la Guadeloupe, invité sur « On your back » en 2023, et partenaire des titres « Se Pa Taw » et « Money », crédités Mr Gwada x DJ Taffy dans les tracklists du Soca Podcast, ainsi que de « S.O.T.T », crédité DJ Taffy X Zone Rouge X Gwada G. Le même Gwada G figure, comme DJ Taffy, au programme de la Nuit 3 du WCMF 2026 : les collaborateurs de studio se retrouvent sur la grande scène de Roseau, ce qui dit la cohérence du réseau.",
+    "Côté Dominique encore : Nice, invité sous le nom Nice767 sur « Situationship » en 2023, et lui aussi programmé à la Nuit 3 du WCMF 2026 selon les guides publiés, où son profil de ce site le documente à la page <a href=\"/nice.html\">Nice</a>. Wotlis, invité récurrent des albums, sur « Tie up » en 2024 et « Sick » en 2025, et sur « Dat She Want », crédité Dj Taffy avec Paw et Wotlis dans les tracklists de mixes. Paw, présent sur « Sick » et sur « Dat She Want ». Quan, associé au titre « Peep Peep Pop Pop » dans le titre de sa vidéo, et au « DJ Taffy X Quan (Bouyon stars) » de la liste Viberate. Et « Leaving », crédité Litleboy x Quan Dan x DJ Taffy dans les tracklists, qui relie le studio de DJ Taffy à Litle Boy, autre producteur nommé aux Dominica Music Awards 2025.",
     "Deux autres traces complètent ce réseau. « L2T Anthem », crédité DJ Taffy et Shabbeh dans les tracklists du Soca Podcast, figure aussi dans la liste des titres populaires de Viberate. Et « Home », crédité Taffy x Shelly dans le mix Soca et Bouyon 2025 vers 2026 du Jamz Podcast, prolonge la collaboration avec Shelly au-delà de « Make Her Bawl ». Aucune de ces traces n’est un classement ou un prix : ce sont des crédits de tracklists et de plateformes, rapportés comme tels, qui montrent un studio branché sur les deux rives du bouyon, la Dominique et la Guadeloupe.",
     "Cette densité de collaborations explique la forme de sa reconnaissance aux prix dominicains. Un producteur qui fournit des riddims aux chanteurs, qui produit pour la scène francophone et qui publie ses propres albums devient, saison après saison, un nom que les jurys et les publics associent à la fabrique même du son de l’année. C’est exactement ce que la section suivante documente."
    ]
@@ -86,13 +86,67 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est DJ Taffy ?", "DJ Taffy est un DJ et producteur bouyon de la Dominique, connu comme le Riddim Beast. Son label est Riddim Beast Studios, et ses crédits d’auteur publiés par Shazam portent le nom de Tafari Maffei. Il est finaliste du Producteur de l’année aux Dominica Music Awards 2025 et il figure au programme de la Nuit 3 du WCMF 2026 selon les guides publiés."),
-  ("Pourquoi DJ Taffy est-il appelé Riddim Beast ?", "Le nom est documenté par trois sources : les Dominica Music Awards 2025 le listent comme DJ Taffy (Riddim Beast) parmi les finalistes du Producteur de l’année, son label s’appelle Riddim Beast Studios, et la description du clip officiel « Kay ve yo » de Shanika le crédite comme Produced by DJ Taffy Riddim Beast, sur le Funny Riddim."),
-  ("Quel est le titre le plus documenté de DJ Taffy ?", "« Make Her Bawl », crédité Signal Band x Shelly x DJ Taffy x Trixx. Island Vybe, reprenant Sokah2Soca, le liste parmi les chansons bouyon et soca en tendance pour la Dominique pour la semaine se terminant le 26 avril 2025, dans un classement compilé par The Soca Source sur Spotify. Le titre circule aussi dans les mixes bouyon de 2025 et 2026."),
-  ("Quels albums DJ Taffy a-t-il publiés sur Riddim Beast Studios ?", "Selon Shazam, « Tie up », avec Eks et Wotlis, et « Warm up », avec Jackie Beatz, sortent le 19 septembre 2024 dans l’album Can’t Stop Won’t Stop, et « Sick », avec Wotlis et Paw, sort le 17 septembre 2025 dans l’album Pick your speed, Know your limit. Le catalogue du label compte aussi, en 2023, « Peep Peep Pop Pop », « Situationship » avec Nice767, « On your back » avec Gwada G, « Gwada we going » avec Tidy et « Wake Me Up (Live) »."),
-  ("DJ Taffy joue-t-il au WCMF 2026 ?", "Oui, selon les guides publiés du World Creole Music Festival 2026, notamment writeups24 et Sweet TNT, DJ Taffy joue la Nuit 3, le dimanche 25 octobre 2026, au Windsor Park Sports Stadium de Roseau, sur la nuit de clôture avec Machel Montano, Uncle Waffles, Fridayy, Maxi Priest, Shelly and The Signal Band, Gwada G et Nice."),
-  ("Qu’est-ce que Taffy and Co à Ti Vilaj Kwéyòl 2026 ?", "Selon Dominica Weekly, le programme officiel du Jour 2 de Ti Vilaj Kwéyòl 2026, le mardi 20 octobre aux Jardins botaniques de Roseau, place à 17 h 40 un Super Mix réunissant Taffy and Co, Gwada G, Real Reel, Trixx et Kenny G. Le même média présente Taffy and Co avec la glose the Bouyon Boss pour cette programmation. En 2025, Riches Karayib citait déjà DJ Taffy and Friends parmi les artistes de la scène de Ti Vilaj Kwéyòl.")
- ],
+  (
+    "Qui est DJ Taffy ?",
+    "DJ Taffy est un DJ et producteur bouyon de la Dominique, connu comme le Riddim Beast. Son label est Riddim Beast Studios, et ses crédits d’auteur publiés par Shazam portent le nom de Tafari Maffei. Il est finaliste du Producteur de l’année aux Dominica Music Awards 2025 et il figure au programme de la Nuit 3 du WCMF 2026 selon les guides publiés.",
+  ),
+  (
+    "Pourquoi DJ Taffy est-il appelé Riddim Beast ?",
+    "Le nom est documenté par trois sources : les Dominica Music Awards 2025 le listent comme DJ Taffy (Riddim Beast) parmi les finalistes du Producteur de l’année, son label s’appelle Riddim Beast Studios, et la description du clip officiel « Kay ve yo » de Shanika le crédite comme Produced by DJ Taffy Riddim Beast, sur le Funny Riddim.",
+  ),
+  (
+    "Quel est le titre le plus documenté de DJ Taffy ?",
+    "« Make Her Bawl », crédité Signal Band x Shelly x DJ Taffy x Trixx. Island Vybe, reprenant Sokah2Soca, le liste parmi les chansons bouyon et soca en tendance pour la Dominique pour la semaine se terminant le 26 avril 2025, dans un classement compilé par The Soca Source sur Spotify. Le titre circule aussi dans les mixes bouyon de 2025 et 2026.",
+  ),
+  (
+    "Quels albums DJ Taffy a-t-il publiés sur Riddim Beast Studios ?",
+    "Selon Shazam, « Tie up », avec Eks et Wotlis, et « Warm up », avec Jackie Beatz, sortent le 19 septembre 2024 dans l’album Can’t Stop Won’t Stop, et « Sick », avec Wotlis et Paw, sort le 17 septembre 2025 dans l’album Pick your speed, Know your limit. Le catalogue du label compte aussi, en 2023, « Peep Peep Pop Pop », « Situationship » avec Nice767, « On your back » avec Gwada G, « Gwada we going » avec Tidy et « Wake Me Up (Live) ».",
+  ),
+  (
+    "DJ Taffy joue-t-il au WCMF 2026 ?",
+    "Oui, selon les guides publiés du World Creole Music Festival 2026, notamment writeups24 et Sweet TNT, DJ Taffy joue la Nuit 3, le dimanche 25 octobre 2026, au Windsor Park Sports Stadium de Roseau, sur la nuit de clôture avec Machel Montano, Uncle Waffles, Fridayy, Maxi Priest, Shelly and The Signal Band, Gwada G et Nice.",
+  ),
+  (
+    "Qu’est-ce que Taffy and Co à Ti Vilaj Kwéyòl 2026 ?",
+    "Selon Dominica Weekly, le programme officiel du Jour 2 de Ti Vilaj Kwéyòl 2026, le mardi 20 octobre aux Jardins botaniques de Roseau, place à 17 h 40 un Super Mix réunissant Taffy and Co, Gwada G, Real Reel, Trixx et Kenny G. Le même média présente Taffy and Co avec la glose the Bouyon Boss pour cette programmation. En 2025, Riches Karayib citait déjà DJ Taffy and Friends parmi les artistes de la scène de Ti Vilaj Kwéyòl.",
+  ),
+  (
+    "Quel est le vrai nom de DJ Taffy ?",
+    "Les crédits d’auteur publiés par Shazam pour plusieurs de ses titres portent le nom de Tafari Maffei : « Wake Me Up (Live) », « Peep Peep Pop Pop », et « On your back », coécrit avec Kurt Douglas. Ce site rapporte ce nom comme celui qui signe ses compositions publiées, sans en faire un état civil complet. Sur scène et dans les crédits de production, il signe DJ Taffy ou Riddim Beast.",
+  ),
+  (
+    "D’où vient DJ Taffy ?",
+    "DJ Taffy est de la Dominique. Toutes les traces de son travail y convergent : les classements de tendance bouyon et soca de la Dominique le citent, les Dominica Music Awards le nomment, les événements créoles de Roseau l’affichent, et le World Creole Music Festival le garde pour sa nuit de clôture. C’est un acteur du bouyon chez lui, à Roseau, avant d’être un nom qui voyage.",
+  ),
+  (
+    "Pour quel prix DJ Taffy est-il nommé ?",
+    "DJ Taffy est finaliste de la catégorie Producer of the Year (producteur de l’année) des Dominica Music Awards 2025, selon la liste officielle publiée par Black Island Girl. Les autres finalistes sont Arade « Maskman » Moses, <a href=\"/tha-wizzard.html\">Tha Wizzard</a>, Andel « Fre3ze » Horsford, Litle Boy et Cross D Bridge Studio. Ce site rapporte une nomination : aucune source consultée ne lui attribue la victoire.",
+  ),
+  (
+    "Qui a produit « Kay ve yo » de Shanika ?",
+    "Selon la description du clip officiel, « Kay ve yo » de <a href=\"/shanika.html\">Shanika</a> est produit par DJ Taffy Riddim Beast, sur son Funny Riddim, avec une vidéo produite et montée par Voodoo Studio. Un producteur dominicain qui produit, sur son propre riddim, le titre d’une artiste de la scène bouyon de Guadeloupe : la circulation entre la Dominique et les Antilles passe aussi par les studios.",
+  ),
+  (
+    "Quels riddims DJ Taffy a-t-il faits ?",
+    "La liste des titres phares de DJ Taffy publiée par Viberate compte « LLSR (Last Lap Solo Riddim) Boyoun 2021 », « Funny Riddim (Special) » et « Maltete Riddim », à côté de remix bouyon comme « Lighter » et « Truth (Bouyon Instrumental) ». Le titre de la vidéo de « Peep Peep Pop Pop » porte aussi le mot-clé BigTruckRiddim. DJ Taffy est d’abord un faiseur de riddims, ces bases instrumentales faites pour porter des voix.",
+  ),
+  (
+    "Avec quels artistes DJ Taffy a-t-il travaillé ?",
+    "Ses crédits le relient à <a href=\"/gwada-g.html\">Gwada G</a> (« On your back », « Se Pa Taw », « Money », « S.O.T.T » avec Zone Rouge), à Nice767 sur « Situationship », à Wotlis et Paw sur ses albums et sur « Dat She Want », à Quan, à Litleboy et Quan Dan sur « Leaving », à Shabbeh sur « L2T Anthem », et à Shelly, Trixx et Signal Band sur « Make Her Bawl », puis sur « Home » avec Shelly.",
+  ),
+  (
+    "DJ Taffy joue-t-il au lancement de Mas Domnik 2026 ?",
+    "Oui, selon Variety News Group : le lancement officiel de Mas Domnik 2026, le vendredi 28 novembre à The Factory, sur Valley Road, organisé par le ministère du Tourisme et la Discover Dominica Authority, programme DJ Taffy and Friends avec DJ MJ et MV on the Keys, DJ Sleem, DJ Snow et DJ Flip, ainsi que TK Combo et Riddim Knockaz en live. Voir <a href=\"/mas-domnik.html\">Mas Domnik</a>.",
+  ),
+  (
+    "Quelle est la différence entre un DJ producteur comme DJ Taffy et un groupe bouyon ?",
+    "Le bouyon des groupes, celui de <a href=\"/wck.html\">WCK</a> et des grandes formations, se joue sur scène avec des musiciens. Le bouyon d’un DJ producteur comme DJ Taffy se fabrique en studio et se teste dans la danse : un riddim, une voix posée dessus, une réaction immédiate du public. DJ Taffy appartient à cette seconde famille, celle où DJ Cut s’était illustré avant lui avec le Wrecketeng.",
+  ),
+  (
+    "Où écouter DJ Taffy ?",
+    "Commencez par « Make Her Bawl », puis remontez aux albums de Riddim Beast Studios. Le titre tourne dans les mixes : le Bouyon Mix 2025 du podcast Blaqrose Supreme le programme à 27 minutes 02, et le Bouyon Passport 2026 de DJ Close Connections le liste avec « Take Me As I Am » de Trilla G. La <a href=\"/playlist-bouyon.html\">Bouyon Road Mix</a> de Bouyon Shattaz complète l’écoute.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/dj-taffy.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/dj-taffy.html#artist", "name": "DJ Taffy", "description": "DJ et producteur bouyon de la Dominique connu comme le Riddim Beast, fondateur du son Riddim Beast Studios, co-auteur de « Make Her Bawl » et finaliste Producteur de l’année aux Dominica Music Awards 2025.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Make Her Bawl"}, {"@type": "MusicRecording", "name": "Peep Peep Pop Pop"}, {"@type": "MusicRecording", "name": "Situationship"}, {"@type": "MusicRecording", "name": "On your back"}, {"@type": "MusicRecording", "name": "Gwada we going"}, {"@type": "MusicRecording", "name": "Wake Me Up (Live)"}, {"@type": "MusicRecording", "name": "Tie up"}, {"@type": "MusicRecording", "name": "Warm up"}, {"@type": "MusicRecording", "name": "Sick"}, {"@type": "MusicRecording", "name": "Dat She Want"}, {"@type": "MusicRecording", "name": "L2T Anthem"}, {"@type": "MusicRecording", "name": "Leaving"},
       {
        "@type": "MusicRecording",
@@ -383,8 +437,8 @@ EN = {
   [
    "The Riddim Beast collaborations: Gwada G, Nice, Wotlis, Quan and the studio voices",
    [
-    "A producer is read through his guests. Those of DJ Taffy draw the complete map of his network. On the Guadeloupe side: Gwada G, a bouyon gwada figure, guest on “On your back” in 2023, and partner on the tracks “Se Pa Taw” and “Money”, credited Mr Gwada x DJ Taffy in the Soca Podcast tracklists, as well as “S.O.T.T”, credited DJ Taffy X Zone Rouge X Gwada G. The same Gwada G appears, like DJ Taffy, on the programme of Night 3 of WCMF 2026: the studio collaborators meet again on the big Roseau stage, which shows the coherence of the network.",
-    "On the Dominica side: Nice, guest under the name Nice767 on “Situationship” in 2023, and also billed on Night 3 of WCMF 2026 according to the published guides, where this site documents him on the <a href=\"/en/nice.html\">Nice</a> page. Wotlis, recurring guest of the albums, on “Tie up” in 2024 and “Sick” in 2025, and on “Dat She Want”, credited Dj Taffy featuring Paw and Wotlis in mix tracklists. Paw, present on “Sick” and on “Dat She Want”. Quan, paired with the track “Peep Peep Pop Pop” in its video title, and with the “DJ Taffy X Quan (Bouyon stars)” of the Viberate list. And “Leaving”, credited Litleboy x Quan Dan x DJ Taffy in the tracklists, connecting the DJ Taffy studio to Litle Boy, another producer named at the Dominica Music Awards 2025.",
+    "A producer is read through his guests. Those of DJ Taffy draw the complete map of his network. On the Dominica side first: Gwada G, a Dominican artist despite a stage name that points to Guadeloupe, guest on “On your back” in 2023, and partner on the tracks “Se Pa Taw” and “Money”, credited Mr Gwada x DJ Taffy in the Soca Podcast tracklists, as well as “S.O.T.T”, credited DJ Taffy X Zone Rouge X Gwada G. The same Gwada G appears, like DJ Taffy, on the programme of Night 3 of WCMF 2026: the studio collaborators meet again on the big Roseau stage, which shows the coherence of the network.",
+    "Still on the Dominica side: Nice, guest under the name Nice767 on “Situationship” in 2023, and also billed on Night 3 of WCMF 2026 according to the published guides, where this site documents him on the <a href=\"/en/nice.html\">Nice</a> page. Wotlis, recurring guest of the albums, on “Tie up” in 2024 and “Sick” in 2025, and on “Dat She Want”, credited Dj Taffy featuring Paw and Wotlis in mix tracklists. Paw, present on “Sick” and on “Dat She Want”. Quan, paired with the track “Peep Peep Pop Pop” in its video title, and with the “DJ Taffy X Quan (Bouyon stars)” of the Viberate list. And “Leaving”, credited Litleboy x Quan Dan x DJ Taffy in the tracklists, connecting the DJ Taffy studio to Litle Boy, another producer named at the Dominica Music Awards 2025.",
     "Two more traces complete that network. “L2T Anthem”, credited DJ Taffy and Shabbeh in the Soca Podcast tracklists, also appears in the Viberate top songs list. And “Home”, credited Taffy x Shelly in the Soca and Bouyon 2025 to 2026 mix of the Jamz Podcast, extends the collaboration with Shelly beyond “Make Her Bawl”. None of those traces is a chart or an award: they are tracklist and platform credits, reported as such, showing a studio plugged into both shores of bouyon, Dominica and Guadeloupe.",
     "That density of collaborations explains the form of his recognition at the Dominican awards. A producer who supplies riddims to the singers, who produces for the Francophone scene and who releases his own albums becomes, season after season, a name that juries and audiences associate with the making of the sound of the year itself. That is exactly what the next section documents."
    ]
@@ -418,13 +472,67 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is DJ Taffy?", "DJ Taffy is a bouyon DJ and producer from Dominica, known as the Riddim Beast. His label is Riddim Beast Studios, and his songwriting credits published by Shazam carry the name Tafari Maffei. He is a Producer of the Year finalist at the Dominica Music Awards 2025 and he appears on the programme of Night 3 of WCMF 2026 according to the published guides."),
-  ("Why is DJ Taffy called Riddim Beast?", "The name is documented by three sources: the Dominica Music Awards 2025 list him as DJ Taffy (Riddim Beast) among the Producer of the Year finalists, his label is called Riddim Beast Studios, and the description of the official “Kay ve yo” video by Shanika credits him as Produced by DJ Taffy Riddim Beast, on the Funny Riddim."),
-  ("What is the most documented track by DJ Taffy?", "“Make Her Bawl”, credited Signal Band x Shelly x DJ Taffy x Trixx. Island Vybe, relaying Sokah2Soca, lists it among the trending bouyon and soca songs for Dominica for the week ending April 26, 2025, in a chart compiled by The Soca Source on Spotify. The track also circulates in the bouyon mixes of 2025 and 2026."),
-  ("Which albums has DJ Taffy released on Riddim Beast Studios?", "According to Shazam, “Tie up”, featuring Eks and Wotlis, and “Warm up”, featuring Jackie Beatz, were released on September 19, 2024 in the album Can’t Stop Won’t Stop, and “Sick”, featuring Wotlis and Paw, was released on September 17, 2025 in the album Pick your speed, Know your limit. The label catalogue also holds, in 2023, “Peep Peep Pop Pop”, “Situationship” featuring Nice767, “On your back” featuring Gwada G, “Gwada we going” featuring Tidy and “Wake Me Up (Live)”."),
-  ("Does DJ Taffy play WCMF 2026?", "Yes, according to the published guides of the World Creole Music Festival 2026, notably writeups24 and Sweet TNT, DJ Taffy plays Night 3, on Sunday, October 25, 2026, at Windsor Park Sports Stadium in Roseau, on the closing night with Machel Montano, Uncle Waffles, Fridayy, Maxi Priest, Shelly and The Signal Band, Gwada G and Nice."),
-  ("What is Taffy and Co at Ti Vilaj Kwéyòl 2026?", "According to Dominica Weekly, the official programme of Day 2 of Ti Vilaj Kwéyòl 2026, on Tuesday, October 20 at the Roseau Botanic Gardens, places at 5:40 PM a Super Mix bringing together Taffy and Co, Gwada G, Real Reel, Trixx and Kenny G. The same outlet presents Taffy and Co with the gloss the Bouyon Boss for that billing. In 2025, Riches Karayib already cited DJ Taffy and Friends among the stage artists of Ti Vilaj Kwéyòl.")
- ],
+  (
+    "Who is DJ Taffy?",
+    "DJ Taffy is a bouyon DJ and producer from Dominica, known as the Riddim Beast. His label is Riddim Beast Studios, and his songwriting credits published by Shazam carry the name Tafari Maffei. He is a Producer of the Year finalist at the Dominica Music Awards 2025 and he appears on the programme of Night 3 of WCMF 2026 according to the published guides.",
+  ),
+  (
+    "Why is DJ Taffy called Riddim Beast?",
+    "The name is documented by three sources: the Dominica Music Awards 2025 list him as DJ Taffy (Riddim Beast) among the Producer of the Year finalists, his label is called Riddim Beast Studios, and the description of the official “Kay ve yo” video by Shanika credits him as Produced by DJ Taffy Riddim Beast, on the Funny Riddim.",
+  ),
+  (
+    "What is the most documented track by DJ Taffy?",
+    "“Make Her Bawl”, credited Signal Band x Shelly x DJ Taffy x Trixx. Island Vybe, relaying Sokah2Soca, lists it among the trending bouyon and soca songs for Dominica for the week ending April 26, 2025, in a chart compiled by The Soca Source on Spotify. The track also circulates in the bouyon mixes of 2025 and 2026.",
+  ),
+  (
+    "Which albums has DJ Taffy released on Riddim Beast Studios?",
+    "According to Shazam, “Tie up”, featuring Eks and Wotlis, and “Warm up”, featuring Jackie Beatz, were released on September 19, 2024 in the album Can’t Stop Won’t Stop, and “Sick”, featuring Wotlis and Paw, was released on September 17, 2025 in the album Pick your speed, Know your limit. The label catalogue also holds, in 2023, “Peep Peep Pop Pop”, “Situationship” featuring Nice767, “On your back” featuring Gwada G, “Gwada we going” featuring Tidy and “Wake Me Up (Live)”.",
+  ),
+  (
+    "Does DJ Taffy play WCMF 2026?",
+    "Yes, according to the published guides of the World Creole Music Festival 2026, notably writeups24 and Sweet TNT, DJ Taffy plays Night 3, on Sunday, October 25, 2026, at Windsor Park Sports Stadium in Roseau, on the closing night with Machel Montano, Uncle Waffles, Fridayy, Maxi Priest, Shelly and The Signal Band, Gwada G and Nice.",
+  ),
+  (
+    "What is Taffy and Co at Ti Vilaj Kwéyòl 2026?",
+    "According to Dominica Weekly, the official programme of Day 2 of Ti Vilaj Kwéyòl 2026, on Tuesday, October 20 at the Roseau Botanic Gardens, places at 5:40 PM a Super Mix bringing together Taffy and Co, Gwada G, Real Reel, Trixx and Kenny G. The same outlet presents Taffy and Co with the gloss the Bouyon Boss for that billing. In 2025, Riches Karayib already cited DJ Taffy and Friends among the stage artists of Ti Vilaj Kwéyòl.",
+  ),
+  (
+    "What is DJ Taffy's real name?",
+    "The songwriting credits Shazam publishes for several of his tracks carry the name Tafari Maffei: “Wake Me Up (Live)”, “Peep Peep Pop Pop”, and “On your back”, co-written with Kurt Douglas. This site reports that name as the one signing his published compositions, without turning it into a complete civil record. On stage and in production credits, he goes by DJ Taffy or Riddim Beast.",
+  ),
+  (
+    "Where is DJ Taffy from?",
+    "DJ Taffy is from Dominica. Every trace of his work points there: Dominica's bouyon and soca trending charts cite him, the Dominica Music Awards name him, Roseau's Creole events book him, and the World Creole Music Festival keeps him for its closing night. He is an actor of bouyon at home, in Roseau, before he is a travelling name.",
+  ),
+  (
+    "Which award is DJ Taffy nominated for?",
+    "DJ Taffy is a finalist in the Producer of the Year category of the Dominica Music Awards 2025, according to the official list published by Black Island Girl. The other finalists are Arade “Maskman” Moses, <a href=\"/en/tha-wizzard.html\">Tha Wizzard</a>, Andel “Fre3ze” Horsford, Litle Boy and Cross D Bridge Studio. This site reports a nomination: no source consulted credits him with the win.",
+  ),
+  (
+    "Who produced Shanika's “Kay ve yo”?",
+    "According to the official video description, <a href=\"/en/shanika.html\">Shanika</a>'s “Kay ve yo” is produced by DJ Taffy Riddim Beast, on his Funny Riddim, with the video produced and edited by Voodoo Studio. A Dominican producer producing, on his own riddim, the track of an artist from the Guadeloupe bouyon scene: the circulation between Dominica and the Antilles also runs through the studios.",
+  ),
+  (
+    "Which riddims has DJ Taffy made?",
+    "The DJ Taffy top songs list published by Viberate includes “LLSR (Last Lap Solo Riddim) Boyoun 2021”, “Funny Riddim (Special)” and “Maltete Riddim”, next to bouyon remixes such as “Lighter” and “Truth (Bouyon Instrumental)”. The video title of “Peep Peep Pop Pop” also carries the keyword BigTruckRiddim. DJ Taffy is first a maker of riddims, the instrumental bases built to carry voices.",
+  ),
+  (
+    "Which artists has DJ Taffy worked with?",
+    "His credits link him to <a href=\"/en/gwada-g.html\">Gwada G</a> (“On your back”, “Se Pa Taw”, “Money”, “S.O.T.T” with Zone Rouge), to Nice767 on “Situationship”, to Wotlis and Paw on his albums and on “Dat She Want”, to Quan, to Litleboy and Quan Dan on “Leaving”, to Shabbeh on “L2T Anthem”, and to Shelly, Trixx and Signal Band on “Make Her Bawl”, then on “Home” with Shelly.",
+  ),
+  (
+    "Does DJ Taffy play the Mas Domnik 2026 launch?",
+    "Yes, according to Variety News Group: the official launch of Mas Domnik 2026, on Friday, November 28 at The Factory, on Valley Road, hosted by the Ministry of Tourism and the Discover Dominica Authority, bills DJ Taffy and Friends with DJ MJ and MV on the Keys, DJ Sleem, DJ Snow and DJ Flip, plus live sets by TK Combo and Riddim Knockaz. See <a href=\"/en/mas-domnik.html\">Mas Domnik</a>.",
+  ),
+  (
+    "What is the difference between a DJ producer like DJ Taffy and a bouyon band?",
+    "Band bouyon, the bouyon of <a href=\"/en/wck.html\">WCK</a> and the big groups, is played on stage with musicians. The bouyon of a DJ producer like DJ Taffy is made in the studio and tested in the dance: a riddim, a voice laid over it, an immediate reaction from the crowd. DJ Taffy belongs to that second family, the one where DJ Cut made his mark before him with Wrecketeng.",
+  ),
+  (
+    "Where can I listen to DJ Taffy?",
+    "Start with “Make Her Bawl”, then go up to the Riddim Beast Studios albums. The track runs through the mixes: the Blaqrose Supreme podcast's Bouyon Mix 2025 plays it at 27 minutes 02, and DJ Close Connections' Bouyon Passport 2026 lists it with Trilla G's “Take Me As I Am”. The Bouyon Shattaz <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix</a> completes the listening.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/dj-taffy.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/dj-taffy.html#artist", "name": "DJ Taffy", "description": "Bouyon DJ and producer from Dominica known as the Riddim Beast, founder of the Riddim Beast Studios sound, co-credited name on “Make Her Bawl” and Producer of the Year finalist at the Dominica Music Awards 2025.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Make Her Bawl"}, {"@type": "MusicRecording", "name": "Peep Peep Pop Pop"}, {"@type": "MusicRecording", "name": "Situationship"}, {"@type": "MusicRecording", "name": "On your back"}, {"@type": "MusicRecording", "name": "Gwada we going"}, {"@type": "MusicRecording", "name": "Wake Me Up (Live)"}, {"@type": "MusicRecording", "name": "Tie up"}, {"@type": "MusicRecording", "name": "Warm up"}, {"@type": "MusicRecording", "name": "Sick"}, {"@type": "MusicRecording", "name": "Dat She Want"}, {"@type": "MusicRecording", "name": "L2T Anthem"}, {"@type": "MusicRecording", "name": "Leaving"},
       {
        "@type": "MusicRecording",

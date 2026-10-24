@@ -77,13 +77,63 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Lejuh ?", "Lejuh est un artiste bouyon associé à la Guadeloupe. En décembre 2025, CCN, Caraib Creole News, le cite en premier parmi les artistes bouyon les plus emblématiques du moment en Guadeloupe, avec 1T1, Theomaa, Piscine OSP, Aknose et Shanika, dans une interview de la développeuse Maïté Berchel-Bordin."),
-  ("Qui a produit « Air Force 1 » de Lejuh ?", "Selon les crédits publiés sous le clip officiel, « Air Force 1 » est écrit et interprété par Lejuh, composé et produit par 1T1, et mixé et masterisé par HMC Studio. NRJ Antilles a présenté le titre comme un new hit signé Lejuh."),
-  ("Quels titres relient Lejuh et 1T1 ?", "1T1 a produit « Air Force 1 » et « Lolita » de Lejuh. En retour, Lejuh chante sur plusieurs titres de 1T1 : « Piney » en 2023, « Pied au Plancher » avec Tiitii NBA en 2023, « Mas La Rivé » en 2024 et « Leave Me Alone » avec Dinho, Theomaa et Binksdrick, sorti en septembre 2024."),
-  ("Que veut dire trap bouyon dans le travail de Lejuh ?", "Trap bouyon est l’étiquette utilisée dans les propres publications officielles de Lejuh, notamment les mots-clés de « BIG BELLY » et les hashtags d « AIR FORCE 1 ». Elle désigne sa fusion du bouyon gwada, rapide et dansant, avec les codes de la trap. Ce profil la rapporte comme le vocabulaire de l’artiste, pas comme un genre officiel séparé."),
-  ("Lejuh a-t-il parlé du bouyon tout public ?", "Oui, un entretien en podcast avec Béatrice Potony est consacré à la question « Peut-on faire du bouyon tout public ? », présentée comme un échange sans langue de bois avec Lejuh, avec l’interview complète annoncée sur YouTube. Ce profil cite la question et le format, sans attribuer à l’artiste des réponses qui n’ont pas été transcrites dans les sources consultées."),
-  ("Où commencer pour écouter Lejuh ?", "Commencez par « Air Force 1 », son titre produit par 1T1 et mis en avant par NRJ Antilles, puis « Leave Me Alone » avec 1T1, « BIG BELLY » et « Boss » avec Meryl. Replacez ensuite ces titres dans le bouyon gwada grâce à notre page d’histoire et à notre playlist bouyon.")
- ],
+  (
+    "Qui est Lejuh ?",
+    "Lejuh est un artiste bouyon associé à la Guadeloupe. En décembre 2025, CCN, Caraib Creole News, le cite en premier parmi les artistes bouyon les plus emblématiques du moment en Guadeloupe, avec 1T1, Theomaa, Piscine OSP, Aknose et Shanika, dans une interview de la développeuse Maïté Berchel-Bordin.",
+  ),
+  (
+    "Qui a produit « Air Force 1 » de Lejuh ?",
+    "Selon les crédits publiés sous le clip officiel, « Air Force 1 » est écrit et interprété par Lejuh, composé et produit par 1T1, et mixé et masterisé par HMC Studio. NRJ Antilles a présenté le titre comme un new hit signé Lejuh.",
+  ),
+  (
+    "Quels titres relient Lejuh et 1T1 ?",
+    "1T1 a produit « Air Force 1 » et « Lolita » de Lejuh. En retour, Lejuh chante sur plusieurs titres de 1T1 : « Piney » en 2023, « Pied au Plancher » avec Tiitii NBA en 2023, « Mas La Rivé » en 2024 et « Leave Me Alone » avec Dinho, Theomaa et Binksdrick, sorti en septembre 2024.",
+  ),
+  (
+    "Que veut dire trap bouyon dans le travail de Lejuh ?",
+    "Trap bouyon est l’étiquette utilisée dans les propres publications officielles de Lejuh, notamment les mots-clés de « BIG BELLY » et les hashtags d’« AIR FORCE 1 ». Elle désigne sa fusion du bouyon gwada, rapide et dansant, avec les codes de la trap. Ce profil la rapporte comme le vocabulaire de l’artiste, pas comme un genre officiel séparé.",
+  ),
+  (
+    "Lejuh a-t-il parlé du bouyon tout public ?",
+    "Oui, un entretien en podcast avec Béatrice Potony est consacré à la question « Peut-on faire du bouyon tout public ? », présentée comme un échange sans langue de bois avec Lejuh, avec l’interview complète annoncée sur YouTube. Ce profil cite la question et le format, sans attribuer à l’artiste des réponses qui n’ont pas été transcrites dans les sources consultées.",
+  ),
+  (
+    "Où commencer pour écouter Lejuh ?",
+    "Commencez par « Air Force 1 », son titre produit par 1T1 et mis en avant par NRJ Antilles, puis « Leave Me Alone » avec 1T1, « BIG BELLY » et « Boss » avec Meryl. Replacez ensuite ces titres dans le bouyon gwada grâce à notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, la Road Mix de Bouyon Shattaz, que l’on reçoit en DM en commentant ROAD MIX sous une publication Instagram de @bouyonshattaz.",
+  ),
+  (
+    "D’où vient Lejuh ?",
+    "Lejuh est associé à la Guadeloupe par tout son travail publié : des remerciements de clip adressés à des enseignes de Pointe-à-Pitre et du centre commercial Destreland, le titre « Sòti Gwadloup » avec Admiral T, Dcamp et Lewismelo, et des mots-clés officiels qui citent la Guadeloupe. Aucune biographie publiée ne donne sa commune ni sa date de naissance, et ce site n’en invente pas.",
+  ),
+  (
+    "Qu’est-ce que « Leave Me Alone » avec Lejuh ?",
+    "« Leave Me Alone » est un titre collectif publié par <a href=\"/1t1.html\">1T1</a> le 6 septembre 2024 selon Qobuz, crédité à 1T1 avec Dinho, Lejuh, Theomaa et Binksdrick. Sur Shazam, il arrive en tête des titres associés à Lejuh, devant ses titres solo. Il a aussi tourné dans des mixes bouyon de la saison de carnaval en Dominique, aux côtés de titres de Reo, d’Asa Bantan et de Signal Band.",
+  ),
+  (
+    "Lejuh a-t-il collaboré avec des artistes de la Dominique ?",
+    "Oui. Lejuh chante sur « Adios Amigos », un titre de <a href=\"/reo.html\">Reo</a>, l’artiste bouyon dominicain, avec Jixels, sorti le 22 mai 2025 selon la discographie Qobuz de Reo. Et « BIG BELLY » compte parmi ses compositeurs Dj Luchshiy, producteur associé à la scène dominicaine et aux titres de Reo. Ces crédits relient la Guadeloupe de Lejuh à l’île où le bouyon est né.",
+  ),
+  (
+    "Qui a produit « BIG BELLY » de Lejuh ?",
+    "Selon le clip officiel, « BIG BELLY » est composé par <a href=\"/doc-fix-dem.html\">D.O.C FIX DEM</a> et Dj Luchshiy, puis mixé et masterisé par Hakuna Music Company. La vidéo est réalisée par Kinvi, avec une direction artistique de Manon Moutama et Anaïs Gamot-Toussay. Shazam liste le titre comme un single de 2026, avec D.O.C FIX DEM, et ses mots-clés officiels l’associent au bouyon et au trap bouyon.",
+  ),
+  (
+    "Qu’est-ce que « Boss » de Meryl avec Lejuh ?",
+    "« Boss » est un single de Meryl avec LeJuh, publié en 2026 et classé parmi les titres les plus recherchés de Lejuh sur Shazam. Son clip officiel, présenté par Maison Caviar, a été tourné en Martinique, sur une musique composée par Tuks et YSN. Collaborer avec Meryl, artiste martiniquaise établie des scènes shatta et urbaines francophones, ouvre à Lejuh le public d’une île de plus.",
+  ),
+  (
+    "Qu’est-ce que « Sòti Gwadloup » ?",
+    "« Sòti Gwadloup » est un titre de 2024 qui réunit Admiral T, <a href=\"/dcamp-lewismelo.html\">Dcamp et Lewismelo</a> et Lejuh, selon la liste de sorties publiée par Shazam. La présence d’Admiral T, figure historique des musiques guadeloupéennes, aux côtés de Lejuh et du duo Dcamp et Lewismelo, en fait une rencontre entre générations, et son titre en créole revendique la Guadeloupe.",
+  ),
+  (
+    "Lejuh est-il connu en dehors de la Guadeloupe ?",
+    "Ses titres circulent au-delà de l’archipel. NRJ Antilles a présenté « Air Force 1 » comme un new hit, et un mix live enregistré dans un contexte de festival en France l’enchaîne avec « Bouwéy » de 1T1, entre Natoxie et Theodora. « Leave Me Alone » a tourné dans des mixes de carnaval en Dominique, et le clip de « Boss » avec Meryl a été tourné en Martinique.",
+  ),
+  (
+    "Quels sont les comptes officiels de Lejuh ?",
+    "Les descriptions de ses clips officiels renvoient vers son compte Instagram officiel, lejuhofficiel, et vers sa chaîne YouTube, @lejuh, avec un contact de management et de collaborations au nom de M. Damas. Ses clips créditent aussi une équipe stable, avec Hakuna Music Company, abrégé HMC, comme studio de mix et de mastering récurrent, de « Air Force 1 » à « BIG BELLY ».",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/lejuh.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/lejuh.html#artist", "name": "Lejuh", "description": "Artiste bouyon associé à la Guadeloupe, cité en premier parmi les artistes bouyon emblématiques du moment en Guadeloupe par CCN en décembre 2025. Connu pour Air Force 1, produit par 1T1, BIG BELLY et Boss avec Meryl.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Air Force 1"}, {"@type": "MusicRecording", "name": "BIG BELLY"}, {"@type": "MusicRecording", "name": "Lolita"}, {"@type": "MusicRecording", "name": "Boss"}, {"@type": "MusicRecording", "name": "BIKE LIFE"}, {"@type": "MusicRecording", "name": "Sòti Gwadloup"}, {"@type": "MusicRecording", "name": "Leave Me Alone"}, {"@type": "MusicRecording", "name": "Piney"}, {"@type": "MusicRecording", "name": "Pied au Plancher"}, {"@type": "MusicRecording", "name": "Mas La Rivé"},
       {
        "@type": "MusicRecording",
@@ -236,13 +286,63 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Lejuh?", "Lejuh is a bouyon artist linked to Guadeloupe. In December 2025, CCN, Caraib Creole News, named him first among the most emblematic bouyon artists of the moment in Guadeloupe, with 1T1, Theomaa, Piscine OSP, Aknose and Shanika, in an interview with developer Maïté Berchel-Bordin."),
-  ("Who produced “Air Force 1” by Lejuh?", "According to the credits published under the official video, “Air Force 1” was written and performed by Lejuh, composed and produced by 1T1, and mixed and mastered by HMC Studio. NRJ Antilles presented the record as a new hit by Lejuh."),
-  ("Which records connect Lejuh and 1T1?", "1T1 produced “Air Force 1” and “Lolita” by Lejuh. In return, Lejuh sings on several 1T1 records: “Piney” in 2023, “Pied au Plancher” with Tiitii NBA in 2023, “Mas La Rivé” in 2024 and “Leave Me Alone” with Dinho, Theomaa and Binksdrick, released in September 2024."),
-  ("What does trap bouyon mean in Lejuh’s work?", "Trap bouyon is the label used in Lejuh own official posts, notably the keywords of “BIG BELLY” and the hashtags of “AIR FORCE 1”. It names his fusion of bouyon gwada, fast and dance driven, with the codes of trap. This profile reports it as the artist’s vocabulary, not as a separate official genre."),
-  ("Has Lejuh spoken about all audiences bouyon?", "Yes, a podcast interview with Béatrice Potony is devoted to the question of whether bouyon can be made for all audiences, presented as a straight talking exchange with Lejuh, with the full interview announced on YouTube. This profile quotes the question and the format, without attributing to the artist answers that were not transcribed in the sources consulted."),
-  ("Where should I start listening to Lejuh?", "Start with “Air Force 1”, his record produced by 1T1 and highlighted by NRJ Antilles, then “Leave Me Alone” with 1T1, “BIG BELLY” and “Boss” with Meryl. Then place those records inside bouyon gwada through our history page and our bouyon playlist.")
- ],
+  (
+    "Who is Lejuh?",
+    "Lejuh is a bouyon artist linked to Guadeloupe. In December 2025, CCN, Caraib Creole News, named him first among the most emblematic bouyon artists of the moment in Guadeloupe, with 1T1, Theomaa, Piscine OSP, Aknose and Shanika, in an interview with developer Maïté Berchel-Bordin.",
+  ),
+  (
+    "Who produced “Air Force 1” by Lejuh?",
+    "According to the credits published under the official video, “Air Force 1” was written and performed by Lejuh, composed and produced by 1T1, and mixed and mastered by HMC Studio. NRJ Antilles presented the record as a new hit by Lejuh.",
+  ),
+  (
+    "Which records connect Lejuh and 1T1?",
+    "1T1 produced “Air Force 1” and “Lolita” by Lejuh. In return, Lejuh sings on several 1T1 records: “Piney” in 2023, “Pied au Plancher” with Tiitii NBA in 2023, “Mas La Rivé” in 2024 and “Leave Me Alone” with Dinho, Theomaa and Binksdrick, released in September 2024.",
+  ),
+  (
+    "What does trap bouyon mean in Lejuh’s work?",
+    "Trap bouyon is the label used in Lejuh’s own official posts, notably the keywords of “BIG BELLY” and the hashtags of “AIR FORCE 1”. It names his fusion of bouyon gwada, fast and dance driven, with the codes of trap. This profile reports it as the artist’s vocabulary, not as a separate official genre.",
+  ),
+  (
+    "Has Lejuh spoken about all audiences bouyon?",
+    "Yes, a podcast interview with Béatrice Potony is devoted to the question of whether bouyon can be made for all audiences, presented as a straight talking exchange with Lejuh, with the full interview announced on YouTube. This profile quotes the question and the format, without attributing to the artist answers that were not transcribed in the sources consulted.",
+  ),
+  (
+    "Where should I start listening to Lejuh?",
+    "Start with “Air Force 1”, his track produced by 1T1 and highlighted by NRJ Antilles, then “Leave Me Alone” with 1T1, “BIG BELLY” and “Boss” with Meryl. Then place those tracks inside bouyon gwada through our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, the Bouyon Shattaz Road Mix, which you receive by DM by commenting ROAD MIX under an Instagram post by @bouyonshattaz.",
+  ),
+  (
+    "Where is Lejuh from?",
+    "Lejuh is tied to Guadeloupe by all of his published work: video thanks addressed to shops in Pointe-à-Pitre and the Destreland shopping centre, the track “Sòti Gwadloup” with Admiral T, Dcamp and Lewismelo, and official keywords that name Guadeloupe. No published biography gives his commune or his birth date, and this site does not invent them.",
+  ),
+  (
+    "What is “Leave Me Alone” with Lejuh?",
+    "“Leave Me Alone” is a collective track released by <a href=\"/en/1t1.html\">1T1</a> on 6 September 2024 according to Qobuz, credited to 1T1 with Dinho, Lejuh, Theomaa and Binksdrick. On Shazam, it tops the tracks associated with Lejuh, ahead of his solo tracks. It also ran in bouyon mixes of the carnival season in Dominica, alongside tracks by Reo, Asa Bantan and Signal Band.",
+  ),
+  (
+    "Has Lejuh worked with artists from Dominica?",
+    "Yes. Lejuh sings on “Adios Amigos”, a track by <a href=\"/en/reo.html\">Reo</a>, the Dominican bouyon artist, with Jixels, released on 22 May 2025 according to Reo’s Qobuz discography. And “BIG BELLY” counts among its composers Dj Luchshiy, a producer linked to the Dominican scene and to Reo’s tracks. These credits connect Lejuh’s Guadeloupe to the island where bouyon was born.",
+  ),
+  (
+    "Who produced “BIG BELLY” by Lejuh?",
+    "According to the official video, “BIG BELLY” was composed by <a href=\"/en/doc-fix-dem.html\">D.O.C FIX DEM</a> and Dj Luchshiy, then mixed and mastered by Hakuna Music Company. The video is directed by Kinvi, with art direction by Manon Moutama and Anaïs Gamot-Toussay. Shazam lists the track as a 2026 single, with D.O.C FIX DEM, and its official keywords tie it to bouyon and trap bouyon.",
+  ),
+  (
+    "What is “Boss” by Meryl with Lejuh?",
+    "“Boss” is a single by Meryl with LeJuh, released in 2026 and ranked among Lejuh’s most searched tracks on Shazam. Its official video, presented by Maison Caviar, was shot in Martinique, on music composed by Tuks and YSN. Working with Meryl, a Martinican artist established on the French speaking shatta and urban scenes, opens one more island’s audience to Lejuh.",
+  ),
+  (
+    "What is “Sòti Gwadloup”?",
+    "“Sòti Gwadloup” is a 2024 track that brings together Admiral T, <a href=\"/en/dcamp-lewismelo.html\">Dcamp and Lewismelo</a> and Lejuh, according to the release list published by Shazam. The presence of Admiral T, a historic figure of Guadeloupe music, alongside Lejuh and the duo Dcamp and Lewismelo, makes it a meeting between generations, and its Creole title claims Guadeloupe.",
+  ),
+  (
+    "Is Lejuh known outside Guadeloupe?",
+    "His tracks travel beyond the archipelago. NRJ Antilles presented “Air Force 1” as a new hit, and a live mix recorded at a festival in France plays it right after “Bouwéy” by 1T1, between Natoxie and Theodora. “Leave Me Alone” ran in carnival mixes in Dominica, and the video for “Boss” with Meryl was shot in Martinique.",
+  ),
+  (
+    "What are Lejuh’s official accounts?",
+    "The descriptions of his official videos point to his official Instagram account, lejuhofficiel, and to his YouTube channel, @lejuh, with a management and collaborations contact in the name of M. Damas. His videos also credit a stable team, with Hakuna Music Company, shortened to HMC, as the recurring mixing and mastering studio, from “Air Force 1” to “BIG BELLY”.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/lejuh.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/lejuh.html#artist", "name": "Lejuh", "description": "Bouyon artist linked to Guadeloupe, named first among the emblematic bouyon artists of the moment in Guadeloupe by CCN in December 2025. Known for Air Force 1, produced by 1T1, BIG BELLY and Boss with Meryl.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Air Force 1"}, {"@type": "MusicRecording", "name": "BIG BELLY"}, {"@type": "MusicRecording", "name": "Lolita"}, {"@type": "MusicRecording", "name": "Boss"}, {"@type": "MusicRecording", "name": "BIKE LIFE"}, {"@type": "MusicRecording", "name": "Sòti Gwadloup"}, {"@type": "MusicRecording", "name": "Leave Me Alone"}, {"@type": "MusicRecording", "name": "Piney"}, {"@type": "MusicRecording", "name": "Pied au Plancher"}, {"@type": "MusicRecording", "name": "Mas La Rivé"},
       {
        "@type": "MusicRecording",

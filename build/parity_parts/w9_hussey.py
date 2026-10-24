@@ -88,13 +88,59 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Hussey ?", "Hussey est un chanteur de la nouvelle vague bouyon de la Dominique, documenté uniquement comme voix invitée. Il figure en featuring sur huit titres du catalogue de Trixzmigos entre 2024 et 2026, dont « What She Like », sorti le 10 janvier 2025 sur L2TG RECORDS, le titre le plus écouté du groupe selon Shazam. Aucune biographie officielle, aucun titre solo et aucun nom complet ne sont publiés dans les sources consultées."),
-  ("Quel est le plus gros titre de Hussey ?", "« What She Like », de Trixzmigos avec Hussey en featuring. Selon Shazam, c’est le titre le plus écouté et le plus identifié du catalogue de Trixzmigos, avec environ 32 900 identifications. Sa vidéo sur YouTube affichait 1,7 million de vues au moment de la recherche, et le titre figure dans les mix de carnaval de DJ BuzzB, DJ Close et I AM SONICBOOM, de Toronto à Miami."),
-  ("Hussey et Miguel Hussey sont-ils la même personne ?", "C’est la question ouverte de ce profil, et aucune source ne la tranche. Miguel Hussey est crédité comme auteur, avec Sheldon Alfred, sur « Stronger » de Signal Band (2024), et comme co-auteur, avec Sheldon Alfred et Udi Prince, de « Bye to de Old Me » de Shelly, Nice et Pudaz. Le chanteur Hussey, lui, n’apparaît que sur les titres de Trixzmigos. Même patronyme, même île, même période, mais aucun document ne relie les deux noms : ce site les présente séparément plutôt que de les confondre."),
-  ("Hussey a-t-il gagné un prix aux Dominica Music Awards ?", "Non, mais son titre y a été finaliste. Aux Dominica Music Awards 2025, organisés par Creole Heartbeat et remis le 3 janvier 2026 à l’InterContinental Dominica, « What She Like » de TrixZ Migos & Hussey figurait parmi les six finalistes de la collaboration de l’année. Le prix est revenu à « Someone Else » de Quan, Litle Boy & Trilla-G, selon le palmarès publié par Soca News."),
-  ("Sur quels titres peut-on entendre Hussey ?", "Sur les singles de Trixzmigos : « The Christmas Story » (2024), « What She Like », « Dark Love », « Rum » avec Poyzin, « Doh Mix Me » avec Shyanne, « Shake Dat » et « 1View » (2025), puis « Long Time » (2026), la sortie la plus récente du catalogue au moment de la recherche. Tous le créditent en featuring, aucun ne le présente comme artiste principal."),
-  ("Où suivre Hussey et écouter la suite ?", "Aucun compte officiel du chanteur n’a pu être vérifié pendant la recherche de ce profil, qui ne lie donc aucun réseau social. La voie sûre est le catalogue de Trixzmigos sur les plateformes, où ses featurings paraissent, et notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, qui suit la vague dominicaine actuelle, de Trixzmigos à <a href=\"/signal-band.html\">Signal Band</a>.")
- ],
+  (
+    "Qui est Hussey ?",
+    "Hussey est un chanteur de la nouvelle vague bouyon de la Dominique, documenté uniquement comme voix invitée. Il figure en featuring sur huit titres du catalogue de Trixzmigos entre 2024 et 2026, dont « What She Like », sorti le 10 janvier 2025 sur L2TG RECORDS, le titre le plus écouté du groupe selon Shazam. Aucune biographie officielle, aucun titre solo et aucun nom complet ne sont publiés dans les sources consultées.",
+  ),
+  (
+    "D’où vient Hussey ?",
+    "Hussey appartient à la nouvelle vague bouyon de la Dominique : tout son parcours documenté passe par le catalogue de Trixzmigos, finaliste aux Dominica Music Awards, et par les mix de carnaval qui portent ce bouyon dominicain jusqu’à Toronto et Miami. Aucune source consultée ne précise en revanche son village ou sa paroisse, et ce profil n’en invente aucun.",
+  ),
+  (
+    "Quel est le plus gros titre de Hussey ?",
+    "« What She Like », de Trixzmigos avec Hussey en featuring. Selon Shazam, c’est le titre le plus écouté et le plus identifié du catalogue de Trixzmigos, avec environ 32 900 identifications. Sa vidéo sur YouTube affichait 1,7 million de vues au moment de la recherche, et le titre figure dans les mix de carnaval de DJ BuzzB, DJ Close et I AM SONICBOOM, de Toronto à Miami.",
+  ),
+  (
+    "Qui chante « What She Like (Bouyon 2025) » ?",
+    "« What She Like » est un titre de Trixzmigos avec Hussey en featuring, sorti en single le 10 janvier 2025 sur le label L2TG RECORDS selon Shazam. Le clip publié sur YouTube porte les deux noms dans son titre, « Trixz Migos & Hussey - What She Like (Bouyon 2025) », et les mix de carnaval le créditent de la même façon.",
+  ),
+  (
+    "Trixzmigos, Trixz Migos ou TrixZ Migos : quelle est la bonne orthographe ?",
+    "Les trois formes désignent le même groupe : les plateformes et les listes l’écrivent Trixzmigos, Trixz Migos ou TrixZ Migos selon la fiche. C’est l’artiste principal de tous les titres où chante Hussey, avec un catalogue qui remonte au moins à juin 2023 et au single « Nasty 2 » sur LTG RECORDS. Le profil <a href=\"/trixzmigos.html\">Trixzmigos</a> détaille ce catalogue.",
+  ),
+  (
+    "Hussey est-il membre de Trixzmigos ?",
+    "Les crédits ne le présentent pas comme membre, mais comme invité : chaque apparition porte la mention « feat. Hussey ». Avec huit titres entre 2024 et 2026, il fonctionne toutefois comme un collaborateur de maison plutôt que comme un invité de passage, et c’est de loin la voix qui revient le plus souvent dans le cercle du groupe, devant Shyanne, DJ Taffy ou Loren.",
+  ),
+  (
+    "Sur quels titres peut-on entendre Hussey ?",
+    "Sur les singles de Trixzmigos : « The Christmas Story » (2024), « What She Like », « Dark Love », « Rum » avec Poyzin, « Doh Mix Me » avec Shyanne, « Shake Dat » et « 1View » (2025), puis « Long Time » (2026), la sortie la plus récente du catalogue au moment de la recherche. Tous le créditent en featuring, aucun ne le présente comme artiste principal.",
+  ),
+  (
+    "Hussey a-t-il gagné un prix aux Dominica Music Awards ?",
+    "Non, mais son titre y a été finaliste. Aux Dominica Music Awards 2025, organisés par Creole Heartbeat et remis le 3 janvier 2026 à l’InterContinental Dominica, « What She Like » de TrixZ Migos & Hussey figurait parmi les six finalistes de la collaboration de l’année. Le prix est revenu à « Someone Else » de Quan, Litle Boy & Trilla-G, selon le palmarès publié par Soca News.",
+  ),
+  (
+    "Hussey et Miguel Hussey sont-ils la même personne ?",
+    "C’est la question ouverte de ce profil, et aucune source ne la tranche. Miguel Hussey est crédité comme auteur, avec Sheldon Alfred, sur « Stronger » de Signal Band (2024), et comme co-auteur, avec Sheldon Alfred et Udi Prince, de « Bye to de Old Me » de Shelly, Nice et Pudaz. Le chanteur Hussey, lui, n’apparaît que sur les titres de Trixzmigos. Même patronyme, même île, même période, mais aucun document ne relie les deux noms : ce site les présente séparément plutôt que de les confondre.",
+  ),
+  (
+    "Qui a écrit « Stronger » de Signal Band avec Shelly et Nice ?",
+    "Selon sa fiche Shazam, « Stronger (feat. Shelly & Nice) [Remix] », sorti le 22 janvier 2024 chez Signal Band Inc., crédite deux auteurs : Sheldon Miguel Alfred, le nom complet du chanteur Shelly, et Miguel Hussey. Le titre a été finaliste de la collaboration de l’année aux Dominica Music Awards 2025, dans la même catégorie que « What She Like ».",
+  ),
+  (
+    "Qui a écrit et produit « Bye to de Old Me » ?",
+    "Selon les notes publiées par Sokah2Soca et reprises par Island Vybe, « Bye to de Old Me », interprété par Shelly, Nice et Pudaz, a été écrit par Sheldon Alfred, Miguel Hussey et Udi Prince, composé et réalisé par Dernel « Dernz » Green, avec une programmation de riddim additionnelle de Fr3EzE. Son clip a été sacré vidéo de l’année aux Dominica Music Awards le 3 janvier 2026.",
+  ),
+  (
+    "Avec quels artistes Hussey a-t-il chanté ?",
+    "Toujours dans l’univers de <a href=\"/trixzmigos.html\">Trixzmigos</a>, artiste principal de ses huit titres documentés. Il y partage le featuring avec Poyzin sur « Rum » et avec Shyanne sur « Doh Mix Me ». Le même cercle de voix réunit aussi DJ Taffy sur « Bikini » et Loren sur « Toxic Love », mais Hussey reste l’invité le plus régulier du catalogue.",
+  ),
+  (
+    "Où suivre Hussey et écouter la suite ?",
+    "Aucun compte officiel du chanteur n’a pu être vérifié pendant la recherche de ce profil, qui ne lie donc aucun réseau social. La voie sûre est le catalogue de Trixzmigos sur les plateformes, où ses featurings paraissent, et notre <a href=\"/playlist-bouyon.html\">playlist Bouyon Road Mix</a>, qui suit la vague dominicaine actuelle, des singles en featuring jusqu’aux titres de Signal Band.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/hussey.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/hussey.html#artist", "name": "Hussey", "description": "Chanteur de la Dominique documenté comme voix invitée sur huit titres de Trixzmigos, dont What She Like, finaliste de la collaboration de l’année aux Dominica Music Awards 2025.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'What She Like'}, {"@type": "MusicRecording", "name": '1View'}, {"@type": "MusicRecording", "name": 'Rum'}, {"@type": "MusicRecording", "name": 'Doh Mix Me'}, {"@type": "MusicRecording", "name": 'Shake Dat'}, {"@type": "MusicRecording", "name": 'Dark Love'}, {"@type": "MusicRecording", "name": 'The Christmas Story'}, {"@type": "MusicRecording", "name": 'Long Time'},
       {
        "@type": "MusicRecording",
@@ -195,13 +241,59 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Hussey?", "Hussey is a singer in Dominica new wave of bouyon, documented only as a guest voice. He features on eight tracks in the Trixzmigos catalog between 2024 and 2026, including “What She Like”, released on January 10, 2025 on L2TG RECORDS, the act most streamed record according to Shazam. No official biography, no solo track and no full name are published in the sources consulted."),
-  ("What is Hussey biggest record?", "“What She Like”, by Trixzmigos featuring Hussey. According to Shazam, it is the most streamed and most identified track in the Trixzmigos catalog, with about 32,900 identifications. Its YouTube video showed 1.7 million views at the time of research, and the track appears in carnival mixes by DJ BuzzB, DJ Close and I AM SONICBOOM, from Toronto to Miami."),
-  ("Are Hussey and Miguel Hussey the same person?", "That is the open question of this profile, and no source settles it. Miguel Hussey is credited as a songwriter, with Sheldon Alfred, on Signal Band “Stronger” (2024), and as a co-writer, with Sheldon Alfred and Udi Prince, of “Bye to de Old Me” by Shelly, Nice and Pudaz. The singer Hussey, meanwhile, appears only on Trixzmigos tracks. Same surname, same island, same period, but no document links the two names: this site presents them separately rather than merging them."),
-  ("Did Hussey win at the Dominica Music Awards?", "No, but his track was a finalist. At the Dominica Music Awards 2025, organised by Creole Heartbeat and held on January 3, 2026 at the InterContinental Dominica, “What She Like” by TrixZ Migos & Hussey stood among the six Collaboration of the Year finalists. The award went to “Someone Else” by Quan, Litle Boy & Trilla-G, according to the winners list published by Soca News."),
-  ("On which tracks can Hussey be heard?", "On the Trixzmigos singles: “The Christmas Story” (2024), “What She Like”, “Dark Love”, “Rum” with Poyzin, “Doh Mix Me” with Shyanne, “Shake Dat” and “1View” (2025), then “Long Time” (2026), the most recent catalog release at the time of research. All of them credit him as a feature, none presents him as the lead artist."),
-  ("Where can I follow Hussey and hear what comes next?", "No official account of the singer could be verified during the research for this profile, which therefore links to no social profile. The safe route is the Trixzmigos catalog on the platforms, where his features appear, and our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, which follows the current Dominican wave, from Trixzmigos to <a href=\"/en/signal-band.html\">Signal Band</a>.")
- ],
+  (
+    "Who is Hussey?",
+    "Hussey is a singer in Dominica new wave of bouyon, documented only as a guest voice. He features on eight tracks in the Trixzmigos catalog between 2024 and 2026, including “What She Like”, released on January 10, 2025 on L2TG RECORDS, the act most streamed record according to Shazam. No official biography, no solo track and no full name are published in the sources consulted.",
+  ),
+  (
+    "Where is Hussey from?",
+    "Hussey belongs to the new bouyon wave of Dominica: his whole documented path runs through the Trixzmigos catalog, a Dominica Music Awards finalist act, and through the carnival mixes that carry that Dominican bouyon to Toronto and Miami. No source consulted, however, gives his home village or parish, and this profile invents none.",
+  ),
+  (
+    "What is Hussey biggest record?",
+    "“What She Like”, by Trixzmigos featuring Hussey. According to Shazam, it is the most streamed and most identified track in the Trixzmigos catalog, with about 32,900 identifications. Its YouTube video showed 1.7 million views at the time of research, and the track appears in carnival mixes by DJ BuzzB, DJ Close and I AM SONICBOOM, from Toronto to Miami.",
+  ),
+  (
+    "Who sings “What She Like (Bouyon 2025)”?",
+    "“What She Like” is a Trixzmigos track featuring Hussey, released as a single on January 10, 2025 on the L2TG RECORDS label according to Shazam. The video published on YouTube carries both names in its title, “Trixz Migos & Hussey - What She Like (Bouyon 2025)”, and the carnival mixes credit it the same way.",
+  ),
+  (
+    "Trixzmigos, Trixz Migos or TrixZ Migos: which spelling is right?",
+    "All three forms name the same act: platforms and listings write it Trixzmigos, Trixz Migos or TrixZ Migos depending on the page. It is the lead artist on every track Hussey sings on, with a catalog reaching back at least to June 2023 and the single “Nasty 2” on LTG RECORDS. The <a href=\"/en/trixzmigos.html\">Trixzmigos</a> profile details that catalog.",
+  ),
+  (
+    "Is Hussey a member of Trixzmigos?",
+    "The credits do not present him as a member but as a guest: every appearance carries the mention “feat. Hussey”. With eight tracks between 2024 and 2026, though, he works as a house collaborator rather than a passing guest, and he is by far the voice that returns most often in the act circle, ahead of Shyanne, DJ Taffy or Loren.",
+  ),
+  (
+    "On which tracks can Hussey be heard?",
+    "On the Trixzmigos singles: “The Christmas Story” (2024), “What She Like”, “Dark Love”, “Rum” with Poyzin, “Doh Mix Me” with Shyanne, “Shake Dat” and “1View” (2025), then “Long Time” (2026), the most recent catalog release at the time of research. All of them credit him as a feature, none presents him as the lead artist.",
+  ),
+  (
+    "Did Hussey win at the Dominica Music Awards?",
+    "No, but his track was a finalist. At the Dominica Music Awards 2025, organised by Creole Heartbeat and held on January 3, 2026 at the InterContinental Dominica, “What She Like” by TrixZ Migos & Hussey stood among the six Collaboration of the Year finalists. The award went to “Someone Else” by Quan, Litle Boy & Trilla-G, according to the winners list published by Soca News.",
+  ),
+  (
+    "Are Hussey and Miguel Hussey the same person?",
+    "That is the open question of this profile, and no source settles it. Miguel Hussey is credited as a songwriter, with Sheldon Alfred, on Signal Band “Stronger” (2024), and as a co-writer, with Sheldon Alfred and Udi Prince, of “Bye to de Old Me” by Shelly, Nice and Pudaz. The singer Hussey, meanwhile, appears only on Trixzmigos tracks. Same surname, same island, same period, but no document links the two names: this site presents them separately rather than merging them.",
+  ),
+  (
+    "Who wrote “Stronger” by Signal Band with Shelly and Nice?",
+    "According to its Shazam page, “Stronger (feat. Shelly & Nice) [Remix]”, released on January 22, 2024 by Signal Band Inc., credits two songwriters: Sheldon Miguel Alfred, the full name of singer Shelly, and Miguel Hussey. The track was a Collaboration of the Year finalist at the Dominica Music Awards 2025, in the same category as “What She Like”.",
+  ),
+  (
+    "Who wrote and produced “Bye to de Old Me”?",
+    "According to the notes published by Sokah2Soca and carried by Island Vybe, “Bye to de Old Me”, performed by Shelly, Nice and Pudaz, was written by Sheldon Alfred, Miguel Hussey and Udi Prince, composed and engineered by Dernel “Dernz” Green, with additional riddim programming by Fr3EzE. Its video won Music Video of the Year at the Dominica Music Awards on January 3, 2026.",
+  ),
+  (
+    "Who has Hussey sung with?",
+    "Always in the world of <a href=\"/en/trixzmigos.html\">Trixzmigos</a>, the lead artist on his eight documented tracks. He shares the feature with Poyzin on “Rum” and with Shyanne on “Doh Mix Me”. The same circle of voices also brings in DJ Taffy on “Bikini” and Loren on “Toxic Love”, but Hussey remains the most regular guest in the catalog.",
+  ),
+  (
+    "Where can I follow Hussey and hear what comes next?",
+    "No official account of the singer could be verified during the research for this profile, which therefore links to no social profile. The safe route is the Trixzmigos catalog on the platforms, where his features appear, and our <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix playlist</a>, which follows the current Dominican wave, from feature singles to Signal Band records.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/hussey.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/hussey.html#artist", "name": "Hussey", "description": "Singer from Dominica documented as a guest voice on eight Trixzmigos tracks, including What She Like, a Collaboration of the Year finalist at the Dominica Music Awards 2025.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'What She Like'}, {"@type": "MusicRecording", "name": '1View'}, {"@type": "MusicRecording", "name": 'Rum'}, {"@type": "MusicRecording", "name": 'Doh Mix Me'}, {"@type": "MusicRecording", "name": 'Shake Dat'}, {"@type": "MusicRecording", "name": 'Dark Love'}, {"@type": "MusicRecording", "name": 'The Christmas Story'}, {"@type": "MusicRecording", "name": 'Long Time'},
       {
        "@type": "MusicRecording",

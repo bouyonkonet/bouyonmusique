@@ -73,13 +73,59 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Binksdrick ?", "Binksdrick est un artiste du bouyon de Guadeloupe dont le seul crédit vérifié dans les sources publiques consultées est une apparition en featuring sur « Leave Me Alone » de 1T1, sorti le 6 septembre 2024, aux côtés de Dinho, Lejuh et Theomaa. Aucune biographie, aucun nom complet et aucun titre solo de l’artiste n’ont été publiés dans ces sources."),
-  ("Sur quel titre Binksdrick est-il crédité ?", "Sur « Leave Me Alone », le titre collectif de 1T1. La discographie publiée de 1T1 sur Qobuz le crédite à 1T1 avec Dinho, Lejuh, Theomaa et Binksdrick, et Shazam le liste parmi les titres mis en avant de 1T1, aux côtés de « Bouwéy » et « Best Friend »."),
-  ("Quand « Leave Me Alone » est-il sorti ?", "Le 6 septembre 2024, selon la discographie de plateforme de 1T1 sur Qobuz, que ce site retient. Un article de sélection de clips a donné l’année 2023 pour ce titre : ce profil signale le désaccord au lieu de choisir en silence, et suit la date de plateforme, cohérente avec le profil 1T1 de ce site."),
-  ("Binksdrick a-t-il un titre solo ?", "Aucun titre solo de Binksdrick n’a été trouvé dans les sources vérifiées consultées pour ce profil : ni page d’artiste, ni single en nom propre, ni biographie de plateforme. C’est une réponse que les profils copiés ne donnent jamais, parce qu’elle oblige à dire ce que le dossier public ne contient pas. Si un titre solo paraît, ce profil sera mis à jour."),
-  ("Pourquoi certains tracklists écrivent-ils « Binkdrick » ?", "Parce que les listes de titres des mixes se recopient de DJ en DJ, et qu’au moins une liste en circulation a perdu le s du nom. L’orthographe des crédits officiels, sur Qobuz et Shazam, est « Binksdrick ». Pour un artiste à un seul crédit, cette faute compte : elle rend le nom introuvable dans les recherches de plateformes."),
-  ("Où écouter Binksdrick et découvrir son cercle ?", "Commencez par « Leave Me Alone » dans notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, puis lisez les profils de <a href=\"/1t1.html\">1T1</a> et de <a href=\"/lejuh.html\">Lejuh</a> sur ce site : ce sont les deux noms du même titre dont les catalogues complets permettent de replacer le crédit de Binksdrick dans la scène bouyon de Guadeloupe.")
- ],
+  (
+    "Qui est Binksdrick ?",
+    "Binksdrick est un artiste du bouyon de Guadeloupe dont le seul crédit vérifié dans les sources publiques consultées est une apparition en featuring sur « Leave Me Alone » de 1T1, sorti le 6 septembre 2024, aux côtés de Dinho, Lejuh et Theomaa. Aucune biographie, aucun nom complet et aucun titre solo de l’artiste n’ont été publiés dans ces sources.",
+  ),
+  (
+    "Sur quel titre Binksdrick est-il crédité ?",
+    "Sur « Leave Me Alone », le titre collectif de 1T1. La discographie publiée de 1T1 sur Qobuz le crédite à 1T1 avec Dinho, Lejuh, Theomaa et Binksdrick, et Shazam le liste parmi les titres mis en avant de 1T1, aux côtés de « Bouwéy » et « Best Friend ».",
+  ),
+  (
+    "Quand « Leave Me Alone » est-il sorti ?",
+    "Le 6 septembre 2024, selon la discographie de plateforme de 1T1 sur Qobuz, que ce site retient. Un article de sélection de clips a donné l’année 2023 pour ce titre : ce profil signale le désaccord au lieu de choisir en silence, et suit la date de plateforme, cohérente avec le profil 1T1 de ce site.",
+  ),
+  (
+    "Binksdrick a-t-il un titre solo ?",
+    "Aucun titre solo de Binksdrick n’a été trouvé dans les sources vérifiées consultées pour ce profil : ni page d’artiste, ni single en nom propre, ni biographie de plateforme. C’est une réponse que les profils copiés ne donnent jamais, parce qu’elle oblige à dire ce que le dossier public ne contient pas. Si un titre solo paraît, ce profil sera mis à jour.",
+  ),
+  (
+    "Pourquoi certains tracklists écrivent-ils « Binkdrick » ?",
+    "Parce que les listes de titres des mixes se recopient de DJ en DJ, et qu’au moins une liste en circulation a perdu le s du nom. L’orthographe des crédits officiels, sur Qobuz et Shazam, est « Binksdrick ». Pour un artiste à un seul crédit, cette faute compte : elle rend le nom introuvable dans les recherches de plateformes.",
+  ),
+  (
+    "Où écouter Binksdrick et découvrir son cercle ?",
+    "Commencez par « Leave Me Alone », de 1T1 avec Dinho, Lejuh, Theomaa et Binksdrick, sur les plateformes ou dans notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>. Pour recevoir la Bouyon Road Mix en message privé, commentez ROAD MIX sous une publication de @bouyonshattaz sur Instagram. Les profils de 1T1 et de Lejuh sur ce site replacent ensuite ce crédit dans la scène bouyon de Guadeloupe.",
+  ),
+  (
+    "Qui chante sur Leave Me Alone de 1T1 ?",
+    "« Leave Me Alone » est crédité à 1T1, artiste principal, avec quatre invités : Dinho, Lejuh, Theomaa et Binksdrick. Shazam le liste sous la forme « Leave Me Alone (feat. Dinho, Lejuh, Theomaa & Binksdrick) », et la discographie Qobuz le date du 6 septembre 2024, publié par 1T1 et AB BOYZ MUSIC. Binksdrick est le seul des cinq noms absent du reste de la discographie publiée du cercle.",
+  ),
+  (
+    "D’où vient Binksdrick ?",
+    "Binksdrick est documenté comme un nom de la scène bouyon de Guadeloupe, par son crédit dans le cercle de 1T1, producteur originaire de l’île, aux côtés de Lejuh, Theomaa et Dinho. Les sources consultées ne publient ni sa commune, ni sa date de naissance, ni son nom complet, et ce site ne les déduit pas de ses collaborations. Le contexte de cette scène est sur notre page <a href=\"/bouyon-gwada.html\">bouyon gwada</a>.",
+  ),
+  (
+    "Leave Me Alone a-t-il été joué en Dominique ?",
+    "Oui, dans les mixes de la saison de carnaval dominicaine. Le « Bouyon Mix 2025 Pt 2 » de Blaqrose Supreme, enregistré après le Mas Domnik, place « Leave Me Alone » à 5 minutes 58, juste après « Bouwey » de 1T1 et avant des titres dominicains de Trilla-G, Reo et Litleboy. Le titre guadeloupéen revient ainsi vers l’île où le bouyon est né. Voir <a href=\"/mas-domnik.html\">Mas Domnik</a>.",
+  ),
+  (
+    "Dans quels mixes de DJ entend-on Binksdrick ?",
+    "Dans les mixes qui jouent « Leave Me Alone », crédité avec les cinq noms. La sélection de DJ Willy Wonka le place dans un programme de carnaval dominé par Signal Band, Ridge, Reo, Asa Bantan et Trilla-G, le Soca Podcast le liste dans ses tracklists bouyon et soca, et le Bouyon Mix 2025 Pt 2 de Blaqrose Supreme l’enchaîne aussi. Notre page <a href=\"/bouyon-mix.html\">bouyon mix</a> explique ce que valent ces tracklists.",
+  ),
+  (
+    "Qui est 1T1, l’artiste principal de Leave Me Alone ?",
+    "1T1 est un compositeur, producteur et chanteur bouyon originaire de la Guadeloupe, décrit par sa biographie Qobuz comme spécialisé dans le bouyon, la soca et la dancehall. Son titre signature est « Bouwéy », sur l’EP « CHORD » (13 décembre 2024). Autour de lui gravitent Theomaa, Lejuh, Aknose et Dinho, le cercle dans lequel le nom de Binksdrick apparaît. Son parcours complet est sur notre page <a href=\"/1t1.html\">1T1</a>.",
+  ),
+  (
+    "Quels autres titres collectifs a sortis le cercle de 1T1 ?",
+    "Avant « Leave Me Alone », la discographie publiée en compte plusieurs : « Piney » avec Theomaa et Lejuh (2 juin 2023), « Moustik » avec Aknose (28 septembre 2023), « Pied au Plancher » avec Tiitii NBA et Lejuh (1er décembre 2023), et « Mas La Rivé » (12 janvier 2024), qui réunit neuf noms. Le crédit de Binksdrick tombe au milieu de cette période, la plus collective du catalogue.",
+  ),
+  (
+    "Quel genre de bouyon représente Binksdrick ?",
+    "Le bouyon gwada de la génération de 1T1 : une branche guadeloupéenne du genre né en Dominique, plus électronique, chantée en créole guadeloupéen, faite de titres courts et rapides pensés pour les fêtes et les réseaux. Elle est produite par des compositeurs de studio plutôt que par des groupes live, et avance par titres collectifs où les mêmes voix se recroisent, comme sur « Leave Me Alone ».",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/binksdrick.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/binksdrick.html#artist", "name": "Binksdrick", "description": "Artiste bouyon de Guadeloupe connu par un crédit vérifié : featuring sur Leave Me Alone de 1T1 (6 septembre 2024) avec Dinho, Lejuh et Theomaa. Aucun titre solo ni biographie publiés dans les sources consultées.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Leave Me Alone"},
       {
        "@type": "MusicRecording",
@@ -170,13 +216,59 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Binksdrick?", "Binksdrick is a Guadeloupe bouyon artist whose only verified credit in the public sources consulted is a featured appearance on “Leave Me Alone” by 1T1, released on 6 September 2024, alongside Dinho, Lejuh and Theomaa. No biography, no full name and no solo record by the artist has been published in those sources."),
-  ("Which record is Binksdrick credited on?", "On “Leave Me Alone”, the collective record by 1T1. The published discography of 1T1 on Qobuz credits it to 1T1 with Dinho, Lejuh, Theomaa and Binksdrick, and Shazam lists it among the highlighted tracks of 1T1, alongside “Bouwéy” and “Best Friend”."),
-  ("When was “Leave Me Alone” released?", "On 6 September 2024, according to the platform discography of 1T1 on Qobuz, which this site keeps. A video roundup article gave the year 2023 for this record: this profile flags the disagreement instead of choosing in silence, and follows the platform date, consistent with the 1T1 profile on this site."),
-  ("Does Binksdrick have a solo record?", "No solo record by Binksdrick was found in the verified sources consulted for this profile: no artist page, no single under his own name, no platform biography. That is an answer copied profiles never give, because it requires saying what the public record does not contain. If a solo record appears, this profile will be updated."),
-  ("Why do some tracklists write “Binkdrick”?", "Because mix tracklists are copied from DJ to DJ, and at least one circulating list lost the s of the name. The spelling in the official credits, on Qobuz and Shazam, is “Binksdrick”. For a one credit artist, that mistake matters: it makes the name unfindable in platform searches."),
-  ("Where can I hear Binksdrick and discover his circle?", "Start with “Leave Me Alone” in our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, then read the profiles of <a href=\"/en/1t1.html\">1T1</a> and <a href=\"/en/lejuh.html\">Lejuh</a> on this site: they are the two names from the same record whose full catalogues let you place the credit of Binksdrick inside the Guadeloupe bouyon scene.")
- ],
+  (
+    "Who is Binksdrick?",
+    "Binksdrick is a Guadeloupe bouyon artist whose only verified credit in the public sources consulted is a featured appearance on “Leave Me Alone” by 1T1, released on 6 September 2024, alongside Dinho, Lejuh and Theomaa. No biography, no full name and no solo record by the artist has been published in those sources.",
+  ),
+  (
+    "Which record is Binksdrick credited on?",
+    "On “Leave Me Alone”, the collective record by 1T1. The published discography of 1T1 on Qobuz credits it to 1T1 with Dinho, Lejuh, Theomaa and Binksdrick, and Shazam lists it among the highlighted tracks of 1T1, alongside “Bouwéy” and “Best Friend”.",
+  ),
+  (
+    "When was “Leave Me Alone” released?",
+    "On 6 September 2024, according to the platform discography of 1T1 on Qobuz, which this site keeps. A video roundup article gave the year 2023 for this record: this profile flags the disagreement instead of choosing in silence, and follows the platform date, consistent with the 1T1 profile on this site.",
+  ),
+  (
+    "Does Binksdrick have a solo record?",
+    "No solo record by Binksdrick was found in the verified sources consulted for this profile: no artist page, no single under his own name, no platform biography. That is an answer copied profiles never give, because it requires saying what the public record does not contain. If a solo record appears, this profile will be updated.",
+  ),
+  (
+    "Why do some tracklists write “Binkdrick”?",
+    "Because mix tracklists are copied from DJ to DJ, and at least one circulating list lost the s of the name. The spelling in the official credits, on Qobuz and Shazam, is “Binksdrick”. For a one credit artist, that mistake matters: it makes the name unfindable in platform searches.",
+  ),
+  (
+    "Where can I hear Binksdrick and discover his circle?",
+    "Start with “Leave Me Alone”, by 1T1 with Dinho, Lejuh, Theomaa and Binksdrick, on the platforms or in our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>. To get the Bouyon Road Mix by direct message, comment ROAD MIX under an @bouyonshattaz post on Instagram. The 1T1 and Lejuh profiles on this site then place this credit inside the Guadeloupe bouyon scene.",
+  ),
+  (
+    "Who sings on Leave Me Alone by 1T1?",
+    "“Leave Me Alone” is credited to 1T1 as lead artist with four guests: Dinho, Lejuh, Theomaa and Binksdrick. Shazam lists it as “Leave Me Alone (feat. Dinho, Lejuh, Theomaa & Binksdrick)”, and the Qobuz discography dates it to 6 September 2024, released by 1T1 and AB BOYZ MUSIC. Binksdrick is the only one of the five names missing from the rest of the circle’s published discography.",
+  ),
+  (
+    "Where is Binksdrick from?",
+    "Binksdrick is documented as a name of the Guadeloupe bouyon scene, through his credit in the circle of 1T1, a producer from the island, alongside Lejuh, Theomaa and Dinho. The sources consulted publish neither his hometown, his date of birth nor his full name, and this site does not infer them from his collaborations. The context of that scene is on our <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a> page.",
+  ),
+  (
+    "Was Leave Me Alone played in Dominica?",
+    "Yes, in Dominica carnival season mixes. Blaqrose Supreme’s “Bouyon Mix 2025 Pt 2”, recorded after Mas Domnik, places “Leave Me Alone” at 5 minutes 58, right after “Bouwey” by 1T1 and before Dominican records by Trilla-G, Reo and Litleboy. The Guadeloupe track thus travels back to the island where bouyon was born. See <a href=\"/en/mas-domnik.html\">Mas Domnik</a>.",
+  ),
+  (
+    "Which DJ mixes feature Binksdrick?",
+    "The mixes that play “Leave Me Alone”, credited with all five names. DJ Willy Wonka’s selection places it in a carnival programme dominated by Signal Band, Ridge, Reo, Asa Bantan and Trilla-G, the Soca Podcast lists it in its bouyon and soca tracklists, and Blaqrose Supreme’s Bouyon Mix 2025 Pt 2 runs it as well. Our <a href=\"/en/bouyon-mix.html\">bouyon mix</a> page explains what those tracklists are worth.",
+  ),
+  (
+    "Who is 1T1, the lead artist of Leave Me Alone?",
+    "1T1 is a bouyon composer, producer and singer from Guadeloupe, described by his Qobuz biography as specialising in bouyon, soca and dancehall. His signature song is “Bouwéy”, on the “CHORD” EP (13 December 2024). Around him orbit Theomaa, Lejuh, Aknose and Dinho, the circle in which Binksdrick’s name appears. His full story is on our <a href=\"/en/1t1.html\">1T1</a> page.",
+  ),
+  (
+    "What other collective records has the 1T1 circle released?",
+    "Before “Leave Me Alone”, the published discography lists several: “Piney” with Theomaa and Lejuh (2 June 2023), “Moustik” with Aknose (28 September 2023), “Pied au Plancher” with Tiitii NBA and Lejuh (1 December 2023), and “Mas La Rivé” (12 January 2024), which gathers nine names. Binksdrick’s credit falls in the middle of this period, the most collective in the catalogue.",
+  ),
+  (
+    "What kind of bouyon does Binksdrick represent?",
+    "The bouyon gwada of the 1T1 generation: a Guadeloupe branch of the genre born in Dominica, more electronic, sung in Guadeloupean Creole, made of short, fast tracks built for parties and social media. It is produced by studio composers rather than live bands, and moves forward through collective records where the same voices cross paths, as on “Leave Me Alone”.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/binksdrick.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/binksdrick.html#artist", "name": "Binksdrick", "description": "Bouyon artist from Guadeloupe known through one verified credit: a feature on Leave Me Alone by 1T1 (6 September 2024) with Dinho, Lejuh and Theomaa. No solo record or biography published in the sources consulted.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Leave Me Alone"},
       {
        "@type": "MusicRecording",

@@ -126,13 +126,63 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Foxy Jael ?", "Foxy Jael est l’alter ego musical de Jael Joseph, femme de médias dominicaine : animatrice des émissions « Jael Joseph Live », fondatrice de Black Island Girl Multimedia, réalisatrice du documentaire « Territory », primé meilleur court documentaire au Caribbean Tales International Film Festival de 2023, et influenceuse de l’année aux Dominica Music Awards du 3 janvier 2026. Elle débute comme chanteuse en juillet 2025 avec « Ah Coming »."),
-  ("Quel est le premier single de Foxy Jael ?", "« Ah Coming », sorti en juillet 2025. Le titre est posé sur le Kryptic Riddim du producteur Dada, aux côtés de Pumpa avec « Savage », Shanna Raymond avec « Hustle Hard » et Puddaz avec « Shake Something ». Il est écrit par sa sœur Aurelle Joseph, et produit, mixé et masterisé par Dada, qui partage le crédit de compositeur avec Aurelle Joseph et Jael Joseph selon le générique officiel du clip."),
-  ("Quand le clip d’« Ah Coming » est-il sorti, et où a-t-il été tourné ?", "La première officielle a eu lieu le vendredi 27 février 2026. Le clip, réalisé par Leah De Gannes avec RisAnne Martin à la direction créative et au stylisme, a été tourné en Dominique, au High Garden Restaurant, à The Realm, et au Jungle Bay Resort. Colton T y tient le rôle de l’amoureux, et Reo et Dada y figurent parmi les personnes à l’écran."),
-  ("Qu’est-ce que « Back Up Your Chat » ?", "C’est un remix bouyon d’Ebony Empress avec Foxy Jael en featuring, annoncé par la presse dominicaine le 15 mai 2026. Il est produit par YoJoshii et Yung Pierre, mixé par Cleverns Pierre, masterisé par Khallion, écrit par Everlyne Leandra Walters et Aurelle Joseph, et enregistré au Felix Studio. Ebony Empress a raconté, dans l’émission de Foxy Jael, que c’était la première chanson qu’elle ait jamais créée, modernisée des années plus tard."),
-  ("Foxy Jael a-t-elle un label ou un album ?", "Aucune source ouverte pour ce profil ne nomme un label pour ses deux titres, et aucun album n’est documenté. Son catalogue vérifié tient en deux titres : « Ah Coming » en solo, en juillet 2025, et « Back Up Your Chat » en featuring avec Ebony Empress, en mai 2026. Aucune page artiste de plateforme n’a été confirmée par ouverture directe pendant cette recherche."),
-  ("Où écouter Foxy Jael ?", "Par ses deux titres vérifiés : « Ah Coming », dont le clip officiel est sur YouTube, et « Back Up Your Chat », d’Ebony Empress avec Foxy Jael, dont la vidéo officielle renvoie vers Spotify et Apple Music. Notre page <a href=\"/ebony-empress.html\">Ebony Empress</a> tient l’autre moitié du dossier du featuring, et notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> suit la vague dominicaine actuelle.")
- ],
+  (
+    "Qui est Foxy Jael ?",
+    "Foxy Jael est l’alter ego musical de Jael Joseph, femme de médias dominicaine : animatrice des émissions « Jael Joseph Live », fondatrice de Black Island Girl Multimedia, réalisatrice du documentaire « Territory », primé meilleur court documentaire au Caribbean Tales International Film Festival de 2023, et influenceuse de l’année aux Dominica Music Awards du 3 janvier 2026. Elle débute comme chanteuse en juillet 2025 avec « Ah Coming ».",
+  ),
+  (
+    "Quel est le vrai nom de Foxy Jael ?",
+    "Foxy Jael est le nom de scène de Jael Joseph, présenté partout comme son alter ego musical. Sous son propre nom, elle est une femme de médias dominicaine, animatrice des émissions d’interviews « Jael Joseph Live » et fondatrice de Black Island Girl Multimedia. Aucune source n’explique le choix du mot Foxy, et ce site ne lui invente aucune étymologie.",
+  ),
+  (
+    "Foxy Jael vient-elle de la Dominique ?",
+    "Oui : la presse qui a couvert ses débuts présente Jael Joseph comme une femme de médias dominicaine, et Caribbean E-Magazine la décrit comme journaliste, productrice et personnalité des médias de la Dominique. Elle s’est formée à Toronto, où Black Island Girl est né comme projet de fin d’études, mais sa musique s’ancre en Dominique : le Kryptic Riddim de Dada et un clip tourné sur l’île.",
+  ),
+  (
+    "Quel est le premier single de Foxy Jael ?",
+    "« Ah Coming », sorti en juillet 2025. Le titre est posé sur le Kryptic Riddim du producteur Dada, aux côtés de Pumpa avec « Savage », Shanna Raymond avec « Hustle Hard » et Puddaz avec « Shake Something ». Il est écrit par sa sœur Aurelle Joseph, et produit, mixé et masterisé par Dada, qui partage le crédit de compositeur avec Aurelle Joseph et Jael Joseph selon le générique officiel du clip.",
+  ),
+  (
+    "Kryptic Riddim ou Kyrptic Riddim : quelle est la bonne graphie ?",
+    "Kryptic Riddim est la graphie du générique officiel du clip d’« Ah Coming » et du titre de l’article de lancement, et c’est celle que retient ce site. Le corps de l’article de CaribMagPlus écrit Kyrptic. Les deux noms désignent le même riddim produit par <a href=\"/dada.html\">Dada</a>, sur lequel Foxy Jael, Pumpa, Shanna Raymond et Puddaz ont chacun posé un titre.",
+  ),
+  (
+    "Qui écrit les chansons de Foxy Jael ?",
+    "Sa sœur, Aurelle Joseph, selon toutes les sources ouvertes. Aurelle Joseph a écrit « Ah Coming », dont elle partage le crédit de compositeur avec Dada et Jael Joseph, puis a coécrit « Back Up Your Chat » avec Everlyne Leandra Walters. Les deux premiers titres de Foxy Jael portent donc la même signature familiale à l’écriture, autour de deux équipes de production différentes.",
+  ),
+  (
+    "De quoi parle « Ah Coming » de Foxy Jael ?",
+    "Selon les explications de l’artiste rapportées par la presse, « Ah Coming » parle de ce que vivent beaucoup de femmes de sa génération dans la recherche de l’amour : l’étincelle, la poursuite, puis la conquête. Les auditeurs y ont lu des choses différentes, un message d’affirmation pour les uns, une séduction joueuse pour d’autres, une prise de pouvoir pour d’autres encore, ce qui en a fait un sujet de conversation sur les réseaux.",
+  ),
+  (
+    "Quand le clip d’« Ah Coming » est-il sorti, et où a-t-il été tourné ?",
+    "La première officielle a eu lieu le vendredi 27 février 2026. Le clip, réalisé par Leah De Gannes avec RisAnne Martin à la direction créative et au stylisme, a été tourné en Dominique, au High Garden Restaurant, à The Realm, et au Jungle Bay Resort. Colton T y tient le rôle de l’amoureux, et Reo et Dada y figurent parmi les personnes à l’écran.",
+  ),
+  (
+    "Qu’est-ce que « Back Up Your Chat » ?",
+    "C’est un remix bouyon d’Ebony Empress avec Foxy Jael en featuring, annoncé par la presse dominicaine le 15 mai 2026. Il est produit par YoJoshii et Yung Pierre, mixé par Cleverns Pierre, masterisé par Khallion, écrit par Everlyne Leandra Walters et Aurelle Joseph, et enregistré au Felix Studio. Ebony Empress a raconté, dans l’émission de Foxy Jael, que c’était la première chanson qu’elle ait jamais créée, modernisée des années plus tard.",
+  ),
+  (
+    "Quels prix Jael Joseph a-t-elle remportés ?",
+    "Deux prix figurent au dossier. Son documentaire « Territory », sur le peuple kalinago de la Dominique, a remporté le prix du meilleur court documentaire au Caribbean Tales International Film Festival de Toronto en 2023, selon Bahamas Local. Le 3 janvier 2026, aux deuxièmes Dominica Music Awards, elle a été sacrée influenceuse et créatrice de contenu de l’année, le soir même où le producteur Dada recevait un prix Iconic.",
+  ),
+  (
+    "Qu’est-ce que Black Island Girl Multimedia ?",
+    "C’est l’entreprise de médias fondée par Jael Joseph, le vrai nom de Foxy Jael. Selon Bahamas Local, Black Island Girl est né en 2021 comme projet de fin d’études à la Toronto Metropolitan University : un média en ligne consacré aux vies des femmes caribéennes. Le projet est devenu une entreprise enregistrée, avec des sections culture, divertissement, business et bien être, et une offre de podcasts et de productions pour les marques.",
+  ),
+  (
+    "Quel est le lien de Foxy Jael avec les Caribbean Music Awards ?",
+    "En août 2026, Caribbean E-Magazine rapporte que Jael Joseph lance, via Black Island Girl Multimedia, un concours régional pour trouver une correspondante sur le tapis rouge des Caribbean Music Awards du 19 septembre 2026 à Trinité et Tobago. Elle y raconte avoir elle même été invitée à animer ces prix trois ans plus tôt, puis à interviewer les artistes sur le tapis rouge.",
+  ),
+  (
+    "Foxy Jael a-t-elle un label ou un album ?",
+    "Aucune source ouverte pour ce profil ne nomme un label pour ses deux titres, et aucun album n’est documenté. Son catalogue vérifié tient en deux titres : « Ah Coming » en solo, en juillet 2025, et « Back Up Your Chat » en featuring avec Ebony Empress, en mai 2026. Aucune page artiste de plateforme n’a été confirmée par ouverture directe pendant cette recherche.",
+  ),
+  (
+    "Où écouter Foxy Jael ?",
+    "Par ses deux titres vérifiés : « Ah Coming », dont le clip officiel est sur YouTube, et « Back Up Your Chat », d’Ebony Empress avec Foxy Jael, dont la vidéo officielle renvoie vers Spotify et Apple Music. Pour entendre la scène bouyon dominicaine autour d’elle, notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, le Bouyon Road Mix de Bouyon Shattaz, rassemble les nouveautés de la Dominique, de la Guadeloupe et de la Martinique.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/foxy-jael.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/foxy-jael.html#artist", "name": "Foxy Jael", "description": "Alter ego musical de Jael Joseph, femme de médias dominicaine, fondatrice de Black Island Girl Multimedia et réalisatrice primée. Premier single Ah Coming en juillet 2025 sur le Kryptic Riddim de Dada, clip en février 2026, puis featuring sur Back Up Your Chat d’Ebony Empress en mai 2026. Aucune page artiste de plateforme vérifiée par ouverture en octobre 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Ah Coming"}, {"@type": "MusicRecording", "name": "Back Up Your Chat"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -204,13 +254,63 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Foxy Jael?", "Foxy Jael is the musical alter ego of Jael Joseph, a Dominican media woman: host of the “Jael Joseph Live” interview shows, founder of Black Island Girl Multimedia, director of the documentary “Territory”, winner of Best Short Documentary at the 2023 Caribbean Tales International Film Festival, and Social Media Influencer and Content Creator of the Year at the Dominica Music Awards of January 3, 2026. She debuted as a singer in July 2025 with “Ah Coming”."),
-  ("What is the debut single of Foxy Jael?", "“Ah Coming”, released in July 2025. The record is voiced on the Kryptic Riddim of producer Dada, alongside Pumpa with “Savage”, Shanna Raymond with “Hustle Hard” and Puddaz with “Shake Something”. It was written by her sister Aurelle Joseph, and produced, mixed and mastered by Dada, who shares the composer credit with Aurelle Joseph and Jael Joseph according to the official video credit block."),
-  ("When was the “Ah Coming” video released, and where was it filmed?", "The official premiere took place on Friday February 27, 2026. The video, directed by Leah De Gannes with RisAnne Martin on creative direction and styling, was filmed in Dominica, at the High Garden Restaurant, at The Realm, and at Jungle Bay Resort. Colton T plays the love interest there, and Reo and Dada appear among the people on screen."),
-  ("What is “Back Up Your Chat”?", "It is a bouyon remix by Ebony Empress featuring Foxy Jael, announced by the Dominican press on May 15, 2026. It was produced by YoJoshii and Yung Pierre, mixed by Cleverns Pierre, mastered by Khallion, written by Everlyne Leandra Walters and Aurelle Joseph, and recorded at Felix Studio. Ebony Empress said, on the show of Foxy Jael, that it was the first song she ever created, modernised years later."),
-  ("Does Foxy Jael have a label or an album?", "No source opened for this profile names a label for her two records, and no album is documented. Her verified catalog fits in two records: “Ah Coming” solo, in July 2025, and “Back Up Your Chat” as a feature with Ebony Empress, in May 2026. No platform artist page was confirmed by direct opening during this research."),
-  ("Where can I hear Foxy Jael?", "Through her two verified records: “Ah Coming”, whose official video is on YouTube, and “Back Up Your Chat”, by Ebony Empress with Foxy Jael, whose official video points to Spotify and Apple Music. Our <a href=\"/en/ebony-empress.html\">Ebony Empress</a> page holds the other half of the feature file, and our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> follows the current Dominican wave.")
- ],
+  (
+    "Who is Foxy Jael?",
+    "Foxy Jael is the musical alter ego of Jael Joseph, a Dominican media woman: host of the “Jael Joseph Live” interview shows, founder of Black Island Girl Multimedia, director of the documentary “Territory”, winner of Best Short Documentary at the 2023 Caribbean Tales International Film Festival, and Social Media Influencer and Content Creator of the Year at the Dominica Music Awards of January 3, 2026. She debuted as a singer in July 2025 with “Ah Coming”.",
+  ),
+  (
+    "What is Foxy Jael’s real name?",
+    "Foxy Jael is the stage name of Jael Joseph, presented everywhere as her musical alter ego. Under her own name she is a Dominican media woman, host of the “Jael Joseph Live” interview shows and founder of Black Island Girl Multimedia. No source explains the choice of the word Foxy, and this site invents no etymology for it.",
+  ),
+  (
+    "Is Foxy Jael from Dominica?",
+    "Yes: the press that covered her debut presents Jael Joseph as a Dominican media woman, and Caribbean E-Magazine describes her as a Dominican journalist, producer and media personality. She trained in Toronto, where Black Island Girl began as her final year project, but her music is rooted in Dominica: the Kryptic Riddim of Dada and a video filmed on the island.",
+  ),
+  (
+    "What is the debut single of Foxy Jael?",
+    "“Ah Coming”, released in July 2025. The record is voiced on the Kryptic Riddim of producer Dada, alongside Pumpa with “Savage”, Shanna Raymond with “Hustle Hard” and Puddaz with “Shake Something”. It was written by her sister Aurelle Joseph, and produced, mixed and mastered by Dada, who shares the composer credit with Aurelle Joseph and Jael Joseph according to the official video credit block.",
+  ),
+  (
+    "Kryptic Riddim or Kyrptic Riddim: which spelling is right?",
+    "Kryptic Riddim is the spelling of the official credits of the “Ah Coming” video and of the headline of the launch article, and it is the one this site keeps. The body of the CaribMagPlus article writes Kyrptic. Both names designate the same riddim produced by <a href=\"/en/dada.html\">Dada</a>, on which Foxy Jael, Pumpa, Shanna Raymond and Puddaz each voiced a song.",
+  ),
+  (
+    "Who writes Foxy Jael’s songs?",
+    "Her sister, Aurelle Joseph, according to every source opened. Aurelle Joseph wrote “Ah Coming”, whose composer credit she shares with Dada and Jael Joseph, then co-wrote “Back Up Your Chat” with Everlyne Leandra Walters. Foxy Jael’s first two records therefore carry the same family signature on the writing, around two different production teams.",
+  ),
+  (
+    "What is Foxy Jael’s “Ah Coming” about?",
+    "According to the artist’s explanation reported by the press, “Ah Coming” speaks of what many women of her generation live through in looking for love: the spark, the chase, then the conquest. Listeners read different things into it, a message of empowerment for some, playful seduction for others, dominance and control for others still, which made it a conversation topic on social media.",
+  ),
+  (
+    "When was the “Ah Coming” video released, and where was it filmed?",
+    "The official premiere took place on Friday February 27, 2026. The video, directed by Leah De Gannes with RisAnne Martin on creative direction and styling, was filmed in Dominica, at the High Garden Restaurant, at The Realm, and at Jungle Bay Resort. Colton T plays the love interest there, and Reo and Dada appear among the people on screen.",
+  ),
+  (
+    "What is “Back Up Your Chat”?",
+    "It is a bouyon remix by Ebony Empress featuring Foxy Jael, announced by the Dominican press on May 15, 2026. It was produced by YoJoshii and Yung Pierre, mixed by Cleverns Pierre, mastered by Khallion, written by Everlyne Leandra Walters and Aurelle Joseph, and recorded at Felix Studio. Ebony Empress said, on the show of Foxy Jael, that it was the first song she ever created, modernised years later.",
+  ),
+  (
+    "What awards has Jael Joseph won?",
+    "Two awards are on file. Her documentary “Territory”, on the Kalinago people of Dominica, won Best Short Documentary at the 2023 Caribbean Tales International Film Festival in Toronto, according to Bahamas Local. On January 3, 2026, at the second Dominica Music Awards, she won Social Media Influencer and Content Creator of the Year, the same night producer Dada received an Iconic Award.",
+  ),
+  (
+    "What is Black Island Girl Multimedia?",
+    "It is the media company founded by Jael Joseph, the real name of Foxy Jael. According to Bahamas Local, Black Island Girl began in 2021 as her final year capstone project at Toronto Metropolitan University: an online outlet devoted to the lives of Caribbean women. It became a registered business, with culture, entertainment, business and wellness sections, and podcast and production services for brands.",
+  ),
+  (
+    "What is Foxy Jael’s link with the Caribbean Music Awards?",
+    "In August 2026, Caribbean E-Magazine reported that Jael Joseph launched, through Black Island Girl Multimedia, a region wide contest to find a red carpet correspondent for the Caribbean Music Awards of September 19, 2026 in Trinidad and Tobago. She recalled having been invited to host those awards three years earlier, then to interview the artists on the red carpet.",
+  ),
+  (
+    "Does Foxy Jael have a label or an album?",
+    "No source opened for this profile names a label for her two records, and no album is documented. Her verified catalog fits in two records: “Ah Coming” solo, in July 2025, and “Back Up Your Chat” as a feature with Ebony Empress, in May 2026. No platform artist page was confirmed by direct opening during this research.",
+  ),
+  (
+    "Where can I hear Foxy Jael?",
+    "Through her two verified records: “Ah Coming”, whose official video is on YouTube, and “Back Up Your Chat”, by Ebony Empress with Foxy Jael, whose official video points to Spotify and Apple Music. To hear the Dominican bouyon scene around her, our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, the Bouyon Road Mix by Bouyon Shattaz, gathers new releases from Dominica, Guadeloupe and Martinique.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/foxy-jael.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/foxy-jael.html#artist", "name": "Foxy Jael", "description": "Musical alter ego of Jael Joseph, Dominican media woman, founder of Black Island Girl Multimedia and award winning filmmaker. Debut single Ah Coming in July 2025 on the Kryptic Riddim of Dada, video in February 2026, then a feature on Back Up Your Chat by Ebony Empress in May 2026. No platform artist page verified by opening in October 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Ah Coming"}, {"@type": "MusicRecording", "name": "Back Up Your Chat"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

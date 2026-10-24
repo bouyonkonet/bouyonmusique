@@ -74,13 +74,59 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Tehilah ?", "Tehilah, de son nom complet publié Kelsey Téhilah LeBlanc, est une chanteuse de la Commonwealth de la Dominique. Une présentation radio de janvier 2021 la décrit comme une artiste au style Antillean Soul, formée au chant dans la chorale de son église, guitariste autodidacte, et déjà active sur les festivals et les concerts intimes de son île. En 2025, son duo « La vie doux » avec Reo l’a fait entrer dans le bouyon."),
-  ("Quel est le titre bouyon de Tehilah ?", "« La vie doux », publié par Reo avec Téhilah en featuring, sorti le 26 juin 2025 chez Reo music Ent. selon la fiche Qobuz. C’est, à ce jour, le seul enregistrement bouyon vérifié de Tehilah dans les sources consultées, et aucun titre solo sous son nom n’a été confirmé par cette recherche."),
-  ("Comment « La vie doux » s’est il classé ?", "Selon la biographie d’artiste de Reo rédigée par Music Story et publiée par Qobuz, le duo a atteint la quatrième place du classement Outre-Mer Songs à la fin de l’année 2025. Ce profil cite ce résultat avec son attribution, car il repose sur ce texte éditorial de plateforme."),
-  ("« La Vie Doux » a t il gagné aux Caribbean Music Awards 2026 ?", "Non, et ce profil le dit clairement, là où beaucoup de pages se contenteraient de la nomination. Le titre a été nommé chanson bouyon de l’année aux Caribbean Music Awards 2026, parmi huit chansons, mais les listes de lauréats donnent le prix à « Bouwéy » de 1T1 & Theomaa. La nomination de Reo & Téhilah, en co crédit, reste le fait officiel du dossier."),
-  ("Tehilah est elle l’artiste britannique de l’EP « Still Here » ?", "Non. L’auteure de « Still Here » s’écrit Tehillah, avec un double l, et son label la présente comme une créatrice née et basée dans le sud est de l’Angleterre. La Tehilah de ce profil s’écrit avec un seul l, porte l’accent sur le e dans son crédit complet, Kelsey Téhilah LeBlanc, et son dossier publié est entièrement dominicain : présentation radio de 2021, duo avec Reo en 2025, nomination en 2026."),
-  ("Où écouter Tehilah ?", "Sur « La vie doux » de <a href=\"/reo.html\">Reo</a>, disponible sur les plateformes depuis le 26 juin 2025, et dans le mix Bouyon Music 2026 Vol. 1 de Bouyon Shattaz où le duo figure en chapitre. Pour le bouyon de la même saison, écoutez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> et lisez notre page <a href=\"/bouyon-dominique.html\">bouyon Dominique</a>.")
- ],
+  (
+    "Qui est Tehilah ?",
+    "Tehilah, de son nom complet publié Kelsey Téhilah LeBlanc, est une chanteuse de la Commonwealth de la Dominique. Une présentation radio de janvier 2021 la décrit comme une artiste au style Antillean Soul, formée au chant dans la chorale de son église, guitariste autodidacte, et déjà active sur les festivals et les concerts intimes de son île. En 2025, son duo « La vie doux » avec Reo l’a fait entrer dans le bouyon.",
+  ),
+  (
+    "D’où vient Tehilah ?",
+    "Tehilah vient de la Commonwealth de la Dominique, l’île où est né le bouyon. La présentation de l’émission Thank God It’s Toby, en janvier 2021, parle de son île natale, où elle s’était déjà produite dans de nombreux festivals et dans des concerts intimes. Son seul titre bouyon vérifié est d’ailleurs un duo avec un autre artiste dominicain, Reo, originaire de Colihaut.",
+  ),
+  (
+    "Quel est le vrai nom de Tehilah ?",
+    "Son nom complet publié est Kelsey Téhilah LeBlanc, selon la présentation de l’émission Thank God It’s Toby sur Shout Radio, dans un épisode daté du 14 janvier 2021. Le crédit de « La vie doux » reprend la même graphie accentuée, Téhilah, avec un seul l. Cette continuité de graphie entre 2021 et 2025 est ce qui distingue la chanteuse dominicaine de ses homonymes en ligne.",
+  ),
+  (
+    "Quel style de musique chante Tehilah ?",
+    "Tehilah revendiquait dès 2021 un style qu’elle venait de trouver, l’Antillean Soul : elle y mêle ses racines antillaises à des vocaux modernes au ton doux, pour une écoute intime et captivante. C’est une musique d’écoute, voix proche et guitare, très loin de la fête. Son entrée dans le bouyon s’est faite par un duo au titre fidèle à ce registre de douceur, « La vie doux ».",
+  ),
+  (
+    "Comment Tehilah a-t-elle commencé à chanter ?",
+    "Tehilah a commencé par la chorale de son église, dès son jeune âge, selon la présentation radio de 2021. La même source la décrit comme guitariste autodidacte, qui accompagne sa propre voix, et précise sa vision d’artiste : être une source de soin de soi, de self care, à travers son son. Un vocabulaire rare sur la scène bouyon, qui éclaire son duo de 2025.",
+  ),
+  (
+    "Quel est le titre bouyon de Tehilah ?",
+    "« La vie doux », publié par Reo avec Téhilah en featuring, sorti le 26 juin 2025 chez Reo music Ent. selon la fiche Qobuz. C’est, à ce jour, le seul enregistrement bouyon vérifié de Tehilah dans les sources consultées, et aucun titre solo sous son nom n’a été confirmé par cette recherche.",
+  ),
+  (
+    "Avec qui Tehilah chante-t-elle « La vie doux » ?",
+    "Avec Reo, l’artiste bouyon de Colihaut, en Dominique : le titre est publié sous son nom, avec Téhilah en featuring, sur son label Reo music Ent. Le duo réunit deux trajectoires dominicaines très différentes, une voix de la scène bouyon et une chanteuse de soul antillaise intime. Pour le parcours de son partenaire, voir notre profil de <a href=\"/reo.html\">Reo</a>.",
+  ),
+  (
+    "Comment « La vie doux » s’est-il classé ?",
+    "Le duo a atteint la quatrième place du classement Outre-Mer Songs à la fin de l’année 2025, selon la biographie d’artiste de Reo rédigée par Music Story et publiée par Qobuz. Ce profil cite ce résultat avec son attribution, car il repose sur ce texte éditorial de plateforme et non sur une publication du classement consultée directement.",
+  ),
+  (
+    "« La Vie Doux » a-t-il gagné aux Caribbean Music Awards 2026 ?",
+    "Non. Le titre a été nommé chanson bouyon de l’année aux Caribbean Music Awards 2026, parmi huit chansons, mais les listes de lauréats donnent le prix à « Bouwéy » de 1T1 & Theomaa. La nomination de Reo & Téhilah, en co crédit, reste le fait officiel du dossier, et ce profil ne la présente pas comme une victoire.",
+  ),
+  (
+    "Quelles chansons étaient nommées avec « La Vie Doux » aux Caribbean Music Awards 2026 ?",
+    "Sept autres titres figuraient dans la catégorie chanson bouyon de l’année, selon la liste publiée le 10 juin 2026 : « Bouwey » de 1T1 et Theomaa, « Bye to the Old Me » de Shelly & Signal Band, « Put That on That » de Khallion, « Sé Miimii » de Miimii, « Shake Something » de Dirty Dawg Pudaz, « Take Me as I Am » de Trilla G et « Time 2 Grind » de BRG Hollywood.",
+  ),
+  (
+    "Tehilah est-elle l’artiste britannique de l’EP « Still Here » ?",
+    "Non. L’auteure de « Still Here » s’écrit Tehillah, avec un double l, et son label la présente comme une créatrice née et basée dans le sud est de l’Angleterre. La Tehilah de ce profil s’écrit avec un seul l, porte l’accent dans son crédit complet, Kelsey Téhilah LeBlanc, et son dossier publié est entièrement dominicain : radio en 2021, duo avec Reo en 2025, nomination en 2026.",
+  ),
+  (
+    "Tehilah et Tehila sont-elles la même chanteuse ?",
+    "Non. Tehila, sans h final, est une chanteuse auteure dont la famille a déménagé d’Israël à Hawaï, avec un passé de groupe familial et une carrière entre pop alternative et musique instrumentale. Ni la graphie, ni le territoire, ni les collaborateurs ne recoupent la Tehilah dominicaine de « La vie doux », et ce profil ne lui attribue aucun de ses titres.",
+  ),
+  (
+    "Où écouter Tehilah ?",
+    "Sur « La vie doux » de Reo, disponible sur les plateformes depuis le 26 juin 2025, et dans le mix Bouyon Music 2026 Vol. 1 de Bouyon Shattaz, mixé par Smokiller, où le duo figure en chapitre à 37 minutes 02. Pour le bouyon de la même saison, la <a href=\"/playlist-bouyon.html\">playlist Bouyon Road Mix</a> réunit les nouveautés de la Dominique et des Antilles.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/tehilah.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/tehilah.html#artist", "name": "Tehilah", "description": "Chanteuse de la Dominique, Kelsey Tehilah LeBlanc. Présentée en 2021 pour son style Antillean Soul, voix douce, guitare autodidacte et débuts dans la chorale. Co créditée avec Reo sur La vie doux, sorti le 26 juin 2025, rapporté numéro 4 du classement Outre-Mer Songs et nommé chanson bouyon de l’année aux Caribbean Music Awards 2026. Aucun titre solo vérifié à ce jour.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'La vie doux'},
       {
        "@type": "MusicRecording",
@@ -240,13 +286,59 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Tehilah?", "Tehilah, whose published full name is Kelsey Téhilah LeBlanc, is a singer from the Commonwealth of Dominica. A radio presentation of January 2021 describes her as an artist of Antillean Soul style, formed in singing in her church choir, a self taught guitarist, and already active at the festivals and intimate shows of her home island. In 2025, her duet “La vie doux” with Reo brought her into bouyon."),
-  ("What is the bouyon record of Tehilah?", "“La vie doux”, released by Reo with Téhilah as feature, released on June 26, 2025 on Reo music Ent. according to the Qobuz sheet. It is, so far, the only verified bouyon recording of Tehilah in the sources consulted, and no solo record under her name was confirmed by this research."),
-  ("How did “La vie doux” chart?", "According to the artist biography of Reo written by Music Story and published by Qobuz, the duet reached number four in the Outre-Mer Songs chart at the end of 2025. This profile cites that result with its attribution, because it rests on that platform editorial text."),
-  ("Did “La Vie Doux” win at the 2026 Caribbean Music Awards?", "No, and this profile says so clearly, where many pages would settle for the nomination. The record was nominated as Bouyon Song of the Year at the 2026 Caribbean Music Awards, among eight songs, but the winners lists give the award to “Bouwéy” by 1T1 & Theomaa. The nomination of Reo & Téhilah, as co credit, remains the official fact of the file."),
-  ("Is Tehilah the British artist of the “Still Here” EP?", "No. The author of “Still Here” is spelled Tehillah, with a double l, and her label presents her as a creative born and based in the South East of England. The Tehilah of this profile is spelled with a single l, carries the accent on the e in her full credit, Kelsey Téhilah LeBlanc, and her published file is entirely Dominican: radio presentation in 2021, duet with Reo in 2025, nomination in 2026."),
-  ("Where can I hear Tehilah?", "On “La vie doux” by <a href=\"/en/reo.html\">Reo</a>, available on the platforms since June 26, 2025, and in the Bouyon Music 2026 Mix Vol. 1 by Bouyon Shattaz where the duet appears as a chapter. For the bouyon of the same season, hear our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> and read our <a href=\"/en/bouyon-dominica.html\">bouyon Dominica</a> page.")
- ],
+  (
+    "Who is Tehilah?",
+    "Tehilah, whose published full name is Kelsey Téhilah LeBlanc, is a singer from the Commonwealth of Dominica. A radio presentation of January 2021 describes her as an artist of Antillean Soul style, formed in singing in her church choir, a self taught guitarist, and already active at the festivals and intimate shows of her home island. In 2025, her duet “La vie doux” with Reo brought her into bouyon.",
+  ),
+  (
+    "Where is Tehilah from?",
+    "Tehilah is from the Commonwealth of Dominica, the island where bouyon was born. The presentation of the show Thank God It’s Toby, in January 2021, speaks of her home island, where she had already performed at many festivals and in quite a few intimate shows. Her only verified bouyon record is also a duet with another Dominican artist, Reo, from Colihaut.",
+  ),
+  (
+    "What is Tehilah’s real name?",
+    "Her published full name is Kelsey Téhilah LeBlanc, according to the presentation of the show Thank God It’s Toby on Shout Radio, in an episode dated January 14, 2021. The “La vie doux” credit carries the same accented spelling, Téhilah, with a single l. That continuity of spelling between 2021 and 2025 is what separates the Dominican singer from her namesakes online.",
+  ),
+  (
+    "What style of music does Tehilah sing?",
+    "From 2021 Tehilah claimed a style she had newly found, Antillean Soul: she meshes her West Indian roots with modern soft toned vocals for an intimate, captivating listen. It is listening music, close voice and guitar, far from the fete. Her way into bouyon came through a duet whose title stays true to that register of softness, “La vie doux”.",
+  ),
+  (
+    "How did Tehilah start singing?",
+    "Tehilah started in her church choir, from a young age, according to the 2021 radio presentation. The same source describes her as a self taught guitarist who accompanies her own voice, and gives her artist vision: to be a source of self care through her sound. That vocabulary is rare on the bouyon scene, and it sheds light on her 2025 duet.",
+  ),
+  (
+    "What is the bouyon record of Tehilah?",
+    "“La vie doux”, released by Reo with Téhilah as feature on June 26, 2025 on Reo music Ent., according to the Qobuz sheet. It is, so far, the only verified bouyon recording of Tehilah in the sources consulted, and no solo record under her name was confirmed by this research.",
+  ),
+  (
+    "Who does Tehilah sing “La vie doux” with?",
+    "With Reo, the bouyon artist from Colihaut, Dominica: the record is released under his name, with Téhilah as feature, on his label Reo music Ent. The duet brings together two very different Dominican paths, a voice of the bouyon scene and an intimate Antillean soul singer. For the path of her partner, see our <a href=\"/en/reo.html\">Reo</a> profile.",
+  ),
+  (
+    "How did “La vie doux” chart?",
+    "The duet reached number four in the Outre-Mer Songs chart at the end of 2025, according to the artist biography of Reo written by Music Story and published by Qobuz. This profile cites that result with its attribution, because it rests on that platform editorial text and not on a chart publication consulted directly.",
+  ),
+  (
+    "Did “La Vie Doux” win at the 2026 Caribbean Music Awards?",
+    "No. The record was nominated as Bouyon Song of the Year at the 2026 Caribbean Music Awards, among eight songs, but the winners lists give the award to “Bouwéy” by 1T1 & Theomaa. The nomination of Reo & Téhilah, as co credit, remains the official fact of the file, and this profile does not present it as a win.",
+  ),
+  (
+    "Which songs were nominated with “La Vie Doux” at the 2026 Caribbean Music Awards?",
+    "Seven other records stood in the Bouyon Song of the Year category, according to the list published on June 10, 2026: “Bouwey” by 1T1 and Theomaa, “Bye to the Old Me” by Shelly & Signal Band, “Put That on That” by Khallion, “Sé Miimii” by Miimii, “Shake Something” by Dirty Dawg Pudaz, “Take Me as I Am” by Trilla G and “Time 2 Grind” by BRG Hollywood.",
+  ),
+  (
+    "Is Tehilah the British artist of the “Still Here” EP?",
+    "No. The author of “Still Here” is spelled Tehillah, with a double l, and her label presents her as a creative born and based in the South East of England. The Tehilah of this profile is spelled with a single l, carries the accent in her full credit, Kelsey Téhilah LeBlanc, and her published file is entirely Dominican: radio in 2021, duet with Reo in 2025, nomination in 2026.",
+  ),
+  (
+    "Are Tehilah and Tehila the same singer?",
+    "No. Tehila, without the final h, is a singer songwriter whose family moved from Israel to Hawaii, with a family band past and a career between alternative pop and instrumental music. Neither the spelling, nor the territory, nor the collaborators overlap the Dominican Tehilah of “La vie doux”, and this profile attributes none of her records to her.",
+  ),
+  (
+    "Where can I hear Tehilah?",
+    "On “La vie doux” by Reo, available on the platforms since June 26, 2025, and in the Bouyon Music 2026 Mix Vol. 1 by Bouyon Shattaz, mixed by Smokiller, where the duet appears as a chapter at 37 minutes 02. For the bouyon of the same season, the <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix playlist</a> gathers new music from Dominica and the French Antilles.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/tehilah.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/tehilah.html#artist", "name": "Tehilah", "description": "Singer from Dominica, Kelsey Tehilah LeBlanc. Presented in 2021 for her Antillean Soul style, soft voice, self taught guitar and church choir beginnings. Co credited with Reo on La vie doux, released June 26, 2025, reported number 4 in the Outre-Mer Songs chart and nominated as Bouyon Song of the Year at the 2026 Caribbean Music Awards. No verified solo record so far.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'La vie doux'},
       {
        "@type": "MusicRecording",

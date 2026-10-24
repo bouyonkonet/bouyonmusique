@@ -74,8 +74,8 @@ FR = {
    "Caribbean Music Awards 2026 : finaliste artiste bouyon de l’année",
    [
     "La deuxieme reconnaissance du dossier arrive en juin 2026. The Peoples Tribune SXM annoncé que BRG Hollywood a passé la sélection finale des nomines aux Caribbean Music Awards dans la catégorie artiste bouyon de l’année, « mettant un autre nom de St. Maarten sur l’une des plateformes musicales reconnues de la region ». Le journal précise que la catégorie releve du groupe plus large des artistes de l’année, qui distingué les scènes de la Caraibe francaise, du bouyon et de la Caraibe latine, et que le prix reconnait un artiste qui a aide a redefinir le genre par le talent, l’innovation et l’influence.",
-    "La liste complète des finalistes, publiée par Black Island Girl, situé le niveau de la course : 1T1, Asa Bantan, BRG Hollywood, Dirty Dawg Pudaz, Mr Ridge, Reo, Shelly and Signall Band et Trilla G. BRG Hollywood y est le seul nom de Sint Maarten, au milieu des poids lourds dominicains du genre, d’Asa Bantan, souvent présente comme le Bouyon Boss, a Reo et Trilla G. Le même article rangé BRG Hollywood, Trilla G et 1T1 dans « une nouvelle vague d’interprètes » qui pousse le genre vers des territoires neufs et touche un public plus jeune.",
-    "The Peoples Tribune ajouté deux elements que ce profil retient. D’une part, la nomination s’inscrit dans un moment plus large de visibilite pour Sint Maarten aux Caribbean Music Awards, l’île comptant plusieurs representants dans differentes catégories du cycle 2026, en bouyon, en culture DJ et en kompa. D’autre part, a la date de l’article, la date et le lieu de la cérémonie 2026 n’etaient pas encore annoncés officiellement par les organisateurs. Ce profil né donné donc ni gagnant, ni date de cérémonie : il documente une place de finaliste, qui est le fait vérifié, et il la distingué d’une victoire qu’aucune source né rapporte.",
+    "La liste complète des finalistes, publiée par Black Island Girl, situé le niveau de la course : 1T1, Asa Bantan, BRG Hollywood, Dirty Dawg Pudaz, Mr Ridge, Reo, Shelly and Signall Band et Trilla G. BRG Hollywood y est le seul nom de Sint Maarten, au milieu des poids lourds dominicains du genre, d’Asa Bantan, identifié comme le Bouyon Boss par Dominica Festivals, a Reo et Trilla G. Le même article rangé BRG Hollywood, Trilla G et 1T1 dans « une nouvelle vague d’interprètes » qui pousse le genre vers des territoires neufs et touche un public plus jeune.",
+    "The Peoples Tribune ajouté deux elements que ce profil retient. D’une part, la nomination s’inscrit dans un moment plus large de visibilite pour Sint Maarten aux Caribbean Music Awards, l’île comptant plusieurs representants dans differentes catégories du cycle 2026, en bouyon, en culture DJ et en kompa. D’autre part, a la date de l’article, la date et le lieu de la cérémonie 2026 n’etaient pas encore annoncés officiellement par les organisateurs. Les résultats publiés en septembre 2026 donnent le titre d’artiste bouyon de l’année à Mr <a href=\"/ridge.html\">Ridge</a> : pour BRG Hollywood, le fait vérifié reste sa place de finaliste.",
     "Pour un artiste dont le premier single date documente remonte a avril 2025, une finale regionale aux côtés des noms établis du genre est une acceleration remarquable, et elle s’explique par l’ordre des événements : les singles d’abord, le million de vues ensuite, la nomination dans la foulee. C’est aussi une preuve supplementaire de la geographie nouvelle du bouyon : la catégorie qui couronne le genre au niveau caribéen compte desormais un finaliste de Sint Maarten, formé sur les riddims d’une équipe de production de son île."
    ]
   ],
@@ -85,18 +85,68 @@ FR = {
     "Le bouyon que joue BRG Hollywood descend du son créé en Dominique, et ce site le rappelle sur chaque profil. Le <a href=\"/bouyon-soca.html\">bouyon soca</a>, lancé en Dominique en 2003 par <a href=\"/dada.html\">Dada</a> selon le témoignage de première main de Smokiller, producteur né en Dominique, et popularise par Triple Kay, a montre comment la fusion dominicaine voyage d’île en île. Le <a href=\"/wrecketeng.html\">Wrecketeng</a>, dont l’orthographe officielle vient de <a href=\"/dj-cut.html\">DJ Cut</a> lui-même, tandis que reketeng reste la graphie fautive des reseaux, raconte la même circulation par les producteurs. BRG Hollywood est un episode récent de cette histoire : le son de Roseau travaillé, une génération plus tard, par un chanteur et des producteurs de Philipsburg.",
     "Ce profil dit aussi ses limites. Aucune biographie detaillee de Jaheim Meyers n’a été trouvée : ni enfance, ni formation, ni débuts de scène documentes. Aucun compte officiel n’a été confirme par ouverture pendant cette recherche, donc les données structurees de cette page né contiennent aucun lien officiel, et le champ reste vide plutot que rempli par un handle devine. Aucun album, aucune date de concert et aucun chiffre de streams vérifié né sont documentes. Les pages de titres utilisees pour les dates et les crédits viennent de l’index des plateformes musicales, leurs ouvertures directes ayant été mal aiguillées pendant la recherche : les faits retenus sont ceux que plusieurs listées convergent a confirmer.",
     "Pourquoi BRG Hollywood compte, a ce stade documente : parce qu’il cumule deux faits rares pour un artiste bouyon hors de la Dominique et des Antilles francaises. Une première nationale sur YouTube, saluée par le chef de son gouvernement. Et une place de finaliste dans la catégorie qui distingué le meilleur artiste bouyon de l’année caribéenne, dans une liste dominee par les Dominicains. Ces deux faits, publiés et verifiables, suffisent a ouvrir ce profil, sans qu’il soit besoin d’en inventer d’autres.",
-    "Pour l’écoute, commencez par « We Not Going Home » avec C4, le titre du record, puis « WTHelly Bouyon » avec Gwada G, le single qui porte le genre dans son nom, et « Pocket Rocket ». Retrouvez ses concurrents de la finale 2026 dans nos profils d <a href=\"/asa-bantan.html\">Asa Bantan</a>, de <a href=\"/reo.html\">Reo</a> et de <a href=\"/trilla-g.html\">Trilla-G</a>, et l’ensemble de la scène dans notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>. Si une biographie officielle ou le résultat de la catégorie 2026 sont publiés, ce profil sera complète et date, comme toutes les pages de ce site."
+    "Pour l’écoute, commencez par « We Not Going Home » avec C4, le titre du record, puis « WTHelly Bouyon » avec Gwada G, le single qui porte le genre dans son nom, et « Pocket Rocket ». Retrouvez ses concurrents de la finale 2026 dans nos profils d <a href=\"/asa-bantan.html\">Asa Bantan</a>, de <a href=\"/reo.html\">Reo</a> et de <a href=\"/trilla-g.html\">Trilla-G</a>, et l’ensemble de la scène dans notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>. Si une biographie officielle est publiée, ce profil sera complété et daté, comme toutes les pages de ce site."
    ]
   ]
  ],
  "faq": [
-  ("BRG Hollywood est-il un artiste reggae basé en France ?", "Non, selon le dossier vérifié. Un site de statistiques le décrit ainsi dans un texte généré, mais la presse de Sint Maarten le présente comme un artiste bouyon de St. Maarten, et son gouvernement le félicité comme artiste local. Ce profil retient la version documentee : Jaheim Meyers, artiste bouyon de Sint Maarten, la partie néerlandaise de l’île."),
-  ("Quel titre a valu a BRG Hollywood son million de vues sur YouTube ?", "« We Not Going Home », en collaboration avec C4, egalement co-producteur du titre. Selon The Peoples Tribune SXM, ce titre a fait de lui le premier artiste de musique du côté néerlandais de Sint Maarten a atteindre un million de vues sur YouTube, un jalon salué par le Premier ministre, le Dr Luc Mercelina."),
-  ("BRG Hollywood a-t-il gagne le prix d’artiste bouyon de l’année 2026 ?", "Il est finaliste, et c’est le fait vérifié. La liste publiée des nomines aux Caribbean Music Awards comprend 1T1, Asa Bantan, BRG Hollywood, Dirty Dawg Pudaz, Mr Ridge, Reo, Shelly and Signall Band et Trilla G. A la date des articles consultes, la date et le lieu de la cérémonie n’etaient pas annoncés, et aucun gagnant n’est donc donné ici."),
-  ("Quel est le vrai nom de BRG Hollywood ?", "Jaheim Meyers, selon la presse de Sint Maarten. Les crédits d’auteur de « WTHelly Bouyon » donnent la formé complète Jaheim Malakai Meyers, auteur du titre avec Brad M Douglas."),
-  ("Quels sont les titres vérifiés de BRG Hollywood ?", "Les singles documentes sur le label BankrollGang sont « Pocket Rocket » (16 avril 2025), « WTHelly Bouyon » avec Gwada G (16 mai 2025) et « We Not Going Home » avec C4 (31 octobre 2025). « Time 2 Grind » et « Nouveau La », avec Jixels sur la version qui circule en mix, completent la liste des titres confirmes par les listées publiées."),
-  ("Qui produit les titres de BRG Hollywood ?", "Les generiques publiés nomment Xavvoknockin et Xavern Labega a la production de « WTHelly Bouyon », avec Knockin Records a l’enregistrement, et C4 comme co-producteur de « We Not Going Home ». Ses singles documentes paraissent sur le label BankrollGang.")
- ],
+  (
+    "BRG Hollywood est-il un artiste reggae basé en France ?",
+    "Non, selon le dossier vérifié. Un site de statistiques le décrit ainsi dans un texte généré, mais la presse de Sint Maarten le présente comme un artiste bouyon de St. Maarten, et son gouvernement le félicite comme artiste local. Ce profil retient la version documentée : Jaheim Meyers, artiste bouyon de Sint Maarten, la partie néerlandaise de l’île.",
+  ),
+  (
+    "Quel titre a valu a BRG Hollywood son million de vues sur YouTube ?",
+    "« We Not Going Home », en collaboration avec C4, également coproducteur du titre. Selon The Peoples Tribune SXM, ce titre a fait de lui le premier artiste de musique du côté néerlandais de Sint Maarten à atteindre un million de vues sur YouTube, un jalon salué par le Premier ministre, le Dr Luc Mercelina. Le single était sorti le 31 octobre 2025 sur le label BankrollGang.",
+  ),
+  (
+    "BRG Hollywood a-t-il gagné le prix d’artiste bouyon de l’année 2026 ?",
+    "Non. Il est finaliste, et c’est le fait vérifié pour lui. La liste publiée des nommés aux Caribbean Music Awards comprend 1T1, Asa Bantan, BRG Hollywood, Dirty Dawg Pudaz, Mr Ridge, Reo, Shelly and Signall Band et Trilla G. Les résultats publiés en septembre 2026 donnent ce prix à Mr Ridge.",
+  ),
+  (
+    "Quel est le vrai nom de BRG Hollywood ?",
+    "Jaheim Meyers, selon la presse de Sint Maarten, qui le nomme Jaheim « BRG Hollywood » Meyers. Les crédits d’auteur de « WTHelly Bouyon » donnent la forme complète Jaheim Malakai Meyers, auteur du titre avec Brad M Douglas, et ceux de « We Not Going Home » la forme Jaheim M Meyers. Ce profil s’en tient à ces formes publiées, sans date de naissance ni commune.",
+  ),
+  (
+    "Quels sont les titres vérifiés de BRG Hollywood ?",
+    "Les singles documentés sur le label BankrollGang sont « Pocket Rocket » (16 avril 2025), « WTHelly Bouyon » avec Gwada G (16 mai 2025) et « We Not Going Home » avec C4 (31 octobre 2025). « Time 2 Grind » et « Nouveau La », avec Jixels sur la version qui circule en mix, complètent la liste des titres confirmés par les listes publiées.",
+  ),
+  (
+    "Qui produit les titres de BRG Hollywood ?",
+    "Les génériques publiés nomment Xavvoknockin et Xavern Labega à la production de « WTHelly Bouyon », avec Knockin Records à l’enregistrement, et C4 comme coproducteur de « We Not Going Home ». Ses singles documentés paraissent sur le label BankrollGang. BRG Hollywood apparaît ainsi comme la voix d’une petite équipe de production de son île et de sa région.",
+  ),
+  (
+    "Qui est BRG Hollywood ?",
+    "BRG Hollywood est un artiste bouyon de Sint Maarten, de son vrai nom Jaheim Meyers. Son titre « We Not Going Home », avec C4, a fait de lui le premier artiste de musique du côté néerlandais de l’île à atteindre un million de vues sur YouTube. En 2026, il figure parmi les finalistes du prix d’artiste bouyon de l’année aux Caribbean Music Awards, aux côtés d’Asa Bantan, de Reo et de Trilla G.",
+  ),
+  (
+    "BRG Hollywood est-il de Saint-Martin ou de Sint Maarten ?",
+    "De Sint Maarten, la partie néerlandaise de l’île de Saint-Martin, partagée avec une partie française. La presse de Philipsburg le présente comme un artiste bouyon de St. Maarten, et son record de vues est formulé pour le côté néerlandais de l’île, pas pour l’île entière. La place du bouyon des deux côtés de l’île est détaillée sur notre page <a href=\"/bouyon-saint-martin.html\">bouyon à Saint-Martin</a>.",
+  ),
+  (
+    "Qu’a dit le Premier ministre de Sint Maarten sur BRG Hollywood ?",
+    "Le Dr Luc Mercelina a félicité Jaheim « BRG Hollywood » Meyers pour son million de vues. Selon The Peoples Tribune SXM, il a déclaré que ce cap témoigne « de la puissance du talent, du travail acharné et de la détermination », que ce jalon « place la musique et la culture de Sint Maarten devant un public mondial », et que les artistes locaux « peuvent rivaliser et exceller sur la scène mondiale ».",
+  ),
+  (
+    "Qui est C4, l’invité de We Not Going Home ?",
+    "C4 est le nom crédité comme artiste invité et coproducteur sur « We Not Going Home », le titre de BRG Hollywood sorti le 31 octobre 2025. C’est à ce jour son seul crédit vérifié, et aucune source ne publie son origine. Il ne faut pas le confondre avec le producteur américain d’Atlanta ou le chanteur angolais C4 Pedro, des homonymes sans lien. Voir notre page <a href=\"/c4.html\">C4</a>.",
+  ),
+  (
+    "Qui chante avec BRG Hollywood sur WTHelly Bouyon ?",
+    "Gwada G, artiste bouyon de la Dominique, malgré un nom qui évoque la Guadeloupe. « WTHelly Bouyon » sort le 16 mai 2025 sur BankrollGang, à 164 BPM, écrit par Jaheim Malakai Meyers et Brad M Douglas et produit par Xavvoknockin et Xavern Labega. Le titre annonce le genre dans son nom même. Le parcours de l’invité est sur notre page <a href=\"/gwada-g.html\">Gwada G</a>.",
+  ),
+  (
+    "Dans quels mixes entend-on BRG Hollywood ?",
+    "Ses singles ont une deuxième vie dans les sélections de DJ. La tracklist du podcast de Blaqrose Suprême programme « Nouveau La » avec Jixels au milieu d’une sélection bouyon récente, et un podcast soca et bouyon caribéen liste « Time 2 Grind » et « Pocket Rocket » aux côtés de titres de la scène régionale. Notre page <a href=\"/bouyon-mix.html\">bouyon mix</a> explique comment ces tracklists font circuler le genre.",
+  ),
+  (
+    "Quel tempo ont les titres de BRG Hollywood ?",
+    "Ses titres documentés tournent entre 160 et 164 BPM, des tempos de bouyon de fête rapide. « Pocket Rocket » et « We Not Going Home » sont affichés à 160 BPM, et « WTHelly Bouyon » avec Gwada G monte à 164 BPM. C’est la vitesse héritée du bouyon dominicain, que notre page <a href=\"/bpm-du-bouyon.html\">BPM du bouyon</a> explique par les danses traditionnelles, le carnaval et la compétition entre groupes.",
+  ),
+  (
+    "Où écouter BRG Hollywood ?",
+    "Commencez par « We Not Going Home » avec C4, le titre du million de vues, puis « WTHelly Bouyon » avec Gwada G et « Pocket Rocket ». Ses singles sont sur les plateformes et sur YouTube. Pour entendre ses concurrents de la finale 2026 et le bouyon du moment, commentez ROAD MIX sous une publication de @bouyonshattaz sur Instagram, ou ouvrez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/brg-hollywood.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/brg-hollywood.html#artist", "name": "BRG Hollywood", "description": "Artiste bouyon de Sint Maarten, de son vrai nom Jaheim Meyers. Premier artiste du côté néerlandais de Sint Maarten a atteindre un million de vues sur YouTube avec We Not Going Home, avec C4. Finaliste artiste bouyon de l’année aux Caribbean Music Awards 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "We Not Going Home"}, {"@type": "MusicRecording", "name": "WTHelly Bouyon"}, {"@type": "MusicRecording", "name": "Pocket Rocket"}, {"@type": "MusicRecording", "name": "Time 2 Grind"}, {"@type": "MusicRecording", "name": "Nouveau La"},
       {
        "@type": "MusicRecording",
@@ -168,8 +218,8 @@ EN = {
    "Caribbean Music Awards 2026: Bouyon Artist of the Year finalist",
    [
     "The second honour of the record arrives in June 2026. The Peoples Tribune SXM announces that BRG Hollywood made the final cut of nominees at the Caribbean Music Awards in the Bouyon Artist of the Year category, “placing another St. Maarten name on one of the region recognized music platforms”. The paper specifies that the category sits under the wider Artist of the Year grouping, which recognises artists from the French Caribbean, Bouyon and Latin Caribbean scenes, and that the award recognises an artist who has helped redefine the genre through talent, innovation and influence.",
-    "The full finalist list, published by Black Island Girl, sets the level of the race: 1T1, Asa Bantan, BRG Hollywood, Dirty Dawg Pudaz, Mr Ridge, Reo, Shelly and Signall Band, and Trilla G. BRG Hollywood is the only Sint Maarten name in it, among the Dominican heavyweights of the genre, from Asa Bantan, often presented as the Bouyon Boss, to Reo and Trilla G. The same article places BRG Hollywood, Trilla G and 1T1 in “a new wave of performers” pushing the genre into fresh territory and reaching younger audiences.",
-    "The Peoples Tribune adds two elements this profile keeps. First, the nomination stands in a wider moment of visibility for Sint Maarten at the Caribbean Music Awards, the island counting several representatives across categories in the 2026 cycle, in bouyon, DJ culture and kompa. Second, at the date of the article, the date and venue of the 2026 ceremony had not yet been officially announced by the organisers. This profile therefore gives neither a winner nor a ceremony date: it documents a finalist place, which is the verified fact, and distinguishes it from a victory no source reports.",
+    "The full finalist list, published by Black Island Girl, sets the level of the race: 1T1, Asa Bantan, BRG Hollywood, Dirty Dawg Pudaz, Mr Ridge, Reo, Shelly and Signall Band, and Trilla G. BRG Hollywood is the only Sint Maarten name in it, among the Dominican heavyweights of the genre, from Asa Bantan, identified as the Bouyon Boss by Dominica Festivals, to Reo and Trilla G. The same article places BRG Hollywood, Trilla G and 1T1 in “a new wave of performers” pushing the genre into fresh territory and reaching younger audiences.",
+    "The Peoples Tribune adds two elements this profile keeps. First, the nomination stands in a wider moment of visibility for Sint Maarten at the Caribbean Music Awards, the island counting several representatives across categories in the 2026 cycle, in bouyon, DJ culture and kompa. Second, at the date of the article, the date and venue of the 2026 ceremony had not yet been officially announced by the organisers. Results published in September 2026 give bouyon artist of the year to Mr <a href=\"/en/ridge.html\">Ridge</a>: for BRG Hollywood, the verified fact remains his finalist place.",
     "For an artist whose first documented dated single goes back to April 2025, a regional final alongside the established names of the genre is a remarkable acceleration, and the order of events explains it: the singles first, the million views next, the nomination in their wake. It is also further proof of the new geography of bouyon: the category that crowns the genre at Caribbean level now counts a finalist from Sint Maarten, formed on the riddims of a production team from his island."
    ]
   ],
@@ -179,18 +229,68 @@ EN = {
     "The bouyon BRG Hollywood plays descends from the sound created in Dominica, and this site recalls it on every profile. <a href=\"/en/bouyon-soca.html\">Bouyon soca</a>, started in Dominica in 2003 by <a href=\"/en/dada.html\">Dada</a> according to the first-hand testimony of Smokiller, a Dominican-born producer, and popularised by Triple Kay, showed how the Dominican fusion travels from island to island. <a href=\"/en/wrecketeng.html\">Wrecketeng</a>, whose official spelling comes from <a href=\"/en/dj-cut.html\">DJ Cut</a> himself, while reketeng remains the misspelling of social media, tells the same circulation through producers. BRG Hollywood is a recent episode of that history: the Roseau sound worked, a generation later, by a singer and producers from Philipsburg.",
     "This profile also states its limits. No detailed biography of Jaheim Meyers was found: no documented childhood, training or stage beginnings. No official account was confirmed by opening during this research, so the structured data of this page carries no official link, and the field stays empty rather than filled with a guessed handle. No album, no concert date and no verified streaming figure are documented. The song pages used for dates and credits come from the index of music platforms, their direct opens having been misrouted during research: the facts kept are those that several lists converge to confirm.",
     "Why BRG Hollywood matters, at this documented stage: because he combines two rare facts for a bouyon artist outside Dominica and the French Antilles. A national first on YouTube, saluted by the head of his government. And a finalist place in the category that distinguishes the best bouyon artist of the Caribbean year, in a list dominated by Dominicans. Those two facts, published and verifiable, are enough to open this profile, with no need to invent others.",
-    "For listening, start with “We Not Going Home” with C4, the record track, then “WTHelly Bouyon” with Gwada G, the single that carries the genre in its name, and “Pocket Rocket”. Find his fellow 2026 finalists in our profiles of <a href=\"/en/asa-bantan.html\">Asa Bantan</a>, <a href=\"/en/reo.html\">Reo</a> and <a href=\"/en/trilla-g.html\">Trilla-G</a>, and the whole scene in our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>. If an official biography or the result of the 2026 category is published, this profile will be completed and dated, like every page on this site."
+    "For listening, start with “We Not Going Home” with C4, the record track, then “WTHelly Bouyon” with Gwada G, the single that carries the genre in its name, and “Pocket Rocket”. Find his fellow 2026 finalists in our profiles of <a href=\"/en/asa-bantan.html\">Asa Bantan</a>, <a href=\"/en/reo.html\">Reo</a> and <a href=\"/en/trilla-g.html\">Trilla-G</a>, and the whole scene in our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>. If an official biography is published, this profile will be completed and dated, like every page on this site."
    ]
   ]
  ],
  "faq": [
-  ("Is BRG Hollywood a reggae artist based in France?", "No, according to the verified record. A statistics site describes him that way in a generated text, but the Sint Maarten press presents him as a St. Maarten bouyon artist, and his government congratulates him as a local artist. This profile stands on the documented version: Jaheim Meyers, a bouyon artist from Sint Maarten, the Dutch side of the island."),
-  ("Which track earned BRG Hollywood his million YouTube views?", "“We Not Going Home”, featuring C4, who is also co-producer of the track. According to The Peoples Tribune SXM, that track made him the first music artist from the Dutch side of Sint Maarten to reach one million views on YouTube, a milestone saluted by Prime Minister Dr Luc Mercelina."),
-  ("Did BRG Hollywood win Bouyon Artist of the Year 2026?", "He is a finalist, and that is the verified fact. The published nominee list at the Caribbean Music Awards includes 1T1, Asa Bantan, BRG Hollywood, Dirty Dawg Pudaz, Mr Ridge, Reo, Shelly and Signall Band, and Trilla G. At the date of the articles consulted, the ceremony date and venue were not announced, and no winner is therefore given here."),
-  ("What is the real name of BRG Hollywood?", "Jaheim Meyers, according to the Sint Maarten press. The songwriter credits of “WTHelly Bouyon” give the full form Jaheim Malakai Meyers, a writer of the track with Brad M Douglas."),
-  ("What are the verified BRG Hollywood tracks?", "The documented singles on the BankrollGang label are “Pocket Rocket” (16 April 2025), “WTHelly Bouyon” featuring Gwada G (16 May 2025) and “We Not Going Home” featuring C4 (31 October 2025). “Time 2 Grind” and “Nouveau La”, featuring Jixels on the version circulating in mixes, complete the list of tracks confirmed by published lists."),
-  ("Who produces the BRG Hollywood tracks?", "The published rolls name Xavvoknockin and Xavern Labega as producers of “WTHelly Bouyon”, with Knockin Records on recording, and C4 as co-producer of “We Not Going Home”. His documented singles are released on the BankrollGang label.")
- ],
+  (
+    "Is BRG Hollywood a reggae artist based in France?",
+    "No, according to the verified record. A statistics site describes him that way in a generated text, but the Sint Maarten press presents him as a St. Maarten bouyon artist, and his government congratulates him as a local artist. This profile stands on the documented version: Jaheim Meyers, a bouyon artist from Sint Maarten, the Dutch side of the island.",
+  ),
+  (
+    "Which track earned BRG Hollywood his million YouTube views?",
+    "“We Not Going Home”, featuring C4, who is also co-producer of the track. According to The Peoples Tribune SXM, that track made him the first music artist from the Dutch side of Sint Maarten to reach one million views on YouTube, a milestone saluted by Prime Minister Dr Luc Mercelina. The single had been released on 31 October 2025 on the BankrollGang label.",
+  ),
+  (
+    "Did BRG Hollywood win Bouyon Artist of the Year 2026?",
+    "No. He is a finalist, and that is the verified fact for him. The published nominee list at the Caribbean Music Awards includes 1T1, Asa Bantan, BRG Hollywood, Dirty Dawg Pudaz, Mr Ridge, Reo, Shelly and Signall Band, and Trilla G. Results published in September 2026 give that award to Mr Ridge.",
+  ),
+  (
+    "What is the real name of BRG Hollywood?",
+    "Jaheim Meyers, according to the Sint Maarten press, which names him Jaheim “BRG Hollywood” Meyers. The songwriter credits of “WTHelly Bouyon” give the full form Jaheim Malakai Meyers, writer of the track with Brad M Douglas, and those of “We Not Going Home” the form Jaheim M Meyers. This profile sticks to those published forms, with no date of birth or hometown.",
+  ),
+  (
+    "What are the verified BRG Hollywood tracks?",
+    "The documented singles on the BankrollGang label are “Pocket Rocket” (16 April 2025), “WTHelly Bouyon” featuring Gwada G (16 May 2025) and “We Not Going Home” featuring C4 (31 October 2025). “Time 2 Grind” and “Nouveau La”, featuring Jixels on the version circulating in mixes, complete the list of tracks confirmed by published lists.",
+  ),
+  (
+    "Who produces the BRG Hollywood tracks?",
+    "The published credit rolls name Xavvoknockin and Xavern Labega as producers of “WTHelly Bouyon”, with Knockin Records on recording, and C4 as co-producer of “We Not Going Home”. His documented singles are released on the BankrollGang label. BRG Hollywood thus appears as the voice of a small production team from his island and region.",
+  ),
+  (
+    "Who is BRG Hollywood?",
+    "BRG Hollywood is a bouyon artist from Sint Maarten, real name Jaheim Meyers. His track “We Not Going Home”, featuring C4, made him the first music artist from the Dutch side of the island to reach one million views on YouTube. In 2026 he is among the finalists for Bouyon Artist of the Year at the Caribbean Music Awards, alongside Asa Bantan, Reo and Trilla G.",
+  ),
+  (
+    "Is BRG Hollywood from Saint-Martin or Sint Maarten?",
+    "From Sint Maarten, the Dutch side of the island of Saint Martin, which it shares with a French side. The Philipsburg press presents him as a St. Maarten bouyon artist, and his views record is worded for the Dutch side of the island, not for the whole island. The place of bouyon on both sides is detailed on our <a href=\"/en/bouyon-saint-martin.html\">bouyon in Saint Martin</a> page.",
+  ),
+  (
+    "What did the Prime Minister of Sint Maarten say about BRG Hollywood?",
+    "Dr Luc Mercelina congratulated Jaheim “BRG Hollywood” Meyers on his million views. According to The Peoples Tribune SXM, he said that “reaching one million views on YouTube is a testament to the power of talent, hard work, and determination”, that the milestone “places Sint Maarten music and culture before a global audience”, and that local artists “can compete and excel on the world stage”.",
+  ),
+  (
+    "Who is C4, the guest on We Not Going Home?",
+    "C4 is the name credited as featured artist and co-producer on “We Not Going Home”, the BRG Hollywood track released on 31 October 2025. It is so far C4’s only verified credit, and no source publishes an origin. He should not be confused with the Atlanta producer or the Angolan singer C4 Pedro, unrelated namesakes. See our <a href=\"/en/c4.html\">C4</a> page.",
+  ),
+  (
+    "Who sings with BRG Hollywood on WTHelly Bouyon?",
+    "Gwada G, a bouyon artist from Dominica, despite a name that suggests Guadeloupe. “WTHelly Bouyon” came out on 16 May 2025 on BankrollGang, at 164 BPM, written by Jaheim Malakai Meyers and Brad M Douglas and produced by Xavvoknockin and Xavern Labega. The title announces the genre in its very name. The guest’s story is on our <a href=\"/en/gwada-g.html\">Gwada G</a> page.",
+  ),
+  (
+    "Which mixes feature BRG Hollywood?",
+    "His singles have a second life in DJ selections. The tracklist of Blaqrose Suprême’s podcast programmes “Nouveau La” with Jixels within a recent bouyon selection, and a Caribbean soca and bouyon podcast lists “Time 2 Grind” and “Pocket Rocket” alongside records from the regional scene. Our <a href=\"/en/bouyon-mix.html\">bouyon mix</a> page explains how these tracklists keep the genre moving.",
+  ),
+  (
+    "What tempo are BRG Hollywood’s tracks?",
+    "His documented tracks run between 160 and 164 BPM, fast party bouyon tempos. “Pocket Rocket” and “We Not Going Home” are listed at 160 BPM, and “WTHelly Bouyon” with Gwada G climbs to 164 BPM. It is the speed inherited from Dominica bouyon, which our <a href=\"/en/bouyon-bpm.html\">bouyon BPM</a> page explains through traditional dances, carnival and competition between bands.",
+  ),
+  (
+    "Where can I listen to BRG Hollywood?",
+    "Start with “We Not Going Home” with C4, the million views track, then “WTHelly Bouyon” with Gwada G and “Pocket Rocket”. His singles are on the platforms and on YouTube. To hear his rivals from the 2026 final and today’s bouyon, comment ROAD MIX under an @bouyonshattaz post on Instagram, or open our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/brg-hollywood.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/brg-hollywood.html#artist", "name": "BRG Hollywood", "description": "Bouyon artist from Sint Maarten, real name Jaheim Meyers. First artist from the Dutch side of Sint Maarten to reach one million YouTube views with We Not Going Home, featuring C4. Bouyon Artist of the Year finalist at the Caribbean Music Awards 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "We Not Going Home"}, {"@type": "MusicRecording", "name": "WTHelly Bouyon"}, {"@type": "MusicRecording", "name": "Pocket Rocket"}, {"@type": "MusicRecording", "name": "Time 2 Grind"}, {"@type": "MusicRecording", "name": "Nouveau La"},
       {
        "@type": "MusicRecording",

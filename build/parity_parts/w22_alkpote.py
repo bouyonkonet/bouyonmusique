@@ -74,13 +74,63 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Alkpote ?", "Alkpote est le nom de scène d Atef Kahlaoui, rappeur français né à Paris et grandi à Évry, dans le quartier des Pyramides. Membre d Unité 2 Feu, il passe en solo chez Néochrome en 2006 et construit un catalogue de rap indépendant, de L Empereur en 2008 à LSDC en 2023 puis Réjouissances en 2025. Wikipédia et PAN M 360 donnent sa naissance le 3 février 1981, la biographie de Deezer le 3 février 1991 : ce profil signale la contradiction."),
-  ("Alkpote est-il un artiste bouyon ?", "Non. Aucune source consultée ne lui connaît de titre bouyon, shatta ou soca, et son genre documenté est le hip hop français. Sa présence sur ce site tient à des crédits : DJ Blax est crédité sur le titre d ouverture de son projet Vie rapide, Kai Du M chante avec lui sur LSDC en 2023, et Niska figure parmi les invités de ses Marches de l empereur en 2017."),
-  ("Quel est le rapport entre Alkpote et DJ Blax ?", "Un crédit partagé, documenté par une fiche de magasin. La page OTOTOY du projet Vie rapide d Alkpote liste sept titres et crédite le premier, Intro putréfaction, à Alkpote et DJ Blax. La fiche ne précise ni la date du projet ni le rôle exact de chacun. DJ Blax est le producteur documenté sur ce site pour son travail bouyon, et ce profil ne tire de cette ligne ni un album commun ni un lien de genre."),
-  ("Quels sont les albums principaux d Alkpote ?", "L Empereur en 2008, L Empereur contre-attaque le 19 mars 2012, Sadisme et Perversion avec DJ Weedim le 24 juin 2016, Les Marches de l empereur le 7 juillet 2017, Inferno le 27 avril 2018, Monument en 2019, Ogre le 9 juillet 2021, LSDC le 3 février 2023, Réjouissances le 22 mai 2025 et Les Ultimes Marches de l Empereur le 13 février 2026. S y ajoutent les mixtapes, de Sucez-moi avant l album en 2007 aux deux Orgasmixtape de 2014 et 2015."),
-  ("Pourquoi Alkpote est-il surnommé l Empereur ?", "Parce qu il se proclame lui même l Empereur, selon la formule de PAN M 360. Le titre structure sa discographie : L Empereur, L Empereur contre-attaque, Les Marches de l empereur, puis Les Ultimes Marches de l Empereur en 2026. C est un titre que l artiste se donne, et ce profil le cite comme tel, conformément à sa règle de ne jamais présenter les couronnes des artistes comme des faits établis."),
-  ("Par quels titres commencer l écoute d Alkpote ?", "Par Monument : Amour avec Philippe Katerine, Nautilus avec Kaaris, Patek avec Kalash Criminel et Jamais avec Roméo Elvis, tous nommés par Deezer. Puis par Chargé avec Kai Du M sur LSDC, par Double brochette avec Rim K et Éternelle course poursuite avec Niro, et par Intro putréfaction, le titre de Vie rapide crédité aussi à DJ Blax. Notre playlist bouyon reste consacrée au bouyon : Alkpote s écoute ici comme un dossier voisin, pas comme un artiste du genre.")
- ],
+  (
+    "Qui est Alkpote ?",
+    "Alkpote est le nom de scène d’Atef Kahlaoui, rappeur français né à Paris et grandi à Évry, dans le quartier des Pyramides. Membre d’Unité 2 Feu, il passe en solo chez Néochrome en 2006 et construit un catalogue de rap indépendant, de L’Empereur en 2008 à LSDC en 2023 puis Réjouissances en 2025. Wikipédia et PAN M 360 donnent sa naissance le 3 février 1981, la biographie de Deezer le 3 février 1991 : ce profil signale la contradiction.",
+  ),
+  (
+    "Quel est le vrai nom d’Alkpote ?",
+    "Alkpote s’appelle Atef Kahlaoui, nom sur lequel s’accordent la biographie de Deezer, Wikipédia et PAN M 360. Selon Deezer, il adopte à 15 ans le nom Al K-Pote, qu’il transforme ensuite en Alkpote. Wikipédia rapporte sa propre explication : un nom trouvé sans chercher, et un personnage, une sorte de double sorti de sa tête.",
+  ),
+  (
+    "Alkpote est-il né en 1981 ou en 1991 ?",
+    "Les sources se contredisent. Wikipédia et PAN M 360 donnent le 3 février 1981, la biographie de Deezer le 3 février 1991 : même jour, même mois, dix ans d’écart. Un indice penche pour 1981 : Wikipédia le fait entrer dans Unité 2 Feu en 1998 à 17 ans, âge impossible avec 1991. Ce profil retient 1981 comme l’année la plus cohérente, sans pièce d’état civil consultée.",
+  ),
+  (
+    "D’où vient Alkpote ?",
+    "Alkpote est né à Paris, dans le 10e arrondissement selon Wikipédia, qui lui donne une origine tunisienne, et il a grandi à Évry, dans le quartier des Pyramides, en Essonne. Ce département 91 traverse tout son catalogue, des mixtapes de La Crème du 91 au titre « Pyramides » de Sadisme et Perversion, jusqu’à sa participation à la compilation 91 All Stars en 2022.",
+  ),
+  (
+    "Alkpote est-il un artiste bouyon ?",
+    "Non. Aucune source consultée ne lui connaît de titre bouyon, shatta ou soca, et son genre documenté est le hip hop français. Sa présence sur ce site tient à des crédits : DJ Blax est crédité sur le titre d’ouverture de son projet Vie rapide, Kai Du M chante avec lui sur LSDC en 2023, et Niska figure parmi les invités de ses Marches de l’empereur en 2017.",
+  ),
+  (
+    "Quel est le rapport entre Alkpote et DJ Blax ?",
+    "Un crédit partagé, documenté par une fiche de magasin. La page OTOTOY du projet Vie rapide d’Alkpote liste sept titres et crédite le premier, « Intro putréfaction », à Alkpote et DJ Blax. La fiche ne précise ni la date du projet ni le rôle exact de chacun. DJ Blax est le producteur documenté sur ce site pour son travail bouyon, et ce profil ne tire de cette ligne ni un album commun ni un lien de genre. Voir notre page <a href=\"/dj-blax.html\">DJ Blax</a>.",
+  ),
+  (
+    "Quel titre Alkpote a-t-il enregistré avec Kai Du M ?",
+    "« Chargé », sur l’album LSDC, sorti le 3 février 2023. La liste des titres publiée par Wikipédia le donne avec Kai du M en featuring, et le profil <a href=\"/kai-du-m.html\">Kai Du M</a> de ce site cite le même titre sous la graphie « Charge », depuis une autre source. C’est la collaboration la plus proche du réseau de ce site dans tout le catalogue d’Alkpote, documentée des deux côtés.",
+  ),
+  (
+    "Que veut dire LSDC, l’album d’Alkpote ?",
+    "LSDC signifie Le Spectacle Doit Continuer. L’album sort le 3 février 2023, compte quatorze titres et est entièrement produit par Tarik Azzouz, selon Wikipédia. Deezer en énumère les invités : Heuss l’Enfoiré, Caballero et JeanJass, Naza, Elams et DEX, Ouss Wayne, Limsa d’Aulnay, Jok Air, Luv Resval, Bosh et Kai Du M.",
+  ),
+  (
+    "Quel est le lien entre Alkpote et Niska ?",
+    "Niska figure parmi les invités des Marches de l’empereur, album d’Alkpote avec DJ Weedim sorti le 7 juillet 2017, selon Wikipédia et Deezer, aux côtés notamment de Vald. <a href=\"/niska.html\">Niska</a> est documenté sur ce site pour sa certification SNEP avec Litleboy LSBeats767 et Miimii KDS : Alkpote est un nœud du rap français où passent des noms que ce site suit par d’autres portes.",
+  ),
+  (
+    "Avec quels producteurs Alkpote a-t-il travaillé ?",
+    "Ses fiches nomment plusieurs producteurs uniques par projet : Butter Bullets sur Ténébreuse Musique en janvier 2016, DJ Weedim sur Sadisme et Perversion en 2016 et Les Marches de l’empereur en 2017, Tarik Azzouz sur tout LSDC en 2023, et Pandrezz sur Réjouissances en 2025. S’y ajoute DJ Blax, crédité avec lui sur « Intro putréfaction », le titre d’ouverture de Vie rapide.",
+  ),
+  (
+    "Quels sont les albums principaux d’Alkpote ?",
+    "L’Empereur en 2008, L’Empereur contre-attaque le 19 mars 2012, Sadisme et Perversion avec DJ Weedim le 24 juin 2016, Les Marches de l’empereur le 7 juillet 2017, Inferno le 27 avril 2018, Monument en 2019, Ogre le 9 juillet 2021, LSDC le 3 février 2023, Réjouissances le 22 mai 2025 et Les Ultimes Marches de l’Empereur le 13 février 2026. S’y ajoutent les mixtapes, de Sucez-moi avant l’album en 2007 aux deux Orgasmixtape de 2014 et 2015.",
+  ),
+  (
+    "Pourquoi Alkpote est-il surnommé l’Empereur ?",
+    "Parce qu’il se proclame lui même l’Empereur, selon la formule de PAN M 360. Le titre structure sa discographie : L’Empereur, L’Empereur contre-attaque, Les Marches de l’empereur, puis Les Ultimes Marches de l’Empereur en 2026. C’est un titre que l’artiste se donne, et ce profil le cite comme tel, conformément à sa règle de ne jamais présenter les couronnes des artistes comme des faits établis.",
+  ),
+  (
+    "Alkpote est-il vraiment maître fromager ?",
+    "Oui, selon Wikipédia : le 8 novembre 2019, Alkpote fête l’obtention de son diplôme de maître fromager en compagnie de Philippe Katerine, l’invité de « Amour » sur l’album Monument. Wikipédia le liste même avec l’activité de fromager à côté de celle de rappeur. Le personnage le plus cru du rap français est donc aussi, fait vérifié, un maître fromager diplômé.",
+  ),
+  (
+    "Par quels titres commencer l’écoute d’Alkpote ?",
+    "Par Monument : « Amour » avec Philippe Katerine, « Nautilus » avec Kaaris, « Patek » avec Kalash Criminel et « Jamais » avec Roméo Elvis, tous nommés par Deezer. Puis par « Chargé » avec Kai Du M sur LSDC, par « Double brochette » avec Rim K et « Éternelle course poursuite » avec Niro, et par « Intro putréfaction », le titre de Vie rapide crédité aussi à DJ Blax. Alkpote s’écoute ici comme un dossier voisin du bouyon, pas comme un artiste du genre.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/alkpote.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/alkpote.html#artist", "name": "Alkpote", "description": "Rappeur français d Evry, de son vrai nom Atef Kahlaoui. Membre d Unite 2 Feu puis artiste solo chez Neochrome, auteur de L Empereur, Monument, Ogre et LSDC. Il n est pas un artiste bouyon : DJ Blax est crédité sur le titre d ouverture de son projet Vie rapide, et il a enregistré avec Kai Du M sur LSDC et compté Niska parmi les invités des Marches de l empereur.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Amour'}, {"@type": "MusicRecording", "name": 'Nautilus'}, {"@type": "MusicRecording", "name": 'Patek'}, {"@type": "MusicRecording", "name": 'Jamais'}, {"@type": "MusicRecording", "name": 'Double brochette'}, {"@type": "MusicRecording", "name": 'Éternelle course poursuite'}, {"@type": "MusicRecording", "name": 'Les Missiles arrivent'}, {"@type": "MusicRecording", "name": 'Intro putréfaction'}, {"@type": "MusicRecording", "name": 'Pharaon'}, {"@type": "MusicRecording", "name": 'Vieillasse'}, {"@type": "MusicRecording", "name": 'Technologie sèche'}, {"@type": "MusicRecording", "name": 'Sucepute'}, {"@type": "MusicRecording", "name": 'Noix de Saint-Jacques'}, {"@type": "MusicRecording", "name": 'Hennesy'}], "sameAs": ["https://www.deezer.com/us/artist/72566"]}}],
  "date_modified": "2026-10-20"
 }
@@ -152,13 +202,63 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Alkpote?", "Alkpote is the stage name of Atef Kahlaoui, a French rapper born in Paris and raised in Evry, in the Pyramides district. A member of Unite 2 Feu, he went solo on Neochrome in 2006 and built an independent rap catalog, from L Empereur in 2008 to LSDC in 2023 and Rejouissances in 2025. Wikipedia and PAN M 360 give his birth as February 3, 1981, the Deezer biography as February 3, 1991: this profile flags the contradiction."),
-  ("Is Alkpote a bouyon artist?", "No. No source consulted knows any bouyon, shatta or soca record by him, and his documented genre is French hip hop. His presence on this site rests on credits: DJ Blax is credited on the opening track of his Vie rapide project, Kai Du M sings with him on LSDC in 2023, and Niska appears among the guests of his Marches de l empereur in 2017."),
-  ("What is the link between Alkpote and DJ Blax?", "A shared credit, documented by a store page. The OTOTOY page of the Alkpote project Vie rapide lists seven tracks and credits the first one, Intro putrefaction, to Alkpote and DJ Blax. The page states neither the date of the project nor the exact role of each man. DJ Blax is the producer documented on this site for his bouyon work, and this profile draws from that line neither a joint album nor a genre link."),
-  ("What are the main Alkpote albums?", "L Empereur in 2008, L Empereur contre-attaque on March 19, 2012, Sadisme et Perversion with DJ Weedim on June 24, 2016, Les Marches de l empereur on July 7, 2017, Inferno on April 27, 2018, Monument in 2019, Ogre on July 9, 2021, LSDC on February 3, 2023, Rejouissances on May 22, 2025 and Les Ultimes Marches de l Empereur on February 13, 2026. The mixtapes stand beside them, from Sucez-moi avant l album in 2007 to the two Orgasmixtape volumes of 2014 and 2015."),
-  ("Why is Alkpote called the Emperor?", "Because he proclaimed himself the Emperor, in the PAN M 360 formula. The title structures his discography: L Empereur, L Empereur contre-attaque, Les Marches de l empereur, then Les Ultimes Marches de l Empereur in 2026. It is a title the artist gives himself, and this profile cites it as such, under its rule of never presenting artist crowns as established facts."),
-  ("Where should I start listening to Alkpote?", "With Monument: Amour with Philippe Katerine, Nautilus with Kaaris, Patek with Kalash Criminel and Jamais with Romeo Elvis, all named by Deezer. Then with Charge with Kai Du M on LSDC, with Double brochette with Rim K and Eternelle course poursuite with Niro, and with Intro putrefaction, the Vie rapide track also credited to DJ Blax. Our bouyon playlist stays devoted to bouyon: Alkpote is heard here as a neighbouring file, not as an artist of the genre.")
- ],
+  (
+    "Who is Alkpote?",
+    "Alkpote is the stage name of Atef Kahlaoui, a French rapper born in Paris and raised in Evry, in the Pyramides district. A member of Unité 2 Feu, he went solo on Néochrome in 2006 and built an independent rap catalog, from L’Empereur in 2008 to LSDC in 2023 and Réjouissances in 2025. Wikipedia and PAN M 360 give his birth as February 3, 1981, the Deezer biography as February 3, 1991: this profile flags the contradiction.",
+  ),
+  (
+    "What is Alkpote’s real name?",
+    "Alkpote’s real name is Atef Kahlaoui, the name on which the Deezer biography, Wikipedia and PAN M 360 agree. According to Deezer, at 15 he took the name Al K-Pote, which he later changed to Alkpote. Wikipedia reports his own explanation: a name found without looking for it, and a character, a kind of double that came out of his head.",
+  ),
+  (
+    "Was Alkpote born in 1981 or 1991?",
+    "The sources contradict each other. Wikipedia and PAN M 360 give February 3, 1981, the Deezer biography February 3, 1991: same day, same month, ten years apart. One clue leans toward 1981: Wikipedia has him joining Unité 2 Feu in 1998 at 17, an age impossible with 1991. This profile holds 1981 as the most consistent year, with no civil record consulted.",
+  ),
+  (
+    "Where is Alkpote from?",
+    "Alkpote was born in Paris, in the 10th arrondissement according to Wikipedia, which gives him Tunisian origin, and he grew up in Evry, in the Pyramides district, in Essonne. That department 91 runs through his whole catalog, from the Crème du 91 mixtapes to the track “Pyramides” on Sadisme et Perversion, and to his appearance on the 91 All Stars compilation in 2022.",
+  ),
+  (
+    "Is Alkpote a bouyon artist?",
+    "No. No source consulted knows any bouyon, shatta or soca record by him, and his documented genre is French hip hop. His presence on this site rests on credits: DJ Blax is credited on the opening track of his Vie rapide project, Kai Du M sings with him on LSDC in 2023, and Niska appears among the guests of his Marches de l’empereur in 2017.",
+  ),
+  (
+    "What is the link between Alkpote and DJ Blax?",
+    "A shared credit, documented by a store page. The OTOTOY page of the Alkpote project Vie rapide lists seven tracks and credits the first one, “Intro putréfaction”, to Alkpote and DJ Blax. The page states neither the date of the project nor the exact role of each man. DJ Blax is the producer documented on this site for his bouyon work, and this profile draws from that line neither a joint album nor a genre link. See our <a href=\"/en/dj-blax.html\">DJ Blax</a> page.",
+  ),
+  (
+    "Which track did Alkpote record with Kai Du M?",
+    "“Chargé”, on the album LSDC, released on February 3, 2023. The tracklist published by Wikipedia gives it featuring Kai du M, and the <a href=\"/en/kai-du-m.html\">Kai Du M</a> profile on this site cites the same record spelled “Charge”, from another source. It is the closest collaboration to this site network in the whole Alkpote catalog, documented from both sides.",
+  ),
+  (
+    "What does LSDC, the Alkpote album, mean?",
+    "LSDC stands for Le Spectacle Doit Continuer, the show must go on. The album came out on February 3, 2023, holds fourteen tracks and was entirely produced by Tarik Azzouz, according to Wikipedia. Deezer lists its guests: Heuss l’Enfoiré, Caballero and JeanJass, Naza, Elams and DEX, Ouss Wayne, Limsa d’Aulnay, Jok Air, Luv Resval, Bosh and Kai Du M.",
+  ),
+  (
+    "What is the link between Alkpote and Niska?",
+    "Niska appears among the guests of Les Marches de l’empereur, the Alkpote album with DJ Weedim released on July 7, 2017, according to Wikipedia and Deezer, alongside Vald among others. <a href=\"/en/niska.html\">Niska</a> is documented on this site for his SNEP certification with Litleboy LSBeats767 and Miimii KDS: Alkpote is a knot of French rap through which pass names this site follows through other doors.",
+  ),
+  (
+    "Which producers has Alkpote worked with?",
+    "His pages name a single producer per project several times: Butter Bullets on Ténébreuse Musique in January 2016, DJ Weedim on Sadisme et Perversion in 2016 and Les Marches de l’empereur in 2017, Tarik Azzouz on the whole of LSDC in 2023, and Pandrezz on Réjouissances in 2025. DJ Blax adds to them, credited with him on “Intro putréfaction”, the opening track of Vie rapide.",
+  ),
+  (
+    "What are the main Alkpote albums?",
+    "L’Empereur in 2008, L’Empereur contre-attaque on March 19, 2012, Sadisme et Perversion with DJ Weedim on June 24, 2016, Les Marches de l’empereur on July 7, 2017, Inferno on April 27, 2018, Monument in 2019, Ogre on July 9, 2021, LSDC on February 3, 2023, Réjouissances on May 22, 2025 and Les Ultimes Marches de l’Empereur on February 13, 2026. The mixtapes stand beside them, from Sucez-moi avant l’album in 2007 to the two Orgasmixtape volumes of 2014 and 2015.",
+  ),
+  (
+    "Why is Alkpote called the Emperor?",
+    "Because he proclaimed himself the Emperor, in the PAN M 360 formula. The title structures his discography: L’Empereur, L’Empereur contre-attaque, Les Marches de l’empereur, then Les Ultimes Marches de l’Empereur in 2026. It is a title the artist gives himself, and this profile cites it as such, under its rule of never presenting artist crowns as established facts.",
+  ),
+  (
+    "Is Alkpote really a master cheesemaker?",
+    "Yes, according to Wikipedia: on November 8, 2019, Alkpote celebrated gaining his master cheesemaker diploma in the company of Philippe Katerine, the guest on “Amour” from the album Monument. Wikipedia even lists cheesemaker as an activity beside rapper. The crudest character in French rap is therefore also, verified fact, a qualified master cheesemaker.",
+  ),
+  (
+    "Where should I start listening to Alkpote?",
+    "With Monument: “Amour” with Philippe Katerine, “Nautilus” with Kaaris, “Patek” with Kalash Criminel and “Jamais” with Roméo Elvis, all named by Deezer. Then with “Chargé” with Kai Du M on LSDC, with “Double brochette” with Rim K and “Éternelle course poursuite” with Niro, and with “Intro putréfaction”, the Vie rapide track also credited to DJ Blax. Alkpote is heard here as a file neighbouring bouyon, not as an artist of the genre.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/alkpote.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/alkpote.html#artist", "name": "Alkpote", "description": "French rapper from Evry, real name Atef Kahlaoui. A member of Unite 2 Feu, then a solo artist on Neochrome, author of L Empereur, Monument, Ogre and LSDC. He is not a bouyon artist: DJ Blax is credited on the opening track of his Vie rapide project, and he recorded with Kai Du M on LSDC and counted Niska among the guests of the Marches de l empereur.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Amour'}, {"@type": "MusicRecording", "name": 'Nautilus'}, {"@type": "MusicRecording", "name": 'Patek'}, {"@type": "MusicRecording", "name": 'Jamais'}, {"@type": "MusicRecording", "name": 'Double brochette'}, {"@type": "MusicRecording", "name": 'Éternelle course poursuite'}, {"@type": "MusicRecording", "name": 'Les Missiles arrivent'}, {"@type": "MusicRecording", "name": 'Intro putréfaction'}, {"@type": "MusicRecording", "name": 'Pharaon'}, {"@type": "MusicRecording", "name": 'Vieillasse'}, {"@type": "MusicRecording", "name": 'Technologie sèche'}, {"@type": "MusicRecording", "name": 'Sucepute'}, {"@type": "MusicRecording", "name": 'Noix de Saint-Jacques'}, {"@type": "MusicRecording", "name": 'Hennesy'}], "sameAs": ["https://www.deezer.com/us/artist/72566"]}}],
  "date_modified": "2026-10-20"
 }

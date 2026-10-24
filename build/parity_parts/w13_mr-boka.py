@@ -59,13 +59,47 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Mr Boka ?", "Mr Boka est un artiste bouyon connu du public par un titre vérifié : « Sa Ka Débodé », le single de Bilix sorti le 12 janvier 2016, où il est crédité en featuring. Aucune biographie publiée, aucune interview et aucun profil officiel vérifié n’ont été retrouvés pendant la recherche de ce profil, et son nom complet comme son origine ne sont pas documentés dans les sources ouvertes."),
-  ("Quel est le titre de Mr Boka avec Bilix ?", "« Sa Ka Débodé », publié le 12 janvier 2016 par le label Ôréveil selon Shazam, qui le classe à 160 BPM. Les crédits ouverts nomment Dj Weez et Lsbeatz litleboy à la composition et Franck Offranc à l’écriture. Le clip officiel est titré « Sa Ka Débodé - Bilix Feat Mr.Boka Bouyon (CLIP OFFICIEL) »."),
-  ("Mr Boka a-t-il écrit ou composé « Sa Ka Débodé » ?", "Non, pas selon les crédits ouverts sur Shazam. La composition y est créditée à Dj Weez et à Lsbeatz litleboy, l’écriture à Franck Offranc, et l’interprétation principale à Bilix. Mr Boka y figure comme voix invitée, en featuring, ce qui est une place différente et que ce site tient à distinguer."),
-  ("Pourquoi « Sa Ka Débodé » a-t-il marqué l’année 2016 ?", "Selon la sélection de référence de musique antillaise de Quel-DJ, qui classe le titre parmi ses cinquante classiques pour une soirée, le morceau a été massivement diffusé en radio, s’est imposé comme l’une des sensations de l’année 2016 et a suscité des débats générationnels. La même source présente Bilix et Mr Boka comme de dignes représentants du bouyon, héritiers des chansons grivoises de bal."),
-  ("Mr Boka a-t-il d’autres titres connus ?", "Aucun autre titre n’a été vérifié pendant la recherche de ce profil. Les recherches sur les plateformes de streaming et d’analyse n’ont fait remonter ni discographie solo ni autre featuring documenté sous ce nom. Ce profil liste donc un seul enregistrement vérifié, « Sa Ka Débodé », plutôt que d’inventer un catalogue."),
-  ("Où écouter « Sa Ka Débodé » et le bouyon de cette époque ?", "Le titre est disponible sur les plateformes de streaming sous le nom de Bilix, avec Mr Boka en featuring. Pour le contexte, lisez notre profil de <a href=\"/bilix.html\">Bilix</a>, notre page <a href=\"/bouyon-guadeloupe.html\">bouyon Guadeloupe</a> et écoutez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>.")
- ],
+  (
+    "Qui est Mr Boka ?",
+    "Mr Boka est un artiste bouyon connu du public par un titre vérifié : « Sa Ka Débodé », le single de Bilix sorti le 12 janvier 2016, où il est crédité en featuring. Aucune biographie publiée, aucune interview et aucun profil officiel vérifié n’ont été retrouvés pendant la recherche de ce profil, et son nom complet comme son origine ne sont pas documentés dans les sources ouvertes.",
+  ),
+  (
+    "Quel est le titre de Mr Boka avec Bilix ?",
+    "« Sa Ka Débodé », publié le 12 janvier 2016 par le label Ôréveil selon Shazam, qui le classe à 160 BPM. Les crédits ouverts nomment Dj Weez et Lsbeatz litleboy à la composition et Franck Offranc à l’écriture, avec <a href=\"/bilix.html\">Bilix</a> en interprète principal. Le clip officiel est titré « Sa Ka Débodé - Bilix Feat Mr.Boka Bouyon (CLIP OFFICIEL) ».",
+  ),
+  (
+    "Mr Boka a-t-il écrit ou composé « Sa Ka Débodé » ?",
+    "Non, pas selon les crédits ouverts sur Shazam. La composition y est créditée à Dj Weez et à Lsbeatz litleboy, l’écriture à Franck Offranc, et l’interprétation principale à Bilix. Mr Boka y figure comme voix invitée, en featuring, ce qui est une place différente et que ce site tient à distinguer.",
+  ),
+  (
+    "Pourquoi « Sa Ka Débodé » a-t-il marqué l’année 2016 ?",
+    "Selon la sélection de référence de musique antillaise de Quel-DJ, qui classe le titre parmi ses cinquante classiques pour une soirée, le morceau a été massivement diffusé en radio, s’est imposé comme l’une des sensations de l’année 2016 et a suscité des débats générationnels. La même source présente Bilix et Mr Boka comme de dignes représentants du bouyon, héritiers des chansons grivoises de bal.",
+  ),
+  (
+    "Mr Boka a-t-il d’autres titres connus ?",
+    "Aucun autre titre n’a été vérifié pendant la recherche de ce profil. Les recherches sur les plateformes de streaming et d’analyse n’ont fait remonter ni discographie solo ni autre featuring documenté sous ce nom. Ce profil liste donc un seul enregistrement vérifié, « Sa Ka Débodé », plutôt que d’inventer un catalogue.",
+  ),
+  (
+    "Où écouter « Sa Ka Débodé » et le bouyon de cette époque ?",
+    "Le titre est disponible sur les plateformes de streaming sous le nom de Bilix, avec Mr Boka en featuring, et son clip officiel circule sur YouTube. Pour le contexte de la scène des Antilles françaises des années 2010, lisez notre page <a href=\"/bouyon-guadeloupe.html\">bouyon Guadeloupe</a>, qui décrit la branche gwada du genre et ses singles de soirée.",
+  ),
+  (
+    "Que veut dire « Sa Ka Débodé » ?",
+    "En créole, le titre annonce un débordement : une fête qui déborde de son cadre. Le morceau est construit pour cela, avec un tempo de 160 BPM selon Shazam, dans la zone haute du bouyon, celle des titres faits pour faire lever une salle et tenir un dancefloor. C’est sur ce titre de fête de 2016 que le nom de Mr Boka est resté attaché, comme voix invitée.",
+  ),
+  (
+    "Qui sont les compositeurs de « Sa Ka Débodé » ?",
+    "Les crédits Shazam nomment deux compositeurs : Dj Weez, producteur de la scène gwada, et Lsbeatz litleboy, c’est-à-dire <a href=\"/litleboy-lsbeats767.html\">Litleboy LSBeats767</a>, le producteur dominicain dont le suffixe 767 rappelle l’indicatif de la Dominique. Le titre relie donc, dans ses seuls crédits, la Guadeloupe et la Dominique, les deux rives historiques du bouyon. L’écriture revient à Franck Offranc.",
+  ),
+  (
+    "« Sa Ka Débodé » est-il un titre bouyon ?",
+    "Oui, et le titre le dit lui-même : son clip officiel s’intitule « Sa Ka Débodé - Bilix Feat Mr.Boka Bouyon (CLIP OFFICIEL) ». Son tempo de 160 BPM est celui du bouyon de danse, et la sélection de Quel-DJ présente Bilix et Mr Boka comme de dignes représentants du bouyon. C’est un single typique du bouyon gwada des années 2010, fait de clips, de radio et de featurings.",
+  ),
+  (
+    "Mr Boka est-il de Guadeloupe ?",
+    "Ce n’est pas documenté. La Guadeloupe indiquée dans le titre de ce profil est la scène de <a href=\"/bilix.html\">Bilix</a>, l’artiste principal de « Sa Ka Débodé », présenté par la page d’analyse Viberate comme né en Guadeloupe. Pour Mr Boka lui-même, aucune source ouverte ne donne d’origine, et ce profil ne lui en attribue aucune plutôt que de déduire sa naissance de celle de son partenaire.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/mr-boka.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/mr-boka.html#artist", "name": "Mr Boka", "description": "Artiste bouyon connu par un featuring vérifié : Sa Ka Débodé, single de Bilix sorti le 12 janvier 2016 sur le label Ôréveil, décrit par une sélection de référence comme une sensation bouyon de 2016 massivement diffusée en radio.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Sa Ka Débodé"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -123,13 +157,47 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Mr Boka?", "Mr Boka is a bouyon artist known to the public through one verified record: “Sa Ka Débodé”, the Bilix single released on 12 January 2016, where he is credited as the featured voice. No published biography, no interview and no verified official profile was found during the research for this profile, and his full name and his origin are not documented in the sources opened."),
-  ("What is the Mr Boka record with Bilix?", "“Sa Ka Débodé”, released on 12 January 2016 by the Ôréveil label according to Shazam, which measures it at 160 BPM. The credits opened name Dj Weez and Lsbeatz litleboy as composers and Franck Offranc as songwriter. The official video is titled “Sa Ka Débodé - Bilix Feat Mr.Boka Bouyon (CLIP OFFICIEL)”."),
-  ("Did Mr Boka write or compose “Sa Ka Débodé”?", "No, not according to the credits opened on Shazam. Composition there is credited to Dj Weez and Lsbeatz litleboy, writing to Franck Offranc, and the lead performance to Bilix. Mr Boka appears as the guest voice, the feature, which is a different place and one this site keeps distinct."),
-  ("Why did “Sa Ka Débodé” mark the year 2016?", "According to the Quel-DJ reference selection of Antillean music, which ranks the record among its fifty party classics, the song was massively played on radio, stood as one of the sensations of the year 2016 and sparked generational debate. The same source presents Bilix and Mr Boka as worthy representatives of bouyon, heirs of the bawdy ball songs."),
-  ("Does Mr Boka have other known records?", "No other record was verified during the research for this profile. Searches on streaming and analytics platforms returned neither a solo discography nor another documented feature under this name. This profile therefore lists a single verified recording, “Sa Ka Débodé”, rather than inventing a catalogue."),
-  ("Where can I hear “Sa Ka Débodé” and the bouyon of that era?", "The record is available on streaming platforms under the name of Bilix, with Mr Boka as feature. For context, read our <a href=\"/en/bilix.html\">Bilix</a> profile, our <a href=\"/en/bouyon-guadeloupe.html\">bouyon Guadeloupe</a> page and hear our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>.")
- ],
+  (
+    "Who is Mr Boka?",
+    "Mr Boka is a bouyon artist known to the public through one verified record: “Sa Ka Débodé”, the Bilix single released on 12 January 2016, where he is credited as the featured voice. No published biography, no interview and no verified official profile was found during the research for this profile, and his full name and his origin are not documented in the sources opened.",
+  ),
+  (
+    "What is the Mr Boka record with Bilix?",
+    "“Sa Ka Débodé”, released on 12 January 2016 by the Ôréveil label according to Shazam, which measures it at 160 BPM. The credits opened name Dj Weez and Lsbeatz litleboy as composers and Franck Offranc as songwriter, with <a href=\"/en/bilix.html\">Bilix</a> as lead performer. The official video is titled “Sa Ka Débodé - Bilix Feat Mr.Boka Bouyon (CLIP OFFICIEL)”.",
+  ),
+  (
+    "Did Mr Boka write or compose “Sa Ka Débodé”?",
+    "No, not according to the credits opened on Shazam. Composition there is credited to Dj Weez and Lsbeatz litleboy, writing to Franck Offranc, and the lead performance to Bilix. Mr Boka appears as the guest voice, the feature, which is a different place and one this site keeps distinct.",
+  ),
+  (
+    "Why did “Sa Ka Débodé” mark the year 2016?",
+    "According to the Quel-DJ reference selection of Antillean music, which ranks the record among its fifty party classics, the song was massively played on radio, stood as one of the sensations of the year 2016 and sparked generational debate. The same source presents Bilix and Mr Boka as worthy representatives of bouyon, heirs of the bawdy ball songs.",
+  ),
+  (
+    "Does Mr Boka have other known records?",
+    "No other record was verified during the research for this profile. Searches on streaming and analytics platforms returned neither a solo discography nor another documented feature under this name. This profile therefore lists a single verified recording, “Sa Ka Débodé”, rather than inventing a catalogue.",
+  ),
+  (
+    "Where can I hear “Sa Ka Débodé” and the bouyon of that era?",
+    "The record is available on streaming platforms under the name of Bilix, with Mr Boka as feature, and its official video circulates on YouTube. For the context of the French Antilles scene of the 2010s, read our <a href=\"/en/bouyon-guadeloupe.html\">bouyon Guadeloupe</a> page, which describes the gwada branch of the genre and its party singles.",
+  ),
+  (
+    "What does “Sa Ka Débodé” mean?",
+    "In Creole, the title announces an overflow: a party that spills out of its frame. The song is built for that, at 160 BPM according to Shazam, in the upper zone of bouyon, the zone of records made to lift a room and hold a dancefloor. It is to this 2016 party record that Mr Boka’s name has stayed attached, as the guest voice.",
+  ),
+  (
+    "Who composed “Sa Ka Débodé”?",
+    "The Shazam credits name two composers: Dj Weez, a producer from the gwada scene, and Lsbeatz litleboy, that is <a href=\"/en/litleboy-lsbeats767.html\">Litleboy LSBeats767</a>, the Dominican producer whose 767 suffix recalls Dominica’s area code. Through its credits alone, the record links Guadeloupe and Dominica, the two historic shores of bouyon. The writing credit goes to Franck Offranc.",
+  ),
+  (
+    "Is “Sa Ka Débodé” a bouyon record?",
+    "Yes, and the record says so itself: its official video is titled “Sa Ka Débodé - Bilix Feat Mr.Boka Bouyon (CLIP OFFICIEL)”. Its 160 BPM tempo is that of dance bouyon, and the Quel-DJ selection presents Bilix and Mr Boka as worthy representatives of bouyon. It is a typical single of 2010s gwada bouyon, a scene of videos, radio play and features.",
+  ),
+  (
+    "Is Mr Boka from Guadeloupe?",
+    "That is not documented. The Guadeloupe named in this profile’s title is the scene of <a href=\"/en/bilix.html\">Bilix</a>, the lead artist of “Sa Ka Débodé”, presented by the Viberate analytics page as born in Guadeloupe. For Mr Boka himself, no open source gives an origin, and this profile assigns him none rather than inferring his birthplace from his partner’s.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/mr-boka.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/mr-boka.html#artist", "name": "Mr Boka", "description": "Bouyon artist known through one verified feature: Sa Ka Débodé, the Bilix single released on 12 January 2016 on the Ôréveil label, described by a reference selection as a bouyon sensation of 2016 played heavily on radio.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Sa Ka Débodé"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

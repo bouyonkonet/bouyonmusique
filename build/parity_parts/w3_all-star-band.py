@@ -92,13 +92,43 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est All-Star Band ?", "All-Star Band est un groupe de musique de la Dominique, connu du public extérieur par une seule source vérifiée : un guide de voyage du Figaro publié en juin 2026, qui présente son chanteur, le guide kalinago Derrick Joseph. Le nom du groupe circule sur les listes d’artistes bouyon, mais aucun titre ni enregistrement du groupe n’est documenté à ce jour."),
-  ("Qui est Derrick Joseph, le chanteur d’All-Star Band ?", "Derrick Joseph est un guide kalinago du Waitukubuli Trail, en Dominique, présenté par Le Figaro en juin 2026. Le journal le décrit chassant l’agouti avec son chien Otis et chantant, le reste du temps, avec son groupe de musique baptisé All Star band. Aucune autre biographie publiée de lui n’a été retrouvée dans nos recherches."),
-  ("All-Star Band a-t-il enregistré des titres écoutables en ligne ?", "Non, pas à notre connaissance vérifiée. Nos recherches n’ont trouvé aucun titre, aucun enregistrement et aucun clip attribuable de manière certaine au groupe dominicain de Derrick Joseph. Les titres des plateformes signés All Star Band appartiennent à des homonymes, notamment l’orchestre de salsa portoricain de Mario Ortiz."),
-  ("Quel est le rêve d’All-Star Band dont parle Le Figaro ?", "Selon Le Figaro de juin 2026, le rêve de Derrick Joseph serait de se produire à bord des énormes bateaux de croisière qui, de novembre à avril, déversent chaque semaine leur lot de touristes dans le port de Roseau, en Dominique. Aucun contrat ni aucune date à bord n’est rapporté : c’est un rêve formulé, pas un engagement."),
-  ("All-Star Band est-il un groupe bouyon ?", "Ce n’est pas établi. Le nom circule sur les listes d’artistes bouyon suivies par ce site, mais la seule source indépendante, Le Figaro, parle d’un groupe de musique sans préciser de genre. Ce profil ne lui attribue donc ni le bouyon, ni aucun autre style, en attendant un enregistrement qui permette de l’entendre."),
-  ("All-Star Band est-il lié au All-Starr Band de Ringo Starr ?", "Non. Le All-Starr Band de Ringo Starr, formé en 1989, est un supergroupe de tournée anglo-américain. All-Star Band, en Dominique, est le groupe local du guide kalinago Derrick Joseph. La ressemblance des noms est une coïncidence, et ce site ne mélange aucun fait des deux formations.")
- ],
+  (
+    "Qui est All-Star Band ?",
+    "All-Star Band est un groupe de musique de la Dominique, connu du public extérieur par une seule source vérifiée : un guide de voyage du Figaro publié en juin 2026, qui présente son chanteur, le guide kalinago Derrick Joseph. Le nom du groupe circule sur les listes d’artistes bouyon, mais aucun titre ni enregistrement du groupe n’est documenté à ce jour.",
+  ),
+  (
+    "Qui est Derrick Joseph, le chanteur d’All-Star Band ?",
+    "Derrick Joseph est un guide kalinago du Waitukubuli Trail, en Dominique, présenté par Le Figaro en juin 2026. Le journal le décrit chassant l’agouti avec son chien Otis et chantant, le reste du temps, avec son groupe de musique baptisé All Star band. Aucune autre biographie publiée de lui n’a été retrouvée dans nos recherches.",
+  ),
+  (
+    "All-Star Band a-t-il enregistré des titres écoutables en ligne ?",
+    "Non, pas à notre connaissance vérifiée. Nos recherches n’ont trouvé aucun titre, aucun enregistrement et aucun clip attribuable de manière certaine au groupe dominicain de Derrick Joseph. Les titres des plateformes signés All Star Band appartiennent à des homonymes, notamment l’orchestre de salsa portoricain de Mario Ortiz.",
+  ),
+  (
+    "Quel est le rêve d’All-Star Band dont parle Le Figaro ?",
+    "Selon Le Figaro de juin 2026, le rêve de Derrick Joseph serait de se produire à bord des énormes bateaux de croisière qui, de novembre à avril, déversent chaque semaine leur lot de touristes dans le port de Roseau, en Dominique. Aucun contrat ni aucune date à bord n’est rapporté : c’est un rêve formulé, pas un engagement.",
+  ),
+  (
+    "All-Star Band est-il un groupe bouyon ?",
+    "Ce n’est pas établi. Le nom circule sur les listes d’artistes bouyon suivies par ce site, mais la seule source indépendante, Le Figaro, parle d’un groupe de musique sans préciser de genre. Ce profil ne lui attribue donc ni le bouyon, ni aucun autre style, en attendant un enregistrement qui permette de l’entendre.",
+  ),
+  (
+    "All-Star Band est-il lié au All-Starr Band de Ringo Starr ?",
+    "Non. Le All-Starr Band de Ringo Starr, formé en 1989, est un supergroupe de tournée anglo-américain. All-Star Band, en Dominique, est le groupe local du guide kalinago Derrick Joseph. La ressemblance des noms est une coïncidence, et ce site ne mélange aucun fait des deux formations.",
+  ),
+  (
+    "Faut-il écrire All-Star Band ou All Star band ?",
+    "Les deux graphies circulent. Le Figaro, seule source indépendante sur le groupe, écrit « All Star band », sans trait d’union, tandis que les listes d’artistes bouyon écrivent All-Star Band. Ce site rapporte les deux formes telles quelles, sans trancher à la place du groupe, et retient All-Star Band pour le titre de sa page, la forme sous laquelle le nom circule dans le bouyon.",
+  ),
+  (
+    "All-Star Band est-il l’orchestre de Mario Ortiz ou Trinidad All Stars ?",
+    "Non. Le All Star Band de Mario Ortiz est un orchestre de salsa portoricain des années 1960, et Trinidad All Stars est un steel orchestra historique de Port of Spain, à Trinité-et-Tobago. Aucun des deux n’a de lien avec le groupe dominicain du guide kalinago Derrick Joseph, et aucun de leurs titres n’est attribué à All-Star Band sur ce site.",
+  ),
+  (
+    "Où Le Figaro a-t-il rencontré All-Star Band ?",
+    "Sur le Waitukubuli Trail, le sentier de 185 kilomètres qui traverse la Dominique, dans un guide de voyage publié en juin 2026. Le journaliste y suit son guide, Derrick Joseph, sur les segments du centre de l’île, derrière le village de Laudat et le parc national de Morne Trois Pitons. Ce sont les lieux de la randonnée, et non une adresse attribuée au groupe.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/all-star-band.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/all-star-band.html#artist", "name": "All-Star Band", "description": "Groupe de musique de la Dominique, connu par un article du Figaro de juin 2026 présentant son chanteur, le guide kalinago Derrick Joseph. Aucun enregistrement vérifié à ce jour.", "genre": "Bouyon", "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -171,13 +201,43 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is All-Star Band?", "All-Star Band is a music group from Dominica, known to the outside public through a single verified source: a Le Figaro travel guide published in June 2026, which presents its singer, Kalinago guide Derrick Joseph. The band name circulates on bouyon artist lists, but no song or recording by the band is documented to date."),
-  ("Who is Derrick Joseph, the singer of All-Star Band?", "Derrick Joseph is a Kalinago guide on the Waitukubuli Trail in Dominica, presented by Le Figaro in June 2026. The paper describes him hunting agouti with his dog Otis and singing, the rest of the time, with his music group named All Star band. No other published biography of him was found in our research."),
-  ("Has All-Star Band released any songs that can be heard online?", "No, not to our verified knowledge. Our research found no song, recording or video attributable with certainty to the Dominican band of Derrick Joseph. The platform records signed All Star Band belong to namesakes, including the Puerto Rican salsa orchestra of Mario Ortiz."),
-  ("What is the All-Star Band dream Le Figaro talks about?", "According to Le Figaro in June 2026, the dream of Derrick Joseph is to perform aboard the huge cruise ships that, from November to April, unload their loads of tourists every week in the port of Roseau, Dominica. No contract or date aboard is reported: it is a stated dream, not a booking."),
-  ("Is All-Star Band a bouyon band?", "That is not established. The name circulates on the bouyon artist lists followed by this site, but the only independent source, Le Figaro, speaks of a music group without naming a genre. This profile therefore credits it with neither bouyon nor any other style, while waiting for a recording that lets it be heard."),
-  ("Is All-Star Band linked to the All-Starr Band of Ringo Starr?", "No. The All-Starr Band of Ringo Starr, formed in 1989, is an Anglo-American touring supergroup. All-Star Band, in Dominica, is the local band of Kalinago guide Derrick Joseph. The resemblance of the names is a coincidence, and this site mixes no fact from the two formations.")
- ],
+  (
+    "Who is All-Star Band?",
+    "All-Star Band is a music group from Dominica, known to the outside public through a single verified source: a Le Figaro travel guide published in June 2026, which presents its singer, Kalinago guide Derrick Joseph. The band name circulates on bouyon artist lists, but no song or recording by the band is documented to date.",
+  ),
+  (
+    "Who is Derrick Joseph, the singer of All-Star Band?",
+    "Derrick Joseph is a Kalinago guide on the Waitukubuli Trail in Dominica, presented by Le Figaro in June 2026. The paper describes him hunting agouti with his dog Otis and singing, the rest of the time, with his music group named All Star band. No other published biography of him was found in our research.",
+  ),
+  (
+    "Has All-Star Band released any songs that can be heard online?",
+    "No, not to our verified knowledge. Our research found no song, recording or video attributable with certainty to the Dominican band of Derrick Joseph. The platform records signed All Star Band belong to namesakes, including the Puerto Rican salsa orchestra of Mario Ortiz.",
+  ),
+  (
+    "What is the All-Star Band dream Le Figaro talks about?",
+    "According to Le Figaro in June 2026, the dream of Derrick Joseph is to perform aboard the huge cruise ships that, from November to April, unload their loads of tourists every week in the port of Roseau, Dominica. No contract or date aboard is reported: it is a stated dream, not a booking.",
+  ),
+  (
+    "Is All-Star Band a bouyon band?",
+    "That is not established. The name circulates on the bouyon artist lists followed by this site, but the only independent source, Le Figaro, speaks of a music group without naming a genre. This profile therefore credits it with neither bouyon nor any other style, while waiting for a recording that lets it be heard.",
+  ),
+  (
+    "Is All-Star Band linked to the All-Starr Band of Ringo Starr?",
+    "No. The All-Starr Band of Ringo Starr, formed in 1989, is an Anglo-American touring supergroup. All-Star Band, in Dominica, is the local band of Kalinago guide Derrick Joseph. The resemblance of the names is a coincidence, and this site mixes no fact from the two formations.",
+  ),
+  (
+    "Is it spelled All-Star Band or All Star band?",
+    "Both spellings circulate. Le Figaro, the only independent source on the band, writes “All Star band”, without a hyphen, while bouyon artist lists write All-Star Band. This site reports both forms as they are, without deciding in the band’s place, and uses All-Star Band for the title of its page, the form under which the name circulates in bouyon.",
+  ),
+  (
+    "Is All-Star Band the Mario Ortiz orchestra or Trinidad All Stars?",
+    "No. Mario Ortiz’s All Star Band is a Puerto Rican salsa orchestra of the 1960s, and Trinidad All Stars is a historic steel orchestra from Port of Spain, Trinidad and Tobago. Neither has any link with the Dominican band of Kalinago guide Derrick Joseph, and none of their records is credited to All-Star Band on this site.",
+  ),
+  (
+    "Where did Le Figaro meet All-Star Band?",
+    "On the Waitukubuli Trail, the 185 kilometre trail that crosses Dominica, in a travel guide published in June 2026. The journalist follows his guide, Derrick Joseph, along the segments in the centre of the island, behind the village of Laudat and Morne Trois Pitons National Park. Those are the places of the hike, not an address attributed to the band.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/all-star-band.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/all-star-band.html#artist", "name": "All-Star Band", "description": "Music group from Dominica, known through a June 2026 Le Figaro article presenting its singer, Kalinago guide Derrick Joseph. No verified recording to date.", "genre": "Bouyon", "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

@@ -80,13 +80,59 @@ FR = {
   ]
  ],
  "faq": [
-  ("Le Problem Child de FYM avec Ridge est-il le même que l’artiste soca de Saint-Vincent ?", "Oui, selon l’ensemble des sources consultées. Les mixes consacrés à Saint-Vincent, comme Vincy Heat 2025, listent FYM dans la même série que ses titres de Vincy Mas 2025, Fraid Horn, Pong Pong et Happy Carnival. Aucune source ne décrit un deuxième Problem Child, bouyon ou dominicain, distinct. La présence du titre aux Dominica Music Awards s’explique par son partenaire dominicain, Mr Ridge."),
-  ("Quel est le vrai nom de Problem Child ?", "Les sources publiées donnent deux formes, et ce profil les imprime toutes les deux. Les biographies anciennes, chez NTS et Buzz.tt, publient le nom de naissance Johnny Fontainne, avec le surnom Vincy Bad Boy. La presse récente, Ebuzztt en 2025, donne comme vrai nom Shertz James, et les crédits d’écriture de ses titres récents chez Shazam et Qobuz listent Shertz James comme auteur."),
-  ("Combien de fois Problem Child a-t-il gagné la Vincy Road March ?", "Les sources en documentent six : en 2007 avec Party Animal, en 2009 avec Mad House, en 2017 avec Never Bow, en 2024 avec Carnival Jumbie, en 2025 avec Fraid Horn, premier avec 100 points devant son propre Pong Pong, et en 2026 avec Party Time, sa troisième victoire consécutive selon les résultats officiels rapportés par Vincypowa News."),
-  ("Problem Child a-t-il écrit des chansons pour d’autres artistes ?", "Oui. Le journal vincentais Searchlight le comptait en 2020 parmi les auteurs les plus prolifiques de Saint-Vincent et lui attribue des écritures pour Patrice Roberts, Shal Marshall, Blaxx et Machel Montano. Ebuzztt raconte que Patrice Roberts lui a donné une occasion décisive avec leur titre A Little Wine, avant qu’il n’écrive de nombreux hymnes pour elle et pour d’autres."),
-  ("FYM est-il un titre bouyon ou un titre soca ?", "FYM est publié comme le titre de Ridge et Problem Child, sorti le 30 janvier 2025, et il circule dans les mixes soca et bouyon. Sur ce site, il est classé comme sa collaboration bouyon documentée, aux côtés du chanteur dominicain Mr Ridge, parce que c’est ce lien qui lui a valu une place de finaliste de la collaboration de l’année aux Dominica Music Awards 2025. Le reste de sa discographie connue reste de la soca."),
-  ("Où écouter Problem Child après FYM ?", "Écoutez d’abord ses titres de route : Party Animal, Mad House, Never Bow, Carnival Jumbie, Fraid Horn et Pong Pong, puis son duo avec <a href=\"/ridge.html\">Ridge</a>. Notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> suit les collaborations entre la Dominique et les îles voisines, dont celle qui a amené Problem Child sur ce site.")
- ],
+  (
+    "Le Problem Child de FYM avec Ridge est-il le même que l’artiste soca de Saint-Vincent ?",
+    "Oui, selon l’ensemble des sources consultées. Les mixes consacrés à Saint-Vincent, comme Vincy Heat 2025, listent FYM dans la même série que ses titres de Vincy Mas 2025, Fraid Horn, Pong Pong et Happy Carnival. Aucune source ne décrit un deuxième Problem Child, bouyon ou dominicain, distinct. La présence du titre aux Dominica Music Awards s’explique par son partenaire dominicain, Mr Ridge.",
+  ),
+  (
+    "Quel est le vrai nom de Problem Child ?",
+    "Les sources publiées donnent deux formes, et ce profil les imprime toutes les deux. Les biographies anciennes, chez NTS et Buzz.tt, publient le nom de naissance Johnny Fontainne, avec le surnom Vincy Bad Boy. La presse récente, Ebuzztt en 2025, donne comme vrai nom Shertz James, et les crédits d’écriture de ses titres récents chez Shazam et Qobuz listent Shertz James comme auteur.",
+  ),
+  (
+    "Combien de fois Problem Child a-t-il gagné la Vincy Road March ?",
+    "Les sources en documentent six : en 2007 avec Party Animal, en 2009 avec Mad House, en 2017 avec Never Bow, en 2024 avec Carnival Jumbie, en 2025 avec Fraid Horn, premier avec 100 points devant son propre Pong Pong, et en 2026 avec Party Time, sa troisième victoire consécutive selon les résultats officiels rapportés par Vincypowa News.",
+  ),
+  (
+    "Problem Child a-t-il écrit des chansons pour d’autres artistes ?",
+    "Oui. Le journal vincentais Searchlight le comptait en 2020 parmi les auteurs les plus prolifiques de Saint-Vincent et lui attribue des écritures pour Patrice Roberts, Shal Marshall, Blaxx et Machel Montano. Ebuzztt raconte que Patrice Roberts lui a donné une occasion décisive avec leur titre A Little Wine, avant qu’il n’écrive de nombreux hymnes pour elle et pour d’autres.",
+  ),
+  (
+    "FYM est-il un titre bouyon ou un titre soca ?",
+    "FYM est publié comme le titre de Ridge et Problem Child, sorti le 30 janvier 2025, et il circule dans les mixes soca et bouyon. Sur ce site, il est classé comme sa collaboration bouyon documentée, aux côtés de l’artiste dominicain Mr Ridge, parce que c’est ce lien qui lui a valu une place de finaliste de la collaboration de l’année aux Dominica Music Awards 2025. Le reste de sa discographie connue reste de la soca.",
+  ),
+  (
+    "Où écouter Problem Child après FYM ?",
+    "Écoutez d’abord ses titres de route : Party Animal, Mad House, Never Bow, Carnival Jumbie, Fraid Horn et Pong Pong, puis revenez à FYM, son duo avec Ridge, que les mixes soca et bouyon de 2025 et 2026 programment. Notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> suit le son des collaborations entre la Dominique et les îles voisines.",
+  ),
+  (
+    "D’où vient Problem Child ?",
+    "Problem Child est né à Saint-Vincent et a grandi à Brooklyn, à New York, selon la page artiste de la radio NTS et le profil de Buzz.tt. Il y a absorbé le hip hop et le dancehall tout en gardant la culture vincentaise et la soca au centre de sa musique. Les deux sources le présentent comme un ambassadeur mondial de la soca qui représente les Vincentais.",
+  ),
+  (
+    "Qu’est-ce que la Vincy Road March que Problem Child a gagnée ?",
+    "La Vincy Road March est le titre qui compte le plus dans le carnaval de Saint-Vincent et les Grenadines : elle récompense le titre le plus joué sur la route pendant le défilé. Problem Child l’a gagnée en 2026 avec « Party Time » sans même participer au concours de Soca Monarch, la couronne venant uniquement des camions, des DJ et de la foule, selon Vincypowa News.",
+  ),
+  (
+    "FYM a-t-il été nommé aux Dominica Music Awards ?",
+    "Oui. La liste officielle des finalistes des Dominica Music Awards 2025, publiée par Black Island Girl Multimedia, retient « Mr Ridge et Problem Child, FYM » parmi les finalistes de la collaboration de l’année, aux côtés notamment de « Someone Else » de <a href=\"/quan.html\">Quan</a>, Litle Boy et Trilla G. Un prix dominicain honore ainsi une collaboration dont l’un des deux artistes est le champion de la route de Saint-Vincent.",
+  ),
+  (
+    "Qui est Mr Ridge, le partenaire de Problem Child sur FYM ?",
+    "Mr Ridge, nom d’artiste <a href=\"/ridge.html\">Ridge</a>, est un artiste bouyon dominicain, claviériste et producteur, connu sur Instagram sous le nom @crossdbridge. Il a remporté le prix Bouyon Artist of the Year aux Caribbean Music Awards 2026, selon les résultats publiés en septembre 2026. Sur FYM, les deux voix se relaient, Ridge appelé par son nom dans le texte et Problem Child nommé dans un couplet.",
+  ),
+  (
+    "De quoi parle FYM de Ridge et Problem Child ?",
+    "FYM est un titre de fête de carnaval construit sur un refrain répété comme un slogan : ce qui se passe dans la fête reste dans la fête. Les deux voix se relaient sur ce terrain, et un couplet dit en substance que des hommes comme Problem Child et Ridge ramèneront la fille à la maison après la fête. Le ton est cru et direct, dans la veine des bouyons les plus rudes de la période.",
+  ),
+  (
+    "Avec quels artistes Problem Child a-t-il collaboré ?",
+    "Au-delà de FYM avec Ridge, Buzz.tt liste « Party Party » avec Beenie Man, un titre avec <a href=\"/bunji-garlin.html\">Bunji Garlin</a> et « We Ready » avec Fay-Ann Lyons. Son catalogue compte aussi « High Whole Night » avec le groupe Voicemail, « Ah Tink Ah Drunk » avec Tallpree, « A Little Wine » avec Patrice Roberts et, en 2024, « Identity » de Pahjo avec G-Sinnz et Problem Child.",
+  ),
+  (
+    "Qui produit les titres récents de Problem Child ?",
+    "Sur la compilation Summer Of Carnivals publiée chez Qobuz, ses titres « Carnival Jumbie », « Like Never Before » et « B.O.T.S. » créditent DJ Avalanche à la production et Shertz James à l’écriture. Plus tôt, « Stick On » est sorti chez OBanga Productions, et « Real Badboy » était posé sur le Ninety Riddim. FYM, lui, est distribué via TuneCore avec la mention ℗ 2025 Ridge et Problem Child.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/problem-child.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/problem-child.html#artist", "name": "Problem Child", "description": "Chanteur et auteur de soca de Saint-Vincent, surnommé Vincy Bad Boy. Champion de la Vincy Road March en 2007, 2009, 2017, 2024, 2025 et 2026. Partenaire de Mr Ridge sur le titre bouyon FYM en 2025.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Fym"}, {"@type": "MusicRecording", "name": "Party Animal"}, {"@type": "MusicRecording", "name": "Mad House"}, {"@type": "MusicRecording", "name": "Never Bow"}, {"@type": "MusicRecording", "name": "Carnival Jumbie"}, {"@type": "MusicRecording", "name": "Fraid Horn"}, {"@type": "MusicRecording", "name": "Pong Pong"}, {"@type": "MusicRecording", "name": "Party Time"}, {"@type": "MusicRecording", "name": "Love De Road"}, {"@type": "MusicRecording", "name": "Real Badboy"}, {"@type": "MusicRecording", "name": "High Whole Night"}, {"@type": "MusicRecording", "name": "Stick On"}, {"@type": "MusicRecording", "name": "Like Never Before"}, {"@type": "MusicRecording", "name": "Identity"},
       {
        "@type": "MusicRecording",
@@ -687,13 +733,59 @@ EN = {
   ]
  ],
  "faq": [
-  ("Is the Problem Child of FYM with Ridge the same as the soca artist from Saint Vincent?", "Yes, according to the whole set of sources consulted. Mixes devoted to Saint Vincent, such as Vincy Heat 2025, list FYM in the same run as his Vincy Mas 2025 records, Fraid Horn, Pong Pong and Happy Carnival. No source describes a second, bouyon or Dominican, Problem Child. The record place at the Dominica Music Awards is explained by his Dominican partner, Mr Ridge."),
-  ("What is Problem Child real name?", "Published sources give two forms, and this profile prints both. The older biographies, on NTS and Buzz.tt, publish the birth name Johnny Fontainne, with the nickname Vincy Bad Boy. Recent press, Ebuzztt in 2025, gives the real name as Shertz James, and the writing credits of his recent records on Shazam and Qobuz list Shertz James as writer."),
-  ("How many times has Problem Child won the Vincy Road March?", "The sources document six: in 2007 with Party Animal, in 2009 with Mad House, in 2017 with Never Bow, in 2024 with Carnival Jumbie, in 2025 with Fraid Horn, first with 100 points ahead of his own Pong Pong, and in 2026 with Party Time, his third straight win according to the official results reported by Vincypowa News."),
-  ("Has Problem Child written songs for other artists?", "Yes. The Vincentian newspaper Searchlight counted him in 2020 among the most prolific songwriters in Saint Vincent and credits him with writing for Patrice Roberts, Shal Marshall, Blaxx and Machel Montano. Ebuzztt tells how Patrice Roberts gave him a decisive opportunity with their record A Little Wine, before he wrote many anthems for her and for others."),
-  ("Is FYM a bouyon record or a soca record?", "FYM is published as a Ridge and Problem Child record, released on 30 January 2025, and it circulates in soca and bouyon mixes. On this site it is classed as his documented bouyon collaboration, alongside Dominican singer Mr Ridge, because that link earned it a finalist place for Collaboration of the Year at the Dominica Music Awards 2025. The rest of his known discography remains soca."),
-  ("Where should I hear Problem Child after FYM?", "Hear his road records first: Party Animal, Mad House, Never Bow, Carnival Jumbie, Fraid Horn and Pong Pong, then his duet with <a href=\"/en/ridge.html\">Ridge</a>. Our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> follows the collaborations between Dominica and its neighbouring islands, including the one that brought Problem Child to this site.")
- ],
+  (
+    "Is the Problem Child of FYM with Ridge the same as the soca artist from Saint Vincent?",
+    "Yes, according to the whole set of sources consulted. Mixes devoted to Saint Vincent, such as Vincy Heat 2025, list FYM in the same run as his Vincy Mas 2025 records, Fraid Horn, Pong Pong and Happy Carnival. No source describes a second, bouyon or Dominican, Problem Child. The record’s place at the Dominica Music Awards is explained by his Dominican partner, Mr Ridge.",
+  ),
+  (
+    "What is Problem Child’s real name?",
+    "Published sources give two forms, and this profile prints both. The older biographies, on NTS and Buzz.tt, publish the birth name Johnny Fontainne, with the nickname Vincy Bad Boy. Recent press, Ebuzztt in 2025, gives the real name as Shertz James, and the writing credits of his recent records on Shazam and Qobuz list Shertz James as writer.",
+  ),
+  (
+    "How many times has Problem Child won the Vincy Road March?",
+    "The sources document six: in 2007 with Party Animal, in 2009 with Mad House, in 2017 with Never Bow, in 2024 with Carnival Jumbie, in 2025 with Fraid Horn, first with 100 points ahead of his own Pong Pong, and in 2026 with Party Time, his third straight win according to the official results reported by Vincypowa News.",
+  ),
+  (
+    "Has Problem Child written songs for other artists?",
+    "Yes. The Vincentian newspaper Searchlight counted him in 2020 among the most prolific songwriters in Saint Vincent and credits him with writing for Patrice Roberts, Shal Marshall, Blaxx and Machel Montano. Ebuzztt tells how Patrice Roberts gave him a decisive opportunity with their record A Little Wine, before he wrote many anthems for her and for others.",
+  ),
+  (
+    "Is FYM a bouyon record or a soca record?",
+    "FYM is published as a Ridge and Problem Child record, released on 30 January 2025, and it circulates in soca and bouyon mixes. On this site it is classed as his documented bouyon collaboration, alongside the Dominican artist Mr Ridge, because that link earned it a finalist place for Collaboration of the Year at the Dominica Music Awards 2025. The rest of his known discography remains soca.",
+  ),
+  (
+    "Where should I hear Problem Child after FYM?",
+    "Hear his road records first: Party Animal, Mad House, Never Bow, Carnival Jumbie, Fraid Horn and Pong Pong, then come back to FYM, his duet with Ridge, which the 2025 and 2026 soca and bouyon mixes programme. Our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> follows the sound of the collaborations between Dominica and its neighbouring islands.",
+  ),
+  (
+    "Where is Problem Child from?",
+    "Problem Child was born in Saint Vincent and grew up in Brooklyn, New York, according to the NTS radio artist page and the Buzz.tt profile. There he absorbed hip hop and dancehall while keeping Vincentian culture and soca at the centre of his music. Both sources present him as a global soca ambassador who represents Vincentians.",
+  ),
+  (
+    "What is the Vincy Road March that Problem Child has won?",
+    "The Vincy Road March is the title that matters most in the carnival of Saint Vincent and the Grenadines: it rewards the song played most on the road during the parade. Problem Child won it in 2026 with “Party Time” without even entering the Soca Monarch contest, the crown coming only from the trucks, the DJs and the crowd, according to Vincypowa News.",
+  ),
+  (
+    "Was FYM nominated at the Dominica Music Awards?",
+    "Yes. The official finalist list of the Dominica Music Awards 2025, published by Black Island Girl Multimedia, names “Mr Ridge and Problem Child, FYM” among the finalists for Collaboration of the Year, alongside “Someone Else” by <a href=\"/en/quan.html\">Quan</a>, Litle Boy and Trilla G among others. A Dominican award thus honoured a collaboration in which one of the two artists is Saint Vincent’s road march champion.",
+  ),
+  (
+    "Who is Mr Ridge, Problem Child’s partner on FYM?",
+    "Mr Ridge, artist name <a href=\"/en/ridge.html\">Ridge</a>, is a Dominican bouyon artist, keyboardist and producer, known on Instagram as @crossdbridge. He won Bouyon Artist of the Year at the Caribbean Music Awards 2026, according to the results published in September 2026. On FYM the two voices trade lines, Ridge called by name in the lyrics and Problem Child named in a verse.",
+  ),
+  (
+    "What is FYM by Ridge and Problem Child about?",
+    "FYM is a carnival party record built on a chorus repeated like a slogan: what happens at the party stays at the party. The two voices trade lines on that ground, and one verse says, in substance, that men like Problem Child and Ridge will take the girl home after the party. The tone is raw and direct, in the vein of the roughest bouyon records of the period.",
+  ),
+  (
+    "Which artists has Problem Child worked with?",
+    "Beyond FYM with Ridge, Buzz.tt lists “Party Party” with Beenie Man, a record with <a href=\"/en/bunji-garlin.html\">Bunji Garlin</a> and “We Ready” with Fay-Ann Lyons. His catalogue also includes “High Whole Night” with the group Voicemail, “Ah Tink Ah Drunk” with Tallpree, “A Little Wine” with Patrice Roberts and, in 2024, Pahjo’s “Identity” with G-Sinnz and Problem Child.",
+  ),
+  (
+    "Who produces Problem Child’s recent records?",
+    "On the Summer Of Carnivals compilation published on Qobuz, his records “Carnival Jumbie”, “Like Never Before” and “B.O.T.S.” credit DJ Avalanche as producer and Shertz James as writer. Earlier, “Stick On” came out on OBanga Productions, and “Real Badboy” sat on the Ninety Riddim. FYM itself is distributed via TuneCore with the mention ℗ 2025 Ridge and Problem Child.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/problem-child.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/problem-child.html#artist", "name": "Problem Child", "description": "Soca singer and songwriter from Saint Vincent, nicknamed Vincy Bad Boy. Vincy Road March champion in 2007, 2009, 2017, 2024, 2025 and 2026. Partner of Mr Ridge on the bouyon record FYM in 2025.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Fym"}, {"@type": "MusicRecording", "name": "Party Animal"}, {"@type": "MusicRecording", "name": "Mad House"}, {"@type": "MusicRecording", "name": "Never Bow"}, {"@type": "MusicRecording", "name": "Carnival Jumbie"}, {"@type": "MusicRecording", "name": "Fraid Horn"}, {"@type": "MusicRecording", "name": "Pong Pong"}, {"@type": "MusicRecording", "name": "Party Time"}, {"@type": "MusicRecording", "name": "Love De Road"}, {"@type": "MusicRecording", "name": "Real Badboy"}, {"@type": "MusicRecording", "name": "High Whole Night"}, {"@type": "MusicRecording", "name": "Stick On"}, {"@type": "MusicRecording", "name": "Like Never Before"}, {"@type": "MusicRecording", "name": "Identity"},
       {
        "@type": "MusicRecording",

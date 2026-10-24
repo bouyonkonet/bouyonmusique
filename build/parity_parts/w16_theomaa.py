@@ -70,13 +70,59 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Theomaa ?", "Theomaa est un chanteur bouyon de la scène guadeloupéenne, connu comme le partenaire de création de 1T1. En décembre 2025, CCN, Caraib Creole News, le cite parmi les artistes bouyon les plus emblématiques du moment en Guadeloupe, avec Lejuh, 1T1, Piscine OSP, Aknose et Shanika. Aucun nom complet ni date de naissance n ont été publiés dans les sources vérifiées, et ce site n en imprime donc aucun."),
-  ("Quels prix Theomaa a-t-il remportés aux Caribbean Music Awards ?", "Deux prix, avec 1T1, lors de la quatrième édition des Caribbean Music Awards, le 19 septembre à Port of Spain, Trinidad et Tobago. « Bouwéy » remporte le prix de la chanson bouyon de l année, et « Ouba » celui de la chanson French Caribbean de l année. Theomaa était aussi annoncé parmi les artistes programmés sur scène lors de cette édition."),
-  ("Theomaa a-t-il écrit « Bouwéy » et « Ouba » ?", "Oui, selon les crédits officiels publiés sous les clips. « Bouwéy », extrait de l EP CHORD de 1T1 sorti le 13 décembre 2024, est composé par 1T1 et Dinho et écrit par 1T1 et Theomaa. « Ouba », sorti le 5 décembre 2025, est composé par Qwann et 1T1 et écrit par 1T1 et Theomaa. Sur les deux titres primés du duo, Theomaa est donc coauteur du texte, pas seulement chanteur invité."),
-  ("Quel est le premier titre connu de Theomaa ?", "« Wa wa waaw », avec 1T1, daté de 2022 dans les catalogues de plateformes. Le label AB BOYZ Music présente ce titre comme celui par lequel 1T1 s est fait connaître du grand public, en révélant le style bouyon. Le titre figure toujours parmi les plus recherchés des deux artistes sur Shazam des années après sa sortie."),
-  ("« Bouwéy » est-il certifié single d or en France ?", "Des publications sur les réseaux sociaux présentent « Bouwéy » comme un single d or certifié par le SNEP. Pendant la recherche de ce profil, aucune confirmation n a été trouvée dans les sources officielles du SNEP consultées, donc ce site ne présente pas cette certification comme vérifiée. Les faits établis sont l EP CHORD de décembre 2024, la 48e place mondiale Shazam du titre au printemps 2025, et son prix de chanson bouyon de l année aux Caribbean Music Awards 2026."),
-  ("Theomaa a-t-il un projet solo ?", "Aucun projet solo, album ou EP, de Theomaa n a été publié dans les sources vérifiées consultées pour ce profil. Son oeuvre documentée est collective : le duo avec 1T1, les titres du cercle gwada avec Lejuh, Aknose et Binksdrick, et la session « New Bouyon Wave #1 » de D0 Production du 29 septembre 2023, avec Tiitii NBA, Nils, Dj Softee et Aknose. Si un projet solo paraît, ce profil sera complété et daté.")
- ],
+  (
+    "Qui est Theomaa ?",
+    "Theomaa est un chanteur bouyon de la scène guadeloupéenne, connu comme le partenaire de création de 1T1. En décembre 2025, CCN, Caraib Creole News, le cite parmi les artistes bouyon les plus emblématiques du moment en Guadeloupe, avec Lejuh, 1T1, Piscine OSP, Aknose et Shanika. Aucun nom complet ni date de naissance n’ont été publiés dans les sources vérifiées, et ce site n’en imprime donc aucun.",
+  ),
+  (
+    "D’où vient Theomaa ?",
+    "Theomaa appartient à la scène du bouyon gwada, la branche guadeloupéenne du genre, chantée en créole sur des beats électroniques. C’est en Guadeloupe que CCN le range parmi les artistes bouyon les plus emblématiques du moment, et ses titres sont signés avec les voix de ce même cercle. Aucun lieu de naissance n’est publié dans les sources vérifiées, et ce profil n’en imprime aucun.",
+  ),
+  (
+    "Quel est le lien entre Theomaa et 1T1 ?",
+    "Theomaa est le partenaire le plus constant de 1T1 : ensemble, ils signent « Wa wa waaw », « Piney » avec Lejuh, « PnL (Piney) », « Gasolina », puis « Bouwéy » et « Ouba », dont Theomaa coécrit le texte. Le label AB BOYZ Music fait même commencer l’histoire publique de 1T1 par leur titre commun. Pour le parcours de son partenaire, voir notre profil de <a href=\"/1t1.html\">1T1</a>.",
+  ),
+  (
+    "Quel est le premier titre connu de Theomaa ?",
+    "« Wa wa waaw », avec 1T1, daté de 2022 dans les catalogues de plateformes. Le label AB BOYZ Music présente ce titre comme celui par lequel 1T1 s’est fait connaître du grand public, en révélant le style bouyon. Le titre figure toujours parmi les plus recherchés des deux artistes sur Shazam des années après sa sortie, et il tournait encore dans les mixes de carnaval.",
+  ),
+  (
+    "Theomaa a-t-il écrit « Bouwéy » et « Ouba » ?",
+    "Oui, selon les crédits officiels publiés sous les clips. « Bouwéy », extrait de l’EP « CHORD » de 1T1 sorti le 13 décembre 2024, est écrit par 1T1 et Theomaa. « Ouba », sorti le 5 décembre 2025, est composé par Qwann et 1T1 et écrit par 1T1 et Theomaa. Sur les deux titres primés du duo, Theomaa est donc coauteur du texte, pas seulement chanteur invité.",
+  ),
+  (
+    "Qui a produit « Bouwéy » de 1T1 et Theomaa ?",
+    "Selon les crédits publiés sous le clip officiel, « Bouwéy » est composé par 1T1 et Dinho, enregistré par 1T1, mixé par Jbreazy et masterisé par PM Studio, sur un texte de 1T1 et Theomaa. Le titre sort le 13 décembre 2024 sur l’EP « CHORD », publié par 1T1 et AB BOYZ MUSIC. Le même mixeur, Jbreazy, signe aussi le mix de « Ouba » un an plus tard.",
+  ),
+  (
+    "Comment « Bouwéy » s’est-il classé ?",
+    "Selon les pages d’artiste de Shazam, « Bouwéy » a atteint la 48e place du classement mondial Shazam, avec une entrée dans le Top 50 le 22 mars 2025 et 7 jours dans ce Top 50, pour près d’un million de recherches. En avril 2025, le titre figurait aussi dans les listes de titres bouyon et soca en tendance de la presse soca anglophone, aux côtés des titres de la Dominique.",
+  ),
+  (
+    "« Bouwéy » est-il certifié single d’or en France ?",
+    "Ce n’est pas confirmé. Des publications sur les réseaux sociaux le présentent comme un single d’or du SNEP, mais aucune confirmation n’a été trouvée dans les sources officielles du SNEP consultées, et ce site ne présente donc pas cette certification comme vérifiée. Les faits établis sont l’EP « CHORD » de décembre 2024, la 48e place mondiale Shazam au printemps 2025 et le prix des Caribbean Music Awards 2026.",
+  ),
+  (
+    "Quels prix Theomaa a-t-il remportés aux Caribbean Music Awards ?",
+    "Deux prix, avec 1T1, lors de la quatrième édition des Caribbean Music Awards, le 19 septembre 2026 à Port of Spain, Trinidad et Tobago. « Bouwéy » remporte le prix de la chanson bouyon de l’année, et « Ouba » celui de la chanson French Caribbean de l’année. Theomaa était aussi annoncé dans la première vague d’artistes programmés sur scène lors de cette édition.",
+  ),
+  (
+    "Qu’est-ce que « New Bouyon Wave #1 » avec Theomaa ?",
+    "C’est une session collective de D0 Production, publiée le 29 septembre 2023 par 2873529 Records DK selon Shazam, à 160 BPM. Elle réunit Tiitii NBA, Nils, Dj Softee, Aknose et Theomaa autour d’un programme affiché dans son titre : une nouvelle vague bouyon. Sa présence y confirme que Theomaa compte parmi les voix choisies pour incarner le renouvellement du genre en Guadeloupe, au delà du duo avec 1T1.",
+  ),
+  (
+    "Avec quels artistes Theomaa a-t-il collaboré ?",
+    "Surtout avec le cercle du bouyon gwada. « Piney » réunit 1T1, Theomaa et Lejuh ; « Mas La Rivé », le 12 janvier 2024, aligne neuf noms dont Aknose, DJ Softee, Bismok et Lejuh ; « Party Rocking » réunit 1T1, Theomaa et RvF ; « Leave Me Alone », le 6 septembre 2024, associe 1T1, Dinho, Lejuh, Theomaa et Binksdrick. Viberate signale aussi « Baddest », en 2025, avec Matieu White et 1T1.",
+  ),
+  (
+    "Theomaa a-t-il un projet solo ?",
+    "Aucun projet solo, album ou EP, de Theomaa n’a été publié dans les sources vérifiées consultées pour ce profil. Son oeuvre documentée est collective : le duo avec 1T1, les titres du cercle gwada avec Lejuh, Aknose et Binksdrick, et la session « New Bouyon Wave #1 » de 2023. Ce n’est pas un manque mais la forme du bouyon gwada actuel, fait de refrains partagés et de crédits croisés.",
+  ),
+  (
+    "Où écouter Theomaa ?",
+    "Sur les plateformes, en suivant l’ordre du parcours : « Wa wa waaw » pour l’arrivée du duo, « Mas La Rivé » et « Leave Me Alone » pour le collectif, « Bouwéy » pour l’EP « CHORD », puis « Ouba », primé en 2026. Pour entendre la scène bouyon d’aujourd’hui, de la Dominique à la Guadeloupe, la <a href=\"/playlist-bouyon.html\">playlist Bouyon Road Mix</a> de Bouyon Shattaz réunit les nouveautés du genre.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/theomaa.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/theomaa.html#artist", "name": "Theomaa", "description": "Chanteur bouyon de la scène guadeloupéenne, partenaire de création de 1T1. Coauteur et chanteur de Bouwéy et de Ouba, prix de la chanson bouyon de l année et de la chanson French Caribbean de l année aux Caribbean Music Awards 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bouwéy"}, {"@type": "MusicRecording", "name": "Ouba"}, {"@type": "MusicRecording", "name": "Wa wa Waaaw"}, {"@type": "MusicRecording", "name": "Leave Me Alone"}, {"@type": "MusicRecording", "name": "Mas La Rivé"}, {"@type": "MusicRecording", "name": "Piney"}, {"@type": "MusicRecording", "name": "Gasolina"}, {"@type": "MusicRecording", "name": "Party Rocking"}, {"@type": "MusicRecording", "name": "New Bouyon Wave #1"}, {"@type": "MusicRecording", "name": "Baddest"},
       {
        "@type": "MusicRecording",
@@ -152,13 +198,59 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Theomaa?", "Theomaa is a bouyon singer from the Guadeloupe scene, known as the creative partner of 1T1. In December 2025, CCN, Caraib Creole News, named him among the most emblematic bouyon artists of the moment in Guadeloupe, with Lejuh, 1T1, Piscine OSP, Aknose and Shanika. No full name or date of birth was published in the verified sources, so this site prints none."),
-  ("What did Theomaa win at the Caribbean Music Awards?", "Two awards, with 1T1, at the fourth Caribbean Music Awards, on 19 September in Port of Spain, Trinidad and Tobago. “Bouwéy” won Bouyon Song of the Year, and “Ouba” won French Caribbean Song of the Year. Theomaa was also announced among the performers on stage at that edition."),
-  ("Did Theomaa write “Bouwéy” and “Ouba”?", "Yes, according to the official credits published under the videos. “Bouwéy”, taken from the 1T1 CHORD EP released on 13 December 2024, was composed by 1T1 and Dinho and written by 1T1 and Theomaa. “Ouba”, released on 5 December 2025, was composed by Qwann and 1T1 and written by 1T1 and Theomaa. On both winning records of the duet, Theomaa is therefore co-writer of the lyrics, not only a guest singer."),
-  ("What is the first known record by Theomaa?", "“Wa wa waaw”, with 1T1, dated 2022 in the platform catalogues. The AB BOYZ Music label presents that record as the one through which 1T1 became known to the wider public, revealing the bouyon style. The record still ranks among the most searched records of both artists on Shazam years after its release."),
-  ("Is “Bouwéy” certified gold single in France?", "Social media posts present “Bouwéy” as a gold single certified by the SNEP. During the research for this profile, no confirmation was found in the official SNEP sources consulted, so this site does not present that certification as verified. The established facts are the December 2024 CHORD EP, the record No. 48 position on the Shazam global chart in spring 2025, and its Bouyon Song of the Year win at the 2026 Caribbean Music Awards."),
-  ("Does Theomaa have a solo project?", "No solo project, album or EP, by Theomaa was published in the verified sources consulted for this profile. His documented work is collective: the duet with 1T1, the records of the gwada circle with Lejuh, Aknose and Binksdrick, and the “New Bouyon Wave #1” session by D0 Production of 29 September 2023, with Tiitii NBA, Nils, Dj Softee and Aknose. If a solo project is released, this profile will be completed and dated.")
- ],
+  (
+    "Who is Theomaa?",
+    "Theomaa is a bouyon singer from the Guadeloupe scene, known as the creative partner of 1T1. In December 2025, CCN, Caraib Creole News, named him among the most emblematic bouyon artists of the moment in Guadeloupe, with Lejuh, 1T1, Piscine OSP, Aknose and Shanika. No full name or date of birth was published in the verified sources, so this site prints none.",
+  ),
+  (
+    "Where is Theomaa from?",
+    "Theomaa belongs to the bouyon gwada scene, the Guadeloupe branch of the genre, sung in Creole over electronic beats. It is in Guadeloupe that CCN ranks him among the most emblematic bouyon artists of the moment, and his records are signed with the voices of that same circle. No birthplace is published in the verified sources, and this profile prints none.",
+  ),
+  (
+    "What is the link between Theomaa and 1T1?",
+    "Theomaa is 1T1’s most constant partner: together they signed “Wa wa waaw”, “Piney” with Lejuh, “PnL (Piney)”, “Gasolina”, then “Bouwéy” and “Ouba”, whose lyrics Theomaa co-wrote. The label AB BOYZ Music even starts 1T1’s public story with their shared record. For his partner’s path, see our <a href=\"/en/1t1.html\">1T1</a> profile.",
+  ),
+  (
+    "What is the first known record by Theomaa?",
+    "“Wa wa waaw”, with 1T1, dated 2022 in the platform catalogues. The AB BOYZ Music label presents that record as the one through which 1T1 became known to the wider public, revealing the bouyon style. The record still ranks among the most searched records of both artists on Shazam years after its release, and it still ran in carnival mixes.",
+  ),
+  (
+    "Did Theomaa write “Bouwéy” and “Ouba”?",
+    "Yes, according to the official credits published under the videos. “Bouwéy”, from 1T1’s “CHORD” EP released on 13 December 2024, was written by 1T1 and Theomaa. “Ouba”, released on 5 December 2025, was composed by Qwann and 1T1 and written by 1T1 and Theomaa. On both winning records of the duo, Theomaa is therefore co-writer of the lyrics, not only a guest singer.",
+  ),
+  (
+    "Who produced “Bouwéy” by 1T1 and Theomaa?",
+    "According to the credits published under the official video, “Bouwéy” was composed by 1T1 and Dinho, recorded by 1T1, mixed by Jbreazy and mastered by PM Studio, on lyrics by 1T1 and Theomaa. The record came out on 13 December 2024 on the “CHORD” EP, released by 1T1 and AB BOYZ MUSIC. The same mixer, Jbreazy, also mixed “Ouba” a year later.",
+  ),
+  (
+    "How did “Bouwéy” chart?",
+    "According to Shazam’s artist pages, “Bouwéy” reached No. 48 on the Shazam global chart, entering the Top 50 on 22 March 2025 and staying 7 days in that Top 50, with close to one million searches. In April 2025, the record also appeared in the trending bouyon and soca song lists of the English speaking soca press, alongside records from Dominica.",
+  ),
+  (
+    "Is “Bouwéy” a certified gold single in France?",
+    "That is not confirmed. Social media posts present it as a SNEP gold single, but no confirmation was found in the official SNEP sources consulted, so this site does not present that certification as verified. The established facts are the December 2024 “CHORD” EP, the No. 48 position on the Shazam global chart in spring 2025 and the 2026 Caribbean Music Awards win.",
+  ),
+  (
+    "What did Theomaa win at the Caribbean Music Awards?",
+    "Two awards, with 1T1, at the fourth Caribbean Music Awards, on 19 September 2026 in Port of Spain, Trinidad and Tobago. “Bouwéy” won Bouyon Song of the Year, and “Ouba” won French Caribbean Song of the Year. Theomaa was also announced in the first wave of performers on stage at that edition.",
+  ),
+  (
+    "What is “New Bouyon Wave #1” with Theomaa?",
+    "It is a collective session by D0 Production, released on 29 September 2023 by 2873529 Records DK according to Shazam, at 160 BPM. It brings together Tiitii NBA, Nils, Dj Softee, Aknose and Theomaa around a program stated in its title: a new bouyon wave. His presence there confirms that Theomaa counts among the voices chosen to embody the renewal of the genre in Guadeloupe, beyond the duo with 1T1.",
+  ),
+  (
+    "Which artists has Theomaa worked with?",
+    "Mostly with the bouyon gwada circle. “Piney” brings together 1T1, Theomaa and Lejuh; “Mas La Rivé”, on 12 January 2024, lines up nine names including Aknose, DJ Softee, Bismok and Lejuh; “Party Rocking” brings together 1T1, Theomaa and RvF; “Leave Me Alone”, on 6 September 2024, joins 1T1, Dinho, Lejuh, Theomaa and Binksdrick. Viberate also lists “Baddest”, in 2025, with Matieu White and 1T1.",
+  ),
+  (
+    "Does Theomaa have a solo project?",
+    "No solo project, album or EP, by Theomaa was published in the verified sources consulted for this profile. His documented work is collective: the duo with 1T1, the records of the gwada circle with Lejuh, Aknose and Binksdrick, and the 2023 “New Bouyon Wave #1” session. That is not a gap but the shape of today’s bouyon gwada, made of shared hooks and crossing credits.",
+  ),
+  (
+    "Where can I hear Theomaa?",
+    "On the platforms, following the order of his path: “Wa wa waaw” for the arrival of the duo, “Mas La Rivé” and “Leave Me Alone” for the collective, “Bouwéy” for the “CHORD” EP, then “Ouba”, awarded in 2026. To hear today’s bouyon scene, from Dominica to Guadeloupe, the <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix playlist</a> by Bouyon Shattaz gathers new music of the genre.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/theomaa.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/theomaa.html#artist", "name": "Theomaa", "description": "Bouyon singer from the Guadeloupe scene, creative partner of 1T1. Co-writer and singer of Bouwéy and Ouba, Bouyon Song of the Year and French Caribbean Song of the Year at the 2026 Caribbean Music Awards.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bouwéy"}, {"@type": "MusicRecording", "name": "Ouba"}, {"@type": "MusicRecording", "name": "Wa wa Waaaw"}, {"@type": "MusicRecording", "name": "Leave Me Alone"}, {"@type": "MusicRecording", "name": "Mas La Rivé"}, {"@type": "MusicRecording", "name": "Piney"}, {"@type": "MusicRecording", "name": "Gasolina"}, {"@type": "MusicRecording", "name": "Party Rocking"}, {"@type": "MusicRecording", "name": "New Bouyon Wave #1"}, {"@type": "MusicRecording", "name": "Baddest"},
       {
        "@type": "MusicRecording",

@@ -80,13 +80,63 @@ FR = {
   ]
  ],
  "faq": [
-  ("L'ingénieur Bertist Jeffers et l'artiste Khallion sont-ils la même personne ?", "Oui, selon les crédits publiés. Les crédits complets du titre « Baby Let Me » de DeeArr nomment au mixage et au mastering Bertist « Khallion » Jeffers, accolant le nom complet au nom de scène. Le même nom de scène est crédité au mastering de « Back Up Your Chat » d'Ebony Empress et Foxy Jael en 2026, et l'artiste Khallion parle de la production comme de son propre métier dans son entretien à Soca Chronicles. Ce site présente donc l'ingénieur et l'artiste comme une seule et même personne, en montrant les pièces du dossier."),
-  ("Quelle est la plus grande collaboration de Khallion ?", "« Stand Up », le single de 2026 qui réunit Konshens, Khallion, DeeArr et Boogy Rankss, documenté par la biographie de Konshens chez AllMusic et par la page artiste de Konshens sur Shazam. Partager un titre avec la star jamaïcaine du dancehall place l'artiste bouyon dominicain sur une scène régionale qui dépasse largement son île."),
-  ("Quel album Khallion a-t-il publié ?", "« 777 Di Bouyon Rockstar », sorti en 2025 selon les services de données musicales qui suivent son catalogue. Le format album est un choix revendiqué : dans Soca Chronicles, Khallion explique préférer construire des albums plutôt que des singles isolés."),
-  ("Pourquoi Khallion s'est-il éloigné de la musique ?", "À cause d'un accident qui a fait dérailler sa carrière, selon le récit qu'il en fait lui-même dans l'épisode « The Road to Success: Khallion » de Soca Chronicles, publié le 26 juin 2026. L'épisode décrit un arrêt forcé, le rôle du suivi psychologique, puis une reconstruction complète de sa direction avec un nouvel état d'esprit. Les détails que l'artiste n'a pas rendus publics ne sont pas inventés ici."),
-  ("Khallion a-t-il été nommé aux Caribbean Music Awards ?", "Oui. La liste des artistes bouyon dominicains nommés pour l'édition 2026, publiée à l'occasion du parrainage des catégories bouyon par le gouvernement de la Dominique, comprend Khallion aux côtés d'Asa Bantan, Dirty Dawg Pudaz, Mr. Ridge, Reo, Shelly & Signal Band, Trilla G et Shiloh. Les nominations couvrent les catégories Artiste bouyon de l'année et Chanson bouyon de l'année."),
-  ("Où écouter Khallion ?", "Commencez par « Stand Up », « Put That On That » et « Bend Down ». Audiomack Caribbean affiche Khallion en couverture de sa playlist Discover: Bouyon, et notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> place ses titres dans le contexte de la nouvelle génération dominicaine.")
- ],
+  (
+    "L'ingénieur Bertist Jeffers et l'artiste Khallion sont-ils la même personne ?",
+    "Oui, selon les crédits publiés. Les crédits complets de « Baby Let Me » de DeeArr nomment au mixage et au mastering Bertist « Khallion » Jeffers, accolant le nom complet au nom de scène. Le même nom de scène signe le mastering de « Back Up Your Chat » d'Ebony Empress et Foxy Jael en 2026, et l'artiste parle de la production comme de son propre métier dans son entretien à Soca Chronicles.",
+  ),
+  (
+    "Quelle est la plus grande collaboration de Khallion ?",
+    "« Stand Up », le single de 2026 qui réunit Konshens, Khallion, DeeArr et Boogy Rankss, documenté par la biographie de Konshens chez AllMusic et par la page artiste de Konshens sur Shazam. Partager un titre avec la star jamaïcaine du dancehall place l'artiste bouyon dominicain sur une scène régionale qui dépasse largement son île.",
+  ),
+  (
+    "Quel album Khallion a-t-il publié ?",
+    "« 777 Di Bouyon Rockstar », sorti en 2025 selon les services de données musicales qui suivent son catalogue. Le format album est un choix revendiqué : dans Soca Chronicles, Khallion explique préférer construire des albums plutôt que des singles isolés, là où la scène bouyon travaille le plus souvent single par single et riddim par riddim.",
+  ),
+  (
+    "Pourquoi Khallion s'est-il éloigné de la musique ?",
+    "À cause d'un accident qui a fait dérailler sa carrière, selon le récit qu'il en fait lui-même dans l'épisode « The Road to Success: Khallion » de Soca Chronicles, publié le 26 juin 2026. L'épisode décrit un arrêt forcé, le rôle du suivi psychologique, puis une reconstruction complète de sa direction avec un nouvel état d'esprit. Les détails que l'artiste n'a pas rendus publics ne sont pas inventés ici.",
+  ),
+  (
+    "Khallion a-t-il été nommé aux Caribbean Music Awards ?",
+    "Oui. La liste des artistes bouyon dominicains nommés pour l'édition 2026 comprend Khallion aux côtés d'Asa Bantan, Dirty Dawg Pudaz, Mr. Ridge, Reo, Shelly & Signal Band, Trilla G et Shiloh, dans les catégories Artiste bouyon de l'année et Chanson bouyon de l'année. La cérémonie s'est tenue le 19 septembre 2026 à Port of Spain, et le titre d'Artiste bouyon de l'année est revenu à Mr. Ridge.",
+  ),
+  (
+    "Où écouter Khallion ?",
+    "Commencez par « Stand Up », « Put That On That » et « Bend Down », puis l'album « 777 Di Bouyon Rockstar ». Audiomack Caribbean affiche Khallion en couverture de sa playlist Discover: Bouyon dans sa mise à jour du 24 septembre 2026, et notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> place ses titres dans le contexte de la nouvelle génération dominicaine.",
+  ),
+  (
+    "Qui est Khallion ?",
+    "Khallion est un artiste bouyon de la Dominique qui occupe deux places dans les crédits : celle de l'interprète, avec l'album « 777 Di Bouyon Rockstar » et une série de singles, et celle de l'ingénieur qui mixe et masterise les disques des autres. En 2026, il partage le single « Stand Up » avec Konshens, DeeArr et Boogy Rankss, et figure parmi les nommés bouyon des Caribbean Music Awards.",
+  ),
+  (
+    "Khallion vient-il de la Dominique ou des États-Unis ?",
+    "Les sources dominicaines et régionales présentent Khallion comme un artiste de la Dominique, et c'est ainsi que ce site le présente. Une plateforme internationale d'analyse musicale le classe pourtant parmi les musiciens reggae et dancehall basés aux États-Unis. Plus qu'une contradiction, les deux classements décrivent une réalité bien connue de la musique dominicaine : ses artistes vivent souvent entre l'île et sa diaspora.",
+  ),
+  (
+    "Qu'est-ce que KhallioNation Records ?",
+    "C'est le label de Khallion, dont la mention © KhallioNation Records accompagne ses sorties de 2026. Les descriptions officielles de ses clips annoncent sous ce label « I Choose You », avec Stain, et « Not A Word », avec Jasse et Gwada G, deux titres classés bouyon 2026. L'artiste qui dénonçait le manque de structures a fini par bâtir la sienne, jusqu'à l'empreinte de label.",
+  ),
+  (
+    "Quels titres Khallion a-t-il mixés ou masterisés ?",
+    "Deux crédits d'ingénieur sont publiés. Sur « Baby Let Me » de DeeArr, produit par ProdByShako, Bertist « Khallion » Jeffers signe le mixage et le mastering. Sur « Back Up Your Chat » d'Ebony Empress avec Foxy Jael, produit par YoJoshii et Yung Pierre, mixé par Cleverns Pierre et enregistré au Felix Studio, Black Island Girl crédite le mastering à Khallion.",
+  ),
+  (
+    "Quelles sont les meilleures chansons de Khallion ?",
+    "Ses titres repérés vont de « Sorry, Ain't Sorry » (2024) à la salve de 2025 : « Put That On That », aussi remixé avec Stalk Ashley, « Bend Down » avec Green Apple, « I Know They Hating » et « Only You ». Ses titres les plus joués comptent aussi « Never Wanna Let You Go », « Rose Zing Zing », « Nobody Else » et « How To Love » avec Nailah Blackman.",
+  ),
+  (
+    "Khallion a-t-il joué au Bouyon Festival de Saint-Martin ?",
+    "Oui. En mai 2025, la première édition du Bouyon Festival, à St. Maarten, l'a programmé avec Pudaz, Litle Boy, Quandan, Freddy, Reo, Nice, Kenny G, Trilla G, Trixx, Unstoppable Shax et Edday, Mr Ridge clôturant la soirée. Black Island Girl a retenu la pluie, le public qui a dansé quand même et le message des organisateurs : le bouyon n'est plus seulement une affaire dominicaine.",
+  ),
+  (
+    "Que pense Khallion de la rivalité entre bouyon et soca ?",
+    "Pour Khallion, la guerre des genres entre bouyon et soca freine toute la région. Dans l'épisode de Soca Chronicles qui lui est consacré, il dénonce aussi le manque de soutien aux artistes et d'esprit d'entreprise, et explique construire sa propre voie plutôt que d'attendre une structure. Ce programme explique la forme de son catalogue : des albums, un label à lui, et des collaborations régionales.",
+  ),
+  (
+    "Quel est le prochain projet de Khallion ?",
+    "Un nouvel album en préparation, et des expériences autour d'un mélange de bouyon et de kompa, annoncés dans son entretien à Soca Chronicles. Le kompa est l'autre grande machine à danser de la Caraïbe francophone : en travaillant la jonction des deux, Khallion se place là où le bouyon a toujours grandi, dans la rencontre entre l'île et ses voisins. Ce profil suivra la sortie quand elle sera documentée.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/khallion.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/khallion.html#artist", "name": "Khallion", "description": "Artiste bouyon de la Dominique et ingénieur de mixage et de mastering. Les crédits publiés donnent son nom complet : Bertist Khallion Jeffers. Artiste sur le single Stand Up de Konshens en 2026, auteur de l'album 777 Di Bouyon Rockstar (2025), nommé aux Caribbean Music Awards 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Stand Up'}, {"@type": "MusicRecording", "name": 'Put That On That'}, {"@type": "MusicRecording", "name": 'Bend Down'}, {"@type": "MusicRecording", "name": 'Nobody Else'}, {"@type": "MusicRecording", "name": 'Only You'}, {"@type": "MusicRecording", "name": 'Never Wanna Let You Go'}, {"@type": "MusicRecording", "name": 'Rose Zing Zing'}, {"@type": "MusicRecording", "name": 'How To Love'}, {"@type": "MusicRecording", "name": 'I Know They Hating'}, {"@type": "MusicRecording", "name": "Sorry, Ain't Sorry"}, {"@type": "MusicRecording", "name": 'I Choose You'}, {"@type": "MusicRecording", "name": 'Not A Word'},
       {
        "@type": "MusicRecording",
@@ -581,13 +631,63 @@ EN = {
   ]
  ],
  "faq": [
-  ("Are the engineer Bertist Jeffers and the artist Khallion the same person?", "Yes, according to the published credits. The full credits of DeeArr record “Baby Let Me” name Bertist “Khallion” Jeffers on mix and master, setting the full name against the stage name. The same stage name is credited with the mastering of “Back Up Your Chat” by Ebony Empress and Foxy Jael in 2026, and the artist Khallion speaks about production as his own craft in his Soca Chronicles interview. This site therefore presents the engineer and the artist as one and the same person, showing the documents the conclusion rests on."),
-  ("What is Khallion biggest collaboration?", "“Stand Up”, the 2026 single that brings together Konshens, Khallion, DeeArr and Boogy Rankss, documented by the Konshens biography at AllMusic and by the Konshens artist page on Shazam. Sharing a record with the Jamaican dancehall star places the Dominican bouyon artist on a regional stage far beyond his island."),
-  ("What album has Khallion released?", "“777 Di Bouyon Rockstar”, released in 2025 according to the music data services that track his catalogue. The album format is a stated choice: on Soca Chronicles, Khallion explains that he prefers building albums rather than isolated singles."),
-  ("Why did Khallion step away from music?", "Because of an accident that derailed his career, according to the account he gives himself in the Soca Chronicles episode “The Road to Success: Khallion”, published on June 26, 2026. The episode describes a forced stop, the role of counseling, then a complete rebuild of his direction with a new mindset. Details the artist has not made public are not invented here."),
-  ("Was Khallion nominated at the Caribbean Music Awards?", "Yes. The list of Dominican bouyon artistes nominated for the 2026 edition, published with the Government of Dominica sponsorship of the bouyon categories, includes Khallion alongside Asa Bantan, Dirty Dawg Pudaz, Mr. Ridge, Reo, Shelly & Signal Band, Trilla G and Shiloh. The nominations span the Bouyon Artist of the Year and Bouyon Song of the Year categories."),
-  ("Where can I hear Khallion?", "Start with “Stand Up”, “Put That On That” and “Bend Down”. Audiomack Caribbean shows Khallion as the cover artist of its Discover: Bouyon playlist, and our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> places his records in the context of the new Dominican generation.")
- ],
+  (
+    "Are the engineer Bertist Jeffers and the artist Khallion the same person?",
+    "Yes, according to the published credits. The full credits of DeeArr record “Baby Let Me” name Bertist “Khallion” Jeffers on mix and master, setting the full name against the stage name. The same stage name is credited with the mastering of “Back Up Your Chat” by Ebony Empress and Foxy Jael in 2026, and the artist speaks about production as his own craft in his Soca Chronicles interview.",
+  ),
+  (
+    "What is Khallion biggest collaboration?",
+    "“Stand Up”, the 2026 single that brings together Konshens, Khallion, DeeArr and Boogy Rankss, documented by the Konshens biography at AllMusic and by the Konshens artist page on Shazam. Sharing a record with the Jamaican dancehall star places the Dominican bouyon artist on a regional stage far beyond his island.",
+  ),
+  (
+    "What album has Khallion released?",
+    "“777 Di Bouyon Rockstar”, released in 2025 according to the music data services that track his catalogue. The album format is a stated choice: on Soca Chronicles, Khallion explains that he prefers building albums rather than isolated singles, where the bouyon scene most often works single by single and riddim by riddim.",
+  ),
+  (
+    "Why did Khallion step away from music?",
+    "Because of an accident that derailed his career, according to the account he gives himself in the Soca Chronicles episode “The Road to Success: Khallion”, published on June 26, 2026. The episode describes a forced stop, the role of counseling, then a complete rebuild of his direction with a new mindset. Details the artist has not made public are not invented here.",
+  ),
+  (
+    "Was Khallion nominated at the Caribbean Music Awards?",
+    "Yes. The list of Dominican bouyon artistes nominated for the 2026 edition includes Khallion alongside Asa Bantan, Dirty Dawg Pudaz, Mr. Ridge, Reo, Shelly & Signal Band, Trilla G and Shiloh, across the Bouyon Artist of the Year and Bouyon Song of the Year categories. The ceremony took place on September 19, 2026 in Port of Spain, and Bouyon Artist of the Year went to Mr. Ridge.",
+  ),
+  (
+    "Where can I hear Khallion?",
+    "Start with “Stand Up”, “Put That On That” and “Bend Down”, then the album “777 Di Bouyon Rockstar”. Audiomack Caribbean shows Khallion as the cover artist of its Discover: Bouyon playlist in its September 24, 2026 update, and our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> places his records in the context of the new Dominican generation.",
+  ),
+  (
+    "Who is Khallion?",
+    "Khallion is a bouyon artist from Dominica who sits in two chairs of the credits: the recording artist, with the album “777 Di Bouyon Rockstar” and a run of singles, and the engineer who mixes and masters other people's records. In 2026 he shares the single “Stand Up” with Konshens, DeeArr and Boogy Rankss, and stands among the bouyon nominees at the Caribbean Music Awards.",
+  ),
+  (
+    "Is Khallion from Dominica or the United States?",
+    "Dominican and regional sources present Khallion as an artist from Dominica, and that is how this site presents him. One international music analytics platform, however, files him among reggae and dancehall musicians based in the United States. Rather than a contradiction, the two filings describe a reality Dominican music knows well: its artists often live between the island and its diaspora.",
+  ),
+  (
+    "What is KhallioNation Records?",
+    "It is Khallion's own label, whose line © KhallioNation Records comes with his 2026 releases. The official descriptions of his videos announce under that imprint “I Choose You”, with Stain, and “Not A Word”, with Jasse and Gwada G, two records filed as bouyon 2026. The artist who called out the absence of structure ended up building his own, right down to the label imprint.",
+  ),
+  (
+    "Which records has Khallion mixed or mastered?",
+    "Two engineering credits are published. On DeeArr “Baby Let Me”, produced by ProdByShako, Bertist “Khallion” Jeffers signs mix and master. On “Back Up Your Chat” by Ebony Empress featuring Foxy Jael, produced by YoJoshii and Yung Pierre, mixed by Cleverns Pierre and recorded at Felix Studio, Black Island Girl credits the mastering to Khallion.",
+  ),
+  (
+    "What are Khallion's best songs?",
+    "His tracked records run from “Sorry, Ain't Sorry” (2024) to the 2025 volley: “Put That On That”, extended by a remix with Jamaican artist Stalk Ashley, “Bend Down” with Green Apple, “I Know They Hating” and “Only You”. The lists of his most played records add “Never Wanna Let You Go”, “Rose Zing Zing”, “Nobody Else” and “How To Love” with Nailah Blackman.",
+  ),
+  (
+    "Did Khallion play the Bouyon Festival in St. Maarten?",
+    "Yes. In May 2025, the first edition of the Bouyon Festival, in St. Maarten, lined him up with Pudaz, Litle Boy, Quandan, Freddy, Reo, Nice, Kenny G, Trilla G, Trixx, Unstoppable Shax and Edday, with Mr Ridge closing. Black Island Girl kept the rain, the crowd that danced anyway and the organisers message: bouyon is no longer only a Dominica thing.",
+  ),
+  (
+    "What does Khallion think about the bouyon versus soca rivalry?",
+    "For Khallion, genre fighting between bouyon and soca holds the whole region back. In the Soca Chronicles episode devoted to him, he also calls out the lack of artist support and of a business mindset, and explains that he builds his own lane rather than waiting for a structure. That programme explains the shape of his catalogue: albums, his own label and regional collaborations.",
+  ),
+  (
+    "What is Khallion working on next?",
+    "A new album in preparation, and experiments around a blend of bouyon and kompa, announced in his Soca Chronicles interview. Kompa is the other great dancefloor machine of the French-speaking Caribbean: by working the join between the two, Khallion places himself where bouyon has always grown, in the meeting between the island and its neighbours. This profile will follow that release when it is documented.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/khallion.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/khallion.html#artist", "name": "Khallion", "description": "Bouyon artist from Dominica and mix and master engineer. Published credits give his full name as Bertist Khallion Jeffers. Artist on the 2026 Konshens single Stand Up, author of the album 777 Di Bouyon Rockstar (2025), nominated at the 2026 Caribbean Music Awards.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Stand Up'}, {"@type": "MusicRecording", "name": 'Put That On That'}, {"@type": "MusicRecording", "name": 'Bend Down'}, {"@type": "MusicRecording", "name": 'Nobody Else'}, {"@type": "MusicRecording", "name": 'Only You'}, {"@type": "MusicRecording", "name": 'Never Wanna Let You Go'}, {"@type": "MusicRecording", "name": 'Rose Zing Zing'}, {"@type": "MusicRecording", "name": 'How To Love'}, {"@type": "MusicRecording", "name": 'I Know They Hating'}, {"@type": "MusicRecording", "name": "Sorry, Ain't Sorry"}, {"@type": "MusicRecording", "name": 'I Choose You'}, {"@type": "MusicRecording", "name": 'Not A Word'},
       {
        "@type": "MusicRecording",

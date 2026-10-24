@@ -105,13 +105,51 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Laka ?", "Laka est le nom en tête d’affiche de « BAISE-MOI », une session bouyon collective sortie le 22 novembre 2023 sous le label LAKA, avec huit invités et treize auteurs crédités. Aucune biographie publique ne documente son nom complet, son origine ou son parcours, et ce profil le dit ouvertement."),
-  ("Qu’est-ce que « BAISE-MOI » ?", "« BAISE-MOI » est un single de Laka sorti le 22 novembre 2023, en français, à 160 BPM, qui crédite huit invités : Riko, Le bluff, Tgx, Billy Bybf, PIXOU, Le daah, WAYSEE et Team Bwè Tou Sa. Sa fiche comptait 433 identifications Shazam au moment de son ouverture pour ce profil."),
-  ("Quels sont les titres vérifiés de Laka ?", "Deux traces : « BAISE-MOI », en artiste principal, et « Manigans », un titre de Ti Toto où Laka figure en invité, listé parmi les titres les plus écoutés de Laka sur la fiche ouverte de « BAISE-MOI ». Aucune fiche propre à « Manigans » n’a été retrouvée : ni sa date, ni son label, ni ses crédits ne sont vérifiés."),
-  ("Quel est le lien entre Laka et Team Bwè Tou Sa ?", "Team Bwè Tou Sa est invité sur « BAISE-MOI », et son noyau d’écriture documenté, Nicolas MACBETH, Ludmilian FLOWER et Terry BAPTISTE, crédités sur « Game Over » du collectif en 2022, figure parmi les treize auteurs du titre de Laka. La session est donc documentée comme un titre du cercle du collectif, accueilli sous le nom de Laka."),
-  ("Laka est il le chanteur bosniaque de l’Eurovision ?", "Non. Le Laka le plus visible sur le web est Elvir Laković, chanteur bosniaque originaire de Goražde, représentant de la Bosnie à l’Eurovision 2008. C’est un homonyme sans lien documenté avec l’artiste de « BAISE-MOI », que les sources consultées situent uniquement dans le réseau bouyon des Antilles françaises, sans publier son origine personnelle."),
-  ("Où écouter Laka et le bouyon de sa scène ?", "Écoutez « BAISE-MOI » sur les plateformes, puis les titres de <a href=\"/team-bwe-tou-sa.html\">Team Bwè Tou Sa</a> et de <a href=\"/le-bluff.html\">Le Bluff</a>, et notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, qui suit la scène guadeloupéenne et antillaise actuelle.")
- ],
+  (
+    "Qui est Laka ?",
+    "Laka est le nom en tête d’affiche de « BAISE-MOI », une session bouyon collective sortie le 22 novembre 2023 sous le label LAKA, avec huit invités et treize auteurs crédités. Aucune biographie publique ne documente son nom complet, son origine ou son parcours, et ce profil le dit ouvertement.",
+  ),
+  (
+    "Qu’est-ce que « BAISE-MOI » ?",
+    "« BAISE-MOI » est un single de Laka sorti le 22 novembre 2023, en français, à 160 BPM, qui crédite huit invités : Riko, Le bluff, Tgx, Billy Bybf, PIXOU, Le daah, WAYSEE et Team Bwè Tou Sa. Sa fiche comptait 433 identifications Shazam au moment de son ouverture pour ce profil.",
+  ),
+  (
+    "Qui a écrit « BAISE-MOI » de Laka ?",
+    "La fiche nomme treize auteurs : Marvin MAYOUTE, Queency Treyvor SOLVAR, Emmanuel PEREC, kerane landre, Yohan corneille, Fabien AURELA, Ludmilian FLOWER, Malric Lambert, Nicolas MACBETH, Daryl Biabiany, Terry BAPTISTE, ryan auguste et Ulrich Flower. Le nom de Laka n’y figure pas tel quel, et aucune source ne dit si l’un de ces noms est le sien. Aucun crédit de production séparé n’est publié.",
+  ),
+  (
+    "Qu’est-ce qu’une session bouyon collective comme « BAISE-MOI » ?",
+    "C’est un titre où un nom hôte rassemble les voix d’un même circuit le temps d’un morceau. Dans ce format, chaque voix écrit en général sa partie, et la liste des auteurs épouse celle des participants et de leur entourage de studio : d’où les huit invités et les treize auteurs de « BAISE-MOI », réunis sous le nom de Laka, à 160 BPM, le tempo des titres de soirée.",
+  ),
+  (
+    "Quels sont les titres vérifiés de Laka ?",
+    "Deux traces : « BAISE-MOI », en artiste principal, et « Manigans », un titre de Ti Toto où Laka figure en invité, listé parmi les titres les plus écoutés de Laka sur la fiche ouverte de « BAISE-MOI ». Aucune fiche propre à « Manigans » n’a été retrouvée : ni sa date, ni son label, ni ses crédits ne sont vérifiés.",
+  ),
+  (
+    "Quel est le lien entre Laka et Team Bwè Tou Sa ?",
+    "Team Bwè Tou Sa est invité sur « BAISE-MOI », et son noyau d’écriture documenté, Nicolas MACBETH, Ludmilian FLOWER et Terry BAPTISTE, crédités sur « Game Over » du collectif en 2022, figure parmi les treize auteurs du titre de Laka. La session est donc documentée comme un titre du cercle du collectif, accueilli sous le nom de Laka. Voir la page de la <a href=\"/team-bwe-tou-sa.html\">Team Bwè Tou Sa</a>.",
+  ),
+  (
+    "Quel est le lien entre Laka et Le Bluff ?",
+    "Le Bluff est l’un des huit invités de « BAISE-MOI », et son profil sur ce site compte cette session parmi ses quatre traces vérifiées de 2023, en la classant dans la scène bouyon guadeloupéenne. L’un des auteurs du titre, kerane landre, correspond par sa graphie au Keran Landre crédité sur « VIN TCHEK NOU » de Lewismelo, documenté dans le même profil. Voir notre page <a href=\"/le-bluff.html\">Le Bluff</a>.",
+  ),
+  (
+    "Sur quel label sort Laka ?",
+    "« BAISE-MOI » paraît sous le label LAKA, qui porte le même nom que l’artiste. Dans l’état des documents, la sortie se présente donc sous la propre enseigne du nom qui l’accueille, le schéma ordinaire des sorties indépendantes de la scène bouyon des Antilles. Aucun autre titre en nom principal n’a été retrouvé sous cette enseigne.",
+  ),
+  (
+    "Laka est il le chanteur bosniaque de l’Eurovision ?",
+    "Non. Le Laka le plus visible sur le web est Elvir Laković, chanteur bosniaque originaire de Goražde, représentant de la Bosnie à l’Eurovision 2008. C’est un homonyme sans lien documenté avec l’artiste de « BAISE-MOI », que les sources consultées situent uniquement dans le réseau bouyon des Antilles françaises, sans publier son origine personnelle.",
+  ),
+  (
+    "Laka est-il Laurent Laka, le chanteur de kompa ?",
+    "Non, selon les documents ouverts. Laurent Laka est un chanteur de kompa associé à l’univers Kompalaka, sur une autre scène. Les mêmes recherches croisent aussi un Liki Laka dans la musique africaine et de nombreux projets nommés Laïka. Aucun n’est l’artiste de « BAISE-MOI », et ce profil ne fusionne ni leurs biographies, ni leurs catalogues avec ce dossier.",
+  ),
+  (
+    "Où écouter Laka et le bouyon de sa scène ?",
+    "Écoutez « BAISE-MOI » sur les plateformes, puis les titres de Team Bwè Tou Sa et de Le Bluff, au cœur de la session. Pour la scène bouyon actuelle, de la Guadeloupe à la Dominique, notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> Road Mix de Bouyon Shattaz réunit nouveautés et classiques du carnaval.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/laka.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/laka.html#artist", "name": "Laka", "description": "Nom en tête d’affiche de la session bouyon BAISE-MOI, single sorti le 22 novembre 2023 sous le label LAKA, avec huit invités et treize auteurs crédités, dont le noyau d’écriture de Team Bwè Tou Sa. Deuxième trace : Manigans, de Ti Toto, avec Laka en invité. Aucune biographie ni origine publiée retrouvée en octobre 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'BAISE-MOI'}, {"@type": "MusicRecording", "name": 'Manigans'}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -180,13 +218,51 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Laka?", "Laka is the lead name on “BAISE-MOI”, a collective bouyon session released on November 22, 2023 on the label LAKA, with eight guests and thirteen credited writers. No public biography documents his full name, his origin or his path, and this profile says so openly."),
-  ("What is “BAISE-MOI”?", "“BAISE-MOI” is a single by Laka released on November 22, 2023, in French, at 160 BPM, crediting eight guests: Riko, Le bluff, Tgx, Billy Bybf, PIXOU, Le daah, WAYSEE and Team Bwè Tou Sa. Its page counted 433 Shazam identifications when it was opened for this profile."),
-  ("What are the verified records of Laka?", "Two traces: “BAISE-MOI”, as lead artist, and “Manigans”, a record by Ti Toto on which Laka appears as a guest, listed among the top songs of Laka on the opened “BAISE-MOI” page. No page of its own for “Manigans” was found: neither its date, nor its label, nor its credits are verified."),
-  ("What is the link between Laka and Team Bwè Tou Sa?", "Team Bwè Tou Sa is a guest on “BAISE-MOI”, and its documented writing core, Nicolas MACBETH, Ludmilian FLOWER and Terry BAPTISTE, credited on the collective record “Game Over” in 2022, appears among the thirteen writers of the Laka record. The session is therefore documented as a record of the collective circle, hosted under the name of Laka."),
-  ("Is Laka the Bosnian singer from Eurovision?", "No. The most visible Laka on the web is Elvir Laković, a Bosnian singer from Goražde, the Bosnian entrant at Eurovision 2008. He is a namesake with no documented link to the artist of “BAISE-MOI”, whom the sources consulted place only in the bouyon network of the French Antilles, without publishing his personal origin."),
-  ("Where can I hear Laka and the bouyon of his scene?", "Hear “BAISE-MOI” on the platforms, then the records of <a href=\"/en/team-bwe-tou-sa.html\">Team Bwè Tou Sa</a> and <a href=\"/en/le-bluff.html\">Le Bluff</a>, and our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, which follows the current Guadeloupe and Antilles scene.")
- ],
+  (
+    "Who is Laka?",
+    "Laka is the lead name on “BAISE-MOI”, a collective bouyon session released on November 22, 2023 on the label LAKA, with eight guests and thirteen credited writers. No public biography documents his full name, his origin or his path, and this profile says so openly.",
+  ),
+  (
+    "What is “BAISE-MOI”?",
+    "“BAISE-MOI” is a single by Laka released on November 22, 2023, in French, at 160 BPM, crediting eight guests: Riko, Le bluff, Tgx, Billy Bybf, PIXOU, Le daah, WAYSEE and Team Bwè Tou Sa. Its page counted 433 Shazam identifications when it was opened for this profile.",
+  ),
+  (
+    "Who wrote “BAISE-MOI” by Laka?",
+    "The page names thirteen writers: Marvin MAYOUTE, Queency Treyvor SOLVAR, Emmanuel PEREC, kerane landre, Yohan corneille, Fabien AURELA, Ludmilian FLOWER, Malric Lambert, Nicolas MACBETH, Daryl Biabiany, Terry BAPTISTE, ryan auguste and Ulrich Flower. The name Laka does not appear as such among them, and no source says whether one of these names is his. No separate production credit is published.",
+  ),
+  (
+    "What is a collective bouyon session like “BAISE-MOI”?",
+    "It is a record on which a host name gathers the voices of one circuit for the length of a track. In that format, each voice usually writes its own part, and the writer list follows the participants and their studio circle: hence the eight guests and thirteen writers of “BAISE-MOI”, gathered under the name Laka, at 160 BPM, the tempo of party records.",
+  ),
+  (
+    "What are the verified records of Laka?",
+    "Two traces: “BAISE-MOI”, as lead artist, and “Manigans”, a record by Ti Toto on which Laka appears as a guest, listed among the top songs of Laka on the opened “BAISE-MOI” page. No page of its own for “Manigans” was found: neither its date, nor its label, nor its credits are verified.",
+  ),
+  (
+    "What is the link between Laka and Team Bwè Tou Sa?",
+    "Team Bwè Tou Sa is a guest on “BAISE-MOI”, and its documented writing core, Nicolas MACBETH, Ludmilian FLOWER and Terry BAPTISTE, credited on the collective record “Game Over” in 2022, appears among the thirteen writers of the Laka record. The session is therefore documented as a record of the collective circle, hosted under the name of Laka. See the <a href=\"/en/team-bwe-tou-sa.html\">Team Bwè Tou Sa</a> page.",
+  ),
+  (
+    "What is the link between Laka and Le Bluff?",
+    "Le Bluff is one of the eight guests on “BAISE-MOI”, and his profile on this site counts that session among his four verified traces of 2023, placing it in the Guadeloupe bouyon scene. One of the record’s writers, kerane landre, matches by spelling the Keran Landre credited on “VIN TCHEK NOU” by Lewismelo, documented in the same profile. See our <a href=\"/en/le-bluff.html\">Le Bluff</a> page.",
+  ),
+  (
+    "What label is Laka on?",
+    "“BAISE-MOI” came out on the label LAKA, which carries the same name as the artist. As the documents stand, the release therefore appears under the own banner of the name that hosts it, the usual pattern of independent releases on the Antilles bouyon scene. No other lead name record was found under that banner.",
+  ),
+  (
+    "Is Laka the Bosnian singer from Eurovision?",
+    "No. The most visible Laka on the web is Elvir Laković, a Bosnian singer from Goražde, the Bosnian entrant at Eurovision 2008. He is a namesake with no documented link to the artist of “BAISE-MOI”, whom the sources consulted place only in the bouyon network of the French Antilles, without publishing his personal origin.",
+  ),
+  (
+    "Is Laka the kompa singer Laurent Laka?",
+    "No, according to the opened documents. Laurent Laka is a kompa singer associated with the Kompalaka world, on another scene. The same searches also cross a Liki Laka in African music and many projects named Laïka. None of them is the artist of “BAISE-MOI”, and this profile merges neither their biographies nor their catalogs with this file.",
+  ),
+  (
+    "Where can I hear Laka and the bouyon of his scene?",
+    "Hear “BAISE-MOI” on the platforms, then the records of Team Bwè Tou Sa and Le Bluff, at the heart of the session. For today’s bouyon scene, from Guadeloupe to Dominica, our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, the Road Mix by Bouyon Shattaz, gathers new releases and carnival classics.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/laka.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/laka.html#artist", "name": "Laka", "description": "Lead name of the bouyon session BAISE-MOI, a single released on November 22, 2023 on the label LAKA, with eight guests and thirteen credited writers, including the writing core of Team Bwè Tou Sa. Second trace: Manigans, by Ti Toto, featuring Laka. No biography or published origin found in October 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'BAISE-MOI'}, {"@type": "MusicRecording", "name": 'Manigans'}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

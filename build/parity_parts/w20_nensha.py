@@ -66,13 +66,47 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Nensha ?", "Une chanteuse française présentée par Viberate comme une artiste de R&B contemporain basée à Paris. Son seul titre vérifié ligne par ligne sur une plateforme de référence est « Comprends pas », classé afro-pop par Shazam. Aucune source consultée ne donne son vrai nom, son âge, une biographie ou une interview : ce profil est un dossier de crédits, pas un portrait."),
-  ("Quel est le titre le mieux documenté de Nensha ?", "« Comprends pas », sorti le 12 août 2022 chez Delta Records, en français. Shazam le classe en afro-pop, lui donne un tempo de 186 BPM et environ 180 identifications à l’ouverture de la fiche. Ses auteurs crédités sont Dj Blax, ZE L et Nensha elle même."),
-  ("Nensha chante-t-elle du bouyon ?", "Aucune source consultée ne le dit. Son single documenté est classé afro-pop par Shazam, et Viberate la range dans le R&B contemporain. Elle figure sur ce site parce que « Comprends pas » a été coécrit par Dj Blax, un compositeur que ce site suit dans les catalogues bouyon et shatta : c’est un lien de générique, pas une appartenance de genre."),
-  ("Quels autres titres de Nensha sont connus ?", "Viberate cite « Tokyo » et « Coller », datés de 2023, « Evident », daté de 2022, et deux titres de répertoire, « Je t’aime encore » et « Rester fort ». Pendant cette recherche, aucun de ces titres n’a pu être recoupé par une fiche ouverte sur une plateforme de référence : ils sont donc cités ici comme des mentions d’agrégateur, pas comme des sorties vérifiées une par une."),
-  ("Qui sont Dj Blax et ZE L dans le dossier de Nensha ?", "Les deux coauteurs, avec Nensha, de « Comprends pas », selon la fiche Shazam du titre. Dj Blax est un compositeur documenté par ce site sur sa page Dj Blax, présent dans de nombreux génériques bouyon, shatta, rap et R&B. ZE L, en revanche, n’apparaît dans aucune autre source ouverte pour ce profil : ni identité, ni autre crédit relevé."),
-  ("Pourquoi le nom de Nensha prête-t-il à confusion ?", "Parce qu’il est partagé avec un titre célèbre d’un autre monde : en septembre 2019, le groupe de metal suédois Orbit Culture a publié un single intitulé « Nensha », extrait de son album « Nija ». Ce titre n’a aucun rapport avec la chanteuse. Pour la trouver sur les plateformes, il faut chercher « Nensha Comprends pas » ou « Nensha Delta Records », jamais le nom seul.")
- ],
+  (
+    "Qui est Nensha ?",
+    "Une chanteuse française présentée par Viberate comme une artiste de R&B contemporain basée à Paris. Son seul titre vérifié ligne par ligne sur une plateforme de référence est « Comprends pas », classé afro-pop par Shazam. Aucune source consultée ne donne son vrai nom, son âge, une biographie ou une interview : ce profil est un dossier de crédits, pas un portrait.",
+  ),
+  (
+    "Quel est le titre le mieux documenté de Nensha ?",
+    "« Comprends pas », sorti le 12 août 2022 chez Delta Records, en français. Shazam le classe en afro-pop, lui donne un tempo de 186 BPM et environ 180 identifications à l’ouverture de la fiche. Ses auteurs crédités sont Dj Blax, ZE L et Nensha elle-même.",
+  ),
+  (
+    "Nensha chante-t-elle du bouyon ?",
+    "Aucune source consultée ne le dit. Son single documenté est classé afro-pop par Shazam, et Viberate la range dans le R&B contemporain. Elle figure sur ce site parce que « Comprends pas » a été coécrit par Dj Blax, un compositeur que ce site suit dans les catalogues bouyon et shatta : c’est un lien de générique, pas une appartenance de genre.",
+  ),
+  (
+    "Quels autres titres de Nensha sont connus ?",
+    "Viberate cite « Tokyo » et « Coller », datés de 2023, « Evident », daté de 2022, et deux titres de répertoire, « Je t’aime encore » et « Rester fort ». Pendant cette recherche, aucun de ces titres n’a pu être recoupé par une fiche ouverte sur une plateforme de référence : ils sont donc cités ici comme des mentions d’agrégateur, pas comme des sorties vérifiées une par une.",
+  ),
+  (
+    "Qui sont Dj Blax et ZE L dans le dossier de Nensha ?",
+    "Les deux coauteurs, avec Nensha, de « Comprends pas », selon la fiche Shazam du titre. <a href=\"/dj-blax.html\">Dj Blax</a> est un compositeur documenté par ce site, présent dans de nombreux génériques bouyon, shatta, rap et R&B. ZE L, en revanche, n’apparaît dans aucune autre source ouverte pour ce profil : ni identité, ni autre crédit relevé.",
+  ),
+  (
+    "Pourquoi le nom de Nensha prête-t-il à confusion ?",
+    "Parce qu’il est partagé avec un titre célèbre d’un autre monde : en septembre 2019, le groupe de metal suédois Orbit Culture a publié un single intitulé « Nensha », extrait de son album « Nija ». Ce titre n’a aucun rapport avec la chanteuse. Pour la trouver sur les plateformes, il faut chercher « Nensha Comprends pas » ou « Nensha Delta Records », jamais le nom seul.",
+  ),
+  (
+    "D’où vient Nensha ?",
+    "Viberate, la seule source ouverte qui la décrit, la présente comme une artiste de R&B contemporain de Paris. Ce site cite cette indication comme une présentation d’agrégateur, pas comme un fait d’état civil : aucune source ne donne sa ville de naissance. Son titre documenté, « Comprends pas », est chanté en français et sort chez Delta Records.",
+  ),
+  (
+    "Que veut dire le mot nensha ?",
+    "Le mot circule dans plusieurs mondes sans rapport entre eux. Dans la culture japonaise, nensha désigne un concept du début du vingtième siècle de photographie psychique. En 2019, c’est aussi le titre d’un single du groupe de metal suédois Orbit Culture. Aucune source ne dit pourquoi la chanteuse de « Comprends pas » porte ce nom, et ce profil n’en tire aucune biographie.",
+  ),
+  (
+    "Pourquoi Nensha est-elle créditée « Nensha Nensha » ?",
+    "C’est un doublon de base de données : la fiche Shazam de « Comprends pas » affiche l’autrice sous la forme « Nensha Nensha », comme il arrive quand le nom de scène et le nom d’auteur sont saisis dans deux champs. Ce site garde la forme simple, Nensha, et signale le doublon pour que personne ne cherche une deuxième personne absente du document.",
+  ),
+  (
+    "Nensha, c’est de l’afro-pop ou du R&B ?",
+    "Les deux étiquettes coexistent dans les sources : Shazam classe son single « Comprends pas » en afro-pop, Viberate range l’artiste dans le R&B contemporain. Le single tourne à 186 BPM, une vitesse proche des tempos rapides du bouyon et du shatta, mais un BPM technique ne fait pas un genre, et ce profil ne décrit pas son son au-delà de ces deux mots.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/nensha.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/nensha.html#artist", "name": "Nensha", "description": "Chanteuse française présentée par Viberate comme une artiste de R&B contemporain basée à Paris. Son seul titre documenté sur une plateforme de référence est Comprends pas, single afro-pop sorti le 12 août 2022 chez Delta Records, coécrit par Dj Blax, ZE L et Nensha. Viberate cite aussi Tokyo et Coller (2023), Evident (2022), Je t’aime encore et Rester fort, sans fiche plateforme recoupée. Aucune biographie publique.", "genre": "R&B / Afro-Pop", "track": [{"@type": "MusicRecording", "name": 'Comprends pas'}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -138,13 +172,47 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Nensha?", "A French singer presented by Viberate as a contemporary R&B artist based in Paris. Her only record checked line by line on a reference platform is “Comprends pas”, classed as afro-pop by Shazam. No source consulted gives her real name, her age, a biography or an interview: this profile is a credits file, not a portrait."),
-  ("What is the best documented Nensha record?", "“Comprends pas”, released on August 12, 2022 on Delta Records, in French. Shazam classes it as afro-pop, gives it a tempo of 186 BPM and about 180 identifications when the page was opened. Its credited songwriters are Dj Blax, ZE L and Nensha herself."),
-  ("Does Nensha sing bouyon?", "No source consulted says so. Her documented single is classed as afro-pop by Shazam, and Viberate files her under contemporary R&B. She appears on this site because “Comprends pas” was co-written by Dj Blax, a composer this site follows across bouyon and shatta catalogs: it is a credits link, not a genre belonging."),
-  ("Which other Nensha songs are known?", "Viberate cites “Tokyo” and “Coller”, dated 2023, “Evident”, dated 2022, and two repertoire titles, “Je t’aime encore” and “Rester fort”. During this research, none of those titles could be cross checked on an opened reference platform page: they are therefore cited here as aggregator mentions, not as releases verified one by one."),
-  ("Who are Dj Blax and ZE L in the Nensha file?", "The two co-writers, with Nensha, of “Comprends pas”, according to the Shazam page of the record. Dj Blax is a composer documented by this site on its Dj Blax page, present in many bouyon, shatta, rap and R&B credits. ZE L, by contrast, appears in no other source opened for this profile: no identity, no other credit found."),
-  ("Why is the name Nensha confusing?", "Because it is shared with a famous record from another world: in September 2019, the Swedish metal band Orbit Culture released a single titled “Nensha”, taken from its album “Nija”. That record has nothing to do with the singer. To find her on the platforms, search “Nensha Comprends pas” or “Nensha Delta Records”, never the name alone.")
- ],
+  (
+    "Who is Nensha?",
+    "A French singer presented by Viberate as a contemporary R&B artist based in Paris. Her only record checked line by line on a reference platform is “Comprends pas”, classed as afro-pop by Shazam. No source consulted gives her real name, her age, a biography or an interview: this profile is a credits file, not a portrait.",
+  ),
+  (
+    "What is the best documented Nensha record?",
+    "“Comprends pas”, released on August 12, 2022 on Delta Records, in French. Shazam classes it as afro-pop, gives it a tempo of 186 BPM and about 180 identifications when the page was opened. Its credited songwriters are Dj Blax, ZE L and Nensha herself.",
+  ),
+  (
+    "Does Nensha sing bouyon?",
+    "No source consulted says so. Her documented single is classed as afro-pop by Shazam, and Viberate files her under contemporary R&B. She appears on this site because “Comprends pas” was co-written by Dj Blax, a composer this site follows across bouyon and shatta catalogs: it is a credits link, not a genre belonging.",
+  ),
+  (
+    "Which other Nensha songs are known?",
+    "Viberate cites “Tokyo” and “Coller”, dated 2023, “Evident”, dated 2022, and two repertoire titles, “Je t’aime encore” and “Rester fort”. During this research, none of those titles could be cross checked on an opened reference platform page: they are therefore cited here as aggregator mentions, not as releases verified one by one.",
+  ),
+  (
+    "Who are Dj Blax and ZE L in the Nensha file?",
+    "The two co-writers, with Nensha, of “Comprends pas”, according to the Shazam page of the record. <a href=\"/en/dj-blax.html\">Dj Blax</a> is a composer documented by this site, present in many bouyon, shatta, rap and R&B credits. ZE L, by contrast, appears in no other source opened for this profile: no identity, no other credit found.",
+  ),
+  (
+    "Why is the name Nensha confusing?",
+    "Because it is shared with a famous record from another world: in September 2019, the Swedish metal band Orbit Culture released a single titled “Nensha”, taken from its album “Nija”. That record has nothing to do with the singer. To find her on the platforms, search “Nensha Comprends pas” or “Nensha Delta Records”, never the name alone.",
+  ),
+  (
+    "Where is Nensha from?",
+    "Viberate, the only opened source that describes her, presents her as a contemporary R&B artist from Paris. This site cites that as an aggregator presentation, not as a civil fact: no source gives her birthplace. Her documented record, “Comprends pas”, is sung in French and came out on Delta Records.",
+  ),
+  (
+    "What does the word nensha mean?",
+    "The word circulates in several unrelated worlds. In Japanese culture, nensha names an early twentieth century concept of psychic photography. In 2019 it is also the title of a single by the Swedish metal band Orbit Culture. No source says why the singer of “Comprends pas” carries this name, and this profile draws no biography from it.",
+  ),
+  (
+    "Why is Nensha credited as “Nensha Nensha”?",
+    "It is a database duplicate: the Shazam page of “Comprends pas” displays the songwriter as “Nensha Nensha”, as happens when the stage name and the writer name are entered in two fields. This site keeps the simple form, Nensha, and flags the doubling so that nobody goes looking for a second person who does not exist in the document.",
+  ),
+  (
+    "Is Nensha afro-pop or R&B?",
+    "Both labels coexist in the sources: Shazam classes her single “Comprends pas” as afro-pop, Viberate files the artist under contemporary R&B. The single runs at 186 BPM, a speed close to the fast tempos of bouyon and shatta, but a technical BPM does not make a genre, and this profile describes her sound no further than those two words.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/nensha.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/nensha.html#artist", "name": "Nensha", "description": "French singer presented by Viberate as a contemporary R&B artist based in Paris. Her only record documented on a reference platform is Comprends pas, an afro-pop single released on August 12, 2022 on Delta Records, co-written by Dj Blax, ZE L and Nensha. Viberate also cites Tokyo and Coller (2023), Evident (2022), Je t’aime encore and Rester fort, with no cross checked platform page. No public biography.", "genre": "R&B / Afro-Pop", "track": [{"@type": "MusicRecording", "name": 'Comprends pas'}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

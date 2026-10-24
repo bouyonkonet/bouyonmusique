@@ -74,13 +74,63 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Young Dinero ?", "Un rappeur du catalogue caribéen documenté par Shazam entre 2021 et 2025, classé Hip-Hop/Rap par la plateforme. Aucune source consultée ne donne son nom de naissance, sa commune d’origine ou sa biographie. Son identité publique tient à son catalogue et à son cercle : le producteur Savion Augustine, dit prod.bysavion et Savion Beats, et les voix récurrentes Kxng Jxy et Delly Boss."),
-  ("Quel est l’album de Young Dinero ?", "« Shatta From Birth », publié le 29 mars 2023 chez 3428797 Records DK selon la page de l’album sur Shazam. Quinze titres, dont « 2More », « West indies » avec Kxng Jxy, « My turn » avec Delly Boss, Kxng Jxy et Dapp Deh Youngin, « Rambo » avec Ras D et tha WizZarD, et « Dog life » avec Real Reel et Savion. C’est l’unique album du catalogue, précédé de l’EP « Dreams & Bricks » en 2021."),
-  ("Que veut dire Caribbean drill, le style de Young Dinero ?", "C’est l’étiquette que l’artiste donne lui même à son style dans le titre « Caribbean Drill », sur l’EP « Dreams & Bricks » de 2021 : un rap drill écrit en anglais, aux thèmes de rue, de loyauté et de famille, fabriqué dans le cercle des producteurs de la Dominique. Shazam classe l’artiste en Hip-Hop/Rap, et ses titres « Shatta Flow » et « Shatta From Birth » le rattachent en plus au vocabulaire shatta des Antilles."),
-  ("Quels sont les titres les plus écoutés de Young Dinero ?", "La liste des titres les plus diffusés de sa page Shazam comprend « DATL4L ANTHEM » avec Delly Boss et Kxng Jxy, « 2More », « Up Next », « Street Life », « My turn », « Growing up » avec Yayo, et ses deux invitations chez Savion Beats, « Toxic » et « Bikelife Class », sorti le 19 juillet 2025. La page artiste relevait 1 151 identifications au total au moment de la recherche."),
-  ("Young Dinero est il le même artiste que Young Dinero Banks ou que le rappeur de Ice Age ?", "Non, selon les catalogues consultés. Young Dinero Banks est un artiste trap de New York, auteur de « Late October » et de « Vibes Only, Vol. 3 » selon Viberate. Le Young Dinero de Ice Age, dans le cercle de Mike Jones, a sorti la mixtape « FACE YOUR FEAR » en janvier 2013 selon Conversations Magazine. Aucun titre, label ou collaborateur n’est commun avec le Young Dinero caribéen de cette page, dont le fil continu est Savion Augustine."),
-  ("Où écouter Young Dinero ?", "Par le fil du catalogue : l’EP « Dreams & Bricks » avec « Caribbean Drill » et « Blak Suga », les singles de 2022 « DATL4L ANTHEM », « Shatta Flow », « Prrt » avec DiYoute et « city boyz » avec Trippy 767, l’album « Shatta From Birth », puis les singles de 2025 « Zone », « Street Life » et « Growing up », et ses invitations chez Savion Beats, « Toxic » et « Bikelife Class ». Notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> suit la scène dont il partage les studios.")
- ],
+  (
+    "Qui est Young Dinero ?",
+    "Un rappeur du catalogue caribéen documenté par Shazam entre 2021 et 2025, classé Hip-Hop/Rap par la plateforme. Aucune source consultée ne donne son nom de naissance, sa commune d’origine ou sa biographie. Son identité publique tient à son catalogue et à son cercle : le producteur Savion Augustine, dit prod.bysavion et Savion Beats, et les voix récurrentes Kxng Jxy et Delly Boss.",
+  ),
+  (
+    "Quel est l’album de Young Dinero ?",
+    "« Shatta From Birth », publié le 29 mars 2023 chez 3428797 Records DK selon la page de l’album sur Shazam. Quinze titres, dont « 2More », « West indies » avec Kxng Jxy, « My turn » avec Delly Boss, Kxng Jxy et Dapp Deh Youngin, « Rambo » avec Ras D et tha WizZarD, et « Dog life » avec Real Reel et Savion. C’est l’unique album du catalogue, précédé de l’EP « Dreams & Bricks » en 2021.",
+  ),
+  (
+    "Que veut dire Caribbean drill, le style de Young Dinero ?",
+    "C’est l’étiquette que l’artiste donne lui-même à son style dans le titre « Caribbean Drill », sur l’EP « Dreams & Bricks » de 2021 : un rap drill écrit en anglais, aux thèmes de rue, de loyauté et de famille, fabriqué dans le cercle des producteurs de la Dominique. Shazam classe l’artiste en Hip-Hop/Rap, et ses titres « Shatta Flow » et « Shatta From Birth » le rattachent en plus au vocabulaire shatta des Antilles.",
+  ),
+  (
+    "Quels sont les titres les plus écoutés de Young Dinero ?",
+    "La liste des titres les plus diffusés de sa page Shazam comprend « DATL4L ANTHEM » avec Delly Boss et Kxng Jxy, « 2More », « Up Next », « Street Life », « My turn », « Growing up » avec Yayo, et ses deux invitations chez Savion Beats, « Toxic » et « Bikelife Class », sorti le 19 juillet 2025. La page artiste relevait 1 151 identifications au total au moment de la recherche.",
+  ),
+  (
+    "Young Dinero est-il le même artiste que Young Dinero Banks ou que le rappeur de Ice Age ?",
+    "Non, selon les catalogues consultés. Young Dinero Banks est un artiste trap de New York, auteur de « Late October » et de « Vibes Only, Vol. 3 » selon Viberate. Le Young Dinero de Ice Age, dans le cercle de Mike Jones, a sorti la mixtape « FACE YOUR FEAR » en janvier 2013 selon Conversations Magazine. Aucun titre, label ou collaborateur n’est commun avec le Young Dinero caribéen de cette page, dont le fil continu est Savion Augustine.",
+  ),
+  (
+    "Où écouter Young Dinero ?",
+    "Par le fil du catalogue : l’EP « Dreams & Bricks » avec « Caribbean Drill » et « Blak Suga », les singles de 2022 « DATL4L ANTHEM », « Shatta Flow », « Prrt » avec DiYoute et « city boyz » avec Trippy 767, l’album « Shatta From Birth », puis les singles de 2025 et ses invitations chez Savion Beats, « Toxic » et « Bikelife Class ». La playlist Bouyon Road Mix de Bouyon Shattaz suit la scène dont il partage les studios.",
+  ),
+  (
+    "Qui produit Young Dinero ?",
+    "Savion Augustine, producteur sous le nom de <a href=\"/prod-bysavion.html\">prod.bysavion</a> et artiste sous celui de Savion Beats, est le fil continu du dossier. Il coécrit « DATL4L ANTHEM » en 2022 avec Ashla A Ducreay, Delroy victor et Joel Lebron Theophille, il est crédité sur « Dog life », et il produit et accueille « Toxic » et « Bikelife Class », où Young Dinero chante en invité.",
+  ),
+  (
+    "Qu’est-ce que « Bikelife Class » de Savion Beats et Young Dinero ?",
+    "Un titre de Savion Beats avec Young Dinero en featuring, sorti le 19 juillet 2025 chez 1527492 Records DK, en anglais, à 137 BPM, avec 267 identifications relevées à l’ouverture de sa page. Young Dinero y est crédité comme rappeur et auteur, Savion Augustine comme auteur et producteur. C’est la collaboration la plus récente du dossier.",
+  ),
+  (
+    "Young Dinero vient-il de la Dominique ?",
+    "Aucune source ne publie son origine, mais son catalogue s’ancre dans le cercle de la Dominique et de sa diaspora proche. Son producteur, Savion Augustine, est un producteur de l’île, ses artistes similaires sur Shazam incluent DiYoute et Savion Beats, et son single « city boyz » invite Trippy 767, 767 étant l’indicatif téléphonique de la Dominique. Ce profil ne lui attribue aucun village.",
+  ),
+  (
+    "Que veut dire « Shatta From Birth » ?",
+    "Shatta de naissance : le titre de l’album est une déclaration d’identité musicale, qui rattache le rap de Young Dinero à la culture shatta, le dancehall né en Martinique qui partage riddims, DJ et une partie du public avec le bouyon. Le geste prolonge « Shatta Flow », son single de 2022. Ce profil le lit comme un choix esthétique, pas comme une biographie. Voir <a href=\"/bouyon-ou-shatta.html\">bouyon ou shatta</a>.",
+  ),
+  (
+    "Young Dinero chante-t-il du bouyon ?",
+    "Pas au sens strict : il rappe à côté du bouyon, dans le même écosystème de studios et de producteurs. Son style revendiqué est le Caribbean drill, en anglais, et Shazam le classe en Hip-Hop/Rap. Sa place sur ce site tient à son réseau, à son producteur Savion Augustine, à DiYoute, venu du bouyon, invité sur deux projets de suite, et à ses titres shatta.",
+  ),
+  (
+    "Qu’est-ce que l’EP « Dreams & Bricks » de Young Dinero ?",
+    "Sa première sortie référencée, publiée le 4 novembre 2021 selon sa page album sur Shazam. Cinq titres : « Blak Suga » avec Delly Boss et Kxng Jxy, « Set Back » avec Kxng Jxy, « Pole » avec Triszy, « Up Next » en solo et « Caribbean Drill », le titre manifeste. « Up Next » figure encore parmi les titres les plus diffusés de sa page artiste.",
+  ),
+  (
+    "Avec qui Young Dinero collabore-t-il le plus ?",
+    "Avec un noyau de voix récurrentes : Kxng Jxy, présent sur l’EP, sur « DATL4L ANTHEM », « No Awards », « My turn » et « West indies », et Delly Boss, son partenaire sur « Blak Suga » et « DATL4L ANTHEM ». S’y ajoutent DiYoute, invité sur « Prrt » puis « Pushin P’z », Trippy 767 sur « city boyz », et surtout le producteur Savion Augustine.",
+  ),
+  (
+    "Quelle est la dernière sortie de Young Dinero ?",
+    "« Growing up », avec Yayo en featuring, présenté par Shazam comme la sortie la plus récente du catalogue au moment de la recherche. L’année 2025 aligne cinq singles, « Zone », publié le 11 mai 2025, « Darth vader », « Street Life », « FMBM freestyle » et « Growing up ». Aucun nouvel album n’est référencé après « Shatta From Birth », et aucun titre de 2026 n’apparaît dans les catalogues consultés.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/young-dinero.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/young-dinero.html#artist", "name": "Young Dinero", "description": "Rappeur caribéen drill, catalogue documenté de 2021 à 2025 : EP Dreams & Bricks, album Shatta From Birth, singles DATL4L ANTHEM, Shatta Flow et Zone, et collaborations récurrentes avec le producteur Savion Augustine, dit prod.bysavion et Savion Beats. Aucun nom de naissance, aucune commune d’origine et aucune biographie dans les sources publiques consultées. A distinguer de ses homonymes américains.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'DATL4L ANTHEM'}, {"@type": "MusicRecording", "name": '2More'}, {"@type": "MusicRecording", "name": 'Up Next'}, {"@type": "MusicRecording", "name": 'Toxic'}, {"@type": "MusicRecording", "name": 'Bikelife Class'}, {"@type": "MusicRecording", "name": 'Street Life'}, {"@type": "MusicRecording", "name": 'My turn'}, {"@type": "MusicRecording", "name": 'Biggers'}, {"@type": "MusicRecording", "name": 'Growing up'}, {"@type": "MusicRecording", "name": 'FMBM freestyle'}, {"@type": "MusicRecording", "name": 'Zone'}, {"@type": "MusicRecording", "name": 'Darth vader'}, {"@type": "MusicRecording", "name": 'West indies'}, {"@type": "MusicRecording", "name": 'Blak Suga'}, {"@type": "MusicRecording", "name": 'Caribbean Drill'}, {"@type": "MusicRecording", "name": 'Rambo'}, {"@type": "MusicRecording", "name": 'city boyz'}, {"@type": "MusicRecording", "name": 'Street Voice'}, {"@type": "MusicRecording", "name": 'Prrt'}, {"@type": "MusicRecording", "name": 'Shatta Flow'}, {"@type": "MusicRecording", "name": 'No Awards'}, {"@type": "MusicRecording", "name": 'Truth'}], "sameAs": ["https://www.shazam.com/artist/young-dinero/1593913175"]}}],
  "date_modified": "2026-10-20"
 }
@@ -147,13 +197,63 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Young Dinero?", "A rapper of the Caribbean catalog documented by Shazam between 2021 and 2025, filed under Hip-Hop/Rap by the platform. No source consulted gives his birth name, his home community or his biography. His public identity rests on his catalog and his circle: producer Savion Augustine, known as prod.bysavion and Savion Beats, and the recurring voices Kxng Jxy and Delly Boss."),
-  ("What is Young Dinero album?", "“Shatta From Birth”, published on March 29, 2023 on 3428797 Records DK according to its album page on Shazam. Fifteen records, among them “2More”, “West indies” with Kxng Jxy, “My turn” with Delly Boss, Kxng Jxy and Dapp Deh Youngin, “Rambo” with Ras D and tha WizZarD, and “Dog life” with Real Reel and Savion. It is the only album in the catalog, preceded by the EP “Dreams & Bricks” in 2021."),
-  ("What does Caribbean drill, Young Dinero style, mean?", "It is the label the artist gives his own style inside the record “Caribbean Drill”, on the 2021 EP “Dreams & Bricks”: an English language drill rap, on street, loyalty and family themes, built inside the circle of Dominica producers. Shazam files the artist under Hip-Hop/Rap, and his records “Shatta Flow” and “Shatta From Birth” tie him in addition to the shatta vocabulary of the Antilles."),
-  ("What are the most streamed Young Dinero records?", "The most streamed list of his Shazam page holds “DATL4L ANTHEM” with Delly Boss and Kxng Jxy, “2More”, “Up Next”, “Street Life”, “My turn”, “Growing up” with Yayo, and his two guest spots with Savion Beats, “Toxic” and “Bikelife Class”, released on July 19, 2025. The artist page counted 1,151 identifications in total at the time of research."),
-  ("Is Young Dinero the same artist as Young Dinero Banks or the Ice Age rapper?", "No, according to the catalogs consulted. Young Dinero Banks is a New York trap artist, author of “Late October” and “Vibes Only, Vol. 3” according to Viberate. The Ice Age Young Dinero, in the circle of Mike Jones, released the mixtape “FACE YOUR FEAR” in January 2013 according to Conversations Magazine. No record, label or collaborator is shared with the Caribbean Young Dinero of this page, whose continuous thread is Savion Augustine."),
-  ("Where can I hear Young Dinero?", "Through the thread of the catalog: the EP “Dreams & Bricks” with “Caribbean Drill” and “Blak Suga”, the 2022 singles “DATL4L ANTHEM”, “Shatta Flow”, “Prrt” with DiYoute and “city boyz” with Trippy 767, the album “Shatta From Birth”, then the 2025 singles “Zone”, “Street Life” and “Growing up”, and his guest spots with Savion Beats, “Toxic” and “Bikelife Class”. Our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> follows the scene whose studios he shares.")
- ],
+  (
+    "Who is Young Dinero?",
+    "A rapper of the Caribbean catalog documented by Shazam between 2021 and 2025, filed under Hip-Hop/Rap by the platform. No source consulted gives his birth name, his home community or his biography. His public identity rests on his catalog and his circle: producer Savion Augustine, known as prod.bysavion and Savion Beats, and the recurring voices Kxng Jxy and Delly Boss.",
+  ),
+  (
+    "What is Young Dinero album?",
+    "“Shatta From Birth”, published on March 29, 2023 on 3428797 Records DK according to its album page on Shazam. Fifteen records, among them “2More”, “West indies” with Kxng Jxy, “My turn” with Delly Boss, Kxng Jxy and Dapp Deh Youngin, “Rambo” with Ras D and tha WizZarD, and “Dog life” with Real Reel and Savion. It is the only album in the catalog, preceded by the EP “Dreams & Bricks” in 2021.",
+  ),
+  (
+    "What does Caribbean drill, Young Dinero style, mean?",
+    "It is the label the artist gives his own style inside the record “Caribbean Drill”, on the 2021 EP “Dreams & Bricks”: an English language drill rap, on street, loyalty and family themes, built inside the circle of Dominica producers. Shazam files the artist under Hip-Hop/Rap, and his records “Shatta Flow” and “Shatta From Birth” tie him in addition to the shatta vocabulary of the Antilles.",
+  ),
+  (
+    "What are the most streamed Young Dinero records?",
+    "The most streamed list of his Shazam page holds “DATL4L ANTHEM” with Delly Boss and Kxng Jxy, “2More”, “Up Next”, “Street Life”, “My turn”, “Growing up” with Yayo, and his two guest spots with Savion Beats, “Toxic” and “Bikelife Class”, released on July 19, 2025. The artist page counted 1,151 identifications in total at the time of research.",
+  ),
+  (
+    "Is Young Dinero the same artist as Young Dinero Banks or the Ice Age rapper?",
+    "No, according to the catalogs consulted. Young Dinero Banks is a New York trap artist, author of “Late October” and “Vibes Only, Vol. 3” according to Viberate. The Ice Age Young Dinero, in the circle of Mike Jones, released the mixtape “FACE YOUR FEAR” in January 2013 according to Conversations Magazine. No record, label or collaborator is shared with the Caribbean Young Dinero of this page, whose continuous thread is Savion Augustine.",
+  ),
+  (
+    "Where can I hear Young Dinero?",
+    "Through the thread of the catalog: the EP “Dreams & Bricks” with “Caribbean Drill” and “Blak Suga”, the 2022 singles “DATL4L ANTHEM”, “Shatta Flow”, “Prrt” with DiYoute and “city boyz” with Trippy 767, the album “Shatta From Birth”, then the 2025 singles and his guest spots with Savion Beats, “Toxic” and “Bikelife Class”. The Bouyon Shattaz Bouyon Road Mix playlist follows the scene whose studios he shares.",
+  ),
+  (
+    "Who produces Young Dinero?",
+    "Savion Augustine, a producer under the name <a href=\"/en/prod-bysavion.html\">prod.bysavion</a> and an artist under Savion Beats, is the continuous thread of the file. He co-writes “DATL4L ANTHEM” in 2022 with Ashla A Ducreay, Delroy victor and Joel Lebron Theophille, he is credited on “Dog life”, and he produces and hosts “Toxic” and “Bikelife Class”, where Young Dinero sings as a guest.",
+  ),
+  (
+    "What is “Bikelife Class” by Savion Beats and Young Dinero?",
+    "A Savion Beats record featuring Young Dinero, released on July 19, 2025 on 1527492 Records DK, in English, at 137 BPM, with 267 identifications counted when its page was opened. Young Dinero is credited as rap performer and writer, Savion Augustine as writer and producer. It is the most recent collaboration in the file.",
+  ),
+  (
+    "Is Young Dinero from Dominica?",
+    "No source publishes his origin, but his catalog is anchored in the circle of Dominica and its close diaspora. His producer, Savion Augustine, is an island producer, his similar artists on Shazam include DiYoute and Savion Beats, and his single “city boyz” invites Trippy 767, 767 being the telephone area code of Dominica. This profile assigns him no village.",
+  ),
+  (
+    "What does “Shatta From Birth” mean?",
+    "The album title is a statement of musical identity, tying Young Dinero's rap to shatta culture, the dancehall born in Martinique that shares riddims, DJs and part of its audience with bouyon. The move extends “Shatta Flow”, his 2022 single. This profile reads it as an aesthetic choice, not as a biography. See <a href=\"/en/bouyon-vs-shatta.html\">bouyon vs shatta</a>.",
+  ),
+  (
+    "Does Young Dinero make bouyon?",
+    "Not in the strict sense: he raps next to bouyon, in the same ecosystem of studios and producers. His claimed style is Caribbean drill, in English, and Shazam files him under Hip-Hop/Rap. His place on this site rests on his network, his producer Savion Augustine, DiYoute, who comes from bouyon and guests on two projects in a row, and his shatta titles.",
+  ),
+  (
+    "What is Young Dinero's EP “Dreams & Bricks”?",
+    "His first referenced release, published on November 4, 2021 according to its album page on Shazam. Five records: “Blak Suga” with Delly Boss and Kxng Jxy, “Set Back” with Kxng Jxy, “Pole” with Triszy, “Up Next” solo, and “Caribbean Drill”, the manifesto title. “Up Next” still sits among the most streamed records of his artist page.",
+  ),
+  (
+    "Who does Young Dinero collaborate with most?",
+    "A core of recurring voices: Kxng Jxy, present on the EP, on “DATL4L ANTHEM”, “No Awards”, “My turn” and “West indies”, and Delly Boss, his partner on “Blak Suga” and “DATL4L ANTHEM”. Add DiYoute, guest on “Prrt” then “Pushin P’z”, Trippy 767 on “city boyz”, and above all producer Savion Augustine.",
+  ),
+  (
+    "What is Young Dinero's latest release?",
+    "“Growing up”, featuring Yayo, presented by Shazam as the most recent release in the catalog at the time of research. The year 2025 lines up five singles, “Zone”, published on May 11, 2025, “Darth vader”, “Street Life”, “FMBM freestyle” and “Growing up”. No new album is referenced after “Shatta From Birth”, and no 2026 record appears in the catalogs consulted.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/young-dinero.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/young-dinero.html#artist", "name": "Young Dinero", "description": "Caribbean drill rapper, catalog documented from 2021 to 2025: EP Dreams & Bricks, album Shatta From Birth, singles DATL4L ANTHEM, Shatta Flow and Zone, and recurring collaborations with producer Savion Augustine, known as prod.bysavion and Savion Beats. No birth name, no home community and no biography in the public sources consulted. To be distinguished from his American namesakes.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'DATL4L ANTHEM'}, {"@type": "MusicRecording", "name": '2More'}, {"@type": "MusicRecording", "name": 'Up Next'}, {"@type": "MusicRecording", "name": 'Toxic'}, {"@type": "MusicRecording", "name": 'Bikelife Class'}, {"@type": "MusicRecording", "name": 'Street Life'}, {"@type": "MusicRecording", "name": 'My turn'}, {"@type": "MusicRecording", "name": 'Biggers'}, {"@type": "MusicRecording", "name": 'Growing up'}, {"@type": "MusicRecording", "name": 'FMBM freestyle'}, {"@type": "MusicRecording", "name": 'Zone'}, {"@type": "MusicRecording", "name": 'Darth vader'}, {"@type": "MusicRecording", "name": 'West indies'}, {"@type": "MusicRecording", "name": 'Blak Suga'}, {"@type": "MusicRecording", "name": 'Caribbean Drill'}, {"@type": "MusicRecording", "name": 'Rambo'}, {"@type": "MusicRecording", "name": 'city boyz'}, {"@type": "MusicRecording", "name": 'Street Voice'}, {"@type": "MusicRecording", "name": 'Prrt'}, {"@type": "MusicRecording", "name": 'Shatta Flow'}, {"@type": "MusicRecording", "name": 'No Awards'}, {"@type": "MusicRecording", "name": 'Truth'}], "sameAs": ["https://www.shazam.com/artist/young-dinero/1593913175"]}}],
  "date_modified": "2026-10-20"
 }

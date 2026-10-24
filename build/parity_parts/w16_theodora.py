@@ -73,13 +73,63 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Theodora et d où vient-elle ?", "Theodora, de son nom complet Lili Théodora Mbangayo Mujinga, est une chanteuse et rappeuse franco-congolaise née le 23 octobre 2003 à Lucerne, en Suisse. Elle grandit entre la Grèce, le Congo et La Réunion, puis en France à partir de 2009, avant de s installer à Saint-Denis. Son frère Jeez Suave est son compositeur, producteur et manager. Elle est aussi surnommée Boss Lady et Miss Kitoko."),
-  ("« Kongolese sous BBL » est-il vraiment un titre bouyon ?", "Oui, selon la classification et la fabrication du titre. Le single, sorti le 27 septembre 2024, est classé bouyon et hip-hop, et son instrumentale est un remix en version bouyon du titre « FNG » de Theodora, sorti en février 2024. Les crédits nomment Theodora au chant et à l écriture et Jeez Suave à la production et à l écriture. Le titre a atteint la 10e place du SNEP et une certification diamant en France."),
-  ("Theodora a-t-elle prétendu avoir inventé le bouyon ?", "Non, et elle l a dit publiquement. Répondant sur X à la polémique née dans la communauté caribéenne, elle écrit : « à aucun moment j ai eu la prétention de dire que j ai créé quelque chose d inexistant. J ai parlé des origines du bouyon en story, j ai vécu à l île de La Réunion et j ai pas découvert le bouyon sur TikTok ». Elle ajoute que le problème vient de l accès des Caribéens aux radios, aux médias et aux plateformes."),
-  ("Que signifie BBL dans « Kongolese sous BBL » ?", "Le sigle porte trois sens que l artiste entretient : Brazilian Butt Lift, l intervention de chirurgie esthétique, Big Boss Lady, son surnom, et Bad Boy Lovestory, le titre de sa première mixtape parue le 1er novembre 2024. La chanson est un hymne d affirmation où elle célèbre son corps de femme noire, avec le refrain en lingala « Mwasi Sukali », qui signifie femme sucrée, et la phrase « j me lève, j suis déjà belle »."),
-  ("Quels sont les plus gros succès de Theodora après « Kongolese sous BBL » ?", "Sa mixtape « Bad Boy Lovestory » de novembre 2024 est certifiée triple platine et sa réédition « Mega BBL » de mai 2025 remporte l album de l année aux Victoires de la musique 2026. « Fashion Designa » est certifié diamant, « Zou Bizou » avec Jul également, et « Melodrama », son duo avec Disiz sorti le 26 septembre 2025, reste dix semaines consécutives numéro un du Top Singles SNEP et finit certifié diamant."),
-  ("Theodora est-elle antillaise ?", "Non. Theodora est franco-congolaise, née en Suisse, et elle n a jamais prétendu le contraire. C est précisément ce qui rend son dossier unique dans l histoire du bouyon : « Kongolese sous BBL » est devenu le premier single bouyon certifié or en France par une artiste non antillaise, avant d atteindre le diamant. Elle explique son rapport au genre par son enfance à La Réunion et par les clubs de la diaspora à Paris, où, dit-elle, il y a du bouyon et de la musique afro-caribéenne.")
- ],
+  (
+    "Qui est Theodora et d’où vient-elle ?",
+    "Theodora, de son nom complet Lili Théodora Mbangayo Mujinga, est une chanteuse et rappeuse franco-congolaise née le 23 octobre 2003 à Lucerne, en Suisse. Elle grandit entre la Grèce, le Congo et La Réunion, puis en France à partir de 2009, avant de s’installer à Saint-Denis. Son frère Jeez Suave est son compositeur, producteur et manager. Elle est aussi surnommée Boss Lady et Miss Kitoko.",
+  ),
+  (
+    "Pourquoi Theodora est-elle surnommée Boss Lady ?",
+    "Le surnom vient du titre « Boss Lady », sur l’EP « Lili aux paradis artificiels : tome 2 » de juillet 2023. Pendant les sessions, alors qu’elle est sérieusement malade, Implaccable lui demande en plaisantant comment une boss girl peut être malade, ce qui la pousse à continuer d’enregistrer et inspire le morceau. Le surnom revient ensuite dans le sigle BBL, Big Boss Lady, et dans son label, Boss Lady Records.",
+  ),
+  (
+    "« Kongolese sous BBL » est-il vraiment un titre bouyon ?",
+    "Oui, par sa classification et sa fabrication. Le single, sorti le 27 septembre 2024, est classé bouyon et hip-hop, et son instrumentale est un remix en version bouyon du titre « FNG » de Theodora, sorti en février 2024. Le bouyon n’y est pas un décor ajouté après coup : c’est la matrice rythmique du titre, qui a atteint la 10e place du SNEP et une certification diamant en France.",
+  ),
+  (
+    "Qui a produit « Kongolese sous BBL » ?",
+    "Jeez Suave, le frère aîné de Theodora, crédité à la production et à l’écriture, Theodora étant créditée au chant et à l’écriture. Né le 5 janvier 2000 à Athènes, il est celui qui a commencé à fabriquer des rythmes et lui a proposé de chanter, et il reste son compositeur, son producteur et son manager, de l’EP « Neptune » en 2021 aux mixtapes de 2024 et 2025.",
+  ),
+  (
+    "Que signifie BBL dans « Kongolese sous BBL » ?",
+    "Le sigle porte trois sens que l’artiste entretient : Brazilian Butt Lift, l’intervention de chirurgie esthétique, Big Boss Lady, son surnom, et Bad Boy Lovestory, le titre de sa première mixtape parue le 1er novembre 2024. La chanson est un hymne d’affirmation où elle célèbre son corps de femme noire, avec le refrain en lingala « Mwasi Sukali », qui signifie femme sucrée.",
+  ),
+  (
+    "Le bouyon de Theodora vient-il de la Dominique ?",
+    "Oui, le genre qu’elle reprend est né en Dominique, à la fin des années 1980, avec des groupes comme WCK, avant d’être travaillé en Guadeloupe et en Martinique. Theodora n’a jamais dit le contraire : elle explique avoir connu le bouyon à La Réunion et dans les clubs de la diaspora. Son succès ne change pas cette origine dominicaine, il la rend plus visible. Voir <a href=\"/qu-est-ce-que-le-bouyon.html\">qu’est-ce que le bouyon</a>.",
+  ),
+  (
+    "Theodora a-t-elle prétendu avoir inventé le bouyon ?",
+    "Non, et elle l’a dit publiquement. Répondant sur X à la polémique née dans la communauté caribéenne, elle écrit : « à aucun moment j’ai eu la prétention de dire que j’ai créé quelque chose d’inexistant. J’ai parlé des origines du bouyon en story, j’ai vécu à l’île de La Réunion et j’ai pas découvert le bouyon sur TikTok ». Elle ajoute que le problème vient de l’accès des Caribéens aux radios, aux médias et aux plateformes.",
+  ),
+  (
+    "Theodora est-elle antillaise ?",
+    "Non. Theodora est franco-congolaise, née en Suisse, et elle n’a jamais prétendu le contraire. C’est ce qui rend son dossier unique dans l’histoire du bouyon : « Kongolese sous BBL » est devenu le premier single bouyon certifié or en France par une artiste non antillaise, avant d’atteindre le diamant. Elle explique son rapport au genre par son enfance à La Réunion et par les clubs de la diaspora.",
+  ),
+  (
+    "Quel est le style musical de Theodora ?",
+    "Un style hybride, décrit par les médias comme extraordinairement varié : il fusionne bouyon, hyperpop, rap français, pop, afrobeat, amapiano, zouk, calypso, dancehall, R et B, rock, électronique et drum and bass. Elle refuse elle-même l’étiquette simple de rappeuse, tout en reconnaissant sa dette envers le rap dans son écriture. Ses débuts, de 2021 à 2023, puisaient plutôt dans la trap pop, le UK garage et la drum and bass.",
+  ),
+  (
+    "Quels ont été les débuts de Theodora ?",
+    "Son premier single, « La thune », sort en novembre 2018, alors qu’elle a 15 ans. Le 10 janvier 2021 paraît son premier EP, « Neptune », un projet trap pop sorti sur Neptune Production, le label indépendant du duo familial. Suivent « Le Paradis se trouve dans le 93 » le 7 décembre 2022, puis les deux EP « Lili aux paradis artificiels » en mars et juillet 2023, avant le titre bouyon de septembre 2024.",
+  ),
+  (
+    "Quels sont les plus gros succès de Theodora après « Kongolese sous BBL » ?",
+    "Sa mixtape « Bad Boy Lovestory » de novembre 2024 est certifiée triple platine, et sa réédition « Mega BBL » de mai 2025 remporte l’album de l’année aux Victoires de la musique 2026. « Fashion Designa » est certifié diamant, « Zou Bizou » avec Jul également, et « Melodrama », son duo avec Disiz sorti le 26 septembre 2025, reste dix semaines consécutives numéro un du Top Singles SNEP.",
+  ),
+  (
+    "Combien de Victoires de la musique Theodora a-t-elle gagnées ?",
+    "Quatre, le plus grand nombre de la soirée, lors de la 41e cérémonie des Victoires de la musique, le 13 février 2026 : album de l’année pour « Mega BBL », révélation féminine, révélation scène et création audiovisuelle. La même année, le 23 avril 2026, elle repart des Flammes avec cinq prix, dont artiste féminine de l’année, après la Flamme de la révélation féminine reçue en mai 2025.",
+  ),
+  (
+    "Theodora a-t-elle rempli le Zénith de Paris ?",
+    "Oui. Elle a affiché complet en moins de 15 minutes pour quatre dates au Zénith de Paris programmées en mars et avril 2026, soit 7 000 spectateurs par date et 28 000 personnes au total, alors qu’on lui avait d’abord proposé l’Olympia et ses 2 800 places. Le 2 mai 2026, elle a aussi interprété « Kongolese sous BBL » au Stade de France, invitée par Fally Ipupa.",
+  ),
+  (
+    "Où écouter Theodora et le bouyon qui l’a inspirée ?",
+    "Theodora est sur toutes les plateformes : commencez par « Kongolese sous BBL », puis la mixtape « Bad Boy Lovestory » et sa réédition « Mega BBL ». Pour entendre le bouyon à sa source, de la Dominique à la Guadeloupe et à la Martinique, la <a href=\"/playlist-bouyon.html\">playlist Bouyon Road Mix</a> de Bouyon Shattaz réunit les nouveautés des îles, le bouyon soca et les classiques du carnaval.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/theodora.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/theodora.html#artist", "name": "Theodora", "description": "Chanteuse et rappeuse franco-congolaise née en 2003 à Lucerne, installée à Saint-Denis. Son single bouyon Kongolese sous BBL, sorti le 27 septembre 2024, est le premier single bouyon certifié or puis diamant en France par une artiste non antillaise.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Kongolese sous BBL"}, {"@type": "MusicRecording", "name": "FNG"}, {"@type": "MusicRecording", "name": "Fashion Designa"}, {"@type": "MusicRecording", "name": "Ils me rient tous au nez"}, {"@type": "MusicRecording", "name": "PAY!"}, {"@type": "MusicRecording", "name": "Do U Wanna?"}, {"@type": "MusicRecording", "name": "Zou Bizou"}, {"@type": "MusicRecording", "name": "Mon bébé"}, {"@type": "MusicRecording", "name": "Masoko Na Mabele"}, {"@type": "MusicRecording", "name": "243 km/h"}, {"@type": "MusicRecording", "name": "Melodrama"}, {"@type": "MusicRecording", "name": "Le Paradis se trouve dans le 93"}, {"@type": "MusicRecording", "name": "Besoin d'aide"}, {"@type": "MusicRecording", "name": "Boss Lady"}, {"@type": "MusicRecording", "name": "La thune"},
       {
        "@type": "MusicRecording",
@@ -356,13 +406,63 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Theodora and where does she come from?", "Theodora, full name Lili Théodora Mbangayo Mujinga, is a French-Congolese singer and rapper born on 23 October 2003 in Lucerne, Switzerland. She grew up between Greece, Congo and Réunion, then in France from 2009, before settling in Saint-Denis. Her brother Jeez Suave is her composer, producer and manager. She is also nicknamed Boss Lady and Miss Kitoko."),
-  ("Is “Kongolese sous BBL” really a bouyon record?", "Yes, by classification and by construction. The single, released on 27 September 2024, is classified bouyon and hip-hop, and its instrumental is a bouyon style remix of Theodora track “FNG”, released in February 2024. The credits name Theodora for singing and writing and Jeez Suave for production and writing. The record reached No. 10 on the SNEP chart and a diamond certification in France."),
-  ("Did Theodora claim she invented bouyon?", "No, and she said so publicly. Answering the controversy in the Caribbean community on X, she wrote that at no point did she claim to have created something that did not exist, that she had talked about the origins of bouyon in her stories, that she had lived on Réunion Island and had not discovered bouyon on TikTok. She added that the problem is Caribbean people access to radio stations, media outlets and platforms."),
-  ("What does BBL mean in “Kongolese sous BBL”?", "The acronym carries three meanings the artist maintains: Brazilian Butt Lift, the cosmetic surgery procedure, Big Boss Lady, her nickname, and Bad Boy Lovestory, the title of her debut mixtape released on 1 November 2024. The song is an anthem of affirmation in which she celebrates her body as a Black woman, with the Lingala chorus “Mwasi Sukali”, meaning sweet woman, and the line “j me lève, j suis déjà belle”, I wake up already beautiful."),
-  ("What are Theodora biggest hits after “Kongolese sous BBL”?", "Her mixtape “Bad Boy Lovestory” of November 2024 was certified triple platinum and its reissue “Mega BBL” of May 2025 won Album of the Year at the 2026 Victoires de la Musique. “Fashion Designa” was certified diamond, “Zou Bizou” with Jul as well, and “Melodrama”, her duet with Disiz released on 26 September 2025, spent ten consecutive weeks at No. 1 on the SNEP Top Singles chart and was certified diamond."),
-  ("Is Theodora from the Caribbean?", "No. Theodora is French-Congolese, born in Switzerland, and she has never claimed otherwise. That is precisely what makes her record unique in bouyon history: “Kongolese sous BBL” became the first bouyon single certified gold in France by a non-Antillean artist, before reaching diamond. She explains her relationship to the genre through her childhood on Réunion Island and through the clubs of the diaspora in Paris, where, she says, there is bouyon and Afro-Caribbean music.")
- ],
+  (
+    "Who is Theodora and where does she come from?",
+    "Theodora, full name Lili Théodora Mbangayo Mujinga, is a French-Congolese singer and rapper born on 23 October 2003 in Lucerne, Switzerland. She grew up between Greece, Congo and Réunion, then in France from 2009, before settling in Saint-Denis. Her brother Jeez Suave is her composer, producer and manager. She is also nicknamed Boss Lady and Miss Kitoko.",
+  ),
+  (
+    "Why is Theodora called Boss Lady?",
+    "The nickname comes from the track “Boss Lady”, on the EP “Lili aux paradis artificiels: tome 2” of July 2023. During the sessions, while she was seriously ill, Implaccable jokingly asked her how a boss girl could be sick, which pushed her to keep recording and inspired the song. The nickname then returns in the acronym BBL, Big Boss Lady, and in her label, Boss Lady Records.",
+  ),
+  (
+    "Is “Kongolese sous BBL” really a bouyon record?",
+    "Yes, by classification and by construction. The single, released on 27 September 2024, is classified bouyon and hip-hop, and its instrumental is a bouyon style remix of Theodora’s track “FNG”, released in February 2024. Bouyon is not decoration added afterwards: it is the rhythmic core of the record, which reached No. 10 on the SNEP chart and a diamond certification in France.",
+  ),
+  (
+    "Who produced “Kongolese sous BBL”?",
+    "Jeez Suave, Theodora’s older brother, credited for production and writing, with Theodora credited for singing and writing. Born on 5 January 2000 in Athens, he is the one who started making beats and suggested she sing, and he remains her composer, producer and manager, from the EP “Neptune” in 2021 to the mixtapes of 2024 and 2025.",
+  ),
+  (
+    "What does BBL mean in “Kongolese sous BBL”?",
+    "The acronym carries three meanings the artist maintains: Brazilian Butt Lift, the cosmetic surgery procedure, Big Boss Lady, her nickname, and Bad Boy Lovestory, the title of her debut mixtape released on 1 November 2024. The song is an anthem of affirmation in which she celebrates her body as a Black woman, with the Lingala chorus “Mwasi Sukali”, meaning sweet woman.",
+  ),
+  (
+    "Does Theodora’s bouyon come from Dominica?",
+    "Yes, the genre she takes up was born in Dominica in the late 1980s, with bands such as WCK, before being worked on in Guadeloupe and Martinique. Theodora has never said otherwise: she explains that she knew bouyon from Réunion and from diaspora clubs. Her success does not change that Dominican origin, it makes it more visible. See <a href=\"/en/what-is-bouyon.html\">what is bouyon</a>.",
+  ),
+  (
+    "Did Theodora claim she invented bouyon?",
+    "No, and she said so publicly. Answering the controversy in the Caribbean community on X, she wrote that at no point did she claim to have created something that did not exist, that she had talked about the origins of bouyon in her stories, that she had lived on Réunion Island and had not discovered bouyon on TikTok. She added that the problem is Caribbean people’s access to radio, media and platforms.",
+  ),
+  (
+    "Is Theodora from the Caribbean?",
+    "No. Theodora is French-Congolese, born in Switzerland, and she has never claimed otherwise. That is what makes her record unique in bouyon history: “Kongolese sous BBL” became the first bouyon single certified gold in France by a non-Antillean artist, before reaching diamond. She explains her relationship to the genre through her childhood on Réunion Island and through the clubs of the diaspora.",
+  ),
+  (
+    "What is Theodora’s musical style?",
+    "A hybrid style, described by the media as extraordinarily varied: it fuses bouyon, hyperpop, French rap, pop, afrobeat, amapiano, zouk, calypso, dancehall, R and B, rock, electronic music and drum and bass. She herself rejects the simple label of rapper, while acknowledging her debt to rap in her writing. Her beginnings, from 2021 to 2023, drew rather on trap pop, UK garage and drum and bass.",
+  ),
+  (
+    "How did Theodora start out?",
+    "Her first single, “La thune”, came out in November 2018, when she was 15. On 10 January 2021 came her first EP, “Neptune”, a trap pop project released on Neptune Production, the independent label of the family duo. Then came “Le Paradis se trouve dans le 93” on 7 December 2022, and the two “Lili aux paradis artificiels” EPs in March and July 2023, before the bouyon record of September 2024.",
+  ),
+  (
+    "What are Theodora’s biggest hits after “Kongolese sous BBL”?",
+    "Her mixtape “Bad Boy Lovestory” of November 2024 was certified triple platinum, and its reissue “Mega BBL” of May 2025 won Album of the Year at the 2026 Victoires de la Musique. “Fashion Designa” was certified diamond, “Zou Bizou” with Jul as well, and “Melodrama”, her duet with Disiz released on 26 September 2025, spent ten consecutive weeks at No. 1 on the SNEP Top Singles chart.",
+  ),
+  (
+    "How many Victoires de la Musique has Theodora won?",
+    "Four, the most of the night, at the 41st Victoires de la Musique ceremony on 13 February 2026: Album of the Year for “Mega BBL”, Female Revelation, Stage Revelation and Audiovisual Creation. The same year, on 23 April 2026, she left the Flammes with five awards, including Female Artist of the Year, after the Female Revelation Flamme she received in May 2025.",
+  ),
+  (
+    "Did Theodora sell out the Zenith in Paris?",
+    "Yes. She sold out four dates at the Zenith in Paris, scheduled for March and April 2026, in under 15 minutes, 7,000 spectators per date and 28,000 people in total, when she had first been offered the Olympia and its 2,800 seats. On 2 May 2026, she also performed “Kongolese sous BBL” at the Stade de France as a guest of Fally Ipupa.",
+  ),
+  (
+    "Where can I hear Theodora and the bouyon behind her?",
+    "Theodora is on every platform: start with “Kongolese sous BBL”, then the mixtape “Bad Boy Lovestory” and its reissue “Mega BBL”. To hear bouyon at its source, from Dominica to Guadeloupe and Martinique, the <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix playlist</a> by Bouyon Shattaz gathers new music from the islands, bouyon soca and carnival classics.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/theodora.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/theodora.html#artist", "name": "Theodora", "description": "French-Congolese singer and rapper born in 2003 in Lucerne, based in Saint-Denis. Her bouyon single Kongolese sous BBL, released on 27 September 2024, is the first bouyon single certified gold then diamond in France by a non-Caribbean artist.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Kongolese sous BBL"}, {"@type": "MusicRecording", "name": "FNG"}, {"@type": "MusicRecording", "name": "Fashion Designa"}, {"@type": "MusicRecording", "name": "Ils me rient tous au nez"}, {"@type": "MusicRecording", "name": "PAY!"}, {"@type": "MusicRecording", "name": "Do U Wanna?"}, {"@type": "MusicRecording", "name": "Zou Bizou"}, {"@type": "MusicRecording", "name": "Mon bébé"}, {"@type": "MusicRecording", "name": "Masoko Na Mabele"}, {"@type": "MusicRecording", "name": "243 km/h"}, {"@type": "MusicRecording", "name": "Melodrama"}, {"@type": "MusicRecording", "name": "Le Paradis se trouve dans le 93"}, {"@type": "MusicRecording", "name": "Besoin d'aide"}, {"@type": "MusicRecording", "name": "Boss Lady"}, {"@type": "MusicRecording", "name": "La thune"},
       {
        "@type": "MusicRecording",

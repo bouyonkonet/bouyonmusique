@@ -78,13 +78,55 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui sont les chanteuses de Totally Spice's ?", "Les crédits publiés nomment deux voix : Carcheline Cereme et Naima Dimina, créditées au chant et aux paroles sur « 6 Dwèt » et sur le titre du groupe retenu par la playlist officielle des Eurockéennes 2025. Sur « Chien », Carcheline Cereme est créditée au chant et aux paroles. Aucune source consultée ne publie d’autre membre nommé ni de biographie du groupe."),
-  ("Quels sont les titres vérifiés de Totally Spice's ?", "Trois titres sont documentés par les plateformes : « Chien », single sorti le 6 février 2024 chez iMD-DRECORDS, à 162 BPM, produit par D0 Production et composé par Daryl Clarisse ; « Bouè'y Bay », avec TiiTii NBA en featuring, présenté par D0 Production ; et « 6 Dwèt », avec LESTEF KJF et DJ Luchshiy, sorti le 15 février 2025 chez Dreamtracks, à 160 BPM."),
-  ("Totally Spice's a-t-il joué aux Eurockéennes ?", "Oui. La programmation officielle des Eurockéennes de Belfort 2025 place Totally Spice's et Holly G le vendredi 4 juillet 2025 sur le plateau Bad Gyal Bouyon Lé Bon, consacré au bouyon. Le directeur du festival, Jean-Paul Roland, a présenté les deux formations comme les groupes féminins emblématiques de la scène bouyon venue des Antilles."),
-  ("Totally Spice's est-il l’artiste hyperpop décrit sur certains sites de billetterie ?", "Non, rien ne le démontre. Ces sites publient sous le nom « Totally Spice » une biographie générée parlant d’hyperpop, de glitchcore et de titres appelés « BOOM » et « C.L.E.A.N », sans aucun lien avec les chanteuses, les producteurs ou les titres vérifiés du groupe guadeloupéen. Ce profil traite ce texte comme la fiche d’un autre artiste, fusionnée par erreur par les agrégateurs."),
-  ("Qui produit les titres de Totally Spice's ?", "Les deux premiers titres, « Chien » et « Bouè'y Bay », sont produits par D0 Production, avec Daryl Clarisse à la composition et à la programmation. Sur « 6 Dwèt », la production et l’arrangement sont signés Yoan Courcet, qui produit aussi le titre du groupe retenu par la playlist des Eurockéennes 2025, composé par Allan Blonbou."),
-  ("Où écouter Totally Spice's et le bouyon féminin de Guadeloupe ?", "Commencez par « Chien », puis « Bouè'y Bay » avec TiiTii NBA et « 6 Dwèt » avec LESTEF KJF. Notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> suit la scène gwada au fil des saisons, et nos pages <a href=\"/femmes-du-bouyon.html\">femmes du bouyon</a> et <a href=\"/bouyon-guadeloupe.html\">bouyon Guadeloupe</a> donnent le contexte du groupe.")
- ],
+  (
+    "Qui est Totally Spice's ?",
+    "Totally Spice's est un groupe féminin de bouyon venu de Guadeloupe, porté par deux voix nommées dans les crédits, Carcheline Cereme et Naima Dimina. Son dossier tient en trois titres vérifiés, « Chien », « Bouè'y Bay » et « 6 Dwèt », et en une consécration rare : le plateau Bad Gyal Bouyon Lé Bon des Eurockéennes de Belfort, le 4 juillet 2025, aux côtés de Holly G.",
+  ),
+  (
+    "Comment s’écrit le nom : Totally Spice's, Totally Spices ou Totally Spice ?",
+    "La forme publiée par les crédits et les festivals est Totally Spice's, avec apostrophe et s final. Le clip de « Chien » porte aussi le mot-clé Totallyspices, sans apostrophe. La forme Totally Spice, sans s, est en revanche celle d’une biographie générée par des sites de billetterie pour un artiste d’hyperpop sans rapport avec le groupe guadeloupéen : c’est le piège de recherche à éviter.",
+  ),
+  (
+    "D’où vient Totally Spice's ?",
+    "De Guadeloupe. La présentation des Eurockéennes 2025 parle de leurs « bases guadeloupéennes », à 7 000 kilomètres de Belfort, et les crédits du groupe dessinent le circuit de production de l’île : le studio producteur D0 Production, le studio de clip Play Studio 971, l’enregistrement chez Urban Music. Le directeur du festival les présente comme une figure de la scène bouyon venue des Antilles.",
+  ),
+  (
+    "Qui sont les chanteuses de Totally Spice's ?",
+    "Les crédits publiés nomment deux voix : Carcheline Cereme et Naima Dimina, créditées au chant et aux paroles sur « 6 Dwèt » et sur le titre du groupe retenu par la playlist officielle des Eurockéennes 2025. Sur « Chien », Carcheline Cereme est créditée au chant et aux paroles. Aucune source consultée ne publie d’autre membre nommé ni de biographie du groupe.",
+  ),
+  (
+    "Quels sont les titres vérifiés de Totally Spice's ?",
+    "Trois titres sont documentés par les plateformes : « Chien », single sorti le 6 février 2024 chez iMD-DRECORDS, à 162 BPM ; « Bouè'y Bay », avec TiiTii NBA en featuring, présenté par D0 Production ; et « 6 Dwèt », avec LESTEF KJF et DJ Luchshiy, sorti le 15 février 2025 chez Dreamtracks, à 160 BPM. Aucun album ni EP ne figure dans les catalogues consultés.",
+  ),
+  (
+    "Qui produit les titres de Totally Spice's ?",
+    "Les deux premiers titres, « Chien » et « Bouè'y Bay », sont produits par D0 Production, avec Daryl Clarisse à la composition et à la programmation. Sur « 6 Dwèt », la production et l’arrangement sont signés Yoan Courcet, qui produit aussi le titre du groupe retenu par la playlist des Eurockéennes 2025, composé par Allan Blonbou, chez Dreamtracks.",
+  ),
+  (
+    "Qui a réalisé le clip de « Chien » de Totally Spice's ?",
+    "Play Studio 971, selon la description du clip officiel « D0Production Feat. Totally Spice's, Chien », daté de 2023. L’instrumental est de D0 Production, l’enregistrement d’Urban Music et l’édition de Yapasdesouci.comm, avec des remerciements au Drift Riderz et à la Gwada Hot Boyz. Le titre sort ensuite en single le 6 février 2024, et le mix « Vaïbz Party #2 » de DJ T-Sia le place à la vingtième minute.",
+  ),
+  (
+    "Totally Spice's a-t-il joué aux Eurockéennes ?",
+    "Oui. La programmation officielle des Eurockéennes de Belfort 2025 place Totally Spice's et Holly G le vendredi 4 juillet 2025 sur le plateau Bad Gyal Bouyon Lé Bon, consacré au bouyon. Le directeur du festival, Jean-Paul Roland, a présenté les deux formations comme les groupes féminins emblématiques de la scène bouyon venue des Antilles, selon ses propres mots.",
+  ),
+  (
+    "Quel est le lien entre Totally Spice's et Holly G ?",
+    "Les deux formations féminines de Guadeloupe partagent l’affiche depuis 2025 : le plateau Bad Gyal Bouyon Lé Bon des Eurockéennes, le 4 juillet 2025, puis la soirée de L’Été Marseillais du 25 juillet 2026, annoncée « Holly G & Totally Spice's ». Aucune collaboration enregistrée entre elles n’est documentée : leur lien publié est un lien de scène. Voir notre profil de <a href=\"/holly-g.html\">Holly G</a>.",
+  ),
+  (
+    "Où voir Totally Spice's en concert en 2026 ?",
+    "Deux dates sont publiées. Le samedi 25 juillet 2026, le groupe joue avec Holly G sur la Scène sur l’eau de L’Été Marseillais, le festival gratuit de la Ville de Marseille, avec Scorpio Qveen et Jungeli. Le samedi 31 octobre 2026, la soirée « Halloween Spices » de Good Life événements annonce un show exclusif au Jam Session de Melesse, en Bretagne.",
+  ),
+  (
+    "Totally Spice's est-il l’artiste hyperpop décrit sur certains sites de billetterie ?",
+    "Non, rien ne le démontre. Ces sites publient sous le nom « Totally Spice » une biographie générée parlant d’hyperpop, de glitchcore et de titres appelés « BOOM » et « C.L.E.A.N », sans aucun lien avec les chanteuses, les producteurs ou les titres vérifiés du groupe guadeloupéen. Ce profil traite ce texte comme la fiche d’un autre artiste, fusionnée par erreur par les agrégateurs.",
+  ),
+  (
+    "Où écouter Totally Spice's et le bouyon féminin de Guadeloupe ?",
+    "Commencez par « Chien », puis « Bouè'y Bay » avec TiiTii NBA et « 6 Dwèt » avec LESTEF KJF et DJ Luchshiy. Pour entendre la scène dans laquelle le groupe circule, des nouveautés de la Dominique à celles de la Guadeloupe et de la Martinique, la <a href=\"/playlist-bouyon.html\">playlist Bouyon Road Mix</a> de Bouyon Shattaz suit les sorties du genre au fil des saisons.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/totally-spices.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/totally-spices.html#artist", "name": "Totally Spice's", "description": "Totally Spice's, groupe féminin de bouyon de Guadeloupe. Voix créditées : Carcheline Cereme et Naima Dimina. Titres vérifiés : Chien (2024, D0 Production), Bouè'y Bay avec TiiTii NBA, 6 Dwèt avec LESTEF KJF (2025). Plateau Bad Gyal Bouyon Lé Bon avec Holly G aux Eurockéennes 2025 et à L’Été Marseillais 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Chien"}, {"@type": "MusicRecording", "name": "Bouè'y Bay"}, {"@type": "MusicRecording", "name": "6 Dwèt"},
       {
        "@type": "MusicRecording",
@@ -185,13 +227,55 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who are the singers of Totally Spice's?", "The published credits name two voices: Carcheline Cereme and Naima Dimina, credited on vocals and lyrics on “6 Dwèt” and on the group track selected by the official Eurockéennes 2025 playlist. On “Chien”, Carcheline Cereme is credited on vocals and lyrics. No source consulted publishes any other named member or a biography of the group."),
-  ("What are the verified tracks of Totally Spice's?", "Three tracks are documented by the platforms: “Chien”, a single released on February 6, 2024 on iMD-DRECORDS, at 162 BPM, produced by D0 Production and composed by Daryl Clarisse; “Bouè'y Bay”, with TiiTii NBA as a feature, presented by D0 Production; and “6 Dwèt”, with LESTEF KJF and DJ Luchshiy, released on February 15, 2025 on Dreamtracks, at 160 BPM."),
-  ("Did Totally Spice's play the Eurockéennes?", "Yes. The official Eurockéennes de Belfort 2025 programme places Totally Spice's and Holly G on Friday July 4, 2025 on the Bad Gyal Bouyon Lé Bon stage, devoted to bouyon. The festival director, Jean-Paul Roland, presented both acts as the emblematic women groups of the bouyon scene come from the Antilles."),
-  ("Is Totally Spice's the hyperpop artist described on some ticketing sites?", "No, nothing demonstrates it. Those sites publish under the name “Totally Spice” a generated biography speaking of hyperpop, glitchcore and tracks called “BOOM” and “C.L.E.A.N”, with no link to the singers, producers or verified tracks of the Guadeloupe group. This profile treats that text as the listing of another artist, merged by mistake by the aggregators."),
-  ("Who produces the tracks of Totally Spice's?", "The first two tracks, “Chien” and “Bouè'y Bay”, are produced by D0 Production, with Daryl Clarisse on composition and programming. On “6 Dwèt”, production and arrangement are signed Yoan Courcet, who also produces the group track selected by the Eurockéennes 2025 playlist, composed by Allan Blonbou."),
-  ("Where can I hear Totally Spice's and the women bouyon of Guadeloupe?", "Start with “Chien”, then “Bouè'y Bay” with TiiTii NBA and “6 Dwèt” with LESTEF KJF. Our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> follows the Gwada scene season by season, and our <a href=\"/en/women-of-bouyon.html\">women of bouyon</a> and <a href=\"/en/bouyon-guadeloupe.html\">bouyon Guadeloupe</a> pages give the context of the group.")
- ],
+  (
+    "Who are Totally Spice's?",
+    "Totally Spice's is a women’s bouyon group from Guadeloupe, carried by two voices named in the credits, Carcheline Cereme and Naima Dimina. Its file holds three verified tracks, “Chien”, “Bouè'y Bay” and “6 Dwèt”, and a rare consecration: the Bad Gyal Bouyon Lé Bon stage of the Eurockéennes de Belfort, on July 4, 2025, alongside Holly G.",
+  ),
+  (
+    "How is the name spelled: Totally Spice's, Totally Spices or Totally Spice?",
+    "The form published by the credits and the festivals is Totally Spice's, with an apostrophe and a final s. The “Chien” video also carries the hashtag Totallyspices, without the apostrophe. The form Totally Spice, with no s, is however that of a biography generated by ticketing sites for a hyperpop artist unrelated to the Guadeloupe group: that is the search trap to avoid.",
+  ),
+  (
+    "Where are Totally Spice's from?",
+    "From Guadeloupe. The Eurockéennes 2025 presentation speaks of their “Guadeloupe bases”, 7,000 kilometres from Belfort, and the group’s credits map the island’s production circuit: the producing studio D0 Production, the video studio Play Studio 971, recording at Urban Music. The festival director presents them as a figure of the bouyon scene come from the Antilles.",
+  ),
+  (
+    "Who are the singers of Totally Spice's?",
+    "The published credits name two voices: Carcheline Cereme and Naima Dimina, credited on vocals and lyrics on “6 Dwèt” and on the group track selected by the official Eurockéennes 2025 playlist. On “Chien”, Carcheline Cereme is credited on vocals and lyrics. No source consulted publishes any other named member or a biography of the group.",
+  ),
+  (
+    "What are the verified tracks of Totally Spice's?",
+    "Three tracks are documented by the platforms: “Chien”, a single released on February 6, 2024 on iMD-DRECORDS, at 162 BPM; “Bouè'y Bay”, with TiiTii NBA as a feature, presented by D0 Production; and “6 Dwèt”, with LESTEF KJF and DJ Luchshiy, released on February 15, 2025 on Dreamtracks, at 160 BPM. No album or EP appears in the catalogues consulted.",
+  ),
+  (
+    "Who produces the tracks of Totally Spice's?",
+    "The first two tracks, “Chien” and “Bouè'y Bay”, are produced by D0 Production, with Daryl Clarisse on composition and programming. On “6 Dwèt”, production and arrangement are signed Yoan Courcet, who also produces the group track selected by the Eurockéennes 2025 playlist, composed by Allan Blonbou, on Dreamtracks.",
+  ),
+  (
+    "Who directed the Totally Spice's “Chien” video?",
+    "Play Studio 971, according to the description of the official video “D0Production Feat. Totally Spice's, Chien”, dated 2023. The instrumental is by D0 Production, the recording by Urban Music and the publishing by Yapasdesouci.comm, with thanks to Drift Riderz and Gwada Hot Boyz. The track then came out as a single on February 6, 2024, and DJ T-Sia’s “Vaïbz Party #2” mix places it at the twentieth minute.",
+  ),
+  (
+    "Did Totally Spice's play the Eurockéennes?",
+    "Yes. The official Eurockéennes de Belfort 2025 programme places Totally Spice's and Holly G on Friday July 4, 2025 on the Bad Gyal Bouyon Lé Bon stage, devoted to bouyon. The festival director, Jean-Paul Roland, presented both acts as the emblematic women’s groups of the bouyon scene come from the Antilles, in his own words.",
+  ),
+  (
+    "What is the link between Totally Spice's and Holly G?",
+    "The two women’s groups from Guadeloupe have shared bills since 2025: the Bad Gyal Bouyon Lé Bon stage of the Eurockéennes on July 4, 2025, then the L’Été Marseillais night of July 25, 2026, billed “Holly G & Totally Spice's”. No recorded collaboration between them is documented: their published link is a stage link. See our <a href=\"/en/holly-g.html\">Holly G</a> profile.",
+  ),
+  (
+    "Where can I see Totally Spice's live in 2026?",
+    "Two dates are published. On Saturday July 25, 2026, the group plays with Holly G on the Scène sur l’eau of L’Été Marseillais, the free festival of the City of Marseille, with Scorpio Qveen and Jungeli. On Saturday October 31, 2026, the “Halloween Spices” night by Good Life événements announces an exclusive show at the Jam Session in Melesse, Brittany.",
+  ),
+  (
+    "Is Totally Spice's the hyperpop artist described on some ticketing sites?",
+    "No, nothing demonstrates it. Those sites publish under the name “Totally Spice” a generated biography speaking of hyperpop, glitchcore and tracks called “BOOM” and “C.L.E.A.N”, with no link to the singers, producers or verified tracks of the Guadeloupe group. This profile treats that text as the listing of another artist, merged by mistake by the aggregators.",
+  ),
+  (
+    "Where can I hear Totally Spice's and the women of Guadeloupe bouyon?",
+    "Start with “Chien”, then “Bouè'y Bay” with TiiTii NBA and “6 Dwèt” with LESTEF KJF and DJ Luchshiy. To hear the scene the group moves in, from new music out of Dominica to that of Guadeloupe and Martinique, the <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix playlist</a> by Bouyon Shattaz follows the genre’s releases season by season.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/totally-spices.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/totally-spices.html#artist", "name": "Totally Spice's", "description": "Totally Spice's, women bouyon group from Guadeloupe. Credited voices: Carcheline Cereme and Naima Dimina. Verified tracks: Chien (2024, D0 Production), Bouè'y Bay with TiiTii NBA, 6 Dwèt with LESTEF KJF (2025). Bad Gyal Bouyon Lé Bon stage with Holly G at the Eurockéennes 2025 and at L'Été Marseillais 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Chien"}, {"@type": "MusicRecording", "name": "Bouè'y Bay"}, {"@type": "MusicRecording", "name": "6 Dwèt"},
       {
        "@type": "MusicRecording",

@@ -82,13 +82,55 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Ti locksée ?", "Ti locksée est une voix du circuit bouyon de Guadeloupe rattachée au studio GAMMALAB. Son dossier public vérifié compte deux traces : le duo « Sexuelle Attirance » avec MA6MO, sur l’album « Voyé sa alléé II » de Team Bwè Tou Sa en 2022, et le titre solo « Je t’ai dans la tête », dont il est crédité auteur et interprète. Aucune biographie officielle n’a été retrouvée pendant la recherche de ce profil."),
-  ("Quels sont les titres vérifiés de Ti locksée ?", "Deux titres : « Sexuelle Attirance », duo avec MA6MO publié comme huitième piste de « Voyé sa alléé II » le 8 juillet 2022 chez iMD-GAMMA_LAB, et « Je t’ai dans la tête », titre solo composé par dannyebtracks, enregistré, mixé et masterisé chez GAMMA LAB, annoncé comme disponible sur toutes les plateformes. Aucun autre titre n’a été rattaché à ce nom sur les plateformes consultées."),
-  ("Quel est le lien entre Ti locksée et Team Bwè Tou Sa ?", "Le collectif Team Bwè Tou Sa publie l’album qui porte son duo de 2022, et son laboratoire GAMMALAB enregistre et finit son titre solo. Ti locksée est donc documenté comme une voix proche du collectif et de son studio, sans qu’aucune source ne le présente comme un membre du collectif."),
-  ("Ti locksée a-t-il sorti un album ou un EP ?", "Aucun album, EP ou single en nom principal autre que « Je t’ai dans la tête » n’a été retrouvé sur les plateformes consultées pour ce profil. Son catalogue vérifiable se compose d’un duo sur un album collectif et d’un titre solo. Si d’autres sorties existent sous une autre graphie, elles ne sont pas rattachées à son nom dans les catalogues publics."),
-  ("Ti locksée et Le Locksé, est-ce le même artiste ?", "Aucune source consultée ne le dit, et les documents ouverts décrivent deux dossiers distincts. Le Locksé est crédité sur « R.E.R », sorti le 13 juin 2021 chez 7Crew Ltd., avec des auteurs nommés Benjamin Leduc et Thibault Monfroy, dans un registre hip hop et rap. Ti locksée apparaît dans le circuit bouyon de GAMMALAB. Ce profil garde les deux noms séparés."),
-  ("Où écouter Ti locksée ?", "Écoutez « Sexuelle Attirance » sur l’album « Voyé sa alléé II » de <a href=\"/team-bwe-tou-sa.html\">Team Bwè Tou Sa</a>, puis « Je t’ai dans la tête » en vidéo et sur les plateformes. Pour le contexte, notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> et notre page <a href=\"/bouyon-gwada.html\">bouyon gwada</a> couvrent la scène GAMMALAB dont ces deux titres sont issus.")
- ],
+  (
+    "Qui est Ti locksée ?",
+    "Ti locksée est une voix du circuit bouyon de Guadeloupe rattachée au studio GAMMALAB. Son dossier public vérifié compte deux traces : le duo « Sexuelle Attirance » avec MA6MO, sur l’album « Voyé sa alléé II » de Team Bwè Tou Sa en 2022, et le titre solo « Je t’ai dans la tête », dont il est crédité auteur et interprète. Aucune biographie officielle n’a été retrouvée pendant la recherche de ce profil.",
+  ),
+  (
+    "Quels sont les titres vérifiés de Ti locksée ?",
+    "Deux titres : « Sexuelle Attirance », duo avec MA6MO publié comme huitième piste de « Voyé sa alléé II » le 8 juillet 2022 chez iMD-GAMMA_LAB, et « Je t’ai dans la tête », titre solo composé par dannyebtracks, enregistré, mixé et masterisé chez GAMMA LAB, annoncé comme disponible sur toutes les plateformes. Aucun autre titre n’a été rattaché à ce nom sur les plateformes consultées.",
+  ),
+  (
+    "Qui a composé « Je t’ai dans la tête » de Ti locksée ?",
+    "« Je t’ai dans la tête » est composé par dannyebtracks, selon le générique de la page vidéo officielle. Ti Locksée y est crédité auteur et interprète, GAMMA LAB signe l’enregistrement, le mixage et le mastering, et NagolPrD réalise les visuels. La description annonce le titre sur toutes les plateformes, mais ne donne ni date de sortie, ni label, ni durée.",
+  ),
+  (
+    "Quand est sorti « Sexuelle Attirance » de MA6MO et Ti locksée ?",
+    "« Sexuelle Attirance » est sorti le 8 juillet 2022, comme huitième des quatorze pistes de l’album « Voyé sa alléé II » du collectif <a href=\"/team-bwe-tou-sa.html\">Team Bwè Tou Sa</a>, chez iMD-GAMMA_LAB. La date et l’enseigne viennent de la fiche du titre d’ouverture de l’album, « Game Over ». C’est le seul titre où Ti locksée est crédité aux côtés d’un autre artiste.",
+  ),
+  (
+    "Qui est MA6MO, le partenaire de Ti locksée ?",
+    "MA6MO est l’autre voix de « Sexuelle Attirance », le duo de 2022 sur « Voyé sa alléé II ». Comme Ti locksée, il n’est pas un membre affiché de Team Bwè Tou Sa, mais une voix de la maison GAMMALAB, et son propre dossier tient lui aussi en trois crédits seulement. Son profil est sur notre page <a href=\"/ma6mo.html\">MA6MO</a>.",
+  ),
+  (
+    "Quel est le lien entre Ti locksée et Team Bwè Tou Sa ?",
+    "Le collectif Team Bwè Tou Sa publie l’album qui porte son duo de 2022, et son laboratoire GAMMALAB enregistre et finit son titre solo. Ti locksée est donc documenté comme une voix proche du collectif et de son studio, sans qu’aucune source ne le présente comme un membre du collectif.",
+  ),
+  (
+    "Qu’est-ce que GAMMALAB, le studio de Ti locksée ?",
+    "GAMMALAB est le laboratoire sonore du collectif Team Bwè Tou Sa : label des débuts, ingénierie des titres, nom revendiqué jusque dans des intitulés comme « Toufé GAMMALAB4 ». Le collectif y a publié trois albums, en 2021, 2022 et 2024, avec une famille de voix comme Lunik, FLW, MA6MO et Le Dext. Ti locksée y a enregistré son duo comme son titre solo.",
+  ),
+  (
+    "Ti locksée fait-il partie du bouyon gwada ?",
+    "Oui, ses deux génériques le placent dans le circuit bouyon de Guadeloupe : un album guadeloupéen et un studio guadeloupéen. Le public de cette scène écoute entre l’île et la diaspora hexagonale, les données d’audience du collectif plaçant la France en tête et la Guadeloupe en deuxième. Ce rattachement ne dit pas où il est né : son origine n’est publiée nulle part. Voir notre page <a href=\"/bouyon-gwada.html\">bouyon gwada</a>.",
+  ),
+  (
+    "Ti locksée ou Ti Locksée : comment s’écrit son nom ?",
+    "Les deux graphies existent dans ses propres crédits : « Ti locksée » dans la liste de l’album de 2022, « Ti Locksée » dans le générique de la vidéo solo. Ce profil garde Ti locksée, la graphie du duo qui l’a fait entrer dans le catalogue public, et signale la variante plutôt que de la lisser.",
+  ),
+  (
+    "Ti locksée a-t-il sorti un album ou un EP ?",
+    "Non, aucun album, EP ou single en nom principal autre que « Je t’ai dans la tête » n’a été retrouvé sur les plateformes consultées pour ce profil. Son catalogue vérifiable se compose d’un duo sur un album collectif et d’un titre solo. Si d’autres sorties existent sous une autre graphie, elles ne sont pas rattachées à son nom dans les catalogues publics.",
+  ),
+  (
+    "Ti locksée et Le Locksé, est-ce le même artiste ?",
+    "Aucune source consultée ne le dit, et les documents ouverts décrivent deux dossiers distincts. Le Locksé est crédité sur « R.E.R », sorti le 13 juin 2021 chez 7Crew Ltd., avec des auteurs nommés Benjamin Leduc et Thibault Monfroy, dans un registre hip hop et rap. Ti locksée apparaît dans le circuit bouyon de GAMMALAB. Ce profil garde les deux noms séparés.",
+  ),
+  (
+    "Où écouter Ti locksée ?",
+    "Écoutez « Sexuelle Attirance » sur l’album « Voyé sa alléé II » de Team Bwè Tou Sa, puis « Je t’ai dans la tête » en vidéo et sur les plateformes. Pour entendre la scène bouyon actuelle dans son ensemble, la Road Mix de notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> est le point d’entrée du site.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/ti-locksee.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/ti-locksee.html#artist", "name": "Ti locksée", "description": "Voix du circuit bouyon de Guadeloupe rattachée au studio GAMMALAB, connue par deux traces vérifiées : le duo Sexuelle Attirance avec MA6MO sur Voyé sa alléé II de Team Bwè Tou Sa (2022) et le titre solo Je t’ai dans la tête, composé par dannyebtracks et enregistré chez GAMMA LAB. Aucune biographie ni origine publiée retrouvée en octobre 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Sexuelle Attirance"}, {"@type": "MusicRecording", "name": "Je t’ai dans la tête"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -151,13 +193,55 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Ti locksée?", "Ti locksée is a voice of the Guadeloupe bouyon circuit attached to the GAMMA LAB studio. His verified public file counts two traces: the duet “Sexuelle Attirance” with MA6MO, on the Team Bwè Tou Sa album “Voyé sa alléé II” in 2022, and the solo record “Je t’ai dans la tête”, on which he is credited as writer and performer. No official biography was found during the research for this profile."),
-  ("What are the verified records of Ti locksée?", "Two records: “Sexuelle Attirance”, a duet with MA6MO released as track eight of “Voyé sa alléé II” on July 8, 2022 on iMD-GAMMA_LAB, and “Je t’ai dans la tête”, a solo record composed by dannyebtracks, recorded, mixed and mastered at GAMMA LAB, announced as available on all platforms. No other record was attached to this name on the platforms consulted."),
-  ("What is the link between Ti locksée and Team Bwè Tou Sa?", "The collective Team Bwè Tou Sa releases the album that carries his 2022 duet, and its GAMMALAB laboratory records and finishes his solo record. Ti locksée is therefore documented as a voice close to the collective and its studio, without any source presenting him as a member of the collective."),
-  ("Has Ti locksée released an album or an EP?", "No album, EP or single under a lead billing other than “Je t’ai dans la tête” was found on the platforms consulted for this profile. His verifiable catalogue is made of one duet on a collective album and one solo record. If further releases exist under another spelling, they are not attached to his name in the public catalogues."),
-  ("Are Ti locksée and Le Locksé the same artist?", "No source consulted says so, and the opened documents describe two distinct files. Le Locksé is credited on “R.E.R”, released on June 13, 2021 by 7Crew Ltd., with writers named Benjamin Leduc and Thibault Monfroy, in a hip hop and rap register. Ti locksée appears in the GAMMALAB bouyon circuit. This profile keeps the two names separate."),
-  ("Where can I hear Ti locksée?", "Hear “Sexuelle Attirance” on the <a href=\"/en/team-bwe-tou-sa.html\">Team Bwè Tou Sa</a> album “Voyé sa alléé II”, then “Je t’ai dans la tête” on video and on the platforms. For context, our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> and our <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a> page cover the GAMMALAB scene those two records come from.")
- ],
+  (
+    "Who is Ti locksée?",
+    "Ti locksée is a voice of the Guadeloupe bouyon circuit attached to the GAMMA LAB studio. His verified public file counts two traces: the duet “Sexuelle Attirance” with MA6MO, on the Team Bwè Tou Sa album “Voyé sa alléé II” in 2022, and the solo record “Je t’ai dans la tête”, on which he is credited as writer and performer. No official biography was found during the research for this profile.",
+  ),
+  (
+    "What are the verified records of Ti locksée?",
+    "Two records: “Sexuelle Attirance”, a duet with MA6MO released as track eight of “Voyé sa alléé II” on July 8, 2022 on iMD-GAMMA_LAB, and “Je t’ai dans la tête”, a solo record composed by dannyebtracks, recorded, mixed and mastered at GAMMA LAB, announced as available on all platforms. No other record was attached to this name on the platforms consulted.",
+  ),
+  (
+    "Who composed “Je t’ai dans la tête” by Ti locksée?",
+    "“Je t’ai dans la tête” was composed by dannyebtracks, according to the credit block of the official video page. Ti Locksée is credited there as writer and performer, GAMMA LAB signs the recording, the mixing and the mastering, and NagolPrD directed the visuals. The description announces the record on all platforms, but gives no release date, label or duration.",
+  ),
+  (
+    "When was “Sexuelle Attirance” by MA6MO and Ti locksée released?",
+    "“Sexuelle Attirance” came out on July 8, 2022, as the eighth of fourteen tracks on the album “Voyé sa alléé II” by the collective <a href=\"/en/team-bwe-tou-sa.html\">Team Bwè Tou Sa</a>, on iMD-GAMMA_LAB. The date and imprint come from the page of the album opening record, “Game Over”. It is the only record on which Ti locksée is credited alongside another artist.",
+  ),
+  (
+    "Who is MA6MO, the partner of Ti locksée?",
+    "MA6MO is the other voice of “Sexuelle Attirance”, the 2022 duet on “Voyé sa alléé II”. Like Ti locksée, he is not a billed member of Team Bwè Tou Sa but a voice of the GAMMALAB house, and his own file also rests on three credits only. His profile is on our <a href=\"/en/ma6mo.html\">MA6MO</a> page.",
+  ),
+  (
+    "What is the link between Ti locksée and Team Bwè Tou Sa?",
+    "The collective Team Bwè Tou Sa releases the album that carries his 2022 duet, and its GAMMALAB laboratory records and finishes his solo record. Ti locksée is therefore documented as a voice close to the collective and its studio, without any source presenting him as a member of the collective.",
+  ),
+  (
+    "What is GAMMALAB, the studio of Ti locksée?",
+    "GAMMALAB is the sound laboratory of the collective Team Bwè Tou Sa: the label of the early days, the engineering behind the records, a name claimed inside titles such as “Toufé GAMMALAB4”. The collective released three albums there, in 2021, 2022 and 2024, with a family of voices such as Lunik, FLW, MA6MO and Le Dext. Ti locksée recorded both his duet and his solo record there.",
+  ),
+  (
+    "Is Ti locksée part of bouyon gwada?",
+    "Yes, his two credit blocks place him in the Guadeloupe bouyon circuit: a Guadeloupean album and a Guadeloupean studio. That scene is heard between the island and the mainland diaspora, with audience data for the collective placing France first and Guadeloupe second. That link does not say where he was born: his origin is published nowhere. See our <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a> page.",
+  ),
+  (
+    "Ti locksée or Ti Locksée: how is his name spelled?",
+    "Both spellings exist in his own credits: “Ti locksée” in the 2022 album listing, “Ti Locksée” in the solo video credits. This profile keeps Ti locksée, the spelling of the duet that brought him into the public catalogue, and flags the variant rather than smoothing it away.",
+  ),
+  (
+    "Has Ti locksée released an album or an EP?",
+    "No, no album, EP or single under a lead billing other than “Je t’ai dans la tête” was found on the platforms consulted for this profile. His verifiable catalogue is made of one duet on a collective album and one solo record. If further releases exist under another spelling, they are not attached to his name in the public catalogues.",
+  ),
+  (
+    "Are Ti locksée and Le Locksé the same artist?",
+    "No source consulted says so, and the opened documents describe two distinct files. Le Locksé is credited on “R.E.R”, released on June 13, 2021 by 7Crew Ltd., with writers named Benjamin Leduc and Thibault Monfroy, in a hip hop and rap register. Ti locksée appears in the GAMMALAB bouyon circuit. This profile keeps the two names separate.",
+  ),
+  (
+    "Where can I hear Ti locksée?",
+    "Hear “Sexuelle Attirance” on the Team Bwè Tou Sa album “Voyé sa alléé II”, then “Je t’ai dans la tête” on video and on the platforms. To hear the current bouyon scene as a whole, the Road Mix on our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> page is the site entry point.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/ti-locksee.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/ti-locksee.html#artist", "name": "Ti locksée", "description": "Voice of the Guadeloupe bouyon circuit attached to the GAMMA LAB studio, known through two verified traces: the duet Sexuelle Attirance with MA6MO on Voyé sa alléé II by Team Bwè Tou Sa (2022) and the solo record Je t’ai dans la tête, composed by dannyebtracks and recorded at GAMMA LAB. No biography or published origin found in October 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Sexuelle Attirance"}, {"@type": "MusicRecording", "name": "Je t’ai dans la tête"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

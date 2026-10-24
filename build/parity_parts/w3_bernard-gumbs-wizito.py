@@ -65,13 +65,55 @@ FR = {
   ]
  ],
  "faq": [
-  ("Quel est le nom complet de Wizito ?", "Wizito est le nom de scène de Bernard Gumbs. Le crédit d’auteur de « Payé », sorti en 2023, donne la forme longue Bernard Robert Gumbs. Les crédits de « Love Me », en 2024, et de « TunTun », en 2025, donnent Bernard Gumbs. Ce site imprime les deux formes exactement comme les crédits les publient."),
-  ("D’où vient Bernard Gumbs, dit Wizito ?", "Aucune source vérifiée consultée pour ce profil ne donne son île ou sa commune de naissance. Le seul rattachement géographique publié est musical : le mix Get Familiar, présenté comme réunissant des sorties locales du carnaval de St Maarten 2024, a retenu son titre « Love Me » sous la forme Wizito YMW. Ce site rattache donc Wizito au circuit de Saint-Martin par ce mix, sans affirmer une origine personnelle."),
-  ("Quels sont les titres vérifiés de Wizito ?", "Trois titres sont documentés par des fiches publiées : « Payé », avec Youry Ymw, sorti le 8 février 2023 chez YMW Tolly Boys, « Love Me », sorti le 14 février 2024 chez YMW TOLLY BOYS, et « TunTun », avec Ti Al et Dj Chimik, sorti le 1er août 2025 chez YMW TOLLY BOYS. Les trois sont des titres rapides, de 157 à 170 BPM selon Shazam, ce qui les place dans le territoire des musiques de carnaval et du bouyon."),
-  ("YMW Tolly Boys et Tallyboy sont-ils la même chose ?", "Non. YMW Tolly Boys, avec un o, est le label publié sur les titres de Wizito et le cercle de Tolly Boy’s YMW, autour de Youry Fleming. Tallyboy, avec un a, est un artiste différent, de Sainte-Lucie, qui a sa propre page sur ce site. Les deux noms se ressemblent, ils ne désignent ni la même personne ni le même catalogue."),
-  ("Qui a produit les titres de Wizito ?", "Selon les crédits publiés par Shazam, « Love Me » est produit par Sylvio Benjamin, et « TunTun » est produit par Dj Chimik, qui figure aussi comme artiste invité du titre. Aucun producteur n’est nommé dans la fiche consultée de « Payé », dont le crédit publié est celui d’auteur, Bernard Robert Gumbs."),
-  ("Sylvio Benjamin est-il lié à Benji, de Triple Kay ?", "Aucune source consultée ne le dit. Sylvio Benjamin est crédité comme producteur de « Love Me » de Wizito. Benji, de son vrai nom Wayne Benjamin, est le chanteur dominicain de Triple Kay. Le nom de famille est le même, mais aucun lien familial, de groupe ou de travail n’est publié entre eux, donc ce site n’en affirme aucun.")
- ],
+  (
+    "Qui est Wizito ?",
+    "Wizito est le nom de scène de Bernard Gumbs, un auteur et chanteur bouyon émergent lié au circuit du carnaval de Saint-Martin. Trois titres sont vérifiés, tous sur le label YMW Tolly Boys : « Payé » avec Youry Ymw en 2023, « Love Me » en 2024 et « TunTun » avec Ti Al et Dj Chimik en 2025. Il est crédité comme auteur de ses titres sous son nom complet.",
+  ),
+  (
+    "Quel est le nom complet de Wizito ?",
+    "Wizito est le nom de scène de Bernard Gumbs. Le crédit d’auteur de « Payé », sorti en 2023, donne la forme longue Bernard Robert Gumbs. Les crédits de « Love Me », en 2024, et de « TunTun », en 2025, donnent Bernard Gumbs. Ce site imprime les deux formes exactement comme les crédits les publient.",
+  ),
+  (
+    "D’où vient Bernard Gumbs, dit Wizito ?",
+    "Aucune source vérifiée consultée pour ce profil ne donne son île ou sa commune de naissance. Le seul rattachement géographique publié est musical : le mix Get Familiar, présenté comme réunissant des sorties locales du carnaval de St Maarten 2024, a retenu son titre « Love Me » sous la forme Wizito YMW. Ce site rattache donc Wizito au circuit de Saint-Martin par ce mix, sans affirmer une origine personnelle.",
+  ),
+  (
+    "Quels sont les titres vérifiés de Wizito ?",
+    "Trois titres sont documentés par des fiches publiées : « Payé », avec Youry Ymw, sorti le 8 février 2023 chez YMW Tolly Boys, « Love Me », sorti le 14 février 2024 chez YMW TOLLY BOYS, et « TunTun », avec Ti Al et Dj Chimik, sorti le 1er août 2025 chez YMW TOLLY BOYS. Les trois sont des titres rapides, de 157 à 170 BPM selon Shazam, ce qui les place dans le territoire des musiques de carnaval et du bouyon.",
+  ),
+  (
+    "YMW Tolly Boys et Tallyboy sont-ils la même chose ?",
+    "Non. YMW Tolly Boys, avec un o, est le label publié sur les titres de Wizito et le cercle de Tolly Boy’s YMW, autour de Youry Fleming. Tallyboy, avec un a, est un artiste différent, de Sainte-Lucie, qui a sa propre page sur ce site. Les deux noms se ressemblent, ils ne désignent ni la même personne ni le même catalogue.",
+  ),
+  (
+    "Qui a produit les titres de Wizito ?",
+    "Selon les crédits publiés par Shazam, « Love Me » est produit par Sylvio Benjamin, et « TunTun » est produit par Dj Chimik, qui figure aussi comme artiste invité du titre. Aucun producteur n’est nommé dans la fiche consultée de « Payé », dont le crédit publié est celui d’auteur, Bernard Robert Gumbs.",
+  ),
+  (
+    "Sylvio Benjamin est-il lié à Benji, de Triple Kay ?",
+    "Aucune source consultée ne le dit. Sylvio Benjamin est crédité comme producteur de « Love Me » de Wizito. Benji, de son vrai nom Wayne Benjamin, est le chanteur dominicain de Triple Kay. Le nom de famille est le même, mais aucun lien familial, de groupe ou de travail n’est publié entre eux, donc ce site n’en affirme aucun.",
+  ),
+  (
+    "Qui est Youry Ymw, l’invité de « Payé » ?",
+    "Youry Ymw est la forme d’artiste de <a href=\"/youry-fleming.html\">Youry Fleming</a>, auteur de Saint-Martin crédité sur les singles de Tolly Boy’s YMW, comme « Get on Bad » en 2018 et « GoDownGoDown ». Sur « Payé », sorti le 8 février 2023 chez YMW Tolly Boys à 170 BPM, il revient comme voix invitée, sur un titre de Wizito, la génération suivante du même label.",
+  ),
+  (
+    "Qu’est-ce que le label YMW Tolly Boys ?",
+    "YMW Tolly Boys, écrit aussi YMW TOLLY BOYS, est le label publié sur les trois titres de Wizito, de 2023 à 2025. Il prolonge le cercle des <a href=\"/tolly-boys.html\">Tolly Boys</a>, un acte bouyon de Sint Maarten dont les singles de 2018 à 2020, parus sous le nom Tolly Boy’s YMW, ont été écrits par Youry Fleming. C’est le cadre stable dans lequel le nom Wizito existe publiquement.",
+  ),
+  (
+    "Wizito fait-il du bouyon ?",
+    "Bouyon Shattaz le suit comme artiste bouyon émergent, parce que ses titres circulent dans le circuit bouyon et carnaval du nord de la Caraïbe, avec des tempos publiés de 157, 164 et 170 BPM, ceux des musiques de carnaval rapides. Les plateformes, elles, classent ses titres dans la catégorie World, et aucune interview publiée ne dit comment l’artiste nomme lui-même son genre.",
+  ),
+  (
+    "Quel est le dernier titre de Wizito ?",
+    "Le titre le plus récent du dossier vérifié est « TunTun », avec Ti Al et Dj Chimik, sorti le 1er août 2025 chez YMW TOLLY BOYS. Shazam lui donne 164 BPM et des crédits complets : Ti Al et Bernard Gumbs aux harmonies vocales et comme auteurs, et Dj Chimik comme producteur. Wizito y est donc à la fois auteur et voix d’harmonie.",
+  ),
+  (
+    "Où écouter Wizito ?",
+    "Ses trois titres sont sur les plateformes, sous le nom Wizito et le label YMW Tolly Boys, et « Love Me » a circulé dans le mix Get Familiar consacré aux sorties locales du carnaval de St Maarten 2024. Ils sont aussi à chercher dans notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, la Road Mix que Bouyon Shattaz envoie en DM quand on commente ROAD MIX sur Instagram.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/bernard-gumbs-wizito.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/bernard-gumbs-wizito.html#artist", "name": "Bernard Gumbs (Wizito)", "alternateName": "Wizito", "description": "Artiste bouyon émergent enregistrant sous le nom de Wizito. Crédité comme auteur, sous les formes Bernard Gumbs et Bernard Robert Gumbs, sur Payé, Love Me et TunTun, sortis chez YMW Tolly Boys entre 2023 et 2025. Love Me a été retenu dans un mix de sorties locales du carnaval de St Maarten 2024.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Payé"}, {"@type": "MusicRecording", "name": "Love Me"}, {"@type": "MusicRecording", "name": "TunTun"},
       {
        "@type": "MusicRecording",
@@ -156,13 +198,55 @@ EN = {
   ]
  ],
  "faq": [
-  ("What is the full name of Wizito?", "Wizito is the stage name of Bernard Gumbs. The songwriter credit on “Payé”, released in 2023, gives the long form Bernard Robert Gumbs. The credits on “Love Me”, in 2024, and “TunTun”, in 2025, give Bernard Gumbs. This site prints both forms exactly as the credits publish them."),
-  ("Where does Bernard Gumbs, known as Wizito, come from?", "No verified source consulted for this profile gives his island or community of birth. The only published geographic tie is musical: the Get Familiar mix, presented as gathering local releases for St Maarten Carnival 2024, kept his record “Love Me” under the form Wizito YMW. This site therefore ties Wizito to the Saint Martin circuit through that mix, without claiming a personal origin."),
-  ("Which Wizito records are verified?", "Three records are documented by published listings: “Payé”, with Youry Ymw, released on February 8, 2023, by YMW Tolly Boys, “Love Me”, released on February 14, 2024, by YMW TOLLY BOYS, and “TunTun”, with Ti Al and Dj Chimik, released on August 1, 2025, by YMW TOLLY BOYS. All three are fast records, from 157 to 170 BPM according to Shazam, which places them in the territory of carnival musics and bouyon."),
-  ("Are YMW Tolly Boys and Tallyboy the same thing?", "No. YMW Tolly Boys, with an o, is the label published on the Wizito records and the circle of Tolly Boy’s YMW, around Youry Fleming. Tallyboy, with an a, is a different artist, from Saint Lucia, who has his own page on this site. The names look alike, they name neither the same person nor the same catalogue."),
-  ("Who produced the Wizito records?", "According to the credits published by Shazam, “Love Me” was produced by Sylvio Benjamin, and “TunTun” was produced by Dj Chimik, who is also a featured artist on the record. No producer is named in the consulted listing for “Payé”, whose published credit is the songwriter credit, Bernard Robert Gumbs."),
-  ("Is Sylvio Benjamin related to Benji, of Triple Kay?", "No source consulted says so. Sylvio Benjamin is credited as producer of “Love Me” by Wizito. Benji, real name Wayne Benjamin, is the Dominican singer with Triple Kay. The surname is the same, but no family, band or working link between them is published, so this site claims none.")
- ],
+  (
+    "Who is Wizito?",
+    "Wizito is the stage name of Bernard Gumbs, an emerging bouyon writer and singer tied to the Saint Martin carnival circuit. Three tracks are verified, all on the YMW Tolly Boys label: “Payé” with Youry Ymw in 2023, “Love Me” in 2024 and “TunTun” with Ti Al and Dj Chimik in 2025. He is credited as the writer of his tracks under his full name.",
+  ),
+  (
+    "What is the full name of Wizito?",
+    "Wizito is the stage name of Bernard Gumbs. The songwriter credit on “Payé”, released in 2023, gives the long form Bernard Robert Gumbs. The credits on “Love Me”, in 2024, and “TunTun”, in 2025, give Bernard Gumbs. This site prints both forms exactly as the credits publish them.",
+  ),
+  (
+    "Where does Bernard Gumbs, known as Wizito, come from?",
+    "No verified source consulted for this profile gives his island or community of birth. The only published geographic tie is musical: the Get Familiar mix, presented as gathering local releases for St Maarten Carnival 2024, kept his record “Love Me” under the form Wizito YMW. This site therefore ties Wizito to the Saint Martin circuit through that mix, without claiming a personal origin.",
+  ),
+  (
+    "Which Wizito records are verified?",
+    "Three records are documented by published listings: “Payé”, with Youry Ymw, released on February 8, 2023, by YMW Tolly Boys, “Love Me”, released on February 14, 2024, by YMW TOLLY BOYS, and “TunTun”, with Ti Al and Dj Chimik, released on August 1, 2025, by YMW TOLLY BOYS. All three are fast records, from 157 to 170 BPM according to Shazam, which places them in the territory of carnival musics and bouyon.",
+  ),
+  (
+    "Are YMW Tolly Boys and Tallyboy the same thing?",
+    "No. YMW Tolly Boys, with an o, is the label published on the Wizito records and the circle of Tolly Boy’s YMW, around Youry Fleming. Tallyboy, with an a, is a different artist, from Saint Lucia, who has his own page on this site. The names look alike, they name neither the same person nor the same catalogue.",
+  ),
+  (
+    "Who produced the Wizito records?",
+    "According to the credits published by Shazam, “Love Me” was produced by Sylvio Benjamin, and “TunTun” was produced by Dj Chimik, who is also a featured artist on the record. No producer is named in the consulted listing for “Payé”, whose published credit is the songwriter credit, Bernard Robert Gumbs.",
+  ),
+  (
+    "Is Sylvio Benjamin related to Benji, of Triple Kay?",
+    "No source consulted says so. Sylvio Benjamin is credited as producer of “Love Me” by Wizito. Benji, real name Wayne Benjamin, is the Dominican singer with Triple Kay. The surname is the same, but no family, band or working link between them is published, so this site claims none.",
+  ),
+  (
+    "Who is Youry Ymw, the guest on “Payé”?",
+    "Youry Ymw is the artist form of <a href=\"/en/youry-fleming.html\">Youry Fleming</a>, a Saint Martin writer credited on the singles of Tolly Boy’s YMW, such as “Get on Bad” in 2018 and “GoDownGoDown”. On “Payé”, released on 8 February 2023 by YMW Tolly Boys at 170 BPM, he returns as a guest voice, on a track by Wizito, the next generation of the same label.",
+  ),
+  (
+    "What is the YMW Tolly Boys label?",
+    "YMW Tolly Boys, also written YMW TOLLY BOYS, is the label published on Wizito’s three tracks, from 2023 to 2025. It extends the circle of the <a href=\"/en/tolly-boys.html\">Tolly Boys</a>, a bouyon act from Sint Maarten whose 2018 to 2020 singles, released as Tolly Boy’s YMW, were written by Youry Fleming. It is the stable frame in which the Wizito name exists publicly.",
+  ),
+  (
+    "Does Wizito make bouyon?",
+    "Bouyon Shattaz follows him as an emerging bouyon artist, because his tracks circulate in the bouyon and carnival circuit of the northern Caribbean, with published tempos of 157, 164 and 170 BPM, those of fast carnival music. The platforms, for their part, file his tracks under World, and no published interview says how the artist himself names his genre.",
+  ),
+  (
+    "What is Wizito’s latest track?",
+    "The most recent track in the verified file is “TunTun”, with Ti Al and Dj Chimik, released on 1 August 2025 by YMW TOLLY BOYS. Shazam gives it 164 BPM and full credits: Ti Al and Bernard Gumbs on harmony vocals and as writers, and Dj Chimik as producer. Wizito is therefore both writer and harmony voice on it.",
+  ),
+  (
+    "Where can I listen to Wizito?",
+    "His three tracks are on the platforms, under the name Wizito and the YMW Tolly Boys label, and “Love Me” travelled through the Get Familiar mix devoted to local releases for St Maarten Carnival 2024. They can also be found in our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, the Road Mix that Bouyon Shattaz sends by DM when you comment ROAD MIX on Instagram.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/bernard-gumbs-wizito.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/bernard-gumbs-wizito.html#artist", "name": "Bernard Gumbs (Wizito)", "alternateName": "Wizito", "description": "Emerging bouyon artist recording as Wizito. Credited as songwriter, under the forms Bernard Gumbs and Bernard Robert Gumbs, on Payé, Love Me and TunTun, released by YMW Tolly Boys between 2023 and 2025. Love Me was kept in a mix of local releases for St Maarten Carnival 2024.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Payé"}, {"@type": "MusicRecording", "name": "Love Me"}, {"@type": "MusicRecording", "name": "TunTun"},
       {
        "@type": "MusicRecording",

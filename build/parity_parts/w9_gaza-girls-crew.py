@@ -59,13 +59,55 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui sont les Gaza Girls Crew ?", "Les Gaza Girls Crew sont un groupe féminin de la scène bouyon gwada de Guadeloupe, au début des années 2010. Leur dossier public vérifié tient en trois pièces : le single « Sa Zot Vlé », sorti le 1er mai 2011 chez Bouyon Concept, leur présence nommée par Rebel Up au premier spectacle bouyon à Paris en décembre 2012, et une citation dans une thèse universitaire de 2013 sur le dancehall des Antilles françaises."),
-  ("Quel est le titre connu des Gaza Girls Crew ?", "« Sa Zot Vlé », single sorti le 1er mai 2011 chez Bouyon Concept, à 160 BPM selon sa fiche Shazam. Les crédits publiés nomment Gaza Girls Crew comme interprète et auteur, et Jessica Petrokassi comme compositrice. Aucun autre titre du groupe n’a été retrouvé sur les plateformes consultées en octobre 2026."),
-  ("D’où vient le nom Gaza des Gaza Girls Crew ?", "Selon une thèse universitaire de 2013 sur le dancehall des Antilles françaises, le mot Gaza, popularisé par l’artiste jamaïcain Vybz Kartel pour nommer son clan, a été repris par de nombreux artistes et supporters francophones du dancehall, et la thèse cite nommément les Gaza girls crew en Guadeloupe comme exemple, avec le mot valise martiniquais Volgaza. C’est une filiation de vocabulaire documentée par ce travail universitaire, pas une appartenance au crew jamaïcain, qu’aucune source consultée n’établit."),
-  ("Les Gaza Girls Crew ont-elles joué à Paris ?", "Oui, selon Rebel Up. Le collectif écrit qu’en décembre 2012, les premiers MCs et DJs dominicains et guadeloupéens du bouyon se sont produits à Paris, et qu’un documentaire de 50 minutes en français et en créole filme cette première performance de Suppa, Gaza Girls, Dj Joe et d’autres. C’est la trace scénique la plus importante du groupe."),
-  ("Les Gaza Girls Crew et Gaza Crew sont-ils le même groupe ?", "Non, rien dans les sources consultées ne permet de les confondre ni même de prouver un lien entre eux. Gaza Girls Crew dispose d’un single et d’une trace scénique documentés. Gaza Crew, traité sur sa propre page de ce site, ne survit que dans une liste de mots clés d’une vidéo du cercle de Suppa. Ce profil garde les deux noms strictement séparés, comme les sources les présentent."),
-  ("Où écouter les Gaza Girls Crew et le bouyon gwada de leur époque ?", "Commencez par « Sa Zot Vlé », le single de 2011, puis lisez nos pages <a href=\"/bouyon-gwada.html\">bouyon gwada</a> et <a href=\"/bouyon-paris.html\">bouyon à Paris</a>, et écoutez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, qui rassemble les titres de cette génération suivis par Bouyon Shattaz.")
- ],
+  (
+    "Qui sont les Gaza Girls Crew ?",
+    "Les Gaza Girls Crew sont un groupe féminin de la scène bouyon gwada de Guadeloupe, au début des années 2010. Leur dossier public vérifié tient en trois pièces : le single « Sa Zot Vlé », sorti le 1er mai 2011 chez Bouyon Concept, leur présence nommée par Rebel Up au premier spectacle bouyon à Paris en décembre 2012, et une citation dans une thèse universitaire de 2013 sur le dancehall des Antilles françaises.",
+  ),
+  (
+    "D’où viennent les Gaza Girls Crew ?",
+    "Les Gaza Girls Crew viennent de Guadeloupe : elles appartiennent au bouyon gwada, la déclinaison guadeloupéenne du bouyon né en Dominique, et la thèse de 2013 les cite nommément comme exemple guadeloupéen. Aucune source consultée ne précise en revanche leur commune d’origine sur l’île, et ce profil n’en imprime donc aucune.",
+  ),
+  (
+    "Quel est le titre connu des Gaza Girls Crew ?",
+    "« Sa Zot Vlé », single sorti le 1er mai 2011 chez Bouyon Concept, à 160 BPM selon sa fiche Shazam. Les crédits publiés nomment Gaza Girls Crew comme interprète et auteur, et Jessica Petrokassi comme compositrice. Aucun autre titre du groupe n’a été retrouvé sur les plateformes consultées en octobre 2026.",
+  ),
+  (
+    "Que veut dire « Sa Zot Vlé » ?",
+    "« Sa Zot Vlé » est un titre créole que l’on peut rendre par « c’est ce que vous voulez ». C’est le nom de l’unique single documenté des Gaza Girls Crew, sorti le 1er mai 2011 chez Bouyon Concept, un titre à 160 BPM, tout en haut de la zone du bouyon, celle des morceaux faits pour faire sauter une salle.",
+  ),
+  (
+    "Qui a composé « Sa Zot Vlé » des Gaza Girls Crew ?",
+    "Le crédit de composition publié est au nom de Jessica Petrokassi, tandis que l’écriture est créditée au groupe, Gaza Girls Crew. C’est le seul nom de personne rattaché au groupe par une source publiée, et il l’est dans un rôle précis, la composition : ce profil ne fait donc d’elle ni une chanteuse ni une membre déclarée du groupe.",
+  ),
+  (
+    "D’où vient le nom Gaza des Gaza Girls Crew ?",
+    "Selon une thèse universitaire de 2013 sur le dancehall des Antilles françaises, le mot Gaza, popularisé par l’artiste jamaïcain Vybz Kartel pour nommer son clan, a été repris par de nombreux artistes et supporters francophones du dancehall, et la thèse cite nommément les Gaza girls crew en Guadeloupe comme exemple, avec le mot valise martiniquais Volgaza. C’est une filiation de vocabulaire documentée par ce travail universitaire, pas une appartenance au crew jamaïcain, qu’aucune source consultée n’établit.",
+  ),
+  (
+    "Les Gaza Girls Crew ont-elles joué à Paris ?",
+    "Oui, selon Rebel Up. Le collectif écrit qu’en décembre 2012, les premiers MCs et DJs dominicains et guadeloupéens du bouyon se sont produits à Paris, et qu’un documentaire de 50 minutes en français et en créole filme cette première performance de Suppa, Gaza Girls, Dj Joe et d’autres. C’est la trace scénique la plus importante du groupe.",
+  ),
+  (
+    "Les Gaza Girls Crew et Gaza Crew sont-ils le même groupe ?",
+    "Non, rien dans les sources consultées ne permet de les confondre ni même de prouver un lien entre eux. Gaza Girls Crew dispose d’un single et d’une trace scénique documentés. Gaza Crew, traité sur sa propre page de ce site, ne survit que dans une liste de mots clés d’une vidéo du cercle de Suppa. Ce profil garde les deux noms strictement séparés, comme les sources les présentent.",
+  ),
+  (
+    "Les Gaza Girls Crew ont-elles un lien avec Yellow Gaza ?",
+    "Aucune source consultée n’établit de lien. Yellow Gaza est un autre nom de la même scène guadeloupéenne, cité par les articles de référence parmi les musiciens populaires du bouyon gwada, mais les deux noms ont chacun leur propre dossier. Ce profil n’emprunte à Yellow Gaza ni ses titres ni son parcours, et inversement, malgré le mot Gaza qu’ils partagent.",
+  ),
+  (
+    "Pourquoi les Gaza Girls Crew comptent-elles dans l’histoire des femmes du bouyon ?",
+    "Parce que le bouyon des années 2010 est une scène largement masculine dans ses crédits publiés, et que les formations de femmes y sont rares. Les Gaza Girls Crew y tiennent une place datée et sourcée : un single en 2011 et la première scène bouyon de Paris en 2012. Notre page <a href=\"/femmes-du-bouyon.html\">femmes du bouyon</a> rassemble ce que le site documente sur cette présence.",
+  ),
+  (
+    "Quel bouyon chantaient les Gaza Girls Crew ?",
+    "Elles chantaient le bouyon gwada de son époque hardcore : des paroles crues, en anglais, en français ou en créole, sur des riddims percussifs lourds, selon le collectif Rebel Up. Leur nom est jamaïcain d’inspiration, leur son est dominicain de naissance et guadeloupéen de pratique, un triple ancrage qui résume le bouyon gwada du début des années 2010.",
+  ),
+  (
+    "Où écouter les Gaza Girls Crew et le bouyon gwada de leur époque ?",
+    "Commencez par « Sa Zot Vlé », le single de 2011 chez Bouyon Concept, puis lisez notre page <a href=\"/bouyon-gwada.html\">bouyon gwada</a> pour le contexte de la scène et la page bouyon à Paris pour la nuit de décembre 2012. Pour le bouyon d’aujourd’hui, la playlist Bouyon Road Mix de Bouyon Shattaz réunit les nouveautés de la Dominique, de la Guadeloupe et de la Martinique.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/gaza-girls-crew.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/gaza-girls-crew.html#artist", "name": "Gaza Girls Crew", "description": "Groupe féminin de la scène bouyon gwada de Guadeloupe. Single Sa Zot Vlé sorti le 1er mai 2011 chez Bouyon Concept, présence nommée par Rebel Up au premier spectacle bouyon à Paris en décembre 2012, et nom analysé par une thèse universitaire de 2013 sur le dancehall des Antilles françaises.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Sa Zot Vlé"},
       {
        "@type": "MusicRecording",
@@ -128,13 +170,55 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who are the Gaza Girls Crew?", "The Gaza Girls Crew are a female group from the bouyon gwada scene of Guadeloupe, in the early 2010s. Their verified public record comes down to three pieces: the single “Sa Zot Vlé”, released on May 1, 2011 on Bouyon Concept, their presence named by Rebel Up at the first bouyon show in Paris in December 2012, and a citation in a 2013 university thesis on dancehall in the French Antilles."),
-  ("What is the known record of the Gaza Girls Crew?", "“Sa Zot Vlé”, a single released on May 1, 2011 on Bouyon Concept, at 160 BPM according to its Shazam page. The published credits name Gaza Girls Crew as performer and songwriter, and Jessica Petrokassi as composer. No other record by the group was found on the platforms consulted in October 2026."),
-  ("Where does the Gaza name of the Gaza Girls Crew come from?", "According to a 2013 university thesis on dancehall in the French Antilles, the word Gaza, popularised by the Jamaican artist Vybz Kartel to name his clan, was taken up by many francophone dancehall artists and supporters, and the thesis names the Gaza girls crew in Guadeloupe as an example, with the Martinique portmanteau Volgaza. It is a lineage of vocabulary documented by that university work, not a membership of the Jamaican crew, which no source consulted establishes."),
-  ("Did the Gaza Girls Crew play in Paris?", "Yes, according to Rebel Up. The collective writes that in December 2012, the first Dominican and Guadeloupean bouyon MCs and DJs performed in Paris, and that a 50 minute documentary in French and Creole films that first performance by Suppa, Gaza Girls, Dj Joe and others. It is the most important stage trace of the group."),
-  ("Are the Gaza Girls Crew and Gaza Crew the same group?", "No, nothing in the sources consulted allows them to be merged or even proves a link between them. Gaza Girls Crew has a documented single and stage trace. Gaza Crew, covered on its own page of this site, survives only in a keyword list of a video from the Suppa circle. This profile keeps the two names strictly separate, as the sources present them."),
-  ("Where can I hear the Gaza Girls Crew and the bouyon gwada of their period?", "Start with “Sa Zot Vlé”, the 2011 single, then read our <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a> and <a href=\"/en/bouyon-paris.html\">bouyon in Paris</a> pages, and hear our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, which gathers the records of that generation followed by Bouyon Shattaz.")
- ],
+  (
+    "Who are the Gaza Girls Crew?",
+    "The Gaza Girls Crew are a female group from the bouyon gwada scene of Guadeloupe, in the early 2010s. Their verified public record comes down to three pieces: the single “Sa Zot Vlé”, released on May 1, 2011 on Bouyon Concept, their presence named by Rebel Up at the first bouyon show in Paris in December 2012, and a citation in a 2013 university thesis on dancehall in the French Antilles.",
+  ),
+  (
+    "Where are the Gaza Girls Crew from?",
+    "The Gaza Girls Crew are from Guadeloupe: they belong to bouyon gwada, the Guadeloupe form of the bouyon born in Dominica, and the 2013 thesis names them as a Guadeloupe example. No source consulted, however, gives their home town on the island, so this profile prints none.",
+  ),
+  (
+    "What is the known record of the Gaza Girls Crew?",
+    "“Sa Zot Vlé”, a single released on May 1, 2011 on Bouyon Concept, at 160 BPM according to its Shazam page. The published credits name Gaza Girls Crew as performer and songwriter, and Jessica Petrokassi as composer. No other record by the group was found on the platforms consulted in October 2026.",
+  ),
+  (
+    "What does “Sa Zot Vlé” mean?",
+    "“Sa Zot Vlé” is a Creole title that can be rendered as “that is what you want”. It is the name of the only documented single by the Gaza Girls Crew, released on May 1, 2011 on Bouyon Concept, a track at 160 BPM, right at the top of the bouyon zone, that of records made to lift a room.",
+  ),
+  (
+    "Who composed “Sa Zot Vlé” by the Gaza Girls Crew?",
+    "The published composition credit names Jessica Petrokassi, while the songwriting is credited to the group, Gaza Girls Crew. It is the only personal name attached to the group by a published source, and it is attached in one precise role, composition: this profile therefore makes her neither a singer nor a declared member of the group.",
+  ),
+  (
+    "Where does the Gaza name of the Gaza Girls Crew come from?",
+    "According to a 2013 university thesis on dancehall in the French Antilles, the word Gaza, popularised by the Jamaican artist Vybz Kartel to name his clan, was taken up by many francophone dancehall artists and supporters, and the thesis names the Gaza girls crew in Guadeloupe as an example, with the Martinique portmanteau Volgaza. It is a lineage of vocabulary documented by that university work, not a membership of the Jamaican crew, which no source consulted establishes.",
+  ),
+  (
+    "Did the Gaza Girls Crew play in Paris?",
+    "Yes, according to Rebel Up. The collective writes that in December 2012, the first Dominican and Guadeloupean bouyon MCs and DJs performed in Paris, and that a 50 minute documentary in French and Creole films that first performance by Suppa, Gaza Girls, Dj Joe and others. It is the most important stage trace of the group.",
+  ),
+  (
+    "Are the Gaza Girls Crew and Gaza Crew the same group?",
+    "No, nothing in the sources consulted allows them to be merged or even proves a link between them. Gaza Girls Crew has a documented single and stage trace. Gaza Crew, covered on its own page of this site, survives only in a keyword list of a video from the Suppa circle. This profile keeps the two names strictly separate, as the sources present them.",
+  ),
+  (
+    "Are the Gaza Girls Crew linked to Yellow Gaza?",
+    "No source consulted establishes a link. Yellow Gaza is another name from the same Guadeloupe scene, cited by reference articles among the popular musicians of bouyon gwada, but each name has its own file. This profile lends the Gaza Girls Crew neither the records nor the path of Yellow Gaza, and the reverse, despite the word Gaza they share.",
+  ),
+  (
+    "Why do the Gaza Girls Crew matter in the history of women in bouyon?",
+    "Because the bouyon of the 2010s is a largely male scene in its published credits, and women formations are rare in it. The Gaza Girls Crew hold a dated, sourced place there: a single in 2011 and the first bouyon stage in Paris in 2012. Our <a href=\"/en/women-of-bouyon.html\">women of bouyon</a> page gathers what this site documents about that presence.",
+  ),
+  (
+    "What kind of bouyon did the Gaza Girls Crew sing?",
+    "They sang the bouyon gwada of its hardcore period: raw lyrics, in English, French or Creole, over heavy percussive riddims, according to the Rebel Up collective. Their name is Jamaican in inspiration, their sound Dominican by birth and Guadeloupean in practice, a triple anchoring that sums up the bouyon gwada of the early 2010s.",
+  ),
+  (
+    "Where can I hear the Gaza Girls Crew and the bouyon gwada of their period?",
+    "Start with “Sa Zot Vlé”, the 2011 single on Bouyon Concept, then read our <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a> page for the context of the scene and the bouyon in Paris page for the night of December 2012. For today’s bouyon, the Bouyon Road Mix playlist by Bouyon Shattaz gathers new releases from Dominica, Guadeloupe and Martinique.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/gaza-girls-crew.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/gaza-girls-crew.html#artist", "name": "Gaza Girls Crew", "description": "Female group from the bouyon gwada scene of Guadeloupe. Single Sa Zot Vle released on May 1, 2011 on Bouyon Concept, presence named by Rebel Up at the first bouyon show in Paris in December 2012, and name analysed by a 2013 university thesis on dancehall in the French Antilles.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Sa Zot Vlé"},
       {
        "@type": "MusicRecording",

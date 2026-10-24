@@ -72,13 +72,67 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est l’artiste Vador ?", "Aucune source consultée ne documente un artiste interprète de ce nom. Le nom Vador n’apparaît publiquement que dans les formes composées Vadore Concept, Vadore Concept Groupe et, une fois, VADOR CONCEPT GROUP, créditée à la production de « LEVRETTE » en 2025. Ce profil documente donc le nom comme la racine d’une enseigne de production guadeloupéenne, et non comme une carrière de chanteur, dont il n’existe aucune trace publique vérifiée."),
-  ("Vador et Vadore Concept, est-ce la même chose ?", "C’est la conclusion que les documents soutiennent, avec une précision. Toutes les occurrences vérifiées du nom appartiennent à la même famille : label Vadore Concept ou Vadore Concept Groupe entre 2021 et 2025, crédit de composition VADORE CONCEPT GROUPE sur « Sa ki bon » en 2021, et crédit de production VADOR CONCEPT GROUP sur « LEVRETTE » en 2025. Aucun artiste Vador séparé de l’enseigne n’apparaît dans les sources. En revanche, aucune source ne nomme la personne ou l’équipe derrière l’enseigne, et ce profil ne l’invente pas."),
-  ("Quel est le plus gros titre sorti chez Vadore Concept Groupe ?", "« Je l’ai vu », de Holly G et Arèndi, sorti le 22 octobre 2021 dans la série Bouyon Kings Mixtape. La liste officielle des certifications du SNEP l’enregistre comme single d’or, constaté le 10 juillet 2025, avec la mention « VADORE CONCEPT GROUPE / BELIEVE ». La biographie publiée par Qobuz ajoute que sa vidéo a dépassé les 10 millions de vues."),
-  ("Quels artistes ont sorti des titres chez Vadore Concept ?", "Les fiches vérifiées citent Holly G et Arèndi, Yellow Gaza et Yellow Gaza Girls, DJ Joe avec Asa Bantan, Yeahman’C, Deejay Enzo et BOSSLO, Anonymous G., Edday avec DJ Luchshiy, et SupaLyne avec Trixz Migos et Kenny Gee. L’enseigne couvre donc la scène guadeloupéenne en français et, avec « Backshot » en 2022, un titre de la nouvelle vague dominicaine en anglais."),
-  ("Pourquoi presque tous les titres de l’enseigne sont-ils à 157 BPM ?", "Parce que 157 BPM est le tempo de travail du bouyon gwada de cette génération, construit pour la danse et pour l’enchaînement en mix. Les fiches de « Sa ki bon », « Bouyon Kings Party », « La dose », « Bad GayL », « Bwé Rhum », « Backshot » et « PLAN A 3 » affichent toutes 157 BPM, et les titres récents « LEVRETTE » et « Toto - Chaben - Monss » montent à 160 BPM. La régularité fait office de signature sonore de la maison."),
-  ("Où écouter le catalogue Vadore Concept ?", "Commencez par « Je l’ai vu », le disque d’or, puis les titres Yellow Gaza : « Sa ki bon (Bouyon King) », « PLAN A 3 » et « LEVRETTE ». Poursuivez par la série Bouyon Kings, « Bouyon Kings Party », « Bad GayL » et « Bwé Rhum », et par « Backshot », le titre passerelle vers la Dominique. Notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> et notre page <a href=\"/bouyon-gwada.html\">bouyon gwada</a> replacent ces titres dans leur scène.")
- ],
+  (
+    "Qui est l’artiste Vador ?",
+    "Aucune source consultée ne documente un artiste interprète de ce nom. Le nom Vador n’apparaît publiquement que dans les formes composées Vadore Concept, Vadore Concept Groupe et, une fois, VADOR CONCEPT GROUP, créditée à la production de « LEVRETTE » en 2025. Ce profil documente donc le nom comme la racine d’une enseigne de production guadeloupéenne, et non comme une carrière de chanteur, dont il n’existe aucune trace publique vérifiée.",
+  ),
+  (
+    "Vador et Vadore Concept, est-ce la même chose ?",
+    "C’est la conclusion que les documents soutiennent, avec une précision. Toutes les occurrences vérifiées du nom appartiennent à la même famille : label Vadore Concept ou Vadore Concept Groupe entre 2021 et 2025, crédit de composition sur « Sa ki bon » en 2021, crédit de production VADOR CONCEPT GROUP sur « LEVRETTE » en 2025. Aucun artiste Vador séparé de l’enseigne n’apparaît, et aucune source ne nomme la personne ou l’équipe derrière elle.",
+  ),
+  (
+    "Vador ou Vadore : quelle est la bonne orthographe ?",
+    "Les deux existent, dans des rôles différents. Vadore, avec un e final, est la forme du label sur les plateformes de 2021 à 2025, en Vadore Concept ou Vadore Concept Groupe. Vador, sans e, n’apparaît qu’une fois, dans le crédit de production VADOR CONCEPT GROUP de « LEVRETTE », alors que le label du même titre écrit Vadore Concept Groupe. Les deux graphies désignent la même enseigne.",
+  ),
+  (
+    "D’où vient Vadore Concept ?",
+    "Vadore Concept est une enseigne de production guadeloupéenne, l’une des maisons qui structurent le bouyon gwada. Ses artistes sont surtout guadeloupéens, comme Holly G, venu de Basse-Terre, et Yellow Gaza, tandis que ses partenaires cités, Voodoo Studio, The Best Prod et DJ Raptor, dessinent un réseau des Antilles françaises auquel quelques titres dominicains se branchent. Voir notre page <a href=\"/bouyon-guadeloupe.html\">bouyon en Guadeloupe</a>.",
+  ),
+  (
+    "Quel est le plus gros titre sorti chez Vadore Concept Groupe ?",
+    "« Je l’ai vu », de Holly G et Arèndi, sorti le 22 octobre 2021 dans la série Bouyon Kings Mixtape. La liste officielle des certifications du SNEP l’enregistre comme single d’or, constaté le 10 juillet 2025, avec la mention « VADORE CONCEPT GROUPE / BELIEVE ». La biographie publiée par Qobuz ajoute que sa vidéo a dépassé les 10 millions de vues.",
+  ),
+  (
+    "Qui a produit « Je l’ai vu » de Holly G et Arèndi ?",
+    "Le clip officiel crédite une production partagée entre Vadore Concept, Voodoo Studio, The Best Prod et DJ Raptor Martinique. La composition revient à DJ Flip tha boss et l’écriture à HollyG et Arèndi, avec VJ Ben au clip. Le titre est sorti le 22 octobre 2021 chez Vadore Concept Groupe, dans la série Bouyon Kings Mixtape, avant d’être certifié single d’or par le SNEP en 2025.",
+  ),
+  (
+    "Qui a produit « LEVRETTE » de Yellow Gaza Girls ?",
+    "La fiche de « LEVRETTE » crédite VADOR CONCEPT GROUP comme producteur, en capitales et sans e : c’est la seule occurrence vérifiée du nom sous la forme Vador. Le single de Yellow Gaza Girls est sorti le 16 octobre 2025 chez Vadore Concept Groupe, à 160 BPM. C’est le titre qui relie le plus directement le nom de cette page à un enregistrement.",
+  ),
+  (
+    "Qui a écrit « Sa ki bon (Bouyon King) » de Yellow Gaza ?",
+    "« Sa ki bon (Bouyon King) » est écrit par Letin Sylia et Letin Severine et composé par VADORE CONCEPT GROUPE. Le single de Yellow Gaza est sorti le 14 décembre 2021 sous le label Vadore Concept, à 157 BPM. Sur ce titre, l’enseigne est à la fois label et compositeur, signe d’une maison qui fabrique les titres autant qu’elle les publie. Voir le profil de <a href=\"/letin-sylia.html\">Letin Sylia</a>.",
+  ),
+  (
+    "Qu’est-ce que la série Bouyon Kings de Vadore Concept ?",
+    "C’est le format de compilation de l’enseigne. « Je l’ai vu » sort en 2021 dans la Bouyon Kings Mixtape, « Bouyon Kings Party » de Yeahman’C paraît le 1er mai 2022 dans l’album « Bouyon Kings (Trouble Beat) », « Bad GayL » d’Anonymous G. dans « BOUYON KINGS II MIXTAPE (By Vadore Concept) » le 20 décembre 2022, puis « Bwé Rhum » de DJ Joe avec Asa Bantan le 5 février 2023.",
+  ),
+  (
+    "Quels artistes ont sorti des titres chez Vadore Concept ?",
+    "Les fiches vérifiées citent Holly G et Arèndi, Yellow Gaza et Yellow Gaza Girls, DJ Joe avec Asa Bantan, Yeahman’C, Deejay Enzo et BOSSLO, Anonymous G., Edday avec DJ Luchshiy, et SupaLyne avec Trixz Migos et Kenny Gee. L’enseigne couvre donc la scène guadeloupéenne en français et, avec « Backshot » en 2022, un titre de la nouvelle vague dominicaine en anglais.",
+  ),
+  (
+    "Vadore Concept a-t-il sorti du bouyon dominicain ?",
+    "Oui, par des titres passerelles. Le 26 février 2022, « Backshot », de SupaLyne avec Trixz Migos et Kenny Gee, sort chez Vadore Concept Groupe, en anglais. Et « Bwé Rhum », de DJ Joe, invite Asa Bantan, l’une des grandes voix du bouyon dominicain. La même petite maison publie ainsi le bouyon des deux rives. Voir le profil de <a href=\"/trixzmigos.html\">Trixzmigos</a>.",
+  ),
+  (
+    "Pourquoi presque tous les titres de l’enseigne sont-ils à 157 BPM ?",
+    "Parce que 157 BPM est le tempo de travail du bouyon gwada de cette génération, construit pour la danse et pour l’enchaînement en mix. Les fiches de « Sa ki bon », « Bouyon Kings Party », « La dose », « Bad GayL », « Bwé Rhum », « Backshot » et « PLAN A 3 » affichent toutes 157 BPM, et les titres récents « LEVRETTE » et « Toto - Chaben - Monss » montent à 160 BPM.",
+  ),
+  (
+    "Le Vador du bouyon est-il le rappeur du même nom ?",
+    "Non. Les moteurs renvoient d’autres Vador sans lien avec le bouyon : un rappeur sud-africain documenté par des bases de statistiques musicales, et des titres nommés « Vador » dans le rap français, chez Bojack ou AmadeusMurdock. Le Vador de cette page est uniquement celui des crédits guadeloupéens de Vadore Concept, et ce profil ne mélange pas ces dossiers.",
+  ),
+  (
+    "Vadore Concept a-t-il inventé le bouyon gwada ?",
+    "Non. Le bouyon est né en Dominique, et la Guadeloupe l’a adopté puis refait à sa manière. Vadore Concept y tient le rôle d’une maison de la deuxième génération : pas l’inventeur du genre, mais l’un des opérateurs qui l’ont structuré côté gwada à partir de 2021, avec des séries, des mixtapes et un disque d’or. Lire notre page <a href=\"/bouyon-gwada.html\">bouyon gwada</a>.",
+  ),
+  (
+    "Où écouter le catalogue Vadore Concept ?",
+    "Commencez par « Je l’ai vu », le disque d’or, puis les titres Yellow Gaza : « Sa ki bon (Bouyon King) », « PLAN A 3 » et « LEVRETTE ». Poursuivez par la série Bouyon Kings et par « Backshot », le titre passerelle vers la Dominique. Pour la scène bouyon actuelle, notre <a href=\"/playlist-bouyon.html\">playlist Bouyon Road Mix</a> réunit nouveautés et classiques.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/vador.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/vador.html#artist", "name": "Vador", "description": "Nom racine de l’enseigne guadeloupéenne Vadore Concept et Vadore Concept Groupe, label et maison de production bouyon active de 2021 à 2025, créditée aussi comme compositeur et, sous la forme VADOR CONCEPT GROUP, comme producteur de LEVRETTE. Aucun artiste interprète solo de ce nom n’est documenté dans les sources publiques. Catalogue incluant Je l’ai vu, single d’or SNEP de Holly G et Arèndi.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Je l’ai vu'}, {"@type": "MusicRecording", "name": 'Sa ki bon (Bouyon King)'}, {"@type": "MusicRecording", "name": 'Backshot'}, {"@type": "MusicRecording", "name": 'Bouyon Kings Party'}, {"@type": "MusicRecording", "name": 'La dose'}, {"@type": "MusicRecording", "name": 'Bad GayL'}, {"@type": "MusicRecording", "name": 'Bwé Rhum'}, {"@type": "MusicRecording", "name": 'Toto - Chaben - Monss'}, {"@type": "MusicRecording", "name": 'PLAN A 3'}, {"@type": "MusicRecording", "name": 'LEVRETTE'}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -140,13 +194,67 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is the artist Vador?", "No source consulted documents a performing artist of that name. The name Vador appears publicly only in the compound forms Vadore Concept, Vadore Concept Groupe and, once, VADOR CONCEPT GROUP, credited with producing “LEVRETTE” in 2025. This profile therefore documents the name as the root of a Guadeloupe production banner, and not as a singing career, of which there is no verified public trace."),
-  ("Are Vador and Vadore Concept the same thing?", "That is the conclusion the documents support, with one precision. Every verified occurrence of the name belongs to the same family: the Vadore Concept or Vadore Concept Groupe label between 2021 and 2025, the VADORE CONCEPT GROUPE composition credit on “Sa ki bon” in 2021, and the VADOR CONCEPT GROUP production credit on “LEVRETTE” in 2025. No artist Vador separate from the banner appears in the sources. On the other hand, no source names the person or team behind the banner, and this profile does not invent one."),
-  ("What is the biggest record released on Vadore Concept Groupe?", "“Je l’ai vu”, by Holly G and Arèndi, released on October 22, 2021 in the Bouyon Kings Mixtape series. The official SNEP certifications list records it as a Gold single, certified on July 10, 2025, with the line “VADORE CONCEPT GROUPE / BELIEVE”. The biography published by Qobuz adds that its video passed 10 million views."),
-  ("Which artists released records on Vadore Concept?", "The verified pages name Holly G and Arèndi, Yellow Gaza and Yellow Gaza Girls, DJ Joe with Asa Bantan, Yeahman’C, Deejay Enzo and BOSSLO, Anonymous G., Edday with DJ Luchshiy, and SupaLyne with Trixz Migos and Kenny Gee. The banner therefore covers the Guadeloupe scene in French and, with “Backshot” in 2022, one record of the new Dominican wave in English."),
-  ("Why are almost all the banner records at 157 BPM?", "Because 157 BPM is the working tempo of the bouyon gwada of this generation, built for dancing and for chaining in a mix. The pages of “Sa ki bon”, “Bouyon Kings Party”, “La dose”, “Bad GayL”, “Bwé Rhum”, “Backshot” and “PLAN A 3” all show 157 BPM, and the recent records “LEVRETTE” and “Toto - Chaben - Monss” rise to 160 BPM. The regularity works as the house sound signature."),
-  ("Where can I hear the Vadore Concept catalog?", "Start with “Je l’ai vu”, the Gold record, then the Yellow Gaza records: “Sa ki bon (Bouyon King)”, “PLAN A 3” and “LEVRETTE”. Continue with the Bouyon Kings series, “Bouyon Kings Party”, “Bad GayL” and “Bwé Rhum”, and with “Backshot”, the bridge record toward Dominica. Our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> and our <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a> page place these records back in their scene.")
- ],
+  (
+    "Who is the artist Vador?",
+    "No source consulted documents a performing artist of that name. The name Vador appears publicly only in the compound forms Vadore Concept, Vadore Concept Groupe and, once, VADOR CONCEPT GROUP, credited with producing “LEVRETTE” in 2025. This profile therefore documents the name as the root of a Guadeloupe production banner, and not as a singing career, of which there is no verified public trace.",
+  ),
+  (
+    "Are Vador and Vadore Concept the same thing?",
+    "That is the conclusion the documents support, with one precision. Every verified occurrence of the name belongs to the same family: the Vadore Concept or Vadore Concept Groupe label between 2021 and 2025, a composition credit on “Sa ki bon” in 2021, and the VADOR CONCEPT GROUP production credit on “LEVRETTE” in 2025. No artist Vador separate from the banner appears, and no source names the person or team behind it.",
+  ),
+  (
+    "Is it spelled Vador or Vadore?",
+    "Both exist, in different roles. Vadore, with a final e, is the label form on the platforms from 2021 to 2025, as Vadore Concept or Vadore Concept Groupe. Vador, without the e, appears only once, in the VADOR CONCEPT GROUP production credit on “LEVRETTE”, while the label of the same record writes Vadore Concept Groupe. Both spellings point to the same banner.",
+  ),
+  (
+    "Where is Vadore Concept from?",
+    "Vadore Concept is a Guadeloupe production banner, one of the houses that structure bouyon gwada. Its artists are mostly Guadeloupean, like Holly G from Basse-Terre and Yellow Gaza, while its named partners, Voodoo Studio, The Best Prod and DJ Raptor, draw a French Antilles network that a few Dominican records plug into. See our <a href=\"/en/bouyon-guadeloupe.html\">bouyon in Guadeloupe</a> page.",
+  ),
+  (
+    "What is the biggest record released on Vadore Concept Groupe?",
+    "“Je l’ai vu”, by Holly G and Arèndi, released on October 22, 2021 in the Bouyon Kings Mixtape series. The official SNEP certifications list records it as a Gold single, certified on July 10, 2025, with the line “VADORE CONCEPT GROUPE / BELIEVE”. The biography published by Qobuz adds that its video passed 10 million views.",
+  ),
+  (
+    "Who produced “Je l’ai vu” by Holly G and Arèndi?",
+    "The official video credits a production shared between Vadore Concept, Voodoo Studio, The Best Prod and DJ Raptor Martinique. Composition goes to DJ Flip tha boss and writing to HollyG and Arèndi, with VJ Ben on the video. The record came out on October 22, 2021 on Vadore Concept Groupe, in the Bouyon Kings Mixtape series, before its SNEP Gold certification in 2025.",
+  ),
+  (
+    "Who produced “LEVRETTE” by Yellow Gaza Girls?",
+    "The “LEVRETTE” page credits VADOR CONCEPT GROUP as producer, in capitals and without the e: it is the only verified occurrence of the name in the Vador form. The Yellow Gaza Girls single was released on October 16, 2025 on Vadore Concept Groupe, at 160 BPM. It is the record that most directly ties the name of this page to a recording.",
+  ),
+  (
+    "Who wrote “Sa ki bon (Bouyon King)” by Yellow Gaza?",
+    "“Sa ki bon (Bouyon King)” is written by Letin Sylia and Letin Severine and composed by VADORE CONCEPT GROUPE. The Yellow Gaza single was released on December 14, 2021 on the Vadore Concept label, at 157 BPM. On this record the banner is both label and composer, the mark of a house that builds records as much as it publishes them. See the <a href=\"/en/letin-sylia.html\">Letin Sylia</a> profile.",
+  ),
+  (
+    "What is the Vadore Concept Bouyon Kings series?",
+    "It is the banner compilation format. “Je l’ai vu” came out in 2021 in the Bouyon Kings Mixtape, “Bouyon Kings Party” by Yeahman’C on May 1, 2022 in the album “Bouyon Kings (Trouble Beat)”, “Bad GayL” by Anonymous G. in “BOUYON KINGS II MIXTAPE (By Vadore Concept)” on December 20, 2022, then “Bwé Rhum” by DJ Joe featuring Asa Bantan on February 5, 2023.",
+  ),
+  (
+    "Which artists released records on Vadore Concept?",
+    "The verified pages name Holly G and Arèndi, Yellow Gaza and Yellow Gaza Girls, DJ Joe with Asa Bantan, Yeahman’C, Deejay Enzo and BOSSLO, Anonymous G., Edday with DJ Luchshiy, and SupaLyne with Trixz Migos and Kenny Gee. The banner therefore covers the Guadeloupe scene in French and, with “Backshot” in 2022, one record of the new Dominican wave in English.",
+  ),
+  (
+    "Did Vadore Concept release Dominican bouyon?",
+    "Yes, through bridge records. On February 26, 2022, “Backshot”, by SupaLyne featuring Trixz Migos and Kenny Gee, came out on Vadore Concept Groupe, in English. And “Bwé Rhum”, by DJ Joe, features Asa Bantan, one of the biggest voices of Dominican bouyon. The same small house thus publishes the bouyon of both shores. See the <a href=\"/en/trixzmigos.html\">Trixzmigos</a> profile.",
+  ),
+  (
+    "Why are almost all the banner records at 157 BPM?",
+    "Because 157 BPM is the working tempo of the bouyon gwada of this generation, built for dancing and for chaining in a mix. The pages of “Sa ki bon”, “Bouyon Kings Party”, “La dose”, “Bad GayL”, “Bwé Rhum”, “Backshot” and “PLAN A 3” all show 157 BPM, and the recent records “LEVRETTE” and “Toto - Chaben - Monss” rise to 160 BPM.",
+  ),
+  (
+    "Is the bouyon Vador the rapper of the same name?",
+    "No. Search engines return other Vadors with no link to bouyon: a South African rapper documented by music statistics databases, and songs titled “Vador” in French rap, by Bojack or AmadeusMurdock. The Vador of this page is only the one in the Guadeloupe credits of Vadore Concept, and this profile does not mix those files.",
+  ),
+  (
+    "Did Vadore Concept invent bouyon gwada?",
+    "No. Bouyon was born in Dominica, and Guadeloupe adopted it and remade it in its own way. Vadore Concept holds the role of a second generation house there: not the inventor of the genre, but one of the operators who structured it on the gwada side from 2021, with series, mixtapes and a Gold record. Read our <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a> page.",
+  ),
+  (
+    "Where can I hear the Vadore Concept catalog?",
+    "Start with “Je l’ai vu”, the Gold record, then the Yellow Gaza records: “Sa ki bon (Bouyon King)”, “PLAN A 3” and “LEVRETTE”. Continue with the Bouyon Kings series and with “Backshot”, the bridge record toward Dominica. For today’s bouyon scene, our <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix playlist</a> gathers new releases and classics.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/vador.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/vador.html#artist", "name": "Vador", "description": "Root name of the Guadeloupe banner Vadore Concept and Vadore Concept Groupe, a bouyon label and production house active from 2021 to 2025, also credited as composer and, in the form VADOR CONCEPT GROUP, as producer of LEVRETTE. No solo performing artist of this name is documented in public sources. Catalog including Je l’ai vu, the SNEP Gold single by Holly G and Arèndi.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Je l’ai vu'}, {"@type": "MusicRecording", "name": 'Sa ki bon (Bouyon King)'}, {"@type": "MusicRecording", "name": 'Backshot'}, {"@type": "MusicRecording", "name": 'Bouyon Kings Party'}, {"@type": "MusicRecording", "name": 'La dose'}, {"@type": "MusicRecording", "name": 'Bad GayL'}, {"@type": "MusicRecording", "name": 'Bwé Rhum'}, {"@type": "MusicRecording", "name": 'Toto - Chaben - Monss'}, {"@type": "MusicRecording", "name": 'PLAN A 3'}, {"@type": "MusicRecording", "name": 'LEVRETTE'}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

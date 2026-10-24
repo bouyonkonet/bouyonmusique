@@ -90,13 +90,67 @@ FR = {
   ]
  ],
  "faq": [
-  ("Machel Montano est-il un artiste bouyon ?", "Non. Machel Montano est un artiste soca de Trinidad et Tobago, largement présenté comme le roi de la soca. Il figure sur ce site parce que deux de ses titres emblèmes, « Famalay » et « Conch Shell », sont produits par le Dominicain Dada, figure du bouyon soca, et parce que son site officiel l’annonce au World Creole Music Festival de Roseau, en Dominique, le 25 octobre 2026."),
-  ("Combien de titres de Road March Machel Montano a-t-il gagnés ?", "Douze, un record absolu pour le carnaval de Trinidad et Tobago : « Big Truck » en 1997, « Band Of De Year » en 2006, « Jumbie » en 2007, « Advantage » en 2011, « Pump Yuh Flag » en 2012, « Ministry of Road » en 2014, « Like Ah Boss » en 2015, « Waiting on the Stage » en 2016, « Soca Kingdom » en 2018, « Famalay » en 2019, « Pardy » en 2025 et « Encore » en 2026, qui lui a fait dépasser les onze titres de Lord Kitchener."),
-  ("Quel est le lien entre Machel Montano et le producteur dominicain Dada ?", "Les crédits officiels de « Famalay », Road March 2019, nomment DadaMuzic et DSM à la production et DadaMuzic au mixage. Pour « Conch Shell » en 2020, les crédits nomment Dadamanufakture à la production et précisent que Skinny Fabulous a été enregistré en Dominique, chez Dadamanufakture. Dada est le producteur auquel ce site attribue, sur le témoignage signé de Smokiller, l’invention du bouyon soca en Dominique en 2003."),
-  ("Machel Montano a-t-il déjà joué en Dominique ?", "Son site officiel annonce un concert au World Creole Music Festival de Roseau, au Windsor Park Sports Stadium, le 25 octobre 2026. Avant cette date, le lien le plus documenté avec la Dominique reste le clip de « Famalay », dont le générique remercie les autorités touristiques dominicaines, les danseurs créoles et les tambourinaires kalinago pour une séquence tournée en Dominique."),
-  ("Pourquoi Machel Montano est-il surnommé le roi de la soca ?", "C’est le titre que lui attribuent largement la presse et les institutions culturelles, de Billboard à la Brooklyn Public Library. Il repose sur des faits vérifiables : une carrière commencée enfant dans les années 1980, douze titres de Road March, six titres d’International Soca Monarch, un Soul Train Award en 2014 et un rôle central dans la mondialisation de la soca. Comme tous les titres d’artiste, celui-ci est une attribution, pas un fait officiel."),
-  ("Quels titres de Machel Montano écouter pour entendre le lien avec le bouyon ?", "Commencez par « Famalay » et « Conch Shell », les deux productions de Dada que les références du bouyon soca retiennent comme emblèmes du genre. Enchaînez avec les titres du record : « Big Truck », « Pump Yuh Flag », « Ministry of Road », « Like Ah Boss », « Soca Kingdom » et « Encore ». Notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> replace les deux premiers dans le paysage dominicain.")
- ],
+  (
+    "Machel Montano est-il un artiste bouyon ?",
+    "Non. Machel Montano est un artiste soca de Trinidad et Tobago, largement présenté comme le roi de la soca. Il figure sur ce site parce que deux de ses titres emblèmes, « Famalay » et « Conch Shell », sont produits par le Dominicain Dada, figure du bouyon soca, et parce que son site officiel l’annonce au World Creole Music Festival de Roseau, en Dominique, le 25 octobre 2026.",
+  ),
+  (
+    "Combien de titres de Road March Machel Montano a-t-il gagnés ?",
+    "Douze, un record absolu pour le carnaval de Trinidad et Tobago : « Big Truck » en 1997, « Band Of De Year » en 2006, « Jumbie » en 2007, « Advantage » en 2011, « Pump Yuh Flag » en 2012, « Ministry of Road » en 2014, « Like Ah Boss » en 2015, « Waiting on the Stage » en 2016, « Soca Kingdom » en 2018, « Famalay » en 2019, « Pardy » en 2025 et « Encore » en 2026, qui lui a fait dépasser les onze titres de Lord Kitchener.",
+  ),
+  (
+    "Quel est le lien entre Machel Montano et le producteur dominicain Dada ?",
+    "Les crédits officiels de « Famalay », Road March 2019, nomment DadaMuzic et DSM à la production et DadaMuzic au mixage. Pour « Conch Shell » en 2020, les crédits nomment Dadamanufakture à la production et précisent que Skinny Fabulous a été enregistré en Dominique, chez Dadamanufakture. Dada est le producteur auquel ce site attribue, sur le témoignage signé de Smokiller, l’invention du bouyon soca en Dominique en 2003.",
+  ),
+  (
+    "Machel Montano a-t-il déjà joué en Dominique ?",
+    "Son site officiel annonce un concert au World Creole Music Festival de Roseau, au Windsor Park Sports Stadium, le 25 octobre 2026. Avant cette date, le lien le plus documenté avec la Dominique reste le clip de « Famalay », dont le générique remercie les autorités touristiques dominicaines, les danseurs créoles et les tambourinaires kalinago pour une séquence tournée en Dominique.",
+  ),
+  (
+    "Pourquoi Machel Montano est-il surnommé le roi de la soca ?",
+    "C’est le titre que lui attribuent largement la presse et les institutions culturelles, de Billboard à la Brooklyn Public Library. Il repose sur des faits vérifiables : une carrière commencée enfant dans les années 1980, douze titres de Road March, six titres d’International Soca Monarch, un Soul Train Award en 2014 et un rôle central dans la mondialisation de la soca. Comme tous les titres d’artiste, celui-ci est une attribution, pas un fait officiel.",
+  ),
+  (
+    "Quels titres de Machel Montano écouter pour entendre le lien avec le bouyon ?",
+    "Commencez par « Famalay » et « Conch Shell », les deux productions de Dada que les références du bouyon soca retiennent comme emblèmes du genre. Enchaînez avec les titres du record : « Big Truck », « Pump Yuh Flag », « Ministry of Road », « Like Ah Boss », « Soca Kingdom » et « Encore ». Pour entendre ensuite la scène bouyon de la Dominique, écoutez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>.",
+  ),
+  (
+    "Qui est Machel Montano ?",
+    "Machel Montano est un chanteur, auteur et producteur de Trinidad et Tobago, largement présenté comme le roi de la soca. Né le 24 novembre 1974, il chante depuis l’enfance, a remporté douze Road March, un record absolu, et six International Soca Monarch. Sur ce site, il compte pour « Famalay » et « Conch Shell », deux titres produits par le Dominicain <a href=\"/dada.html\">Dada</a>.",
+  ),
+  (
+    "D’où vient Machel Montano ?",
+    "Machel Montano est né le 24 novembre 1974 à Carenage, dans le nord-ouest de Trinidad, et sa famille s’est installée très tôt à Siparia, dans le sud-ouest de l’île. Il a fréquenté Siparia Boys R.C., puis le Presentation College de San Fernando, où il chantait dans la chorale. Sa scène naturelle est le carnaval de Port of Spain.",
+  ),
+  (
+    "Qui chante sur « Famalay » ?",
+    "Machel Montano, le Vincentais <a href=\"/skinny-fabulous.html\">Skinny Fabulous</a> et Bunji Garlin. Le titre a remporté la Road March 2019, joué 346 fois aux points de jugement selon la presse trinidadienne : dixième titre pour Montano, premier pour Bunji Garlin, et Skinny Fabulous devient le premier étranger vainqueur. La production est créditée à DadaMuzic et DSM.",
+  ),
+  (
+    "Qui a écrit « Conch Shell » ?",
+    "Les crédits officiels nomment Gamal « Skinny » Doyle, Machel Montano, Neil « Iwer » George et Krishna Clyde Lawrence. Le titre de la saison 2020 réunit Skinny Fabulous, Machel Montano et Iwer George, avec Dadamanufakture à la production ; Skinny Fabulous a été enregistré chez Dadamanufakture, en Dominique. Les références du <a href=\"/bouyon-soca.html\">bouyon soca</a> le retiennent comme un emblème du genre.",
+  ),
+  (
+    "Quelle est la première chanson de Machel Montano ?",
+    "« Too Young To Soca », le titre qui l’a fait connaître à neuf ans, encore à l’école primaire : trop jeune pour la soca, dit la chanson. Son premier album, du même nom, sort en 1985, et sa biographie officielle le décrit comme un succès immédiat. Sa carrière avait commencé en 1982, à sept ans, selon cette même biographie.",
+  ),
+  (
+    "Qu’est-ce que le Machel Monday ?",
+    "C’est le grand concert annuel de Machel Montano pendant le carnaval de Trinidad, d’abord appelé Alternative Concept, puis rebaptisé Machel Monday en 2011, du nom du lundi qui précède les deux grands jours du carnaval. La presse trinidadienne le décrit comme devenu le plus grand événement du calendrier carnavalesque, devant le Soca Monarch lui-même.",
+  ),
+  (
+    "Qu’est-ce que Xtatik, le groupe de Machel Montano ?",
+    "Xtatik est le groupe de scène de Machel Montano, formé en 1984 avec son frère aîné Marcus et des voisins sous le nom de Pranasonic Express, rebaptisé Xtatik en 1989, puis Machel Montano HD en 2007. Son plus grand succès, « Big Truck », donne à Montano sa première Road March en 1997. Au début des années 2000, Kernal Roberts, fils de Lord Kitchener, en était le batteur et directeur musical.",
+  ),
+  (
+    "Machel Montano a-t-il battu le record de Lord Kitchener ?",
+    "Oui, au carnaval 2026. Selon l’agence CMC, « Encore » a été joué 171 fois aux points de jugement, devant « Cyah Behave » de Voice à 127 : douzième Road March pour Montano, qui dépasse les onze titres de Lord Kitchener, après les avoir égalés en 2025 avec « Pardy ». Le ministre de la Culture de Trinidad et Tobago a salué publiquement ce record.",
+  ),
+  (
+    "Quelle est la différence entre la soca de Machel Montano et le bouyon ?",
+    "La soca est l’héritière du calypso de Trinidad et Tobago, et sa grande scène est le carnaval de Port of Spain. Le bouyon est né en Dominique, à Roseau, à la fin des années 1980. Les deux genres se répondent depuis trente ans, et le <a href=\"/bouyon-soca.html\">bouyon soca</a>, lancé par Dada en Dominique en 2003, les fusionne : c’est là que se croisent Montano et le bouyon.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/machel-montano.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/machel-montano.html#artist", "name": "Machel Montano", "description": "Chanteur, auteur et producteur soca de Trinidad et Tobago, largement présenté comme le roi de la soca. Recordman du Road March avec 12 titres. Ses titres Famalay et Conch Shell sont produits par le Dominicain Dada, et son site officiel l’annonce au World Creole Music Festival de Roseau le 25 octobre 2026.", "genre": "Soca", "track": [{"@type": "MusicRecording", "name": "Too Young To Soca"}, {"@type": "MusicRecording", "name": "Big Truck"}, {"@type": "MusicRecording", "name": "Toro Toro"}, {"@type": "MusicRecording", "name": "Band Of De Year"}, {"@type": "MusicRecording", "name": "Jumbie"}, {"@type": "MusicRecording", "name": "Pump Yuh Flag"}, {"@type": "MusicRecording", "name": "Ministry of Road"}, {"@type": "MusicRecording", "name": "Like Ah Boss"}, {"@type": "MusicRecording", "name": "One Wine"}, {"@type": "MusicRecording", "name": "Waiting on the Stage"}, {"@type": "MusicRecording", "name": "Soca Kingdom"}, {"@type": "MusicRecording", "name": "Famalay"}, {"@type": "MusicRecording", "name": "Conch Shell"}, {"@type": "MusicRecording", "name": "Pardy"}, {"@type": "MusicRecording", "name": "Encore"},
       {
        "@type": "MusicRecording",
@@ -418,13 +472,67 @@ EN = {
   ]
  ],
  "faq": [
-  ("Is Machel Montano a bouyon artist?", "No. Machel Montano is a soca artist from Trinidad and Tobago, widely billed as the King of Soca. He appears on this site because two of his emblem records, “Famalay” and “Conch Shell”, are produced by the Dominican Dada, a bouyon soca figure, and because his official website lists him at the World Creole Music Festival in Roseau, Dominica, on 25 October 2026."),
-  ("How many Road March titles has Machel Montano won?", "Twelve, an all time record for the Trinidad and Tobago carnival: “Big Truck” in 1997, “Band Of De Year” in 2006, “Jumbie” in 2007, “Advantage” in 2011, “Pump Yuh Flag” in 2012, “Ministry of Road” in 2014, “Like Ah Boss” in 2015, “Waiting on the Stage” in 2016, “Soca Kingdom” in 2018, “Famalay” in 2019, “Pardy” in 2025 and “Encore” in 2026, which took him past the eleven titles of Lord Kitchener."),
-  ("What is the link between Machel Montano and the Dominican producer Dada?", "The official credits of “Famalay”, the 2019 Road March winner, name DadaMuzic and DSM as producers and DadaMuzic as mixer. For “Conch Shell” in 2020, the credits name Dadamanufakture as producer and state that Skinny Fabulous was recorded in Dominica, at Dadamanufakture. Dada is the producer to whom this site attributes, on the signed testimony of Smokiller, the invention of bouyon soca in Dominica in 2003."),
-  ("Has Machel Montano played in Dominica?", "His official website lists a concert at the World Creole Music Festival in Roseau, at Windsor Park Sports Stadium, on 25 October 2026. Before that date, the best documented link with Dominica remains the “Famalay” video, whose credits thank the Dominican tourism authorities, the Creole dancers and the Kalinago drummers for a segment shot in Dominica."),
-  ("Why is Machel Montano called the King of Soca?", "It is the title widely given to him by the press and cultural institutions, from Billboard to Brooklyn Public Library. It rests on verifiable facts: a career begun as a child in the 1980s, twelve Road March titles, six International Soca Monarch titles, a Soul Train Award in 2014 and a central role in the globalisation of soca. Like all artist titles, it is an attribution, not an official fact."),
-  ("Which Machel Montano records should I hear to catch the bouyon link?", "Start with “Famalay” and “Conch Shell”, the two Dada productions that bouyon soca references hold up as emblems of the genre. Follow with the record run: “Big Truck”, “Pump Yuh Flag”, “Ministry of Road”, “Like Ah Boss”, “Soca Kingdom” and “Encore”. Our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> places the first two back inside the Dominican landscape.")
- ],
+  (
+    "Is Machel Montano a bouyon artist?",
+    "No. Machel Montano is a soca artist from Trinidad and Tobago, widely billed as the King of Soca. He appears on this site because two of his emblem records, “Famalay” and “Conch Shell”, are produced by the Dominican Dada, a bouyon soca figure, and because his official website lists him at the World Creole Music Festival in Roseau, Dominica, on 25 October 2026.",
+  ),
+  (
+    "How many Road March titles has Machel Montano won?",
+    "Twelve, an all time record for the Trinidad and Tobago carnival: “Big Truck” in 1997, “Band Of De Year” in 2006, “Jumbie” in 2007, “Advantage” in 2011, “Pump Yuh Flag” in 2012, “Ministry of Road” in 2014, “Like Ah Boss” in 2015, “Waiting on the Stage” in 2016, “Soca Kingdom” in 2018, “Famalay” in 2019, “Pardy” in 2025 and “Encore” in 2026, which took him past the eleven titles of Lord Kitchener.",
+  ),
+  (
+    "What is the link between Machel Montano and the Dominican producer Dada?",
+    "The official credits of “Famalay”, the 2019 Road March winner, name DadaMuzic and DSM as producers and DadaMuzic as mixer. For “Conch Shell” in 2020, the credits name Dadamanufakture as producer and state that Skinny Fabulous was recorded in Dominica, at Dadamanufakture. Dada is the producer to whom this site attributes, on the signed testimony of Smokiller, the invention of bouyon soca in Dominica in 2003.",
+  ),
+  (
+    "Has Machel Montano played in Dominica?",
+    "His official website lists a concert at the World Creole Music Festival in Roseau, at Windsor Park Sports Stadium, on 25 October 2026. Before that date, the best documented link with Dominica remains the “Famalay” video, whose credits thank the Dominican tourism authorities, the Creole dancers and the Kalinago drummers for a segment shot in Dominica.",
+  ),
+  (
+    "Why is Machel Montano called the King of Soca?",
+    "It is the title widely given to him by the press and cultural institutions, from Billboard to Brooklyn Public Library. It rests on verifiable facts: a career begun as a child in the 1980s, twelve Road March titles, six International Soca Monarch titles, a Soul Train Award in 2014 and a central role in the globalisation of soca. Like all artist titles, it is an attribution, not an official fact.",
+  ),
+  (
+    "Which Machel Montano records should I hear to catch the bouyon link?",
+    "Start with “Famalay” and “Conch Shell”, the two Dada productions that bouyon soca references hold up as emblems of the genre. Follow with the record run: “Big Truck”, “Pump Yuh Flag”, “Ministry of Road”, “Like Ah Boss”, “Soca Kingdom” and “Encore”. To then hear the bouyon scene of Dominica, play our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>.",
+  ),
+  (
+    "Who is Machel Montano?",
+    "Machel Montano is a singer, songwriter and producer from Trinidad and Tobago, widely billed as the King of Soca. Born on 24 November 1974, he has performed since childhood and won twelve Road March titles, an all time record, and six International Soca Monarch titles. On this site, he matters for “Famalay” and “Conch Shell”, two records produced by the Dominican <a href=\"/en/dada.html\">Dada</a>.",
+  ),
+  (
+    "Where is Machel Montano from?",
+    "Machel Montano was born on 24 November 1974 in Carenage, in northwestern Trinidad, and his family settled very early in Siparia, in the southwest of the island. He attended Siparia Boys R.C., then Presentation College in San Fernando, where he sang in the school choir. His natural stage is the Port of Spain carnival.",
+  ),
+  (
+    "Who sings on “Famalay”?",
+    "Machel Montano, the Vincentian <a href=\"/en/skinny-fabulous.html\">Skinny Fabulous</a> and Bunji Garlin. The song won the 2019 Road March, played 346 times at the judging points according to the Trinidad press: a tenth title for Montano, a first for Bunji Garlin, and Skinny Fabulous became the first foreign winner. Production is credited to DadaMuzic and DSM.",
+  ),
+  (
+    "Who wrote “Conch Shell”?",
+    "The official credits name Gamal “Skinny” Doyle, Machel Montano, Neil “Iwer” George and Krishna Clyde Lawrence. The 2020 season record brings together Skinny Fabulous, Machel Montano and Iwer George, with Dadamanufakture as producer; Skinny Fabulous was recorded at Dadamanufakture, in Dominica. <a href=\"/en/bouyon-soca.html\">Bouyon soca</a> references hold it up as an emblem of the genre.",
+  ),
+  (
+    "What was Machel Montano's first song?",
+    "“Too Young To Soca”, the song that made him known at nine, while still in primary school: too young for soca, says the song. His debut album, of the same name, came out in 1985, and his official biography describes it as an instant hit. His career had started in 1982, at the age of seven, according to the same biography.",
+  ),
+  (
+    "What is Machel Monday?",
+    "It is Machel Montano's big annual concert during the Trinidad carnival, first called Alternative Concept, then rebranded Machel Monday in 2011, named for the Monday before the two big carnival days. The Trinidad press describes it as having become the biggest event on the carnival calendar, ahead of Soca Monarch itself.",
+  ),
+  (
+    "What was Xtatik, Machel Montano's band?",
+    "Xtatik is Machel Montano's stage band, formed in 1984 with his older brother Marcus and neighbours as Pranasonic Express, renamed Xtatik in 1989, then Machel Montano HD in 2007. Its biggest success, “Big Truck”, gave Montano his first Road March in 1997. In the early 2000s, Kernal Roberts, son of Lord Kitchener, was its drummer and musical director.",
+  ),
+  (
+    "Did Machel Montano break Lord Kitchener's record?",
+    "Yes, at carnival 2026. According to the CMC agency, “Encore” was played 171 times at the judging points, ahead of “Cyah Behave” by Voice at 127: a twelfth Road March for Montano, passing the eleven titles of Lord Kitchener, after drawing level in 2025 with “Pardy”. The culture minister of Trinidad and Tobago publicly hailed the record.",
+  ),
+  (
+    "What is the difference between Machel Montano's soca and bouyon?",
+    "Soca is the heir of Trinidad and Tobago calypso, and its big stage is the Port of Spain carnival. Bouyon was born in Dominica, in Roseau, at the end of the 1980s. The two genres have answered each other for thirty years, and <a href=\"/en/bouyon-soca.html\">bouyon soca</a>, started by Dada in Dominica in 2003, fuses them: that is where Montano and bouyon meet.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/machel-montano.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/machel-montano.html#artist", "name": "Machel Montano", "description": "Soca singer, songwriter and producer from Trinidad and Tobago, widely billed as the King of Soca. All time Road March record holder with 12 titles. His records Famalay and Conch Shell are produced by Dominica Dada, and his official website lists him at the World Creole Music Festival in Roseau on 25 October 2026.", "genre": "Soca", "track": [{"@type": "MusicRecording", "name": "Too Young To Soca"}, {"@type": "MusicRecording", "name": "Big Truck"}, {"@type": "MusicRecording", "name": "Toro Toro"}, {"@type": "MusicRecording", "name": "Band Of De Year"}, {"@type": "MusicRecording", "name": "Jumbie"}, {"@type": "MusicRecording", "name": "Pump Yuh Flag"}, {"@type": "MusicRecording", "name": "Ministry of Road"}, {"@type": "MusicRecording", "name": "Like Ah Boss"}, {"@type": "MusicRecording", "name": "One Wine"}, {"@type": "MusicRecording", "name": "Waiting on the Stage"}, {"@type": "MusicRecording", "name": "Soca Kingdom"}, {"@type": "MusicRecording", "name": "Famalay"}, {"@type": "MusicRecording", "name": "Conch Shell"}, {"@type": "MusicRecording", "name": "Pardy"}, {"@type": "MusicRecording", "name": "Encore"},
       {
        "@type": "MusicRecording",

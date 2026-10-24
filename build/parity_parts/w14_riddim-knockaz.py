@@ -61,13 +61,51 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Riddim Knockaz ?", "Riddim Knockaz, crédité sous la forme Riddim Knockaz Band sur son titre documenté, est un groupe de bouyon de la Dominique. Il est connu du public de l’île par ses scènes : fête de Saint-Pierre de Portsmouth en 2024, lancement officiel de Mas Domnik 2026 et Ti Vilaj Kwéyòl 2026 à Roseau. Aucune biographie officielle du groupe n’est publiée dans les sources ouvertes consultées."),
-  ("Quel est le titre documenté de Riddim Knockaz ?", "« Bright and Creamy », publié en vidéo paroles sur YouTube. Il est interprété par Dayne Alexander et Glenn Mills, écrit par Tabitha Williams et Dayne Alexander, arrangé et produit par Dion Brewster, avec le riddim et les drums d’Arade « Maskman » Moses, un mixage d’Ajmal Peters de Bouyon Kitchen et un mastering de Dernel Green. Ses auteurs le classent dans le bouyon et la saison 2024."),
-  ("Pourquoi un seul titre alors que le groupe joue sur de grandes affiches ?", "Cette question est au coeur du dossier. Riddim Knockaz est un groupe de scène : son activité documentée passe par les fêtes, le carnaval et les festivals, pas par un catalogue de streaming. Un seul enregistrement avec des crédits complets a été retrouvé, et ce profil refuse d’en inventer d’autres."),
-  ("Où Riddim Knockaz a-t-il joué à Ti Vilaj Kwéyòl 2026 ?", "Aux Botanic Gardens de Roseau, lors de la première journée du festival, le 19 octobre 2026, à 15 h 29 selon le programme officiel publié ce jour-là. Le groupe figurait parmi les vingt premiers noms confirmés par le gouvernement de la Dominique pour la cinquième édition, organisée du 19 au 22 octobre 2026 sur le thème Tout Biten Domnik."),
-  ("Quel rôle le groupe a-t-il tenu au lancement de Mas Domnik 2026 ?", "Un rôle de premier plan pour un band : Riddim Knockaz et TK Combo étaient les deux prestations live annoncées du lancement officiel, le 28 novembre 2025 à The Factory, sur Valley Road, aux côtés de plusieurs DJs dont DJ MJ and MV on the Keys et DJ Taffy. L’événement, organisé par le ministère du Tourisme et la Discover Dominica Authority, ouvrait la saison de carnaval 2026."),
-  ("Où écouter Riddim Knockaz et le bouyon des bands ?", "Commencez par « Bright and Creamy » sur YouTube, seul titre crédité du groupe, puis écoutez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> et lisez notre page sur le <a href=\"/bouyon-riddim.html\">bouyon riddim</a> pour situer le groupe parmi les bands de la Dominique, de <a href=\"/wck.html\">WCK</a> à <a href=\"/signal-band.html\">Signal Band</a>.")
- ],
+  (
+    "Qui est Riddim Knockaz ?",
+    "Riddim Knockaz, crédité sous la forme Riddim Knockaz Band sur son titre documenté, est un groupe de bouyon de la Dominique. Il est connu du public de l’île par ses scènes : fête de Saint-Pierre de Portsmouth en 2024, lancement officiel de Mas Domnik 2026 et Ti Vilaj Kwéyòl 2026 à Roseau. Aucune biographie officielle du groupe n’est publiée dans les sources ouvertes consultées.",
+  ),
+  (
+    "Quel est le titre documenté de Riddim Knockaz ?",
+    "« Bright and Creamy », publié en vidéo paroles sur YouTube. Il est interprété par Dayne Alexander et Glenn Mills, écrit par Tabitha Williams et Dayne Alexander, arrangé et produit par Dion Brewster, avec le riddim et les drums d’Arade « Maskman » Moses, un mixage d’Ajmal Peters de Bouyon Kitchen et un mastering de Dernel Green. Ses auteurs le classent dans le bouyon et la saison 2024.",
+  ),
+  (
+    "Pourquoi un seul titre alors que le groupe joue sur de grandes affiches ?",
+    "Parce que Riddim Knockaz est un groupe de scène : son activité documentée passe par les fêtes, le carnaval et les festivals, pas par un catalogue de streaming. Un band peut jouer des saisons entières sans déposer de catalogue sur les plateformes. Un seul enregistrement avec des crédits complets a été retrouvé, et ce profil refuse d’en inventer d’autres.",
+  ),
+  (
+    "Où Riddim Knockaz a-t-il joué à Ti Vilaj Kwéyòl 2026 ?",
+    "Aux Botanic Gardens de Roseau, lors de la première journée du festival, le 19 octobre 2026, à 15 h 29 selon le programme officiel publié ce jour-là. Le groupe figurait parmi les vingt premiers noms confirmés par le gouvernement de la Dominique pour la cinquième édition, organisée du 19 au 22 octobre 2026 sur le thème Tout Biten Domnik.",
+  ),
+  (
+    "Quel rôle le groupe a-t-il tenu au lancement de Mas Domnik 2026 ?",
+    "Un rôle de premier plan pour un band : Riddim Knockaz et TK Combo étaient les deux prestations live annoncées du lancement officiel, le 28 novembre 2025 à The Factory, sur Valley Road, aux côtés de plusieurs DJs dont DJ MJ and MV on the Keys et DJ Taffy. L’événement, organisé par le ministère du Tourisme et la Discover Dominica Authority, ouvrait la saison de carnaval 2026.",
+  ),
+  (
+    "Où écouter Riddim Knockaz et le bouyon des bands ?",
+    "Commencez par « Bright and Creamy » sur YouTube, seul titre crédité du groupe, puis guettez ses scènes quand la saison s’y prête : carnaval de Roseau, fêtes patronales et semaine créole. Pour le contexte sonore du genre, des classiques des bands de WCK et Signal Band aux nouveautés, écoutez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>.",
+  ),
+  (
+    "Qui sont les membres de Riddim Knockaz ?",
+    "Aucune liste complète et arrêtée des membres n’est publiée. Le seul crédit documenté, celui de « Bright and Creamy », nomme deux voix principales, Dayne Alexander et Glenn Mills, avec des choeurs assurés par ces deux chanteurs et par Dion Brewster, l’arrangeur et producteur du titre. Ce profil s’en tient à ces noms, dans les rôles que le crédit leur donne, sans en déduire la composition du groupe.",
+  ),
+  (
+    "Qui a écrit « Bright and Creamy » de Riddim Knockaz ?",
+    "Le titre est écrit par Tabitha Williams et Dayne Alexander, selon la vidéo paroles publiée sur YouTube. Tabitha Williams signe aussi la pochette et la vidéo, au nom de sa structure Print it 767, dont le 767 est l’indicatif de la Dominique. Dayne Alexander en est aussi l’une des deux voix principales, avec Glenn Mills : une petite équipe porte le titre de l’écriture à l’image.",
+  ),
+  (
+    "Riddim Knockaz a-t-il joué à la fête de Saint-Pierre de Portsmouth ?",
+    "Oui. Selon Writeups 24, le groupe était au programme du Family Fun Day du dimanche 30 juin 2024, journée finale des trois jours de la fête de Saint-Pierre à Portsmouth, aux côtés de Slyme Hoyss, de Latitude Stars Band et de DJ MS, avec la bénédiction des bateaux au coeur de la journée. C’est le rendez-vous d’une communauté de pêcheurs et de familles.",
+  ),
+  (
+    "Riddim Knockaz est-il un groupe ou un producteur ?",
+    "Un groupe. Son titre documenté le crédite sous la forme longue Riddim Knockaz Band, et le mot band décrit une formation, pas un producteur solo, malgré le mot riddim au centre du nom, cette base rythmique qu’explique notre page <a href=\"/bouyon-riddim.html\">bouyon riddim</a>. Le groupe est crédité comme producteur exécutif de son propre titre et se produit en live sur les scènes de la Dominique.",
+  ),
+  (
+    "Avec quels groupes Riddim Knockaz partage-t-il l’affiche ?",
+    "Pour Ti Vilaj Kwéyòl 2026, le gouvernement de la Dominique l’annonce parmi les vingt premiers noms, avec Shelly and the Signal Band, <a href=\"/tk-international.html\">TK International</a>, Extasy, Pudaz, Reo et Faithii. Le programme du 19 octobre le place entre Innercore Unit et le Belles Combo Tribute Band, avant Colton T, Midnight Groovers et Extasy. Au lancement de Mas Domnik 2026, il partageait la scène live avec TK Combo.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/riddim-knockaz.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/riddim-knockaz.html#artist", "name": "Riddim Knockaz", "description": "Groupe de bouyon de la Dominique. Titre documenté Bright and Creamy, interprété par Dayne Alexander et Glenn Mills. Scènes documentées : Portsmouth 2024, lancement de Mas Domnik 2026, Ti Vilaj Kweyol 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bright and Creamy"},
       {
        "@type": "MusicRecording",
@@ -160,13 +198,51 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who are Riddim Knockaz?", "Riddim Knockaz, credited as Riddim Knockaz Band on their documented record, are a bouyon band from Dominica. The island audience knows them from the stage: the Portsmouth Feast of St. Peters in 2024, the official Mas Domnik 2026 launch and Ti Vilaj Kwéyòl 2026 in Roseau. No official biography of the band is published in the open sources consulted."),
-  ("What is the documented Riddim Knockaz song?", "“Bright and Creamy”, released as a lyric video on YouTube. It is performed by Dayne Alexander and Glenn Mills, written by Tabitha Williams and Dayne Alexander, arranged and produced by Dion Brewster, with riddim and drums by Arade “Maskman” Moses, mixing by Ajmal Peters of Bouyon Kitchen and mastering by Dernel Green. Its makers place it in bouyon and the 2024 season."),
-  ("Why only one song when the band plays major bills?", "That question sits at the centre of this file. Riddim Knockaz are a stage band: their documented activity runs through feasts, carnival and festivals, not through a streaming catalogue. Only one recording with full credits was found, and this profile refuses to invent others."),
-  ("Where did Riddim Knockaz play at Ti Vilaj Kwéyòl 2026?", "At the Botanic Gardens in Roseau, on Day 1 of the festival, October 19, 2026, at 3:29 PM according to the official programme published that day. The band was among the first twenty names confirmed by the Government of Dominica for the fifth edition, held from October 19 to 22, 2026 under the theme Tout Biten Domnik."),
-  ("What role did the band hold at the Mas Domnik 2026 launch?", "A leading role for a band: Riddim Knockaz and TK Combo were the two announced live performances at the official launch, on November 28, 2025 at The Factory, on Valley Road, alongside several DJs including DJ MJ and MV on the Keys and DJ Taffy. The event, hosted by the Ministry of Tourism and the Discover Dominica Authority, opened the 2026 carnival season."),
-  ("Where can I hear Riddim Knockaz and band bouyon?", "Start with “Bright and Creamy” on YouTube, the band only credited song, then hear our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> and read our <a href=\"/en/bouyon-riddim.html\">bouyon riddim</a> page to place the band among Dominica bands, from <a href=\"/en/wck.html\">WCK</a> to <a href=\"/en/signal-band.html\">Signal Band</a>.")
- ],
+  (
+    "Who are Riddim Knockaz?",
+    "Riddim Knockaz, credited as Riddim Knockaz Band on their documented record, are a bouyon band from Dominica. The island audience knows them from the stage: the Portsmouth Feast of St. Peters in 2024, the official Mas Domnik 2026 launch and Ti Vilaj Kwéyòl 2026 in Roseau. No official biography of the band is published in the open sources consulted.",
+  ),
+  (
+    "What is the documented Riddim Knockaz song?",
+    "“Bright and Creamy”, released as a lyric video on YouTube. It is performed by Dayne Alexander and Glenn Mills, written by Tabitha Williams and Dayne Alexander, arranged and produced by Dion Brewster, with riddim and drums by Arade “Maskman” Moses, mixing by Ajmal Peters of Bouyon Kitchen and mastering by Dernel Green. Its makers place it in bouyon and the 2024 season.",
+  ),
+  (
+    "Why only one song when the band plays major bills?",
+    "Because Riddim Knockaz are a stage band: their documented activity runs through feasts, carnival and festivals, not through a streaming catalogue. A band can play whole seasons without putting a catalogue on the platforms. Only one recording with full credits was found, and this profile refuses to invent others.",
+  ),
+  (
+    "Where did Riddim Knockaz play at Ti Vilaj Kwéyòl 2026?",
+    "At the Botanic Gardens in Roseau, on Day 1 of the festival, October 19, 2026, at 3:29 PM according to the official programme published that day. The band was among the first twenty names confirmed by the Government of Dominica for the fifth edition, held from October 19 to 22, 2026 under the theme Tout Biten Domnik.",
+  ),
+  (
+    "What role did the band hold at the Mas Domnik 2026 launch?",
+    "A leading role for a band: Riddim Knockaz and TK Combo were the two announced live performances at the official launch, on November 28, 2025 at The Factory, on Valley Road, alongside several DJs including DJ MJ and MV on the Keys and DJ Taffy. The event, hosted by the Ministry of Tourism and the Discover Dominica Authority, opened the 2026 carnival season.",
+  ),
+  (
+    "Where can I hear Riddim Knockaz and band bouyon?",
+    "Start with “Bright and Creamy” on YouTube, the band’s only credited song, then watch for their stage dates when the season comes: Roseau carnival, patron saint feasts and Creole week. For the sound of the genre, from the band classics of WCK and Signal Band to new releases, hear our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>.",
+  ),
+  (
+    "Who are the members of Riddim Knockaz?",
+    "No complete, settled member list is published. The only documented credit, that of “Bright and Creamy”, names two lead voices, Dayne Alexander and Glenn Mills, with backing vocals by those two singers and by Dion Brewster, the song’s arranger and producer. This profile sticks to those names, in the roles the credit gives them, without inferring the band’s line up from them.",
+  ),
+  (
+    "Who wrote Riddim Knockaz’s “Bright and Creamy”?",
+    "The song is written by Tabitha Williams and Dayne Alexander, according to the lyric video published on YouTube. Tabitha Williams also signs the artwork and the video, under her outfit Print it 767, whose 767 is Dominica’s area code. Dayne Alexander is also one of the two lead voices, with Glenn Mills: a small team carries the song from writing to image.",
+  ),
+  (
+    "Did Riddim Knockaz play the Feast of St. Peter in Portsmouth?",
+    "Yes. According to Writeups 24, the band was on the programme of the Family Fun Day on Sunday 30 June 2024, the final day of the three day Feast of St. Peter in Portsmouth, alongside Slyme Hoyss, Latitude Stars Band and DJ MS, with the blessing of the boats at the heart of the day. It is the gathering of a community of fishermen and families.",
+  ),
+  (
+    "Are Riddim Knockaz a band or a producer?",
+    "A band. Their documented record credits them in the long form Riddim Knockaz Band, and the word band describes a group, not a solo producer, despite the word riddim at the centre of the name, the rhythmic base our <a href=\"/en/bouyon-riddim.html\">bouyon riddim</a> page explains. The band is credited as executive producer of its own song and plays live on Dominica’s stages.",
+  ),
+  (
+    "Which bands do Riddim Knockaz share bills with?",
+    "For Ti Vilaj Kwéyòl 2026, the Government of Dominica announced them among the first twenty names, with Shelly and the Signal Band, <a href=\"/en/tk-international.html\">TK International</a>, Extasy, Pudaz, Reo and Faithii. The 19 October programme places them between Innercore Unit and the Belles Combo Tribute Band, ahead of Colton T, Midnight Groovers and Extasy. At the Mas Domnik 2026 launch, they shared the live stage with TK Combo.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/riddim-knockaz.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/riddim-knockaz.html#artist", "name": "Riddim Knockaz", "description": "Bouyon band from Dominica. Documented song Bright and Creamy, performed by Dayne Alexander and Glenn Mills. Documented stages: Portsmouth 2024, Mas Domnik 2026 launch, Ti Vilaj Kweyol 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bright and Creamy"},
       {
        "@type": "MusicRecording",

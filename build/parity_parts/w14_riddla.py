@@ -75,13 +75,67 @@ FR = {
   ]
  ],
  "faq": [
-  ("D’où vient Riddla et où a-t-il grandi ?", "Selon la biographie publiée pour le Festival Talents Guadeloupe, Riddla est un chanteur et comédien originaire de Marie-Galante, en Guadeloupe, et il a grandi au quartier de Lauricisque, plus communément appelé « Zooside ». Il est actif depuis son premier album, « C.Pagna la », sorti en 2003."),
-  ("Riddla a-t-il vraiment gagné un prix en bouyon, lui qui vient du rap ?", "Oui, et c’est le fait que les profils rap ne racontent pas. Le palmarès des Hit Lokal Awards donne la catégorie Soca/Bouyon de la deuxième édition, en 2014, à Riddla pour « Twitté’y ». La même année, son « Ti-Bidon », sorti en single le 4 février 2014 chez Yasala Corp., est décrit par sa biographie comme un tube satirique à plus de 500 000 vues YouTube en sept jours."),
-  ("Quel est le lien entre Riddla et TK International ?", "Selon la chronique de Karukerament consacrée à l’album « Ki Sòs Ou Vlé? », Riddla collabore avec TK International, le Triple K Band de la Dominique, sur « Holy Wata », présenté comme une autre version du tube « Whistle While You Work ». C’est une collaboration directe entre un artiste guadeloupéen et l’un des bands piliers du bouyon dominicain."),
-  ("Quels sont les titres bouyon de Riddla à écouter en premier ?", "« Mi Mas La », avec Mas Ka Kle, programmé par les mixes dominicains Road to Carnival et Soca Passport, et « Mi Boss La (Quoicoubèh) », avec DJ Luchshiy, programmé au Carnaval 2024. Sur l’album « Ki Sòs Ou Vlé? » de 2024, la chronique de Karukerament classe « Bravoléfi - Bendova », « Bénévolat » et « Fais La Belle » comme ses titres de fête bouyon et soca."),
-  ("Qu’est-ce que Ki Sòs Ou Vlé? ?", "C’est le deuxième album complet de Riddla, paru en juillet 2024 selon la chronique de Karukerament, avec vingt-deux titres. Il traverse le rap, le bouyon, le reggae, le dancehall, le zouk, la pop caribéenne et le gospel, avec des chroniques du quotidien, des titres sur l’amour et une berceuse reggae de père, « Bonne Nuit ». La chronique le juge, comme opinion, meilleur album guadeloupéen de 2024."),
-  ("Comment Riddla a-t-il commencé, en 2003 ?", "Par un album de rencontre : « C.Pagna la », mélange de hip-hop et de gwoka avec la participation de grands noms du gwoka comme Esnard Boisdur et Jean-Pierre Coquerel, du groupe Akiyo, selon sa biographie du Festival Talents Guadeloupe. Ce départ ancre son rap dans les tambours ka, avant le dancehall, le zouk et le bouyon. Lisez aussi notre page <a href=\"/bouyon-gwada.html\">bouyon Gwada</a>.")
- ],
+  (
+    "Qui est Riddla ?",
+    "Riddla est un artiste guadeloupéen originaire de Marie-Galante, chanteur, comédien, rappeur et auteur, actif depuis son premier album « C.Pagna la » en 2003. Son parcours va du hip-hop gwoka au tube satirique « Ti-Bidon », puis au prix Soca/Bouyon des Hit Lokal Awards 2014 pour « Twitté’y » et à l’album « Ki Sòs Ou Vlé? » de 2024, où le bouyon côtoie le rap, le reggae et le zouk.",
+  ),
+  (
+    "D’où vient Riddla et où a-t-il grandi ?",
+    "Riddla vient de Marie-Galante, en Guadeloupe, et il a grandi au quartier de Lauricisque, plus communément appelé « Zooside », selon la biographie publiée pour le Festival Talents Guadeloupe. Cette même biographie le présente comme chanteur, danseur et comédien. Il est actif depuis son premier album, « C.Pagna la », sorti en 2003.",
+  ),
+  (
+    "Riddla est-il un artiste de la Dominique ?",
+    "Non : Riddla est guadeloupéen, originaire de Marie-Galante. Mais les DJ du bouyon dominicain le jouent : les mixes DJ Judgement Road to Carnival et DJ Close Connections Soca Passport programment son « Mi Mas La », avec Mas Ka Kle, au milieu d’artistes de la Dominique. Il chante en créole, en français et en anglais selon les titres, ce qui l’aide à circuler sur les deux îles.",
+  ),
+  (
+    "Riddla est-il un rappeur ou un artiste bouyon ?",
+    "Les deux : Riddla vient du rap et du gwoka, mais le bouyon est l’une des sauces de son menu. Karukerament le présente comme rappeur, chanteur, acteur, auteur et artiste de doublage, et classe « Bravoléfi - Bendova », « Bénévolat » et « Fais La Belle » comme ses titres de fête bouyon et soca. La chronique le juge, comme opinion, l’artiste le plus polyvalent de sa génération.",
+  ),
+  (
+    "Riddla a-t-il vraiment gagné un prix en bouyon, lui qui vient du rap ?",
+    "Oui. Le palmarès des Hit Lokal Awards donne la catégorie Soca/Bouyon de la deuxième édition, en 2014, à Riddla pour « Twitté’y ». La même année, son « Ti-Bidon », sorti en single le 4 février 2014 chez Yasala Corp., est décrit par sa biographie comme un tube satirique à plus de 500 000 vues YouTube en sept jours.",
+  ),
+  (
+    "Que sont les Hit Lokal Awards gagnés par Riddla ?",
+    "Ce sont des prix créés en 2012 pour récompenser les clips des artistes ultramarins, avec un vote cent pour cent public, par SMS ou internet. L’édition 2014, tenue le 19 février 2014 au Théâtre Adyar, a donné la catégorie Soca/Bouyon à Riddla pour « Twitté’y ». L’année précédente, la même catégorie avait été remportée par <a href=\"/bilix.html\">Bilix</a>.",
+  ),
+  (
+    "Qui a écrit et composé « Ti-Bidon » de Riddla ?",
+    "Selon Shazam, Riddla est l’interprète et l’auteur de « Ti-Bidon », et Sylvain Siarras en est le compositeur. Le titre est sorti en single le 4 février 2014 chez Yasala Corp. Sa biographie du Festival Talents Guadeloupe le présente comme un tube satirique d’actualité, essentiel et inattendu, avec plus de 500 000 vues YouTube en sept jours à sa sortie.",
+  ),
+  (
+    "Qui a produit « Pwen Sansib » de Riddla ?",
+    "« Pwen Sansib » est une production Grand-mère Baptiste prod datée de 2022, selon la fiche publiée par NRJ Antilles. Elle crédite Riddlaman comme auteur, Riddla comme interprète, Ransom Beats à la composition et Mister Francky au mixage et au mastering. Le clip est réalisé par Riddla lui-même, avec Lordfilmsprod à l’image et Yarma Videos au montage.",
+  ),
+  (
+    "Qui a composé « Bodé (La chanson des bons vivants) » ?",
+    "Selon Shazam, « Bodé (La chanson des bons vivants) » est composé par stanislas samuel, avec Boulogne Wesley comme auteur. Le single est sorti le 1er mai 2019 chez Grand-mère baptiste prod, la structure que l’on retrouve ensuite sur « Pwen Sansib » en 2022. Le sous-titre annonce le ton : une célébration de l’art de vivre et de la fête partagée, loin de la satire d’actualité.",
+  ),
+  (
+    "Quel est le lien entre Riddla et TK International ?",
+    "Riddla collabore avec TK International, le Triple K Band de la Dominique, sur « Holy Wata », selon la chronique de Karukerament consacrée à l’album « Ki Sòs Ou Vlé? ». Le titre est présenté comme une autre version du tube « Whistle While You Work ». C’est une collaboration directe entre un artiste guadeloupéen et l’un des bands piliers du bouyon dominicain.",
+  ),
+  (
+    "Quels sont les titres bouyon de Riddla à écouter en premier ?",
+    "Commencez par « Mi Mas La », avec Mas Ka Kle, programmé par les mixes dominicains Road to Carnival et Soca Passport, puis « Mi Boss La (Quoicoubèh) », avec DJ Luchshiy, programmé au Carnaval 2024. Viberate classe ces deux titres parmi ses plus écoutés. Sur « Ki Sòs Ou Vlé? », la chronique de Karukerament retient « Bravoléfi - Bendova », « Bénévolat » et « Fais La Belle ».",
+  ),
+  (
+    "Qu’est-ce que Ki Sòs Ou Vlé? ?",
+    "C’est le deuxième album complet de Riddla, paru en juillet 2024 selon la chronique de Karukerament, avec vingt-deux titres. Il traverse le rap, le bouyon, le reggae, le dancehall, le zouk, la pop caribéenne et le gospel, avec des chroniques du quotidien, des titres sur l’amour et une berceuse reggae de père, « Bonne Nuit ». La chronique le juge, comme opinion, meilleur album guadeloupéen de 2024.",
+  ),
+  (
+    "Comment Riddla a-t-il commencé, en 2003 ?",
+    "Par un album de rencontre : « C.Pagna la », mélange de hip-hop et de gwoka avec la participation de grands noms du gwoka comme Esnard Boisdur et Jean-Pierre Coquerel, du groupe Akiyo, selon sa biographie du Festival Talents Guadeloupe. Ce départ ancre son rap dans les tambours ka, avant le dancehall, le zouk et le bouyon. Lisez aussi notre page <a href=\"/bouyon-gwada.html\">bouyon Gwada</a>.",
+  ),
+  (
+    "Riddla est-il le même artiste que le Riddla afrobeat de Nottingham ?",
+    "Non. Certaines bases de données mélangent son nom avec celui d’un artiste afrobeat basé à Nottingham, au Royaume-Uni, mais ce sont deux artistes différents. Le Riddla de cette page est celui de Marie-Galante, en Guadeloupe, publié chez Yasala Corp. puis chez Grand-mère Baptiste prod. Aucun titre de son homonyme britannique n’est repris sur cette page.",
+  ),
+  (
+    "Où écouter Riddla et le bouyon qu’il fréquente ?",
+    "Écoutez d’abord « Mi Mas La » et « Mi Boss La (Quoicoubèh) », ses deux titres bouyon de référence pour les DJ, puis les titres de fête de « Ki Sòs Ou Vlé? ». Pour entendre la scène bouyon autour de lui, de la Dominique à la Guadeloupe, la <a href=\"/playlist-bouyon.html\">playlist ROAD MIX</a> de Bouyon Shattaz rassemble bouyon, bouyon soca et classiques de carnaval.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/riddla.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/riddla.html#artist", "name": "Riddla", "description": "Chanteur et comédien de Guadeloupe, originaire de Marie-Galante. Premier album C.Pagna la en 2003, prix Soca/Bouyon aux Hit Lokal Awards 2014 pour Twitté’y, album Ki Sòs Ou Vlé? en 2024, titres bouyon Mi Mas La et Mi Boss La.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Ti Bidon"}, {"@type": "MusicRecording", "name": "Twitté’y"}, {"@type": "MusicRecording", "name": "Piba"}, {"@type": "MusicRecording", "name": "Bodé (La chanson des bons vivants)"}, {"@type": "MusicRecording", "name": "Pwen Sansib"}, {"@type": "MusicRecording", "name": "Mi Mas La"}, {"@type": "MusicRecording", "name": "Mi Boss La"}, {"@type": "MusicRecording", "name": "C’est La I.A"}, {"@type": "MusicRecording", "name": "Fais La Belle"}, {"@type": "MusicRecording", "name": "Bravoléfi - Bendova"}, {"@type": "MusicRecording", "name": "Bénévolat"}, {"@type": "MusicRecording", "name": "Chodo Gato"}, {"@type": "MusicRecording", "name": "Semblant"}, {"@type": "MusicRecording", "name": "Holy Wata"}, {"@type": "MusicRecording", "name": "Lari Réyèl"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -152,13 +206,67 @@ EN = {
   ]
  ],
  "faq": [
-  ("Where is Riddla from and where did he grow up?", "According to the biography published for the Festival Talents Guadeloupe, Riddla is a singer and comedian from Marie-Galante, in Guadeloupe, and he grew up in the Lauricisque district, more commonly called “Zooside”. He has been active since his first album, “C.Pagna la”, released in 2003."),
-  ("Did Riddla really win a bouyon award, coming from rap?", "Yes, and it is the fact the rap profiles do not tell. The Hit Lokal Awards winners list gives the Soca/Bouyon category of the second edition, in 2014, to Riddla for “Twitté’y”. The same year, his “Ti-Bidon”, released as a single on February 4, 2014 on Yasala Corp., is described by his biography as a satirical hit with more than 500,000 YouTube views in seven days."),
-  ("What is the link between Riddla and TK International?", "According to the Karukerament review of the album “Ki Sòs Ou Vlé?”, Riddla collaborates with TK International, Dominica Triple K Band, on “Holy Wata”, presented as another version of the hit “Whistle While You Work”. It is a direct collaboration between a Guadeloupean artist and one of the pillar bands of Dominican bouyon."),
-  ("Which Riddla bouyon songs should I hear first?", "“Mi Mas La”, with Mas Ka Kle, programmed by the Dominican mixes Road to Carnival and Soca Passport, and “Mi Boss La (Quoicoubèh)”, with DJ Luchshiy, programmed at Carnival 2024. On the 2024 album “Ki Sòs Ou Vlé?”, the Karukerament review classes “Bravoléfi - Bendova”, “Bénévolat” and “Fais La Belle” as his bouyon and soca party tracks."),
-  ("What is Ki Sòs Ou Vlé?", "It is Riddla second full album, released in July 2024 according to the Karukerament review, with twenty-two tracks. It crosses rap, bouyon, reggae, dancehall, zouk, Caribbean pop and gospel, with everyday chronicles, songs about love and a father reggae lullaby, “Bonne Nuit”. The review judges it, as an opinion, the best Guadeloupean album of 2024."),
-  ("How did Riddla start, in 2003?", "With a meeting album: “C.Pagna la”, a blend of hip-hop and gwoka with the participation of great gwoka names such as Esnard Boisdur and Jean-Pierre Coquerel, of the group Akiyo, according to his Festival Talents Guadeloupe biography. That start roots his rap in the ka drums, before dancehall, zouk and bouyon. Read also our <a href=\"/en/bouyon-gwada.html\">bouyon Gwada</a> page.")
- ],
+  (
+    "Who is Riddla?",
+    "Riddla is a Guadeloupean artist from Marie-Galante, a singer, comedian, rapper and author active since his first album, “C.Pagna la”, in 2003. His path runs from hip-hop gwoka to the satirical hit “Ti-Bidon”, then to the 2014 Hit Lokal Awards Soca/Bouyon prize for “Twitté’y” and the 2024 album “Ki Sòs Ou Vlé?”, where bouyon sits beside rap, reggae and zouk.",
+  ),
+  (
+    "Where is Riddla from and where did he grow up?",
+    "Riddla is from Marie-Galante, in Guadeloupe, and he grew up in the Lauricisque district, more commonly called “Zooside”, according to the biography published for the Festival Talents Guadeloupe. The same biography presents him as a singer, dancer and comedian. He has been active since his first album, “C.Pagna la”, released in 2003.",
+  ),
+  (
+    "Is Riddla from Dominica?",
+    "No: Riddla is Guadeloupean, from Marie-Galante. But Dominican bouyon DJs play him: the DJ Judgement Road to Carnival and DJ Close Connections Soca Passport mixes programme his “Mi Mas La”, with Mas Ka Kle, among Dominica artists. He sings in Creole, French and English depending on the song, which helps him travel between the two islands.",
+  ),
+  (
+    "Is Riddla a rapper or a bouyon artist?",
+    "Both: Riddla comes from rap and gwoka, but bouyon is one of the sauces on his menu. Karukerament presents him as a rapper, singer, actor, author and voice-over artist, and classes “Bravoléfi - Bendova”, “Bénévolat” and “Fais La Belle” as his bouyon and soca party tracks. The review judges him, as an opinion, the most versatile artist of his generation.",
+  ),
+  (
+    "Did Riddla really win a bouyon award, coming from rap?",
+    "Yes. The Hit Lokal Awards winners list gives the Soca/Bouyon category of the second edition, in 2014, to Riddla for “Twitté’y”. The same year, his “Ti-Bidon”, released as a single on February 4, 2014 on Yasala Corp., is described by his biography as a satirical hit with more than 500,000 YouTube views in seven days.",
+  ),
+  (
+    "What are the Hit Lokal Awards Riddla won?",
+    "They are awards created in 2012 to reward clips by overseas French artists, with a vote carried out one hundred percent by the public, by SMS or internet. The 2014 edition, held on February 19, 2014 at the Théâtre Adyar, gave the Soca/Bouyon category to Riddla for “Twitté’y”. The year before, the same category had been won by <a href=\"/en/bilix.html\">Bilix</a>.",
+  ),
+  (
+    "Who wrote and composed Riddla's “Ti-Bidon”?",
+    "According to Shazam, Riddla is the performer and songwriter of “Ti-Bidon”, and Sylvain Siarras is its composer. The song was released as a single on February 4, 2014 on Yasala Corp. His Festival Talents Guadeloupe biography calls it an essential and unexpected satirical news hit, with more than 500,000 YouTube views in seven days at the time of its release.",
+  ),
+  (
+    "Who produced Riddla's “Pwen Sansib”?",
+    "“Pwen Sansib” is a Grand-mère Baptiste prod production dated 2022, according to the sheet published by NRJ Antilles. It credits Riddlaman as author, Riddla as performer, Ransom Beats as composer and Mister Francky for mixing and mastering. The video is directed by Riddla himself, with camera by Lordfilmsprod and editing by Yarma Videos.",
+  ),
+  (
+    "Who composed “Bodé (La chanson des bons vivants)”?",
+    "According to Shazam, “Bodé (La chanson des bons vivants)” is composed by stanislas samuel, with Boulogne Wesley as songwriter. The single was released on May 1, 2019 on Grand-mère baptiste prod, the structure found again on “Pwen Sansib” in 2022. The subtitle, the song of the good livers, sets the tone: a celebration of the art of living and the shared party, far from news satire.",
+  ),
+  (
+    "What is the link between Riddla and TK International?",
+    "Riddla collaborates with TK International, the Triple K Band of Dominica, on “Holy Wata”, according to the Karukerament review of the album “Ki Sòs Ou Vlé?”. The song is presented as another version of the hit “Whistle While You Work”. It is a direct collaboration between a Guadeloupean artist and one of the pillar bands of Dominican bouyon.",
+  ),
+  (
+    "Which Riddla bouyon songs should I hear first?",
+    "Start with “Mi Mas La”, with Mas Ka Kle, programmed by the Dominican mixes Road to Carnival and Soca Passport, then “Mi Boss La (Quoicoubèh)”, with DJ Luchshiy, programmed at Carnival 2024. Viberate ranks both among his most streamed songs. On “Ki Sòs Ou Vlé?”, the Karukerament review picks out “Bravoléfi - Bendova”, “Bénévolat” and “Fais La Belle”.",
+  ),
+  (
+    "What is Ki Sòs Ou Vlé??",
+    "It is Riddla's second full album, released in July 2024 according to the Karukerament review, with twenty-two tracks. It crosses rap, bouyon, reggae, dancehall, zouk, Caribbean pop and gospel, with everyday chronicles, songs about love and a father's reggae lullaby, “Bonne Nuit”. The review judges it, as an opinion, the best Guadeloupean album of 2024.",
+  ),
+  (
+    "How did Riddla start, in 2003?",
+    "With a meeting album: “C.Pagna la”, a blend of hip-hop and gwoka with the participation of great gwoka names such as Esnard Boisdur and Jean-Pierre Coquerel, of the group Akiyo, according to his Festival Talents Guadeloupe biography. That start roots his rap in the ka drums, before dancehall, zouk and bouyon. Read also our <a href=\"/en/bouyon-gwada.html\">bouyon Gwada</a> page.",
+  ),
+  (
+    "Is Riddla the same as the Nottingham Afrobeat artist Riddla?",
+    "No. Some databases mix his name with that of an Afrobeat artist based in Nottingham, in the United Kingdom, but they are two different artists. The Riddla on this page is the one from Marie-Galante, in Guadeloupe, released on Yasala Corp. and then on Grand-mère Baptiste prod. None of his British namesake's songs are used on this page.",
+  ),
+  (
+    "Where can I listen to Riddla and the bouyon around him?",
+    "Start with “Mi Mas La” and “Mi Boss La (Quoicoubèh)”, his two reference bouyon songs for DJs, then the party tracks of “Ki Sòs Ou Vlé?”. To hear the bouyon scene around him, from Dominica to Guadeloupe, the Bouyon Shattaz <a href=\"/en/playlist-bouyon.html\">ROAD MIX playlist</a> gathers bouyon, bouyon soca and carnival classics.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/riddla.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/riddla.html#artist", "name": "Riddla", "description": "Singer and comedian from Guadeloupe, from Marie-Galante. First album C.Pagna la in 2003, Soca/Bouyon award at the 2014 Hit Lokal Awards for Twitté’y, album Ki Sos Ou Vle? in 2024, bouyon songs Mi Mas La and Mi Boss La.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Ti Bidon"}, {"@type": "MusicRecording", "name": "Twitté’y"}, {"@type": "MusicRecording", "name": "Piba"}, {"@type": "MusicRecording", "name": "Bodé (La chanson des bons vivants)"}, {"@type": "MusicRecording", "name": "Pwen Sansib"}, {"@type": "MusicRecording", "name": "Mi Mas La"}, {"@type": "MusicRecording", "name": "Mi Boss La"}, {"@type": "MusicRecording", "name": "C’est La I.A"}, {"@type": "MusicRecording", "name": "Fais La Belle"}, {"@type": "MusicRecording", "name": "Bravoléfi - Bendova"}, {"@type": "MusicRecording", "name": "Bénévolat"}, {"@type": "MusicRecording", "name": "Chodo Gato"}, {"@type": "MusicRecording", "name": "Semblant"}, {"@type": "MusicRecording", "name": "Holy Wata"}, {"@type": "MusicRecording", "name": "Lari Réyèl"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

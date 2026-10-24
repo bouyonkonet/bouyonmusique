@@ -69,13 +69,43 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Qwann ?", "Qwann est un artiste du circuit bouyon gwada connu uniquement par ses crédits publiés. Il est invité sur « 1er Feu » (2024) et « Uhdahdah #2 » (2025) de Lucky lukee, et crédité comme compositeur sur « Ouba » de 1t1 et Theomaa. Aucune biographie officielle, aucun nom civil et aucune origine personnelle n’ont été trouvés pendant la recherche de ce profil, qui le dit ouvertement."),
-  ("Qwann a-t-il des titres solo ?", "Aucun titre publié sous le seul nom de Qwann n’a été trouvé sur les plateformes consultées pour ce profil. Ses trois crédits vérifiés sont des collaborations : deux featuring chez Lucky lukee et un crédit de composition chez 1t1. Si un titre solo existe en dehors des plateformes principales, il n’est pas documenté dans les sources ouvertes de ce dossier."),
-  ("Qwann est-il seulement une voix invitée sur les titres des autres ?", "Non, et c’est le point que la plupart des listes manquent. Sur « Ouba » de 1t1 et Theomaa, la fiche Deezer du titre liste ses compositeurs : 1t1, Theomaa et Qwann. Qwann y est donc crédité à l’écriture et à la composition, alors qu’il n’apparaît pas sur l’affiche comme interprète. Son dossier contient donc un rôle de studio, pas seulement des featuring."),
-  ("« Uhdahdah » et « Uhuu dah dah », est-ce le même titre ?", "Non. « Uhdahdah #2 » est un single de Lucky lukee avec 1T1 et Qwann, sorti en 2025, précédé d’une version listée dans les mixes sous le nom « Uhdahdah ». « Uhuu dah dah » est un autre single, de 1t1 avec GOMKO, Luky et Theomaa, sorti le 24 mars 2023, sans aucun crédit pour Qwann. Les noms se ressemblent, les affiches et les dates séparent les deux titres."),
-  ("Avec qui Qwann collabore-t-il ?", "Ses crédits vérifiés le placent dans l’équipe de <a href=\"/luky-lukee.html\">Lucky lukee</a>, avec <a href=\"/binksdrick.html\">Binksdrick</a>, Miimii, devenue <a href=\"/miimii-kds.html\">Miimii KDS</a>, et <a href=\"/dinho.html\">Dinho</a> sur « 1er Feu », puis avec <a href=\"/1t1.html\">1t1</a> sur « Uhdahdah #2 », et avec 1t1 et Theomaa comme compositeurs associés sur « Ouba »."),
-  ("Par où commencer pour écouter Qwann ?", "Par ses trois crédits vérifiés : « 1er Feu » puis « Uhdahdah #2 » de Lucky lukee, et « Ouba » de 1t1 et Theomaa, où il est compositeur crédité. Notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> et notre page <a href=\"/bouyon-gwada.html\">bouyon gwada</a> replacent ces titres dans leur scène.")
- ],
+  (
+    "Qui est Qwann ?",
+    "Qwann est un artiste du circuit bouyon gwada connu uniquement par ses crédits publiés. Il est invité sur « 1er Feu » (2024) et « Uhdahdah #2 » (2025) de Lucky lukee, et crédité comme compositeur sur « Ouba » de 1t1 et Theomaa. Aucune biographie officielle, aucun nom civil et aucune origine personnelle n’ont été trouvés pendant la recherche de ce profil, qui le dit ouvertement.",
+  ),
+  (
+    "Qwann a-t-il des titres solo ?",
+    "Aucun titre publié sous le seul nom de Qwann n’a été trouvé sur les plateformes consultées pour ce profil. Ses trois crédits vérifiés sont des collaborations : deux featuring chez Lucky lukee et un crédit de composition chez 1t1. Si un titre solo existe en dehors des plateformes principales, il n’est pas documenté dans les sources ouvertes de ce dossier.",
+  ),
+  (
+    "Qwann est-il seulement une voix invitée sur les titres des autres ?",
+    "Non, et c’est le point que la plupart des listes manquent. Sur « Ouba » de 1t1 et Theomaa, la fiche Deezer du titre liste ses compositeurs : 1t1, Theomaa et Qwann. Qwann y est donc crédité à l’écriture et à la composition, alors qu’il n’apparaît pas sur l’affiche comme interprète. Son dossier contient un rôle de studio, pas seulement des featuring.",
+  ),
+  (
+    "« Uhdahdah » et « Uhuu dah dah », est-ce le même titre ?",
+    "Non. « Uhdahdah #2 » est un single de Lucky lukee avec 1T1 et Qwann, sorti en 2025, précédé d’une version listée dans les mixes sous le nom « Uhdahdah ». « Uhuu dah dah » est un autre single, de 1t1 avec GOMKO, Luky et Theomaa, sorti le 24 mars 2023, sans aucun crédit pour Qwann. Les noms se ressemblent, les affiches et les dates séparent les deux titres.",
+  ),
+  (
+    "Avec qui Qwann collabore-t-il ?",
+    "Ses crédits vérifiés le placent dans l’équipe de <a href=\"/luky-lukee.html\">Lucky lukee</a>, avec Binksdrick, Miimii, devenue Miimii KDS, et Dinho sur « 1er Feu », puis avec 1t1 sur « Uhdahdah #2 », et avec 1t1 et Theomaa comme compositeurs associés sur « Ouba ». Tous sont des noms centraux du bouyon gwada des titres collectifs.",
+  ),
+  (
+    "Par où commencer pour écouter Qwann ?",
+    "Par ses trois crédits vérifiés, dans l’ordre : « 1er Feu » puis « Uhdahdah #2 » de Lucky lukee, et « Ouba » de 1t1 et Theomaa, où il est compositeur crédité. L’écoute change quand on sait qui a participé à la fabrication du morceau. Pour replacer ces titres dans leur scène, écoutez ensuite notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>.",
+  ),
+  (
+    "Qui a composé « Ouba » de 1t1 et Theomaa ?",
+    "Selon la fiche Deezer du titre, dans la playlist Shatta Bouyon Mix 2026, « Ouba » est composé par <a href=\"/1t1.html\">1t1</a>, Theomaa et Qwann. Les plateformes présentent ce titre de 2 minutes 37 comme un morceau de 1t1 et Theomaa à l’interprétation. Le crédit est partagé entre trois compositeurs nommés : Qwann n’en est pas l’auteur unique, mais un participant documenté à sa fabrication.",
+  ),
+  (
+    "Qu’est-ce que « 1er Feu » de Lucky lukee ?",
+    "« 1er Feu » est un single de 2024 de Lucky lukee qui réunit Binksdrick, Miimii, Qwann et Dinho. La page artiste de Lucky lukee sur Shazam le classe parmi ses titres les plus identifiés, derrière « An Sou ». C’est le premier crédit solide de Qwann, invité au même niveau que les autres voix, sur une photo de famille de la nouvelle vague du <a href=\"/bouyon-gwada.html\">bouyon gwada</a>.",
+  ),
+  (
+    "Où a-t-on entendu « Uhdahdah » avec Qwann ?",
+    "Dans les mixes et à la radio. Le mini mix Sewo Jam de Digga D, publié sur les plateformes de podcasts, liste « Uhdahdah » par Lucky Lukee, 1T1 et Qwann en position 51, au milieu d’Asa Bantan, Signal Band, Trilla G et Miimii KDS. Un journal de diffusion de la radio KoolFm Tropikal montre aussi le titre passé à l’antenne, avant toute couverture de presse.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/qwann.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/qwann.html#artist", "name": "Qwann", "description": "Artiste du circuit bouyon gwada, invité sur 1er Feu et Uhdahdah #2 de Lucky lukee et crédité compositeur sur Ouba de 1t1 et Theomaa. Aucune biographie officielle publiée n’a été trouvée.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "1er Feu"}, {"@type": "MusicRecording", "name": "Uhdahdah #2"}, {"@type": "MusicRecording", "name": "Ouba"},
       {
        "@type": "MusicRecording",
@@ -162,13 +192,43 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Qwann?", "Qwann is an artist in the bouyon gwada circuit known only through his published credits. He is featured on “1er Feu” (2024) and “Uhdahdah #2” (2025) by Lucky lukee, and credited as a composer on “Ouba” by 1t1 and Theomaa. No official biography, real name or personal origin was found during the research for this profile, which states that openly."),
-  ("Does Qwann have any solo records?", "No record released under Qwann name alone was found on the platforms consulted for this profile. His three verified credits are collaborations: two features with Lucky lukee and one composition credit with 1t1. If a solo record exists outside the main platforms, it is not documented in the open sources of this record."),
-  ("Is Qwann only a guest voice on other people records?", "No, and that is the point most listings miss. On “Ouba” by 1t1 and Theomaa, the Deezer track sheet lists its composers as 1t1, Theomaa and Qwann. Qwann is therefore credited with writing and composition, while not appearing on the poster as a performer. His record holds a studio role, not only features."),
-  ("Are “Uhdahdah” and “Uhuu dah dah” the same record?", "No. “Uhdahdah #2” is a Lucky lukee single featuring 1T1 and Qwann, released in 2025, preceded by a version listed in mixes as “Uhdahdah”. “Uhuu dah dah” is a different single, by 1t1 with GOMKO, Luky and Theomaa, released on 24 March 2023, with no credit for Qwann. The names look alike, the posters and dates keep the two records apart."),
-  ("Who does Qwann collaborate with?", "His verified credits place him in the crew of <a href=\"/en/luky-lukee.html\">Lucky lukee</a>, with <a href=\"/en/binksdrick.html\">Binksdrick</a>, Miimii, who became <a href=\"/en/miimii-kds.html\">Miimii KDS</a>, and <a href=\"/en/dinho.html\">Dinho</a> on “1er Feu”, then with <a href=\"/en/1t1.html\">1t1</a> on “Uhdahdah #2”, and with 1t1 and Theomaa as fellow composers on “Ouba”."),
-  ("Where should I start listening to Qwann?", "With his three verified credits: “1er Feu” and then “Uhdahdah #2” by Lucky lukee, and “Ouba” by 1t1 and Theomaa, where he is a credited composer. Our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> and our <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a> page place those records inside their scene.")
- ],
+  (
+    "Who is Qwann?",
+    "Qwann is an artist in the bouyon gwada circuit known only through his published credits. He is featured on “1er Feu” (2024) and “Uhdahdah #2” (2025) by Lucky lukee, and credited as a composer on “Ouba” by 1t1 and Theomaa. No official biography, real name or personal origin was found during the research for this profile, which states that openly.",
+  ),
+  (
+    "Does Qwann have any solo records?",
+    "No record released under Qwann’s name alone was found on the platforms consulted for this profile. His three verified credits are collaborations: two features with Lucky lukee and one composition credit with 1t1. If a solo record exists outside the main platforms, it is not documented in the open sources of this file.",
+  ),
+  (
+    "Is Qwann only a guest voice on other people’s records?",
+    "No, and that is the point most listings miss. On “Ouba” by 1t1 and Theomaa, the Deezer track sheet lists its composers as 1t1, Theomaa and Qwann. Qwann is therefore credited with writing and composition, while not appearing on the poster as a performer. His file holds a studio role, not only features.",
+  ),
+  (
+    "Are “Uhdahdah” and “Uhuu dah dah” the same record?",
+    "No. “Uhdahdah #2” is a Lucky lukee single featuring 1T1 and Qwann, released in 2025, preceded by a version listed in mixes as “Uhdahdah”. “Uhuu dah dah” is a different single, by 1t1 with GOMKO, Luky and Theomaa, released on 24 March 2023, with no credit for Qwann. The names look alike, the posters and dates keep the two records apart.",
+  ),
+  (
+    "Who does Qwann collaborate with?",
+    "His verified credits place him in the crew of <a href=\"/en/luky-lukee.html\">Lucky lukee</a>, with Binksdrick, Miimii, who became Miimii KDS, and Dinho on “1er Feu”, then with 1t1 on “Uhdahdah #2”, and with 1t1 and Theomaa as fellow composers on “Ouba”. All of them are central names of the collective records of bouyon gwada.",
+  ),
+  (
+    "Where should I start listening to Qwann?",
+    "With his three verified credits, in order: “1er Feu” and then “Uhdahdah #2” by Lucky lukee, and “Ouba” by 1t1 and Theomaa, where he is a credited composer. Listening changes once you know who helped build the track. To place those records inside their scene, then hear our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>.",
+  ),
+  (
+    "Who composed “Ouba” by 1t1 and Theomaa?",
+    "According to the track’s Deezer sheet, in the Shatta Bouyon Mix 2026 playlist, “Ouba” is composed by <a href=\"/en/1t1.html\">1t1</a>, Theomaa and Qwann. The platforms present this 2 minute 37 track as a 1t1 and Theomaa record on the performing side. The credit is shared between three named composers: Qwann is not its sole author, but a documented participant in its making.",
+  ),
+  (
+    "What is Lucky lukee’s “1er Feu”?",
+    "“1er Feu” is a 2024 Lucky lukee single that brings together Binksdrick, Miimii, Qwann and Dinho. Lucky lukee’s Shazam artist page ranks it among his most identified songs, behind “An Sou”. It is Qwann’s first solid credit, featured on the same level as the other voices, in a family photo of the new wave of <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a>.",
+  ),
+  (
+    "Where has “Uhdahdah” with Qwann been played?",
+    "In mixes and on radio. Digga D’s Sewo Jam mini mix, published on podcast platforms, lists “Uhdahdah” by Lucky Lukee, 1T1 and Qwann at position 51, among Asa Bantan, Signal Band, Trilla G and Miimii KDS. A KoolFm Tropikal radio play log also shows the record on air, before any press coverage.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/qwann.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/qwann.html#artist", "name": "Qwann", "description": "Artist in the bouyon gwada circuit, featured on Lucky lukee 1er Feu and Uhdahdah #2 and credited as a composer on 1t1 and Theomaa Ouba. No published official biography was found.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "1er Feu"}, {"@type": "MusicRecording", "name": "Uhdahdah #2"}, {"@type": "MusicRecording", "name": "Ouba"},
       {
        "@type": "MusicRecording",

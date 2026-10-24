@@ -61,13 +61,47 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Fireman Lee ?", "Un chanteur dont un seul crédit est vérifiable dans les sources publiques : le featuring, aux côtés de Zwady, sur Down Deh, de Producerdlo, sorti le 28 août 2020 dans l’EP du Dwivayez Riddim, chez GloSho Music. Aucune biographie, aucune page artiste, aucun compte officiel et aucun autre titre n’ont été trouvés pendant la recherche menée pour ce profil. Son identité civile n’est pas documentée, et ce site ne la suppose pas."),
-  ("Quel titre Fireman Lee a-t-il enregistré ?", "Down Deh, troisième piste du Dwivayez Riddim, un EP de Producerdlo publié le 28 août 2020. Le titre est chanté en anglais, à 117 BPM, avec Zwady également en featuring, et il est écrit par Dylan Christon Lowe, Savion Augustine, Aswad Polydore et Leslie St. Jean. La presse régionale de février 2021 annonçait le même titre sous l’orthographe Down Dere, crédité à Zwady avec Fireman Lee en featuring."),
-  ("Fireman Lee et Fireman Hooper, est-ce le même artiste ?", "Non, rien ne les relie, et leurs dossiers sont séparés. Delroy « Fireman » Hooper est un artiste de Saint-Vincent-et-les-Grenadines, sept fois Soca Monarch de son pays selon les annuaires d’artistes, vainqueur du Ragga Soca en 2010 avec Holy Fire. Fireman Lee n’apparaît que sur Down Deh, un riddim de la Dominique produit par ProducerDlo et Savion Beats. Les deux artistes ne partagent que le surnom Fireman, courant dans la soca et le dancehall."),
-  ("Leslie St. Jean est-il Fireman Lee ?", "Ce n’est pas prouvé. Leslie St. Jean est le quatrième auteur crédité de Down Deh, après les deux producteurs et Aswad Polydore, qui est Zwady. L’hypothèse qu’il s’agisse du nom civil de Fireman Lee, le deuxième chanteur du titre, est plausible, mais aucune source consultée ne la fait : ni fiche de titre, ni article, ni page d’artiste ne relie les deux noms. Ce profil les tient donc séparés, et il sera corrigé le jour où un document primaire établira le lien."),
-  ("Fireman Lee a-t-il sorti d’autres titres ?", "Aucun autre titre n’a été vérifié. Les recherches menées sur son nom dans les contextes bouyon, soca, musique caribéenne et Dominique ne renvoient que le Dwivayez Riddim, plus des homonymes sans rapport. Pas de single solo, pas de deuxième featuring, pas de page artiste sur les plateformes consultées. Si un autre enregistrement existe sous ce nom, il n’est pas documenté dans les catalogues publics ouverts pour ce profil."),
-  ("Où écouter Fireman Lee ?", "Sur Down Deh, dans l’EP du Dwivayez Riddim de Producerdlo, disponible sur les plateformes, aux côtés de Happy Place de <a href=\"/shelly.html\">Shelly</a>, System Failure de Starsha et Deliway de <a href=\"/trilla-g.html\">Trilla-G</a>. Le profil de Zwady, publié dans la même vague, documente le même titre du côté de l’autre chanteur, et notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> suit les sorties de cette scène dominicaine.")
- ],
+  (
+    "Qui est Fireman Lee ?",
+    "Un chanteur dont un seul crédit est vérifiable dans les sources publiques : le featuring, aux côtés de Zwady, sur Down Deh, de Producerdlo, sorti le 28 août 2020 dans l’EP du Dwivayez Riddim, chez GloSho Music. Aucune biographie, aucune page artiste, aucun compte officiel et aucun autre titre n’ont été trouvés pendant la recherche menée pour ce profil. Son identité civile n’est pas documentée, et ce site ne la suppose pas.",
+  ),
+  (
+    "Quel titre Fireman Lee a-t-il enregistré ?",
+    "Down Deh, troisième piste du Dwivayez Riddim, un EP de Producerdlo publié le 28 août 2020. Le titre est chanté en anglais, à 117 BPM, avec Zwady également en featuring, et il est écrit par Dylan Christon Lowe, Savion Augustine, Aswad Polydore et Leslie St. Jean. La presse régionale de février 2021 annonçait le même titre sous l’orthographe Down Dere, crédité à Zwady avec Fireman Lee en featuring.",
+  ),
+  (
+    "Fireman Lee et Fireman Hooper, est-ce le même artiste ?",
+    "Non, rien ne les relie, et leurs dossiers sont séparés. Delroy « Fireman » Hooper est un artiste de Saint-Vincent-et-les-Grenadines, sept fois Soca Monarch de son pays selon les annuaires d’artistes, vainqueur du Ragga Soca en 2010 avec Holy Fire. Fireman Lee n’apparaît que sur Down Deh, un riddim de la Dominique produit par ProducerDlo et Savion Beats. Les deux artistes ne partagent que le surnom Fireman, courant dans la soca et le dancehall.",
+  ),
+  (
+    "Leslie St. Jean est-il Fireman Lee ?",
+    "Ce n’est pas prouvé. Leslie St. Jean est le quatrième auteur crédité de Down Deh, après les deux producteurs et Aswad Polydore, qui est Zwady. L’hypothèse qu’il s’agisse du nom civil de Fireman Lee, le deuxième chanteur du titre, est plausible, mais aucune source consultée ne la fait : ni fiche de titre, ni article, ni page d’artiste ne relie les deux noms. Ce profil les tient donc séparés, et il sera corrigé le jour où un document primaire établira le lien.",
+  ),
+  (
+    "Fireman Lee a-t-il sorti d’autres titres ?",
+    "Aucun autre titre n’a été vérifié. Les recherches menées sur son nom dans les contextes bouyon, soca, musique caribéenne et Dominique ne renvoient que le Dwivayez Riddim, plus des homonymes sans rapport. Pas de single solo, pas de deuxième featuring, pas de page artiste sur les plateformes consultées. Si un autre enregistrement existe sous ce nom, il n’est pas documenté dans les catalogues publics ouverts pour ce profil.",
+  ),
+  (
+    "Où écouter Fireman Lee ?",
+    "Sur Down Deh, dans l’EP du Dwivayez Riddim de Producerdlo, disponible sur les plateformes, aux côtés de Happy Place de <a href=\"/shelly.html\">Shelly</a>, System Failure de Starsha et Deliway de Trilla-G. Pour prolonger l’écoute dans cette scène dominicaine, la playlist Bouyon Road Mix de Bouyon Shattaz suit les sorties de l’île.",
+  ),
+  (
+    "Qui a produit Down Deh avec Fireman Lee ?",
+    "Deux producteurs de la Dominique : ProducerDlo, de son vrai nom Dylan Lowe, et Savion Beats, de son vrai nom Savion Augustine, que la presse présente comme producteur deux fois certifié Or par la RIAA pour des travaux hors de l’île. Le titre sort sous le nom de Producerdlo, et les deux producteurs figurent aussi parmi ses quatre auteurs crédités.",
+  ),
+  (
+    "Sur quel riddim chante Fireman Lee ?",
+    "Sur le Dwivayez Riddim, sorti le 28 août 2020 chez GloSho Music. Son nom vient du créole de la Dominique : dwive, c’est flâner, et un dwivayez traîne de fête en fête. Né pendant le confinement, le projet voulait un son qui donne envie de sortir de chez soi. Fireman Lee y chante la troisième piste, Down Deh. Voir <a href=\"/bouyon-riddim.html\">bouyon riddim</a>.",
+  ),
+  (
+    "Faut-il écrire Down Deh ou Down Dere ?",
+    "Les plateformes écrivent Down Deh, et c’est l’orthographe de la fiche du titre et de l’EP publié le 28 août 2020. La presse régionale de février 2021, dans un article daté de Port of Spain, écrivait Down Dere, pour le même titre crédité à Zwady avec Fireman Lee. Ce site garde Down Deh comme titre et signale la variante pour que personne ne perde la trace.",
+  ),
+  (
+    "Avec qui Fireman Lee chante-t-il sur Down Deh ?",
+    "Avec <a href=\"/zwady.html\">Zwady</a>, chanteur et auteur de la scène bouyon et soca de la Dominique, crédité comme auteur sous le nom d’Aswad Polydore. Down Deh est le titre le plus écouté de tout son catalogue selon sa page artiste Shazam. Les deux voix partagent la même case du riddim, et c’est par ce titre de Zwady que le nom de Fireman Lee existe dans les archives.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/fireman-lee.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/fireman-lee.html#artist", "name": "Fireman Lee", "description": "Chanteur crédité en featuring, avec Zwady, sur Down Deh, une case du Dwivayez Riddim de ProducerDlo et Savion Beats (Dominique, 2020). Un seul enregistrement vérifié dans les sources publiques : pas de single solo, pas de biographie, pas de page artiste. À ne pas confondre avec Delroy Fireman Hooper, de Saint-Vincent-et-les-Grenadines. Le quatrième auteur de Down Deh, Leslie St. Jean, n’est pas identifié comme Fireman Lee par les sources.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Down Deh"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -125,13 +159,47 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Fireman Lee?", "A singer with exactly one credit verifiable in the public sources: the feature, alongside Zwady, on Down Deh, by Producerdlo, released on August 28, 2020 as part of the Dwivayez Riddim EP, on GloSho Music. No biography, no artist page, no official account and no other record were found during the research for this profile. His legal identity is not documented, and this site does not presume it."),
-  ("What record has Fireman Lee made?", "Down Deh, the third track of the Dwivayez Riddim, an EP by Producerdlo published on August 28, 2020. The record is sung in English, at 117 BPM, with Zwady also as a feature, and it was written by Dylan Christon Lowe, Savion Augustine, Aswad Polydore and Leslie St. Jean. The regional press of February 2021 announced the same record under the spelling Down Dere, credited to Zwady with Fireman Lee as a feature."),
-  ("Are Fireman Lee and Fireman Hooper the same artist?", "No, nothing links them, and their files are separate. Delroy “Fireman” Hooper is an artist from Saint Vincent and the Grenadines, seven times Soca Monarch of his country according to artist directories, and winner of Ragga Soca in 2010 with Holy Fire. Fireman Lee appears only on Down Deh, a Dominica riddim produced by ProducerDlo and Savion Beats. The two artists share only the Fireman nickname, common in soca and dancehall."),
-  ("Is Leslie St. Jean the same person as Fireman Lee?", "It is not proven. Leslie St. Jean is the fourth credited writer of Down Deh, after the two producers and Aswad Polydore, who is Zwady. The hypothesis that this is the legal name of Fireman Lee, the second singer on the record, is plausible, but no source consulted makes it: no record page, no article and no artist page links the two names. This profile therefore keeps them separate, and it will be corrected the day a primary document establishes the link."),
-  ("Has Fireman Lee released other records?", "No other record was verified. Searches run on his name in bouyon, soca, Caribbean music and Dominica contexts return only the Dwivayez Riddim, plus unrelated namesakes. No solo single, no second feature, no artist page on the platforms consulted. If another recording exists under this name, it is not documented in the public catalogs opened for this profile."),
-  ("Where can I listen to Fireman Lee?", "On Down Deh, in the Dwivayez Riddim EP by Producerdlo, available on the platforms, alongside Happy Place by <a href=\"/en/shelly.html\">Shelly</a>, System Failure by Starsha and Deliway by <a href=\"/en/trilla-g.html\">Trilla-G</a>. The Zwady profile, published in the same wave, documents the same record from the other singer side, and our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> follows the releases of this Dominica scene.")
- ],
+  (
+    "Who is Fireman Lee?",
+    "A singer with exactly one credit verifiable in the public sources: the feature, alongside Zwady, on Down Deh, by Producerdlo, released on August 28, 2020 as part of the Dwivayez Riddim EP, on GloSho Music. No biography, no artist page, no official account and no other record were found during the research for this profile. His legal identity is not documented, and this site does not presume it.",
+  ),
+  (
+    "What record has Fireman Lee made?",
+    "Down Deh, the third track of the Dwivayez Riddim, an EP by Producerdlo published on August 28, 2020. The record is sung in English, at 117 BPM, with Zwady also as a feature, and it was written by Dylan Christon Lowe, Savion Augustine, Aswad Polydore and Leslie St. Jean. The regional press of February 2021 announced the same record under the spelling Down Dere, credited to Zwady with Fireman Lee as a feature.",
+  ),
+  (
+    "Are Fireman Lee and Fireman Hooper the same artist?",
+    "No, nothing links them, and their files are separate. Delroy “Fireman” Hooper is an artist from Saint Vincent and the Grenadines, seven times Soca Monarch of his country according to artist directories, and winner of Ragga Soca in 2010 with Holy Fire. Fireman Lee appears only on Down Deh, a Dominica riddim produced by ProducerDlo and Savion Beats. The two artists share only the Fireman nickname, common in soca and dancehall.",
+  ),
+  (
+    "Is Leslie St. Jean the same person as Fireman Lee?",
+    "It is not proven. Leslie St. Jean is the fourth credited writer of Down Deh, after the two producers and Aswad Polydore, who is Zwady. The hypothesis that this is the legal name of Fireman Lee, the second singer on the record, is plausible, but no source consulted makes it: no record page, no article and no artist page links the two names. This profile therefore keeps them separate, and it will be corrected the day a primary document establishes the link.",
+  ),
+  (
+    "Has Fireman Lee released other records?",
+    "No other record was verified. Searches run on his name in bouyon, soca, Caribbean music and Dominica contexts return only the Dwivayez Riddim, plus unrelated namesakes. No solo single, no second feature, no artist page on the platforms consulted. If another recording exists under this name, it is not documented in the public catalogs opened for this profile.",
+  ),
+  (
+    "Where can I listen to Fireman Lee?",
+    "On Down Deh, in the Dwivayez Riddim EP by Producerdlo, available on the platforms, alongside Happy Place by <a href=\"/en/shelly.html\">Shelly</a>, System Failure by Starsha and Deliway by Trilla-G. To carry on into this Dominica scene, the Bouyon Shattaz Bouyon Road Mix playlist follows the island's releases.",
+  ),
+  (
+    "Who produced Down Deh with Fireman Lee?",
+    "Two producers from Dominica: ProducerDlo, real name Dylan Lowe, and Savion Beats, real name Savion Augustine, whom the press presents as a two time RIAA Gold certified producer for work outside the island. The record is released under the Producerdlo name, and both producers are also among its four credited writers.",
+  ),
+  (
+    "Which riddim is Fireman Lee on?",
+    "The Dwivayez Riddim, released on August 28, 2020 on GloSho Music. Its name comes from the French Creole of Dominica: dwive means to lime or wander, and a dwivayez limes from fete to fete. Born during lockdown, the project wanted a sound that makes you leave the house. Fireman Lee sings on its third track, Down Deh. See <a href=\"/en/bouyon-riddim.html\">bouyon riddim</a>.",
+  ),
+  (
+    "Is it Down Deh or Down Dere?",
+    "The platforms spell it Down Deh, and that is the spelling on the record page and on the EP released on August 28, 2020. The regional press of February 2021, in an article datelined Port of Spain, spelled it Down Dere, for the same record credited to Zwady with Fireman Lee. This site keeps Down Deh as the title and flags the variant so that nobody loses the trail.",
+  ),
+  (
+    "Who sings with Fireman Lee on Down Deh?",
+    "<a href=\"/en/zwady.html\">Zwady</a>, a singer and songwriter in the Dominica bouyon and soca scene, credited as a writer under the name Aswad Polydore. Down Deh is the most streamed record of his whole catalog according to his Shazam artist page. The two voices share the same riddim cut, and it is through this Zwady record that the name Fireman Lee exists in the archive.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/fireman-lee.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/fireman-lee.html#artist", "name": "Fireman Lee", "description": "Singer credited as a feature, with Zwady, on Down Deh, a cut of the Dwivayez Riddim by ProducerDlo and Savion Beats (Dominica, 2020). One verified recording in the public sources: no solo single, no biography, no artist page. Not to be confused with Delroy Fireman Hooper of Saint Vincent and the Grenadines. The fourth writer of Down Deh, Leslie St. Jean, is not identified as Fireman Lee by the sources.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Down Deh"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

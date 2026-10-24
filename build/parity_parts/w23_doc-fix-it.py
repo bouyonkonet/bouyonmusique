@@ -58,13 +58,59 @@ FR = {
   ]
  ],
  "faq": [
-  ("Quel est le seul titre vérifié de D.O.C FIX IT ?", "« ELLE DANSE BOUYON », avec D.O.C FIX DEM en featuring, sorti le 19 décembre 2025 chez FIX DEM RECORDS sous la forme d’un single. Sa fiche ouverte pour cette recherche donne un tag Afro-Beat, la langue anglaise, un tempo de 160 BPM et environ 120 identifications. Aucun autre enregistrement du nom n’a été retrouvé et vérifié pendant cette recherche."),
-  ("Qui est D.O.C FIX IT ?", "Les sources ne le disent pas. La fiche de son unique titre le crédite au synthétiseur et à la production, sans aucun crédit de chant, et aucune source consultée ne nomme la personne ou les personnes derrière le nom, ne développe les initiales D.O.C et n’explique le nom FIX IT. Ce profil publie donc les crédits, qui sont documentés, et non une identité, qui ne l’est pas."),
-  ("D.O.C FIX IT et D.O.C FIX DEM, est ce le même nom ?", "Non, pas dans les sources. Ce sont deux lignes de crédit distinctes : D.O.C FIX DEM est l’artiste principal de titres comme « Asi Mwen », « Woody Wood », « Fwadi » et « Tik Tak », tandis que D.O.C FIX IT est l’artiste principal d’« ELLE DANSE BOUYON », où D.O.C FIX DEM n’est qu’invité. Les deux noms partagent un auteur, Landry Mette, une racine d’enseigne, FIX DEM, et une date de sortie commune, le 19 décembre 2025, mais aucune source ne dit qu’ils désignent la même entité, et ce site leur donne deux pages séparées."),
-  ("Qui a écrit et produit « ELLE DANSE BOUYON » ?", "Selon la fiche du titre, l’écriture revient à Landry Mette, l’auteur central de l’atelier FIX DEM, également auteur et producteur des titres de D.O.C FIX DEM. La production et le synthétiseur sont crédités à D.O.C FIX IT lui même, et D.O.C FIX DEM figure en featuring dans l’intitulé du single."),
-  ("D.O.C FIX IT a t il un rapport avec le rappeur The D.O.C. ?", "Aucun rapport documenté. The D.O.C. est un rappeur américain actif depuis la fin des années 1980, associé à N.W.A et à Dr. Dre. D.O.C FIX IT est un nom du réseau bouyon FIX DEM, connu par un single de décembre 2025 chez FIX DEM RECORDS. La ressemblance des initiales est la seule chose qu’ils partagent, et ce profil écarte tous les résultats qui concernent le rappeur américain."),
-  ("Où écouter D.O.C FIX IT, et pourquoi ce profil est il si court ?", "Par son unique single, « ELLE DANSE BOUYON », puis par le réseau qui le porte : les titres de <a href=\"/doc-fix-dem.html\">D.O.C FIX DEM</a>, « Asi Mwen », « Woody Wood », « Fwadi » et « Tik Tak ». Ce profil est court parce que le dossier public l’est : un seul enregistrement vérifié, aucune page artiste, aucune biographie et aucun compte officiel retrouvés. Plutôt que de remplir, ce site publie le titre, ses crédits et ses limites, et complétera la page le jour où une nouvelle source paraîtra. Notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> suit cette scène.")
- ],
+  (
+    "Quel est le seul titre vérifié de D.O.C FIX IT ?",
+    "« ELLE DANSE BOUYON », avec D.O.C FIX DEM en featuring, sorti le 19 décembre 2025 chez FIX DEM RECORDS sous la forme d’un single. Sa fiche ouverte pour cette recherche donne un tag Afro-Beat, la langue anglaise, un tempo de 160 BPM et environ 120 identifications. Aucun autre enregistrement du nom n’a été retrouvé et vérifié pendant cette recherche.",
+  ),
+  (
+    "Qui est D.O.C FIX IT ?",
+    "Les sources ne le disent pas. La fiche de son unique titre le crédite au synthétiseur et à la production, sans aucun crédit de chant, et aucune source consultée ne nomme la personne ou les personnes derrière le nom, ne développe les initiales D.O.C et n’explique le nom FIX IT. Ce profil publie donc les crédits, qui sont documentés, et non une identité, qui ne l’est pas.",
+  ),
+  (
+    "D.O.C FIX IT et D.O.C FIX DEM, est-ce le même nom ?",
+    "Non, pas dans les sources. Ce sont deux lignes de crédit distinctes : D.O.C FIX DEM est l’artiste principal de titres comme « Asi Mwen », « Woody Wood », « Fwadi » et « Tik Tak », tandis que D.O.C FIX IT est l’artiste principal d’« ELLE DANSE BOUYON », où D.O.C FIX DEM n’est qu’invité. Ils partagent un auteur, Landry Mette, et la racine FIX DEM, mais aucune source ne dit qu’ils désignent la même entité.",
+  ),
+  (
+    "D.O.C FIX IT vient-il de la Guadeloupe ?",
+    "Aucune biographie ne le dit : le rattachement guadeloupéen de cette page vient du contexte publié, pas de la personne. Le single sort dans le réseau FIX DEM, aux côtés de voix du circuit gwada comme LGC, Judi Silva, Billy BYBF ou Le_Daah, et les titres voisins portent le mot clé Guadeloupe. Ce site place donc le nom dans la scène gwada sans lui prêter d’origine personnelle.",
+  ),
+  (
+    "Qui a écrit et produit « ELLE DANSE BOUYON » ?",
+    "Selon la fiche du titre, l’écriture revient à Landry Mette, l’auteur central de l’atelier FIX DEM, également auteur et producteur des titres de D.O.C FIX DEM. La production et le synthétiseur sont crédités à D.O.C FIX IT lui même, et D.O.C FIX DEM figure en featuring dans l’intitulé du single.",
+  ),
+  (
+    "Que veut dire « ELLE DANSE BOUYON » ?",
+    "Le titre se lit tel quel, en français : elle danse bouyon. C’est un intitulé manifeste, sur une fiche que la plateforme classe pourtant en anglais, et c’est le seul titre du bouyon actuel, dans les catalogues suivis par ce site, qui porte le nom du genre dans son intitulé sous cette forme. Aucune page de paroles vérifiée n’a été ouverte, et ce site ne décrit ni le texte ni le refrain.",
+  ),
+  (
+    "« ELLE DANSE BOUYON » est-il de l’afrobeat ou du bouyon ?",
+    "Du bouyon gwada, malgré l’étiquette de la plateforme. La fiche Shazam classe le titre avec un tag Afro-Beat, mais son intitulé dit bouyon, son tempo de 160 BPM est celui du bouyon de danse, et ses crédits le placent dans l’atelier guadeloupéen FIX DEM. Le titre dit bouyon, la fiche dit Afro-Beat, et les crédits disent gwada. Notre page <a href=\"/bouyon-guadeloupe.html\">bouyon Guadeloupe</a> suit cette branche.",
+  ),
+  (
+    "Qui est Landry Mette, l’auteur d’« ELLE DANSE BOUYON » ?",
+    "Landry Mette est l’auteur central de l’atelier FIX DEM, seul auteur crédité d’« ELLE DANSE BOUYON ». Sur les titres vérifiés de <a href=\"/doc-fix-dem.html\">D.O.C FIX DEM</a>, il écrit et produit « Asi Mwen », « Woody Wood », « Fwadi » et « Tik Tak », où il tient même le piano. Cette écriture partagée est le seul lien documenté entre les deux noms, avec la racine d’enseigne et la date de sortie communes.",
+  ),
+  (
+    "Quel autre titre est sorti le même jour qu’« ELLE DANSE BOUYON » ?",
+    "« Woody Wood », le single de D.O.C FIX DEM avec Judi Silva et LGC, sorti lui aussi le 19 décembre 2025. Deux sorties le même jour, sous deux noms voisins et deux enseignes de même racine, FIX DEM RECORDS d’un côté et D.O.C FIX DEM de l’autre : le réseau FIX DEM publie en grappes, et « ELLE DANSE BOUYON » est la moitié de cette grappe qui porte D.O.C FIX IT en tête d’affiche.",
+  ),
+  (
+    "Qu’est-ce que FIX DEM RECORDS ?",
+    "C’est l’enseigne qui publie « ELLE DANSE BOUYON », le 19 décembre 2025. Elle répond aux enseignes des titres voisins du réseau : FIX DEM pour « Asi Mwen » en septembre 2025, D.O.C FIX DEM pour « Woody Wood » et « Tik Tak », et D.O.C FIX DEM et WAYSEE pour « Fwadi » en janvier 2026. La racine FIX DEM traverse toutes ces sorties et dessine une petite constellation d’enseignes maison autour d’un même atelier.",
+  ),
+  (
+    "Quels artistes gravitent autour du réseau FIX DEM ?",
+    "Selon les fiches de D.O.C FIX DEM, l’atelier réunit Landry Mette à l’écriture et à la production, Clarisse Daryl à l’écriture, à la production et au mixage, et une rotation de voix du circuit gwada : Billy BYBF, LGC, Le_Daah, Judi Silva, Fabien Aurela, DDK, Enzo Vandal et Yohan Corneille. D.O.C FIX IT y apparaît comme nom de producteur, au synthétiseur et à la production de son unique single.",
+  ),
+  (
+    "D.O.C FIX IT a-t-il un rapport avec le rappeur The D.O.C. ?",
+    "Aucun rapport documenté. The D.O.C. est un rappeur américain actif depuis la fin des années 1980, associé à N.W.A et à Dr. Dre. D.O.C FIX IT est un nom du réseau bouyon FIX DEM, connu par un single de décembre 2025 chez FIX DEM RECORDS. La ressemblance des initiales est la seule chose qu’ils partagent, et ce profil écarte tous les résultats qui concernent le rappeur américain.",
+  ),
+  (
+    "Où écouter D.O.C FIX IT, et pourquoi ce profil est-il si court ?",
+    "Par son unique single, « ELLE DANSE BOUYON », puis par les titres de D.O.C FIX DEM, « Asi Mwen », « Woody Wood », « Fwadi » et « Tik Tak ». Ce profil est court parce que le dossier public l’est : un seul enregistrement vérifié, aucune page artiste, aucune biographie. Pour entendre la vague gwada actuelle, notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, le Bouyon Road Mix de Bouyon Shattaz, suit les sorties.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/doc-fix-it.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/doc-fix-it.html#artist", "name": "D.O.C FIX IT", "description": "Nom du réseau bouyon FIX DEM, crédité au synthétiseur et à la production sur un seul enregistrement vérifié, ELLE DANSE BOUYON avec D.O.C FIX DEM en featuring, sorti le 19 décembre 2025 chez FIX DEM RECORDS et écrit par Landry Mette. Nom tenu séparé de D.O.C FIX DEM sur ce site. Aucune biographie, aucune page artiste et aucun autre titre vérifiés.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'ELLE DANSE BOUYON'}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -122,13 +168,59 @@ EN = {
   ]
  ],
  "faq": [
-  ("What is the only verified record of D.O.C FIX IT?", "“ELLE DANSE BOUYON”, featuring D.O.C FIX DEM, released on December 19, 2025 on FIX DEM RECORDS as a single. Its listing, opened for this research, gives an Afro-Beat tag, the English language, a tempo of 160 BPM and about 120 identifications. No other recording of the name was found and verified during this research."),
-  ("Who is D.O.C FIX IT?", "The sources do not say. The listing of its only record credits it on synthesizer and production, with no vocal credit, and no source consulted names the person or persons behind the name, expands the initials D.O.C, or explains the name FIX IT. This profile therefore publishes the credits, which are documented, and not an identity, which is not."),
-  ("Are D.O.C FIX IT and D.O.C FIX DEM the same name?", "Not in the sources. They are two distinct credit lines: D.O.C FIX DEM is the lead artist of records like “Asi Mwen”, “Woody Wood”, “Fwadi” and “Tik Tak”, while D.O.C FIX IT is the lead artist of “ELLE DANSE BOUYON”, where D.O.C FIX DEM is only a guest. The two names share a writer, Landry Mette, a banner root, FIX DEM, and a common release date, December 19, 2025, but no source says they designate the same entity, and this site gives them two separate pages."),
-  ("Who wrote and produced “ELLE DANSE BOUYON”?", "According to the listing of the record, the writing goes to Landry Mette, the central writer of the FIX DEM workshop, also a writer and producer of the D.O.C FIX DEM records. The production and the synthesizer are credited to D.O.C FIX IT itself, and D.O.C FIX DEM appears as a feature in the title line of the single."),
-  ("Is D.O.C FIX IT related to the rapper The D.O.C.?", "No documented relation. The D.O.C. is an American rapper active since the late 1980s, associated with N.W.A and Dr. Dre. D.O.C FIX IT is a name of the bouyon FIX DEM network, known by a December 2025 single on FIX DEM RECORDS. The resemblance of the initials is the only thing they share, and this profile sets aside every result that concerns the American rapper."),
-  ("Where can I hear D.O.C FIX IT, and why is this profile so short?", "Through its only single, “ELLE DANSE BOUYON”, then through the network that carries it: the records of <a href=\"/en/doc-fix-dem.html\">D.O.C FIX DEM</a>, “Asi Mwen”, “Woody Wood”, “Fwadi” and “Tik Tak”. This profile is short because the public file is short: one verified recording, no artist page, no biography and no official account found. Rather than padding, this site publishes the record, its credits and its limits, and will complete the page on the day a new source appears. Our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> follows this scene.")
- ],
+  (
+    "What is the only verified record of D.O.C FIX IT?",
+    "“ELLE DANSE BOUYON”, featuring D.O.C FIX DEM, released on December 19, 2025 on FIX DEM RECORDS as a single. Its listing, opened for this research, gives an Afro-Beat tag, the English language, a tempo of 160 BPM and about 120 identifications. No other recording of the name was found and verified during this research.",
+  ),
+  (
+    "Who is D.O.C FIX IT?",
+    "The sources do not say. The listing of its only record credits it on synthesizer and production, with no vocal credit, and no source consulted names the person or persons behind the name, expands the initials D.O.C, or explains the name FIX IT. This profile therefore publishes the credits, which are documented, and not an identity, which is not.",
+  ),
+  (
+    "Are D.O.C FIX IT and D.O.C FIX DEM the same name?",
+    "Not in the sources. They are two distinct credit lines: D.O.C FIX DEM is the lead artist of records like “Asi Mwen”, “Woody Wood”, “Fwadi” and “Tik Tak”, while D.O.C FIX IT is the lead artist of “ELLE DANSE BOUYON”, where D.O.C FIX DEM is only a guest. They share a writer, Landry Mette, and the FIX DEM root, but no source says they designate the same entity.",
+  ),
+  (
+    "Is D.O.C FIX IT from Guadeloupe?",
+    "No biography says so: the Guadeloupe attachment of this page comes from the published context, not from the person. The single was released inside the FIX DEM network, alongside voices of the gwada circuit such as LGC, Judi Silva, Billy BYBF or Le_Daah, and the neighbouring records carry the Guadeloupe keyword. This site therefore places the name in the gwada scene without lending it a personal origin.",
+  ),
+  (
+    "Who wrote and produced “ELLE DANSE BOUYON”?",
+    "According to the listing of the record, the writing goes to Landry Mette, the central writer of the FIX DEM workshop, also a writer and producer of the D.O.C FIX DEM records. The production and the synthesizer are credited to D.O.C FIX IT itself, and D.O.C FIX DEM appears as a feature in the title line of the single.",
+  ),
+  (
+    "What does “ELLE DANSE BOUYON” mean?",
+    "The title reads as it stands, in French: she dances bouyon. It is a manifesto title, on a listing the platform nonetheless files in English, and it is the only record of current bouyon, in the catalogs followed by this site, that carries the name of the genre in its title in this form. No verified lyrics page was opened, and this site describes neither the text nor the hook.",
+  ),
+  (
+    "Is “ELLE DANSE BOUYON” Afrobeat or bouyon?",
+    "Bouyon gwada, despite the platform label. The Shazam listing files the record with an Afro-Beat tag, but its title says bouyon, its 160 BPM tempo is that of dance bouyon, and its credits place it in the Guadeloupe FIX DEM workshop. The title says bouyon, the listing says Afro-Beat, and the credits say gwada. Our <a href=\"/en/bouyon-guadeloupe.html\">bouyon Guadeloupe</a> page follows that branch.",
+  ),
+  (
+    "Who is Landry Mette, the writer of “ELLE DANSE BOUYON”?",
+    "Landry Mette is the central writer of the FIX DEM workshop and the sole credited songwriter of “ELLE DANSE BOUYON”. On the verified records of <a href=\"/en/doc-fix-dem.html\">D.O.C FIX DEM</a>, he writes and produces “Asi Mwen”, “Woody Wood”, “Fwadi” and “Tik Tak”, and even holds the piano on the last one. That shared writer is the only documented link between the two names, with the banner root and the common release date.",
+  ),
+  (
+    "What other record came out the same day as “ELLE DANSE BOUYON”?",
+    "“Woody Wood”, the D.O.C FIX DEM single with Judi Silva and LGC, also released on December 19, 2025. Two releases on the same day, under two neighbouring names and two banners of the same root, FIX DEM RECORDS on one side and D.O.C FIX DEM on the other: the FIX DEM network publishes in clusters, and “ELLE DANSE BOUYON” is the half of that cluster that bills D.O.C FIX IT.",
+  ),
+  (
+    "What is FIX DEM RECORDS?",
+    "It is the banner that released “ELLE DANSE BOUYON” on December 19, 2025. It answers the banners of the neighbouring records of the network: FIX DEM for “Asi Mwen” in September 2025, D.O.C FIX DEM for “Woody Wood” and “Tik Tak”, and D.O.C FIX DEM and WAYSEE for “Fwadi” in January 2026. The FIX DEM root runs through all those releases and draws a small constellation of house banners around one workshop.",
+  ),
+  (
+    "Which artists work in the FIX DEM network?",
+    "According to the D.O.C FIX DEM listings, the workshop joins Landry Mette on writing and production, Clarisse Daryl on writing, production and mixing, and a rotation of voices of the gwada circuit: Billy BYBF, LGC, Le_Daah, Judi Silva, Fabien Aurela, DDK, Enzo Vandal and Yohan Corneille. D.O.C FIX IT appears there as a producer name, on synthesizer and production of its only single.",
+  ),
+  (
+    "Is D.O.C FIX IT related to the rapper The D.O.C.?",
+    "No documented relation. The D.O.C. is an American rapper active since the late 1980s, associated with N.W.A and Dr. Dre. D.O.C FIX IT is a name of the bouyon FIX DEM network, known by a December 2025 single on FIX DEM RECORDS. The resemblance of the initials is the only thing they share, and this profile sets aside every result that concerns the American rapper.",
+  ),
+  (
+    "Where can I hear D.O.C FIX IT, and why is this profile so short?",
+    "Through its only single, “ELLE DANSE BOUYON”, then through the records of D.O.C FIX DEM, “Asi Mwen”, “Woody Wood”, “Fwadi” and “Tik Tak”. This profile is short because the public file is short: one verified recording, no artist page, no biography. To hear the current gwada wave, our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, the Bouyon Road Mix by Bouyon Shattaz, follows the new releases.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/doc-fix-it.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/doc-fix-it.html#artist", "name": "D.O.C FIX IT", "description": "Name of the bouyon FIX DEM network, credited on synthesizer and production on one verified recording only, ELLE DANSE BOUYON featuring D.O.C FIX DEM, released on December 19, 2025 on FIX DEM RECORDS and written by Landry Mette. Kept separate from D.O.C FIX DEM on this site. No verified biography, artist page or other record.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'ELLE DANSE BOUYON'}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

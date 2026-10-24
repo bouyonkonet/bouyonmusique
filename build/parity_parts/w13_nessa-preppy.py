@@ -86,13 +86,67 @@ FR = {
   ]
  ],
  "faq": [
-  ("Nessa Preppy est-elle une artiste bouyon ?", "Non. Nessa Preppy est une chanteuse de soca de Trinidad et Tobago, et aucun titre bouyon crédité à son nom n’a été trouvé dans les sources consultées pour ce profil. Elle figure sur ce site pour sa carrière soca vérifiée et pour ses intersections documentées avec le circuit partagé : le label Monk Music de Machel Montano et une affiche de festival en Guadeloupe partagée avec le groupe bouyon dominicain Signal Band."),
-  ("Quel est le vrai nom de Nessa Preppy et d’où vient-elle ?", "Son vrai nom est Vanessa John, selon Ebuzztt. Le Newsday indique qu’elle est née en Allemagne et a été élevée à Arima, à Trinidad. Sa biographie Last.fm précise un père allemand, une mère trinidadienne et une arrivée à Trinidad à l’âge de cinq ans."),
-  ("Quel titre a révélé Nessa Preppy ?", "Selon le Newsday, son premier single « Tingo » est devenu un tube en 2018. Le titre qui a changé d’échelle est « Issa Snack », remixé le 22 février 2019 avec Machel Montano et Hoodcelebrityy chez Monk Music, selon les crédits Shazam. Elle est ensuite montée sur la scène du Machel Monday et a été annoncée sur Hot 97 à New York, selon Ebuzztt."),
-  ("Que veut dire DYAM dans « Dyam Ting », son titre avec SuperBlue ?", "Selon le Newsday, DYAM est un acronyme de Do You and Masquerade. Le titre, produit par Johann Seaton avec les cuivres live de l’All Stars Brass, a été écrit par Vanessa John, Austin SuperBlue Lyons, Kern Rose et Kareem Thomas pour la course au Road March 2023. Elle y déclare que travailler avec SuperBlue a toujours été un rêve pour elle."),
-  ("qu’est-ce que « Little Miss Arima » ?", "C’est son deuxième album, annoncé en novembre 2024 : 13 titres mêlant soca, dancehall et rythmes insulaires, avec M1, Lady Lava, Jahllano, Freetown Collective, Vghn et Yung Bredda, distribué par Monk Music. Elle le présente comme une lettre d’amour à Arima, la ville où elle a été élevée, et sa pochette honore son ascendance parmi les Premiers Peuples de Trinidad et Tobago."),
-  ("Quelle première historique Nessa Preppy a-t-elle signée au Brésil ?", "Selon Soca News, le 26 juillet 2025, elle est devenue la première artiste soca à se produire au Festival Latinidades de Brasília, le plus grand festival d’Amérique latine consacré à l’art et à la culture des femmes noires, dont cette édition a réuni environ 8 000 personnes.")
- ],
+  (
+    "Nessa Preppy est-elle une artiste bouyon ?",
+    "Non. Nessa Preppy est une chanteuse de soca de Trinidad et Tobago, et aucun titre bouyon crédité à son nom n’a été trouvé dans les sources consultées pour ce profil. Elle figure sur ce site pour sa carrière soca vérifiée et pour ses intersections documentées avec le circuit partagé : le label Monk Music de Machel Montano et une affiche de festival en Guadeloupe partagée avec le groupe bouyon dominicain Signal Band.",
+  ),
+  (
+    "Quel est le vrai nom de Nessa Preppy et d’où vient-elle ?",
+    "Son vrai nom est Vanessa John, selon Ebuzztt. Le Newsday indique qu’elle est née en Allemagne et a été élevée à Arima, ville de l’est de Trinidad. Sa biographie Last.fm précise un père allemand, une mère trinidadienne et une arrivée à Trinidad à l’âge de cinq ans. Arima reste au centre de son identité : son deuxième album s’intitule « Little Miss Arima ».",
+  ),
+  (
+    "Quel titre a révélé Nessa Preppy ?",
+    "Selon le Newsday, son premier single « Tingo » est devenu un tube en 2018. Le titre qui a changé d’échelle est « Issa Snack », remixé le 22 février 2019 avec Machel Montano et Hoodcelebrityy chez Monk Music, selon les crédits Shazam. Elle est ensuite montée sur la scène du Machel Monday et a été annoncée sur Hot 97 à New York, selon Ebuzztt.",
+  ),
+  (
+    "Que veut dire DYAM dans « Dyam Ting », son titre avec SuperBlue ?",
+    "Selon le Newsday, DYAM est un acronyme de Do You and Masquerade : fais ce que tu es et viens au mas. Le titre, produit par Johann Seaton avec les cuivres live de l’All Stars Brass, a été écrit par Vanessa John, Austin SuperBlue Lyons, Kern Rose et Kareem Thomas pour la course au Road March 2023. Elle y déclare que travailler avec SuperBlue a toujours été un rêve pour elle.",
+  ),
+  (
+    "Qu’est-ce que « Little Miss Arima » ?",
+    "C’est son deuxième album, annoncé en novembre 2024 : 13 titres mêlant soca, dancehall et rythmes insulaires, avec M1, Lady Lava, Jahllano, Freetown Collective, Vghn et Yung Bredda, distribué par Monk Music. Elle le présente comme une lettre d’amour à Arima, la ville où elle a été élevée, et sa pochette honore son ascendance parmi les Premiers Peuples de Trinidad et Tobago.",
+  ),
+  (
+    "Quelle première historique Nessa Preppy a-t-elle signée au Brésil ?",
+    "Selon Soca News, le 26 juillet 2025, elle est devenue la première artiste soca à se produire au Festival Latinidades de Brasília, le plus grand festival d’Amérique latine consacré à l’art et à la culture des femmes noires, dont cette édition a réuni environ 8 000 personnes. Elle a dit sa fierté de partager un morceau de chez elle avec le public de Brasília.",
+  ),
+  (
+    "Qui a produit « Tingo » de Nessa Preppy ?",
+    "Selon les crédits du clip officiel, la musique de « Tingo » est produite par London Future, la vidéo réalisée par Pixel Banton, et le titre sort sur le label Down The Islands. La fiche Shazam date sa publication au 30 novembre 2017, ce qui se lit sans contradiction avec le Newsday, qui en fait le tube de 2018 : un titre publié fin 2017, devenu le succès de la saison suivante.",
+  ),
+  (
+    "Quel est le lien entre Nessa Preppy et Machel Montano ?",
+    "Il passe par un titre, une scène et un label. Machel Montano chante sur le remix d’« Issa Snack », sorti en 2019 chez Monk Music, son label, qui publie aussi son album « The Art of Flex » et distribue « Little Miss Arima ». Elle est aussi montée sur la scène du Machel Monday. Par ce label, elle voisine avec <a href=\"/machel-montano.html\">Machel Montano</a>, dont deux titres produits par le Dominicain Dada sont des emblèmes du bouyon soca.",
+  ),
+  (
+    "Nessa Preppy a-t-elle partagé une scène avec un groupe bouyon ?",
+    "Oui, une affiche. Le Karukera One Love Music Festival, en Guadeloupe, la programme sur un plateau où figurent aussi <a href=\"/signal-band.html\">Signal Band</a>, groupe bouyon de la Dominique, et Bunji Garlin. Une affiche partagée n’est ni un duo, ni un titre commun, ni une influence prouvée : c’est la preuve plus modeste que les scènes soca et bouyon se croisent physiquement, devant le même public guadeloupéen.",
+  ),
+  (
+    "Quelle est la différence entre la soca de Nessa Preppy et le bouyon ?",
+    "La soca qu’elle chante est née à Trinidad et Tobago, héritière du calypso et taillée pour le carnaval de Port of Spain. Le bouyon est né en Dominique, à Roseau, à la fin des années 1980. Les deux genres dialoguent depuis que Dada a lancé le bouyon soca en 2003, mais n’ont ni la même adresse ni la même histoire. Notre comparatif <a href=\"/bouyon-ou-soca.html\">bouyon ou soca</a> les pose côte à côte.",
+  ),
+  (
+    "Pourquoi Nessa Preppy est-elle surnommée Snack Boss ?",
+    "Le surnom Snack Boss, la patronne du snack, fait écho direct à « Issa Snack », l’hymne qui a fait changer sa carrière d’échelle avant d’être remixé avec Machel Montano et Hoodcelebrityy en 2019. Il circule dans les descriptions de ses collaborations de cette période. Sa série web, « Party With Preppy », porte de la même façon son nom de scène.",
+  ),
+  (
+    "Quelles sont les chansons les plus connues de Nessa Preppy ?",
+    "Les repères de sa carrière sont « Tingo », tube de 2018, « Issa Snack » et son remix de 2019, « Splash » avec Patrice Roberts et Travis World, « Dyam Ting » avec SuperBlue pour le Road March 2023, et « Permission », extrait de « Little Miss Arima ». Les relevés de plateformes citent aussi « Honeypot », « Dollars », « Touching It », « Doh Wah Love » et « Party Gang » parmi ses titres les plus écoutés.",
+  ),
+  (
+    "Quels sont les albums de Nessa Preppy ?",
+    "Deux albums sont documentés. « The Art of Flex », sorti chez Monk Music, auquel Shazam rattache « Splash », daté du 12 février 2021. Puis « Little Miss Arima », annoncé le 17 novembre 2024 : 13 titres mêlant soca, dancehall et rythmes insulaires, distribués par Monk Music dans le cadre du projet Soundbridge. Le premier a aussi donné son nom à son premier événement virtuel.",
+  ),
+  (
+    "Qu’est-ce que « Party With Preppy » ?",
+    "C’est sa série web, lancée un 5 janvier sur IGTV selon Ebuzztt. Le premier épisode a réuni environ 20 000 vues en 24 heures, et des épisodes ont été tournés au Belize, aux Bahamas et à Toronto. L’idée était simple pour l’époque : montrer la vie réelle d’une artiste soca, en temps réel, et garder une présence continue au-delà de la seule saison du carnaval.",
+  ),
+  (
+    "Qu’est-ce que « By Mehself » de Nessa Preppy ?",
+    "C’est sa version sur le 90 Degree riddim de Dan Evans, relevée par Billboard dans sa sélection mensuelle reggae et dancehall. Billboard la décrit comme une ode à danser le wine pour soi-même, et non pour un homme ou un partenaire. Le titre montre une part de son écriture tournée vers l’autonomie et le plaisir pris pour soi, au milieu des hymnes de fête.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/nessa-preppy.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/nessa-preppy.html#artist", "name": "Nessa Preppy", "description": "Chanteuse de soca de Trinidad et Tobago, de son vrai nom Vanessa John. Née en Allemagne et élevée à Arima, révélée par Tingo en 2018, portée par le remix d’Issa Snack avec Machel Montano, auteure des albums The Art of Flex et Little Miss Arima.", "genre": "Soca", "track": [{"@type": "MusicRecording", "name": "Tingo"}, {"@type": "MusicRecording", "name": "Issa Snack"}, {"@type": "MusicRecording", "name": "Issa Snack (Remix)"}, {"@type": "MusicRecording", "name": "Right Now"}, {"@type": "MusicRecording", "name": "Tingin'"}, {"@type": "MusicRecording", "name": "Matey"}, {"@type": "MusicRecording", "name": "Splash"}, {"@type": "MusicRecording", "name": "Toat No Feelings"}, {"@type": "MusicRecording", "name": "Who Ready!"}, {"@type": "MusicRecording", "name": "Dyam Ting"}, {"@type": "MusicRecording", "name": "By Mehself"}, {"@type": "MusicRecording", "name": "Permission"}, {"@type": "MusicRecording", "name": "Sha La La"},
       {
        "@type": "MusicRecording",
@@ -502,13 +556,67 @@ EN = {
   ]
  ],
  "faq": [
-  ("Is Nessa Preppy a bouyon artist?", "No. Nessa Preppy is a soca singer from Trinidad and Tobago, and no bouyon record credited to her name was found in the sources consulted for this profile. She figures on this site for her verified soca career and for her documented intersections with the shared circuit: Machel Montano Monk Music label and a festival bill in Guadeloupe shared with the Dominican bouyon band Signal Band."),
-  ("What is Nessa Preppy real name and where is she from?", "Her real name is Vanessa John, according to Ebuzztt. The Newsday states that she was born in Germany and raised in Arima, in Trinidad. Her Last.fm biography specifies a German father, a Trinidadian mother and a move to Trinidad at the age of five."),
-  ("Which record revealed Nessa Preppy?", "According to the Newsday, her debut single “Tingo” became a hit in 2018. The record that changed scale is “Issa Snack”, remixed on 22 February 2019 with Machel Montano and Hoodcelebrityy on Monk Music, according to the Shazam credits. She then made the Machel Monday stage and was billed for Hot 97 in New York, according to Ebuzztt."),
-  ("What does DYAM mean in Dyam Ting, her record with SuperBlue?", "According to the Newsday, DYAM is an acronym for Do You and Masquerade. The record, produced by Johann Seaton with live brass by All Stars Brass, was written by Vanessa John, Austin SuperBlue Lyons, Kern Rose and Kareem Thomas for the Road March 2023 race. She states there that working with SuperBlue has always been a dream of hers."),
-  ("What is Little Miss Arima?", "It is her second album, announced in November 2024: 13 tracks blending soca, dancehall and island rhythms, with M1, Lady Lava, Jahllano, Freetown Collective, Vghn and Yung Bredda, distributed by Monk Music. She presents it as a love letter to Arima, the town where she was raised, and its artwork honours her descent from the First Peoples of Trinidad and Tobago."),
-  ("What historic first did Nessa Preppy sign in Brazil?", "According to Soca News, on 26 July 2025 she became the first soca artist to perform at Festival Latinidades in Brasília, the largest festival in Latin America dedicated to the art and culture of Black women, whose that edition gathered about 8,000 people.")
- ],
+  (
+    "Is Nessa Preppy a bouyon artist?",
+    "No. Nessa Preppy is a soca singer from Trinidad and Tobago, and no bouyon record credited to her name was found in the sources consulted for this profile. She figures on this site for her verified soca career and for her documented intersections with the shared circuit: Machel Montano’s Monk Music label and a festival bill in Guadeloupe shared with the Dominican bouyon band Signal Band.",
+  ),
+  (
+    "What is Nessa Preppy’s real name and where is she from?",
+    "Her real name is Vanessa John, according to Ebuzztt. The Newsday states that she was born in Germany and raised in Arima, a town in eastern Trinidad. Her Last.fm biography specifies a German father, a Trinidadian mother and a move to Trinidad at the age of five. Arima stays at the centre of her identity: her second album is titled “Little Miss Arima”.",
+  ),
+  (
+    "Which record revealed Nessa Preppy?",
+    "According to the Newsday, her debut single “Tingo” became a hit in 2018. The record that changed her scale is “Issa Snack”, remixed on 22 February 2019 with Machel Montano and Hoodcelebrityy on Monk Music, according to the Shazam credits. She then made the Machel Monday stage and was billed for Hot 97 in New York, according to Ebuzztt.",
+  ),
+  (
+    "What does DYAM mean in Dyam Ting, her record with SuperBlue?",
+    "According to the Newsday, DYAM is an acronym for Do You and Masquerade: be yourself and come to the mas. The record, produced by Johann Seaton with live brass by All Stars Brass, was written by Vanessa John, Austin SuperBlue Lyons, Kern Rose and Kareem Thomas for the Road March 2023 race. She states there that working with SuperBlue has always been a dream of hers.",
+  ),
+  (
+    "What is Little Miss Arima?",
+    "It is her second album, announced in November 2024: 13 tracks blending soca, dancehall and island rhythms, with M1, Lady Lava, Jahllano, Freetown Collective, Vghn and Yung Bredda, distributed by Monk Music. She presents it as a love letter to Arima, the town where she was raised, and its artwork honours her descent from the First Peoples of Trinidad and Tobago.",
+  ),
+  (
+    "What historic first did Nessa Preppy sign in Brazil?",
+    "According to Soca News, on 26 July 2025 she became the first soca artist to perform at Festival Latinidades in Brasília, the largest festival in Latin America dedicated to the art and culture of Black women, whose edition that year gathered about 8,000 people. She spoke of her pride in sharing a piece of home with the Brasília audience.",
+  ),
+  (
+    "Who produced Nessa Preppy’s “Tingo”?",
+    "According to the official video credits, the music of “Tingo” is produced by London Future, the video is directed by Pixel Banton, and the record is released on the Down The Islands label. The Shazam listing dates its release to 30 November 2017, which fits the Newsday account of a 2018 hit: a song released at the end of 2017 that became the hit of the following season.",
+  ),
+  (
+    "What is the link between Nessa Preppy and Machel Montano?",
+    "It runs through a record, a stage and a label. Machel Montano sings on the “Issa Snack” remix, released in 2019 on Monk Music, his label, which also releases her album “The Art of Flex” and distributes “Little Miss Arima”. She also played the Machel Monday stage. Through that label she is a neighbour of <a href=\"/en/machel-montano.html\">Machel Montano</a>, two of whose records produced by the Dominican Dada are emblems of bouyon soca.",
+  ),
+  (
+    "Has Nessa Preppy shared a stage with a bouyon band?",
+    "Yes, a bill. The Karukera One Love Music Festival in Guadeloupe books her on a line up that also includes <a href=\"/en/signal-band.html\">Signal Band</a>, the bouyon band from Dominica, and Bunji Garlin. A shared bill is neither a duet, nor a joint record, nor proven influence: it is the more modest proof that the soca and bouyon scenes physically cross, in front of the same Guadeloupe audience.",
+  ),
+  (
+    "What is the difference between Nessa Preppy’s soca and bouyon?",
+    "The soca she sings was born in Trinidad and Tobago, heir to calypso and built for the Port of Spain carnival. Bouyon was born in Dominica, in Roseau, in the late 1980s. The two genres have been in dialogue since Dada launched bouyon soca in 2003, but they have neither the same address nor the same history. Our <a href=\"/en/bouyon-vs-soca.html\">bouyon vs soca</a> page sets them side by side.",
+  ),
+  (
+    "Why is Nessa Preppy called Snack Boss?",
+    "The nickname Snack Boss is a direct echo of “Issa Snack”, the anthem that changed the scale of her career before it was remixed with Machel Montano and Hoodcelebrityy in 2019. It circulates in the descriptions of her collaborations from that period. Her web series, “Party With Preppy”, carries her stage name in the same way.",
+  ),
+  (
+    "What are Nessa Preppy’s best known songs?",
+    "The landmarks of her career are “Tingo”, the 2018 hit, “Issa Snack” and its 2019 remix, “Splash” with Patrice Roberts and Travis World, “Dyam Ting” with SuperBlue for the Road March 2023 race, and “Permission”, from “Little Miss Arima”. Platform data also lists “Honeypot”, “Dollars”, “Touching It”, “Doh Wah Love” and “Party Gang” among her most played songs.",
+  ),
+  (
+    "What albums has Nessa Preppy released?",
+    "Two albums are documented. “The Art of Flex”, released on Monk Music, to which Shazam ties “Splash”, dated 12 February 2021. Then “Little Miss Arima”, announced on 17 November 2024: 13 tracks blending soca, dancehall and island rhythms, distributed by Monk Music as part of the Soundbridge project. The first also gave its name to her first virtual event.",
+  ),
+  (
+    "What is “Party With Preppy”?",
+    "It is her web series, launched on a 5 January on IGTV according to Ebuzztt. The first episode drew about 20,000 views in 24 hours, and episodes were filmed in Belize, the Bahamas and Toronto. The idea was simple for the time: show the real life of a soca artist, in real time, and keep a continuous presence beyond the carnival season alone.",
+  ),
+  (
+    "What is Nessa Preppy’s “By Mehself”?",
+    "It is her version on Dan Evans’ 90 Degree riddim, picked out by Billboard in its monthly reggae and dancehall selection. Billboard describes it as an ode to whining for yourself, not for a man or a partner. The song shows a side of her writing turned towards independence and pleasure taken for oneself, among the party anthems.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/nessa-preppy.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/nessa-preppy.html#artist", "name": "Nessa Preppy", "description": "Soca singer from Trinidad and Tobago, real name Vanessa John. Born in Germany and raised in Arima, revealed by Tingo in 2018, carried by the Issa Snack remix with Machel Montano, author of the albums The Art of Flex and Little Miss Arima.", "genre": "Soca", "track": [{"@type": "MusicRecording", "name": "Tingo"}, {"@type": "MusicRecording", "name": "Issa Snack"}, {"@type": "MusicRecording", "name": "Issa Snack (Remix)"}, {"@type": "MusicRecording", "name": "Right Now"}, {"@type": "MusicRecording", "name": "Tingin'"}, {"@type": "MusicRecording", "name": "Matey"}, {"@type": "MusicRecording", "name": "Splash"}, {"@type": "MusicRecording", "name": "Toat No Feelings"}, {"@type": "MusicRecording", "name": "Who Ready!"}, {"@type": "MusicRecording", "name": "Dyam Ting"}, {"@type": "MusicRecording", "name": "By Mehself"}, {"@type": "MusicRecording", "name": "Permission"}, {"@type": "MusicRecording", "name": "Sha La La"},
       {
        "@type": "MusicRecording",

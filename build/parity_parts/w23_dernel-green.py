@@ -89,13 +89,59 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Dernel Green ?", "Dernel Green, crédité aussi Dernel « Dernz » Green et, pour son enseigne, DernzMusik, est un compositeur, producteur et ingénieur du son du bouyon dominicain, documenté par les crédits de dix sept enregistrements vérifiés entre 2018 et 2026, presque toujours autour de Signal Band et de Shelly. Aucune biographie de lui n’est publiée dans les sources consultées : ni naissance, ni origine, ni interview. Ce profil publie ses crédits, titre par titre, et dit cette limite dès l’entrée."),
-  ("Quels titres Dernel Green a t il composés pour Signal Band ?", "Les fiches ouvertes le créditent comme compositeur sur « Ani Ba Yo Love », sorti le 6 avril 2018, où il est aussi producteur avec Sheldon Alfred, sur « Youngest & Baddest », sorti le 20 juillet 2018 dans l’album Signature, et sur « Land of d Bouyon », sorti le 8 février 2019. Il est ensuite auteur crédité sur « Coming Down » en 2020, « Doh See Me » en 2021, où sa fiche ne nomme que lui comme auteur, « Money Money (Live) » en 2023 et « Carnival Is Woman » de Th3rd avec Trilla-G en 2024."),
-  ("Dernel Green a t il produit « Bye to de Old Me » ?", "Oui, selon deux sources ouvertes qui se complètent. La fiche du titre, de Signal Band avec Shelly, sorti le 27 janvier 2025 chez Signal Band Inc., le crédite comme producteur avec Andel Horsford et dans les chœurs. Les notes de production publiées par Sokah2Soca le créditent pour la composition et l’ingénierie, avec Shelly, Nice et Pudaz comme interprètes. Le titre a remporté la vidéo musicale de l’année aux Dominica Music Awards, lors de la cérémonie du 3 janvier 2026, dans une soirée où Signal Band a gagné six prix. Le producteur de l’année de cette édition est Mr Ridge, et non Dernel Green."),
-  ("Qu’est ce que DernzMusik ?", "Le nom d’enseigne sous lequel Dernel Green signe une partie de son travail de studio. La description officielle de « Kyoné Me », de Trilla-G, crédite le mixage et le mastering à Dernel Green (DernzMusik), et The Bajan Reporter range DernzMusik parmi les crédits de production dominicains de l’album Take Me As I Am de Trilla-G, paru le 22 octobre 2025. Une description de First Serenade Band écrit par ailleurs DernzMuzsik pour le lieu où ses voix ont été enregistrées pour « Take Yuh Foot », graphie publiée telle quelle par cette source."),
-  ("Quel est le lien entre Dernel Green, Darren Green et Giovannie Green ?", "Un motif de crédits, et rien de plus dans les sources. Les trois noms paraissent ensemble dans les chœurs de « Body Language », « Calendar Riddim 2025 », « Lè i Bon » et « Bye to de Old Me », Giovannie Green tenant aussi la basse, la basse synthé ou la guitare live, et Darren Green signant des visuels. Aucune source consultée ne dit s’ils sont parents, et ce profil n’affirme aucun lien de famille : il publie le trio de crédits récurrent, qui forme avec Maskman l’atelier sonore stable de Signal Band."),
-  ("Où écouter le travail de Dernel Green ?", "Par « Bye to de Old Me » et « Body Language » de Signal Band et Shelly, « Black Girl Magic » de <a href=\"/starsha.html\">Starsha</a>, qu’il produit, « Congratulations » et « RAGS » de <a href=\"/trilla-g.html\">Trilla-G</a>, qu’il coproduit et dont il assure l’ingénierie, puis « Ani Ba Yo Love » et « Youngest & Baddest » pour ses débuts de compositeur. Notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> et notre page des <a href=\"/producteurs-bouyon.html\">producteurs bouyon</a> replacent ces titres dans la scène dominicaine actuelle.")
- ],
+  (
+    "Qui est Dernel Green ?",
+    "Dernel Green, crédité aussi Dernel « Dernz » Green et, pour son enseigne, DernzMusik, est un compositeur, producteur et ingénieur du son du bouyon dominicain, documenté par les crédits de dix sept enregistrements vérifiés entre 2018 et 2026, presque toujours autour de Signal Band et de Shelly. Aucune biographie de lui n’est publiée dans les sources consultées : ni naissance, ni origine, ni interview. Ce profil publie ses crédits, titre par titre, et dit cette limite dès l’entrée.",
+  ),
+  (
+    "Dernel Green vient-il de la Dominique ?",
+    "Les crédits le rattachent à la Dominique par la scène qui l’emploie, mais aucune source ne publie son origine personnelle. Signal Band, Shelly, Trilla-G et Starsha, ses principaux partenaires, sont des noms dominicains documentés sur ce site, et First Serenade Band enregistre ses voix chez lui. Ce profil le décrit donc comme un artisan du bouyon dominicain sans lui attribuer de lieu de naissance.",
+  ),
+  (
+    "Dernz, Dernel Green et DernzMusik : est-ce la même personne ?",
+    "Les crédits désignent le même homme de studio sous trois formes publiées. Dernel Green est la forme des fiches des plateformes ; Dernel « Dernz » Green, celle des descriptions officielles des vidéos de Signal Band et de Shelly ; et DernzMusik, l’enseigne de ses crédits de mixage chez Trilla-G. Ce site garde ces formes telles que les sources les donnent, y compris la graphie DernzMuzsik d’une description de First Serenade Band.",
+  ),
+  (
+    "Quels titres Dernel Green a-t-il composés pour Signal Band ?",
+    "Trois titres le créditent comme compositeur : « Ani Ba Yo Love », le 6 avril 2018, où il est aussi producteur avec Sheldon Alfred, « Youngest & Baddest », le 20 juillet 2018 dans l’album Signature, et « Land of d Bouyon », le 8 février 2019. Il devient ensuite auteur crédité de « Coming Down » en 2020, « Doh See Me » en 2021, où il est seul auteur, et « Money Money (Live) » en 2023.",
+  ),
+  (
+    "Dernel Green a-t-il produit « Bye to de Old Me » ?",
+    "Oui, selon deux sources ouvertes qui se complètent. La fiche du titre, de Signal Band avec Shelly, sorti le 27 janvier 2025 chez Signal Band Inc., le crédite comme producteur avec Andel Horsford et dans les chœurs. Les notes de production publiées par Sokah2Soca le créditent pour la composition et l’ingénierie, avec Shelly, Nice et Pudaz comme interprètes. Le titre a remporté la vidéo musicale de l’année aux Dominica Music Awards du 3 janvier 2026.",
+  ),
+  (
+    "Dernel Green a-t-il gagné le prix du producteur de l’année aux Dominica Music Awards ?",
+    "Non : selon le compte rendu de Black Island Girl Multimedia, le producteur de l’année de la cérémonie du 3 janvier 2026 est Mr Ridge. Le travail de Dernel Green y est récompensé à travers son groupe : Signal Band remporte six prix, dont groupe de l’année et vidéo musicale de l’année pour « Bye to de Old Me », qu’il compose, produit et enregistre. Ce site ne convertit pas la victoire du groupe en trophée personnel.",
+  ),
+  (
+    "Qui a produit « Black Girl Magic » de Starsha ?",
+    "Dernel Green, selon la vidéo officielle du titre, qui donne les crédits complets. « Black Girl Magic », de <a href=\"/starsha.html\">Starsha</a>, est écrit par Marsha Laurent avec des crédits d’écriture supplémentaires pour Aswad « Zwady » Polydore, et Cornell Phillip y assure l’ingénierie vocale, le mixage et le mastering. C’est sa production en nom propre hors de Signal Band, et la description ne publie pas de date de sortie.",
+  ),
+  (
+    "Qui a produit « Congratulations » de Trilla-G ?",
+    "Andel « Fr3EzE » Horsford et Dernel Green, selon CaribMagPlus, qui annonce le titre le 10 février 2026. « Congratulations », avec Th3rd en invité, est le single que <a href=\"/trilla-g.html\">Trilla-G</a> a écrit pendant sa maladie et publié après l’annonce de sa rémission, avec des écritures additionnelles de Shane Maloone et Christon Jno Baptiste et la guitare live de Giovannie Green. C’est le titre le plus récent du dossier.",
+  ),
+  (
+    "Quel est le rôle de Dernel Green sur « RAGS » ?",
+    "Ingénieur du son. « RAGS », de Trilla-G avec Skinny Fabulous et Shelly, est sorti le 9 avril 2025 chez Still Trill Ent., à 155 BPM, avec environ 6 800 identifications relevées ; sa fiche crédite Dernel Green à l’ingénierie, A Plus à la production et Starsha aux chœurs. Douze jours plus tard, « Not A Word », de Signal Band avec Trilla-G, le crédite à nouveau comme ingénieur.",
+  ),
+  (
+    "Qu’est-ce que DernzMusik ?",
+    "Le nom d’enseigne sous lequel Dernel Green signe une partie de son travail de studio. La description officielle de « Kyoné Me », de Trilla-G, crédite le mixage et le mastering à Dernel Green (DernzMusik), et The Bajan Reporter range DernzMusik parmi les crédits de production dominicains de l’album Take Me As I Am de Trilla-G, paru le 22 octobre 2025.",
+  ),
+  (
+    "Quel est le lien entre Dernel Green, Darren Green et Giovannie Green ?",
+    "Un motif de crédits, et rien de plus dans les sources. Les trois noms paraissent ensemble dans les chœurs de « Body Language », « Calendar Riddim 2025 », « Lè i Bon » et « Bye to de Old Me », Giovannie Green tenant aussi la basse ou la guitare, et Darren Green signant des visuels. Aucune source ne dit s’ils sont parents, et ce site n’affirme aucun lien de famille.",
+  ),
+  (
+    "Avec qui Dernel Green travaille-t-il ?",
+    "Avec le noyau de l’atelier dominicain actuel : Sheldon Alfred, dit Shelly, son partenaire d’écriture constant depuis 2018, Maskman, Arade Moses, à la programmation des riddims, Fr3EzE, Andel Horsford, à la production, ProducerDlo, Dylan Lowe, à la composition, et Cornell Phillip, avec qui il partage la chaîne de « Black Girl Magic ». Notre page des <a href=\"/producteurs-bouyon.html\">producteurs bouyon</a> situe ces noms.",
+  ),
+  (
+    "Où écouter le travail de Dernel Green ?",
+    "Par « Bye to de Old Me » et « Body Language » de Signal Band et Shelly, « Black Girl Magic » de Starsha, qu’il produit, « Congratulations » et « RAGS » de Trilla-G, qu’il coproduit et dont il assure l’ingénierie, puis « Ani Ba Yo Love » pour ses débuts. Pour entendre la scène dominicaine actuelle, notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, le Bouyon Road Mix de Bouyon Shattaz, rassemble les nouveautés.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/dernel-green.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/dernel-green.html#artist", "name": "Dernel Green", "description": "Compositeur, producteur et ingénieur du son du bouyon dominicain, crédité aussi Dernel Dernz Green et DernzMusik. Compositeur des premiers titres de Signal Band dès 2018, ingénieur et producteur de Bye to de Old Me, producteur de Black Girl Magic de Starsha et coproducteur de Congratulations de Trilla-G avec Fr3EzE. Aucune biographie publiée dans les sources consultées.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Ani Ba Yo Love'}, {"@type": "MusicRecording", "name": 'Youngest & Baddest'}, {"@type": "MusicRecording", "name": 'Land of d Bouyon'}, {"@type": "MusicRecording", "name": 'Coming Down'}, {"@type": "MusicRecording", "name": 'Doh See Me'}, {"@type": "MusicRecording", "name": 'Money Money (Live)'}, {"@type": "MusicRecording", "name": 'Carnival Is Woman'}, {"@type": "MusicRecording", "name": 'Bye to de Old Me'}, {"@type": "MusicRecording", "name": 'RAGS'}, {"@type": "MusicRecording", "name": 'Not A Word'}, {"@type": "MusicRecording", "name": 'Black Girl Magic'}, {"@type": "MusicRecording", "name": 'Body Language'}, {"@type": "MusicRecording", "name": 'Calendar Riddim 2025'}, {"@type": "MusicRecording", "name": 'Lè i Bon'}, {"@type": "MusicRecording", "name": 'Kyoné Me'}, {"@type": "MusicRecording", "name": 'Take Yuh Foot'}, {"@type": "MusicRecording", "name": 'Congratulations'}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -167,13 +213,59 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Dernel Green?", "Dernel Green, also credited as Dernel “Dernz” Green and, for his banner, DernzMusik, is a composer, producer and sound engineer of Dominican bouyon, documented by the credits of seventeen verified recordings between 2018 and 2026, almost always around Signal Band and Shelly. No biography of him is published in the sources consulted: no birth, no origin, no interview. This profile publishes his credits, record by record, and states that limit from the start."),
-  ("Which records did Dernel Green compose for Signal Band?", "The opened listings credit him as composer on “Ani Ba Yo Love”, released on April 6, 2018, where he is also a producer with Sheldon Alfred, on “Youngest & Baddest”, released on July 20, 2018 on the album Signature, and on “Land of d Bouyon”, released on February 8, 2019. He is then a credited songwriter on “Coming Down” in 2020, “Doh See Me” in 2021, where his listing names him as the only songwriter, “Money Money (Live)” in 2023 and “Carnival Is Woman” by Th3rd featuring Trilla-G in 2024."),
-  ("Did Dernel Green produce “Bye to de Old Me”?", "Yes, according to two opened sources that complete each other. The listing of the record, by Signal Band featuring Shelly, released on January 27, 2025 on Signal Band Inc., credits him as producer with Andel Horsford and in the backing vocals. The production notes published by Sokah2Soca credit him with the composition and the engineering, with Shelly, Nice and Pudaz as performers. The record won Music Video of the Year at the Dominica Music Awards, at the ceremony of January 3, 2026, on a night when Signal Band won six awards. The Producer of the Year of that edition is Mr Ridge, and not Dernel Green."),
-  ("What is DernzMusik?", "The banner name under which Dernel Green signs part of his studio work. The official description of “Kyoné Me”, by Trilla-G, credits the mixing and mastering to Dernel Green (DernzMusik), and The Bajan Reporter places DernzMusik among the Dominican production credits of the album Take Me As I Am by Trilla-G, released on October 22, 2025. A First Serenade Band description also writes DernzMuzsik for the place where its vocals were recorded for “Take Yuh Foot”, a spelling published as it stands by that source."),
-  ("What is the link between Dernel Green, Darren Green and Giovannie Green?", "A credit pattern, and nothing more in the sources. The three names appear together in the backing vocals of “Body Language”, “Calendar Riddim 2025”, “Lè i Bon” and “Bye to de Old Me”, Giovannie Green also holding the bass, the synth bass or the live guitar, and Darren Green signing artwork. No source consulted says whether they are related, and this profile claims no family link: it publishes the recurring trio of credits, which forms, with Maskman, the stable sound workshop of Signal Band."),
-  ("Where can I hear the work of Dernel Green?", "Through “Bye to de Old Me” and “Body Language” by Signal Band and Shelly, “Black Girl Magic” by <a href=\"/en/starsha.html\">Starsha</a>, which he produces, “Congratulations” and “RAGS” by <a href=\"/en/trilla-g.html\">Trilla-G</a>, which he co-produces and engineers, then “Ani Ba Yo Love” and “Youngest & Baddest” for his composer beginnings. Our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> and our <a href=\"/en/bouyon-producers.html\">bouyon producers</a> page place those records back inside the current Dominican scene.")
- ],
+  (
+    "Who is Dernel Green?",
+    "Dernel Green, also credited as Dernel “Dernz” Green and, for his banner, DernzMusik, is a composer, producer and sound engineer of Dominican bouyon, documented by the credits of seventeen verified recordings between 2018 and 2026, almost always around Signal Band and Shelly. No biography of him is published in the sources consulted: no birth, no origin, no interview. This profile publishes his credits, record by record, and states that limit from the start.",
+  ),
+  (
+    "Is Dernel Green from Dominica?",
+    "The credits attach him to Dominica through the scene that employs him, but no source publishes his own origin. Signal Band, Shelly, Trilla-G and Starsha, his main partners, are Dominican names documented on this site, and First Serenade Band records its vocals at his place. This profile therefore describes him as a craftsman of Dominican bouyon without assigning him a birthplace.",
+  ),
+  (
+    "Dernz, Dernel Green and DernzMusik: are they the same person?",
+    "The credits point to the same studio man under three published forms. Dernel Green is the form of the platform listings; Dernel “Dernz” Green, that of the official descriptions of the Signal Band and Shelly videos; and DernzMusik, the banner of his mixing credits for Trilla-G. This site keeps those forms as the sources give them, including the spelling DernzMuzsik in one First Serenade Band description.",
+  ),
+  (
+    "Which records did Dernel Green compose for Signal Band?",
+    "Three listings credit him as composer: “Ani Ba Yo Love”, April 6, 2018, where he is also a producer with Sheldon Alfred, “Youngest & Baddest”, July 20, 2018 on the album Signature, and “Land of d Bouyon”, February 8, 2019. He then becomes a credited songwriter on “Coming Down” in 2020, “Doh See Me” in 2021, where he is the only songwriter, and “Money Money (Live)” in 2023.",
+  ),
+  (
+    "Did Dernel Green produce “Bye to de Old Me”?",
+    "Yes, according to two opened sources that complete each other. The listing of the record, by Signal Band featuring Shelly, released on January 27, 2025 on Signal Band Inc., credits him as producer with Andel Horsford and in the backing vocals. The production notes published by Sokah2Soca credit him with the composition and the engineering, with Shelly, Nice and Pudaz as performers. The record won Music Video of the Year at the Dominica Music Awards of January 3, 2026.",
+  ),
+  (
+    "Did Dernel Green win Producer of the Year at the Dominica Music Awards?",
+    "No: according to the Black Island Girl Multimedia report, the Producer of the Year at the January 3, 2026 ceremony is Mr Ridge. Dernel Green’s work is rewarded there through his band: Signal Band won six awards, including Band of the Year and Music Video of the Year for “Bye to de Old Me”, which he composed, produced and engineered. This site does not turn the band’s victory into a personal trophy.",
+  ),
+  (
+    "Who produced “Black Girl Magic” by Starsha?",
+    "Dernel Green, according to the official video of the record, which gives the full credits. “Black Girl Magic”, by <a href=\"/en/starsha.html\">Starsha</a>, is written by Marsha Laurent with additional writing credits for Aswad “Zwady” Polydore, and Cornell Phillip handles the vocal engineering, mixing and mastering. It is his production under his own credit outside Signal Band, and the description publishes no release date.",
+  ),
+  (
+    "Who produced “Congratulations” by Trilla-G?",
+    "Andel “Fr3EzE” Horsford and Dernel Green, according to CaribMagPlus, which announced the record on February 10, 2026. “Congratulations”, with Th3rd as a guest, is the single <a href=\"/en/trilla-g.html\">Trilla-G</a> wrote during his illness and released after the announcement of his remission, with additional writing by Shane Maloone and Christon Jno Baptiste and the live guitar of Giovannie Green. It is the most recent record of the file.",
+  ),
+  (
+    "What was Dernel Green’s role on “RAGS”?",
+    "Engineer. “RAGS”, by Trilla-G featuring Skinny Fabulous and Shelly, was released on April 9, 2025 on Still Trill Ent., at 155 BPM, with about 6,800 identifications counted; its listing credits Dernel Green on engineering, A Plus on production and Starsha on backing vocals. Twelve days later, “Not A Word”, by Signal Band featuring Trilla-G, credits him as engineer again.",
+  ),
+  (
+    "What is DernzMusik?",
+    "The banner name under which Dernel Green signs part of his studio work. The official description of “Kyoné Me”, by Trilla-G, credits the mixing and mastering to Dernel Green (DernzMusik), and The Bajan Reporter places DernzMusik among the Dominican production credits of the album Take Me As I Am by Trilla-G, released on October 22, 2025.",
+  ),
+  (
+    "What is the link between Dernel Green, Darren Green and Giovannie Green?",
+    "A credit pattern, and nothing more in the sources. The three names appear together in the backing vocals of “Body Language”, “Calendar Riddim 2025”, “Lè i Bon” and “Bye to de Old Me”, Giovannie Green also playing bass or guitar, and Darren Green signing artwork. No source says whether they are related, and this site claims no family link.",
+  ),
+  (
+    "Who does Dernel Green work with?",
+    "With the core of the current Dominican workshop: Sheldon Alfred, known as Shelly, his constant writing partner since 2018, Maskman, Arade Moses, on riddim programming, Fr3EzE, Andel Horsford, on production, ProducerDlo, Dylan Lowe, on composition, and Cornell Phillip, with whom he shares the chain of “Black Girl Magic”. Our <a href=\"/en/bouyon-producers.html\">bouyon producers</a> page places those names.",
+  ),
+  (
+    "Where can I hear the work of Dernel Green?",
+    "Through “Bye to de Old Me” and “Body Language” by Signal Band and Shelly, “Black Girl Magic” by Starsha, which he produces, “Congratulations” and “RAGS” by Trilla-G, which he co-produces and engineers, then “Ani Ba Yo Love” for his beginnings. To hear the current Dominican scene, our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, the Bouyon Road Mix by Bouyon Shattaz, gathers the new releases.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/dernel-green.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/dernel-green.html#artist", "name": "Dernel Green", "description": "Composer, producer and sound engineer of Dominican bouyon, also credited as Dernel Dernz Green and DernzMusik. Composer of the first Signal Band records from 2018, engineer and producer of Bye to de Old Me, producer of Black Girl Magic by Starsha and co-producer of Congratulations by Trilla-G with Fr3EzE. No biography published in the sources consulted.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Ani Ba Yo Love'}, {"@type": "MusicRecording", "name": 'Youngest & Baddest'}, {"@type": "MusicRecording", "name": 'Land of d Bouyon'}, {"@type": "MusicRecording", "name": 'Coming Down'}, {"@type": "MusicRecording", "name": 'Doh See Me'}, {"@type": "MusicRecording", "name": 'Money Money (Live)'}, {"@type": "MusicRecording", "name": 'Carnival Is Woman'}, {"@type": "MusicRecording", "name": 'Bye to de Old Me'}, {"@type": "MusicRecording", "name": 'RAGS'}, {"@type": "MusicRecording", "name": 'Not A Word'}, {"@type": "MusicRecording", "name": 'Black Girl Magic'}, {"@type": "MusicRecording", "name": 'Body Language'}, {"@type": "MusicRecording", "name": 'Calendar Riddim 2025'}, {"@type": "MusicRecording", "name": 'Lè i Bon'}, {"@type": "MusicRecording", "name": 'Kyoné Me'}, {"@type": "MusicRecording", "name": 'Take Yuh Foot'}, {"@type": "MusicRecording", "name": 'Congratulations'}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

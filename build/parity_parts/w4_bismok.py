@@ -71,13 +71,63 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Bismok ?", "Bismok est un nom d’artiste du bouyon de Guadeloupe attesté par deux crédits vérifiés : le single « Boué'y » en nom principal, sorti le 7 novembre 2023 sur iMD- DRECORDS, et un featuring parmi les neuf noms de « Mas La Rivé » de 1T1, sorti le 12 janvier 2024. Aucune biographie de l’artiste n’a été publiée dans les sources consultées."),
-  ("Qui chante réellement sur « Boué'y » ?", "Les crédits du titre distinguent les rôles, et c’est la réponse que les profils copiés ne donnent jamais : l’interprète crédité est BISMOK, mais la voix et les paroles sont créditées à Kurtys Alexis, et la composition à Daryl Clarisse et Ulrich Bienvenu. Aucune source consultée ne dit que Bismok est le nom de scène de Kurtys Alexis, et ce profil ne l’affirme donc pas."),
-  ("Quels sont les titres vérifiés de Bismok ?", "Deux titres : « Boué'y », son single du 7 novembre 2023, en français, classé World par les plateformes, à 162 BPM ; et « Mas La Rivé », le titre collectif de 1T1 du 12 janvier 2024, où Bismok figure parmi les invités avec Theomaa, Aknose, DJ SOFTEE, Dj TKrys, Jicypie, Dj Kylled et Lejuh."),
-  ("Le Bismok de « Mas La Rivé » est-il le même que le BISMOK de « Boué'y » ?", "Très probablement, mais ce n’est pas déclaré par une source publique consultée. Les deux crédits partagent le même nom, la même scène guadeloupéenne et une fenêtre de deux mois, et les plateformes traitent le nom comme un seul artiste. Ce profil documente les deux apparitions du nom et laisse la question écrite comme ouverte, plutôt que tranchée sans preuve."),
-  ("D’où vient Bismok ?", "Le dossier public consulté ne le dit pas. Le cercle de 1T1, dans lequel le nom apparaît, est guadeloupéen, et « Boué'y » est un titre en français des Antilles, mais aucune source ne publie l’origine de Bismok lui même : ni île, ni commune, ni nom complet. Ce profil rattache le nom à la scène par ses crédits et s’abstient d’inventer le reste."),
-  ("Bismok a-t-il un lien avec Bismarck ou Bismut ?", "Non. Ce sont des homonymes sans rapport : Bismarck renvoie au cuirassé allemand et à un titre country de 1960, Bismut est un groupe néerlandais de rock psychédélique, et Beo Smook est un rappeur américain. Aucun fait de ces noms voisins n’appartient à l’artiste bouyon Bismok.")
- ],
+  (
+    "Qui est Bismok ?",
+    "Bismok est un nom d’artiste du bouyon de Guadeloupe attesté par deux crédits vérifiés : le single « Boué'y » en nom principal, sorti le 7 novembre 2023 sur iMD- DRECORDS, et un featuring parmi les neuf noms de « Mas La Rivé » de 1T1, sorti le 12 janvier 2024. Aucune biographie de l’artiste n’a été publiée dans les sources consultées.",
+  ),
+  (
+    "Qui chante réellement sur « Boué'y » ?",
+    "Les crédits du titre distinguent les rôles, et c’est la réponse que les profils copiés ne donnent jamais : l’interprète crédité est BISMOK, mais la voix et les paroles sont créditées à Kurtys Alexis, et la composition à Daryl Clarisse et Ulrich Bienvenu. Aucune source consultée ne dit que Bismok est le nom de scène de Kurtys Alexis, et ce profil ne l’affirme donc pas.",
+  ),
+  (
+    "Quels sont les titres vérifiés de Bismok ?",
+    "Deux titres : « Boué'y », son single du 7 novembre 2023, en français, classé World par les plateformes, à 162 BPM ; et « Mas La Rivé », le titre collectif de 1T1 du 12 janvier 2024, où Bismok figure parmi les invités avec Theomaa, Aknose, DJ SOFTEE, Dj TKrys, Jicypie, Dj Kylled et Lejuh.",
+  ),
+  (
+    "Le Bismok de « Mas La Rivé » est-il le même que le BISMOK de « Boué'y » ?",
+    "Très probablement, mais ce n’est pas déclaré par une source publique consultée. Les deux crédits partagent le même nom, la même scène guadeloupéenne et une fenêtre de deux mois, et les plateformes traitent le nom comme un seul artiste. Ce profil documente les deux apparitions du nom et laisse la question écrite comme ouverte, plutôt que tranchée sans preuve.",
+  ),
+  (
+    "D’où vient Bismok ?",
+    "Le dossier public consulté ne le dit pas. Le cercle de 1T1, dans lequel le nom apparaît, est guadeloupéen, et « Boué'y » est un titre en français des Antilles, mais aucune source ne publie l’origine de Bismok lui même : ni île, ni commune, ni nom complet. Ce profil rattache le nom à la scène par ses crédits et s’abstient d’inventer le reste.",
+  ),
+  (
+    "Bismok a-t-il un lien avec Bismarck ou Bismut ?",
+    "Non. Ce sont des homonymes sans rapport : Bismarck renvoie au cuirassé allemand et à un titre country de 1960, Bismut est un groupe néerlandais de rock psychédélique, et Beo Smook est un rappeur américain. Aucun fait de ces noms voisins n’appartient à l’artiste bouyon Bismok.",
+  ),
+  (
+    "Quand et sur quel label Boué'y de Bismok est-il sorti ?",
+    "« Boué'y » est sorti le 7 novembre 2023 sur iMD- DRECORDS, selon sa fiche Shazam, qui le classe en genre World et en langue française. Le single a été distribué sur les plateformes internationales, avec une fiche complète de crédits, de langue et de tempo. Il paraît deux mois avant le carnaval 2024, la fenêtre où la scène bouyon place ses titres de saison.",
+  ),
+  (
+    "Boué'y, Bouwé'y, Bouwéy : quelle différence entre ces titres ?",
+    "Ce sont trois titres distincts, de trois artistes, construits sur la même expression créole. « Bouwé'y » de Le Det sort le 4 juillet 2023 chez ILB PRODUCTION, à 157 BPM. « Boué'y » de BISMOK suit le 7 novembre 2023 chez iMD- DRECORDS, à 162 BPM. « Bouwéy » est le titre signature de 1T1, sur l’EP « CHORD » de décembre 2024. Leurs crédits ne se recoupent pas. Voir <a href=\"/le-det.html\">Le Det</a>.",
+  ),
+  (
+    "Quel est le tempo de Boué'y ?",
+    "Shazam affiche « Boué'y » à 162 BPM. Ce tempo place le titre dans la zone de vitesse du bouyon et des musiques de fête caribéennes rapides, loin des tempos du zouk love ou du dancehall lent. Les exemples documentés sur ce site tournent autour de 160 BPM, et notre page <a href=\"/bpm-du-bouyon.html\">BPM du bouyon</a> explique pourquoi le genre va si vite.",
+  ),
+  (
+    "Qu’est-ce que Mas La Rivé, le titre où figure Bismok ?",
+    "« Mas La Rivé » est un titre collectif de 1T1, sorti le 12 janvier 2024 et classé World par Qobuz. Il aligne neuf noms : 1T1, Theomaa, Aknose, DJ SOFTEE, Dj TKrys, Bismok, Jicypie, Dj Kylled et Lejuh. C’est la plus large réunion documentée du cercle de 1T1, publiée deux semaines avant la saison de carnaval, et l’une des deux traces vérifiées du nom Bismok.",
+  ),
+  (
+    "Quel est le lien entre Bismok et 1T1 ?",
+    "Bismok figure parmi les invités de « Mas La Rivé », le titre collectif de 1T1 du 12 janvier 2024. 1T1, compositeur, producteur et chanteur originaire de la Guadeloupe, est cité par la presse créole parmi les figures du bouyon guadeloupéen du moment, avec Lejuh, Theomaa et Aknose. Ce crédit place Bismok dans le cœur de ce réseau. Le catalogue complet est sur notre page <a href=\"/1t1.html\">1T1</a>.",
+  ),
+  (
+    "Faut-il écrire Bismok ou BISMOK ?",
+    "Les deux formes existent dans les crédits officiels. Le single « Boué'y » écrit le nom en capitales, BISMOK, tandis que « Mas La Rivé » de 1T1 l’écrit Bismok, au milieu des autres invités. Les plateformes traitent les deux occurrences comme un même nom d’artiste. Ce site retient « Bismok », la forme du crédit collectif, et signale la forme en capitales pour que les deux recherches mènent aux mêmes titres.",
+  ),
+  (
+    "Bismok fait-il du bouyon gwada ?",
+    "Oui, ses deux crédits appartiennent au bouyon gwada, la branche guadeloupéenne du genre né en Dominique : un single en créole des Antilles à 162 BPM pensé pour les plateformes, et un titre de réunion du cercle de 1T1 pensé pour la fête. Cette scène avance par producteurs centraux et titres collectifs, où les noms invités circulent. Voir notre page <a href=\"/bouyon-gwada.html\">bouyon gwada</a>.",
+  ),
+  (
+    "Où écouter Bismok ?",
+    "Écoutez d’abord « Boué'y », le single en nom principal, puis « Mas La Rivé » de 1T1 pour entendre le nom parmi les neuf voix du cercle. Les deux titres sont sur les plateformes. Pour suivre le son bouyon actuel, ouvrez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, ou commentez ROAD MIX sous une publication de @bouyonshattaz sur Instagram pour recevoir la Bouyon Road Mix en message privé.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/bismok.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/bismok.html#artist", "name": "Bismok", "description": "Nom d’artiste du bouyon de Guadeloupe attesté par deux crédits vérifiés : le single Boué'y (7 novembre 2023, iMD- DRECORDS) et un featuring sur Mas La Rivé de 1T1 (12 janvier 2024). Aucune biographie publiée dans les sources consultées.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Boué'y"}, {"@type": "MusicRecording", "name": "Mas La Rivé"},
       {
        "@type": "MusicRecording",
@@ -175,13 +225,63 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Bismok?", "Bismok is an artist name from Guadeloupe bouyon documented by two verified credits: the single “Boué'y” under his own name, released on 7 November 2023 on iMD- DRECORDS, and a feature among the nine names of “Mas La Rivé” by 1T1, released on 12 January 2024. No biography of the artist has been published in the sources consulted."),
-  ("Who actually sings on “Boué'y”?", "The credits of the record distinguish the roles, and it is the answer copied profiles never give: the credited performer is BISMOK, but the vocals and lyrics are credited to Kurtys Alexis, and the composition to Daryl Clarisse and Ulrich Bienvenu. No source consulted says that Bismok is the stage name of Kurtys Alexis, and this profile therefore does not claim it."),
-  ("What are the verified records of Bismok?", "Two records: “Boué'y”, his single of 7 November 2023, in French, classed World by the platforms, at 162 BPM; and “Mas La Rivé”, the collective record by 1T1 of 12 January 2024, where Bismok appears among the guests with Theomaa, Aknose, DJ SOFTEE, Dj TKrys, Jicypie, Dj Kylled and Lejuh."),
-  ("Is the Bismok of “Mas La Rivé” the same as the BISMOK of “Boué'y”?", "Very probably, but it is not stated by any public source consulted. The two credits share the same name, the same Guadeloupe scene and a two month window, and the platforms treat the name as a single artist. This profile documents the two appearances of the name and leaves the question written as open, rather than settled without proof."),
-  ("Where does Bismok come from?", "The public record consulted does not say. The circle of 1T1, in which the name appears, is Guadeloupean, and “Boué'y” is a record in the French of the Antilles, but no source publishes the origin of Bismok himself: no island, no commune, no full name. This profile attaches the name to the scene through its credits and refrains from inventing the rest."),
-  ("Is Bismok connected to Bismarck or Bismut?", "No. Those are unrelated namesakes: Bismarck points to the German battleship and a country title from 1960, Bismut is a Dutch psychedelic rock band, and Beo Smook is an American rapper. No fact from those neighbouring names belongs to the bouyon artist Bismok.")
- ],
+  (
+    "Who is Bismok?",
+    "Bismok is an artist name from Guadeloupe bouyon documented by two verified credits: the single “Boué'y” under his own name, released on 7 November 2023 on iMD- DRECORDS, and a feature among the nine names of “Mas La Rivé” by 1T1, released on 12 January 2024. No biography of the artist has been published in the sources consulted.",
+  ),
+  (
+    "Who actually sings on “Boué'y”?",
+    "The credits of the record distinguish the roles, and it is the answer copied profiles never give: the credited performer is BISMOK, but the vocals and lyrics are credited to Kurtys Alexis, and the composition to Daryl Clarisse and Ulrich Bienvenu. No source consulted says that Bismok is the stage name of Kurtys Alexis, and this profile therefore does not claim it.",
+  ),
+  (
+    "What are the verified records of Bismok?",
+    "Two records: “Boué'y”, his single of 7 November 2023, in French, classed World by the platforms, at 162 BPM; and “Mas La Rivé”, the collective record by 1T1 of 12 January 2024, where Bismok appears among the guests with Theomaa, Aknose, DJ SOFTEE, Dj TKrys, Jicypie, Dj Kylled and Lejuh.",
+  ),
+  (
+    "Is the Bismok of “Mas La Rivé” the same as the BISMOK of “Boué'y”?",
+    "Very probably, but it is not stated by any public source consulted. The two credits share the same name, the same Guadeloupe scene and a two month window, and the platforms treat the name as a single artist. This profile documents the two appearances of the name and leaves the question written as open, rather than settled without proof.",
+  ),
+  (
+    "Where does Bismok come from?",
+    "The public record consulted does not say. The circle of 1T1, in which the name appears, is Guadeloupean, and “Boué'y” is a record in the French of the Antilles, but no source publishes the origin of Bismok himself: no island, no commune, no full name. This profile attaches the name to the scene through its credits and refrains from inventing the rest.",
+  ),
+  (
+    "Is Bismok connected to Bismarck or Bismut?",
+    "No. Those are unrelated namesakes: Bismarck points to the German battleship and a country title from 1960, Bismut is a Dutch psychedelic rock band, and Beo Smook is an American rapper. No fact from those neighbouring names belongs to the bouyon artist Bismok.",
+  ),
+  (
+    "When and on which label was Boué'y by Bismok released?",
+    "“Boué'y” was released on 7 November 2023 on iMD- DRECORDS, according to its Shazam page, which classifies it as World and French language. The single was distributed to international platforms, with a full page of credits, language and tempo. It came out two months before carnival 2024, the window in which the bouyon scene places its season records.",
+  ),
+  (
+    "Boué'y, Bouwé'y, Bouwéy: what is the difference between these songs?",
+    "They are three separate songs by three artists, built on the same Creole expression. “Bouwé'y” by Le Det came out on 4 July 2023 on ILB PRODUCTION, at 157 BPM. “Boué'y” by BISMOK followed on 7 November 2023 on iMD- DRECORDS, at 162 BPM. “Bouwéy” is 1T1’s signature song, on the “CHORD” EP of December 2024. Their credits do not overlap. See <a href=\"/en/le-det.html\">Le Det</a>.",
+  ),
+  (
+    "What is the tempo of Boué'y?",
+    "Shazam lists “Boué'y” at 162 BPM. That tempo puts the track in the speed zone of bouyon and fast Caribbean party music, far from the tempos of zouk love or slow dancehall. The examples documented on this site sit around 160 BPM, and our <a href=\"/en/bouyon-bpm.html\">bouyon BPM</a> page explains why the genre runs so fast.",
+  ),
+  (
+    "What is Mas La Rivé, the record featuring Bismok?",
+    "“Mas La Rivé” is a collective record by 1T1, released on 12 January 2024 and classified World by Qobuz. It lines up nine names: 1T1, Theomaa, Aknose, DJ SOFTEE, Dj TKrys, Bismok, Jicypie, Dj Kylled and Lejuh. It is the widest documented gathering of the 1T1 circle, released two weeks before carnival season, and one of the two verified traces of the Bismok name.",
+  ),
+  (
+    "What is the link between Bismok and 1T1?",
+    "Bismok is among the guests on “Mas La Rivé”, 1T1’s collective record of 12 January 2024. 1T1, a composer, producer and singer from Guadeloupe, is named by the Creole press among the leading figures of current Guadeloupe bouyon, alongside Lejuh, Theomaa and Aknose. This credit places Bismok at the heart of that network. The full catalogue is on our <a href=\"/en/1t1.html\">1T1</a> page.",
+  ),
+  (
+    "Is it spelled Bismok or BISMOK?",
+    "Both forms appear in official credits. The single “Boué'y” prints the name in capitals, BISMOK, while 1T1’s “Mas La Rivé” writes Bismok, among the other guests. The platforms treat both as the same artist name. This site uses “Bismok”, the form of the collective credit, and flags the capitalised form so that both searches lead to the same records.",
+  ),
+  (
+    "Does Bismok make bouyon gwada?",
+    "Yes, both of his credits belong to bouyon gwada, the Guadeloupe branch of the genre born in Dominica: a single in French West Indies Creole at 162 BPM built for the platforms, and a gathering record from the 1T1 circle built for the party. This scene moves through central producers and collective records where guest names circulate. See our <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a> page.",
+  ),
+  (
+    "Where can I listen to Bismok?",
+    "Start with “Boué'y”, the single under his own name, then 1T1’s “Mas La Rivé” to hear the name among the circle’s nine voices. Both records are on the platforms. To follow today’s bouyon sound, open our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, or comment ROAD MIX under an @bouyonshattaz post on Instagram to get the Bouyon Road Mix by direct message.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/bismok.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/bismok.html#artist", "name": "Bismok", "description": "Artist name from Guadeloupe bouyon documented by two verified credits: the single Boué'y (7 November 2023, iMD- DRECORDS) and a feature on Mas La Rivé by 1T1 (12 January 2024). No biography published in the sources consulted.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Boué'y"}, {"@type": "MusicRecording", "name": "Mas La Rivé"},
       {
        "@type": "MusicRecording",

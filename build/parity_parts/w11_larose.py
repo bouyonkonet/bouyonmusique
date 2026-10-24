@@ -75,13 +75,63 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Larose ?", "Larose est une voix créole de la scène guadeloupéenne, active depuis le single « Di Bonjou » en 2018. Les plateformes la classent en rap et hip hop, et son catalogue paraît chez Mostwantedcorp puis chez Gwap Music. Ses titres sont écrits par Sandra Valdez, que les crédits de « Big Bike » nomment aussi au chant. À ne pas confondre avec Dieudonné Larose, le chanteur haïtien de konpa, qui est un autre artiste."),
-  ("Qui est Sandra Valdez dans le dossier de Larose ?", "Sandra Valdez est le nom que les crédits publiés attachent au projet Larose : elle signe les paroles de « Di Bonjou » dès 2018, l’écriture de presque tout le catalogue Gwap Music, et le chant sur « Big Bike ». Elle coécrit aussi « Gwadloup cho » de Kevni et « SEL CHANS » de Shaka Zulu. Ici, ces crédits sont la source principale, et ils relient le nom de scène à son auteure interprète."),
-  ("Quel est le premier titre documenté de Larose ?", "« Di Bonjou », sorti le 19 mai 2018 chez Mostwantedcorp, classé hip hop et rap par les plateformes, composé par Marley Rollé avec des paroles de Sandra Valdez. Le titre, qui signifie dis bonjour en créole, pose dès le départ la langue et le terrain du projet."),
-  ("Quel album Larose a-t-elle sorti ?", "« Rose Rouge », publié par Gwap Music et référencé au 23 janvier 2026 dans la discographie des plateformes, qui le listent en neuf titres. La liste publiée nomme « Grraa », « Mannèv », « Baby Daddy », « Checklist », « Énergie », « Pour moi » et « Fui mwen », écrits par Sandra Valdez, seule ou avec Youri Jacob et Sandy Kevin Tel-Agnesa."),
-  ("Quel est le lien de Larose avec le bouyon ?", "Ses collaborations la placent au milieu du circuit bouyon guadeloupéen : « Lè an pa siw ou si mwen » avec Aknose en 2024, sa coécriture sur « Gwadloup cho » de Kevni, « Call me » avec DJ Luchshiy en 2025, et « MANIGANCES » de Malcolm composé par Hypnotic Beatz. Les plateformes étiquettent son catalogue en rap, mais son réseau de travail est celui du bouyon gwada."),
-  ("D’où vient Larose ?", "Les sources consultées la documentent comme une artiste de la scène guadeloupéenne : ses titres en créole, son label et ses collaborateurs sont ceux de la Guadeloupe. Aucune source consultée ne publie son lieu de naissance ou sa date de naissance, et ce profil ne les invente pas. C’est une question à laquelle beaucoup de bases de données répondent par des textes génériques sans source : ici, la réponse reste celle du dossier.")
- ],
+  (
+    "Qui est Larose ?",
+    "Larose est une voix créole de la scène guadeloupéenne, active depuis le single « Di Bonjou » en 2018. Les plateformes la classent en rap et hip hop, et son catalogue paraît chez Mostwantedcorp puis, depuis 2021, chez Gwap Music, jusqu’à l’album « Rose Rouge ». Ses titres sont écrits par Sandra Valdez, que les crédits de « Big Bike » nomment aussi au chant.",
+  ),
+  (
+    "Qui est Sandra Valdez dans le dossier de Larose ?",
+    "Sandra Valdez est le nom que les crédits publiés attachent au projet Larose : elle signe les paroles de « Di Bonjou » dès 2018, l’écriture de presque tout le catalogue Gwap Music, et le chant sur « Big Bike ». Elle coécrit aussi « Gwadloup cho » de Kevni et « SEL CHANS » de Shaka Zulu. Ces crédits sont la source principale de ce profil : ils relient le nom de scène à son auteure interprète.",
+  ),
+  (
+    "Quel est le premier titre documenté de Larose ?",
+    "« Di Bonjou », sorti le 19 mai 2018 chez Mostwantedcorp, classé hip hop et rap par les plateformes, composé par Marley Rollé avec des paroles de Sandra Valdez. Le titre, qui signifie dis bonjour en créole, pose dès le départ la langue et le terrain du projet, sur un tempo lent de 69 BPM qui tranche avec le reste du catalogue.",
+  ),
+  (
+    "Quel album Larose a-t-elle sorti ?",
+    "« Rose Rouge », publié par Gwap Music et référencé au 23 janvier 2026 dans la discographie des plateformes, qui le listent en neuf titres. La liste publiée nomme « Grraa », « Mannèv », « Baby Daddy », « Checklist », « Énergie », « Pour moi » et « Fui mwen », écrits par Sandra Valdez, seule ou avec Youri Jacob et Sandy Kevin Tel-Agnesa.",
+  ),
+  (
+    "Quel est le lien de Larose avec le bouyon ?",
+    "Ses collaborations la placent au milieu du circuit bouyon guadeloupéen : « Lè an pa siw ou si mwen » avec Aknose en 2024, sa coécriture sur « Gwadloup cho » de Kevni, « Call me » avec DJ Luchshiy en 2025, et « MANIGANCES » de Malcolm composé par Hypnotic Beatz. Les plateformes étiquettent son catalogue en rap, mais son réseau de travail est celui du bouyon gwada.",
+  ),
+  (
+    "D’où vient Larose ?",
+    "Les sources consultées la documentent comme une artiste de la scène guadeloupéenne : ses titres en créole, son label et ses collaborateurs sont ceux de la Guadeloupe. Aucune source consultée ne publie son lieu de naissance ou sa date de naissance, et ce profil ne les invente pas : la réponse reste celle du dossier.",
+  ),
+  (
+    "Larose est-elle Dieudonné Larose ?",
+    "Non. Dieudonné Larose est un chanteur haïtien de konpa né en 1945 et mort en 2026, figure de Shoogar Combo, DP Express et Missile 727. La Larose de ce profil est une voix créole de la scène guadeloupéenne apparue en 2018 avec « Di Bonjou ». Les deux artistes ne partagent ni genre, ni génération, ni catalogue : seule l’homonymie les mélange dans les moteurs de recherche.",
+  ),
+  (
+    "Qui a produit « Big Bike » de Larose ?",
+    "gronael cairo, crédité à la programmation et à la composition. Sorti le 24 février 2021 chez Gwap Music, « Big Bike » est le premier titre du catalogue dont chaque rôle est documenté sur Shazam : Larose comme interprète, Sandra Valdez au chant et aux paroles, gronael cairo à la musique. Un clip officiel, « LaRose - Big Bike (Clip Officiel) », a accompagné la sortie.",
+  ),
+  (
+    "Que veut dire « KA NOU YÉ » de Larose ?",
+    "« KA NOU YÉ » signifie ce que nous sommes, en créole. Sorti le 26 mai 2023, le titre est crédité à Larose comme auteure et à Ray Da Prince comme compositeur. C’est le titre manifeste de son catalogue, celui qui revendique l’identité guadeloupéenne dans la langue même, un mois après « Loyal », sorti le 28 avril 2023.",
+  ),
+  (
+    "Qui compose les titres de Larose ?",
+    "Surtout Charly Charini, son partenaire le plus régulier : il compose « Loyal », « TOUSA », « Eazy » et quatre titres de l’album « Rose Rouge ». Les crédits nomment aussi Marley Rollé (« Di Bonjou »), gronael cairo (« Big Bike »), Pierre-Alexandre Torchard (« Buzz Buzz Buzz »), Ray Da Prince (« KA NOU YÉ »), Ulrich Flower, Corane Vincent et Carllian James.",
+  ),
+  (
+    "Quelles sont les chansons les plus connues de Larose ?",
+    "La page de classement de Viberate cite parmi ses titres les plus référencés « Di Bonjou », « Buzz Buzz Buzz » et « Big Bike », avec « Malalad », « Ti KoKa », « Yinki ban mwen », « Pull Up », « Revolver », « Hotel Room » et « Come on ». Côté sorties datées, « KA NOU YÉ » et l’album « Rose Rouge » forment le cœur du catalogue.",
+  ),
+  (
+    "L’album « INEVITAB » est-il de Larose ?",
+    "Non, ce profil ne le lui attribue pas. Une base de données attribue à Larose un album « INEVITAB » daté de 2023, mais le même titre est documenté comme un album de Kevni dans d’autres discographies de plateformes. Ce site le signale comme un conflit de base de données. Le premier album documenté de Larose reste « Rose Rouge », référencé en janvier 2026.",
+  ),
+  (
+    "Larose a-t-elle chanté sur un titre sorti chez Sony ?",
+    "Oui. Le 1er juillet 2025, Malcolm l’invite sur « MANIGANCES », sorti par Sony Music Entertainment France et Triple-Double Production, et composé par RayDaPrince et Hypnotic Beatz. De Gwap Music à une sortie Sony, son catalogue monte d’un cran sans changer d’équipe d’écriture : la même année, elle sort « Call me » avec DJ Luchshiy et « Eazy ».",
+  ),
+  (
+    "Où écouter Larose ?",
+    "Commencez par « KA NOU YÉ » et « Big Bike », puis l’album « Rose Rouge », sur les plateformes de streaming où son catalogue paraît chez Gwap Music. Pour le bouyon de sa génération, de la Guadeloupe à la Dominique, écoutez le Road Mix de Bouyon Shattaz sur notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, qui suit les nouveautés de la Dominique, de la Guadeloupe et de la Martinique.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/larose.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/larose.html#artist", "name": "Larose", "description": "Voix créole de la scène guadeloupéenne, active depuis Di Bonjou en 2018 chez Mostwantedcorp puis Gwap Music. Crédits publiés au nom de Sandra Valdez, chant et écriture. Album Rose Rouge référencé en 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Di Bonjou'}, {"@type": "MusicRecording", "name": 'Big Bike'}, {"@type": "MusicRecording", "name": 'Buzz Buzz Buzz'}, {"@type": "MusicRecording", "name": 'Revolver'}, {"@type": "MusicRecording", "name": 'Loyal'}, {"@type": "MusicRecording", "name": 'KA NOU YÉ'}, {"@type": "MusicRecording", "name": 'Énergie'}, {"@type": "MusicRecording", "name": 'TOUSA'}, {"@type": "MusicRecording", "name": 'Lè an pa siw ou si mwen'}, {"@type": "MusicRecording", "name": 'Call me'}, {"@type": "MusicRecording", "name": 'Eazy'}, {"@type": "MusicRecording", "name": 'Grraa'}, {"@type": "MusicRecording", "name": 'Mannèv'}, {"@type": "MusicRecording", "name": 'Baby Daddy'}, {"@type": "MusicRecording", "name": 'Fui mwen'},
       {
        "@type": "MusicRecording",
@@ -306,13 +356,63 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Larose?", "Larose is a Creole voice of the Guadeloupe scene, active since the single “Di Bonjou” in 2018. The platforms class her under rap and hip hop, and her catalogue appears on Mostwantedcorp then on Gwap Music. Her records are written by Sandra Valdez, whom the credits of “Big Bike” also name on vocals. Not to be confused with Dieudonné Larose, the Haitian konpa singer, who is a different artist."),
-  ("Who is Sandra Valdez in the Larose record?", "Sandra Valdez is the name the published credits attach to the Larose project: she signs the lyrics of “Di Bonjou” as early as 2018, the writing of almost the whole Gwap Music catalogue, and the vocals on “Big Bike”. She also co-writes “Gwadloup cho” by Kevni and “SEL CHANS” by Shaka Zulu. Here, those credits are the main source, and they connect the stage name to its performing writer."),
-  ("What is the first documented Larose record?", "“Di Bonjou”, released on May 19, 2018 by Mostwantedcorp, classed as hip hop and rap by the platforms, composed by Marley Rollé with lyrics by Sandra Valdez. The title, which means say hello in Creole, sets the language and the ground of the project from the start."),
-  ("Which album has Larose released?", "“Rose Rouge”, released by Gwap Music and referenced at January 23, 2026 in the platform discographies, which list it at nine tracks. The published listing names “Grraa”, “Mannèv”, “Baby Daddy”, “Checklist”, “Énergie”, “Pour moi” and “Fui mwen”, written by Sandra Valdez, alone or with Youri Jacob and Sandy Kevin Tel-Agnesa."),
-  ("What is the link between Larose and bouyon?", "Her collaborations place her in the middle of the Guadeloupe bouyon circuit: “Lè an pa siw ou si mwen” with Aknose in 2024, her co-writing on “Gwadloup cho” by Kevni, “Call me” with DJ Luchshiy in 2025, and Malcolm “MANIGANCES” composed by Hypnotic Beatz. The platforms tag her catalogue as rap, but her working network is that of bouyon gwada."),
-  ("Where is Larose from?", "The sources consulted document her as an artist of the Guadeloupe scene: her Creole titles, her label and her collaborators are those of Guadeloupe. No source consulted publishes her birthplace or her birth date, and this profile does not invent them. It is a question many databases answer with generic text and no source: here, the answer stays the one the record allows.")
- ],
+  (
+    "Who is Larose?",
+    "Larose is a Creole voice of the Guadeloupe scene, active since the single “Di Bonjou” in 2018. The platforms class her under rap and hip hop, and her catalogue appears on Mostwantedcorp then, from 2021, on Gwap Music, up to the album “Rose Rouge”. Her records are written by Sandra Valdez, whom the credits of “Big Bike” also name on vocals.",
+  ),
+  (
+    "Who is Sandra Valdez in the Larose record?",
+    "Sandra Valdez is the name the published credits attach to the Larose project: she signs the lyrics of “Di Bonjou” as early as 2018, the writing of almost the whole Gwap Music catalogue, and the vocals on “Big Bike”. She also co-writes “Gwadloup cho” by Kevni and “SEL CHANS” by Shaka Zulu. Those credits are this profile main source: they connect the stage name to its performing writer.",
+  ),
+  (
+    "What is the first documented Larose record?",
+    "“Di Bonjou”, released on May 19, 2018 by Mostwantedcorp, classed as hip hop and rap by the platforms, composed by Marley Rollé with lyrics by Sandra Valdez. The title, which means say hello in Creole, sets the language and the ground of the project from the start, at a slow 69 BPM that stands out against the rest of the catalogue.",
+  ),
+  (
+    "Which album has Larose released?",
+    "“Rose Rouge”, released by Gwap Music and referenced at January 23, 2026 in the platform discographies, which list it at nine tracks. The published listing names “Grraa”, “Mannèv”, “Baby Daddy”, “Checklist”, “Énergie”, “Pour moi” and “Fui mwen”, written by Sandra Valdez, alone or with Youri Jacob and Sandy Kevin Tel-Agnesa.",
+  ),
+  (
+    "What is the link between Larose and bouyon?",
+    "Her collaborations place her in the middle of the Guadeloupe bouyon circuit: “Lè an pa siw ou si mwen” with Aknose in 2024, her co-writing on “Gwadloup cho” by Kevni, “Call me” with DJ Luchshiy in 2025, and Malcolm “MANIGANCES” composed by Hypnotic Beatz. The platforms tag her catalogue as rap, but her working network is that of bouyon gwada.",
+  ),
+  (
+    "Where is Larose from?",
+    "The sources consulted document her as an artist of the Guadeloupe scene: her Creole titles, her label and her collaborators are those of Guadeloupe. No source consulted publishes her birthplace or her birth date, and this profile does not invent them: the answer stays the one the record allows.",
+  ),
+  (
+    "Is Larose the same artist as Dieudonné Larose?",
+    "No. Dieudonné Larose is a Haitian konpa singer born in 1945 who died in 2026, a figure of Shoogar Combo, DP Express and Missile 727. The Larose of this profile is a Creole voice of the Guadeloupe scene who appeared in 2018 with “Di Bonjou”. The two artists share neither a genre, a generation nor a catalogue: only the name mixes them up in search engines.",
+  ),
+  (
+    "Who produced “Big Bike” by Larose?",
+    "gronael cairo, credited with programming and composition. Released on February 24, 2021 on Gwap Music, “Big Bike” is the first record of the catalogue whose every role is documented on Shazam: Larose as performer, Sandra Valdez on vocals and lyrics, gronael cairo on the music. An official video, “LaRose - Big Bike (Clip Officiel)”, came with the release.",
+  ),
+  (
+    "What does “KA NOU YÉ” by Larose mean?",
+    "“KA NOU YÉ” means what we are, in Creole. Released on May 26, 2023, the record is credited to Larose as writer and to Ray Da Prince as composer. It is the manifesto record of her catalogue, the one claiming Guadeloupe identity in the language itself, a month after “Loyal”, released on April 28, 2023.",
+  ),
+  (
+    "Who composes Larose songs?",
+    "Mostly Charly Charini, her most regular partner: he composed “Loyal”, “TOUSA”, “Eazy” and four tracks of the album “Rose Rouge”. The credits also name Marley Rollé (“Di Bonjou”), gronael cairo (“Big Bike”), Pierre-Alexandre Torchard (“Buzz Buzz Buzz”), Ray Da Prince (“KA NOU YÉ”), Ulrich Flower, Corane Vincent and Carllian James.",
+  ),
+  (
+    "What are the best known Larose songs?",
+    "The Viberate ranking page lists among her most referenced songs “Di Bonjou”, “Buzz Buzz Buzz” and “Big Bike”, with “Malalad”, “Ti KoKa”, “Yinki ban mwen”, “Pull Up”, “Revolver”, “Hotel Room” and “Come on”. Among dated releases, “KA NOU YÉ” and the album “Rose Rouge” form the core of the catalogue.",
+  ),
+  (
+    "Is the album “INEVITAB” by Larose?",
+    "No, this profile does not attribute it to her. One database credits Larose with an album titled “INEVITAB” dated 2023, but the same title is documented as a Kevni album in other platform discographies. This site flags it as a database conflict. The first documented Larose album remains “Rose Rouge”, referenced in January 2026.",
+  ),
+  (
+    "Has Larose sung on a Sony release?",
+    "Yes. On July 1, 2025, Malcolm brought her in on “MANIGANCES”, released by Sony Music Entertainment France and Triple-Double Production, and composed by RayDaPrince and Hypnotic Beatz. From Gwap Music to a Sony release, her catalogue moved up without changing its writing team: the same year she released “Call me” with DJ Luchshiy and “Eazy”.",
+  ),
+  (
+    "Where can I hear Larose?",
+    "Start with “KA NOU YÉ” and “Big Bike”, then the album “Rose Rouge”, on the streaming platforms where her catalogue appears on Gwap Music. For the bouyon of her generation, from Guadeloupe to Dominica, play the Bouyon Shattaz Road Mix on our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> page, which follows new releases from Dominica, Guadeloupe and Martinique.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/larose.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/larose.html#artist", "name": "Larose", "description": "Creole voice of the Guadeloupe scene, active since Di Bonjou in 2018 on Mostwantedcorp then Gwap Music. Published credits under the name Sandra Valdez, vocals and writing. Album Rose Rouge referenced in 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Di Bonjou'}, {"@type": "MusicRecording", "name": 'Big Bike'}, {"@type": "MusicRecording", "name": 'Buzz Buzz Buzz'}, {"@type": "MusicRecording", "name": 'Revolver'}, {"@type": "MusicRecording", "name": 'Loyal'}, {"@type": "MusicRecording", "name": 'KA NOU YÉ'}, {"@type": "MusicRecording", "name": 'Énergie'}, {"@type": "MusicRecording", "name": 'TOUSA'}, {"@type": "MusicRecording", "name": 'Lè an pa siw ou si mwen'}, {"@type": "MusicRecording", "name": 'Call me'}, {"@type": "MusicRecording", "name": 'Eazy'}, {"@type": "MusicRecording", "name": 'Grraa'}, {"@type": "MusicRecording", "name": 'Mannèv'}, {"@type": "MusicRecording", "name": 'Baby Daddy'}, {"@type": "MusicRecording", "name": 'Fui mwen'},
       {
        "@type": "MusicRecording",

@@ -69,13 +69,63 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est J2MO ?", "J2MO est un producteur et beatmaker du circuit bouyon et shatta des Antilles françaises, en crédits depuis 2015. Spotify classe son catalogue en shatta, ses titres les plus visibles sont « Bèl Fèss Bèl Chatte » avec Miky Ding La et Deejay Guyguy, le « Mega Mix High Lights Riddim » avec Mad General et Miky Ding La, et la série de riddims Riddim Up. Il signe aussi ses productions The Beat Cooker et publie d’autres artistes sous le nom de label J2MO. Aucune biographie officielle n’est publiée dans les sources ouvertes pour ce profil."),
-  ("C’est quoi « Bèl Fèss Bèl Chatte » ?", "C’est le titre qui représente J2MO dans The Sound of Bouyon, la playlist de référence du genre sur Spotify. Il est crédité à Miky Ding La, J2MO et Dj Guyguy, et dure 2 minutes 41 dans cette playlist. C’est un titre de voix partagé, typique du fonctionnement de J2MO : le producteur fournit le rythme, les voix de la scène posent dessus, et le DJ est crédité comme un co-auteur de la diffusion."),
-  ("Quel nom revient dans les crédits de composition de J2MO, et pourquoi les autres profils ne le disent pas ?", "Le nom Christophe Démocrite. Il apparaît comme auteur, compositeur, programmeur ou ingénieur de mastering sur presque tous les titres ouverts pour ce profil, de « Pansyon » à « MAGIC TROPICAL RIDDIM », et comme compositeur de « Weed tou lé jou » de Miky Ding La. Les descriptions de la chaîne YouTube de J2MO listent un identifiant à ce nom à côté des identifiants j2moofficial. Aucune source ne formule en mots l’identité civile derrière J2MO, et le titre « Finès » de Waysee crédite même Christophe Démocrite et J2MO côte à côte, donc ce profil rapporte le faisceau de crédits sans inventer un état civil."),
-  ("Que veut dire The Beat Cooker ?", "C’est la signature de producteur de J2MO, publiée dans les titres mêmes de ses sorties : « Mad Love Riddim (The Beat Cooker) » et « Po A Banan Riddim (The Beat Cooker) », sortis le 6 mai 2023 chez Upfull Music. Sa chaîne YouTube crédite les drums de ses mixes à J2mothebeatcooker. L’image est celle du cuisinier de rythmes : bouyon signifie d’ailleurs une soupe en créole antillais, et le beat cooker est celui qui la prépare pour les voix et les DJ."),
-  ("J2MO est-il aussi un label ?", "Oui, selon les catalogues ouverts pour ce profil. Qobuz montre le nom J2MO comme éditeur de « Tchimbé Sa » de Sweety en janvier 2023, de « What You Do » de LETID en janvier 2024, de quatre titres de Catch en 2024, « T-Max », « Longtime », « TOGETHER » et « Grip Me Down », et de « Sexy Gyal » de Mafiaboy en novembre 2025. Ses propres titres « Push Back », « RIDDIM UP MIX » et « OK BOOM MIXXX » portent aussi le label J2MO sur leurs fiches Shazam."),
-  ("Où écouter J2MO ?", "Commencez par « Bèl Fèss Bèl Chatte » avec Miky Ding La et <a href=\"/deejay-guyguy.html\">Deejay Guyguy</a>, puis le « Mega Mix High Lights Riddim » pour le format riddim, la série Riddim Up de 2025 pour ses instrumentaux récents, et ses mixes Ok Boom et WYFL sur sa chaîne pour sa sélection du circuit. Notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> suit la même scène, de la Dominique aux Antilles françaises.")
- ],
+  (
+    "Qui est J2MO ?",
+    "J2MO est un producteur et beatmaker du circuit bouyon et shatta des Antilles françaises, en crédits depuis 2015. Ses titres les plus visibles sont « Bèl Fèss Bèl Chatte » avec Miky Ding La et Deejay Guyguy, le « Mega Mix High Lights Riddim » avec Mad General et Miky Ding La, et la série de riddims Riddim Up. Il signe aussi ses productions The Beat Cooker et publie d’autres artistes sous le nom de label J2MO.",
+  ),
+  (
+    "D’où vient J2MO ?",
+    "Aucune source ouverte ne publie l’origine de J2MO ; ce qui est publié, c’est la géographie de son public. Un instantané de statistiques Spotify, daté par la source elle-même de neuf mois, place Paris en première ville d’écoute, puis Les Abymes en Guadeloupe, Lyon, Saint-Denis et Marseille, pour 10 655 auditeurs mensuels. C’est le couloir du bouyon gwada et de sa diaspora, pas une adresse.",
+  ),
+  (
+    "J2MO fait-il du bouyon ou du shatta ?",
+    "Les deux circuits le revendiquent : Spotify classe son catalogue en shatta, le genre dancehall martiniquais, tandis que la playlist The Sound of Bouyon le retient pour « Bèl Fèss Bèl Chatte ». Ses riddims tournent entre 157 et 160 BPM, la zone de tempo du bouyon de danse et du shatta, celle où les DJ enchaînent sans respirer. Notre page <a href=\"/bouyon-ou-shatta.html\">bouyon ou shatta</a> explique la différence.",
+  ),
+  (
+    "C’est quoi « Bèl Fèss Bèl Chatte » ?",
+    "C’est le titre qui représente J2MO dans The Sound of Bouyon, la playlist de référence du genre sur Spotify. Il est crédité à Miky Ding La, J2MO et Dj Guyguy, et dure 2 minutes 41 dans cette playlist. C’est un titre de voix partagé, typique du fonctionnement de J2MO : le producteur fournit le rythme, les voix de la scène posent dessus, et le DJ est crédité comme un co-auteur de la diffusion.",
+  ),
+  (
+    "Quel est le premier titre de J2MO ?",
+    "Le plus ancien crédit daté du catalogue est « Si kontwol », avec Daly et Zebrist, sorti le 3 février 2015 sur le label Hitmaker army, à 157 BPM selon sa fiche Shazam, avec J2MO crédité comme compositeur. Zebrist réapparaît des années plus tard dans la tracklist du WYFL Mix de J2MO, signe d’un carnet d’adresses resté le même.",
+  ),
+  (
+    "Qu’est-ce que le High Lights Riddim de J2MO ?",
+    "Le « High Lights Riddim » est publié le 27 septembre 2021 par Up Full Media Group et listé par Qobuz comme un album de J2mo. Son « Mega Mix » réunit Mad General, MIKTY et Miky Ding La sur le même rythme à 160 BPM, et le titre « Bay Volum », tiré du même riddim, crédite Nicolas Macbeth, Ludmilian Flower et Ludmael Flower à l’écriture. C’est le format riddim classique : un rythme, plusieurs voix.",
+  ),
+  (
+    "Quel nom revient dans les crédits de composition de J2MO, et pourquoi les autres profils ne le disent pas ?",
+    "Le nom Christophe Démocrite. Il apparaît comme auteur, compositeur, programmeur ou ingénieur de mastering sur presque tous les titres ouverts pour ce profil, de « Pansyon » à « MAGIC TROPICAL RIDDIM ». Aucune source ne formule en mots l’identité civile derrière J2MO, et le titre « Finès » de Waysee crédite même Christophe Démocrite et J2MO côte à côte, donc ce profil rapporte le faisceau de crédits sans inventer un état civil.",
+  ),
+  (
+    "Que veut dire The Beat Cooker ?",
+    "C’est la signature de producteur de J2MO, publiée dans les titres mêmes de ses sorties : « Mad Love Riddim (The Beat Cooker) » et « Po A Banan Riddim (The Beat Cooker) », sortis le 6 mai 2023 chez Upfull Music. Sa chaîne YouTube crédite les drums de ses mixes à J2mothebeatcooker. L’image est celle du cuisinier de rythmes : bouyon signifie d’ailleurs une soupe en créole antillais, et le beat cooker est celui qui la prépare pour les voix et les DJ.",
+  ),
+  (
+    "Qu’est-ce que la série Riddim Up de J2MO ?",
+    "Riddim Up est la série de riddims de J2MO. Elle commence avec « RIDDIM UP MIX », sorti le 28 juillet 2023 sous le label J2MO à 159 BPM, puis continue avec « Riddim Up (By J2mo) » le 5 mai 2025 et « Riddim Up Nou Kay » le 6 juin 2025. Le même printemps 2025 aligne aussi « Street Fighter Riddim » et « Future Riddim (By J2MO) », un stock de rythmes tenu à jour pour les mixes et les fêtes.",
+  ),
+  (
+    "Pour quels artistes J2MO a-t-il produit ?",
+    "Ses voix les plus fidèles sont <a href=\"/miky-ding-la.html\">Miky Ding La</a>, présent dès le Mega Mix de 2021, et Mad General, co-interprète de « Push Back » en 2023. Il a aussi travaillé avec Jayah Fly sur « Pansyon », Daly et Zebrist sur « Si kontwol » et Waysee sur « Finès », et son nom de label publie Sweety, LETID, Catch et Mafiaboy entre 2023 et 2025.",
+  ),
+  (
+    "J2MO est-il aussi un label ?",
+    "Oui, selon les catalogues ouverts pour ce profil. Qobuz montre le nom J2MO comme éditeur de « Tchimbé Sa » de Sweety en janvier 2023, de « What You Do » de LETID en janvier 2024, de quatre titres de Catch en 2024, « T-Max », « Longtime », « TOGETHER » et « Grip Me Down », et de « Sexy Gyal » de Mafiaboy en novembre 2025.",
+  ),
+  (
+    "Que sont les mixes Ok Boom et WYFL de J2MO ?",
+    "Ce sont ses mixes de sélection, publiés sur sa chaîne. Le « Ok Boom Mix », tiré de « OK BOOM MIXXX » du 11 décembre 2024, promet les titres bouyon tendances et beaucoup de remix, avec des mots clés allant de Gwada et Mada à Dominica et Lucia. Le « WYFL Mix », fait avec Kiony, enchaîne Admiral T, Mavado, Vybz Kartel, Kalash et Chronic Law : le bouyon y dialogue avec le dancehall.",
+  ),
+  (
+    "Où acheter les instrumentales de J2MO ?",
+    "Les descriptions de ses mixes Ok Boom et WYFL renvoient les demandes d’instrumentales vers une page Wavcamp au nom de J2MO, la boutique du beat cooker. C’est cohérent avec son métier : J2MO fonctionne comme une infrastructure, un fournisseur de rythmes pour les voix des autres, et son catalogue de riddims se lit comme un stock tenu à jour saison après saison.",
+  ),
+  (
+    "Où écouter J2MO ?",
+    "Commencez par « Bèl Fèss Bèl Chatte » avec Miky Ding La et Deejay Guyguy, puis le « Mega Mix High Lights Riddim » pour le format riddim, la série Riddim Up de 2025 pour ses instrumentaux récents, et ses mixes Ok Boom et WYFL sur sa chaîne. Notre <a href=\"/playlist-bouyon.html\">playlist Bouyon Road Mix</a> suit la même scène, de la Dominique à la Guadeloupe et à la Martinique.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/j2mo.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/j2mo.html#artist", "name": "J2MO", "description": "Producteur et beatmaker bouyon et shatta des Antilles françaises, actif en crédits depuis 2015, signature The Beat Cooker. Crédité sur Bèl Fèss Bèl Chatte avec Miky Ding La et Deejay Guyguy, sur le High Lights Riddim et la série Riddim Up, et éditeur sous le label J2MO de titres de Sweety, Catch, LETID et Mafiaboy. Le nom Christophe Démocrite revient dans les crédits de composition, de production ou de mastering de presque tous ses titres.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Si kontwol"}, {"@type": "MusicRecording", "name": "Mega Mix High Lights Riddim"}, {"@type": "MusicRecording", "name": "Bay Volum"}, {"@type": "MusicRecording", "name": "Gold Color (Riddim)"}, {"@type": "MusicRecording", "name": "Pansyon"}, {"@type": "MusicRecording", "name": "Tchimbé Sa"}, {"@type": "MusicRecording", "name": "Push Back"}, {"@type": "MusicRecording", "name": "Mad Love Riddim (The Beat Cooker)"}, {"@type": "MusicRecording", "name": "RIDDIM UP MIX"}, {"@type": "MusicRecording", "name": "OK BOOM MIXXX"}, {"@type": "MusicRecording", "name": "Bèl Fèss Bèl Chatte"}, {"@type": "MusicRecording", "name": "MAGIC TROPICAL RIDDIM"}, {"@type": "MusicRecording", "name": "Future Riddim (By J2MO)"},
       {
        "@type": "MusicRecording",
@@ -387,13 +437,63 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is J2MO?", "J2MO is a producer and beatmaker of the French Antilles bouyon and shatta circuit, credited since 2015. Spotify classes his catalogue as shatta, his most visible tracks are “Bèl Fèss Bèl Chatte” with Miky Ding La and Deejay Guyguy, the “Mega Mix High Lights Riddim” with Mad General and Miky Ding La, and the Riddim Up series of riddims. He also signs his productions The Beat Cooker and publishes other artists under the J2MO label name. The most recent catalogue lines opened for this profile run to November 2025, when the J2MO label name published Mafiaboy “Sexy Gyal”, two months after his own “Back To School”. No official biography is published in the sources opened for this profile."),
-  ("What is “Bèl Fèss Bèl Chatte”?", "It is the track that represents J2MO in The Sound of Bouyon, the reference playlist of the genre on Spotify. It is credited to Miky Ding La, J2MO and Dj Guyguy, and runs 2 minutes 41 in that playlist. It is a shared voice track, typical of the way J2MO works: the producer supplies the rhythm, the voices of the scene ride it, and the DJ is credited as a co-author of the spread."),
-  ("Which name returns in the composition credits of J2MO, and why do other profiles not say it?", "The name Christophe Démocrite. He appears as songwriter, composer, programmer or mastering engineer on nearly every track opened for this profile, from “Pansyon” to “MAGIC TROPICAL RIDDIM”, and as composer of Miky Ding La “Weed tou lé jou”. The descriptions of the J2MO YouTube channel list a handle under that name beside the j2moofficial handles. No source states in words the civil identity behind J2MO, and the Waysee track “Finès” even credits Christophe Démocrite and J2MO side by side, so this profile reports the credit bundle without inventing a civil record."),
-  ("What does The Beat Cooker mean?", "It is the producer signature of J2MO, published in the very titles of his releases: “Mad Love Riddim (The Beat Cooker)” and “Po A Banan Riddim (The Beat Cooker)”, released on 6 May 2023 on Upfull Music. His YouTube channel credits the drums of his mixes to J2mothebeatcooker. The image is that of the rhythm cook: bouyon itself means a soup in Antillean Creole, and the beat cooker is the one who prepares it for the voices and the DJs. His own mix descriptions send instrumental enquiries to a Wavcamp page under the J2MO name, which makes the cooker image a working shop front and not only a nickname."),
-  ("Is J2MO also a label?", "Yes, according to the catalogues opened for this profile. Qobuz shows the J2MO name as publisher of “Tchimbé Sa” by Sweety in January 2023, of “What You Do” by LETID in January 2024, of four Catch tracks in 2024, “T-Max”, “Longtime”, “TOGETHER” and “Grip Me Down”, and of “Sexy Gyal” by Mafiaboy in November 2025. His own tracks “Push Back”, “RIDDIM UP MIX” and “OK BOOM MIXXX” also carry the J2MO label on their Shazam pages."),
-  ("Where can I hear J2MO?", "Start with “Bèl Fèss Bèl Chatte” with Miky Ding La and <a href=\"/en/deejay-guyguy.html\">Deejay Guyguy</a>, then the “Mega Mix High Lights Riddim” for the riddim format, the Riddim Up series of 2025 for his recent instrumentals, and his Ok Boom and WYFL mixes on his channel for his selection of the circuit. Our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> follows the same scene, from Dominica to the French Antilles.")
- ],
+  (
+    "Who is J2MO?",
+    "J2MO is a producer and beatmaker of the French Antilles bouyon and shatta circuit, credited since 2015. His most visible tracks are “Bèl Fèss Bèl Chatte” with Miky Ding La and Deejay Guyguy, the “Mega Mix High Lights Riddim” with Mad General and Miky Ding La, and the Riddim Up series of riddims. He also signs his productions The Beat Cooker and publishes other artists under the J2MO label name.",
+  ),
+  (
+    "Where is J2MO from?",
+    "No source opened publishes J2MO origin; what is published is the geography of his audience. A Spotify statistics snapshot, dated by the source itself as nine months old, puts Paris first among listening cities, then Les Abymes in Guadeloupe, Lyon, Saint-Denis and Marseille, for 10,655 monthly listeners. That is the corridor of bouyon gwada and its diaspora, not an address.",
+  ),
+  (
+    "Is J2MO bouyon or shatta?",
+    "Both circuits claim him: Spotify classes his catalogue as shatta, the Martinican dancehall genre, while The Sound of Bouyon playlist holds him for “Bèl Fèss Bèl Chatte”. His riddims run between 157 and 160 BPM, the tempo zone of dance bouyon and shatta, where DJs chain tracks without breathing. Our <a href=\"/en/bouyon-vs-shatta.html\">bouyon vs shatta</a> page explains the difference.",
+  ),
+  (
+    "What is “Bèl Fèss Bèl Chatte”?",
+    "It is the track that represents J2MO in The Sound of Bouyon, the reference playlist of the genre on Spotify. It is credited to Miky Ding La, J2MO and Dj Guyguy, and runs 2 minutes 41 in that playlist. It is a shared voice track, typical of the way J2MO works: the producer supplies the rhythm, the voices of the scene ride it, and the DJ is credited as a co-author of the spread.",
+  ),
+  (
+    "What was J2MO first track?",
+    "The earliest dated credit in the catalogue is “Si kontwol”, featuring Daly and Zebrist, released on 3 February 2015 on the Hitmaker army label, at 157 BPM according to its Shazam page, with J2MO credited as composer. Zebrist reappears years later in the tracklist of the J2MO WYFL Mix, a sign of an address book that stayed the same.",
+  ),
+  (
+    "What is the J2MO High Lights Riddim?",
+    "The “High Lights Riddim” was published on 27 September 2021 by Up Full Media Group and is listed by Qobuz as a J2mo album. Its “Mega Mix” brings Mad General, MIKTY and Miky Ding La onto the same rhythm at 160 BPM, and the track “Bay Volum”, taken from the same riddim, credits Nicolas Macbeth, Ludmilian Flower and Ludmael Flower as writers. It is the classic riddim format: one rhythm, several voices.",
+  ),
+  (
+    "Which name returns in the composition credits of J2MO, and why do other profiles not say it?",
+    "The name Christophe Démocrite. He appears as songwriter, composer, programmer or mastering engineer on nearly every track opened for this profile, from “Pansyon” to “MAGIC TROPICAL RIDDIM”. No source states in words the civil identity behind J2MO, and the Waysee track “Finès” even credits Christophe Démocrite and J2MO side by side, so this profile reports the credit bundle without inventing a civil record.",
+  ),
+  (
+    "What does The Beat Cooker mean?",
+    "It is the producer signature of J2MO, published in the very titles of his releases: “Mad Love Riddim (The Beat Cooker)” and “Po A Banan Riddim (The Beat Cooker)”, released on 6 May 2023 on Upfull Music. His YouTube channel credits the drums of his mixes to J2mothebeatcooker. The image is that of the rhythm cook: bouyon itself means a soup in Antillean Creole, and the beat cooker is the one who prepares it for the voices and the DJs.",
+  ),
+  (
+    "What is the J2MO Riddim Up series?",
+    "Riddim Up is the J2MO riddim series. It starts with “RIDDIM UP MIX”, released on 28 July 2023 on the J2MO label at 159 BPM, then continues with “Riddim Up (By J2mo)” on 5 May 2025 and “Riddim Up Nou Kay” on 6 June 2025. The same spring of 2025 also lines up “Street Fighter Riddim” and “Future Riddim (By J2MO)”, a stock of rhythms kept up to date for mixes and parties.",
+  ),
+  (
+    "Which artists has J2MO produced for?",
+    "His most loyal voices are <a href=\"/en/miky-ding-la.html\">Miky Ding La</a>, present from the 2021 Mega Mix, and Mad General, co-performer of “Push Back” in 2023. He has also worked with Jayah Fly on “Pansyon”, Daly and Zebrist on “Si kontwol” and Waysee on “Finès”, and his label name publishes Sweety, LETID, Catch and Mafiaboy between 2023 and 2025.",
+  ),
+  (
+    "Is J2MO also a label?",
+    "Yes, according to the catalogues opened for this profile. Qobuz shows the J2MO name as publisher of “Tchimbé Sa” by Sweety in January 2023, of “What You Do” by LETID in January 2024, of four Catch tracks in 2024, “T-Max”, “Longtime”, “TOGETHER” and “Grip Me Down”, and of “Sexy Gyal” by Mafiaboy in November 2025.",
+  ),
+  (
+    "What are the J2MO Ok Boom and WYFL mixes?",
+    "They are his selection mixes, published on his channel. The “Ok Boom Mix”, drawn from “OK BOOM MIXXX” of 11 December 2024, promises the trending bouyon titles and many remixes, with keywords running from Gwada and Mada to Dominica and Lucia. The “WYFL Mix”, made with Kiony, chains Admiral T, Mavado, Vybz Kartel, Kalash and Chronic Law: bouyon converses there with dancehall.",
+  ),
+  (
+    "Where can I buy J2MO instrumentals?",
+    "The descriptions of his Ok Boom and WYFL mixes send instrumental enquiries to a Wavcamp page under the J2MO name, the shop of the beat cooker. That fits his trade: J2MO works as an infrastructure, a supplier of rhythms for the voices of others, and his riddim catalogue reads as a stock kept up to date season after season.",
+  ),
+  (
+    "Where can I hear J2MO?",
+    "Start with “Bèl Fèss Bèl Chatte” with Miky Ding La and Deejay Guyguy, then the “Mega Mix High Lights Riddim” for the riddim format, the Riddim Up series of 2025 for his recent instrumentals, and his Ok Boom and WYFL mixes on his channel. Our <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix playlist</a> follows the same scene, from Dominica to Guadeloupe and Martinique.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/j2mo.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/j2mo.html#artist", "name": "J2MO", "description": "Bouyon and shatta producer and beatmaker of the French Antilles, credited since 2015, signature The Beat Cooker. Credited on Bèl Fèss Bèl Chatte with Miky Ding La and Deejay Guyguy, on the High Lights Riddim and the Riddim Up series, and publisher under the J2MO label of tracks by Sweety, Catch, LETID and Mafiaboy. The name Christophe Démocrite returns in the composition, production or mastering credits of nearly all his tracks.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Si kontwol"}, {"@type": "MusicRecording", "name": "Mega Mix High Lights Riddim"}, {"@type": "MusicRecording", "name": "Bay Volum"}, {"@type": "MusicRecording", "name": "Gold Color (Riddim)"}, {"@type": "MusicRecording", "name": "Pansyon"}, {"@type": "MusicRecording", "name": "Tchimbé Sa"}, {"@type": "MusicRecording", "name": "Push Back"}, {"@type": "MusicRecording", "name": "Mad Love Riddim (The Beat Cooker)"}, {"@type": "MusicRecording", "name": "RIDDIM UP MIX"}, {"@type": "MusicRecording", "name": "OK BOOM MIXXX"}, {"@type": "MusicRecording", "name": "Bèl Fèss Bèl Chatte"}, {"@type": "MusicRecording", "name": "MAGIC TROPICAL RIDDIM"}, {"@type": "MusicRecording", "name": "Future Riddim (By J2MO)"},
       {
        "@type": "MusicRecording",

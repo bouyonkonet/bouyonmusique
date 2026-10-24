@@ -90,13 +90,51 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Le Dext ?", "Le Dext est un artiste bouyon des Antilles françaises dont trois titres sont vérifiés : « Open That », sorti le 30 août 2024, « Stick It », audio officiel millésimé Bouyon 2K25, et « FAT CAT », single cosigné avec Team Bwè Tou Sa et listé en 2026. Aucune biographie publiée n’a été retrouvée pendant la recherche de ce profil, en octobre 2026."),
-  ("Quels sont les titres vérifiés de Le Dext ?", "Trois : « Open That » (single, 30 août 2024, 5417166 Records DK), « Stick It » (avec Mkinderbeatz et brk.beats, produit par Tidji, Blockstudio) et « FAT CAT » (avec Team Bwè Tou Sa, listé en 2026). Ce sont les seuls titres que les documents ouverts pour ce profil attribuent à Le Dext sans risque d’homonymie."),
-  ("Qui a écrit « Open That » de Le Dext ?", "Les crédits publiés du titre, repris par Shazam, nomment deux auteurs : Malik Ismael Paul et Emmanuel Toussaint, tous deux crédités comme songwriters. Aucune source ouverte ne dit lequel de ces noms, ou aucun des deux, correspond à l’identité de Le Dext, et ce profil ne le devine pas."),
-  ("Le Dext et Le Det sont ils le même artiste ?", "Non, rien ne le dit, et leurs fiches diffèrent sur tout : Le Det, sans x, a sorti « Bouwé’y » le 4 juillet 2023 chez ILB PRODUCTION, à 157 BPM, avec un crédit d’auteur à son seul nom. Le Dext a sorti « Open That » le 30 août 2024 chez 5417166 Records DK, à 160 BPM, avec deux autres auteurs. Les plateformes mélangent les deux noms dans leurs suggestions, et ce profil les départage fiche par fiche."),
-  ("D’où vient Le Dext ?", "Son origine n’est pas publiée dans les sources ouvertes. Sa propre vidéo tague son univers avec les indicatifs 971 (Guadeloupe), 767 (Dominique), 972 (Martinique) et 973 (Guyane), et son single est en français : ce profil le rattache au circuit du bouyon des Antilles françaises sur cette base, sans lui attribuer une île de naissance ou de résidence qu’aucune source ne publie."),
-  ("Où écouter Le Dext et le bouyon de sa scène ?", "Écoutez « Open That », « Stick It » et « FAT CAT », puis lisez notre page <a href=\"/bouyon-gwada.html\">bouyon gwada</a> pour la scène guadeloupéenne de ses collaborations, et notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, qui suit le bouyon actuel de la Dominique et des Antilles françaises.")
- ],
+  (
+    "Qui est Le Dext ?",
+    "Le Dext est un artiste bouyon des Antilles françaises dont trois titres sont vérifiés : « Open That », sorti le 30 août 2024, « Stick It », audio officiel millésimé Bouyon 2K25, et « FAT CAT », single cosigné avec Team Bwè Tou Sa et listé en 2026. Aucune biographie publiée n’a été retrouvée pendant la recherche de ce profil, en octobre 2026.",
+  ),
+  (
+    "Quels sont les titres vérifiés de Le Dext ?",
+    "Trois : « Open That » (single, 30 août 2024, 5417166 Records DK), « Stick It » (avec Mkinderbeatz et brk.beats, produit par Tidji, Blockstudio) et « FAT CAT » (avec Team Bwè Tou Sa, listé en 2026). Ce sont les seuls titres que les documents ouverts pour ce profil attribuent à Le Dext sans risque d’homonymie.",
+  ),
+  (
+    "Qui a écrit « Open That » de Le Dext ?",
+    "Les crédits publiés du titre, repris par Shazam, nomment deux auteurs : Malik Ismael Paul et Emmanuel Toussaint, tous deux crédités comme songwriters. Aucune source ouverte ne dit lequel de ces noms, ou aucun des deux, correspond à l’identité de Le Dext, et ce profil ne le devine pas.",
+  ),
+  (
+    "Le Dext et Le Det sont-ils le même artiste ?",
+    "Non, rien ne le dit, et leurs fiches diffèrent sur tout : Le Det, sans x, a sorti « Bouwé’y » le 4 juillet 2023 chez ILB PRODUCTION, à 157 BPM, avec un crédit d’auteur à son seul nom. Le Dext a sorti « Open That » le 30 août 2024 chez 5417166 Records DK, à 160 BPM, avec deux autres auteurs. Les plateformes mélangent les deux noms dans leurs suggestions.",
+  ),
+  (
+    "D’où vient Le Dext ?",
+    "Son origine n’est pas publiée dans les sources ouvertes. Sa propre vidéo tague son univers avec les indicatifs 971 (Guadeloupe), 767 (Dominique), 972 (Martinique) et 973 (Guyane), et son single est en français : ce profil le rattache au circuit du bouyon des Antilles françaises sur cette base, sans lui attribuer une île de naissance ou de résidence qu’aucune source ne publie.",
+  ),
+  (
+    "Où écouter Le Dext et le bouyon de sa scène ?",
+    "Écoutez ses trois titres dans l’ordre du dossier : « Open That », « Stick It », puis « FAT CAT » avec Team Bwè Tou Sa. Pour le bouyon actuel de la Dominique et des Antilles françaises, écoutez ensuite le Road Mix de Bouyon Shattaz sur notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, qui mêle nouveautés, riddims du moment et classiques du carnaval.",
+  ),
+  (
+    "Qui a produit « Stick It » de Le Dext ?",
+    "Tidji, du Blockstudio, selon la description de l’audio officiel publié sur YouTube. Les beatmakers Mkinderbeatz et brk.beats sont crédités en collaboration, et le titre de la vidéo porte le millésime Bouyon 2K25. La vidéo ne publie ni date de sortie sur les plateformes, ni label, ni crédits d’écriture, et ce profil n’en ajoute pas.",
+  ),
+  (
+    "Qui est Mkinder Beatz, le beatmaker de Le Dext ?",
+    "Mkinder Beatz, aussi écrit Mkinderbeatz, est le beatmaker associé aux deux premiers titres de Le Dext. Shazam relie « Open That » à l’audio officiel « Le Dext X Mkinder Beatz - Open That (Audio Official) Bouyon 2K25 », et la vidéo de « Stick It » le crédite avec brk.beats, sous la production de Tidji. Son nom est le fil qui relie les deux sorties.",
+  ),
+  (
+    "« Open That » de Le Dext est-il sorti en 2024 ou en 2025 ?",
+    "En 2024 : selon Shazam, « Open That » est sorti le 30 août 2024, en français, à 160 BPM. Le tag Bouyon 2K25 accolé à son audio officiel se lit comme le millésime de la saison de promotion, pas comme la date de sortie. Ce profil rapporte les deux dates telles que les sources les donnent, sans les fusionner.",
+  ),
+  (
+    "Le Dext est-il membre de la Team Bwè Tou Sa ?",
+    "Aucune source ne le présente comme membre : il est le collaborateur de la Team Bwè Tou Sa sur le single « FAT CAT », cosigné par Le Dext et le collectif et daté de 2026. La page artiste du collectif sur Shazam liste ce titre parmi ses sorties et ses chansons les plus écoutées, à côté de « KILOT ». Le cosignage le place dans ce cercle de travail, le temps d’un titre.",
+  ),
+  (
+    "Le Dext a-t-il un label ?",
+    "Aucune maison de disques n’est documentée. « Open That » est sorti sur 5417166 Records DK, un identifiant numéroté suivi des lettres DK qui marque les sorties autoproduites via les plateformes de distribution numérique ouvertes aux artistes indépendants. C’est le mode de sortie ordinaire de la nouvelle génération bouyon des Antilles : un beatmaker, un studio, un distributeur numérique.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/le-dext.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/le-dext.html#artist", "name": "Le Dext", "description": "Artiste bouyon des Antilles françaises. Titres vérifiés : Open That (single, 30 août 2024, 5417166 Records DK), Stick It (produit par Tidji, Blockstudio) et FAT CAT avec Team Bwè Tou Sa (2026). Aucune biographie ni origine publiée retrouvée en octobre 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Open That"}, {"@type": "MusicRecording", "name": "Stick It"}, {"@type": "MusicRecording", "name": "FAT CAT"},
       {
        "@type": "MusicRecording",
@@ -375,13 +413,51 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Le Dext?", "Le Dext is a bouyon artist of the French Antilles whose three records are verified: “Open That”, released on 30 August 2024, “Stick It”, an official audio vintaged Bouyon 2K25, and “FAT CAT”, a single co billed with Team Bwè Tou Sa and listed in 2026. No published biography was found during the research for this profile, in October 2026."),
-  ("What are the verified records of Le Dext?", "Three: “Open That” (single, 30 August 2024, 5417166 Records DK), “Stick It” (with Mkinderbeatz and brk.beats, produced by Tidji, Blockstudio) and “FAT CAT” (with Team Bwè Tou Sa, listed in 2026). They are the only records the documents opened for this profile assign to Le Dext without a namesake risk."),
-  ("Who wrote “Open That” by Le Dext?", "The published credits of the record, carried by Shazam, name two writers: Malik Ismael Paul and Emmanuel Toussaint, both credited as songwriters. No open source says which of those names, or neither, corresponds to the identity of Le Dext, and this profile does not guess it."),
-  ("Are Le Dext and Le Det the same artist?", "No source says so, and their pages differ on everything: Le Det, without an x, released “Bouwé’y” on 4 July 2023 on ILB PRODUCTION, at 157 BPM, with a writer credit under his name alone. Le Dext released “Open That” on 30 August 2024 on 5417166 Records DK, at 160 BPM, with two other writers. The platforms mix the two names in their suggestions, and this profile separates them page by page."),
-  ("Where is Le Dext from?", "His origin is not published in the open sources. His own video tags his world with the codes 971 (Guadeloupe), 767 (Dominica), 972 (Martinique) and 973 (French Guiana), and his single is in French: this profile attaches him to the bouyon circuit of the French Antilles on that basis, without assigning him an island of birth or residence that no source publishes."),
-  ("Where can I hear Le Dext and the bouyon of his scene?", "Hear “Open That”, “Stick It” and “FAT CAT”, then read our <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a> page for the Guadeloupean scene of his collaborations, and our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, which follows the current bouyon of Dominica and the French Antilles.")
- ],
+  (
+    "Who is Le Dext?",
+    "Le Dext is a bouyon artist of the French Antilles whose three records are verified: “Open That”, released on 30 August 2024, “Stick It”, an official audio vintaged Bouyon 2K25, and “FAT CAT”, a single co billed with Team Bwè Tou Sa and listed in 2026. No published biography was found during the research for this profile, in October 2026.",
+  ),
+  (
+    "What are the verified records of Le Dext?",
+    "Three: “Open That” (single, 30 August 2024, 5417166 Records DK), “Stick It” (with Mkinderbeatz and brk.beats, produced by Tidji, Blockstudio) and “FAT CAT” (with Team Bwè Tou Sa, listed in 2026). They are the only records the documents opened for this profile assign to Le Dext without a namesake risk.",
+  ),
+  (
+    "Who wrote “Open That” by Le Dext?",
+    "The published credits of the record, carried by Shazam, name two writers: Malik Ismael Paul and Emmanuel Toussaint, both credited as songwriters. No open source says which of those names, or neither, corresponds to the identity of Le Dext, and this profile does not guess it.",
+  ),
+  (
+    "Are Le Dext and Le Det the same artist?",
+    "No source says so, and their pages differ on everything: Le Det, without an x, released “Bouwé’y” on 4 July 2023 on ILB PRODUCTION, at 157 BPM, with a writer credit under his name alone. Le Dext released “Open That” on 30 August 2024 on 5417166 Records DK, at 160 BPM, with two other writers. The platforms mix the two names in their suggestions.",
+  ),
+  (
+    "Where is Le Dext from?",
+    "His origin is not published in the open sources. His own video tags his world with the codes 971 (Guadeloupe), 767 (Dominica), 972 (Martinique) and 973 (French Guiana), and his single is in French: this profile attaches him to the bouyon circuit of the French Antilles on that basis, without assigning him an island of birth or residence that no source publishes.",
+  ),
+  (
+    "Where can I hear Le Dext and the bouyon of his scene?",
+    "Hear his three records in the order of the file: “Open That”, “Stick It”, then “FAT CAT” with Team Bwè Tou Sa. For the current bouyon of Dominica and the French Antilles, then play the Bouyon Shattaz Road Mix on our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> page, which mixes new releases, the riddims of the moment and carnival classics.",
+  ),
+  (
+    "Who produced “Stick It” by Le Dext?",
+    "Tidji, of Blockstudio, according to the description of the official audio published on YouTube. The beatmakers Mkinderbeatz and brk.beats are credited as collaborators, and the video title carries the vintage Bouyon 2K25. The video publishes neither a platform release date, nor a label, nor writing credits, and this profile adds none.",
+  ),
+  (
+    "Who is Mkinder Beatz, the Le Dext beatmaker?",
+    "Mkinder Beatz, also written Mkinderbeatz, is the beatmaker tied to the first two Le Dext records. Shazam links “Open That” to the official audio “Le Dext X Mkinder Beatz - Open That (Audio Official) Bouyon 2K25”, and the “Stick It” video credits him with brk.beats, under production by Tidji. His name is the thread between the two releases.",
+  ),
+  (
+    "Was “Open That” by Le Dext released in 2024 or 2025?",
+    "In 2024: according to Shazam, “Open That” was released on 30 August 2024, in French, at 160 BPM. The Bouyon 2K25 tag attached to its official audio reads as the vintage of the promotion season, not as the release date. This profile reports both dates exactly as the sources give them, without merging them into one.",
+  ),
+  (
+    "Is Le Dext a member of Team Bwè Tou Sa?",
+    "No source presents him as a member: he is the collaborator of Team Bwè Tou Sa on the single “FAT CAT”, billed to Le Dext and the collective and dated 2026. The collective artist page on Shazam lists the record among its releases and most streamed songs, next to “KILOT”. That co billing places him inside its working circle, for the length of one record.",
+  ),
+  (
+    "Does Le Dext have a record label?",
+    "No record company is documented. “Open That” was released on 5417166 Records DK, a numbered identifier followed by the letters DK that marks self releases through the digital distribution platforms open to independent artists. That is the ordinary release mode of the new bouyon generation of the Antilles: a beatmaker, a studio, a digital distributor.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/le-dext.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/le-dext.html#artist", "name": "Le Dext", "description": "Bouyon artist of the French Antilles. Verified records: Open That (single, 30 August 2024, 5417166 Records DK), Stick It (produced by Tidji, Blockstudio) and FAT CAT with Team Bwe Tou Sa (2026). No biography or published origin found in October 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Open That"}, {"@type": "MusicRecording", "name": "Stick It"}, {"@type": "MusicRecording", "name": "FAT CAT"},
       {
        "@type": "MusicRecording",

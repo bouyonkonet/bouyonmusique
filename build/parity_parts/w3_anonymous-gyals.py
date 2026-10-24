@@ -87,13 +87,51 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Anonymous Gyals ?", "Anonymous Gyals, écrite Anonymous Gyal’s sur les plateformes, est une artiste bouyon émergente documentée par deux titres, « PA FÈ CHICHI », classé par Spotify dans The Sound of Bouyon, et « Cho caché », et par une soirée à son nom en Guadeloupe. Aucun nom civil ni aucune biographie ne sont publiés dans les sources vérifiées."),
-  ("Quels sont les titres vérifiés d’Anonymous Gyals ?", "Deux titres sont vérifiés : « PA FÈ CHICHI », 3 minutes, présent dans la sélection The Sound of Bouyon de Spotify aux côtés d’Edday, d’Asa Bantan et de Reo, et « Cho caché », 2 minutes 42, présent dans la liste des sorties Beatport de 2026 reprise en ligne. Aucun autre titre n’est attribué à l’artiste sur ce site."),
-  ("Anonymous Gyals joue-t-elle en concert à sa soirée Baddies Bash en Guadeloupe ?", "La page de la soirée Baddies Bash, organisée par Effervescence en Guadeloupe le vendredi 30 octobre 2026 de 23 heures à 6 heures pour l’anniversaire d’Anonymous Gyal’s, ne l’annonce pas comme interprète : la programmation publiée nomme les DJ Dj Mano, Dj Tira et Jicypie. Elle y est l’invitée d’honneur, pas une artiste programmée, selon la page consultée."),
-  ("Pourquoi deux orthographes, Anonymous Gyals et Anonymous Gyal’s ?", "Les listes d’artistes bouyon écrivent Anonymous Gyals, au pluriel, tandis que les plateformes écrivent Anonymous Gyal’s, avec l’apostrophe possessive anglaise. Aucune source ne dit laquelle l’artiste préfère, ni si le projet est un collectif ou une artiste solo et son équipe. Ce site rapporte les deux formes sans en inventer une troisième."),
-  ("Anonymous Gyals est-elle de Guadeloupe ?", "Ce n’est pas établi comme une origine. Le fait géographique vérifié est une soirée à son nom en Guadeloupe, organisée par Effervescence, et des titres en créole des Antilles françaises classés dans le bouyon. Aucune source consultée ne donne sa commune ou son île de naissance, donc ce profil ne lui attribue pas d’origine précise."),
-  ("Connaît-on le vrai nom d’Anonymous Gyals ?", "Non. Aucun nom civil, aucun membre nommé et aucun compte social officiel vérifié n’ont été retrouvés dans les sources consultées pour ce profil. L’anonymat fait partie du nom de scène lui-même, et ce site le respecte en ne publiant que les traces publiques vérifiées : deux titres bouyon et une soirée en Guadeloupe.")
- ],
+  (
+    "Qui est Anonymous Gyals ?",
+    "Anonymous Gyals, écrite Anonymous Gyal’s sur les plateformes, est une artiste bouyon émergente documentée par deux titres, « PA FÈ CHICHI », classé par Spotify dans The Sound of Bouyon, et « Cho caché », et par une soirée à son nom en Guadeloupe. Aucun nom civil ni aucune biographie ne sont publiés dans les sources vérifiées.",
+  ),
+  (
+    "Quels sont les titres vérifiés d’Anonymous Gyals ?",
+    "Deux titres sont vérifiés : « PA FÈ CHICHI », 3 minutes, présent dans la sélection The Sound of Bouyon de Spotify aux côtés d’Edday, d’Asa Bantan et de Reo, et « Cho caché », 2 minutes 42, présent dans la liste des sorties Beatport de 2026 reprise en ligne. Aucun autre titre n’est attribué à l’artiste sur ce site.",
+  ),
+  (
+    "Anonymous Gyals joue-t-elle en concert à sa soirée Baddies Bash en Guadeloupe ?",
+    "La page de la soirée Baddies Bash, organisée par Effervescence en Guadeloupe le vendredi 30 octobre 2026 de 23 heures à 6 heures pour l’anniversaire d’Anonymous Gyal’s, ne l’annonce pas comme interprète : la programmation publiée nomme les DJ Dj Mano, Dj Tira et Jicypie. Elle y est l’invitée d’honneur, pas une artiste programmée, selon la page consultée.",
+  ),
+  (
+    "Pourquoi deux orthographes, Anonymous Gyals et Anonymous Gyal’s ?",
+    "Les listes d’artistes bouyon écrivent Anonymous Gyals, au pluriel, tandis que les plateformes écrivent Anonymous Gyal’s, avec l’apostrophe possessive anglaise. Aucune source ne dit laquelle l’artiste préfère, ni si le projet est un collectif ou une artiste solo et son équipe. Ce site rapporte les deux formes sans en inventer une troisième.",
+  ),
+  (
+    "Anonymous Gyals est-elle de Guadeloupe ?",
+    "Ce n’est pas établi comme une origine. Le fait géographique vérifié est une soirée à son nom en Guadeloupe, organisée par Effervescence, et des titres en créole des Antilles françaises classés dans le bouyon. Aucune source consultée ne donne sa commune ou son île de naissance, donc ce profil ne lui attribue pas d’origine précise.",
+  ),
+  (
+    "Connaît-on le vrai nom d’Anonymous Gyals ?",
+    "Non. Aucun nom civil, aucun membre nommé et aucun compte social officiel vérifié n’ont été retrouvés dans les sources consultées pour ce profil. L’anonymat fait partie du nom de scène lui-même, et ce site le respecte en ne publiant que les traces publiques vérifiées : deux titres bouyon et une soirée en Guadeloupe.",
+  ),
+  (
+    "Où écouter Anonymous Gyals ?",
+    "Son titre « PA FÈ CHICHI » se trouve dans The Sound of Bouyon, la sélection du genre publiée par Spotify, sous la graphie Anonymous Gyal’s. Pour situer l’artiste dans sa scène, notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, la Road Mix de Bouyon Shattaz, suit les nouveautés de la Dominique et des Antilles françaises, et on la reçoit en DM en commentant ROAD MIX sur Instagram, chez @bouyonshattaz.",
+  ),
+  (
+    "Que veut dire « PA FÈ CHICHI » ?",
+    "C’est un titre en créole des Antilles françaises, écrit en capitales dans le style des titres de soirée : une injonction directe à ne pas faire de chichi, qui se comprend d’un coup d’oeil dans une liste de lecture. Ce site ne cite pas de paroles qu’il n’a pas vérifiées : la fiche consultée donne le titre, l’artiste, Anonymous Gyal’s, et la durée, 3 minutes.",
+  ),
+  (
+    "Anonymous Gyals fait-elle du bouyon ou du shatta ?",
+    "Son rattachement documenté est au bouyon : Spotify classe « PA FÈ CHICHI » dans The Sound of Bouyon, à côté d’Asa Bantan, de Reo et de Triple Kay International. Sa soirée d’anniversaire en Guadeloupe annonce en revanche une ambiance « shatta trap zouk dancehall », signe que ces styles partagent les mêmes nuits dans les Antilles françaises. Voir <a href=\"/bouyon-ou-shatta.html\">bouyon ou shatta</a>.",
+  ),
+  (
+    "Combien coûte la soirée Baddies Bash d’Anonymous Gyals ?",
+    "Selon la billetterie Sparta, la Baddies Bash, organisée par Effervescence en Guadeloupe pour l’anniversaire d’Anonymous Gyal’s, propose un pass simple à 15 euros et un pass duo femme à 20 euros. La soirée a lieu le vendredi 30 octobre 2026, de 23 heures à 6 heures, avec Dj Mano, Dj Tira et Jicypie aux platines. La page consultée ne nomme ni la commune ni le club.",
+  ),
+  (
+    "Quels artistes entourent Anonymous Gyals dans The Sound of Bouyon ?",
+    "Dans la copie consultée de la sélection Spotify, « PA FÈ CHICHI » côtoie « Toto » d’Edday, des titres de Team Bwè Tou Sa et de LESTEF KJF BOYZ, « Fès ka pété » de LGC et LeJuh, « Dou dou » de Reo et Litleboy, « Show Me » de Litle Boy et Triple Kay International, et « Shake Your Pampalam » d’<a href=\"/asa-bantan.html\">Asa Bantan</a>.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/anonymous-gyals.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/anonymous-gyals.html#artist", "name": "Anonymous Gyals", "description": "Artiste bouyon émergente, écrite Anonymous Gyal’s sur les plateformes. Titres vérifiés : PA FÈ CHICHI, classé dans The Sound of Bouyon de Spotify, et Cho caché. Une soirée Baddies Bash porte son nom en Guadeloupe en octobre 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "PA FÈ CHICHI"}, {"@type": "MusicRecording", "name": "Cho caché"},
       {
        "@type": "MusicRecording",
@@ -182,13 +220,51 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Anonymous Gyals?", "Anonymous Gyals, written Anonymous Gyal’s on the platforms, is an emerging bouyon artist documented by two records, “PA FÈ CHICHI”, ranked by Spotify in The Sound of Bouyon, and “Cho caché”, and by a night in her name in Guadeloupe. No legal name and no biography are published in the verified sources."),
-  ("What are the verified records of Anonymous Gyals?", "Two records are verified: “PA FÈ CHICHI”, 3 minutes, present in the Spotify selection The Sound of Bouyon alongside Edday, Asa Bantan and Reo, and “Cho caché”, 2 minutes 42, present in the Beatport releases listing of 2026 carried online. No other record is credited to the artist on this site."),
-  ("Is Anonymous Gyals performing at her own Baddies Bash night in Guadeloupe?", "The page of the Baddies Bash night, organised by Effervescence in Guadeloupe on Friday October 30, 2026 from 11 pm to 6 am for the birthday of Anonymous Gyal’s, does not announce her as a performer: the published line-up names the DJs Dj Mano, Dj Tira and Jicypie. She is the guest of honour there, not a booked performer, according to the page consulted."),
-  ("Why two spellings, Anonymous Gyals and Anonymous Gyal’s?", "Bouyon artist lists write Anonymous Gyals, in the plural, while the platforms write Anonymous Gyal’s, with the English possessive apostrophe. No source says which one the artist prefers, or whether the project is a collective or a solo artist and her team. This site reports both forms without inventing a third one."),
-  ("Is Anonymous Gyals from Guadeloupe?", "That is not established as an origin. The verified geographic fact is a night in her name in Guadeloupe, organised by Effervescence, and Creole records from the French Antilles ranked in bouyon. No source consulted gives her town or island of birth, so this profile credits her with no precise origin."),
-  ("Do we know the real name of Anonymous Gyals?", "No. No legal name, no named member and no verified official social account were found in the sources consulted for this profile. Anonymity is part of the stage name itself, and this site respects it by publishing only the verified public traces: two bouyon records and one night in Guadeloupe.")
- ],
+  (
+    "Who is Anonymous Gyals?",
+    "Anonymous Gyals, written Anonymous Gyal’s on the platforms, is an emerging bouyon artist documented by two records, “PA FÈ CHICHI”, ranked by Spotify in The Sound of Bouyon, and “Cho caché”, and by a night in her name in Guadeloupe. No legal name and no biography are published in the verified sources.",
+  ),
+  (
+    "What are the verified records of Anonymous Gyals?",
+    "Two records are verified: “PA FÈ CHICHI”, 3 minutes, present in the Spotify selection The Sound of Bouyon alongside Edday, Asa Bantan and Reo, and “Cho caché”, 2 minutes 42, present in the Beatport releases listing of 2026 carried online. No other record is credited to the artist on this site.",
+  ),
+  (
+    "Is Anonymous Gyals performing at her own Baddies Bash night in Guadeloupe?",
+    "The page of the Baddies Bash night, organised by Effervescence in Guadeloupe on Friday October 30, 2026 from 11 pm to 6 am for the birthday of Anonymous Gyal’s, does not announce her as a performer: the published line-up names the DJs Dj Mano, Dj Tira and Jicypie. She is the guest of honour there, not a booked performer, according to the page consulted.",
+  ),
+  (
+    "Why two spellings, Anonymous Gyals and Anonymous Gyal’s?",
+    "Bouyon artist lists write Anonymous Gyals, in the plural, while the platforms write Anonymous Gyal’s, with the English possessive apostrophe. No source says which one the artist prefers, or whether the project is a collective or a solo artist and her team. This site reports both forms without inventing a third one.",
+  ),
+  (
+    "Is Anonymous Gyals from Guadeloupe?",
+    "That is not established as an origin. The verified geographic fact is a night in her name in Guadeloupe, organised by Effervescence, and Creole records from the French Antilles ranked in bouyon. No source consulted gives her town or island of birth, so this profile credits her with no precise origin.",
+  ),
+  (
+    "Do we know the real name of Anonymous Gyals?",
+    "No. No legal name, no named member and no verified official social account were found in the sources consulted for this profile. Anonymity is part of the stage name itself, and this site respects it by publishing only the verified public traces: two bouyon records and one night in Guadeloupe.",
+  ),
+  (
+    "Where can I listen to Anonymous Gyals?",
+    "Her track “PA FÈ CHICHI” is in The Sound of Bouyon, the genre selection published by Spotify, under the spelling Anonymous Gyal’s. To place the artist in her scene, our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, the Bouyon Shattaz Road Mix, follows new releases from Dominica and the French Antilles, and you receive it by DM by commenting ROAD MIX on Instagram, at @bouyonshattaz.",
+  ),
+  (
+    "What does “PA FÈ CHICHI” mean?",
+    "It is a title in the Creole of the French Antilles, written in capitals in the style of party tracks: a direct order not to make a fuss, readable at a glance in a playlist. This site quotes no lyrics it has not verified: the listing consulted gives the title, the artist, Anonymous Gyal’s, and the length, 3 minutes.",
+  ),
+  (
+    "Does Anonymous Gyals make bouyon or shatta?",
+    "Her documented tie is to bouyon: Spotify ranks “PA FÈ CHICHI” in The Sound of Bouyon, next to Asa Bantan, Reo and Triple Kay International. Her birthday night in Guadeloupe, on the other hand, announces a “shatta trap zouk dancehall” mood, a sign that these styles share the same nights in the French Antilles. See <a href=\"/en/bouyon-vs-shatta.html\">bouyon vs shatta</a>.",
+  ),
+  (
+    "How much is the Anonymous Gyals Baddies Bash night?",
+    "According to the Sparta ticketing page, the Baddies Bash, organised by Effervescence in Guadeloupe for the birthday of Anonymous Gyal’s, offers a single pass at 15 euros and a women’s duo pass at 20 euros. The night runs on Friday 30 October 2026, from 11 pm to 6 am, with Dj Mano, Dj Tira and Jicypie on the decks. The page consulted names neither the town nor the club.",
+  ),
+  (
+    "Which artists surround Anonymous Gyals in The Sound of Bouyon?",
+    "In the copy of the Spotify selection consulted, “PA FÈ CHICHI” sits next to “Toto” by Edday, tracks by Team Bwè Tou Sa and LESTEF KJF BOYZ, “Fès ka pété” by LGC and LeJuh, “Dou dou” by Reo and Litleboy, “Show Me” by Litle Boy and Triple Kay International, and “Shake Your Pampalam” by <a href=\"/en/asa-bantan.html\">Asa Bantan</a>.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/anonymous-gyals.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/anonymous-gyals.html#artist", "name": "Anonymous Gyals", "description": "Emerging bouyon artist, written Anonymous Gyal’s on the platforms. Verified records: PA FÈ CHICHI, ranked in Spotify The Sound of Bouyon, and Cho caché. A Baddies Bash night carries her name in Guadeloupe in October 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "PA FÈ CHICHI"}, {"@type": "MusicRecording", "name": "Cho caché"},
       {
        "@type": "MusicRecording",

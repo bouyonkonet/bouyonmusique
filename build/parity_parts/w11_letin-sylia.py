@@ -63,13 +63,51 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Letin Sylia ?", "Letin Sylia est une autrice et compositrice créditée dans le bouyon guadeloupéen. Son dossier public vérifié tient en quatre titres, toujours coécrits avec Letin Severine et toujours interprétés par d'autres : « Vole Nonm a Moun » en 2013 et « Sa ki bon (Bouyon King) » en 2021 pour Yellow Gaza, « PLAN A 3 » en 2024 pour Yellow Gaza et Yumei, et « LEVRETTE » en 2025 pour Yellow Gaza Girls. Aucune biographie publiée n'a été retrouvée pendant la recherche de ce profil."),
-  ("Pourquoi est-elle créditée Letin Sylia puis LETIN SYLVIA ?", "Parce que les fiches des plateformes changent de forme selon les titres. Les deux premiers titres vérifiés, « Vole Nonm a Moun » en 2013 et « Sa ki bon (Bouyon King) » en 2021, écrivent Letin Sylia. Les deux suivants, « PLAN A 3 » en 2024 et « LEVRETTE » en 2025, écrivent LETIN SYLVIA, en capitales. La voisine de crédit, Letin Severine, l'enseigne Vadore Concept et l'univers Yellow Gaza restent les mêmes, ce qui rattache les deux formes au même dossier. Aucune source consultée n'explique le changement de graphie."),
-  ("Quels sont les titres écrits par Letin Sylia ?", "Quatre titres vérifiés : « Vole Nonm a Moun » de Yellow Gaza, sorti le 5 mars 2013, à 157 BPM ; « Sa ki bon (Bouyon King) » de Yellow Gaza, sorti le 14 décembre 2021 chez Vadore Concept, à 157 BPM ; « PLAN A 3 (feat. Yu Meï) [Femmes Fatales Edition Bouyon] » de Yellow Gaza et Yumei, sorti le 7 septembre 2024 chez Vadore Concept Groupe, à 157 BPM ; et « LEVRETTE » de Yellow Gaza Girls, sorti le 16 octobre 2025 chez Vadore Concept Groupe, à 160 BPM."),
-  ("Letin Sylia est-elle la chanteuse qui se produit sous le nom de Sylia ?", "Aucune source consultée ne l'établit. Une chanteuse se produisant comme Sylia, avec des pages Sylia Mizik, a publié un clip officiel, « Rejoins-moi », tourné en Guadeloupe. Letin Sylia, elle, n'apparaît que dans des crédits d'écriture bouyon de l'univers Yellow Gaza, jamais comme interprète. Ce profil ne transfère donc ni les titres ni le parcours de la chanteuse au crédit Letin Sylia, et garde les deux dossiers séparés."),
-  ("Letin Sylia et Letin Severine sont-elles de la même famille ?", "Aucune source consultée ne le dit. Les deux noms sont crédités ensemble sur les quatre titres vérifiés de ce dossier, entre 2013 et 2025, sous les formes Letin Sylia puis LETIN SYLVIA pour la première, et aucun crédit séparé de l'une sans l'autre n'a été retrouvé. Elles forment un binôme d'écriture documenté par les catalogues, mais ce site ne publie aucun lien de parenté, de duo officiel ou de société commune sans source, et aucune source consultée n'en établit."),
-  ("Où écouter les titres écrits par Letin Sylia ?", "Commencez par « Vole Nonm a Moun », le titre de 2013 encore présent dans la sélection d'un mix bouyon de BBC Radio 1Xtra, puis « Sa ki bon (Bouyon King) », « PLAN A 3 » et « LEVRETTE ». Lisez ensuite nos pages <a href=\"/bouyon-gwada.html\">bouyon gwada</a> et <a href=\"/bouyon-guadeloupe.html\">bouyon en Guadeloupe</a>, et écoutez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>.")
- ],
+  (
+    "Qui est Letin Sylia ?",
+    "Letin Sylia est une autrice et compositrice créditée dans le bouyon guadeloupéen. Son dossier public vérifié tient en quatre titres, toujours coécrits avec Letin Severine et toujours interprétés par d'autres : « Vole Nonm a Moun » en 2013 et « Sa ki bon (Bouyon King) » en 2021 pour Yellow Gaza, « PLAN A 3 » en 2024 pour Yellow Gaza et Yumei, et « LEVRETTE » en 2025 pour Yellow Gaza Girls. Aucune biographie publiée n'a été retrouvée pendant la recherche de ce profil.",
+  ),
+  (
+    "Pourquoi est-elle créditée Letin Sylia puis LETIN SYLVIA ?",
+    "Parce que les fiches des plateformes changent de forme selon les titres. Les deux premiers titres vérifiés, « Vole Nonm a Moun » en 2013 et « Sa ki bon (Bouyon King) » en 2021, écrivent Letin Sylia. Les deux suivants, « PLAN A 3 » en 2024 et « LEVRETTE » en 2025, écrivent LETIN SYLVIA, en capitales. La voisine de crédit, Letin Severine, l'enseigne Vadore Concept et l'univers Yellow Gaza restent les mêmes, ce qui rattache les deux formes au même dossier. Aucune source consultée n'explique le changement de graphie.",
+  ),
+  (
+    "Quels sont les titres écrits par Letin Sylia ?",
+    "Quatre titres vérifiés : « Vole Nonm a Moun » de Yellow Gaza, sorti le 5 mars 2013, à 157 BPM ; « Sa ki bon (Bouyon King) » de Yellow Gaza, sorti le 14 décembre 2021 chez Vadore Concept, à 157 BPM ; « PLAN A 3 (feat. Yu Meï) [Femmes Fatales Edition Bouyon] » de Yellow Gaza et Yumei, sorti le 7 septembre 2024 chez Vadore Concept Groupe, à 157 BPM ; et « LEVRETTE » de Yellow Gaza Girls, sorti le 16 octobre 2025 chez Vadore Concept Groupe, à 160 BPM.",
+  ),
+  (
+    "Letin Sylia est-elle la chanteuse qui se produit sous le nom de Sylia ?",
+    "Aucune source consultée ne l'établit. Une chanteuse se produisant comme Sylia, avec des pages Sylia Mizik, a publié un clip officiel, « Rejoins-moi », tourné en Guadeloupe. Letin Sylia, elle, n'apparaît que dans des crédits d'écriture bouyon de l'univers Yellow Gaza, jamais comme interprète. Ce profil ne transfère donc ni les titres ni le parcours de la chanteuse au crédit Letin Sylia, et garde les deux dossiers séparés.",
+  ),
+  (
+    "Letin Sylia et Letin Severine sont-elles de la même famille ?",
+    "Aucune source consultée ne le dit. Les deux noms sont crédités ensemble sur les quatre titres vérifiés de ce dossier, entre 2013 et 2025, sous les formes Letin Sylia puis LETIN SYLVIA pour la première, et aucun crédit séparé de l'une sans l'autre n'a été retrouvé. Elles forment un binôme d'écriture documenté par les catalogues, mais ce site ne publie aucun lien de parenté, de duo officiel ou de société commune sans source, et aucune source consultée n'en établit.",
+  ),
+  (
+    "Où écouter les titres écrits par Letin Sylia ?",
+    "Commencez par « Vole Nonm a Moun », le titre de 2013 encore présent dans la sélection d'un mix bouyon de BBC Radio 1Xtra, puis « Sa ki bon (Bouyon King) », « PLAN A 3 » et « LEVRETTE », dans l'ordre des crédits. Ces titres sortent sous les noms de Yellow Gaza et de Yellow Gaza Girls ; pour la scène qui les entoure, écoutez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>.",
+  ),
+  (
+    "Qui a écrit « Sa ki bon (Bouyon King) » de Yellow Gaza ?",
+    "Deux autrices sont créditées : Letin Sylia et Letin Severine, tandis que Vadore Concept Groupe signe la composition. Le single de <a href=\"/yellow-gaza.html\">Yellow Gaza</a> sort le 14 décembre 2021 chez Vadore Concept, dure 2 minutes 42 et tourne à 157 BPM. C'est le deuxième crédit connu de Letin Sylia, huit ans après « Vole Nonm a Moun ».",
+  ),
+  (
+    "Letin Sylia est-elle compositrice ou autrice ?",
+    "Les deux, selon les fiches. Sur « Vole Nonm a Moun » en 2013, elle est créditée comme compositrice, avec Letin Severine. Sur les trois titres suivants, « Sa ki bon (Bouyon King) », « PLAN A 3 » et « LEVRETTE », les plateformes lui donnent le rôle d'autrice. Aucune source consultée n'explique ce changement de libellé, et ce profil ne le transforme pas en répartition réelle du travail en studio.",
+  ),
+  (
+    "Depuis quand Letin Sylia écrit-elle du bouyon ?",
+    "Son premier crédit vérifié date du 5 mars 2013, avec « Vole Nonm a Moun » de Yellow Gaza, et le plus récent du 16 octobre 2025, avec « LEVRETTE » de Yellow Gaza Girls : douze ans de catalogue dans le même univers. Aucune source consultée ne documente d'activité avant 2013, ni de crédit entre 2013 et 2021.",
+  ),
+  (
+    "Yellow Gaza Girls et Gaza Girls Crew, est-ce le même groupe ?",
+    "Non. Ce site traite Yellow Gaza Girls, interprète de « LEVRETTE » co-écrit par Letin Sylia en 2025, et le <a href=\"/gaza-girls-crew.html\">Gaza Girls Crew</a> comme deux formations voisines et distinctes, couvertes sur des pages séparées. Yellow Gaza Girls est la forme féminine de l'univers Yellow Gaza, celui pour lequel Letin Sylia écrit depuis 2013.",
+  ),
+  (
+    "Pour qui Letin Sylia écrit-elle ?",
+    "Pour l'univers Yellow Gaza : Yellow Gaza, que les bases musicales présentent comme un artiste de Guadeloupe, sur « Vole Nonm a Moun » et « Sa ki bon (Bouyon King) », Yellow Gaza et Yumei sur « PLAN A 3 », puis Yellow Gaza Girls sur « LEVRETTE ». Aucune source consultée ne documente un titre écrit par Letin Sylia pour un artiste extérieur à cet univers.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/letin-sylia.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/letin-sylia.html#artist", "name": "Letin Sylia", "alternateName": "LETIN SYLVIA", "description": "Autrice et compositrice créditée sur quatre titres bouyon de Yellow Gaza et Yellow Gaza Girls entre 2013 et 2025, toujours avec Letin Severine, sous la forme Letin Sylia en 2013 et 2021 puis LETIN SYLVIA en 2024 et 2025. Aucune biographie publiée vérifiée.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Vole Nonm a Moun"}, {"@type": "MusicRecording", "name": "Sa ki bon (Bouyon King)"}, {"@type": "MusicRecording", "name": "PLAN A 3 (feat. Yu Meï) [Femmes Fatales Edition Bouyon]"}, {"@type": "MusicRecording", "name": "LEVRETTE"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -127,13 +165,51 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Letin Sylia?", "Letin Sylia is a songwriter and composer credited in Guadeloupe bouyon. Her verified public record comes down to four records, always co-written with Letin Severine and always performed by others: “Vole Nonm a Moun” in 2013 and “Sa ki bon (Bouyon King)” in 2021 for Yellow Gaza, “PLAN A 3” in 2024 for Yellow Gaza and Yumei, and “LEVRETTE” in 2025 for Yellow Gaza Girls. No published biography was found during the research for this profile."),
-  ("Why is she credited as Letin Sylia and then as LETIN SYLVIA?", "Because the platform pages change form from record to record. The first two verified records, “Vole Nonm a Moun” in 2013 and “Sa ki bon (Bouyon King)” in 2021, write Letin Sylia. The next two, “PLAN A 3” in 2024 and “LEVRETTE” in 2025, write LETIN SYLVIA, in capitals. The credit neighbour, Letin Severine, the Vadore Concept banner and the Yellow Gaza universe stay the same, which attaches the two forms to the same file. No source consulted explains the change of spelling."),
-  ("What records did Letin Sylia write?", "Four verified records: “Vole Nonm a Moun” by Yellow Gaza, released on March 5, 2013, at 157 BPM; “Sa ki bon (Bouyon King)” by Yellow Gaza, released on December 14, 2021 on Vadore Concept, at 157 BPM; “PLAN A 3 (feat. Yu Meï) [Femmes Fatales Edition Bouyon]” by Yellow Gaza and Yumei, released on September 7, 2024 on Vadore Concept Groupe, at 157 BPM; and “LEVRETTE” by Yellow Gaza Girls, released on October 16, 2025 on Vadore Concept Groupe, at 160 BPM."),
-  ("Is Letin Sylia the singer who performs under the name Sylia?", "No source consulted establishes that. A singer performing as Sylia, with Sylia Mizik pages, released an official clip, “Rejoins-moi”, filmed in Guadeloupe. Letin Sylia, on the other hand, appears only in bouyon writing credits of the Yellow Gaza universe, never as a performer. This profile therefore transfers neither the records nor the path of the singer to the Letin Sylia credit, and keeps the two files separate."),
-  ("Are Letin Sylia and Letin Severine from the same family?", "No source consulted says so. The two names are credited together on the four verified records in this file, between 2013 and 2025, in the forms Letin Sylia then LETIN SYLVIA for the first of them, and no separate credit for one without the other was found. They form a writing pair documented by the catalogues, but this site publishes no kinship link, official duo or shared company without a source, and no source consulted establishes one."),
-  ("Where can I hear the records written by Letin Sylia?", "Start with “Vole Nonm a Moun”, the 2013 record still present in the selection of a BBC Radio 1Xtra bouyon mix, then “Sa ki bon (Bouyon King)”, “PLAN A 3” and “LEVRETTE”. Then read our <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a> and <a href=\"/en/bouyon-guadeloupe.html\">bouyon in Guadeloupe</a> pages, and hear our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>.")
- ],
+  (
+    "Who is Letin Sylia?",
+    "Letin Sylia is a songwriter and composer credited in Guadeloupe bouyon. Her verified public record comes down to four records, always co-written with Letin Severine and always performed by others: “Vole Nonm a Moun” in 2013 and “Sa ki bon (Bouyon King)” in 2021 for Yellow Gaza, “PLAN A 3” in 2024 for Yellow Gaza and Yumei, and “LEVRETTE” in 2025 for Yellow Gaza Girls. No published biography was found during the research for this profile.",
+  ),
+  (
+    "Why is she credited as Letin Sylia and then as LETIN SYLVIA?",
+    "Because the platform pages change form from record to record. The first two verified records, “Vole Nonm a Moun” in 2013 and “Sa ki bon (Bouyon King)” in 2021, write Letin Sylia. The next two, “PLAN A 3” in 2024 and “LEVRETTE” in 2025, write LETIN SYLVIA, in capitals. The credit neighbour, Letin Severine, the Vadore Concept banner and the Yellow Gaza universe stay the same, which attaches the two forms to the same file. No source consulted explains the change of spelling.",
+  ),
+  (
+    "What records did Letin Sylia write?",
+    "Four verified records: “Vole Nonm a Moun” by Yellow Gaza, released on March 5, 2013, at 157 BPM; “Sa ki bon (Bouyon King)” by Yellow Gaza, released on December 14, 2021 on Vadore Concept, at 157 BPM; “PLAN A 3 (feat. Yu Meï) [Femmes Fatales Edition Bouyon]” by Yellow Gaza and Yumei, released on September 7, 2024 on Vadore Concept Groupe, at 157 BPM; and “LEVRETTE” by Yellow Gaza Girls, released on October 16, 2025 on Vadore Concept Groupe, at 160 BPM.",
+  ),
+  (
+    "Is Letin Sylia the singer who performs under the name Sylia?",
+    "No source consulted establishes that. A singer performing as Sylia, with Sylia Mizik pages, released an official clip, “Rejoins-moi”, filmed in Guadeloupe. Letin Sylia, on the other hand, appears only in bouyon writing credits of the Yellow Gaza universe, never as a performer. This profile therefore transfers neither the records nor the path of the singer to the Letin Sylia credit, and keeps the two files separate.",
+  ),
+  (
+    "Are Letin Sylia and Letin Severine from the same family?",
+    "No source consulted says so. The two names are credited together on the four verified records in this file, between 2013 and 2025, in the forms Letin Sylia then LETIN SYLVIA for the first of them, and no separate credit for one without the other was found. They form a writing pair documented by the catalogues, but this site publishes no kinship link, official duo or shared company without a source, and no source consulted establishes one.",
+  ),
+  (
+    "Where can I hear the records written by Letin Sylia?",
+    "Start with “Vole Nonm a Moun”, the 2013 record still present in the selection of a BBC Radio 1Xtra bouyon mix, then “Sa ki bon (Bouyon King)”, “PLAN A 3” and “LEVRETTE”, in credit order. These records are released under the Yellow Gaza and Yellow Gaza Girls names; for the scene around them, play our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>.",
+  ),
+  (
+    "Who wrote “Sa ki bon (Bouyon King)” by Yellow Gaza?",
+    "Two songwriters are credited: Letin Sylia and Letin Severine, while Vadore Concept Groupe is credited with the composition. The <a href=\"/en/yellow-gaza.html\">Yellow Gaza</a> single came out on December 14, 2021 on Vadore Concept, runs 2 minutes 42 and plays at 157 BPM. It is the second known credit of Letin Sylia, eight years after “Vole Nonm a Moun”.",
+  ),
+  (
+    "Is Letin Sylia a composer or a songwriter?",
+    "Both, according to the pages. On “Vole Nonm a Moun” in 2013, she is credited as a composer, with Letin Severine. On the next three records, “Sa ki bon (Bouyon King)”, “PLAN A 3” and “LEVRETTE”, the platforms give her the songwriter role. No source consulted explains that change of wording, and this profile does not turn it into a real division of studio work.",
+  ),
+  (
+    "How long has Letin Sylia been writing bouyon?",
+    "Her first verified credit is dated March 5, 2013, with “Vole Nonm a Moun” by Yellow Gaza, and the most recent October 16, 2025, with “LEVRETTE” by Yellow Gaza Girls: twelve years of catalogue in the same universe. No source consulted documents activity before 2013, nor any credit between 2013 and 2021.",
+  ),
+  (
+    "Are Yellow Gaza Girls and Gaza Girls Crew the same group?",
+    "No. This site treats Yellow Gaza Girls, performer of “LEVRETTE”, co-written by Letin Sylia in 2025, and the <a href=\"/en/gaza-girls-crew.html\">Gaza Girls Crew</a> as two neighbouring and distinct formations, covered on separate pages. Yellow Gaza Girls is the female form of the Yellow Gaza universe, the one Letin Sylia has written for since 2013.",
+  ),
+  (
+    "Who does Letin Sylia write for?",
+    "For the Yellow Gaza universe: Yellow Gaza, presented by music databases as an artist from Guadeloupe, on “Vole Nonm a Moun” and “Sa ki bon (Bouyon King)”, Yellow Gaza and Yumei on “PLAN A 3”, then Yellow Gaza Girls on “LEVRETTE”. No source consulted documents a record written by Letin Sylia for an artist outside that universe.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/letin-sylia.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/letin-sylia.html#artist", "name": "Letin Sylia", "alternateName": "LETIN SYLVIA", "description": "Songwriter and composer credited on four bouyon records by Yellow Gaza and Yellow Gaza Girls between 2013 and 2025, always with Letin Severine, as Letin Sylia in 2013 and 2021 then LETIN SYLVIA in 2024 and 2025. No verified published biography.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Vole Nonm a Moun"}, {"@type": "MusicRecording", "name": "Sa ki bon (Bouyon King)"}, {"@type": "MusicRecording", "name": "PLAN A 3 (feat. Yu Meï) [Femmes Fatales Edition Bouyon]"}, {"@type": "MusicRecording", "name": "LEVRETTE"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

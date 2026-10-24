@@ -77,13 +77,63 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Kwib La Beats ?", "Un nom de crédit de la vague bouyon dominicaine, documenté comme producteur, comme artiste principal d’un single de 2023 et comme auteur de riddims. Aucune biographie publique n’a été trouvée pendant cette recherche. Le seul lien avec un nom de personne vient de l’article de lancement du Up Next Cypher par BuzzDA, qui écrit « Produced by Shane Massicott of Kwib La Beats » : ce profil reproduit cette formulation comme un lien rapporté par BuzzDA, sans affirmer une identité complète que les autres sources ne confirment pas."),
-  ("Quel est le crédit le plus documenté de Kwib La Beats ?", "La production de « Rum », de Trixzmigos avec Hussey et Poyzin, sorti le 7 février 2025 chez LTG RECORDS. La fiche Shazam du titre, ouverte pour ce profil, le crédite seul en production et ingénierie, à 160 BPM, avec Trixz Migos, Hussey et Poyzin aux voix et quatre auteurs nommés. « Rum » figure parmi les titres les plus écoutés de Trixzmigos sur Shazam."),
-  ("Kwib La Beats a-t-il sorti un titre sous son propre nom ?", "Oui, un single vérifié : « You Broke Me First (Bouyon) », avec Marshee en featuring, sorti le 11 septembre 2023 chez 5269234 Records DK, en anglais, à 160 BPM. La fiche Shazam crédite Marshee comme auteur. Aucun autre titre en artiste principal n’a été confirmé pendant cette recherche."),
-  ("Quel est son rôle dans le Up Next Cypher de Trilla-G ?", "Il signe l’instrumental de la production de près de dix minutes sortie le 2 octobre par Still Trill Entertainment, qui réunit G\u0027z Up, Ras B, Avatar Omish, Don Lash, Pa Pel et Pryhmex aux côtés de Trilla-G. ThaWizZarD tient les claviers principaux, le mixage et le mastering. Kwib La Beats co-produit ensuite, avec ThaWizZarD, les singles solos issus du cypher, « FIX UP » de G\u0027z Up et « IDGAF » de Pa Pel."),
-  ("Où peut-on entendre ses riddims ?", "La tracklist du programme de Rozaly sur NTS, le 6 juin 2025, aligne trois instrumentaux à son nom : « Anyhow It Goes Riddim », « Sad Piano Riddim » et « Holy Moley Riddim », dans une sélection caribéenne liée à la compilation Road Fever de Soundway Records. Aucune fiche de sortie commerciale de ces trois riddims n’a été retrouvée : ce sont, à ce jour, des titres de tracklist documentés par la page de l’émission."),
-  ("Pourquoi ce profil est-il si court sur la personne ?", "Parce que les sources le sont. Aucune interview, aucune biographie, aucun compte officiel vérifié par ouverture directe n’ont été confirmés pendant cette recherche, et la liste sameAs de cette page est donc vide. Ce profil publie ce qui est vérifiable, les crédits ouverts fiche par fiche, et signale ses limites au lieu de les remplir : si le producteur publie un jour une présentation officielle, la page sera complétée et datée.")
- ],
+  (
+    "Qui est Kwib La Beats ?",
+    "Un nom de crédit de la vague bouyon dominicaine, documenté comme producteur, comme artiste principal d’un single de 2023 et comme auteur de riddims. Aucune biographie publique n’a été trouvée. Le seul lien avec un nom de personne vient de l’article de lancement du Up Next Cypher par BuzzDA, qui écrit « Produced by Shane Massicott of Kwib La Beats » : ce profil reproduit cette formulation telle quelle, sans affirmer une identité que les autres sources ne confirment pas.",
+  ),
+  (
+    "Kwib La Beats vient-il de la Dominique ?",
+    "Ses crédits le placent dans la vague bouyon de la Dominique, mais aucune source ne publie son origine personnelle. Les projets qui portent son nom sont dominicains : Trixzmigos, Trilla-G, le cypher de Still Trill Entertainment, et une trace YouTube plus ancienne, « Fresh & Clean » avec Earlkaline, dont la description porte « dominica #767 », l’indicatif de l’île. Ce site le situe par ses collaborations, sans lui attribuer de lieu de naissance.",
+  ),
+  (
+    "Shane Massicott et Shane St. Claire sont-ils la même personne ?",
+    "Non : l’article de lancement de BuzzDA les cite comme deux personnes aux métiers différents. Il crédite la production du Up Next Cypher à « Shane Massicott of Kwib La Beats », et la vidéo à Shane St. Claire, de Sois Génial Multimedia, qui tenait la caméra. Deux prénoms identiques dans le même texte, mais deux rôles distincts, et ce site ne les fond pas en une seule personne.",
+  ),
+  (
+    "Quel est le crédit le plus documenté de Kwib La Beats ?",
+    "La production de « Rum », de Trixzmigos avec Hussey et Poyzin, sorti le 7 février 2025 chez LTG RECORDS. La fiche Shazam du titre, ouverte pour ce profil, le crédite seul en production et ingénierie, à 160 BPM, avec Trixz Migos, Hussey et Poyzin aux voix et quatre auteurs nommés. « Rum » figure parmi les titres les plus écoutés de Trixzmigos sur Shazam.",
+  ),
+  (
+    "Qui a produit « Pocket Rocket » de BRG Hollywood ?",
+    "Kwib La Beats, selon la fiche Shazam du titre, qui le crédite seul en production et ingénierie. « Pocket Rocket », de <a href=\"/brg-hollywood.html\">BRG Hollywood</a>, est sorti le 16 avril 2025 chez BankrollGang, à 160 BPM, avec BRG Hollywood aux voix et Jaheim M Meyers comme auteur. Deux mois après « Rum », le même producteur signe ainsi le single d’un autre artiste de la vague dominicaine.",
+  ),
+  (
+    "Kwib La Beats a-t-il sorti un titre sous son propre nom ?",
+    "Oui, un single vérifié : « You Broke Me First (Bouyon) », avec Marshee en featuring, sorti le 11 septembre 2023 chez 5269234 Records DK, en anglais, à 160 BPM. La fiche Shazam crédite Marshee comme auteur. Aucun autre titre en artiste principal n’a été confirmé pendant cette recherche.",
+  ),
+  (
+    "Qu’est-ce que le label 5269234 Records DK ?",
+    "C’est le label numéroté de « You Broke Me First (Bouyon) », le single de Kwib La Beats de 2023 : une de ces enseignes générées par la distribution automatique de type DistroKid, un numéro, la mention Records, les initiales du distributeur. En 2025, le même producteur travaille pour des enseignes nommées, LTG RECORDS sur « Rum » et BankrollGang sur « Pocket Rocket », passage lisible de l’autoproduction au travail pour des structures identifiées.",
+  ),
+  (
+    "Quel est le tempo des titres de Kwib La Beats ?",
+    "160 BPM, sur ses trois fiches vérifiées : « Rum » de Trixzmigos, « Pocket Rocket » de BRG Hollywood et son propre single « You Broke Me First (Bouyon) » sont tous mesurés à 160 BPM par Shazam. Ce n’est pas une signature personnelle prouvée mais une constante du genre : le tempo de croisière du single bouyon actuel, expliqué sur notre page <a href=\"/bpm-du-bouyon.html\">BPM du bouyon</a>.",
+  ),
+  (
+    "Quel est le rôle de Kwib La Beats dans le Up Next Cypher de Trilla-G ?",
+    "Il signe l’instrumental de la production de près de dix minutes sortie le 2 octobre par Still Trill Entertainment, qui réunit G'z Up, Ras B, Avatar Omish, Don Lash, Pa Pel et Pryhmex aux côtés de Trilla-G. ThaWizZarD tient les claviers principaux, le mixage et le mastering. Kwib La Beats co-produit ensuite, avec ThaWizZarD, les singles solos issus du cypher, « FIX UP » de G'z Up et « IDGAF » de Pa Pel.",
+  ),
+  (
+    "Qui a produit « FIX UP (Ya Ya Ya) » de G'z Up ?",
+    "Kwib La Beats et ThaWizZarD, selon la description officielle du titre. « FIX UP (Ya Ya Ya) » est la version solo prolongée du couplet de <a href=\"/gz-up.html\">G'z Up</a> dans le Up Next Cypher de Trilla-G : G'z Up en signe l’écriture et l’interprétation, ThaWizZarD le mixage et le mastering, et Trilla-G la production exécutive. « IDGAF » de Pa Pel, autre single issu du cypher, porte exactement la même ligne de production.",
+  ),
+  (
+    "Quel succès a eu le Up Next Cypher produit par Kwib La Beats ?",
+    "Selon BuzzDA, le Up Next Cypher a atteint la première place du classement des titres Apple Music en Dominique et 83 000 vues YouTube en une semaine, chiffres rapportés par le site et non revérifiés par ce profil. La vidéo a été tournée au Lot Bar and Grill, filmée et montée par Sois Génial Multimedia, et Trilla-G a confirmé à BuzzDA qu’un second volume suivra.",
+  ),
+  (
+    "Où peut-on entendre les riddims de Kwib La Beats ?",
+    "La tracklist du programme de Rozaly sur NTS, le 6 juin 2025, aligne trois instrumentaux à son nom : « Anyhow It Goes Riddim », « Sad Piano Riddim » et « Holy Moley Riddim », dans une sélection caribéenne liée à la compilation Road Fever de Soundway Records. Aucune fiche de sortie commerciale de ces trois riddims n’a été retrouvée : ce sont, à ce jour, des titres de tracklist documentés par la page de l’émission.",
+  ),
+  (
+    "Pourquoi ce profil est-il si court sur la personne ?",
+    "Parce que les sources le sont. Aucune interview, aucune biographie, aucun compte officiel vérifié par ouverture directe n’ont été confirmés pendant cette recherche, et la liste sameAs de cette page est donc vide. Ce profil publie ce qui est vérifiable, les crédits ouverts fiche par fiche, et signale ses limites au lieu de les remplir : si le producteur publie un jour une présentation officielle, la page sera complétée et datée.",
+  ),
+  (
+    "Où écouter Kwib La Beats ?",
+    "Par ses crédits : « Rum » de Trixzmigos, « Pocket Rocket » de BRG Hollywood, son single « You Broke Me First (Bouyon) », puis le Up Next Cypher de Trilla-G et les singles qui en sont issus, « FIX UP » de G'z Up et « IDGAF » de Pa Pel. Pour entendre la scène dominicaine autour de lui, notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, le Bouyon Road Mix de Bouyon Shattaz, rassemble les nouveautés de l’île.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/kwib-la-beats.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/kwib-la-beats.html#artist", "name": "Kwib La Beats", "description": "Nom de producteur bouyon de la vague dominicaine. Producteur unique crédité de Rum de Trixzmigos en 2025 et de Pocket Rocket de BRG Hollywood, artiste principal de You Broke Me First (Bouyon) en 2023, instrumentaliste du Up Next Cypher, Vol. 1 de Trilla-G en 2026, et auteur de trois riddims listés par NTS en 2025. Aucune biographie publique ; BuzzDA relie la production du cypher à Shane Massicott of Kwib La Beats, formulation reproduite sans équation d’identité ajoutée.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Rum'}, {"@type": "MusicRecording", "name": 'You Broke Me First (Bouyon)'}, {"@type": "MusicRecording", "name": 'Pocket Rocket'}, {"@type": "MusicRecording", "name": 'Up Next Cypher, Vol. 1'}, {"@type": "MusicRecording", "name": 'FIX UP'}, {"@type": "MusicRecording", "name": 'IDGAF'}, {"@type": "MusicRecording", "name": 'Anyhow It Goes Riddim'}, {"@type": "MusicRecording", "name": 'Sad Piano Riddim'}, {"@type": "MusicRecording", "name": 'Holy Moley Riddim'}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -153,13 +203,63 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Kwib La Beats?", "A credit name in the Dominican bouyon wave, documented as a producer, as the lead artist of a 2023 single and as a riddim author. No public biography was found during this research. The only link to a person name comes from the BuzzDA launch article on the Up Next Cypher, which writes “Produced by Shane Massicott of Kwib La Beats”: this profile reproduces that wording as a link reported by BuzzDA, without claiming a full identity that the other sources do not confirm."),
-  ("What is the best documented Kwib La Beats credit?", "The production of “Rum”, by Trixzmigos featuring Hussey and Poyzin, released on February 7, 2025 on LTG RECORDS. The Shazam page of the record, opened for this profile, credits it alone in production and engineering, at 160 BPM, with Trixz Migos, Hussey and Poyzin on vocals and four named writers. “Rum” stands among the most streamed Trixzmigos songs on Shazam."),
-  ("Has Kwib La Beats released a record under its own name?", "Yes, one verified single: “You Broke Me First (Bouyon)”, featuring Marshee, released on September 11, 2023 on 5269234 Records DK, in English, at 160 BPM. The Shazam page credits Marshee as songwriter. No other lead artist record was confirmed during this research."),
-  ("What is its role in Trilla-G Up Next Cypher?", "It signs the instrumental of the almost ten minute production released on October 2 through Still Trill Entertainment, which brings together G\u0027z Up, Ras B, Avatar Omish, Don Lash, Pa Pel and Pryhmex alongside Trilla-G. ThaWizZarD holds the lead keys, the mixing and the mastering. Kwib La Beats then co-produces, with ThaWizZarD, the solo singles that came out of the cypher, “FIX UP” by G\u0027z Up and “IDGAF” by Pa Pel."),
-  ("Where can its riddims be heard?", "The tracklist of Rozaly programme on NTS, on June 6, 2025, lines up three instrumentals under its name: “Anyhow It Goes Riddim”, “Sad Piano Riddim” and “Holy Moley Riddim”, in a Caribbean selection tied to the Soundway Records compilation Road Fever. No commercial release page for these three riddims was found: to date they are tracklist titles documented by the show page."),
-  ("Why is this profile so short on the person?", "Because the sources are. No interview, no biography, and no official account verified by direct opening were confirmed during this research, and the sameAs list of this page is therefore empty. This profile publishes what can be checked, the credits opened page by page, and states its limits instead of filling them: if the producer one day publishes an official presentation, the page will be completed and dated.")
- ],
+  (
+    "Who is Kwib La Beats?",
+    "A credit name in the Dominican bouyon wave, documented as a producer, as the lead artist of a 2023 single and as a riddim author. No public biography was found. The only link to a person name comes from the BuzzDA launch article on the Up Next Cypher, which writes “Produced by Shane Massicott of Kwib La Beats”: this profile reproduces that wording as written, without claiming an identity the other sources do not confirm.",
+  ),
+  (
+    "Is Kwib La Beats from Dominica?",
+    "Its credits place it in Dominica’s bouyon wave, but no source publishes a personal origin. The projects carrying the name are Dominican: Trixzmigos, Trilla-G, the Still Trill Entertainment cypher, and an older YouTube trace, “Fresh & Clean” with Earlkaline, whose description carries “dominica #767”, the island area code. This site places it through its collaborations, without assigning it a birthplace.",
+  ),
+  (
+    "Are Shane Massicott and Shane St. Claire the same person?",
+    "No: the BuzzDA launch article cites them as two people with different jobs. It credits the Up Next Cypher production to “Shane Massicott of Kwib La Beats”, and the video to Shane St. Claire, of Sois Génial Multimedia, who held the camera. Two identical first names in the same text, but two distinct roles, and this site does not merge them into one person.",
+  ),
+  (
+    "What is the best documented Kwib La Beats credit?",
+    "The production of “Rum”, by Trixzmigos featuring Hussey and Poyzin, released on February 7, 2025 on LTG RECORDS. The Shazam page of the record, opened for this profile, credits it alone in production and engineering, at 160 BPM, with Trixz Migos, Hussey and Poyzin on vocals and four named writers. “Rum” stands among the most streamed Trixzmigos songs on Shazam.",
+  ),
+  (
+    "Who produced “Pocket Rocket” by BRG Hollywood?",
+    "Kwib La Beats, according to the Shazam page of the record, which credits it alone in production and engineering. “Pocket Rocket”, by <a href=\"/en/brg-hollywood.html\">BRG Hollywood</a>, was released on April 16, 2025 on BankrollGang, at 160 BPM, with BRG Hollywood on vocals and Jaheim M Meyers as songwriter. Two months after “Rum”, the same producer thus signed the single of another artist of the Dominican wave.",
+  ),
+  (
+    "Has Kwib La Beats released a record under its own name?",
+    "Yes, one verified single: “You Broke Me First (Bouyon)”, featuring Marshee, released on September 11, 2023 on 5269234 Records DK, in English, at 160 BPM. The Shazam page credits Marshee as songwriter. No other lead artist record was confirmed during this research.",
+  ),
+  (
+    "What is the label 5269234 Records DK?",
+    "It is the numbered label of “You Broke Me First (Bouyon)”, the 2023 Kwib La Beats single: one of those banners generated by automatic distribution of the DistroKid type, a number, the word Records, the distributor initials. In 2025 the same producer works for named banners, LTG RECORDS on “Rum” and BankrollGang on “Pocket Rocket”, a readable move from numbered self release to identified structures.",
+  ),
+  (
+    "What tempo are Kwib La Beats songs?",
+    "160 BPM, on all three verified pages: “Rum” by Trixzmigos, “Pocket Rocket” by BRG Hollywood and its own single “You Broke Me First (Bouyon)” are all measured at 160 BPM by Shazam. That is not a proven personal signature but a genre constant: the cruising tempo of the current bouyon single, explained on our <a href=\"/en/bouyon-bpm.html\">bouyon BPM</a> page.",
+  ),
+  (
+    "What is Kwib La Beats’ role in Trilla-G’s Up Next Cypher?",
+    "It signs the instrumental of the almost ten minute production released on October 2 through Still Trill Entertainment, which brings together G'z Up, Ras B, Avatar Omish, Don Lash, Pa Pel and Pryhmex alongside Trilla-G. ThaWizZarD holds the lead keys, the mixing and the mastering. Kwib La Beats then co-produces, with ThaWizZarD, the solo singles that came out of the cypher, “FIX UP” by G'z Up and “IDGAF” by Pa Pel.",
+  ),
+  (
+    "Who produced “FIX UP (Ya Ya Ya)” by G'z Up?",
+    "Kwib La Beats and ThaWizZarD, according to the official description of the record. “FIX UP (Ya Ya Ya)” is the extended solo version of the verse of <a href=\"/en/gz-up.html\">G'z Up</a> on Trilla-G’s Up Next Cypher: G'z Up signs the writing and performance, ThaWizZarD the mixing and mastering, and Trilla-G the executive production. “IDGAF” by Pa Pel, another single born from the cypher, carries exactly the same production line.",
+  ),
+  (
+    "How successful was the Up Next Cypher produced by Kwib La Beats?",
+    "According to BuzzDA, the Up Next Cypher reached the number one spot on the Apple Music Top Songs chart in Dominica and 83,000 YouTube views in one week, figures reported by the site and not rechecked by this profile. The video was shot at The Lot Bar and Grill, filmed and edited by Sois Génial Multimedia, and Trilla-G confirmed to BuzzDA that a second volume will follow.",
+  ),
+  (
+    "Where can Kwib La Beats riddims be heard?",
+    "The tracklist of Rozaly programme on NTS, on June 6, 2025, lines up three instrumentals under its name: “Anyhow It Goes Riddim”, “Sad Piano Riddim” and “Holy Moley Riddim”, in a Caribbean selection tied to the Soundway Records compilation Road Fever. No commercial release page for these three riddims was found: to date they are tracklist titles documented by the show page.",
+  ),
+  (
+    "Why is this profile so short on the person?",
+    "Because the sources are. No interview, no biography, and no official account verified by direct opening were confirmed during this research, and the sameAs list of this page is therefore empty. This profile publishes what can be checked, the credits opened page by page, and states its limits instead of filling them: if the producer one day publishes an official presentation, the page will be completed and dated.",
+  ),
+  (
+    "Where can I hear Kwib La Beats?",
+    "Through its credits: “Rum” by Trixzmigos, “Pocket Rocket” by BRG Hollywood, its own single “You Broke Me First (Bouyon)”, then Trilla-G’s Up Next Cypher and the singles born from it, “FIX UP” by G'z Up and “IDGAF” by Pa Pel. To hear the Dominican scene around it, our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, the Bouyon Road Mix by Bouyon Shattaz, gathers new releases from the island and the French Antilles.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/kwib-la-beats.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/kwib-la-beats.html#artist", "name": "Kwib La Beats", "description": "Bouyon producer name from the Dominican wave. Sole credited producer of Rum by Trixzmigos in 2025 and of Pocket Rocket by BRG Hollywood, lead artist of You Broke Me First (Bouyon) in 2023, instrumentalist of Trilla-G Up Next Cypher, Vol. 1 in 2026, and author of three riddims listed by NTS in 2025. No public biography; BuzzDA links the cypher production to Shane Massicott of Kwib La Beats, wording reproduced with no added identity equation.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Rum'}, {"@type": "MusicRecording", "name": 'You Broke Me First (Bouyon)'}, {"@type": "MusicRecording", "name": 'Pocket Rocket'}, {"@type": "MusicRecording", "name": 'Up Next Cypher, Vol. 1'}, {"@type": "MusicRecording", "name": 'FIX UP'}, {"@type": "MusicRecording", "name": 'IDGAF'}, {"@type": "MusicRecording", "name": 'Anyhow It Goes Riddim'}, {"@type": "MusicRecording", "name": 'Sad Piano Riddim'}, {"@type": "MusicRecording", "name": 'Holy Moley Riddim'}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

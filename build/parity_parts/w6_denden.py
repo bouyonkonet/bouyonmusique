@@ -74,13 +74,63 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui a composé Padtal, le titre bouyon de Denden ?", "Selon les crédits publiés par Deezer dans sa playlist Bouyon bass, Padtal est écrit par Denden et composé par Davy One. Le titre dure 1 minute 39 dans cette édition. C’est ce crédit de composition qui rattache concrètement le titre à la fabrique bouyon."),
-  ("Denden vient-elle de Dominique ou des Antilles ?", "Non. Denden est une chanteuse française née à Villepinte, en Seine-Saint-Denis, le 18 juillet 2005, d’origine ivoirienne selon les profils publiés. Son lien avec le bouyon n’est pas une origine : c’est un classement, celui de son titre Padtal, rangé par Deezer dans sa playlist Bouyon bass en 2025."),
-  ("Quel est le vrai nom de Denden ?", "Eden Yaba, selon son article de référence qui cite Shazam pour ce nom de naissance. Elle est née le 18 juillet 2005 à Villepinte. Denden est son nom d’artiste, déjà utilisé dans ses années de danseuse sur les réseaux."),
-  ("Ils se demandent est-il un titre bouyon ?", "Non, et la distinction compte. Les sources présentent Ils se demandent, son premier single de 2024, comme un succès de R&B et de pop française : 40e du Top 50 français, certifié or en France par le SNEP et or en Belgique. Le titre bouyon du dossier est Padtal, sorti en 2025."),
-  ("Denden a-t-elle gagné aux Flammes 2025 ?", "Non, elle a été nommée. Aux Flammes 2025, Denden figurait parmi les trois nommées pour la révélation féminine de l’année, avec Clara Charlotte et Theodora. Le trophée, remis le 13 mai 2025 à La Seine Musicale, est revenu à Theodora."),
-  ("Quels sont les titres vérifiés de Denden ?", "Les singles documentés sont Ils se demandent (2024), Faut doser, qui interpole Promiscuous de Nelly Furtado et Timbaland, Padtal (2025), Validé (juillet 2025, labels Y&W et Aura Music) et Clap Clap, auxquels s’ajoutent des versions Ils se demandent (Slowed) et Padtal - Speed Up. Aucun album n’est listé dans les sources à ce jour.")
- ],
+  (
+    "Qui est Denden ?",
+    "Denden est une chanteuse, danseuse et vidéaste web française, née Eden Yaba le 18 juillet 2005 à Villepinte. Remarquée enfant pour ses vidéos de danse virales selon les profils publiés, elle perce en musique à l’automne 2024 avec « Ils se demandent », certifié or en France et en Belgique. Son titre « Padtal », composé par Davy One, est classé bouyon par Deezer.",
+  ),
+  (
+    "Qui a composé Padtal, le titre bouyon de Denden ?",
+    "Selon les crédits publiés par Deezer dans sa playlist Bouyon bass, Padtal est écrit par Denden et composé par Davy One. Le titre dure 1 minute 39 dans cette édition. C’est ce crédit de composition qui rattache concrètement le titre à la fabrique bouyon.",
+  ),
+  (
+    "Denden vient-elle de Dominique ou des Antilles ?",
+    "Non. Denden est une chanteuse française née à Villepinte, en Seine-Saint-Denis, le 18 juillet 2005, d’origine ivoirienne selon les profils publiés. Son lien avec le bouyon n’est pas une origine : c’est un classement, celui de son titre Padtal, rangé par Deezer dans sa playlist Bouyon bass en 2025.",
+  ),
+  (
+    "Quel est le vrai nom de Denden ?",
+    "Eden Yaba, selon son article de référence qui cite Shazam pour ce nom de naissance. Elle est née le 18 juillet 2005 à Villepinte, en Seine-Saint-Denis. Denden est son nom d’artiste, déjà utilisé dans ses années de danseuse sur les réseaux, avant son passage à la musique en octobre 2024. À ne pas confondre avec Ameer Denden, chanteur palestinien sans rapport avec elle.",
+  ),
+  (
+    "Ils se demandent est-il un titre bouyon ?",
+    "Non, et la distinction compte. Les sources présentent Ils se demandent, son premier single de 2024, comme un succès de R&B et de pop française : 40e du Top 50 français, certifié or en France par le SNEP et or en Belgique. Le titre bouyon du dossier est Padtal, sorti en 2025.",
+  ),
+  (
+    "Denden a-t-elle gagné aux Flammes 2025 ?",
+    "Non, elle a été nommée. Aux Flammes 2025, Denden figurait parmi les trois nommées pour la révélation féminine de l’année, avec Clara Charlotte et Theodora. Le trophée, remis le 13 mai 2025 à La Seine Musicale, est revenu à Theodora.",
+  ),
+  (
+    "Quels sont les titres vérifiés de Denden ?",
+    "Les singles documentés sont Ils se demandent (2024), Faut doser, qui interpole Promiscuous de Nelly Furtado et Timbaland, Padtal (2025), Validé (juillet 2025, labels Y&W et Aura Music) et Clap Clap, auxquels s’ajoutent des versions Ils se demandent (Slowed) et Padtal - Speed Up. Aucun album n’est listé dans les sources à ce jour.",
+  ),
+  (
+    "Padtal de Denden, c’est du bouyon ou du shatta ?",
+    "Deezer le range dans le bouyon : la plateforme liste « Padtal » dans sa playlist Bouyon bass, à côté de Theodora, Ridge et Natoxie. Le shatta, dancehall des Antilles françaises, entre dans la description de son style : Famous Birthdays résume le son de Denden comme un mélange d’afro, de shatta et de pop. Pour les plateformes, le titre lui-même est classé bouyon.",
+  ),
+  (
+    "Qui est Davy One, le compositeur de Padtal ?",
+    "Davy One est le compositeur crédité de « Padtal » par Deezer, seul crédit de fabrique publié du titre. Ce n’est pas un inconnu sans trace : Shazam documente son propre catalogue, dont le titre « De Lourd », sorti le 14 avril 2024 sur le label BEDROOM2002, dans l’album single « De L’or ». Il était donc déjà publié en streaming avant « Padtal ».",
+  ),
+  (
+    "Existe-t-il un remix bouyon de Padtal ?",
+    "Oui. La liste de titres d’une session de LET HIM COOK radio, publiée sur YouTube, aligne un « Patogal (Denden) Bouyon Remix » signé Dj Anilson au milieu d’un programme bouyon. Les DJs du genre ont donc retraité le titre comme un morceau du cru. « Padtal » existe aussi en version Speed Up sur les plateformes, un format pensé pour les vidéos de danse.",
+  ),
+  (
+    "Quelle chanson de Denden reprend Promiscuous de Nelly Furtado ?",
+    "C’est « Faut doser », son deuxième single documenté. Selon RadioVideo.Music, le titre interpole « Promiscuous », le tube de Nelly Furtado et Timbaland : il rejoue un élément du morceau de 2006 au lieu de l’échantillonner tel quel. Ce geste de recyclage des années 2000 au rythme du moment est typique de la nouvelle pop française.",
+  ),
+  (
+    "Quel est le lien entre Denden et Theodora ?",
+    "Elles ont été nommées dans la même catégorie aux Flammes 2025, révélation féminine de l’année, avec Clara Charlotte, et c’est Theodora qui l’a emporté. Deezer les réunit aussi dans sa playlist Bouyon bass, et le magazine Sound and Vision range Denden parmi les artistes françaises qui puisent du coupé-décalé au bouyon, aux côtés de Theodora et d’Yseult.",
+  ),
+  (
+    "Denden a-t-elle chanté sur scène ?",
+    "Oui. RadioVideo.Music mentionne des concerts, dont une date à La Cigale, à Paris. Une captation de « Validé » sur la scène du Festival AfroDisiac, relayée par le compte TikTok de RAPOLOG, la montre aussi en condition de festival dès sa première année pleine de carrière. Aucune tournée complète n’est listée dans les sources consultées.",
+  ),
+  (
+    "Où écouter Padtal et le côté bouyon de Denden ?",
+    "Sur Deezer, « Padtal » figure dans la playlist Bouyon bass, avec ses crédits complets, et sa version Speed Up circule sur les plateformes. Le remix bouyon de Dj Anilson passe dans les sets de DJs. Pour entendre le voisinage du titre, la <a href=\"/playlist-bouyon.html\">playlist bouyon</a> de Bouyon Shattaz rassemble les nouveautés du genre, de la Dominique aux Antilles et à Paris.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/denden.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/denden.html#artist", "name": "Denden", "description": "Chanteuse française née Eden Yaba à Villepinte en 2005. Premier single Ils se demandent (2024) certifié or en France et en Belgique ; son titre Padtal (2025), composé par Davy One, est classé dans la playlist Bouyon bass de Deezer.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Ils se demandent"}, {"@type": "MusicRecording", "name": "Faut doser"}, {"@type": "MusicRecording", "name": "Padtal"}, {"@type": "MusicRecording", "name": "Validé"}, {"@type": "MusicRecording", "name": "Clap Clap"}, {"@type": "MusicRecording", "name": "Ils se demandent (Slowed)"}, {"@type": "MusicRecording", "name": "Padtal - Speed Up"},
       {
        "@type": "MusicRecording",
@@ -165,13 +215,63 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who composed Padtal, Denden bouyon track?", "According to the credits published by Deezer in its Bouyon bass playlist, Padtal is written by Denden and composed by Davy One. The track runs 1 minute 39 in that edition. It is that composition credit that ties the record concretely to the bouyon workshop."),
-  ("Does Denden come from Dominica or the Antilles?", "No. Denden is a French singer born in Villepinte, in Seine-Saint-Denis, on 18 July 2005, of Ivorian origin according to published profiles. Her link with bouyon is not an origin: it is a classification, that of her track Padtal, filed by Deezer in its Bouyon bass playlist in 2025."),
-  ("What is Denden real name?", "Eden Yaba, according to her reference article, which cites Shazam for that birth name. She was born on 18 July 2005 in Villepinte. Denden is her artist name, already in use in her dancer years on social media."),
-  ("Is Ils se demandent a bouyon track?", "No, and the distinction matters. The sources present Ils se demandent, her first single of 2024, as a French R&B and pop success: number 40 in the French Top 50, certified gold in France by the SNEP and gold in Belgium. The bouyon record in the file is Padtal, released in 2025."),
-  ("Did Denden win at Les Flammes 2025?", "No, she was nominated. At Les Flammes 2025, Denden was one of the three nominees for female breakthrough of the year, with Clara Charlotte and Theodora. The trophy, handed over on 13 May 2025 at La Seine Musicale, went to Theodora."),
-  ("What are Denden verified tracks?", "The documented singles are Ils se demandent (2024), Faut doser, which interpolates Promiscuous by Nelly Furtado and Timbaland, Padtal (2025), Valide (July 2025, Y&W and Aura Music labels) and Clap Clap, with the variants Ils se demandent (Slowed) and Padtal - Speed Up on top. No album is listed in the sources to date.")
- ],
+  (
+    "Who is Denden?",
+    "Denden is a French singer, dancer and web video creator, born Eden Yaba on 18 July 2005 in Villepinte. Noticed as a child for viral dance videos according to published profiles, she broke through in music in autumn 2024 with “Ils se demandent”, certified gold in France and Belgium. Her song “Padtal”, composed by Davy One, is filed as bouyon by Deezer.",
+  ),
+  (
+    "Who composed Padtal, Denden bouyon track?",
+    "According to the credits published by Deezer in its Bouyon bass playlist, Padtal is written by Denden and composed by Davy One. The track runs 1 minute 39 in that edition. It is that composition credit that ties the record concretely to the bouyon workshop.",
+  ),
+  (
+    "Does Denden come from Dominica or the Antilles?",
+    "No. Denden is a French singer born in Villepinte, in Seine-Saint-Denis, on 18 July 2005, of Ivorian origin according to published profiles. Her link with bouyon is not an origin: it is a classification, that of her track Padtal, filed by Deezer in its Bouyon bass playlist in 2025.",
+  ),
+  (
+    "What is Denden’s real name?",
+    "Eden Yaba, according to her reference article, which cites Shazam for that birth name. She was born on 18 July 2005 in Villepinte, in Seine-Saint-Denis. Denden is her artist name, already in use in her dancer years on social media, before her move into music in October 2024. Not to be confused with Ameer Denden, an unrelated Palestinian singer.",
+  ),
+  (
+    "Is Ils se demandent a bouyon track?",
+    "No, and the distinction matters. The sources present Ils se demandent, her first single of 2024, as a French R&B and pop success: number 40 in the French Top 50, certified gold in France by the SNEP and gold in Belgium. The bouyon record in the file is Padtal, released in 2025.",
+  ),
+  (
+    "Did Denden win at Les Flammes 2025?",
+    "No, she was nominated. At Les Flammes 2025, Denden was one of the three nominees for female breakthrough of the year, with Clara Charlotte and Theodora. The trophy, handed over on 13 May 2025 at La Seine Musicale, went to Theodora.",
+  ),
+  (
+    "What are Denden verified tracks?",
+    "The documented singles are Ils se demandent (2024), Faut doser, which interpolates Promiscuous by Nelly Furtado and Timbaland, Padtal (2025), Valide (July 2025, Y&W and Aura Music labels) and Clap Clap, with the variants Ils se demandent (Slowed) and Padtal - Speed Up on top. No album is listed in the sources to date.",
+  ),
+  (
+    "Is Denden’s Padtal bouyon or shatta?",
+    "Deezer files it as bouyon: the platform lists “Padtal” in its Bouyon bass playlist, next to Theodora, Ridge and Natoxie. Shatta, the dancehall of the French Antilles, enters the description of her style: Famous Birthdays sums up Denden’s sound as a blend of afro, shatta and pop. For the platforms, the song itself is classified bouyon.",
+  ),
+  (
+    "Who is Davy One, the composer of Padtal?",
+    "Davy One is the composer Deezer credits on “Padtal”, the only published production credit for the song. He is no untraceable name: Shazam documents his own catalogue, including the track “De Lourd”, released on 14 April 2024 on the BEDROOM2002 label, in the single album “De L’or”. He was therefore already released on streaming before “Padtal”.",
+  ),
+  (
+    "Is there a bouyon remix of Padtal?",
+    "Yes. The tracklist of a LET HIM COOK radio session, published on YouTube, includes a “Patogal (Denden) Bouyon Remix” by Dj Anilson in the middle of a bouyon programme. The genre’s DJs have thus reworked the song as one of their own. “Padtal” also exists in a Speed Up version on the platforms, a format built for dance videos.",
+  ),
+  (
+    "Which Denden song interpolates Promiscuous by Nelly Furtado?",
+    "It is “Faut doser”, her second documented single. According to RadioVideo.Music, the song interpolates “Promiscuous”, the Nelly Furtado and Timbaland hit: it replays an element of the 2006 track instead of sampling it as is. That move of recycling the 2000s at today’s tempo is typical of the new French pop.",
+  ),
+  (
+    "What is the link between Denden and Theodora?",
+    "They were nominated in the same category at Les Flammes 2025, female breakthrough of the year, with Clara Charlotte, and Theodora won it. Deezer also brings them together in its Bouyon bass playlist, and Sound and Vision magazine places Denden among current French artists drawing from coupé-décalé to bouyon, alongside Theodora and Yseult.",
+  ),
+  (
+    "Has Denden performed live?",
+    "Yes. RadioVideo.Music mentions concerts, including a date at La Cigale in Paris. A recording of “Validé” on the Festival AfroDisiac stage, shared by the RAPOLOG TikTok account, also shows her in festival conditions in her first full year of career. No full tour is listed in the sources consulted.",
+  ),
+  (
+    "Where can I hear Padtal and Denden’s bouyon side?",
+    "On Deezer, “Padtal” sits in the Bouyon bass playlist with its full credits, and its Speed Up version circulates on the platforms. Dj Anilson’s bouyon remix plays in DJ sets. To hear the song’s neighbourhood, the Bouyon Shattaz <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> gathers the genre’s new releases, from Dominica to the Antilles and Paris.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/denden.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/denden.html#artist", "name": "Denden", "description": "French singer born Eden Yaba in Villepinte in 2005. First single Ils se demandent (2024) certified gold in France and Belgium; her track Padtal (2025), composed by Davy One, is filed in Deezer Bouyon bass playlist.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Ils se demandent"}, {"@type": "MusicRecording", "name": "Faut doser"}, {"@type": "MusicRecording", "name": "Padtal"}, {"@type": "MusicRecording", "name": "Validé"}, {"@type": "MusicRecording", "name": "Clap Clap"}, {"@type": "MusicRecording", "name": "Ils se demandent (Slowed)"}, {"@type": "MusicRecording", "name": "Padtal - Speed Up"},
       {
        "@type": "MusicRecording",

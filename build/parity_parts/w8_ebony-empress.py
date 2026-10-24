@@ -93,13 +93,59 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Ebony Empress, et quel est son vrai nom ?", "Ebony Empress est le nom de scène d’Everlyne Walters, créditée Everlyne Leandra Walters sur « Back Up Your Chat ». Selon le profil et l’interview publiés par Lazie Indie Magazine en avril 2025, elle est née dans le village de Lagoon, à Portsmouth, en Dominique, elle a commencé son parcours musical à dix ans, et elle est aujourd’hui basée à Saint-Martin, où elle a suivi un Associate Degree en General Liberal Arts à l’Université de Saint-Martin en écrivant chansons et poésie."),
-  ("Pourquoi Ebony Empress a-t-elle choisi ce nom de scène ?", "Dans son interview à Lazie Indie Magazine, elle répond qu’elle a choisi le nom Ebony Empress parce qu’il définit sa véritable identité de Black African Empress, impératrice africaine noire. Le magazine y voit une affirmation de sa beauté de peau foncée, de son héritage africain et de la force royale qu’elle incarne sur scène et en dehors. Ses propres crédits vidéo la présentent en outre comme The Goddess of Bouyon, un titre qu’elle se donne elle-même."),
-  ("Quels sont les titres qui ont lancé et établi Ebony Empress ?", "Sa percée est son single bouyon de 2018 « Quality Bumper », aussi écrit « Quality Bumpa » dans ses réponses d’interview, qui l’a menée sur des scènes à New York, en Hollande, en Angleterre et dans la Caraïbe. « Cosy Corner », son gros single groovy, est resté numéro un pendant la saison du carnaval et a dominé, selon le magazine, la scène groovy de Saint-Martin au carnaval 2023."),
-  ("« Back Up Your Chat » était-elle vraiment la première chanson d’Ebony Empress ?", "Oui, selon ses propres déclarations rapportées par Black Island Girl Multimedia en mai 2026. Pendant un entretien en direct sur l’émission de Foxy Jael, elle a révélé que « Back Up Your Chat », sorti en 2026 en remix avec Foxy Jael, production YoJoshii et Yung Pierre, écriture Everlyne Leandra Walters et Aurelle Joseph, était la première chanson qu’elle ait jamais créée, ramenée et modernisée des années plus tard parce que le beat avait changé."),
-  ("Quel résultat Ebony Empress a-t-elle obtenu en calypso, loin du bouyon ?", "La presse saint-martinoise rapporte qu’en 2024, Everlyne « Ebony Empress » Walters a terminé deuxième dauphine du Senior Calypso de Saint-Martin, avec 441 points et 3500 dollars de prix, derrière Fish Da Mega Boss et Mighty Dow, avec une chanson remarquée, « Cartoon Character », qui moquait le manque de sérieux de nombreux dirigeants. Un reportage sur les éliminatoires senior de la SCDF la crédite aussi d’un titre de finale, « Revolution Change »."),
-  ("Ebony Empress a-t-elle gagné le prix d’artiste bouyon de l’année aux Caribbean Music Awards 2026 ?", "Non, elle y a été nommée, ce qui est déjà une reconnaissance régionale. The Peoples Tribune SXM compte Ebony Empress parmi les artistes de Saint-Martin nommés aux Caribbean Music Awards 2026, dans la catégorie Best Bouyon Artist. Les résultats publiés en septembre 2026 donnent ce titre à Mr. Ridge. Pour écouter la saison, suivez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>.")
- ],
+  (
+    "Qui est Ebony Empress, et quel est son vrai nom ?",
+    "Ebony Empress est le nom de scène d’Everlyne Walters, créditée Everlyne Leandra Walters sur « Back Up Your Chat ». Selon le profil et l’interview publiés par Lazie Indie Magazine en avril 2025, elle est née dans le village de Lagoon, à Portsmouth, en Dominique, elle a commencé son parcours musical à dix ans, et elle est aujourd’hui basée à Saint-Martin.",
+  ),
+  (
+    "D’où vient Ebony Empress ?",
+    "Ebony Empress est née à Lagoon, village de Portsmouth, deuxième ville de la Dominique, au nord de l’île. Installée à Saint-Martin, elle y a suivi un Associate Degree en General Liberal Arts à l’Université de Saint-Martin en écrivant chansons et poésie. Elle revendique les deux appartenances, dominicaine de naissance et saint-martinoise de scène, et ses comptes vidéo portent les deux drapeaux.",
+  ),
+  (
+    "Pourquoi Ebony Empress a-t-elle choisi ce nom de scène ?",
+    "Dans son interview à Lazie Indie Magazine, elle répond qu’elle a choisi le nom Ebony Empress parce qu’il définit sa véritable identité de Black African Empress, impératrice africaine noire. Le magazine y voit une affirmation de sa beauté, de son héritage africain et de sa force royale. Ses propres crédits vidéo la présentent aussi comme The Goddess of Bouyon, un titre qu’elle se donne elle-même.",
+  ),
+  (
+    "Pourquoi Ebony Empress chante-t-elle du bouyon ?",
+    "Parce que le bouyon joue un rôle énorme dans la culture de la Dominique, explique-t-elle à Lazie Indie Magazine. Petite fille, son rêve était de devenir une artiste bouyon, son premier single était une chanson bouyon, et elle dit composer encore du bouyon aujourd’hui. Chez elle, le genre précède la carrière, même si son catalogue s’étend à la soca, à l’afro soca et au calypso.",
+  ),
+  (
+    "Quels sont les titres qui ont lancé et établi Ebony Empress ?",
+    "Sa percée est son single bouyon de 2018 « Quality Bumper », aussi écrit « Quality Bumpa » dans ses réponses d’interview, qui l’a menée sur des scènes à New York, en Hollande, en Angleterre et dans la Caraïbe. « Cosy Corner », son gros single groovy, est resté numéro un pendant la saison du carnaval et a dominé, selon le magazine, la scène groovy de Saint-Martin en 2023.",
+  ),
+  (
+    "Quelles chansons d’Ebony Empress parlent des femmes ?",
+    "Lazie Indie Magazine cite « Strength of a Woman », « Domestic Violence », « Woman is Boss » et « 10 out of 10 », des hymnes sur l’amour de soi, la violence domestique et l’autonomisation des femmes. Elle-même ajoute « Quality Bumpa » parmi les titres qui donnent de la force aux femmes, et dit que ces chansons ont eu un impact énorme pour soulever les reines, partout.",
+  ),
+  (
+    "« Back Up Your Chat » était-elle vraiment la première chanson d’Ebony Empress ?",
+    "Oui, selon ses propres déclarations rapportées par Black Island Girl Multimedia en mai 2026. Pendant un entretien en direct sur l’émission de Foxy Jael, elle a révélé que « Back Up Your Chat », sorti en 2026 avec Foxy Jael, était la première chanson qu’elle ait jamais créée, ramenée et modernisée des années plus tard parce que le beat avait changé.",
+  ),
+  (
+    "Qui a produit Back Up Your Chat d’Ebony Empress et Foxy Jael ?",
+    "Selon Black Island Girl Multimedia, « Back Up Your Chat » est produit par YoJoshii et Yung Pierre, mixé par Cleverns Pierre, masterisé par Khallion et enregistré au Felix Studio, avec une écriture d’Everlyne Leandra Walters et Aurelle Joseph. Le titre vise les hommes qui promettent tout et ne livrent rien. Voir notre page <a href=\"/foxy-jael.html\">Foxy Jael</a>.",
+  ),
+  (
+    "Qui a produit Bounce 2D Riddim d’Ebony Empress ?",
+    "McGyver, selon la vidéo officielle de « Bounce 2D Riddim », abrégé B2DR. La chanson est écrite par Everlyne Walters et Philisburt Carette, et la vidéo met en scène les danseuses Denise Edwards, Shantel Duruo et Yaya. Elle appelle à rebondir sur le riddim, bounce to di riddim, pour jeunes et moins jeunes, et présente l’artiste sous le titre qu’elle se donne, The Goddess of Bouyon.",
+  ),
+  (
+    "Qu’est-ce que Largent, avec General Pye et Ebony Empress ?",
+    "« Largent » est un titre de General Pye avec Ebony Empress en featuring, présenté comme Bouyon 2026 sur YouTube. Il est produit par Fr3EzE, et mixé et masterisé par Xavvoknockin. Avec « Back Up Your Chat » et « Bounce 2D Riddim », il fait partie de la relance de 2026 qui la montre en pleine actualité, depuis Saint-Martin, sur la scène bouyon régionale.",
+  ),
+  (
+    "Ebony Empress a-t-elle joué à Notting Hill ?",
+    "Oui, selon Lazie Indie Magazine, qui cite le carnaval de Notting Hill au Royaume-Uni et le week-end de la fête du Travail à New York parmi ses scènes. Son souvenir le plus marquant, raconte-t-elle, reste la route de Notting Hill, devant des milliers de personnes chantant et dansant sur sa musique dans les rues. Ses scènes internationales ont commencé en 2018 avec « Quality Bumper », qui l’a menée à New York, en Hollande et en Angleterre.",
+  ),
+  (
+    "Quel résultat Ebony Empress a-t-elle obtenu en calypso, loin du bouyon ?",
+    "En 2024, Everlyne « Ebony Empress » Walters a terminé deuxième dauphine du Senior Calypso de Saint-Martin, avec 441 points et 3500 dollars de prix, derrière Fish Da Mega Boss et Mighty Dow, avec « Cartoon Character », qui moquait le manque de sérieux de nombreux dirigeants. Un reportage sur les éliminatoires senior de la SCDF la crédite aussi d’un titre de finale, « Revolution Change ».",
+  ),
+  (
+    "Ebony Empress a-t-elle gagné le prix d’artiste bouyon de l’année aux Caribbean Music Awards 2026 ?",
+    "Non, elle y a été nommée, ce qui est déjà une reconnaissance régionale. The Peoples Tribune SXM compte Ebony Empress parmi les artistes de Saint-Martin nommés aux Caribbean Music Awards 2026, dans la catégorie Best Bouyon Artist. Les résultats publiés en septembre 2026 donnent ce prix à Mr. Ridge. Pour écouter la saison, suivez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/ebony-empress.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/ebony-empress.html#artist", "name": "Ebony Empress", "description": "Chanteuse bouyon née Everlyne Walters à Lagoon, Portsmouth, Dominique, basée à Saint-Martin. Percée en 2018 avec Quality Bumper, succès groovy Cosy Corner, deuxième dauphine du Senior Calypso de Saint-Martin en 2024, nommée artiste bouyon de l’année aux Caribbean Music Awards 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Quality Bumper"}, {"@type": "MusicRecording", "name": "Cosy Corner"}, {"@type": "MusicRecording", "name": "Strength of a Woman"}, {"@type": "MusicRecording", "name": "Domestic Violence"}, {"@type": "MusicRecording", "name": "Woman is Boss"}, {"@type": "MusicRecording", "name": "10 out of 10"}, {"@type": "MusicRecording", "name": "Cheers"}, {"@type": "MusicRecording", "name": "Cartoon Character"}, {"@type": "MusicRecording", "name": "Revolution Change"}, {"@type": "MusicRecording", "name": "Back Up Your Chat"}, {"@type": "MusicRecording", "name": "Largent"}, {"@type": "MusicRecording", "name": "Bounce 2D Riddim"},
       {
        "@type": "MusicRecording",
@@ -357,13 +403,59 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Ebony Empress, and what is her real name?", "Ebony Empress is the stage name of Everlyne Walters, credited as Everlyne Leandra Walters on “Back Up Your Chat”. According to the profile and interview published by Lazie Indie Magazine in April 2025, she was born in the village of Lagoon, Portsmouth, Dominica, she began her musical journey at age ten, and she is now based in St. Maarten, where she took an Associate Degree in General Liberal Arts at the University of St. Maarten while writing songs and poetry."),
-  ("Why did Ebony Empress choose that stage name?", "In her Lazie Indie Magazine interview, she answers that she chose the name Ebony Empress because it defines her true identity as a black African Empress. The magazine sees in it an affirmation of her dark skinned beauty, her African heritage and the regal strength she embodies on and off stage. Her own video credits also present her as The Goddess of Bouyon, a billing she gives herself."),
-  ("Which tracks launched and established Ebony Empress?", "Her breakout is her 2018 bouyon single “Quality Bumper”, also written “Quality Bumpa” in her interview answers, which took her to stages in New York, Holland, England and the Caribbean. “Cosy Corner”, her big groovy single, stayed number one during the carnival season and dominated, according to the magazine, St. Maarten groovy scene at carnival 2023."),
-  ("Was “Back Up Your Chat” really the first song Ebony Empress ever created?", "Yes, according to her own statements reported by Black Island Girl Multimedia in May 2026. During a livestream interview on Foxy Jael show, she revealed that “Back Up Your Chat”, released in 2026 as a remix featuring Foxy Jael, produced by YoJoshii and Yung Pierre, written by Everlyne Leandra Walters and Aurelle Joseph, was the first song she ever created, brought back and modernised years later because the beat had changed."),
-  ("What result did Ebony Empress achieve in calypso, away from bouyon?", "The St. Maarten press reports that in 2024, Everlyne “Ebony Empress” Walters finished second runner up in the St. Maarten Senior Calypso competition, with 441 points and 3500 dollars in prize money, behind Fish Da Mega Boss and Mighty Dow, with a standout song, “Cartoon Character”, mocking the lack of seriousness in many leadership positions. Reporting on the SCDF senior eliminations also credits her with a final song, “Revolution Change”."),
-  ("Did Ebony Empress win Bouyon Artist of the Year at the Caribbean Music Awards 2026?", "No, she was nominated there, which is already regional recognition. The Peoples Tribune SXM counts Ebony Empress among the St. Maarten artists nominated at the Caribbean Music Awards 2026, in the Best Bouyon Artist category. Results published in September 2026 give that title to Mr. Ridge. To hear the season, follow our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>.")
- ],
+  (
+    "Who is Ebony Empress, and what is her real name?",
+    "Ebony Empress is the stage name of Everlyne Walters, credited as Everlyne Leandra Walters on “Back Up Your Chat”. According to the profile and interview published by Lazie Indie Magazine in April 2025, she was born in the village of Lagoon, Portsmouth, Dominica, she began her musical journey at age ten, and she is now based in St. Maarten.",
+  ),
+  (
+    "Where is Ebony Empress from?",
+    "Ebony Empress was born in Lagoon, a village of Portsmouth, Dominica's second town, in the north of the island. Settled in St. Maarten, she took an Associate Degree in General Liberal Arts at the University of St. Maarten while writing songs and poetry. She claims both belongings, Dominican by birth and St. Maarten by stage, and her video accounts carry both flags.",
+  ),
+  (
+    "Why did Ebony Empress choose that stage name?",
+    "In her Lazie Indie Magazine interview, she answers that she chose the name Ebony Empress because it defines her true identity as a black African Empress. The magazine sees in it an affirmation of her beauty, her African heritage and her regal strength. Her own video credits also present her as The Goddess of Bouyon, a billing she gives herself.",
+  ),
+  (
+    "Why does Ebony Empress sing bouyon?",
+    "Because bouyon plays a huge role in Dominica's culture, she explains to Lazie Indie Magazine. As a little girl, her dream was to become a bouyon artist, her first single was a bouyon song, and she says she still composes bouyon today. For her, the genre came before the career, even if her catalogue also reaches into soca, afro soca and calypso.",
+  ),
+  (
+    "Which tracks launched and established Ebony Empress?",
+    "Her breakout is her 2018 bouyon single “Quality Bumper”, also written “Quality Bumpa” in her interview answers, which took her to stages in New York, Holland, England and the Caribbean. “Cosy Corner”, her big groovy single, stayed number one during the carnival season and dominated, according to the magazine, the St. Maarten groovy scene in 2023.",
+  ),
+  (
+    "Which Ebony Empress songs are about women?",
+    "Lazie Indie Magazine names “Strength of a Woman”, “Domestic Violence”, “Woman is Boss” and “10 out of 10”, anthems about self love, domestic violence and women's empowerment. She herself adds “Quality Bumpa” among the songs that give women strength, and says these songs have had a huge impact in uplifting queens everywhere.",
+  ),
+  (
+    "Was “Back Up Your Chat” really the first song Ebony Empress ever created?",
+    "Yes, according to her own statements reported by Black Island Girl Multimedia in May 2026. During a livestream interview on Foxy Jael's show, she revealed that “Back Up Your Chat”, released in 2026 with Foxy Jael, was the first song she ever created, brought back and modernised years later because the beat had changed.",
+  ),
+  (
+    "Who produced Back Up Your Chat by Ebony Empress and Foxy Jael?",
+    "According to Black Island Girl Multimedia, “Back Up Your Chat” is produced by YoJoshii and Yung Pierre, mixed by Cleverns Pierre, mastered by Khallion and recorded at Felix Studio, with writing by Everlyne Leandra Walters and Aurelle Joseph. The song targets men who promise everything and deliver nothing. See our <a href=\"/en/foxy-jael.html\">Foxy Jael</a> page.",
+  ),
+  (
+    "Who produced Ebony Empress's Bounce 2D Riddim?",
+    "McGyver, according to the official video of “Bounce 2D Riddim”, shortened to B2DR. The song is written by Everlyne Walters and Philisburt Carette, and the video features the dancers Denise Edwards, Shantel Duruo and Yaya. It calls on listeners to bounce to di riddim, young and old, and presents the artist under the billing she gives herself, The Goddess of Bouyon.",
+  ),
+  (
+    "What is Largent, with General Pye and Ebony Empress?",
+    "“Largent” is a General Pye record featuring Ebony Empress, presented as Bouyon 2026 on YouTube. It is produced by Fr3EzE, and mixed and mastered by Xavvoknockin. With “Back Up Your Chat” and “Bounce 2D Riddim”, it is part of the 2026 relaunch that shows her fully active, from St. Maarten, on the regional bouyon scene.",
+  ),
+  (
+    "Has Ebony Empress performed at Notting Hill?",
+    "Yes, according to Lazie Indie Magazine, which names Notting Hill Carnival in the United Kingdom and Labour Day Weekend in New York among her stages. Her most memorable moment, she says, remains the Notting Hill road, in front of thousands of people singing and dancing to her music in the streets. Her international stages began in 2018 with “Quality Bumper”, which took her to New York, Holland and England.",
+  ),
+  (
+    "What result did Ebony Empress achieve in calypso, away from bouyon?",
+    "In 2024, Everlyne “Ebony Empress” Walters finished second runner up in the St. Maarten Senior Calypso competition, with 441 points and 3500 dollars in prize money, behind Fish Da Mega Boss and Mighty Dow, with “Cartoon Character”, mocking the lack of seriousness in many leadership positions. Reporting on the SCDF senior eliminations also credits her with a final song, “Revolution Change”.",
+  ),
+  (
+    "Did Ebony Empress win Bouyon Artist of the Year at the Caribbean Music Awards 2026?",
+    "No, she was nominated there, which is already regional recognition. The Peoples Tribune SXM counts Ebony Empress among the St. Maarten artists nominated at the Caribbean Music Awards 2026, in the Best Bouyon Artist category. Results published in September 2026 give that award to Mr. Ridge. To hear the season, follow our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/ebony-empress.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/ebony-empress.html#artist", "name": "Ebony Empress", "description": "Bouyon singer born Everlyne Walters in Lagoon, Portsmouth, Dominica, based in St. Maarten. Breakout in 2018 with Quality Bumper, groovy success Cosy Corner, second runner up in the St. Maarten Senior Calypso competition in 2024, nominated for Bouyon Artist of the Year at the Caribbean Music Awards 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Quality Bumper"}, {"@type": "MusicRecording", "name": "Cosy Corner"}, {"@type": "MusicRecording", "name": "Strength of a Woman"}, {"@type": "MusicRecording", "name": "Domestic Violence"}, {"@type": "MusicRecording", "name": "Woman is Boss"}, {"@type": "MusicRecording", "name": "10 out of 10"}, {"@type": "MusicRecording", "name": "Cheers"}, {"@type": "MusicRecording", "name": "Cartoon Character"}, {"@type": "MusicRecording", "name": "Revolution Change"}, {"@type": "MusicRecording", "name": "Back Up Your Chat"}, {"@type": "MusicRecording", "name": "Largent"}, {"@type": "MusicRecording", "name": "Bounce 2D Riddim"},
       {
        "@type": "MusicRecording",

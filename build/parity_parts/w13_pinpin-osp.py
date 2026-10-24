@@ -63,13 +63,51 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Pinpin OSP ?", "C’est un artiste de Guadeloupe, classé hip hop et hip hop alternatif par la plateforme Viberate, qui le range parmi les artistes proches d’Aknose, LeJuh, Tiitii NBA et Shanika. Son catalogue vérifié est publié principalement sur le label VGM Product, avec des titres comme « Make it pop » avec Edday et « On Fwa » avec Shanika."),
-  ("Que veut dire OSP dans Pinpin OSP ?", "Aucune des sources consultées pour ce profil ne l’explique, et ce profil ne va pas inventer une expansion pour ces trois lettres. Le sigle est partagé avec d’autres artistes de la même scène guadeloupéenne, dont Piscine OSP, cité parmi les artistes bouyon les plus en vue de Guadeloupe dans une interview de Caraïb Créole News. Si l’artiste publie un jour la signification, ce profil la reprendra avec sa source."),
-  ("Quels sont les titres vérifiés de Pinpin OSP ?", "Les titres documentés par des fiches de plateformes sont « Make it pop » avec Edday, sorti le 2 novembre 2023 sur VGM Product, « On Fwa » avec Shanika, sorti en 2024 sur VGM Product’, « Don’t Play », « Open Like Dat », daté de 2023 dans un classement de DJ, « My Lolly » avec Totally Spice’s, et le clip « SEE U ». Viberate liste aussi « Vody » et « Full » comme ses titres les plus populaires."),
-  ("Pourquoi la date de sortie de On Fwa change t-elle selon les sites ?", "Parce que les plateformes ne publient pas la même date : Shazam donne le 8 juin 2024, tandis que la discographie Qobuz de Shanika donne le 10 juillet 2024, pour le même titre et le même label VGM Product’. Aucune source primaire consultée ne permet de trancher. Ce profil retient la date Shazam et signale l’écart, au lieu de choisir en silence."),
-  ("Qui travaille avec Pinpin OSP chez VGM Product ?", "Les crédits publiés dessinent une équipe stable : Brian Lomba, auteur sur « On Fwa », « Make it pop » et « Don’t Play » ; Luchshiy, compositeur sur « Make it pop » ; YasBeats, compositeur sur « Don’t Play » ; YoJoshii, producteur du clip « SEE U » ; et VGM Product, label des singles et crédit d’enregistrement, de mixage et de mastering sur « SEE U »."),
-  ("Où écouter Pinpin OSP et le bouyon gwada ?", "Commencez par « Make it pop » et « On Fwa », puis regardez le clip « SEE U ». Notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> et notre page <a href=\"/bouyon-gwada.html\">bouyon gwada</a> replacent ensuite Pinpin OSP dans l’ensemble de sa scène, entre Guadeloupe et Dominique, là où le genre est né.")
- ],
+  (
+    "Qui est Pinpin OSP ?",
+    "C’est un artiste de Guadeloupe, classé hip hop et hip hop alternatif par la plateforme Viberate, qui le range parmi les artistes proches d’Aknose, LeJuh, Tiitii NBA et Shanika. Son catalogue vérifié est publié principalement sur le label VGM Product, avec des titres comme « Make it pop » avec Edday et « On Fwa » avec Shanika. Aucune biographie publiée n’a été retrouvée.",
+  ),
+  (
+    "Que veut dire OSP dans Pinpin OSP ?",
+    "Aucune des sources consultées pour ce profil ne l’explique, et ce profil n’invente pas d’expansion pour ces trois lettres. Le sigle est partagé avec d’autres artistes de la même scène guadeloupéenne, dont Piscine OSP, cité parmi les artistes bouyon les plus en vue de Guadeloupe dans une interview de Caraïb Créole News. Si l’artiste publie un jour la signification, ce profil la reprendra avec sa source.",
+  ),
+  (
+    "Quels sont les titres vérifiés de Pinpin OSP ?",
+    "Les titres documentés par des fiches de plateformes sont « Make it pop » avec Edday, sorti le 2 novembre 2023 sur VGM Product, « On Fwa » avec Shanika, sorti en 2024 sur VGM Product’, « Don’t Play », « Open Like Dat », daté de 2023 dans un classement de DJ, « My Lolly » avec Totally Spice’s, et le clip « SEE U ». Viberate liste aussi « Vody » et « Full » comme ses titres les plus populaires.",
+  ),
+  (
+    "Pourquoi la date de sortie de On Fwa change-t-elle selon les sites ?",
+    "Parce que les plateformes ne publient pas la même date : Shazam donne le 8 juin 2024, tandis que la discographie Qobuz de Shanika donne le 10 juillet 2024, pour le même titre et le même label VGM Product’. Aucune source primaire consultée ne permet de trancher. Ce profil retient la date Shazam et signale l’écart, au lieu de choisir en silence.",
+  ),
+  (
+    "Qui travaille avec Pinpin OSP chez VGM Product ?",
+    "Les crédits publiés dessinent une équipe stable : Brian Lomba, auteur sur « On Fwa », « Make it pop » et « Don’t Play » ; Luchshiy, compositeur sur « Make it pop » ; YasBeats, compositeur sur « Don’t Play » ; YoJoshii, producteur du clip « SEE U » ; et VGM Product, label des singles et crédit d’enregistrement, de mixage et de mastering sur « SEE U ».",
+  ),
+  (
+    "Où écouter Pinpin OSP et le bouyon gwada ?",
+    "Commencez par « Make it pop » et « On Fwa », les deux singles VGM entièrement documentés, puis regardez le clip « SEE U ». Pour replacer ensuite Pinpin OSP dans l’ensemble de sa scène, entre Guadeloupe et Dominique, là où le genre est né, écoutez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, qui mélange la nouvelle vague et les classiques du genre.",
+  ),
+  (
+    "Qui a produit le clip « SEE U » de Pinpin OSP ?",
+    "Selon la description officielle de la vidéo YouTube, « SEE U » est produit par YoJoshii, réalisé par Mproduction971, dont le 971 rappelle le code de la Guadeloupe, et enregistré, mixé et masterisé chez VGM Product. Pinpin OSP y est crédité comme auteur sous le nom PINPINOSPOFFICIEL, et les mots-clés de la vidéo sont sans ambiguïté : bouyon, Pinpin, VGM.",
+  ),
+  (
+    "Qui a écrit « Make it pop » ?",
+    "Les crédits Shazam nomment quatre auteurs-compositeurs : <a href=\"/edday.html\">Edday</a>, Luchshiy, Brian Lomba et Corane Vincent. Le titre, en duo avec Edday, est sorti le 2 novembre 2023 sur le label VGM Product, en français et à 160 BPM, le tempo de référence du bouyon moderne. Luchshiy, producteur récurrent de la scène gwada, ancre ce premier single dans le circuit bouyon.",
+  ),
+  (
+    "Pinpin OSP fait-il du rap ou du bouyon ?",
+    "Les deux, selon les sources. Viberate le classe en hip hop et hip hop alternatif, mais son catalogue chante sur du bouyon : « Make it pop » tourne à 160 BPM, et les mots-clés de son clip « SEE U », choisis par son camp, commencent par bouyon. Ce passage du rap au bouyon selon la production est typique du <a href=\"/bouyon-gwada.html\">bouyon gwada</a> des années 2020.",
+  ),
+  (
+    "Qui est Shanika, sa partenaire sur « On Fwa » ?",
+    "<a href=\"/shanika.html\">Shanika</a> est une chanteuse que Viberate classe dans le circuit guadeloupéen et qu’une interview de Caraïb Créole News cite parmi les artistes bouyon les plus en vue de Guadeloupe. Sur « On Fwa », elle apporte le registre pop et mélodique, Pinpin OSP le registre rap et bouyon. L’écriture du titre est créditée à Shanika et Brian Lomba, sur le label VGM Product’.",
+  ),
+  (
+    "Quel est le titre le plus populaire de Pinpin OSP ?",
+    "Selon la plateforme d’analyse Viberate, ses titres les plus populaires sont « Vody » et « Full ». Dans le catalogue vérifié titre par titre, le plus visible est « On Fwa », son duo de 2024 avec Shanika sur VGM Product, qui tourne dans les sélections des deux artistes. « Open Like Dat » est aussi retenu par le classement communautaire bouyon de VirtualDJ.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/pinpin-osp.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/pinpin-osp.html#artist", "name": "Pinpin OSP", "description": "Artiste de Guadeloupe classé hip hop et bouyon. Singles documentés sur VGM Product : Make it pop avec Edday en 2023 et On Fwa avec Shanika en 2024. La signification de OSP n’est publiée par aucune source consultée.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "On Fwa"}, {"@type": "MusicRecording", "name": "Make it pop"}, {"@type": "MusicRecording", "name": "Don't Play"}, {"@type": "MusicRecording", "name": "Open Like Dat"}, {"@type": "MusicRecording", "name": "My Lolly"}, {"@type": "MusicRecording", "name": "SEE U"},
       {
        "@type": "MusicRecording",
@@ -177,13 +215,51 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Pinpin OSP?", "He is an artist from Guadeloupe, filed under hip hop and alternative hip hop by the Viberate platform, which lists him among the artists close to Aknose, LeJuh, Tiitii NBA and Shanika. His verified catalogue is released mainly on the VGM Product label, with records such as “Make it pop” with Edday and “On Fwa” with Shanika."),
-  ("What does OSP mean in Pinpin OSP?", "None of the sources consulted for this profile explains it, and this profile will not invent an expansion for those three letters. The tag is shared with other artists from the same Guadeloupe scene, among them Piscine OSP, named among the most prominent bouyon artists in Guadeloupe in a Caraïb Créole News interview. If the artist ever publishes the meaning, this profile will carry it with its source."),
-  ("What are Pinpin OSP verified records?", "The records documented by platform listings are “Make it pop” with Edday, released on November 2, 2023 on VGM Product, “On Fwa” with Shanika, released in 2024 on VGM Product', “Don't Play”, “Open Like Dat”, dated 2023 in a DJ chart, “My Lolly” with Totally Spice's, and the “SEE U” video. Viberate also lists “Vody” and “Full” as his most popular songs."),
-  ("Why does the On Fwa release date change between sites?", "Because the platforms do not publish the same date: Shazam gives June 8, 2024, while the Qobuz discography of Shanika gives July 10, 2024, for the same record and the same VGM Product' label. No primary source consulted can settle it. This profile keeps the Shazam date and flags the gap, instead of choosing in silence."),
-  ("Who works with Pinpin OSP at VGM Product?", "The published credits draw a stable team: Brian Lomba, songwriter on “On Fwa”, “Make it pop” and “Don't Play”; Luchshiy, composer on “Make it pop”; YasBeats, composer on “Don't Play”; YoJoshii, producer of the “SEE U” video; and VGM Product, label of the singles and the recording, mixing and mastering credit on “SEE U”."),
-  ("Where can I hear Pinpin OSP and Gwada bouyon?", "Start with “Make it pop” and “On Fwa”, then watch the “SEE U” video. Our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> and our <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a> page then place Pinpin OSP inside his whole scene, between Guadeloupe and Dominica, where the genre was born.")
- ],
+  (
+    "Who is Pinpin OSP?",
+    "He is an artist from Guadeloupe, filed under hip hop and alternative hip hop by the Viberate platform, which lists him among the artists close to Aknose, LeJuh, Tiitii NBA and Shanika. His verified catalogue is released mainly on the VGM Product label, with records such as “Make it pop” with Edday and “On Fwa” with Shanika. No published biography was found.",
+  ),
+  (
+    "What does OSP mean in Pinpin OSP?",
+    "None of the sources consulted for this profile explains it, and this profile will not invent an expansion for those three letters. The tag is shared with other artists from the same Guadeloupe scene, among them Piscine OSP, named among the most prominent bouyon artists in Guadeloupe in a Caraïb Créole News interview. If the artist ever publishes the meaning, this profile will carry it with its source.",
+  ),
+  (
+    "What are Pinpin OSP’s verified records?",
+    "The records documented by platform listings are “Make it pop” with Edday, released on November 2, 2023 on VGM Product, “On Fwa” with Shanika, released in 2024 on VGM Product’, “Don’t Play”, “Open Like Dat”, dated 2023 in a DJ chart, “My Lolly” with Totally Spice’s, and the “SEE U” video. Viberate also lists “Vody” and “Full” as his most popular songs.",
+  ),
+  (
+    "Why does the On Fwa release date change between sites?",
+    "Because the platforms do not publish the same date: Shazam gives June 8, 2024, while the Qobuz discography of Shanika gives July 10, 2024, for the same record and the same VGM Product’ label. No primary source consulted can settle it. This profile keeps the Shazam date and flags the gap, instead of choosing in silence.",
+  ),
+  (
+    "Who works with Pinpin OSP at VGM Product?",
+    "The published credits draw a stable team: Brian Lomba, songwriter on “On Fwa”, “Make it pop” and “Don’t Play”; Luchshiy, composer on “Make it pop”; YasBeats, composer on “Don’t Play”; YoJoshii, producer of the “SEE U” video; and VGM Product, label of the singles and the recording, mixing and mastering credit on “SEE U”.",
+  ),
+  (
+    "Where can I hear Pinpin OSP and Gwada bouyon?",
+    "Start with “Make it pop” and “On Fwa”, the two fully documented VGM singles, then watch the “SEE U” video. To place Pinpin OSP inside his whole scene, between Guadeloupe and Dominica, where the genre was born, then hear our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, which mixes the new wave with the classics of the genre.",
+  ),
+  (
+    "Who produced Pinpin OSP’s “SEE U” video?",
+    "According to the official YouTube video description, “SEE U” is produced by YoJoshii, directed by Mproduction971, whose 971 recalls Guadeloupe’s code, and recorded, mixed and mastered at VGM Product. Pinpin OSP is credited there as songwriter under the name PINPINOSPOFFICIEL, and the video keywords leave no doubt: bouyon, Pinpin, VGM.",
+  ),
+  (
+    "Who wrote “Make it pop”?",
+    "The Shazam credits name four songwriters and composers: <a href=\"/en/edday.html\">Edday</a>, Luchshiy, Brian Lomba and Corane Vincent. The song, a duet with Edday, was released on November 2, 2023 on the VGM Product label, in French and at 160 BPM, the reference tempo of modern bouyon. Luchshiy, a recurring producer of the gwada scene, anchors this first single in the bouyon circuit.",
+  ),
+  (
+    "Does Pinpin OSP make rap or bouyon?",
+    "Both, according to the sources. Viberate files him under hip hop and alternative hip hop, but his catalogue sings over bouyon: “Make it pop” runs at 160 BPM, and the keywords of his “SEE U” video, chosen by his own camp, start with bouyon. Moving from rap to bouyon depending on the production is typical of 2020s <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a>.",
+  ),
+  (
+    "Who is Shanika, his partner on “On Fwa”?",
+    "<a href=\"/en/shanika.html\">Shanika</a> is a singer whom Viberate files in the Guadeloupe circuit and whom a Caraïb Créole News interview names among the most prominent bouyon artists in Guadeloupe. On “On Fwa”, she brings the pop and melodic register, Pinpin OSP the rap and bouyon register. The writing of the song is credited to Shanika and Brian Lomba, on the VGM Product’ label.",
+  ),
+  (
+    "What is Pinpin OSP’s most popular song?",
+    "According to the Viberate analytics platform, his most popular songs are “Vody” and “Full”. In the catalogue verified record by record, the most visible is “On Fwa”, his 2024 duet with Shanika on VGM Product, which runs in both artists’ selections. “Open Like Dat” is also kept by the VirtualDJ community bouyon chart.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/pinpin-osp.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/pinpin-osp.html#artist", "name": "Pinpin OSP", "description": "Artist from Guadeloupe filed under hip hop and bouyon. Documented singles on VGM Product: Make it pop with Edday in 2023 and On Fwa with Shanika in 2024. The meaning of OSP is published by no source consulted.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "On Fwa"}, {"@type": "MusicRecording", "name": "Make it pop"}, {"@type": "MusicRecording", "name": "Don't Play"}, {"@type": "MusicRecording", "name": "Open Like Dat"}, {"@type": "MusicRecording", "name": "My Lolly"}, {"@type": "MusicRecording", "name": "SEE U"},
       {
        "@type": "MusicRecording",

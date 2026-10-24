@@ -61,13 +61,55 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Mr Delly ?", "Mr Delly est le nom de scène de Delton Alfred, chanteur bouyon de la Dominique. Le crédit officiel de « How De Band Playing » (2023) nomme l’interprète Delton « Mr. Delly » Alfred. Un roster publié du groupe WCK liste aussi un Delton Alfred parmi ses membres, et l’affiche officielle de Bouyon Day 2025 à Roseau programme un Delly parmi les icônes du bouyon."),
-  ("Quel est le titre le mieux documenté de Mr Delly ?", "« How De Band Playing », bouyon de 2023 présenté comme Mr Delly x Likkle Man. Sa description officielle explique le dicton « How the band, is so you have to dance » et crédite le titre comme écrit et composé par Earlson « Likkle Man » Matthew et interprété par Delton « Mr. Delly » Alfred, avec basse, guitare, batterie et voix additionnelles nommées, enregistré et mixé à Sonic Art Studios."),
-  ("Mr Delly et Shelly de Signal Band sont-ils la même personne ?", "Non, et ce profil tient à lever cette confusion. Shelly Alfred, le chanteur de Signal Band portraituré par la presse internationale, est un autre artiste. Rien dans les sources ouvertes ne permet d’attribuer son parcours, ses couronnes de calypso junior ou les albums de Signal Band à Delton « Mr Delly » Alfred, et ce profil ne le fait pas."),
-  ("Qu’est-ce que « Bouyon 101 » de Bouyon Unit ?", "C’est un titre bouyon listé en position 73 du mix « D’ Riddim Box » de Original DJ-Sly, consacré au meilleur du bouyon de 2020, et attribué à Bouyon Unit, formation créditée Delly x Skinny x Whizzkidd. La liste du mix atteste la circulation du titre en 2020, sans donner de label ni de date de sortie séparée."),
-  ("Le groupe Delly and Sye des années 1990 a-t-il existé ?", "Une seule liste de blog l’affirme, avec des titres nommés « Twaka » et « Red Devil », mais aucune autre source ouverte pendant cette recherche ne corrobore ni le groupe ni ces titres ni leur lien avec Delton Alfred. Ce profil signale donc l’affirmation comme non corroborée et ne la présente pas comme un fait."),
-  ("Où voir et écouter Mr Delly dans le bouyon actuel ?", "Le communiqué officiel de la Discover Dominica Authority pour Bouyon Day 2025 programme Delly à Bouyon in de Streets, Hanover Street à Roseau, le 25 février 2025. Pour l’écoute, commencez par « How De Band Playing », puis lisez nos pages <a href=\"/wck.html\">WCK</a> et <a href=\"/bouyon-soca.html\">bouyon soca</a> et écoutez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>.")
- ],
+  (
+    "Qui est Mr Delly ?",
+    "Mr Delly est le nom de scène de Delton Alfred, chanteur bouyon de la Dominique. Le crédit officiel de « How De Band Playing » (2023) nomme l’interprète Delton « Mr. Delly » Alfred. Un roster publié du groupe WCK liste aussi un Delton Alfred parmi ses membres, et l’affiche officielle de Bouyon Day 2025 à Roseau programme un Delly parmi les icônes du bouyon.",
+  ),
+  (
+    "Quel est le titre le mieux documenté de Mr Delly ?",
+    "« How De Band Playing », bouyon de 2023 présenté comme Mr Delly x Likkle Man. Sa description officielle le crédite comme écrit et composé par Earlson « Likkle Man » Matthew et interprété par Delton « Mr. Delly » Alfred, avec basse, guitare, batterie et voix additionnelles nommées, enregistré et mixé à Sonic Art Studios. Ses mots-clés le rattachent au bouyon, au bouyon soca et au carnaval de la Dominique 2023.",
+  ),
+  (
+    "Mr Delly et Shelly de Signal Band sont-ils la même personne ?",
+    "Non. Shelly Alfred, le chanteur de <a href=\"/signal-band.html\">Signal Band</a> portraituré par la presse internationale, est un autre artiste. Les deux hommes portent le même nom de famille et fréquentent la même scène dominicaine, mais rien dans les sources ouvertes ne permet d’attribuer à Delton « Mr Delly » Alfred le parcours de Shelly, ses couronnes de calypso junior ou les albums de Signal Band.",
+  ),
+  (
+    "Qu’est-ce que « Bouyon 101 » de Bouyon Unit ?",
+    "C’est un titre bouyon listé en position 73 du mix « D’ Riddim Box » de Original DJ-Sly, consacré au meilleur du bouyon de 2020, et attribué à Bouyon Unit, formation créditée Delly x Skinny x Whizzkidd. La liste du mix atteste la circulation du titre en 2020, sans donner de label ni de date de sortie séparée. C’est la plus ancienne trace vérifiée de Delly.",
+  ),
+  (
+    "Le groupe Delly and Sye des années 1990 a-t-il existé ?",
+    "Une seule liste de blog l’affirme, avec des titres nommés « Twaka » et « Red Devil », mais aucune autre source ouverte pendant cette recherche ne corrobore ni le groupe, ni ces titres, ni leur lien avec Delton Alfred. Ce profil signale donc l’affirmation comme non corroborée, ne la présente pas comme un fait, et laisse ces titres hors de la discographie vérifiée.",
+  ),
+  (
+    "Où voir et écouter Mr Delly dans le bouyon actuel ?",
+    "Sur scène, le communiqué officiel de la Discover Dominica Authority pour Bouyon Day 2025 programme Delly à Bouyon in de Streets, Hanover Street à Roseau, le 25 février 2025. Pour l’écoute, commencez par « How De Band Playing », puis « Bouyon 101 » de Bouyon Unit, et suivez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> pour le son de la scène dominicaine.",
+  ),
+  (
+    "Que veut dire « How De Band Playing » ?",
+    "Le titre vient d’un vieux dicton dominicain, « How the band, is so you have to dance » : comme le groupe joue, ainsi il faut danser. Sa description officielle en donne le sens : beaucoup de choses dans la vie échappent à notre contrôle, et il ne sert parfois à rien de nager à contre-courant. Le titre applique ce proverbe à différentes situations de la vie, dans la tradition des bouyons à sagesse de rue.",
+  ),
+  (
+    "Qui est Likkle Man, l’auteur de « How De Band Playing » ?",
+    "Earlson « Likkle Man » Matthew est l’auteur-compositeur crédité de « How De Band Playing ». Il figure, comme Delton Alfred, dans le roster de <a href=\"/wck.html\">WCK</a> publié par le site communautaire A Virtual Dominica : le titre réunit donc deux musiciens listés dans le groupe fondateur du bouyon, l’un qui écrit, l’autre qui chante. Likkle Man était aussi à l’affiche de Bouyon Day 2025 à Roseau.",
+  ),
+  (
+    "Qui joue sur « How De Band Playing » ?",
+    "Les crédits complets nomment Elijah JeanJacques à la basse, Joel Francis à la guitare et Nikita « Fridge » Christmas à la batterie. Les voix additionnelles réunissent Erneil « Shabba » Paul, Dorelle Diolen, Serena Alexander, Syan Davis, Deanna Emmanuel et Michael « Bully / Ti Mal » John, et l’enregistrement comme le mixage sont crédités à Sonic Art Studios. C’est un bouyon joué en formation live, pas un instrumental de producteur seul.",
+  ),
+  (
+    "Mr Delly fait-il partie de WCK ?",
+    "Un roster publié le laisse penser : le site communautaire A Virtual Dominica, dans sa page sur le bouyon en Dominique, liste Delton Alfred parmi les membres actuels de <a href=\"/wck.html\">WCK</a>, aux côtés notamment d’Earlson Matthew. Ce site est une source ancienne dont la date de mise à jour n’est pas établie : ce profil rapporte donc ce roster comme publié, sans en faire une appartenance vérifiée en 2026.",
+  ),
+  (
+    "Avec qui Mr Delly était-il à l’affiche de Bouyon Day 2025 ?",
+    "Le communiqué de la Discover Dominica Authority programme Delly aux côtés d’Asa Bantan, Litle Boy, Quan, Reo, Freddy, Clint H, Najee, Likkle Man, Skinny Bantan, Rah, Kenny G et <a href=\"/tk-international.html\">TK International</a>, avec Unstoppable Shax et DJ Snow. L’événement gratuit Bouyon in de Streets s’est tenu le mardi 25 février 2025 sur Hanover Street, à Roseau, de 18 heures à minuit.",
+  ),
+  (
+    "D’où vient Mr Delly ?",
+    "Mr Delly est un chanteur bouyon de la Dominique, rattaché par ses sources à la scène de Roseau : un roster publié de WCK, un titre de 2023 ancré dans le carnaval de la Dominique et une place sur l’affiche officielle de Bouyon Day 2025 dans la capitale. Aucune date de naissance ni commune d’origine précise n’a été retrouvée, et ce profil n’en imprime donc aucune.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/mr-delly.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/mr-delly.html#artist", "name": "Mr Delly", "alternateName": "Delton Alfred", "description": "Chanteur bouyon de la Dominique, nom complet Delton Alfred selon le crédit officiel de How De Band Playing (2023), titre écrit par Earlson Likkle Man Matthew. Programmé comme Delly à Bouyon Day 2025 à Roseau selon la Discover Dominica Authority.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "How De Band Playing"}, {"@type": "MusicRecording", "name": "Bouyon 101"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -125,13 +167,55 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Mr Delly?", "Mr Delly is the stage name of Delton Alfred, a bouyon singer from Dominica. The official credit of “How De Band Playing” (2023) names the performer Delton “Mr. Delly” Alfred. A published WCK roster also lists a Delton Alfred among its members, and the official Bouyon Day 2025 lineup in Roseau bills a Delly among the icons of bouyon."),
-  ("What is the best documented Mr Delly record?", "“How De Band Playing”, a 2023 bouyon presented as Mr Delly x Likkle Man. Its official description explains the saying “How the band, is so you have to dance” and credits the record as written and composed by Earlson “Likkle Man” Matthew and performed by Delton “Mr. Delly” Alfred, with named bass, guitar, drums and additional vocals, recorded and mixed at Sonic Art Studios."),
-  ("Are Mr Delly and Shelly of Signal Band the same person?", "No, and this profile exists to clear up that confusion. Shelly Alfred, the Signal Band singer portrayed by international press, is a different artist. Nothing in the sources opened allows his path, his junior calypso crowns or the Signal Band albums to be attributed to Delton “Mr Delly” Alfred, and this profile does not do so."),
-  ("What is “Bouyon 101” by Bouyon Unit?", "It is a bouyon record listed at position 73 of the “D’ Riddim Box” mix by Original DJ-Sly, devoted to the best of bouyon in 2020, and credited to Bouyon Unit, a formation billed Delly x Skinny x Whizzkidd. The mix list attests to the circulation of the record in 2020, without giving a label or a separate release date."),
-  ("Did the 1990s group Delly and Sye exist?", "A single blog list claims it, with titles named “Twaka” and “Red Devil”, but no other source opened during this research corroborates the group, those titles, or their link to Delton Alfred. This profile therefore flags the claim as uncorroborated and does not present it as fact."),
-  ("Where can Mr Delly be seen and heard in current bouyon?", "The official Discover Dominica Authority release for Bouyon Day 2025 bills Delly at Bouyon in de Streets, Hanover Street in Roseau, on 25 February 2025. For listening, start with “How De Band Playing”, then read our <a href=\"/en/wck.html\">WCK</a> and <a href=\"/en/bouyon-soca.html\">bouyon soca</a> pages and hear our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>.")
- ],
+  (
+    "Who is Mr Delly?",
+    "Mr Delly is the stage name of Delton Alfred, a bouyon singer from Dominica. The official credit of “How De Band Playing” (2023) names the performer Delton “Mr. Delly” Alfred. A published WCK roster also lists a Delton Alfred among its members, and the official Bouyon Day 2025 lineup in Roseau bills a Delly among the icons of bouyon.",
+  ),
+  (
+    "What is the best documented Mr Delly record?",
+    "“How De Band Playing”, a 2023 bouyon presented as Mr Delly x Likkle Man. Its official description credits the record as written and composed by Earlson “Likkle Man” Matthew and performed by Delton “Mr. Delly” Alfred, with named bass, guitar, drums and additional vocals, recorded and mixed at Sonic Art Studios. Its keywords tie it to bouyon, bouyon soca and Dominica carnival 2023.",
+  ),
+  (
+    "Are Mr Delly and Shelly of Signal Band the same person?",
+    "No. Shelly Alfred, the <a href=\"/en/signal-band.html\">Signal Band</a> singer portrayed by international press, is a different artist. The two men share a surname and the same Dominican scene, but nothing in the sources opened allows Shelly’s path, his junior calypso crowns or the Signal Band albums to be attributed to Delton “Mr Delly” Alfred.",
+  ),
+  (
+    "What is “Bouyon 101” by Bouyon Unit?",
+    "It is a bouyon record listed at position 73 of the “D’ Riddim Box” mix by Original DJ-Sly, devoted to the best of bouyon in 2020, and credited to Bouyon Unit, a formation billed Delly x Skinny x Whizzkidd. The mix list attests to the circulation of the record in 2020, without giving a label or a separate release date. It is Delly’s oldest verified trace.",
+  ),
+  (
+    "Did the 1990s group Delly and Sye exist?",
+    "A single blog list claims it, with titles named “Twaka” and “Red Devil”, but no other source opened during this research corroborates the group, those titles, or their link to Delton Alfred. This profile therefore flags the claim as uncorroborated, does not present it as fact, and keeps those titles out of the verified discography.",
+  ),
+  (
+    "Where can Mr Delly be seen and heard in current bouyon?",
+    "On stage, the official Discover Dominica Authority release for Bouyon Day 2025 bills Delly at Bouyon in de Streets, Hanover Street in Roseau, on 25 February 2025. For listening, start with “How De Band Playing”, then “Bouyon 101” by Bouyon Unit, and follow our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> for the sound of the Dominica scene.",
+  ),
+  (
+    "What does “How De Band Playing” mean?",
+    "The title comes from an old Dominican saying, “How the band, is so you have to dance”: as the band plays, so you must dance. Its official description gives the meaning: many things in life are out of our control, and sometimes there is no point swimming against the current. The song applies that proverb to different situations in life, in the tradition of street wisdom bouyon.",
+  ),
+  (
+    "Who is Likkle Man, the writer of “How De Band Playing”?",
+    "Earlson “Likkle Man” Matthew is the credited songwriter and composer of “How De Band Playing”. Like Delton Alfred, he appears in the <a href=\"/en/wck.html\">WCK</a> roster published by the community site A Virtual Dominica: the record therefore joins two musicians listed in bouyon’s founding band, one who writes and one who sings. Likkle Man was also on the Bouyon Day 2025 bill in Roseau.",
+  ),
+  (
+    "Who plays on “How De Band Playing”?",
+    "The full credits name Elijah JeanJacques on bass, Joel Francis on guitar and Nikita “Fridge” Christmas on drums. Additional vocals come from Erneil “Shabba” Paul, Dorelle Diolen, Serena Alexander, Syan Davis, Deanna Emmanuel and Michael “Bully / Ti Mal” John, and recording and mixing are credited to Sonic Art Studios. It is bouyon played by a live band, not a producer’s solo instrumental.",
+  ),
+  (
+    "Is Mr Delly a member of WCK?",
+    "A published roster suggests so: the community site A Virtual Dominica, in its page on bouyon in Dominica, lists Delton Alfred among the current members of <a href=\"/en/wck.html\">WCK</a>, alongside Earlson Matthew among others. That site is an older source whose update date is not established, so this profile reports the roster as published, without treating it as a membership verified in 2026.",
+  ),
+  (
+    "Who shared the Bouyon Day 2025 bill with Mr Delly?",
+    "The Discover Dominica Authority release bills Delly alongside Asa Bantan, Litle Boy, Quan, Reo, Freddy, Clint H, Najee, Likkle Man, Skinny Bantan, Rah, Kenny G and <a href=\"/en/tk-international.html\">TK International</a>, with Unstoppable Shax and DJ Snow. The free Bouyon in de Streets event took place on Tuesday 25 February 2025 on Hanover Street, Roseau, from 6 pm to midnight.",
+  ),
+  (
+    "Where is Mr Delly from?",
+    "Mr Delly is a bouyon singer from Dominica, tied by his sources to the Roseau scene: a published WCK roster, a 2023 record rooted in Dominica carnival, and a place on the official Bouyon Day 2025 bill in the capital. No date of birth and no precise home town were found, so this profile prints none.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/mr-delly.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/mr-delly.html#artist", "name": "Mr Delly", "alternateName": "Delton Alfred", "description": "Bouyon singer from Dominica, full name Delton Alfred according to the official credit of How De Band Playing (2023), a record written by Earlson Likkle Man Matthew. Billed as Delly at Bouyon Day 2025 in Roseau according to the Discover Dominica Authority.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "How De Band Playing"}, {"@type": "MusicRecording", "name": "Bouyon 101"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
