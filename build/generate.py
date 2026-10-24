@@ -284,7 +284,7 @@ def footer(page, same_cat):
   <div class="wrap cols">
     <div>
       <h4>BouyonMusique.com</h4>
-      <p>Le guide francophone de la musique bouyon : histoire, artistes, danses, riddims et playlists. Publié par Bouyon Shattaz.</p>
+      <p>Le guide francophone de la musique bouyon : histoire, artistes, danses, riddims et playlists. Publié par Bouyon Shattaz. Citations bienvenues avec un lien vers la page source.</p>
     </div>
     <div>
       <h4>{esc(page["cat"])}</h4>
@@ -747,7 +747,7 @@ def main():
 </ul>
 {body}
 </div></main>
-<footer><div class="wrap"><p>© 2026 Bouyon Shattaz. Le bouyon est né en Dominique. <a href="/">Retour à l’accueil</a></p></div></footer>
+<footer><div class="wrap"><p>© 2026 Bouyon Shattaz. Le bouyon est né en Dominique. Citations bienvenues avec un lien vers la page source. <a href="/">Retour à l’accueil</a></p></div></footer>
 </body>
 </html>
 """

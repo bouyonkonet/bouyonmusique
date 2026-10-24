@@ -33,7 +33,7 @@ jobs:
             --include='*.html' --include='*.css' --include='*.js' --include='*.xml' \
             --include='*.png' --include='*.jpg' --include='*.jpeg' --include='*.webp' \
             --include='*.gif' --include='*.svg' --include='*.ico' --include='*.woff' --include='*.woff2' \
-            --include='*.webmanifest' --include='/robots.txt' --include='/CNAME' \
+            --include='*.webmanifest' --include='/robots.txt' --include='/llms.txt' --include='/CNAME' \
             --exclude='*' ./ _site/
           touch _site/.nojekyll
           echo "files: $(find _site -type f | wc -l)"
