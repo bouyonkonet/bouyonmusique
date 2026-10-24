@@ -1,0 +1,47 @@
+name: Deploy site
+
+# Publishes only the public site files. build/, AGENTS.md, README.md and any
+# other repo file are never copied into the deployed site.
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Collect site files
+        run: |
+          mkdir _site
+          rsync -a --prune-empty-dirs \
+            --exclude='/build/' --exclude='/.github/' --exclude='/.git/' --exclude='/_site/' \
+            --include='*/' \
+            --include='*.html' --include='*.css' --include='*.js' --include='*.xml' \
+            --include='*.png' --include='*.jpg' --include='*.jpeg' --include='*.webp' \
+            --include='*.gif' --include='*.svg' --include='*.ico' --include='*.woff' --include='*.woff2' \
+            --include='*.webmanifest' --include='/robots.txt' --include='/llms.txt' --include='/CNAME' \
+            --exclude='*' ./ _site/
+          touch _site/.nojekyll
+          echo "files: $(find _site -type f | wc -l)"
+          test -f _site/index.html
+          test ! -e _site/build
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - id: deployment
+        uses: actions/deploy-pages@v4

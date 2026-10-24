@@ -209,7 +209,7 @@ BUILD = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, BUILD)
 
 PAGES = []
-for mod in ["data_styles_en", "data_guides_en", "data_places_en", "data_events_artists_en", "data_production_ecoute_en", "data_culture_en", "data_wave1_en", "data_wave1b_en", "data_branches_en", "data_parity_w1_en", "data_parity_w2_en", "data_parity_w3_en", "data_parity_w4_en", "data_parity_w5_en", "data_parity_w6_en", "data_parity_w7_en", "data_parity_w8_en", "data_parity_w9_en", "data_parity_w10_en", "data_parity_w11_en", "data_parity_w12_en", "data_parity_w13_en", "data_parity_w14_en", "data_parity_w15_en", "data_parity_w16_en", "data_parity_w17_en", "data_parity_w18_en", "data_parity_w19_en", "data_parity_w20_en", "data_parity_w21_en", "data_parity_w22_en", "data_parity_w23_en", "data_parity_w24_en", "data_parity_w25_en", "data_parity_w26_en", "data_parity_w27_en", "data_parity_w28_en", "data_parity_w29_en", "data_parity_w30_en", "data_parity_w31_en", "data_daily_20261021_en", "data_playlist_pages_en"]:
+for mod in ["data_styles_en", "data_guides_en", "data_places_en", "data_events_artists_en", "data_production_ecoute_en", "data_culture_en", "data_wave1_en", "data_wave1b_en", "data_branches_en", "data_parity_w1_en", "data_parity_w2_en", "data_parity_w3_en", "data_parity_w4_en", "data_parity_w5_en", "data_parity_w6_en", "data_parity_w7_en", "data_parity_w8_en", "data_parity_w9_en", "data_parity_w10_en", "data_parity_w11_en", "data_parity_w12_en", "data_parity_w13_en", "data_parity_w14_en", "data_parity_w15_en", "data_parity_w16_en", "data_parity_w17_en", "data_parity_w18_en", "data_parity_w19_en", "data_parity_w20_en", "data_parity_w21_en", "data_parity_w22_en", "data_parity_w23_en", "data_parity_w24_en", "data_parity_w25_en", "data_parity_w26_en", "data_parity_w27_en", "data_parity_w28_en", "data_parity_w29_en", "data_parity_w30_en", "data_parity_w31_en", "data_parity_w32_en", "data_parity_w33_en", "data_parity_w34_en", "data_parity_w35_en", "data_parity_w36_en", "data_daily_20261021_en", "data_playlist_pages_en"]:
     m = importlib.import_module(mod)
     PAGES.extend(m.PAGES)
 
@@ -263,7 +263,7 @@ def footer(page, same_cat):
   <div class="wrap cols">
     <div>
       <h4>BouyonMusique.com</h4>
-      <p>The guide to bouyon music in French and English: history, artists, dance, riddims and playlists. Published by Bouyon Shattaz.</p>
+      <p>The guide to bouyon music in French and English: history, artists, dance, riddims and playlists. Published by Bouyon Shattaz. Quotes welcome with a link to the source page.</p>
     </div>
     <div>
       <h4>{esc(page["cat"])}</h4>
@@ -437,6 +437,8 @@ PLAYLIST_EMBEDS = {
     "mas-domnik.html": [_YT_CARNIVAL2026],
 }
 
+from sources_listen import listen_sources_html
+
 def playlist_embeds_html(slug):
     out = ""
     for kind, pid, title in PLAYLIST_EMBEDS.get(slug, []):
@@ -566,6 +568,7 @@ def render(page):
 </div>
 """
     embed_html = playlist_embeds_html(page["slug"])
+    embed_html += listen_sources_html(page.get("fr_slug", page["slug"]), "en")
     return f"""<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -669,7 +672,7 @@ def main():
 </ul>
 {body}
 </div></main>
-<footer><div class="wrap"><p>© 2026 Bouyon Shattaz. Bouyon was born in Dominica. <a href="/en/">Back to the English home</a> - <a href="/plan-du-site.html">Plan du site en français</a></p></div></footer>
+<footer><div class="wrap"><p>© 2026 Bouyon Shattaz. Bouyon was born in Dominica. Quotes welcome with a link to the source page. <a href="/en/">Back to the English home</a> - <a href="/plan-du-site.html">Plan du site en français</a></p></div></footer>
 </body>
 </html>
 """
