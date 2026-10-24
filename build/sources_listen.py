@@ -1,19 +1,23 @@
 # -*- coding: utf-8 -*-
 """Listen + sources blocks for artist profiles.
 
-Reads the verified source logs (research/recordings-sources.md and
-research/sources-w*.md). Every URL there was opened by a researcher in
-session, so it can be shown on the page as a citation and, where the
-platform allows it, as an embedded player.
+Page builds read listen_sources.json (slug -> [[title, url], ...]): only
+the title and URL of recordings a researcher opened and checked.
+
+The raw research logs live in the notes repo
+(bouyonkonet/bouyonmusique-notes, checked out beside this repo). After
+editing them, refresh the JSON with:  python3 build/sources_listen.py --export
 
 Log format: "## Name (slug.html)" headings, then lines
 "- Title (album/year) - source: URL".
 """
-import glob, html, os, re
+import glob, html, json, os, re, sys
 
 _HERE = os.path.dirname(os.path.abspath(__file__))
-_LOGS = [os.path.join(_HERE, "research", "recordings-sources.md")] + sorted(
-    glob.glob(os.path.join(_HERE, "research", "sources-w*.md")))
+_JSON = os.path.join(_HERE, "listen_sources.json")
+_RESEARCH = os.path.join(_HERE, "..", "..", "bouyonmusique-notes", "build", "research")
+_LOGS = [os.path.join(_RESEARCH, "recordings-sources.md")] + sorted(
+    glob.glob(os.path.join(_RESEARCH, "sources-w*.md")))
 
 MAX_EMBEDS = 3
 MAX_SOURCES = 15
@@ -81,7 +85,21 @@ def _load():
     return data
 
 
-SOURCES = _load()
+def _read_json():
+    with open(_JSON, encoding="utf-8") as fh:
+        return {k: [tuple(e) for e in v] for k, v in json.load(fh).items()}
+
+
+if __name__ == "__main__" and "--export" in sys.argv:
+    _data = _load()
+    if not _data:
+        sys.exit("No research logs found in " + os.path.abspath(_RESEARCH))
+    with open(_JSON, "w", encoding="utf-8") as fh:
+        json.dump(_data, fh, ensure_ascii=False, indent=0, sort_keys=True)
+    print(f"exported {len(_data)} profiles, {sum(len(v) for v in _data.values())} entries -> {_JSON}")
+    sys.exit(0)
+
+SOURCES = _read_json() if os.path.exists(_JSON) else {}
 
 
 def _embed(url):
