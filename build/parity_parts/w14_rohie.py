@@ -63,13 +63,55 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Rohie ?", "Rohie est un artiste bouyon émergent de la Dominique. Le communiqué officiel du World Creole Music Festival 2025, repris par Dominica News Online et Travel Trade Caribbean, le range parmi les artistes dominicains de The Bouyon Assembly, avec Ridge, Pudaz, Kenny G, Quan, DJ MJ, Little Boy, Faithii et Ebony Empress. Aucune biographie détaillée, aucun nom complet et aucune discographie ne sont publiés dans les sources ouvertes."),
-  ("Qu’est ce que The Bouyon Assembly ?", "C’est le segment entièrement bouyon créé pour la 25e édition du World Creole Music Festival, programmé dans la nuit 2, Creole Carnival. Il réunit la relève bouyon de la Dominique en un seul bloc scénique, Rohie, Ridge, Pudaz, Kenny G, Quan, DJ MJ, Little Boy, Faithii et Ebony Empress, avec deux invitées de Guadeloupe, Jixels et Shanika."),
-  ("Quand et où Rohie a-t-il joué au World Creole Music Festival ?", "Le samedi 25 octobre 2025, au Windsor Park Sports Stadium de Roseau, en Dominique, pendant la nuit 2 de la 25e édition du festival, qui se tenait du 24 au 26 octobre 2025. L’affiche officielle avait été annoncée le 4 juillet 2025 par le ministère du Tourisme et la Discover Dominica Authority."),
-  ("Comment le public a-t-il reçu The Bouyon Assembly ?", "C’est la question que les profils basés sur les seules affiches ne peuvent pas trancher, et le compte rendu publié après le festival par Black News y répond : les voix émergentes du collectif, dont Rohie, ont transformé le terrain en une immense session de jump up et ont été les chouchous du public le samedi soir, aux côtés de WCK et d’Asa Bantan dans une nuit dominée par l’énergie carnaval."),
-  ("Quels sont les titres de Rohie ?", "Aucun titre vérifié n’a été trouvé. Les recherches menées sur Spotify, Apple Music, Deezer, Qobuz, YouTube, Shazam, SoundCloud, Audiomack et Genius ne renvoient ni fiche d’artiste, ni single, ni featuring attribuable à Rohie : le schéma de cette page ne contient donc volontairement aucun enregistrement. Son dossier public est, à ce jour, un dossier de scène et non de catalogue."),
-  ("Où écouter la génération de The Bouyon Assembly ?", "Commencez par les profils documentés des membres du segment, comme <a href=\"/ridge.html\">Ridge</a> et Kenny G, lisez notre page du <a href=\"/world-creole-music-festival.html\">World Creole Music Festival</a>, puis écoutez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, qui mélange les classiques de la Dominique et la nouvelle vague dont l’Assembly a présenté le visage en 2025.")
- ],
+  (
+    "Qui est Rohie ?",
+    "Rohie est un artiste bouyon émergent de la Dominique. Le communiqué officiel du World Creole Music Festival 2025, repris par Dominica News Online et Travel Trade Caribbean, le range parmi les artistes dominicains de The Bouyon Assembly, avec Ridge, Pudaz, Kenny G, Quan, DJ MJ, Little Boy, Faithii et Ebony Empress. Aucune biographie détaillée, aucun nom complet et aucune discographie ne sont publiés dans les sources ouvertes.",
+  ),
+  (
+    "Rohie vient-il de la Dominique ou de la Guadeloupe ?",
+    "Rohie vient de la Dominique : le communiqué officiel du World Creole Music Festival 2025 le classe côté Dominique dans The Bouyon Assembly. Les deux invitées venues de Guadeloupe dans ce même segment étaient Jixels et <a href=\"/shanika.html\">Shanika</a>. Les organisateurs placent donc eux-mêmes Rohie parmi les porteurs dominicains du son, sur la plus grande scène du pays.",
+  ),
+  (
+    "Qu’est ce que The Bouyon Assembly ?",
+    "C’est le segment entièrement bouyon créé pour la 25e édition du World Creole Music Festival, programmé dans la nuit 2, Creole Carnival. Il réunit la relève bouyon de la Dominique en un seul bloc scénique, Rohie, Ridge, Pudaz, Kenny G, Quan, DJ MJ, Little Boy, Faithii et Ebony Empress, avec deux invitées de Guadeloupe, Jixels et Shanika.",
+  ),
+  (
+    "Quand et où Rohie a-t-il joué au World Creole Music Festival ?",
+    "Le samedi 25 octobre 2025, au Windsor Park Sports Stadium de Roseau, en Dominique, pendant la nuit 2 de la 25e édition du festival, qui se tenait du 24 au 26 octobre 2025. L’affiche officielle avait été annoncée le 4 juillet 2025 par le ministère du Tourisme et la Discover Dominica Authority.",
+  ),
+  (
+    "Quel était le thème du World Creole Music Festival 2025 où a joué Rohie ?",
+    "Le thème de la 25e édition était « Global Echoes of the Nature Island: Celebrating 25 Years of Creole Music, Magic, and Memories ». Le festival, créé en 1997 et tenu au Windsor Park Sports Stadium de Roseau, a été lancé cette année-là par le ministère du Tourisme et la Discover Dominica Authority. Notre page <a href=\"/world-creole-music-festival.html\">World Creole Music Festival</a> retrace son histoire.",
+  ),
+  (
+    "Qui jouait la même nuit que Rohie au WCMF 2025 ?",
+    "La nuit 2, Creole Carnival, du samedi 25 octobre 2025 affichait, côté Dominique, <a href=\"/wck.html\">WCK</a>, pionniers du genre, Asa Bantan, First Serenade Band, Gordon Henderson et Ophelia Marie. Les têtes d’affiche internationales étaient Vybz Kartel, Spice, Kes The Band et Joé Dwèt Filé. The Bouyon Assembly, dont Rohie, était programmée la même nuit que les fondateurs du bouyon.",
+  ),
+  (
+    "Comment le public a-t-il reçu The Bouyon Assembly ?",
+    "Très bien, selon le compte rendu publié après le festival par Black News : les voix émergentes du collectif, dont Rohie, ont transformé le terrain en une immense session de jump up et ont été les chouchous du public le samedi soir. Elles partageaient la nuit avec WCK et Asa Bantan, dans une soirée dominée par l’énergie carnaval.",
+  ),
+  (
+    "Que veut dire « jump up » dans le compte rendu sur Rohie et l’Assembly ?",
+    "Jump up est le nom que les Antilles françaises donnent au bouyon de fête. Quand Black News écrit que The Bouyon Assembly, dont Rohie, a transformé le terrain en une immense session de jump up, l’image dit l’essentiel : le bloc de la nouvelle génération a fait danser le stade de Windsor Park, le samedi 25 octobre 2025.",
+  ),
+  (
+    "Quels sont les titres de Rohie ?",
+    "Aucun titre vérifié n’a été trouvé. Les recherches menées sur Spotify, Apple Music, Deezer, Qobuz, YouTube, Shazam, SoundCloud, Audiomack et Genius ne renvoient ni fiche d’artiste, ni single, ni featuring attribuable à Rohie : le schéma de cette page ne contient donc volontairement aucun enregistrement. Son dossier public est, à ce jour, un dossier de scène et non de catalogue.",
+  ),
+  (
+    "Rohie est-il le même artiste que Rohey ou Rohi ?",
+    "Non. Les recherches sur le nom tombent d’abord sur des homonymes sans lien : Rohey, le groupe norvégien de jazz et soul mené par la chanteuse Rohey Taalah, Rohi, un producteur japonais de Vocaloid, et les nombreux titres arabes construits sur Rohi ou Rouhi, qui signifie « mon âme ». Aucun d’eux n’est l’artiste bouyon de la Dominique.",
+  ),
+  (
+    "Pourquoi Rohie compte-t-il pour l’histoire du bouyon ?",
+    "Parce que The Bouyon Assembly compte. Pour ses 25 ans, le festival créole de la Dominique a présenté le bouyon comme un relais de générations : les pionniers de WCK la même nuit, la nouvelle vague en bloc juste à côté, et deux invitées de Guadeloupe. Être l’un des neuf noms dominicains de ce bloc, dans le communiqué officiel, place Rohie dans ce portrait de famille de 2025.",
+  ),
+  (
+    "Où écouter la génération de The Bouyon Assembly ?",
+    "Commencez par les profils documentés des membres du segment, comme Ridge et Kenny G, puis lisez notre page consacrée au World Creole Music Festival. Pour entendre la scène bouyon d’aujourd’hui, la <a href=\"/playlist-bouyon.html\">playlist ROAD MIX</a> de Bouyon Shattaz, sur Spotify et YouTube, rassemble nouveautés de la Dominique et des Antilles françaises, bouyon soca et classiques de carnaval.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/rohie.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/rohie.html#artist", "name": "Rohie", "description": "Artiste bouyon émergent de la Dominique. Membre de The Bouyon Assembly, le segment bouyon de la nuit 2 du World Creole Music Festival 2025 au Windsor Park de Roseau. Aucun enregistrement vérifié référencé dans les sources publiques au 20 octobre 2026.", "genre": "Bouyon", "track": [], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -129,13 +171,55 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Rohie?", "Rohie is an emerging bouyon artist from Dominica. The official World Creole Music Festival 2025 release, carried by Dominica News Online and Travel Trade Caribbean, places Rohie among the Dominican artists of The Bouyon Assembly, with Ridge, Pudaz, Kenny G, Quan, DJ MJ, Little Boy, Faithii and Ebony Empress. No detailed biography, no full name and no discography are published in the open sources."),
-  ("What is The Bouyon Assembly?", "It is the all bouyon segment created for the 25th edition of the World Creole Music Festival, programmed inside Night Two, Creole Carnival. It gathers the Dominican bouyon new wave in a single stage block, Rohie, Ridge, Pudaz, Kenny G, Quan, DJ MJ, Little Boy, Faithii and Ebony Empress, with two guests from Guadeloupe, Jixels and Shanika."),
-  ("When and where did Rohie play the World Creole Music Festival?", "On Saturday, October 25, 2025, at Windsor Park Sports Stadium in Roseau, Dominica, during Night Two of the festival 25th edition, which ran from October 24 to 26, 2025. The official lineup had been announced on July 4, 2025 by the Ministry of Tourism and the Discover Dominica Authority."),
-  ("How did the audience receive The Bouyon Assembly?", "That is the question profiles based on posters alone cannot settle, and the report published after the festival by Black News answers it: the emerging voices of the collective, Rohie among them, turned the field into a giant jump-up session and were the crowd darlings on Saturday night, alongside WCK and Asa Bantan in a night dominated by carnival energy."),
-  ("What are Rohie tracks?", "No verified track was found. The searches carried out across Spotify, Apple Music, Deezer, Qobuz, YouTube, Shazam, SoundCloud, Audiomack and Genius return no artist page, no single and no feature that can be assigned to Rohie: the schema of this page therefore deliberately contains no recording. At this date, the public record is a stage record, not a catalogue record."),
-  ("Where can I hear The Bouyon Assembly generation?", "Start with the documented profiles of segment members such as <a href=\"/en/ridge.html\">Ridge</a> and Kenny G, read our <a href=\"/en/world-creole-music-festival.html\">World Creole Music Festival</a> page, then hear our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, which mixes Dominican classics with the new wave whose face the Assembly presented in 2025.")
- ],
+  (
+    "Who is Rohie?",
+    "Rohie is an emerging bouyon artist from Dominica. The official World Creole Music Festival 2025 release, carried by Dominica News Online and Travel Trade Caribbean, places Rohie among the Dominican artists of The Bouyon Assembly, with Ridge, Pudaz, Kenny G, Quan, DJ MJ, Little Boy, Faithii and Ebony Empress. No detailed biography, no full name and no discography are published in the open sources.",
+  ),
+  (
+    "Is Rohie from Dominica or Guadeloupe?",
+    "Rohie is from Dominica: the official World Creole Music Festival 2025 release lists Rohie on the Dominica side of The Bouyon Assembly. The two guests from Guadeloupe in that same segment were Jixels and <a href=\"/en/shanika.html\">Shanika</a>. The organisers themselves therefore place Rohie among the Dominican carriers of the sound, on the biggest stage of the country.",
+  ),
+  (
+    "What is The Bouyon Assembly?",
+    "It is the all bouyon segment created for the 25th edition of the World Creole Music Festival, programmed inside Night Two, Creole Carnival. It gathers the Dominican bouyon new wave in a single stage block, Rohie, Ridge, Pudaz, Kenny G, Quan, DJ MJ, Little Boy, Faithii and Ebony Empress, with two guests from Guadeloupe, Jixels and Shanika.",
+  ),
+  (
+    "When and where did Rohie play the World Creole Music Festival?",
+    "On Saturday, October 25, 2025, at Windsor Park Sports Stadium in Roseau, Dominica, during Night Two of the festival's 25th edition, which ran from October 24 to 26, 2025. The official lineup had been announced on July 4, 2025 by the Ministry of Tourism and the Discover Dominica Authority.",
+  ),
+  (
+    "What was the theme of the 2025 World Creole Music Festival where Rohie played?",
+    "The theme of the 25th edition was “Global Echoes of the Nature Island: Celebrating 25 Years of Creole Music, Magic, and Memories”. The festival, created in 1997 and held at Windsor Park Sports Stadium in Roseau, was launched that year by the Ministry of Tourism and the Discover Dominica Authority. Our <a href=\"/en/world-creole-music-festival.html\">World Creole Music Festival</a> page traces its history.",
+  ),
+  (
+    "Who played the same night as Rohie at WCMF 2025?",
+    "Night Two, Creole Carnival, on Saturday, October 25, 2025, billed <a href=\"/en/wck.html\">WCK</a>, the pioneers of the genre, Asa Bantan, First Serenade Band, Gordon Henderson and Ophelia Marie for Dominica. The international headliners were Vybz Kartel, Spice, Kes The Band and Joé Dwèt Filé. The Bouyon Assembly, Rohie included, was programmed on the same night as the founders of bouyon.",
+  ),
+  (
+    "How did the audience receive The Bouyon Assembly?",
+    "Very well, according to the report published after the festival by Black News: the emerging voices of the collective, Rohie among them, turned the field into a giant jump-up session and were the crowd darlings on Saturday night. They shared the night with WCK and Asa Bantan, in an evening dominated by carnival energy.",
+  ),
+  (
+    "What does “jump up” mean in the report on Rohie and the Assembly?",
+    "Jump up is the name the French Antilles give to party bouyon. When Black News writes that The Bouyon Assembly, Rohie included, turned the field into a giant jump-up session, the image says the essential: the new generation block made the Windsor Park stadium dance, on Saturday, October 25, 2025.",
+  ),
+  (
+    "What are Rohie's songs?",
+    "No verified track was found. The searches carried out across Spotify, Apple Music, Deezer, Qobuz, YouTube, Shazam, SoundCloud, Audiomack and Genius return no artist page, no single and no feature that can be assigned to Rohie: the schema of this page therefore deliberately contains no recording. At this date, the public record is a stage record, not a catalogue record.",
+  ),
+  (
+    "Is Rohie the same artist as Rohey or Rohi?",
+    "No. Searches on the name first hit unrelated namesakes: Rohey, the Norwegian jazz and soul band led by singer Rohey Taalah, Rohi, a Japanese Vocaloid producer, and the many Arabic titles built on Rohi or Rouhi, which means “my soul”. None of them is the bouyon act from Dominica, and mixing their paths into this one would be a namesake error.",
+  ),
+  (
+    "Why does Rohie matter in bouyon history?",
+    "Because The Bouyon Assembly matters. For its 25th anniversary, Dominica's Creole festival presented bouyon as a relay of generations: the WCK pioneers on the same night, the new wave in a block right beside them, and two guests from Guadeloupe. Being one of the nine Dominican names in that block, in the official release, places Rohie in that 2025 family portrait.",
+  ),
+  (
+    "Where can I hear The Bouyon Assembly generation?",
+    "Start with the documented profiles of segment members such as Ridge and Kenny G, then read our World Creole Music Festival page. To hear today's bouyon scene, the Bouyon Shattaz <a href=\"/en/playlist-bouyon.html\">ROAD MIX playlist</a>, on Spotify and YouTube, gathers new releases from Dominica and the French Antilles, bouyon soca and carnival classics.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/rohie.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/rohie.html#artist", "name": "Rohie", "description": "Emerging bouyon artist from Dominica. Member of The Bouyon Assembly, the bouyon segment of Night Two at the 2025 World Creole Music Festival at Windsor Park, Roseau. No verified recording listed in public sources at October 20, 2026.", "genre": "Bouyon", "track": [], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

@@ -76,13 +76,63 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Earlson Matthew ?", "Earlson Matthew, dit Likkle Man, est un claviériste, compositeur et arrangeur de la Dominique. La page de WCK le liste comme claviériste principal du groupe fondateur du bouyon, un roster communautaire le compte parmi ses membres, et ses crédits récents le montrent écrivant pour Mr Delly et composant pour Peter Prospere, avec des enregistrements au Sonic Art Studios."),
-  ("Quel est le rapport entre Earlson Matthew et WCK ?", "Deux listes publiées le rattachent à WCK, le groupe qui a créé le bouyon en 1988. Wikipedia le range parmi les anciens membres, comme claviériste principal sous le nom Earlson Matthew a.k.a Likkle Man. Le site communautaire A Virtual Dominica le liste parmi les membres actuels, aux côtés de Keith Goddard et Delton Alfred. Ce profil publie les deux listes sans trancher entre elles."),
-  ("Qu'a arrangé Earlson Matthew pour la CARICOM ?", "Il a arrangé « Celebrating CARICOM », le titre de Michele Henderson choisi en mars 2014, parmi 63 candidatures, comme chant officiel de la CARICOM pour son quarantième anniversaire. Le titre, produit par Roland Delsol Jr. avec Michael Ferrol à la batterie et le chœur de St. Alphonsus, a été chanté officiellement pour la première fois le 1er juillet 2014 à Antigua et Barbuda."),
-  ("Quels titres Earlson Matthew a-t-il écrits pour d'autres chanteurs ?", "Deux titres sont documentés par leurs crédits officiels. « How De Band Playing », bouyon de 2023, écrit et composé par Earlson « Likkle Man » Matthew et interprété par Delton « Mr. Delly » Alfred. Et « To The City », composé par Earlson Matthew, interprété par Peter Prospere, et enregistré, mixé et masterisé au Sonic Art Studios par le compositeur lui même."),
-  ("Earlson Matthew joue-t-il les claviers pour Mr Ridge au World Creole Music Festival ?", "Aucune source ouverte pendant cette recherche ne le confirme. Aucun programme de festival, aucun crédit de groupe de scène et aucun compte vérifié au nom d'earlsonmatthew n'ont été produits. Ce rôle circule comme point de départ de recherche, mais ce profil ne le publie pas comme un fait et ne lie aucun réseau social. Il sera ajouté, avec sa source, le jour où un document le nommera."),
-  ("Où écouter le travail d'Earlson Matthew ?", "Par ses crédits : « How De Band Playing » de Mr Delly, dont notre page <a href=\"/mr-delly.html\">Mr Delly</a> suit le dossier, « To The City » de Peter Prospere, et « Celebrating CARICOM » de Michele Henderson. La tracklist du Bouyon Mix 2025 Pt 2 de Blaqrose Supreme cite aussi un « Backshot » de Mr. Delly x Likkle Man x Unstoppable Shax x Trump. Notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> suit la scène dominicaine actuelle.")
- ],
+  (
+    "Qui est Earlson Matthew ?",
+    "Earlson Matthew, dit Likkle Man, est un claviériste, compositeur et arrangeur de la Dominique. La page de WCK le liste comme claviériste principal du groupe fondateur du bouyon, un roster communautaire le compte parmi ses membres, et ses crédits récents le montrent écrivant pour Mr Delly et composant pour Peter Prospere, avec des enregistrements au Sonic Art Studios.",
+  ),
+  (
+    "Likkle Man et Earlson Matthew, est-ce la même personne ?",
+    "Oui. Earlson Matthew est le nom complet, Likkle Man le surnom sous lequel la scène le connaît et les affiches le programment. Les crédits officiels de « How De Band Playing » et de « To The City » écrivent Earlson « Likkle Man » Matthew, et la page du groupe WCK donne « Earlson Matthew a.k.a Likkle Man », claviériste principal. Deux sources indépendantes relient ainsi le nom, le surnom et l’instrument.",
+  ),
+  (
+    "Quel est le rapport entre Earlson Matthew et WCK ?",
+    "Deux listes publiées le rattachent à WCK, le groupe qui a créé le bouyon en 1988. Wikipedia le range parmi les anciens membres, comme claviériste principal sous le nom Earlson Matthew a.k.a Likkle Man. Le site communautaire A Virtual Dominica le liste parmi les membres actuels, aux côtés de Keith Goddard et Delton Alfred. Ce profil publie les deux listes sans trancher entre elles.",
+  ),
+  (
+    "Pourquoi le clavier est-il si important dans le bouyon de WCK ?",
+    "Parce que le bouyon est né sur des motifs rythmiques de clavier. Quand WCK fusionne la cadence-lypso et le jing ping traditionnel à la fin des années 1980, le groupe met l’accent sur la technologie et les claviers, et A Virtual Dominica écrit que le séquençage des claviers proéminents fait partie intégrante du son bouyon. Un claviériste principal y tient la machine rythmique du groupe. Lire notre page <a href=\"/wck.html\">WCK</a>.",
+  ),
+  (
+    "Qu'a arrangé Earlson Matthew pour la CARICOM ?",
+    "Il a arrangé « Celebrating CARICOM », le titre de Michele Henderson choisi en mars 2014, parmi 63 candidatures, comme chant officiel de la CARICOM pour son quarantième anniversaire. Le titre, produit par Roland Delsol Jr. avec Michael Ferrol à la batterie et le chœur de St. Alphonsus, a été chanté officiellement pour la première fois le 1er juillet 2014 à Antigua et Barbuda.",
+  ),
+  (
+    "Qui chante l’hymne de la CARICOM, « Celebrating CARICOM » ?",
+    "Michele Henderson, chanteuse de la Dominique, dont le titre a été choisi par les juges en mars 2014 au terme d’un concours lancé en avril 2013, avec un prix de 10 000 dollars américains. La version primée est produite par son époux, Roland Delsol Jr., et arrangée par Earlson Matthew, puis reproduite pour la CARICOM par Carl Beaver Henderson, de Trinité et Tobago.",
+  ),
+  (
+    "Quels titres Earlson Matthew a-t-il écrits pour d'autres chanteurs ?",
+    "Deux titres sont documentés par leurs crédits officiels. « How De Band Playing », bouyon de 2023, écrit et composé par Earlson « Likkle Man » Matthew et interprété par Delton « Mr. Delly » Alfred. Et « To The City », composé par Earlson Matthew, interprété par Peter Prospere, et enregistré, mixé et masterisé au Sonic Art Studios par le compositeur lui-même.",
+  ),
+  (
+    "Que veut dire « How De Band Playing » ?",
+    "Le titre vient d’un vieux dicton que sa description officielle cite : « How the band, is so you have to dance », comme le groupe joue, ainsi il faut danser. Le texte explique que beaucoup de choses dans la vie échappent à notre contrôle, et qu’il ne sert parfois à rien de nager à contre-courant. Le titre, écrit par Earlson Matthew pour Mr Delly, applique ce proverbe à différentes situations de la vie.",
+  ),
+  (
+    "Qui joue sur « How De Band Playing » de Mr Delly ?",
+    "Autour de l’auteur Earlson « Likkle Man » Matthew et du chanteur Delton « Mr. Delly » Alfred, les crédits nomment Elijah JeanJacques à la basse, Joel Francis à la guitare, Nikita « Fridge » Christmas à la batterie, et six voix additionnelles, dont Erneil « Shabba » Paul. Le titre est enregistré et mixé au Sonic Art Studios. Voir notre profil de <a href=\"/mr-delly.html\">Mr Delly</a>.",
+  ),
+  (
+    "Qui joue sur « To The City » de Peter Prospere ?",
+    "Earlson « Likkle Man » Matthew compose le titre, interprété par Peter Prospere, et l’enregistre, le mixe et le masterise lui-même au Sonic Art Studios. Keith Goddard, le bassiste des rosters de WCK, tient la basse, Monelle « High Speed » Mondesire la guitare, et Kester Labad signe le visuel. On y retrouve le cercle resserré des musiciens dominicains de studio qui entoure le compositeur.",
+  ),
+  (
+    "Earlson Matthew était-il à l’affiche du Bouyon Day 2025 ?",
+    "Oui, sous le nom de Likkle Man. Le communiqué de la Discover Dominica Authority annonce « Bouyon in de Streets », événement gratuit du mardi 25 février 2025, de 18 heures à minuit, sur Hanover Street, à Roseau, avec une programmation présentée comme une réunion d’icônes du bouyon : Likkle Man y figure aux côtés d’Asa Bantan, Litle Boy, Reo, Delly et Kenny G, entre autres.",
+  ),
+  (
+    "Qu’est-ce que « Backshot » de Mr. Delly x Likkle Man ?",
+    "Une ligne de tracklist de DJ : le Bouyon Mix 2025 Pt 2 de Blaqrose Supreme place à 28 minutes 22 un « Backshot » crédité Mr. Delly x Likkle Man x Unstoppable Shax x Trump. Cela prouve qu’un titre de ce nom circule dans les sélections de carnaval, mais aucune page de sortie de plateforme n’a été retrouvée, et aucun détail de sortie ne lui est attribué ici.",
+  ),
+  (
+    "Earlson Matthew joue-t-il les claviers pour Mr Ridge au World Creole Music Festival ?",
+    "Aucune source ouverte pendant cette recherche ne le confirme. Aucun programme de festival, aucun crédit de groupe de scène et aucun compte vérifié au nom d'earlsonmatthew n'ont été produits. Ce rôle circule comme point de départ de recherche, mais ce profil ne le publie pas comme un fait et ne lie aucun réseau social. Il sera ajouté, avec sa source, le jour où un document le nommera.",
+  ),
+  (
+    "Où écouter le travail d'Earlson Matthew ?",
+    "Par ses crédits : « How De Band Playing » de Mr Delly, « To The City » de Peter Prospere, et « Celebrating CARICOM » de Michele Henderson, puis le « Backshot » cité dans le Bouyon Mix 2025 Pt 2 de Blaqrose Supreme. Pour la scène dominicaine actuelle, notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> Road Mix de Bouyon Shattaz réunit nouveautés et classiques du carnaval.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/earlson-matthew.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/earlson-matthew.html#artist", "name": "Earlson Matthew", "description": "Claviériste, compositeur et arrangeur de la Dominique, dit Likkle Man. Crédité comme claviériste principal de WCK, arrangeur de Celebrating CARICOM de Michele Henderson (2014), auteur de How De Band Playing pour Mr Delly (2023) et compositeur et ingénieur de To The City pour Peter Prospere. Aucune biographie ni compte officiel vérifié dans les sources publiques.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Celebrating CARICOM"}, {"@type": "MusicRecording", "name": "How De Band Playing"}, {"@type": "MusicRecording", "name": "To The City"}, {"@type": "MusicRecording", "name": "Backshot"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -154,13 +204,63 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Earlson Matthew?", "Earlson Matthew, known as Likkle Man, is a keyboardist, composer and arranger from Dominica. The WCK page lists him as lead keyboardist of the founding bouyon band, a community roster counts him among its members, and his recent credits show him writing for Mr Delly and composing for Peter Prospere, with records made at Sonic Art Studios."),
-  ("What is the link between Earlson Matthew and WCK?", "Two published lists tie him to WCK, the band that created bouyon in 1988. Wikipedia places him among the former members, as lead keyboardist under the name Earlson Matthew a.k.a Likkle Man. The community site A Virtual Dominica lists him among the current members, alongside Keith Goddard and Delton Alfred. This profile publishes both lists without ruling between them."),
-  ("What did Earlson Matthew arrange for CARICOM?", "He arranged “Celebrating CARICOM”, the Michele Henderson song chosen in March 2014, from 63 entries, as the official CARICOM song for its fortieth anniversary. The song, produced by Roland Delsol Jr. with Michael Ferrol on drums and the St. Alphonsus Choir, was first officially performed on July 1, 2014 in Antigua and Barbuda."),
-  ("Which songs has Earlson Matthew written for other singers?", "Two records are documented by their official credits. “How De Band Playing”, a 2023 bouyon, written and composed by Earlson “Likkle Man” Matthew and performed by Delton “Mr. Delly” Alfred. And “To The City”, composed by Earlson Matthew, performed by Peter Prospere, and recorded, mixed and mastered at Sonic Art Studios by the composer himself."),
-  ("Does Earlson Matthew play keys for Mr Ridge at the World Creole Music Festival?", "No source opened during this research confirms it. No festival programme, no stage band credit and no verified account under the name earlsonmatthew were produced. That role circulates as a research starting point, but this profile does not publish it as a fact and links no social profile. It will be added, with its source, on the day a document names it."),
-  ("Where can I hear the work of Earlson Matthew?", "Through his credits: “How De Band Playing” by Mr Delly, whose file our <a href=\"/en/mr-delly.html\">Mr Delly</a> page follows, “To The City” by Peter Prospere, and “Celebrating CARICOM” by Michele Henderson. The tracklist of the Bouyon Mix 2025 Pt 2 by Blaqrose Supreme also cites a “Backshot” by Mr. Delly x Likkle Man x Unstoppable Shax x Trump. Our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> follows the current Dominican scene.")
- ],
+  (
+    "Who is Earlson Matthew?",
+    "Earlson Matthew, known as Likkle Man, is a keyboardist, composer and arranger from Dominica. The WCK page lists him as lead keyboardist of the founding bouyon band, a community roster counts him among its members, and his recent credits show him writing for Mr Delly and composing for Peter Prospere, with records made at Sonic Art Studios.",
+  ),
+  (
+    "Are Likkle Man and Earlson Matthew the same person?",
+    "Yes. Earlson Matthew is the full name, Likkle Man the nickname the scene knows him by and the posters bill him under. The official credits of “How De Band Playing” and “To The City” write Earlson “Likkle Man” Matthew, and the WCK band page gives “Earlson Matthew a.k.a Likkle Man”, lead keyboardist. Two independent sources thus tie the name, the nickname and the instrument together.",
+  ),
+  (
+    "What is the link between Earlson Matthew and WCK?",
+    "Two published lists tie him to WCK, the band that created bouyon in 1988. Wikipedia places him among the former members, as lead keyboardist under the name Earlson Matthew a.k.a Likkle Man. The community site A Virtual Dominica lists him among the current members, alongside Keith Goddard and Delton Alfred. This profile publishes both lists without ruling between them.",
+  ),
+  (
+    "Why is the keyboard so important in WCK bouyon?",
+    "Because bouyon was born on keyboard rhythm patterns. When WCK fused cadence-lypso and traditional jing ping in the late 1980s, the band put the emphasis on technology and keyboards, and A Virtual Dominica writes that the sequencing of the prominent keyboards is an integral part of the bouyon sound. A lead keyboardist there holds the rhythm machine of the band. Read our <a href=\"/en/wck.html\">WCK</a> page.",
+  ),
+  (
+    "What did Earlson Matthew arrange for CARICOM?",
+    "He arranged “Celebrating CARICOM”, the Michele Henderson song chosen in March 2014, from 63 entries, as the official CARICOM song for its fortieth anniversary. The song, produced by Roland Delsol Jr. with Michael Ferrol on drums and the St. Alphonsus Choir, was first officially performed on July 1, 2014 in Antigua and Barbuda.",
+  ),
+  (
+    "Who sings the CARICOM song “Celebrating CARICOM”?",
+    "Michele Henderson, a singer from Dominica, whose song the judges chose in March 2014 after a competition launched in April 2013, with a prize of 10,000 US dollars. The winning version is produced by her husband, Roland Delsol Jr., and arranged by Earlson Matthew, then re-produced for CARICOM by Carl Beaver Henderson, of Trinidad and Tobago.",
+  ),
+  (
+    "Which songs has Earlson Matthew written for other singers?",
+    "Two records are documented by their official credits. “How De Band Playing”, a 2023 bouyon, written and composed by Earlson “Likkle Man” Matthew and performed by Delton “Mr. Delly” Alfred. And “To The City”, composed by Earlson Matthew, performed by Peter Prospere, and recorded, mixed and mastered at Sonic Art Studios by the composer himself.",
+  ),
+  (
+    "What does “How De Band Playing” mean?",
+    "The title comes from an old saying its official description quotes: “How the band, is so you have to dance”, the way the band plays is the way you dance. The text explains that many things in life are beyond our control, and that it is sometimes useless to swim against the current. The song, written by Earlson Matthew for Mr Delly, applies the proverb to different life situations.",
+  ),
+  (
+    "Who plays on “How De Band Playing” by Mr Delly?",
+    "Around the writer Earlson “Likkle Man” Matthew and the singer Delton “Mr. Delly” Alfred, the credits name Elijah JeanJacques on bass, Joel Francis on guitar, Nikita “Fridge” Christmas on drums, and six additional voices, including Erneil “Shabba” Paul. The record was recorded and mixed at Sonic Art Studios. See our <a href=\"/en/mr-delly.html\">Mr Delly</a> profile.",
+  ),
+  (
+    "Who plays on “To The City” by Peter Prospere?",
+    "Earlson “Likkle Man” Matthew composes the record, performed by Peter Prospere, and records, mixes and masters it himself at Sonic Art Studios. Keith Goddard, the bassist of the WCK rosters, plays bass, Monelle “High Speed” Mondesire guitar, and Kester Labad signs the artwork. It is the tight circle of Dominican studio musicians around the composer.",
+  ),
+  (
+    "Was Earlson Matthew on the Bouyon Day 2025 lineup?",
+    "Yes, under the name Likkle Man. The Discover Dominica Authority press release announced “Bouyon in de Streets”, a free event on Tuesday February 25, 2025, from 6 PM to midnight, on Hanover Street, Roseau, with a lineup billed as a gathering of bouyon icons: Likkle Man is on it alongside Asa Bantan, Litle Boy, Reo, Delly and Kenny G, among others.",
+  ),
+  (
+    "What is “Backshot” by Mr. Delly x Likkle Man?",
+    "A DJ tracklist line: the Bouyon Mix 2025 Pt 2 by Blaqrose Supreme places at 28 minutes 22 a “Backshot” credited Mr. Delly x Likkle Man x Unstoppable Shax x Trump. That proves a record of that name circulates in carnival selections, but no platform release page was found, and no release detail is attributed to it here.",
+  ),
+  (
+    "Does Earlson Matthew play keys for Mr Ridge at the World Creole Music Festival?",
+    "No source opened during this research confirms it. No festival programme, no stage band credit and no verified account under the name earlsonmatthew were produced. That role circulates as a research starting point, but this profile does not publish it as a fact and links no social profile. It will be added, with its source, on the day a document names it.",
+  ),
+  (
+    "Where can I hear the work of Earlson Matthew?",
+    "Through his credits: “How De Band Playing” by Mr Delly, “To The City” by Peter Prospere, and “Celebrating CARICOM” by Michele Henderson, then the “Backshot” cited in the Bouyon Mix 2025 Pt 2 by Blaqrose Supreme. For the current Dominican scene, our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, the Road Mix by Bouyon Shattaz, gathers new releases and carnival classics.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/earlson-matthew.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/earlson-matthew.html#artist", "name": "Earlson Matthew", "description": "Keyboardist, composer and arranger from Dominica, known as Likkle Man. Credited as lead keyboardist of WCK, arranger of Celebrating CARICOM by Michele Henderson (2014), writer of How De Band Playing for Mr Delly (2023) and composer and engineer of To The City for Peter Prospere. No biography and no verified official account in public sources.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Celebrating CARICOM"}, {"@type": "MusicRecording", "name": "How De Band Playing"}, {"@type": "MusicRecording", "name": "To The City"}, {"@type": "MusicRecording", "name": "Backshot"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

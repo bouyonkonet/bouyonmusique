@@ -75,14 +75,105 @@ FR = {
   ]
  ],
  "faq": [
-  ("D’où vient LESTEF KJF BOYZ ?", "Les bases musicales présentent LESTEF KJF BOYZ comme un groupe de dancehall de Guadeloupe. Son catalogue le confirme par ses collaborations guadeloupéennes, Team Bwè Tou Sa, DJ Luchshiy et Edday, et par son public, que les données Viberate placent d’abord en France, puis en Guadeloupe et à La Réunion."),
-  ("Quels sont les titres les plus écoutés de LESTEF KJF BOYZ ?", "Selon les classements de titres compilés par Viberate, « KJF 4 », sorti le 16 septembre 2022, est le titre le plus écouté du groupe, devant « 50/50 », sa collaboration de 2021 avec Team Bwè Tou Sa, puis « KJF 5 » et « La Boue », le titre de Meryl co-écrit par le groupe en 2024."),
-  ("Pourquoi n’y a-t-il pas de « KJF 3 » dans le catalogue ?", "Les fiches consultées montrent « KJF 2 » en janvier 2022, « KJF 4 » en septembre 2022 et « KJF 5 » en février 2023, sans aucun « KJF 3 » publié sous ce nom. Aucune source retrouvée n’explique cet écart de numérotation, et ce profil le signale au lieu de l’inventer."),
-  ("Qui écrit les titres de LESTEF KJF BOYZ ?", "Stephan Cornano est crédité comme auteur sur la quasi-totalité des titres vérifiés du groupe, de « KJF 2 » à « Take Ur Time », et comme compositeur sur plusieurs titres, seul ou avec Corane Vincent. Aucune source ouverte ne précise son rôle exact dans le groupe, et ce profil ne le devine pas."),
-  ("Quel est le lien entre LESTEF KJF BOYZ et DJ Luchshiy ?", "La collaboration est documentée dans les deux sens. En décembre 2023, Lestef est invité sur « Xmas Freestyle » et « Chabin » de <a href=\"/dj-luchshiy.html\">DJ Luchshiy</a>, avec Edday. En 2025 et 2026, le groupe accueille DJ Luchshiy sur ses propres singles « No Come Back (Whatcha Say) » et « Take Ur Time », sortis sur le label du DJ, LUCHSHIY AND BRO."),
-  ("Qu’est-ce que « Riddim Aleatoire » ?", "« Riddim Aleatoire » est l’EP de LESTEF KJF BOYZ sorti le 18 juin 2025 sous le label LESTEF KJF. Ses cinq titres, « Karibbean Gyal », « Look My Style », « Ride It », « Ratatouille Live » et « Are U Ready », sont tous écrits par Stephan Cornano. Écoutez aussi notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> pour le contexte de la scène.")
- ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/lestef-kjf-boyz.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/lestef-kjf-boyz.html#artist", "name": "LESTEF KJF BOYZ", "description": "Groupe de Guadeloupe. Serie KJF (KJF 2, KJF 4, KJF 5), 50/50 avec Team Bwe Tou Sa, KKV, Malpale, co-ecriture de La Boue de Meryl, EP Riddim Aleatoire (2025) et singles avec DJ Luchshiy. Ecriture centrale : Stephan Cornano.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "KJF 4"}, {"@type": "MusicRecording", "name": "50/50"}, {"@type": "MusicRecording", "name": "KJF 2"}, {"@type": "MusicRecording", "name": "KJF 5"}, {"@type": "MusicRecording", "name": "TAKE IT OUT"}, {"@type": "MusicRecording", "name": "KKV"}, {"@type": "MusicRecording", "name": "MALPALÉ"}, {"@type": "MusicRecording", "name": "MORNE FLEURET FREESTYLE"}, {"@type": "MusicRecording", "name": "La Boue"}, {"@type": "MusicRecording", "name": "Karibbean Gyal"}, {"@type": "MusicRecording", "name": "NO COME BACK (WHATCHA SAY)"}, {"@type": "MusicRecording", "name": "TAKE UR TIME"}], "sameAs": []}}],
+  (
+    "D’où vient LESTEF KJF BOYZ ?",
+    "Les bases musicales présentent LESTEF KJF BOYZ comme un groupe de dancehall de Guadeloupe. Son catalogue le confirme par ses collaborations guadeloupéennes, Team Bwè Tou Sa, DJ Luchshiy et Edday, et par son public, que les données Viberate placent d’abord en France, puis en Guadeloupe et à La Réunion.",
+  ),
+  (
+    "Quels sont les titres les plus écoutés de LESTEF KJF BOYZ ?",
+    "Selon les classements de titres compilés par Viberate, « KJF 4 », sorti le 16 septembre 2022, est le titre le plus écouté du groupe, devant « 50/50 », sa collaboration de 2021 avec Team Bwè Tou Sa, puis « KJF 5 » et « La Boue », le titre de Meryl co-écrit par le groupe en 2024.",
+  ),
+  (
+    "Pourquoi n’y a-t-il pas de « KJF 3 » dans le catalogue ?",
+    "Les fiches consultées montrent « KJF 2 » en janvier 2022, « KJF 4 » en septembre 2022 et « KJF 5 » en février 2023, sans aucun « KJF 3 » publié sous ce nom. Aucune source retrouvée n’explique cet écart de numérotation, et ce profil le signale au lieu de l’inventer.",
+  ),
+  (
+    "Qui écrit les titres de LESTEF KJF BOYZ ?",
+    "Stephan Cornano est crédité comme auteur sur la quasi-totalité des titres vérifiés du groupe, de « KJF 2 » à « Take Ur Time », et comme compositeur sur plusieurs titres, seul ou avec Corane Vincent. Aucune source ouverte ne précise son rôle exact dans le groupe, et ce profil ne le devine pas.",
+  ),
+  (
+    "Quel est le lien entre LESTEF KJF BOYZ et DJ Luchshiy ?",
+    "La collaboration est documentée dans les deux sens. En décembre 2023, Lestef est invité sur « Xmas Freestyle » et « Chabin » de <a href=\"/dj-luchshiy.html\">DJ Luchshiy</a>, avec Edday. En 2025 et 2026, le groupe accueille DJ Luchshiy sur ses propres singles « No Come Back (Whatcha Say) » et « Take Ur Time », sortis sur le label du DJ, LUCHSHIY AND BRO.",
+  ),
+  (
+    "Qu’est-ce que « Riddim Aleatoire » ?",
+    "« Riddim Aleatoire » est l’EP de LESTEF KJF BOYZ sorti le 18 juin 2025 sous le label LESTEF KJF. Ses cinq titres, « Karibbean Gyal », « Look My Style », « Ride It », « Ratatouille Live » et « Are U Ready », sont tous écrits par Stephan Cornano. Écoutez aussi notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> pour le contexte de la scène.",
+  ),
+  (
+    "Qui est LESTEF KJF BOYZ ?",
+    "LESTEF KJF BOYZ est un groupe de Guadeloupe actif de 2021 à 2026, connu pour sa série de titres numérotés « KJF 2 », « KJF 4 » et « KJF 5 », le single « 50/50 » avec Team Bwè Tou Sa et l’EP « Riddim Aleatoire » de 2025. Presque tous ses titres sont écrits par Stephan Cornano, le nom de crédit qui revient d’un bout à l’autre du catalogue.",
+  ),
+  (
+    "LESTEF KJF BOYZ, c’est du bouyon ou du dancehall ?",
+    "Les deux zones se croisent : les bases musicales présentent LESTEF KJF BOYZ comme un artiste de dancehall de Guadeloupe, mais le groupe évolue là où le dancehall des Antilles françaises rencontre le bouyon, avec des tempos rapides, des titres courts et des collaborations dans les réseaux du shatta et du <a href=\"/bouyon-gwada.html\">bouyon gwada</a>. Viberate le relève aussi dans la playlist Bouyon Sat de Kreyol Sat.",
+  ),
+  (
+    "Qui a produit « KJF 4 » de LESTEF KJF BOYZ ?",
+    "« KJF 4 », sorti le 16 septembre 2022 en single solo, est écrit par Stephan Cornano et composé par Vincent Corane, selon les crédits des plateformes. La page YouTube générée du titre indique une distribution par DistroKid. C’est le titre le plus écouté du groupe dans les classements compilés par Viberate, devant « 50/50 ».",
+  ),
+  (
+    "Qu’est-ce que « 50/50 » de Team Bwè Tou Sa et LESTEF KJF BOYZ ?",
+    "« 50/50 » est la première trace discographique vérifiée du groupe : une collaboration avec <a href=\"/team-bwe-tou-sa.html\">Team Bwè Tou Sa</a>, sortie le 29 juillet 2021 sur le label T-BTS, sur l’album « Voyé Sa Alléé ». Les crédits d’écriture nomment Ludmilian Flower, Ludmael Flower et Nicolas Macbeth. C’est le deuxième titre le plus écouté du groupe selon Viberate.",
+  ),
+  (
+    "LESTEF KJF BOYZ a-t-il écrit « La Boue » de Meryl ?",
+    "Oui, en co-écriture. « La Boue », publié par Meryl le 11 décembre 2024 sur Maison Caviar, crédite l’écriture à Meryl et LESTEF KJF BOYZ, et la composition à Dj Despy. Le titre figure depuis parmi les plus écoutés associés au groupe dans les données Viberate, aux côtés de « KJF 4 » et « 50/50 ».",
+  ),
+  (
+    "Avec quels artistes LESTEF KJF BOYZ a-t-il collaboré ?",
+    "Ses crédits vérifiés nomment Team Bwè Tou Sa sur « 50/50 », <a href=\"/lunik.html\">Lunik</a> sur « KJF 2 », ALPHA DMZ sur « KJF 5 », NICE, Gwada G et Freddy sur « Take It Out », Les Ptits du RZT sur « Malpalé », Jixels sur « Morne Fleuret Freestyle », Zepek sur « Look My Style », Meryl, Alpha et DJ Luchshiy.",
+  ),
+  (
+    "LESTEF et LESTEF KJF BOYZ, est-ce le même artiste ?",
+    "Les plateformes alternent les deux formes. Sur « Xmas Freestyle » et « Chabin », publiés par DJ Luchshiy le 22 décembre 2023, c’est « LESTEF », sans le complément KJF BOYZ, qui est crédité avec Edday. Ce profil traite la forme courte comme une variante du nom du groupe dans les featuring, sans la corriger en silence.",
+  ),
+  (
+    "LESTEF KJF BOYZ a-t-il joué en festival ?",
+    "Les données de concerts de Viberate associent le groupe à l’affiche du Karukera One Love Music Festival, à Torcy, aux côtés de noms comme Ninho, Kalash, Busy Signal, Beenie Man et Bunji Garlin. Ce profil retient cette présence comme un fait d’affiche, sans reprendre les récits de concerts plus détaillés de la même base, faute de correspondance vérifiée.",
+  )
+],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/lestef-kjf-boyz.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/lestef-kjf-boyz.html#artist", "name": "LESTEF KJF BOYZ", "description": "Groupe de Guadeloupe. Serie KJF (KJF 2, KJF 4, KJF 5), 50/50 avec Team Bwe Tou Sa, KKV, Malpale, co-ecriture de La Boue de Meryl, EP Riddim Aleatoire (2025) et singles avec DJ Luchshiy. Ecriture centrale : Stephan Cornano.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "KJF 4"}, {"@type": "MusicRecording", "name": "50/50"}, {"@type": "MusicRecording", "name": "KJF 2"}, {"@type": "MusicRecording", "name": "KJF 5"}, {"@type": "MusicRecording", "name": "TAKE IT OUT"}, {"@type": "MusicRecording", "name": "KKV"}, {"@type": "MusicRecording", "name": "MALPALÉ"}, {"@type": "MusicRecording", "name": "MORNE FLEURET FREESTYLE"}, {"@type": "MusicRecording", "name": "La Boue"}, {"@type": "MusicRecording", "name": "Karibbean Gyal"}, {"@type": "MusicRecording", "name": "NO COME BACK (WHATCHA SAY)"}, {"@type": "MusicRecording", "name": "TAKE UR TIME"},
+      {
+       "@type": "MusicRecording",
+       "name": "I JUST WANT (feat. BRG HOLLYWOOD & DINHO)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "NASTY GIRL (feat. GWADA G & JOSHII G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Open DI Place"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Are U Ready"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ratatouille Live"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ride It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Look My Style"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nou Chô (feat. FREDDY & LESTEF KJF BOYZ)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Position"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Freestyle Loup Garou"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -154,13 +245,104 @@ EN = {
   ]
  ],
  "faq": [
-  ("Where does LESTEF KJF BOYZ come from?", "Music databases present LESTEF KJF BOYZ as a dancehall group from Guadeloupe. Its catalogue confirms it through its Guadeloupe collaborations, Team Bwè Tou Sa, DJ Luchshiy and Edday, and through its audience, which Viberate data places first in France, then in Guadeloupe and Réunion."),
-  ("What are the most played LESTEF KJF BOYZ titles?", "According to the song rankings compiled by Viberate, “KJF 4”, released on September 16, 2022, is the group most played title, ahead of “50/50”, its 2021 collaboration with Team Bwè Tou Sa, then “KJF 5” and “La Boue”, the Meryl track co-written by the group in 2024."),
-  ("Why is there no “KJF 3” in the catalogue?", "The records consulted show “KJF 2” in January 2022, “KJF 4” in September 2022 and “KJF 5” in February 2023, with no “KJF 3” released under that name. No source found explains that numbering gap, and this profile flags it instead of inventing one."),
-  ("Who writes the LESTEF KJF BOYZ titles?", "Stephan Cornano is credited as writer on almost every verified title by the group, from “KJF 2” to “Take Ur Time”, and as composer on several titles, alone or with Corane Vincent. No open source states his exact role in the group, and this profile does not guess it."),
-  ("What is the link between LESTEF KJF BOYZ and DJ Luchshiy?", "The collaboration is documented in both directions. In December 2023, Lestef was featured on <a href=\"/en/dj-luchshiy.html\">DJ Luchshiy</a> “Xmas Freestyle” and “Chabin”, with Edday. In 2025 and 2026, the group hosted DJ Luchshiy on its own singles “No Come Back (Whatcha Say)” and “Take Ur Time”, released on the DJ label, LUCHSHIY AND BRO."),
-  ("What is “Riddim Aleatoire”?", "“Riddim Aleatoire” is the LESTEF KJF BOYZ EP released on June 18, 2025 under the label LESTEF KJF. Its five tracks, “Karibbean Gyal”, “Look My Style”, “Ride It”, “Ratatouille Live” and “Are U Ready”, are all written by Stephan Cornano. Hear our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> too for the context of the scene.")
- ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/lestef-kjf-boyz.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/lestef-kjf-boyz.html#artist", "name": "LESTEF KJF BOYZ", "description": "Group from Guadeloupe. KJF series (KJF 2, KJF 4, KJF 5), 50/50 with Team Bwe Tou Sa, KKV, Malpale, co-writing credit on Meryl La Boue, EP Riddim Aleatoire (2025) and singles with DJ Luchshiy. Central writing: Stephan Cornano.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "KJF 4"}, {"@type": "MusicRecording", "name": "50/50"}, {"@type": "MusicRecording", "name": "KJF 2"}, {"@type": "MusicRecording", "name": "KJF 5"}, {"@type": "MusicRecording", "name": "TAKE IT OUT"}, {"@type": "MusicRecording", "name": "KKV"}, {"@type": "MusicRecording", "name": "MALPALÉ"}, {"@type": "MusicRecording", "name": "MORNE FLEURET FREESTYLE"}, {"@type": "MusicRecording", "name": "La Boue"}, {"@type": "MusicRecording", "name": "Karibbean Gyal"}, {"@type": "MusicRecording", "name": "NO COME BACK (WHATCHA SAY)"}, {"@type": "MusicRecording", "name": "TAKE UR TIME"}], "sameAs": []}}],
+  (
+    "Where does LESTEF KJF BOYZ come from?",
+    "Music databases present LESTEF KJF BOYZ as a dancehall group from Guadeloupe. Its catalogue confirms it through its Guadeloupe collaborations, Team Bwè Tou Sa, DJ Luchshiy and Edday, and through its audience, which Viberate data places first in France, then in Guadeloupe and Réunion.",
+  ),
+  (
+    "What are the most played LESTEF KJF BOYZ titles?",
+    "According to the song rankings compiled by Viberate, “KJF 4”, released on September 16, 2022, is the group most played title, ahead of “50/50”, its 2021 collaboration with Team Bwè Tou Sa, then “KJF 5” and “La Boue”, the Meryl track co-written by the group in 2024.",
+  ),
+  (
+    "Why is there no “KJF 3” in the catalogue?",
+    "The records consulted show “KJF 2” in January 2022, “KJF 4” in September 2022 and “KJF 5” in February 2023, with no “KJF 3” released under that name. No source found explains that numbering gap, and this profile flags it instead of inventing one.",
+  ),
+  (
+    "Who writes the LESTEF KJF BOYZ titles?",
+    "Stephan Cornano is credited as writer on almost every verified title by the group, from “KJF 2” to “Take Ur Time”, and as composer on several titles, alone or with Corane Vincent. No open source states his exact role in the group, and this profile does not guess it.",
+  ),
+  (
+    "What is the link between LESTEF KJF BOYZ and DJ Luchshiy?",
+    "The collaboration is documented in both directions. In December 2023, Lestef was featured on <a href=\"/en/dj-luchshiy.html\">DJ Luchshiy</a> “Xmas Freestyle” and “Chabin”, with Edday. In 2025 and 2026, the group hosted DJ Luchshiy on its own singles “No Come Back (Whatcha Say)” and “Take Ur Time”, released on the DJ label, LUCHSHIY AND BRO.",
+  ),
+  (
+    "What is “Riddim Aleatoire”?",
+    "“Riddim Aleatoire” is the LESTEF KJF BOYZ EP released on June 18, 2025 under the label LESTEF KJF. Its five tracks, “Karibbean Gyal”, “Look My Style”, “Ride It”, “Ratatouille Live” and “Are U Ready”, are all written by Stephan Cornano. Hear our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> too for the context of the scene.",
+  ),
+  (
+    "Who is LESTEF KJF BOYZ?",
+    "LESTEF KJF BOYZ is a group from Guadeloupe active from 2021 to 2026, known for its numbered series “KJF 2”, “KJF 4” and “KJF 5”, the single “50/50” with Team Bwè Tou Sa and the 2025 EP “Riddim Aleatoire”. Almost all of its titles are written by Stephan Cornano, the credit name that runs through the whole catalogue.",
+  ),
+  (
+    "Is LESTEF KJF BOYZ bouyon or dancehall?",
+    "Both zones meet: music databases present LESTEF KJF BOYZ as a dancehall act from Guadeloupe, but the group works where French Antillean dancehall meets bouyon, with fast tempos, short titles and collaborations in the shatta and <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a> networks. Viberate also lists it in the Bouyon Sat playlist by Kreyol Sat.",
+  ),
+  (
+    "Who produced “KJF 4” by LESTEF KJF BOYZ?",
+    "“KJF 4”, released on September 16, 2022 as a solo single, is written by Stephan Cornano and composed by Vincent Corane, according to platform credits. The track generated YouTube page shows distribution by DistroKid. It is the group most played title in the rankings compiled by Viberate, ahead of “50/50”.",
+  ),
+  (
+    "What is “50/50” by Team Bwè Tou Sa and LESTEF KJF BOYZ?",
+    "“50/50” is the group first verified discographic trace: a collaboration with <a href=\"/en/team-bwe-tou-sa.html\">Team Bwè Tou Sa</a>, released on July 29, 2021 on the label T-BTS, on the album “Voyé Sa Alléé”. Writing credits name Ludmilian Flower, Ludmael Flower and Nicolas Macbeth. It is the group second most played title according to Viberate.",
+  ),
+  (
+    "Did LESTEF KJF BOYZ write “La Boue” by Meryl?",
+    "Yes, as co-writer. “La Boue”, released by Meryl on December 11, 2024 on Maison Caviar, credits the writing to Meryl and LESTEF KJF BOYZ, and the composition to Dj Despy. The track has since ranked among the most played titles associated with the group in Viberate data, alongside “KJF 4” and “50/50”.",
+  ),
+  (
+    "Which artists has LESTEF KJF BOYZ worked with?",
+    "Its verified credits name Team Bwè Tou Sa on “50/50”, <a href=\"/en/lunik.html\">Lunik</a> on “KJF 2”, ALPHA DMZ on “KJF 5”, NICE, Gwada G and Freddy on “Take It Out”, Les Ptits du RZT on “Malpalé”, Jixels on “Morne Fleuret Freestyle”, Zepek on “Look My Style”, as well as Meryl, Alpha and DJ Luchshiy.",
+  ),
+  (
+    "Are LESTEF and LESTEF KJF BOYZ the same act?",
+    "The platforms alternate between the two forms. On “Xmas Freestyle” and “Chabin”, released by DJ Luchshiy on December 22, 2023, it is “LESTEF”, without the KJF BOYZ addition, that is credited alongside Edday. This profile treats the short form as a variant of the group name in features, without silently correcting it.",
+  ),
+  (
+    "Has LESTEF KJF BOYZ played at festivals?",
+    "Viberate concert data associates the group with the line-up of the Karukera One Love Music Festival, in Torcy, alongside names such as Ninho, Kalash, Busy Signal, Beenie Man and Bunji Garlin. This profile keeps that presence as a line-up fact, without repeating the more detailed concert stories of the same database, which have no verified match.",
+  )
+],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/lestef-kjf-boyz.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/lestef-kjf-boyz.html#artist", "name": "LESTEF KJF BOYZ", "description": "Group from Guadeloupe. KJF series (KJF 2, KJF 4, KJF 5), 50/50 with Team Bwe Tou Sa, KKV, Malpale, co-writing credit on Meryl La Boue, EP Riddim Aleatoire (2025) and singles with DJ Luchshiy. Central writing: Stephan Cornano.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "KJF 4"}, {"@type": "MusicRecording", "name": "50/50"}, {"@type": "MusicRecording", "name": "KJF 2"}, {"@type": "MusicRecording", "name": "KJF 5"}, {"@type": "MusicRecording", "name": "TAKE IT OUT"}, {"@type": "MusicRecording", "name": "KKV"}, {"@type": "MusicRecording", "name": "MALPALÉ"}, {"@type": "MusicRecording", "name": "MORNE FLEURET FREESTYLE"}, {"@type": "MusicRecording", "name": "La Boue"}, {"@type": "MusicRecording", "name": "Karibbean Gyal"}, {"@type": "MusicRecording", "name": "NO COME BACK (WHATCHA SAY)"}, {"@type": "MusicRecording", "name": "TAKE UR TIME"},
+      {
+       "@type": "MusicRecording",
+       "name": "I JUST WANT (feat. BRG HOLLYWOOD & DINHO)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "NASTY GIRL (feat. GWADA G & JOSHII G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Open DI Place"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Are U Ready"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ratatouille Live"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ride It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Look My Style"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nou Chô (feat. FREDDY & LESTEF KJF BOYZ)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Position"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Freestyle Loup Garou"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

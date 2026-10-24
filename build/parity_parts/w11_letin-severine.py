@@ -63,13 +63,51 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Letin Severine ?", "Letin Severine est une autrice et compositrice créditée dans le bouyon guadeloupéen. Son dossier public vérifié tient en quatre titres, toujours coécrits avec Letin Sylia et toujours interprétés par d'autres : « Vole Nonm a Moun » en 2013 et « Sa ki bon (Bouyon King) » en 2021 pour Yellow Gaza, « PLAN A 3 » en 2024 pour Yellow Gaza et Yumei, et « LEVRETTE » en 2025 pour Yellow Gaza Girls. Aucune biographie publiée n'a été retrouvée pendant la recherche de ce profil."),
-  ("Letin Severine chante-t-elle sur les titres qu'elle écrit ?", "Non, selon les crédits publiés consultés. Sur les quatre titres vérifiés, l'interprète est Yellow Gaza, Yellow Gaza et Yumei, ou Yellow Gaza Girls. Letin Severine y paraît uniquement en composition, sur « Vole Nonm a Moun », ou en écriture, sur les trois titres suivants. Aucun crédit d'interprète à son nom n'a été retrouvé sur les plateformes consultées."),
-  ("Quels sont les titres écrits par Letin Severine ?", "Quatre titres vérifiés : « Vole Nonm a Moun » de Yellow Gaza, sorti le 5 mars 2013, à 157 BPM ; « Sa ki bon (Bouyon King) » de Yellow Gaza, sorti le 14 décembre 2021 chez Vadore Concept, à 157 BPM ; « PLAN A 3 (feat. Yu Meï) [Femmes Fatales Edition Bouyon] » de Yellow Gaza et Yumei, sorti le 7 septembre 2024 chez Vadore Concept Groupe, à 157 BPM ; et « LEVRETTE » de Yellow Gaza Girls, sorti le 16 octobre 2025 chez Vadore Concept Groupe, à 160 BPM."),
-  ("Letin Severine et Letin Sylia sont-elles de la même famille ?", "Aucune source consultée ne le dit. Les deux noms sont crédités ensemble sur les quatre titres vérifiés de ce dossier, entre 2013 et 2025, et aucun crédit séparé de l'une sans l'autre n'a été retrouvé. Elles forment donc un binôme d'écriture documenté par les catalogues, mais ce site ne publie aucun lien de parenté, de duo officiel ou de société commune sans source, et aucune source consultée n'en établit."),
-  ("Letin Severine est-elle la chanteuse Séverine de l'Eurovision ?", "Non, rien dans les sources consultées ne permet ce rapprochement. La chanteuse Séverine, vainqueur de l'Eurovision 1971 pour Monaco, est une autre artiste publiée, née Josiane Grizeau à Paris en 1948 selon sa fiche d'artiste. Letin Severine est un nom des crédits d'écriture du bouyon guadeloupéen des années 2013 à 2025, sans accent dans les fiches et toujours associé à Letin Sylia. Ce profil garde les deux dossiers strictement séparés."),
-  ("Où écouter les titres écrits par Letin Severine ?", "Commencez par « Vole Nonm a Moun », le titre de 2013 qui a encore figuré dans la sélection d'un mix bouyon de BBC Radio 1Xtra, puis « Sa ki bon (Bouyon King) », « PLAN A 3 » et « LEVRETTE ». Lisez ensuite nos pages <a href=\"/bouyon-gwada.html\">bouyon gwada</a> et <a href=\"/bouyon-guadeloupe.html\">bouyon en Guadeloupe</a>, et écoutez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>.")
- ],
+  (
+    "Qui est Letin Severine ?",
+    "Letin Severine est une autrice et compositrice créditée dans le bouyon guadeloupéen. Son dossier public vérifié tient en quatre titres, toujours coécrits avec Letin Sylia et toujours interprétés par d'autres : « Vole Nonm a Moun » en 2013 et « Sa ki bon (Bouyon King) » en 2021 pour Yellow Gaza, « PLAN A 3 » en 2024 pour Yellow Gaza et Yumei, et « LEVRETTE » en 2025 pour Yellow Gaza Girls. Aucune biographie publiée n'a été retrouvée pendant la recherche de ce profil.",
+  ),
+  (
+    "Letin Severine chante-t-elle sur les titres qu'elle écrit ?",
+    "Non, selon les crédits publiés consultés. Sur les quatre titres vérifiés, l'interprète est Yellow Gaza, Yellow Gaza et Yumei, ou Yellow Gaza Girls. Letin Severine y paraît uniquement en composition, sur « Vole Nonm a Moun », ou en écriture, sur les trois titres suivants. Aucun crédit d'interprète à son nom n'a été retrouvé sur les plateformes consultées.",
+  ),
+  (
+    "Quels sont les titres écrits par Letin Severine ?",
+    "Quatre titres vérifiés : « Vole Nonm a Moun » de Yellow Gaza, sorti le 5 mars 2013, à 157 BPM ; « Sa ki bon (Bouyon King) » de Yellow Gaza, sorti le 14 décembre 2021 chez Vadore Concept, à 157 BPM ; « PLAN A 3 (feat. Yu Meï) [Femmes Fatales Edition Bouyon] » de Yellow Gaza et Yumei, sorti le 7 septembre 2024 chez Vadore Concept Groupe, à 157 BPM ; et « LEVRETTE » de Yellow Gaza Girls, sorti le 16 octobre 2025 chez Vadore Concept Groupe, à 160 BPM.",
+  ),
+  (
+    "Letin Severine et Letin Sylia sont-elles de la même famille ?",
+    "Aucune source consultée ne le dit. Les deux noms sont crédités ensemble sur les quatre titres vérifiés de ce dossier, entre 2013 et 2025, et aucun crédit séparé de l'une sans l'autre n'a été retrouvé. Elles forment donc un binôme d'écriture documenté par les catalogues, mais ce site ne publie aucun lien de parenté, de duo officiel ou de société commune sans source, et aucune source consultée n'en établit.",
+  ),
+  (
+    "Letin Severine est-elle la chanteuse Séverine de l'Eurovision ?",
+    "Non, rien dans les sources consultées ne permet ce rapprochement. La chanteuse Séverine, vainqueur de l'Eurovision 1971 pour Monaco, est une autre artiste publiée, née Josiane Grizeau à Paris en 1948 selon sa fiche d'artiste. Letin Severine est un nom des crédits d'écriture du bouyon guadeloupéen des années 2013 à 2025, sans accent dans les fiches et toujours associé à Letin Sylia. Ce profil garde les deux dossiers strictement séparés.",
+  ),
+  (
+    "Où écouter les titres écrits par Letin Severine ?",
+    "Commencez par « Vole Nonm a Moun », le titre de 2013 qui a encore figuré dans la sélection d'un mix bouyon de BBC Radio 1Xtra, puis « Sa ki bon (Bouyon King) », « PLAN A 3 » et « LEVRETTE », tous publiés sous les noms de Yellow Gaza ou de Yellow Gaza Girls. Pour entendre la scène guadeloupéenne qui les entoure, écoutez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>.",
+  ),
+  (
+    "Qui a composé « Vole Nonm a Moun » de Yellow Gaza ?",
+    "Les crédits publiés nomment deux compositrices : Letin Sylia et Letin Severine, Yellow Gaza étant crédité comme interprète et auteur. Le single sort le 5 mars 2013, en français selon sa fiche, à 157 BPM et pour 3 minutes 40 selon Deezer. C'est la seule fois que Letin Severine est créditée en composition plutôt qu'en écriture dans ce dossier.",
+  ),
+  (
+    "Qui a écrit « LEVRETTE » de Yellow Gaza Girls ?",
+    "« LEVRETTE », sorti le 16 octobre 2025 chez Vadore Concept Groupe à 160 BPM, crédite deux autrices, Letin Severine et LETIN SYLVIA, avec Christophe Démocrite à la composition et Vador Concept Group à la production. C'est le crédit le plus récent de Letin Severine, douze ans après « Vole Nonm a Moun », toujours dans l'univers de <a href=\"/yellow-gaza.html\">Yellow Gaza</a>.",
+  ),
+  (
+    "Quel est le rôle de Letin Severine sur « PLAN A 3 Femmes Fatales Edition Bouyon » ?",
+    "Elle y est l'une des trois autrices créditées, avec Letin Sylvia et Titine Emmanuelle, tandis que Meyapin Bordin Allan signe la composition. Ce single de Yellow Gaza et Yumei, sorti le 7 septembre 2024 chez Vadore Concept Groupe, est présenté comme une édition féminine : notre page <a href=\"/femmes-du-bouyon.html\">femmes du bouyon</a> replace ce crédit d'écriture dans la place des femmes dans le genre.",
+  ),
+  (
+    "Pour quel label Letin Severine écrit-elle ?",
+    "Aucun contrat n'est publié, mais trois de ses quatre titres connus sortent chez Vadore Concept ou Vadore Concept Groupe : « Sa ki bon (Bouyon King) » en 2021, « PLAN A 3 » en 2024 et « LEVRETTE » en 2025. Le plus ancien, « Vole Nonm a Moun », était sorti en 2013 sous le nom de Yellow Gaza lui-même. Ce profil ne parle d'aucune exclusivité, qu'aucune source ne mentionne.",
+  ),
+  (
+    "Quel type de bouyon Letin Severine écrit-elle ?",
+    "Du bouyon guadeloupéen rapide, fait pour danser : ses quatre titres crédités se situent entre 157 et 160 BPM, de « Vole Nonm a Moun » en 2013 à « LEVRETTE » en 2025. Ils appartiennent au <a href=\"/bouyon-gwada.html\">bouyon gwada</a>, la forme guadeloupéenne du bouyon né en Dominique, et sont tous interprétés par Yellow Gaza, Yumei ou Yellow Gaza Girls.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/letin-severine.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/letin-severine.html#artist", "name": "Letin Severine", "description": "Autrice et compositrice créditée sur quatre titres bouyon de Yellow Gaza et Yellow Gaza Girls entre 2013 et 2025, toujours avec Letin Sylia, chez Vadore Concept pour les titres récents. Aucune biographie publiée vérifiée.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Vole Nonm a Moun"}, {"@type": "MusicRecording", "name": "Sa ki bon (Bouyon King)"}, {"@type": "MusicRecording", "name": "PLAN A 3 (feat. Yu Meï) [Femmes Fatales Edition Bouyon]"}, {"@type": "MusicRecording", "name": "LEVRETTE"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -127,13 +165,51 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Letin Severine?", "Letin Severine is a songwriter and composer credited in Guadeloupe bouyon. Her verified public record comes down to four records, always co-written with Letin Sylia and always performed by others: “Vole Nonm a Moun” in 2013 and “Sa ki bon (Bouyon King)” in 2021 for Yellow Gaza, “PLAN A 3” in 2024 for Yellow Gaza and Yumei, and “LEVRETTE” in 2025 for Yellow Gaza Girls. No published biography was found during the research for this profile."),
-  ("Does Letin Severine sing on the records she writes?", "No, according to the published credits consulted. On the four verified records, the performer is Yellow Gaza, Yellow Gaza and Yumei, or Yellow Gaza Girls. Letin Severine appears there only in composition, on “Vole Nonm a Moun”, or in songwriting, on the following three records. No performer credit in her name was found on the platforms consulted."),
-  ("What records did Letin Severine write?", "Four verified records: “Vole Nonm a Moun” by Yellow Gaza, released on March 5, 2013, at 157 BPM; “Sa ki bon (Bouyon King)” by Yellow Gaza, released on December 14, 2021 on Vadore Concept, at 157 BPM; “PLAN A 3 (feat. Yu Meï) [Femmes Fatales Edition Bouyon]” by Yellow Gaza and Yumei, released on September 7, 2024 on Vadore Concept Groupe, at 157 BPM; and “LEVRETTE” by Yellow Gaza Girls, released on October 16, 2025 on Vadore Concept Groupe, at 160 BPM."),
-  ("Are Letin Severine and Letin Sylia from the same family?", "No source consulted says so. The two names are credited together on the four verified records in this file, between 2013 and 2025, and no separate credit for one without the other was found. They therefore form a writing pair documented by the catalogues, but this site publishes no kinship link, official duo or shared company without a source, and no source consulted establishes one."),
-  ("Is Letin Severine the Eurovision singer Séverine?", "No, nothing in the sources consulted supports that connection. The singer Séverine, winner of Eurovision 1971 for Monaco, is a different published artist, born Josiane Grizeau in Paris in 1948 according to her artist page. Letin Severine is a name from the writing credits of Guadeloupe bouyon between 2013 and 2025, without an accent in the pages and always associated with Letin Sylia. This profile keeps the two files strictly separate."),
-  ("Where can I hear the records written by Letin Severine?", "Start with “Vole Nonm a Moun”, the 2013 record that still appeared in the selection of a BBC Radio 1Xtra bouyon mix, then “Sa ki bon (Bouyon King)”, “PLAN A 3” and “LEVRETTE”. Then read our <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a> and <a href=\"/en/bouyon-guadeloupe.html\">bouyon in Guadeloupe</a> pages, and hear our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>.")
- ],
+  (
+    "Who is Letin Severine?",
+    "Letin Severine is a songwriter and composer credited in Guadeloupe bouyon. Her verified public record comes down to four records, always co-written with Letin Sylia and always performed by others: “Vole Nonm a Moun” in 2013 and “Sa ki bon (Bouyon King)” in 2021 for Yellow Gaza, “PLAN A 3” in 2024 for Yellow Gaza and Yumei, and “LEVRETTE” in 2025 for Yellow Gaza Girls. No published biography was found during the research for this profile.",
+  ),
+  (
+    "Does Letin Severine sing on the records she writes?",
+    "No, according to the published credits consulted. On the four verified records, the performer is Yellow Gaza, Yellow Gaza and Yumei, or Yellow Gaza Girls. Letin Severine appears there only in composition, on “Vole Nonm a Moun”, or in songwriting, on the following three records. No performer credit in her name was found on the platforms consulted.",
+  ),
+  (
+    "What records did Letin Severine write?",
+    "Four verified records: “Vole Nonm a Moun” by Yellow Gaza, released on March 5, 2013, at 157 BPM; “Sa ki bon (Bouyon King)” by Yellow Gaza, released on December 14, 2021 on Vadore Concept, at 157 BPM; “PLAN A 3 (feat. Yu Meï) [Femmes Fatales Edition Bouyon]” by Yellow Gaza and Yumei, released on September 7, 2024 on Vadore Concept Groupe, at 157 BPM; and “LEVRETTE” by Yellow Gaza Girls, released on October 16, 2025 on Vadore Concept Groupe, at 160 BPM.",
+  ),
+  (
+    "Are Letin Severine and Letin Sylia from the same family?",
+    "No source consulted says so. The two names are credited together on the four verified records in this file, between 2013 and 2025, and no separate credit for one without the other was found. They therefore form a writing pair documented by the catalogues, but this site publishes no kinship link, official duo or shared company without a source, and no source consulted establishes one.",
+  ),
+  (
+    "Is Letin Severine the Eurovision singer Séverine?",
+    "No, nothing in the sources consulted supports that connection. The singer Séverine, winner of Eurovision 1971 for Monaco, is a different published artist, born Josiane Grizeau in Paris in 1948 according to her artist page. Letin Severine is a name from the writing credits of Guadeloupe bouyon between 2013 and 2025, without an accent in the pages and always associated with Letin Sylia. This profile keeps the two files strictly separate.",
+  ),
+  (
+    "Where can I hear the records written by Letin Severine?",
+    "Start with “Vole Nonm a Moun”, the 2013 record that still appeared in the selection of a BBC Radio 1Xtra bouyon mix, then “Sa ki bon (Bouyon King)”, “PLAN A 3” and “LEVRETTE”, all released under the Yellow Gaza or Yellow Gaza Girls names. To hear the Guadeloupe scene around them, play our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>.",
+  ),
+  (
+    "Who composed “Vole Nonm a Moun” by Yellow Gaza?",
+    "The published credits name two composers: Letin Sylia and Letin Severine, with Yellow Gaza credited as performer and songwriter. The single came out on March 5, 2013, in French according to its page, at 157 BPM and running 3 minutes 40 according to Deezer. It is the only time Letin Severine is credited in composition rather than songwriting in this file.",
+  ),
+  (
+    "Who wrote “LEVRETTE” by Yellow Gaza Girls?",
+    "“LEVRETTE”, released on October 16, 2025 on Vadore Concept Groupe at 160 BPM, credits two songwriters, Letin Severine and LETIN SYLVIA, with Christophe Démocrite as composer and Vador Concept Group as producer. It is the most recent credit of Letin Severine, twelve years after “Vole Nonm a Moun”, still inside the <a href=\"/en/yellow-gaza.html\">Yellow Gaza</a> universe.",
+  ),
+  (
+    "What is Letin Severine's role on “PLAN A 3 Femmes Fatales Edition Bouyon”?",
+    "She is one of its three credited songwriters, with Letin Sylvia and Titine Emmanuelle, while Meyapin Bordin Allan is credited as composer. This single by Yellow Gaza and Yumei, released on September 7, 2024 on Vadore Concept Groupe, is presented as a female edition: our <a href=\"/en/women-of-bouyon.html\">women of bouyon</a> page places that writing credit within the place of women in the genre.",
+  ),
+  (
+    "Which label does Letin Severine write for?",
+    "No contract is published, but three of her four known records came out on Vadore Concept or Vadore Concept Groupe: “Sa ki bon (Bouyon King)” in 2021, “PLAN A 3” in 2024 and “LEVRETTE” in 2025. The oldest, “Vole Nonm a Moun”, was released in 2013 under the Yellow Gaza name itself. This profile states no exclusivity, which no source mentions.",
+  ),
+  (
+    "What kind of bouyon does Letin Severine write?",
+    "Fast Guadeloupe bouyon made for dancing: her four credited records sit between 157 and 160 BPM, from “Vole Nonm a Moun” in 2013 to “LEVRETTE” in 2025. They belong to <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a>, the Guadeloupe form of the bouyon born in Dominica, and are all performed by Yellow Gaza, Yumei or Yellow Gaza Girls.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/letin-severine.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/letin-severine.html#artist", "name": "Letin Severine", "description": "Songwriter and composer credited on four bouyon records by Yellow Gaza and Yellow Gaza Girls between 2013 and 2025, always with Letin Sylia, on Vadore Concept for the recent records. No verified published biography.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Vole Nonm a Moun"}, {"@type": "MusicRecording", "name": "Sa ki bon (Bouyon King)"}, {"@type": "MusicRecording", "name": "PLAN A 3 (feat. Yu Meï) [Femmes Fatales Edition Bouyon]"}, {"@type": "MusicRecording", "name": "LEVRETTE"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

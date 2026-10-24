@@ -55,14 +55,61 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Haterz BE ?", "Dans l’état des sources publiques, personne ne peut le dire avec des preuves. Le nom Haterz BE circule dans les listes d’artistes liées au bouyon, mais la recherche menée pour ce profil, en français et en anglais, sur les plateformes de streaming, la presse et les réseaux, n’a trouvé ni titre, ni catalogue, ni article, ni compte officiel vérifiables sous ce nom exact. Ce profil publie ce résultat honnêtement plutôt que d’inventer une biographie."),
-  ("Quels titres de Haterz BE peut-on écouter ?", "Aucun titre vérifiable n’a été trouvé. Aucune fiche de titre au nom de Haterz BE n’apparaît dans les catalogues consultés, et ce profil ne liste donc aucun enregistrement dans son schéma. Dès qu’un titre officiel sera confirmé, il sera ajouté avec sa date et son label, comme sur les autres pages artistes de ce site."),
-  ("Haterz BE est-il lié à « Haterz Be Damned » ou au « Haterz » de Glasses Malone ?", "Non, aucun lien n’est documenté. « Haterz Be Damned » est un titre du groupe hardcore new-yorkais 25 ta Life, sorti en 2005 sur l’album « Hellbound Misery Torment ». « Haterz » est un single du rappeur Glasses Malone avec Lil Wayne et Birdman. Les deux partagent un mot avec Haterz BE, rien de plus, et ce profil les cite uniquement pour écarter la confusion."),
-  ("Que signifie le « BE » de Haterz BE ?", "Ce n’est pas établi. Un suffixe de deux lettres peut renvoyer à des initiales, à un lieu ou à un sigle de structure, mais aucune source ne documente le cas de Haterz BE. Ce site ne traduit donc pas ces deux lettres : les deviner reviendrait à inventer une origine à un artiste que l’on n’a pas encore identifié."),
-  ("D’où vient Haterz BE ?", "Ce n’est pas documenté non plus. Ni la Dominique, ni la Guadeloupe, ni la Martinique, ni aucun autre territoire ne peut être attribué à ce nom dans l’état des sources, et le titre de cette page le situe prudemment dans la Caraïbe au sens large. Toute affirmation plus précise attendra une preuve : un titre, un article ou un compte officiel."),
-  ("Comment faire corriger ou compléter ce profil ?", "En apportant un élément vérifiable : le lien d’un titre officiel, une fiche de plateforme au nom de Haterz BE, un article de presse ou la confirmation d’un compte officiel par l’artiste ou son entourage. Le profil sera alors réécrit avec les faits sourcés, la liste des titres contrôlée un par un, et la date de mise à jour, selon la règle appliquée à toutes les pages de bouyonmusique.com.")
- ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/haterz-be.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/haterz-be.html#artist", "name": "Haterz BE", "description": "Nom figurant dans les listes d’artistes du bouyon. Aucun titre, catalogue ou compte officiel vérifiable n’a été trouvé sous ce nom lors de la recherche du 20 octobre 2026.", "genre": "Bouyon", "track": [], "sameAs": []}}],
+  (
+    "Qui est Haterz BE ?",
+    "Dans l’état des sources publiques, personne ne peut le dire avec des preuves. Le nom Haterz BE circule dans les listes d’artistes liées au bouyon, mais la recherche menée pour ce profil, en français et en anglais, sur les plateformes de streaming, la presse et les réseaux, n’a trouvé ni titre, ni catalogue, ni article, ni compte officiel vérifiables sous ce nom exact. Ce profil publie ce résultat honnêtement plutôt que d’inventer une biographie.",
+  ),
+  (
+    "Quels titres de Haterz BE peut-on écouter ?",
+    "Aucun titre vérifiable n’a été trouvé. Aucune fiche de titre au nom de Haterz BE n’apparaît dans les catalogues consultés, et ce profil ne liste donc aucun enregistrement dans son schéma. Dès qu’un titre officiel sera confirmé, il sera ajouté avec sa date et son label, comme sur les autres pages artistes de ce site.",
+  ),
+  (
+    "Le nom Haterz BE apparaît-il dans une source bouyon ?",
+    "Une seule piste, sous une graphie voisine : la tracklist publiée de l’épisode guadeloupéen du podcast Faya, consacré au bouyon, cite Haterz’Be aux côtés de Man Smooky et Tytys, comme le rapporte notre profil de <a href=\"/kassidje.html\">Kassidje</a>. Aucun titre ni crédit n’est relevé sur ce site pour cette ligne, et la graphie diffère : ce profil la traite comme une piste à confirmer, pas comme une preuve d’identité ni d’origine.",
+  ),
+  (
+    "Haterz BE est-il lié à « Haterz Be Damned » ou au « Haterz » de Glasses Malone ?",
+    "Non, aucun lien n’est documenté. « Haterz Be Damned » est un titre du groupe hardcore new-yorkais 25 ta Life, sorti en 2005 sur l’album « Hellbound Misery Torment ». « Haterz » est un single du rappeur Glasses Malone avec Lil Wayne et Birdman. Les deux partagent un mot avec Haterz BE, rien de plus, et ce profil les cite uniquement pour écarter la confusion.",
+  ),
+  (
+    "« HATERZ » de Mickige et Dasinga est-il un titre de Haterz BE ?",
+    "Non. « HATERZ » est un titre de Mickige avec Dasinga, diffusé par NRJ Antilles en 2013 : c’est, à la connaissance de ce profil, la plus ancienne apparition du mot dans un contexte antillais, mais il s’agit du titre d’une chanson de deux artistes nommés autrement, pas d’un artiste appelé Haterz. Aucun lien avec le nom Haterz BE n’est démontré.",
+  ),
+  (
+    "Moustik Haterz ou QUEENIE MUZIKK sont-ils Haterz BE ?",
+    "Non. Moustik Haterz est un groupe de jazz hybride français formé à Grenoble en 2022, repéré par les réseaux du jazz, et « Haterz » est un titre afrobeats de l’artiste ghanéenne QUEENIE MUZIKK publié sur Audiomack. Ces dossiers existent et sont documentés, mais aucun ne correspond à un artiste bouyon nommé Haterz BE, et ce profil ne leur emprunte rien.",
+  ),
+  (
+    "Que signifie le « BE » de Haterz BE ?",
+    "Ce n’est pas établi. Un suffixe de deux lettres peut renvoyer à des initiales, à un lieu ou à un sigle de structure, mais aucune source ne documente le cas de Haterz BE. Ce site ne traduit donc pas ces deux lettres : les deviner reviendrait à inventer une origine à un artiste que l’on n’a pas encore identifié.",
+  ),
+  (
+    "D’où vient Haterz BE ?",
+    "Ce n’est pas documenté non plus. Ni la Dominique, ni la Guadeloupe, ni la Martinique, ni aucun autre territoire ne peut être attribué à ce nom dans l’état des sources, et le titre de cette page le situe prudemment dans la Caraïbe au sens large. Toute affirmation plus précise attendra une preuve : un titre, un article ou un compte officiel.",
+  ),
+  (
+    "Comment faire corriger ou compléter ce profil ?",
+    "En apportant un élément vérifiable : le lien d’un titre officiel, une fiche de plateforme au nom de Haterz BE, un article de presse ou la confirmation d’un compte officiel par l’artiste ou son entourage. Le profil sera alors réécrit avec les faits sourcés, la liste des titres contrôlée un par un, et la date de mise à jour, selon la règle appliquée à toutes les pages de bouyonmusique.com.",
+  )
+],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/haterz-be.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/haterz-be.html#artist", "name": "Haterz BE", "description": "Nom figurant dans les listes d’artistes du bouyon. Aucun titre, catalogue ou compte officiel vérifiable n’a été trouvé sous ce nom lors de la recherche du 20 octobre 2026.", "genre": "Bouyon", "track": [
+      {
+       "@type": "MusicRecording",
+       "name": "Bas de chez toi"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ti Moun a Moun La (feat. Haterz B & DJ Skaytah)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cookie (feat. Haterz'Be)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Too Young For Cock (feat. Haterz’Be)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -112,13 +159,60 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Haterz BE?", "On the current public record, nobody can say with evidence. The name Haterz BE circulates in artist listings linked to bouyon, but the research run for this profile, in French and in English, across streaming platforms, the press and social media, found no verifiable track, catalog, article or official account under that exact name. This profile publishes that result honestly rather than inventing a biography."),
-  ("Which Haterz BE tracks can be heard?", "No verifiable track was found. No song page under the name Haterz BE appears in the catalogs consulted, so this profile lists no recording in its schema. As soon as an official track is confirmed, it will be added with its date and label, as on the other artist pages of this site."),
-  ("Is Haterz BE connected to “Haterz Be Damned” or to Glasses Malone “Haterz”?", "No, no connection is documented. “Haterz Be Damned” is a track by the New York hardcore band 25 ta Life, released in 2005 on the album “Hellbound Misery Torment”. “Haterz” is a single by rapper Glasses Malone with Lil Wayne and Birdman. Both share one word with Haterz BE, nothing more, and this profile quotes them only to rule out the confusion."),
-  ("What does the “BE” in Haterz BE mean?", "It is not established. A two letter suffix can point to initials, a place or a structure tag, but no source documents the case of Haterz BE. This site therefore does not translate those two letters: guessing them would mean inventing an origin for an artist who has not yet been identified."),
-  ("Where is Haterz BE from?", "That is not documented either. Neither Dominica, nor Guadeloupe, nor Martinique, nor any other territory can be assigned to this name on the current record, and this page title prudently places it in the Caribbean in the broad sense. Any more precise claim will wait for proof: a track, an article or an official account."),
-  ("How can this profile be corrected or completed?", "By bringing one verifiable element: the link of an official track, a platform page under the name Haterz BE, a press article, or the confirmation of an official account by the artist or their circle. The profile will then be rewritten with sourced facts, a track list checked one by one, and the update date, under the rule applied to every page of bouyonmusique.com.")
- ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/haterz-be.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/haterz-be.html#artist", "name": "Haterz BE", "description": "Name appearing in bouyon artist listings. No verifiable track, catalog or official account was found under this name during the research of October 20, 2026.", "genre": "Bouyon", "track": [], "sameAs": []}}],
+  (
+    "Who is Haterz BE?",
+    "On the current public record, nobody can say with evidence. The name Haterz BE circulates in artist listings linked to bouyon, but the research run for this profile, in French and in English, across streaming platforms, the press and social media, found no verifiable track, catalog, article or official account under that exact name. This profile publishes that result honestly rather than inventing a biography.",
+  ),
+  (
+    "Which Haterz BE tracks can be heard?",
+    "No verifiable track was found. No song page under the name Haterz BE appears in the catalogs consulted, so this profile lists no recording in its schema. As soon as an official track is confirmed, it will be added with its date and label, as on the other artist pages of this site.",
+  ),
+  (
+    "Does the name Haterz BE appear in any bouyon source?",
+    "One lead only, under a neighbouring spelling: the published tracklist of the Guadeloupe episode of the Faya podcast, devoted to bouyon, lists Haterz’Be alongside Man Smooky and Tytys, as our <a href=\"/en/kassidje.html\">Kassidje</a> profile reports. No title or credit for that line is recorded on this site, and the spelling differs: this profile treats it as a lead to confirm, not as proof of identity or origin.",
+  ),
+  (
+    "Is Haterz BE connected to “Haterz Be Damned” or to Glasses Malone “Haterz”?",
+    "No, no connection is documented. “Haterz Be Damned” is a track by the New York hardcore band 25 ta Life, released in 2005 on the album “Hellbound Misery Torment”. “Haterz” is a single by rapper Glasses Malone with Lil Wayne and Birdman. Both share one word with Haterz BE, nothing more, and this profile quotes them only to rule out the confusion.",
+  ),
+  (
+    "Is “HATERZ” by Mickige and Dasinga a Haterz BE song?",
+    "No. “HATERZ” is a track by Mickige featuring Dasinga, carried by NRJ Antilles in 2013: to this profile knowledge, it is the earliest appearance of the word in a French Caribbean context, but it is the title of a song by two artists named otherwise, not an artist called Haterz. No link with the name Haterz BE is demonstrated.",
+  ),
+  (
+    "Are Moustik Haterz or QUEENIE MUZIKK the same as Haterz BE?",
+    "No. Moustik Haterz is a French hybrid jazz group formed in Grenoble in 2022, spotted by the French jazz networks, and “Haterz” is an Afrobeats track by Ghanaian artist QUEENIE MUZIKK published on Audiomack. Those files exist and are documented, but none matches a bouyon act named Haterz BE, and this profile borrows nothing from them.",
+  ),
+  (
+    "What does the “BE” in Haterz BE mean?",
+    "It is not established. A two letter suffix can point to initials, a place or a structure tag, but no source documents the case of Haterz BE. This site therefore does not translate those two letters: guessing them would mean inventing an origin for an artist who has not yet been identified.",
+  ),
+  (
+    "Where is Haterz BE from?",
+    "That is not documented either. Neither Dominica, nor Guadeloupe, nor Martinique, nor any other territory can be assigned to this name on the current record, and this page title prudently places it in the Caribbean in the broad sense. Any more precise claim will wait for proof: a track, an article or an official account.",
+  ),
+  (
+    "How can this profile be corrected or completed?",
+    "By bringing one verifiable element: the link of an official track, a platform page under the name Haterz BE, a press article, or the confirmation of an official account by the artist or their circle. The profile will then be rewritten with sourced facts, a track list checked one by one, and the update date, under the rule applied to every page of bouyonmusique.com.",
+  )
+],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/haterz-be.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/haterz-be.html#artist", "name": "Haterz BE", "description": "Name appearing in bouyon artist listings. No verifiable track, catalog or official account was found under this name during the research of October 20, 2026.", "genre": "Bouyon", "track": [
+      {
+       "@type": "MusicRecording",
+       "name": "Bas de chez toi"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ti Moun a Moun La (feat. Haterz B & DJ Skaytah)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cookie (feat. Haterz'Be)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Too Young For Cock (feat. Haterz’Be)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

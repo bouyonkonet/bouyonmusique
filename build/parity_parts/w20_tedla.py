@@ -62,13 +62,47 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Tedla ?", "Tedla est un nom d artiste crédité une seule fois dans les catalogues consultés : en featuring sur « VIN TCHEK NOU », le troisième titre de « Premières Notes », l album de Lewismelo daté du 1er novembre 2024 sur Deezer, aux côtés de Le Bluff et de Leyou. Aucune biographie, aucune page d artiste propre et aucun autre titre de Tedla n ont été vérifiés, et ce profil le dit ouvertement."),
-  ("Quel est le seul titre vérifié de Tedla ?", "« VIN TCHEK NOU », de Lewismelo en featuring avec Le bluff, Leyou et Tedla, troisième titre de « Premières Notes », d une durée de 3 minutes 17 selon la fiche Deezer ouverte. Ses auteurs et compositeurs publiés sont Youri Ellapin, Keran Landre et Ted Clarin. Aucun deuxième enregistrement sous la graphie Tedla n a été retrouvé pendant cette recherche."),
-  ("Tedla et TedLa, est ce le même artiste ?", "Aucune source consultée ne l affirme, et aucune ne présente deux artistes différents. Les deux graphies partagent un collaborateur publié, LeYou sur les singles de TedLa et Leyou sur « VIN TCHEK NOU », dans le même circuit guadeloupéen, et le titre de Tedla compte un auteur nommé Ted Clarin parmi ses crédits. Ce site présente donc la jonction comme une hypothèse solide mais non démontrée, garde deux pages séparées, et attribue chaque titre à la graphie sous laquelle il a été publié."),
-  ("Qui a écrit « VIN TCHEK NOU » ?", "La fiche Deezer de l album « Premières Notes » publie trois auteurs et compositeurs pour ce titre : Youri Ellapin, Keran Landre et Ted Clarin. Aucune source consultée ne dit quel nom d auteur correspond à quelle voix invitée, et ce profil ne fait pas cette correspondance à sa place."),
-  ("Tedla a t il sorti un titre solo ou un album ?", "Non, dans l état des sources consultées. Aucun titre solo, aucun EP et aucun album au nom de Tedla n est documenté. Sa seule trace vérifiée est un featuring à l intérieur de l album d un autre artiste, Lewismelo, ce qui est le régime normal des voix de session de cette scène."),
-  ("Où écouter Tedla ?", "Sur « VIN TCHEK NOU », le troisième titre de « Premières Notes » de <a href=\"/lewismelo.html\">Lewismelo</a>, aux côtés de <a href=\"/le-bluff.html\">Le Bluff</a> et de <a href=\"/leyou.html\">Leyou</a>. Pour l autre graphie et son catalogue distinct, la page <a href=\"/ted-la.html\">Ted La</a> documente les singles de 2022 avec LeYou, sans fusionner les deux dossiers.")
- ],
+  (
+    "Qui est Tedla ?",
+    "Tedla est un nom d’artiste crédité une seule fois dans les catalogues consultés : en featuring sur « VIN TCHEK NOU », le troisième titre de « Premières Notes », l’album de Lewismelo daté du 1er novembre 2024 sur Deezer, aux côtés de Le Bluff et de Leyou. Aucune biographie, aucune page d’artiste propre et aucun autre titre de Tedla n’ont été vérifiés, et ce profil le dit ouvertement.",
+  ),
+  (
+    "Quel est le seul titre vérifié de Tedla ?",
+    "« VIN TCHEK NOU », de Lewismelo en featuring avec Le bluff, Leyou et Tedla, troisième titre de « Premières Notes », d’une durée de 3 minutes 17 selon la fiche Deezer ouverte. Ses auteurs et compositeurs publiés sont Youri Ellapin, Keran Landre et Ted Clarin. Aucun deuxième enregistrement sous la graphie Tedla n’a été retrouvé pendant cette recherche.",
+  ),
+  (
+    "Tedla et TedLa, est-ce le même artiste ?",
+    "Aucune source consultée ne l’affirme, et aucune ne présente deux artistes différents. Les deux graphies partagent un collaborateur publié, LeYou sur les singles de TedLa et Leyou sur « VIN TCHEK NOU », dans le même circuit guadeloupéen, et le titre de Tedla compte un auteur nommé Ted Clarin parmi ses crédits. Ce site présente donc la jonction comme une hypothèse solide mais non démontrée, garde deux pages séparées, dont la page <a href=\"/ted-la.html\">Ted La</a>, et attribue chaque titre à la graphie sous laquelle il a été publié.",
+  ),
+  (
+    "Qui a écrit « VIN TCHEK NOU » ?",
+    "La fiche Deezer de l’album « Premières Notes » publie trois auteurs et compositeurs pour ce titre : Youri Ellapin, Keran Landre et Ted Clarin. Aucune source consultée ne dit quel nom d’auteur correspond à quelle voix invitée, et ce profil ne fait pas cette correspondance à sa place.",
+  ),
+  (
+    "Tedla a-t-il sorti un titre solo ou un album ?",
+    "Non, dans l’état des sources consultées. Aucun titre solo, aucun EP et aucun album au nom de Tedla n’est documenté. Sa seule trace vérifiée est un featuring à l’intérieur de l’album d’un autre artiste, Lewismelo, ce qui est le régime normal des voix de session de cette scène.",
+  ),
+  (
+    "Où écouter Tedla ?",
+    "Sur « VIN TCHEK NOU », le troisième titre de « Premières Notes » de <a href=\"/lewismelo.html\">Lewismelo</a>, aux côtés de Le Bluff et de Leyou, à écouter entre « 5 KILOS » et « POMPÉ » pour sentir sa place de titre de présentation d’équipe. Pour l’autre graphie et son catalogue distinct, la page Ted La documente les singles de 2022 avec LeYou.",
+  ),
+  (
+    "Que veut dire « Vin tchek nou » ?",
+    "Dans le créole des Antilles françaises, « vin tchek nou » se lit comme une invitation : venez nous voir, venez nous rencontrer. Le titre colle à sa place sur l’album, celle d’un morceau de présentation où Lewismelo montre son cercle, avec trois voix invitées, Le Bluff, Leyou et Tedla, avant de dérouler les collaborations une à une.",
+  ),
+  (
+    "Qu’est-ce que l’album « Premières Notes » de Lewismelo ?",
+    "L’album qui porte le seul crédit de Tedla, sous la bannière Lewismeloproduction, daté du 1er novembre 2024 sur la fiche Deezer, avec huit titres. Après « INTRO », « 5 KILOS » réunit Admiral T et Shanika, puis viennent « VIN TCHEK NOU », « POMPÉ » avec Dcamp et KEKS MAFIA, « ALOUETTE » avec Lejuh, « KEY » avec Virtuose et « HULLABALOO » avec Jixels.",
+  ),
+  (
+    "Avec qui Tedla chante-t-il sur « VIN TCHEK NOU » ?",
+    "Avec Lewismelo, artiste principal du titre, et deux autres voix invitées, <a href=\"/le-bluff.html\">Le Bluff</a> et Leyou. Le Bluff est crédité sur plusieurs titres du même circuit, tandis que Leyou partage avec Tedla le statut de voix à trace unique, du moins sous cette graphie. Le titre dure 3 minutes 17 et ne crédite aucun producteur distinct sur la fiche ouverte.",
+  ),
+  (
+    "Tedla est-il le chanteur éthiopien de « Tedla Gualu » ?",
+    "Non, rien ne relie ces noms. Tedla est un prénom attesté en Éthiopie et en Érythrée, et une recherche renvoie par exemple une chanson éthiopienne intitulée « Tedla Gualu », sans lien avec le bouyon, la Guadeloupe ou Lewismelo. Le seul Tedla de ce profil est celui dont le réseau se recoupe avec la scène documentée ici : Lewismelo, Le Bluff, Leyou et les auteurs du titre.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/tedla.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/tedla.html#artist", "name": "Tedla", "description": "Nom d artiste du bouyon guadeloupéen crédité une seule fois dans les sources consultées, en featuring sur VIN TCHEK NOU de Lewismelo avec Le Bluff et Leyou, sur l album Premières Notes. Aucune source n établit que Tedla et TedLa, la graphie des singles de 2022 avec LeYou, nomment la même personne, et ce profil présente la jonction comme une hypothèse non démontrée.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'VIN TCHEK NOU'}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -131,13 +165,47 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Tedla?", "Tedla is an artist name credited once only in the catalogs consulted: as a feature on “VIN TCHEK NOU”, the third track of “Premières Notes”, the Lewismelo album dated November 1, 2024 on Deezer, alongside Le Bluff and Leyou. No biography, no artist page of his own and no other Tedla record were verified, and this profile says so openly."),
-  ("What is the only verified Tedla record?", "“VIN TCHEK NOU”, by Lewismelo featuring Le bluff, Leyou and Tedla, third track of “Premières Notes”, running 3 minutes 17 according to the Deezer listing opened. Its published writers and composers are Youri Ellapin, Keran Landre and Ted Clarin. No second recording under the Tedla spelling was found during this research."),
-  ("Are Tedla and TedLa the same artist?", "No source consulted says so, and none presents two different artists either. The two spellings share a published collaborator, LeYou on the TedLa singles and Leyou on “VIN TCHEK NOU”, inside the same Guadeloupe circuit, and the Tedla record counts a writer named Ted Clarin among its credits. This site therefore presents the junction as a strong but undemonstrated hypothesis, keeps two separate pages, and attributes every record to the spelling under which it was published."),
-  ("Who wrote “VIN TCHEK NOU”?", "The Deezer listing of the “Premières Notes” album publishes three writers and composers for this track: Youri Ellapin, Keran Landre and Ted Clarin. No source consulted says which writer name matches which guest voice, and this profile does not make that match in its place."),
-  ("Has Tedla released a solo record or an album?", "No, in the state of the sources consulted. No solo record, no EP and no album under the name Tedla is documented. His only verified trace is a feature inside the album of another artist, Lewismelo, which is the normal regime of the session voices of this scene."),
-  ("Where can I hear Tedla?", "On “VIN TCHEK NOU”, the third track of “Premières Notes” by <a href=\"/en/lewismelo.html\">Lewismelo</a>, alongside <a href=\"/en/le-bluff.html\">Le Bluff</a> and <a href=\"/en/leyou.html\">Leyou</a>. For the other spelling and its distinct catalog, the <a href=\"/en/ted-la.html\">Ted La</a> page documents the 2022 singles with LeYou, without merging the two files.")
- ],
+  (
+    "Who is Tedla?",
+    "Tedla is an artist name credited once only in the catalogs consulted: as a feature on “VIN TCHEK NOU”, the third track of “Premières Notes”, the Lewismelo album dated November 1, 2024 on Deezer, alongside Le Bluff and Leyou. No biography, no artist page of his own and no other Tedla record were verified, and this profile says so openly.",
+  ),
+  (
+    "What is the only verified Tedla record?",
+    "“VIN TCHEK NOU”, by Lewismelo featuring Le bluff, Leyou and Tedla, third track of “Premières Notes”, running 3 minutes 17 according to the Deezer listing opened. Its published writers and composers are Youri Ellapin, Keran Landre and Ted Clarin. No second recording under the Tedla spelling was found during this research.",
+  ),
+  (
+    "Are Tedla and TedLa the same artist?",
+    "No source consulted says so, and none presents two different artists either. The two spellings share a published collaborator, LeYou on the TedLa singles and Leyou on “VIN TCHEK NOU”, inside the same Guadeloupe circuit, and the Tedla record counts a writer named Ted Clarin among its credits. This site therefore presents the junction as a strong but undemonstrated hypothesis, keeps two separate pages, including the <a href=\"/en/ted-la.html\">Ted La</a> page, and attributes every record to the spelling under which it was published.",
+  ),
+  (
+    "Who wrote “VIN TCHEK NOU”?",
+    "The Deezer listing of the “Premières Notes” album publishes three writers and composers for this track: Youri Ellapin, Keran Landre and Ted Clarin. No source consulted says which writer name matches which guest voice, and this profile does not make that match in its place.",
+  ),
+  (
+    "Has Tedla released a solo record or an album?",
+    "No, in the state of the sources consulted. No solo record, no EP and no album under the name Tedla is documented. His only verified trace is a feature inside the album of another artist, Lewismelo, which is the normal regime of the session voices of this scene.",
+  ),
+  (
+    "Where can I hear Tedla?",
+    "On “VIN TCHEK NOU”, the third track of “Premières Notes” by <a href=\"/en/lewismelo.html\">Lewismelo</a>, alongside Le Bluff and Leyou, best heard between “5 KILOS” and “POMPÉ” to feel its place as the team presentation record. For the other spelling and its distinct catalog, the Ted La page documents the 2022 singles with LeYou.",
+  ),
+  (
+    "What does “Vin tchek nou” mean?",
+    "In the Creole of the French Antilles, “vin tchek nou” reads as an invitation: come and see us, come check us, come meet us. The title fits its place on the album, that of a presentation record where Lewismelo shows his circle, with three guest voices, Le Bluff, Leyou and Tedla, before unrolling the collaborations one by one.",
+  ),
+  (
+    "What is the Lewismelo album “Premières Notes”?",
+    "The album that carries Tedla's only credit, under the Lewismeloproduction banner, dated November 1, 2024 on the Deezer listing, with eight songs. After “INTRO”, “5 KILOS” brings together Admiral T and Shanika, then come “VIN TCHEK NOU”, “POMPÉ” with Dcamp and KEKS MAFIA, “ALOUETTE” with Lejuh, “KEY” with Virtuose and “HULLABALOO” with Jixels.",
+  ),
+  (
+    "Who sings with Tedla on “VIN TCHEK NOU”?",
+    "Lewismelo, the lead artist of the record, and two other guest voices, <a href=\"/en/le-bluff.html\">Le Bluff</a> and Leyou. Le Bluff is credited on several records of the same circuit, while Leyou shares with Tedla the status of a single trace voice, at least under that spelling. The record runs 3 minutes 17 and credits no separate producer on the listing opened.",
+  ),
+  (
+    "Is Tedla the Ethiopian singer of “Tedla Gualu”?",
+    "No, nothing links these names. Tedla is an attested Ethiopian and Eritrean first name, and a search returns for example an Ethiopian song titled “Tedla Gualu”, with no link to bouyon, Guadeloupe or Lewismelo. The only Tedla of this profile is the one whose network cross checks with the scene documented here: Lewismelo, Le Bluff, Leyou and the record's writers.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/tedla.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/tedla.html#artist", "name": "Tedla", "description": "Artist name of Guadeloupe bouyon credited once only in the sources consulted, as a feature on VIN TCHEK NOU by Lewismelo with Le Bluff and Leyou, on the album Premieres Notes. No source establishes that Tedla and TedLa, the spelling of the 2022 singles with LeYou, name the same person, and this profile presents the junction as an undemonstrated hypothesis.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'VIN TCHEK NOU'}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

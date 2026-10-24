@@ -78,13 +78,59 @@ FR = {
   ]
  ],
  "faq": [
-  ("Le Kenny G de la Dominique est-il le saxophoniste américain ?", "Non. Le saxophoniste Kenny G est Kenneth Gorelick, né à Seattle en 1956, star américaine du smooth jazz. Le Kenny G de ce profil est un chanteur de bouyon de la Dominique, sans aucun lien avec lui : ils ne partagent que le nom de scène, et leurs catalogues ne se recoupent pas."),
-  ("D’où vient Kenny G et pour quel style est-il connu ?", "Kenny G vient de la Dominique. L’annonce officielle de Dominica Festivals, relayée par Writeups24 en 2023, le présente avec Ridge and Friends comme des artistes dominicains connus pour leurs performances énergiques et à haute intensité. Son style est le bouyon, la musique de carnaval rapide née en Dominique."),
-  ("Quels sont les titres connus de Kenny G ?", "Trois titres sont vérifiés par les tracklists publiées de mixes de carnaval : « Dress and Out » et « Dress and Out Again », et « I Know Y », interprété avec Reo et Faithii. Aucune discographie complète en streaming sous son nom n’a pu être confirmée, les pages « Kenny G » des plateformes appartenant au saxophoniste américain."),
-  ("Kenny G a-t-il été nommé aux Caribbean Music Awards ?", "Oui. Il figure dans la liste officielle des nommés 2025 pour le titre de Bouyon Artist of the Year, aux côtés d’Asa Bantan, litleboy, Mr. Ridge, Quan, Shelly Alfred, Trilla G, Triple K et Pudaz. La presse caribéenne le décrit comme un nommé récurrent de la catégorie. Le titre 2025 est revenu à Mr. Ridge."),
-  ("Quand Kenny G a-t-il joué au World Creole Music Festival ?", "Il a été ajouté à l’affiche de l’édition 2023, du 27 au 29 octobre 2023. En 2025, pour la 25e édition du festival, il chante le samedi 25 octobre au Windsor Park de Roseau au sein de The Bouyon Assembly, le segment collectif bouyon de la nuit 2, avec Ridge, Pudaz, Quan, DJ MJ, Little Boy, Rohie et Ebony Empress."),
-  ("Pourquoi trouve-t-on si peu d’informations sur Kenny G ?", "Pour deux raisons. D’abord, son nom de scène est occupé mondialement par le saxophoniste américain, ce qui écrase ses traces dans les moteurs de recherche et sur les plateformes. Ensuite, sa carrière passe par la scène et par les mixes des DJ plus que par des sorties documentées en streaming. Ce profil rassemble les sources vérifiables : affiches de festivals, listes des Caribbean Music Awards, presse caribéenne et tracklists publiées.")
- ],
+  (
+    "Le Kenny G de la Dominique est-il le saxophoniste américain ?",
+    "Non. Le saxophoniste Kenny G est Kenneth Gorelick, né à Seattle en 1956, star américaine du smooth jazz. Le Kenny G de ce profil est un chanteur de bouyon de la Dominique, sans aucun lien avec lui : ils ne partagent que le nom de scène, et leurs catalogues ne se recoupent pas.",
+  ),
+  (
+    "D’où vient Kenny G et pour quel style est-il connu ?",
+    "Kenny G vient de la Dominique. L’annonce officielle de Dominica Festivals, relayée par Writeups24 en 2023, le présente avec Ridge and Friends comme des artistes dominicains connus pour leurs performances énergiques et à haute intensité. Son style est le bouyon, la musique de carnaval rapide née en Dominique.",
+  ),
+  (
+    "Quels sont les titres connus de Kenny G ?",
+    "Trois titres sont vérifiés par les tracklists publiées de mixes de carnaval : « Dress and Out » et « Dress and Out Again », et « I Know Y », interprété avec Reo et Faithii. Aucune discographie complète en streaming sous son nom n’a pu être confirmée, les pages « Kenny G » des plateformes appartenant au saxophoniste américain.",
+  ),
+  (
+    "Kenny G a-t-il été nommé aux Caribbean Music Awards ?",
+    "Oui. Il figure dans la liste officielle des nommés 2025 pour le titre de Bouyon Artist of the Year, aux côtés d’Asa Bantan, litleboy, Mr. Ridge, Quan, Shelly Alfred, Trilla G, Triple K et Pudaz. La presse caribéenne le décrit comme un nommé récurrent de la catégorie. Le titre 2025 est revenu à Mr. Ridge.",
+  ),
+  (
+    "Quand Kenny G a-t-il joué au World Creole Music Festival ?",
+    "Il a été ajouté à l’affiche de l’édition 2023, du 27 au 29 octobre 2023. En 2025, pour la 25e édition du festival, il chante le samedi 25 octobre au Windsor Park de Roseau au sein de The Bouyon Assembly, le segment collectif bouyon de la nuit 2, avec Ridge, Pudaz, Quan, DJ MJ, Little Boy, Rohie et Ebony Empress.",
+  ),
+  (
+    "Pourquoi trouve-t-on si peu d’informations sur Kenny G ?",
+    "Pour deux raisons. D’abord, son nom de scène est occupé mondialement par le saxophoniste américain, ce qui écrase ses traces dans les moteurs de recherche et sur les plateformes. Ensuite, sa carrière passe par la scène et par les mixes des DJ plus que par des sorties documentées en streaming. Ce profil rassemble les sources vérifiables : affiches de festivals, listes des Caribbean Music Awards, presse caribéenne et tracklists publiées.",
+  ),
+  (
+    "Qui est Kenny G, l’artiste bouyon de la Dominique ?",
+    "Kenny G est un chanteur de bouyon de la Dominique, l’une des voix brutes de la scène dominicaine actuelle. Nommé aux Caribbean Music Awards dans la catégorie bouyon et membre de The Bouyon Assembly au World Creole Music Festival 2025, il est décrit par le site Black Island Girl comme une figure brute et influente de la scène, un regard de média et non un titre officiel.",
+  ),
+  (
+    "Quel est le vrai nom de Kenny G de la Dominique ?",
+    "Son nom complet n’est publié dans aucune des sources consultées, et ce profil ne l’imprime donc pas. Le nom Kenneth Gorelick, que donnent les moteurs de recherche, est celui du saxophoniste américain né à Seattle, pas celui du chanteur de bouyon. C’est justement cette homonymie qui brouille les recherches : le Kenny G dominicain existe dans les affiches, les listes de nommés et les tracklists.",
+  ),
+  (
+    "Kenny G joue-t-il au Ti Vilaj Kwéyòl 2026 ?",
+    "Oui. Le 18 octobre 2026, Kenny G a été ajouté à la liste officielle des artistes du Ti Vilaj Kwéyòl 2026, publiée par le gouvernement de la Dominique. Ce village créole, installé aux Botanic Gardens de Roseau, tient sa 5e édition du 19 au 22 octobre 2026 sur le thème « Tout Biten Domnik », juste avant le World Creole Music Festival.",
+  ),
+  (
+    "Qu’est-ce que « Dress and Out » de Kenny G ?",
+    "C’est le titre le plus traçable de Kenny G. Il figure dans la tracklist de « ROAD MONSTER P.1 », un mix du Carnaval 2025 de DJ Sargent Unstoppable, entre des titres de Triple Kay, Mr. Ridge et Shelly et Signal Band. Un autre mix de carnaval, « Road to Carnival (Dominica Meets Trinbago) » de DJ Judgement, liste aussi « Dress and Out Again », suite ou variante non tranchée par les sources.",
+  ),
+  (
+    "Avec qui Kenny G chante-t-il « I Know Y » ?",
+    "Avec Reo et Faithii. Le titre « I Know Y » est crédité à Reo, Kenny G et Faithii dans la tracklist du mix « ROAD MONSTER P.1 » de DJ Sargent Unstoppable, pour le Carnaval 2025. Reo est l’une des voix montantes de la Dominique, et le disque réunit les trois artistes dans le format classique du bouyon actuel : un titre court et rapide, taillé pour les DJ et la route du carnaval.",
+  ),
+  (
+    "Quels artistes bouyon sont de la même génération que Kenny G ?",
+    "En mars 2025, le magazine CaribMagPlus, en rapportant la victoire de « RAGS » au premier Bouyon Road March de la Dominique, a cité Kenny G parmi les artistes dont les sorties récentes portent la vague bouyon, avec Sukie Burn Brain, Mr. Ridge, Reo et Signal Band. Les listes des Caribbean Music Awards le placent aussi aux côtés de Trilla G, Quan, Pudaz et litleboy.",
+  ),
+  (
+    "Où écouter Kenny G de la Dominique ?",
+    "Surtout dans les mixes de carnaval, où vit son catalogue : « ROAD MONSTER P.1 » de DJ Sargent Unstoppable porte « Dress and Out » et « I Know Y ». Sur les plateformes, la page « Kenny G » mène au saxophoniste américain. Pour le bouyon de sa génération, écoutez le Road Mix de Bouyon Shattaz sur notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, qui suit les sorties dominicaines.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/kenny-g-dominica.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/kenny-g-dominica.html#artist", "name": "Kenny G", "description": "Artiste bouyon de la Dominique, sans lien avec le saxophoniste américain du même nom. Nommé Bouyon Artist of the Year aux Caribbean Music Awards 2025, membre de The Bouyon Assembly au World Creole Music Festival 2025.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Dress and Out'}, {"@type": "MusicRecording", "name": 'Dress and Out Again'}, {"@type": "MusicRecording", "name": 'I Know Y'}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -156,13 +202,59 @@ EN = {
   ]
  ],
  "faq": [
-  ("Is Kenny G from Dominica the American saxophonist?", "No. The saxophonist Kenny G is Kenneth Gorelick, born in Seattle in 1956, an American smooth jazz star. The Kenny G of this profile is a bouyon singer from Dominica, with no connection to him: they share only a stage name, and their catalogues do not overlap."),
-  ("Where is Kenny G from, and what style is he known for?", "Kenny G is from Dominica. The official Dominica Festivals announcement carried by Writeups24 in 2023 presented him, with Ridge and Friends, as Dominican artists known for their high octane, energetic performances. His style is bouyon, the fast carnival music born in Dominica."),
-  ("What are Kenny G known songs?", "Three records are verified by published carnival mix tracklists: “Dress and Out” and “Dress and Out Again”, and “I Know Y”, performed with Reo and Faithii. No complete streaming discography under his name could be confirmed, since the “Kenny G” pages of the platforms belong to the American saxophonist."),
-  ("Was Kenny G nominated at the Caribbean Music Awards?", "Yes. He appears on the official 2025 nominee list for Bouyon Artist of the Year, alongside Asa Bantan, litleboy, Mr. Ridge, Quan, Shelly Alfred, Trilla G, Triple K and Pudaz. Caribbean media describe him as a repeat nominee in the category. The 2025 title went to Mr. Ridge."),
-  ("When did Kenny G play the World Creole Music Festival?", "He was added to the bill of the 2023 edition, held from October 27 to 29, 2023. In 2025, for the festival 25th edition, he performed on Saturday October 25 at Windsor Park in Roseau as part of The Bouyon Assembly, the collective bouyon segment of Night Two, with Ridge, Pudaz, Quan, DJ MJ, Little Boy, Rohie and Ebony Empress."),
-  ("Why is so little information published about Kenny G?", "For two reasons. First, his stage name is occupied worldwide by the American saxophonist, which buries his traces in search engines and on the platforms. Second, his career runs through the stage and through DJ mixes more than through documented streaming releases. This profile gathers the verifiable sources: festival bills, Caribbean Music Awards lists, Caribbean press and published tracklists.")
- ],
+  (
+    "Is Kenny G from Dominica the American saxophonist?",
+    "No. The saxophonist Kenny G is Kenneth Gorelick, born in Seattle in 1956, an American smooth jazz star. The Kenny G of this profile is a bouyon singer from Dominica, with no connection to him: they share only a stage name, and their catalogues do not overlap.",
+  ),
+  (
+    "Where is Kenny G from, and what style is he known for?",
+    "Kenny G is from Dominica. The official Dominica Festivals announcement carried by Writeups24 in 2023 presented him, with Ridge and Friends, as Dominican artists known for their high octane, energetic performances. His style is bouyon, the fast carnival music born in Dominica.",
+  ),
+  (
+    "What are Kenny G known songs?",
+    "Three records are verified by published carnival mix tracklists: “Dress and Out” and “Dress and Out Again”, and “I Know Y”, performed with Reo and Faithii. No complete streaming discography under his name could be confirmed, since the “Kenny G” pages of the platforms belong to the American saxophonist.",
+  ),
+  (
+    "Was Kenny G nominated at the Caribbean Music Awards?",
+    "Yes. He appears on the official 2025 nominee list for Bouyon Artist of the Year, alongside Asa Bantan, litleboy, Mr. Ridge, Quan, Shelly Alfred, Trilla G, Triple K and Pudaz. Caribbean media describe him as a repeat nominee in the category. The 2025 title went to Mr. Ridge.",
+  ),
+  (
+    "When did Kenny G play the World Creole Music Festival?",
+    "He was added to the bill of the 2023 edition, held from October 27 to 29, 2023. In 2025, for the festival 25th edition, he performed on Saturday October 25 at Windsor Park in Roseau as part of The Bouyon Assembly, the collective bouyon segment of Night Two, with Ridge, Pudaz, Quan, DJ MJ, Little Boy, Rohie and Ebony Empress.",
+  ),
+  (
+    "Why is so little information published about Kenny G?",
+    "For two reasons. First, his stage name is occupied worldwide by the American saxophonist, which buries his traces in search engines and on the platforms. Second, his career runs through the stage and through DJ mixes more than through documented streaming releases. This profile gathers the verifiable sources: festival bills, Caribbean Music Awards lists, Caribbean press and published tracklists.",
+  ),
+  (
+    "Who is Kenny G, the bouyon artist from Dominica?",
+    "Kenny G is a bouyon singer from Dominica, one of the raw voices of the current Dominican scene. Nominated at the Caribbean Music Awards in the bouyon category and a member of The Bouyon Assembly at the 2025 World Creole Music Festival, he is described by the Black Island Girl site as a raw and influential figure in the scene, a media view rather than an official title.",
+  ),
+  (
+    "What is the real name of Kenny G from Dominica?",
+    "His full name is published in none of the sources consulted, so this profile does not print it. The name Kenneth Gorelick, which search engines return, belongs to the American saxophonist born in Seattle, not to the bouyon singer. That shared stage name is exactly what blurs the searches: the Dominican Kenny G exists on festival bills, nominee lists and tracklists.",
+  ),
+  (
+    "Is Kenny G playing Ti Vilaj Kwéyòl 2026?",
+    "Yes. On October 18, 2026, Kenny G was added to the official artist list of Ti Vilaj Kwéyòl 2026, published by the Government of Dominica. The Creole village at the Botanic Gardens in Roseau holds its 5th edition from October 19 to 22, 2026 under the theme “Tout Biten Domnik”, Everything Dominican, just before the World Creole Music Festival.",
+  ),
+  (
+    "What is “Dress and Out” by Kenny G?",
+    "It is Kenny G most traceable record. It appears in the tracklist of “ROAD MONSTER P.1”, a Carnival 2025 mix by DJ Sargent Unstoppable, between tracks by Triple Kay, Mr. Ridge and Shelly and Signal Band. Another carnival mix, “Road to Carnival (Dominica Meets Trinbago)” by DJ Judgement, also lists “Dress and Out Again”, a sequel or variant the sources do not settle.",
+  ),
+  (
+    "Who sings “I Know Y” with Kenny G?",
+    "Reo and Faithii. The record “I Know Y” is credited to Reo, Kenny G and Faithii in the tracklist of the “ROAD MONSTER P.1” mix by DJ Sargent Unstoppable, for Carnival 2025. Reo is one of the rising voices of Dominica, and the record brings the three together in the classic format of current bouyon: a short, fast track built for DJs and the carnival road.",
+  ),
+  (
+    "Which bouyon artists belong to Kenny G generation?",
+    "In March 2025, CaribMagPlus magazine, reporting the victory of “RAGS” at Dominica first Bouyon Road March, named Kenny G among the artists whose recent releases are riding the bouyon wave, alongside Sukie Burn Brain, Mr. Ridge, Reo and Signal Band. The Caribbean Music Awards lists also set him next to Trilla G, Quan, Pudaz and litleboy.",
+  ),
+  (
+    "Where can I hear Kenny G from Dominica?",
+    "Mostly in carnival mixes, where his catalogue lives: “ROAD MONSTER P.1” by DJ Sargent Unstoppable carries “Dress and Out” and “I Know Y”. On the platforms, the “Kenny G” page leads to the American saxophonist. For the bouyon of his generation, play the Bouyon Shattaz Road Mix on our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> page, which follows Dominican releases.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/kenny-g-dominica.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/kenny-g-dominica.html#artist", "name": "Kenny G", "description": "Bouyon artist from Dominica, unrelated to the American saxophonist of the same name. Nominated for Bouyon Artist of the Year at the 2025 Caribbean Music Awards, member of The Bouyon Assembly at the 2025 World Creole Music Festival.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Dress and Out'}, {"@type": "MusicRecording", "name": 'Dress and Out Again'}, {"@type": "MusicRecording", "name": 'I Know Y'}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

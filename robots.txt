@@ -1,4 +1,29 @@
 User-agent: *
 Allow: /
 
+# Answer engines and assistants that cite and link their sources
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: DuckAssistBot
+Allow: /
+
+# Bulk crawlers for model training and data resale
+User-agent: GPTBot
+User-agent: ClaudeBot
+User-agent: CCBot
+User-agent: Google-Extended
+User-agent: Applebot-Extended
+User-agent: Bytespider
+User-agent: meta-externalagent
+User-agent: Diffbot
+User-agent: Omgilibot
+User-agent: cohere-ai
+User-agent: ImagesiftBot
+User-agent: Timpibot
+Disallow: /
+
 Sitemap: https://bouyonmusique.com/sitemap.xml

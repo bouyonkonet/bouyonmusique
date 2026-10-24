@@ -74,14 +74,605 @@ FR = {
   ]
  ],
  "faq": [
-  ("Skinny Fabulous est-il un artiste bouyon ?", "Non. Skinny Fabulous, de son vrai nom Gamal Doyle, est un artiste soca de Saint-Vincent-et-les-Grenadines. Son lien avec le bouyon est précis et documenté : ses titres « Famalay » et « Conch Shell » sont des productions de Dada, le producteur dominicain du bouyon soca, et il a enregistré sa voix pour « Conch Shell » au studio Dadamanufakture, en Dominique."),
-  ("Quel est le vrai nom de Skinny Fabulous et d'où vient son nom de scène ?", "Son vrai nom est Gamal Doyle. Dans son entretien à Caribbean Beat Magazine, il raconte que ses amis l'appelaient d'abord « Tin Beef » parce qu'il était très maigre, et que le nom Skinny Fabulous vient de ce physique qu'il assume avec humour."),
-  ("Qu'a gagné Skinny Fabulous avec « Famalay » en 2019 ?", "« Famalay », chanté avec Machel Montano et Bunji Garlin, a gagné le Road March de Trinidad et Tobago 2019 avec 346 passages aux points de jugement selon la TUCO. Skinny Fabulous est devenu le premier artiste non citoyen de Trinidad et Tobago à remporter ce titre, et Ebuzztt précise que le titre a été écrit par Gamal Doyle lui-même."),
-  ("Combien de fois Skinny Fabulous a-t-il gagné le Soca Monarch de Saint-Vincent ?", "Les sources de référence le donnent cinq fois vainqueur du Soca Monarch de Saint-Vincent-et-les-Grenadines, à partir de sa première couronne en 2008 avec « Head Bad ». En 2025, après six ans d'absence du concours, il y est revenu avec Fireman Hooper sur « Erupt » et a partagé la couronne, selon Ebuzztt."),
-  ("Qui a produit « Famalay » et « Conch Shell » ?", "Selon les crédits officiels, « Famalay » est produit par DadaMuzic et DSM, et « Conch Shell », de Skinny Fabulous, Machel Montano et Iwer George, est produit par Dadamanufakture. Derrière ces deux noms se trouve Dada, le producteur dominicain auquel ce site consacre un profil complet."),
-  ("Quels sont les titres indispensables de Skinny Fabulous ?", "Commencez par « Head Bad », le titre de sa première couronne, puis « Monster », « Watch Thing », « Happy » et « Mash Up International ». Enchaînez avec « Famalay » et « Conch Shell », ses deux productions signées Dada, puis « Come Home » avec Nailah Blackman, deuxième du Road March 2023, et « Erupt », le titre de son retour au Soca Monarch en 2025.")
- ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/skinny-fabulous.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/skinny-fabulous.html#artist", "name": "Skinny Fabulous", "description": "Chanteur et auteur soca de Saint-Vincent-et-les-Grenadines, de son vrai nom Gamal Doyle. Cinq fois vainqueur du Soca Monarch de Saint-Vincent, premier artiste non citoyen de Trinidad et Tobago vainqueur du Road March avec Famalay en 2019. Famalay et Conch Shell sont des productions du Dominicain Dada.", "genre": "Soca", "track": [{"@type": "MusicRecording", "name": "Famalay"}, {"@type": "MusicRecording", "name": "Conch Shell"}, {"@type": "MusicRecording", "name": "Head Bad"}, {"@type": "MusicRecording", "name": "Monster"}, {"@type": "MusicRecording", "name": "Watch Thing"}, {"@type": "MusicRecording", "name": "Happy"}, {"@type": "MusicRecording", "name": "Mash Up International"}, {"@type": "MusicRecording", "name": "More Jab"}, {"@type": "MusicRecording", "name": "Solid as a Rock"}, {"@type": "MusicRecording", "name": "Worst Behaviour"}, {"@type": "MusicRecording", "name": "Come Home"}, {"@type": "MusicRecording", "name": "Erupt"}, {"@type": "MusicRecording", "name": "Go Hard"}, {"@type": "MusicRecording", "name": "Up and Up"}], "sameAs": []}}],
+  (
+    "Skinny Fabulous est-il un artiste bouyon ?",
+    "Non. Skinny Fabulous, de son vrai nom Gamal Doyle, est un artiste soca de Saint-Vincent-et-les-Grenadines. Son lien avec le bouyon est précis et documenté : ses titres « Famalay » et « Conch Shell » sont des productions de Dada, le producteur dominicain du bouyon soca, et il a enregistré sa voix pour « Conch Shell » au studio Dadamanufakture, en Dominique.",
+  ),
+  (
+    "D'où vient Skinny Fabulous ?",
+    "Skinny Fabulous vient de Saint-Vincent-et-les-Grenadines : né dans l'île, il a grandi à Lodge Village, et il raconte à Caribbean Beat Magazine que toutes ses racines familiales sont sur la côte sous le vent, à Chateaubelair. C'est un Vincy, comme on appelle les gens de Saint-Vincent, et c'est au carnaval de Kingstown, le Vincy Mas, qu'il a bâti sa carrière soca.",
+  ),
+  (
+    "Quel est le vrai nom de Skinny Fabulous et d'où vient son nom de scène ?",
+    "Son vrai nom est Gamal Doyle. Dans son entretien à Caribbean Beat Magazine, il raconte que ses amis l'appelaient d'abord « Tin Beef » parce qu'il était très maigre, et que le nom Skinny Fabulous vient de ce physique qu'il assume avec humour : il l'est toujours, dit-il. Le grand homme mince est devenu une signature visuelle sur les scènes de carnaval.",
+  ),
+  (
+    "Comment Skinny Fabulous a-t-il commencé dans la musique ?",
+    "Par le dancehall, son premier amour. Avant même d'étudier en Jamaïque, il y allait pour approcher des producteurs et a travaillé avec le groupe Daseca. Il a ensuite étudié les médias et la communication à l'University of the West Indies, diplômé en 2010, puis a été animateur à NBC, la radio nationale de Saint-Vincent, avec l'émission « One to Six in the Mix ».",
+  ),
+  (
+    "Quel style de soca chante Skinny Fabulous ?",
+    "Une soca rude et agressive, nourrie de dancehall. De retour à Saint-Vincent après 2010, il a marié le dancehall à la soca plutôt que de l'abandonner : une voix de baryton qui chante comme un deejay, un commentaire social et des basses lourdes. Il dit lui-même avoir commencé avec une soca très rude, et que l'agressivité contrôlée reste sa marque.",
+  ),
+  (
+    "Combien de fois Skinny Fabulous a-t-il gagné le Soca Monarch de Saint-Vincent ?",
+    "Les sources de référence le donnent cinq fois vainqueur du Soca Monarch de Saint-Vincent-et-les-Grenadines, à partir de sa première couronne en 2008 avec « Head Bad ». En 2025, après six ans d'absence du concours, il y est revenu avec Fireman Hooper, son rival historique devenu partenaire, sur « Erupt », et a partagé la couronne, selon Ebuzztt.",
+  ),
+  (
+    "Qu'a gagné Skinny Fabulous avec « Famalay » en 2019 ?",
+    "« Famalay », chanté avec Machel Montano et Bunji Garlin, a gagné le Road March de Trinidad et Tobago 2019 avec 346 passages aux points de jugement selon la TUCO. Skinny Fabulous est devenu le premier artiste non citoyen de Trinidad et Tobago à remporter ce titre, et Ebuzztt précise que le titre a été écrit par Gamal Doyle lui-même.",
+  ),
+  (
+    "Qui a écrit « Famalay » ?",
+    "« Famalay » est une chanson écrite par Gamal Doyle, c'est-à-dire Skinny Fabulous, selon Ebuzztt. La TUCO, l'organisation des calypsoniens qui compte les passages du Road March, a fini par le créditer officiellement dans les résultats de 2019, après un premier débat sur l'éligibilité d'un chanteur non trinidadien. Le titre n'a donc pas seulement gagné avec une voix de Saint-Vincent, mais avec une plume de Saint-Vincent.",
+  ),
+  (
+    "Qui a produit « Famalay » et « Conch Shell » ?",
+    "Selon les crédits officiels, « Famalay » est produit par DadaMuzic et DSM, et « Conch Shell », de Skinny Fabulous, Machel Montano et Iwer George, est produit par Dadamanufakture. Derrière ces deux noms se trouve <a href=\"/dada.html\">Dada</a>, le producteur dominicain qui, selon le témoignage signé publié sur ce site, a lancé le bouyon soca en Dominique en 2003.",
+  ),
+  (
+    "« Famalay » est-il un titre de bouyon soca ?",
+    "Oui, par sa production : l'article de référence sur le bouyon soca tient « Famalay » et « Conch Shell » pour les deux titres qui ont consolidé l'avenir du genre, avec des paroles d'artistes de Trinidad et de Saint-Vincent, dont Skinny Fabulous. Tous deux sont produits par Dada, qui a lancé le <a href=\"/bouyon-soca.html\">bouyon soca</a> en Dominique en 2003 selon le témoignage de Smokiller.",
+  ),
+  (
+    "Où a été enregistré « Conch Shell » ?",
+    "En partie en Dominique : les crédits officiels précisent que Skinny Fabulous a été enregistré par Dadamanufakture et au studio Dadamanufakture, en Dominique. Le titre, pour la saison 2020, réunit Skinny Fabulous, Machel Montano et Iwer George, et ses auteurs crédités sont Gamal « Skinny » Doyle, Machel Montano, Neil « Iwer » George et Krishna Clyde Lawrence.",
+  ),
+  (
+    "Pour quels artistes Skinny Fabulous a-t-il écrit ?",
+    "Après onze années professionnelles à écrire tout son propre répertoire, il a commencé à écrire pour d'autres. La presse rapporte des chansons écrites pour de grandes voix de la soca, dont Alison Hinds, Destra Garcia, Kes et Patrice Roberts. Il explique son métier à Caribbean Beat : à une époque où un tube vit quelques mois, le refrain doit accrocher dès la première écoute.",
+  ),
+  (
+    "Quels prix Skinny Fabulous a-t-il gagnés aux Caribbean Music Awards ?",
+    "Il a remporté quatre prix en une soirée, la plus grosse récolte de la nuit selon Ebuzztt et Caribbean Today : artiste soca masculin de l'année, vidéo de l'année, collaboration soca de l'année et chanson de l'année dans le genre soca. TEMPO Networks le nomme de nouveau Soca Artist of the Year, Male, à l'édition 2025. En 2009, il avait déjà été Best New Male Artist aux Soca Music Awards.",
+  ),
+  (
+    "Quels sont les titres indispensables de Skinny Fabulous ?",
+    "Commencez par « Head Bad », le titre de sa première couronne, puis « Monster », « Watch Thing », « Happy » et « Mash Up International ». Enchaînez avec « Famalay » et « Conch Shell », ses deux productions signées Dada, puis « Come Home » avec Nailah Blackman, deuxième du Road March 2023 avec 106 passages, et « Erupt », le titre de son retour au Soca Monarch en 2025.",
+  )
+],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/skinny-fabulous.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/skinny-fabulous.html#artist", "name": "Skinny Fabulous", "description": "Chanteur et auteur soca de Saint-Vincent-et-les-Grenadines, de son vrai nom Gamal Doyle. Cinq fois vainqueur du Soca Monarch de Saint-Vincent, premier artiste non citoyen de Trinidad et Tobago vainqueur du Road March avec Famalay en 2019. Famalay et Conch Shell sont des productions du Dominicain Dada.", "genre": "Soca", "track": [{"@type": "MusicRecording", "name": "Famalay"}, {"@type": "MusicRecording", "name": "Conch Shell"}, {"@type": "MusicRecording", "name": "Head Bad"}, {"@type": "MusicRecording", "name": "Monster"}, {"@type": "MusicRecording", "name": "Watch Thing"}, {"@type": "MusicRecording", "name": "Happy"}, {"@type": "MusicRecording", "name": "Mash Up International"}, {"@type": "MusicRecording", "name": "More Jab"}, {"@type": "MusicRecording", "name": "Solid as a Rock"}, {"@type": "MusicRecording", "name": "Worst Behaviour"}, {"@type": "MusicRecording", "name": "Come Home"}, {"@type": "MusicRecording", "name": "Erupt"}, {"@type": "MusicRecording", "name": "Go Hard"}, {"@type": "MusicRecording", "name": "Up and Up"},
+      {
+       "@type": "MusicRecording",
+       "name": "Nonsense"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Woman, Rum & Soca"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Regrets"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fully Bad"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Angle It (Back Bend)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Drunk and Muddy"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Road Tribute"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "#BAD"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tek Jam"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sauce"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Big In The Dance"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Big Millions"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Please Don't Call Me"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Up Dey"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Double Bubble"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Perfect Touch"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Danger"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Naked"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Girls That Like Girls 2"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Behavior Nothin"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "New Gyal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Relationship"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pull D Pin"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fallen Fetters"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Road Friends"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bang"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Can You Bend"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wake Up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DahLayne"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "In the Van"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Do Yuh Thing"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lean This Party"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Party Time"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Find Out"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wicked Waistline (Wicked Waistline Riddim)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Boost Up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Somebody Gyal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Party in the Road"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wine Pon Yuh Fren"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hell Yeah"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Big Stage"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hurricane"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ROUGH TOP"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Beauty n Bacchanal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Time Bomb"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Do What Yuh Want"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bird Boss"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jammin'"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Front"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Brutal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "All Eyes On You"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Showers"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Inches"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Too Damn Wicked (Sun Fun Riddim)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pieces"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Blinkin Bad"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Duracel"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "On the Spot"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SHELL DOWN DAT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Anywhere Dat We Step"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sun Goes Down (Soca 2020 Trinidad and Tobago Carnival)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Soca Trend"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bend Yuh Back"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Direct Shot"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Reckless"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rock This Place"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Up & Up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Famalay (Travis World Road Mix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bird Box"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Favourite Shot"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Energy High Up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Takin Over"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "One Team"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mortal Kombat"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Push It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Road (Mad People Jab Riddim)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bubble"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sick Wid It (Soca 2017 Carnival)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lights Go Down"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ignorant"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Make It Rain"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Feeling so Blessed"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sore Foot"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Don't Give It Away"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "It's the Weekend"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Going Off"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Like No Tomorrow"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BTW (Behaving The Worst)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wine & Stop"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Defense"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "The General (Lick Ah Shot)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rave Out"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Brace n Whine"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "De Beast Lehgo"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rumble"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pelt"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mad People"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hottness"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "All Of Yuh Body"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "6 30"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Badder Than Everybody"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PROMOTA"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bruk It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "This Moment"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "RAGS (feat. Skinny Fabulous & Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Forever"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Owe Me Nothing"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Start"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shameless"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Come Home (Road Mix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Come Home (Prototype Road Mix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Push Back (Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Don't Run"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tek This Money"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Location"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "People Business"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Making Me Own"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Conch Shell (Wetty Beatz Road Mix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Level Vibes"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bipolar"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pick Your Position"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pick Your Position (Dj Slingshot Roadmix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Right Here"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Give It to Ya"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Give It to Ya (Remix), Pt. 2"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Plenty Plenty"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Do It Like Ah Pro (feat. Skinny Fabulous & Daniella Veira)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Going Mad"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Busy Tone"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Love Carnival"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cya Come"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Coming Over (Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wining Pro"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hot Steppa"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Right Track"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -148,13 +739,604 @@ EN = {
   ]
  ],
  "faq": [
-  ("Is Skinny Fabulous a bouyon artist?", "No. Skinny Fabulous, real name Gamal Doyle, is a soca artist from Saint Vincent and the Grenadines. His link with bouyon is precise and documented: his records “Famalay” and “Conch Shell” are productions by Dada, the Dominican producer of bouyon soca, and he recorded his voice for “Conch Shell” at the Dadamanufakture studio, in Dominica."),
-  ("What is Skinny Fabulous real name and where does his stage name come from?", "His real name is Gamal Doyle. In his Caribbean Beat Magazine interview he says his friends first called him “Tin Beef” because he was very skinny, and the name Skinny Fabulous comes from that physique, which he wears with humour."),
-  ("What did Skinny Fabulous win with “Famalay” in 2019?", "“Famalay”, sung with Machel Montano and Bunji Garlin, won the 2019 Road March of Trinidad and Tobago with 346 plays at the judging points according to TUCO. Skinny Fabulous became the first artist who is not a citizen of Trinidad and Tobago to win that title, and Ebuzztt notes the song was written by Gamal Doyle himself."),
-  ("How many times has Skinny Fabulous won the Saint Vincent Soca Monarch?", "Reference sources list him as a five-time Soca Monarch winner in Saint Vincent and the Grenadines, starting with his first crown in 2008 with “Head Bad”. In 2025, after six years away from the contest, he returned with Fireman Hooper on “Erupt” and shared the crown, according to Ebuzztt."),
-  ("Who produced “Famalay” and “Conch Shell”?", "According to the official credits, “Famalay” was produced by DadaMuzic and DSM, and “Conch Shell”, by Skinny Fabulous, Machel Montano and Iwer George, was produced by Dadamanufakture. Behind both names stands Dada, the Dominican producer this site profiles in full."),
-  ("What are the essential Skinny Fabulous records?", "Start with “Head Bad”, the record of his first crown, then “Monster”, “Watch Thing”, “Happy” and “Mash Up International”. Continue with “Famalay” and “Conch Shell”, his two Dada productions, then “Come Home” with Nailah Blackman, second in the 2023 Road March, and “Erupt”, the record of his 2025 Soca Monarch return.")
- ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/skinny-fabulous.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/skinny-fabulous.html#artist", "name": "Skinny Fabulous", "description": "Soca singer and songwriter from Saint Vincent and the Grenadines, real name Gamal Doyle. Five-time Saint Vincent Soca Monarch winner, first non-Trinidad and Tobago citizen to win the Road March with Famalay in 2019. Famalay and Conch Shell are productions by Dominica Dada.", "genre": "Soca", "track": [{"@type": "MusicRecording", "name": "Famalay"}, {"@type": "MusicRecording", "name": "Conch Shell"}, {"@type": "MusicRecording", "name": "Head Bad"}, {"@type": "MusicRecording", "name": "Monster"}, {"@type": "MusicRecording", "name": "Watch Thing"}, {"@type": "MusicRecording", "name": "Happy"}, {"@type": "MusicRecording", "name": "Mash Up International"}, {"@type": "MusicRecording", "name": "More Jab"}, {"@type": "MusicRecording", "name": "Solid as a Rock"}, {"@type": "MusicRecording", "name": "Worst Behaviour"}, {"@type": "MusicRecording", "name": "Come Home"}, {"@type": "MusicRecording", "name": "Erupt"}, {"@type": "MusicRecording", "name": "Go Hard"}, {"@type": "MusicRecording", "name": "Up and Up"}], "sameAs": []}}],
+  (
+    "Is Skinny Fabulous a bouyon artist?",
+    "No. Skinny Fabulous, real name Gamal Doyle, is a soca artist from Saint Vincent and the Grenadines. His link with bouyon is precise and documented: his records “Famalay” and “Conch Shell” are productions by Dada, the Dominican producer of bouyon soca, and he recorded his voice for “Conch Shell” at the Dadamanufakture studio, in Dominica.",
+  ),
+  (
+    "Where is Skinny Fabulous from?",
+    "Skinny Fabulous is from Saint Vincent and the Grenadines: born on the island, he grew up in Lodge Village, and he tells Caribbean Beat Magazine that all his family roots are on the Leeward coast, at Chateaubelair. He is a Vincy, as people from Saint Vincent are called, and he built his soca career at Vincy Mas, the carnival of Kingstown.",
+  ),
+  (
+    "What is Skinny Fabulous's real name and where does his stage name come from?",
+    "His real name is Gamal Doyle. In his Caribbean Beat Magazine interview he says his friends first called him “Tin Beef” because he was very skinny, and the name Skinny Fabulous comes from that physique, which he wears with humour: he still is, he says. The tall, lean man became a visual signature on carnival stages.",
+  ),
+  (
+    "How did Skinny Fabulous start in music?",
+    "With dancehall, his first love. Even before studying in Jamaica, he travelled there to approach producers and worked with the Daseca group. He then studied media and communications at the University of the West Indies, graduating in 2010, and worked as an announcer at NBC, the Saint Vincent national broadcaster, with the show “One to Six in the Mix”.",
+  ),
+  (
+    "What style of soca does Skinny Fabulous sing?",
+    "A rough, aggressive soca fed by dancehall. Back in Saint Vincent after 2010, he married dancehall to soca instead of dropping it: a baritone voice that chants like a deejay, social commentary and heavy bass lines. He says himself that he started with very rough soca, and that controlled aggression remains his mark.",
+  ),
+  (
+    "How many times has Skinny Fabulous won the Saint Vincent Soca Monarch?",
+    "Reference sources list him as a five-time Soca Monarch winner in Saint Vincent and the Grenadines, starting with his first crown in 2008 with “Head Bad”. In 2025, after six years away from the contest, he returned with Fireman Hooper, his historic rival turned partner, on “Erupt”, and shared the crown, according to Ebuzztt.",
+  ),
+  (
+    "What did Skinny Fabulous win with “Famalay” in 2019?",
+    "“Famalay”, sung with Machel Montano and Bunji Garlin, won the 2019 Road March of Trinidad and Tobago with 346 plays at the judging points according to TUCO. Skinny Fabulous became the first artist who is not a citizen of Trinidad and Tobago to win that title, and Ebuzztt notes the song was written by Gamal Doyle himself.",
+  ),
+  (
+    "Who wrote “Famalay”?",
+    "“Famalay” is a song written by Gamal Doyle, that is Skinny Fabulous, according to Ebuzztt. TUCO, the calypsonians organisation that counts the Road March plays, ended up crediting him officially in the 2019 results, after an initial debate over the eligibility of a non-national singer. The title therefore won not only with a voice from Saint Vincent, but with a pen from Saint Vincent.",
+  ),
+  (
+    "Who produced “Famalay” and “Conch Shell”?",
+    "According to the official credits, “Famalay” was produced by DadaMuzic and DSM, and “Conch Shell”, by Skinny Fabulous, Machel Montano and Iwer George, was produced by Dadamanufakture. Behind both names stands <a href=\"/en/dada.html\">Dada</a>, the Dominican producer who, according to the signed testimony published on this site, started bouyon soca in Dominica in 2003.",
+  ),
+  (
+    "Is “Famalay” a bouyon soca song?",
+    "Yes, by its production: the reference article on bouyon soca holds up “Famalay” and “Conch Shell” as the two records that cemented the future of the genre, with lyrics from artists of Trinidad and Saint Vincent, Skinny Fabulous among them. Both are produced by Dada, who started <a href=\"/en/bouyon-soca.html\">bouyon soca</a> in Dominica in 2003 according to the testimony of Smokiller.",
+  ),
+  (
+    "Where was “Conch Shell” recorded?",
+    "Partly in Dominica: the official credits state that Skinny Fabulous was recorded by Dadamanufakture and at Dadamanufakture, in Dominica. The record, for the 2020 season, reunites Skinny Fabulous, Machel Montano and Iwer George, and its credited writers are Gamal “Skinny” Doyle, Machel Montano, Neil “Iwer” George and Krishna Clyde Lawrence.",
+  ),
+  (
+    "Which artists has Skinny Fabulous written songs for?",
+    "After eleven professional years writing all his own material, he began writing for others. The press reports songs written for major soca voices, among them Alison Hinds, Destra Garcia, Kes and Patrice Roberts. He explains the craft to Caribbean Beat: in an era when a hit lives only a few months, the hook has to land from the first listen.",
+  ),
+  (
+    "Which Caribbean Music Awards has Skinny Fabulous won?",
+    "He won four awards in one night, the biggest haul of the night according to Ebuzztt and Caribbean Today: Male Soca Artiste of the Year, Video of the Year, Soca Collaboration of the Year and Song of the Year in the soca genre. TEMPO Networks lists him again as Soca Artist of the Year, Male, at the 2025 edition. In 2009 he had already been Best New Male Artist at the Soca Music Awards.",
+  ),
+  (
+    "What are the essential Skinny Fabulous records?",
+    "Start with “Head Bad”, the record of his first crown, then “Monster”, “Watch Thing”, “Happy” and “Mash Up International”. Continue with “Famalay” and “Conch Shell”, his two Dada productions, then “Come Home” with Nailah Blackman, second in the 2023 Road March with 106 plays, and “Erupt”, the record of his 2025 Soca Monarch return.",
+  )
+],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/skinny-fabulous.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/skinny-fabulous.html#artist", "name": "Skinny Fabulous", "description": "Soca singer and songwriter from Saint Vincent and the Grenadines, real name Gamal Doyle. Five-time Saint Vincent Soca Monarch winner, first non-Trinidad and Tobago citizen to win the Road March with Famalay in 2019. Famalay and Conch Shell are productions by Dominica Dada.", "genre": "Soca", "track": [{"@type": "MusicRecording", "name": "Famalay"}, {"@type": "MusicRecording", "name": "Conch Shell"}, {"@type": "MusicRecording", "name": "Head Bad"}, {"@type": "MusicRecording", "name": "Monster"}, {"@type": "MusicRecording", "name": "Watch Thing"}, {"@type": "MusicRecording", "name": "Happy"}, {"@type": "MusicRecording", "name": "Mash Up International"}, {"@type": "MusicRecording", "name": "More Jab"}, {"@type": "MusicRecording", "name": "Solid as a Rock"}, {"@type": "MusicRecording", "name": "Worst Behaviour"}, {"@type": "MusicRecording", "name": "Come Home"}, {"@type": "MusicRecording", "name": "Erupt"}, {"@type": "MusicRecording", "name": "Go Hard"}, {"@type": "MusicRecording", "name": "Up and Up"},
+      {
+       "@type": "MusicRecording",
+       "name": "Nonsense"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Woman, Rum & Soca"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Regrets"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fully Bad"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Angle It (Back Bend)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Drunk and Muddy"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Road Tribute"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "#BAD"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tek Jam"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sauce"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Big In The Dance"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Big Millions"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Please Don't Call Me"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Up Dey"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Double Bubble"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Perfect Touch"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Danger"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Naked"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Girls That Like Girls 2"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Behavior Nothin"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "New Gyal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Relationship"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pull D Pin"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fallen Fetters"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Road Friends"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bang"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Can You Bend"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wake Up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DahLayne"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "In the Van"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Do Yuh Thing"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lean This Party"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Party Time"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Find Out"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wicked Waistline (Wicked Waistline Riddim)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Boost Up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Somebody Gyal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Party in the Road"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wine Pon Yuh Fren"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hell Yeah"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Big Stage"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hurricane"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ROUGH TOP"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Beauty n Bacchanal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Time Bomb"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Do What Yuh Want"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bird Boss"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jammin'"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Front"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Brutal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "All Eyes On You"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Showers"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Inches"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Too Damn Wicked (Sun Fun Riddim)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pieces"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Blinkin Bad"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Duracel"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "On the Spot"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SHELL DOWN DAT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Anywhere Dat We Step"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sun Goes Down (Soca 2020 Trinidad and Tobago Carnival)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Soca Trend"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bend Yuh Back"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Direct Shot"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Reckless"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rock This Place"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Up & Up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Famalay (Travis World Road Mix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bird Box"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Favourite Shot"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Energy High Up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Takin Over"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "One Team"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mortal Kombat"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Push It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Road (Mad People Jab Riddim)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bubble"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sick Wid It (Soca 2017 Carnival)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lights Go Down"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ignorant"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Make It Rain"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Feeling so Blessed"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sore Foot"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Don't Give It Away"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "It's the Weekend"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Going Off"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Like No Tomorrow"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BTW (Behaving The Worst)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wine & Stop"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Defense"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "The General (Lick Ah Shot)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rave Out"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Brace n Whine"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "De Beast Lehgo"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rumble"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pelt"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mad People"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hottness"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "All Of Yuh Body"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "6 30"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Badder Than Everybody"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PROMOTA"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bruk It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "This Moment"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "RAGS (feat. Skinny Fabulous & Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Forever"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Owe Me Nothing"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Start"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shameless"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Come Home (Road Mix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Come Home (Prototype Road Mix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Push Back (Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Don't Run"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tek This Money"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Location"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "People Business"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Making Me Own"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Conch Shell (Wetty Beatz Road Mix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Level Vibes"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bipolar"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pick Your Position"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pick Your Position (Dj Slingshot Roadmix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Right Here"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Give It to Ya"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Give It to Ya (Remix), Pt. 2"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Plenty Plenty"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Do It Like Ah Pro (feat. Skinny Fabulous & Daniella Veira)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Going Mad"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Busy Tone"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Love Carnival"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cya Come"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Coming Over (Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wining Pro"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hot Steppa"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Right Track"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

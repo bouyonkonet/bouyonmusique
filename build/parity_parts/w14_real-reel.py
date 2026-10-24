@@ -71,14 +71,209 @@ FR = {
   ]
  ],
  "faq": [
-  ("Quel prix Real Reel a-t-il gagné ?", "Real Reel a gagné le prix d’artiste ou groupe montant et émergent de l’année aux Dominica Music Awards 2025, lors de la cérémonie tenue le samedi 3 janvier à l’InterContinental Dominica Cabrits Resort and Spa, à Portsmouth, en Dominique, selon le compte rendu publié par Soca News. Les autres finalistes de la catégorie étaient Nice, Trixx, Faithii, le Riddim Knockers Band et Trixz Migos."),
-  ("Real Reel est-il un artiste solo ou un groupe ?", "Le dossier public ne le tranche pas, et c’est une réponse que les listes rapides ne donnent jamais. La catégorie qu’il a gagnée s’intitule elle même artiste ou groupe émergent, et aucune source consultée pour ce profil ne décrit sa formation. Ce profil ne choisit donc ni solo ni groupe, et le dit ouvertement au lieu de deviner."),
-  ("Quel est le titre le mieux documenté de Real Reel ?", "« Tropikini », sorti le 19 juin 2025 chez No Turkey Music. Sa fiche Shazam le donne en anglais, avec Savion au piano, Corel Dominique crédité comme auteur et DiYoute comme ingénieur, et la page du visualiseur officiel précise : produit par Savion, mixé et masterisé par Yw3 Studio. C’est le seul titre de Real Reel dont la date, le label et les crédits complets sont publics."),
-  ("Real Reel vient-il de Sainte-Lucie ou de la Dominique ?", "Aucune source fiable consultée ne confirme son origine. Un seul guide, celui du programme du Ti Vilaj Kwéyòl 2026, le présente entre parenthèses comme un roi du Dennery Segment, le son de Dennery, à Sainte-Lucie. À l’inverse, son prix aux Dominica Music Awards et sa programmation au village créole de Roseau sont des faits dominicains documentés. Ce profil rapporte l’étiquette comme attribuée à ce seul guide et ne la transforme pas en origine établie."),
-  ("Quels autres titres de Real Reel circulent ?", "Trois titres sont attestés par des tracklists de mixes publiées : « Chappa », dans le mix 2026 Summer Soca and Bouyon Catch Up de DJ JEL, et « What did it? » et « I Do », dans le mix freestyle bouyon 2026 de Blaqrose Supreme, qui programme aussi « Tropikini ». Un agrégateur de classements iTunes listait en outre « Isle Of Beauty » en tête de sa page des titres en Dominique au moment de son relevé."),
-  ("Où voir et écouter Real Reel pour commencer ?", "Sur scène, Real Reel figurait au programme du Ti Vilaj Kwéyòl 2026, aux Botanic Gardens de Roseau, dans le créneau Super Mix du mardi 20 octobre avec Taffy and Co, Gwada G, Trixx et Kenny G. À l’écoute, commencez par « Tropikini », puis suivez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> et notre page <a href=\"/bouyon-soca.html\">bouyon soca</a>.")
- ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/real-reel.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/real-reel.html#artist", "name": "Real Reel", "description": "Artiste bouyon, gagnant du prix artiste ou groupe émergent de l’année aux Dominica Music Awards 2025. Single documenté Tropikini, sorti le 19 juin 2025 chez No Turkey Music, produit par Savion.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Tropikini"}, {"@type": "MusicRecording", "name": "Chappa"}, {"@type": "MusicRecording", "name": "What did it?"}, {"@type": "MusicRecording", "name": "I Do"}, {"@type": "MusicRecording", "name": "Isle Of Beauty"}], "sameAs": []}}],
+  (
+    "Quel prix Real Reel a-t-il gagné ?",
+    "Real Reel a gagné le prix d’artiste ou groupe montant et émergent de l’année aux Dominica Music Awards 2025, lors de la cérémonie tenue le samedi 3 janvier à l’InterContinental Dominica Cabrits Resort and Spa, à Portsmouth, en Dominique, selon le compte rendu publié par Soca News. Les autres finalistes de la catégorie étaient Nice, Trixx, Faithii, le Riddim Knockers Band et Trixz Migos.",
+  ),
+  (
+    "Real Reel est-il un artiste solo ou un groupe ?",
+    "Le dossier public ne le tranche pas, et c’est une réponse que les listes rapides ne donnent jamais. La catégorie qu’il a gagnée s’intitule elle-même artiste ou groupe émergent, et aucune source consultée pour ce profil ne décrit sa formation. Ce profil ne choisit donc ni solo ni groupe, et le dit ouvertement au lieu de deviner.",
+  ),
+  (
+    "Quel est le titre le mieux documenté de Real Reel ?",
+    "« Tropikini », sorti le 19 juin 2025 chez No Turkey Music. Sa fiche Shazam le donne en anglais, avec Savion au piano, Corel Dominique crédité comme auteur et DiYoute comme ingénieur, et la page du visualiseur officiel précise : produit par Savion, mixé et masterisé par Yw3 Studio. C’est le seul titre de Real Reel dont la date, le label et les crédits complets sont publics.",
+  ),
+  (
+    "Real Reel vient-il de Sainte-Lucie ou de la Dominique ?",
+    "Aucune source fiable consultée ne confirme son origine. Un seul guide, celui du programme du Ti Vilaj Kwéyòl 2026, le présente entre parenthèses comme un roi du Dennery Segment, le son de Dennery, à Sainte-Lucie. À l’inverse, son prix aux Dominica Music Awards et sa programmation au village créole de Roseau sont des faits dominicains documentés. Ce profil rapporte l’étiquette comme attribuée à ce seul guide.",
+  ),
+  (
+    "Quels autres titres de Real Reel circulent ?",
+    "Trois titres sont attestés par des tracklists de mixes publiées : « Chappa », dans le mix 2026 Summer Soca and Bouyon Catch Up de DJ JEL, et « What did it? » et « I Do », dans le mix freestyle bouyon 2026 de Blaqrose Supreme, qui programme aussi « Tropikini ». Un agrégateur de classements iTunes listait en outre « Isle Of Beauty » en tête de sa page des titres en Dominique au moment de son relevé.",
+  ),
+  (
+    "Où voir et écouter Real Reel pour commencer ?",
+    "Sur scène, Real Reel figurait au programme du Ti Vilaj Kwéyòl 2026, aux Botanic Gardens de Roseau, dans le créneau Super Mix du mardi 20 octobre avec Taffy and Co, Gwada G, Trixx et Kenny G. À l’écoute, commencez par « Tropikini », puis « Chappa », « What did it? » et « I Do » dans les mixes cités, et suivez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>.",
+  ),
+  (
+    "Qui a produit « Tropikini » de Real Reel ?",
+    "Selon la page du visualiseur officiel, « Tropikini » est produit par Savion, déjà documenté sur ce site sous le nom <a href=\"/prod-bysavion.html\">prod.bysavion</a>, qui joue aussi le piano selon Shazam. Le mixage et le mastering reviennent à Yw3 Studio, l’ingénierie à DiYoute et l’écriture à Corel Dominique, crédit que ce profil reproduit sans l’identifier à Real Reel. Le single est sorti le 19 juin 2025 chez No Turkey Music.",
+  ),
+  (
+    "Qu’est-ce que le Ti Vilaj Kwéyòl où joue Real Reel ?",
+    "C’est le village créole des célébrations d’indépendance de la Dominique. Sa cinquième édition se tient du 19 au 22 octobre 2026 aux Botanic Gardens de Roseau, sur le thème Tout Biten Domnik. La liste mise à jour du 18 octobre y ajoute Real Reel parmi neuf nouveaux noms, avec Gwada G, Carlyn XP, Kenny G et les Swingin’ Stars, pour un total de 29 artistes.",
+  ),
+  (
+    "Qui a été primé aux Dominica Music Awards 2025 avec Real Reel ?",
+    "Selon le compte rendu de Soca News, l’édition qui a sacré Real Reel artiste ou groupe émergent de l’année a aussi honoré <a href=\"/signal-band.html\">Signal Band</a>, Shelly, Pudaz, DJ MJ et le producteur Mr Ridge. La cérémonie, tenue à l’InterContinental Dominica Cabrits Resort and Spa de Portsmouth, a récompensé la musique dominicaine dans 24 catégories. Real Reel y côtoie le centre de gravité actuel de la scène.",
+  )
+],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/real-reel.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/real-reel.html#artist", "name": "Real Reel", "description": "Artiste bouyon, gagnant du prix artiste ou groupe émergent de l’année aux Dominica Music Awards 2025. Single documenté Tropikini, sorti le 19 juin 2025 chez No Turkey Music, produit par Savion.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Tropikini"}, {"@type": "MusicRecording", "name": "Chappa"}, {"@type": "MusicRecording", "name": "What did it?"}, {"@type": "MusicRecording", "name": "I Do"}, {"@type": "MusicRecording", "name": "Isle Of Beauty"},
+      {
+       "@type": "MusicRecording",
+       "name": "Tequila (Live)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stick (feat. Quan & Mr.Keyz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Comic"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dislocate"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "To Tha Top"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Other Man"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Copy Who ?"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "So Sweet"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rel Not Rep"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cry Me A River"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Giggle (feat. Gwada G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Work (Live)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Scrolling"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "My Boy (feat. Prhymex)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "HELLCAT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "CBFW"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doh Play (feat. Gwada G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sousoune Decalé (feat. Scrubz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Man Van And Money (feat. Scrubz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cow Boy"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Not Normal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ok Cool (feat. Savion)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Desperate"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bullseye"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Attitude"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doh Busy"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kichta (feat. Don Sosa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "World Boss"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Money Scheme (feat. Iwa King & VI$ION)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "All Wins (feat. DiYoute & Young Dinero)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wave (feat. VI$ION & Don Sosa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "First Night (feat. VI$ION)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BLOW"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "32 Pong Town (feat. Real Reel)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Eat Dat Up (feat. Real Reel)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Island Girl (feat. Real Reel & litleboy lsbeats767) [Radio Edit]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "WGFT Bouyon (feat. Real Reel & Gwada G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shake Your (feat. Real Reel & Quan)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Care \"ZERO\" (feat. Real Reel)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SHI GI DAY (feat. Real Reel)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Get High (feat. Hussey, Real Reel & Trixzmigos) [Savion Beats Remix]"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -143,13 +338,208 @@ EN = {
   ]
  ],
  "faq": [
-  ("What award did Real Reel win?", "Real Reel won Rising and Emerging Artist or Band of the Year at the Dominica Music Awards 2025, at the ceremony held on Saturday 3 January at the InterContinental Dominica Cabrits Resort and Spa, in Portsmouth, Dominica, according to the report published by Soca News. The other finalists in the category were Nice, Trixx, Faithii, the Riddim Knockers Band and Trixz Migos."),
-  ("Is Real Reel a solo artist or a group?", "The public record does not settle it, and that is an answer quick listings never give. The category he won is itself called Rising and Emerging Artist or Band, and no source consulted for this profile describes his line up. This profile therefore chooses neither solo nor group, and says so openly instead of guessing."),
-  ("What is Real Reel best documented record?", "“Tropikini”, released on 19 June 2025 on No Turkey Music. Its Shazam sheet gives it in English, with Savion on piano, Corel Dominique credited as songwriter and DiYoute as engineer, and the official visualizer page states: produced by Savion, mixed and mastered by Yw3 Studio. It is the only Real Reel record whose date, label and full credits are public."),
-  ("Is Real Reel from Saint Lucia or from Dominica?", "No reliable source consulted confirms his origin. One guide only, the Ti Vilaj Kwéyòl 2026 programme guide, presents him in parentheses as a Dennery Segment king, Dennery being the Saint Lucia town that gave that soca sound its name. Against that, his Dominica Music Award and his booking at the Creole village in Roseau are documented Dominican facts. This profile reports the label as attributed to that one guide and does not turn it into an established origin."),
-  ("What other Real Reel records are circulating?", "Three records are attested by published mix tracklists: “Chappa”, in DJ JEL 2026 Summer Soca and Bouyon Catch Up mix, and “What did it?” and “I Do”, in Blaqrose Supreme 2026 bouyon freestyle mix, which also programmes “Tropikini”. An iTunes chart aggregator also listed “Isle Of Beauty” at the top of its Dominica songs page at the time of its crawl."),
-  ("Where can I see and hear Real Reel first?", "On stage, Real Reel was on the programme of Ti Vilaj Kwéyòl 2026, at the Botanic Gardens in Roseau, in the Super Mix slot on Tuesday 20 October with Taffy and Co, Gwada G, Trixx and Kenny G. For listening, start with “Tropikini”, then follow our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> and our <a href=\"/en/bouyon-soca.html\">bouyon soca</a> page.")
- ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/real-reel.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/real-reel.html#artist", "name": "Real Reel", "description": "Bouyon artist, winner of Rising and Emerging Artist or Band of the Year at the Dominica Music Awards 2025. Documented single Tropikini, released 19 June 2025 on No Turkey Music, produced by Savion.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Tropikini"}, {"@type": "MusicRecording", "name": "Chappa"}, {"@type": "MusicRecording", "name": "What did it?"}, {"@type": "MusicRecording", "name": "I Do"}, {"@type": "MusicRecording", "name": "Isle Of Beauty"}], "sameAs": []}}],
+  (
+    "What award did Real Reel win?",
+    "Real Reel won Rising and Emerging Artist or Band of the Year at the Dominica Music Awards 2025, at the ceremony held on Saturday 3 January at the InterContinental Dominica Cabrits Resort and Spa, in Portsmouth, Dominica, according to the report published by Soca News. The other finalists in the category were Nice, Trixx, Faithii, the Riddim Knockers Band and Trixz Migos.",
+  ),
+  (
+    "Is Real Reel a solo artist or a group?",
+    "The public record does not settle it, and that is an answer quick listings never give. The category he won is itself called Rising and Emerging Artist or Band, and no source consulted for this profile describes his line up. This profile therefore chooses neither solo nor group, and says so openly instead of guessing.",
+  ),
+  (
+    "What is Real Reel’s best documented record?",
+    "“Tropikini”, released on 19 June 2025 on No Turkey Music. Its Shazam sheet gives it in English, with Savion on piano, Corel Dominique credited as songwriter and DiYoute as engineer, and the official visualizer page states: produced by Savion, mixed and mastered by Yw3 Studio. It is the only Real Reel record whose date, label and full credits are public.",
+  ),
+  (
+    "Is Real Reel from Saint Lucia or from Dominica?",
+    "No reliable source consulted confirms his origin. One guide only, the Ti Vilaj Kwéyòl 2026 programme guide, presents him in parentheses as a Dennery Segment king, Dennery being the Saint Lucia town that gave that soca sound its name. Against that, his Dominica Music Award and his booking at the Creole village in Roseau are documented Dominican facts. This profile reports the label as attributed to that one guide.",
+  ),
+  (
+    "What other Real Reel records are circulating?",
+    "Three records are attested by published mix tracklists: “Chappa”, in DJ JEL’s 2026 Summer Soca and Bouyon Catch Up mix, and “What did it?” and “I Do”, in Blaqrose Supreme’s 2026 bouyon freestyle mix, which also programmes “Tropikini”. An iTunes chart aggregator also listed “Isle Of Beauty” at the top of its Dominica songs page at the time of its crawl.",
+  ),
+  (
+    "Where can I see and hear Real Reel first?",
+    "On stage, Real Reel was on the programme of Ti Vilaj Kwéyòl 2026, at the Botanic Gardens in Roseau, in the Super Mix slot on Tuesday 20 October with Taffy and Co, Gwada G, Trixx and Kenny G. For listening, start with “Tropikini”, then “Chappa”, “What did it?” and “I Do” in the mixes cited, and follow our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>.",
+  ),
+  (
+    "Who produced Real Reel’s “Tropikini”?",
+    "According to the official visualizer page, “Tropikini” is produced by Savion, already covered on this site as <a href=\"/en/prod-bysavion.html\">prod.bysavion</a>, who also plays piano according to Shazam. Mixing and mastering go to Yw3 Studio, engineering to DiYoute and writing to Corel Dominique, a credit this profile reproduces without identifying it with Real Reel. The single came out on 19 June 2025 on No Turkey Music.",
+  ),
+  (
+    "What is the Ti Vilaj Kwéyòl where Real Reel plays?",
+    "It is the Creole village of Dominica’s independence celebrations. Its fifth edition runs from 19 to 22 October 2026 at the Botanic Gardens in Roseau, under the theme Tout Biten Domnik. The updated list of 18 October adds Real Reel among nine new names, with Gwada G, Carlyn XP, Kenny G and the Swingin’ Stars, for a total of 29 artists.",
+  ),
+  (
+    "Who else was honoured at the Dominica Music Awards 2025 with Real Reel?",
+    "According to the Soca News report, the edition that named Real Reel Emerging Artist or Band of the Year also honoured <a href=\"/en/signal-band.html\">Signal Band</a>, Shelly, Pudaz, DJ MJ and producer Mr Ridge. The ceremony, held at the InterContinental Dominica Cabrits Resort and Spa in Portsmouth, rewarded Dominican music in 24 categories. Real Reel stands there beside the current centre of gravity of the scene.",
+  )
+],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/real-reel.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/real-reel.html#artist", "name": "Real Reel", "description": "Bouyon artist, winner of Rising and Emerging Artist or Band of the Year at the Dominica Music Awards 2025. Documented single Tropikini, released 19 June 2025 on No Turkey Music, produced by Savion.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Tropikini"}, {"@type": "MusicRecording", "name": "Chappa"}, {"@type": "MusicRecording", "name": "What did it?"}, {"@type": "MusicRecording", "name": "I Do"}, {"@type": "MusicRecording", "name": "Isle Of Beauty"},
+      {
+       "@type": "MusicRecording",
+       "name": "Tequila (Live)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stick (feat. Quan & Mr.Keyz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Comic"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dislocate"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "To Tha Top"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Other Man"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Copy Who ?"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "So Sweet"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rel Not Rep"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cry Me A River"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Giggle (feat. Gwada G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Work (Live)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Scrolling"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "My Boy (feat. Prhymex)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "HELLCAT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "CBFW"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doh Play (feat. Gwada G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sousoune Decalé (feat. Scrubz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Man Van And Money (feat. Scrubz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cow Boy"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Not Normal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ok Cool (feat. Savion)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Desperate"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bullseye"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Attitude"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doh Busy"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kichta (feat. Don Sosa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "World Boss"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Money Scheme (feat. Iwa King & VI$ION)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "All Wins (feat. DiYoute & Young Dinero)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wave (feat. VI$ION & Don Sosa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "First Night (feat. VI$ION)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BLOW"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "32 Pong Town (feat. Real Reel)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Eat Dat Up (feat. Real Reel)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Island Girl (feat. Real Reel & litleboy lsbeats767) [Radio Edit]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "WGFT Bouyon (feat. Real Reel & Gwada G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shake Your (feat. Real Reel & Quan)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Care \"ZERO\" (feat. Real Reel)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SHI GI DAY (feat. Real Reel)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Get High (feat. Hussey, Real Reel & Trixzmigos) [Savion Beats Remix]"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

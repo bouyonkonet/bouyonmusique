@@ -85,7 +85,47 @@ PAGES = [
   ),
   (
     "Where can I hear or see Trilla-G?",
-    "On stage, he is announced for Night 2 of WCMF 2026, Saturday, October 24 in Roseau, and for Ti Vilaj Kwéyòl on October 22. For listening, the Bouyon Shattaz <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix</a>, on Spotify and YouTube, opens onto the Dominican scene he belongs to, and his songs run through DJ mixes such as Bouyon Passport 2026.",
+    "For listening, the Bouyon Shattaz <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix</a>, on Spotify and YouTube, opens onto the Dominican scene he belongs to, and his songs run through DJ mixes: DJ Close Connections' Bouyon Passport 2026 opens with Trilla G and Ridge. On stage, he is announced for Night 2 of WCMF 2026, Saturday, October 24 in Roseau.",
+  ),
+  (
+    "What is Trilla-G's real name and how is his name spelled?",
+    "Trilla-G's real name is Gael Jno Baptiste, the name listed among the writers of \"Someone Else\" in the Qobuz credits. His stage name is spelled Trilla-G, but award lists, credits and mixes often write it \"Trilla G\", without the hyphen. On Instagram he goes by @trillaonthemic, a handle that presents him first as a microphone artist.",
+  ),
+  (
+    "Did Trilla-G win Dominica's Calypso Monarch?",
+    "Yes, Trilla-G won the Dominica Calypso Monarch title in 2023, on his debut in the competition, aged 24, according to the Caribbean Times. The final was held at the Windsor Park Sports Stadium Forecourt: Dennison \"Dice\" Joseph, presented as a nine-time monarch, placed second and Chester \"Daddy Chess\" Letang third. It is the crown of the <a href=\"/en/mas-domnik.html\">Mas Domnik</a> calypso competition.",
+  ),
+  (
+    "Who wrote \"Someone Else\" with Trilla-G?",
+    "According to the Qobuz credits of the compilation Summer Of Carnivals, Vol. 1 (DSM Music and Monk Music), \"Someone Else\" was written by Foster Marcel Xavier, Gael Jno Baptiste, Trilla-G's real name, and Quan Denis. The song is presented as a Litleboy track, with <a href=\"/en/quan.html\">Quan</a> and Trilla G featured: Trilla-G is therefore both a featured voice and a co-writer.",
+  ),
+  (
+    "What awards has Trilla-G won?",
+    "Trilla-G won the Dominica Calypso Monarch crown in 2023. \"Someone Else\" earned him two awards: Soca Collaboration of the Year at the 2025 Caribbean Music Awards and Collaboration of the Year at the 2025 Dominica Music Awards, presented on January 3, 2026 according to Soca News. In April 2026, Billboard also named him Caribbean Artist of the Month.",
+  ),
+  (
+    "Is Trilla-G nominated for Bouyon Artist of the Year at the Caribbean Music Awards?",
+    "Yes. At the 2025 Caribbean Music Awards, Trilla G was among the nine Bouyon Artist of the Year nominees, with Asa Bantan, Kenny G, litleboy, Mr. Ridge, Quan, Shelly Alfred, Triple K and Pudaz. In 2026 he is a finalist in the category again, which Mr Ridge won according to the results published in September 2026. See <a href=\"/en/ridge.html\">Ridge's profile</a>.",
+  ),
+  (
+    "When did Trilla-G release the album \"Take Me as I Am\"?",
+    "\"Take Me as I Am: The Album\", Trilla-G's debut album, came out on October 22, 2025, according to The Bajan Reporter. The 13-track project was recorded at Th3rdHouse Studios in the US Virgin Islands. The lead song, \"Take Me As I Am\", released in September 2024, had already passed one million views on YouTube before the album arrived.",
+  ),
+  (
+    "Who produced the album \"Take Me as I Am\"?",
+    "The Bajan Reporter lists production credits from across the Caribbean for the album, including, for Dominica, <a href=\"/en/boy-freeze.html\">Fr3EzE</a>, Mask Man and DernzMusik. It was recorded at Th3rdHouse Studios in the US Virgin Islands. Among the ten tracks logged by this site are \"Blue\" with Ridge, the \"Take Me As I Am\" remix with V'ghn and \"Toxic Love\" with Th3rd.",
+  ),
+  (
+    "What is Trilla-G's \"Up Next Cypher\"?",
+    "The \"Up Next Cypher, Vol. 1\" is a cypher of close to ten minutes released by Still Trill Entertainment on October 2, 2026, according to BuzzDA. Over a single <a href=\"/en/kwib-la-beats.html\">Kwib La Beats</a> instrumental, with ThaWizZarD on keys, mixing and mastering, Trilla-G passes the mic to G'z Up, Ras B, Avatar Omish, Don Lash, Pa Pel and Pryhmex. A volume 2 is already announced.",
+  ),
+  (
+    "Who produced \"Without You\" (Bouyon 2025)?",
+    "\"Without You\", a collective track presented as Bouyon 2025, is an <a href=\"/en/a-plus-musik.html\">A-Plus Muzik</a> production, mixed and mastered by Th3rd House Studios. It brings together Unstoppable Shax, Nice, Reo, Trilla-G and Quan Dawg. It reunites him with Reo, with whom Trilla-G performed and briefly formed a group while still at school, according to his Billboard interview.",
+  ),
+  (
+    "When does Trilla-G play the 2026 World Creole Music Festival?",
+    "Trilla-G is announced for Night 2 of the 2026 World Creole Music Festival, Saturday, October 24 in Roseau, alongside Ne-Yo, Alkaline, Asa Bantan, V'ghn and Reo, according to the festival guides. Two days earlier, on Thursday, October 22, the Ti Vilaj Kwéyòl programme lists him at the Botanic Gardens in Roseau at 4:26 pm, with Prymex. See <a href=\"/en/world-creole-music-festival.html\">WCMF</a>.",
   )
 ],
   "extra_graph": [
@@ -101,7 +141,221 @@ PAGES = [
      "alternateName": "Gael Jno Baptiste",
      "homeLocation": "Dominica",
      "genre": "Bouyon",
-     "sameAs": ["https://www.instagram.com/trillaonthemic/"]
+     "sameAs": ["https://www.instagram.com/trillaonthemic/"],
+     "track": [
+      {
+       "@type": "MusicRecording",
+       "name": "Up Next Cypher, Vol. 1 (feat. G'z up, Ras B, Avatar Omish, Don Lash, Pa Pel & Prhymex)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Like Outside"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Clock It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lapidé Yo"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ain't Thinkin' Bout You"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bayfront (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Come As You Like"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "De Other Man"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kate"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Big Foot (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Free"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nobody (feat. Stalk Ashley)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Good Good"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "RAGS (feat. Skinny Fabulous & Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Like Your Woman (Side Man Confession)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cold Freestyle"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Try Me"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SCMN (Stop Call My Name)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "You Lie (feat. DJ Oberr)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bend Down"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nasty Business"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "God Did"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Judas"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dick Taylor Ship"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pamela"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Can Relate (feat. Starsha)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "The List"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "2 Man (feat. Unstoppable Shax)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hot Girl Summer"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Still My Baby"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wax on Wax Off (feat. Reo, Quan & DJ Realboss)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "The Prayer"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I'm a Boss Baby"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Your Life (feat. Milla, Trilla-G, DiYoute & Xs Groove)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Not A Word (feat. Trilla-G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "They Take You (feat. Shelly & Trilla-G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Come On Baby (feat. Trilla-G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Carnival Is Woman (feat. Trilla-G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Math Not Mathing (feat. Shelly & Trilla-G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Handouts (Raw) (feat. Trilla-G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dwivé (feat. Shelly & Trilla-G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Best Friend (feat. Trilla-G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bingo (feat. Trilla-G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Night Shift (feat. Shelly & Trilla-G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Riddim Coming Down (feat. Shane St. Claire) [This I Promise You Cover]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kanaval Awivé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Campari"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stay Chipping"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "De Word"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Déjà Val (feat. Trilla-G) [Party Mix]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "We Ready (feat. Trilla-G & Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Déliway (feat. Trilla-G)"
+      }
+     ]
     }
    },
    {
@@ -177,6 +431,6 @@ PAGES = [
     "byArtist": {"@id": "https://bouyonmusique.com/en/trilla-g.html#artist"}
    }
   ],
-"date_modified": "2026-10-20"
+"date_modified": "2026-10-21"
  }
 ]

@@ -77,14 +77,93 @@ FR = {
   ]
  ],
  "faq": [
-  ("Que signifient les initiales LGC ?", "Aucune source consultée ne le publie, et ce profil ne l’invente pas. Les crédits publiés montrent seulement que les initiales sont attachées au nom de Lejuh dans le contact de management publié sous ses clips officiels, et qu’un label nommé LGC Music publie « Copain Copine » en 2025. Le développement du sigle reste une question ouverte du dossier."),
-  ("Qui écrit les titres de LGC ?", "Une équipe récurrente, selon les crédits publiés par les plateformes : Dany David Ledreck, présent sur presque tous les titres, Julio Polydamas et Kénan Gavarin sur les titres de 2023 et 2024, Jean Gardiole à partir de « Manzèl Good », et O’neal Chatelot et Déreck Ciani sur les titres de 2025. DJ Taffy produit « Fè Sa Fann » et Magbeatz produit « Copain Copine » et « Make It Clap »."),
-  ("Quel est le lien entre LGC et Lejuh ?", "Un titre en commun et une structure de contact partagée, selon les sources publiées. « Fè Sa Fann », sorti le 6 mars 2024 et produit par DJ Taffy, est présenté comme un titre « LGC x Lejuh ». Le contact de management publié sous les clips officiels de Lejuh associe en outre son nom aux initiales LGC. Aucune source ne dit que LGC et Lejuh sont la même personne, et ce profil ne le dit pas non plus."),
-  ("Quels sont les titres vérifiés de LGC ?", "Six titres : « Voyé’y Bay » en 2023, « Fè Sa Fann » avec Lejuh et « Manzèl Good » en 2024, « Copain Copine » avec Dézod et « Make It Clap » en 2025, et « Woody Wood » avec D.O.C FIX DEM et Judi Silva, sorti le 19 décembre 2025. Tous paraissent en singles ; aucun album ni EP de LGC n’est documenté."),
-  ("De quoi parle « Voyé’y Bay » ?", "Les paroles intégrales, publiées par Shazam, sont en créole guadeloupéen : le titre s’en prend à ceux qui surveillent la vie des autres, inventent des histoires et commentent sur TikTok, et son refrain renvoie la médisance à ses auteurs, maco makrel, les commères, toute la journée. C’est un des rares titres du dossier dont le texte complet est publié et vérifiable."),
-  ("Où écouter LGC ?", "Ses six titres documentés sont sur les plateformes : « Voyé’y Bay », « Fè Sa Fann » avec <a href=\"/lejuh.html\">Lejuh</a>, « Manzèl Good », « Copain Copine », « Make It Clap » et « Woody Wood ». Pour le bouyon de la même scène, écoutez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> et lisez notre page <a href=\"/bouyon-guadeloupe.html\">bouyon Guadeloupe</a>.")
- ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/lgc.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/lgc.html#artist", "name": "LGC", "description": "Nom d’artiste du bouyon guadeloupéen porté par une équipe d’auteurs récurrente (Dany David Ledreck, Julio Polydamas, Kénan Gavarin, Jean Gardiole). Titres vérifiés de 2023 à 2025 : Voyé’y Bay, Fè Sa Fann avec Lejuh, Manzèl Good, Copain Copine, Make It Clap et Woody Wood. Le développement du sigle n’est publié par aucune source consultée.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Voyé’y Bay'}, {"@type": "MusicRecording", "name": 'Fè Sa Fann'}, {"@type": "MusicRecording", "name": 'Manzèl Good'}, {"@type": "MusicRecording", "name": 'Copain Copine'}, {"@type": "MusicRecording", "name": 'Make It Clap'}, {"@type": "MusicRecording", "name": 'Woody Wood'}], "sameAs": []}}],
+  (
+    "Que signifient les initiales LGC ?",
+    "Aucune source consultée ne le publie, et ce profil ne l’invente pas. Les crédits publiés montrent seulement que les initiales sont attachées au nom de Lejuh dans le contact de management publié sous ses clips officiels, et qu’un label nommé LGC Music publie « Copain Copine » en 2025. Le développement du sigle reste une question ouverte du dossier.",
+  ),
+  (
+    "Qui écrit les titres de LGC ?",
+    "Une équipe récurrente, selon les crédits publiés par les plateformes : Dany David Ledreck, présent sur presque tous les titres, Julio Polydamas et Kénan Gavarin sur les titres de 2023 et 2024, Jean Gardiole à partir de « Manzèl Good », et O’neal Chatelot et Déreck Ciani sur les titres de 2025. DJ Taffy produit « Fè Sa Fann » et Magbeatz produit « Copain Copine » et « Make It Clap ».",
+  ),
+  (
+    "Quel est le lien entre LGC et Lejuh ?",
+    "Un titre en commun et une structure de contact partagée, selon les sources publiées. « Fè Sa Fann », sorti le 6 mars 2024 et produit par DJ Taffy, est présenté comme un titre « LGC x Lejuh ». Le contact de management publié sous les clips officiels de Lejuh associe en outre son nom aux initiales LGC. Aucune source ne dit que LGC et Lejuh sont la même personne, et ce profil ne le dit pas non plus.",
+  ),
+  (
+    "Quels sont les titres vérifiés de LGC ?",
+    "Six titres : « Voyé’y Bay » en 2023, « Fè Sa Fann » avec Lejuh et « Manzèl Good » en 2024, « Copain Copine » avec Dézod et « Make It Clap » en 2025, et « Woody Wood » avec D.O.C FIX DEM et Judi Silva, sorti le 19 décembre 2025. Tous paraissent en singles ; aucun album ni EP de LGC n’est documenté.",
+  ),
+  (
+    "De quoi parle « Voyé’y Bay » ?",
+    "Les paroles intégrales, publiées par Shazam, sont en créole guadeloupéen : le titre s’en prend à ceux qui surveillent la vie des autres, inventent des histoires et commentent sur TikTok, et son refrain renvoie la médisance à ses auteurs, maco makrel, les commères, toute la journée. C’est un des rares titres du dossier dont le texte complet est publié et vérifiable.",
+  ),
+  (
+    "Où écouter LGC ?",
+    "Ses six titres documentés sont sur les plateformes : « Voyé’y Bay », « Fè Sa Fann » avec Lejuh, « Manzèl Good », « Copain Copine », « Make It Clap » et « Woody Wood ». Commencez par « Voyé’y Bay » pour le texte et la langue, puis « Fè Sa Fann ». Pour le bouyon de la même scène, écoutez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>.",
+  ),
+  (
+    "Qui est LGC ?",
+    "LGC est un nom d’artiste du bouyon guadeloupéen, documenté par six titres vérifiés sortis entre 2023 et 2025, de « Voyé’y Bay » à « Woody Wood ». Derrière ces trois lettres, les crédits publiés dessinent une équipe d’écriture stable autour de Dany David Ledreck, et des collaborations avec <a href=\"/lejuh.html\">Lejuh</a>, Dézod, D.O.C FIX DEM et Judi Silva.",
+  ),
+  (
+    "LGC est-il un groupe ou un artiste solo ?",
+    "Les sources ne tranchent pas. Les plateformes créditent LGC au singulier, comme voix et interprète, ce qui ressemble à un nom de scène individuel. Mais la constance de l’équipe d’écriture et l’existence d’un label nommé LGC Music, sur « Copain Copine » en 2025, dessinent une structure qui dépasse une seule personne. Ce site range donc LGC parmi les groupes, par prudence.",
+  ),
+  (
+    "Qui a produit « Fè Sa Fann » de LGC et Lejuh ?",
+    "<a href=\"/dj-taffy.html\">DJ Taffy</a>, selon le titre du clip officiel, « LGC x Lejuh - Fè Sa Fann (Bouyon 2024) ». Le titre sort le 6 mars 2024, à 160 BPM, publié aux noms de LGC, Lejuh, Minibertol et Kenan Gavarin. L’écriture revient à Dany Ledreck, Julio Polydamas et Kénan Gavarin, le même trio que sur « Voyé’y Bay ».",
+  ),
+  (
+    "Qu’est-ce que « Make It Clap » de LGC ?",
+    "« Make It Clap » est un single sorti le 30 mai 2025, publié aux noms de Minibertol et Jano, à 160 BPM, avec LGC crédité au chant. Il est écrit par O’neal Chatelot, Dany Ledreck et Jean Gardiole et produit par Magbeatz. Avec un peu plus d’une centaine de Shazams publiés, c’est le compteur le plus élevé du catalogue parmi les fiches qui l’affichent.",
+  ),
+  (
+    "Qui chante avec LGC sur « Copain Copine » ?",
+    "Dézod, crédité aux chœurs aux côtés de LGC. « Copain Copine » ouvre l’année 2025, le 3 janvier, sur le label LGC Music, à 160 BPM, avec Magbeatz à la production et quatre auteurs : Dany David Ledreck, Jean Gardiole, Déreck Ciani et O’neal Chatelot. C’est le premier titre du dossier sorti sur le label au nom des initiales.",
+  ),
+  (
+    "Qu’est-ce que « Woody Wood » avec LGC ?",
+    "« Woody Wood » est un titre de <a href=\"/doc-fix-dem.html\">D.O.C FIX DEM</a> sorti le 19 décembre 2025, qui réunit D.O.C FIX DEM, Judi Silva et LGC, à 160 BPM. Jean Gardiole et Judi Silva y sont crédités au chant et à l’écriture, Landry Mette à l’écriture et à la production, Clarisse Daryl au mixage. C’est la trace la plus récente de LGC.",
+  ),
+  (
+    "Que veut dire « Manzèl Good » ?",
+    "Dans le créole de la scène, le titre signifie à peu près la demoiselle va bien, la fille est bien. « Manzèl Good » sort le 18 septembre 2024, publié aux noms de LGC, Jano et Kenan Gavarin, à 157 BPM, et prolonge la veine festive du projet. Il marque l’entrée durable de Jean Gardiole dans l’équipe d’écriture.",
+  ),
+  (
+    "LGC fait-il du bouyon gwada ?",
+    "Oui. Ses titres sont écrits en créole guadeloupéen, des paroles intégrales de « Voyé’y Bay » jusqu’aux singles de 2025, et tournent entre 157 et 160 BPM sur les fiches qui publient le tempo, celui du bouyon de danse. C’est le cœur du <a href=\"/bouyon-gwada.html\">bouyon gwada</a>, la branche guadeloupéenne du bouyon né en Dominique.",
+  )
+],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/lgc.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/lgc.html#artist", "name": "LGC", "description": "Nom d’artiste du bouyon guadeloupéen porté par une équipe d’auteurs récurrente (Dany David Ledreck, Julio Polydamas, Kénan Gavarin, Jean Gardiole). Titres vérifiés de 2023 à 2025 : Voyé’y Bay, Fè Sa Fann avec Lejuh, Manzèl Good, Copain Copine, Make It Clap et Woody Wood. Le développement du sigle n’est publié par aucune source consultée.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Voyé’y Bay'}, {"@type": "MusicRecording", "name": 'Fè Sa Fann'}, {"@type": "MusicRecording", "name": 'Manzèl Good'}, {"@type": "MusicRecording", "name": 'Copain Copine'}, {"@type": "MusicRecording", "name": 'Make It Clap'}, {"@type": "MusicRecording", "name": 'Woody Wood'},
+      {
+       "@type": "MusicRecording",
+       "name": "What's Problem"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SOUM"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mach"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fès ka pété"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Grammy (sped up) (feat. LGC & K41)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kiss Me (feat. Lady Spicy, LGC & LeCus)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Oui Nou Monss (feat. Lejuh & LGC)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -155,13 +234,92 @@ EN = {
   ]
  ],
  "faq": [
-  ("What do the initials LGC stand for?", "No source consulted publishes it, and this profile does not invent it. The published credits only show that the initials are attached to the name of Lejuh in the management contact published under his official videos, and that a label named LGC Music released “Copain Copine” in 2025. The expansion of the initials remains an open question of the file."),
-  ("Who writes the records of LGC?", "A recurring team, according to the credits published by the platforms: Dany David Ledreck, present on almost every record, Julio Polydamas and Kénan Gavarin on the records of 2023 and 2024, Jean Gardiole from “Manzèl Good” on, and O’neal Chatelot and Déreck Ciani on the records of 2025. DJ Taffy produced “Fè Sa Fann” and Magbeatz produced “Copain Copine” and “Make It Clap”."),
-  ("What is the link between LGC and Lejuh?", "One record in common and a shared contact structure, according to the published sources. “Fè Sa Fann”, released on March 6, 2024 and produced by DJ Taffy, is presented as an “LGC x Lejuh” record. The management contact published under the official Lejuh videos also joins his name to the initials LGC. No source says that LGC and Lejuh are the same person, and this profile does not say it either."),
-  ("What are the verified records of LGC?", "Six records: “Voyé’y Bay” in 2023, “Fè Sa Fann” with Lejuh and “Manzèl Good” in 2024, “Copain Copine” with Dézod and “Make It Clap” in 2025, and “Woody Wood” with D.O.C FIX DEM and Judi Silva, released on December 19, 2025. All appear as singles; no album or EP by LGC is documented."),
-  ("What is “Voyé’y Bay” about?", "The full lyrics, published by Shazam, are in Guadeloupean Creole: the record turns on those who watch the lives of others, invent stories and comment on TikTok, and its hook sends the gossip back to its authors, maco makrel, the busybodies, all day long. It is one of the rare records of the file whose complete text is published and checkable."),
-  ("Where can I hear LGC?", "Its six documented records are on the platforms: “Voyé’y Bay”, “Fè Sa Fann” with <a href=\"/en/lejuh.html\">Lejuh</a>, “Manzèl Good”, “Copain Copine”, “Make It Clap” and “Woody Wood”. For the bouyon of the same scene, hear our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> and read our <a href=\"/en/bouyon-guadeloupe.html\">bouyon Guadeloupe</a> page.")
- ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/lgc.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/lgc.html#artist", "name": "LGC", "description": "Artist name of Guadeloupe bouyon carried by a recurring team of writers (Dany David Ledreck, Julio Polydamas, Kénan Gavarin, Jean Gardiole). Verified records from 2023 to 2025: Voyé’y Bay, Fè Sa Fann with Lejuh, Manzèl Good, Copain Copine, Make It Clap and Woody Wood. The expansion of the initials is published by no source consulted.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Voyé’y Bay'}, {"@type": "MusicRecording", "name": 'Fè Sa Fann'}, {"@type": "MusicRecording", "name": 'Manzèl Good'}, {"@type": "MusicRecording", "name": 'Copain Copine'}, {"@type": "MusicRecording", "name": 'Make It Clap'}, {"@type": "MusicRecording", "name": 'Woody Wood'}], "sameAs": []}}],
+  (
+    "What do the initials LGC stand for?",
+    "No source consulted publishes it, and this profile does not invent it. The published credits only show that the initials are attached to the name of Lejuh in the management contact published under his official videos, and that a label named LGC Music released “Copain Copine” in 2025. The expansion of the initials remains an open question of the file.",
+  ),
+  (
+    "Who writes the records of LGC?",
+    "A recurring team, according to the credits published by the platforms: Dany David Ledreck, present on almost every record, Julio Polydamas and Kénan Gavarin on the records of 2023 and 2024, Jean Gardiole from “Manzèl Good” on, and O’neal Chatelot and Déreck Ciani on the records of 2025. DJ Taffy produced “Fè Sa Fann” and Magbeatz produced “Copain Copine” and “Make It Clap”.",
+  ),
+  (
+    "What is the link between LGC and Lejuh?",
+    "One record in common and a shared contact structure, according to the published sources. “Fè Sa Fann”, released on March 6, 2024 and produced by DJ Taffy, is presented as an “LGC x Lejuh” record. The management contact published under the official Lejuh videos also joins his name to the initials LGC. No source says that LGC and Lejuh are the same person, and this profile does not say it either.",
+  ),
+  (
+    "What are the verified records of LGC?",
+    "Six records: “Voyé’y Bay” in 2023, “Fè Sa Fann” with Lejuh and “Manzèl Good” in 2024, “Copain Copine” with Dézod and “Make It Clap” in 2025, and “Woody Wood” with D.O.C FIX DEM and Judi Silva, released on December 19, 2025. All appear as singles; no album or EP by LGC is documented.",
+  ),
+  (
+    "What is “Voyé’y Bay” about?",
+    "The full lyrics, published by Shazam, are in Guadeloupean Creole: the record turns on those who watch the lives of others, invent stories and comment on TikTok, and its hook sends the gossip back to its authors, maco makrel, the busybodies, all day long. It is one of the rare records of the file whose complete text is published and checkable.",
+  ),
+  (
+    "Where can I hear LGC?",
+    "Its six documented records are on the platforms: “Voyé’y Bay”, “Fè Sa Fann” with Lejuh, “Manzèl Good”, “Copain Copine”, “Make It Clap” and “Woody Wood”. Start with “Voyé’y Bay” for the text and the language, then “Fè Sa Fann”. For the bouyon of the same scene, play our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>.",
+  ),
+  (
+    "Who is LGC?",
+    "LGC is an artist name of Guadeloupe bouyon, documented by six verified records released between 2023 and 2025, from “Voyé’y Bay” to “Woody Wood”. Behind those three letters, the published credits draw a stable writing team around Dany David Ledreck, and collaborations with <a href=\"/en/lejuh.html\">Lejuh</a>, Dézod, D.O.C FIX DEM and Judi Silva.",
+  ),
+  (
+    "Is LGC a group or a solo artist?",
+    "The sources do not settle it. The platforms credit LGC in the singular, as a voice and a performer, which looks like an individual stage name. But the constancy of the writing team and the existence of a label named LGC Music, on “Copain Copine” in 2025, draw a structure that goes beyond a single person. This site therefore files LGC among groups, out of caution.",
+  ),
+  (
+    "Who produced “Fè Sa Fann” by LGC and Lejuh?",
+    "<a href=\"/en/dj-taffy.html\">DJ Taffy</a>, according to the title of the official video, “LGC x Lejuh - Fè Sa Fann (Bouyon 2024)”. The track came out on March 6, 2024, at 160 BPM, published under the names of LGC, Lejuh, Minibertol and Kenan Gavarin. The writing goes to Dany Ledreck, Julio Polydamas and Kénan Gavarin, the same trio as on “Voyé’y Bay”.",
+  ),
+  (
+    "What is “Make It Clap” by LGC?",
+    "“Make It Clap” is a single released on May 30, 2025, published under the names of Minibertol and Jano, at 160 BPM, with LGC credited on vocals. It is written by O’neal Chatelot, Dany Ledreck and Jean Gardiole and produced by Magbeatz. With a little over a hundred published Shazams, it carries the highest counter in the catalogue among the pages that show it.",
+  ),
+  (
+    "Who sings with LGC on “Copain Copine”?",
+    "Dézod, credited on background vocals alongside LGC. “Copain Copine” opened the year 2025, on January 3, on the LGC Music label, at 160 BPM, with Magbeatz on production and four writers: Dany David Ledreck, Jean Gardiole, Déreck Ciani and O’neal Chatelot. It is the first record of the file released on the label named after the initials.",
+  ),
+  (
+    "What is “Woody Wood” with LGC?",
+    "“Woody Wood” is a <a href=\"/en/doc-fix-dem.html\">D.O.C FIX DEM</a> record released on December 19, 2025, bringing together D.O.C FIX DEM, Judi Silva and LGC, at 160 BPM. Jean Gardiole and Judi Silva are credited on vocals and writing, Landry Mette on writing and production, Clarisse Daryl on mixing. It is the most recent trace of LGC.",
+  ),
+  (
+    "What does “Manzèl Good” mean?",
+    "In the Creole of the scene, the title means roughly the young lady is fine, the girl is good. “Manzèl Good” came out on September 18, 2024, published under the names of LGC, Jano and Kenan Gavarin, at 157 BPM, and extends the party vein of the project. It marks the lasting entry of Jean Gardiole into the writing team.",
+  ),
+  (
+    "Does LGC make bouyon gwada?",
+    "Yes. Its records are written in Guadeloupean Creole, from the full lyrics of “Voyé’y Bay” to the 2025 singles, and run between 157 and 160 BPM on the pages that publish the tempo, the speed of dance bouyon. That is the heart of <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a>, the Guadeloupe branch of the bouyon born in Dominica.",
+  )
+],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/lgc.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/lgc.html#artist", "name": "LGC", "description": "Artist name of Guadeloupe bouyon carried by a recurring team of writers (Dany David Ledreck, Julio Polydamas, Kénan Gavarin, Jean Gardiole). Verified records from 2023 to 2025: Voyé’y Bay, Fè Sa Fann with Lejuh, Manzèl Good, Copain Copine, Make It Clap and Woody Wood. The expansion of the initials is published by no source consulted.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Voyé’y Bay'}, {"@type": "MusicRecording", "name": 'Fè Sa Fann'}, {"@type": "MusicRecording", "name": 'Manzèl Good'}, {"@type": "MusicRecording", "name": 'Copain Copine'}, {"@type": "MusicRecording", "name": 'Make It Clap'}, {"@type": "MusicRecording", "name": 'Woody Wood'},
+      {
+       "@type": "MusicRecording",
+       "name": "What's Problem"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SOUM"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mach"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fès ka pété"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Grammy (sped up) (feat. LGC & K41)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kiss Me (feat. Lady Spicy, LGC & LeCus)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Oui Nou Monss (feat. Lejuh & LGC)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

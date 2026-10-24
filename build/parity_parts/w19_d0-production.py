@@ -81,13 +81,67 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qu'est-ce que D0 Production ?", "D0 Production est un nom de production bouyon de Guadeloupe, placé aux Abymes par la page d'analyse de Viberate. Il paraît comme artiste principal sur des riddims et des titres collectifs, comme présentateur sur « Bouè'y Bay » de Totally Spice's, et comme producteur crédité sur des titres comme « Chien ». Son catalogue vérifié court de janvier 2022 à septembre 2025."),
-  ("Qui est Daryl Clarisse dans le catalogue de D0 Production ?", "Daryl Clarisse, écrit aussi Daryl Noah Clarisse ou Clarisse Daryl, est le nom d'auteur qui revient sur presque toutes les fiches du catalogue : compositeur de « Chien », « Mantè » et « TOMBER LOVE », coauteur de « Crescendo Bouyon Riddim 2022 », « Sa Ka Pété », « ALL NIGHT » et « KEEP INSIDE », et auteur, ingénieur du mixage et producteur sur « Asi Mwen », où D0 Production est aussi crédité producteur. Aucune source ouverte ne dit explicitement que D0 Production est Daryl Clarisse, et ce profil publie le faisceau sans affirmer l'identité."),
-  ("Quel est le plus gros titre lié à D0 Production ?", "« Bouè'y Bay », de Totally Spice's avec Tiitii NBA en featuring, publié sous la mention « D0 production Presents Totally Spice's ». Sur la page artiste de Tiitii NBA chez Shazam, c'est son deuxième titre le plus identifié de tous les temps, avec environ 34 700 identifications relevées à l'ouverture de la fiche. Le titre dure 2 minutes 05, avec des paroles de Carcheline Cereme et une composition de Daryl Clarisse."),
-  ("Quels sont les titres en nom principal de D0 Production ?", "Les fiches ouvertes documentent « Crescendo Bouyon Riddim 2022 », avec 1T1, le 1er janvier 2022, « Mantè », avec Shanika, le 28 juillet 2023, « New Bouyon Wave #1 », avec Tiitii NBA, Nils, DJ Softee, Aknose et Theomaa, le 29 septembre 2023, et « Sa Ka Pété », avec D-Stylii et Tiitii NBA, le 6 septembre 2024. La plupart paraissent chez 2873529 Records DK, à 160 BPM pour les titres de danse."),
-  ("Avec quels artistes D0 Production travaille-t-il le plus ?", "Le partenariat central est Tiitii NBA, de « Bouè'y Bay » à « Sa Ka Pété », en passant par « ALL NIGHT » chez DJ Softee et les compositions signées Daryl Clarisse dans la discographie du chanteur. Viennent ensuite Totally Spice's, avec « Chien » et « Bouè'y Bay », puis 1T1, Shanika, Nils, Aknose, Theomaa, les Coucoune Rangers, et en 2025 D.O.C FIX DEM avec Billy BYBF et LGC sur « Asi Mwen »."),
-  ("Où écouter D0 Production ?", "Par « Bouè'y Bay » et « Chien » avec Totally Spice's, « New Bouyon Wave #1 » et « Sa Ka Pété » avec Tiitii NBA, « ALL NIGHT » de DJ Softee, « Mantè » avec Shanika, « Décapotable » des Coucoune Rangers et « Asi Mwen » de D.O.C FIX DEM. Notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> suit la vague gwada, et nos pages <a href=\"/tiitii-nba.html\">Tiitii NBA</a> et <a href=\"/totally-spices.html\">Totally Spice's</a> documentent ses partenaires centraux.")
- ],
+  (
+    "Qu'est-ce que D0 Production ?",
+    "D0 Production est un nom de production bouyon de Guadeloupe, placé aux Abymes par la page d'analyse de Viberate. Il paraît comme artiste principal sur des riddims et des titres collectifs, comme présentateur sur « Bouè'y Bay » de Totally Spice's, et comme producteur crédité sur des titres comme « Chien ». Son catalogue vérifié court de janvier 2022 à septembre 2025.",
+  ),
+  (
+    "D'où vient D0 Production ?",
+    "Le seul ancrage publié vient de la page d'analyse de Viberate, qui place D0 Production aux Abymes, en Guadeloupe, et décrit ses contributions aux scènes reggae et dancehall. Ce site cite cette origine avec son attribution, Viberate étant une page compilée automatiquement. Le cercle d'artistes du catalogue, de Tiitii NBA à Totally Spice's, confirme en tout cas une enseigne de la scène guadeloupéenne.",
+  ),
+  (
+    "D0 Production s'écrit-il avec un zéro ?",
+    "Oui : D0 Production s'écrit avec un zéro à la place du O, à la manière des enseignes de studio et des noms de producteurs de la vague bouyon gwada. Attention à un homonyme de plateforme : Shazam référence aussi un artiste D0d., avec un d minuscule et un point, auteur de titres lofi comme « True Love ». Ni ses titres, ni son genre, ni ses crédits ne recoupent ceux de l'enseigne bouyon.",
+  ),
+  (
+    "Qui est Daryl Clarisse dans le catalogue de D0 Production ?",
+    "Daryl Clarisse, écrit aussi Daryl Noah Clarisse ou Clarisse Daryl, est le nom d'auteur qui revient sur presque toutes les fiches du catalogue : compositeur de « Chien », « Mantè » et « TOMBER LOVE », coauteur de « Crescendo Bouyon Riddim 2022 », « Sa Ka Pété » et « ALL NIGHT », et producteur sur « Asi Mwen ». Aucune source ouverte ne dit explicitement que D0 Production est Daryl Clarisse, et ce profil n'affirme pas l'identité.",
+  ),
+  (
+    "Quel est le premier titre de D0 Production ?",
+    "Un riddim : « Crescendo Bouyon Riddim 2022 », avec 1T1 en featuring, paru le 1er janvier 2022 chez 2873529 Records DK, à 114 BPM, écrit par Terry Baptiste et Daryl Noah Clarisse. Viberate retient de la même année un second riddim, « 1MPLIKE'W (Bouyon Riddim 2022) ». L'enseigne entre en scène comme fournisseur de matière pour les voix et les DJ. Lire notre page <a href=\"/bouyon-riddim.html\">bouyon riddim</a>.",
+  ),
+  (
+    "Qu'est-ce que « New Bouyon Wave #1 » ?",
+    "Un titre paru le 29 septembre 2023 sous le seul nom de D0 Production, avec cinq invités : Tiitii NBA, Nils, DJ Softee, Aknose et Theomaa. En français, à 160 BPM, chez 2873529 Records DK, il fonctionne comme une photo de famille de la nouvelle vague bouyon francophone. Son intitulé numéroté annonce une série, mais aucun « #2 » n'a été retrouvé dans les catalogues consultés.",
+  ),
+  (
+    "Quel est le plus gros titre lié à D0 Production ?",
+    "« Bouè'y Bay », de Totally Spice's avec Tiitii NBA en featuring, publié sous la mention « D0 production Presents Totally Spice's ». Sur la page artiste de Tiitii NBA chez Shazam, c'est son deuxième titre le plus identifié de tous les temps, avec environ 34 700 identifications relevées à l'ouverture de la fiche. Le titre dure 2 minutes 05, avec des paroles de Carcheline Cereme et une composition de Daryl Clarisse.",
+  ),
+  (
+    "Qui a produit « Chien » de Totally Spice's ?",
+    "D0 Production, crédité producteur sur la fiche du titre, sorti le 6 février 2024 chez iMD-DRECORDS, à 162 BPM, avec plus de 25 000 identifications Shazam. Daryl Clarisse en signe la composition et la programmation, et Carcheline Cereme les voix et les paroles. Le clip officiel circule sous l'intitulé « D0Production Feat. Totally Spice's - Chien ». Voir notre profil de <a href=\"/totally-spices.html\">Totally Spice's</a>.",
+  ),
+  (
+    "Qui a écrit « TOMBER LOVE » de Tiitii NBA ?",
+    "Selon la discographie de Tiitii NBA chez Deezer, « TOMBER LOVE » a des paroles de Terry Capitolin, le nom d'auteur du chanteur, et une composition de Daryl Clarisse, pour une durée de 2 minutes 27. Viberate rattache le titre au partenariat entre D0 Production et Tiitii NBA, que les pages d'analyse décrivent comme le plus important des deux catalogues.",
+  ),
+  (
+    "Quels sont les titres en nom principal de D0 Production ?",
+    "Les fiches ouvertes documentent « Crescendo Bouyon Riddim 2022 », avec 1T1, le 1er janvier 2022, « Mantè », avec Shanika, le 28 juillet 2023, « New Bouyon Wave #1 », avec cinq invités, le 29 septembre 2023, et « Sa Ka Pété », avec D-Stylii et Tiitii NBA, le 6 septembre 2024. La plupart paraissent chez 2873529 Records DK, à 160 BPM pour les titres de danse.",
+  ),
+  (
+    "Avec quels artistes D0 Production travaille-t-il le plus ?",
+    "Le partenariat central est Tiitii NBA, de « Bouè'y Bay » à « Sa Ka Pété », en passant par « ALL NIGHT » chez DJ Softee et les compositions signées Daryl Clarisse dans la discographie du chanteur. Viennent ensuite Totally Spice's, avec « Chien » et « Bouè'y Bay », puis 1T1, Shanika, Nils, Aknose, Theomaa, les Coucoune Rangers, et en 2025 D.O.C FIX DEM avec Billy BYBF et LGC sur « Asi Mwen ».",
+  ),
+  (
+    "Qu'est-ce que l'étiquette 2873529 Records DK ?",
+    "C'est l'étiquette de distribution numérique, de type DistroKid et identifiée par un numéro, qui porte la plupart des sorties en nom principal de D0 Production, de 2022 à 2024. Des centaines d'artistes indépendants des Antilles françaises utilisent ce type d'étiquette pour paraître sur toutes les plateformes sans maison de disque : sa présence constante indique une distribution indépendante et continue.",
+  ),
+  (
+    "Quel est le tempo des titres de D0 Production ?",
+    "160 BPM sur presque tous les titres de 2023 à 2025, le format de danse de l'enseigne. Les exceptions documentées sont le riddim fondateur de 2022, à 114 BPM, « Décapotable » des Coucoune Rangers, à 157 BPM, et « Chien » de Totally Spice's, à 162 BPM. Ce tempo uniforme permet aux DJ d'enchaîner les titres, au cœur de l'économie actuelle du bouyon guadeloupéen.",
+  ),
+  (
+    "Quels sont les derniers titres de D0 Production ?",
+    "La trace vérifiée la plus récente est « Asi Mwen », de D.O.C FIX DEM, paru le 19 septembre 2025 chez FIX DEM, en anglais, à 160 BPM, avec Billy BYBF, D0 Production, LGC et Le_Daah en featuring, et D0 Production crédité producteur. Viberate signale aussi en 2025 « DACHINE », « BADMOOD », « Konté #Oups 3 » et « Take a Lick », sans fiche de sortie ouverte pour chacun.",
+  ),
+  (
+    "Où écouter D0 Production ?",
+    "Par « Bouè'y Bay » et « Chien » avec Totally Spice's, « New Bouyon Wave #1 » et « Sa Ka Pété » avec Tiitii NBA, « ALL NIGHT » de DJ Softee, « Mantè » avec Shanika et « Asi Mwen » de D.O.C FIX DEM. Pour la scène bouyon actuelle, de la Dominique à la Guadeloupe, notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> Road Mix de Bouyon Shattaz réunit nouveautés et classiques.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/d0-production.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/d0-production.html#artist", "name": "D0 Production", "description": "Nom de production bouyon de Guadeloupe, placé aux Abymes par Viberate. Riddims et titres collectifs en nom principal chez 2873529 Records DK, production de Chien et présentation de Bouè'y Bay pour Totally Spice's, partenariat suivi avec Tiitii NBA. Le nom d'auteur Daryl Clarisse signe la composition de presque tout le catalogue, sans qu'aucune source ouverte n'énonce le rapport exact entre les deux noms.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Crescendo Bouyon Riddim 2022"}, {"@type": "MusicRecording", "name": "1MPLIKE'W (Bouyon Riddim 2022)"}, {"@type": "MusicRecording", "name": "New Bouyon Wave #1"}, {"@type": "MusicRecording", "name": "Mantè"}, {"@type": "MusicRecording", "name": "Chien"}, {"@type": "MusicRecording", "name": "Bouè'y Bay"}, {"@type": "MusicRecording", "name": "Décapotable"}, {"@type": "MusicRecording", "name": "KEEP INSIDE (BOUYON 2025)"}, {"@type": "MusicRecording", "name": "TOMBER LOVE - BOUYON 2024"}, {"@type": "MusicRecording", "name": "Sa ka pété"}, {"@type": "MusicRecording", "name": "ALL NIGHT"}, {"@type": "MusicRecording", "name": "Asi Mwen"}, {"@type": "MusicRecording", "name": "Lang an lang"}, {"@type": "MusicRecording", "name": "Stand By"}, {"@type": "MusicRecording", "name": "Restart ? - Bouyon Remix"}, {"@type": "MusicRecording", "name": "Plap Plap !"}, {"@type": "MusicRecording", "name": "Pli ô"}, {"@type": "MusicRecording", "name": "Krédib"}, {"@type": "MusicRecording", "name": "KPT - BOUYON WARM UP 2024"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -159,13 +213,67 @@ EN = {
   ]
  ],
  "faq": [
-  ("What is D0 Production?", "D0 Production is a bouyon production name from Guadeloupe, placed in Les Abymes by the Viberate analytics page. It appears as lead artist on riddims and collective records, as presenter on “Bouè'y Bay” by Totally Spice's, and as credited producer on records such as “Chien”. Its verified catalog runs from January 2022 to September 2025."),
-  ("Who is Daryl Clarisse in the D0 Production catalog?", "Daryl Clarisse, also written Daryl Noah Clarisse or Clarisse Daryl, is the writer name that returns on almost every page of the catalog: composer of “Chien”, “Mantè” and “TOMBER LOVE”, co-writer of “Crescendo Bouyon Riddim 2022”, “Sa Ka Pété”, “ALL NIGHT” and “KEEP INSIDE”, and songwriter, mixing engineer and producer on “Asi Mwen”, where D0 Production is also credited as producer. No opened source explicitly states that D0 Production is Daryl Clarisse, and this profile publishes the bundle without asserting the identity."),
-  ("What is the biggest record linked to D0 Production?", "“Bouè'y Bay”, by Totally Spice's featuring Tiitii NBA, released under the mention “D0 production Presents Totally Spice's”. On the Tiitii NBA artist page on Shazam, it is his second most identified record of all time, with about 34,700 identifications counted when the page was opened. The record runs 2 minutes 05, with lyrics by Carcheline Cereme and a composition by Daryl Clarisse."),
-  ("What are the lead name records of D0 Production?", "The opened pages document “Crescendo Bouyon Riddim 2022”, with 1T1, on January 1, 2022, “Mantè”, with Shanika, on July 28, 2023, “New Bouyon Wave #1”, with Tiitii NBA, Nils, DJ Softee, Aknose and Theomaa, on September 29, 2023, and “Sa Ka Pété”, with D-Stylii and Tiitii NBA, on September 6, 2024. Most appear on 2873529 Records DK, at 160 BPM for the dance records."),
-  ("Which artists does D0 Production work with most?", "The central partnership is Tiitii NBA, from “Bouè'y Bay” to “Sa Ka Pété”, through “ALL NIGHT” by DJ Softee and the compositions signed Daryl Clarisse in the singer discography. Then come Totally Spice's, with “Chien” and “Bouè'y Bay”, then 1T1, Shanika, Nils, Aknose, Theomaa, Coucoune Rangers, and in 2025 D.O.C FIX DEM with Billy BYBF and LGC on “Asi Mwen”."),
-  ("Where can I hear D0 Production?", "Through “Bouè'y Bay” and “Chien” with Totally Spice's, “New Bouyon Wave #1” and “Sa Ka Pété” with Tiitii NBA, “ALL NIGHT” by DJ Softee, “Mantè” with Shanika, “Décapotable” by Coucoune Rangers and “Asi Mwen” by D.O.C FIX DEM. Our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> follows the Gwada wave, and our <a href=\"/en/tiitii-nba.html\">Tiitii NBA</a> and <a href=\"/en/totally-spices.html\">Totally Spice's</a> pages document its central partners.")
- ],
+  (
+    "What is D0 Production?",
+    "D0 Production is a bouyon production name from Guadeloupe, placed in Les Abymes by the Viberate analytics page. It appears as lead artist on riddims and collective records, as presenter on “Bouè'y Bay” by Totally Spice's, and as credited producer on records such as “Chien”. Its verified catalog runs from January 2022 to September 2025.",
+  ),
+  (
+    "Where is D0 Production from?",
+    "The only published anchor comes from the Viberate analytics page, which places D0 Production in Les Abymes, Guadeloupe, and describes its contributions to the reggae and dancehall scenes. This site cites that origin with its attribution, Viberate being an automatically compiled page. The artist circle of the catalog, from Tiitii NBA to Totally Spice's, in any case confirms a banner of the Guadeloupe scene.",
+  ),
+  (
+    "Is D0 Production spelled with a zero?",
+    "Yes: D0 Production is written with a zero in place of the O, in the manner of studio banners and producer names of the bouyon gwada wave. Beware of a platform namesake: Shazam also lists an artist D0d., with a lowercase d and a period, maker of lofi records such as “True Love”. Neither its records, nor its genre, nor its credits overlap with those of the bouyon banner.",
+  ),
+  (
+    "Who is Daryl Clarisse in the D0 Production catalog?",
+    "Daryl Clarisse, also written Daryl Noah Clarisse or Clarisse Daryl, is the writer name that returns on almost every page of the catalog: composer of “Chien”, “Mantè” and “TOMBER LOVE”, co-writer of “Crescendo Bouyon Riddim 2022”, “Sa Ka Pété” and “ALL NIGHT”, and producer on “Asi Mwen”. No opened source explicitly states that D0 Production is Daryl Clarisse, and this profile does not assert the identity.",
+  ),
+  (
+    "What was D0 Production’s first release?",
+    "A riddim: “Crescendo Bouyon Riddim 2022”, featuring 1T1, released on January 1, 2022 on 2873529 Records DK, at 114 BPM, written by Terry Baptiste and Daryl Noah Clarisse. Viberate keeps from the same year a second riddim, “1MPLIKE'W (Bouyon Riddim 2022)”. The banner entered the scene as a supplier of material for voices and DJs. Read our <a href=\"/en/bouyon-riddim.html\">bouyon riddim</a> page.",
+  ),
+  (
+    "What is “New Bouyon Wave #1”?",
+    "A record released on September 29, 2023 under the name D0 Production alone, with five guests: Tiitii NBA, Nils, DJ Softee, Aknose and Theomaa. In French, at 160 BPM, on 2873529 Records DK, it works like a family photo of the new French speaking bouyon wave. Its numbered title announces a series, but no “#2” was found in the catalogs consulted.",
+  ),
+  (
+    "What is the biggest record linked to D0 Production?",
+    "“Bouè'y Bay”, by Totally Spice's featuring Tiitii NBA, released under the mention “D0 production Presents Totally Spice's”. On the Tiitii NBA artist page on Shazam, it is his second most identified record of all time, with about 34,700 identifications counted when the page was opened. The record runs 2 minutes 05, with lyrics by Carcheline Cereme and a composition by Daryl Clarisse.",
+  ),
+  (
+    "Who produced “Chien” by Totally Spice's?",
+    "D0 Production, credited as producer on the record page, released on February 6, 2024 on iMD-DRECORDS, at 162 BPM, with over 25,000 Shazam identifications. Daryl Clarisse signs the composition and programming, and Carcheline Cereme the vocals and lyrics. The official video circulates under the title “D0Production Feat. Totally Spice's - Chien”. See our <a href=\"/en/totally-spices.html\">Totally Spice's</a> profile.",
+  ),
+  (
+    "Who wrote “TOMBER LOVE” by Tiitii NBA?",
+    "According to the Tiitii NBA discography on Deezer, “TOMBER LOVE” has lyrics by Terry Capitolin, the singer’s writer name, and a composition by Daryl Clarisse, with a running time of 2 minutes 27. Viberate ties the record to the partnership between D0 Production and Tiitii NBA, which the analytics pages describe as the most important of both catalogs.",
+  ),
+  (
+    "What are the lead name records of D0 Production?",
+    "The opened pages document “Crescendo Bouyon Riddim 2022”, with 1T1, on January 1, 2022, “Mantè”, with Shanika, on July 28, 2023, “New Bouyon Wave #1”, with five guests, on September 29, 2023, and “Sa Ka Pété”, with D-Stylii and Tiitii NBA, on September 6, 2024. Most appear on 2873529 Records DK, at 160 BPM for the dance records.",
+  ),
+  (
+    "Which artists does D0 Production work with most?",
+    "The central partnership is Tiitii NBA, from “Bouè'y Bay” to “Sa Ka Pété”, through “ALL NIGHT” by DJ Softee and the compositions signed Daryl Clarisse in the singer discography. Then come Totally Spice's, with “Chien” and “Bouè'y Bay”, then 1T1, Shanika, Nils, Aknose, Theomaa, Coucoune Rangers, and in 2025 D.O.C FIX DEM with Billy BYBF and LGC on “Asi Mwen”.",
+  ),
+  (
+    "What is the 2873529 Records DK label?",
+    "It is the digital distribution tag, DistroKid type and identified by a number, that carries most of the lead name releases of D0 Production, from 2022 to 2024. Hundreds of independent artists of the French Antilles use this kind of tag to appear on every platform without a record company: its constant presence points to independent and continuous distribution.",
+  ),
+  (
+    "What tempo are D0 Production records?",
+    "160 BPM on almost every record from 2023 to 2025, the dance format of the banner. The documented exceptions are the founding 2022 riddim, at 114 BPM, “Décapotable” by Coucoune Rangers, at 157 BPM, and “Chien” by Totally Spice's, at 162 BPM. That uniform tempo lets DJs chain the records, at the heart of the current economy of Guadeloupe bouyon.",
+  ),
+  (
+    "What are D0 Production’s latest releases?",
+    "The most recent verified trace is “Asi Mwen”, by D.O.C FIX DEM, released on September 19, 2025 on FIX DEM, in English, at 160 BPM, featuring Billy BYBF, D0 Production, LGC and Le_Daah, with D0 Production credited as producer. Viberate also flags in 2025 “DACHINE”, “BADMOOD”, “Konté #Oups 3” and “Take a Lick”, with no release page opened for each.",
+  ),
+  (
+    "Where can I hear D0 Production?",
+    "Through “Bouè'y Bay” and “Chien” with Totally Spice's, “New Bouyon Wave #1” and “Sa Ka Pété” with Tiitii NBA, “ALL NIGHT” by DJ Softee, “Mantè” with Shanika and “Asi Mwen” by D.O.C FIX DEM. For today’s bouyon scene, from Dominica to Guadeloupe, our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, the Road Mix by Bouyon Shattaz, gathers new releases and classics.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/d0-production.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/d0-production.html#artist", "name": "D0 Production", "description": "Bouyon production name from Guadeloupe, placed in Les Abymes by Viberate. Lead name riddims and collective records on 2873529 Records DK, production of Chien and presentation of Bouè'y Bay for Totally Spice's, followed partnership with Tiitii NBA. The writer name Daryl Clarisse signs the composition of almost the whole catalog, with no opened source stating the exact relation between the two names.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Crescendo Bouyon Riddim 2022"}, {"@type": "MusicRecording", "name": "1MPLIKE'W (Bouyon Riddim 2022)"}, {"@type": "MusicRecording", "name": "New Bouyon Wave #1"}, {"@type": "MusicRecording", "name": "Mantè"}, {"@type": "MusicRecording", "name": "Chien"}, {"@type": "MusicRecording", "name": "Bouè'y Bay"}, {"@type": "MusicRecording", "name": "Décapotable"}, {"@type": "MusicRecording", "name": "KEEP INSIDE (BOUYON 2025)"}, {"@type": "MusicRecording", "name": "TOMBER LOVE - BOUYON 2024"}, {"@type": "MusicRecording", "name": "Sa ka pété"}, {"@type": "MusicRecording", "name": "ALL NIGHT"}, {"@type": "MusicRecording", "name": "Asi Mwen"}, {"@type": "MusicRecording", "name": "Lang an lang"}, {"@type": "MusicRecording", "name": "Stand By"}, {"@type": "MusicRecording", "name": "Restart ? - Bouyon Remix"}, {"@type": "MusicRecording", "name": "Plap Plap !"}, {"@type": "MusicRecording", "name": "Pli ô"}, {"@type": "MusicRecording", "name": "Krédib"}, {"@type": "MusicRecording", "name": "KPT - BOUYON WARM UP 2024"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

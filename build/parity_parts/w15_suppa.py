@@ -67,13 +67,51 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui était Suppa ?", "Suppa, nommé General Suppa par le collectif Rebel Up dans l’article qui annonce sa mort, était un chanteur du bouyon gwada, la branche hardcore guadeloupéenne du bouyon, actif dans le cercle de Vadore Concept au début des années 2010. Aucune source consultée ne donne son nom complet, sa date de naissance ou sa commune d’origine, et ce profil n’en invente aucun."),
-  ("Quel est le titre vérifié de Suppa ?", "Un seul titre est vérifié sur sa source d’origine : « Never Stop Di Bouyon », une vidéo YouTube de Suppa avec Ti Cho et Ghetto Princess, publiée dans le cercle de Vadore Concept, dont le site est lié en description. Aucun album, aucun autre single et aucune page d’artiste au nom de Suppa dans cette scène n’ont été retrouvés pendant la recherche de ce profil."),
-  ("Suppa a t il vraiment joué à Paris ?", "Oui, selon Rebel Up, la seule source d’époque qui le raconte : en décembre 2012, Suppa, les Gaza Girls, Dj Joe et d’autres ont donné la première performance bouyon à Paris, devant la diaspora antillaise, et un documentaire de 50 minutes en français et en créole a été tourné sur cette première. Notre page bouyon à Paris en retrace le contexte."),
-  ("Comment Suppa est il mort ?", "Selon Rebel Up, le chanteur General Suppa a été tué à coups de couteau en mai 2013, et le collectif renvoie à des images de ses funérailles célébrées en style bouyon. C’est l’unique source consultée sur sa mort : elle donne la manière, le mois et l’année, sans lieu ni récit d’enquête, et ce profil ne complète ce vide par aucune invention."),
-  ("Quel est le lien entre Suppa et Gaza Crew ?", "Un lien de mots clés, et rien de plus d’établi. La liste de mots clés de la vidéo « Never Stop Di Bouyon » de Suppa juxtapose Gaza, Crew, Gwada et Girls, entre Vadore Concept, Dj Joe, Triple Kay et Asa Bantan. C’est le seul endroit où le nom Gaza Crew a survécu dans la recherche de ce site, et notre page Gaza Crew explique pourquoi cette trace peut aussi se lire comme le nom Gaza Girls Crew découpé en pièces, sans qu’aucune source permette de trancher."),
-  ("Où entendre le bouyon gwada de l’époque de Suppa ?", "Commencez par « Never Stop Di Bouyon », son titre vérifié, puis écoutez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> et lisez nos pages <a href=\"/bouyon-gwada.html\">bouyon gwada</a>, <a href=\"/bouyon-paris.html\">bouyon à Paris</a> et <a href=\"/gaza-girls-crew.html\">Gaza Girls Crew</a>, qui documentent la scène, la ville et le cercle d’où vient sa trace.")
- ],
+  (
+    "Qui était Suppa ?",
+    "Suppa, nommé General Suppa par le collectif Rebel Up dans l’article qui annonce sa mort, était un chanteur du bouyon gwada, la branche hardcore guadeloupéenne du bouyon, actif dans le cercle de Vadore Concept au début des années 2010. Aucune source consultée ne donne son nom complet, sa date de naissance ou sa commune d’origine, et ce profil n’en invente aucun.",
+  ),
+  (
+    "Suppa et General Suppa sont-ils le même artiste ?",
+    "Oui, selon l’unique source qui emploie les deux formes : Rebel Up parle de Suppa dans le récit de la première scène bouyon à Paris, puis nomme General Suppa le chanteur de sa mixtape en annonçant sa mort, dans le même article. La vidéo de son titre est publiée sous le nom Suppa. Les autres artistes appelés Supa ou Suppa en dancehall n’ont aucun lien documenté avec lui.",
+  ),
+  (
+    "Quel est le titre vérifié de Suppa ?",
+    "Un seul titre est vérifié sur sa source d’origine : « Never Stop Di Bouyon », une vidéo YouTube de Suppa avec Ti Cho et Ghetto Princess, publiée dans le cercle de Vadore Concept, dont le site est lié en description. Le titre est un programme, ne jamais arrêter le bouyon. Aucun album, aucun autre single et aucune page d’artiste au nom de Suppa dans cette scène n’ont été retrouvés.",
+  ),
+  (
+    "Qu’est-ce que Vadore Concept, le cercle de Suppa ?",
+    "Vadore Concept est la bannière qui structure toute la trace de Suppa : un cercle de production et de fêtes du bouyon gwada au début des années 2010, dont le site est lié dans la description de « Never Stop Di Bouyon ». Son héritier publié, Vadore Concept Groupe, sortait encore en 2023 un single de <a href=\"/dj-joe.html\">DJ Joe</a>, le DJ du même cercle.",
+  ),
+  (
+    "Quel était le style de Suppa, le bouyon hardcore ?",
+    "Le bouyon hardcore, dont l’équivalent guadeloupéen est le bouyon gwada, selon Rebel Up : des paroles crues, souvent sexuellement explicites ou violentes, en anglais, en français ou en créole, sur des riddims percussifs lourds aux mélodies dépouillées. Un riddim à succès reçoit plusieurs versions, à la manière du dancehall. Rebel Up place sa mixtape Bouyon Hardcore à 155 BPM : c’est le réglage sonore où travaillait la voix de Suppa.",
+  ),
+  (
+    "Qui est Rebel Up, la source sur Suppa ?",
+    "Rebel Up est un collectif bruxellois de DJ et de chercheurs de disques de la scène global bass, qui a suivi le bouyon gwada au moment même où il explosait, mixtape et article à l’appui. Sa mixtape Bouyon Hardcore, soixante-dix minutes de rythmes de fête caribéens, avait General Suppa comme chanteur à l’affiche. Son article est une pièce d’époque, écrite par des témoins de la scène.",
+  ),
+  (
+    "Pourquoi le bouyon gwada de l’époque de Suppa était-il critiqué ?",
+    "Parce qu’une partie de la presse guadeloupéenne le rejetait. Rebel Up cite un article qui qualifiait le bouyon gwada de « pornophonie » et appelait à l’interdire, avec ce commentaire : si un film porno est interdit aux moins de 18 ans, le bouyon gwada devrait l’être aussi. Le poids public était réel : les clips des artistes de ces petites îles faisaient de 5 000 à plus de 50 000 vues.",
+  ),
+  (
+    "Suppa a t il vraiment joué à Paris ?",
+    "Oui, selon Rebel Up, la seule source d’époque qui le raconte : en décembre 2012, Suppa, les Gaza Girls, Dj Joe et d’autres ont donné la première performance bouyon à Paris, devant la diaspora antillaise, et un documentaire de 50 minutes en français et en créole a été tourné sur cette première. Notre page <a href=\"/bouyon-paris.html\">bouyon à Paris</a> en retrace le contexte.",
+  ),
+  (
+    "Comment Suppa est il mort ?",
+    "Selon Rebel Up, le chanteur General Suppa a été tué à coups de couteau en mai 2013, environ cinq mois après la première scène bouyon à Paris, et le collectif renvoie à des images de ses funérailles célébrées en style bouyon. C’est l’unique source consultée sur sa mort : elle donne la manière, le mois et l’année, sans lieu ni récit d’enquête, et ce profil n’invente rien de plus.",
+  ),
+  (
+    "Quel est le lien entre Suppa et Gaza Crew ?",
+    "Un lien de mots clés, et rien de plus d’établi. La liste de mots clés de la vidéo « Never Stop Di Bouyon » juxtapose Gaza, Crew, Gwada et Girls, entre Vadore Concept, Dj Joe, Triple Kay et Asa Bantan. C’est le seul endroit où le nom Gaza Crew a survécu dans la recherche de ce site, et notre page <a href=\"/gaza-crew.html\">Gaza Crew</a> explique pourquoi cette trace peut aussi se lire comme le nom Gaza Girls Crew découpé.",
+  ),
+  (
+    "Où entendre le bouyon gwada de l’époque de Suppa ?",
+    "Commencez par « Never Stop Di Bouyon », son titre vérifié, puis lisez les pages de son cercle, Dj Joe et les Gaza Girls Crew, et celle du bouyon gwada. Pour entendre la scène bouyon telle qu’elle vit aujourd’hui, de la Dominique à la Guadeloupe, la <a href=\"/playlist-bouyon.html\">playlist ROAD MIX</a> de Bouyon Shattaz rassemble nouveautés, bouyon soca et classiques de carnaval.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/suppa.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/suppa.html#artist", "name": "Suppa", "alternateName": "General Suppa", "description": "Chanteur du bouyon gwada hardcore, du cercle Vadore Concept. Présent à la première performance bouyon de Paris en décembre 2012 selon Rebel Up, qui rapporte qu’il a été tué à coups de couteau en mai 2013 et que ses funérailles ont été célébrées en style bouyon.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Never Stop Di Bouyon"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -139,13 +177,51 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who was Suppa?", "Suppa, named General Suppa by the Rebel Up collective in the article that announces his death, was a singer of bouyon gwada, the hardcore Guadeloupe branch of bouyon, active in the Vadore Concept circle in the early 2010s. No source consulted gives his full name, his date of birth or his home town, and this profile invents none."),
-  ("What is Suppa verified title?", "A single title is verified on its original source: “Never Stop Di Bouyon”, a YouTube video by Suppa with Ti Cho and Ghetto Princess, published in the Vadore Concept circle, whose site is linked in the description. No album, no other single and no artist page under the name Suppa in this scene was found during the research for this profile."),
-  ("Did Suppa really play in Paris?", "Yes, according to Rebel Up, the only period source that tells it: in December 2012, Suppa, the Gaza Girls, Dj Joe and others gave the first bouyon performance in Paris, before the Antillean diaspora, and a 50 minute documentary in French and Creole was shot on that first. Our bouyon in Paris page retraces the context."),
-  ("How did Suppa die?", "According to Rebel Up, the featured singer General Suppa was stabbed to death in May 2013, and the collective points to footage from his funeral celebrated in bouyon style. It is the only source consulted on his death: it gives the manner, the month and the year, with no place and no investigation account, and this profile fills that gap with no invention."),
-  ("What is the link between Suppa and Gaza Crew?", "A keyword link, and nothing more established. The keyword list of the Suppa video “Never Stop Di Bouyon” places Gaza, Crew, Gwada and Girls side by side, between Vadore Concept, Dj Joe, Triple Kay and Asa Bantan. It is the only place the name Gaza Crew survived in the research of this site, and our Gaza Crew page explains why that trace can also be read as the name Gaza Girls Crew cut into pieces, with no source allowing it to be decided."),
-  ("Where can I hear the bouyon gwada of Suppa era?", "Start with “Never Stop Di Bouyon”, his verified title, then hear our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> and read our pages <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a>, <a href=\"/en/bouyon-paris.html\">bouyon in Paris</a> and <a href=\"/en/gaza-girls-crew.html\">Gaza Girls Crew</a>, which document the scene, the city and the circle his trace comes from.")
- ],
+  (
+    "Who was Suppa?",
+    "Suppa, named General Suppa by the Rebel Up collective in the article that announces his death, was a singer of bouyon gwada, the hardcore Guadeloupe branch of bouyon, active in the Vadore Concept circle in the early 2010s. No source consulted gives his full name, his date of birth or his home town, and this profile invents none.",
+  ),
+  (
+    "Are Suppa and General Suppa the same artist?",
+    "Yes, according to the only source that uses both forms: Rebel Up speaks of Suppa in its account of the first bouyon stage in Paris, then names the featured singer of its mixtape General Suppa as it announces his death, in the same article. His video is published under the name Suppa. Other artists named Supa or Suppa in dancehall have no documented link with him.",
+  ),
+  (
+    "What is Suppa's verified song?",
+    "A single title is verified on its original source: “Never Stop Di Bouyon”, a YouTube video by Suppa with Ti Cho and Ghetto Princess, published in the Vadore Concept circle, whose site is linked in the description. The title is a programme in itself, never stop the bouyon. No album, no other single and no artist page under the name Suppa in this scene was found.",
+  ),
+  (
+    "What is Vadore Concept, Suppa's circle?",
+    "Vadore Concept is the banner that structures Suppa's whole trace: a bouyon gwada production and party circle of the early 2010s, whose site is linked in the description of “Never Stop Di Bouyon”. Its published heir, Vadore Concept Groupe, was still releasing a single by <a href=\"/en/dj-joe.html\">DJ Joe</a>, the DJ of the same circle, in 2023.",
+  ),
+  (
+    "What was Suppa's style, hardcore bouyon?",
+    "Hardcore bouyon, whose Guadeloupe equivalent is bouyon gwada, according to Rebel Up: raw lyrics, often sexually explicit or violent, in English, French or Creole, over heavy percussive riddims with stripped down melodies. One successful riddim receives several versions, in the manner of dancehall. Rebel Up places its Bouyon Hardcore mixtape at 155 BPM: that is the sound setting in which Suppa's voice worked.",
+  ),
+  (
+    "Who is Rebel Up, the source on Suppa?",
+    "Rebel Up is a Brussels collective of DJs and diggers of the global bass scene, which followed bouyon gwada at the very moment it was exploding, mixtape and article in hand. Its Bouyon Hardcore mixtape, seventy minutes of fast Caribbean party beats, featured General Suppa as its singer. Its article is a period piece, written by witnesses of the scene.",
+  ),
+  (
+    "Why was bouyon gwada criticised in Suppa's time?",
+    "Because part of the Guadeloupe press rejected it. Rebel Up quotes an article that called bouyon gwada pornophonie and argued for a ban, with this comment: if a porn movie is forbidden for under 18s, bouyon gwada should be too. The public weight was real: clips by bouyon artists from those small islands ran between 5,000 and more than 50,000 views.",
+  ),
+  (
+    "Did Suppa really play in Paris?",
+    "Yes, according to Rebel Up, the only period source that tells it: in December 2012, Suppa, the Gaza Girls, Dj Joe and others gave the first bouyon performance in Paris, before the Antillean diaspora, and a 50 minute documentary in French and Creole was shot on that first. Our <a href=\"/en/bouyon-paris.html\">bouyon in Paris</a> page retraces the context.",
+  ),
+  (
+    "How did Suppa die?",
+    "According to Rebel Up, the featured singer General Suppa was stabbed to death in May 2013, about five months after the first bouyon stage in Paris, and the collective points to footage from his funeral celebrated in bouyon style. It is the only source consulted on his death: it gives the manner, the month and the year, with no place and no investigation account, and this profile invents nothing more.",
+  ),
+  (
+    "What is the link between Suppa and Gaza Crew?",
+    "A keyword link, and nothing more established. The keyword list of the video “Never Stop Di Bouyon” places Gaza, Crew, Gwada and Girls side by side, between Vadore Concept, Dj Joe, Triple Kay and Asa Bantan. It is the only place the name Gaza Crew survived in the research of this site, and our <a href=\"/en/gaza-crew.html\">Gaza Crew</a> page explains why that trace can also be read as the name Gaza Girls Crew cut into pieces.",
+  ),
+  (
+    "Where can I hear the bouyon gwada of Suppa's era?",
+    "Start with “Never Stop Di Bouyon”, his verified title, then read the pages of his circle, Dj Joe and the Gaza Girls Crew, and our bouyon gwada page. To hear the bouyon scene as it lives today, from Dominica to Guadeloupe, the Bouyon Shattaz <a href=\"/en/playlist-bouyon.html\">ROAD MIX playlist</a> gathers new releases, bouyon soca and carnival classics.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/suppa.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/suppa.html#artist", "name": "Suppa", "alternateName": "General Suppa", "description": "Singer of hardcore bouyon gwada, from the Vadore Concept circle. Present at the first bouyon performance in Paris in December 2012 according to Rebel Up, which reports he was stabbed to death in May 2013 and that his funeral was celebrated in bouyon style.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Never Stop Di Bouyon"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

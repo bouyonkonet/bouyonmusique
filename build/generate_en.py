@@ -130,9 +130,9 @@ for p in PAGES:
 </div></main>
 <footer>
   <div class="wrap cols">
-    <div><h4>BouyonMusique.com</h4><p>The home of bouyon music in French and English. Published by Bouyon Shattaz.</p></div>
+    <div><h4>BouyonMusique.com</h4><p>The home of bouyon music in French and English. Published by Bouyon Shattaz. Quotes welcome with a link to the source page.</p></div>
     <div><h4>English pages</h4><ul><li><a href="/en/bouyon-music.html">What is bouyon music</a></li><li><a href="/en/history.html">History of bouyon</a></li><li><a href="/en/artists.html">Bouyon artists</a></li><li><a href="/en/playlist.html">Bouyon playlist</a></li><li><a href="/en/bouyon-soca.html">Bouyon soca</a></li><li><a href="/en/dominica-carnival.html">Dominica Carnival</a></li></ul></div>
-    <div><h4>Bouyon Shattaz</h4><ul><li><a href="https://bouyonshattaz.com/">bouyonshattaz.com</a></li><li><a href="https://www.instagram.com/bouyonshattaz/">Instagram @bouyonshattaz</a></li><li><a href="/">Version française</a></li></ul></div>
+    <div><h4>Bouyon Shattaz</h4><ul><li><a href="https://bouyonshattaz.com/">bouyonshattaz.com</a></li><li><a href="https://bouyonsoca.com/">BouyonSoca: Caribbean artist catalogs</a></li><li><a href="https://smokiller.com/">Smokiller: bouyon riddims and remixes</a></li><li><a href="https://www.instagram.com/bouyonshattaz/">Instagram @bouyonshattaz</a></li><li><a href="/">Version française</a></li></ul></div>
   </div>
   <div class="wrap"><p style="margin-top:24px">© 2026 Bouyon Shattaz. Bouyon was born in Dominica.</p></div>
 </footer>

@@ -73,14 +73,125 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est DJ Luchshiy ?", "DJ Luchshiy est un producteur bouyon actif depuis 2023 sur son label LUCHSHIY AND BRO. Son nom de credits, publie par Shazam sur la majorite de ses titres, est Corane Vincent. Ses collaborations principales sont Lestef, Edday et Reo, et ses titres de reference sont XMAS FREESTYLE et CHABIN, sortis le 22 decembre 2023."),
-  ("Quels sont les titres les plus connus de DJ Luchshiy ?", "XMAS FREESTYLE et CHABIN, avec Lestef et Edday, sortis le 22 decembre 2023 sur LUCHSHIY AND BRO. Dans les listings controles pendant cette recherche, la fiche de XMAS FREESTYLE affichait 28 400 ecoutes Shazam et celle de CHABIN 8 703. Le catalogue comprend aussi KKM avec AKNOSE, BOUNCE avec DJ SOFTEE et 6 Dwet avec LESTEF KJF."),
-  ("Pourquoi Xmas Freestyle dure t il 28 minutes dans une compilation ?", "Parce que la compilation Summer Of Carnivals, Vol. 1, publiee par DSM Music et Monk Music, reprend Xmas Freestyle comme un seul titre de 28 minutes et 54 secondes, avec Edday et LeStef en featuring et Luchshiy And Bro a la production. Sur les plateformes, le meme projet de decembre 2023 circule en titres separes, dont XMAS FREESTYLE et CHABIN. Le projet a donc deux formes : session longue pour les compilations et les DJ, singles pour le streaming."),
-  ("Quel est le lien entre DJ Luchshiy et Reo ?", "DJ Luchshiy a produit Dj luchshiy wifi freestyle, publie par Reo le 22 fevrier 2025 sur Reo music Ent., avec Edday, Jixel et Dj luchshiy. Les credits donnent DJ LUCHSHIY a la production et Jixel au piano. Les tracklists de mixes de la scene creditent aussi un titre commun, You Mad, a Reo, DJ Luchshiy, Jixel et Edday."),
-  ("DJ Luchshiy est il un artiste russe ?", "Non, pas celui de ce profil. Luchshiy est un mot russe courant qui signifie le meilleur, et les moteurs de recherche melangent des artistes russophones sans rapport avec le bouyon. Le DJ Luchshiy de ce profil est celui du label LUCHSHIY AND BRO, des credits Corane Vincent et des collaborations avec Lestef, Edday et Reo. Aucun fait des homonymes n'est utilise ici."),
-  ("Ou ecouter DJ Luchshiy ?", "Commencez par CHABIN et XMAS FREESTYLE, puis KKM, 6 Dwet et le Dj luchshiy wifi freestyle de Reo sur les plateformes de streaming, et prolongez avec notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, qui melange bouyon, bouyon soca et nouveautes de la Dominique et des Antilles francaises.")
- ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/dj-luchshiy.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/dj-luchshiy.html#artist", "name": "DJ Luchshiy", "description": "Producteur bouyon actif depuis 2023 sur le label LUCHSHIY AND BRO. Nom de credits publie : Corane Vincent. Titres de reference : XMAS FREESTYLE et CHABIN avec Lestef et Edday, sortis le 22 decembre 2023.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "KKM"}, {"@type": "MusicRecording", "name": "XMAS FREESTYLE"}, {"@type": "MusicRecording", "name": "CHABIN"}, {"@type": "MusicRecording", "name": "Make it pop"}, {"@type": "MusicRecording", "name": "BOUNCE"}, {"@type": "MusicRecording", "name": "6 Dwet"}, {"@type": "MusicRecording", "name": "Dj luchshiy wifi freestyle"}, {"@type": "MusicRecording", "name": "Mi Boss LA"}, {"@type": "MusicRecording", "name": "Shake It"}, {"@type": "MusicRecording", "name": "You Mad"}, {"@type": "MusicRecording", "name": "NO COME BACK (WHATCHA SAY)"}, {"@type": "MusicRecording", "name": "TAKE UR TIME"}], "sameAs": []}}],
+  (
+    "Qui est DJ Luchshiy ?",
+    "DJ Luchshiy est un producteur bouyon actif depuis 2023 sur son label LUCHSHIY AND BRO. Son nom de crédits, publié par Shazam sur la majorité de ses titres, est Corane Vincent. Ses collaborations principales sont Lestef, Edday et Reo, et ses titres de référence sont XMAS FREESTYLE et CHABIN, sortis le 22 décembre 2023.",
+  ),
+  (
+    "D'où vient DJ Luchshiy ?",
+    "DJ Luchshiy appartient à la scène bouyon de la Guadeloupe : c'est le lieu de scène retenu par ce profil, appuyé sur son cercle de collaborateurs, Lestef et LESTEF KJF BOYZ, Edday, Aknose et Pinpin OSP. Ses titres tournent aussi dans des mixes qui mêlent cette scène à celle de la Dominique. Aucune ville de naissance n'est publiée, et la Guadeloupe nomme ici la scène, pas une naissance.",
+  ),
+  (
+    "Quels sont les titres les plus connus de DJ Luchshiy ?",
+    "XMAS FREESTYLE et CHABIN, avec Lestef et Edday, sortis le 22 décembre 2023 sur LUCHSHIY AND BRO. Dans les listings contrôlés pendant cette recherche, la fiche de XMAS FREESTYLE affichait 28 400 écoutes Shazam et celle de CHABIN 8 703. Le catalogue comprend aussi KKM avec AKNOSE, BOUNCE avec DJ SOFTEE et 6 Dwet avec LESTEF KJF.",
+  ),
+  (
+    "Qui a produit Xmas Freestyle de DJ Luchshiy ?",
+    "XMAS FREESTYLE est produit par Luchshiy And Bro et écrit par Corane Vincent, selon les crédits publiés par Shazam et repris dans la compilation Summer Of Carnivals, Vol. 1. Il sort le 22 décembre 2023 sur le label LUCHSHIY AND BRO, avec Lestef et Edday. CHABIN, issu du même projet et sorti le même jour, est lui aussi écrit par Corane Vincent.",
+  ),
+  (
+    "Pourquoi Xmas Freestyle dure-t-il 28 minutes dans une compilation ?",
+    "Parce que la compilation Summer Of Carnivals, Vol. 1, publiée par DSM Music et Monk Music, reprend Xmas Freestyle comme un seul titre de 28 minutes et 54 secondes, avec Edday et LeStef en featuring et Luchshiy And Bro à la production. Sur les plateformes, le même projet de décembre 2023 circule en titres séparés, dont XMAS FREESTYLE et CHABIN : session longue pour les DJ, singles pour le streaming.",
+  ),
+  (
+    "Corane Vincent et DJ Luchshiy, est-ce la même personne ?",
+    "C'est la lecture retenue par ce profil : Corane Vincent est le nom de crédits publié derrière DJ Luchshiy. Il signe l'écriture de KKM, XMAS FREESTYLE et CHABIN, la programmation et la composition de 6 Dwet, et sur Make it pop les deux noms, Luchshiy et Corane Vincent, sont crédités côte à côte. Voir aussi notre page <a href=\"/corane-vincent.html\">Corane Vincent</a>.",
+  ),
+  (
+    "Quel est le premier titre de DJ Luchshiy ?",
+    "Le premier titre daté de son catalogue contrôlé est KKM, avec AKNOSE, sorti le 24 avril 2023 sur LUCHSHIY AND BRO, à 160 BPM. L'écriture est créditée à Corane Vincent et Gael Rampath. La formule du producteur est déjà en place : son propre label, une voix invitée de la scène bouyon guadeloupéenne et le tempo du bouyon moderne.",
+  ),
+  (
+    "Quel est le lien entre DJ Luchshiy et Reo ?",
+    "DJ Luchshiy a produit Dj luchshiy wifi freestyle, publié par Reo le 22 février 2025 sur Reo music Ent., avec Edday, Jixel et Dj luchshiy. Les crédits donnent DJ LUCHSHIY à la production et Jixel au piano. Les tracklists de mixes de la scène créditent aussi un titre commun, You Mad, à Reo, DJ Luchshiy, Jixel et Edday.",
+  ),
+  (
+    "Quels titres DJ Luchshiy a-t-il faits avec Lestef ?",
+    "Lestef est sa voix la plus fidèle : XMAS FREESTYLE et CHABIN en 2023, puis, avec son groupe LESTEF KJF BOYZ, NO COME BACK (WHATCHA SAY) en single de 2025 et TAKE UR TIME en single de 2026. DJ Luchshiy figure aussi sur 6 Dwet de LESTEF KJF et Totally Spice's. Voir notre page <a href=\"/lestef-kjf-boyz.html\">Lestef KJF Boyz</a>.",
+  ),
+  (
+    "Qu'est-ce que 6 Dwet ?",
+    "6 Dwet est un titre de LESTEF KJF et Totally Spice's avec DJ Luchshiy en featuring, sorti le 15 février 2025 sur le label Dreamtracks, en français, à 160 BPM. Les crédits publiés donnent Naima Dimina et Carcheline Cereme aux paroles, Corane Vincent à la programmation et à la composition avec Stephane Cornano, et Yoan Courcet à l'arrangement et à la production.",
+  ),
+  (
+    "À quel tempo sont les titres de DJ Luchshiy ?",
+    "À 160 BPM, le tempo signature du bouyon moderne. KKM, CHABIN, BOUNCE et 6 Dwet sont tous fichés à ce tempo, ce qui permet aux DJ de les enchaîner avec le répertoire actuel. Les tracklists de Sewo Jam et des podcasts de Blaqrose Supreme et DJ Close Connections les placent en plein mix, entre Signal Band, Trilla-G, Reo et Miimii KDS.",
+  ),
+  (
+    "DJ Luchshiy est-il un artiste russe ?",
+    "Non, pas celui de ce profil. Luchshiy est un mot russe courant qui signifie le meilleur, et les moteurs de recherche mélangent des artistes russophones sans rapport avec le bouyon. Le DJ Luchshiy de ce profil est celui du label LUCHSHIY AND BRO, des crédits Corane Vincent et des collaborations avec Lestef, Edday et Reo. Aucun fait des homonymes n'est utilisé ici.",
+  ),
+  (
+    "Où écouter DJ Luchshiy ?",
+    "Commencez par CHABIN et XMAS FREESTYLE, puis KKM, 6 Dwet et le Dj luchshiy wifi freestyle de Reo sur les plateformes de streaming. Pour suivre la scène, notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> réunit les nouveautés de la Dominique et des Antilles françaises : suivez @bouyonshattaz sur Instagram et commentez ROAD MIX sous une publication pour recevoir la Bouyon Road Mix en DM.",
+  )
+],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/dj-luchshiy.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/dj-luchshiy.html#artist", "name": "DJ Luchshiy", "description": "Producteur bouyon actif depuis 2023 sur le label LUCHSHIY AND BRO. Nom de credits publie : Corane Vincent. Titres de reference : XMAS FREESTYLE et CHABIN avec Lestef et Edday, sortis le 22 decembre 2023.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "KKM"}, {"@type": "MusicRecording", "name": "XMAS FREESTYLE"}, {"@type": "MusicRecording", "name": "CHABIN"}, {"@type": "MusicRecording", "name": "Make it pop"}, {"@type": "MusicRecording", "name": "BOUNCE"}, {"@type": "MusicRecording", "name": "6 Dwet"}, {"@type": "MusicRecording", "name": "Dj luchshiy wifi freestyle"}, {"@type": "MusicRecording", "name": "Mi Boss LA"}, {"@type": "MusicRecording", "name": "Shake It"}, {"@type": "MusicRecording", "name": "You Mad"}, {"@type": "MusicRecording", "name": "NO COME BACK (WHATCHA SAY)"}, {"@type": "MusicRecording", "name": "TAKE UR TIME"},
+      {
+       "@type": "MusicRecording",
+       "name": "X PRESS FREESTYLE (LIVE) (feat. EDDAY & LESTEF KFJ)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MADA A PA BBL (feat. EDDAY & LESTEF KJF)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "IN DI MORNING CHAMPAGNE (feat. EDDAY & LESTEF KJF)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DON'T TAKE IT BACK (feat. EDDAY & LESTEF KJF)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "CRAZY LOVE (feat. SOFTEE)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MONS (feat. LESTEF & EDDAY)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BACKSHOT (feat. RITA)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fly (feat. Dj Luchshiy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PINPON RIDDIM (feat. DJ LUCHSHIY, Fredo Pichi, Lewismelo & Dcamp)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DANJÉRÈZ (feat. DJ LUCHSHIY) (BOUYONMON KREYOL VERSION)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PXRNSTAR (feat. DJ LUCHSHIY) (BOUYONMON ENGLISH VERSION)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Call me (feat. Dj Luchshiy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Yo wont (feat. Dj luchshiy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Toto - Chaben - Monss"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ZETWAL (feat. TybiProduction & DJ LUCHSHIY)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LIKE YOU (feat. DJ LUCHSHIY) (BOUYON 2027)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -150,13 +261,124 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is DJ Luchshiy?", "DJ Luchshiy is a bouyon producer active since 2023 on his LUCHSHIY AND BRO label. His credits name, published by Shazam on most of his records, is Corane Vincent. His main collaborations are Lestef, Edday and Reo, and his reference records are XMAS FREESTYLE and CHABIN, released on 22 December 2023."),
-  ("What are DJ Luchshiy best known records?", "XMAS FREESTYLE and CHABIN, with Lestef and Edday, released on 22 December 2023 on LUCHSHIY AND BRO. In the listings checked during this research, the XMAS FREESTYLE listing showed 28,400 Shazams and the CHABIN listing 8,703. The catalogue also includes KKM with AKNOSE, BOUNCE with DJ SOFTEE and 6 Dwet with LESTEF KJF."),
-  ("Why does Xmas Freestyle run 28 minutes on one compilation?", "Because the Summer Of Carnivals, Vol. 1 compilation, released by DSM Music and Monk Music, carries Xmas Freestyle as a single track of 28 minutes and 54 seconds, with Edday and LeStef featured and Luchshiy And Bro as producer. On the platforms, the same December 2023 project travels as separate tracks, including XMAS FREESTYLE and CHABIN. The project therefore has two forms: a long session for compilations and DJs, and singles for streaming."),
-  ("What is the link between DJ Luchshiy and Reo?", "DJ Luchshiy produced Dj luchshiy wifi freestyle, released by Reo on 22 February 2025 on Reo music Ent., with Edday, Jixel and Dj luchshiy. The credits give DJ LUCHSHIY as producer and Jixel on piano. Scene mixtape tracklists also credit a shared record, You Mad, to Reo, DJ Luchshiy, Jixel and Edday."),
-  ("Is DJ Luchshiy a Russian artist?", "No, not the one in this profile. Luchshiy is a common Russian word meaning the best, and search engines mix in Russian language artists with no connection to bouyon. The DJ Luchshiy in this profile is the one from the LUCHSHIY AND BRO label, the Corane Vincent credits and the collaborations with Lestef, Edday and Reo. No fact from the namesakes is used here."),
-  ("Where can I hear DJ Luchshiy?", "Start with CHABIN and XMAS FREESTYLE, then KKM, 6 Dwet and Reo Dj luchshiy wifi freestyle on the streaming platforms, and continue with our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, which mixes bouyon, bouyon soca and new releases from Dominica and the French Antilles.")
- ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/dj-luchshiy.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/dj-luchshiy.html#artist", "name": "DJ Luchshiy", "description": "Bouyon producer active since 2023 on the LUCHSHIY AND BRO label. Published credits name: Corane Vincent. Reference records: XMAS FREESTYLE and CHABIN with Lestef and Edday, released 22 December 2023.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "KKM"}, {"@type": "MusicRecording", "name": "XMAS FREESTYLE"}, {"@type": "MusicRecording", "name": "CHABIN"}, {"@type": "MusicRecording", "name": "Make it pop"}, {"@type": "MusicRecording", "name": "BOUNCE"}, {"@type": "MusicRecording", "name": "6 Dwet"}, {"@type": "MusicRecording", "name": "Dj luchshiy wifi freestyle"}, {"@type": "MusicRecording", "name": "Mi Boss LA"}, {"@type": "MusicRecording", "name": "Shake It"}, {"@type": "MusicRecording", "name": "You Mad"}, {"@type": "MusicRecording", "name": "NO COME BACK (WHATCHA SAY)"}, {"@type": "MusicRecording", "name": "TAKE UR TIME"}], "sameAs": []}}],
+  (
+    "Who is DJ Luchshiy?",
+    "DJ Luchshiy is a bouyon producer active since 2023 on his LUCHSHIY AND BRO label. His credits name, published by Shazam on most of his records, is Corane Vincent. His main collaborations are Lestef, Edday and Reo, and his reference records are XMAS FREESTYLE and CHABIN, released on 22 December 2023.",
+  ),
+  (
+    "Where is DJ Luchshiy from?",
+    "DJ Luchshiy belongs to the Guadeloupe bouyon scene: that is the scene place this profile uses, based on his collaborator circle, Lestef and LESTEF KJF BOYZ, Edday, Aknose and Pinpin OSP. His records also play in mixes that blend that scene with the Dominica scene. No birth town is published, and Guadeloupe here names the scene, not a birthplace.",
+  ),
+  (
+    "What are DJ Luchshiy's best known records?",
+    "XMAS FREESTYLE and CHABIN, with Lestef and Edday, released on 22 December 2023 on LUCHSHIY AND BRO. In the listings checked during this research, the XMAS FREESTYLE listing showed 28,400 Shazams and the CHABIN listing 8,703. The catalogue also includes KKM with AKNOSE, BOUNCE with DJ SOFTEE and 6 Dwet with LESTEF KJF.",
+  ),
+  (
+    "Who produced DJ Luchshiy's Xmas Freestyle?",
+    "XMAS FREESTYLE is produced by Luchshiy And Bro and written by Corane Vincent, according to the credits published by Shazam and repeated on the Summer Of Carnivals, Vol. 1 compilation. It came out on 22 December 2023 on the LUCHSHIY AND BRO label, with Lestef and Edday. CHABIN, from the same project and released the same day, is also written by Corane Vincent.",
+  ),
+  (
+    "Why does Xmas Freestyle run 28 minutes on one compilation?",
+    "Because the Summer Of Carnivals, Vol. 1 compilation, released by DSM Music and Monk Music, carries Xmas Freestyle as a single track of 28 minutes and 54 seconds, with Edday and LeStef featured and Luchshiy And Bro as producer. On the platforms, the same December 2023 project travels as separate tracks, including XMAS FREESTYLE and CHABIN: a long session for DJs, singles for streaming.",
+  ),
+  (
+    "Are Corane Vincent and DJ Luchshiy the same person?",
+    "That is the reading this profile keeps: Corane Vincent is the published credits name behind DJ Luchshiy. The name signs the writing of KKM, XMAS FREESTYLE and CHABIN, the programming and composition of 6 Dwet, and on Make it pop both names, Luchshiy and Corane Vincent, are credited side by side. See also our <a href=\"/en/corane-vincent.html\">Corane Vincent</a> page.",
+  ),
+  (
+    "What was DJ Luchshiy's first record?",
+    "The first dated record in his checked catalogue is KKM, with AKNOSE, released on 24 April 2023 on LUCHSHIY AND BRO, at 160 BPM. Writing is credited to Corane Vincent and Gael Rampath. The producer's formula is already in place: his own label, a guest voice from the Guadeloupe bouyon scene and the tempo of modern bouyon.",
+  ),
+  (
+    "What is the link between DJ Luchshiy and Reo?",
+    "DJ Luchshiy produced Dj luchshiy wifi freestyle, released by Reo on 22 February 2025 on Reo music Ent., with Edday, Jixel and Dj luchshiy. The credits give DJ LUCHSHIY as producer and Jixel on piano. Scene mixtape tracklists also credit a shared record, You Mad, to Reo, DJ Luchshiy, Jixel and Edday.",
+  ),
+  (
+    "What songs has DJ Luchshiy made with Lestef?",
+    "Lestef is his most loyal voice: XMAS FREESTYLE and CHABIN in 2023, then, with his group LESTEF KJF BOYZ, NO COME BACK (WHATCHA SAY) as a 2025 single and TAKE UR TIME as a 2026 single. DJ Luchshiy also features on 6 Dwet by LESTEF KJF and Totally Spice's. See our <a href=\"/en/lestef-kjf-boyz.html\">Lestef KJF Boyz</a> page.",
+  ),
+  (
+    "What is 6 Dwet?",
+    "6 Dwet is a record by LESTEF KJF and Totally Spice's featuring DJ Luchshiy, released on 15 February 2025 on the Dreamtracks label, in French, at 160 BPM. The published credits give Naima Dimina and Carcheline Cereme on lyrics, Corane Vincent on programming and composition with Stephane Cornano, and Yoan Courcet on arrangement and production.",
+  ),
+  (
+    "What tempo are DJ Luchshiy's records?",
+    "160 BPM, the signature tempo of modern bouyon. KKM, CHABIN, BOUNCE and 6 Dwet are all listed at that tempo, which lets DJs chain them with the current repertoire. The Sewo Jam tracklist and the Blaqrose Supreme and DJ Close Connections podcasts place them mid mix, between records by Signal Band, Trilla-G, Reo and Miimii KDS.",
+  ),
+  (
+    "Is DJ Luchshiy a Russian artist?",
+    "No, not the one in this profile. Luchshiy is a common Russian word meaning the best, and search engines mix in Russian language artists with no connection to bouyon. The DJ Luchshiy in this profile is the one from the LUCHSHIY AND BRO label, the Corane Vincent credits and the collaborations with Lestef, Edday and Reo. No fact from the namesakes is used here.",
+  ),
+  (
+    "Where can I hear DJ Luchshiy?",
+    "Start with CHABIN and XMAS FREESTYLE, then KKM, 6 Dwet and Reo's Dj luchshiy wifi freestyle on the streaming platforms. To follow the scene, our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> gathers new releases from Dominica and the French Antilles: follow @bouyonshattaz on Instagram and comment ROAD MIX under a post to receive the Bouyon Road Mix by DM.",
+  )
+],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/dj-luchshiy.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/dj-luchshiy.html#artist", "name": "DJ Luchshiy", "description": "Bouyon producer active since 2023 on the LUCHSHIY AND BRO label. Published credits name: Corane Vincent. Reference records: XMAS FREESTYLE and CHABIN with Lestef and Edday, released 22 December 2023.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "KKM"}, {"@type": "MusicRecording", "name": "XMAS FREESTYLE"}, {"@type": "MusicRecording", "name": "CHABIN"}, {"@type": "MusicRecording", "name": "Make it pop"}, {"@type": "MusicRecording", "name": "BOUNCE"}, {"@type": "MusicRecording", "name": "6 Dwet"}, {"@type": "MusicRecording", "name": "Dj luchshiy wifi freestyle"}, {"@type": "MusicRecording", "name": "Mi Boss LA"}, {"@type": "MusicRecording", "name": "Shake It"}, {"@type": "MusicRecording", "name": "You Mad"}, {"@type": "MusicRecording", "name": "NO COME BACK (WHATCHA SAY)"}, {"@type": "MusicRecording", "name": "TAKE UR TIME"},
+      {
+       "@type": "MusicRecording",
+       "name": "X PRESS FREESTYLE (LIVE) (feat. EDDAY & LESTEF KFJ)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MADA A PA BBL (feat. EDDAY & LESTEF KJF)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "IN DI MORNING CHAMPAGNE (feat. EDDAY & LESTEF KJF)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DON'T TAKE IT BACK (feat. EDDAY & LESTEF KJF)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "CRAZY LOVE (feat. SOFTEE)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MONS (feat. LESTEF & EDDAY)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BACKSHOT (feat. RITA)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fly (feat. Dj Luchshiy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PINPON RIDDIM (feat. DJ LUCHSHIY, Fredo Pichi, Lewismelo & Dcamp)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DANJÉRÈZ (feat. DJ LUCHSHIY) (BOUYONMON KREYOL VERSION)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PXRNSTAR (feat. DJ LUCHSHIY) (BOUYONMON ENGLISH VERSION)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Call me (feat. Dj Luchshiy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Yo wont (feat. Dj luchshiy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Toto - Chaben - Monss"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ZETWAL (feat. TybiProduction & DJ LUCHSHIY)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LIKE YOU (feat. DJ LUCHSHIY) (BOUYON 2027)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

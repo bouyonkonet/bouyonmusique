@@ -78,13 +78,59 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Magbeatz ?", "Un producteur et musicien de la scène bouyon des Antilles françaises, documenté uniquement par ses crédits. Il produit « Copain Copine » et « Make It Clap » pour LGC en 2025, partage quatre singles avec Billy BYBF entre novembre 2025 et mars 2026 comme interprète crédité et ingénieur d’enregistrement, compose pour Coryy, Malcolm et Lala &Ce, et joue du clavier sur scène à Paris en octobre 2026. Aucune source consultée ne donne son nom civil, son origine ou sa biographie."),
-  ("Quels titres Magbeatz a-t-il produits pour LGC ?", "Deux singles de 2025, où il est le seul nom crédité à la production sur les fiches Shazam. « Copain Copine », avec Dézod en featuring, sorti le 3 janvier 2025 chez LGC Music, en français et à 160 BPM, écrit par Dany David Ledreck, Jean Gardiole, Déreck Ciani et O’neal Chatelot. Et « Make It Clap », sorti le 30 mai 2025 chez Minibertol et Jano, écrit par O’neal Chatelot, Dany Ledreck et Jean Gardiole."),
-  ("Quel est le rôle de Magbeatz sur les singles de Billy BYBF ?", "Un rôle différent de celui des titres LGC, et les fiches le distinguent. Sur « Elle Veut », « BAW SA (SANTA BAYOBONFÈ) », « SPOUTNIK (BING BANG) » et « BDKMV », sortis sous le double nom Billy Bybf et MAGBEATZ, il est interprète crédité et ingénieur d’enregistrement, pendant que Billy BYBF est crédité producteur et que Fabien Aurela et O’neal Chatelot signent l’écriture. Il ne faut donc pas lire le nom partagé comme un crédit de production."),
-  ("Pour quels autres artistes Magbeatz a-t-il composé ?", "Trois crédits de composition ont été vérifiés sur Deezer. « Tek » de Coryy, composé avec Olid. « SAFE PLACE (TAKE MY MONEY) » de Malcolm, sorti le 10 juin 2026 chez Triple-Double Production, composé avec Atox. Et « belElou » de Lala &Ce, avec Ricky Bishop en featuring, sur l’album « oAsis 2 » paru le 19 juin 2026 chez SPKTAQLR et Sony Music Entertainment France, où Magbeatz est le seul compositeur crédité du titre."),
-  ("Magbeatz joue-t-il sur scène ?", "Oui, au clavier, selon un document de billetterie vérifié. La page Shotgun de la soirée Pops Summer Club #2, organisée par Moviepopstarplanet le vendredi 16 octobre 2026 au 17 rue Tiquetonne à Paris, programme « MAGBEATZ AU KEYBOARD » parmi les performances exclusives, aux côtés de Billy BYBF, Zequin, Banklaady et Deezen, avec des DJ sets d’Atox, Wizi, Shae, Nols, Laflm et Trixboiii."),
-  ("Magbeatz et MegaBeats, est-ce la même personne ?", "Non, rien ne le dit et les dossiers sont séparés. MegaBeats, sans le g, est un producteur de la Dominique dont le site Dominica Festivals publie le nom civil, Danzel Dangleben, et un parcours propre. Le Magbeatz de ce profil est le nom des crédits LGC, Billy BYBF, Coryy, Malcolm et Lala &Ce, reliés entre eux par les auteurs O’neal Chatelot et Fabien Aurela. Magic Beatz, de Lisbonne, et MashBeatz, d’Afrique du Sud, sont deux autres noms voisins sans rapport.")
- ],
+  (
+    "Qui est Magbeatz ?",
+    "Magbeatz est un producteur et musicien de la scène bouyon des Antilles françaises, documenté uniquement par ses crédits. Il produit « Copain Copine » et « Make It Clap » pour LGC en 2025, partage quatre singles avec Billy BYBF entre novembre 2025 et mars 2026 comme interprète crédité et ingénieur d’enregistrement, compose pour Coryy, Malcolm et Lala &Ce, et joue du clavier sur scène à Paris en octobre 2026. Aucune source consultée ne donne son nom civil, son origine ou sa biographie.",
+  ),
+  (
+    "Quels titres Magbeatz a-t-il produits pour LGC ?",
+    "Deux singles de 2025, où il est le seul nom crédité à la production sur les fiches Shazam. « Copain Copine », avec Dézod en featuring, sorti le 3 janvier 2025 chez LGC Music, en français et à 160 BPM, écrit par Dany David Ledreck, Jean Gardiole, Déreck Ciani et O’neal Chatelot. Et « Make It Clap », sorti le 30 mai 2025 chez Minibertol et Jano, écrit par O’neal Chatelot, Dany Ledreck et Jean Gardiole.",
+  ),
+  (
+    "Qui a produit « Copain Copine » de LGC et Dézod ?",
+    "« Copain Copine » est produit par Magbeatz, seul nom crédité à la production sur la fiche Shazam du titre. Sorti le 3 janvier 2025 chez LGC Music, en français et à 160 BPM, avec un clip, il crédite LGC et Dézod aux chœurs. Avant lui, la production du catalogue documenté de <a href=\"/lgc.html\">LGC</a> revenait à DJ Taffy, sur « Fè Sa Fann » en 2024.",
+  ),
+  (
+    "Quels singles Magbeatz a-t-il sortis avec Billy BYBF ?",
+    "Quatre singles sous le double nom Billy Bybf et MAGBEATZ : « Elle Veut » le 19 novembre 2025, « BAW SA (SANTA BAYOBONFÈ) » le 28 décembre 2025 chez BYBF STUDIO, « SPOUTNIK (BING BANG) » le 10 mars 2026 chez BYBF STUDIO, et « BDKMV (Bitch, Don’t Kill My Vibe) » le 25 mars 2026. Tous durent environ deux minutes et sont écrits par Fabien Aurela et O’neal Chatelot.",
+  ),
+  (
+    "Quel est le rôle de Magbeatz sur les singles de Billy BYBF ?",
+    "Un rôle différent de celui des titres LGC, et les fiches le distinguent. Sur « Elle Veut », « BAW SA (SANTA BAYOBONFÈ) », « SPOUTNIK (BING BANG) » et « BDKMV », il est interprète crédité et ingénieur d’enregistrement, pendant que Billy BYBF est crédité producteur et que Fabien Aurela et O’neal Chatelot signent l’écriture. Il ne faut donc pas lire le nom partagé comme un crédit de production.",
+  ),
+  (
+    "Pour quels autres artistes Magbeatz a-t-il composé ?",
+    "Trois crédits de composition ont été vérifiés sur Deezer. « Tek » de Coryy, composé avec Olid. « SAFE PLACE (TAKE MY MONEY) » de Malcolm, sorti le 10 juin 2026 chez Triple-Double Production, composé avec Atox. Et « belElou » de Lala &Ce, avec Ricky Bishop en featuring, sur l’album « oAsis 2 » paru le 19 juin 2026 chez SPKTAQLR et Sony Music Entertainment France, où Magbeatz est le seul compositeur crédité du titre.",
+  ),
+  (
+    "Qui a composé « belElou » de Lala &Ce avec Ricky Bishop ?",
+    "« belElou » est composé par Magbeatz, seul nom au crédit de composition, et écrit par Lala &Ce, selon la fiche Deezer de l’album « oAsis 2 », paru le 19 juin 2026 chez SPKTAQLR et Sony Music Entertainment France. Le titre dure 2 minutes 28 et invite la voix bouyon de <a href=\"/ricky-bishop.html\">Ricky Bishop</a>. C’est le crédit le plus large en portée du dossier Magbeatz.",
+  ),
+  (
+    "Magbeatz joue-t-il sur scène ?",
+    "Oui, au clavier, selon un document de billetterie vérifié. La page Shotgun de la soirée Pops Summer Club #2, organisée par Moviepopstarplanet le vendredi 16 octobre 2026 au 17 rue Tiquetonne à Paris, programme « MAGBEATZ AU KEYBOARD » parmi les performances exclusives, aux côtés de Billy BYBF, Zequin, Banklaady et Deezen, avec des DJ sets d’Atox, Wizi, Shae, Nols, Laflm et Trixboiii.",
+  ),
+  (
+    "Quel est le lien entre Magbeatz et Team Bwè Tou Sa ?",
+    "Magbeatz travaille dans le même atelier d’écriture. O’neal Chatelot, auteur de ses deux productions pour LGC, écrit aussi avec Fabien Aurela les quatre singles du tandem Billy BYBF et Magbeatz : ce cercle est celui de <a href=\"/team-bwe-tou-sa.html\">Team Bwè Tou Sa</a> et de BYBF STUDIO. Aucune source ne le présente comme membre officiel, mais ses titres sortent au même tempo, 160 BPM, avec les mêmes auteurs.",
+  ),
+  (
+    "Magbeatz, MagBeatz ou MAGBEATZ : comment s’écrit son nom ?",
+    "Les trois graphies existent : Magbeatz sur Shazam, MAGBEATZ sur les singles Deezer de Billy BYBF, MagBeatz dans les crédits de compositeur. Ce profil les traite comme un seul crédit pour une raison documentée, la continuité des auteurs O’neal Chatelot et Fabien Aurela, puis les collaborations avec Atox et Billy BYBF. Si une source établit un jour deux personnes distinctes, la page sera corrigée.",
+  ),
+  (
+    "Magbeatz et MegaBeats, est-ce la même personne ?",
+    "Non, rien ne le dit et les dossiers sont séparés. MegaBeats, sans le g, est un producteur de la Dominique dont le site Dominica Festivals publie le nom civil, Danzel Dangleben, et un parcours propre. Le Magbeatz de ce profil est le nom des crédits LGC, Billy BYBF, Coryy, Malcolm et Lala &Ce, reliés entre eux par les auteurs O’neal Chatelot et Fabien Aurela. Magic Beatz, de Lisbonne, et MashBeatz, d’Afrique du Sud, sont deux autres noms voisins sans rapport.",
+  ),
+  (
+    "Magbeatz fait-il partie de la scène bouyon gwada ?",
+    "Son travail l’y rattache : les deux artistes centraux de ses crédits, LGC et Billy BYBF, appartiennent à la scène bouyon guadeloupéenne, ses titres sont en français et en créole à 160 BPM, et sa seule date de scène vérifiée se joue à Paris, devant la diaspora. Son origine personnelle n’est écrite dans aucune source consultée. Voir notre page <a href=\"/bouyon-gwada.html\">bouyon gwada</a>.",
+  ),
+  (
+    "Où écouter Magbeatz ?",
+    "Écoutez « Copain Copine » et « Make It Clap » de LGC pour la production, « Elle Veut », « BAW SA (SANTA BAYOBONFÈ) », « SPOUTNIK (BING BANG) » et « BDKMV » pour le tandem avec Billy BYBF, puis « Tek », « SAFE PLACE » et « belElou » pour la composition. Pour entendre la scène bouyon actuelle dans son ensemble, la Road Mix de notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> est le point d’entrée du site.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/magbeatz.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/magbeatz.html#artist", "name": "Magbeatz", "description": "Producteur, ingénieur d’enregistrement, compositeur et clavier de la scène bouyon des Antilles françaises, aussi écrit MagBeatz et MAGBEATZ. Producteur de Copain Copine et Make It Clap pour LGC en 2025, nom partagé de quatre singles avec Billy BYBF, compositeur pour Coryy, Malcolm et Lala &Ce. Aucun nom civil, aucune origine et aucune biographie publiés dans les sources consultées.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Copain Copine'}, {"@type": "MusicRecording", "name": 'Make It Clap'}, {"@type": "MusicRecording", "name": 'Elle Veut'}, {"@type": "MusicRecording", "name": 'BAW SA (SANTA BAYOBONFÈ)'}, {"@type": "MusicRecording", "name": 'SPOUTNIK (BING BANG)'}, {"@type": "MusicRecording", "name": "BDKMV (Bitch, Don't Kill My Vibe)"}, {"@type": "MusicRecording", "name": 'Tek'}, {"@type": "MusicRecording", "name": 'SAFE PLACE (TAKE MY MONEY)'}, {"@type": "MusicRecording", "name": 'belElou'}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -156,13 +202,59 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Magbeatz?", "A producer and musician of the French Antillean bouyon scene, documented only by his credits. He produces “Copain Copine” and “Make It Clap” for LGC in 2025, shares four singles with Billy BYBF between November 2025 and March 2026 as a credited performer and recording engineer, composes for Coryy, Malcolm and Lala &Ce, and plays keyboard live in Paris in October 2026. No source consulted gives his real name, his origin or his biography."),
-  ("Which records did Magbeatz produce for LGC?", "Two singles of 2025, where he is the only name credited on production on the Shazam listings. “Copain Copine”, featuring Dézod, released on January 3, 2025 on LGC Music, in French and at 160 BPM, written by Dany David Ledreck, Jean Gardiole, Déreck Ciani and O’neal Chatelot. And “Make It Clap”, released on May 30, 2025 on Minibertol and Jano, written by O’neal Chatelot, Dany Ledreck and Jean Gardiole."),
-  ("What is the role of Magbeatz on the Billy BYBF singles?", "A different role from the LGC records, and the listings distinguish it. On “Elle Veut”, “BAW SA (SANTA BAYOBONFÈ)”, “SPOUTNIK (BING BANG)” and “BDKMV”, released under the double name Billy Bybf and MAGBEATZ, he is a credited performer and the recording engineer, while Billy BYBF is credited as producer and Fabien Aurela and O’neal Chatelot sign the writing. The shared name must therefore not be read as a production credit."),
-  ("For which other artists has Magbeatz composed?", "Three composition credits were verified on Deezer. “Tek” by Coryy, composed with Olid. “SAFE PLACE (TAKE MY MONEY)” by Malcolm, released on June 10, 2026 on Triple-Double Production, composed with Atox. And “belElou” by Lala &Ce, featuring Ricky Bishop, on the album “oAsis 2” released on June 19, 2026 on SPKTAQLR and Sony Music Entertainment France, where Magbeatz is the only composer credited on the record."),
-  ("Does Magbeatz play live?", "Yes, on keyboard, according to a verified ticketing document. The Shotgun page of the party Pops Summer Club #2, organised by Moviepopstarplanet on Friday October 16, 2026 at 17 Rue Tiquetonne in Paris, bills “MAGBEATZ AU KEYBOARD” among the exclusive performances, alongside Billy BYBF, Zequin, Banklaady and Deezen, with DJ sets by Atox, Wizi, Shae, Nols, Laflm and Trixboiii."),
-  ("Are Magbeatz and MegaBeats the same person?", "No, nothing says so and the files are separate. MegaBeats, without the g, is a producer from Dominica whose real name, Danzel Dangleben, and whose own path are published by the Dominica Festivals site. The Magbeatz of this profile is the name on the LGC, Billy BYBF, Coryy, Malcolm and Lala &Ce credits, linked to each other by the writers O’neal Chatelot and Fabien Aurela. Magic Beatz, from Lisbon, and MashBeatz, from South Africa, are two other neighbouring names with no connection.")
- ],
+  (
+    "Who is Magbeatz?",
+    "Magbeatz is a producer and musician of the French Antillean bouyon scene, documented only by his credits. He produces “Copain Copine” and “Make It Clap” for LGC in 2025, shares four singles with Billy BYBF between November 2025 and March 2026 as a credited performer and recording engineer, composes for Coryy, Malcolm and Lala &Ce, and plays keyboard live in Paris in October 2026. No source consulted gives his real name, his origin or his biography.",
+  ),
+  (
+    "Which records did Magbeatz produce for LGC?",
+    "Two singles of 2025, where he is the only name credited on production on the Shazam listings. “Copain Copine”, featuring Dézod, released on January 3, 2025 on LGC Music, in French and at 160 BPM, written by Dany David Ledreck, Jean Gardiole, Déreck Ciani and O’neal Chatelot. And “Make It Clap”, released on May 30, 2025 on Minibertol and Jano, written by O’neal Chatelot, Dany Ledreck and Jean Gardiole.",
+  ),
+  (
+    "Who produced “Copain Copine” by LGC and Dézod?",
+    "“Copain Copine” was produced by Magbeatz, the only name credited on production on the Shazam listing of the record. Released on January 3, 2025 on LGC Music, in French and at 160 BPM, with a video, it credits LGC and Dézod on background vocals. Before him, the production of the documented <a href=\"/en/lgc.html\">LGC</a> catalog belonged to DJ Taffy, on “Fè Sa Fann” in 2024.",
+  ),
+  (
+    "Which singles did Magbeatz release with Billy BYBF?",
+    "Four singles under the double name Billy Bybf and MAGBEATZ: “Elle Veut” on November 19, 2025, “BAW SA (SANTA BAYOBONFÈ)” on December 28, 2025 on BYBF STUDIO, “SPOUTNIK (BING BANG)” on March 10, 2026 on BYBF STUDIO, and “BDKMV (Bitch, Don’t Kill My Vibe)” on March 25, 2026. All run about two minutes and are written by Fabien Aurela and O’neal Chatelot.",
+  ),
+  (
+    "What is the role of Magbeatz on the Billy BYBF singles?",
+    "A different role from the LGC records, and the listings distinguish it. On “Elle Veut”, “BAW SA (SANTA BAYOBONFÈ)”, “SPOUTNIK (BING BANG)” and “BDKMV”, he is a credited performer and the recording engineer, while Billy BYBF is credited as producer and Fabien Aurela and O’neal Chatelot sign the writing. The shared name must therefore not be read as a production credit.",
+  ),
+  (
+    "For which other artists has Magbeatz composed?",
+    "Three composition credits were verified on Deezer. “Tek” by Coryy, composed with Olid. “SAFE PLACE (TAKE MY MONEY)” by Malcolm, released on June 10, 2026 on Triple-Double Production, composed with Atox. And “belElou” by Lala &Ce, featuring Ricky Bishop, on the album “oAsis 2” released on June 19, 2026 on SPKTAQLR and Sony Music Entertainment France, where Magbeatz is the only composer credited on the record.",
+  ),
+  (
+    "Who composed “belElou” by Lala &Ce with Ricky Bishop?",
+    "“belElou” was composed by Magbeatz, the only name on the composition credit, and written by Lala &Ce, according to the Deezer listing of the album “oAsis 2”, released on June 19, 2026 on SPKTAQLR and Sony Music Entertainment France. The record runs 2 minutes 28 and brings in the bouyon voice of <a href=\"/en/ricky-bishop.html\">Ricky Bishop</a>. It is the widest reaching credit of the Magbeatz file.",
+  ),
+  (
+    "Does Magbeatz play live?",
+    "Yes, on keyboard, according to a verified ticketing document. The Shotgun page of the party Pops Summer Club #2, organised by Moviepopstarplanet on Friday October 16, 2026 at 17 Rue Tiquetonne in Paris, bills “MAGBEATZ AU KEYBOARD” among the exclusive performances, alongside Billy BYBF, Zequin, Banklaady and Deezen, with DJ sets by Atox, Wizi, Shae, Nols, Laflm and Trixboiii.",
+  ),
+  (
+    "What is the link between Magbeatz and Team Bwè Tou Sa?",
+    "Magbeatz works in the same writing workshop. O’neal Chatelot, a writer on both of his LGC productions, also writes with Fabien Aurela the four singles of the Billy BYBF and Magbeatz tandem: that circle is the one of <a href=\"/en/team-bwe-tou-sa.html\">Team Bwè Tou Sa</a> and BYBF STUDIO. No source presents him as an official member, but his records come out at the same tempo, 160 BPM, with the same writers.",
+  ),
+  (
+    "Magbeatz, MagBeatz or MAGBEATZ: how is his name spelled?",
+    "All three spellings exist: Magbeatz on Shazam, MAGBEATZ on the Billy BYBF singles on Deezer, MagBeatz in the composer credits. This profile treats them as one credit for a documented reason, the continuity of the writers O’neal Chatelot and Fabien Aurela, then the collaborations with Atox and Billy BYBF. If a source one day establishes two distinct people, the page will be corrected.",
+  ),
+  (
+    "Are Magbeatz and MegaBeats the same person?",
+    "No, nothing says so and the files are separate. MegaBeats, without the g, is a producer from Dominica whose real name, Danzel Dangleben, and whose own path are published by the Dominica Festivals site. The Magbeatz of this profile is the name on the LGC, Billy BYBF, Coryy, Malcolm and Lala &Ce credits, linked to each other by the writers O’neal Chatelot and Fabien Aurela. Magic Beatz, from Lisbon, and MashBeatz, from South Africa, are two other neighbouring names with no connection.",
+  ),
+  (
+    "Is Magbeatz part of the bouyon gwada scene?",
+    "His work ties him to it: the two central artists of his credits, LGC and Billy BYBF, belong to the Guadeloupe bouyon scene, his records are in French and Creole at 160 BPM, and his only verified live date plays in Paris, in front of the diaspora. His personal origin is written in no source consulted. See our <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a> page.",
+  ),
+  (
+    "Where can I hear Magbeatz?",
+    "Hear “Copain Copine” and “Make It Clap” by LGC for the production, “Elle Veut”, “BAW SA (SANTA BAYOBONFÈ)”, “SPOUTNIK (BING BANG)” and “BDKMV” for the tandem with Billy BYBF, then “Tek”, “SAFE PLACE” and “belElou” for the composition. To hear the current bouyon scene as a whole, the Road Mix on our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> page is the site entry point.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/magbeatz.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/magbeatz.html#artist", "name": "Magbeatz", "description": "Producer, recording engineer, composer and keyboard player of the French Antillean bouyon scene, also spelled MagBeatz and MAGBEATZ. Producer of Copain Copine and Make It Clap for LGC in 2025, shared name on four singles with Billy BYBF, composer for Coryy, Malcolm and Lala &Ce. No real name, no origin and no biography published in the sources consulted.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Copain Copine'}, {"@type": "MusicRecording", "name": 'Make It Clap'}, {"@type": "MusicRecording", "name": 'Elle Veut'}, {"@type": "MusicRecording", "name": 'BAW SA (SANTA BAYOBONFÈ)'}, {"@type": "MusicRecording", "name": 'SPOUTNIK (BING BANG)'}, {"@type": "MusicRecording", "name": "BDKMV (Bitch, Don't Kill My Vibe)"}, {"@type": "MusicRecording", "name": 'Tek'}, {"@type": "MusicRecording", "name": 'SAFE PLACE (TAKE MY MONEY)'}, {"@type": "MusicRecording", "name": 'belElou'}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

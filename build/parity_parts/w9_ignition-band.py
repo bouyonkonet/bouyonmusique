@@ -89,13 +89,59 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Ignition Band ?", "Ignition Band est un groupe de la scène bouyon dominicaine dont le dossier public vérifié compte deux traces : un titre, « Taste De Waist », en dixième position du mix bouyon 2020 « D Riddim Box » d’Original DJ-Sly, et une programmation officielle avec Erwinchy à la grande finale de Ti Vilaj Kwéyòl 2026. Aucune biographie vérifiée, aucun membre nommé et aucune date de fondation n’ont été retrouvés en octobre 2026."),
-  ("Quel est le titre vérifié d’Ignition Band ?", "Un seul titre, relevé dans une tracklist publiée : « Taste De Waist », dixième titre de « D Riddim Box », le mix d’Original DJ-Sly présenté comme le meilleur du bouyon 2020, entre des titres de Ridge, Triple Kay Band, Signal Band et Asa Bantan. Aucun autre titre n’est listé ici, faute de source vérifiable, et aucune fiche de streaming de ce titre n’a été retrouvée."),
-  ("Ignition Band joue t il à Ti Vilaj Kwéyòl 2026, et quand exactement ?", "Oui, selon le programme officiel publié par le ministère du Tourisme et Discover Dominica : le jeudi 22 octobre 2026, jour de la grande finale aux Jardins botaniques de Roseau, le programme annonce « Ignition and Erwinchy » à 14 h 32, entre Explosive Band et Derick « Rah » Peters, sur une journée clôturée par Shelly et Signal Band. C’est le type de précision datée sur lequel ce profil s’appuie."),
-  ("Qui est Erwinchy, programmé avec Ignition Band ?", "Erwinchy est un artiste de la scène bouyon relevé dans les tracklists des mixes Sewo Jam et Blaqrose Supreme, avec des titres en duo avec Gwada G et Kross Beatz. Le programme de Ti Vilaj Kwéyòl 2026 associe les deux noms sous la forme « Ignition and Erwinchy », sans préciser s’il s’agit d’un duo, d’un groupe d’accompagnement ou d’un plateau partagé, et ce profil ne tranche pas ce que la source ne précise pas. Voir notre profil d <a href=\"/erwinchy.html\">Erwinchy</a>."),
-  ("Ignition Band a t il une page Spotify ou un compte officiel ?", "Aucun compte officiel vérifié et aucune page d’artiste rattachée au groupe dominicain n’ont été confirmés pendant la recherche d’octobre 2026 sur les plateformes consultées. Un groupe américain de reprises rock porte le même nom dans les sources ouvertes, sans rapport documenté avec la scène dominicaine. Cette page ne lie donc aucun profil, et le champ sameAs de son schéma reste vide."),
-  ("Où écouter le bouyon de la génération d’Ignition Band ?", "Commencez par la tracklist publiée de « D Riddim Box », qui aligne Ignition Band avec Trilla G, Triple Kay, Signal Band et Asa Bantan pour la saison 2020, puis lisez notre page <a href=\"/bouyon-soca.html\">bouyon soca</a> et écoutez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, qui suit la scène dominicaine actuelle suivie par Bouyon Shattaz.")
- ],
+  (
+    "Qui est Ignition Band ?",
+    "Ignition Band est un groupe de la scène bouyon dominicaine dont le dossier public vérifié compte deux traces : un titre, « Taste De Waist », en dixième position du mix bouyon 2020 « D Riddim Box » d’Original DJ-Sly, et une programmation officielle avec Erwinchy à la grande finale de Ti Vilaj Kwéyòl 2026. Aucune biographie vérifiée, aucun membre nommé et aucune date de fondation n’ont été retrouvés en octobre 2026.",
+  ),
+  (
+    "D’où vient Ignition Band ?",
+    "Ignition Band appartient à la scène bouyon de la Dominique : son titre de 2020 tournait dans un mix de nouveautés venues pour la plupart de la Dominique, et son créneau de 2026 est programmé aux Jardins botaniques de Roseau par le ministère du Tourisme. Aucune source ne publie en revanche de village ou de quartier d’origine au delà de ces affiches de Roseau.",
+  ),
+  (
+    "Quel est le titre vérifié d’Ignition Band ?",
+    "Un seul titre, relevé dans une tracklist publiée : « Taste De Waist », dixième titre de « D Riddim Box », le mix d’Original DJ-Sly présenté comme le meilleur du bouyon 2020, entre des titres de Ridge, Triple Kay Band, Signal Band et Asa Bantan. Aucun autre titre n’est listé ici, faute de source vérifiable, et aucune fiche de streaming de ce titre n’a été retrouvée.",
+  ),
+  (
+    "Qu’est-ce que le mix « D Riddim Box » où figure Ignition Band ?",
+    "« D Riddim Box » est un mix d’Original DJ-Sly présenté comme le meilleur du bouyon 2020, qui aligne soixante-treize titres de la saison, venus pour la plupart de la Dominique. Ignition Band y figure en dixième position avec « Taste De Waist », entre « Riddim Tonight » de Ridge et « Foreigner » de Carlyn XP et Edday, dans le premier tiers où le DJ pose l’énergie de sa sélection.",
+  ),
+  (
+    "Reketeng ou Wrecketeng : quelle orthographe pour le mix de 2020 ?",
+    "L’orthographe officielle est Wrecketeng, selon DJ Cut lui-même, le pionnier fondateur de cette branche. Le sous-titre du mix d’Original DJ-Sly écrit « Reketeng », comme beaucoup de pages en ligne, mais reketeng n’est qu’une faute d’orthographe répandue sur internet. Notre page <a href=\"/wrecketeng.html\">Wrecketeng</a> explique cette branche du bouyon dominicain.",
+  ),
+  (
+    "Ignition Band joue-t-il à Ti Vilaj Kwéyòl 2026, et quand exactement ?",
+    "Oui, selon le programme officiel publié par le ministère du Tourisme et Discover Dominica : le jeudi 22 octobre 2026, jour de la grande finale aux Jardins botaniques de Roseau, le programme annonce « Ignition and Erwinchy » à 14 h 32, entre Explosive Band et Derick « Rah » Peters, sur une journée clôturée par Shelly et Signal Band. C’est le type de précision datée sur lequel ce profil s’appuie.",
+  ),
+  (
+    "Qui joue à la grande finale de Ti Vilaj Kwéyòl 2026 avec Ignition Band ?",
+    "Le jeudi 22 octobre 2026, la finale s’ouvre avec les Kalinago Dancers, UMOJA et l’école primaire de Castle Bruce, puis le Waitukubuli Dance Theatre Company. Viennent Explosive Band à 13 h 36, Ignition and Erwinchy à 14 h 32, Derick « Rah » Peters à 15 h 29, Reo et Faithii avec Trilla G et Prymex à 16 h 26, Asa Bantan à 17 h 43, puis Shelly et Signal Band à 19 heures.",
+  ),
+  (
+    "Qu’est-ce que Ti Vilaj Kwéyòl ?",
+    "Ti Vilaj Kwéyòl est le village créole de la saison d’indépendance de la Dominique, aux Jardins botaniques de Roseau, avec cuisine, artisanat, culture et musique de midi à 20 heures. L’édition 2026, la cinquième, court du 19 au 22 octobre sous le thème Tout Biten Domnik, avec une entrée à 10 dollars caraïbes. Ignition Band y joue le jour de la grande finale.",
+  ),
+  (
+    "Qui est Erwinchy, programmé avec Ignition Band ?",
+    "Erwinchy est un artiste de la scène bouyon relevé dans les tracklists des mixes Sewo Jam et Blaqrose Supreme, avec des titres en duo avec Gwada G et Kross Beatz. Le programme de Ti Vilaj Kwéyòl 2026 associe les deux noms sous la forme « Ignition and Erwinchy », sans préciser s’il s’agit d’un duo, d’un groupe d’accompagnement ou d’un plateau partagé, et ce profil ne tranche pas ce que la source ne précise pas. Voir notre profil d’<a href=\"/erwinchy.html\">Erwinchy</a>.",
+  ),
+  (
+    "Ignition Band est-il le groupe de rock américain du même nom ?",
+    "Non. Un groupe américain de reprises rock classique porte aussi le nom Ignition Band dans les sources ouvertes, mais c’est un autre groupe, sans rapport documenté avec la scène dominicaine. Le Ignition Band de cette page est uniquement celui du mix bouyon de 2020 et du programme de Ti Vilaj Kwéyòl 2026, et ce profil ne fusionne pas les deux dossiers.",
+  ),
+  (
+    "Ignition Band a-t-il une page Spotify ou un compte officiel ?",
+    "Aucun compte officiel vérifié et aucune page d’artiste rattachée au groupe dominicain n’ont été confirmés pendant la recherche d’octobre 2026 sur les plateformes consultées. Cette page ne lie donc aucun profil, et le champ sameAs de son schéma reste vide, faute de lien ouvert et vérifié.",
+  ),
+  (
+    "Pourquoi Ignition Band est-il si difficile à trouver en ligne ?",
+    "Parce qu’en Dominique, beaucoup de groupes bouyon travaillent presque entièrement en direct : ils répètent, tournent sur les scènes de l’île et sont bookés par les comités de fête et les ministères, parfois pendant des années, sans déposer de titre sur une plateforme. Leur trace publique tient alors dans des affiches, des programmes et des tracklists, exactement comme celle d’Ignition Band.",
+  ),
+  (
+    "Où écouter le bouyon de la génération d’Ignition Band ?",
+    "Commencez par la tracklist publiée de « D Riddim Box », qui aligne Ignition Band avec Trilla G, Triple Kay, Signal Band et Asa Bantan pour la saison 2020. Pour la scène dominicaine actuelle, notre <a href=\"/playlist-bouyon.html\">playlist Bouyon Road Mix</a> de Bouyon Shattaz réunit les nouveautés et les classiques, sur Spotify et YouTube.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/ignition-band.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/ignition-band.html#artist", "name": "Ignition Band", "description": "Groupe de la scène bouyon dominicaine relevé avec Taste De Waist dans le mix bouyon 2020 D Riddim Box d’Original DJ-Sly, et programmé avec Erwinchy à la grande finale de Ti Vilaj Kwéyòl 2026 aux Jardins botaniques de Roseau.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Taste De Waist"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -157,13 +203,59 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Ignition Band?", "Ignition Band is a group of the Dominican bouyon scene whose verified public record holds two traces: a track, “Taste De Waist”, placed tenth in the 2020 bouyon mix “D Riddim Box” by Original DJ-Sly, and an official scheduling with Erwinchy at the Ti Vilaj Kweyol 2026 grand finale. No verified biography, no named member and no founding date were found in October 2026."),
-  ("What is the verified Ignition Band song?", "One track, taken from a published track listing: “Taste De Waist”, tenth track of “D Riddim Box”, the Original DJ-Sly mix presented as the best of 2020 bouyon, among tracks by Ridge, Triple Kay Band, Signal Band and Asa Bantan. No other title is listed here, for lack of a verifiable source, and no streaming page for this track was found."),
-  ("Is Ignition Band playing Ti Vilaj Kweyol 2026, and exactly when?", "Yes, according to the official schedule published by the Ministry of Tourism and Discover Dominica: on Thursday 22 October 2026, grand finale day at the Botanic Gardens in Roseau, the schedule lists “Ignition and Erwinchy” at 2:32 PM, between Explosive Band and Derick “Rah” Peters, on a day closed by Shelly and Signal Band. That is the kind of dated precision this profile relies on."),
-  ("Who is Erwinchy, scheduled with Ignition Band?", "Erwinchy is an artist of the bouyon scene found in the Sewo Jam and Blaqrose Supreme mix tracklists, with duet tracks alongside Gwada G and Kross Beatz. The Ti Vilaj Kweyol 2026 schedule pairs the two names in the form “Ignition and Erwinchy”, without stating whether it is a duo, a backing band or a shared slot, and this profile does not decide what the source does not specify. See our <a href=\"/en/erwinchy.html\">Erwinchy</a> profile."),
-  ("Does Ignition Band have a Spotify page or an official account?", "No verified official account and no artist page tied to the Dominican group were confirmed during the October 2026 research on the platforms consulted. An American classic rock covers band carries the same name in the sources opened, with no documented link to the Dominican scene. This page therefore links to no profile, and the sameAs field in its schema stays empty."),
-  ("Where can I hear the bouyon of the Ignition Band generation?", "Start with the published “D Riddim Box” track listing, which lines Ignition Band up with Trilla G, Triple Kay, Signal Band and Asa Bantan for the 2020 season, then read our <a href=\"/en/bouyon-soca.html\">bouyon soca</a> page and hear our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, which follows the current Dominican scene followed by Bouyon Shattaz.")
- ],
+  (
+    "Who is Ignition Band?",
+    "Ignition Band is a group of the Dominican bouyon scene whose verified public record holds two traces: a track, “Taste De Waist”, placed tenth in the 2020 bouyon mix “D Riddim Box” by Original DJ-Sly, and an official scheduling with Erwinchy at the Ti Vilaj Kweyol 2026 grand finale. No verified biography, no named member and no founding date were found in October 2026.",
+  ),
+  (
+    "Where is Ignition Band from?",
+    "Ignition Band belongs to the bouyon scene of Dominica: its 2020 track ran in a mix of new music coming mostly from Dominica, and its 2026 slot is scheduled at the Botanic Gardens in Roseau by the Ministry of Tourism. No source, however, publishes a home village or district beyond those Roseau posters.",
+  ),
+  (
+    "What is the verified Ignition Band song?",
+    "One track, taken from a published track listing: “Taste De Waist”, tenth track of “D Riddim Box”, the Original DJ-Sly mix presented as the best of 2020 bouyon, among tracks by Ridge, Triple Kay Band, Signal Band and Asa Bantan. No other title is listed here, for lack of a verifiable source, and no streaming page for this track was found.",
+  ),
+  (
+    "What is the “D Riddim Box” mix that features Ignition Band?",
+    "“D Riddim Box” is a mix by Original DJ-Sly presented as the best of 2020 bouyon, lining up seventy-three tracks of the season, most of them from Dominica. Ignition Band sits tenth with “Taste De Waist”, between “Riddim Tonight” by Ridge and “Foreigner” by Carlyn XP and Edday, in the first third where the DJ sets the energy of his selection.",
+  ),
+  (
+    "Reketeng or Wrecketeng: which spelling for the 2020 mix?",
+    "The official spelling is Wrecketeng, from DJ Cut himself, the founding pioneer of the branch. The subtitle of the Original DJ-Sly mix writes “Reketeng”, as many pages online do, but reketeng is only a widespread internet misspelling. Our <a href=\"/en/wrecketeng.html\">Wrecketeng</a> page explains this branch of Dominican bouyon.",
+  ),
+  (
+    "Is Ignition Band playing Ti Vilaj Kweyol 2026, and exactly when?",
+    "Yes, according to the official schedule published by the Ministry of Tourism and Discover Dominica: on Thursday 22 October 2026, grand finale day at the Botanic Gardens in Roseau, the schedule lists “Ignition and Erwinchy” at 2:32 PM, between Explosive Band and Derick “Rah” Peters, on a day closed by Shelly and Signal Band. That is the kind of dated precision this profile relies on.",
+  ),
+  (
+    "Who else plays the Ti Vilaj Kweyol 2026 grand finale with Ignition Band?",
+    "On Thursday 22 October 2026, the finale opens with the Kalinago Dancers, UMOJA and Castle Bruce Primary School, then the Waitukubuli Dance Theatre Company. Then come Explosive Band at 1:36 PM, Ignition and Erwinchy at 2:32 PM, Derick “Rah” Peters at 3:29 PM, Reo and Faithii with Trilla G and Prymex at 4:26 PM, Asa Bantan at 5:43 PM, and Shelly and Signal Band at 7 PM.",
+  ),
+  (
+    "What is Ti Vilaj Kweyol?",
+    "Ti Vilaj Kweyol is the Creole village of the Dominican independence season, at the Botanic Gardens in Roseau, with food, crafts, culture and music from noon to 8 PM. The 2026 edition, the fifth, runs from 19 to 22 October under the theme Tout Biten Domnik, with admission at EC$10. Ignition Band plays on grand finale day.",
+  ),
+  (
+    "Who is Erwinchy, scheduled with Ignition Band?",
+    "Erwinchy is an artist of the bouyon scene found in the Sewo Jam and Blaqrose Supreme mix tracklists, with duet tracks alongside Gwada G and Kross Beatz. The Ti Vilaj Kweyol 2026 schedule pairs the two names in the form “Ignition and Erwinchy”, without stating whether it is a duo, a backing band or a shared slot, and this profile does not decide what the source does not specify. See our <a href=\"/en/erwinchy.html\">Erwinchy</a> profile.",
+  ),
+  (
+    "Is Ignition Band the American rock band of the same name?",
+    "No. An American classic rock covers band also carries the name Ignition Band in the sources opened, but it is a different act, with no documented link to the Dominican scene. The Ignition Band of this page is only the one of the 2020 bouyon mix and the Ti Vilaj Kweyol 2026 schedule, and this profile does not merge the two files.",
+  ),
+  (
+    "Does Ignition Band have a Spotify page or an official account?",
+    "No verified official account and no artist page tied to the Dominican group were confirmed during the October 2026 research on the platforms consulted. This page therefore links to no profile, and the sameAs field in its schema stays empty, for lack of an opened and verified link.",
+  ),
+  (
+    "Why is Ignition Band so hard to find online?",
+    "Because in Dominica, many bouyon formations work almost entirely live: they rehearse, tour the island stages and are booked by fete committees and ministries, sometimes for years, without placing a track on a streaming platform. Their public trace then fits into posters, programmes and mix tracklists, exactly like that of Ignition Band.",
+  ),
+  (
+    "Where can I hear the bouyon of the Ignition Band generation?",
+    "Start with the published “D Riddim Box” track listing, which lines Ignition Band up with Trilla G, Triple Kay, Signal Band and Asa Bantan for the 2020 season. For the current Dominican scene, our <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix playlist</a> by Bouyon Shattaz gathers new releases and classics, on Spotify and YouTube.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/ignition-band.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/ignition-band.html#artist", "name": "Ignition Band", "description": "Group of the Dominican bouyon scene found with Taste De Waist in the 2020 bouyon mix D Riddim Box by Original DJ-Sly, and scheduled with Erwinchy at the Ti Vilaj Kweyol 2026 grand finale at the Botanic Gardens in Roseau.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Taste De Waist"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

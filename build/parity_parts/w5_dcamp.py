@@ -77,14 +77,133 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Dcamp, et quel est son nom complet dans les crédits ?", "Dcamp est le nom d artiste de Dylan Davis Campbell, crédité comme auteur sur les plateformes pour TOURNEVIS, BAY LA BÈT, Clean Body et POMPÉ. Il forme avec Lewis Wayne Campbell le duo Dcamp & Lewismelo, documenté sur la page duo de ce site."),
-  ("Quel est le titre solo de Dcamp ?", "TOURNEVIS, sorti le 26 juillet 2024 sous le label Dcampproduction, avec Lewismelo en featuring. Shazam le décrit en français, à 157 BPM, avec Dylan Davis Campbell et Lewis Wayne Campbell comme auteurs. C est le titre vérifié où Dcamp est seul artiste principal."),
-  ("Qui écrit les titres de Dcamp et Lewismelo, et qui compose ?", "Les crédits publiés partagent l écriture entre Dylan Davis Campbell et Lewis Wayne Campbell sur presque tous les titres. Les descriptions des clips officiels précisent la répartition pour les collaborations : sur YOU AND ME, les auteurs sont Admiral T et Dcamp et la composition est de Lewis Campbell ; sur LUSHENANA, les auteurs sont T-Stone, Lewis Campbell et Dcamp, composition Lewis Campbell."),
-  ("Dcamp a-t-il collaboré avec Admiral T ?", "Oui, deux titres le documentent : YOU AND ME, de Dcamp & Lewismelo & Admiral T, sous le label ELITE BASE, et Sòti Gwadloup, single de 2024 réunissant Admiral T, Dcamp, Lejuh et Lewismelo, listé sur la page artiste d Admiral T."),
-  ("Dcamp est-il apparenté à Admiral T, dont le nom est aussi Campbell ?", "Aucune source consultée pour ce profil ne le dit. Les crédits des clips citent une manageuse nommée Jessica Campbell et Admiral T porte le nom Campbell dans ses biographies publiées, mais aucun document vérifié ne décrit de lien familial entre Dcamp, Lewismelo et Admiral T. Ce site ne l affirme donc pas."),
-  ("Par où commencer pour écouter Dcamp ?", "Commencez par BOUYON, le titre manifeste du duo, puis TOURNEVIS pour Dcamp en artiste principal, YOU AND ME pour sa collaboration avec Admiral T, et LUSHENANA pour celle avec T-Stone. La <a href=\"/playlist-bouyon.html\">playlist bouyon</a> de ce site replace ensuite ces titres dans la scène bouyon complète.")
- ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/dcamp.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/dcamp.html#artist", "name": "Dcamp", "description": "Dcamp, Dylan Davis Campbell, auteur et interprète franco-créole, moitié du duo Dcamp & Lewismelo. Artiste principal de TOURNEVIS (2024), co-auteur des titres du duo, collaborateur d Admiral T sur You and Me et Sòti Gwadloup et de T-Stone sur Lushenana.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "TOURNEVIS"}, {"@type": "MusicRecording", "name": "BOUYON"}, {"@type": "MusicRecording", "name": "YOU AND ME"}, {"@type": "MusicRecording", "name": "LUSHENANA"}, {"@type": "MusicRecording", "name": "BAY LA BÈT"}, {"@type": "MusicRecording", "name": "On My Way"}, {"@type": "MusicRecording", "name": "Sòti Gwadloup"}, {"@type": "MusicRecording", "name": "Clean Body"}, {"@type": "MusicRecording", "name": "POMPÉ"}, {"@type": "MusicRecording", "name": "Coco"}], "sameAs": []}}],
+  (
+    "Qui est Dcamp, et quel est son nom complet dans les crédits ?",
+    "Dcamp est le nom d artiste de Dylan Davis Campbell, crédité comme auteur sur les plateformes pour TOURNEVIS, BAY LA BÈT, Clean Body et POMPÉ. Il forme avec Lewis Wayne Campbell le duo Dcamp & Lewismelo, documenté sur la page duo de ce site.",
+  ),
+  (
+    "Quel est le titre solo de Dcamp ?",
+    "TOURNEVIS, sorti le 26 juillet 2024 sous le label Dcampproduction, avec Lewismelo en featuring. Shazam le décrit en français, à 157 BPM, avec Dylan Davis Campbell et Lewis Wayne Campbell comme auteurs. C est le titre vérifié où Dcamp est seul artiste principal.",
+  ),
+  (
+    "Qui écrit les titres de Dcamp et Lewismelo, et qui compose ?",
+    "Les crédits publiés partagent l écriture entre Dylan Davis Campbell et Lewis Wayne Campbell sur presque tous les titres. Les descriptions des clips officiels précisent la répartition pour les collaborations : sur YOU AND ME, les auteurs sont Admiral T et Dcamp et la composition est de Lewis Campbell ; sur LUSHENANA, les auteurs sont T-Stone, Lewis Campbell et Dcamp, composition Lewis Campbell.",
+  ),
+  (
+    "Dcamp a-t-il collaboré avec Admiral T ?",
+    "Oui, deux titres le documentent : YOU AND ME, de Dcamp & Lewismelo & Admiral T, sous le label ELITE BASE, et Sòti Gwadloup, single de 2024 réunissant Admiral T, Dcamp, Lejuh et Lewismelo, listé sur la page artiste d Admiral T.",
+  ),
+  (
+    "Dcamp est-il apparenté à Admiral T, dont le nom est aussi Campbell ?",
+    "Aucune source consultée pour ce profil ne le dit. Les crédits des clips citent une manageuse nommée Jessica Campbell et Admiral T porte le nom Campbell dans ses biographies publiées, mais aucun document vérifié ne décrit de lien familial entre Dcamp, Lewismelo et Admiral T. Ce site ne l affirme donc pas.",
+  ),
+  (
+    "Par où commencer pour écouter Dcamp ?",
+    "Commencez par BOUYON, le titre manifeste du duo, puis TOURNEVIS pour Dcamp en artiste principal, YOU AND ME pour sa collaboration avec Admiral T, et LUSHENANA pour celle avec T-Stone. La <a href=\"/playlist-bouyon.html\">playlist bouyon</a> de ce site replace ensuite ces titres dans la scène bouyon complète.",
+  ),
+  (
+    "Dcamp vient-il de la Guadeloupe ?",
+    "Ses crédits l’ancrent sur la scène de Guadeloupe : un single de 2024 avec Admiral T s’intitule Sòti Gwadloup, ses partenaires signent LewisCampbell971 et adm971, et ses textes passent par le créole guadeloupéen. Les sources consultées ne donnent toutefois ni sa date ni son lieu de naissance, et ce site n’en affirme aucun. Le bouyon qu’il chante est né en Dominique.",
+  ),
+  (
+    "Quelle est la différence entre Dcamp et Dcamp & Lewismelo ?",
+    "Dcamp est l’artiste Dylan Davis Campbell, Dcamp & Lewismelo est le duo qu’il forme avec Lewis Wayne Campbell. Dcamp sort aussi des titres en nom propre, comme TOURNEVIS, où Lewismelo n’est qu’invité, tandis que la plupart des titres portent la double signature. L’histoire commune et le titre BOUYON sont racontés sur la page <a href=\"/dcamp-lewismelo.html\">Dcamp & Lewismelo</a>.",
+  ),
+  (
+    "Qu’est-ce que Dcampproduction ?",
+    "C’est le label sous lequel est sorti TOURNEVIS, le 26 juillet 2024, d’après la fiche publiée par Shazam. Son partenaire a sa propre structure, Lewismeloproduction, qui a sorti BAY LA BÈT le 24 janvier 2025. La collaboration YOU AND ME avec Admiral T, elle, sort sous le label ELITE BASE. Le catalogue est donc réparti entre plusieurs entités identifiées.",
+  ),
+  (
+    "Dcamp a-t-il chanté avec T-Stone ?",
+    "Oui, sur LUSHENANA, sorti en single en 2025 selon la page artiste de T-Stone, sous la signature Dcamp, Lewismelo & T-Stone. Le clip officiel, réalisé par Jima Kanor, crédite T-Stone, Lewis Campbell et Dcamp comme auteurs, et Lewis Campbell à la composition. Dcamp y est donc co-auteur, pas seulement interprète invité.",
+  ),
+  (
+    "Que veut dire « nou pépa zanmi » dans You and Me ?",
+    "En créole guadeloupéen, « nou pépa zanmi » signifie « nous ne pouvons pas être amis ». C’est le cœur du refrain de YOU AND ME, le titre de Dcamp & Lewismelo avec Admiral T, construit sur une rupture d’amitié. Les paroles circulent entre l’anglais, le français et le créole guadeloupéen, et les crédits du clip donnent Admiral T et Dcamp comme auteurs.",
+  ),
+  (
+    "En quelle langue chante Dcamp ?",
+    "En français, en créole guadeloupéen et en anglais, souvent dans le même titre. TOURNEVIS et BAY LA BÈT sont référencés en français, YOU AND ME mêle les trois langues, et On My Way alterne français, créole et anglais dans un même refrain : « Baby comen i lé, dis moi ce qui ne va pas, I am on my way ».",
+  ),
+  (
+    "Qui a réalisé les clips de Dcamp ?",
+    "Les descriptions des clips officiels nomment deux réalisateurs. YOU AND ME, avec Admiral T, est réalisé par Merce De Bax Ville, et LUSHENANA, avec T-Stone, par Jima Kanor. Les deux descriptions créditent aussi Lewis Campbell à la composition et citent Jessica Campbell pour le booking et le management du duo.",
+  ),
+  (
+    "Les titres de Dcamp passent-ils dans les mix bouyon ?",
+    "Oui, au moins un est documenté : dans la tracklist publiée du programme Sewo Jam 2026 de Digga D, une émission de mix consacrée au bouyon et à la soca, le cinquième titre est « Dcamp Lewismelo - Coco ». Cette présence dans un mix de sélection montre que le duo circule dans la bande son des DJs, entre deux sorties officielles.",
+  )
+],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/dcamp.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/dcamp.html#artist", "name": "Dcamp", "description": "Dcamp, Dylan Davis Campbell, auteur et interprète franco-créole, moitié du duo Dcamp & Lewismelo. Artiste principal de TOURNEVIS (2024), co-auteur des titres du duo, collaborateur d Admiral T sur You and Me et Sòti Gwadloup et de T-Stone sur Lushenana.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "TOURNEVIS"}, {"@type": "MusicRecording", "name": "BOUYON"}, {"@type": "MusicRecording", "name": "YOU AND ME"}, {"@type": "MusicRecording", "name": "LUSHENANA"}, {"@type": "MusicRecording", "name": "BAY LA BÈT"}, {"@type": "MusicRecording", "name": "On My Way"}, {"@type": "MusicRecording", "name": "Sòti Gwadloup"}, {"@type": "MusicRecording", "name": "Clean Body"}, {"@type": "MusicRecording", "name": "POMPÉ"}, {"@type": "MusicRecording", "name": "Coco"},
+      {
+       "@type": "MusicRecording",
+       "name": "LET'S MAKE A BABY"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "N.W.A [NÈG WITH ATTITUDE]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "COPAIN COPINE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LA BOULANGERIE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BODY COUNT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "IL ETAIT UNE FOIS"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BAY LA BÈT (Extended)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BOUG GWADA"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I BYEN BROKE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pani Konbin (feat. Lewismelo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bel Fanm a Linet"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Es I Ka Plèw"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "CALIENTE (feat. LEWISMELO & DCAMP)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PINPON RIDDIM (feat. DJ LUCHSHIY, Fredo Pichi, Lewismelo & Dcamp)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "GOUTÉW"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Happy Birthday (feat. Dcamp)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "JENN BOSS"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -156,13 +275,132 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Dcamp, and what is his full name in the credits?", "Dcamp is the artist name of Dylan Davis Campbell, credited as a songwriter on the platforms for TOURNEVIS, BAY LA BET, Clean Body and POMPE. With Lewis Wayne Campbell he forms the duo Dcamp & Lewismelo, documented on this site duo page."),
-  ("What is the Dcamp solo title?", "TOURNEVIS, released on July 26, 2024 under the label Dcampproduction, with Lewismelo as a feature. Shazam describes it in French, at 157 BPM, with Dylan Davis Campbell and Lewis Wayne Campbell as songwriters. It is the verified title where Dcamp is the sole lead artist."),
-  ("Who writes the Dcamp and Lewismelo titles, and who composes?", "The published credits share the writing between Dylan Davis Campbell and Lewis Wayne Campbell on almost every title. The official video descriptions specify the division for the collaborations: on YOU AND ME, the authors are Admiral T and Dcamp and the composition is by Lewis Campbell; on LUSHENANA, the authors are T-Stone, Lewis Campbell and Dcamp, composition Lewis Campbell."),
-  ("Has Dcamp collaborated with Admiral T?", "Yes, two titles document it: YOU AND ME, by Dcamp & Lewismelo & Admiral T, under the label ELITE BASE, and Soti Gwadloup, a 2024 single bringing together Admiral T, Dcamp, Lejuh and Lewismelo, listed on the Admiral T artist page."),
-  ("Is Dcamp related to Admiral T, whose name is also Campbell?", "No source consulted for this profile says so. The video credits name a manager called Jessica Campbell and Admiral T carries the Campbell name in his published biographies, but no verified document describes a family relation between Dcamp, Lewismelo and Admiral T. This site therefore does not state one."),
-  ("Where should I start listening to Dcamp?", "Start with BOUYON, the duo manifesto title, then TOURNEVIS for Dcamp as lead artist, YOU AND ME for his collaboration with Admiral T, and LUSHENANA for the one with T-Stone. This site <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> then places those titles back inside the full bouyon scene.")
- ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/dcamp.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/dcamp.html#artist", "name": "Dcamp", "description": "Dcamp, Dylan Davis Campbell, French Creole writer and performer, one half of the duo Dcamp & Lewismelo. Lead artist of TOURNEVIS (2024), co-writer of the duo titles, collaborator of Admiral T on You and Me and Soti Gwadloup and of T-Stone on Lushenana.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "TOURNEVIS"}, {"@type": "MusicRecording", "name": "BOUYON"}, {"@type": "MusicRecording", "name": "YOU AND ME"}, {"@type": "MusicRecording", "name": "LUSHENANA"}, {"@type": "MusicRecording", "name": "BAY LA BÈT"}, {"@type": "MusicRecording", "name": "On My Way"}, {"@type": "MusicRecording", "name": "Sòti Gwadloup"}, {"@type": "MusicRecording", "name": "Clean Body"}, {"@type": "MusicRecording", "name": "POMPÉ"}, {"@type": "MusicRecording", "name": "Coco"}], "sameAs": []}}],
+  (
+    "Who is Dcamp, and what is his full name in the credits?",
+    "Dcamp is the artist name of Dylan Davis Campbell, credited as a songwriter on the platforms for TOURNEVIS, BAY LA BET, Clean Body and POMPE. With Lewis Wayne Campbell he forms the duo Dcamp & Lewismelo, documented on this site duo page.",
+  ),
+  (
+    "What is the Dcamp solo title?",
+    "TOURNEVIS, released on July 26, 2024 under the label Dcampproduction, with Lewismelo as a feature. Shazam describes it in French, at 157 BPM, with Dylan Davis Campbell and Lewis Wayne Campbell as songwriters. It is the verified title where Dcamp is the sole lead artist.",
+  ),
+  (
+    "Who writes the Dcamp and Lewismelo titles, and who composes?",
+    "The published credits share the writing between Dylan Davis Campbell and Lewis Wayne Campbell on almost every title. The official video descriptions specify the division for the collaborations: on YOU AND ME, the authors are Admiral T and Dcamp and the composition is by Lewis Campbell; on LUSHENANA, the authors are T-Stone, Lewis Campbell and Dcamp, composition Lewis Campbell.",
+  ),
+  (
+    "Has Dcamp collaborated with Admiral T?",
+    "Yes, two titles document it: YOU AND ME, by Dcamp & Lewismelo & Admiral T, under the label ELITE BASE, and Soti Gwadloup, a 2024 single bringing together Admiral T, Dcamp, Lejuh and Lewismelo, listed on the Admiral T artist page.",
+  ),
+  (
+    "Is Dcamp related to Admiral T, whose name is also Campbell?",
+    "No source consulted for this profile says so. The video credits name a manager called Jessica Campbell and Admiral T carries the Campbell name in his published biographies, but no verified document describes a family relation between Dcamp, Lewismelo and Admiral T. This site therefore does not state one.",
+  ),
+  (
+    "Where should I start listening to Dcamp?",
+    "Start with BOUYON, the duo manifesto title, then TOURNEVIS for Dcamp as lead artist, YOU AND ME for his collaboration with Admiral T, and LUSHENANA for the one with T-Stone. This site <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> then places those titles back inside the full bouyon scene.",
+  ),
+  (
+    "Is Dcamp from Guadeloupe?",
+    "His credits anchor him in the Guadeloupe scene: a 2024 single with Admiral T is called Soti Gwadloup, his partners sign as LewisCampbell971 and adm971, and his lyrics use Guadeloupean Creole. The sources consulted give neither his birth date nor his birthplace, though, and this site states neither. The bouyon he sings was born in Dominica.",
+  ),
+  (
+    "What is the difference between Dcamp and Dcamp & Lewismelo?",
+    "Dcamp is the artist Dylan Davis Campbell, while Dcamp & Lewismelo is the duo he forms with Lewis Wayne Campbell. Dcamp also releases songs under his own name, such as TOURNEVIS, where Lewismelo is only a feature, while most titles carry the double billing. The shared story and the song BOUYON are told on the <a href=\"/en/dcamp-lewismelo.html\">Dcamp & Lewismelo</a> page.",
+  ),
+  (
+    "What is Dcampproduction?",
+    "It is the label that released TOURNEVIS on July 26, 2024, according to the Shazam listing. His partner has his own outfit, Lewismeloproduction, which released BAY LA BET on January 24, 2025. The YOU AND ME collaboration with Admiral T came out on the ELITE BASE label. The catalogue is therefore spread across several identified entities.",
+  ),
+  (
+    "Has Dcamp sung with T-Stone?",
+    "Yes, on LUSHENANA, released as a single in 2025 according to the T-Stone artist page, billed as Dcamp, Lewismelo & T-Stone. The official video, directed by Jima Kanor, credits T-Stone, Lewis Campbell and Dcamp as authors, and Lewis Campbell for the composition. Dcamp is therefore a co-writer there, not just a guest vocalist.",
+  ),
+  (
+    "What does “nou pépa zanmi” mean in You and Me?",
+    "In Guadeloupean Creole, “nou pépa zanmi” means “we cannot be friends”. It is the heart of the chorus of YOU AND ME, the Dcamp & Lewismelo song with Admiral T, built around a broken friendship. The lyrics move between English, French and Guadeloupean Creole, and the video credits name Admiral T and Dcamp as authors.",
+  ),
+  (
+    "What language does Dcamp sing in?",
+    "French, Guadeloupean Creole and English, often inside the same song. TOURNEVIS and BAY LA BET are listed in French, YOU AND ME mixes all three languages, and On My Way switches between French, Creole and English within one chorus: “Baby comen i lé, dis moi ce qui ne va pas, I am on my way”.",
+  ),
+  (
+    "Who directed Dcamp’s music videos?",
+    "The official video descriptions name two directors. YOU AND ME, with Admiral T, is directed by Merce De Bax Ville, and LUSHENANA, with T-Stone, by Jima Kanor. Both descriptions also credit Lewis Campbell for the composition and list Jessica Campbell for the duo’s booking and management.",
+  ),
+  (
+    "Do Dcamp’s songs get played in bouyon mixes?",
+    "Yes, at least one is documented: in the published tracklist of Digga D’s Sewo Jam 2026 programme, a mix show devoted to bouyon and soca, track five is listed as “Dcamp Lewismelo - Coco”. That place in a selector’s mix shows the duo circulating in the DJs’ working soundtrack between official releases.",
+  )
+],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/dcamp.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/dcamp.html#artist", "name": "Dcamp", "description": "Dcamp, Dylan Davis Campbell, French Creole writer and performer, one half of the duo Dcamp & Lewismelo. Lead artist of TOURNEVIS (2024), co-writer of the duo titles, collaborator of Admiral T on You and Me and Soti Gwadloup and of T-Stone on Lushenana.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "TOURNEVIS"}, {"@type": "MusicRecording", "name": "BOUYON"}, {"@type": "MusicRecording", "name": "YOU AND ME"}, {"@type": "MusicRecording", "name": "LUSHENANA"}, {"@type": "MusicRecording", "name": "BAY LA BÈT"}, {"@type": "MusicRecording", "name": "On My Way"}, {"@type": "MusicRecording", "name": "Sòti Gwadloup"}, {"@type": "MusicRecording", "name": "Clean Body"}, {"@type": "MusicRecording", "name": "POMPÉ"}, {"@type": "MusicRecording", "name": "Coco"},
+      {
+       "@type": "MusicRecording",
+       "name": "LET'S MAKE A BABY"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "N.W.A [NÈG WITH ATTITUDE]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "COPAIN COPINE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LA BOULANGERIE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BODY COUNT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "IL ETAIT UNE FOIS"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BAY LA BÈT (Extended)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BOUG GWADA"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I BYEN BROKE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pani Konbin (feat. Lewismelo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bel Fanm a Linet"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Es I Ka Plèw"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "CALIENTE (feat. LEWISMELO & DCAMP)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PINPON RIDDIM (feat. DJ LUCHSHIY, Fredo Pichi, Lewismelo & Dcamp)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "GOUTÉW"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Happy Birthday (feat. Dcamp)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "JENN BOSS"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

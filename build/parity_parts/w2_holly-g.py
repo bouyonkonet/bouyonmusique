@@ -84,14 +84,101 @@ FR = {
   ]
  ],
  "faq": [
-  ("Comment « Je l’ai vu » de HollyG est-il devenu disque d’or en France ?", "« Je l’ai vu », interprété par Holly G et Arendi, est sorti le 22 octobre 2021 chez Vadore Concept Groupe, avec Believe comme distributeur. Le SNEP a constaté sa certification single d’or le 10 juillet 2025, soit une durée d’obtention de trois ans et neuf mois. C’est un or construit sur la durée, par les vues, les fêtes et les partages, et non par un lancement d’une semaine."),
-  ("« Je l’ai vu » est-il le premier titre bouyon certifié or en France ?", "Il faut distinguer la sortie et la certification. Selon l’article de référence sur le bouyon, « Je l’ai vu » est le premier son bouyon d’un artiste antillais et le deuxième titre bouyon certifié single d’or en France. Le premier constat d’or du genre revient à « Kongolese sous BBL » de Theodora, certifié en décembre 2024. Le titre de HollyG, sorti dès 2021, est donc le plus ancien des deux, mais il a été certifié après, en juillet 2025."),
-  ("Qui compose le groupe HollyG ?", "Selon la biographie publiée par Qobuz et signée Music Story, Holly G est un trio familial formé de Holly et de ses nièces, connues sous les pseudonymes 6 Tresses et Cheveux Rouge. Le groupe vient des communes de Trois-Rivières et de Vieux-Habitants, en Basse-Terre, en Guadeloupe."),
-  ("HollyG a-t-elle vraiment été nommée aux BET Awards ?", "Oui, comme nommée, et ce profil ne dit que cela. Les listes des nommés des BET Awards 2024 incluent Holly G, rattachée à la France, dans la catégorie du choix du public pour le meilleur nouvel artiste international. La biographie du groupe date cette nomination du 16 mai 2024 et la présente comme celle du premier groupe de bouyon guadeloupéen nommé à cette cérémonie."),
-  ("Qui a composé « Je l’ai vu » et qui chante avec HollyG ?", "Le clip officiel crédite HollyG et Arendi comme auteurs du titre, Dj Flip Tha Boss comme compositeur, et associe VJ Ben au titre et au clip. L’enregistrement est crédité au Voodoo Studio et la production réunit Vadore Concept, Voodoo Studio, The Best Prod et Dj Raptor Martinique. Le SNEP enregistre le titre sous les noms Holly G et Arendi."),
-  ("Quels sont les titres de HollyG à écouter en premier ?", "Commencez par « Bandit », sorti le 16 septembre 2021 et présenté comme le titre phare du groupe avec plus de 9 millions de vues selon sa biographie, puis « Je l’ai vu », sorti le 22 octobre 2021, dépassant les 10 millions de vues et certifié single d’or en 2025. Poursuivez avec « Ma belle », « Kon Jant », « Mood » et « Coller la petite », et retrouvez le groupe dans notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>.")
- ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/holly-g.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/holly-g.html#artist", "name": "HollyG", "description": "Trio familial bouyon de Trois-Rivières et Vieux-Habitants, en Basse-Terre, Guadeloupe, formé de Holly et de ses nièces 6 Tresses et Cheveux Rouge. Je l’ai vu, avec Arendi, certifié single d’or par le SNEP en France, constat du 10 juillet 2025.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bandit"}, {"@type": "MusicRecording", "name": "Je l’ai vu"}, {"@type": "MusicRecording", "name": "Ma belle"}, {"@type": "MusicRecording", "name": "Kon Jant"}, {"@type": "MusicRecording", "name": "23H"}, {"@type": "MusicRecording", "name": "Je l’ai vu (Charles V Remix)"}, {"@type": "MusicRecording", "name": "Tibilap Tibilap"}, {"@type": "MusicRecording", "name": "Mood"}, {"@type": "MusicRecording", "name": "Chounette Cluny"}, {"@type": "MusicRecording", "name": "Wa Coco"}, {"@type": "MusicRecording", "name": "Coller la petite"}], "sameAs": []}}],
+  (
+    "Qui est HollyG ?",
+    "HollyG est un trio familial de bouyon de Guadeloupe, formé de Holly et de ses nièces 6 Tresses et Cheveux Rouge, selon sa biographie Qobuz signée Music Story. Le groupe s’est fait connaître à l’automne 2021 avec « Bandit », puis avec « Je l’ai vu », chanté avec <a href=\"/arendi.html\">Arendi</a> et VJ Ben et certifié single d’or par le SNEP en 2025. Il a aussi été nommé aux BET Awards 2024.",
+  ),
+  (
+    "Comment « Je l’ai vu » de HollyG est-il devenu disque d’or en France ?",
+    "« Je l’ai vu », interprété par Holly G et Arendi, est sorti le 22 octobre 2021 chez Vadore Concept Groupe, avec Believe comme distributeur. Le SNEP a constaté sa certification single d’or le 10 juillet 2025, soit une durée d’obtention de trois ans et neuf mois. C’est un or construit sur la durée, par les vues, les fêtes et les partages, et non par un lancement d’une semaine.",
+  ),
+  (
+    "« Je l’ai vu » est-il le premier titre bouyon certifié or en France ?",
+    "Il faut distinguer la sortie et la certification. Selon l’article de référence sur le bouyon, « Je l’ai vu » est le premier son bouyon d’un artiste antillais et le deuxième titre bouyon certifié single d’or en France. Le premier constat d’or du genre revient à « Kongolese sous BBL » de Theodora, certifié en décembre 2024. Le titre de HollyG, sorti dès 2021, est donc le plus ancien des deux, mais il a été certifié après, en juillet 2025.",
+  ),
+  (
+    "Qui compose le groupe HollyG ?",
+    "Selon la biographie publiée par Qobuz et signée Music Story, Holly G est un trio familial formé de Holly et de ses nièces, connues sous les pseudonymes 6 Tresses et Cheveux Rouge. Le groupe vient des communes de Trois-Rivières et de Vieux-Habitants, en Basse-Terre, en Guadeloupe.",
+  ),
+  (
+    "HollyG a-t-elle vraiment été nommée aux BET Awards ?",
+    "Oui, comme nommée, et ce profil ne dit que cela. Les listes des nommés des BET Awards 2024 incluent Holly G, rattachée à la France, dans la catégorie du choix du public pour le meilleur nouvel artiste international. La biographie du groupe date cette nomination du 16 mai 2024 et la présente comme celle du premier groupe de bouyon guadeloupéen nommé à cette cérémonie.",
+  ),
+  (
+    "Qui a composé « Je l’ai vu » et qui chante avec HollyG ?",
+    "Le clip officiel crédite HollyG et Arendi comme auteurs du titre, Dj Flip Tha Boss comme compositeur, et associe VJ Ben au titre et au clip. L’enregistrement est crédité au Voodoo Studio et la production réunit Vadore Concept, Voodoo Studio, The Best Prod et Dj Raptor Martinique. Le SNEP enregistre le titre sous les noms Holly G et Arendi.",
+  ),
+  (
+    "Quels sont les titres de HollyG à écouter en premier ?",
+    "Commencez par « Bandit », sorti le 16 septembre 2021 et présenté comme le titre phare du groupe avec plus de 9 millions de vues selon sa biographie, puis « Je l’ai vu », sorti le 22 octobre 2021, dépassant les 10 millions de vues et certifié single d’or en 2025. Poursuivez avec « Ma belle », « Kon Jant », « Mood » et « Coller la petite », et retrouvez le groupe dans notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>.",
+  ),
+  (
+    "D’où vient le groupe HollyG ?",
+    "HollyG vient de Basse-Terre, en Guadeloupe, et plus précisément des communes de Trois-Rivières et de Vieux-Habitants, selon sa biographie. Basse-Terre est le sud montagneux de l’île, face à la Dominique voisine, de l’autre côté du canal. Le trio est donc né dans la partie de la Guadeloupe la plus proche de l’île où le bouyon a été créé par <a href=\"/wck.html\">WCK</a> à Roseau en 1988.",
+  ),
+  (
+    "Faut-il écrire HollyG ou Holly G ?",
+    "Les deux formes désignent le même groupe. Les plateformes et la discographie publiée écrivent HollyG, en un mot, et c’est la forme retenue par ce site. Les listes officielles du SNEP et des BET Awards écrivent Holly G, en deux mots, et la biographie Qobuz alterne les deux. Pour retrouver les titres du trio sur les plateformes de streaming, cherchez HollyG.",
+  ),
+  (
+    "Qui produit le groupe HollyG ?",
+    "Le site ToutGwada présente le groupe comme produit par DJ Flip Tha Boss, originaire de la Dominique, qui est aussi le compositeur crédité de « Je l’ai vu ». Côté studio, le nom Voodoo revient dans tout le catalogue : « Bandit » sort chez iMD-Voodoo Empire, et la majorité des titres vérifiés de 2022 à 2025 portent la marque Voodoo Studio, aux côtés de SL Production.",
+  ),
+  (
+    "HollyG et Theodora ont-elles sorti un titre ensemble ?",
+    "Oui. Selon l’article de référence en français sur le bouyon, HollyG et Theodora ont sorti ensemble « Coller la petite » en décembre 2025, et Qobuz date le titre du 24 décembre 2025 chez Sl Prod. Il réunit les détentrices des deux premiers singles d’or bouyon en France : « Kongolese sous BBL » de <a href=\"/theodora.html\">Theodora</a>, certifié en 2024, et « Je l’ai vu », certifié en 2025.",
+  ),
+  (
+    "Qu’est-ce que « Allo Triple Kay » de HollyG ?",
+    "« Allo Triple Kay » est un titre de HollyG que le site ToutGwada cite parmi les hymnes du groupe. Son nom est un clin d’oeil à <a href=\"/tk-international.html\">Triple Kay</a>, le grand groupe dominicain qui a popularisé le bouyon soca, lancé par Dada en Dominique en 2003 selon le témoignage de Smokiller. Même dans ses titres de fête, le trio guadeloupéen cite l’île mère du bouyon.",
+  ),
+  (
+    "Quel style de musique fait HollyG ?",
+    "HollyG fait du <a href=\"/bouyon-gwada.html\">bouyon gwada</a>, la branche guadeloupéenne du bouyon : un genre créé en Dominique, adopté en Guadeloupe et chanté en créole guadeloupéen. Le trio y apporte trois voix féminines d’une même famille sur des titres de fête, avec des collaborateurs de plusieurs îles, de la Dominique du compositeur Dj Flip Tha Boss à la Martinique de Dj Raptor Martinique.",
+  ),
+  (
+    "Où écouter HollyG ?",
+    "Les titres du trio sont sur les plateformes sous le nom HollyG, et « Bandit » figure dans notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, la Bouyon Road Mix de Bouyon Shattaz, disponible sur Spotify et YouTube. Pour la recevoir en message privé, suivez @bouyonshattaz sur Instagram et commentez ROAD MIX sous une publication. Elle place HollyG parmi les nouveautés de la Dominique, de la Guadeloupe et de la Martinique.",
+  )
+],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/holly-g.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/holly-g.html#artist", "name": "HollyG", "description": "Trio familial bouyon de Trois-Rivières et Vieux-Habitants, en Basse-Terre, Guadeloupe, formé de Holly et de ses nièces 6 Tresses et Cheveux Rouge. Je l’ai vu, avec Arendi, certifié single d’or par le SNEP en France, constat du 10 juillet 2025.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bandit"}, {"@type": "MusicRecording", "name": "Je l’ai vu"}, {"@type": "MusicRecording", "name": "Ma belle"}, {"@type": "MusicRecording", "name": "Kon Jant"}, {"@type": "MusicRecording", "name": "23H"}, {"@type": "MusicRecording", "name": "Je l’ai vu (Charles V Remix)"}, {"@type": "MusicRecording", "name": "Tibilap Tibilap"}, {"@type": "MusicRecording", "name": "Mood"}, {"@type": "MusicRecording", "name": "Chounette Cluny"}, {"@type": "MusicRecording", "name": "Wa Coco"}, {"@type": "MusicRecording", "name": "Coller la petite"},
+      {
+       "@type": "MusicRecording",
+       "name": "Coco (feat. Shanika, Holly beiiy & HollyG)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Anlè Sa"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Boat"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Holiday"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ou vé sa"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pull up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dan la déwo (feat. HollyG)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "bla bla bla (feat. HollyG & Shanika)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Twerk (feat. HollyG) [Bonus]"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -171,13 +258,100 @@ EN = {
   ]
  ],
  "faq": [
-  ("How did HollyG “Je l’ai vu” become a gold record in France?", "“Je l’ai vu”, performed by Holly G and Arendi, was released on 22 October 2021 on Vadore Concept Groupe, with Believe as distributor. SNEP recorded its gold single certification on 10 July 2025, a time to certification of three years and nine months. It is a gold built over time, through views, fetes and shares, not through a one week launch."),
-  ("Was “Je l’ai vu” the first bouyon track certified gold in France?", "Release and certification have to be kept apart. According to the reference article on bouyon, “Je l’ai vu” is the first bouyon track by an Antillean artist and the second bouyon title certified gold single in France. The first gold recording for the genre belongs to “Kongolese sous BBL” by Theodora, certified in December 2024. The HollyG track, released as early as 2021, is therefore the older of the two, but it was certified after, in July 2025."),
-  ("Who makes up the HollyG group?", "According to the biography published by Qobuz and credited to Music Story, Holly G is a family trio made up of Holly and her nieces, known by the stage names 6 Tresses and Cheveux Rouge. The group comes from the communes of Trois-Rivières and Vieux-Habitants, in Basse-Terre, Guadeloupe."),
-  ("Was HollyG really nominated for the BET Awards?", "Yes, as a nominee, and this profile says only that. Nominee lists for the 2024 BET Awards include Holly G, attached to France, in the Viewer Choice Best New International Act category. The group biography dates that nomination to 16 May 2024 and presents it as that of the first Guadeloupe bouyon group nominated at that ceremony."),
-  ("Who composed “Je l’ai vu” and who sings with HollyG?", "The official video credits HollyG and Arendi as writers of the track, Dj Flip Tha Boss as composer, and associates VJ Ben with the track and the video. Recording is credited to Voodoo Studio and production brings together Vadore Concept, Voodoo Studio, The Best Prod and Dj Raptor Martinique. SNEP records the track under the names Holly G and Arendi."),
-  ("Which HollyG tracks should I hear first?", "Start with “Bandit”, released on 16 September 2021 and presented as the group flagship track with over 9 million views according to its biography, then “Je l’ai vu”, released on 22 October 2021, passing 10 million views and certified gold single in 2025. Continue with “Ma belle”, “Kon Jant”, “Mood” and “Coller la petite”, and find the group in our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>.")
- ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/holly-g.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/holly-g.html#artist", "name": "HollyG", "description": "Family bouyon trio from Trois-Rivières and Vieux-Habitants, in Basse-Terre, Guadeloupe, made up of Holly and her nieces 6 Tresses and Cheveux Rouge. Je l’ai vu, with Arendi, certified gold single by SNEP in France, recorded on 10 July 2025.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bandit"}, {"@type": "MusicRecording", "name": "Je l’ai vu"}, {"@type": "MusicRecording", "name": "Ma belle"}, {"@type": "MusicRecording", "name": "Kon Jant"}, {"@type": "MusicRecording", "name": "23H"}, {"@type": "MusicRecording", "name": "Je l’ai vu (Charles V Remix)"}, {"@type": "MusicRecording", "name": "Tibilap Tibilap"}, {"@type": "MusicRecording", "name": "Mood"}, {"@type": "MusicRecording", "name": "Chounette Cluny"}, {"@type": "MusicRecording", "name": "Wa Coco"}, {"@type": "MusicRecording", "name": "Coller la petite"}], "sameAs": []}}],
+  (
+    "Who is HollyG?",
+    "HollyG is a family bouyon trio from Guadeloupe, made up of Holly and her nieces 6 Tresses and Cheveux Rouge, according to its Qobuz biography by Music Story. The group broke through in autumn 2021 with “Bandit”, then with “Je l’ai vu”, sung with <a href=\"/en/arendi.html\">Arendi</a> and VJ Ben and certified gold single by SNEP in 2025. It was also nominated at the 2024 BET Awards.",
+  ),
+  (
+    "How did HollyG “Je l’ai vu” become a gold record in France?",
+    "“Je l’ai vu”, performed by Holly G and Arendi, was released on 22 October 2021 on Vadore Concept Groupe, with Believe as distributor. SNEP recorded its gold single certification on 10 July 2025, a time to certification of three years and nine months. It is a gold built over time, through views, fetes and shares, not through a one week launch.",
+  ),
+  (
+    "Was “Je l’ai vu” the first bouyon track certified gold in France?",
+    "Release and certification have to be kept apart. According to the reference article on bouyon, “Je l’ai vu” is the first bouyon track by an Antillean artist and the second bouyon title certified gold single in France. The first gold recording for the genre belongs to “Kongolese sous BBL” by Theodora, certified in December 2024. The HollyG track, released as early as 2021, is therefore the older of the two, but it was certified after, in July 2025.",
+  ),
+  (
+    "Who makes up the HollyG group?",
+    "According to the biography published by Qobuz and credited to Music Story, Holly G is a family trio made up of Holly and her nieces, known by the stage names 6 Tresses and Cheveux Rouge. The group comes from the communes of Trois-Rivières and Vieux-Habitants, in Basse-Terre, Guadeloupe.",
+  ),
+  (
+    "Was HollyG really nominated for the BET Awards?",
+    "Yes, as a nominee, and this profile says only that. Nominee lists for the 2024 BET Awards include Holly G, attached to France, in the Viewer Choice Best New International Act category. The group biography dates that nomination to 16 May 2024 and presents it as that of the first Guadeloupe bouyon group nominated at that ceremony.",
+  ),
+  (
+    "Who composed “Je l’ai vu” and who sings with HollyG?",
+    "The official video credits HollyG and Arendi as writers of the track, Dj Flip Tha Boss as composer, and associates VJ Ben with the track and the video. Recording is credited to Voodoo Studio and production brings together Vadore Concept, Voodoo Studio, The Best Prod and Dj Raptor Martinique. SNEP records the track under the names Holly G and Arendi.",
+  ),
+  (
+    "Which HollyG tracks should I hear first?",
+    "Start with “Bandit”, released on 16 September 2021 and presented as the group flagship track with over 9 million views according to its biography, then “Je l’ai vu”, released on 22 October 2021, passing 10 million views and certified gold single in 2025. Continue with “Ma belle”, “Kon Jant”, “Mood” and “Coller la petite”, and find the group in our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>.",
+  ),
+  (
+    "Where is the HollyG group from?",
+    "HollyG comes from Basse-Terre, in Guadeloupe, and more precisely from the communes of Trois-Rivières and Vieux-Habitants, according to its biography. Basse-Terre is the mountainous south of the island, facing neighbouring Dominica across the channel. The trio was therefore born in the part of Guadeloupe closest to the island where bouyon was created by <a href=\"/en/wck.html\">WCK</a> in Roseau in 1988.",
+  ),
+  (
+    "Is it spelled HollyG or Holly G?",
+    "Both forms name the same group. The platforms and the published discography write HollyG, in one word, and that is the form this site uses. The official SNEP and BET Awards lists write Holly G, in two words, and the Qobuz biography alternates between the two. To find the trio’s tracks on streaming platforms, search for HollyG.",
+  ),
+  (
+    "Who produces the HollyG group?",
+    "The ToutGwada site presents the group as produced by DJ Flip Tha Boss, from Dominica, who is also the credited composer of “Je l’ai vu”. On the studio side, the Voodoo name runs through the whole catalogue: “Bandit” came out on iMD-Voodoo Empire, and most of the verified tracks from 2022 to 2025 carry the Voodoo Studio name, alongside SL Production.",
+  ),
+  (
+    "Did HollyG and Theodora release a song together?",
+    "Yes. According to the reference French article on bouyon, HollyG and Theodora released “Coller la petite” together in December 2025, and Qobuz dates the track to 24 December 2025 on Sl Prod. It brings together the holders of the first two bouyon gold singles in France: “Kongolese sous BBL” by <a href=\"/en/theodora.html\">Theodora</a>, certified in 2024, and “Je l’ai vu”, certified in 2025.",
+  ),
+  (
+    "What is “Allo Triple Kay” by HollyG?",
+    "“Allo Triple Kay” is a HollyG track that the ToutGwada site lists among the group’s anthems. Its name is a nod to <a href=\"/en/tk-international.html\">Triple Kay</a>, the major Dominican band that popularised bouyon soca, launched by Dada in Dominica in 2003 according to Smokiller’s testimony. Even in its party tracks, the Guadeloupe trio points back to the mother island of bouyon.",
+  ),
+  (
+    "What style of music does HollyG make?",
+    "HollyG makes <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a>, the Guadeloupe branch of bouyon: a genre created in Dominica, adopted in Guadeloupe and sung in Guadeloupean Creole. The trio brings three female voices from one family to party tracks, with collaborators from several islands, from the Dominica of composer Dj Flip Tha Boss to the Martinique of Dj Raptor Martinique.",
+  ),
+  (
+    "Where can I listen to HollyG?",
+    "The trio’s tracks are on the platforms under the name HollyG, and “Bandit” is in our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, the Bouyon Shattaz Bouyon Road Mix, available on Spotify and YouTube. To receive it by private message, follow @bouyonshattaz on Instagram and comment ROAD MIX under a post. It places HollyG among the new releases from Dominica, Guadeloupe and Martinique.",
+  )
+],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/holly-g.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/holly-g.html#artist", "name": "HollyG", "description": "Family bouyon trio from Trois-Rivières and Vieux-Habitants, in Basse-Terre, Guadeloupe, made up of Holly and her nieces 6 Tresses and Cheveux Rouge. Je l’ai vu, with Arendi, certified gold single by SNEP in France, recorded on 10 July 2025.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bandit"}, {"@type": "MusicRecording", "name": "Je l’ai vu"}, {"@type": "MusicRecording", "name": "Ma belle"}, {"@type": "MusicRecording", "name": "Kon Jant"}, {"@type": "MusicRecording", "name": "23H"}, {"@type": "MusicRecording", "name": "Je l’ai vu (Charles V Remix)"}, {"@type": "MusicRecording", "name": "Tibilap Tibilap"}, {"@type": "MusicRecording", "name": "Mood"}, {"@type": "MusicRecording", "name": "Chounette Cluny"}, {"@type": "MusicRecording", "name": "Wa Coco"}, {"@type": "MusicRecording", "name": "Coller la petite"},
+      {
+       "@type": "MusicRecording",
+       "name": "Coco (feat. Shanika, Holly beiiy & HollyG)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Anlè Sa"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Boat"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Holiday"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ou vé sa"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pull up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dan la déwo (feat. HollyG)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "bla bla bla (feat. HollyG & Shanika)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Twerk (feat. HollyG) [Bonus]"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

@@ -44,13 +44,31 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Mathieu Richardson ?", "Un nom cité parmi les artistes bouyon. Au-delà de ce nom, aucune biographie vérifiée n’a été retrouvée pendant la recherche d’octobre 2026 : pas d’origine publiée, pas de date de naissance, pas de parcours documenté. Ce profil publie ce résultat tel quel, plutôt que d’inventer une biographie."),
-  ("Mathieu Richardson a-t-il des titres que l’on peut écouter ?", "Aucun enregistrement attribuable de manière vérifiée à ce nom n’a été retrouvé sur les plateformes consultées pendant la recherche. Le champ des enregistrements du schéma de cette page est donc vide. Un titre peut exister en vidéo, en soirée ou en fichier partagé sans être indexé : si un crédit vérifiable est apporté, il sera ajouté."),
-  ("D’où vient Mathieu Richardson ?", "Ce n’est pas publié dans les sources consultées, et ce profil ne le devine pas. Le nom combine un prénom répandu dans la Caraïbe francophone et un nom répandu dans la Caraïbe anglophone, mais cette remarque sur les noms de la région n’est pas une information sur cet artiste, et aucune île ne lui est attribuée ici."),
-  ("Pourquoi trouve-t-on aussi peu d’informations publiques sur lui ?", "Pour ce nom, le web public ne contient presque rien de vérifiable, et les résultats au nom exact renvoient à des homonymes sans rapport avec la musique, dont une liste de club américain et des catalogues d’instruments de chirurgie. Ce profil préfère publier ce constat, avec sa méthode, plutôt que de recopier une notice vide ou de confondre l’artiste avec un homonyme."),
-  ("Mathieu Richardson a-t-il des comptes officiels ?", "Aucun compte officiel n’a été confirmé pendant la recherche : aucun compte retrouvé ne se rattache de manière vérifiable au nom comme artiste bouyon. Le champ sameAs du schéma de cette page reste donc vide, et cette page ne lie aucun réseau social."),
-  ("Comment compléter ou corriger ce profil ?", "En apportant un élément vérifiable : un titre avec son crédit publié, une affiche ou un programme daté, un article le nommant, ou un lien officiel confirmé comme le sien. Chaque élément confirmé sera ajouté avec sa source, et la date de modification de la page sera mise à jour. En attendant, lisez notre page d’<a href=\"/histoire.html\">histoire du bouyon</a> et écoutez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> pour la partie documentée de la scène.")
- ],
+  (
+    "Qui est Mathieu Richardson ?",
+    "Un nom cité parmi les artistes bouyon. Au-delà de ce nom, aucune biographie vérifiée n’a été retrouvée pendant la recherche d’octobre 2026 : pas d’origine publiée, pas de date de naissance, pas de parcours documenté. Ce profil publie ce résultat tel quel, plutôt que d’inventer une biographie.",
+  ),
+  (
+    "Mathieu Richardson a-t-il des titres que l’on peut écouter ?",
+    "Aucun enregistrement attribuable de manière vérifiée à ce nom n’a été retrouvé sur les plateformes consultées pendant la recherche. Le champ des enregistrements du schéma de cette page est donc vide. Un titre peut exister en vidéo, en soirée ou en fichier partagé sans être indexé : si un crédit vérifiable est apporté, il sera ajouté.",
+  ),
+  (
+    "D’où vient Mathieu Richardson ?",
+    "Ce n’est pas publié dans les sources consultées, et ce profil ne le devine pas. Le nom combine un prénom répandu dans la Caraïbe francophone et un nom répandu dans la Caraïbe anglophone, mais cette remarque sur les noms de la région n’est pas une information sur cet artiste, et aucune île ne lui est attribuée ici.",
+  ),
+  (
+    "Pourquoi trouve-t-on aussi peu d’informations publiques sur lui ?",
+    "Pour ce nom, le web public ne contient presque rien de vérifiable, et les résultats au nom exact renvoient à des homonymes sans rapport avec la musique, dont une liste de club américain et des catalogues d’instruments de chirurgie. Ce profil préfère publier ce constat, avec sa méthode, plutôt que de recopier une notice vide ou de confondre l’artiste avec un homonyme.",
+  ),
+  (
+    "Mathieu Richardson a-t-il des comptes officiels ?",
+    "Aucun compte officiel n’a été confirmé pendant la recherche : aucun compte retrouvé ne se rattache de manière vérifiable au nom comme artiste bouyon. Le champ sameAs du schéma de cette page reste donc vide, et cette page ne lie aucun réseau social.",
+  ),
+  (
+    "Comment compléter ou corriger ce profil ?",
+    "En apportant un élément vérifiable : un titre avec son crédit publié, une affiche ou un programme daté, un article le nommant, ou un lien officiel confirmé comme le sien. Chaque élément confirmé sera ajouté avec sa source, et la date de modification de la page sera mise à jour. En attendant, écoutez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> pour la partie documentée de la scène.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/mathieu-richardson.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/mathieu-richardson.html#artist", "name": "Mathieu Richardson", "description": "Nom cité parmi les artistes bouyon. Aucune biographie, aucun enregistrement et aucun compte officiel vérifié retrouvés en octobre 2026.", "genre": "Bouyon", "track": [], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -95,13 +113,31 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Mathieu Richardson?", "A name listed among bouyon artists. Beyond that name, no verified biography was found during the October 2026 research: no published origin, no birth date, no documented path. This profile publishes that result as it stands, rather than inventing a biography."),
-  ("Does Mathieu Richardson have records that can be heard?", "No recording assignable in a verified way to this name was found on the platforms consulted during the research. The recordings field of this page schema is therefore empty. A record may exist on video, at a party or as a shared file without being indexed: if a verifiable credit is brought forward, it will be added."),
-  ("Where is Mathieu Richardson from?", "It is not published in the sources consulted, and this profile does not guess it. The name combines a first name widespread in the French speaking Caribbean with a surname widespread in the English speaking Caribbean, but that remark about names in the region is not information about this artist, and no island is assigned to him here."),
-  ("Why is so little public information available about him?", "For this name, the public web holds almost nothing verifiable, and the exact name results point to namesakes with no relation to music, including an American club list and surgical instrument catalogues. This profile prefers to publish that finding, with its method, rather than copy an empty notice or confuse the artist with a namesake."),
-  ("Does Mathieu Richardson have official accounts?", "No official account was confirmed during the research: no account found ties back in a verifiable way to the name as a bouyon artist. The sameAs field of this page schema therefore stays empty, and this page links to no social profile."),
-  ("How can this profile be completed or corrected?", "By bringing a verifiable element: a record with its published credit, a dated bill or programme, an article naming him, or an official link confirmed as his. Each confirmed element will be added with its source, and the page modification date will be updated. In the meantime, read our <a href=\"/en/history.html\">history of bouyon</a> page and hear our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> for the documented part of the scene.")
- ],
+  (
+    "Who is Mathieu Richardson?",
+    "A name listed among bouyon artists. Beyond that name, no verified biography was found during the October 2026 research: no published origin, no birth date, no documented path. This profile publishes that result as it stands, rather than inventing a biography.",
+  ),
+  (
+    "Does Mathieu Richardson have records that can be heard?",
+    "No recording assignable in a verified way to this name was found on the platforms consulted during the research. The recordings field of this page schema is therefore empty. A record may exist on video, at a party or as a shared file without being indexed: if a verifiable credit is brought forward, it will be added.",
+  ),
+  (
+    "Where is Mathieu Richardson from?",
+    "It is not published in the sources consulted, and this profile does not guess it. The name combines a first name widespread in the French speaking Caribbean with a surname widespread in the English speaking Caribbean, but that remark about names in the region is not information about this artist, and no island is assigned to him here.",
+  ),
+  (
+    "Why is so little public information available about him?",
+    "For this name, the public web holds almost nothing verifiable, and the exact name results point to namesakes with no relation to music, including an American club list and surgical instrument catalogues. This profile prefers to publish that finding, with its method, rather than copy an empty notice or confuse the artist with a namesake.",
+  ),
+  (
+    "Does Mathieu Richardson have official accounts?",
+    "No official account was confirmed during the research: no account found ties back in a verifiable way to the name as a bouyon artist. The sameAs field of this page schema therefore stays empty, and this page links to no social profile.",
+  ),
+  (
+    "How can this profile be completed or corrected?",
+    "By bringing a verifiable element: a record with its published credit, a dated bill or programme, an article naming him, or an official link confirmed as his. Each confirmed element will be added with its source, and the page modification date will be updated. In the meantime, hear our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> for the documented part of the scene.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/mathieu-richardson.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/mathieu-richardson.html#artist", "name": "Mathieu Richardson", "description": "Name listed among bouyon artists. No biography, no recording and no verified official account found in October 2026.", "genre": "Bouyon", "track": [], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

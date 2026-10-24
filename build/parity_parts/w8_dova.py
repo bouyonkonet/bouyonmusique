@@ -65,13 +65,55 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Dova ?", "Dova est une voix du bouyon dominicain connue par les mixes de la scène. Les sources vérifiables la créditent sur « Earthquake », en solo, ainsi que sur « Push Your Hand In Your » avec Kenny G et Pudaz et sur « What Name » avec Kenny G et Gwada G. Aucune biographie publique vérifiée, ni nom civil, ni village d’origine, n’a été trouvé pour ce profil à la date du 20 octobre 2026, et aucun n’est donc publié ici."),
-  ("Quel est le titre solo documenté de Dova ?", "« Earthquake ». Il figure à 30:48 dans le sommaire du Bouyon Music 2026 Mix Vol. 1, mix non-stop de 41 minutes réalisé par Smokiller pour Bouyon Shattaz, dont la description présente DOVA parmi les meilleurs nouveaux artistes bouyon de la Dominique pour 2026. Aucun crédit de production publié n’a été confirmé pour ce titre."),
-  ("Avec qui Dova a-t-elle enregistré « Push Your Hand In Your » et « What Name » ?", "Selon les tracklists publiées des mixes Sewo Jam 2023-24, Soca Passport et Dbreakaway Show, « Push Your Hand In Your », aussi transcrit « Push Ur Hand In Your », réunit Kenny G, Pudaz et Dova, et « What Name » réunit Kenny G, Gwada G et Dova. Les ordres de noms varient d’une liste à l’autre, comme souvent dans la circulation par les mixes."),
-  ("Dova joue-t-elle à Ti Vilaj Kwéyòl 2026 ?", "Oui, selon la liste relayée à partir du message officiel du Gouvernement de la Dominique : Dova figure parmi les vingt premiers artistes confirmés pour la cinquième édition de Ti Vilaj Kwéyòl, du 19 au 22 octobre 2026 aux Jardins botaniques de Roseau, sur le thème Tout Biten Domnik. Au 18 octobre 2026, le programme jour par jour n’était pas encore publié."),
-  ("Pourquoi y a-t-il si peu d’informations publiques sur Dova, alors qu’elle est programmée sur une scène nationale ?", "Parce qu’une partie du bouyon circule d’abord par les mixes des DJ, les riddims partagés et les listes de festivals, avant les biographies et les pages officielles. Le dossier de Dova se trouve aujourd’hui dans les tracklists et dans une programmation officielle, pas dans les bases de données. Ce profil publie ce contraste tel quel, plutôt que de combler les blancs par des suppositions."),
-  ("Où écouter Dova pour commencer ?", "Commencez par « Earthquake » dans le Bouyon Music 2026 Mix Vol. 1 de Smokiller, puis cherchez « Push Your Hand In Your » et « What Name » dans les mixes bouyon de la scène, et suivez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> pour les nouveautés dominicaines suivies par Bouyon Shattaz.")
- ],
+  (
+    "Qui est Dova ?",
+    "Dova est une voix du bouyon dominicain connue par les mixes de la scène. Les sources vérifiables la créditent sur « Earthquake », en solo, ainsi que sur « Push Your Hand In Your » avec Kenny G et Pudaz et sur « What Name » avec Kenny G et Gwada G. Le nom figure aussi parmi les vingt premiers artistes confirmés pour Ti Vilaj Kwéyòl 2026, à Roseau.",
+  ),
+  (
+    "D'où vient Dova ?",
+    "Dova appartient à la scène bouyon de la Dominique : la description du Bouyon Music 2026 Mix de Smokiller range DOVA parmi les meilleurs nouveaux noms bouyon de la Dominique pour 2026, et la liste officielle relayée à partir du Gouvernement de la Dominique le confirme pour Ti Vilaj Kwéyòl 2026. Aucun village d'origine n'est publié dans les sources consultées.",
+  ),
+  (
+    "Quel est le titre solo documenté de Dova ?",
+    "« Earthquake ». Il figure à 30:48 dans le sommaire du Bouyon Music 2026 Mix Vol. 1, mix non-stop de 41 minutes réalisé par Smokiller pour Bouyon Shattaz, entre « Whale Fu See » de OG Park et Rum Lawd et « Back and Forth » de Slyme Hoyss. C'est le seul titre en solo du dossier, à côté de deux collaborations.",
+  ),
+  (
+    "Que veut dire Earthquake, le titre de Dova ?",
+    "Earthquake signifie tremblement de terre en anglais. Le titre appartient au vocabulaire habituel du bouyon de fête : une image de secousse, de sol qui bouge sous la danse, pensée pour être comprise immédiatement par un public de carnaval. Aucun crédit de production, d'écriture ou de label n'a été confirmé pour ce titre, et ce site n'en invente aucun.",
+  ),
+  (
+    "Qu'est-ce que le Bouyon Music 2026 Mix de Smokiller, où figure Dova ?",
+    "C'est un mix non-stop de 41 minutes réalisé par Smokiller pour Bouyon Shattaz et publié sur YouTube, conçu comme une photographie de la saison. Sa description présente DOVA parmi les meilleurs nouveaux titres bouyon de la Dominique pour 2026, aux côtés de Trilla-G, J Lion, Tipsy, Khallion et Reo. « Earthquake » y arrive à 30:48.",
+  ),
+  (
+    "Qui chante avec Dova sur « Push Your Hand In Your » et « What Name » ?",
+    "Selon les tracklists publiées des mixes Sewo Jam 2023-24, Soca Passport et Dbreakaway Show, « Push Your Hand In Your » réunit Kenny G, Pudaz et Dova, et « What Name » réunit Kenny G, Gwada G et Dova. Kenny G et Gwada G sont, comme Dova, confirmés pour Ti Vilaj Kwéyòl 2026 : un petit cercle d'artistes dominicains qui enregistrent ensemble.",
+  ),
+  (
+    "Push Your Hand In Your ou Push Ur Hand In Your : quel est le bon titre ?",
+    "Les deux formes désignent le même enregistrement. Sewo Jam 2023-24 le liste en position 22 sous la forme « Push Ur Hand In Your », le mix Soca Passport de DJ Close Connections écrit « Push Your Hand In Your », et le Dbreakaway Show du 21 mars 2024 le crédite à « Pudaz et Dova ». Ce site retient la forme développée, en signalant la variante.",
+  ),
+  (
+    "Quand voir Dova à Ti Vilaj Kwéyòl 2026 ?",
+    "Selon la liste relayée à partir du message officiel du Gouvernement de la Dominique, Dova figure parmi les vingt premiers artistes confirmés pour la cinquième édition de Ti Vilaj Kwéyòl, du 19 au 22 octobre 2026 aux Jardins botaniques de Roseau, sur le thème Tout Biten Domnik. Au 18 octobre 2026, le programme jour par jour n'était pas encore publié.",
+  ),
+  (
+    "Qu'est-ce que Ti Vilaj Kwéyòl ?",
+    "Ti Vilaj Kwéyòl est le village créole des célébrations de l'indépendance de la Dominique, organisé aux Jardins botaniques de Roseau dans les jours qui précèdent le World Creole Music Festival. Il mêle musique live, bouyon, quadrille et autres danses folkloriques, démonstrations culturelles et plus de quatre-vingt-dix exposants. L'édition 2026, la cinquième, a pour thème Tout Biten Domnik, tout est dominicain.",
+  ),
+  (
+    "Qui est à l'affiche de Ti Vilaj Kwéyòl 2026 avec Dova ?",
+    "La première liste officielle de vingt noms place Dova aux côtés de Shelly and the Signal Band, Ridge, TK International, Extasy, Pudaz, Reo, Unstoppable Shax et Trixx. Au 18 octobre 2026, une mise à jour portait le total à vingt-neuf artistes confirmés, avec notamment l'ajout de Kenny G, son partenaire sur « Push Your Hand In Your » et « What Name ».",
+  ),
+  (
+    "Pourquoi y a-t-il si peu d'informations publiques sur Dova ?",
+    "Parce qu'une partie du bouyon circule d'abord par les mixes des DJ, les riddims partagés et les listes de festivals, avant les biographies et les pages officielles. Le dossier de Dova se trouve aujourd'hui dans les tracklists et dans une programmation officielle, pas dans les bases de données. Ce profil publie ce contraste tel quel, plutôt que de combler les blancs par des suppositions.",
+  ),
+  (
+    "Où écouter Dova pour commencer ?",
+    "Commencez par « Earthquake » dans le Bouyon Music 2026 Mix Vol. 1 de Smokiller, puis cherchez « Push Your Hand In Your » et « What Name » dans les mixes bouyon de la scène. Pour les nouveautés dominicaines, suivez @bouyonshattaz sur Instagram et commentez ROAD MIX sous une publication : la Bouyon Road Mix de notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> arrive en DM.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/dova.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/dova.html#artist", "name": "Dova", "description": "Voix du bouyon dominicain documentée par les mixes de la scène : Earthquake en solo, Push Your Hand In Your avec Kenny G et Pudaz, What Name avec Kenny G et Gwada G. Artiste confirmée pour Ti Vilaj Kwéyòl 2026 à Roseau.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Earthquake"}, {"@type": "MusicRecording", "name": "Push Your Hand In Your"}, {"@type": "MusicRecording", "name": "What Name"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -134,13 +176,55 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Dova?", "Dova is a Dominican bouyon voice known through the mixes of the scene. Verifiable sources credit her on “Earthquake”, solo, as well as on “Push Your Hand In Your” with Kenny G and Pudaz and on “What Name” with Kenny G and Gwada G. No verified public biography, real name or home village was found for this profile as of 20 October 2026, so none is published here."),
-  ("What is Dova documented solo track?", "“Earthquake”. It appears at 30:48 in the chapter list of the Bouyon Music 2026 Mix Vol. 1, a 41 minute nonstop mix by Smokiller for Bouyon Shattaz, whose description presents DOVA among the best new bouyon artists from Dominica for 2026. No published production credit was confirmed for the track."),
-  ("Who did Dova record “Push Your Hand In Your” and “What Name” with?", "According to the published tracklists of the Sewo Jam 2023-24, Soca Passport and Dbreakaway Show mixes, “Push Your Hand In Your”, also transcribed “Push Ur Hand In Your”, brings together Kenny G, Pudaz and Dova, and “What Name” brings together Kenny G, Gwada G and Dova. Name orders vary from list to list, as often happens in mix circulation."),
-  ("Is Dova playing Ti Vilaj Kweyol 2026?", "Yes, according to the list reported from the Government of Dominica official post: Dova appears among the first twenty artists confirmed for the fifth edition of Ti Vilaj Kweyol, from 19 to 22 October 2026 at the Botanic Gardens in Roseau, under the theme Tout Biten Domnik. As of 18 October 2026, the day by day schedule had not yet been published."),
-  ("Why is there so little public information about Dova, when she is booked on a national stage?", "Because part of bouyon travels first through DJ mixes, shared riddims and festival lists, before biographies and official pages. Dova record today sits in tracklists and in one official booking, not in the databases. This profile publishes that contrast as it stands, rather than filling the blanks with guesses."),
-  ("Where can I hear Dova first?", "Start with “Earthquake” in Smokiller Bouyon Music 2026 Mix Vol. 1, then look for “Push Your Hand In Your” and “What Name” in the bouyon mixes of the scene, and follow our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> for the Dominican new releases followed by Bouyon Shattaz.")
- ],
+  (
+    "Who is Dova?",
+    "Dova is a Dominican bouyon voice known through the mixes of the scene. Verifiable sources credit Dova on “Earthquake”, solo, as well as on “Push Your Hand In Your” with Kenny G and Pudaz and on “What Name” with Kenny G and Gwada G. The name also appears among the first twenty artists confirmed for Ti Vilaj Kweyol 2026, in Roseau.",
+  ),
+  (
+    "Where is Dova from?",
+    "Dova belongs to the Dominica bouyon scene: the description of Smokiller's Bouyon Music 2026 Mix lists DOVA among the best new bouyon names from Dominica for 2026, and the official list reported from the Government of Dominica confirms the name for Ti Vilaj Kweyol 2026. No home village is published in the sources consulted.",
+  ),
+  (
+    "What is Dova's documented solo track?",
+    "“Earthquake”. It appears at 30:48 in the chapter list of the Bouyon Music 2026 Mix Vol. 1, a 41 minute nonstop mix by Smokiller for Bouyon Shattaz, between “Whale Fu See” by OG Park and Rum Lawd and “Back and Forth” by Slyme Hoyss. It is the only solo track in the file, next to two collaborations.",
+  ),
+  (
+    "What does Earthquake, the Dova track, mean?",
+    "The title draws on the usual vocabulary of party bouyon: an image of shaking, of ground moving under the dance, made to be understood instantly by a carnival crowd. No production, writing or label credit was confirmed for the track, and this site invents none. It is cited as what it is: a recording circulating in the reference mix of the season.",
+  ),
+  (
+    "What is Smokiller's Bouyon Music 2026 Mix, which features Dova?",
+    "It is a 41 minute nonstop mix made by Smokiller for Bouyon Shattaz and published on YouTube, designed as a snapshot of the season. Its description presents DOVA among the best new bouyon tracks from Dominica for 2026, alongside Trilla-G, J Lion, Tipsy, Khallion and Reo. “Earthquake” comes in at 30:48.",
+  ),
+  (
+    "Who sings with Dova on “Push Your Hand In Your” and “What Name”?",
+    "According to the published tracklists of the Sewo Jam 2023-24, Soca Passport and Dbreakaway Show mixes, “Push Your Hand In Your” brings together Kenny G, Pudaz and Dova, and “What Name” brings together Kenny G, Gwada G and Dova. Kenny G and Gwada G are, like Dova, confirmed for Ti Vilaj Kweyol 2026: a small circle of Dominican artists who record together.",
+  ),
+  (
+    "Push Your Hand In Your or Push Ur Hand In Your: which is the right title?",
+    "Both forms name the same recording. Sewo Jam 2023-24 lists it at position 22 as “Push Ur Hand In Your”, DJ Close Connections' Soca Passport mix writes “Push Your Hand In Your”, and the Dbreakaway Show of 21 March 2024 credits it to “Pudaz and Dova”. This site uses the developed form, while flagging the variant.",
+  ),
+  (
+    "When can I see Dova at Ti Vilaj Kweyol 2026?",
+    "According to the list reported from the Government of Dominica official post: Dova appears among the first twenty artists confirmed for the fifth edition of Ti Vilaj Kweyol, from 19 to 22 October 2026 at the Botanic Gardens in Roseau, under the theme Tout Biten Domnik. As of 18 October 2026, the day by day schedule had not yet been published.",
+  ),
+  (
+    "What is Ti Vilaj Kweyol?",
+    "Ti Vilaj Kweyol is the Creole village of Dominica's independence celebrations, held at the Botanic Gardens in Roseau in the days before the World Creole Music Festival. It combines live music, bouyon, quadrille and other folk dances, cultural demonstrations and more than ninety exhibitors. The 2026 edition, the fifth, has the theme Tout Biten Domnik, everything is Dominican.",
+  ),
+  (
+    "Who is on the Ti Vilaj Kweyol 2026 bill with Dova?",
+    "The first official list of twenty names places Dova alongside Shelly and the Signal Band, Ridge, TK International, Extasy, Pudaz, Reo, Unstoppable Shax and Trixx. As of 18 October 2026, an update brought the total to twenty nine confirmed artists, notably adding Kenny G, Dova's partner on “Push Your Hand In Your” and “What Name”.",
+  ),
+  (
+    "Why is there so little public information about Dova?",
+    "Because part of bouyon travels first through DJ mixes, shared riddims and festival lists, before biographies and official pages. Dova's record today sits in tracklists and in one official booking, not in the databases. This profile publishes that contrast as it stands, rather than filling the blanks with guesses.",
+  ),
+  (
+    "Where can I hear Dova first?",
+    "Start with “Earthquake” in Smokiller's Bouyon Music 2026 Mix Vol. 1, then look for “Push Your Hand In Your” and “What Name” in the bouyon mixes of the scene. For Dominican new releases, follow @bouyonshattaz on Instagram and comment ROAD MIX under a post: the Bouyon Road Mix from our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> arrives by DM.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/dova.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/dova.html#artist", "name": "Dova", "description": "Dominican bouyon voice documented through the mixes of the scene: Earthquake solo, Push Your Hand In Your with Kenny G and Pudaz, What Name with Kenny G and Gwada G. Confirmed artist for Ti Vilaj Kweyol 2026 in Roseau.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Earthquake"}, {"@type": "MusicRecording", "name": "Push Your Hand In Your"}, {"@type": "MusicRecording", "name": "What Name"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

@@ -77,14 +77,405 @@ FR = {
   ]
  ],
  "faq": [
-  ("Major Lazer est-il un artiste bouyon ?", "Non. Major Lazer est un groupe américain de musique électronique bâti sur le dancehall, la soca, le reggae et le reggaeton. Aucun enregistrement bouyon vérifié du groupe n’a été retrouvé pendant la recherche de ce profil. Sa présence sur ce site tient à ses liens documentés avec la soca et le dancehall, les deux mondes voisins du bouyon, et non à une origine bouyon."),
-  ("Qui sont les membres de Major Lazer ?", "Le groupe a été fondé en 2008 par Diplo et Switch. Switch est parti en 2011, remplacé par Jillionaire et Walshy Fire. Jillionaire est parti en juin 2019, remplacé par Ape Drums. La formation Diplo, Walshy Fire et Ape Drums est rejointe en 2025 par la chanteuse America Foster comme membre officiel."),
-  ("Quel est le lien entre Major Lazer et Bunji Garlin ?", "Major Lazer a remixé « Differentology (Ready for the Road) », l’hymne du carnaval 2013 de Bunji Garlin, chanteur soca de Trinidad et Tobago. Le remix a circulé dans la série Lazers Never Die du groupe, puis sur l’album « Differentology » de Garlin chez VP et RCA. Garlin chante aussi « Forward » sur le Smoke Riddim bouyon soca du producteur dominicain Dada."),
-  ("Quels sont les plus grands titres de Major Lazer ?", "Les titres les plus documentés sont « Pon De Floor » (2009), « Get Free » (2013), « Watch Out for This (Bumaye) » (2013), « Lean On » avec DJ Snake et MØ (2015), annoncé comme le titre le plus écouté de Spotify à son époque, « Light It Up » avec Nyla (2015), « Cold Water » avec Justin Bieber et MØ (2016), « Run Up » (2017), « Know No Better » (2017) et « Que Calor » (2019)."),
-  ("Major Lazer a-t-il fait de la soca ?", "Oui, de manière documentée et répétée. Le Trinidadien Jillionaire, membre du groupe de 2011 à 2019, vient de la soca. Le groupe a enregistré « Sound Bang » avec Machel Montano (2014), « Front of the Line » avec Machel Montano et Konshens (2017), et l’EP « Soca Storm » (2020) avec Mr. Killa et Zeek. Les notices du groupe classent la soca parmi ses genres."),
-  ("Où écouter Major Lazer après le bouyon, et le bouyon après Major Lazer ?", "Écoutez « Soca Storm » et le remix de « Differentology » pour le versant carnaval du groupe, puis notre page <a href=\"/bouyon-soca.html\">bouyon soca</a> pour la fusion née en Dominique en 2003, et notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> pour le son de Roseau lui-même, de WCK aux nouveautés dominicaines.")
- ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/major-lazer.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/major-lazer.html#artist", "name": "Major Lazer", "description": "Groupe américain de musique électronique formé à Los Angeles en 2008 par Diplo et Switch, devenu le trio de Diplo, Walshy Fire et Ape Drums, rejoint par America Foster en 2025. Projet dancehall et soca crossover, remix de Differentology de Bunji Garlin, titres Lean On, Light It Up et Cold Water. Pas un artiste bouyon : aucun enregistrement bouyon vérifié.", "genre": "Dancehall", "track": [{"@type": "MusicRecording", "name": "Pon De Floor"}, {"@type": "MusicRecording", "name": "Get Free"}, {"@type": "MusicRecording", "name": "Watch Out for This (Bumaye)"}, {"@type": "MusicRecording", "name": "Lean On"}, {"@type": "MusicRecording", "name": "Light It Up"}, {"@type": "MusicRecording", "name": "Powerful"}, {"@type": "MusicRecording", "name": "All My Love (Remix)"}, {"@type": "MusicRecording", "name": "Cold Water"}, {"@type": "MusicRecording", "name": "Run Up"}, {"@type": "MusicRecording", "name": "Know No Better"}, {"@type": "MusicRecording", "name": "Sua Cara"}, {"@type": "MusicRecording", "name": "Que Calor"}, {"@type": "MusicRecording", "name": "Sound Bang"}, {"@type": "MusicRecording", "name": "Front of the Line"}, {"@type": "MusicRecording", "name": "Differentology (Major Lazer Remix)"}], "sameAs": ["https://majorlazer.com/", "https://www.instagram.com/majorlazer"]}}],
+  (
+    "Major Lazer est-il un artiste bouyon ?",
+    "Non. Major Lazer est un groupe américain de musique électronique bâti sur le dancehall, la soca, le reggae et le reggaeton. Aucun enregistrement bouyon vérifié du groupe n’a été retrouvé pendant la recherche de ce profil. Sa présence sur ce site tient à ses liens documentés avec la soca et le dancehall, les deux mondes voisins du bouyon, et non à une origine bouyon.",
+  ),
+  (
+    "Qui sont les membres de Major Lazer ?",
+    "Le groupe a été fondé en 2008 par Diplo et Switch. Switch est parti en 2011, remplacé par Jillionaire et Walshy Fire. Jillionaire est parti en juin 2019, remplacé par Ape Drums. La formation Diplo, Walshy Fire et Ape Drums est rejointe en 2025 par la chanteuse America Foster comme membre officiel.",
+  ),
+  (
+    "Quel est le lien entre Major Lazer et Bunji Garlin ?",
+    "Major Lazer a remixé « Differentology (Ready for the Road) », l’hymne du carnaval 2013 de Bunji Garlin, chanteur soca de Trinidad et Tobago. Le remix a circulé dans la série Lazers Never Die du groupe, puis sur l’album « Differentology » de Garlin chez VP et RCA. Garlin chante aussi « Forward » sur le Smoke Riddim bouyon soca du producteur dominicain Dada.",
+  ),
+  (
+    "Quels sont les plus grands titres de Major Lazer ?",
+    "Les titres les plus documentés sont « Pon De Floor » (2009), « Get Free » (2013), « Watch Out for This (Bumaye) » (2013), « Lean On » avec DJ Snake et MØ (2015), annoncé comme le titre le plus écouté de Spotify à son époque, « Light It Up » avec Nyla (2015), « Cold Water » avec Justin Bieber et MØ (2016), « Run Up » (2017), « Know No Better » (2017) et « Que Calor » (2019).",
+  ),
+  (
+    "Major Lazer a-t-il fait de la soca ?",
+    "Oui, de manière documentée et répétée. Le Trinidadien Jillionaire, membre du groupe de 2011 à 2019, vient de la soca. Le groupe a enregistré « Sound Bang » avec Machel Montano (2014), « Front of the Line » avec Machel Montano et Konshens (2017), et l’EP « Soca Storm » (2020) avec Mr. Killa et Zeek. Les notices du groupe classent la soca parmi ses genres.",
+  ),
+  (
+    "Où écouter Major Lazer après le bouyon, et le bouyon après Major Lazer ?",
+    "Écoutez « Soca Storm » et le remix de « Differentology » pour le versant carnaval du groupe, puis « Sound Bang » et « Front of the Line » pour sa soca assumée. Pour passer ensuite au son de la Dominique, la fusion née à Roseau en 2003 et le bouyon lui-même, ouvrez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>.",
+  ),
+  (
+    "Qui est Major Lazer ?",
+    "Major Lazer est un groupe américain de musique électronique formé à Los Angeles en 2008 par Diplo et Switch, devenu le trio Diplo, Walshy Fire et Ape Drums, rejoint en 2025 par la chanteuse America Foster. Bâti sur le dancehall jamaïcain et nourri de soca, il a porté les sons du carnaval caribéen sur les plus grandes scènes pop, de « Lean On » à « Cold Water ».",
+  ),
+  (
+    "D’où vient Major Lazer ?",
+    "Major Lazer vient de Los Angeles, où Diplo et Switch ont fondé le projet en 2008. Mais son premier album a été enregistré en Jamaïque, aux studios Tuff Gong, et ses recrues de 2011 viennent des Caraïbes : Jillionaire est né à Trinidad et Tobago, Walshy Fire à Kingston, en Jamaïque, avant de grandir en Floride.",
+  ),
+  (
+    "Qui est Jillionaire de Major Lazer ?",
+    "Jillionaire, de son vrai nom Christopher Leacock, est un DJ né à Trinidad et Tobago, membre de Major Lazer de 2011 à juin 2019, remplacé ensuite par Ape Drums. Il a apporté la soca au groupe : pendant le carnaval de Trinidad 2013, il publie pour LargeUp la mixtape « Fog Up D Place », une sélection de la soca de la saison, de Kes à Bunji Garlin.",
+  ),
+  (
+    "Qu’est-ce que l’EP « Soca Storm » de Major Lazer ?",
+    "« Soca Storm » est un EP sorti par surprise en février 2020, avec trois titres : « Soca Storm », « Wet It Up » et « King of the Party ». L’artiste soca grenadien Mr. Killa chante sur deux titres et Zeek sur « Wet It Up ». Un groupe pop mondial qui donne à tout un EP le nom de la soca dit clairement où il puise.",
+  ),
+  (
+    "Major Lazer a-t-il travaillé avec Machel Montano ?",
+    "Oui, trois fois au moins. « Sound Bang », avec <a href=\"/machel-montano.html\">Machel Montano</a>, est classé par LargeUp parmi les meilleurs singles soca de 2014. Montano revient sur le remix de « All My Love » avec Ariana Grande en 2015, puis sur « Front of the Line » en 2017, avec Konshens, créé pour la campagne Bacardi Sound of Rum.",
+  ),
+  (
+    "Quel est le premier album de Major Lazer ?",
+    "« Guns Don’t Kill People... Lazers Do », sorti le 16 juin 2009 chez Downtown Records et enregistré en Jamaïque aux studios Tuff Gong. Ses invités dressent un état des lieux de Kingston à la fin des années 2000 : Vybz Kartel, Busy Signal, Mr. Vegas, Turbulence, Ward 21, T.O.K et Leftside, aux côtés de Santigold et M.I.A.",
+  ),
+  (
+    "Major Lazer a-t-il produit « Differentology » ?",
+    "Non, il l’a remixé. « Differentology (Ready for the Road) » de Bunji Garlin, sorti le 7 novembre 2012 chez Sheriff Music, est écrit par Garlin et produit par Keron « Sheriff » Thomson. Le remix de Major Lazer a circulé dans la série Lazers Never Die, puis sur l’album « Differentology » de Garlin chez VP et RCA, en version de cinq minutes.",
+  ),
+  (
+    "Quelle est la différence entre la soca de Major Lazer et le bouyon soca ?",
+    "Même ingrédient, deux cuisines. Major Lazer travaille la soca depuis Los Angeles et Miami, avec des stars de Trinidad. Le <a href=\"/bouyon-soca.html\">bouyon soca</a>, lancé en Dominique par Dada en 2003, fusionne cette soca avec le bouyon dominicain. Confondre les deux serait une erreur de géographie et de crédit, que ce profil évite.",
+  ),
+  (
+    "« Que Calor » de Major Lazer vient-il de la Dominique ?",
+    "Non. « Que Calor », avec J Balvin et El Alfa en 2019, se tourne vers le reggaeton et le dembow de Saint-Domingue, en République dominicaine. Il ne faut pas confondre ce pays avec la Dominique, l’île où est né le bouyon. Aucun titre de Major Lazer n’est un enregistrement bouyon vérifié.",
+  )
+],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/major-lazer.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/major-lazer.html#artist", "name": "Major Lazer", "description": "Groupe américain de musique électronique formé à Los Angeles en 2008 par Diplo et Switch, devenu le trio de Diplo, Walshy Fire et Ape Drums, rejoint par America Foster en 2025. Projet dancehall et soca crossover, remix de Differentology de Bunji Garlin, titres Lean On, Light It Up et Cold Water. Pas un artiste bouyon : aucun enregistrement bouyon vérifié.", "genre": "Dancehall", "track": [{"@type": "MusicRecording", "name": "Pon De Floor"}, {"@type": "MusicRecording", "name": "Get Free"}, {"@type": "MusicRecording", "name": "Watch Out for This (Bumaye)"}, {"@type": "MusicRecording", "name": "Lean On"}, {"@type": "MusicRecording", "name": "Light It Up"}, {"@type": "MusicRecording", "name": "Powerful"}, {"@type": "MusicRecording", "name": "All My Love (Remix)"}, {"@type": "MusicRecording", "name": "Cold Water"}, {"@type": "MusicRecording", "name": "Run Up"}, {"@type": "MusicRecording", "name": "Know No Better"}, {"@type": "MusicRecording", "name": "Sua Cara"}, {"@type": "MusicRecording", "name": "Que Calor"}, {"@type": "MusicRecording", "name": "Sound Bang"}, {"@type": "MusicRecording", "name": "Front of the Line"}, {"@type": "MusicRecording", "name": "Differentology (Major Lazer Remix)"},
+      {
+       "@type": "MusicRecording",
+       "name": "RoTATe wiTh aMeRiCa FOsTeR, sKiLLiBeNg aNd bEAM"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "pAPi wiTH tOKisCha"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Place Like Home"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Champagne"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "GOAT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "JUMP & TWIST"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PEPPA POT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MINI SKIRT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BRUK DOWN"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "GANGSTA"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SOFIA"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ke Shy"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ngibambe"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Oh Yeah"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Smoking & Drinking"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Higher Ground"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stop & Go"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mamgobhozi"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Designer"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Koo Koo Fun (Extended)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Koo Koo Fun"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Don't Care About Nothing (from GRAN TURISMO 7)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "La Mano (feat. Tavo Rayo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Titans"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bam Bam"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "QueLoQue"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "King Of The Party"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Soca Storm"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Make It Hot"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Trigger"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rave de Favela"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lay Your Head On Me"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "C'est Cuit"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Diplomatico"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hell and High Water"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Blow That Smoke"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Miss You"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Particula"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jump (feat. Busy Signal)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Buscando Huellas"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Christmas Trees (feat. Protoje)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Believer"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Boom"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Be Together"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Too Original"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Night Riders"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Aerosol Can"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bubble Butt"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jessica"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jump (The Martin Brothers Remix) / Get Naked (acappella) (Riva Starr, Fatboy Slim & Major Lazer Remix) (feat. Beardyman)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jump Up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Keep It Goin' Louder"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hold The Line"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PELINEGRA"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shake It To The Max (FLY) [Major Lazer Remix]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jiggy Woogie"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Closer to You (feat. Major Lazer)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Alone (Major Lazer Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Don't Go Yet (Major Lazer Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Don't Go Yet (Major Lazer Dub)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Blinding Lights (Major Lazer Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dumebi (Major Lazer Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Evapora"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Walking (feat. Swae Lee & Major Lazer)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ALREADY"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Oh My Gawd"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Loko (feat. Kevinho & Busy Signal)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tip Pon It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Where Is Your Love? (feat. Major Lazer)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Naughty Ride (feat. Major Lazer)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "My Love (feat. Major Lazer, WizKid, Dua Lipa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "The Way We Do This (feat. Major Lazer & Busy Signal)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "The Sound (feat. Major Lazer)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Love Me Long (feat. Major Lazer & Gyptian)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "One Wine (feat. Major Lazer)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "We Make It Bounce (feat. Major Lazer & Stylo G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "One Drop (Major Lazer Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pressure"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Push And Shove"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hold You (feat. Major Lazer)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jadi Buti"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Original Don (Flosstradamus Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Keep It Goin' Louder (Tom Stephans Harder Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Let Me Live"
+      },
+], "sameAs": ["https://majorlazer.com/", "https://www.instagram.com/majorlazer"]}}],
  "date_modified": "2026-10-20"
 }
 
@@ -157,13 +548,404 @@ EN = {
   ]
  ],
  "faq": [
-  ("Is Major Lazer a bouyon artist?", "No. Major Lazer is an American electronic music group built on dancehall, soca, reggae and reggaeton. No verified bouyon recording by the group was found during the research for this profile. Its presence on this site rests on its documented links with soca and dancehall, the two neighbouring worlds of bouyon, and not on a bouyon origin."),
-  ("Who are the members of Major Lazer?", "The group was founded in 2008 by Diplo and Switch. Switch left in 2011, replaced by Jillionaire and Walshy Fire. Jillionaire left in June 2019, replaced by Ape Drums. The line-up of Diplo, Walshy Fire and Ape Drums was joined in 2025 by vocalist America Foster as an official member."),
-  ("What is the link between Major Lazer and Bunji Garlin?", "Major Lazer remixed “Differentology (Ready for the Road)”, the 2013 carnival anthem of Bunji Garlin, the soca singer from Trinidad and Tobago. The remix circulated in the group Lazers Never Die series, then on Garlin “Differentology” album on VP and RCA. Garlin also sings “Forward” on the bouyon soca Smoke Riddim of Dominican producer Dada."),
-  ("What are Major Lazer biggest records?", "The best documented records are “Pon De Floor” (2009), “Get Free” (2013), “Watch Out for This (Bumaye)” (2013), “Lean On” with DJ Snake and MØ (2015), announced as Spotify most streamed song of its time, “Light It Up” with Nyla (2015), “Cold Water” with Justin Bieber and MØ (2016), “Run Up” (2017), “Know No Better” (2017) and “Que Calor” (2019)."),
-  ("Did Major Lazer make soca?", "Yes, in a documented and repeated way. Trinidadian Jillionaire, a group member from 2011 to 2019, comes from soca. The group recorded “Sound Bang” with Machel Montano (2014), “Front of the Line” with Machel Montano and Konshens (2017), and the “Soca Storm” EP (2020) with Mr. Killa and Zeek. Group notices list soca among its genres."),
-  ("Where can I hear Major Lazer after bouyon, and bouyon after Major Lazer?", "Hear “Soca Storm” and the “Differentology” remix for the group carnival side, then our <a href=\"/en/bouyon-soca.html\">bouyon soca</a> page for the fusion born in Dominica in 2003, and our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> for the sound of Roseau itself, from WCK to new Dominican releases.")
- ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/major-lazer.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/major-lazer.html#artist", "name": "Major Lazer", "description": "American electronic music group formed in Los Angeles in 2008 by Diplo and Switch, later the trio of Diplo, Walshy Fire and Ape Drums, joined by America Foster in 2025. Dancehall and soca crossover project, remix of Bunji Garlin Differentology, records Lean On, Light It Up and Cold Water. Not a bouyon artist: no verified bouyon recording.", "genre": "Dancehall", "track": [{"@type": "MusicRecording", "name": "Pon De Floor"}, {"@type": "MusicRecording", "name": "Get Free"}, {"@type": "MusicRecording", "name": "Watch Out for This (Bumaye)"}, {"@type": "MusicRecording", "name": "Lean On"}, {"@type": "MusicRecording", "name": "Light It Up"}, {"@type": "MusicRecording", "name": "Powerful"}, {"@type": "MusicRecording", "name": "All My Love (Remix)"}, {"@type": "MusicRecording", "name": "Cold Water"}, {"@type": "MusicRecording", "name": "Run Up"}, {"@type": "MusicRecording", "name": "Know No Better"}, {"@type": "MusicRecording", "name": "Sua Cara"}, {"@type": "MusicRecording", "name": "Que Calor"}, {"@type": "MusicRecording", "name": "Sound Bang"}, {"@type": "MusicRecording", "name": "Front of the Line"}, {"@type": "MusicRecording", "name": "Differentology (Major Lazer Remix)"}], "sameAs": ["https://majorlazer.com/", "https://www.instagram.com/majorlazer"]}}],
+  (
+    "Is Major Lazer a bouyon artist?",
+    "No. Major Lazer is an American electronic music group built on dancehall, soca, reggae and reggaeton. No verified bouyon recording by the group was found during the research for this profile. Its presence on this site rests on its documented links with soca and dancehall, the two neighbouring worlds of bouyon, and not on a bouyon origin.",
+  ),
+  (
+    "Who are the members of Major Lazer?",
+    "The group was founded in 2008 by Diplo and Switch. Switch left in 2011, replaced by Jillionaire and Walshy Fire. Jillionaire left in June 2019, replaced by Ape Drums. The line-up of Diplo, Walshy Fire and Ape Drums was joined in 2025 by vocalist America Foster as an official member.",
+  ),
+  (
+    "What is the link between Major Lazer and Bunji Garlin?",
+    "Major Lazer remixed “Differentology (Ready for the Road)”, the 2013 carnival anthem of Bunji Garlin, the soca singer from Trinidad and Tobago. The remix circulated in the group Lazers Never Die series, then on Garlin “Differentology” album on VP and RCA. Garlin also sings “Forward” on the bouyon soca Smoke Riddim of Dominican producer Dada.",
+  ),
+  (
+    "What are Major Lazer's biggest records?",
+    "The best documented records are “Pon De Floor” (2009), “Get Free” (2013), “Watch Out for This (Bumaye)” (2013), “Lean On” with DJ Snake and MØ (2015), announced as Spotify most streamed song of its time, “Light It Up” with Nyla (2015), “Cold Water” with Justin Bieber and MØ (2016), “Run Up” (2017), “Know No Better” (2017) and “Que Calor” (2019).",
+  ),
+  (
+    "Did Major Lazer make soca?",
+    "Yes, in a documented and repeated way. Trinidadian Jillionaire, a group member from 2011 to 2019, comes from soca. The group recorded “Sound Bang” with Machel Montano (2014), “Front of the Line” with Machel Montano and Konshens (2017), and the “Soca Storm” EP (2020) with Mr. Killa and Zeek. Group notices list soca among its genres.",
+  ),
+  (
+    "Where can I hear Major Lazer after bouyon, and bouyon after Major Lazer?",
+    "Hear “Soca Storm” and the “Differentology” remix for the group carnival side, then “Sound Bang” and “Front of the Line” for its stated soca. To move on to the sound of Dominica, the fusion born in Roseau in 2003 and bouyon itself, open our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>.",
+  ),
+  (
+    "Who is Major Lazer?",
+    "Major Lazer is an American electronic music group formed in Los Angeles in 2008 by Diplo and Switch, later the trio of Diplo, Walshy Fire and Ape Drums, joined in 2025 by vocalist America Foster. Built on Jamaican dancehall and fed by soca, it carried Caribbean carnival sounds to the biggest pop stages, from “Lean On” to “Cold Water”.",
+  ),
+  (
+    "Where is Major Lazer from?",
+    "Major Lazer comes from Los Angeles, where Diplo and Switch founded the project in 2008. But its first album was recorded in Jamaica, at Tuff Gong Studios, and its 2011 recruits came from the Caribbean: Jillionaire was born in Trinidad and Tobago, and Walshy Fire in Kingston, Jamaica, before growing up in Florida.",
+  ),
+  (
+    "Who is Jillionaire from Major Lazer?",
+    "Jillionaire, real name Christopher Leacock, is a DJ born in Trinidad and Tobago, a Major Lazer member from 2011 to June 2019, then replaced by Ape Drums. He brought soca into the group: during the 2013 Trinidad carnival, he published the “Fog Up D Place” mixtape for LargeUp, a selection of the season's soca, from Kes to Bunji Garlin.",
+  ),
+  (
+    "What is Major Lazer's “Soca Storm” EP?",
+    "“Soca Storm” is an EP surprise released in February 2020, with three tracks: “Soca Storm”, “Wet It Up” and “King of the Party”. Grenadian soca artist Mr. Killa sings on two tracks and Zeek on “Wet It Up”. A global pop group naming a whole EP after soca states plainly where it draws from.",
+  ),
+  (
+    "Has Major Lazer worked with Machel Montano?",
+    "Yes, at least three times. “Sound Bang”, with <a href=\"/en/machel-montano.html\">Machel Montano</a>, was ranked by LargeUp among the best soca singles of 2014. Montano returned on the remix of “All My Love” with Ariana Grande in 2015, then on “Front of the Line” in 2017, with Konshens, created for the Bacardi Sound of Rum campaign.",
+  ),
+  (
+    "What was Major Lazer's first album?",
+    "“Guns Don’t Kill People... Lazers Do”, released on June 16, 2009 on Downtown Records and recorded in Jamaica at Tuff Gong Studios. Its guests read like a survey of Kingston at the end of the 2000s: Vybz Kartel, Busy Signal, Mr. Vegas, Turbulence, Ward 21, T.O.K and Leftside, alongside Santigold and M.I.A.",
+  ),
+  (
+    "Did Major Lazer produce “Differentology”?",
+    "No, it remixed it. “Differentology (Ready for the Road)” by Bunji Garlin, released on November 7, 2012 by Sheriff Music, was written by Garlin and produced by Keron “Sheriff” Thomson. The Major Lazer remix circulated in the Lazers Never Die series, then on Garlin's “Differentology” album on VP and RCA, in a five minute version.",
+  ),
+  (
+    "What is the difference between Major Lazer's soca and bouyon soca?",
+    "Same ingredient, two kitchens. Major Lazer works soca from Los Angeles and Miami, with Trinidad stars. <a href=\"/en/bouyon-soca.html\">Bouyon soca</a>, started in Dominica by Dada in 2003, fuses that soca with Dominican bouyon. Confusing the two would be an error of geography and of credit, which this profile avoids.",
+  ),
+  (
+    "Is Major Lazer's “Que Calor” from Dominica?",
+    "No. “Que Calor”, with J Balvin and El Alfa in 2019, turns to reggaeton and to the dembow of Santo Domingo, in the Dominican Republic. That country must not be confused with Dominica, the island where bouyon was born. No Major Lazer record is a verified bouyon recording.",
+  )
+],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/major-lazer.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/major-lazer.html#artist", "name": "Major Lazer", "description": "American electronic music group formed in Los Angeles in 2008 by Diplo and Switch, later the trio of Diplo, Walshy Fire and Ape Drums, joined by America Foster in 2025. Dancehall and soca crossover project, remix of Bunji Garlin Differentology, records Lean On, Light It Up and Cold Water. Not a bouyon artist: no verified bouyon recording.", "genre": "Dancehall", "track": [{"@type": "MusicRecording", "name": "Pon De Floor"}, {"@type": "MusicRecording", "name": "Get Free"}, {"@type": "MusicRecording", "name": "Watch Out for This (Bumaye)"}, {"@type": "MusicRecording", "name": "Lean On"}, {"@type": "MusicRecording", "name": "Light It Up"}, {"@type": "MusicRecording", "name": "Powerful"}, {"@type": "MusicRecording", "name": "All My Love (Remix)"}, {"@type": "MusicRecording", "name": "Cold Water"}, {"@type": "MusicRecording", "name": "Run Up"}, {"@type": "MusicRecording", "name": "Know No Better"}, {"@type": "MusicRecording", "name": "Sua Cara"}, {"@type": "MusicRecording", "name": "Que Calor"}, {"@type": "MusicRecording", "name": "Sound Bang"}, {"@type": "MusicRecording", "name": "Front of the Line"}, {"@type": "MusicRecording", "name": "Differentology (Major Lazer Remix)"},
+      {
+       "@type": "MusicRecording",
+       "name": "RoTATe wiTh aMeRiCa FOsTeR, sKiLLiBeNg aNd bEAM"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "pAPi wiTH tOKisCha"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Place Like Home"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Champagne"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "GOAT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "JUMP & TWIST"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PEPPA POT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MINI SKIRT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BRUK DOWN"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "GANGSTA"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SOFIA"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ke Shy"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ngibambe"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Oh Yeah"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Smoking & Drinking"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Higher Ground"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stop & Go"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mamgobhozi"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Designer"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Koo Koo Fun (Extended)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Koo Koo Fun"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Don't Care About Nothing (from GRAN TURISMO 7)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "La Mano (feat. Tavo Rayo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Titans"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bam Bam"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "QueLoQue"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "King Of The Party"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Soca Storm"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Make It Hot"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Trigger"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rave de Favela"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lay Your Head On Me"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "C'est Cuit"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Diplomatico"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hell and High Water"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Blow That Smoke"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Miss You"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Particula"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jump (feat. Busy Signal)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Buscando Huellas"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Christmas Trees (feat. Protoje)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Believer"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Boom"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Be Together"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Too Original"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Night Riders"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Aerosol Can"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bubble Butt"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jessica"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jump (The Martin Brothers Remix) / Get Naked (acappella) (Riva Starr, Fatboy Slim & Major Lazer Remix) (feat. Beardyman)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jump Up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Keep It Goin' Louder"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hold The Line"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PELINEGRA"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shake It To The Max (FLY) [Major Lazer Remix]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jiggy Woogie"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Closer to You (feat. Major Lazer)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Alone (Major Lazer Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Don't Go Yet (Major Lazer Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Don't Go Yet (Major Lazer Dub)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Blinding Lights (Major Lazer Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dumebi (Major Lazer Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Evapora"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Walking (feat. Swae Lee & Major Lazer)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ALREADY"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Oh My Gawd"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Loko (feat. Kevinho & Busy Signal)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tip Pon It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Where Is Your Love? (feat. Major Lazer)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Naughty Ride (feat. Major Lazer)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "My Love (feat. Major Lazer, WizKid, Dua Lipa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "The Way We Do This (feat. Major Lazer & Busy Signal)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "The Sound (feat. Major Lazer)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Love Me Long (feat. Major Lazer & Gyptian)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "One Wine (feat. Major Lazer)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "We Make It Bounce (feat. Major Lazer & Stylo G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "One Drop (Major Lazer Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pressure"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Push And Shove"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hold You (feat. Major Lazer)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jadi Buti"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Original Don (Flosstradamus Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Keep It Goin' Louder (Tom Stephans Harder Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Let Me Live"
+      },
+], "sameAs": ["https://majorlazer.com/", "https://www.instagram.com/majorlazer"]}}],
  "date_modified": "2026-10-20"
 }

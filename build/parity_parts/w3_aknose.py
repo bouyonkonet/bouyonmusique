@@ -77,14 +77,213 @@ FR = {
   ]
  ],
  "faq": [
-  ("D’où vient Aknose ?", "Aknose est originaire de la Guadeloupe, selon sa biographie publiée sur Qobuz par Music Story, qui le présente comme un artiste de la scène urbaine fusionnant les sons traditionnels antillais avec des influences contemporaines, dans un style notamment inspiré du bouyon."),
-  ("Qui est Gael Rampath ?", "Gael Rampath est le nom d’auteur publié dans les crédits des plateformes pour les titres d’Aknose : auteur du texte de « Moustik » selon la liste Deezer, crédité Gael Aknose Rampath comme auteur de « Gwo Kok Pou Gwo Kokote » de Gomko selon Shazam, et coauteur de « KKM » de DJ LUCHSHIY. Aucune source consultée ne publie davantage d’éléments biographiques sous ce nom."),
-  ("Quand « Moustik » d’Aknose et 1T1 est-il sorti ?", "« Moustik » est sorti en septembre 2023 : Qobuz date la sortie du 28 septembre 2023 et quel-dj du 29 septembre 2023. quel-dj le présente comme une collaboration entre le producteur 1T1 et Aknose, dans la vague bouyon moderne, avec des paroles en créole guadeloupéen. Le texte est crédité à Gael Rampath et la composition à Terry Baptiste selon la liste Deezer."),
-  ("Qu’est-ce que « New Bouyon Wave #1 » ?", "« New Bouyon Wave #1 » est un single de D0 Production sorti le 29 septembre 2023 sur 2873529 Records DK, selon Shazam, en featuring avec TIITII NBA, Nils, DJ Softee, Aknose et Theomaa, à 160 BPM. Aknose y chante le même jour de sortie que celui retenu par quel-dj pour « Moustik »."),
-  ("Aknose a-t-il une trace publiée dès 2018 ?", "Oui, une trace isolée : Shazam liste « Ding Dong » de Dj Tkrys et Aknose, sorti le 28 septembre 2018 sur Le Bon Tuyau Music. C’est la plus ancienne sortie publiée sous ce nom dans les sources consultées, et le catalogue documenté de manière continue commence en 2023 avec « KKM », « Bidiba Bidibou » et « Gwo Kok Pou Gwo Kokote »."),
-  ("Quels titres écouter pour découvrir Aknose ?", "Commencez par « Moustik » avec 1T1, puis « New Bouyon Wave #1 » de D0 Production avec TIITII NBA, Nils, DJ Softee et Theomaa, « Bidiba Bidibou » et « Bad Girls » avec 1T1, « Minimum » et « Manawa » pour ses singles de 2024, et « Palabras » avec YSN pour 2025. Ces titres figurent dans les données structurées de cette page et dans la playlist bouyon du site.")
- ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/aknose.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/aknose.html#artist", "name": "Aknose", "description": "Artiste bouyon originaire de la Guadeloupe. Connu pour Moustik avec 1T1 et New Bouyon Wave #1 de D0 Production. Crédité comme auteur sous le nom Gael Rampath.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Moustik"}, {"@type": "MusicRecording", "name": "New Bouyon Wave #1"}, {"@type": "MusicRecording", "name": "Bidiba Bidibou"}, {"@type": "MusicRecording", "name": "Bad Girls"}, {"@type": "MusicRecording", "name": "Mas La Rivé"}, {"@type": "MusicRecording", "name": "Gwo Kok Pou Gwo Kokote"}, {"@type": "MusicRecording", "name": "KKM"}, {"@type": "MusicRecording", "name": "Qualité Quantité"}, {"@type": "MusicRecording", "name": "Minimum"}, {"@type": "MusicRecording", "name": "Kak Up"}, {"@type": "MusicRecording", "name": "Manawa"}, {"@type": "MusicRecording", "name": "Palabras"}], "sameAs": []}}],
+  (
+    "Qui est Aknose ?",
+    "Aknose est un artiste bouyon originaire de la Guadeloupe, dont le nom s’est installé en 2023 avec « Moustik », son titre avec le producteur <a href=\"/1t1.html\">1T1</a>, et avec « New Bouyon Wave #1 » de D0 Production. En décembre 2025, CCN le cite parmi les artistes bouyon les plus emblématiques du moment en Guadeloupe, avec Lejuh, 1T1, Theomaa, Piscine OSP et Shanika.",
+  ),
+  (
+    "D’où vient Aknose ?",
+    "Aknose est originaire de la Guadeloupe, selon sa biographie publiée sur Qobuz par Music Story, qui le présente comme un artiste de la scène urbaine fusionnant les sons traditionnels antillais avec des influences contemporaines, dans un style notamment inspiré du bouyon.",
+  ),
+  (
+    "Qui est Gael Rampath ?",
+    "Gael Rampath est le nom d’auteur publié dans les crédits des plateformes pour les titres d’Aknose : auteur du texte de « Moustik » selon la liste Deezer, crédité Gael Aknose Rampath comme auteur de « Gwo Kok Pou Gwo Kokote » de Gomko selon Shazam, et coauteur de « KKM » de DJ LUCHSHIY. Aucune source consultée ne publie davantage d’éléments biographiques sous ce nom.",
+  ),
+  (
+    "Quand « Moustik » d’Aknose et 1T1 est-il sorti ?",
+    "« Moustik » est sorti en septembre 2023 : Qobuz date la sortie du 28 septembre 2023 et quel-dj du 29 septembre 2023. quel-dj le présente comme une collaboration entre le producteur 1T1 et Aknose, dans la vague bouyon moderne, avec des paroles en créole guadeloupéen. Le texte est crédité à Gael Rampath et la composition à Terry Baptiste selon la liste Deezer.",
+  ),
+  (
+    "Qu’est-ce que « New Bouyon Wave #1 » ?",
+    "« New Bouyon Wave #1 » est un single de D0 Production sorti le 29 septembre 2023 sur 2873529 Records DK, selon Shazam, en featuring avec TIITII NBA, Nils, DJ Softee, Aknose et Theomaa, à 160 BPM. Aknose y chante le même jour de sortie que celui retenu par quel-dj pour « Moustik ».",
+  ),
+  (
+    "Aknose a-t-il une trace publiée dès 2018 ?",
+    "Oui, une trace isolée : Shazam liste « Ding Dong » de Dj Tkrys et Aknose, sorti le 28 septembre 2018 sur Le Bon Tuyau Music. C’est la plus ancienne sortie publiée sous ce nom dans les sources consultées, et le catalogue documenté de manière continue commence en 2023 avec « KKM », « Bidiba Bidibou » et « Gwo Kok Pou Gwo Kokote ».",
+  ),
+  (
+    "Quels titres écouter pour découvrir Aknose ?",
+    "Commencez par « Moustik » avec 1T1, puis « New Bouyon Wave #1 » de D0 Production avec TIITII NBA, Nils, DJ Softee et Theomaa, « Bidiba Bidibou » et « Bad Girls » avec 1T1, « Minimum » et « Manawa » pour ses singles de 2024, et « Palabras » avec YSN pour 2025. Ces titres figurent dans les données structurées de cette page et dans notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>.",
+  ),
+  (
+    "De quoi parle « Moustik » d’Aknose ?",
+    "Selon quel-dj, « Moustik » compare, avec légèreté et humour, la danseuse à un moustique sur le dancefloor. Le titre est chanté en créole guadeloupéen, dans la vague bouyon moderne, et dure 2 minutes 27 selon la liste Deezer. Le label de 1T1, AB BOYZ Music, le cite parmi les titres à succès que 1T1 continue de produire, et la biographie de 1T1 le liste parmi ceux qui ont fait son nom.",
+  ),
+  (
+    "Qui a produit « Minimum » d’Aknose ?",
+    "« MINIMUM » est sorti en single le 15 mars 2024 sur M B I Family, selon Qobuz. Son clip a suivi le 28 mars 2024, réalisé par Griffit Vision, et la composition est créditée à Ray da Prince, selon la biographie Music Story de l’artiste. Ce site garde les deux dates séparées, comme les sources les donnent : celle du single d’un côté, celle du clip de l’autre.",
+  ),
+  (
+    "Avec quels artistes Aknose a-t-il collaboré ?",
+    "Ses crédits dessinent un réseau : 1T1 sur « Moustik », « Bidiba Bidibou », « Bad Girls » et « Mas La Rivé », <a href=\"/d0-production.html\">D0 Production</a> et TIITII NBA sur « New Bouyon Wave #1 », Gomko, DJ LUCHSHIY, Gwada G sur « KAK UP », YSN sur « Palabras » et Larose sur « Lè an pa siw ou si mwen ». Il figure aussi parmi onze invités de « La Manigance », en 2025.",
+  ),
+  (
+    "Sur quels labels sortent les titres d’Aknose ?",
+    "Aucune source ne publie de contrat, mais deux structures reviennent dans ses sorties : MBI Family, écrit aussi M B I Family, pour « MINIMUM », « Kalollipop », « What I do » et « Coulie Coulie », et Hakuna Music Company pour « Manawa » et « Palabras ». « KAK UP » est sorti chez Vadore Concept Groupe, « Ho nana » chez LOXYMORE, et « 0690 » a été publié par aknose lui-même, selon Qobuz.",
+  ),
+  (
+    "Qu’est-ce que « KAK UP » d’Aknose ?",
+    "« KAK UP » est un single d’Aknose sorti le 9 février 2024 sur Vadore Concept Groupe, selon Qobuz, et sa biographie précise qu’il s’agit d’une collaboration avec <a href=\"/gwada-g.html\">Gwada G</a>, artiste bouyon de la Dominique malgré son nom. Le titre arrive en pleine série de début 2024, après « Coco Mwen Ka Monté Mon’n », le 9 janvier, et « Mas La Rivé » de 1T1, le 12 janvier.",
+  ),
+  (
+    "Quelles sont les dernières sorties d’Aknose ?",
+    "Selon Qobuz, la fin de l’année 2025 compte « Close your mouth », le 7 novembre, « Conakry », le 26 novembre, et « Bonne humeur », le 9 décembre 2025. Plus tôt, 2025 avait vu « Palabras » avec YSN, « What I do », « Pooch (Radio Edit) » et « Coulie Coulie », ainsi que sa présence sur le titre collectif « La Manigance ». Sa production est continue depuis 2023.",
+  ),
+  (
+    "Aknose fait-il du bouyon gwada ?",
+    "Oui. Sa biographie le présente comme un artiste de la scène urbaine au style notamment inspiré du bouyon, quel-dj classe « Moustik » dans la vague bouyon moderne, et les fiches Shazam de ses titres collectifs de 2023 donnent 155 et 160 BPM, la zone de vitesse du bouyon de fête. Ses titres sont écrits en créole guadeloupéen, la langue du <a href=\"/bouyon-gwada.html\">bouyon gwada</a>, branche du genre né en Dominique.",
+  )
+],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/aknose.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/aknose.html#artist", "name": "Aknose", "description": "Artiste bouyon originaire de la Guadeloupe. Connu pour Moustik avec 1T1 et New Bouyon Wave #1 de D0 Production. Crédité comme auteur sous le nom Gael Rampath.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Moustik"}, {"@type": "MusicRecording", "name": "New Bouyon Wave #1"}, {"@type": "MusicRecording", "name": "Bidiba Bidibou"}, {"@type": "MusicRecording", "name": "Bad Girls"}, {"@type": "MusicRecording", "name": "Mas La Rivé"}, {"@type": "MusicRecording", "name": "Gwo Kok Pou Gwo Kokote"}, {"@type": "MusicRecording", "name": "KKM"}, {"@type": "MusicRecording", "name": "Qualité Quantité"}, {"@type": "MusicRecording", "name": "Minimum"}, {"@type": "MusicRecording", "name": "Kak Up"}, {"@type": "MusicRecording", "name": "Manawa"}, {"@type": "MusicRecording", "name": "Palabras"},
+      {
+       "@type": "MusicRecording",
+       "name": "Pink Pink"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Matcha"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "La Manigance (feat. TKS 2G, Mikado, P.L.L, Junior, Dj Glad, Kamelon Officiel, DJ SEBB, Lijay, YSN, Da Nillo, Vanou & Kikitox)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bonne humeur"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Conakry"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Close your mouth"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Coulie Coulie"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pooch (Radio Edit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "What I do"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kalollipop (feat. JIXELS)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "0690 (feat. Deejay Enzo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Oh Nana (Loxymore One Shot)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Only God Can Judge Me"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tèk"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Elastic Girl (feat. Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Brennen"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Célibataire"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Va Dire Ça (feat. Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nyèt"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bloqué"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Manman Missié"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Coconut"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Skincare"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lè an pa siw ou si mwen (feat. Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Gwadloup cho (feat. T-Way, Tone Bo$$, Dvinity, Aknose, Lil Dem, Latea & Kellingston)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BAD BBL (feat. Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Followers / Lagaba (feat. Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mauvais plan"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "2-2 (feat. Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Coco Mwen Ka Monté Mon'n, Vol. 2 (feat. T Dedonia & Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "You Know (feat. Rayken, T-Way, Aknose, Le Juh & Nils)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bostik (feat. Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Love réel"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Maniman (feat. Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ding Dong"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Oh na na (feat. Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "J'ai vu, tu as vu, on a vu (feat. Aknose & Keros-N)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -155,13 +354,212 @@ EN = {
   ]
  ],
  "faq": [
-  ("Where is Aknose from?", "Aknose is from Guadeloupe, according to his biography published on Qobuz by Music Story, which presents him as an artist on the urban scene fusing traditional West Indian sounds with contemporary influences, in a style notably inspired by bouyon."),
-  ("Who is Gael Rampath?", "Gael Rampath is the songwriter name published in platform credits for the records of Aknose: writer of the lyrics of “Moustik” according to the Deezer listing, credited as Gael Aknose Rampath as songwriter of “Gwo Kok Pou Gwo Kokote” by Gomko according to Shazam, and co-writer of “KKM” by DJ LUCHSHIY. No source consulted publishes further biographical elements under that name."),
-  ("When was “Moustik” by Aknose and 1T1 released?", "“Moustik” was released in September 2023: Qobuz dates the release to 28 September 2023 and quel-dj to 29 September 2023. quel-dj presents it as a collaboration between producer 1T1 and Aknose, in the modern bouyon wave, with lyrics in Guadeloupean Creole. The lyrics are credited to Gael Rampath and the composition to Terry Baptiste according to the Deezer listing."),
-  ("What is “New Bouyon Wave #1”?", "“New Bouyon Wave #1” is a single by D0 Production released on 29 September 2023 on 2873529 Records DK, according to Shazam, featuring TIITII NBA, Nils, DJ Softee, Aknose and Theomaa, at 160 BPM. Aknose sings on it on the same release day quel-dj gives for “Moustik”."),
-  ("Does Aknose have a published trace as early as 2018?", "Yes, an isolated trace: Shazam lists “Ding Dong” by Dj Tkrys and Aknose, released on 28 September 2018 on Le Bon Tuyau Music. It is the oldest published release under this name in the sources consulted, and the continuously documented catalogue starts in 2023 with “KKM”, “Bidiba Bidibou” and “Gwo Kok Pou Gwo Kokote”."),
-  ("Which records should I hear to discover Aknose?", "Start with “Moustik” with 1T1, then “New Bouyon Wave #1” by D0 Production with TIITII NBA, Nils, DJ Softee and Theomaa, “Bidiba Bidibou” and “Bad Girls” with 1T1, “Minimum” and “Manawa” for his 2024 singles, and “Palabras” with YSN for 2025. Those records appear in the structured data of this page and in the bouyon playlist of this site.")
- ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/aknose.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/aknose.html#artist", "name": "Aknose", "description": "Bouyon artist from Guadeloupe. Known for Moustik with 1T1 and the D0 Production record New Bouyon Wave #1. Credited as songwriter under the name Gael Rampath.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Moustik"}, {"@type": "MusicRecording", "name": "New Bouyon Wave #1"}, {"@type": "MusicRecording", "name": "Bidiba Bidibou"}, {"@type": "MusicRecording", "name": "Bad Girls"}, {"@type": "MusicRecording", "name": "Mas La Rivé"}, {"@type": "MusicRecording", "name": "Gwo Kok Pou Gwo Kokote"}, {"@type": "MusicRecording", "name": "KKM"}, {"@type": "MusicRecording", "name": "Qualité Quantité"}, {"@type": "MusicRecording", "name": "Minimum"}, {"@type": "MusicRecording", "name": "Kak Up"}, {"@type": "MusicRecording", "name": "Manawa"}, {"@type": "MusicRecording", "name": "Palabras"}], "sameAs": []}}],
+  (
+    "Who is Aknose?",
+    "Aknose is a bouyon artist from Guadeloupe whose name took hold in 2023 with “Moustik”, his track with producer <a href=\"/en/1t1.html\">1T1</a>, and with “New Bouyon Wave #1” by D0 Production. In December 2025, CCN named him among the most emblematic bouyon artists of the moment in Guadeloupe, with Lejuh, 1T1, Theomaa, Piscine OSP and Shanika.",
+  ),
+  (
+    "Where is Aknose from?",
+    "Aknose is from Guadeloupe, according to his biography published on Qobuz by Music Story, which presents him as an artist on the urban scene fusing traditional West Indian sounds with contemporary influences, in a style notably inspired by bouyon.",
+  ),
+  (
+    "Who is Gael Rampath?",
+    "Gael Rampath is the songwriter name published in platform credits for the records of Aknose: writer of the lyrics of “Moustik” according to the Deezer listing, credited as Gael Aknose Rampath as songwriter of “Gwo Kok Pou Gwo Kokote” by Gomko according to Shazam, and co-writer of “KKM” by DJ LUCHSHIY. No source consulted publishes further biographical elements under that name.",
+  ),
+  (
+    "When was “Moustik” by Aknose and 1T1 released?",
+    "“Moustik” was released in September 2023: Qobuz dates the release to 28 September 2023 and quel-dj to 29 September 2023. quel-dj presents it as a collaboration between producer 1T1 and Aknose, in the modern bouyon wave, with lyrics in Guadeloupean Creole. The lyrics are credited to Gael Rampath and the composition to Terry Baptiste according to the Deezer listing.",
+  ),
+  (
+    "What is “New Bouyon Wave #1”?",
+    "“New Bouyon Wave #1” is a single by D0 Production released on 29 September 2023 on 2873529 Records DK, according to Shazam, featuring TIITII NBA, Nils, DJ Softee, Aknose and Theomaa, at 160 BPM. Aknose sings on it on the same release day quel-dj gives for “Moustik”.",
+  ),
+  (
+    "Does Aknose have a published trace as early as 2018?",
+    "Yes, an isolated trace: Shazam lists “Ding Dong” by Dj Tkrys and Aknose, released on 28 September 2018 on Le Bon Tuyau Music. It is the oldest published release under this name in the sources consulted, and the continuously documented catalogue starts in 2023 with “KKM”, “Bidiba Bidibou” and “Gwo Kok Pou Gwo Kokote”.",
+  ),
+  (
+    "Which records should I hear to discover Aknose?",
+    "Start with “Moustik” with 1T1, then “New Bouyon Wave #1” by D0 Production with TIITII NBA, Nils, DJ Softee and Theomaa, “Bidiba Bidibou” and “Bad Girls” with 1T1, “Minimum” and “Manawa” for his 2024 singles, and “Palabras” with YSN for 2025. Those tracks appear in the structured data of this page and in our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>.",
+  ),
+  (
+    "What is “Moustik” by Aknose about?",
+    "According to quel-dj, “Moustik” compares the dancer, with lightness and humour, to a mosquito on the dancefloor. The track is sung in Guadeloupean Creole, in the modern bouyon wave, and runs 2 minutes 27 according to the Deezer listing. 1T1’s label, AB BOYZ Music, lists it among the hits 1T1 keeps producing, and 1T1’s biography lists it among the tracks that made his name.",
+  ),
+  (
+    "Who produced “Minimum” by Aknose?",
+    "“MINIMUM” was released as a single on 15 March 2024 on M B I Family, according to Qobuz. Its video followed on 28 March 2024, directed by Griffit Vision, and the composition is credited to Ray da Prince, according to the artist’s Music Story biography. This site keeps the two dates apart, as the sources give them: the single on one side, the video on the other.",
+  ),
+  (
+    "Which artists has Aknose worked with?",
+    "His credits draw a network: 1T1 on “Moustik”, “Bidiba Bidibou”, “Bad Girls” and “Mas La Rivé”, <a href=\"/en/d0-production.html\">D0 Production</a> and TIITII NBA on “New Bouyon Wave #1”, Gomko, DJ LUCHSHIY, Gwada G on “KAK UP”, YSN on “Palabras” and Larose on “Lè an pa siw ou si mwen”. In 2025, he also appears among eleven guests on the collective track “La Manigance”.",
+  ),
+  (
+    "Which labels release Aknose’s tracks?",
+    "No source publishes a contract, but two names recur in his releases: MBI Family, also written M B I Family, for “MINIMUM”, “Kalollipop”, “What I do” and “Coulie Coulie”, and Hakuna Music Company for “Manawa” and “Palabras”. “KAK UP” came out on Vadore Concept Groupe, “Ho nana” on LOXYMORE, and “0690” was released by aknose himself, according to Qobuz.",
+  ),
+  (
+    "What is “KAK UP” by Aknose?",
+    "“KAK UP” is an Aknose single released on 9 February 2024 on Vadore Concept Groupe, according to Qobuz, and his biography specifies that it is a collaboration with <a href=\"/en/gwada-g.html\">Gwada G</a>, a bouyon artist from Dominica despite his name. The track lands in the middle of an early 2024 run, after “Coco Mwen Ka Monté Mon’n” on 9 January and 1T1’s “Mas La Rivé” on 12 January.",
+  ),
+  (
+    "What are Aknose’s latest releases?",
+    "According to Qobuz, late 2025 brought “Close your mouth” on 7 November, “Conakry” on 26 November and “Bonne humeur” on 9 December 2025. Earlier in 2025 came “Palabras” with YSN, “What I do”, “Pooch (Radio Edit)” and “Coulie Coulie”, as well as his presence on the collective track “La Manigance”. His output has been continuous since 2023.",
+  ),
+  (
+    "Does Aknose make bouyon gwada?",
+    "Yes. His biography presents him as an urban scene artist whose style is notably inspired by bouyon, quel-dj places “Moustik” in the modern bouyon wave, and the Shazam pages of his 2023 collective tracks give 155 and 160 BPM, the speed zone of party bouyon. His tracks are written in Guadeloupean Creole, the language of <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a>, the branch of the genre born in Dominica.",
+  )
+],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/aknose.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/aknose.html#artist", "name": "Aknose", "description": "Bouyon artist from Guadeloupe. Known for Moustik with 1T1 and the D0 Production record New Bouyon Wave #1. Credited as songwriter under the name Gael Rampath.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Moustik"}, {"@type": "MusicRecording", "name": "New Bouyon Wave #1"}, {"@type": "MusicRecording", "name": "Bidiba Bidibou"}, {"@type": "MusicRecording", "name": "Bad Girls"}, {"@type": "MusicRecording", "name": "Mas La Rivé"}, {"@type": "MusicRecording", "name": "Gwo Kok Pou Gwo Kokote"}, {"@type": "MusicRecording", "name": "KKM"}, {"@type": "MusicRecording", "name": "Qualité Quantité"}, {"@type": "MusicRecording", "name": "Minimum"}, {"@type": "MusicRecording", "name": "Kak Up"}, {"@type": "MusicRecording", "name": "Manawa"}, {"@type": "MusicRecording", "name": "Palabras"},
+      {
+       "@type": "MusicRecording",
+       "name": "Pink Pink"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Matcha"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "La Manigance (feat. TKS 2G, Mikado, P.L.L, Junior, Dj Glad, Kamelon Officiel, DJ SEBB, Lijay, YSN, Da Nillo, Vanou & Kikitox)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bonne humeur"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Conakry"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Close your mouth"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Coulie Coulie"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pooch (Radio Edit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "What I do"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kalollipop (feat. JIXELS)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "0690 (feat. Deejay Enzo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Oh Nana (Loxymore One Shot)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Only God Can Judge Me"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tèk"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Elastic Girl (feat. Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Brennen"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Célibataire"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Va Dire Ça (feat. Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nyèt"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bloqué"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Manman Missié"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Coconut"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Skincare"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lè an pa siw ou si mwen (feat. Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Gwadloup cho (feat. T-Way, Tone Bo$$, Dvinity, Aknose, Lil Dem, Latea & Kellingston)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BAD BBL (feat. Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Followers / Lagaba (feat. Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mauvais plan"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "2-2 (feat. Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Coco Mwen Ka Monté Mon'n, Vol. 2 (feat. T Dedonia & Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "You Know (feat. Rayken, T-Way, Aknose, Le Juh & Nils)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bostik (feat. Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Love réel"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Maniman (feat. Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ding Dong"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Oh na na (feat. Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "J'ai vu, tu as vu, on a vu (feat. Aknose & Keros-N)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

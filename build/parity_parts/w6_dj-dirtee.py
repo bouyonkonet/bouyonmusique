@@ -66,14 +66,153 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Dj Dirtee ?", "Dj Dirtee est un DJ et producteur de la scène bouyon francophone, documenté uniquement par ses crédits de plateformes : producteur de « Kay téka fè » de Skynix avec Gucci C en 2020, artiste invité de « Tik tak » de Team Bwè Tou Sa en 2021, artiste principal de « I ja lè » avec Gucci C en 2021 et de « Touch and Go » avec Trixzmigos et Fetty Mark en 2024, puis artiste invité de « Supalova » et de « LA PEP'HIT FREESTYLE » de DJ Softee en 2025. Le dossier public consulté n'établit ni son nom complet ni son origine."),
-  ("Dj Dirtee est-il l'ancien bassiste punk DJ Dirtee $keet ?", "Non. DJ Dirtee $keet est le pseudonyme de Nicholas Largen, bassiste du groupe punk Whole Wheat Bread de Jacksonville, en Floride, documenté par Wikipédia et Consequence. Le DJ breakbeat britannique nommé Dirtee, actif sur les radios internet londoniennes et le forum Nubreaks, et le manager hip hop DJ Dirrty, dit JDirrt, portraituré par The Source en 2013, sont encore d'autres personnes. Aucun de leurs faits n'appartient à ce profil."),
-  ("Quel est le premier crédit connu de Dj Dirtee ?", "Un crédit de production : « Kay téka fè », de Skynix avec Gucci C, sorti le 15 juillet 2020 sous le label iMD-TQTMP, composé par Dylan Kézia Frair, crédite Dj Dirtee à la production et à l'ingénierie sur sa fiche Shazam, à 160 BPM."),
-  ("« Dj Dirtee (No limit Megamix) » est-il un titre de Dj Dirtee ?", "Non, pas selon les crédits publiés. Le titre, sorti le 4 avril 2024 chez MJ BEATS-RECORD dans l'album « No Limit Riddim », est crédité à LAPEPHIT, avec Steeve Fleret comme auteur. Le nom de Dj Dirtee figure dans l'intitulé du mégamix, ce qui documente la circulation de son nom dans la scène, mais ce profil ne le compte pas parmi ses enregistrements."),
-  ("Avec qui Dj Dirtee a-t-il collaboré en 2025 ?", "Avec le cercle de DJ Softee. Deezer liste « Supalova », avec Tiitii NBA et DJ Dirtee, sur l'EP « Chodong Route Empire C.R.E » de DJ Softee, et le single « LA PEP'HIT FREESTYLE », sorti le 4 juin 2025, crédite Tiitii NBA, DJ Boko, Le K et DJ Dirtee, avec Steeve Fleret et Julian White à l'écriture."),
-  ("Où écouter le bouyon de la scène de Dj Dirtee ?", "Commencez par ses titres vérifiés, « I ja lè », « Touch and Go », « Supalova » et « LA PEP'HIT FREESTYLE », puis écoutez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, qui rassemble bouyon, bouyon soca et nouveautés de la Dominique et des Antilles françaises suivies par Bouyon Shattaz.")
- ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/dj-dirtee.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/dj-dirtee.html#artist", "name": "Dj Dirtee", "description": "DJ et producteur bouyon documenté par ses crédits de plateformes : production de Kay téka fè pour Skynix en 2020, I ja lè avec Gucci C en 2021, Touch and Go avec Trixzmigos et Fetty Mark en 2024, Supalova et LA PEP'HIT FREESTYLE avec DJ Softee et Tiitii NBA en 2025. Nom complet et origine non établis par le dossier public.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Kay téka fè"}, {"@type": "MusicRecording", "name": "Tik tak"}, {"@type": "MusicRecording", "name": "I ja lè"}, {"@type": "MusicRecording", "name": "Wuk up di riddim Bouyon"}, {"@type": "MusicRecording", "name": "Touch & Go"}, {"@type": "MusicRecording", "name": "Supalova"}, {"@type": "MusicRecording", "name": "LA PEP'HIT FREESTYLE"}], "sameAs": []}}],
+  (
+    "Qui est Dj Dirtee ?",
+    "Dj Dirtee est un DJ et producteur de la scène bouyon francophone, documenté uniquement par ses crédits de plateformes : producteur de « Kay téka fè » de Skynix en 2020, artiste principal de « I ja lè » en 2021 et de « Touch and Go » en 2024, puis invité de « Supalova » et de « LA PEP'HIT FREESTYLE » de DJ Softee en 2025. Le dossier consulté n'établit ni son nom complet ni son origine.",
+  ),
+  (
+    "Dj Dirtee est-il l'ancien bassiste punk DJ Dirtee $keet ?",
+    "Non. DJ Dirtee $keet est le pseudonyme de Nicholas Largen, bassiste du groupe punk Whole Wheat Bread de Jacksonville, en Floride, documenté par Wikipédia et Consequence. Le DJ breakbeat britannique nommé Dirtee, actif sur les radios internet londoniennes et le forum Nubreaks, et le manager hip hop DJ Dirrty, dit JDirrt, portraituré par The Source en 2013, sont encore d'autres personnes. Aucun de leurs faits n'appartient à ce profil.",
+  ),
+  (
+    "Quel est le premier crédit connu de Dj Dirtee ?",
+    "Un crédit de production : « Kay téka fè », de Skynix avec Gucci C, sorti le 15 juillet 2020 sous le label iMD-TQTMP et composé par Dylan Kézia Frair, crédite Dj Dirtee à la production et à l’ingénierie sur sa fiche Shazam, à 160 BPM. Il entre donc dans le dossier public comme l’homme derrière le titre d’un autre, avant d’apparaître sous son propre nom.",
+  ),
+  (
+    "« Dj Dirtee (No limit Megamix) » est-il un titre de Dj Dirtee ?",
+    "Non, pas selon les crédits publiés. Le titre, sorti le 4 avril 2024 chez MJ BEATS-RECORD dans l'album « No Limit Riddim », est crédité à LAPEPHIT, avec Steeve Fleret comme auteur. Le nom de Dj Dirtee figure dans l'intitulé du mégamix, ce qui documente la circulation de son nom dans la scène, mais ce profil ne le compte pas parmi ses enregistrements.",
+  ),
+  (
+    "Avec qui Dj Dirtee a-t-il collaboré en 2025 ?",
+    "Avec le cercle de DJ Softee. Deezer liste « Supalova », avec Tiitii NBA et DJ Dirtee, sur l'EP « Chodong Route Empire C.R.E » de DJ Softee, et le single « LA PEP'HIT FREESTYLE », sorti le 4 juin 2025, crédite Tiitii NBA, DJ Boko, Le K et DJ Dirtee, avec Steeve Fleret et Julian White à l'écriture.",
+  ),
+  (
+    "Où écouter le bouyon de la scène de Dj Dirtee ?",
+    "Commencez par ses titres vérifiés, « I ja lè », « Touch and Go », « Supalova » et « LA PEP'HIT FREESTYLE », tous publiés sur les plateformes d'écoute, puis écoutez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, qui rassemble bouyon, bouyon soca et nouveautés de la Dominique et des Antilles françaises suivies par Bouyon Shattaz.",
+  ),
+  (
+    "Qu’est-ce que Touch and Go de Dj Dirtee ?",
+    "C’est son titre le plus complet : un single en anglais sorti le 7 février 2024 chez 1899862 Records DK, à 160 BPM, avec Trixzmigos et Fetty Mark. La page Shazam de Trixzmigos, groupe de la scène dominicaine, liste le même titre en retour. « Touch and Go » relie ainsi le bouyon des Antilles françaises et celui de la Dominique anglophone.",
+  ),
+  (
+    "Qu’est-ce que I ja lè, le single de Dj Dirtee avec Gucci C ?",
+    "« I ja lè » est un titre publié sous le nom de Dj Dirtee le 9 novembre 2021, avec Gucci C, chez 1899862 Records DK, le label qui sortira « Touch and Go » en 2024. Sa fiche crédite Steeve Fleret comme auteur. Le tempo affiché, 80 BPM, est la moitié du tempo habituel de la scène, une notation fréquente des plateformes pour les titres rapides.",
+  ),
+  (
+    "Quel est le lien entre Dj Dirtee et Gucci C ?",
+    "Gucci C est son collaborateur le plus récurrent : il chante sur « Kay téka fè » de Skynix, produit par Dj Dirtee en 2020, sur « I ja lè », le single de Dj Dirtee de 2021, et sur « Moto » de Tytys, dont le clip officiel porte la mention « Feat. DJ DIRTEE ». Trois titres qui dessinent un même atelier de travail sur plusieurs années.",
+  ),
+  (
+    "Dj Dirtee figure-t-il sur Moto de Tytys ?",
+    "Dans le titre du clip, oui : la fiche Shazam de « Moto », de Tytys avec Gucci C, extrait de l’album « Mr Chodé », rattache un clip officiel intitulé « TYTYS x GUCCI C - MOTO (Feat.DJ DIRTEE) ». Le titre tel que la plateforme le liste ne le nomme pas. Ce profil retient donc un crédit vidéo, sans compter « Moto » parmi ses enregistrements.",
+  ),
+  (
+    "Qui est Steeve Fleret, le nom qui revient avec Dj Dirtee ?",
+    "Steeve Fleret est un auteur et producteur crédité à plusieurs reprises dans l’entourage de Dj Dirtee : auteur de « I ja lè » en 2021, auteur du mégamix « Dj Dirtee (No limit Megamix) » de LAPEPHIT en 2024, puis auteur et producteur de « LA PEP’HIT FREESTYLE » de DJ Softee en 2025, selon Shazam. Il sert de fil conducteur au dossier.",
+  ),
+  (
+    "Dj Dirtee a-t-il travaillé avec la Team Bwè Tou Sa ?",
+    "Oui. L’album « VOYÉ SA ALLÉÉ » de Team Bwè Tou Sa, publié par T-BTS le 29 juillet 2021, comprend « Tik tak », qui crédite Dj Dirtee en artiste invité avec Lunik, en français et à 155 BPM selon Shazam. C’est sa première apparition comme artiste invité, un an après son crédit de production sur « Kay téka fè ».",
+  ),
+  (
+    "Wuk up di riddim est-il un titre de Dj Dirtee ?",
+    "C’est une trace de classement DJ, pas une sortie documentée. Un classement communautaire de VirtualDJ liste « Dj Dirtee Wuk up di riddim Bouyon », daté de 2023 et rangé en hip hop et rap. Aucune fiche de plateforme de streaming consultée ne lui donne de date de sortie, de label ou de crédits comparables aux autres titres du dossier.",
+  )
+],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/dj-dirtee.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/dj-dirtee.html#artist", "name": "Dj Dirtee", "description": "DJ et producteur bouyon documenté par ses crédits de plateformes : production de Kay téka fè pour Skynix en 2020, I ja lè avec Gucci C en 2021, Touch and Go avec Trixzmigos et Fetty Mark en 2024, Supalova et LA PEP'HIT FREESTYLE avec DJ Softee et Tiitii NBA en 2025. Nom complet et origine non établis par le dossier public.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Kay téka fè"}, {"@type": "MusicRecording", "name": "Tik tak"}, {"@type": "MusicRecording", "name": "I ja lè"}, {"@type": "MusicRecording", "name": "Wuk up di riddim Bouyon"}, {"@type": "MusicRecording", "name": "Touch & Go"}, {"@type": "MusicRecording", "name": "Supalova"}, {"@type": "MusicRecording", "name": "LA PEP'HIT FREESTYLE"},
+      {
+       "@type": "MusicRecording",
+       "name": "Spice Freestyle (feat. Gucci C)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Enjoy Your Life"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fanm Aw (feat. Les Curvyzz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "En Vrai (feat. Rayken)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fè sa (feat. Medunn Mc)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sirène Riddim (Instrumental version)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Megamix Sirène Riddim"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "An Diw (feat. Le Cok Sportif)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Libélil (feat. Team Bwè Tou Sa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hey My Baby (feat. Gucci C)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cookie (feat. Haterz'Be)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rachelle (feat. Arendi)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Motivé (feat. Doc J)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ring Ring Ring (feat. Dikens)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shooter (feat. Medunn mc)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mové Mové (feat. Gucci C)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kate Anissa (feat. Dikens, Vely, Skyone & florian Freche)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Welele (feat. Edday & Kitty p)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TI CHABIN LA (feat. sissii & Dj Dirtee)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "la cloche (feat. Dj Dirtee)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ca Empeste"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kitty Cat"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pli ô"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -130,13 +269,152 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Dj Dirtee?", "Dj Dirtee is a DJ and producer from the French speaking bouyon scene, documented only by his platform credits: producer of Skynix “Kay téka fè” with Gucci C in 2020, featured artist on Team Bwè Tou Sa “Tik tak” in 2021, lead artist of “I ja lè” with Gucci C in 2021 and of “Touch and Go” with Trixzmigos and Fetty Mark in 2024, then featured artist on DJ Softee “Supalova” and “LA PEP'HIT FREESTYLE” in 2025. The public record consulted establishes neither his full name nor his origin."),
-  ("Is Dj Dirtee the former punk bassist DJ Dirtee $keet?", "No. DJ Dirtee $keet is the stage name of Nicholas Largen, bassist of the Jacksonville, Florida punk band Whole Wheat Bread, documented by Wikipedia and Consequence. The British breakbeat DJ named Dirtee, active on London internet radio and the Nubreaks forum, and the hip hop manager DJ Dirrty, called JDirrt, profiled by The Source in 2013, are yet other people. None of their facts belong in this profile."),
-  ("What is the earliest known Dj Dirtee credit?", "A production credit: “Kay téka fè”, by Skynix with Gucci C, released on July 15, 2020 on the label iMD-TQTMP, composed by Dylan Kézia Frair, credits Dj Dirtee with production and engineering on its Shazam page, at 160 BPM."),
-  ("Is “Dj Dirtee (No limit Megamix)” a Dj Dirtee record?", "No, not according to the published credits. The record, released on April 4, 2024 on MJ BEATS-RECORD inside the album “No Limit Riddim”, is credited to LAPEPHIT, with Steeve Fleret as songwriter. The Dj Dirtee name appears in the megamix title, which documents the circulation of his name in the scene, but this profile does not count it among his recordings."),
-  ("Who did Dj Dirtee collaborate with in 2025?", "With the DJ Softee circle. Deezer lists “Supalova”, with Tiitii NBA and DJ Dirtee, on the DJ Softee EP “Chodong Route Empire C.R.E”, and the single “LA PEP'HIT FREESTYLE”, released on June 4, 2025, credits Tiitii NBA, DJ Boko, Le K and DJ Dirtee, with Steeve Fleret and Julian White in writing."),
-  ("Where can I hear the bouyon of the Dj Dirtee scene?", "Start with his verified records, “I ja lè”, “Touch and Go”, “Supalova” and “LA PEP'HIT FREESTYLE”, then hear our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, which gathers bouyon, bouyon soca and new releases from Dominica and the French Antilles followed by Bouyon Shattaz.")
- ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/dj-dirtee.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/dj-dirtee.html#artist", "name": "Dj Dirtee", "description": "Bouyon DJ and producer documented by his platform credits: production of Kay teka fe for Skynix in 2020, I ja le with Gucci C in 2021, Touch and Go with Trixzmigos and Fetty Mark in 2024, Supalova and LA PEP'HIT FREESTYLE with DJ Softee and Tiitii NBA in 2025. Full name and origin not established by the public record.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Kay téka fè"}, {"@type": "MusicRecording", "name": "Tik tak"}, {"@type": "MusicRecording", "name": "I ja lè"}, {"@type": "MusicRecording", "name": "Wuk up di riddim Bouyon"}, {"@type": "MusicRecording", "name": "Touch & Go"}, {"@type": "MusicRecording", "name": "Supalova"}, {"@type": "MusicRecording", "name": "LA PEP'HIT FREESTYLE"}], "sameAs": []}}],
+  (
+    "Who is Dj Dirtee?",
+    "Dj Dirtee is a DJ and producer from the French speaking bouyon scene, documented only by his platform credits: producer of Skynix’s “Kay téka fè” in 2020, lead artist of “I ja lè” in 2021 and of “Touch and Go” in 2024, then featured on DJ Softee’s “Supalova” and “LA PEP'HIT FREESTYLE” in 2025. The record consulted establishes neither his full name nor his origin.",
+  ),
+  (
+    "Is Dj Dirtee the former punk bassist DJ Dirtee $keet?",
+    "No. DJ Dirtee $keet is the stage name of Nicholas Largen, bassist of the Jacksonville, Florida punk band Whole Wheat Bread, documented by Wikipedia and Consequence. The British breakbeat DJ named Dirtee, active on London internet radio and the Nubreaks forum, and the hip hop manager DJ Dirrty, called JDirrt, profiled by The Source in 2013, are yet other people. None of their facts belong in this profile.",
+  ),
+  (
+    "What is the earliest known Dj Dirtee credit?",
+    "A production credit: “Kay téka fè”, by Skynix with Gucci C, released on July 15, 2020 on the label iMD-TQTMP and composed by Dylan Kézia Frair, credits Dj Dirtee with production and engineering on its Shazam page, at 160 BPM. He therefore enters the public record as the man behind someone else’s track, before appearing under his own name.",
+  ),
+  (
+    "Is “Dj Dirtee (No limit Megamix)” a Dj Dirtee record?",
+    "No, not according to the published credits. The record, released on April 4, 2024 on MJ BEATS-RECORD inside the album “No Limit Riddim”, is credited to LAPEPHIT, with Steeve Fleret as songwriter. The Dj Dirtee name appears in the megamix title, which documents the circulation of his name in the scene, but this profile does not count it among his recordings.",
+  ),
+  (
+    "Who did Dj Dirtee collaborate with in 2025?",
+    "With the DJ Softee circle. Deezer lists “Supalova”, with Tiitii NBA and DJ Dirtee, on the DJ Softee EP “Chodong Route Empire C.R.E”, and the single “LA PEP'HIT FREESTYLE”, released on June 4, 2025, credits Tiitii NBA, DJ Boko, Le K and DJ Dirtee, with Steeve Fleret and Julian White in writing.",
+  ),
+  (
+    "Where can I hear the bouyon of the Dj Dirtee scene?",
+    "Start with his verified records, “I ja lè”, “Touch and Go”, “Supalova” and “LA PEP'HIT FREESTYLE”, all published on the streaming platforms, then hear our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, which gathers bouyon, bouyon soca and new releases from Dominica and the French Antilles followed by Bouyon Shattaz.",
+  ),
+  (
+    "What is Dj Dirtee’s Touch and Go?",
+    "It is his most complete record: an English language single released on February 7, 2024 on 1899862 Records DK, at 160 BPM, with Trixzmigos and Fetty Mark. The Shazam page of Trixzmigos, a group from the Dominica scene, lists the same track in return. “Touch and Go” thus links French Antilles bouyon and the bouyon of English speaking Dominica.",
+  ),
+  (
+    "What is I ja lè, Dj Dirtee’s single with Gucci C?",
+    "“I ja lè” is a track released under Dj Dirtee’s name on November 9, 2021, with Gucci C, on 1899862 Records DK, the label that would release “Touch and Go” in 2024. Its sheet credits Steeve Fleret as songwriter. The listed tempo, 80 BPM, is half the scene’s usual tempo, a common platform notation for fast tracks.",
+  ),
+  (
+    "What is the link between Dj Dirtee and Gucci C?",
+    "Gucci C is his most frequent collaborator: he sings on Skynix’s “Kay téka fè”, produced by Dj Dirtee in 2020, on “I ja lè”, Dj Dirtee’s 2021 single, and on Tytys’s “Moto”, whose official video carries the mention “Feat. DJ DIRTEE”. Three tracks that sketch the same workshop over several years.",
+  ),
+  (
+    "Is Dj Dirtee on Tytys’s Moto?",
+    "In the video title, yes: the Shazam page of “Moto”, by Tytys with Gucci C, from the album “Mr Chodé”, links an official video titled “TYTYS x GUCCI C - MOTO (Feat.DJ DIRTEE)”. The track as the platform lists it does not name him. This profile therefore keeps a video credit, without counting “Moto” among his recordings.",
+  ),
+  (
+    "Who is Steeve Fleret, the name that keeps coming up with Dj Dirtee?",
+    "Steeve Fleret is a songwriter and producer credited several times around Dj Dirtee: writer of “I ja lè” in 2021, writer of LAPEPHIT’s “Dj Dirtee (No limit Megamix)” in 2024, then writer and producer of DJ Softee’s “LA PEP’HIT FREESTYLE” in 2025, according to Shazam. He is the common thread of the record.",
+  ),
+  (
+    "Did Dj Dirtee work with Team Bwè Tou Sa?",
+    "Yes. Team Bwè Tou Sa’s album “VOYÉ SA ALLÉÉ”, released by T-BTS on July 29, 2021, includes “Tik tak”, which credits Dj Dirtee as a featured artist with Lunik, in French and at 155 BPM according to Shazam. It is his first appearance as a featured artist, one year after his production credit on “Kay téka fè”.",
+  ),
+  (
+    "Is Wuk up di riddim a Dj Dirtee track?",
+    "It is a DJ chart trace, not a documented release. A VirtualDJ community chart lists “Dj Dirtee Wuk up di riddim Bouyon”, dated 2023 and filed under hip hop and rap. No streaming platform sheet consulted gives it a release date, a label or credits comparable to the other tracks in the record.",
+  )
+],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/dj-dirtee.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/dj-dirtee.html#artist", "name": "Dj Dirtee", "description": "Bouyon DJ and producer documented by his platform credits: production of Kay teka fe for Skynix in 2020, I ja le with Gucci C in 2021, Touch and Go with Trixzmigos and Fetty Mark in 2024, Supalova and LA PEP'HIT FREESTYLE with DJ Softee and Tiitii NBA in 2025. Full name and origin not established by the public record.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Kay téka fè"}, {"@type": "MusicRecording", "name": "Tik tak"}, {"@type": "MusicRecording", "name": "I ja lè"}, {"@type": "MusicRecording", "name": "Wuk up di riddim Bouyon"}, {"@type": "MusicRecording", "name": "Touch & Go"}, {"@type": "MusicRecording", "name": "Supalova"}, {"@type": "MusicRecording", "name": "LA PEP'HIT FREESTYLE"},
+      {
+       "@type": "MusicRecording",
+       "name": "Spice Freestyle (feat. Gucci C)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Enjoy Your Life"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fanm Aw (feat. Les Curvyzz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "En Vrai (feat. Rayken)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fè sa (feat. Medunn Mc)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sirène Riddim (Instrumental version)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Megamix Sirène Riddim"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "An Diw (feat. Le Cok Sportif)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Libélil (feat. Team Bwè Tou Sa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hey My Baby (feat. Gucci C)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cookie (feat. Haterz'Be)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rachelle (feat. Arendi)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Motivé (feat. Doc J)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ring Ring Ring (feat. Dikens)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shooter (feat. Medunn mc)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mové Mové (feat. Gucci C)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kate Anissa (feat. Dikens, Vely, Skyone & florian Freche)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Welele (feat. Edday & Kitty p)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TI CHABIN LA (feat. sissii & Dj Dirtee)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "la cloche (feat. Dj Dirtee)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ca Empeste"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kitty Cat"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pli ô"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

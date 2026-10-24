@@ -92,14 +92,297 @@ FR = {
   ],
  ],
  "faq": [
-  ("Qui est Skinny Banton ?", "Skinny Banton est la figure clé du bouyon-muffin selon Wikipedia, en anglais comme en français : un artiste qui, dès 1995, collabore avec WCK en posant un chant influencé par le ragga sur des rythmes bouyon. La liste des anciens membres de WCK donne son nom complet : Wayne « Skinny Banton » Robinson, aux voix principales. Il est ensuite connu sous le nom de Shadowflow."),
-  ("Qu’est-ce que le bouyon-muffin ?", "Le bouyon-muffin est une branche du bouyon qui incorpore des éléments de raggamuffin jamaïcain, de hip hop et de dancehall. Il s’est développé dans les années 1990, quand des musiciens dominicains ont expérimenté des voix influencées par le ragga sur les rythmes bouyon. Air Caraïbes le décrit aussi comme la variante du bouyon qui incorpore des éléments de hip hop et de ragga."),
-  ("En quoi le bouyon-muffin diffère-t-il du bouyon classique ?", "Le bouyon classique est la musique des groupes fondateurs comme WCK : formations live, claviers et machines sur une base de cadence-lypso et de jing ping. Le bouyon-muffin garde la base rythmique bouyon, mais il change la voix : on toaste et on parle rythmé, à la manière du raggamuffin et du dancehall, plutôt que de chanter en formation. C’est aussi la branche qui fait le pont vers le Wrecketeng des DJ."),
-  ("Quel titre relie Skinny Banton à DJ Cut ?", "Le titre « Party », avec Joanne et DJ Cut de Bucktown Sounds. Selon Wikipedia, cet enregistrement combine le bouyon avec un deejaying de style dancehall, et les expériences de ce type ont inspiré des artistes comme le Bushtown Clan à pousser le hip hop et le dancehall dans le bouyon, ce qui a mené au Wrecketeng. Aucune source consultée ne publie l’année de sortie de « Party »."),
-  ("Skinny Banton et Shadowflow, est-ce la même personne ?", "Oui, selon les sources. Wikipedia indique que Skinny Banton est ensuite connu sous le nom de Shadowflow, et la liste des anciens membres de WCK réunit les deux noms sur une seule ligne : Wayne « Skinny Banton » Robinson, aussi connu comme « Shadowflow ». Les sources consultées ne documentent en revanche aucun titre publié sous le nom Shadowflow."),
-  ("Skinny Banton est-il l’artiste soca de Trinidad et de la Grenade ?", "Non. Il existe un autre artiste appelé Skinny Banton : un chanteur soca dont les sources donnent le nom comme Shirlan George, né à Trinidad et vivant à Carriacou, à la Grenade. C’est un artiste différent. Le Skinny Banton de cette page est la voix dominicaine du bouyon-muffin, liée à WCK dès 1995 et ensuite connue comme Shadowflow. Les deux artistes partagent un nom de scène, rien de plus dans le dossier vérifié.")
- ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/skinny-banton.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/skinny-banton.html#artist", "name": "Skinny Banton", "description": "Figure clé du bouyon-muffin en Dominique, collaborateur de WCK dès 1995, ensuite connu sous le nom de Shadowflow.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Party'}], "sameAs": []}}],
+  (
+    "Qui est Skinny Banton ?",
+    "Skinny Banton est la figure clé du bouyon-muffin selon Wikipedia, en anglais comme en français : un artiste qui, dès 1995, collabore avec WCK en posant un chant influencé par le ragga sur des rythmes bouyon. La liste des anciens membres de WCK donne son nom complet : Wayne « Skinny Banton » Robinson, aux voix principales. Il est ensuite connu sous le nom de Shadowflow.",
+  ),
+  (
+    "Qu’est-ce que le bouyon-muffin ?",
+    "Le bouyon-muffin est une branche du bouyon qui incorpore des éléments de raggamuffin jamaïcain, de hip hop et de dancehall. Il s’est développé dans les années 1990, quand des musiciens dominicains ont expérimenté des voix influencées par le ragga sur les rythmes bouyon. Air Caraïbes le décrit aussi comme la variante du bouyon qui incorpore des éléments de hip hop et de ragga.",
+  ),
+  (
+    "En quoi le bouyon-muffin diffère-t-il du bouyon classique ?",
+    "Le bouyon classique est la musique des groupes fondateurs comme WCK : formations live, claviers et machines sur une base de cadence-lypso et de jing ping. Le bouyon-muffin garde la base rythmique bouyon, mais il change la voix : on toaste et on parle rythmé, à la manière du raggamuffin et du dancehall, plutôt que de chanter en formation. C’est aussi la branche qui fait le pont vers le Wrecketeng des DJ.",
+  ),
+  (
+    "Quel titre relie Skinny Banton à DJ Cut ?",
+    "Le titre « Party », avec Joanne et DJ Cut de Bucktown Sounds. Selon Wikipedia, cet enregistrement combine le bouyon avec un deejaying de style dancehall, et les expériences de ce type ont inspiré des artistes comme le Bushtown Clan à pousser le hip hop et le dancehall dans le bouyon, ce qui a mené au Wrecketeng. Voir <a href=\"/dj-cut.html\">le profil de DJ Cut</a>.",
+  ),
+  (
+    "Skinny Banton et Shadowflow, est-ce la même personne ?",
+    "Oui, selon les sources. Wikipedia indique que Skinny Banton est ensuite connu sous le nom de Shadowflow, et la liste des anciens membres de WCK réunit les deux noms sur une seule ligne : Wayne « Skinny Banton » Robinson, aussi connu comme « Shadowflow ». Ce site classe son profil sous Skinny Banton, le nom de l’œuvre documentée, pour qu’une recherche sur l’un ou l’autre nom mène au même dossier.",
+  ),
+  (
+    "Skinny Banton est-il l’artiste soca de Trinidad et de la Grenade ?",
+    "Non. Il existe un autre artiste appelé Skinny Banton : un chanteur soca dont les sources donnent le nom comme Shirlan George, né à Trinidad et vivant à Carriacou, à la Grenade. C’est un artiste différent. Le Skinny Banton de cette page est la voix dominicaine du bouyon-muffin, liée à WCK dès 1995 et ensuite connue comme Shadowflow. Les deux artistes partagent un nom de scène, rien de plus dans le dossier vérifié.",
+  ),
+  (
+    "Quel est le vrai nom de Skinny Banton, la voix du bouyon-muffin ?",
+    "Selon la liste des anciens membres de WCK publiée sur la page anglaise de Wikipedia consacrée au groupe, son nom complet est Wayne Robinson : la page écrit Wayne « Skinny Banton » Robinson, aussi connu comme « Shadowflow », aux voix principales. Attention à l’homonyme : l’artiste soca appelé lui aussi Skinny Banton porte un autre nom civil, Shirlan George, selon les sources qui le documentent.",
+  ),
+  (
+    "D’où vient Skinny Banton ?",
+    "Le Skinny Banton du bouyon-muffin est une voix de la Dominique : il a chanté avec <a href=\"/wck.html\">WCK</a>, le groupe formé à Roseau en 1988 qui a créé le bouyon, à partir de 1995. C’est lui que les sources sur le bouyon identifient. L’autre Skinny Banton, l’artiste soca, est né à Trinidad et vit à Carriacou, à la Grenade : deux artistes, deux îles, deux genres voisins mais distincts.",
+  ),
+  (
+    "Skinny Banton a-t-il fait partie de WCK ?",
+    "Oui. La page anglaise de Wikipedia consacrée à WCK le cite parmi les anciens membres du groupe, aux voix principales, sous le nom de Wayne « Skinny Banton » Robinson, aux côtés de figures comme Derick « Rah » Peters et Cornell « Fingaz » Phillip. Il n’apparaît donc pas seulement comme un collaborateur extérieur de passage : dans le dossier publié du groupe, il compte parmi ses voix.",
+  ),
+  (
+    "Quand Skinny Banton a-t-il commencé avec WCK ?",
+    "À partir de 1995, selon Wikipedia, en anglais comme en français. C’est l’année de « Tou Cho Tou Flam », présenté comme l’album le plus réussi de WCK, avec sept succès sur onze titres, dont « Balance Batty », et le groupe tourne ensuite aux États-Unis, au Canada, en Europe et dans la Caraïbe entre 1995 et 1998. Aucune source consultée ne publie d’année de fin pour la collaboration.",
+  ),
+  (
+    "Pourquoi Skinny Banton est-il considéré comme la figure du bouyon-muffin ?",
+    "Parce que Wikipedia le présente ainsi dans ses deux langues : les anciennes versions de la page anglaise en font la figure la plus influente du développement du bouyon-muffin, et la page française dit la même chose. Ce site rapporte ce statut comme un jugement attribué, pas comme un titre officiel. Dans les sources consultées, aucune autre voix n’est nommée à cette place. Voir <a href=\"/bouyon-muffin.html\">le bouyon-muffin</a>.",
+  ),
+  (
+    "Quel est le lien entre Skinny Banton et le Wrecketeng ?",
+    "Le bouyon-muffin de Skinny Banton est le parent direct du <a href=\"/wrecketeng.html\">Wrecketeng</a> : selon Wikipedia, ses expériences ont inspiré le Bushtown Clan à intégrer plus de hip hop et de dancehall, jusqu’à la naissance du style. Les anciennes références écrivent cette branche reketeng, la faute d’orthographe répandue sur internet ; l’orthographe officielle, Wrecketeng, vient de DJ Cut lui-même.",
+  ),
+  (
+    "Que veut dire chanter ragga sur du bouyon, comme Skinny Banton ?",
+    "C’est toaster plutôt que chanter : une parole rythmée, découpée comme celle d’un deejay de dancehall ou d’un rappeur, avec l’accent et l’attitude du raggamuffin, posée sur la base rapide du bouyon. Les anciennes descriptions du genre notent d’ailleurs que le bouyon tient plus du chant scandé que de la chanson, très influencé par le dancehall, le reggae et le rap venus de Jamaïque.",
+  ),
+  (
+    "Où écouter Skinny Banton ?",
+    "Prudence avec les plateformes : les pages de streaming au nom de Skinny Banton renvoient pour la plupart à l’artiste soca de Trinidad et de la Grenade, pas à la voix dominicaine du bouyon-muffin. Ce site ne lie donc aucun profil. Pour entendre l’époque de WCK et ses héritiers, la <a href=\"/playlist-bouyon.html\">Bouyon Road Mix</a> de Bouyon Shattaz mêle classiques du carnaval et nouveautés.",
+  )
+],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/skinny-banton.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/skinny-banton.html#artist", "name": "Skinny Banton", "description": "Figure clé du bouyon-muffin en Dominique, collaborateur de WCK dès 1995, ensuite connu sous le nom de Shadowflow.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Party'},
+      {
+       "@type": "MusicRecording",
+       "name": "Lolé bitin la"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "La pli si tol"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bail la vwa"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Synjha"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Manuela"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ou sé nèg"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jojo livwé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sexy girls"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Une affaire de bijoux"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Haut les mains"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "A pa pawol an lè"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Snake Oil"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kick It Way"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Caribbean People"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Last Wine"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Woulé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Attack"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Free Up Yuh Body"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mama"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Happiness"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wet Meh Down"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ring Bang Style"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "De Music Send Me"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Release the Energy"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mass With Class"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pony Rider"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doggy Style"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Whipe Up On It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Raise the Roof"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pik (Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mind Your Business"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Iron"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DJ Foxx (Méga Mix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Instru clachy jam"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Do What You Want"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Party Time"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ragga Soca"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hilary"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "La Jan"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pressure"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Picante"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Losing Ground"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rambo Diplomacy"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rumors"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Grass Roots"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "La Jan Mwen"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ghetto Unity"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Belle Nou Belle"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Body Press"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Leve Leve"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tonite a De Nite"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mas With Class"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mégamix zouk, pt. 2"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Konfusion"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mégamix carnaval, pt. 1"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mégamix zouk, pt. 1"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mégamix carnaval, pt. 2"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "The Beat Goes On (feat. Skinny Banton)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -176,13 +459,296 @@ EN = {
   ],
  ],
  "faq": [
-  ("Who is Skinny Banton?", "Skinny Banton is the key figure of bouyon-muffin according to Wikipedia, in English and in French: an artist who, from 1995, collaborated with WCK, setting a ragga influenced chant over bouyon rhythms. The former members list of WCK gives his full name: Wayne “Skinny Banton” Robinson, on lead vocals. He is later known as Shadowflow."),
-  ("What is bouyon-muffin?", "Bouyon-muffin is a branch of bouyon that incorporates elements of Jamaican raggamuffin, hip hop and dancehall. It developed in the 1990s, when Dominican musicians experimented with ragga influenced vocals over bouyon rhythms. Air Caraibes also describes it as the bouyon variant incorporating hip hop and ragga elements."),
-  ("How does bouyon-muffin differ from classic bouyon?", "Classic bouyon is the music of the founding bands like WCK: live formations, keyboards and machines over a cadence-lypso and jing ping base. Bouyon-muffin keeps the bouyon rhythm base, but changes the voice: toasting and rhythmic speech, in the manner of raggamuffin and dancehall, instead of band singing. It is also the branch that bridges toward the DJs’ Wrecketeng."),
-  ("Which track connects Skinny Banton to DJ Cut?", "The track “Party”, with Joanne and DJ Cut of Bucktown Sounds. According to Wikipedia, that recording combined bouyon with dancehall style deejaying, and experiments of that kind inspired artists such as the Bushtown Clan to push hip hop and dancehall into bouyon, which led to Wrecketeng. No consulted source publishes a release year for “Party”."),
-  ("Are Skinny Banton and Shadowflow the same person?", "Yes, according to the sources. Wikipedia states that Skinny Banton is later known as Shadowflow, and the former members list of WCK gathers both names in one line: Wayne “Skinny Banton” Robinson, also known as “Shadowflow”. The consulted sources, however, document no title released under the Shadowflow name."),
-  ("Is Skinny Banton the soca artist from Trinidad and Grenada?", "No. There is another artist called Skinny Banton: a soca singer whose sources give his name as Shirlan George, born in Trinidad and residing in Carriacou, Grenada. He is a different artist. The Skinny Banton of this page is the Dominican bouyon-muffin voice, linked to WCK from 1995 and later known as Shadowflow. The two artists share a stage name, and nothing more in the verified record.")
- ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/skinny-banton.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/skinny-banton.html#artist", "name": "Skinny Banton", "description": "Key figure of bouyon-muffin in Dominica, collaborator of WCK from 1995, later known as Shadowflow.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Party'}], "sameAs": []}}],
+  (
+    "Who is Skinny Banton?",
+    "Skinny Banton is the key figure of bouyon-muffin according to Wikipedia, in English and in French: an artist who, from 1995, collaborated with WCK, setting a ragga influenced chant over bouyon rhythms. The former members list of WCK gives his full name: Wayne “Skinny Banton” Robinson, on lead vocals. He is later known as Shadowflow.",
+  ),
+  (
+    "What is bouyon-muffin?",
+    "Bouyon-muffin is a branch of bouyon that incorporates elements of Jamaican raggamuffin, hip hop and dancehall. It developed in the 1990s, when Dominican musicians experimented with ragga influenced vocals over bouyon rhythms. Air Caraibes also describes it as the bouyon variant incorporating hip hop and ragga elements.",
+  ),
+  (
+    "How does bouyon-muffin differ from classic bouyon?",
+    "Classic bouyon is the music of the founding bands like WCK: live formations, keyboards and machines over a cadence-lypso and jing ping base. Bouyon-muffin keeps the bouyon rhythm base, but changes the voice: toasting and rhythmic speech, in the manner of raggamuffin and dancehall, instead of band singing. It is also the branch that bridges toward the DJs’ Wrecketeng.",
+  ),
+  (
+    "Which track connects Skinny Banton to DJ Cut?",
+    "The track “Party”, with Joanne and DJ Cut of Bucktown Sounds. According to Wikipedia, that recording combined bouyon with dancehall style deejaying, and experiments of that kind inspired artists such as the Bushtown Clan to push hip hop and dancehall into bouyon, which led to Wrecketeng. See <a href=\"/en/dj-cut.html\">DJ Cut’s profile</a>.",
+  ),
+  (
+    "Are Skinny Banton and Shadowflow the same person?",
+    "Yes, according to the sources. Wikipedia states that Skinny Banton is later known as Shadowflow, and the former members list of WCK gathers both names in one line: Wayne “Skinny Banton” Robinson, also known as “Shadowflow”. This site files his profile under Skinny Banton, the name of the documented work, so a search for either name lands on the same record.",
+  ),
+  (
+    "Is Skinny Banton the soca artist from Trinidad and Grenada?",
+    "No. There is another artist called Skinny Banton: a soca singer whose sources give his name as Shirlan George, born in Trinidad and residing in Carriacou, Grenada. He is a different artist. The Skinny Banton of this page is the Dominican bouyon-muffin voice, linked to WCK from 1995 and later known as Shadowflow. The two artists share a stage name, and nothing more in the verified record.",
+  ),
+  (
+    "What is the real name of Skinny Banton, the bouyon-muffin voice?",
+    "According to the former members list of WCK published on the band’s English Wikipedia page, his full name is Wayne Robinson: the page writes Wayne “Skinny Banton” Robinson, also known as “Shadowflow”, on lead vocals. Beware of the namesake: the soca artist also called Skinny Banton has a different legal name, Shirlan George, according to the sources documenting him.",
+  ),
+  (
+    "Where is Skinny Banton from?",
+    "The bouyon-muffin Skinny Banton is a voice from Dominica: he sang with <a href=\"/en/wck.html\">WCK</a>, the band formed in Roseau in 1988 that created bouyon, from 1995. He is the one the bouyon sources identify. The other Skinny Banton, the soca artist, was born in Trinidad and lives in Carriacou, Grenada: two artists, two islands, two neighbouring but distinct genres.",
+  ),
+  (
+    "Was Skinny Banton a member of WCK?",
+    "Yes. The English Wikipedia page on WCK lists him among the band’s former members, on lead vocals, as Wayne “Skinny Banton” Robinson, alongside figures such as Derick “Rah” Peters and Cornell “Fingaz” Phillip. He therefore does not appear only as a passing outside collaborator: in the band’s published record, he counts among its voices.",
+  ),
+  (
+    "When did Skinny Banton start with WCK?",
+    "From 1995, according to Wikipedia, in English and in French. That is the year of “Tou Cho Tou Flam”, presented as WCK’s most successful album, with seven hits out of eleven tracks, including “Balance Batty”, and the band then toured the United States, Canada, Europe and the Caribbean between 1995 and 1998. No consulted source publishes an end year for the collaboration.",
+  ),
+  (
+    "Why is Skinny Banton seen as the figure of bouyon-muffin?",
+    "Because Wikipedia presents him that way in both languages: older versions of the English page call him the most influential figure in the development of bouyon-muffin, and the French page says the same. This site reports that status as an attributed judgment, not an official title. In the sources consulted, no other voice is named in that place. See <a href=\"/en/bouyon-muffin.html\">bouyon-muffin</a>.",
+  ),
+  (
+    "What is the link between Skinny Banton and Wrecketeng?",
+    "Skinny Banton’s bouyon-muffin is the direct parent of <a href=\"/en/wrecketeng.html\">Wrecketeng</a>: according to Wikipedia, its experiments inspired the Bushtown Clan to bring in more hip hop and dancehall, until the style was born. Older references spell that branch reketeng, the widespread internet misspelling; the official spelling, Wrecketeng, comes from DJ Cut himself.",
+  ),
+  (
+    "What does chanting ragga over bouyon mean, as Skinny Banton did?",
+    "It means toasting rather than singing: rhythmic speech, cut up like a dancehall deejay or a rapper, with the accent and attitude of raggamuffin, laid over the fast bouyon base. Older descriptions of the genre note that bouyon involves chanting rather than singing, strongly influenced by the dancehall, reggae and rap language style coming out of Jamaica.",
+  ),
+  (
+    "Where can I listen to Skinny Banton?",
+    "Be careful with the platforms: the streaming pages under the name Skinny Banton mostly lead to the soca artist from Trinidad and Grenada, not to the Dominican bouyon-muffin voice. This site therefore links no profile. To hear the WCK era and its heirs, the Bouyon Shattaz <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix</a> mixes carnival classics and new releases.",
+  )
+],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/skinny-banton.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/skinny-banton.html#artist", "name": "Skinny Banton", "description": "Key figure of bouyon-muffin in Dominica, collaborator of WCK from 1995, later known as Shadowflow.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Party'},
+      {
+       "@type": "MusicRecording",
+       "name": "Lolé bitin la"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "La pli si tol"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bail la vwa"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Synjha"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Manuela"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ou sé nèg"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jojo livwé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sexy girls"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Une affaire de bijoux"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Haut les mains"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "A pa pawol an lè"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Snake Oil"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kick It Way"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Caribbean People"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Last Wine"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Woulé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Attack"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Free Up Yuh Body"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mama"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Happiness"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wet Meh Down"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ring Bang Style"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "De Music Send Me"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Release the Energy"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mass With Class"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pony Rider"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doggy Style"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Whipe Up On It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Raise the Roof"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pik (Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mind Your Business"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Iron"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DJ Foxx (Méga Mix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Instru clachy jam"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Do What You Want"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Party Time"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ragga Soca"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hilary"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "La Jan"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pressure"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Picante"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Losing Ground"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rambo Diplomacy"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rumors"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Grass Roots"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "La Jan Mwen"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ghetto Unity"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Belle Nou Belle"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Body Press"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Leve Leve"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tonite a De Nite"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mas With Class"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mégamix zouk, pt. 2"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Konfusion"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mégamix carnaval, pt. 1"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mégamix zouk, pt. 1"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mégamix carnaval, pt. 2"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "The Beat Goes On (feat. Skinny Banton)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

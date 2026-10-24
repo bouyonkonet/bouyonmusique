@@ -50,14 +50,73 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Diixly ?", "Diixly est un beatmaker crédité sur le titre bouyon « GENKIDAMA » de FLW (T-BTS), publié en clip officiel sous la bannière Team Bwè Tou Sa. La description du clip le liste exactement ainsi : « Beatmaker : Diixly », avec Dylan Farah à la réalisation et Gammalab comme ingénieur. Aucune biographie, aucun nom civil et aucune origine ne sont publiés dans les sources ouvertes pour ce profil, et ce site n’en invente pas."),
-  ("Sur quel titre Diixly est-il crédité, et dans quel rôle ?", "Sur « GENKIDAMA », de FLW (T-BTS), en qualité de beatmaker, c’est à dire l’auteur du rythme du titre. Le clip officiel présente le titre comme FLW (T-BTS) X Diixly et annonce le son comme disponible sur toutes les plateformes, avec un lien DistroKid rattaché au nom de Diixly. C’est, à la date de ce profil, le seul crédit public vérifié de Diixly trouvé par cette recherche sur le web et sur les plateformes d’écoute."),
-  ("Diixly est-il chanteur ou producteur ?", "Producteur, selon le seul crédit publié : il est listé comme beatmaker, et non comme interprète vocal. L’interprète du titre est FLW, qui signe FLW (T-BTS). Les autres crédits publiés du clip sont Dylan Farah à la réalisation vidéo et Gammalab comme ingénieur du son. Attribuer à Diixly un rôle de chanteur sur ce titre contredirait la seule source disponible, et ce site ne le fait pas."),
-  ("D’où vient Diixly ?", "Ce profil est l’un des rares à répondre honnêtement : on ne le sait pas, car aucune source ouverte vérifiée ne le dit. Les mots clés du clip « GENKIDAMA » citent le bouyon de Guadeloupe, de Martinique et de Dominique comme termes de recherche génériques du genre ; ils décrivent le marché du titre, pas l’origine de son beatmaker. Écrire une île d’origine pour Diixly serait une invention, et ce site publie donc l’absence d’information plutôt qu’une fausse précision."),
-  ("Où écouter « GENKIDAMA » et suivre le bouyon de cette vague ?", "La description du clip officiel annonce « GENKIDAMA » comme disponible sur toutes les plateformes et renvoie à un lien DistroKid rattaché à Diixly ; ce lien, tronqué dans le texte récupéré pendant cette recherche, n’est pas reproduit ici, faute de vérification complète. Pour le contexte, notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> suit les nouveautés bouyon 2026 des Antilles françaises et de la Dominique, et notre page <a href=\"/bouyon-gwada.html\">bouyon gwada</a> raconte la branche guadeloupéenne du genre."),
-  ("Pourquoi ce profil est-il plus court que les autres profils d’artistes du site ?", "Parce que le dossier public de Diixly est mince : un seul crédit vérifié, aucune page d’artiste ouverte sur les plateformes consultées, aucune interview trouvée. Ce site dimensionne ses profils sur les faits disponibles : huit à quinze titres documentés pour un artiste établi, un profil court et explicite pour un nom émergent. La brièveté de cette page est donc une information en soi, et elle sera révisée si de nouvelles sources vérifiables paraissent.")
- ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/diixly.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/diixly.html#artist", "name": "Diixly", "description": "Beatmaker crédité sur GENKIDAMA de FLW (T-BTS), clip officiel Team Bwè Tou Sa, bouyon 2026. Aucune origine ni biographie documentée dans le dossier public ouvert pour ce profil.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "GENKIDAMA"}], "sameAs": []}}],
+  (
+    "Qui est Diixly ?",
+    "Diixly est un beatmaker crédité sur le titre bouyon « GENKIDAMA » de FLW (T-BTS), publié en clip officiel sous la bannière Team Bwè Tou Sa. La description du clip le liste exactement ainsi : « Beatmaker : Diixly », avec Dylan Farah à la réalisation et Gammalab comme ingénieur. Aucune biographie, aucun nom civil et aucune origine ne sont publiés dans les sources ouvertes pour ce profil, et ce site n’en invente pas.",
+  ),
+  (
+    "Sur quel titre Diixly est-il crédité, et dans quel rôle ?",
+    "Sur « GENKIDAMA », de FLW (T-BTS), en qualité de beatmaker, c’est à dire l’auteur du rythme du titre. Le clip officiel présente le titre comme FLW (T-BTS) X Diixly et annonce le son comme disponible sur toutes les plateformes, avec un lien DistroKid rattaché au nom de Diixly. C’est, à la date de ce profil, le seul crédit public vérifié de Diixly trouvé par cette recherche sur le web et sur les plateformes d’écoute.",
+  ),
+  (
+    "Diixly est-il chanteur ou producteur ?",
+    "Producteur, selon le seul crédit publié : il est listé comme beatmaker, et non comme interprète vocal. L’interprète du titre est FLW, qui signe FLW (T-BTS). Les autres crédits publiés du clip sont Dylan Farah à la réalisation vidéo et Gammalab comme ingénieur du son. Attribuer à Diixly un rôle de chanteur sur ce titre contredirait la seule source disponible, et ce site ne le fait pas.",
+  ),
+  (
+    "D’où vient Diixly ?",
+    "Ce profil est l’un des rares à répondre honnêtement : on ne le sait pas, car aucune source ouverte vérifiée ne le dit. Les mots clés du clip « GENKIDAMA » citent le bouyon de Guadeloupe, de Martinique et de Dominique comme termes de recherche génériques du genre ; ils décrivent le marché du titre, pas l’origine de son beatmaker. Écrire une île d’origine pour Diixly serait une invention, et ce site publie donc l’absence d’information plutôt qu’une fausse précision.",
+  ),
+  (
+    "Où écouter « GENKIDAMA » et suivre le bouyon de cette vague ?",
+    "La description du clip officiel annonce « GENKIDAMA » comme disponible sur toutes les plateformes et renvoie à un lien DistroKid rattaché à Diixly ; ce lien, tronqué dans le texte récupéré pendant cette recherche, n’est pas reproduit ici. Pour le contexte, notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> suit les nouveautés bouyon 2026 des Antilles françaises et de la Dominique, et notre page bouyon gwada raconte la branche guadeloupéenne du genre.",
+  ),
+  (
+    "Pourquoi ce profil est-il plus court que les autres profils d’artistes du site ?",
+    "Parce que le dossier public de Diixly est mince : un seul crédit vérifié, aucune page d’artiste ouverte sur les plateformes consultées, aucune interview trouvée. Ce site dimensionne ses profils sur les faits disponibles : huit à quinze titres documentés pour un artiste établi, un profil court et explicite pour un nom émergent. La brièveté de cette page est donc une information en soi, et elle sera révisée si de nouvelles sources vérifiables paraissent.",
+  ),
+  (
+    "Que veut dire GENKIDAMA, le titre produit par Diixly ?",
+    "Genkidama renvoie, dans l’imaginaire manga largement partagé par les jeunes publics antillais, à la sphère d’énergie de Dragon Ball. C’est une lecture du titre : aucune source publiée ne rapporte une déclaration de Diixly ou de FLW sur le choix du nom. Le clip, lui, est clairement rangé dans le bouyon, avec les hashtags bouyon et Bouyon2026.",
+  ),
+  (
+    "Qu’est-ce que la Team Bwè Tou Sa, associée à GENKIDAMA ?",
+    "C’est la bannière collective sous laquelle le clip officiel de « GENKIDAMA » est publié, et son interprète signe <a href=\"/flw.html\">FLW (T-BTS)</a>. Le titre de Diixly s’inscrit ainsi dans le bouyon de collectif des Antilles françaises de 2026, où la signature d’équipe compte souvent autant que le nom de l’artiste, et où les crédits se partagent entre chanteurs, beatmakers et réalisateurs.",
+  ),
+  (
+    "Que fait un beatmaker comme Diixly dans le bouyon ?",
+    "Le beatmaker fabrique le rythme : il décide du tempo, de la boucle et de l’énergie du titre, que le chanteur rejoint une fois le rythme posé. Dans le bouyon de 2026, c’est un auteur à part entière, même si les plateformes indexent surtout les interprètes. Sur « GENKIDAMA », Diixly tient ce poste, à côté d’un réalisateur et d’un ingénieur du son.",
+  ),
+  (
+    "Qui a réalisé le clip de GENKIDAMA ?",
+    "Dylan Farah, selon les crédits publiés dans la description du clip officiel. La même fiche nomme Gammalab comme ingénieur du son et Diixly comme beatmaker, pour un titre interprété par FLW (T-BTS). Trois métiers pour un titre : c’est la petite équipe type du bouyon des Antilles françaises d’aujourd’hui, l’image, le son et le rythme.",
+  )
+],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/diixly.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/diixly.html#artist", "name": "Diixly", "description": "Beatmaker crédité sur GENKIDAMA de FLW (T-BTS), clip officiel Team Bwè Tou Sa, bouyon 2026. Aucune origine ni biographie documentée dans le dossier public ouvert pour ce profil.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "GENKIDAMA"},
+      {
+       "@type": "MusicRecording",
+       "name": "ROYAL WARMUP (feat. DJ FAB)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MONEY MISSION (feat. Le Dext, Jah2Chill & Devo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "RETOMBÉ"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "AMADIIX"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PROMENONS-NOUS (feat. DIIXLY) (BOUYON 2027)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LÉSÉ NOU PASÉ (feat. Ma6mo & Diixly) (WARM UP 2026)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -108,13 +167,72 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Diixly?", "Diixly is a beatmaker credited on the bouyon track “GENKIDAMA” by FLW (T-BTS), released as an official video under the Team Bwe Tou Sa banner. The video description lists him exactly as “Beatmaker: Diixly”, with Dylan Farah as director and Gammalab as engineer. No biography, no real name and no origin are published in the sources opened for this profile, and this site invents none."),
-  ("On which track is Diixly credited, and in what role?", "On “GENKIDAMA”, by FLW (T-BTS), in the role of beatmaker, that is, the author of the track rhythm. The official video presents the track as FLW (T-BTS) X Diixly and announces it as available on all platforms, with a DistroKid link attached to the Diixly name. As of the date of this profile, it is the only verified public credit for Diixly found by this research on the web and on the streaming platforms."),
-  ("Is Diixly a singer or a producer?", "A producer, according to the only published credit: he is listed as beatmaker, not as a vocal performer. The performer of the track is FLW, who signs FLW (T-BTS). The other published credits of the video are Dylan Farah for the video direction and Gammalab as sound engineer. Crediting Diixly with a singing role on this track would contradict the only available source, and this site does not do it."),
-  ("Where is Diixly from?", "This profile is one of the few to answer honestly: it is not known, because no verified open source says so. The keywords of the “GENKIDAMA” video cite bouyon from Guadeloupe, Martinique and Dominica as generic search terms of the genre; they describe the market of the track, not the origin of its beatmaker. Writing an island of origin for Diixly would be an invention, so this site publishes the absence of information rather than a false precision."),
-  ("Where can I hear “GENKIDAMA” and follow the bouyon of this wave?", "The description of the official video announces “GENKIDAMA” as available on all platforms and points to a DistroKid link attached to Diixly; that link, truncated in the text fetched during this research, is not reproduced here for lack of complete verification. For context, our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> follows new 2026 bouyon releases from the French Antilles and Dominica, and our <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a> page tells the Guadeloupe branch of the genre."),
-  ("Why is this profile shorter than the other artist profiles on this site?", "Because the public record of Diixly is thin: a single verified credit, no artist page found on the platforms consulted, no interview located. This site sizes its profiles to the available facts: eight to fifteen documented tracks for an established artist, a short and explicit profile for an emerging name. The brevity of this page is therefore information in itself, and it will be revised if new verifiable sources appear.")
- ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/diixly.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/diixly.html#artist", "name": "Diixly", "description": "Beatmaker credited on GENKIDAMA by FLW (T-BTS), official Team Bwe Tou Sa video, bouyon 2026. No origin or biography documented in the public record opened for this profile.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "GENKIDAMA"}], "sameAs": []}}],
+  (
+    "Who is Diixly?",
+    "Diixly is a beatmaker credited on the bouyon track “GENKIDAMA” by FLW (T-BTS), released as an official video under the Team Bwe Tou Sa banner. The video description lists him exactly as “Beatmaker: Diixly”, with Dylan Farah as director and Gammalab as engineer. No biography, no real name and no origin are published in the sources opened for this profile, and this site invents none.",
+  ),
+  (
+    "On which track is Diixly credited, and in what role?",
+    "On “GENKIDAMA”, by FLW (T-BTS), in the role of beatmaker, that is, the author of the track rhythm. The official video presents the track as FLW (T-BTS) X Diixly and announces it as available on all platforms, with a DistroKid link attached to the Diixly name. As of the date of this profile, it is the only verified public credit for Diixly found by this research on the web and on the streaming platforms.",
+  ),
+  (
+    "Is Diixly a singer or a producer?",
+    "A producer, according to the only published credit: he is listed as beatmaker, not as a vocal performer. The performer of the track is FLW, who signs FLW (T-BTS). The other published credits of the video are Dylan Farah for the video direction and Gammalab as sound engineer. Crediting Diixly with a singing role on this track would contradict the only available source, and this site does not do it.",
+  ),
+  (
+    "Where is Diixly from?",
+    "This profile is one of the few to answer honestly: it is not known, because no verified open source says so. The keywords of the “GENKIDAMA” video cite bouyon from Guadeloupe, Martinique and Dominica as generic search terms of the genre; they describe the market of the track, not the origin of its beatmaker. Writing an island of origin for Diixly would be an invention, so this site publishes the absence of information rather than a false precision.",
+  ),
+  (
+    "Where can I hear “GENKIDAMA” and follow the bouyon of this wave?",
+    "The description of the official video announces “GENKIDAMA” as available on all platforms and points to a DistroKid link attached to Diixly; that link, truncated in the text fetched during this research, is not reproduced here. For context, our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> follows new 2026 bouyon releases from the French Antilles and Dominica, and our bouyon gwada page tells the Guadeloupe branch of the genre.",
+  ),
+  (
+    "Why is this profile shorter than the other artist profiles on this site?",
+    "Because the public record of Diixly is thin: a single verified credit, no artist page found on the platforms consulted, no interview located. This site sizes its profiles to the available facts: eight to fifteen documented tracks for an established artist, a short and explicit profile for an emerging name. The brevity of this page is therefore information in itself, and it will be revised if new verifiable sources appear.",
+  ),
+  (
+    "What does GENKIDAMA, the track produced by Diixly, mean?",
+    "Genkidama refers, in the manga culture widely shared by young Antillean audiences, to the energy sphere of Dragon Ball. That is a reading of the title: no published source reports any statement by Diixly or FLW about the choice of name. The video itself is clearly filed as bouyon, with the hashtags bouyon and Bouyon2026.",
+  ),
+  (
+    "What is Team Bwè Tou Sa, linked to GENKIDAMA?",
+    "It is the collective banner under which the official “GENKIDAMA” video is published, and its performer signs as <a href=\"/en/flw.html\">FLW (T-BTS)</a>. Diixly’s track thus belongs to the collective bouyon of the French Antilles in 2026, where the team signature often counts as much as the artist name, and where credits are shared between singers, beatmakers and directors.",
+  ),
+  (
+    "What does a beatmaker like Diixly do in bouyon?",
+    "The beatmaker builds the rhythm: he sets the tempo, the loop and the energy of the track, which the singer joins once the beat is laid down. In 2026 bouyon he is a full author, even though platforms mostly index the performers. On “GENKIDAMA”, Diixly holds that post, next to a video director and a sound engineer.",
+  ),
+  (
+    "Who directed the GENKIDAMA video?",
+    "Dylan Farah, according to the credits published in the official video description. The same sheet names Gammalab as sound engineer and Diixly as beatmaker, for a track performed by FLW (T-BTS). Three trades for one track: it is the typical small team of today’s French Antilles bouyon, image, sound and rhythm.",
+  )
+],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/diixly.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/diixly.html#artist", "name": "Diixly", "description": "Beatmaker credited on GENKIDAMA by FLW (T-BTS), official Team Bwe Tou Sa video, bouyon 2026. No origin or biography documented in the public record opened for this profile.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "GENKIDAMA"},
+      {
+       "@type": "MusicRecording",
+       "name": "ROYAL WARMUP (feat. DJ FAB)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MONEY MISSION (feat. Le Dext, Jah2Chill & Devo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "RETOMBÉ"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "AMADIIX"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PROMENONS-NOUS (feat. DIIXLY) (BOUYON 2027)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LÉSÉ NOU PASÉ (feat. Ma6mo & Diixly) (WARM UP 2026)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

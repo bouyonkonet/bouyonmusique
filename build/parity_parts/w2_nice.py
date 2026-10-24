@@ -80,14 +80,73 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Nice, l’artiste bouyon ?", "Nice est un artiste bouyon de la Dominique, nommé parmi les artistes dominicains confirmés pour le World Creole Music Festival 2026 dans le communiqué de la Discover Dominica Authority du 19 août 2026. Il est connu par ses collaborations, dont le remix de « Bye to de Old Me » avec Shelly et Pudaz."),
-  ("Nice joue-t-il au WCMF 2026 ?", "Oui, selon les guides publiés du World Creole Music Festival 2026, notamment writeups24, Nice joue lors de la Night 3, le dimanche 25 octobre 2026, à Roseau, aux côtés de Shelly et The Signal Band, Gwada G, Unstoppable Shax et DJ Taffy."),
-  ("Qui a écrit « Bye to de Old Me » ?", "Selon les crédits publiés par Sokah2Soca pour le remix interprété par Shelly, Nice et Pudaz, le titre est écrit par Sheldon Alfred, Miguel Hussey et Udi Prince, composé et ingénié par Dernel « Dernz » Green, avec une programmation additionnelle du riddim par Fr3EzE et la basse live de Giovannie « Gio » Green."),
-  ("Nice, Nice767 et Niice sont-ils le même artiste ?", "Nice et Nice767 désignent le même parcours documenté : « Situationship » de DJ Taffy le crédite en featuring sous le nom Nice767, et 767 est l’indicatif de la Dominique. En revanche, la graphie Niice, vue dans certaines listes de mix pour un autre titre, n’est confirmée par aucune source comme étant le même artiste bouyon, donc ce site ne fusionne pas les deux noms."),
-  ("Quels titres écouter pour découvrir Nice ?", "Commencez par le remix de « Bye to de Old Me » avec Shelly et Pudaz, puis « Without You » avec Reo, Trilla-G, Unstoppable Shax et Quan Dawg, produit par A-Plus Muzik, et « Situationship » de DJ Taffy avec Nice767, sorti en 2023. « Stronger Remix » de Signal Band avec Nice complète le catalogue vérifié."),
-  ("Connaît-on le nom complet et la commune d’origine de Nice ?", "Non, pas dans les sources vérifiées consultées pour ce profil. Aucun nom complet, aucune commune d’origine et aucun compte social officiel confirmé ne sont publiés à ce jour pour Nice, artiste bouyon de la Dominique. Le seul pseudo publié dans des crédits officiels est @o.f.f.i.c.i.a.l_n.i.c.e, dans la description de la vidéo « Without You ».")
- ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/nice.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/nice.html#artist", "name": "Nice", "description": "Artiste bouyon de la Dominique. Interprète du remix de Bye to de Old Me avec Shelly et Pudaz, de Without You et de Situationship avec DJ Taffy. Programmé à la Night 3 du WCMF 2026 selon les guides publiés.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bye to de Old Me"}, {"@type": "MusicRecording", "name": "Without You"}, {"@type": "MusicRecording", "name": "Situationship"}, {"@type": "MusicRecording", "name": "Stronger Remix"}], "sameAs": []}}],
+  (
+    "Qui est Nice, l’artiste bouyon ?",
+    "Nice est un artiste bouyon de la Dominique, nommé parmi les artistes dominicains confirmés pour le World Creole Music Festival 2026 dans le communiqué de la Discover Dominica Authority du 19 août 2026. Il est connu par ses collaborations, dont le remix de « Bye to de Old Me » avec Shelly et Pudaz, « Without You » avec Reo et Trilla-G, et « Situationship » avec DJ Taffy.",
+  ),
+  (
+    "Nice joue-t-il au WCMF 2026 ?",
+    "Oui, selon les guides publiés du World Creole Music Festival 2026, notamment writeups24, Nice joue lors de la Night 3, le dimanche 25 octobre 2026, au Windsor Park Sports Stadium de Roseau, aux côtés de Shelly et The Signal Band, Gwada G, Unstoppable Shax et DJ Taffy. C’est la nuit de clôture de la 26e édition, avec Machel Montano et Uncle Waffles en tête d’affiche.",
+  ),
+  (
+    "Qui a écrit « Bye to de Old Me » ?",
+    "Selon les crédits publiés par Sokah2Soca pour le remix interprété par Shelly, Nice et Pudaz, le titre est écrit par Sheldon Alfred, Miguel Hussey et Udi Prince, composé et ingénié par Dernel « Dernz » Green, avec une programmation additionnelle du riddim par Fr3EzE et la basse live de Giovannie « Gio » Green. Voir <a href=\"/dernel-green.html\">Dernel Green</a>.",
+  ),
+  (
+    "Nice, Nice767 et Niice sont-ils le même artiste ?",
+    "Nice et Nice767 désignent le même parcours documenté : « Situationship » de DJ Taffy le crédite en featuring sous le nom Nice767, et 767 est l’indicatif de la Dominique. En revanche, la graphie Niice, vue dans certaines listes de mix pour un autre titre, n’est confirmée par aucune source comme étant le même artiste bouyon, donc ce site ne fusionne pas les deux noms.",
+  ),
+  (
+    "Quels titres écouter pour découvrir Nice ?",
+    "Commencez par le remix de « Bye to de Old Me » avec Shelly et Pudaz, puis « Without You » avec Reo, Trilla-G, Unstoppable Shax et Quan Dawg, produit par A-Plus Muzik, et « Situationship » de DJ Taffy avec Nice767, sorti en 2023. « Stronger Remix » de Signal Band avec Nice complète le catalogue vérifié, et la <a href=\"/playlist-bouyon.html\">Bouyon Road Mix</a> rassemble la scène.",
+  ),
+  (
+    "Connaît-on le nom complet et la commune d’origine de Nice ?",
+    "Non, pas dans les sources vérifiées consultées pour ce profil. Aucun nom complet, aucune commune d’origine et aucun compte social officiel confirmé ne sont publiés à ce jour pour Nice, artiste bouyon de la Dominique. Le seul pseudo publié dans des crédits officiels est @o.f.f.i.c.i.a.l_n.i.c.e, dans la description de la vidéo « Without You ».",
+  ),
+  (
+    "D’où vient Nice ?",
+    "Nice vient de la Dominique. Le communiqué officiel de la Discover Dominica Authority du 19 août 2026 le nomme parmi les artistes locaux confirmés pour le WCMF 2026, avec Midnight Groovers, TK International, Asa Bantan, Signal Band, Pudaz, Reo et Gwada G. Son nom de featuring, Nice767, porte aussi l’indicatif téléphonique de l’île, une façon fréquente pour les artistes dominicains de signer leur origine.",
+  ),
+  (
+    "Qui a produit « Without You » avec Nice, Reo et Trilla-G ?",
+    "Selon la description de la vidéo officielle, « Without You », présenté comme Bouyon 2025, est produit par <a href=\"/a-plus-musik.html\">A-Plus Muzik</a>, mixé et masterisé par Th3rd House Studios, avec une vidéo d’A.Nibbs. Le titre réunit Nice, Reo, Trilla-G, Unstoppable Shax et Quan Dawg, une partie de l’affiche de clôture du WCMF 2026 réunie dès 2025.",
+  ),
+  (
+    "Quand est sorti « Bye to de Old Me » ?",
+    "La version originale, un titre de Signal Band avec Shelly, est datée par Shazam du 27 janvier 2025, sur le label Signal Band Inc., et sa vidéo est présentée comme Bouyon 2025. Le remix avec Nice et Pudaz est présenté par Sokah2Soca, repris par Island Vybe le 11 novembre 2025, comme un titre taillé pour le Carnaval 2026. Voir <a href=\"/signal-band.html\">Signal Band</a>.",
+  ),
+  (
+    "« Bye to de Old Me » a-t-il gagné un prix ?",
+    "Oui. Aux deuxièmes Dominica Music Awards, le 3 janvier 2026, Signal Band a remporté six prix, dont Music Video of the Year pour « Bye to the Old Me », selon le compte rendu de Black Island Girl. Shelly y a aussi pris les titres d’auteur et d’artiste masculin de l’année. Pudaz, partenaire de Nice sur le remix, a été nommé Bouyon Artist of the Year lors de la même cérémonie.",
+  ),
+  (
+    "Combien de vues a « Bye to de Old Me » ?",
+    "La vidéo originale de Shelly et Signal Band, présentée comme Bouyon 2025, affichait 1 million de vues sur l’étagère populaire de YouTube relevée pendant nos recherches. Le remix avec Nice et Pudaz comptait 691 000 vues sur la chaîne YouTube de <a href=\"/smokiller.html\">Smokiller</a> lors du relevé de la page Pudaz de ce site. Ces chiffres valent pour la date de chaque relevé.",
+  ),
+  (
+    "Que veut dire « Bye to de Old Me » ?",
+    "« Bye to de Old Me » signifie au revoir à l’ancien moi. Sokah2Soca décrit un refrain fait pour rester en tête, « Bye, bye, bye to the old me », et lit le titre comme un message de rupture avec ce qu’on était, taillé pour le Carnaval 2026. Dans le remix, Nice porte ce message avec Shelly, la voix de Signal Band, et Pudaz.",
+  ),
+  (
+    "Nice a-t-il joué au premier festival entièrement bouyon ?",
+    "Oui. En mai 2025, selon Black Island Girl, Nice figurait à l’affiche du Strictly the Best Festival, Bouyon Edition, à Lotterie Farm, à Saint-Martin, présenté comme le premier festival dédié entièrement au bouyon, avec plus de 5 000 personnes. Il partageait l’affiche avec Pudaz, Reo, Trilla G, Edday et d’autres, et Mr Ridge a clôturé la nuit en rappelant tous les artistes bouyon sur scène.",
+  ),
+  (
+    "Qu’est-ce que « Situationship », le titre de DJ Taffy avec Nice ?",
+    "« Situationship » est un titre de <a href=\"/dj-taffy.html\">DJ Taffy</a> avec Nice, crédité Nice767, sorti le 15 février 2023 sur Riddim Beast Studios, à 160 BPM selon Shazam. Le même titre apparaît, crédité simplement à Nice, dans le mix Road to Carnival de DJ Judgement, consacré à la rencontre de la Dominique et de Trinbago. C’est la plus ancienne trace de sa voix dans nos sources.",
+  ),
+  (
+    "Quel est le lien entre Nice et Signal Band ?",
+    "Nice a enregistré avec Signal Band sur deux titres documentés : le remix de « Bye to de Old Me », avec Shelly et Pudaz, et « Stronger Remix », de Signal Band avec Nice, relevé dans la tracklist du mix DJWillyWonka Factory. Au WCMF 2026, Nice joue la même Nuit 3 que Shelly and The Signal Band, ses partenaires de studio, selon les guides publiés.",
+  )
+],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/nice.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/nice.html#artist", "name": "Nice", "description": "Artiste bouyon de la Dominique. Interprète du remix de Bye to de Old Me avec Shelly et Pudaz, de Without You et de Situationship avec DJ Taffy. Programmé à la Night 3 du WCMF 2026 selon les guides publiés.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bye to de Old Me"}, {"@type": "MusicRecording", "name": "Without You"}, {"@type": "MusicRecording", "name": "Situationship"}, {"@type": "MusicRecording", "name": "Stronger Remix"},
+      {
+       "@type": "MusicRecording",
+       "name": "Something Wrong (feat. Nice767)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -159,13 +218,72 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Nice, the bouyon artist?", "Nice is a bouyon artist from Dominica, named among the Dominican acts confirmed for the World Creole Music Festival 2026 in the Discover Dominica Authority release of August 19, 2026. He is known through his collaborations, including the “Bye to de Old Me” remix with Shelly and Pudaz."),
-  ("Is Nice playing WCMF 2026?", "Yes, according to the published World Creole Music Festival 2026 guides, notably writeups24, Nice plays Night 3, on Sunday October 25, 2026, in Roseau, alongside Shelly and The Signal Band, Gwada G, Unstoppable Shax and DJ Taffy."),
-  ("Who wrote “Bye to de Old Me”?", "According to the credits published by Sokah2Soca for the remix performed by Shelly, Nice and Pudaz, the record is written by Sheldon Alfred, Miguel Hussey and Udi Prince, composed and engineered by Dernel “Dernz” Green, with additional riddim programming by Fr3EzE and live bass by Giovannie “Gio” Green."),
-  ("Are Nice, Nice767 and Niice the same artist?", "Nice and Nice767 belong to the same documented path: the DJ Taffy record “Situationship” credits him as Nice767, and 767 is the Dominica area code. The Niice spelling, seen in some mix tracklists for a different title, is not confirmed by any source as the same bouyon artist, so this site does not merge the two names."),
-  ("Which records should I hear to discover Nice?", "Start with the “Bye to de Old Me” remix with Shelly and Pudaz, then “Without You” with Reo, Trilla-G, Unstoppable Shax and Quan Dawg, produced by A-Plus Muzik, and “Situationship” by DJ Taffy featuring Nice767, released in 2023. The Signal Band “Stronger Remix” featuring Nice completes the verified catalogue."),
-  ("Do we know the full name and home community of Nice?", "No, not in the verified sources consulted for this profile. No full name, no home community and no confirmed official social account are published to date for Nice, bouyon artist from Dominica. The only handle published in official credits is @o.f.f.i.c.i.a.l_n.i.c.e, in the description of the “Without You” video.")
- ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/nice.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/nice.html#artist", "name": "Nice", "description": "Bouyon artist from Dominica. Performer on the Bye to de Old Me remix with Shelly and Pudaz, on Without You and on Situationship with DJ Taffy. Billed on WCMF 2026 Night 3 according to the published guides.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bye to de Old Me"}, {"@type": "MusicRecording", "name": "Without You"}, {"@type": "MusicRecording", "name": "Situationship"}, {"@type": "MusicRecording", "name": "Stronger Remix"}], "sameAs": []}}],
+  (
+    "Who is Nice, the bouyon artist?",
+    "Nice is a bouyon artist from Dominica, named among the Dominican acts confirmed for the World Creole Music Festival 2026 in the Discover Dominica Authority release of August 19, 2026. He is known through his collaborations, including the “Bye to de Old Me” remix with Shelly and Pudaz, “Without You” with Reo and Trilla-G, and “Situationship” with DJ Taffy.",
+  ),
+  (
+    "Is Nice playing WCMF 2026?",
+    "Yes, according to the published World Creole Music Festival 2026 guides, notably writeups24, Nice plays Night 3, on Sunday October 25, 2026, at Windsor Park Sports Stadium in Roseau, alongside Shelly and The Signal Band, Gwada G, Unstoppable Shax and DJ Taffy. It is the closing night of the 26th edition, headlined by Machel Montano and Uncle Waffles.",
+  ),
+  (
+    "Who wrote “Bye to de Old Me”?",
+    "According to the credits published by Sokah2Soca for the remix performed by Shelly, Nice and Pudaz, the record is written by Sheldon Alfred, Miguel Hussey and Udi Prince, composed and engineered by Dernel “Dernz” Green, with additional riddim programming by Fr3EzE and live bass by Giovannie “Gio” Green. See <a href=\"/en/dernel-green.html\">Dernel Green</a>.",
+  ),
+  (
+    "Are Nice, Nice767 and Niice the same artist?",
+    "Nice and Nice767 belong to the same documented path: the DJ Taffy record “Situationship” credits him as Nice767, and 767 is the Dominica area code. The Niice spelling, seen in some mix tracklists for a different title, is not confirmed by any source as the same bouyon artist, so this site does not merge the two names.",
+  ),
+  (
+    "Which records should I hear to discover Nice?",
+    "Start with the “Bye to de Old Me” remix with Shelly and Pudaz, then “Without You” with Reo, Trilla-G, Unstoppable Shax and Quan Dawg, produced by A-Plus Muzik, and “Situationship” by DJ Taffy featuring Nice767, released in 2023. The Signal Band “Stronger Remix” featuring Nice completes the verified catalogue, and the <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix</a> gathers the scene.",
+  ),
+  (
+    "Do we know the full name and home community of Nice?",
+    "No, not in the verified sources consulted for this profile. No full name, no home community and no confirmed official social account are published to date for Nice, bouyon artist from Dominica. The only handle published in official credits is @o.f.f.i.c.i.a.l_n.i.c.e, in the description of the “Without You” video.",
+  ),
+  (
+    "Where is Nice from?",
+    "Nice is from Dominica. The official Discover Dominica Authority release of August 19, 2026 names him among the homegrown acts confirmed for WCMF 2026, with Midnight Groovers, TK International, Asa Bantan, Signal Band, Pudaz, Reo and Gwada G. His featured artist name, Nice767, also carries the island’s telephone area code, a frequent way for Dominican artists to sign their origin.",
+  ),
+  (
+    "Who produced “Without You” with Nice, Reo and Trilla-G?",
+    "According to the official video description, “Without You”, presented as Bouyon 2025, is produced by <a href=\"/en/a-plus-musik.html\">A-Plus Muzik</a>, mixed and mastered by Th3rd House Studios, with a video by A.Nibbs. The track brings together Nice, Reo, Trilla-G, Unstoppable Shax and Quan Dawg, part of the WCMF 2026 closing bill gathered as early as 2025.",
+  ),
+  (
+    "When did “Bye to de Old Me” come out?",
+    "The original version, a Signal Band record featuring Shelly, is dated by Shazam to January 27, 2025, on the Signal Band Inc. label, and its video is presented as Bouyon 2025. The remix with Nice and Pudaz is presented by Sokah2Soca, republished by Island Vybe on November 11, 2025, as a record cut for Carnival 2026. See <a href=\"/en/signal-band.html\">Signal Band</a>.",
+  ),
+  (
+    "Did “Bye to de Old Me” win an award?",
+    "Yes. At the second Dominica Music Awards, on January 3, 2026, Signal Band won six awards, including Music Video of the Year for “Bye to the Old Me”, according to the Black Island Girl report. Shelly also took Songwriter of the Year and Male Artist of the Year. Pudaz, Nice’s partner on the remix, was named Bouyon Artist of the Year at the same ceremony.",
+  ),
+  (
+    "How many views does “Bye to de Old Me” have?",
+    "The original Shelly and Signal Band video, presented as Bouyon 2025, stood at 1 million views on the popular YouTube shelf recorded during our research. The remix with Nice and Pudaz stood at 691,000 views on the <a href=\"/en/smokiller.html\">Smokiller</a> YouTube channel at the time of the check made for this site’s Pudaz page. Those figures hold for the date of each check.",
+  ),
+  (
+    "What does “Bye to de Old Me” mean?",
+    "“Bye to de Old Me” means goodbye to the old self. Sokah2Soca describes a hook built to stay in the head, “Bye, bye, bye to the old me”, and reads the record as a message about breaking with who you used to be, cut for Carnival 2026. On the remix, Nice carries that message with Shelly, the voice of Signal Band, and Pudaz.",
+  ),
+  (
+    "Did Nice play the first all bouyon festival?",
+    "Yes. In May 2025, according to Black Island Girl, Nice was on the bill of the Strictly the Best Festival, Bouyon Edition, at Lotterie Farm in St. Maarten, presented as the first festival dedicated entirely to bouyon, with more than 5,000 people. He shared the bill with Pudaz, Reo, Trilla G, Edday and others, and Mr Ridge closed the night by calling every bouyon artist back on stage.",
+  ),
+  (
+    "What is “Situationship”, the DJ Taffy record with Nice?",
+    "“Situationship” is a <a href=\"/en/dj-taffy.html\">DJ Taffy</a> record featuring Nice, credited as Nice767, released on February 15, 2023 on Riddim Beast Studios, at 160 BPM according to Shazam. The same title appears, credited simply to Nice, in DJ Judgement’s Road to Carnival mix, devoted to the meeting of Dominica and Trinbago. It is the oldest trace of his voice in our sources.",
+  ),
+  (
+    "What is the link between Nice and Signal Band?",
+    "Nice has recorded with Signal Band on two documented records: the “Bye to de Old Me” remix, with Shelly and Pudaz, and “Stronger Remix”, by Signal Band featuring Nice, found in the DJWillyWonka Factory mix tracklist. At WCMF 2026, Nice plays the same Night 3 as Shelly and The Signal Band, his studio partners, according to the published guides.",
+  )
+],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/nice.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/nice.html#artist", "name": "Nice", "description": "Bouyon artist from Dominica. Performer on the Bye to de Old Me remix with Shelly and Pudaz, on Without You and on Situationship with DJ Taffy. Billed on WCMF 2026 Night 3 according to the published guides.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bye to de Old Me"}, {"@type": "MusicRecording", "name": "Without You"}, {"@type": "MusicRecording", "name": "Situationship"}, {"@type": "MusicRecording", "name": "Stronger Remix"},
+      {
+       "@type": "MusicRecording",
+       "name": "Something Wrong (feat. Nice767)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

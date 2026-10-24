@@ -76,13 +76,63 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Killa Laurent ?", "Killa Laurent, de son vrai nom Kendel Laurent, est un musicien et producteur de la Dominique. Il est le claviériste principal de Triple Kay et, selon le site officiel du groupe, le producteur de toute la musique du groupe."),
-  ("Qui produit réellement la musique de Triple Kay, Benji ou Killa Laurent ?", "Les deux noms apparaissent, à des moments différents. Le site officiel du groupe attribue à Benji la production du single charnière « Log On » en 2003 et du titre éponyme de « Sewo » en 2004, quand Benji a fait basculer le groupe vers le bouyon. Pour l’ensemble du catalogue, le même site officiel l’affirme sans nuance : « Kendel produit toute leur musique ». Les crédits des plateformes confirment ce rôle pour l’ère récente : Kendel Laurent est crédité producteur de « De General » et coproducteur de « Allu Like Dat » et « Let Her Go »."),
-  ("Quels titres majeurs Killa Laurent a-t-il produits avec Triple Kay ?", "En tant que producteur du groupe, son catalogue couvre les albums de « Big Ting » (2000) à « Bubblin » (2012) et les singles devenus des classiques : « Soos », « Please », titre de People’s Road March en 2008, « Nous Konnet Vive », chanson thème du carnaval 2014, « Lock De Gate », People’s Road March en 2015, « Roll dat Boom Boom », Road March en 2017, « Still Standing » en 2018 et « Heat », présenté par le groupe comme le premier People’s Bouyon Road March au monde en 2019."),
-  ("Qu’est-ce que le Music Box Studio ?", "Le Music Box Studio est le studio dominicain qui apparaît dans les crédits de production de Kendel Laurent : il y a produit et mixé « Forks Up » de Romel en 2019, et « Whistle While You Work » de Triple Kay y a été enregistré, avec le Home Alone Studio."),
-  ("Killa Laurent travaille-t-il avec d’autres artistes que Triple Kay ?", "Oui, selon les crédits publiés. Il a produit et mixé « Forks Up » de l’artiste soca antiguais Romel (2019), et produit « What’s Your Plan », la chanson de préparation aux catastrophes de la Croix Rouge de la Dominique, écrite et composée par Michele Henderson et interprétée par Michele Henderson et Wayne Benjamin."),
-  ("Où écouter le bouyon produit par Killa Laurent ?", "Commencez par « Whistle While You Work » et « De General » pour ses crédits de production nommés les plus récents, puis par « Heat » et « Lock De Gate » pour les titres de Road March du groupe. Notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> mélange ces classiques aux nouveautés de la Dominique suivies par Bouyon Shattaz.")
- ],
+  (
+    "Qui est Killa Laurent ?",
+    "Killa Laurent, de son vrai nom Kendel Laurent, est un musicien et producteur de la Dominique. Il est le claviériste principal de Triple Kay et, selon le site officiel du groupe, le producteur de toute sa musique, d’un catalogue qui court de l’album « Big Ting » en 2000 aux singles de l’ère du streaming comme « De General ».",
+  ),
+  (
+    "Qui produit réellement la musique de Triple Kay, Benji ou Killa Laurent ?",
+    "Les deux noms apparaissent, à des moments différents. Le site officiel attribue à Benji la production du single charnière « Log On » et du titre éponyme de « Sewo » en 2004, quand il a fait basculer le groupe vers le bouyon. Pour l’ensemble du catalogue, le même site l’affirme : « Kendel produit toute leur musique ». Les crédits récents le confirment, de « Let Her Go » à « De General ».",
+  ),
+  (
+    "Quels titres majeurs Killa Laurent a-t-il produits avec Triple Kay ?",
+    "Producteur du groupe, il couvre les albums de « Big Ting » (2000) à « Bubblin » (2012) et des classiques : « Soos », « Please », People’s Road March 2008, « Nous Konnet Vive », chanson thème du carnaval 2014, « Lock De Gate », People’s Road March 2015, « Roll dat Boom Boom », Road March 2017, et « Heat », présenté par le groupe comme le premier People’s Bouyon Road March au monde en 2019.",
+  ),
+  (
+    "Qu’est-ce que le Music Box Studio ?",
+    "Le Music Box Studio est le studio dominicain qui apparaît dans les crédits de production de Kendel Laurent : il y a produit et mixé « Forks Up » de Romel en 2019, et « Whistle While You Work » de Triple Kay y a été enregistré, avec le Home Alone Studio. Le même nom de studio revient ainsi sur un disque soca d’Antigua et sur le bouyon du plus grand groupe de l’île.",
+  ),
+  (
+    "Killa Laurent travaille-t-il avec d’autres artistes que Triple Kay ?",
+    "Oui, selon les crédits publiés. Il a produit et mixé « Forks Up » de l’artiste soca antiguais Romel (2019), et produit « What’s Your Plan », la chanson de préparation aux catastrophes de la Croix Rouge de la Dominique, écrite et composée par Michele Henderson et interprétée par Michele Henderson et Wayne Benjamin.",
+  ),
+  (
+    "Où écouter le bouyon produit par Killa Laurent ?",
+    "Commencez par « Whistle While You Work » et « De General » pour ses crédits de production nommés les plus récents, puis par « Heat » et « Lock De Gate » pour les titres de Road March du groupe. Notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> mélange ces classiques aux nouveautés de la Dominique suivies par Bouyon Shattaz.",
+  ),
+  (
+    "Quel est le rôle de Killa Laurent dans Triple Kay ?",
+    "Killa Laurent tient les claviers principaux de Triple Kay et produit sa musique. Le site officiel répartit les rôles sans ambiguïté : « Kendel produit toute leur musique, tandis que Jeoffrey écrit une grande partie des paroles du groupe ». Jeoffrey « JJ Yout » Joseph tient le second clavier et les chœurs : pendant que les chanteurs portent les refrains, Laurent construit le son, des motifs de clavier à la programmation rythmique.",
+  ),
+  (
+    "Qui sont les membres de Triple Kay ?",
+    "Triple Kay compte neuf musiciens selon son site officiel. Trois chanteurs : David « Sonic Tazzy » George, Wayne « Mr Benji N’O » Benjamin et Lennan « Ticky » Matthew. Derrière : Kendel « Killa » Laurent aux claviers et à la production, Jeoffrey « JJ Yout » Joseph au second clavier, Jason « Froggy » Joseph à la batterie, Ordel « Zoubs » Hamilton aux guitares et Daniel « Brush Head » Phillip à la basse.",
+  ),
+  (
+    "D’où vient Killa Laurent ?",
+    "Killa Laurent est un musicien de la Dominique. Il produit Triple Kay, le groupe fondé par trois amis de la communauté de Laudat, qui revendique plus de 25 ans d’existence, plus de neuf albums et des centaines de chansons. Ses crédits hors du groupe passent par le Music Box Studio, en Dominique. Aucune source consultée ne publie sa date de naissance.",
+  ),
+  (
+    "Qui a produit « Whistle While You Work » de Triple Kay ?",
+    "Kendel « Killa » Laurent, crédité comme producteur du riddim. Ce titre bouyon de 2024, dont le site du groupe dit qu’il a dominé plusieurs classements régionaux, notamment à Antigua, a été enregistré aux Music Box Studios et au Home Alone Studio, puis mixé et masterisé par Cornel Phillip d’Imperial Publishing. Son thème : ignorer les médisants, se concentrer sur soi et siffler en travaillant.",
+  ),
+  (
+    "Qui a produit « De General » de Triple Kay ?",
+    "Kendel Laurent, crédité comme producteur et comme auteur sur Shazam. Ce titre, présenté comme du bouyon 2026, est son crédit de production le plus net : il était seulement coproducteur de « Let Her Go » (2025) et de « Allu Like Dat ». Shazam liste ces trois singles récents au même tempo de 160 BPM, le battement rapide du bouyon moderne.",
+  ),
+  (
+    "Quel est le lien entre Triple Kay et le bouyon soca ?",
+    "Triple Kay compte parmi les groupes qui ont popularisé le bouyon soca. Ce style est né en Dominique en 2003, lancé par Dada selon le témoignage de Smokiller, puis il s’est répandu quand Triple Kay et d’autres groupes l’ont adopté dans leur propre version du bouyon. Killa Laurent est l’artisan sonore quotidien du groupe. Voir notre page <a href=\"/bouyon-soca.html\">bouyon soca</a>.",
+  ),
+  (
+    "Killa Laurent et Mr Killa, est-ce le même artiste ?",
+    "Non. Killa Laurent est Kendel Laurent, le claviériste et producteur dominicain de Triple Kay. Mr Killa est un artiste de la Grenade, invité de Triple Kay sur la fusion soca « Waist » avec Flippo, de Trinidad, à la période de « Lock De Gate » (2015). Les deux noms se croisent donc sur le même catalogue, mais désignent deux artistes de deux îles différentes.",
+  ),
+  (
+    "Quelle chanson Triple Kay a-t-il sortie après l’ouragan Maria ?",
+    "« Still Standing », sortie en 2018 après les ravages de l’ouragan Maria. Selon le site officiel du groupe, elle est devenue un hymne de résilience pour la Dominique et pour d’autres nations confrontées à l’adversité. Comme tout le catalogue de Triple Kay, elle est passée par les claviers et la production de Kendel « Killa » Laurent.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/killa-laurent.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/killa-laurent.html#artist", "name": "Killa Laurent", "description": "Kendel Killa Laurent, claviériste principal et producteur de Triple Kay en Dominique. Le site officiel du groupe affirme qu’il produit toute la musique du groupe. Crédité producteur du riddim de Whistle While You Work et producteur de De General.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Whistle While You Work'}, {"@type": "MusicRecording", "name": 'De General'}, {"@type": "MusicRecording", "name": 'Allu Like Dat'}, {"@type": "MusicRecording", "name": 'Let Her Go'}, {"@type": "MusicRecording", "name": 'Forks Up'}, {"@type": "MusicRecording", "name": 'Lock De Gate'}, {"@type": "MusicRecording", "name": 'Heat'}, {"@type": "MusicRecording", "name": 'Still Standing'}, {"@type": "MusicRecording", "name": 'Jose'}, {"@type": "MusicRecording", "name": 'Roll Dat Boom Boom'}, {"@type": "MusicRecording", "name": 'Toufe'}, {"@type": "MusicRecording", "name": 'Waist'}, {"@type": "MusicRecording", "name": 'Nice Time'}, {"@type": "MusicRecording", "name": 'Nous Konnet Vive'}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -155,13 +205,63 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Killa Laurent?", "Killa Laurent, real name Kendel Laurent, is a musician and producer from Dominica. He is the lead keyboardist of Triple Kay and, according to the band official site, the producer of all of the band music."),
-  ("Who really produces Triple Kay music, Benji or Killa Laurent?", "Both names appear, at different moments. The band official site credits Benji with producing the hinge single “Log On” in 2003 and the title track of “Sewo” in 2004, when Benji turned the band toward bouyon. For the catalogue as a whole, the same official site states it without nuance: “Kendel produces all of their music.” Platform credits confirm that role for the recent era: Kendel Laurent is credited as producer of “De General” and co-producer of “Allu Like Dat” and “Let Her Go”."),
-  ("Which major records has Killa Laurent produced with Triple Kay?", "As the band producer, his catalogue covers the albums from “Big Ting” (2000) to “Bubblin” (2012) and the singles that became classics: “Soos”, “Please”, People’s Road March title in 2008, “Nous Konnet Vive”, carnival theme song in 2014, “Lock De Gate”, People’s Road March in 2015, “Roll dat Boom Boom”, Road March in 2017, “Still Standing” in 2018 and “Heat”, presented by the band as the world first People’s Bouyon Road March title in 2019."),
-  ("What is Music Box Studio?", "Music Box Studio is the Dominican studio that appears in Kendel Laurent production credits: he produced and mixed Romel “Forks Up” there in 2019, and Triple Kay “Whistle While You Work” was recorded there, alongside Home Alone Studio."),
-  ("Does Killa Laurent work with artists other than Triple Kay?", "Yes, according to published credits. He produced and mixed “Forks Up” by Antigua soca artist Romel (2019), and produced “What’s Your Plan”, the Dominica Red Cross disaster preparedness song written and composed by Michele Henderson and performed by Michele Henderson and Wayne Benjamin."),
-  ("Where can I hear bouyon produced by Killa Laurent?", "Start with “Whistle While You Work” and “De General” for his most recent named production credits, then “Heat” and “Lock De Gate” for the band Road March records. Our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> mixes those classics with the new Dominican releases followed by Bouyon Shattaz.")
- ],
+  (
+    "Who is Killa Laurent?",
+    "Killa Laurent, real name Kendel Laurent, is a musician and producer from Dominica. He is the lead keyboardist of Triple Kay and, according to the band official site, the producer of all of the band music, a catalogue running from the album “Big Ting” in 2000 to streaming era singles such as “De General”.",
+  ),
+  (
+    "Who really produces Triple Kay music, Benji or Killa Laurent?",
+    "Both names appear, at different moments. The official site credits Benji with producing the hinge single “Log On” and the title track of “Sewo” in 2004, when he turned the band toward bouyon. For the catalogue as a whole, the same site states it: “Kendel produces all of their music.” Recent platform credits confirm it, from “Let Her Go” to “De General”.",
+  ),
+  (
+    "Which major records has Killa Laurent produced with Triple Kay?",
+    "As the band producer, his catalogue covers the albums from “Big Ting” (2000) to “Bubblin” (2012) and classics: “Soos”, “Please”, People’s Road March 2008, “Nous Konnet Vive”, carnival theme song 2014, “Lock De Gate”, People’s Road March 2015, “Roll dat Boom Boom”, Road March 2017, and “Heat”, presented by the band as the world first People’s Bouyon Road March title in 2019.",
+  ),
+  (
+    "What is Music Box Studio?",
+    "Music Box Studio is the Dominican studio that appears in Kendel Laurent production credits: he produced and mixed Romel “Forks Up” there in 2019, and Triple Kay “Whistle While You Work” was recorded there, alongside Home Alone Studio. The same studio name therefore returns on an Antigua soca record and on the bouyon of the island biggest band.",
+  ),
+  (
+    "Does Killa Laurent work with artists other than Triple Kay?",
+    "Yes, according to published credits. He produced and mixed “Forks Up” by Antigua soca artist Romel (2019), and produced “What’s Your Plan”, the Dominica Red Cross disaster preparedness song written and composed by Michele Henderson and performed by Michele Henderson and Wayne Benjamin.",
+  ),
+  (
+    "Where can I hear bouyon produced by Killa Laurent?",
+    "Start with “Whistle While You Work” and “De General” for his most recent named production credits, then “Heat” and “Lock De Gate” for the band Road March records. Our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> mixes those classics with the new Dominican releases followed by Bouyon Shattaz.",
+  ),
+  (
+    "What is Killa Laurent role in Triple Kay?",
+    "Killa Laurent plays lead keyboards in Triple Kay and produces its music. The official site hands out the roles without ambiguity: “Kendel produces all of their music while Jeoffrey pens much of the band’s lyrics.” Jeoffrey “JJ Yout” Joseph plays second keys and backing vocals: while the singers carry the hooks, Laurent builds the sound, from keyboard patterns to rhythm programming.",
+  ),
+  (
+    "Who are the members of Triple Kay?",
+    "Triple Kay counts nine musicians according to its official site. Up front, three vocalists: David “Sonic Tazzy” George, Wayne “Mr Benji N’O” Benjamin and Lennan “Ticky” Matthew. Behind them, Kendel “Killa” Laurent on lead keys and production, Jeoffrey “JJ Yout” Joseph on second keys, Jason “Froggy” Joseph on drums, Ordel “Zoubs” Hamilton on guitars and Daniel “Brush Head” Phillip on bass.",
+  ),
+  (
+    "Where is Killa Laurent from?",
+    "Killa Laurent is a musician from Dominica. He produces Triple Kay, the band founded by three friends from the community of Laudat, which claims over 25 years together, over nine albums and hundreds of songs. His credits outside the band run through Music Box Studio, in Dominica. No source consulted publishes his birth date.",
+  ),
+  (
+    "Who produced “Whistle While You Work” by Triple Kay?",
+    "Kendel “Killa” Laurent, credited as riddim producer. This 2024 bouyon record, which the band site says topped several regional charts, in Antigua among others, was recorded at Music Box Studios and Home Alone Studio, then mixed and mastered by Cornel Phillip of Imperial Publishing. Its theme: pay no attention to the naysayers, concentrate on yourself, and whistle while you work.",
+  ),
+  (
+    "Who produced “De General” by Triple Kay?",
+    "Kendel Laurent, credited as producer and songwriter on Shazam. Presented as a bouyon 2026 record, it is his clearest production credit: he was only co-producer on “Let Her Go” (2025) and “Allu Like Dat”. Shazam lists those three recent singles at the same tempo of 160 BPM, the fast heartbeat of modern bouyon.",
+  ),
+  (
+    "What is the link between Triple Kay and bouyon soca?",
+    "Triple Kay is one of the bands that made bouyon soca popular. The style was started in Dominica in 2003 by Dada, according to the testimony of Smokiller, then spread when Triple Kay and other bands adopted it in their own version of bouyon. Killa Laurent is the band day to day sound craftsman. See our <a href=\"/en/bouyon-soca.html\">bouyon soca</a> page.",
+  ),
+  (
+    "Are Killa Laurent and Mr Killa the same artist?",
+    "No. Killa Laurent is Kendel Laurent, the Dominican keyboardist and producer of Triple Kay. Mr Killa is an artist from Grenada, a guest of Triple Kay on the soca fusion “Waist” with Flippo of Trinidad, in the “Lock De Gate” period (2015). The two names cross on the same catalogue, but they belong to two artists from two different islands.",
+  ),
+  (
+    "Which song did Triple Kay release after Hurricane Maria?",
+    "“Still Standing”, released in 2018 after the devastation of Hurricane Maria. According to the band official site, it became an anthem of resilience for Dominica and for other nations facing adverse circumstances. Like the whole Triple Kay catalogue, it passed through the keyboards and production of Kendel “Killa” Laurent.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/killa-laurent.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/killa-laurent.html#artist", "name": "Killa Laurent", "description": "Kendel Killa Laurent, lead keyboardist and producer of Triple Kay in Dominica. The band official site states that he produces all of their music. Credited as riddim producer of Whistle While You Work and producer of De General.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Whistle While You Work'}, {"@type": "MusicRecording", "name": 'De General'}, {"@type": "MusicRecording", "name": 'Allu Like Dat'}, {"@type": "MusicRecording", "name": 'Let Her Go'}, {"@type": "MusicRecording", "name": 'Forks Up'}, {"@type": "MusicRecording", "name": 'Lock De Gate'}, {"@type": "MusicRecording", "name": 'Heat'}, {"@type": "MusicRecording", "name": 'Still Standing'}, {"@type": "MusicRecording", "name": 'Jose'}, {"@type": "MusicRecording", "name": 'Roll Dat Boom Boom'}, {"@type": "MusicRecording", "name": 'Toufe'}, {"@type": "MusicRecording", "name": 'Waist'}, {"@type": "MusicRecording", "name": 'Nice Time'}, {"@type": "MusicRecording", "name": 'Nous Konnet Vive'}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

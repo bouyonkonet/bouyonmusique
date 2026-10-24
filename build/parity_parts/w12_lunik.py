@@ -54,14 +54,69 @@ FR = {
   ]
  ],
  "faq": [
-  ("Lunik et Lünik, est ce le même artiste ?", "Oui, dans le bouyon, les plateformes utilisent les deux orthographes pour le même artiste. Qobuz écrit Lunik pour CHOKOLA, Shazam écrit Lünik pour Chichi et Laisser tomber. Ce profil garde Lunik comme nom principal et signale la forme avec tréma."),
-  ("Lunik a t il un lien avec le groupe suisse Lunik ?", "Non, et c est la confusion la plus fréquente. Le groupe suisse Lunik, formé en 1997 autour de Jaël, est un groupe de pop et de trip hop sans aucun lien avec l artiste bouyon guadeloupéen de ce profil. Ni les labels, ni les équipes, ni les dates ne se recoupent."),
-  ("Qui se cache derrière le nom Lunik ?", "Les crédits publiés nomment Ludmael FLOWER comme auteur de Chichi, comme voix et auteur des paroles de Laisser tomber, et comme coauteur de Jumping Jack avec Terry Capitolin. Sur Laisser tomber, Ulrich Flower est crédité à la programmation et à la production."),
-  ("Quel est le titre le plus connu de Lunik ?", "Chichi, sorti le 22 octobre 2020, est son titre le plus identifié sur Shazam, avec plus de 24 000 identifications listées. CHOKOLA, avec la Team Bwè Tou Sa et M.D.S, est l autre titre qui revient dans les playlists bouyon de référence."),
-  ("Lunik fait il partie de la Team Bwè Tou Sa ?", "Son catalogue le place au cœur de cette équipe : CHOKOLA est sorti chez GAMMALAB, le label de la Team, Tik tak et Laisser tomber figurent sur les albums Voyé sa alléé de la Team, et les crédits vidéo de la Team associent son nom aux initiales TBTS. Aucune biographie officielle ne le formule en toutes lettres, donc ce profil le présente comme un lien documenté par les crédits, pas comme une annonce officielle."),
-  ("Où écouter Lunik pour commencer ?", "Commencez par Chichi, puis CHOKOLA et Jumping Jack avec TiiTii NBA, et suivez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> ainsi que les pages de <a href=\"/billy-bybf.html\">Billy Bybf</a> et de <a href=\"/flw.html\">FLW</a>, deux artistes de son cercle.")
- ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/lunik.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/lunik.html#artist", "name": "Lunik", "alternateName": "Lünik", "description": "Voix bouyon guadeloupéenne liée à la Team Bwè Tou Sa et à GAMMALAB, créditée sous le nom de Ludmael FLOWER sur Chichi, CHOKOLA et Laisser tomber.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Chichi"}, {"@type": "MusicRecording", "name": "CHOKOLA"}, {"@type": "MusicRecording", "name": "Laisser tomber"}, {"@type": "MusicRecording", "name": "Jumping Jack"}, {"@type": "MusicRecording", "name": "Tu veux"}, {"@type": "MusicRecording", "name": "Tik tak"}], "sameAs": []}}],
+  (
+    "Lunik et Lünik, est-ce le même artiste ?",
+    "Oui, dans le bouyon, les plateformes utilisent les deux orthographes pour le même artiste. Qobuz écrit Lunik pour CHOKOLA, Shazam écrit Lünik pour Chichi et Laisser tomber, et les playlists bouyon emploient les deux formes. Ce profil garde Lunik comme nom principal et signale la forme avec tréma.",
+  ),
+  (
+    "Lunik a-t-il un lien avec le groupe suisse Lunik ?",
+    "Non, et c'est la confusion la plus fréquente. Le groupe suisse Lunik, formé en 1997 autour de Jaël, est un groupe de pop et de trip hop sans aucun lien avec l'artiste bouyon guadeloupéen de ce profil. Ni les labels, ni les équipes, ni les dates ne se recoupent.",
+  ),
+  (
+    "Qui se cache derrière le nom Lunik ?",
+    "Les crédits publiés nomment Ludmael FLOWER comme auteur de Chichi, comme voix et auteur des paroles de Laisser tomber, et comme coauteur de Jumping Jack avec Terry Capitolin. Sur Laisser tomber, Ulrich Flower est crédité à la programmation et à la production. Ludmael Flower co-signe aussi « KJF 2 » de LESTEF KJF BOYZ, sorti avec Lunik en 2022.",
+  ),
+  (
+    "Quel est le titre le plus connu de Lunik ?",
+    "Chichi, sorti le 22 octobre 2020, est son titre le plus identifié sur Shazam, avec plus de 24 000 identifications listées. CHOKOLA, avec la Team Bwè Tou Sa et M.D.S, est l'autre titre qui revient dans les playlists bouyon de référence, et Jumping Jack, avec TiiTii NBA, reste sa sortie la plus notable hors de son équipe.",
+  ),
+  (
+    "Lunik fait-il partie de la Team Bwè Tou Sa ?",
+    "Son catalogue le place au cœur de cette équipe : CHOKOLA est sorti chez GAMMALAB, le label de la Team, Tik tak et Laisser tomber figurent sur les albums Voyé sa alléé de la Team, et les crédits vidéo de la Team associent son nom aux initiales TBTS. Aucune biographie officielle ne le formule en toutes lettres, donc ce profil le présente comme un lien documenté par les crédits, pas comme une annonce officielle.",
+  ),
+  (
+    "Où écouter Lunik pour commencer ?",
+    "Commencez par Chichi, son titre le plus identifié, puis CHOKOLA pour la Team Bwè Tou Sa, Laisser tomber pour ses crédits détaillés et Jumping Jack pour sa rencontre avec TiiTii NBA. Pour entendre ensuite le son bouyon récent dans lequel s'inscrivent ces titres, suivez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>.",
+  ),
+  (
+    "Qui est Lunik ?",
+    "Lunik, aussi écrit Lünik, est une voix du bouyon guadeloupéen liée à la Team Bwè Tou Sa et au label GAMMALAB. Les crédits publiés nomment Ludmael FLOWER derrière le nom. Son catalogue, court et collectif, va de Chichi en 2020 à Jumping Jack avec TiiTii NBA en 2023, en passant par CHOKOLA, Tik tak et Laisser tomber.",
+  ),
+  (
+    "Qu'est-ce que CHOKOLA de Lunik ?",
+    "CHOKOLA est le titre de Lunik sorti le 23 janvier 2021 chez GAMMALAB selon Qobuz, crédité dans les playlists bouyon à Lünik, la Team Bwè Tou Sa et M.D.S. C'est le centre de gravité de son catalogue : Lunik porte la voix, la Team porte le cadre, GAMMALAB la sortie. La page <a href=\"/team-bwe-tou-sa.html\">Team Bwè Tou Sa</a> le classe parmi ses titres les plus identifiés.",
+  ),
+  (
+    "Qui a produit Laisser tomber de Lünik ?",
+    "Ulrich Flower, crédité à la programmation et à la production. Laisser tomber figure sur l'album Voyé sa alléé II de la Team Bwè Tou Sa, sorti le 8 juillet 2022 chez iMD-GAMMA_LAB. Ludmael FLOWER y est crédité à la voix et aux paroles, et Léonard Gueguen à la composition. C'est le titre le plus détaillé du dossier en matière de crédits.",
+  ),
+  (
+    "Qu'est-ce que Jumping Jack avec Lünik ?",
+    "Jumping Jack est un titre de 2023 de l'album New Bouyon Wave de TiiTii NBA, avec Lünik en featuring. Les crédits publiés nomment Terry Capitolin et Ludmael FLOWER comme auteurs, et le titre dure 2 minutes 03. C'est la sortie la plus notable de Lunik hors de sa propre équipe, aux côtés d'un des artistes les plus exposés de la scène guadeloupéenne.",
+  ),
+  (
+    "Lunik a-t-il collaboré avec LESTEF KJF BOYZ ?",
+    "Oui. Selon le profil de <a href=\"/lestef-kjf-boyz.html\">LESTEF KJF BOYZ</a>, « KJF 2 » sort le 13 janvier 2022 avec Lunik, écrit par Stephan Cornano et Ludmael Flower. Le groupe est aussi un partenaire régulier de la Team Bwè Tou Sa, avec qui il a enregistré « 50/50 », un titre dont Ludmael Flower figure parmi les auteurs crédités.",
+  ),
+  (
+    "Lunik, c'est du reggae ou du bouyon ?",
+    "Du bouyon. Shazam range Chichi dans le reggae, mais c'est une étiquette de plateforme qui, pour cette scène, couvre le bouyon et ses formes voisines plutôt que le reggae jamaïcain au sens strict. Tout le catalogue de Lunik s'inscrit dans le <a href=\"/bouyon-gwada.html\">bouyon gwada</a> de la Team Bwè Tou Sa et de GAMMALAB.",
+  ),
+  (
+    "Avec quels artistes Lunik a-t-il travaillé ?",
+    "Ses titres le relient à la Team Bwè Tou Sa et M.D.S sur CHOKOLA, à Dj Dirtee sur Tik tak, à TiiTii NBA sur Jumping Jack, à <a href=\"/billy-bybf.html\">Billy Bybf</a> sur Tu veux, à FLW et See V sur HOT #Oups 5, et à LESTEF KJF BOYZ sur « KJF 2 ». Presque tous ces noms appartiennent au même cercle guadeloupéen.",
+  )
+],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/lunik.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/lunik.html#artist", "name": "Lunik", "alternateName": "Lünik", "description": "Voix bouyon guadeloupéenne liée à la Team Bwè Tou Sa et à GAMMALAB, créditée sous le nom de Ludmael FLOWER sur Chichi, CHOKOLA et Laisser tomber.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Chichi"}, {"@type": "MusicRecording", "name": "CHOKOLA"}, {"@type": "MusicRecording", "name": "Laisser tomber"}, {"@type": "MusicRecording", "name": "Jumping Jack"}, {"@type": "MusicRecording", "name": "Tu veux"}, {"@type": "MusicRecording", "name": "Tik tak"},
+      {
+       "@type": "MusicRecording",
+       "name": "Nou an chyen"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "KJF 2"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -110,13 +165,68 @@ EN = {
   ]
  ],
  "faq": [
-  ("Are Lunik and Lünik the same artist?", "Yes, in bouyon the platforms use both spellings for the same artist. Qobuz writes Lunik for CHOKOLA, Shazam writes Lünik for Chichi and Laisser tomber. This profile keeps Lunik as the main name and flags the umlaut form."),
-  ("Is Lunik connected to the Swiss band Lunik?", "No, and that is the most common confusion. The Swiss band Lunik, formed in 1997 around Jaël, is a pop and trip hop band with no connection to the Guadeloupe bouyon artist in this profile. Neither the labels, nor the crews, nor the dates overlap."),
-  ("Who is behind the name Lunik?", "The published credits name Ludmael FLOWER as the songwriter of Chichi, as voice and lyricist on Laisser tomber, and as co-writer of Jumping Jack with Terry Capitolin. On Laisser tomber, Ulrich Flower is credited with programming and production."),
-  ("What is Lunik best known record?", "Chichi, released on 22 October 2020, is his most identified track on Shazam, with more than 24,000 identifications listed. CHOKOLA, with Team Bwe Tou Sa and M.D.S, is the other record that returns in reference bouyon playlists."),
-  ("Is Lunik a member of Team Bwe Tou Sa?", "His catalogue places him at the heart of that crew: CHOKOLA was released by GAMMALAB, the Team label, Tik tak and Laisser tomber appear on the Team Voye sa allee albums, and Team video credits associate his name with the initials TBTS. No official biography states it in full, so this profile presents it as a link documented by credits, not as an official announcement."),
-  ("Where should I start listening to Lunik?", "Start with Chichi, then CHOKOLA and Jumping Jack with TiiTii NBA, and follow our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> and the pages for <a href=\"/en/billy-bybf.html\">Billy Bybf</a> and <a href=\"/en/flw.html\">FLW</a>, two artists from his circle.")
- ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/lunik.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/lunik.html#artist", "name": "Lunik", "alternateName": "Lünik", "description": "Guadeloupe bouyon voice linked to Team Bwe Tou Sa and GAMMALAB, credited under the name Ludmael FLOWER on Chichi, CHOKOLA and Laisser tomber.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Chichi"}, {"@type": "MusicRecording", "name": "CHOKOLA"}, {"@type": "MusicRecording", "name": "Laisser tomber"}, {"@type": "MusicRecording", "name": "Jumping Jack"}, {"@type": "MusicRecording", "name": "Tu veux"}, {"@type": "MusicRecording", "name": "Tik tak"}], "sameAs": []}}],
+  (
+    "Are Lunik and Lünik the same artist?",
+    "Yes, in bouyon the platforms use both spellings for the same artist. Qobuz writes Lunik for CHOKOLA, Shazam writes Lünik for Chichi and Laisser tomber, and bouyon playlists use both forms. This profile keeps Lunik as the main name and flags the umlaut form.",
+  ),
+  (
+    "Is Lunik connected to the Swiss band Lunik?",
+    "No, and that is the most common confusion. The Swiss band Lunik, formed in 1997 around Jaël, is a pop and trip hop band with no connection to the Guadeloupe bouyon artist in this profile. Neither the labels, nor the crews, nor the dates overlap.",
+  ),
+  (
+    "Who is behind the name Lunik?",
+    "The published credits name Ludmael FLOWER as the songwriter of Chichi, as voice and lyricist on Laisser tomber, and as co-writer of Jumping Jack with Terry Capitolin. On Laisser tomber, Ulrich Flower is credited with programming and production. Ludmael Flower also co-wrote “KJF 2” by LESTEF KJF BOYZ, released with Lunik in 2022.",
+  ),
+  (
+    "What is Lunik's best known record?",
+    "Chichi, released on 22 October 2020, is his most identified track on Shazam, with more than 24,000 identifications listed. CHOKOLA, with Team Bwe Tou Sa and M.D.S, is the other record that returns in reference bouyon playlists, and Jumping Jack, with TiiTii NBA, remains his most notable outing beyond his own crew.",
+  ),
+  (
+    "Is Lunik a member of Team Bwe Tou Sa?",
+    "His catalogue places him at the heart of that crew: CHOKOLA was released by GAMMALAB, the Team label, Tik tak and Laisser tomber appear on the Team Voye sa allee albums, and Team video credits associate his name with the initials TBTS. No official biography states it in full, so this profile presents it as a link documented by credits, not as an official announcement.",
+  ),
+  (
+    "Where should I start listening to Lunik?",
+    "Start with Chichi, his most identified record, then CHOKOLA for Team Bwè Tou Sa, Laisser tomber for its detailed credits and Jumping Jack for his meeting with TiiTii NBA. To hear the recent bouyon sound those records belong to, then follow our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>.",
+  ),
+  (
+    "Who is Lunik?",
+    "Lunik, also spelled Lünik, is a Guadeloupe bouyon voice linked to Team Bwè Tou Sa and the GAMMALAB label. The published credits name Ludmael FLOWER behind the name. His short, collective catalogue runs from Chichi in 2020 to Jumping Jack with TiiTii NBA in 2023, through CHOKOLA, Tik tak and Laisser tomber.",
+  ),
+  (
+    "What is CHOKOLA by Lunik?",
+    "CHOKOLA is the Lunik record released on 23 January 2021 by GAMMALAB according to Qobuz, credited in bouyon playlists to Lünik, Team Bwè Tou Sa and M.D.S. It is the centre of gravity of his catalogue: Lunik carries the voice, the Team carries the frame, GAMMALAB the release. The <a href=\"/en/team-bwe-tou-sa.html\">Team Bwè Tou Sa</a> page ranks it among its most identified records.",
+  ),
+  (
+    "Who produced Laisser tomber by Lünik?",
+    "Ulrich Flower, credited with programming and production. Laisser tomber appears on the Team Bwè Tou Sa album Voyé sa alléé II, released on 8 July 2022 by iMD-GAMMA_LAB. Ludmael FLOWER is credited on voice and lyrics, and Léonard Gueguen as composer. It is the record with the most detailed credits in the file.",
+  ),
+  (
+    "What is Jumping Jack with Lünik?",
+    "Jumping Jack is a 2023 track from TiiTii NBA's album New Bouyon Wave, featuring Lünik. The published credits name Terry Capitolin and Ludmael FLOWER as writers, and the record runs 2 minutes 03. It is Lunik's most notable outing beyond his own crew, alongside one of the most exposed artists on the Guadeloupe scene.",
+  ),
+  (
+    "Has Lunik worked with LESTEF KJF BOYZ?",
+    "Yes. According to the <a href=\"/en/lestef-kjf-boyz.html\">LESTEF KJF BOYZ</a> profile, “KJF 2” was released on 13 January 2022 with Lunik, written by Stephan Cornano and Ludmael Flower. The group is also a regular partner of Team Bwè Tou Sa, with whom it recorded “50/50”, a record on which Ludmael Flower is among the credited writers.",
+  ),
+  (
+    "Is Lunik reggae or bouyon?",
+    "Bouyon. Shazam files Chichi under reggae, but that is a platform label which, for this scene, covers bouyon and its neighbouring forms rather than reggae in the strict Jamaican sense. Lunik's whole catalogue belongs to the <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a> of Team Bwè Tou Sa and GAMMALAB.",
+  ),
+  (
+    "Which artists has Lunik worked with?",
+    "His records connect him to Team Bwè Tou Sa and M.D.S on CHOKOLA, Dj Dirtee on Tik tak, TiiTii NBA on Jumping Jack, <a href=\"/en/billy-bybf.html\">Billy Bybf</a> on Tu veux, FLW and See V on HOT #Oups 5, and LESTEF KJF BOYZ on “KJF 2”. Almost all of these names belong to the same Guadeloupe circle.",
+  )
+],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/lunik.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/lunik.html#artist", "name": "Lunik", "alternateName": "Lünik", "description": "Guadeloupe bouyon voice linked to Team Bwe Tou Sa and GAMMALAB, credited under the name Ludmael FLOWER on Chichi, CHOKOLA and Laisser tomber.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Chichi"}, {"@type": "MusicRecording", "name": "CHOKOLA"}, {"@type": "MusicRecording", "name": "Laisser tomber"}, {"@type": "MusicRecording", "name": "Jumping Jack"}, {"@type": "MusicRecording", "name": "Tu veux"}, {"@type": "MusicRecording", "name": "Tik tak"},
+      {
+       "@type": "MusicRecording",
+       "name": "Nou an chyen"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "KJF 2"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

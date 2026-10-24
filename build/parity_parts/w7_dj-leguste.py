@@ -71,14 +71,117 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est DJ Leguste ?", "DJ Leguste est un producteur et DJ bouyon de la scene des Antilles francaises, rattache a la Guadeloupe par ses contacts publics, dont un Snapchat en 971 liste dans les credits YouTube de SOUKWE SA BABY. Il publie ses singles principalement sur son propre label, DJ LEGUSTE, et son nom de credits, publie par Shazam, est Ryan Auguste."),
-  ("Quel est le titre le plus connu de DJ Leguste ?", "Le titre le mieux documente de son catalogue est I Don't Know, avec Cocotteland, sorti le 11 avril 2024 sur le label DJ LEGUSTE, a 160 BPM. Ses credits d'ecriture, publies par Shazam, sont Ryan Auguste et Djenae Castelneau."),
-  ("Pourquoi presque tous les titres de DJ Leguste sont ils a 160 BPM ?", "Parce que 160 BPM est le tempo de croisiere du bouyon moderne des Antilles francaises. LE GARS CHAUD, EN LEY, I Don't Know, CUNNI KOKE JOUI, PIANOO PIANOO et Cocaina sont tous a 160 BPM selon les fiches publiees. Le seul ecart net du catalogue controle est Pa di mwen JTM STP, a 157 BPM en decembre 2025."),
-  ("DJ Leguste produit il pour d'autres artistes ?", "Oui. Le clip YouTube de SOUKWE SA BABY, de Tichouboy avec Le Daah, credite DJ Leguste a la production, aux claviers et a la batterie. Il apparait aussi en featuring sur Cocaina, de XL Caraibes et BMY, sorti en 2024 sur XL Records, et sur Feel di riddim, de TITOM509, avec TI PHENIX et DJ CRVPVL."),
-  ("Quel est le vrai nom de DJ Leguste ?", "Les credits publies par Shazam donnent le nom Ryan Auguste comme auteur sur la plupart de ses titres et comme producteur sur Pa di mwen JTM STP. Ce profil imprime ce nom uniquement comme nom de credits publie : aucune biographie officielle confirmee n'a ete trouvee pendant la recherche."),
-  ("Ou ecouter DJ Leguste ?", "Commencez par I Don't Know, puis LE GARS CHAUD, EN LEY, PIANOO PIANOO (ring ring ring) et Pa di mwen JTM STP sur les plateformes de streaming, et prolongez avec notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, qui melange bouyon, bouyon soca et nouveautes des Antilles francaises et de la Dominique.")
- ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/dj-leguste.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/dj-leguste.html#artist", "name": "DJ Leguste", "description": "Producteur et DJ bouyon des Antilles francaises, rattache a la Guadeloupe. Nom de credits publie : Ryan Auguste. Titre de reference : I Don't Know avec Cocotteland, sorti le 11 avril 2024 a 160 BPM sur son label DJ LEGUSTE.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "I Don't Know"}, {"@type": "MusicRecording", "name": "LE GARS CHAUD"}, {"@type": "MusicRecording", "name": "EN LEY"}, {"@type": "MusicRecording", "name": "IT'S NOT ME"}, {"@type": "MusicRecording", "name": "CUNNI KOKE JOUI"}, {"@type": "MusicRecording", "name": "PIANOO PIANOO (ring ring ring)"}, {"@type": "MusicRecording", "name": "Cocaina"}, {"@type": "MusicRecording", "name": "Feel di riddim"}, {"@type": "MusicRecording", "name": "Pa di mwen JTM STP"}, {"@type": "MusicRecording", "name": "YE SWA"}, {"@type": "MusicRecording", "name": "SOUKWE SA BABY"}], "sameAs": []}}],
+  (
+    "Qui est DJ Leguste ?",
+    "DJ Leguste est un producteur et DJ bouyon de la scène des Antilles françaises, rattaché à la Guadeloupe par ses contacts publics, dont un Snapchat en 971 listé dans les crédits YouTube de SOUKWE SA BABY. Il publie ses singles principalement sur son propre label, DJ LEGUSTE, et son nom de crédits, publié par Shazam, est Ryan Auguste.",
+  ),
+  (
+    "Quel est le titre le plus connu de DJ Leguste ?",
+    "Le titre le mieux documenté de son catalogue est I Don’t Know, avec Cocotteland, sorti le 11 avril 2024 sur le label DJ LEGUSTE, à 160 BPM. Ses crédits d’écriture, publiés par Shazam, sont Ryan Auguste et Djenae Castelneau. Ce n’est pas un début : il arrive après une année 2023 déjà riche en singles sous le même label.",
+  ),
+  (
+    "Pourquoi presque tous les titres de DJ Leguste sont-ils à 160 BPM ?",
+    "Parce que 160 BPM est le tempo de croisière du bouyon moderne des Antilles françaises. LE GARS CHAUD, EN LEY, I Don’t Know, CUNNI KOKE JOUI, PIANOO PIANOO et Cocaina sont tous à 160 BPM selon les fiches publiées. Le seul écart net du catalogue contrôlé est Pa di mwen JTM STP, à 157 BPM en décembre 2025.",
+  ),
+  (
+    "DJ Leguste produit-il pour d’autres artistes ?",
+    "Oui. Le clip YouTube de SOUKWE SA BABY, de Tichouboy avec Le Daah, crédite DJ Leguste à la production, aux claviers et à la batterie. Il apparaît aussi en featuring sur Cocaina, de XL Caraibes et BMY, sorti en 2024 sur XL Records, et sur Feel di riddim, de TITOM509, avec TI PHENIX et DJ CRVPVL.",
+  ),
+  (
+    "Quel est le vrai nom de DJ Leguste ?",
+    "Les crédits publiés par Shazam donnent le nom Ryan Auguste comme auteur sur la plupart de ses titres et comme producteur sur Pa di mwen JTM STP. Ce profil imprime ce nom uniquement comme nom de crédits publié : aucune biographie officielle confirmée n’a été trouvée pendant la recherche.",
+  ),
+  (
+    "Où écouter DJ Leguste ?",
+    "Commencez par I Don’t Know, puis LE GARS CHAUD, EN LEY, PIANOO PIANOO (ring ring ring) et Pa di mwen JTM STP sur les plateformes de streaming, et prolongez avec notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, qui mélange bouyon, bouyon soca et nouveautés des Antilles françaises et de la Dominique.",
+  ),
+  (
+    "Pourquoi DJ Leguste s’appelle-t-il Leguste ?",
+    "Son nom de scène colle à son nom de crédits : les fiches Shazam impriment Ryan Auguste comme auteur ou producteur sur l’ensemble du catalogue contrôlé, et Auguste devient Leguste. Le nom d’artiste et le nom de crédits désignent donc la même personne sous deux formes. Ce site imprime Ryan Auguste uniquement comme nom de crédits publié, faute de biographie officielle.",
+  ),
+  (
+    "Sur quel label sortent les titres de DJ Leguste ?",
+    "Sur son propre label, DJ LEGUSTE, pour la quasi totalité de ses singles, de LE GARS CHAUD en mai 2023 à Pa di mwen JTM STP en décembre 2025. C’est le modèle d’auto édition des producteurs bouyon de sa génération : pas d’album, des singles publiés quand ils sont prêts. Exception documentée : Cocaina, où il est invité, sort sur XL Records.",
+  ),
+  (
+    "Quand DJ Leguste a-t-il commencé à sortir des titres ?",
+    "Son premier single documenté est LE GARS CHAUD, avec Le Daah, sorti le 26 mai 2023 sur le label DJ LEGUSTE, en français, à 160 BPM, coécrit par Ryan Auguste et Daryl Biabiany. EN LEY, avec Judi Silva et Le Daah, suit le 15 juillet 2023. La même année, il produit SOUKWE SA BABY pour Tichouboy. Il publie donc depuis au moins 2023.",
+  ),
+  (
+    "Quels artistes chantent avec DJ Leguste ?",
+    "Le Daah est sa voix la plus fidèle : LE GARS CHAUD, EN LEY et SOUKWE SA BABY en 2023. Viennent ensuite Cocotteland sur I Don’t Know, Judi Silva, Lalann, TISMA, Le Matt et Pepito, ainsi que TEAM BODE, Loloo et Nsk sur IT’S NOT ME. Côté écriture, SGB KUSH coécrit deux de ses singles d’octobre 2024.",
+  ),
+  (
+    "Qu’est-ce que PIANOO PIANOO (ring ring ring) de DJ Leguste ?",
+    "C’est un single avec TISMA, sorti le 9 octobre 2024 sur le label DJ LEGUSTE, en français, à 160 BPM, écrit par Ryan Auguste, Mathis Cabo et SGB KUSH selon Shazam. Il arrive cinq jours après CUNNI KOKE JOUI, avec Lalann, qui partage le même coauteur SGB KUSH : deux sorties en une semaine, signe d’une petite équipe d’écriture régulière.",
+  ),
+  (
+    "Qu’est-ce que Pa di mwen JTM STP ?",
+    "C’est le titre le plus récent du catalogue documenté de DJ Leguste : un single avec Le Matt et Pepito, sorti le 12 décembre 2025 sur le label DJ LEGUSTE, à 157 BPM, seul écart net par rapport à ses 160 BPM habituels. Ryan Auguste y est crédité à la production, avec les voix de Stanley Lurel et Matteo Suard.",
+  ),
+  (
+    "Qu’est-ce que Feel di riddim, avec DJ Leguste ?",
+    "C’est un titre de TITOM509 avec DJ LEGUSTE, TI PHENIX et DJ CRVPVL, dont les paroles publiées s’ouvrent sur un appel à DJ Leguste. Son titre, ressens le riddim, parle de la culture des producteurs bouyon, où le riddim est la matière première. DJ Leguste y figure comme un pair parmi les DJs et producteurs, pas seulement comme fabricant de singles.",
+  )
+],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/dj-leguste.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/dj-leguste.html#artist", "name": "DJ Leguste", "description": "Producteur et DJ bouyon des Antilles francaises, rattache a la Guadeloupe. Nom de credits publie : Ryan Auguste. Titre de reference : I Don't Know avec Cocotteland, sorti le 11 avril 2024 a 160 BPM sur son label DJ LEGUSTE.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "I Don't Know"}, {"@type": "MusicRecording", "name": "LE GARS CHAUD"}, {"@type": "MusicRecording", "name": "EN LEY"}, {"@type": "MusicRecording", "name": "IT'S NOT ME"}, {"@type": "MusicRecording", "name": "CUNNI KOKE JOUI"}, {"@type": "MusicRecording", "name": "PIANOO PIANOO (ring ring ring)"}, {"@type": "MusicRecording", "name": "Cocaina"}, {"@type": "MusicRecording", "name": "Feel di riddim"}, {"@type": "MusicRecording", "name": "Pa di mwen JTM STP"}, {"@type": "MusicRecording", "name": "YE SWA"}, {"@type": "MusicRecording", "name": "SOUKWE SA BABY"},
+      {
+       "@type": "MusicRecording",
+       "name": "An sé an chien (feat. Toupit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TILILI (feat. Latop & Money Shaun)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "FE GUEL A YO (studio freestyle #3) (feat. Dodo & Yayoune)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kokot An Ka Krazé (studio freestyle #2) (feat. TopherBBG)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BOUMBOULOUM (performance live studio) (feat. Le Bluff & Tisma) [Live]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "En Pa Boug (feat. Le Daah & TGX)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SIWO (feat. Cocotteland)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LANMOO (feat. BOSS TP ( DJP FAMILY)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "NI ANLÈY NI A KOTÉ (feat. Cocotteland)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "RIVIÈ BIS (feat. Younik, Nils & TiChouboy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "True Story (feat. BRTA, DJ MATIX & DJ LEGUSTE)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dérapé la (feat. DJ LEGUSTE)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Face à Face (feat. DJ LEGUSTE)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kiki (feat. Le Daah & DJ Leguste)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -148,13 +251,116 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is DJ Leguste?", "DJ Leguste is a bouyon producer and DJ from the French Antilles scene, linked to Guadeloupe by his public contacts, including a 971 Snapchat listed in the YouTube credits for SOUKWE SA BABY. He releases his singles mainly on his own label, DJ LEGUSTE, and his published credits name, on Shazam, is Ryan Auguste."),
-  ("What is DJ Leguste best known record?", "The best documented record in his catalogue is I Don't Know, with Cocotteland, released on 11 April 2024 on the DJ LEGUSTE label, at 160 BPM. Its published writing credits, on Shazam, are Ryan Auguste and Djenae Castelneau."),
-  ("Why are almost all DJ Leguste records at 160 BPM?", "Because 160 BPM is the cruising tempo of modern French Antilles bouyon. LE GARS CHAUD, EN LEY, I Don't Know, CUNNI KOKE JOUI, PIANOO PIANOO and Cocaina are all listed at 160 BPM. The one clear break in the checked catalogue is Pa di mwen JTM STP, at 157 BPM in December 2025."),
-  ("Does DJ Leguste produce for other artists?", "Yes. The YouTube video for SOUKWE SA BABY, by Tichouboy with Le Daah, credits DJ Leguste with production, keys and drums. He also features on Cocaina, by XL Caraibes and BMY, released in 2024 on XL Records, and on Feel di riddim, by TITOM509, with TI PHENIX and DJ CRVPVL."),
-  ("What is DJ Leguste real name?", "The credits published by Shazam give the name Ryan Auguste as songwriter on most of his records and as producer on Pa di mwen JTM STP. This profile prints that name only as the published credits name: no confirmed official biography was found during the research."),
-  ("Where can I hear DJ Leguste?", "Start with I Don't Know, then LE GARS CHAUD, EN LEY, PIANOO PIANOO (ring ring ring) and Pa di mwen JTM STP on the streaming platforms, and continue with our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, which mixes bouyon, bouyon soca and new releases from the French Antilles and Dominica.")
- ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/dj-leguste.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/dj-leguste.html#artist", "name": "DJ Leguste", "description": "Bouyon producer and DJ from the French Antilles scene, linked to Guadeloupe. Published credits name: Ryan Auguste. Reference record: I Don't Know with Cocotteland, released 11 April 2024 at 160 BPM on his DJ LEGUSTE label.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "I Don't Know"}, {"@type": "MusicRecording", "name": "LE GARS CHAUD"}, {"@type": "MusicRecording", "name": "EN LEY"}, {"@type": "MusicRecording", "name": "IT'S NOT ME"}, {"@type": "MusicRecording", "name": "CUNNI KOKE JOUI"}, {"@type": "MusicRecording", "name": "PIANOO PIANOO (ring ring ring)"}, {"@type": "MusicRecording", "name": "Cocaina"}, {"@type": "MusicRecording", "name": "Feel di riddim"}, {"@type": "MusicRecording", "name": "Pa di mwen JTM STP"}, {"@type": "MusicRecording", "name": "YE SWA"}, {"@type": "MusicRecording", "name": "SOUKWE SA BABY"}], "sameAs": []}}],
+  (
+    "Who is DJ Leguste?",
+    "DJ Leguste is a bouyon producer and DJ from the French Antilles scene, linked to Guadeloupe by his public contacts, including a 971 Snapchat listed in the YouTube credits for SOUKWE SA BABY. He releases his singles mainly on his own label, DJ LEGUSTE, and his published credits name, on Shazam, is Ryan Auguste.",
+  ),
+  (
+    "What is DJ Leguste’s best known record?",
+    "The best documented record in his catalogue is I Don’t Know, with Cocotteland, released on 11 April 2024 on the DJ LEGUSTE label, at 160 BPM. Its published writing credits, on Shazam, are Ryan Auguste and Djenae Castelneau. It is not a debut: it follows a 2023 already rich in singles on the same label.",
+  ),
+  (
+    "Why are almost all DJ Leguste records at 160 BPM?",
+    "Because 160 BPM is the cruising tempo of modern French Antilles bouyon. LE GARS CHAUD, EN LEY, I Don't Know, CUNNI KOKE JOUI, PIANOO PIANOO and Cocaina are all listed at 160 BPM. The one clear break in the checked catalogue is Pa di mwen JTM STP, at 157 BPM in December 2025.",
+  ),
+  (
+    "Does DJ Leguste produce for other artists?",
+    "Yes. The YouTube video for SOUKWE SA BABY, by Tichouboy with Le Daah, credits DJ Leguste with production, keys and drums. He also features on Cocaina, by XL Caraibes and BMY, released in 2024 on XL Records, and on Feel di riddim, by TITOM509, with TI PHENIX and DJ CRVPVL.",
+  ),
+  (
+    "What is DJ Leguste real name?",
+    "The credits published by Shazam give the name Ryan Auguste as songwriter on most of his records and as producer on Pa di mwen JTM STP. This profile prints that name only as the published credits name: no confirmed official biography was found during the research.",
+  ),
+  (
+    "Where can I hear DJ Leguste?",
+    "Start with I Don't Know, then LE GARS CHAUD, EN LEY, PIANOO PIANOO (ring ring ring) and Pa di mwen JTM STP on the streaming platforms, and continue with our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, which mixes bouyon, bouyon soca and new releases from the French Antilles and Dominica.",
+  ),
+  (
+    "Why is DJ Leguste called Leguste?",
+    "His stage name follows his credits name: Shazam prints Ryan Auguste as writer or producer across the checked catalogue, and Auguste becomes Leguste. The artist name and the credits name therefore describe the same person in two forms. This site prints Ryan Auguste only as a published credits name, since no official biography exists in the record.",
+  ),
+  (
+    "What label releases DJ Leguste’s records?",
+    "His own label, DJ LEGUSTE, for nearly all his singles, from LE GARS CHAUD in May 2023 to Pa di mwen JTM STP in December 2025. It is the self release model of bouyon producers of his generation: no album, singles published when ready. Documented exception: Cocaina, on which he features, came out on XL Records.",
+  ),
+  (
+    "When did DJ Leguste start releasing records?",
+    "His first documented single is LE GARS CHAUD, with Le Daah, released on 26 May 2023 on the DJ LEGUSTE label, in French, at 160 BPM, co-written by Ryan Auguste and Daryl Biabiany. EN LEY, with Judi Silva and Le Daah, followed on 15 July 2023. The same year he produced SOUKWE SA BABY for Tichouboy. He has been releasing since at least 2023.",
+  ),
+  (
+    "Which artists sing with DJ Leguste?",
+    "Le Daah is his most loyal voice: LE GARS CHAUD, EN LEY and SOUKWE SA BABY in 2023. Then come Cocotteland on I Don’t Know, Judi Silva, Lalann, TISMA, Le Matt and Pepito, plus TEAM BODE, Loloo and Nsk on IT’S NOT ME. On the writing side, SGB KUSH co-wrote two of his October 2024 singles.",
+  ),
+  (
+    "What is DJ Leguste’s PIANOO PIANOO (ring ring ring)?",
+    "It is a single with TISMA, released on 9 October 2024 on the DJ LEGUSTE label, in French, at 160 BPM, written by Ryan Auguste, Mathis Cabo and SGB KUSH according to Shazam. It came five days after CUNNI KOKE JOUI, with Lalann, which shares the same co-writer SGB KUSH: two releases in one week, the mark of a small regular writing team.",
+  ),
+  (
+    "What is Pa di mwen JTM STP?",
+    "It is the most recent record in DJ Leguste’s documented catalogue: a single with Le Matt and Pepito, released on 12 December 2025 on the DJ LEGUSTE label, at 157 BPM, the one clear break from his usual 160 BPM. Ryan Auguste is credited as producer, with vocals by Stanley Lurel and Matteo Suard.",
+  ),
+  (
+    "What is Feel di riddim, featuring DJ Leguste?",
+    "It is a TITOM509 track with DJ LEGUSTE, TI PHENIX and DJ CRVPVL, whose published lyrics open with a call to DJ Leguste. Its title speaks to the culture of bouyon producers, where the riddim is the raw material. DJ Leguste appears on it as a peer among DJs and producers, not only as a maker of singles.",
+  )
+],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/dj-leguste.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/dj-leguste.html#artist", "name": "DJ Leguste", "description": "Bouyon producer and DJ from the French Antilles scene, linked to Guadeloupe. Published credits name: Ryan Auguste. Reference record: I Don't Know with Cocotteland, released 11 April 2024 at 160 BPM on his DJ LEGUSTE label.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "I Don't Know"}, {"@type": "MusicRecording", "name": "LE GARS CHAUD"}, {"@type": "MusicRecording", "name": "EN LEY"}, {"@type": "MusicRecording", "name": "IT'S NOT ME"}, {"@type": "MusicRecording", "name": "CUNNI KOKE JOUI"}, {"@type": "MusicRecording", "name": "PIANOO PIANOO (ring ring ring)"}, {"@type": "MusicRecording", "name": "Cocaina"}, {"@type": "MusicRecording", "name": "Feel di riddim"}, {"@type": "MusicRecording", "name": "Pa di mwen JTM STP"}, {"@type": "MusicRecording", "name": "YE SWA"}, {"@type": "MusicRecording", "name": "SOUKWE SA BABY"},
+      {
+       "@type": "MusicRecording",
+       "name": "An sé an chien (feat. Toupit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TILILI (feat. Latop & Money Shaun)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "FE GUEL A YO (studio freestyle #3) (feat. Dodo & Yayoune)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kokot An Ka Krazé (studio freestyle #2) (feat. TopherBBG)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BOUMBOULOUM (performance live studio) (feat. Le Bluff & Tisma) [Live]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "En Pa Boug (feat. Le Daah & TGX)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SIWO (feat. Cocotteland)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LANMOO (feat. BOSS TP ( DJP FAMILY)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "NI ANLÈY NI A KOTÉ (feat. Cocotteland)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "RIVIÈ BIS (feat. Younik, Nils & TiChouboy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "True Story (feat. BRTA, DJ MATIX & DJ LEGUSTE)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dérapé la (feat. DJ LEGUSTE)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Face à Face (feat. DJ LEGUSTE)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kiki (feat. Le Daah & DJ Leguste)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

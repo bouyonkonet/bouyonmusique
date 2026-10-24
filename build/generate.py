@@ -204,11 +204,11 @@ CAT_FAQ = {
 }
 
 
-SITE = os.path.expanduser("~/workspace/bouyonmusique.com")
+SITE = os.environ.get("BOUYONMUSIQUE_SITE") or os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 PAGES = []
-for mod in ["data_styles", "data_guides", "data_places", "data_events_artists", "data_production_ecoute", "data_culture", "data_wave1", "data_wave1b", "data_branches", "data_parity_w1", "data_parity_w2", "data_parity_w3", "data_parity_w4", "data_parity_w5", "data_parity_w6", "data_parity_w7", "data_parity_w8", "data_parity_w9", "data_parity_w10", "data_parity_w11", "data_parity_w12", "data_parity_w13", "data_parity_w14", "data_parity_w15", "data_parity_w16", "data_parity_w17", "data_parity_w18", "data_parity_w19", "data_parity_w20", "data_parity_w21", "data_parity_w22", "data_parity_w23", "data_parity_w24", "data_parity_w25", "data_parity_w26", "data_parity_w27", "data_parity_w28", "data_parity_w29", "data_parity_w30", "data_parity_w31"]:
+for mod in ["data_styles", "data_guides", "data_places", "data_events_artists", "data_production_ecoute", "data_culture", "data_wave1", "data_wave1b", "data_branches", "data_parity_w1", "data_parity_w2", "data_parity_w3", "data_parity_w4", "data_parity_w5", "data_parity_w6", "data_parity_w7", "data_parity_w8", "data_parity_w9", "data_parity_w10", "data_parity_w11", "data_parity_w12", "data_parity_w13", "data_parity_w14", "data_parity_w15", "data_parity_w16", "data_parity_w17", "data_parity_w18", "data_parity_w19", "data_parity_w20", "data_parity_w21", "data_parity_w22", "data_parity_w23", "data_parity_w24", "data_parity_w25", "data_parity_w26", "data_parity_w27", "data_parity_w28", "data_parity_w29", "data_parity_w30", "data_parity_w31", "data_parity_w32", "data_parity_w33", "data_parity_w34", "data_parity_w35", "data_parity_w36", "data_daily_20261021", "data_playlist_pages"]:
     m = importlib.import_module(mod)
     PAGES.extend(m.PAGES)
 
@@ -217,7 +217,7 @@ for _p in PAGES:
 
 FR2EN = {}
 ENDATES = {}
-for _mod in ["data_styles_en", "data_guides_en", "data_places_en", "data_events_artists_en", "data_production_ecoute_en", "data_culture_en", "data_wave1_en", "data_wave1b_en", "data_branches_en", "data_parity_w1_en", "data_parity_w2_en", "data_parity_w3_en", "data_parity_w4_en", "data_parity_w5_en", "data_parity_w6_en", "data_parity_w7_en", "data_parity_w8_en", "data_parity_w9_en", "data_parity_w10_en", "data_parity_w11_en", "data_parity_w12_en", "data_parity_w13_en", "data_parity_w14_en", "data_parity_w15_en", "data_parity_w16_en", "data_parity_w17_en", "data_parity_w18_en", "data_parity_w19_en", "data_parity_w20_en", "data_parity_w21_en", "data_parity_w22_en", "data_parity_w23_en", "data_parity_w24_en", "data_parity_w25_en", "data_parity_w26_en", "data_parity_w27_en", "data_parity_w28_en", "data_parity_w29_en", "data_parity_w30_en", "data_parity_w31_en"]:
+for _mod in ["data_styles_en", "data_guides_en", "data_places_en", "data_events_artists_en", "data_production_ecoute_en", "data_culture_en", "data_wave1_en", "data_wave1b_en", "data_branches_en", "data_parity_w1_en", "data_parity_w2_en", "data_parity_w3_en", "data_parity_w4_en", "data_parity_w5_en", "data_parity_w6_en", "data_parity_w7_en", "data_parity_w8_en", "data_parity_w9_en", "data_parity_w10_en", "data_parity_w11_en", "data_parity_w12_en", "data_parity_w13_en", "data_parity_w14_en", "data_parity_w15_en", "data_parity_w16_en", "data_parity_w17_en", "data_parity_w18_en", "data_parity_w19_en", "data_parity_w20_en", "data_parity_w21_en", "data_parity_w22_en", "data_parity_w23_en", "data_parity_w24_en", "data_parity_w25_en", "data_parity_w26_en", "data_parity_w27_en", "data_parity_w28_en", "data_parity_w29_en", "data_parity_w30_en", "data_parity_w31_en", "data_parity_w32_en", "data_parity_w33_en", "data_parity_w34_en", "data_parity_w35_en", "data_parity_w36_en", "data_daily_20261021_en", "data_playlist_pages_en"]:
     try:
         _m = importlib.import_module(_mod)
         for _p in _m.PAGES:
@@ -230,6 +230,18 @@ _en_owner = {}
 for _fr, _en in FR2EN.items():
     _en_owner[_en] = _fr
 FR2EN = {_fr: _en for _fr, _en in FR2EN.items() if _en_owner[_en] == _fr}
+
+# Artist hubs, mixtapes and chroniques (BOU-3200): see hubs.py and editorial.py.
+import editorial, hubs
+from data_chroniques import CHRONIQUES
+from data_mixtapes import MIXTAPES, SMOKILLER_CHANNEL
+EDITORIAL = editorial.items(MIXTAPES, CHRONIQUES)
+PAGE_BY_SLUG = {p["slug"]: p for p in PAGES + EDITORIAL}
+ARTISTS = hubs.artists(PAGES)
+ARTIST_BY_SLUG = {a["slug"]: a for a in ARTISTS}
+MENTIONS = hubs.mentions(PAGES, ARTISTS, "/")
+MENTIONS.update({e["slug"]: e["artists"] for e in EDITORIAL})
+MENTIONED_IN = hubs.invert(MENTIONS)
 
 CORE = [
     ("/", "Bouyon Musique (accueil)"),
@@ -257,6 +269,7 @@ def header(active_cat):
       <a href="/histoire.html">Histoire</a>
       <a href="/artistes.html">Artistes</a>
       <a href="/playlist-bouyon.html">Playlists</a>
+      <a href="/mixtapes/">Mixtapes</a>
       <a href="/bouyon-danse.html">Bouyon danse</a>
       <a href="/plan-du-site.html">Tous les sujets</a>
       <a href="/faq.html">FAQ</a>
@@ -271,7 +284,7 @@ def footer(page, same_cat):
   <div class="wrap cols">
     <div>
       <h4>BouyonMusique.com</h4>
-      <p>Le guide francophone de la musique bouyon : histoire, artistes, danses, riddims et playlists. Publié par Bouyon Shattaz.</p>
+      <p>Le guide francophone de la musique bouyon : histoire, artistes, danses, riddims et playlists. Publié par Bouyon Shattaz. Citations bienvenues avec un lien vers la page source.</p>
     </div>
     <div>
       <h4>{esc(page["cat"])}</h4>
@@ -282,7 +295,7 @@ def footer(page, same_cat):
     <div>
       <h4>Bouyon Shattaz</h4>
       <ul>
-        <li><a href="https://bouyonshattaz.com/">bouyonshattaz.com</a></li>
+        <li><a href="https://bouyonshattaz.com/">bouyonshattaz.com</a></li><li><a href="https://bouyonsoca.com/">BouyonSoca : catalogues des artistes caribéens</a></li><li><a href="https://smokiller.com/">Smokiller : riddims et remixes bouyon</a></li>
         <li><a href="https://www.instagram.com/bouyonshattaz/">Instagram @bouyonshattaz</a></li>
         <li><a href="/plan-du-site.html">Plan du site : tous les sujets bouyon</a></li>
         <li><a href="/en/">English version: Bouyon Music</a></li>
@@ -308,7 +321,7 @@ def page_terms(all_pages, page, extra):
         if 3 <= len(h1name) <= 40:
             cand.append(h1name)
         for t in cand:
-            if t and t not in GENERIC_TERMS and len(t) >= 3:
+            if t and t not in GENERIC_TERMS and t not in hubs.LINK_ONLY and len(t) >= 3:
                 terms.setdefault(t, q["slug"])
     for t, s in extra.items():
         if s in slugs and s != page["slug"]:
@@ -344,8 +357,9 @@ def linkify_sections(page, all_pages, extra, prefix, cap=8):
                     # only match plain text, never inside a link inserted earlier in this loop
                     segs = re.split(r'(<a [^>]*>.*?</a>)', part)
                     for j, seg in enumerate(segs):
-                        if not seg.startswith("<a ") and pat.search(seg):
-                            segs[j] = pat.sub('<a href="' + target + '">' + term + '</a>', seg, count=1)
+                        m = None if seg.startswith("<a ") else hubs.first_match(pat, seg)
+                        if m:
+                            segs[j] = seg[:m.start()] + '<a href="' + target + '">' + term + '</a>' + seg[m.end():]
                             used.add(target)
                             count += 1
                             break
@@ -360,6 +374,140 @@ EXTRA_TERMS_FR = {
     "World Creole Music Festival": "wcmf-festival-creole.html",
     "Mas Domnik": "mas-domnik.html",
 }
+
+# Playlist embeds (2026-10-21): matched by keyword between page topic and
+# playlist title, description and track themes. See playlist-embeds/match-table.md
+# (round 1 + round 2, supplied playlist links). Max one YouTube embed per
+# page. Providers stack YouTube first.
+_YT_BEST2026 = ("youtube", "PLB1axoRydQreXaKD2wlZ5IHJmNmoTWEEd", "Bouyon Music 2026 - Best New Bouyon Songs (Dominica Bouyon Hits)")
+_YT_CARNIVAL2026 = ("youtube", "PLB1axoRydQrc3nyVJe_7Jh1ts4rzydf96", "Dominica Carnival 2026 - Mas Domnik Bouyon Road Anthems")
+_YT_GWADA_PLAYLIST = ("youtube", "PLStLo0THKPaA", "Bouyon Gwada 2026 - Playlist Bouyon Guadeloupe & Martinique")
+_YT_INSTRUMENTALS = ("youtube", "PLaTpX9xYuQ3Q", "Bouyon Instrumentals - Bouyon Riddim Beats & Type Beats (Free + 2026)")
+_YT_KULTURAL = ("youtube", "PLGSMHEqIn1ws", "dominica kultural music | Smokiller Selection")
+_YT_CREOLEDAY = ("youtube", "PLeRfSYxTrhsM", "Creole Day Songs | Jounen Kweyol, St Lucia & Dominica | Smokiller")
+PLAYLIST_EMBEDS = {
+    "bouyon-mix.html": [
+        ("youtube", "PLB1axoRydQrdtCBSbvnkbSoKWJxFV8Xto", "Shatta Bouyon Mix 2026 | Dancehall & Afrobeats"),
+        ("spotify", "4ikmgg9FzDug5tLttfhfQp", "Bouyon Music 2026 | Road Mix"),
+    ],
+    "dancehall-bouyon.html": [
+        ("youtube", "PLB1axoRydQrdtCBSbvnkbSoKWJxFV8Xto", "Shatta Bouyon Mix 2026 | Dancehall & Afrobeats"),
+        ("spotify", "4ikmgg9FzDug5tLttfhfQp", "Bouyon Music 2026 | Road Mix"),
+    ],
+    "playlist-shatta.html": [
+        ("youtube", "PLRObCvDH1pO4", "Shatta Bouyon Playlist - Clips, Mixes et Dancehall Antillais"),
+    ],
+    "shatta-bouyon.html": [
+        ("youtube", "PLB1axoRydQrdtCBSbvnkbSoKWJxFV8Xto", "Shatta Bouyon Mix 2026 | Dancehall & Afrobeats"),
+    ],
+    "bouyon-music-2026.html": [
+        _YT_BEST2026,
+        ("spotify", "4ikmgg9FzDug5tLttfhfQp", "Bouyon Music 2026 | Road Mix"),
+    ],
+    "nouveautes-bouyon-2026.html": [
+        _YT_BEST2026,
+        ("spotify", "4ikmgg9FzDug5tLttfhfQp", "Bouyon Music 2026 | Road Mix"),
+    ],
+    "chansons-bouyon.html": [
+        ("youtube", "PLNzqsHgDlE0A", "Bouyon Songs 2026 - New Bouyon Music & Dominica Hits"),
+        ("spotify", "4ikmgg9FzDug5tLttfhfQp", "Bouyon Music 2026 | Road Mix"),
+    ],
+    "meilleur-bouyon.html": [_YT_BEST2026],
+    "old-school-bouyon.html": [
+        ("youtube", "PLNlp6SK-JfuM", "WCK | Smokiller Selection 04"),
+    ],
+    "jing-ping.html": [_YT_KULTURAL],
+    "bele-dominique.html": [_YT_KULTURAL],
+    "bouyon-dominique.html": [
+        ("youtube", "PLNqev8eauH84", "Dominica | Smokiller Selection"),
+    ],
+    "jump-up.html": [
+        ("youtube", "PLFF6EdvjYi3k", "Jump up retro | Smokiller Selection"),
+    ],
+    "bouyon-sainte-lucie.html": [
+        ("youtube", "PLFgskLhMaWWs", "st lucia zouks | Smokiller Selection"),
+    ],
+    "wck.html": [
+        ("youtube", "PLcjMlMWDC5Jk", "Wck Bouyon | Smokiller Selection"),
+    ],
+    "bouyon-et-kweyol.html": [_YT_CREOLEDAY],
+    "jounen-kweyol.html": [_YT_CREOLEDAY],
+    "dj-mj.html": [
+        ("youtube", "PLSfJDEQ1jpP4", "Bouyon Mix Clean - DJ Mixes and Radio Edits"),
+    ],
+    "miimii-kds.html": [
+        ("youtube", "PLLXnxmIwXHyc", "Miimii KDS Bouyon - Clips, Portrait, Âge et Origine"),
+    ],
+    "qu-est-ce-que-le-bouyon.html": [
+        ("youtube", "PLcjYRwKbRx68", "What Is Bouyon Music? Dominica History, Origins & Classics"),
+    ],
+    "bouyon-instrumental.html": [_YT_INSTRUMENTALS],
+    "bouyon-type-beat.html": [_YT_INSTRUMENTALS],
+    "bouyon-riddim.html": [
+        ("youtube", "PLB1axoRydQre6mPaGbs_R3p-3JAp06EMo", "Bouyon Riddims 2026 - New Bouyon Riddim Songs & Warm Ups"),
+    ],
+    "bouyon-gwada.html": [_YT_GWADA_PLAYLIST],
+    "bouyon-guadeloupe.html": [_YT_GWADA_PLAYLIST],
+    "bouyon-martinique.html": [
+        ("youtube", "PLCQdGQzS_iaI", "Bouyon Gwada 2026 - Best Guadeloupe & Martinique Bouyon (Clip Officiel)"),
+    ],
+    "gospel-bouyon.html": [
+        ("youtube", "PLKtZbNpmSpWI", "Gospel Bouyon - Best Christian Bouyon Songs & Gospel Bouyon Remixes"),
+    ],
+    "dominica-carnival-2026.html": [_YT_CARNIVAL2026],
+    "mas-domnik.html": [_YT_CARNIVAL2026],
+}
+
+from sources_listen import listen_sources_html
+
+def playlist_embeds_html(slug):
+    out = ""
+    for kind, pid, title in PLAYLIST_EMBEDS.get(slug, []):
+        if kind == "youtube":
+            out += ('\n<h2>À regarder aussi</h2>\n'
+                    f'<h3>{esc(title)}</h3>\n'
+                    '<div style="position:relative;padding-top:56.25%;margin:1em 0">'
+                    f'<iframe src="https://www.youtube-nocookie.com/embed/videoseries?list={pid}" title="{esc(title)}" loading="lazy" '
+                    'style="position:absolute;inset:0;width:100%;height:100%;border:0;border-radius:12px" '
+                    'allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>\n')
+        else:
+            out += ('\n<h2>À écouter aussi</h2>\n'
+                    f'<h3>{esc(title)}</h3>\n'
+                    f'<iframe src="https://open.spotify.com/embed/playlist/{pid}?utm_source=generator" title="{esc(title)}" width="100%" height="352" '
+                    'style="border:0;border-radius:12px" loading="lazy" allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>\n')
+    return out
+
+def byline(page):
+    pub, mod = page.get("date_published"), page.get("date_modified")
+    out = f'<p class="pubdate">Par <a href="/smokiller.html" rel="author">Smokiller</a> · Publié le <time datetime="{pub}">{fmt_date_fr(pub)}</time>'
+    if mod and mod > pub:
+        out += f' · Mis à jour le <time datetime="{mod}">{fmt_date_fr(mod)}</time>'
+    return out + "</p>"
+
+def cited_html(slugs):
+    """Every page: the artists it mentions, linked to their profiles."""
+    if not slugs:
+        return ""
+    links = " \u00b7 ".join(f'<a href="/{s}">{esc(ARTIST_BY_SLUG[s]["nav"])}</a>' for s in slugs)
+    return f'\n<h2>Artistes cités dans cette page</h2>\n<p class="strip">{links}</p>\n'
+
+def hub_html(page):
+    """Artist profiles: every page of the site that mentions the artist, grouped by section."""
+    refs = [PAGE_BY_SLUG[s] for s in MENTIONED_IN.get(page["slug"], [])]
+    if page["slug"] not in ARTIST_BY_SLUG or not refs:
+        return "", None
+    groups = {}
+    for r in refs:
+        groups.setdefault(r["cat"], []).append(r)
+    name = page["nav"]
+    lead = f"Une page du site cite {esc(name)}." if len(refs) == 1 else f"{len(refs)} pages du site citent {esc(name)}."
+    out = f'\n<h2>{esc(name)} sur Bouyon Musique</h2>\n<p>{lead}</p>\n'
+    for cat in sorted(groups, key=lambda c: (c not in ("Mixtapes", "Chroniques"), c == "Artistes bouyon")):
+        links = " \u00b7 ".join(f'<a href="/{r["slug"]}">{esc(r["nav"])}</a>' for r in groups[cat])
+        out += f'<h3>{esc(cat)}</h3>\n<p class="strip">{links}</p>\n'
+    ld = {"@type": "ItemList", "name": f"Pages qui citent {name}", "itemListElement": [
+        {"@type": "ListItem", "position": i + 1, "name": r["nav"], "url": "https://bouyonmusique.com/" + r["slug"]} for i, r in enumerate(refs)]}
+    return out, ld
 
 def render(page, all_pages):
     same_cat = [p for p in all_pages if p["cat"] == page["cat"] and p["slug"] != page["slug"]]
@@ -380,13 +528,16 @@ def render(page, all_pages):
         "name": page["title"],
         "description": page["desc"],
         "inLanguage": page.get("lang", "fr"),
-        "dateModified": BUILD_DATE,
+        "dateModified": page.get("date_modified") or page.get("date_published") or BUILD_DATE,
         "isPartOf": {"@id": "https://bouyonmusique.com/#site"},
         "publisher": {"@id": "https://bouyonmusique.com/#org"},
         "author": {"@id": "https://bouyonmusique.com/#smokiller"},
     }
     if page.get("date_published"):
         ld["datePublished"] = page["date_published"]
+    cited = MENTIONS.get(page["slug"], [])
+    if cited:
+        ld["mentions"] = [{"@id": ARTIST_BY_SLUG[s]["id"]} for s in cited]
     breadcrumb = {
         "@type": "BreadcrumbList",
         "itemListElement": [
@@ -411,10 +562,15 @@ def render(page, all_pages):
         _e = dict(_e)
         if _e.get("@type") in ("ProfilePage", "Article") and page.get("date_published"):
             _e.setdefault("datePublished", page["date_published"])
+        if _e.get("@type") == "ProfilePage" and isinstance(_e.get("mainEntity"), dict):
+            _e["mainEntity"] = hubs.as_music_group(_e["mainEntity"])
         graph.append(_e)
+    hub, hub_ld = hub_html(page)
+    if hub_ld:
+        graph.append(hub_ld)
     date_html = ""
     if page.get("date_published"):
-        date_html = f'\n<p class="pubdate">Publié le {fmt_date_fr(page["date_published"])}</p>'
+        date_html = "\n" + byline(page)
     rel_html = ""
     if rel:
         rel_html = '\n<h2>À lire aussi</h2>\n<div class="grid">\n'
@@ -443,6 +599,8 @@ def render(page, all_pages):
 <p><a href="/playlist-bouyon.html">Ouvrir la playlist bouyon</a> - Suivre <a href="https://www.instagram.com/bouyonshattaz/">@bouyonshattaz</a> et commenter ROAD MIX pour la recevoir en DM.</p>
 </div>
 """
+    embed_html = playlist_embeds_html(page["slug"])
+    embed_html += listen_sources_html(page["slug"], "fr")
     hreflang_en = ""
     if page["slug"] in FR2EN:
         hreflang_en = f'<link rel="alternate" hreflang="en" href="https://bouyonmusique.com/en/{FR2EN[page["slug"]]}">\n'
@@ -481,9 +639,9 @@ def render(page, all_pages):
 <p class="breadcrumb"><a href="/">Accueil</a> / {esc(page["cat"])} / {esc(page["nav"])}</p>
 <h1>{esc(page["h1"])}</h1>{date_html}
 <p class="lead">{page["intro"]}</p>
-{sections}
+{sections}{hub}
 {cta}
-{faq_html}
+{embed_html}{faq_html}{cited_html(cited)}
 {rel_html}
 {strip_html}
 </div>
@@ -492,6 +650,45 @@ def render(page, all_pages):
 </body>
 </html>
 """
+
+def previous_lastmods():
+    """loc -> lastmod from the sitemaps currently on disk (single file or index)."""
+    out = {}
+    for name in sorted(os.listdir(SITE)):
+        if name.startswith("sitemap") and name.endswith(".xml"):
+            text = open(os.path.join(SITE, name), encoding="utf-8").read()
+            for loc, mod in re.findall(r"<url>\s*<loc>https://bouyonmusique\.com([^<]*)</loc>\s*<lastmod>([^<]+)</lastmod>", text):
+                out[loc] = mod
+    return out
+
+def video_xml(e):
+    x = lambda t: html.escape(t, quote=False)
+    return f"""    <video:video>
+      <video:thumbnail_loc>https://bouyonmusique.com/mixtapes/img/{e["video_id"]}.jpg</video:thumbnail_loc>
+      <video:title>{x(e["youtube_title"])}</video:title>
+      <video:description>{x(faq_text(e["intro"]))}</video:description>
+      <video:player_loc>https://www.youtube.com/embed/{e["video_id"]}</video:player_loc>
+      <video:duration>{e["duration"]}</video:duration>
+      <video:publication_date>{e["upload_date"]}</video:publication_date>
+    </video:video>
+"""
+
+def write_editorial():
+    ctx = {
+        "esc": esc, "plain": faq_text, "fmt_date": fmt_date_fr, "header": header(""), "byline": byline,
+        "cited": cited_html, "pages": PAGE_BY_SLUG, "artists": ARTIST_BY_SLUG, "site_entities": SITE_ENTITIES,
+        "channel": SMOKILLER_CHANNEL, "footer": lambda page, same: footer(page, same),
+    }
+    for kind, k in editorial.KINDS.items():
+        rows = [e for e in EDITORIAL if e["kind"] == kind]
+        if not rows:
+            continue
+        os.makedirs(os.path.join(SITE, k["dir"]), exist_ok=True)
+        for e in rows:
+            with open(os.path.join(SITE, e["slug"]), "w", encoding="utf-8") as f:
+                f.write(editorial.render(e, rows, ctx))
+        with open(os.path.join(SITE, k["dir"], "index.html"), "w", encoding="utf-8") as f:
+            f.write(editorial.render_index(kind, rows, ctx))
 
 def main():
     for page in PAGES:
@@ -550,40 +747,79 @@ def main():
 </ul>
 {body}
 </div></main>
-<footer><div class="wrap"><p>© 2026 Bouyon Shattaz. Le bouyon est né en Dominique. <a href="/">Retour à l’accueil</a></p></div></footer>
+<footer><div class="wrap"><p>© 2026 Bouyon Shattaz. Le bouyon est né en Dominique. Citations bienvenues avec un lien vers la page source. <a href="/">Retour à l’accueil</a></p></div></footer>
 </body>
 </html>
 """
     with open(os.path.join(SITE, "plan-du-site.html"), "w", encoding="utf-8") as f:
         f.write(plan)
-    # sitemap
+    write_editorial()
+    # Sitemaps (BOU-3200): sitemap.xml is an index of one sitemap per page type.
     urls = [u for u, _ in CORE] + [f'/{p["slug"]}' for p in PAGES] + ["/plan-du-site.html"] + ["/en/history.html", "/en/artists.html", "/en/playlist-bouyon.html", "/en/bouyon-dance.html", "/en/faq.html", "/en/site-map.html"] + [f'/en/{s}' for s in FR2EN.values()]
+    for kind in editorial.KINDS:
+        rows = [e for e in EDITORIAL if e["kind"] == kind]
+        if rows:
+            urls += ["/" + editorial.KINDS[kind]["dir"]] + [f'/{e["slug"]}' for e in rows]
     seen, ordered = set(), []
     for u in urls:
         if u not in seen:
             seen.add(u); ordered.append(u)
-    lastmod = {}
-    for p in PAGES:
+    # Hand-built pages have no date in the data: keep the lastmod already published.
+    lastmod = previous_lastmods()
+    for p in PAGES + EDITORIAL:
         lastmod[f'/{p["slug"]}'] = p.get("date_modified") or p.get("date_published", BUILD_DATE)
     for _slug_en, _d in ENDATES.items():
         lastmod[f"/en/{_slug_en}"] = _d
-    items = ""
+    for kind, k in editorial.KINDS.items():
+        rows = [e for e in EDITORIAL if e["kind"] == kind]
+        if rows:
+            lastmod["/" + k["dir"]] = max(e.get("date_modified") or e["date_published"] for e in rows)
+    artist_urls = {"/artistes.html"} | {f'/{p["slug"]}' for p in PAGES if p["cat"] == "Artistes bouyon"}
+    videos = {f'/{e["slug"]}': e for e in EDITORIAL if e.get("video_id") and e["kind"] == "mixtape"}
+    def kind_of(u):
+        if u.startswith("/en/"):
+            return "en"
+        if u in artist_urls:
+            return "artistes"
+        for kind, k in editorial.KINDS.items():
+            if u.startswith("/" + k["dir"]):
+                return k["dir"].strip("/")
+        return "pages"
+    groups = {}
     for u in ordered:
-        pr = "1.0" if u == "/" else ("0.9" if u in [c for c, _ in CORE] else "0.8")
-        items += f"""  <url>
+        groups.setdefault(kind_of(u), []).append(u)
+    index = ""
+    for name, us in groups.items():
+        items = ""
+        for u in us:
+            pr = "1.0" if u == "/" else ("0.9" if u in [c for c, _ in CORE] else "0.8")
+            items += f"""  <url>
     <loc>https://bouyonmusique.com{u}</loc>
     <lastmod>{lastmod.get(u, BUILD_DATE)}</lastmod>
     <changefreq>weekly</changefreq>
     <priority>{pr}</priority>
-  </url>
+{video_xml(videos[u]) if u in videos else ""}  </url>
 """
-    sitemap = f"""<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+        ns = ' xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"' if any(u in videos for u in us) else ""
+        with open(os.path.join(SITE, f"sitemap-{name}.xml"), "w", encoding="utf-8") as f:
+            f.write(f"""<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"{ns}>
 {items}</urlset>
+""")
+        index += f"""  <sitemap>
+    <loc>https://bouyonmusique.com/sitemap-{name}.xml</loc>
+    <lastmod>{max(lastmod.get(u, BUILD_DATE) for u in us)}</lastmod>
+  </sitemap>
 """
     with open(os.path.join(SITE, "sitemap.xml"), "w", encoding="utf-8") as f:
-        f.write(sitemap)
-    print(f"Wrote {len(PAGES)} generated pages, plan-du-site, sitemap with {len(ordered)} URLs")
+        f.write(f"""<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{index}</sitemapindex>
+""")
+    print("Sitemaps: " + ", ".join(f"{n} {len(us)}" for n, us in groups.items()))
+    print(f"Wrote {len(PAGES)} generated pages, {len(EDITORIAL)} mixtapes and chroniques, plan-du-site, sitemap index with {len(ordered)} URLs")
 
 if __name__ == "__main__":
     main()
+    from music_discovery import apply_music_discovery
+    apply_music_discovery(SITE)

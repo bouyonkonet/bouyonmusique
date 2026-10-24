@@ -89,13 +89,51 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Le Det ?", "Le Det est un nom d’artiste bouyon documenté par un seul enregistrement vérifié : le single « Bouwé’y », sorti le 4 juillet 2023 chez ILB PRODUCTION. Aucune biographie, aucune interview et aucune origine publiée n’ont été retrouvées pendant la recherche de ce profil, et il le dit ouvertement."),
-  ("Quel est le titre vérifié de Le Det ?", "« Bouwé’y », un single sorti le 4 juillet 2023 sous le label ILB PRODUCTION, chanté en français et mesuré à 157 BPM sur sa fiche. Le Det y est le seul auteur crédité, pour la composition et les paroles. C’est le seul titre que les documents ouverts attribuent à ce nom sans risque d’homonymie."),
-  ("Le Det et Le Dext sont ils le même artiste ?", "Non, rien ne le dit, et leurs fiches diffèrent sur tout : Le Det, sans x, a sorti « Bouwé’y » le 4 juillet 2023 chez ILB PRODUCTION, à 157 BPM, avec un crédit d’auteur à son seul nom. <a href=\"/le-dext.html\">Le Dext</a>, avec un x, a sorti « Open That » le 30 août 2024 chez 5417166 Records DK, à 160 BPM, avec deux autres auteurs, Malik Ismael Paul et Emmanuel Toussaint. La recherche de ce site a séparé les deux noms dès sa vague 11."),
-  ("« Bouwé’y », « Boué’y » et « Bouwéy » sont ils le même morceau ?", "Non : ce sont trois enregistrements séparés portant des titres presque identiques. « Bouwé’y » de Le Det (4 juillet 2023, ILB PRODUCTION), « Boué’y » de BISMOK (7 novembre 2023, iMD-DRECORDS, écrit avec Daryl Clarisse, Ulrich Bienvenu et Kurtys Alexis) et « Bouwéy » de 1T1 avec Theomaa (2024). Artistes, labels, dates et crédits diffèrent sur chaque fiche."),
-  ("D’où vient Le Det ?", "Son origine n’est pas publiée dans les sources ouvertes. La fiche de son single donne seulement la langue du titre, le français, et la recherche de ce site le rattache au circuit bouyon des Antilles françaises. Aucune source ne publie son lieu de naissance ou de résidence, et ce profil ne les devine pas."),
-  ("Où écouter Le Det et le bouyon de sa scène ?", "Écoutez « Bouwé’y » sur les plateformes, puis notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, qui suit le bouyon actuel des Antilles françaises et de la Dominique, et notre page <a href=\"/bouyon-gwada.html\">bouyon gwada</a> pour la déclinaison guadeloupéenne du genre.")
- ],
+  (
+    "Qui est Le Det ?",
+    "Le Det est un nom d’artiste bouyon documenté par un seul enregistrement vérifié : le single « Bouwé’y », sorti le 4 juillet 2023 chez ILB PRODUCTION. Aucune biographie, aucune interview et aucune origine publiée n’ont été retrouvées pendant la recherche de ce profil, et il le dit ouvertement.",
+  ),
+  (
+    "Quel est le titre vérifié de Le Det ?",
+    "« Bouwé’y », un single sorti le 4 juillet 2023 sous le label ILB PRODUCTION, chanté en français et mesuré à 157 BPM sur sa fiche. Le Det y est le seul auteur crédité, pour la composition et les paroles. C’est le seul titre que les documents ouverts attribuent à ce nom sans risque d’homonymie.",
+  ),
+  (
+    "Qui a écrit « Bouwé’y » de Le Det ?",
+    "Le Det lui-même. La rubrique composition et paroles de la fiche du single nomme une seule personne, Le Det, comme songwriter, sans coauteur, sans featuring et sans producteur ou beatmaker crédité séparément. Dans une scène où les titres sont souvent signés par des sessions entières, ce crédit solitaire est un fait de fiche : le nom en tête d’affiche est aussi, sur le papier, celui qui écrit.",
+  ),
+  (
+    "Le Det et Le Dext sont ils le même artiste ?",
+    "Non, rien ne le dit, et leurs fiches diffèrent sur tout : Le Det, sans x, a sorti « Bouwé’y » le 4 juillet 2023 chez ILB PRODUCTION, à 157 BPM, avec un crédit d’auteur à son seul nom. <a href=\"/le-dext.html\">Le Dext</a>, avec un x, a sorti « Open That » le 30 août 2024 chez 5417166 Records DK, à 160 BPM, avec deux autres auteurs, Malik Ismael Paul et Emmanuel Toussaint.",
+  ),
+  (
+    "« Bouwé’y », « Boué’y » et « Bouwéy » sont ils le même morceau ?",
+    "Non : ce sont trois enregistrements séparés portant des titres presque identiques, construits sur la même expression créole. « Bouwé’y » de Le Det (4 juillet 2023, ILB PRODUCTION), « Boué’y » de BISMOK (7 novembre 2023, iMD-DRECORDS) et « Bouwéy » de 1T1 avec Theomaa (2024). Ce profil constate l’ordre des dates sans revendiquer ni antériorité créative, ni influence, ni reprise.",
+  ),
+  (
+    "Qui chante « Bouwéy », le titre à succès ?",
+    "« Bouwéy », le plus connu des trois titres homonymes, est de 1T1 avec Theomaa en featuring, pas de Le Det. Selon les résultats de recherche consultés, il paraît en 2024 sur l’EP « CHORD », avec une composition de 1T1 et Dinho et un texte de 1T1 et Théomaa, et atteint la 48e place du classement mondial de Shazam le 22 mars 2025. Voir notre profil de <a href=\"/1t1.html\">1T1</a>.",
+  ),
+  (
+    "Qui chante « Boué’y » de 2023 ?",
+    "BISMOK, selon sa fiche Shazam : « Boué’y » sort le 7 novembre 2023 chez iMD-DRECORDS, en français, à 162 BPM, quatre mois après le titre de Le Det. Kurtys Alexis y assure les voix, la programmation et les paroles, et Daryl Clarisse et Ulrich Bienvenu sont crédités à la composition. Aucun nom du dossier de Le Det n’y figure. Voir notre profil de <a href=\"/bismok.html\">BISMOK</a>.",
+  ),
+  (
+    "Pourquoi « Bouwé’y » est-il classé « Christmas » ?",
+    "C’est une classification automatique de plateforme, pas une description du morceau. La fiche Shazam affiche dans sa rubrique de genre l’étiquette « Christmas » associée à l’année 2023, comme d’autres fiches de la même scène. Le titre est en réalité un bouyon chanté en français, à 157 BPM, un tempo rapide de soirée qui le place du côté de l’énergie plutôt que de la ballade.",
+  ),
+  (
+    "Le Det est-il le rappeur belge Le Dé ?",
+    "Non. Un artiste hip-hop belge nommé Le Dé apparaît dans les mêmes résultats de recherche, mais sur une tout autre scène, et aucune source ne le relie à Le Det. Rien de son dossier n’est utilisé ici. Le Le Det de cette page est uniquement celui du single bouyon « Bouwé’y », sorti en juillet 2023 chez ILB PRODUCTION.",
+  ),
+  (
+    "D’où vient Le Det ?",
+    "Son origine n’est pas publiée dans les sources ouvertes. La fiche de son single donne seulement la langue du titre, le français, et la recherche de ce site le rattache au circuit bouyon des Antilles françaises. Aucune source ne publie son lieu de naissance ou de résidence, et ce profil ne les devine pas.",
+  ),
+  (
+    "Où écouter Le Det et le bouyon de sa scène ?",
+    "Écoutez « Bouwé’y » sur les plateformes qui portent la fiche du single. Pour la scène bouyon actuelle des Antilles françaises et de la Dominique, notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> Road Mix de Bouyon Shattaz réunit nouveautés, bouyon soca et classiques du carnaval.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/le-det.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/le-det.html#artist", "name": "Le Det", "description": "Artiste bouyon documenté par un seul single vérifié : Bouwé’y, sorti le 4 juillet 2023 chez ILB PRODUCTION, en français, à 157 BPM, avec Le Det comme seul auteur crédité. Aucune biographie ni origine publiée retrouvée en octobre 2026. À ne pas confondre avec Le Dext.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Bouwé’y'}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -157,13 +195,51 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Le Det?", "Le Det is a bouyon artist name documented by one verified recording only: the single “Bouwé’y”, released on July 4, 2023 on ILB PRODUCTION. No biography, no interview and no published origin were found during the research for this profile, and it says so openly."),
-  ("What is the verified record of Le Det?", "“Bouwé’y”, a single released on July 4, 2023 on the label ILB PRODUCTION, sung in French and measured at 157 BPM on its page. Le Det is its only credited writer, for composition and lyrics. It is the only record the opened documents assign to this name without a namesake risk."),
-  ("Are Le Det and Le Dext the same artist?", "No source says so, and their pages differ on everything: Le Det, without an x, released “Bouwé’y” on July 4, 2023 on ILB PRODUCTION, at 157 BPM, with a writer credit under his name alone. <a href=\"/en/le-dext.html\">Le Dext</a>, with an x, released “Open That” on August 30, 2024 on 5417166 Records DK, at 160 BPM, with two other writers, Malik Ismael Paul and Emmanuel Toussaint. The research of this site separated the two names as early as its wave 11."),
-  ("Are “Bouwé’y”, “Boué’y” and “Bouwéy” the same song?", "No: they are three separate recordings carrying nearly identical titles. “Bouwé’y” by Le Det (July 4, 2023, ILB PRODUCTION), “Boué’y” by BISMOK (November 7, 2023, iMD-DRECORDS, written with Daryl Clarisse, Ulrich Bienvenu and Kurtys Alexis) and “Bouwéy” by 1T1 featuring Theomaa (2024). Artists, labels, dates and credits differ on every page."),
-  ("Where is Le Det from?", "His origin is not published in the open sources. The page of his single gives only the language of the record, French, and the research of this site attaches it to the bouyon circuit of the French Antilles. No source publishes his birthplace or his place of residence, and this profile does not guess them."),
-  ("Where can I hear Le Det and the bouyon of his scene?", "Hear “Bouwé’y” on the platforms, then our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, which follows the current bouyon of the French Antilles and Dominica, and our <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a> page for the Guadeloupean form of the genre.")
- ],
+  (
+    "Who is Le Det?",
+    "Le Det is a bouyon artist name documented by one verified recording only: the single “Bouwé’y”, released on July 4, 2023 on ILB PRODUCTION. No biography, no interview and no published origin were found during the research for this profile, and it says so openly.",
+  ),
+  (
+    "What is the verified record of Le Det?",
+    "“Bouwé’y”, a single released on July 4, 2023 on the label ILB PRODUCTION, sung in French and measured at 157 BPM on its page. Le Det is its only credited writer, for composition and lyrics. It is the only record the opened documents assign to this name without a namesake risk.",
+  ),
+  (
+    "Who wrote “Bouwé’y” by Le Det?",
+    "Le Det himself. The composition and lyrics section of the single’s page names one person, Le Det, as songwriter, with no co-writer, no featured artist and no separately credited producer or beatmaker. On a scene where records are often signed by whole sessions, that lone credit is a page fact: the headline name is also, on paper, the one who writes.",
+  ),
+  (
+    "Are Le Det and Le Dext the same artist?",
+    "No source says so, and their pages differ on everything: Le Det, without an x, released “Bouwé’y” on July 4, 2023 on ILB PRODUCTION, at 157 BPM, with a writer credit under his name alone. <a href=\"/en/le-dext.html\">Le Dext</a>, with an x, released “Open That” on August 30, 2024 on 5417166 Records DK, at 160 BPM, with two other writers, Malik Ismael Paul and Emmanuel Toussaint.",
+  ),
+  (
+    "Are “Bouwé’y”, “Boué’y” and “Bouwéy” the same song?",
+    "No: they are three separate recordings carrying nearly identical titles, built on the same Creole expression. “Bouwé’y” by Le Det (July 4, 2023, ILB PRODUCTION), “Boué’y” by BISMOK (November 7, 2023, iMD-DRECORDS) and “Bouwéy” by 1T1 featuring Theomaa (2024). This profile notes the order of dates without claiming creative precedence, influence or a cover.",
+  ),
+  (
+    "Who sings the hit “Bouwéy”?",
+    "“Bouwéy”, the best known of the three namesake titles, is by 1T1 featuring Theomaa, not by Le Det. According to the search results consulted, it came out in 2024 on the EP “CHORD”, with composition by 1T1 and Dinho and writing by 1T1 and Théomaa, and reached No. 48 on the Shazam Global Chart on March 22, 2025. See our <a href=\"/en/1t1.html\">1T1</a> profile.",
+  ),
+  (
+    "Who sings the 2023 “Boué’y”?",
+    "BISMOK, according to its Shazam page: “Boué’y” came out on November 7, 2023 on iMD-DRECORDS, in French, at 162 BPM, four months after the Le Det record. Kurtys Alexis handles vocals, programming and lyrics, and Daryl Clarisse and Ulrich Bienvenu are credited as composers. No name from the Le Det file appears on it. See our <a href=\"/en/bismok.html\">BISMOK</a> profile.",
+  ),
+  (
+    "Why is “Bouwé’y” tagged “Christmas”?",
+    "It is an automatic platform classification, not a description of the song. The Shazam page displays in its genre section the tag “Christmas” tied to the year 2023, like other pages of the same scene. The record is in fact a bouyon sung in French, at 157 BPM, a fast party tempo that puts it on the energy side rather than the ballad side.",
+  ),
+  (
+    "Is Le Det the Belgian rapper Le Dé?",
+    "No. A Belgian hip-hop artist named Le Dé shows up in the same search results, but on an entirely different scene, and no source connects him to Le Det. Nothing from his file is used here. The Le Det of this page is only the one of the bouyon single “Bouwé’y”, released in July 2023 on ILB PRODUCTION.",
+  ),
+  (
+    "Where is Le Det from?",
+    "His origin is not published in the open sources. The page of his single gives only the language of the record, French, and the research of this site attaches it to the bouyon circuit of the French Antilles. No source publishes his birthplace or his place of residence, and this profile does not guess them.",
+  ),
+  (
+    "Where can I hear Le Det and the bouyon of his scene?",
+    "Hear “Bouwé’y” on the platforms that carry the single’s page. For the current bouyon scene of the French Antilles and Dominica, our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, the Road Mix by Bouyon Shattaz, gathers new releases, bouyon soca and carnival classics.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/le-det.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/le-det.html#artist", "name": "Le Det", "description": "Bouyon artist documented by one verified single: Bouwé’y, released on July 4, 2023 on ILB PRODUCTION, in French, at 157 BPM, with Le Det as sole credited writer. No biography or published origin found in October 2026. Not to be confused with Le Dext.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Bouwé’y'}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

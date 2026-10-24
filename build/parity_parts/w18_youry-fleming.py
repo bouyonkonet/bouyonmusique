@@ -62,13 +62,63 @@ FR = {
   ]
  ],
  "faq": [
-  ("Youry Fleming a-t-il chanté les titres des Tolly Boys ?", "Les crédits publiés ne le disent pas, et c’est la distinction centrale de ce profil. Sur « Get on Bad » en 2018, « Oú Paté Vwey » en 2019 et « GoDownGoDown » en 2020, Shazam crédite Youry Fleming comme auteur des titres de Tolly Boy’s YMW, sans lui donner de crédit d’interprète sur ces fiches. Le seul titre où il est publié à la fois comme interprète et comme auteur est « Lucy Lucy », sorti sous le nom Youry en 2021. Ce site ne réattribue donc pas les titres du groupe à Youry Fleming comme interprète."),
-  ("Sous quels noms Youry Fleming est-il crédité ?", "Sous plusieurs formes publiées : Youry Fleming, forme de référence, Fleming Youry sur « GoDownGoDown », et Fleming xavier Youry sur « Oú Paté Vwey », la forme la plus complète relevée dans les crédits. Comme artiste, il paraît sous les formes courtes Youry, pour « Lucy Lucy » en 2021, et Youry Ymw, pour « WOOD WOOD », son remix et ses featurings de 2023."),
-  ("Quels sont les titres solo vérifiés de Youry Fleming ?", "Deux titres en tête d’affiche sont documentés par des fiches de plateforme : « Lucy Lucy », sorti le 17 mars 2021 chez Turnt Up Tv Records, à 160 BPM, où il est crédité interprète et auteur, et « WOOD WOOD », sorti le 23 octobre 2021 chez YMW, à 111 BPM, suivi du « Wood Wood Remix » avec Motto et King james le 25 mars 2022. S’y ajoutent deux featurings de 2023, « Payé » de Wizito et « Dirty Woman » de deejay twix."),
-  ("Qui a écrit « Dirty Woman » de deejay twix, où Youry ymw est invité ?", "Selon la fiche Shazam du titre, sorti le 13 avril 2023 chez 3652163 Records DK à 122 BPM, l’auteur crédité est sulivan saïm elice. Youry ymw y est l’artiste invité affiché, pas l’auteur publié. C’est le miroir exact des singles de Tolly Boy’s YMW, où il est l’auteur publié sans être l’interprète affiché."),
-  ("D’où vient Youry Fleming ?", "Son dossier publié le rattache à Saint-Martin par son cercle : il est l’auteur des singles de Tolly Boy’s YMW, acte bouyon de Sint Maarten, la partie néerlandaise de l’île, et ses titres solo sortent sur le label du cercle, YMW. Aucune source consultée ne publie sa commune, son lieu de naissance ou son parcours avant 2018, et ce site ne les invente pas."),
-  ("Qu’est-ce que « Shark Wave » de Youry YMW et Edday ?", "C’est un titre relevé uniquement dans la tracklist publiée d’un épisode du Soca Podcast, qui le place dans une sélection de titres de Saint-Martin et des îles voisines. Aucune fiche de sortie de plateforme n’a été retrouvée pour ce titre pendant cette recherche : ce profil le cite comme une trace de circulation en mix, et ne le range pas dans les données structurées de la page, réservées aux titres documentés par une fiche.")
- ],
+  (
+    "Qui est Youry Fleming ?",
+    "Youry Fleming est un auteur de Saint-Martin, crédité par les plateformes comme auteur des trois singles de Tolly Boy’s YMW, de 2018 à 2020. Il publie ensuite ses propres titres sous les noms Youry, pour « Lucy Lucy » en 2021, et Youry Ymw, pour « WOOD WOOD » et son remix. Aucune biographie, interview ni compte officiel vérifié n’a été trouvé : son portrait public tient dans ses crédits.",
+  ),
+  (
+    "Qui a écrit les titres des Tolly Boys ?",
+    "Youry Fleming, selon les fiches Shazam : il est l’auteur crédité de « Get on Bad » (30 décembre 2018, avec Ciio et King Kembe, 174 BPM), de « Oú Paté Vwey » (14 février 2019, chez YMW, 162 BPM) et de « GoDownGoDown » (19 janvier 2020, chez YMW, 169 BPM). C’est la seule plume que les plateformes nomment pour les singles publiés du groupe, sous trois graphies de son nom.",
+  ),
+  (
+    "Youry Fleming a-t-il chanté les titres des Tolly Boys ?",
+    "Les crédits publiés ne le disent pas, et c’est la distinction centrale de ce profil. Sur « Get on Bad », « Oú Paté Vwey » et « GoDownGoDown », Shazam crédite Youry Fleming comme auteur des titres de Tolly Boy’s YMW, sans lui donner de crédit d’interprète. Le seul titre où il est publié à la fois comme interprète et comme auteur est « Lucy Lucy », sorti sous le nom Youry en 2021.",
+  ),
+  (
+    "Qui sont les Tolly Boys, le groupe de Youry Fleming ?",
+    "Les Tolly Boys sont un acte bouyon de Sint Maarten, la partie néerlandaise de l’île de Saint-Martin, documenté par les singles de Tolly Boy’s YMW et par une étude universitaire qui décrit le groupe comme des interprètes locaux de bouyon dont les écoliers chantaient les titres en classe. Youry Fleming en est l’auteur publié. Voir la page des <a href=\"/tolly-boys.html\">Tolly Boys</a>.",
+  ),
+  (
+    "Sous quels noms Youry Fleming est-il crédité ?",
+    "Sous plusieurs formes publiées : Youry Fleming, forme de référence, Fleming Youry sur « GoDownGoDown », et Fleming xavier Youry sur « Oú Paté Vwey », la forme la plus complète relevée dans les crédits. Comme artiste, il paraît sous les formes courtes Youry, pour « Lucy Lucy » en 2021, et Youry Ymw, pour « WOOD WOOD », son remix et ses featurings de 2023.",
+  ),
+  (
+    "Que veut dire Ymw dans Youry Ymw ?",
+    "Ymw reprend les initiales de la marque du cercle, YMW, qui est aussi le label des Tolly Boys. Le nom d’artiste Youry Ymw rattache donc ses titres à son cercle de Saint-Martin : « WOOD WOOD » et son remix sortent chez YMW, et le featuring « Payé » de Wizito paraît sur le label YMW Tolly Boys. Seul « Lucy Lucy », sous le nom Youry, sort sur un label extérieur.",
+  ),
+  (
+    "Qui chante « Lucy Lucy » ?",
+    "Youry, le nom d’artiste court de Youry Fleming. Le single est sorti le 17 mars 2021 chez Turnt Up Tv Records, à 160 BPM et en anglais selon sa fiche Shazam, qui crédite Youry Fleming deux fois : comme interprète et comme auteur. C’est la seule fiche consultée où les deux fonctions sont réunies sous son nom, et le premier titre où il passe devant le micro.",
+  ),
+  (
+    "Qu’est-ce que « WOOD WOOD » de Youry Ymw ?",
+    "Un single sorti le 23 octobre 2021 chez YMW sous le nom Youry Ymw, classé Dance par Shazam, avec Youry Fleming comme auteur. Son tempo publié, 111 BPM, est de loin le plus lent de son dossier, et sa page affichait plus de 6 300 Shazams. Le « Wood Wood Remix », avec Motto et King james, suit le 25 mars 2022, et le titre circule dans la tracklist de l’OSOCITY Soca Mix.",
+  ),
+  (
+    "Quels sont les titres solo vérifiés de Youry Fleming ?",
+    "Deux titres en tête d’affiche sont documentés par des fiches de plateforme : « Lucy Lucy », sorti le 17 mars 2021 chez Turnt Up Tv Records, et « WOOD WOOD », sorti le 23 octobre 2021 chez YMW, suivi du « Wood Wood Remix » avec Motto et King james le 25 mars 2022. S’y ajoutent deux featurings de 2023, « Payé » de Wizito et « Dirty Woman » de deejay twix.",
+  ),
+  (
+    "Quel est le lien entre Youry Fleming et Wizito ?",
+    "Le 8 février 2023, Wizito publie « Payé », en featuring avec Youry Ymw, sur le label YMW Tolly Boys, à 170 BPM. Wizito est le nom d’artiste de Bernard Gumbs, dont les titres de 2023 à 2025 sortent sur le label du cercle : l’auteur des singles fondateurs de Tolly Boy’s YMW y revient comme voix invitée. Voir le profil de <a href=\"/bernard-gumbs-wizito.html\">Bernard Gumbs</a>.",
+  ),
+  (
+    "Qui a écrit « Dirty Woman » de deejay twix, où Youry ymw est invité ?",
+    "Selon la fiche Shazam du titre, sorti le 13 avril 2023 chez 3652163 Records DK à 122 BPM, l’auteur crédité est sulivan saïm elice. Youry ymw y est l’artiste invité affiché, pas l’auteur publié. C’est le miroir exact des singles de Tolly Boy’s YMW, où il est l’auteur publié sans être l’interprète affiché.",
+  ),
+  (
+    "D’où vient Youry Fleming ?",
+    "Son dossier publié le rattache à Saint-Martin par son cercle : il est l’auteur des singles de Tolly Boy’s YMW, acte bouyon de Sint Maarten, la partie néerlandaise de l’île, et ses titres solo sortent sur le label du cercle, YMW. Aucune source consultée ne publie sa commune, son lieu de naissance ou son parcours avant 2018, et ce site ne les invente pas.",
+  ),
+  (
+    "Qu’est-ce que « Shark Wave » de Youry YMW et Edday ?",
+    "C’est un titre relevé uniquement dans la tracklist publiée d’un épisode du Soca Podcast, qui le place dans une sélection de titres de Saint-Martin et des îles voisines. Aucune fiche de sortie de plateforme n’a été retrouvée pour ce titre pendant cette recherche : ce profil le cite comme une trace de circulation en mix, et ne le range pas dans les données structurées de la page.",
+  ),
+  (
+    "Où écouter Youry Fleming ?",
+    "Suivez l’ordre des crédits : « Lucy Lucy », le seul titre où il est interprète et auteur, puis « WOOD WOOD » et son remix, puis les titres qu’il a écrits pour Tolly Boy’s YMW, « Get on Bad », « Oú Paté Vwey » et « GoDownGoDown ». Pour la scène bouyon actuelle des îles, notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> Road Mix de Bouyon Shattaz réunit nouveautés et classiques.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/youry-fleming.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/youry-fleming.html#artist", "name": "Youry Fleming", "alternateName": "Youry Ymw", "description": "Auteur de Saint-Martin, crédité comme auteur des singles de Tolly Boy's YMW, Get on Bad en 2018, Ou Pate Vwey en 2019 et GoDownGoDown en 2020. Interprète et auteur publié de Lucy Lucy en 2021, artiste de WOOD WOOD et du Wood Wood Remix chez YMW, invité sur Payé de Wizito et Dirty Woman de deejay twix en 2023.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Lucy Lucy"}, {"@type": "MusicRecording", "name": "WOOD WOOD"}, {"@type": "MusicRecording", "name": "Wood Wood Remix"}, {"@type": "MusicRecording", "name": "Payé"}, {"@type": "MusicRecording", "name": "Dirty Woman"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -126,13 +176,63 @@ EN = {
   ]
  ],
  "faq": [
-  ("Did Youry Fleming sing the Tolly Boys records?", "The published credits do not say so, and that is the central distinction of this profile. On “Get on Bad” in 2018, “Oú Paté Vwey” in 2019 and “GoDownGoDown” in 2020, Shazam credits Youry Fleming as songwriter of the Tolly Boy’s YMW records, without giving him a performer credit on those listings. The only record where he is published as both performer and songwriter is “Lucy Lucy”, released under the name Youry in 2021. This site therefore does not reassign the group records to Youry Fleming as performer."),
-  ("Under which names is Youry Fleming credited?", "Under several published forms: Youry Fleming, the reference form, Fleming Youry on “GoDownGoDown”, and Fleming xavier Youry on “Oú Paté Vwey”, the fullest form recorded in the credits. As an artist, he appears under the short forms Youry, for “Lucy Lucy” in 2021, and Youry Ymw, for “WOOD WOOD”, its remix and his 2023 features."),
-  ("Which solo records of Youry Fleming are verified?", "Two headline records are documented by platform listings: “Lucy Lucy”, released on March 17, 2021, by Turnt Up Tv Records, at 160 BPM, where he is credited as performer and songwriter, and “WOOD WOOD”, released on October 23, 2021, on YMW, at 111 BPM, followed by the “Wood Wood Remix” with Motto and King james on March 25, 2022. Two 2023 features complete the list, “Payé” by Wizito and “Dirty Woman” by deejay twix."),
-  ("Who wrote “Dirty Woman” by deejay twix, where Youry ymw is featured?", "According to the Shazam listing of the record, released on April 13, 2023, by 3652163 Records DK at 122 BPM, the credited songwriter is sulivan saïm elice. Youry ymw is the billed featured artist there, not the published songwriter. It is the exact mirror of the Tolly Boy’s YMW singles, where he is the published songwriter without being the billed performer."),
-  ("Where does Youry Fleming come from?", "His published record ties him to Saint Martin through his circle: he is the songwriter of the singles of Tolly Boy’s YMW, a bouyon act from Sint Maarten, the Dutch side of the island, and his solo records come out on the label of the circle, YMW. No source consulted publishes his home community, his place of birth or his path before 2018, and this site does not invent them."),
-  ("What is “Shark Wave” by Youry YMW and Edday?", "It is a title recorded only in the published tracklist of an episode of the Soca Podcast, which places it in a selection of records from Saint Martin and the neighbouring islands. No platform release listing was found for that title during this research: this profile cites it as a trace of circulation in mixes, and does not place it in the structured data of the page, which are kept for records documented by a listing.")
- ],
+  (
+    "Who is Youry Fleming?",
+    "Youry Fleming is a songwriter from Saint Martin, credited by the platforms as songwriter of the three Tolly Boy’s YMW singles, from 2018 to 2020. He then released records of his own under the names Youry, for “Lucy Lucy” in 2021, and Youry Ymw, for “WOOD WOOD” and its remix. No biography, interview or verified official account was found: his public portrait lies in his credits.",
+  ),
+  (
+    "Who wrote the Tolly Boys records?",
+    "Youry Fleming, according to the Shazam listings: he is the credited songwriter of “Get on Bad” (December 30, 2018, with Ciio and King Kembe, 174 BPM), “Oú Paté Vwey” (February 14, 2019, on YMW, 162 BPM) and “GoDownGoDown” (January 19, 2020, on YMW, 169 BPM). His is the only pen the platforms name for the published singles of the group, under three spellings of his name.",
+  ),
+  (
+    "Did Youry Fleming sing the Tolly Boys records?",
+    "The published credits do not say so, and that is the central distinction of this profile. On “Get on Bad”, “Oú Paté Vwey” and “GoDownGoDown”, Shazam credits Youry Fleming as songwriter of the Tolly Boy’s YMW records, without giving him a performer credit. The only record where he is published as both performer and songwriter is “Lucy Lucy”, released under the name Youry in 2021.",
+  ),
+  (
+    "Who are the Tolly Boys, Youry Fleming’s group?",
+    "The Tolly Boys are a bouyon act from Sint Maarten, the Dutch side of the island of Saint Martin, documented by the Tolly Boy’s YMW singles and by a university study that describes the group as local bouyon performers whose songs schoolchildren sang in class. Youry Fleming is their published songwriter. See the <a href=\"/en/tolly-boys.html\">Tolly Boys</a> page.",
+  ),
+  (
+    "Under which names is Youry Fleming credited?",
+    "Under several published forms: Youry Fleming, the reference form, Fleming Youry on “GoDownGoDown”, and Fleming xavier Youry on “Oú Paté Vwey”, the fullest form recorded in the credits. As an artist, he appears under the short forms Youry, for “Lucy Lucy” in 2021, and Youry Ymw, for “WOOD WOOD”, its remix and his 2023 features.",
+  ),
+  (
+    "What does Ymw mean in Youry Ymw?",
+    "Ymw takes up the initials of the circle’s brand, YMW, which is also the Tolly Boys label. The artist name Youry Ymw therefore ties his records to his Saint Martin circle: “WOOD WOOD” and its remix came out on YMW, and the “Payé” feature with Wizito appeared on the YMW Tolly Boys label. Only “Lucy Lucy”, under the name Youry, came out on an outside label.",
+  ),
+  (
+    "Who sings “Lucy Lucy”?",
+    "Youry, the short artist name of Youry Fleming. The single was released on March 17, 2021 by Turnt Up Tv Records, at 160 BPM and in English according to its Shazam listing, which credits Youry Fleming twice: as performer and as songwriter. It is the only listing consulted where both roles meet under his name, and the first record where he steps up to the microphone.",
+  ),
+  (
+    "What is “WOOD WOOD” by Youry Ymw?",
+    "A single released on October 23, 2021 on YMW under the name Youry Ymw, filed as Dance by Shazam, with Youry Fleming as songwriter. Its published tempo, 111 BPM, is by far the slowest of his file, and its page showed over 6,300 Shazams. The “Wood Wood Remix”, with Motto and King james, followed on March 25, 2022, and the record circulates in the tracklist of the OSOCITY Soca Mix.",
+  ),
+  (
+    "Which solo records of Youry Fleming are verified?",
+    "Two headline records are documented by platform listings: “Lucy Lucy”, released on March 17, 2021, by Turnt Up Tv Records, and “WOOD WOOD”, released on October 23, 2021, on YMW, followed by the “Wood Wood Remix” with Motto and King james on March 25, 2022. Two 2023 features complete the list, “Payé” by Wizito and “Dirty Woman” by deejay twix.",
+  ),
+  (
+    "What is the link between Youry Fleming and Wizito?",
+    "On February 8, 2023, Wizito released “Payé”, featuring Youry Ymw, on the YMW Tolly Boys label, at 170 BPM. Wizito is the artist name of Bernard Gumbs, whose records from 2023 to 2025 come out on the circle’s label: the songwriter of the founding Tolly Boy’s YMW singles returns there as a guest voice. See the <a href=\"/en/bernard-gumbs-wizito.html\">Bernard Gumbs</a> profile.",
+  ),
+  (
+    "Who wrote “Dirty Woman” by deejay twix, where Youry ymw is featured?",
+    "According to the Shazam listing of the record, released on April 13, 2023, by 3652163 Records DK at 122 BPM, the credited songwriter is sulivan saïm elice. Youry ymw is the billed featured artist there, not the published songwriter. It is the exact mirror of the Tolly Boy’s YMW singles, where he is the published songwriter without being the billed performer.",
+  ),
+  (
+    "Where does Youry Fleming come from?",
+    "His published record ties him to Saint Martin through his circle: he is the songwriter of the singles of Tolly Boy’s YMW, a bouyon act from Sint Maarten, the Dutch side of the island, and his solo records come out on the label of the circle, YMW. No source consulted publishes his home community, his place of birth or his path before 2018, and this site does not invent them.",
+  ),
+  (
+    "What is “Shark Wave” by Youry YMW and Edday?",
+    "It is a title recorded only in the published tracklist of an episode of the Soca Podcast, which places it in a selection of records from Saint Martin and the neighbouring islands. No platform release listing was found for that title during this research: this profile cites it as a trace of circulation in mixes, and does not place it in the structured data of the page.",
+  ),
+  (
+    "Where can I hear Youry Fleming?",
+    "Follow the order of the credits: “Lucy Lucy”, the only record where he is both performer and songwriter, then “WOOD WOOD” and its remix, then the records he wrote for Tolly Boy’s YMW, “Get on Bad”, “Oú Paté Vwey” and “GoDownGoDown”. For today’s island bouyon scene, our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, the Road Mix by Bouyon Shattaz, gathers new releases and classics.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/youry-fleming.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/youry-fleming.html#artist", "name": "Youry Fleming", "alternateName": "Youry Ymw", "description": "Songwriter from Saint Martin, credited as songwriter of the Tolly Boy's YMW singles, Get on Bad in 2018, Ou Pate Vwey in 2019 and GoDownGoDown in 2020. Published performer and songwriter of Lucy Lucy in 2021, artist behind WOOD WOOD and the Wood Wood Remix on YMW, featured on Paye by Wizito and Dirty Woman by deejay twix in 2023.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Lucy Lucy"}, {"@type": "MusicRecording", "name": "WOOD WOOD"}, {"@type": "MusicRecording", "name": "Wood Wood Remix"}, {"@type": "MusicRecording", "name": "Payé"}, {"@type": "MusicRecording", "name": "Dirty Woman"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

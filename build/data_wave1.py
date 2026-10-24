@@ -374,8 +374,64 @@ PAGES = [
       {
        "@type": "MusicRecording",
        "name": "Down"
-      }
-     ]
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Batty Bubble"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bwé Rhum"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Taking Over"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mad People Fete"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fete Is Fete"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stampede"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Flags Up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Simon Say"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "In She Garden (Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Take Jam (feat. Asa Bantan)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bwé Rhum (Bouyon Kings Mixtape)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Play Mass (feat. Asa Bantan)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Better Than Your Boyfriend (feat. Asa Bantan)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Made It (feat. Asa Bantan)"
+      },
+]
     }
    }
   ],
@@ -556,8 +612,244 @@ PAGES = [
       {
        "@type": "MusicRecording",
        "name": "Dominica I From"
-      }
-     ]
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Back it up gyal (feat. Edday)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bike man (feat. Ras B)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "FYL"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "CoMeSS (feat. Asa Bantan)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dotish love (feat. Nessa Preppy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Plottin"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Perfect"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Do Not Know"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stampede (feat. Trilla - G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Without you (feat. Nice, Trilla-G, Unstoppable Shax & Quan dawg)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "12345678"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "In D Bedroom (feat. Freddy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doh trust dem"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lovers business"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bikini"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Leave your man (feat. Dj taffy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "What to do (feat. Trixx ft Reo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Roadkill"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "She like man"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Carnival feeling"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Face Down"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doh lose your man"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Party animal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hard Fork"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "S***p"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sauvage"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Gyalis"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Girlfriend"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BDPB (feat. Youry YMW)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Same Girl (feat. Trilla G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Crack P****i"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tonight"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "We Getting Paid"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Backshot"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Come Back"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Yay"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Koké"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Caribbean Whine"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Like Woman (feat. Kevni, Edday, Larose & Yg Gucci)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Benadryl"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Chance"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dou dou (feat. Litleboy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "We Outside (feat. Dj Flip Tha Boss)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dance With Me"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bus Drivah"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Boom Boom"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ouu (feat. Trilla G & Dj Realboss)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pay Me (Dolla)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bouyon Train"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ouu Lala (feat. Edday)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dangerous"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sa Ka Bay (feat. Dj Bling)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Through the Night (feat. Frog & Reo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DO WHAT YOU WANT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doe call my name (feat. Reo & Youry ymw)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shut Up (feat. Reo & Khallion) [Remix]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rum Dat Do Me Dat (feat. Reo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "On Me (feat. Savion, DiYoute, OBM & Reo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "REST IT DOWN (feat. Reo)"
+      },
+]
     }
    }
   ],
@@ -1114,8 +1406,12 @@ PAGES = [
       {
        "@type": "MusicRecording",
        "name": "Allo Doudou (feat. litleboy lsbeats767) (Spain Remix)"
-      }
-     ]
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Danger (feat. Miimii KDS)"
+      },
+]
     }
    }
   ],
@@ -1278,7 +1574,475 @@ PAGES = [
        "@type": "MusicRecording",
        "name": "Fym"
       },
-     ]
+      {
+       "@type": "MusicRecording",
+       "name": "Lack of Sex"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dah Wuh She Get (feat. Lead Pipe)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shirley (feat. Peter Ram)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Back Door (feat. Jagwa De Champ)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Takah Takah (feat. Dirty Dawg Pudaz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Gimme Room (feat. Shanta Prince)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Freeness Is For"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bad My Girl"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Is a Bala"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fair Exchange"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Two Rules"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Push Your Hand"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "How You Is My Cousin"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Do Baby"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "She Stupid"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Speedy da Bur!"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Love"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "More Cock"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rum Family (feat. Yung Shing Taw & More Sewo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Not Giving Up (feat. Nayee)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Haterz Looking"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Boomboom Dere"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Christmas Chalala"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Christmas Money"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Alexsis (feat. Sukie)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Anita Bouyon (feat. Midnight Groovers)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Granny Wine (feat. Sukie)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rockstar Keyboard Solo"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doh Talk to Me (feat. Omar Omar)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jenny"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Alle Cocay Mamaw (feat. Jkuan)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "W.D.M.a. (feat. Dirty Dawg Pudaz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "What Is There for Me (feat. Dirty Dawg Pudaz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Reply"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "B.D.Y.M.M."
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Not Me"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Boosolavi"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bend Down (feat. LITLE'BÖY)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "P***y Cat (feat. N.I.C.E.)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stick It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "The Code"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cover Up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shut up & Pay Me"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "She Wan That Ah"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ridge Ki Ca Mene (feat. Sakis Lapo Kabwit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Toxic Love Accordion"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Toxic Love Creole"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Urpen That (feat. Dirty Dawg Pudaz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jing Ping Kompa"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Am to Pm (feat. Hon Roosevelt Skerrit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sweet Caroline Bouyon"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tolly (feat. Pndrn)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nasty Chant (feat. Dirty Dawg Pudaz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bend Yuh Back (feat. Dirty Dawg Pudaz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Who Paro"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "D Coo Coo (feat. Dirty Dawg Pudaz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Man Giving Woman Money"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Take That Baby (feat. Dirty Dawg Pudaz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Make That Booty Clap (feat. Dirty Dawg Pudaz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Take Your Time (feat. Dirty Dawg Pudaz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Its All About Sewo (feat. Sukie)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Johnny (feat. Sukie & Da Doll)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pas Normal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Backerz (feat. Dirty Dawg Pudaz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Electric (feat. Burn Brain Jolly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kenip Season (feat. Burn Brain Jolly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Babawhoolay (feat. Burn Brain Jolly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bellevue Live (feat. Burn Brain Jolly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Da Is Sewo (feat. Burn Brain Jolly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "West Bank (feat. Burn Brain Jolly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "See Paris n Die (feat. Burn Brain Jolly & More Paris)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kettle (feat. Burn Brain Jolly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Police Beating Them (feat. Burn Brain Jolly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hi My Name Is Jolly (feat. Burn Brain Jolly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Je T’aime Dayleeway"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Chiney Wine"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Want Drugs (Live)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Suck D P***y (Live)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Laff and Shaff (feat. Burn Brain Jolly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nasty Business"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Toxic Love"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Coco Nana (feat. Sukie)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shake Your Boomboom (feat. Sukie)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Chiney Wine Official"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Climax (Live)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lolololololo"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Me Dat Dere"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tongue in Bottom"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Love My Music (Live)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Coco Field"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Propaganda"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Killa Fun Solo (Live)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dayleeway"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Drugs (Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Plenty Woman (Live)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Just D Tip"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Impossible"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Your Woman Not Your Woman (Live)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bump on D Head"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "J'ai Faim (Live)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Chiney Wine Solo"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Suck the P***y Tonight"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ridgy up Friday Mal Parle"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Doh Mind"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Peppa Pig"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Green Jing Ping"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doh Call My Phone"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Come n Kokay"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bizaw"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Christmas Medley"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Don't Go"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Money Riddim"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bamsie Clap (feat. Skinny Fabulous)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Badman (feat. Konshens)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Blue (feat. Ridge)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pani Love"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "She Want That Ah (Remix)"
+      },
+]
     }
    }
   ],
@@ -1442,7 +2206,267 @@ PAGES = [
        "@type": "MusicRecording",
        "name": "Nah Nah (feat. YuniikBeatz) [Bouyon 2025]"
       },
-     ]
+      {
+       "@type": "MusicRecording",
+       "name": "PROMENONS-NOUS (feat. DIIXLY) (BOUYON 2027)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LIKE YOU (feat. DJ LUCHSHIY) (BOUYON 2027)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LÉSÉ NOU PASÉ (feat. Ma6mo & Diixly) (WARM UP 2026)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BOSS (feat. YuniikBeatz) (BOUYON 2026)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ON ME (feat. DJ BOKO) (BOUYON 2026)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PXRNSTAR (feat. DJ LUCHSHIY) [BOUYONMON ENGLISH VERSION]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DANJÉRÈZ (feat. DJ LUCHSHIY) [BOUYONMON KREYOL VERSION]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "NO TIME (feat. DJ SKAYLONE) (Bouyon 2026)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "WET WET (feat. DJ BOKO) (BOUYON 2026)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "FEEL LONELY (feat. DJ SKYCEE) (Bouyon 2025)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SHE'S A HOE (feat. DJ BOKO) (Bouyon 2025)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SA KA BAY (feat. DJ SKAYLONE) (Bouyon 2025)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "WOOD (feat. DJ SKAYLONE) (Bouyon 2025)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TOMBER LOVE (Bouyon 2025)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ANTIDÉPRESSEUR (BOUYON LOVE 2024)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "AN MÉLÉ (feat. Kevni) (BOUYON 2024)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "WHAT'S POPPIN (feat. Kevni) (BOUYON 2024)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BAW SA (feat. Kevni) (BOUYON 2024)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "POMPEY (feat. Kevni) (BOUYON 2024)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "POP CHAMPAGNE (feat. Kevni) (BOUYON 2024)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "C QUOI LES BAILS (feat. Kevni) (BOUYON 2024)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BIG BONDA (feat. Kevni) (BOUYON 2024)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Honey Pot (Bouyon 2024)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "KEEP INSIDE (BOUYON 2025)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BAD MOOD (feat. Kevni) (Bouyon 2025)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "GET THAT ASS (BOUYON 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MOUVMAN P.P.P (BOUYON 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BAD GIRL (LAST LAST REMIX)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jumping Jack (feat. Lünik) (Bouyon 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Oshan (Bouyon 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Put It In (feat. Dj Softee & Edday) (Bouyon 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Manaudou (Bouyon 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Vody Lavish (feat. Kevni) (Bouyon 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kal Academy (feat. Dj Softee) (Bouyon 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Oulala (Bouyon 2025)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Makaveli (Bouyon 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "1,2,3,4 (Bouyon 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "CHINEY CHINEY FREESTYLE (BOUYON FREESTYLE)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pushing P (feat. Dj Skaytah) (Bouyon 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Poom Poom (feat. Dj softee) (Bouyon 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "140 (Bouyon 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ambiance Latino (feat. Tiitii Nba) (BOUYON WARM UP 2026)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "More Wata (feat. Tiitii Nba) (BOUYON WARM UP 2026)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SKILLI (feat. Tiitii Nba, QWANN & DINHO) (BOUYON 2026)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Supalova (feat. Tiitii Nba & DJ DIRTEE) (BOUYON WARM UP 2026)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LA PEP'HIT FREESTYLE (feat. TIITII NBA, DJ BOKO, LE K & DJ DIRTEE)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Take a Lick (feat. TiiTii NBA & DJ SOFTEE)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pli ô (feat. TiiTii NBA)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sa ka pété (feat. D-Stylii & TiiTii NBA)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ALL NIGHT (feat. TIITII NBA & D0 PRODUCTION) [BOUYON 2024]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Le loup (feat. Tiitii Nba)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Come Back (feat. Tiitii NBA)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pied au Plancher (feat. Tiitii NBA & Lejuh)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Day & Night (Bouyon 2024) (feat. TiiTii NBA)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "New Bouyon Wave #1 (feat. Tiitii NBA, Nils, Dj Softee, Aknose & Theomaa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SECRET FXCK (feat. TIITII NBA)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BIG MOOD (feat. TIITII NBA) (Bouyon 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Chalè (feat. TIITII NBA) (Bouyon 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "KARAKOLI (feat. TIITII NBA) (Bouyon 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Chi Chi Bad (feat. TIITII NBA) (Special Version Bouyon 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Snap ça (feat. TIITII NBA) (Bouyon 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "FRIDAY NIGHT (BOUYON 2023) (feat. TIITII NBA)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PUSSY BOY (BOUYON 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "On My Mind"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bouè'y Bay"
+      },
+]
     }
    }
   ],
@@ -1620,8 +2644,376 @@ PAGES = [
       {
        "@type": "MusicRecording",
        "name": "We Ready (feat. Trilla-G & Shelly)"
-      }
-     ]
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Clock It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Band of De Year"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lapidé Yo"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Folded (Cover) [feat. Téhilah]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I'm a Boss Baby"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Most Wonderful Time of the Year (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Un-Break My Heart (feat. Shanice)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shoot & Miss (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Not A Word (feat. Trilla-G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "My Widdim (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "They Take You (feat. Shelly & Trilla-G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Signal Dat Dere Wii (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "My Band (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Make Her Bawl (feat. Shelly, DJ Taffy & Trixx)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "FED UP (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Body Language (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Calendar Riddim 2024 (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Always Be My Baby (feat. Carlyn XP)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Something Nice (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dwivé (feat. Shelly & Trilla-G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Me With People (feat. Shelly & Moxie Shervy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Carnival Corner (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Best Friend (feat. Trilla-G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bingo (feat. Trilla-G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Painter (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Calendar Riddim (feat. Shelly & DJ Drixx)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I'll Be There For You (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Face No Case (feat. Shelly & Colton T)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stronger (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Night Shift (feat. Shelly & Trilla-G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nosey Neighbour (feat. Zwady & Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Riddim Coming Down (feat. Shane St. Claire) [This I Promise You Cover]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kanaval Awivé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Campari"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stay Chipping"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bamba"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Big Boy Story"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Must Come Back"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "De Word"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Déjà Val (feat. Trilla-G) [Party Mix]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Money Money"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "My Man"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Open D Road"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Man vs Rose (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "All My Life"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bouyon Vax"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Red Flag"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rum and Woman"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Forward Forward"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fence Get Low"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "On My Way (Side Life) (feat. Shelly, Starsha & Wawa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "On My Way"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doh See Me (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Who Make de Bouyon? (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Love to Whine (feat. Wawa & Starsha)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Spray Dem (feat. Shelly & Wawa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stress Free (feat. Wawa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Introll"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Carnival Shagweh (feat. Shelly & Wawa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Unstoppable"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Feel de Riddim (Riddim) [FDR]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "On de House (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Coming Down (feat. Wawa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nou Ja Aller (feat. Beetle J)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Issa Blessing (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "What a Riddim (WAR)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Largé Douleh (feat. Shelly, Wawa & Beetle J)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Land of d Bouyon"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "10:1"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bachanally Fit"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mailbox (feat. Anwar & Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Easy Dancing"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ani Ba Yo Love (feat. Riddla) [Alternative Mix]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Intro"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Horning (feat. Janae Jackson)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Riddim Drop"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "We Coming"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Interlude"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sorry"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bouyon Lum-ination (feat. Beetle J)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Veni Ensam (feat. Beetle J)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Farm Beff (feat. Beetle J)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lights Up (feat. Anwar)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "How You Do It (feat. Beetle J & Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bouyon Lumi-Nation (feat. Beetle J)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Youngest & Baddest (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "THE Celebration Song"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Out da Group Chat"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Calendar Riddim 2025"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cry No More"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Angels in the Sky (feat. Signal Band)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Drunkish (It Wasn't Me) (feat. Signal Band)"
+      },
+]
     }
    }
   ],
@@ -1800,8 +3192,252 @@ PAGES = [
       {
        "@type": "MusicRecording",
        "name": "Me With People (feat. Shelly & Moxie Shervy)"
-      }
-     ]
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "THE Celebration Song"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Out da Group Chat"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Clock It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lapidé Yo"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Deserve This"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "De Other Man"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Calendar Riddim 2025"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lè i Bon"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stabilize Yourself"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cry No More"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I'll Be There For You"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rise Up (feat. ProducerDlo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Angels in the Sky (feat. Signal Band)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Money Money"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Drunkish (It Wasn't Me) (feat. Signal Band)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Testing Positive"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Inside"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "De Gwo Pwel"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shelly Shelly"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Local"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Folded (Cover) [feat. Téhilah]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Band of De Year"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bayfront (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Burn Dem (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Most Wonderful Time of the Year (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Winning (feat. Trilla-G & Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Big Foot (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shoot & Miss (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Signal Dat Dere Wii (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "My Widdim (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "They Take You (feat. Shelly & Trilla-G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "RAGS (feat. Skinny Fabulous & Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "My Band (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Make Her Bawl (feat. Shelly, DJ Taffy & Trixx)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bye to de Old Me (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "FED UP (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Body Language (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Calendar Riddim 2024 (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "My Cake (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "In the Morning (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Math Not Mathing (feat. Shelly & Trilla-G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mic Check 12345678 (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Playground (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Something Nice (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Carnival Corner (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Painter (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Calendar Riddim (feat. Shelly & DJ Drixx)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Face No Case (feat. Shelly & Colton T)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Night Shift (feat. Shelly & Trilla-G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nosey Neighbour (feat. Zwady & Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Big Boy Story"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Man vs Rose (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "On My Way (Side Life) (feat. Shelly, Starsha & Wawa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Who Make de Bouyon? (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Spray Dem (feat. Shelly & Wawa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Carnival Shagweh (feat. Shelly & Wawa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Drake Of Bouyon (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Happy Place (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Reverse (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pankatang (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "L.E.G.O (Life Eventually Goes On) (feat. Shelly)"
+      },
+]
     }
    }
   ],
@@ -2179,8 +3815,16 @@ PAGES = [
       {
        "@type": "MusicRecording",
        "name": "Still Standing!"
-      }
-     ]
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kijaw"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stupid"
+      },
+]
     }
    }
   ],
@@ -2349,7 +3993,231 @@ PAGES = [
        "@type": "MusicRecording",
        "name": "Expectations"
       },
-     ]
+      {
+       "@type": "MusicRecording",
+       "name": "Ice Cream Man Pt. II"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Love On Repeat"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rule You"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Naija"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "My Girl"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Black Sand Beach"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Move On"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tango"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Different Kinda Animal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ice Tea"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Migraine"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ole Skool Love"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Bad Vibes"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "All I Need Is Love"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Yearning"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Easy Tomorrow"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cut Off"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Runway"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shooting Star"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cheater's Confession"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fighter"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hard Wine"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Find a Way"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Memories"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Free Mind"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Strain of Success"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Just Like That"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Contact"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Old Timer"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Reject"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Na Change"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stronger"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Promise"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "24 Hours"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Glory"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Big Time"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Faze"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doin' It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doin Road"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "One Woman Man"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Black Beauty"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bomb in the City"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Too Soon"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lose It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Don't Leave"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "P***y Cat"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Icecream Man"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Karma"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "It's Summer"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "It Hurt Them (feat. Colton T)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Face No Case (feat. Shelly & Colton T)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Every Gyal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Big Iron (feat. Colton T)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Champion (feat. Colton T)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Koupé kann (feat. MC Chroné & Colton T) [Carnaval vol.2K19]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "You Are My World (feat. Colton T)"
+      },
+]
     }
    }
   ],
@@ -2510,7 +4378,19 @@ PAGES = [
        "@type": "MusicRecording",
        "name": "No Time 4 Stress"
       },
-     ]
+      {
+       "@type": "MusicRecording",
+       "name": "Have What They Have"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stick It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Boosolavi"
+      },
+]
     }
    }
   ],
@@ -2651,7 +4531,11 @@ PAGES = [
        "@type": "MusicRecording",
        "name": "Plap Plap !"
       },
-     ]
+      {
+       "@type": "MusicRecording",
+       "name": "TELL ME (feat. thaWizZarD)"
+      },
+]
     }
    }
   ],
@@ -2995,6 +4879,38 @@ PAGES = [
   (
     "Où écouter Litleboy LSBeats767 ?",
     "Commencez par la <a href=\"/playlist-bouyon.html\">Bouyon Road Mix</a> de Bouyon Shattaz, sur Spotify et YouTube, pour la scène dont il fait partie. Ses titres avec Quan tournent dans les mixes de DJ, comme le Bouyon Passport 2026, et il était à l'affiche de Bouyon Day 2025 à Roseau et du Strictly the Best Festival à Saint-Martin.",
+  ),
+  (
+    "D'où vient Litleboy LSBeats767 ?",
+    "Ses traces publiques le placent dans la scène bouyon de la Dominique : le 767 de son nom est l'indicatif téléphonique de l'île, il a été finaliste du Producteur de l'année aux Dominica Music Awards 2025 et nommé Artiste bouyon de l'année aux Caribbean Music Awards 2025. Aucune source ouverte ne donne de ville ni de date de naissance, et ce site n'en publie donc aucune.",
+  ),
+  (
+    "Quel est le vrai nom de Litleboy LSBeats767 ?",
+    "Les crédits d'écriture publiés de ses titres, rassemblés pour le profil de <a href=\"/quan.html\">Quan</a>, nomment Foster Marcel Xavier, ou Foster Xavier selon les fiches. Sous ce nom d'auteur, il cosigne « Leaving » (2024) avec Quan Denis et Tafari Maffei, le nom d'auteur de DJ Taffy, et « Someone Else » (2024) avec Gael Jno Baptiste et Quan Denis.",
+  ),
+  (
+    "Comment s'écrit le nom de Litleboy LSBeats767 ?",
+    "Ce site retient la graphie Litleboy LSBeats767, mais son nom circule sous plusieurs formes : Lsbeatz litleboy dans les crédits de composition de « Sa Ka Débodé » en 2016, Litleboy ou Litle Boy dans les tracklists de DJ et les listes de prix, et litleboy lsbeats767 dans le titre d'un remix de 2026. Deux de ses singles sont sortis sous le nom de label Lsbeats767.",
+  ),
+  (
+    "« Pow Pow / Allo Doudou » est-il certifié disque d'or ?",
+    "Oui. Selon le post de certification de la SNEP, « Pow Pow / Allo Doudou », avec Niska, <a href=\"/miimii-kds.html\">Miimii KDS</a> et Litleboy LSBeats767 dans les crédits, a dépassé 15 000 000 de streams équivalents en France et a été certifié Single Or en 2026. Les streams équivalents sont la mesure officielle qui convertit les écoutes en équivalent ventes. Une version Spain Remix de « Allo Doudou », sortie en 2026, le crédite aussi en invité.",
+  ),
+  (
+    "Quels prix Litleboy LSBeats767 a-t-il remportés ?",
+    "« Someone Else », qu'il porte en artiste principal avec Quan et Trilla G, a remporté la collaboration de l'année aux Dominica Music Awards 2025, remis le 3 janvier 2026 selon Soca News, et la collaboration soca de l'année aux Caribbean Music Awards 2025. Il était aussi parmi les neuf nommés au titre d'Artiste bouyon de l'année de ces Caribbean Music Awards, et finaliste du Producteur de l'année aux Dominica Music Awards.",
+  ),
+  (
+    "Qui a composé « Sa Ka Débodé » de Bilix ?",
+    "Selon Shazam, « Sa Ka Débodé », de <a href=\"/bilix.html\">Bilix</a> avec Mr Boka en featuring, sorti le 12 janvier 2016 sur le label Ôréveil à 160 BPM, nomme deux compositeurs : Dj Weez et Lsbeatz litleboy, avec Franck Offranc à l'écriture des paroles. Le profil de DJ Weez identifie ce Lsbeatz litleboy comme Litleboy LSBeats767, dix ans avant son disque d'or.",
+  ),
+  (
+    "Qui a écrit « Someone Else » de Litleboy, Quan et Trilla G ?",
+    "Les crédits Qobuz nomment Foster Marcel Xavier, Gael Jno Baptiste, le vrai nom de <a href=\"/trilla-g.html\">Trilla G</a>, et Quan Denis à l'écriture. Le titre, avec Litleboy en artiste principal et Quan et Trilla G en invités, est sorti en 2024 sur la compilation Summer Of Carnivals, chez DSM Music et Monk Music. C'est lui qui a installé ce cercle à l'échelle régionale.",
+  ),
+  (
+    "Où Litleboy LSBeats767 s'est-il produit sur scène ?",
+    "Deux affiches sont documentées. Litle Boy figurait le 25 février 2025 sur l'affiche de Bouyon Day, Bouyon in de Streets, sur Hanover Street à Roseau, selon le communiqué de la Discover Dominica Authority, puis en mai 2025 sur celle du Strictly the Best Festival, Bouyon Edition, à Saint-Martin. Ces scènes le placent dans la scène bouyon de la Dominique et de ses îles voisines.",
   )
 ],
   "date_published": "2026-09-30",
@@ -3041,7 +4957,71 @@ PAGES = [
        "@type": "MusicRecording",
        "name": "Fell For You (feat. Quan)"
       },
-     ]
+      {
+       "@type": "MusicRecording",
+       "name": "Litleboy faché (Radio Edit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Someone Else (feat. Quan & Trilla-G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "The Ocean (LITLEBOY bouyon Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tchoutchou"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Your Friend"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bel Kô (feat. Gyz Smallz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MAKO"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Move On (feat. Shyanne)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mind Your Business"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kay Ka Fèt (feat. Quan)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bouyon Riddim 2021 \"Doudou\""
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Someone Like You"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shake Your (feat. Real Reel & Quan)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MONEY"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nasty Freestyle Medley (feat. Gwada G, Trixx, Freddy & Nice)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Youpa"
+      },
+]
     }
    }
   ],
@@ -3553,6 +5533,30 @@ PAGES = [
   (
     "Où écouter HYPNO ?",
     "Commencez par le reel producteur de MAUVAIS PLAN, publié en octobre 2026 et relayé par Bouyon Shattaz. La page <a href=\"/playlist-bouyon.html\">playlist bouyon</a> cite Mauvais Plan parmi les titres récents pour entrer dans le genre, et la Bouyon Road Mix de Bouyon Shattaz, sur Spotify et YouTube, prolonge l’écoute avec la scène actuelle.",
+  ),
+  (
+    "HYPNO et Hypnotic Beatz, est-ce le même producteur ?",
+    "Oui, selon le registre d'enregistrements de ce site. HYPNO, aussi écrit HYPNO!, publie sous @hypnoticbeatz, et les crédits de plateforme imprimés Hypnotic Beatz, HypnoticBeatz ou Hypnotic Beats lui sont rattachés par cet identifiant identique, un critère simple et vérifiable. Ce profil signale à chaque fois la graphie sous laquelle un crédit est publié, comme Hypnotic Beatz sur « MANIGANCES » de Malcolm.",
+  ),
+  (
+    "Quel est le BPM de MAUVAIS PLAN de HYPNO ?",
+    "160 BPM. HYPNO affiche le tempo dès son reel producteur, sous la forme mauvais plan 160bpm, et fait de la vitesse son argument principal plutôt qu'un détail technique. À cette vitesse, la boucle doit tenir sans s'effondrer, avec des percussions lisibles. Un tempo affiché facilite aussi le travail des DJ, qui trient, enchaînent et testent les titres plus vite. Voir <a href=\"/comment-faire-un-beat-bouyon.html\">comment faire un beat bouyon</a>.",
+  ),
+  (
+    "Depuis quand HYPNO produit-il ?",
+    "Depuis 2020 au moins, d'après les crédits publiés. Sous la graphie Hypnotic Beatz, les fiches Qobuz relevées par ce site portent son nom sur « But en or », de l'album « Sélection naturelle », et sur « Fer » en 2020, puis sur des titres de « 30º » (2023), de « SAHARA » (2024) et sur « COLLIDE » (2025). Le producteur du reel MAUVAIS PLAN n'est pas un nouveau venu. Voir <a href=\"/producteurs-bouyon.html\">producteurs bouyon</a>.",
+  ),
+  (
+    "Qu'est-ce que le reel MAUVAIS PLAN de HYPNO ?",
+    "C'est le reel producteur par lequel MAUVAIS PLAN a circulé en octobre 2026. Smokiller en a terminé sa propre édition design, et Bouyon Shattaz a publié le post, avant de mettre sa légende à jour selon le standard de recherche de la plateforme, avec bouyon drum kit comme mot clé principal, parce que les producteurs et beatmakers qui cherchent sons, kits et références de tempo lisent ces légendes. Voir <a href=\"/bouyon-drum-kit.html\">bouyon drum kit</a>.",
+  ),
+  (
+    "HYPNO fait-il partie de la Rights Clinic de Bouyon Shattaz ?",
+    "Il fait partie du groupe chaleureux d'artistes autour de la proposition d'audit Rights Clinic de Bouyon Shattaz, le programme qui veut aider les artistes et producteurs du bouyon à clarifier leurs droits et leurs crédits. Pour un producteur dont le nom s'écrit de trois façons selon les fiches, et dont le titre circule en extraits, savoir qui est crédité, sous quel nom, et qui peut reprendre la boucle, ce sont des questions concrètes.",
+  ),
+  (
+    "Qu'écouter après MAUVAIS PLAN de HYPNO ?",
+    "La page playlist bouyon cite Mauvais Plan parmi les titres récents pour commencer, aux côtés de Life Nice d'<a href=\"/asa-bantan.html\">Asa Bantan</a>, de Joli BB de Reo avec Maurane Voyer, de FIX UP de G'z Up et de Throw Dat (Bouyon 2026) de Klass Money, produit par Smokiller. La Bouyon Road Mix de Bouyon Shattaz, sur Spotify et YouTube, prolonge ensuite l'écoute avec des titres portés par des voix.",
   )
 ],
   "date_published": "2026-10-12",
@@ -3684,6 +5688,34 @@ PAGES = [
   (
     "Où écouter Savion ?",
     "Commencez par Tropikini de Real Reel, sa production la mieux documentée, puis les titres du Dwivayèz Riddim, et suivez @prod.bysavion pour ses snippets, dont celui couvert par Bouyon Shattaz en octobre 2026. Pour situer son son dans le bouyon du moment, la <a href=\"/playlist-bouyon.html\">Bouyon Road Mix</a> de Bouyon Shattaz réunit nouveautés, bouyon soca et classiques du carnaval.",
+  ),
+  (
+    "Qui a produit Tropikini de Real Reel ?",
+    "Savion, selon la page officielle du visualizer sur YouTube, et sa fiche Shazam le crédite aussi au piano parmi les interprètes. Tropikini, le single de <a href=\"/real-reel.html\">Real Reel</a> sorti le 19 juin 2025 chez No Turkey Music, nomme Corel Dominique à l'écriture, DiYoute à l'ingénierie et Yw3 Studio au mixage et au mastering. La fiche le donne en anglais, avec un tempo affiché de 130 BPM.",
+  ),
+  (
+    "Qu'est-ce que le Dwivayèz Riddim ?",
+    "C'est le projet riddim de Savion, relevé comme un EP de 2020 : un rythme nommé sur lequel plusieurs invités posent leur voix, Trilla-G sur Déliway, Zwady & Fireman Lee sur Down Deh et Starsha sur System Failure, plus l'instrumental nu. Le titre de ce dernier porte la mention Dwivayèz Riddim Soca 2021 (Instrumental), reproduite telle qu'imprimée. Voir <a href=\"/bouyon-riddim.html\">bouyon riddim</a>.",
+  ),
+  (
+    "Qu'est-ce que le snippet de Savion d'octobre 2026 ?",
+    "C'est un court extrait inédit au format TikTok, dont Bouyon Shattaz a tiré une coupe propre de 11,7 secondes, sans le carton de fin automatique de la plateforme source, avant de publier le post. Le titre du morceau était provisoire et n'est pas vérifié : ce site ne le nomme donc pas, car un titre incertain créerait une fausse discographie, ensuite recopiée partout.",
+  ),
+  (
+    "Savion et prod.bysavion, est-ce le même producteur ?",
+    "Oui : Savion est le producteur qui publie sur Instagram sous @prod.bysavion, et le profil de Real Reel sur ce site fait lui-même le lien avec ce compte. Ses crédits sont relevés sous le nom Savion : le Dwivayèz Riddim en 2020, puis Tropikini pour Real Reel et Bikelife Class avec Young Dinero en 2025. Les deux noms désignent donc le même faiseur de son.",
+  ),
+  (
+    "Savion a-t-il travaillé avec des artistes primés ?",
+    "Oui. Real Reel, dont il a produit Tropikini, a remporté le prix Rising and Emerging Artist or Band of the Year aux Dominica Music Awards 2025, devant Nice, Trixx, Faithii, le Riddim Knockers Band et Trixz Migos. <a href=\"/trilla-g.html\">Trilla-G</a>, la voix de son Déliway de 2020, est devenu Calypso Monarch de la Dominique en 2023 et a été honoré pour Someone Else aux Caribbean Music Awards 2025.",
+  ),
+  (
+    "Pourquoi Bouyon Shattaz suit-il Savion ?",
+    "Parce que Bouyon Shattaz suit les producteurs comme des artistes à part entière, pas comme des fournisseurs anonymes de beats : il s'agit de rendre trouvables les faiseurs du son, avec leur nom, leur compte et leur format. Sur la page <a href=\"/producteurs-bouyon.html\">producteurs bouyon</a>, Savion figure aux côtés de HYPNO, Denmath, MB On The Track et Smokiller. Il fait aussi partie du groupe réuni autour de la proposition d'audit Rights Clinic.",
+  ),
+  (
+    "Savion est-il un nouveau producteur ?",
+    "Pas vraiment : il arrive sur les réseaux avec des crédits datés depuis 2020. Mis dans l'ordre, ils dessinent un parcours sans biographie : un EP riddim en 2020, Tropikini pour un artiste primé et Bikelife Class avec <a href=\"/young-dinero.html\">Young Dinero</a> en 2025, puis le snippet inédit couvert par Bouyon Shattaz en octobre 2026. Le snippet prolonge une méthode déjà passée par les riddims partagés et les voix invitées.",
   )
 ],
   "date_published": "2026-10-13",
@@ -3916,6 +5948,34 @@ PAGES = [
   (
     "Où écouter Dcamp & Lewismelo ?",
     "Le point d’entrée documenté est le clip officiel de BOUYON sur YouTube, avec le montage vertical de 55 secondes de Bouyon Shattaz. Leurs autres titres sont sur les plateformes de streaming, et Coco circule dans des mixes comme le Sewo Jam 2026 de Digga D. Pour le contexte, la <a href=\"/playlist-bouyon.html\">playlist bouyon ROAD MIX</a> rassemble le bouyon de la Dominique et des Antilles françaises.",
+  ),
+  (
+    "Quels sont les vrais noms de Dcamp & Lewismelo ?",
+    "Dcamp est Dylan Davis Campbell et Lewismelo est Lewis Wayne Campbell : ce sont les deux noms complets que les crédits publiés impriment comme auteurs sur presque tous les titres du duo. Le tandem sort aussi sa musique par deux structures, Dcampproduction et Lewismeloproduction, et c'est Lewis qui est crédité à la production et à la composition. Voir le profil <a href=\"/lewismelo.html\">Lewismelo</a>.",
+  ),
+  (
+    "Dcamp & Lewismelo sont-ils de la famille d'Admiral T ?",
+    "Aucun lien familial n'est documenté. Admiral T porte le nom civil Christy Campbell dans ses crédits et travaille avec les deux frères sur YOU AND ME et Sòti Gwadloup, et avec Lewismelo sur 5 KILOS, mais aucune source consultée ne décrit de lien familial entre lui et les deux frères Campbell, et ce site n'en affirme aucun. Le nom de famille partagé ne prouve rien à lui seul.",
+  ),
+  (
+    "Qui a produit BAY LA BÈT ?",
+    "Lewismelo. La version Extended, sortie le 24 janvier 2025 via Lewismeloproduction, crédite Lewis Wayne Campbell au rap, à la production et à l'écriture, celle-ci partagée avec Dylan Davis Campbell. Le single réunit une version standard et une version Extended, avec un tempo publié de 134 BPM, plus posé que les 157 BPM de TOURNEVIS, que <a href=\"/dcamp.html\">Dcamp</a> porte en artiste principal.",
+  ),
+  (
+    "Qu'est-ce que l'album Premières Notes de Lewismelo ?",
+    "Premières Notes est l'album de Lewismelo, sorti le 1er novembre 2024. Après une INTRO créditée à Lewis Wayne Campbell, il aligne un invité par titre, d'Admiral T et <a href=\"/shanika.html\">Shanika</a> sur 5 KILOS à Jixels sur HULLABALOO, en passant par Dcamp et KEKS MAFIA sur POMPÉ. NRJ Antilles a présenté 5 KILOS comme un nouveau hit signé Lewismelo, Admiral T et Shanika : l'album sert de toit commun à une génération de voix guadeloupéennes.",
+  ),
+  (
+    "Pourquoi leur titre s'appelle-t-il BOUYON ?",
+    "Appeler son morceau BOUYON, c'est une déclaration d'intention : pas de détour, pas de traduction, le son dominicain assumé comme titre. Le titre ne décrit pas seulement le genre du morceau, il y revendique une place, et pour un duo franco-créole c'est aussi une façon de parler au public des Antilles françaises et de France, pour qui le bouyon est le son des fêtes et des playlists.",
+  ),
+  (
+    "Dans quelles langues chantent Dcamp & Lewismelo ?",
+    "En français, en créole et en anglais, souvent dans le même titre. Le refrain de On My Way (2026) passe du français au créole puis à l'anglais : « Baby comen i lé, dis moi ce qui ne va pas, I am on my way ». YOU AND ME, avec Admiral T, circule entre l'anglais, le français et le créole guadeloupéen, autour du refrain « nou pépa zanmi ». Deux voix, un producteur maison, trois langues.",
+  ),
+  (
+    "Dcamp & Lewismelo font-ils du bouyon gwada ?",
+    "Leur réseau publié est celui de la scène guadeloupéenne, aux côtés d'Admiral T, Shanika et Lejuh, et notre chapitre <a href=\"/artistes-guadeloupe.html\">artistes de Guadeloupe</a> range leur titre manifeste BOUYON parmi les quatre routes du bouyon gwada, aux côtés de Miimii KDS, TIITII NBA et Ricky Bishop. Leurs îles d'origine précises ne sont toutefois pas confirmées dans nos dossiers.",
   )
 ],
   "date_published": "2026-10-08",
@@ -4122,7 +6182,683 @@ PAGES = [
        "@type": "MusicRecording",
        "name": "need dat"
       },
-     ]
+      {
+       "@type": "MusicRecording",
+       "name": "Twavay Bay"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "vinn vwè mwen"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lmk"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ping-ponG"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pop Out"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MA SHIT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bay Coco #WOY"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "designER"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nevermind"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Can I have it ?"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "CHECHEY (elle sait faire ça) [feat. Magbeatz]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ROCKSTAR"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DOECHII (aight bet)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "FREE RACKS (shake it)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "16:16 à Nice"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "5 SUR 5"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Flaques"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "moneylonGGer"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "COUPÉ"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ne te pose pas trop de questions (Western Bouyon)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "IG (Bonus Track)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LIKE ME (REMIX)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BODYCOUNT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PRESSION"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SLIM THICK"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "NON-STOP"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SAINT-BARTH"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "JUST DIS TIME"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "#yeahyeahyeahyeah (Ti Tchô voice)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "What I Want"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SUMMER WALKER"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "RIP (yeah yeah)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "XOXO"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "NHL"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "7D"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Carri Richardson"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "1H54 (interlude)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wintertime Anthem"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MTN"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SMS"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "JUSTIN (feat. Thirty4hoes)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "AMEN"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Soukré Sa #Sitdown (feat. 102 Gang)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Surnaturel"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "2Hard (feat. Implaccable)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Insomnie"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bonjour Bullets (feat. Zelly Ocho)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Zoom"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dunk"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hommage Freestyle"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ipanema"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Backstage"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lit"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Flotte Freestyle"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "AFFAIRE DE TRACS (feat. Implaccable)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "KORVETTE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "UP! (feat. Bitsu)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MINERVE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "POT!ON (feat. zaddyllusion)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "HILL$ (feat. Azura)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "KONTROL"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "4REAL"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "EGAR (yea han!)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ON EST ICI"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "CHRIS ROCK FREESTYLE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "RUSH"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Uniswap"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Slide"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hors de moi"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kosovo"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "XRP Wallet"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tomb Raider (Draft Day 3) (feat. Santa La Prince)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tesla Model S (Draft Day 2)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Banger Mane (feat. Prodbyswoosh)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "RIP Kobe (feat. Prodbyswoosh)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "RIP Nipsey (feat. Prodbyswoosh)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Extendo (feat. Prodbyswoosh & Twizzy Cinco)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Finesse (feat. Floski Finesse)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Racks (feat. Floski Finesse)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Back 2 Back (feat. Floski Finesse)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "WEAK"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Palm Angels"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fake Friends"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hop Pop (feat. Floski Finesse)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Noche (feat. Twizzy Cinco & Rdub)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sauvage (feat. Twizzy Cinco)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Smoke (feat. Massstabber)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Zion"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LIKE THAT (feat. Ricky Bishop & Kaix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Van Damme (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "GO (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "S3XY (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Séisme (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "belElou (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "FUFI"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tournevis (feat. Slimka, Ricky Bishop & Lonebrain)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "FRETTE (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TRACSTYLE Benibla"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "#TWIN"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Oh Wow"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "AURA (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Koko Santi (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "C'est mieux"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "main charachter syndrome (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dolla"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "C'est moi"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Même île"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Chain"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MVP's (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Paname la night (feat. Ricky Bishop & Mandyspie)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rain On Meh"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Owo (feat. Ricky Bishop & Miles Freedom)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Digital (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Scanner Univers (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Horde (feat. Ricky Bishop & PATIENT 67)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PACO (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Présidentiel"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "HOLD ON (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "#sexydays3"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "COMAN (feat. Implaccable & Ricky bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Colonel Reyel (feat. Kaix & Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "koming 4 yuh (feat. Ricky Bishop) [Nelt Remix]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "F.A.B (feat. RICKY BISHOP)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "RUGRATS (feat. Lonebrain & Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Riverside"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cup"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bossin (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PAS CE SOIR (feat. RICKY BISHOP)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BIRKIN (MNGA) (feat. RICKY BISHOP)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dunes (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "(Bonus Track) Real friends (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ma vie n’a même plus de sens (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Vi(e)xen"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "KIM POSSIBLE (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "conversate (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Come On (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Swerve"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Run up (feat. Ricky bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "exploration esthétique (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "HELLCAT MUSIC (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BESTFRIEND (feat. Ricky Bishop & 102 Gang)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BABY (feat. RICKY BISHOP)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Distanciel (feat. Ricky Bishop & Tbs Rappin')"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Première classe (feat. 63OG & Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Too Late (feat. Ricky Bishop & Richy K)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Belaire (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "STRATEGIE (feat. RICKY BISHOP)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Undërstand (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BROLY (feat. Ricky Bishop) [Sped Up]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "RR (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tour du Monde (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Thirty racks (feat. Ricky Bishop) [home sweet home]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BÖRE STORY (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Yesir (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "So Vladdy Shit (superbass) (feat. 102 Gang, Richy K & Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "South Lords no Hook"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Zaza (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Guap a lot (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Busy"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Chap Chap Chap (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Loup Garou (feat. Ricky Bishop) [Remix]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TESLA (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "XXL Freshmen"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Uranus (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Vybe (Deep House Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dex (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ce Que Je Vis (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bag (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ON VA LES TOUZER"
+      },
+]
     }
    }
   ],
@@ -4204,6 +6940,30 @@ PAGES = [
   (
     "Où écouter David Campana ?",
     "Commencez par My Ex, sur son compte Instagram vérifié @dav.campana, puis cherchez ses cinq autres titres par leur intitulé exact : ils ont été vérifiés sur leurs fiches Shazam. Pour replacer cette écoute dans la circulation caribéenne que suit ce site, la <a href=\"/playlist-bouyon.html\">Bouyon Road Mix</a> de Bouyon Shattaz réunit nouveautés bouyon, bouyon soca et classiques du carnaval.",
+  ),
+  (
+    "Qui a produit My Ex de David Campana ?",
+    "Les crédits liés au reel nomment @magistralbeats, @majosty_producer et @agoldencoast à la production et aux claviers, avec une mention de lieu pour @al.j.r : ce sont les seuls crédits confirmés du titre. Le reel, publié le 16 octobre 2026 avec Montréal, Québec en localisation, porte sa phrase de légende sur une musique qui vient d'ailleurs mais qui est née ici.",
+  ),
+  (
+    "Qu'est-ce que ST-HENRI Vol.I de David Campana ?",
+    "ST-HENRI Vol.I est le projet en cours de David Campana, nommé d'après Saint-Henri, le quartier montréalais dont il est issu : raconter d'où l'on vient avant de dire où l'on veut aller. Sa biographie de catalogue, reprise dans les programmes de festivals, nomme ses thèmes de manière explicite : la persévérance, l'ambition et la résilience. Sa date de sortie et sa liste de titres ne figurent pas encore dans nos dossiers.",
+  ),
+  (
+    "David Campana est-il haïtien ?",
+    "Words and Music, le magazine de la SOCAN, le décrit comme un Québécois d'origine franco-haïtienne, et sa propre biographie affiche les drapeaux du Canada et de la France. Sa base est Montréal, dans le quartier Saint-Henri. Cet héritage haïtien est aussi son seul point de contact documenté avec le réseau bouyon : on le retrouve chez <a href=\"/denmath.html\">Denmath</a>, producteur originaire de Saint-Martin.",
+  ),
+  (
+    "Quel est le compte Instagram de David Campana ?",
+    "Son compte Instagram vérifié est @dav.campana, qui comptait 16 213 abonnés au contrôle du 17 octobre 2026. C'est là qu'a été publié le reel du 16 octobre 2026 présentant My Ex, avec Montréal, Québec en localisation. Sa biographie y renvoie ses réservations vers @connexionbooking et affiche les drapeaux du Canada et de la France.",
+  ),
+  (
+    "Dans quelles langues sont les titres de David Campana ?",
+    "Ses intitulés circulent entre trois langues : l'espagnol avec Pa Que Baile (2020) et Corazón Partío (Remix) (2023), le français avec Le Meilleur (2022) et Trahison (2024), et l'anglais avec TIFFANY (2025) et My Ex (2026). Chez un artiste qui se présente entre Montréal, la France et Haïti, ce va-et-vient rejoint sa légende sur une musique venue d'ailleurs.",
+  ),
+  (
+    "Écoute-t-on du bouyon à Montréal ?",
+    "Oui, selon la page diaspora de ce site, qui nomme Montréal parmi les villes où le bouyon voyage avec les Dominicains et les Antillais, aux côtés de New York et Brooklyn, de Londres et de Toronto, dans des soirées caribéennes qui mélangent bouyon, soca, dancehall et zouk. C'est dans ce paysage de ville, et non dans le catalogue du genre, que David Campana croise le public de ce site.",
   )
 ],
   "date_published": "2026-10-13",
@@ -4284,7 +7044,7 @@ PAGES = [
     "Tamillia et Saint-Martin : le single dans le réseau du site",
     [
       "Don’t Care ne vit pas seulement sur cette page. La page <a href=\"/bouyon-saint-martin.html\">Bouyon à Saint-Martin</a> cite Tamillia en réponse à la question de la chanteuse bouyon qui a grandi sur l’île, et renvoie vers DJ Blax pour le titre. La même page présente Saint-Martin d’abord par ses producteurs, au premier rang desquels Denmath, originaire de SXM et installé entre Nantes et Paris : un axe entre l’île et la France que Don’t Care parcourt à son tour, cette fois avec une voix.",
-      "Le chapitre <a href=\"/femmes-du-bouyon.html\">Femmes du bouyon</a> place de son côté Tamillia parmi les voix féminines qui comptent en 2026, aux côtés de Maurane Voyer, Miimii KDS, Shelly et Ebony Empress, dans une partie intitulée Tamillia et Ebony Empress, les voix des riddims. Il résume son parcours en trois mondes que le bouyon traverse sans cesse : l’île néerlandaise et française de Saint-Martin, la télévision française et les riddims caribéens. Don’t Care est le titre par lequel le site la rattache au genre.",
+      "Le chapitre <a href=\"/femmes-du-bouyon.html\">Femmes du bouyon</a> place de son côté Tamillia parmi les voix féminines qui comptent en 2026, aux côtés de Maurane Voyer, Miimii KDS et Ebony Empress, dans une partie intitulée Tamillia et Ebony Empress, les voix des riddims. Il résume son parcours en trois mondes que le bouyon traverse sans cesse : l’île néerlandaise et française de Saint-Martin, la télévision française et les riddims caribéens. Don’t Care est le titre par lequel le site la rattache au genre.",
       "Pour DJ Blax, c’est la collaboration la mieux documentée de sa fiche : une chanteuse et autrice, un coproducteur, John Scorp, et une signature visuelle, @celinemsili, tous imprimés par le distributeur."
     ],
   ),
@@ -4332,6 +7092,30 @@ PAGES = [
   (
     "Où écouter DJ Blax ?",
     "Commencez par Don’t Care, publié par son distributeur sur YouTube le 16 octobre 2026, puis suivez son compte Instagram vérifié, @djblax_kush. Pour le contexte bouyon, la <a href=\"/playlist-bouyon.html\">Bouyon Road Mix</a> de Bouyon Shattaz réunit nouveautés, bouyon soca et classiques du carnaval, et se reçoit en DM en commentant ROAD MIX sur @bouyonshattaz.",
+  ),
+  (
+    "Qui a produit Don't Care de DJ Blax et Tamillia ?",
+    "DJ Blax et John Scorp (@john_scorp), selon les crédits vérifiés de l'annonce du distributeur publiée sur YouTube. Les paroles sont de Tamillia (@tamillia) et les visuels de @celinemsili. Le single est sorti le 16 octobre 2026, et Bouyon Shattaz a construit le même mois, à partir du reel de sortie, un package de couverture de type déclaration.",
+  ),
+  (
+    "Où a été tourné le clip de Don't Care ?",
+    "À St Maarten, la partie néerlandaise de l'île de Saint-Martin, où la chanteuse Tamillia a grandi dans les cultures française et néerlandaise de l'île. Ce choix de tournage donne sa cohérence au single : il relie Paris, où DJ Blax est basé, à Saint-Martin, l'île de Tamillia, en un seul titre. Voir <a href=\"/bouyon-saint-martin.html\">bouyon à Saint-Martin</a>.",
+  ),
+  (
+    "Tamillia est-elle une chanteuse bouyon ?",
+    "Ce site la rattache au bouyon par Don't Care. La page Bouyon à Saint-Martin cite Tamillia en réponse à la question de la chanteuse bouyon qui a grandi sur l'île, et le chapitre Femmes du bouyon la place parmi les voix féminines qui comptent en 2026, aux côtés de Maurane Voyer, Miimii KDS et Ebony Empress, en résumant son parcours : Saint-Martin, la télévision française et les riddims caribéens.",
+  ),
+  (
+    "Que signifie PVRIS dans la biographie de DJ Blax ?",
+    "C'est Paris, avec le A stylisé : sa biographie Instagram affiche INTERNATIONAL DJ FROM PVRIS. Le mot international décrit son activité de DJ, pas une origine floue, et la longue rangée de drapeaux de cette même biographie liste des lieux de passage et de performance. Il faut le lire comme un artiste basé à Paris qui joue dans de nombreux endroits.",
+  ),
+  (
+    "Le Dj Blax crédité sur des titres de rap français est-il le même DJ Blax ?",
+    "C'est possible, mais pas prouvé. Cinq titres de rap français impriment Dj Blax ou DJ Blax dans leurs crédits d'auteur ou de compositeur, dont Comprends pas (2022) et trois titres de l'album SHOOTER CLAN. Ils appartiennent au même écosystème de labels que John Scorp, le coproducteur vérifié de Don't Care : un indice, pas une preuve, et la page le dit comme tel.",
+  ),
+  (
+    "Comment contacter ou booker DJ Blax ?",
+    "Sa biographie Instagram indique un contact professionnel via @tchang_s. Son compte vérifié, @djblax_kush, comptait 5 735 abonnés au contrôle du 17 octobre 2026, et la même biographie le présente comme DJ, producteur et directeur artistique basé à Paris. Aucune date de set, aucun club ni festival précis ne figure encore dans nos dossiers, malgré les drapeaux de sa biographie.",
   )
 ],
   "date_published": "2026-10-09",
@@ -4455,6 +7239,30 @@ PAGES = [
   (
     "Où écouter ou voir Tallyboy ?",
     "Ses titres sont sur les plateformes de streaming, et son compte Instagram est @tallyboypondmic_758. Selon les guides writeups24 et Sweet TNT, un Tally Boy figure à l’affiche de la Nuit 2 du World Creole Music Festival, le 24 octobre 2026 à Roseau. Pour le contexte, la <a href=\"/playlist-bouyon.html\">playlist bouyon ROAD MIX</a> réunit bouyon et bouyon soca.",
+  ),
+  (
+    "Tallyboy et les Tolly Boys, est-ce la même chose ?",
+    "Non. YMW Tolly Boys, avec un o, est le label publié sur les titres de Wizito et le cercle de Tolly Boy's YMW, autour de Youry Fleming, documentés sur notre profil <a href=\"/bernard-gumbs-wizito.html\">Bernard Gumbs (Wizito)</a>. Tallyboy, avec un a, est un autre artiste, d'une autre île, Sainte-Lucie, avec un autre catalogue, et aucun titre du cercle Tolly Boys n'est rattaché à sa page.",
+  ),
+  (
+    "Tallyboy joue-t-il au World Creole Music Festival 2026 ?",
+    "Un Tally Boy, écrit en deux mots, est annoncé. Un guide writeups24 le cite parmi les invités du DYP Band de Sainte-Lucie, et les guides writeups24 et Sweet TNT placent la Nuit 2, le samedi 24 octobre 2026 au Windsor Park de Roseau, avec Ne-Yo, Alkaline, Asa Bantan, Reo, Trilla G, <a href=\"/edday.html\">Edday</a>, DYP et Tally Boy. Le nom et l'île concordent, mais aucune autre source ne confirme qu'il s'agit de lui.",
+  ),
+  (
+    "Que signifie le 758 dans le nom Instagram de Tallyboy ?",
+    "Le 758 est l'indicatif téléphonique de Sainte-Lucie, et dans son adresse, @tallyboypondmic_758, il fonctionne comme une signature : l'île est dans le nom même sous lequel le public le suit. Dans les Caraïbes, ces indicatifs sont devenus des codes d'appartenance que les artistes affichent comme des drapeaux ; son reel d'octobre 2026 identifie d'ailleurs @mikadoo972, 972 étant l'indicatif de la Martinique.",
+  ),
+  (
+    "Le Dennery Segment est-il du bouyon ?",
+    "Non. Le Dennery Segment est le son soca de Sainte-Lucie né dans la commune de Dennery, dans la vallée de la Mabouya, bâti sur des rythmes venus du kuduro angolais, du zouk et des percussions luciennes, avec des paroles en créole. C'est une cousine lucienne du bouyon, pas une branche du genre dominicain. Nos dossiers ne classent d'ailleurs aucun titre de Tallyboy dans un genre précis. Voir le profil <a href=\"/real-reel.html\">Real Reel</a>.",
+  ),
+  (
+    "Qu'est-ce que More Long de Tallyboy ?",
+    "More Long est un single de 2025 sur le Caralax Riddim, crédité en featuring à « Tallyboy (MKG) ». Cette mention MKG correspond à la ligne MKG 4L de sa biographie Instagram et à son second compte, @tallyboymkg_758 : un recoupement par les crédits qui rattache le titre au même artiste. La fiche ne donne ni l'artiste principal ni le producteur du riddim.",
+  ),
+  (
+    "Pourquoi le bouyon est-il populaire à Sainte-Lucie ?",
+    "Sainte-Lucie est l'île créolophone la plus proche de la Dominique : les publics de Roseau et de Castries partagent la langue et le goût de la fête, et les titres voyagent d'un carnaval à l'autre. Le bouyon soca, lancé en Dominique par Dada en 2003 selon Smokiller, y a beaucoup grandi, et des mixes comme ROAD MONSTER P.1 alignent soca, Dennery Segment et bouyon. Voir <a href=\"/bouyon-sainte-lucie.html\">bouyon à Sainte-Lucie</a>.",
   )
 ],
   "date_published": "2026-10-12",
@@ -4575,6 +7383,30 @@ PAGES = [
   (
     "Où écouter Kkrytical ?",
     "Ses titres sont sur les plateformes de streaming, où nos sources ont vérifié Friends Turn Enemies, Luv Eh Gad, Survivor, Hustla et Asphalt. Son compte Instagram officiel est @kkryticalofficial. Pour entendre ce que le dancehall a laissé dans le bouyon, la <a href=\"/playlist-bouyon.html\">playlist bouyon ROAD MIX</a> de Bouyon Shattaz rassemble le bouyon d’aujourd’hui sur Spotify et YouTube.",
+  ),
+  (
+    "Quel est le vrai nom de Kkrytical ?",
+    "Kkrytical est né Ronald Longmore, à Waterford, un quartier de Portmore, en Jamaïque, et a grandi entre Portmore et Clarendon. Son dossier de presse officiel, l'EPK daté de juillet 2024, présente ces lieux, et sa biographie Instagram le décrit comme artiste international, auteur-compositeur et compositeur. Kkrytical est le nom de scène que suit le public, sur @kkryticalofficial.",
+  ),
+  (
+    "Quelle est la chanson la plus connue de Kkrytical ?",
+    "Neva Cap, que son dossier de presse officiel présente comme son single de percée, en citant Carib Star Radio qui le décrit comme un hymne dancehall de New York. Cette formule résume son positionnement : un artiste jamaïcain dont le titre de référence est salué comme un hymne de la scène dancehall new-yorkaise. Sa date de sortie n'est pas encore vérifiée dans nos dossiers.",
+  ),
+  (
+    "Les albums de Kkrytical ont-ils été classés ?",
+    "Oui, selon son EPK officiel de juillet 2024, qui liste deux albums avec leur classement iTunes : Hustle, Sex, and Betrayal, album de 2022, classé numéro 7, et Underrated, album de 2024, classé numéro 14. Ce site rapporte ces chiffres avec leur source, le dossier de l'artiste lui-même, et n'ajoute aucun chiffre de ventes que ce dossier ne donne pas.",
+  ),
+  (
+    "Kkrytical a-t-il participé à Magnum King and Queen ?",
+    "Oui. Son dossier de presse officiel cite Magnum King and Queen, le concours jamaïcain des artistes dancehall émergents, comme un fait de carrière antérieur à son départ. Cette étape est typique d'un parcours dancehall, et elle précède son émigration aux États-Unis à 21 ans, puis son installation à New York, sans rompre le lien avec la Jamaïque. Voir <a href=\"/bouyon-muffin.html\">bouyon-muffin</a> pour ce que le dancehall a laissé au bouyon.",
+  ),
+  (
+    "Quels sont les derniers titres de Kkrytical ?",
+    "Trois singles suivent ses deux albums classés : Survivor en 2025, puis Hustla et Asphalt en 2026. Le 16 octobre 2026, un reel affichant 3 792 mentions j'aime et 216 commentaires a annoncé de la nouvelle musique ; son titre n'est pas vérifié dans nos dossiers, et rien ne dit s'il s'agit de Hustla, d'Asphalt ou d'un autre titre.",
+  ),
+  (
+    "Comment booker Kkrytical ?",
+    "Sa biographie Instagram indique les réservations via @showtime_services. Son compte officiel, @kkryticalofficial, comptait 34 310 abonnés au contrôle du 17 octobre 2026, la plus large audience des cinq artistes de cette série de pages, et la biographie le présente comme artiste international, auteur-compositeur et compositeur basé à New York. Voir <a href=\"/bouyon-diaspora.html\">bouyon et diaspora</a> pour la place de New York.",
   )
 ],
   "date_published": "2026-10-07",

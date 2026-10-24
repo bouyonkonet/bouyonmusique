@@ -61,13 +61,51 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est C4, l’artiste de ce profil ?", "C4 est l’artiste crédité comme invité et coproducteur sur « We Not Going Home », le titre bouyon de BRG Hollywood, artiste de Sint Maarten. Shazam publie les crédits du titre, sorti le 31 octobre 2025 chez BankrollGang : BRG Hollywood aux voix, Jaheim M Meyers comme auteur compositeur, et C4 comme coproducteur. Aucune source publique consultée ne donne le nom complet ni l’origine de C4."),
-  ("Quel record We Not Going Home a-t-il établi ?", "Le 1er juin 2026, la presse de Sint Maarten a rapporté que le Premier ministre, le Dr Luc Mercelina, félicitait BRG Hollywood pour être devenu le premier artiste de musique du côté néerlandais de Sint Maarten à atteindre un million de vues sur YouTube, avec « We Not Going Home », avec C4. Le record appartient à l’artiste principal, BRG Hollywood, et C4 y est attaché comme invité et coproducteur crédité."),
-  ("C4 est-il le producteur américain C4, ou C4 Pedro ?", "Non. Le producteur américain C4, venu d’Augusta et basé à Atlanta, est documenté par HotNewHipHop pour ses titres avec T.I. et Young Thug, et son nom vient d’une note de piano. C4 Pedro est un chanteur angolais de kizomba, de son vrai nom Pedro Henrique Lisboa Santos, né à Luanda en 1983. Le C4 de ce profil n’est ni l’un ni l’autre : c’est uniquement le nom crédité sur le titre de BRG Hollywood."),
-  ("C4 a-t-il sorti des titres en solo ?", "Aucun titre solo de C4 n’est documenté par les sources consultées pour ce profil, ni album, ni EP, ni deuxième collaboration dans le circuit bouyon. Le seul enregistrement vérifié est « We Not Going Home » avec BRG Hollywood, repris aussi en version live dans les mixes bouyon de Blaqrose Supreme en 2026. Si un catalogue solo existe ou paraît, ce profil sera mis à jour."),
-  ("C4 vient-il de Sint Maarten ?", "Ce n’est pas établi. Les sources consultées ne publient ni l’origine ni la base de C4. Sint Maarten est l’île de BRG Hollywood, l’artiste principal du titre, et le record du million de vues est un record de cette île. Ce profil ne déduit pas l’origine du coproducteur de celle de l’artiste principal : la question reste ouverte, et elle est écrite comme telle."),
-  ("Où écouter C4 ?", "Sur « We Not Going Home », de BRG Hollywood avec C4, sorti le 31 octobre 2025 chez BankrollGang, et dans les mixes bouyon 2026 de Blaqrose Supreme, où le titre apparaît en version live aux côtés de Ridge, 1t1 et Trilla-G. Notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> permet ensuite d’élargir au bouyon de la Dominique et de la Caraïbe.")
- ],
+  (
+    "Qui est C4, l’artiste de ce profil ?",
+    "C4 est l’artiste crédité comme invité et coproducteur sur « We Not Going Home », le titre bouyon de BRG Hollywood, artiste de Sint Maarten. Shazam publie les crédits du titre, sorti le 31 octobre 2025 chez BankrollGang : BRG Hollywood aux voix, Jaheim M Meyers comme auteur compositeur, et C4 comme coproducteur. Aucune source publique consultée ne donne le nom complet ni l’origine de C4.",
+  ),
+  (
+    "Quel record We Not Going Home a-t-il établi ?",
+    "Le 1er juin 2026, la presse de Sint Maarten a rapporté que le Premier ministre, le Dr Luc Mercelina, félicitait BRG Hollywood pour être devenu le premier artiste de musique du côté néerlandais de Sint Maarten à atteindre un million de vues sur YouTube, avec « We Not Going Home », avec C4. Le record appartient à l’artiste principal, BRG Hollywood, et C4 y est attaché comme invité et coproducteur crédité.",
+  ),
+  (
+    "C4 est-il le producteur américain C4, ou C4 Pedro ?",
+    "Non. Le producteur américain C4, venu d’Augusta et basé à Atlanta, est documenté par HotNewHipHop pour ses titres avec T.I. et Young Thug, et son nom vient d’une note de piano. C4 Pedro est un chanteur angolais de kizomba, de son vrai nom Pedro Henrique Lisboa Santos, né à Luanda en 1983. Le C4 de ce profil n’est ni l’un ni l’autre : c’est uniquement le nom crédité sur le titre de BRG Hollywood.",
+  ),
+  (
+    "C4 a-t-il sorti des titres en solo ?",
+    "Aucun titre solo de C4 n’est documenté par les sources consultées pour ce profil, ni album, ni EP, ni deuxième collaboration dans le circuit bouyon. Le seul enregistrement vérifié est « We Not Going Home » avec BRG Hollywood, repris aussi en version live dans les mixes bouyon de Blaqrose Supreme en 2026. Si un catalogue solo existe ou paraît, ce profil sera mis à jour.",
+  ),
+  (
+    "C4 vient-il de Sint Maarten ?",
+    "Ce n’est pas établi. Les sources consultées ne publient ni l’origine ni la base de C4. Sint Maarten est l’île de BRG Hollywood, l’artiste principal du titre, et le record du million de vues est un record de cette île. Ce profil ne déduit pas l’origine du coproducteur de celle de l’artiste principal : la question reste ouverte, et elle est écrite comme telle.",
+  ),
+  (
+    "Où écouter C4 ?",
+    "Sur « We Not Going Home », de BRG Hollywood avec C4, sorti le 31 octobre 2025 chez BankrollGang, et dans les mixes bouyon 2026 de Blaqrose Supreme, où le titre apparaît en version live aux côtés de Ridge, 1t1 et Trilla-G. Pour suivre le bouyon du moment, commentez ROAD MIX sous une publication de @bouyonshattaz sur Instagram, ou ouvrez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>.",
+  ),
+  (
+    "Qui est BRG Hollywood, l’artiste principal de We Not Going Home ?",
+    "BRG Hollywood, de son vrai nom Jaheim Meyers, est un artiste bouyon de Sint Maarten, la partie néerlandaise de l’île de Saint-Martin. Ses singles paraissent sur le label BankrollGang, et il figure parmi les finalistes du prix d’artiste bouyon de l’année aux Caribbean Music Awards 2026, remporté par Mr Ridge. « We Not Going Home », avec C4, est son titre record. Voir notre page <a href=\"/brg-hollywood.html\">BRG Hollywood</a>.",
+  ),
+  (
+    "Qui a écrit et produit We Not Going Home ?",
+    "Selon les crédits publiés par Shazam, l’écriture revient à Jaheim M Meyers seul, BRG Hollywood tient les voix, et C4 est nommé coproducteur dans la section production et ingénierie. C4 n’est donc pas crédité comme auteur du titre : son travail se situe du côté du son et de la construction du morceau, en plus de sa présence d’artiste invité dans l’intitulé « feat. C4 ».",
+  ),
+  (
+    "Quand We Not Going Home est-il sorti ?",
+    "Le 31 octobre 2025, sur le label BankrollGang, selon la page du titre sur Shazam, qui relève un tempo de 160 BPM, le tempo rapide du bouyon moderne. Quelques mois plus tard, le 1er juin 2026, la presse de Sint Maarten annonçait que le titre avait fait de BRG Hollywood le premier artiste du côté néerlandais de l’île à atteindre un million de vues sur YouTube.",
+  ),
+  (
+    "Dans quels mixes bouyon entend-on We Not Going Home ?",
+    "Les listes de titres du podcast de Blaqrose Supreme placent « We Not Going Home » de BRG Hollywood et C4, en version live, dans deux mixes de 2026 : le Bouyon Mix Pt2 et le Bouyon Freestyle Mix. Le titre y côtoie Ridge, 1t1, Trilla-G, Signal Band, Gwada G et DJ Taffy. Notre page <a href=\"/bouyon-mix.html\">bouyon mix</a> explique pourquoi ces tracklists servent de radio officieuse au genre.",
+  ),
+  (
+    "Comment trouver le bon C4 sur les plateformes ?",
+    "Cherchez le titre plutôt que le nom seul : « We Not Going Home », de BRG Hollywood avec C4, sorti chez BankrollGang. Le nom C4 est partagé par un producteur d’Atlanta, le chanteur angolais C4 Pedro, le groupe parisien Bana C4, un artiste reggae argentin et un rappeur britannique. Un titre publié sous le seul nom C4, sans lien avec BRG Hollywood, BankrollGang ou Sint Maarten, appartient vraisemblablement à un homonyme.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/c4.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/c4.html#artist", "name": "C4", "description": "Artiste crédité comme invité et coproducteur sur We Not Going Home de BRG Hollywood, titre bouyon de Sint Maarten sorti le 31 octobre 2025 chez BankrollGang, devenu en 2026 le premier titre d’un artiste du côté néerlandais de Sint Maarten à atteindre un million de vues sur YouTube. Nom complet et origine non publiés dans les sources consultées.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "We Not Going Home"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -126,13 +164,51 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is C4, the artist of this profile?", "C4 is the artist credited as featured artist and co-producer on “We Not Going Home”, the bouyon record by BRG Hollywood, an artist from Sint Maarten. Shazam publishes the credits of the track, released on October 31, 2025 on BankrollGang: BRG Hollywood on vocals, Jaheim M Meyers as songwriter, and C4 as co-producer. No public source consulted gives the full name or the origin of C4."),
-  ("What record did We Not Going Home set?", "On June 1, 2026, the Sint Maarten press reported that Prime Minister Dr. Luc Mercelina congratulated BRG Hollywood on becoming the first music artist from the Dutch side of Sint Maarten to reach one million views on YouTube, with “We Not Going Home”, featuring C4. The record belongs to the lead artist, BRG Hollywood, and C4 is attached to it as credited featured artist and co-producer."),
-  ("Is C4 the American producer C4, or C4 Pedro?", "No. The American producer C4, from Augusta and based in Atlanta, is documented by HotNewHipHop for his records with T.I. and Young Thug, and his name comes from a piano note. C4 Pedro is an Angolan kizomba singer, real name Pedro Henrique Lisboa Santos, born in Luanda in 1983. The C4 of this profile is neither: he is only the name credited on the BRG Hollywood record."),
-  ("Has C4 released solo records?", "No solo C4 record is documented by the sources consulted for this profile, no album, no EP and no second collaboration in the bouyon circuit. The one verified recording is “We Not Going Home” with BRG Hollywood, also carried in a live version in the 2026 bouyon mixes of Blaqrose Supreme. If a solo catalogue exists or appears, this profile will be updated."),
-  ("Is C4 from Sint Maarten?", "That is not established. The sources consulted publish neither the origin nor the base of C4. Sint Maarten is the island of BRG Hollywood, the lead artist of the track, and the million view milestone is a record of that island. This profile does not deduce the origin of the co-producer from that of the lead artist: the question stays open, and it is written as such."),
-  ("Where can I hear C4?", "On “We Not Going Home”, by BRG Hollywood featuring C4, released on October 31, 2025 on BankrollGang, and in the 2026 bouyon mixes of Blaqrose Supreme, where the track appears in a live version alongside Ridge, 1t1 and Trilla-G. Our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> then opens the door to the bouyon of Dominica and the Caribbean.")
- ],
+  (
+    "Who is C4, the artist of this profile?",
+    "C4 is the artist credited as featured artist and co-producer on “We Not Going Home”, the bouyon record by BRG Hollywood, an artist from Sint Maarten. Shazam publishes the credits of the track, released on October 31, 2025 on BankrollGang: BRG Hollywood on vocals, Jaheim M Meyers as songwriter, and C4 as co-producer. No public source consulted gives the full name or the origin of C4.",
+  ),
+  (
+    "What record did We Not Going Home set?",
+    "On June 1, 2026, the Sint Maarten press reported that Prime Minister Dr. Luc Mercelina congratulated BRG Hollywood on becoming the first music artist from the Dutch side of Sint Maarten to reach one million views on YouTube, with “We Not Going Home”, featuring C4. The record belongs to the lead artist, BRG Hollywood, and C4 is attached to it as credited featured artist and co-producer.",
+  ),
+  (
+    "Is C4 the American producer C4, or C4 Pedro?",
+    "No. The American producer C4, from Augusta and based in Atlanta, is documented by HotNewHipHop for his records with T.I. and Young Thug, and his name comes from a piano note. C4 Pedro is an Angolan kizomba singer, real name Pedro Henrique Lisboa Santos, born in Luanda in 1983. The C4 of this profile is neither: he is only the name credited on the BRG Hollywood record.",
+  ),
+  (
+    "Has C4 released solo records?",
+    "No solo C4 record is documented by the sources consulted for this profile, no album, no EP and no second collaboration in the bouyon circuit. The one verified recording is “We Not Going Home” with BRG Hollywood, also carried in a live version in the 2026 bouyon mixes of Blaqrose Supreme. If a solo catalogue exists or appears, this profile will be updated.",
+  ),
+  (
+    "Is C4 from Sint Maarten?",
+    "That is not established. The sources consulted publish neither the origin nor the base of C4. Sint Maarten is the island of BRG Hollywood, the lead artist of the track, and the million view milestone is a record of that island. This profile does not deduce the origin of the co-producer from that of the lead artist: the question stays open, and it is written as such.",
+  ),
+  (
+    "Where can I hear C4?",
+    "On “We Not Going Home”, by BRG Hollywood featuring C4, released on 31 October 2025 on BankrollGang, and in the 2026 bouyon mixes of Blaqrose Supreme, where the track appears in a live version alongside Ridge, 1t1 and Trilla-G. To follow today’s bouyon, comment ROAD MIX under an @bouyonshattaz post on Instagram, or open our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>.",
+  ),
+  (
+    "Who is BRG Hollywood, the lead artist of We Not Going Home?",
+    "BRG Hollywood, real name Jaheim Meyers, is a bouyon artist from Sint Maarten, the Dutch side of the island of Saint Martin. His singles come out on the BankrollGang label, and he is among the finalists for Bouyon Artist of the Year at the Caribbean Music Awards 2026, won by Mr Ridge. “We Not Going Home”, with C4, is his record-setting track. See our <a href=\"/en/brg-hollywood.html\">BRG Hollywood</a> page.",
+  ),
+  (
+    "Who wrote and produced We Not Going Home?",
+    "According to the credits published by Shazam, the writing is by Jaheim M Meyers alone, BRG Hollywood is on vocals, and C4 is named co-producer in the production and engineering section. C4 is therefore not credited as a writer of the track: the work sits on the side of the sound and the building of the record, on top of the featured artist billing in the title “feat. C4”.",
+  ),
+  (
+    "When was We Not Going Home released?",
+    "On 31 October 2025, on the BankrollGang label, according to the track’s Shazam page, which lists a tempo of 160 BPM, the fast tempo of modern bouyon. A few months later, on 1 June 2026, the Sint Maarten press reported that the track had made BRG Hollywood the first artist from the Dutch side of the island to reach one million views on YouTube.",
+  ),
+  (
+    "Which bouyon mixes feature We Not Going Home?",
+    "The tracklists of Blaqrose Supreme’s podcast place “We Not Going Home” by BRG Hollywood and C4, in a live version, in two 2026 mixes: the Bouyon Mix Pt2 and the Bouyon Freestyle Mix. There the track sits alongside Ridge, 1t1, Trilla-G, Signal Band, Gwada G and DJ Taffy. Our <a href=\"/en/bouyon-mix.html\">bouyon mix</a> page explains why these tracklists work as the genre’s unofficial radio.",
+  ),
+  (
+    "How do you find the right C4 on the platforms?",
+    "Search for the track rather than the name alone: “We Not Going Home”, by BRG Hollywood featuring C4, released on BankrollGang. The name C4 is shared by an Atlanta producer, Angolan singer C4 Pedro, the Paris group Bana C4, an Argentine reggae act and a British rapper. A record released under the name C4 alone, with no link to BRG Hollywood, BankrollGang or Sint Maarten, most likely belongs to a namesake.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/c4.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/c4.html#artist", "name": "C4", "description": "Artist credited as featured artist and co-producer on We Not Going Home by BRG Hollywood, a bouyon record from Sint Maarten released on October 31, 2025 on BankrollGang, which in 2026 became the first record by an artist from the Dutch side of Sint Maarten to reach one million views on YouTube. Full name and origin not published in the sources consulted.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "We Not Going Home"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

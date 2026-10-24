@@ -78,13 +78,63 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Mopao Mumu ?", "Mopao Mumu est une autrice compositrice interprète basée à Montréal, née à Kinshasa, en République démocratique du Congo, et élevée en Afrique du Sud. Son nom d’autrice est Stephanie Tsumbu, qui signe les textes de presque tous ses titres. Selon PHI, elle est basée à Montréal depuis 2011 et a lancé sa carrière en 2020 avec le single Take Me. Sa musique mélange soul, R&B et afrobeat."),
-  ("D’où vient le nom Mopao Mumu ?", "Selon sa biographie publiée par Music In Africa, Mopao est un hommage à Koffi Olomidé, icône congolaise surnommée Mopao, et Mumu un clin d’œil à son deuxième prénom. La même biographie cite ses inspirations : les pionnières congolaises Mbilia Bel, Tshala Muana et Abeti Maskini. Dans son entretien à la SOCAN, elle cite aussi Papa Wemba, Fally Ipupa, Wizkid et Burna Boy."),
-  ("Quel est le rapport entre Mopao Mumu et le bouyon ?", "Un rapport de producteur, pas de genre. Son single COLLIDE, paru le 11 juillet 2025 chez PS23 et L’ART SUFFIT, est crédité à la production à HypnoticBeatz, le producteur documenté sur ce site sous le nom de HYPNO pour son bouyon, et à la composition à Yannick Cabald. Aucune source ne présente Mopao Mumu comme une artiste bouyon, et ce profil ne le fait pas non plus."),
-  ("Quels sont les disques principaux de Mopao Mumu ?", "Le single Take Me, le 30 octobre 2020, puis la voix invitée sur Woman de Nico de Andrea et Andrew Pololos, le 17 septembre 2021. L’EP Spring to Summer, six titres chez PS23 et L’ART SUFFIT, le 30 septembre 2022. Les singles Sail en 2023, ALWAYS et Time Machine en 2024. Puis l’album COLLIDE, onze titres, le 12 septembre 2025, précédé des singles COLLIDE et LIKKLE."),
-  ("Mopao Mumu a-t-elle gagné un prix au Gala Dynastie ?", "Ce profil ne l’affirme pas. Le magazine de la SOCAN la compte parmi les quatre musiciens nommés dans la catégorie Découverte de l’année du Gala Dynastie, et le compte rendu du gala confirme sa prestation à Dynastie Unplugged le 24 avril 2024. Aucune source ouverte pour cette recherche ne donne le palmarès final de cette catégorie, donc seule la nomination est publiée ici."),
-  ("Où Mopao Mumu s’est-elle produite à Montréal ?", "Les sources ouvertes nomment l’Ausgang Plaza, le Belmont et le Balattou selon PHI, le Festival international de jazz de Montréal en 2023 selon Music In Africa et le programme du festival, un concert gratuit au Studio TD le lendemain de Dynastie Unplugged en avril 2024 selon la SOCAN, et un concert en tête d’affiche au Studio TD en 2024, présenté comme complet par sa biographie. Elle a aussi été artiste en résidence PHI North en 2024.")
- ],
+  (
+    "Qui est Mopao Mumu ?",
+    "Mopao Mumu est une autrice compositrice interprète basée à Montréal, née à Kinshasa, en République démocratique du Congo, et élevée en Afrique du Sud. Son nom d’autrice est Stephanie Tsumbu, qui signe les textes de presque tous ses titres. Selon PHI, elle est basée à Montréal depuis 2011 et a lancé sa carrière en 2020 avec le single Take Me. Sa musique mélange soul, R&B et afrobeat.",
+  ),
+  (
+    "D’où vient le nom Mopao Mumu ?",
+    "Selon sa biographie publiée par Music In Africa, Mopao est un hommage à Koffi Olomidé, icône congolaise surnommée Mopao, et Mumu un clin d’œil à son deuxième prénom. La même biographie cite ses inspirations : les pionnières congolaises Mbilia Bel, Tshala Muana et Abeti Maskini. Dans son entretien à la SOCAN, elle cite aussi Papa Wemba, Fally Ipupa, Wizkid et Burna Boy.",
+  ),
+  (
+    "Quel est le rapport entre Mopao Mumu et le bouyon ?",
+    "Un rapport de producteur, pas de genre. Son single COLLIDE, paru le 11 juillet 2025 chez PS23 et L’ART SUFFIT, est crédité à la production à HypnoticBeatz, le producteur documenté sur ce site sous le nom de HYPNO pour son bouyon, et à la composition à Yannick Cabald. Aucune source ne présente Mopao Mumu comme une artiste bouyon, et ce profil ne le fait pas non plus.",
+  ),
+  (
+    "Quels sont les disques principaux de Mopao Mumu ?",
+    "Le single Take Me, le 30 octobre 2020, puis la voix invitée sur Woman de Nico de Andrea et Andrew Pololos, le 17 septembre 2021. L’EP Spring to Summer, six titres chez PS23 et L’ART SUFFIT, le 30 septembre 2022. Les singles Sail en 2023, ALWAYS et Time Machine en 2024. Puis l’album COLLIDE, onze titres, le 12 septembre 2025, précédé des singles COLLIDE et LIKKLE.",
+  ),
+  (
+    "Mopao Mumu a-t-elle gagné un prix au Gala Dynastie ?",
+    "Ce profil ne l’affirme pas. Le magazine de la SOCAN la compte parmi les quatre musiciens nommés dans la catégorie Découverte de l’année du Gala Dynastie, et le compte rendu du gala confirme sa prestation à Dynastie Unplugged le 24 avril 2024. Aucune source ouverte pour cette recherche ne donne le palmarès final de cette catégorie, donc seule la nomination est publiée ici.",
+  ),
+  (
+    "Où Mopao Mumu s’est-elle produite à Montréal ?",
+    "Les sources ouvertes nomment l’Ausgang Plaza, le Belmont et le Balattou selon PHI, le Festival international de jazz de Montréal en 2023 selon Music In Africa et le programme du festival, un concert gratuit au Studio TD le lendemain de Dynastie Unplugged en avril 2024 selon la SOCAN, et un concert en tête d’affiche au Studio TD en 2024, présenté comme complet par sa biographie. Elle a aussi été artiste en résidence PHI North en 2024.",
+  ),
+  (
+    "Mopao Mumu est-elle congolaise ou sud-africaine ?",
+    "Les sources racontent un parcours en trois lieux : née à Kinshasa, en République démocratique du Congo, où elle passe sa petite enfance, elle grandit en Afrique du Sud, où sa famille s’installe juste avant l’an 2000 et où elle reste jusqu’à 18 ans, puis elle vient à Montréal pour des études de mathématiques et d’économie. Elle y est basée depuis 2011 selon PHI.",
+  ),
+  (
+    "Qui a produit COLLIDE de Mopao Mumu ?",
+    "HypnoticBeatz, selon les crédits de la playlist Qobuz où figure le titre, avec Yannick Cabald à la composition. La fiche Deezer du single donne comme auteurs Yannick Cabald, Stephanie Tsumbu et Shanti Pierce. Sorti le 11 juillet 2025 chez PS23 et L’ART SUFFIT, le titre dure deux minutes dix-sept. Voir <a href=\"/hypno.html\">HYPNO</a>.",
+  ),
+  (
+    "Qu’est-ce que l’album COLLIDE de Mopao Mumu ?",
+    "Son premier album, onze titres sortis le 12 septembre 2025 chez PS23 et L’ART SUFFIT, classé soul par Qobuz : « COLLIDE », « OH NO », « FALL II WINTER », « SAD GIRL DISCO », « TIME MACHINE », « MAMOU II » avec Kar33m, « LIKKLE », « ALWAYS », « GOUT NA GOUT », « SUKALI » et « NDULE ». Stephanie Tsumbu en signe les textes sur les onze titres.",
+  ),
+  (
+    "Qui est Stephanie Tsumbu ?",
+    "C’est le nom d’autrice de Mopao Mumu, crédité dès son premier single, « Take Me », en 2020, puis sur presque tout son catalogue, des six titres de Spring to Summer aux onze titres de l’album COLLIDE. Ce nom fait de son catalogue un catalogue d’autrice autant que d’interprète, et il apparaît aussi dans ses crédits d’écriture pour d’autres artistes.",
+  ),
+  (
+    "En quelles langues chante Mopao Mumu ?",
+    "En anglais surtout, langue de « Take Me » et de la plupart de ses titres, avec du lingala : sur « Woman », elle chante un passage en lingala où elle dit rester elle-même, rester Mopao. Le Festival international Nuits d’Afrique de Montréal la dit à l’aise en français, en anglais et en lingala, sa langue maternelle selon cette page.",
+  ),
+  (
+    "Qu’est-ce que l’EP Spring to Summer de Mopao Mumu ?",
+    "Son premier projet long, sorti le 30 septembre 2022 chez PS23 et L’ART SUFFIT, classé R&B par Qobuz : six titres, « Daily », « Holla », « Slow », « Rain », « Suga Candy » et « Lelo », tous écrits par Stephanie Tsumbu, avec des compositeurs différents d’un titre à l’autre. « Holla » et « Slow » l’avaient précédé en singles en août et septembre 2022.",
+  ),
+  (
+    "Avec quels artistes Mopao Mumu a-t-elle collaboré ?",
+    "Avec des producteurs de musique électronique et afro : Nico de Andrea et Andrew Pololos sur « Woman » en 2021, VONDA7 sur « Till The Morning » en 2023, Kaysha et le projet Dfresh Banger en 2024. Les sources citent aussi Pierre Kwenders, DJ Karaba et Lou Phelps, de la scène afro électronique de Montréal, et Kar33m sur « MAMOU II ».",
+  ),
+  (
+    "Quel est le lien entre Mopao Mumu et Malko ?",
+    "Un atelier commun, visible dans les crédits. Le compositeur Yannick Cabald et le producteur HypnoticBeatz, réunis sur « COLLIDE » de Mopao Mumu, travaillent aussi ensemble sur les titres de <a href=\"/malko.html\">Malko</a> produits par Hypnotic Beatz, sur 30°, SAHARA et Émotionnellement indisponible. Les deux artistes montréalais ne partagent aucun titre documenté : leur lien passe par ce studio.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/mopao-mumu.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/mopao-mumu.html#artist", "name": "Mopao Mumu", "description": "Autrice compositrice interprète basée à Montréal, née à Kinshasa et élevée en Afrique du Sud, nom d’autrice Stephanie Tsumbu. Soul, R&B et afrobeat : Take Me en 2020, l’EP Spring to Summer en 2022, l’album COLLIDE en 2025, dont le titre éponyme est produit par HypnoticBeatz, le producteur documenté sur ce site comme HYPNO. Elle n’est pas une artiste bouyon.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Take Me'}, {"@type": "MusicRecording", "name": 'Woman'}, {"@type": "MusicRecording", "name": 'Daily'}, {"@type": "MusicRecording", "name": 'Holla'}, {"@type": "MusicRecording", "name": 'Slow'}, {"@type": "MusicRecording", "name": 'Rain'}, {"@type": "MusicRecording", "name": 'Suga Candy'}, {"@type": "MusicRecording", "name": 'Lelo'}, {"@type": "MusicRecording", "name": 'Sail'}, {"@type": "MusicRecording", "name": 'Mamou'}, {"@type": "MusicRecording", "name": 'ALWAYS'}, {"@type": "MusicRecording", "name": 'TIME MACHINE'}, {"@type": "MusicRecording", "name": 'COLLIDE'}, {"@type": "MusicRecording", "name": 'OH NO'}, {"@type": "MusicRecording", "name": 'FALL II WINTER'}, {"@type": "MusicRecording", "name": 'SAD GIRL DISCO'}, {"@type": "MusicRecording", "name": 'MAMOU II'}, {"@type": "MusicRecording", "name": 'LIKKLE'}, {"@type": "MusicRecording", "name": 'GOUT NA GOUT'}, {"@type": "MusicRecording", "name": 'SUKALI'}, {"@type": "MusicRecording", "name": 'NDULE'}, {"@type": "MusicRecording", "name": 'Bina'}], "sameAs": ["https://www.deezer.com/en/artist/111616232", "https://www.qobuz.com/ie-en/interpreter/mopao-mumu/9269158"]}}],
  "date_modified": "2026-10-20"
 }
@@ -156,13 +206,63 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Mopao Mumu?", "Mopao Mumu is a singer songwriter based in Montreal, born in Kinshasa, in the Democratic Republic of Congo, and raised in South Africa. Her writer name is Stephanie Tsumbu, who signs the lyrics of almost all her records. According to PHI, she has been based in Montreal since 2011 and launched her career in 2020 with the single Take Me. Her music blends soul, R&B and Afrobeat."),
-  ("Where does the name Mopao Mumu come from?", "According to her biography published by Music In Africa, Mopao is a homage to Koffi Olomidé, the Congolese icon nicknamed Mopao, and Mumu a nod to her middle name. The same biography names her inspirations: the Congolese pioneers Mbilia Bel, Tshala Muana and Abeti Maskini. In her SOCAN interview, she also names Papa Wemba, Fally Ipupa, Wizkid and Burna Boy."),
-  ("What is the link between Mopao Mumu and bouyon?", "A producer link, not a genre link. Her single COLLIDE, released on July 11, 2025 on PS23 and L’ART SUFFIT, is credited on production to HypnoticBeatz, the producer documented on this site as HYPNO for his bouyon, and on composition to Yannick Cabald. No source presents Mopao Mumu as a bouyon artist, and this profile does not either."),
-  ("What are the main Mopao Mumu records?", "The single Take Me, on October 30, 2020, then the guest voice on Woman by Nico de Andrea and Andrew Pololos, on September 17, 2021. The EP Spring to Summer, six records on PS23 and L’ART SUFFIT, on September 30, 2022. The singles Sail in 2023, ALWAYS and Time Machine in 2024. Then the album COLLIDE, eleven records, on September 12, 2025, preceded by the singles COLLIDE and LIKKLE."),
-  ("Did Mopao Mumu win a Gala Dynastie award?", "This profile does not claim that. SOCAN Magazine counts her among the four musicians nominated in the Discovery of the Year category of the Gala Dynastie, and the gala report confirms her performance at Dynastie Unplugged on April 24, 2024. No source opened for this research gives the final winners list of that category, so only the nomination is published here."),
-  ("Where has Mopao Mumu performed in Montreal?", "The opened sources name Ausgang Plaza, Belmont and Balattou according to PHI, the Montreal International Jazz Festival in 2023 according to Music In Africa and the festival program, a free Studio TD concert the day after Dynastie Unplugged in April 2024 according to SOCAN, and a Studio TD headline concert in 2024, presented as sold out by her biography. She was also a PHI North residency artist in 2024.")
- ],
+  (
+    "Who is Mopao Mumu?",
+    "Mopao Mumu is a singer songwriter based in Montreal, born in Kinshasa, in the Democratic Republic of Congo, and raised in South Africa. Her writer name is Stephanie Tsumbu, who signs the lyrics of almost all her records. According to PHI, she has been based in Montreal since 2011 and launched her career in 2020 with the single Take Me. Her music blends soul, R&B and Afrobeat.",
+  ),
+  (
+    "Where does the name Mopao Mumu come from?",
+    "According to her biography published by Music In Africa, Mopao is a homage to Koffi Olomidé, the Congolese icon nicknamed Mopao, and Mumu a nod to her middle name. The same biography names her inspirations: the Congolese pioneers Mbilia Bel, Tshala Muana and Abeti Maskini. In her SOCAN interview, she also names Papa Wemba, Fally Ipupa, Wizkid and Burna Boy.",
+  ),
+  (
+    "What is the link between Mopao Mumu and bouyon?",
+    "A producer link, not a genre link. Her single COLLIDE, released on July 11, 2025 on PS23 and L’ART SUFFIT, is credited on production to HypnoticBeatz, the producer documented on this site as HYPNO for his bouyon, and on composition to Yannick Cabald. No source presents Mopao Mumu as a bouyon artist, and this profile does not either.",
+  ),
+  (
+    "What are the main Mopao Mumu records?",
+    "The single Take Me, on October 30, 2020, then the guest voice on Woman by Nico de Andrea and Andrew Pololos, on September 17, 2021. The EP Spring to Summer, six records on PS23 and L’ART SUFFIT, on September 30, 2022. The singles Sail in 2023, ALWAYS and Time Machine in 2024. Then the album COLLIDE, eleven records, on September 12, 2025, preceded by the singles COLLIDE and LIKKLE.",
+  ),
+  (
+    "Did Mopao Mumu win a Gala Dynastie award?",
+    "This profile does not claim that. SOCAN Magazine counts her among the four musicians nominated in the Discovery of the Year category of the Gala Dynastie, and the gala report confirms her performance at Dynastie Unplugged on April 24, 2024. No source opened for this research gives the final winners list of that category, so only the nomination is published here.",
+  ),
+  (
+    "Where has Mopao Mumu performed in Montreal?",
+    "The opened sources name Ausgang Plaza, Belmont and Balattou according to PHI, the Montreal International Jazz Festival in 2023 according to Music In Africa and the festival program, a free Studio TD concert the day after Dynastie Unplugged in April 2024 according to SOCAN, and a Studio TD headline concert in 2024, presented as sold out by her biography. She was also a PHI North residency artist in 2024.",
+  ),
+  (
+    "Is Mopao Mumu Congolese or South African?",
+    "The sources tell a path through three places: born in Kinshasa, in the Democratic Republic of Congo, where she spent her early childhood, she grew up in South Africa, where her family moved just before the turn of the millennium and where she stayed until 18, then she came to Montreal for studies in mathematics and economics. She has been based there since 2011 according to PHI.",
+  ),
+  (
+    "Who produced COLLIDE by Mopao Mumu?",
+    "HypnoticBeatz, according to the credits of the Qobuz playlist where the record appears, with Yannick Cabald on composition. The Deezer single page gives Yannick Cabald, Stephanie Tsumbu and Shanti Pierce as writers. Released on July 11, 2025 on PS23 and L’ART SUFFIT, the record runs two minutes seventeen. See <a href=\"/en/hypno.html\">HYPNO</a>.",
+  ),
+  (
+    "What is Mopao Mumu's album COLLIDE?",
+    "Her first album, eleven records released on September 12, 2025 on PS23 and L’ART SUFFIT, classified as soul by Qobuz: “COLLIDE”, “OH NO”, “FALL II WINTER”, “SAD GIRL DISCO”, “TIME MACHINE”, “MAMOU II” with Kar33m, “LIKKLE”, “ALWAYS”, “GOUT NA GOUT”, “SUKALI” and “NDULE”. Stephanie Tsumbu writes the lyrics on all eleven.",
+  ),
+  (
+    "Who is Stephanie Tsumbu?",
+    "It is the writer name of Mopao Mumu, credited from her first single, “Take Me”, in 2020, then on almost her whole catalog, from the six records of Spring to Summer to the eleven of the COLLIDE album. That name makes her catalog a writer catalog as much as a singer catalog, and it also appears in her writing credits for other artists.",
+  ),
+  (
+    "What languages does Mopao Mumu sing in?",
+    "Mostly English, the language of “Take Me” and most of her records, with Lingala: on “Woman”, she sings a Lingala passage where she says she stays herself, she stays Mopao. The Festival International Nuits d’Afrique de Montréal says she is at ease in French, English and Lingala, her native language according to that page.",
+  ),
+  (
+    "What is Mopao Mumu's EP Spring to Summer?",
+    "Her first long project, released on September 30, 2022 on PS23 and L’ART SUFFIT, classified as R&B by Qobuz: six records, “Daily”, “Holla”, “Slow”, “Rain”, “Suga Candy” and “Lelo”, all written by Stephanie Tsumbu, with different composers from one record to the next. “Holla” and “Slow” preceded it as singles in August and September 2022.",
+  ),
+  (
+    "Who has Mopao Mumu collaborated with?",
+    "With electronic and afro producers: Nico de Andrea and Andrew Pololos on “Woman” in 2021, VONDA7 on “Till The Morning” in 2023, Kaysha and the Dfresh Banger project in 2024. The sources also name Pierre Kwenders, DJ Karaba and Lou Phelps, from the Montreal afro electronic scene, and Kar33m on “MAMOU II”.",
+  ),
+  (
+    "What is the link between Mopao Mumu and Malko?",
+    "A shared workshop, visible in the credits. Composer Yannick Cabald and producer HypnoticBeatz, together on Mopao Mumu's “COLLIDE”, also work together on the <a href=\"/en/malko.html\">Malko</a> records produced by Hypnotic Beatz, on 30°, SAHARA and Émotionnellement indisponible. The two Montreal artists share no documented record: their link runs through that studio.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/mopao-mumu.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/mopao-mumu.html#artist", "name": "Mopao Mumu", "description": "Singer songwriter based in Montreal, born in Kinshasa and raised in South Africa, writer name Stephanie Tsumbu. Soul, R&B and Afrobeat: Take Me in 2020, the Spring to Summer EP in 2022, the COLLIDE album in 2025, whose title record is produced by HypnoticBeatz, the producer documented on this site as HYPNO. She is not a bouyon artist.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Take Me'}, {"@type": "MusicRecording", "name": 'Woman'}, {"@type": "MusicRecording", "name": 'Daily'}, {"@type": "MusicRecording", "name": 'Holla'}, {"@type": "MusicRecording", "name": 'Slow'}, {"@type": "MusicRecording", "name": 'Rain'}, {"@type": "MusicRecording", "name": 'Suga Candy'}, {"@type": "MusicRecording", "name": 'Lelo'}, {"@type": "MusicRecording", "name": 'Sail'}, {"@type": "MusicRecording", "name": 'Mamou'}, {"@type": "MusicRecording", "name": 'ALWAYS'}, {"@type": "MusicRecording", "name": 'TIME MACHINE'}, {"@type": "MusicRecording", "name": 'COLLIDE'}, {"@type": "MusicRecording", "name": 'OH NO'}, {"@type": "MusicRecording", "name": 'FALL II WINTER'}, {"@type": "MusicRecording", "name": 'SAD GIRL DISCO'}, {"@type": "MusicRecording", "name": 'MAMOU II'}, {"@type": "MusicRecording", "name": 'LIKKLE'}, {"@type": "MusicRecording", "name": 'GOUT NA GOUT'}, {"@type": "MusicRecording", "name": 'SUKALI'}, {"@type": "MusicRecording", "name": 'NDULE'}, {"@type": "MusicRecording", "name": 'Bina'}], "sameAs": ["https://www.deezer.com/en/artist/111616232", "https://www.qobuz.com/ie-en/interpreter/mopao-mumu/9269158"]}}],
  "date_modified": "2026-10-20"
 }

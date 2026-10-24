@@ -63,14 +63,97 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est Cocotteland ?", "Le dossier public ne le dit pas encore. Cocotteland est un nom d’artiste des Antilles françaises documenté par deux titres vérifiés : « I Don’t Know », de DJ Leguste avec Cocotteland en featuring, sorti le 11 avril 2024, et « Gwo Dada », son single en nom propre avec Natoxie et Mikado, sorti le 28 mars 2025. Aucune biographie, interview ou page officielle de l’artiste n’a été trouvée pendant la recherche de ce profil."),
-  ("Quels sont les titres vérifiés de Cocotteland ?", "Deux titres seulement sont établis par les référencements de plateformes : « I Don’t Know » (DJ Leguste feat. Cocotteland, 11 avril 2024, label DJ Leguste) et « Gwo Dada » (Cocotteland feat. Natoxie et Mikado, 28 mars 2025, label Natoxie, clip réalisé par Maza Creatives selon RadioVideo.Music). Aucun album de Cocotteland n’est référencé dans les sources ouvertes à la date de ce profil."),
-  ("« Gwo Dada » a-t-il un lien avec Dada, le producteur du bouyon soca ?", "Aucun lien documenté. Dada est le producteur dominicain qui, selon le témoignage signé de Smokiller publié sur ce site, a lancé le bouyon soca en Dominique en 2003. Pour « Gwo Dada » de Cocotteland, aucun crédit, aucune page de label et aucun article trouvé ne mentionne Dada ni la Dominique : la ressemblance des titres est une coïncidence que ce profil signale au lieu de la transformer en filiation."),
-  ("D’où vient Cocotteland ?", "Ce n’est pas publié de manière vérifiable. La seule notice éditoriale trouvée, celle de RadioVideo.Music sur « Gwo Dada », parle d’influences de Guadeloupe et de Martinique et d’un héritage des Antilles françaises pour le titre, pas d’une ville ou d’une île d’origine pour l’artiste. Ce profil décrit donc Cocotteland comme un nom des Antilles françaises, sans préciser davantage."),
-  ("Qui a écrit « I Don’t Know » ?", "La page du titre chez Shazam crédite Ryan Auguste et Djénaé Castelneau à la composition et aux paroles. Le premier nom renvoie visiblement à DJ Leguste, l’artiste principal. Pour le second, aucune source trouvée ne confirme qu’il s’agit de la personne qui chante sous le nom de Cocotteland, donc ce profil publie le crédit sans l’assigner comme identité de l’artiste."),
-  ("Où écouter Cocotteland ?", "Sur les plateformes qui référencent les deux titres : « Gwo Dada » chez le label Natoxie, avec son clip officiel, et « I Don’t Know » chez DJ Leguste. Pour replacer ces productions dans le courant du genre, notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> suit le bouyon de la Dominique à ses branches des Antilles françaises.")
- ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/cocotteland.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/cocotteland.html#artist", "name": "Cocotteland", "description": "Nom d’artiste des Antilles françaises documenté par deux titres vérifiés : Gwo Dada avec Natoxie et Mikado (2025) et I Don’t Know avec DJ Leguste (2024). Aucune biographie publique vérifiée à la date de ce profil.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Gwo Dada"}, {"@type": "MusicRecording", "name": "I Don't Know"}], "sameAs": []}}],
+  (
+    "Qui est Cocotteland ?",
+    "Le dossier public ne le dit pas encore. Cocotteland est un nom d’artiste des Antilles françaises documenté par deux titres vérifiés : « I Don’t Know », de DJ Leguste avec Cocotteland en featuring, sorti le 11 avril 2024, et « Gwo Dada », son single en nom propre avec Natoxie et Mikado, sorti le 28 mars 2025. Aucune biographie, interview ou page officielle de l’artiste n’a été trouvée pendant la recherche de ce profil.",
+  ),
+  (
+    "Quels sont les titres vérifiés de Cocotteland ?",
+    "Deux titres seulement sont établis par les référencements de plateformes : « I Don’t Know » (DJ Leguste feat. Cocotteland, 11 avril 2024, label DJ Leguste) et « Gwo Dada » (Cocotteland feat. Natoxie et Mikado, 28 mars 2025, label Natoxie, clip réalisé par Maza Creatives selon RadioVideo.Music). Aucun album de Cocotteland n’est référencé dans les sources ouvertes à la date de ce profil.",
+  ),
+  (
+    "« Gwo Dada » a-t-il un lien avec Dada, le producteur du bouyon soca ?",
+    "Aucun lien documenté. Dada est le producteur dominicain qui, selon le témoignage signé de Smokiller publié sur ce site, a lancé le bouyon soca en Dominique en 2003. Pour « Gwo Dada » de Cocotteland, aucun crédit, aucune page de label et aucun article trouvé ne mentionne Dada ni la Dominique : la ressemblance des titres est une coïncidence que ce profil signale au lieu de la transformer en filiation.",
+  ),
+  (
+    "D’où vient Cocotteland ?",
+    "Ce n’est pas publié de manière vérifiable. La seule notice éditoriale trouvée, celle de RadioVideo.Music sur « Gwo Dada », parle d’influences de Guadeloupe et de Martinique et d’un héritage des Antilles françaises pour le titre, pas d’une ville ou d’une île d’origine pour l’artiste. Ce profil décrit donc Cocotteland comme un nom des Antilles françaises, sans préciser davantage.",
+  ),
+  (
+    "Qui a écrit « I Don’t Know » ?",
+    "La page du titre chez Shazam crédite Ryan Auguste et Djénaé Castelneau à la composition et aux paroles. Le premier nom renvoie visiblement à DJ Leguste, l’artiste principal. Pour le second, aucune source trouvée ne confirme qu’il s’agit de la personne qui chante sous le nom de Cocotteland, donc ce profil publie le crédit sans l’assigner comme identité de l’artiste.",
+  ),
+  (
+    "Où écouter Cocotteland ?",
+    "Sur les plateformes qui référencent les deux titres : « Gwo Dada » chez le label Natoxie, avec son clip officiel, et « I Don’t Know » chez DJ Leguste. Pour replacer ces productions dans le courant du genre, notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> suit le bouyon de la Dominique à ses branches des Antilles françaises.",
+  ),
+  (
+    "Quel est le premier titre de Cocotteland ?",
+    "La première apparition vérifiable du nom est « I Don’t Know », de DJ Leguste avec Cocotteland en featuring, sorti le 11 avril 2024 sur le label DJ Leguste, à 160 BPM. Le single en nom propre, « Gwo Dada », suit le 28 mars 2025. C’est la trajectoire classique des voix émergentes de la scène antillaise actuelle : d’abord invitée chez un producteur établi, puis en tête d’affiche quand la première apparition a fonctionné.",
+  ),
+  (
+    "Qui est DJ Leguste, avec qui Cocotteland chante I Don’t Know ?",
+    "DJ Leguste est un producteur et DJ de la scène bouyon des Antilles françaises, rattaché dans les crédits publics à la Guadeloupe. Il publie un catalogue régulier de singles, presque tous en collaboration et presque tous à 160 BPM, sous son propre label. Ses crédits d’auteur portent le nom Ryan Auguste, le même que sur « I Don’t Know ». Voir notre page <a href=\"/dj-leguste.html\">DJ Leguste</a>.",
+  ),
+  (
+    "Qui sont Natoxie et Mikado, les invités de Gwo Dada ?",
+    "Natoxie est présenté par RadioVideo.Music comme beatmaker, DJ, acteur et danseur, et son nom sert aussi de label à « Gwo Dada » comme à d’autres titres de la scène, dont « Coucoune aw doux » avec Mikado, TKD et Masly, sorti le 21 avril 2022. Mikado est référencé par les plateformes comme compositeur et producteur prolifique de singles antillais récents. Leur présence situe Cocotteland dans un entourage de studio professionnel.",
+  ),
+  (
+    "De quoi parle Gwo Dada de Cocotteland ?",
+    "Selon la notice de RadioVideo.Music, la seule description éditoriale trouvée, « Gwo Dada » est un titre en créole qui filtre l’héritage des Antilles françaises à travers un prisme caribéen, appuyé sur des influences de Guadeloupe et de Martinique, avec des rythmes enlevés et des paroles qui oscillent entre célébration et observation ironique. Aucune source vérifiable ne publie le texte du titre, et ce profil ne le décrit pas au-delà.",
+  ),
+  (
+    "Qui a réalisé le clip de Gwo Dada ?",
+    "Le clip de « Gwo Dada » est réalisé par Maza Creatives, selon RadioVideo.Music, qui l’a retenu en mars 2025 dans sa sélection de nouveaux clips Music For The Dancers. Il est publié sous le titre « Cocotteland Ft Natoxie et Mikado, Gwo Dada (Clip Officiel) ». Ce clip est, avec les deux fiches de titres, l’une des rares pièces vérifiables du dossier public de Cocotteland.",
+  ),
+  (
+    "Cocotteland fait-il du bouyon ou du shatta ?",
+    "Ses deux titres appartiennent aux productions rapides des Antilles françaises, entre bouyon et shatta, et tous deux sont référencés à 160 BPM, le tempo de croisière du bouyon gwada moderne. Aucune source ne classe l’artiste plus précisément, et ce profil s’en tient à ces faits. La frontière entre ces deux sons, et ce qui les distingue, est expliquée sur notre page <a href=\"/bouyon-ou-shatta.html\">bouyon ou shatta</a>.",
+  )
+],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/cocotteland.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/cocotteland.html#artist", "name": "Cocotteland", "description": "Nom d’artiste des Antilles françaises documenté par deux titres vérifiés : Gwo Dada avec Natoxie et Mikado (2025) et I Don’t Know avec DJ Leguste (2024). Aucune biographie publique vérifiée à la date de ce profil.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Gwo Dada"}, {"@type": "MusicRecording", "name": "I Don't Know"},
+      {
+       "@type": "MusicRecording",
+       "name": "Doro"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Prada"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "4X4"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Top shatta"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LA COTE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tout Koté"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Vite fait"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TETRIS"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SIWO (feat. Cocotteland)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "NI ANLÈY NI A KOTÉ (feat. Cocotteland)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -131,13 +214,96 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is Cocotteland?", "The public record does not say yet. Cocotteland is an artist name from the French Antilles documented by two verified records: “I Don’t Know”, by DJ Leguste with Cocotteland featured, released on April 11, 2024, and “Gwo Dada”, its lead single with Natoxie and Mikado, released on March 28, 2025. No biography, interview or official artist page was found during the research for this profile."),
-  ("What are Cocotteland verified records?", "Only two records are established by platform listings: “I Don’t Know” (DJ Leguste feat. Cocotteland, April 11, 2024, DJ Leguste label) and “Gwo Dada” (Cocotteland feat. Natoxie and Mikado, March 28, 2025, Natoxie label, video directed by Maza Creatives according to RadioVideo.Music). No Cocotteland album is listed in the open sources at the date of this profile."),
-  ("Is “Gwo Dada” connected to Dada, the bouyon soca producer?", "No documented connection. Dada is the Dominican producer who, according to the signed testimony of Smokiller published on this site, started bouyon soca in Dominica in 2003. For Cocotteland “Gwo Dada”, no credit, label page or article found mentions Dada or Dominica: the resemblance of the titles is a coincidence this profile flags instead of turning into a lineage."),
-  ("Where is Cocotteland from?", "It is not published in any verifiable way. The only editorial notice found, the RadioVideo.Music piece on “Gwo Dada”, speaks of Guadeloupe and Martinique influences and a French Antillean heritage for the record, not of a town or island of origin for the artist. This profile therefore describes Cocotteland as a name from the French Antilles, without specifying further."),
-  ("Who wrote “I Don’t Know”?", "The song page at Shazam credits Ryan Auguste and Djenae Castelneau with composition and lyrics. The first name visibly points to DJ Leguste, the lead artist. For the second, no source found confirms that it is the person who sings under the name Cocotteland, so this profile publishes the credit without assigning it as the artist identity."),
-  ("Where can I hear Cocotteland?", "On the platforms that list the two records: “Gwo Dada” on the Natoxie label, with its official video, and “I Don’t Know” with DJ Leguste. To place these productions inside the current of the genre, our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> follows bouyon from Dominica to its French Antilles branches.")
- ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/cocotteland.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/cocotteland.html#artist", "name": "Cocotteland", "description": "Artist name from the French Antilles documented by two verified records: Gwo Dada with Natoxie and Mikado (2025) and I Don’t Know with DJ Leguste (2024). No verified public biography at the date of this profile.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Gwo Dada"}, {"@type": "MusicRecording", "name": "I Don't Know"}], "sameAs": []}}],
+  (
+    "Who is Cocotteland?",
+    "The public record does not say yet. Cocotteland is an artist name from the French Antilles documented by two verified records: “I Don’t Know”, by DJ Leguste with Cocotteland featured, released on April 11, 2024, and “Gwo Dada”, its lead single with Natoxie and Mikado, released on March 28, 2025. No biography, interview or official artist page was found during the research for this profile.",
+  ),
+  (
+    "What are Cocotteland verified records?",
+    "Only two records are established by platform listings: “I Don’t Know” (DJ Leguste feat. Cocotteland, April 11, 2024, DJ Leguste label) and “Gwo Dada” (Cocotteland feat. Natoxie and Mikado, March 28, 2025, Natoxie label, video directed by Maza Creatives according to RadioVideo.Music). No Cocotteland album is listed in the open sources at the date of this profile.",
+  ),
+  (
+    "Is “Gwo Dada” connected to Dada, the bouyon soca producer?",
+    "No documented connection. Dada is the Dominican producer who, according to the signed testimony of Smokiller published on this site, started bouyon soca in Dominica in 2003. For Cocotteland “Gwo Dada”, no credit, label page or article found mentions Dada or Dominica: the resemblance of the titles is a coincidence this profile flags instead of turning into a lineage.",
+  ),
+  (
+    "Where is Cocotteland from?",
+    "It is not published in any verifiable way. The only editorial notice found, the RadioVideo.Music piece on “Gwo Dada”, speaks of Guadeloupe and Martinique influences and a French Antillean heritage for the record, not of a town or island of origin for the artist. This profile therefore describes Cocotteland as a name from the French Antilles, without specifying further.",
+  ),
+  (
+    "Who wrote “I Don’t Know”?",
+    "The song page at Shazam credits Ryan Auguste and Djenae Castelneau with composition and lyrics. The first name visibly points to DJ Leguste, the lead artist. For the second, no source found confirms that it is the person who sings under the name Cocotteland, so this profile publishes the credit without assigning it as the artist identity.",
+  ),
+  (
+    "Where can I hear Cocotteland?",
+    "On the platforms that list the two records: “Gwo Dada” on the Natoxie label, with its official video, and “I Don’t Know” with DJ Leguste. To place these productions inside the current of the genre, our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> follows bouyon from Dominica to its French Antilles branches.",
+  ),
+  (
+    "What is Cocotteland’s first record?",
+    "The first verifiable appearance of the name is “I Don’t Know”, by DJ Leguste featuring Cocotteland, released on 11 April 2024 on the DJ Leguste label, at 160 BPM. The single under the artist’s own name, “Gwo Dada”, followed on 28 March 2025. It is the classic path of emerging voices on today’s French Caribbean scene: first a guest of an established producer, then the headliner once the first appearance has worked.",
+  ),
+  (
+    "Who is DJ Leguste, with whom Cocotteland sings I Don’t Know?",
+    "DJ Leguste is a producer and DJ of the French Caribbean bouyon scene, tied to Guadeloupe in public credits. He releases a steady catalogue of singles, almost all collaborations and almost all at 160 BPM, under his own label. His songwriting credits carry the name Ryan Auguste, the same as on “I Don’t Know”. See our <a href=\"/en/dj-leguste.html\">DJ Leguste</a> page.",
+  ),
+  (
+    "Who are Natoxie and Mikado, the guests on Gwo Dada?",
+    "RadioVideo.Music presents Natoxie as a beatmaker, DJ, actor and dancer, and his name is also the label of “Gwo Dada” and of other records from the scene, including “Coucoune aw doux” with Mikado, TKD and Masly, released on 21 April 2022. Mikado is listed by the platforms as a prolific composer and producer of recent French Caribbean singles. Their presence places Cocotteland within a professional studio circle.",
+  ),
+  (
+    "What is Gwo Dada by Cocotteland about?",
+    "According to the RadioVideo.Music notice, the only editorial description found, “Gwo Dada” is a Creole track that filters the heritage of the French Caribbean through a Caribbean lens, leaning on Guadeloupe and Martinique influences, with upbeat rhythms and lyrics that swing between celebration and wry observation. No verifiable source publishes the lyrics, and this profile does not describe them any further.",
+  ),
+  (
+    "Who directed the Gwo Dada music video?",
+    "The “Gwo Dada” video is directed by Maza Creatives, according to RadioVideo.Music, which picked it in March 2025 for its Music For The Dancers selection of new videos. It is published under the title “Cocotteland Ft Natoxie et Mikado, Gwo Dada (Clip Officiel)”. Together with the two track pages, this video is one of the few verifiable pieces of Cocotteland’s public record.",
+  ),
+  (
+    "Does Cocotteland make bouyon or shatta?",
+    "Both records belong to the fast productions of the French Caribbean, between bouyon and shatta, and both are listed at 160 BPM, the cruising tempo of modern bouyon gwada. No source classifies the artist more precisely, and this profile sticks to those facts. The line between the two sounds, and what sets them apart, is explained on our <a href=\"/en/bouyon-vs-shatta.html\">bouyon vs shatta</a> page.",
+  )
+],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/cocotteland.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/cocotteland.html#artist", "name": "Cocotteland", "description": "Artist name from the French Antilles documented by two verified records: Gwo Dada with Natoxie and Mikado (2025) and I Don’t Know with DJ Leguste (2024). No verified public biography at the date of this profile.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Gwo Dada"}, {"@type": "MusicRecording", "name": "I Don't Know"},
+      {
+       "@type": "MusicRecording",
+       "name": "Doro"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Prada"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "4X4"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Top shatta"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LA COTE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tout Koté"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Vite fait"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TETRIS"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SIWO (feat. Cocotteland)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "NI ANLÈY NI A KOTÉ (feat. Cocotteland)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

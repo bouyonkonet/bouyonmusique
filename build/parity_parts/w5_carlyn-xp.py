@@ -78,14 +78,393 @@ FR = {
   ]
  ],
  "faq": [
-  ("Pourquoi appelle-t-on Carlyn XP la Bouyon Queen ?", "Parce que la presse caribéenne l’appelle ainsi : Soca News la présente comme la Bouyon Queen dans son article sur les 25 ans du World Creole Music Festival, eMage DM emploie la même appellation, et Richès Karayib l’a utilisée pour son apparition au festival en 2022. C’est un titre attribué par ces sources, fondé sur ses deux victoires consécutives au Bouyon Monarch, et non une couronne officielle. Son album de 2023, « De Bouyon Queen », reprend l’appellation."),
-  ("En quelles années Carlyn XP a-t-elle gagné le Bouyon Monarch ?", "Ses propres biographies officielles ne s’accordent pas sur les dates, et ce profil le dit au lieu de choisir en silence. Sa biographie StageIt la présente comme Bouyon Monarch en titre en 2017, après un gain en 2016, donc deux victoires en 2016 et 2017. Sa page Bandcamp la présente comme en titre en 2018, après un gain en 2017, donc 2017 et 2018. eMage DM confirme le fait central sans trancher l’année de départ : en 2017, elle avait gagné le titre deux années de suite."),
-  ("Carlyn XP était-elle vraiment infirmière ?", "Oui, selon ses biographies et le portrait d’eMage DM. Après le lycée St Martin Secondary, elle a terminé le programme de soins infirmiers du Dominica State College et est devenue infirmière certifiée enregistrée. Elle a chanté en parallèle dans Energy Band dès 2007 et Caribbean Vybes en 2010, puis a choisi la musique à plein temps en 2015, son métier d’infirmière entrant en conflit avec sa vocation."),
-  ("Carlyn XP détient-elle un titre mondial aux dominos ?", "Oui, selon sa biographie StageIt : excellente joueuse de dominos, elle détient le titre de Queen of Domino, obtenu lors du championnat du monde de dominos à Sainte-Lucie en 2010, la même année que sa couronne de Groovy Soca Monarch avec « Music Fever ». eMage DM confirme que les dominos font partie de ses propres remèdes au stress, avec les rounders et ses sessions du dimanche."),
-  ("Qui produit les titres de Carlyn XP ?", "Cornell Phillip, son mari depuis le 30 décembre 2012 selon eMage DM, et un des créateurs du bouyon. Les crédits publiés le montrent partout : auteur avec elle sur « Canavalist » et « Foreigner », et sur le visualizer officiel de « Culture Me Love », il est crédité à la production, à tous les instruments sauf la basse de Keith Goddard, et à l’enregistrement, au mixage et au mastering chez Imperial Publishing, leur structure d’édition."),
-  ("Où écouter Carlyn XP pour commencer ?", "Commencez par les titres que les plateformes et la presse citent le plus : « Bouyon Water », « Bouyon Calling », « Bumpa Scare », « Stranger » et « Foreigner » avec Edday, puis les chansons patriotiques « Raise Your Flags » et « Dominica Strong ». Notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> les replace dans le son de la Dominique d’aujourd’hui.")
- ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/carlyn-xp.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/carlyn-xp.html#artist", "name": "Carlyn XP", "description": "Chanteuse de Roseau, Dominique. Infirmière certifiée devenue artiste à plein temps en 2015, chanteuse principale de Fanatik, Groovy Soca Monarch 2010 et Bouyon Monarch deux années de suite selon ses biographies officielles.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bouyon Water"}, {"@type": "MusicRecording", "name": "Bouyon Calling"}, {"@type": "MusicRecording", "name": "Foreigner"}, {"@type": "MusicRecording", "name": "Bumpa Scare"}, {"@type": "MusicRecording", "name": "Stranger"}, {"@type": "MusicRecording", "name": "Bouyon Army"}, {"@type": "MusicRecording", "name": "Canavalist"}, {"@type": "MusicRecording", "name": "Raise Your Flags"}, {"@type": "MusicRecording", "name": "Dominica Strong"}, {"@type": "MusicRecording", "name": "Music Fever"}, {"@type": "MusicRecording", "name": "Hello"}, {"@type": "MusicRecording", "name": "Nobody"}, {"@type": "MusicRecording", "name": "Ice Cream"}, {"@type": "MusicRecording", "name": "Culture Me Love"}], "sameAs": []}}],
+  (
+    "Pourquoi appelle-t-on Carlyn XP la Bouyon Queen ?",
+    "Parce que la presse caribéenne l’appelle ainsi : Soca News la présente comme la Bouyon Queen dans son article sur les 25 ans du World Creole Music Festival, eMage DM emploie la même appellation, et Richès Karayib l’a utilisée pour son apparition au festival en 2022. C’est un titre attribué par ces sources, fondé sur ses deux victoires consécutives au Bouyon Monarch, et non une couronne officielle. Son album de 2023, « De Bouyon Queen », reprend l’appellation.",
+  ),
+  (
+    "En quelles années Carlyn XP a-t-elle gagné le Bouyon Monarch ?",
+    "Deux années de suite, mais ses biographies officielles ne s’accordent pas sur les dates, et ce profil le dit au lieu de choisir. Sa biographie StageIt donne 2016 et 2017 : Bouyon Monarch en titre en 2017, après un gain en 2016. Sa page Bandcamp donne 2017 et 2018. eMage DM confirme le fait central sans trancher : en 2017, elle avait gagné le titre deux années de suite.",
+  ),
+  (
+    "Carlyn XP était-elle vraiment infirmière ?",
+    "Oui, selon ses biographies et le portrait d’eMage DM. Après le lycée St Martin Secondary, elle a terminé le programme de soins infirmiers du Dominica State College et est devenue infirmière certifiée enregistrée. Elle a chanté en parallèle dans Energy Band dès 2007 et Caribbean Vybes en 2010, puis a choisi la musique à plein temps en 2015, son métier d’infirmière entrant en conflit avec sa vocation.",
+  ),
+  (
+    "Carlyn XP détient-elle un titre mondial aux dominos ?",
+    "Oui, selon sa biographie StageIt : excellente joueuse de dominos, elle détient le titre de Queen of Domino, obtenu lors du championnat du monde de dominos à Sainte-Lucie en 2010, la même année que sa couronne de Groovy Soca Monarch avec « Music Fever ». eMage DM confirme que les dominos font partie de ses propres remèdes au stress, avec les rounders et ses sessions du dimanche.",
+  ),
+  (
+    "Qui produit les titres de Carlyn XP ?",
+    "Cornell Phillip, son mari depuis le 30 décembre 2012 selon eMage DM, et un des créateurs du bouyon. Les crédits publiés le montrent partout : auteur avec elle sur « Canavalist » et « Foreigner », et sur le visualizer officiel de « Culture Me Love », il est crédité à la production, à tous les instruments sauf la basse de Keith Goddard, et à l’enregistrement, au mixage et au mastering chez Imperial Publishing, leur structure d’édition.",
+  ),
+  (
+    "Où écouter Carlyn XP pour commencer ?",
+    "Commencez par les titres que les plateformes et la presse citent le plus : « Bouyon Water », « Bouyon Calling », « Bumpa Scare », « Stranger » et « Foreigner » avec Edday, puis les chansons patriotiques « Raise Your Flags » et « Dominica Strong ». Notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> les replace dans le son de la Dominique d’aujourd’hui.",
+  ),
+  (
+    "Qui est Carlyn XP ?",
+    "Carlyn XP est une chanteuse et auteure de Roseau, en Dominique, que la presse caribéenne appelle la Bouyon Queen, un titre attribué. Ancienne infirmière, chanteuse principale du groupe Fanatik aux côtés de Cornell Phillip, elle a gagné le Groovy Soca Monarch en 2010 puis le Bouyon Monarch deux années de suite. Ses titres, de « Xplicious » (2016) à « Culture Me Love », sont édités chez Imperial Publishing.",
+  ),
+  (
+    "Où a grandi Carlyn XP ?",
+    "À Giraudel, une communauté perchée sur les collines au-dessus de Roseau, en Dominique, connue pour son exposition florale annuelle. Selon eMage DM, elle y a été élevée par son père, a chanté dans le chœur de l’église puis dans Modifé, un groupe local qui fabriquait ses instruments avec des objets de récupération. Elle a ensuite fréquenté le lycée St Martin Secondary avant le Dominica State College.",
+  ),
+  (
+    "Quel est le vrai nom de Carlyn XP ?",
+    "Elle est née Carlyn Vernella Xavier, selon le portrait d’eMage DM, et son nom d’artiste mariée, Carlyn Xavier-Phillip, figure dans les crédits d’écriture de ses titres, comme « Canavalist » et « Foreigner ». Le XP de son nom de scène revient dans toutes ses marques : l’album « Xplicious », la compilation « An Xplicious Christmas », l’émission Keeping it Xplicious et son mot d’ordre de garder les choses XPlicious.",
+  ),
+  (
+    "Qu’est-ce que le groupe Fanatik ?",
+    "Fanatik est le groupe live dont Carlyn XP est la chanteuse principale, aux côtés de Cornell Phillip, producteur et claviériste, un des créateurs du bouyon au sein de WCK. Ses biographies le présentent comme le groupe le plus polyvalent de la Dominique, au répertoire éclectique. Le couple joue aussi en duo, C Squared, dans les bars de campagne et les événements privés. Voir <a href=\"/cornell-phillip.html\">Cornell Phillip</a>.",
+  ),
+  (
+    "Qu’est-ce que Musical Therapy de Carlyn XP ?",
+    "Musical Therapy with Carlyn XP est un rendez-vous hebdomadaire du dimanche lancé en 2020, pendant la pandémie, sur Zoom et Facebook, avec Cornell Phillip. Les fans, surnommés les Zoomers et collectivement la Bouyon Army, s’y connectent depuis la Dominique, le Royaume-Uni ou les États-Unis. L’émission est devenue un espace de sensibilisation à la santé mentale, et ses exclamations, comme « I Wasn’t Ready », sont devenues des signatures.",
+  ),
+  (
+    "Carlyn XP a-t-elle chanté au World Creole Music Festival ?",
+    "Oui. Selon Richès Karayib, l’édition 2022 du World Creole Music Festival a marqué sa première apparition en artiste solo sur la scène du festival, présentée comme la Bouyon queen, aux côtés d’Asa Bantan, de TK International et de WCK. Elle est aussi annoncée parmi les artistes du Ti Vilaj Kwéyòl 2026, la semaine culturelle qui précède le festival à Roseau. Voir le <a href=\"/world-creole-music-festival.html\">World Creole Music Festival</a>.",
+  ),
+  (
+    "Quels sont les albums de Carlyn XP ?",
+    "Les plateformes référencent trois albums : « Xplicious » (2016), dont est tiré « Score (Bouyon Remix) », la compilation « An Xplicious Christmas » (2019) et « De Bouyon Queen » (2023), dont le titre reprend l’appellation que la presse lui donne. Les singles suivent : « Nobody », « Thick Girl Summer » et « Mango Lika » en 2024, « Ice Cream » en 2025, puis « Culture Me Love », présenté comme un bouyon 2027.",
+  ),
+  (
+    "Quelles chansons patriotiques Carlyn XP a-t-elle chantées ?",
+    "eMage DM documente quatre titres : « Raise Your Flags », présenté au concours de chanson de la Domfesta en 2019, « Dominica Strong », enregistré après la tempête tropicale Erika, « Pray for Dominica », titre gagnant du concours Cadencelypso de la NCCU en 2018, et « Like Home », qui parle aux Dominicains de l’étranger. Dans une île frappée par les tempêtes, ces chansons font d’elle une figure civique autant qu’une artiste de carnaval.",
+  ),
+  (
+    "Qui chante Foreigner avec Carlyn XP ?",
+    "Edday, artiste bouyon dont ce site suit aussi le catalogue. « Foreigner » figure parmi les titres les plus écoutés de Carlyn XP sur les plateformes, et Shazam en crédite l’écriture à Carlyn Xavier-Phillip et Cornell Phillip, le duo d’auteurs de la plupart de ses titres. Pour Edday, c’est l’une des collaborations qui structurent son catalogue, à côté de « Si Manman’w té sav » avec Drex et Kevni. Voir notre page <a href=\"/edday.html\">Edday</a>.",
+  )
+],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/carlyn-xp.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/carlyn-xp.html#artist", "name": "Carlyn XP", "description": "Chanteuse de Roseau, Dominique. Infirmière certifiée devenue artiste à plein temps en 2015, chanteuse principale de Fanatik, Groovy Soca Monarch 2010 et Bouyon Monarch deux années de suite selon ses biographies officielles.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bouyon Water"}, {"@type": "MusicRecording", "name": "Bouyon Calling"}, {"@type": "MusicRecording", "name": "Foreigner"}, {"@type": "MusicRecording", "name": "Bumpa Scare"}, {"@type": "MusicRecording", "name": "Stranger"}, {"@type": "MusicRecording", "name": "Bouyon Army"}, {"@type": "MusicRecording", "name": "Canavalist"}, {"@type": "MusicRecording", "name": "Raise Your Flags"}, {"@type": "MusicRecording", "name": "Dominica Strong"}, {"@type": "MusicRecording", "name": "Music Fever"}, {"@type": "MusicRecording", "name": "Hello"}, {"@type": "MusicRecording", "name": "Nobody"}, {"@type": "MusicRecording", "name": "Ice Cream"}, {"@type": "MusicRecording", "name": "Culture Me Love"},
+      {
+       "@type": "MusicRecording",
+       "name": "Thick Girl Summer"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mango Lika"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Check on Me"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cool Me Down (VI Cooler Riddim)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sugar Cane"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Blessed"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Main Chick"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Anywhere You Go (Home)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Juicy"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sweet Wine"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Big Truck"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Accidentally"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Misbehave"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Double Dare"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Iz Dat Dey Like"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sway"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Go Down (Mr. DJ)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Trending"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Trouble (Uber Riddim)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stranger (Smooth Jazz Interpretation)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "#fymf (For You My Fans)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "The Praise"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doh Stress Me out (Mash up De Road)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "2 4 1"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Caribbean Colors"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hallelujah"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Holiday Sing Along"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Have Yourself a Merry Little Christmas"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Raise up a Song"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Santa Coming"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Christmas Feelings"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Christmas Memory"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Twelve Days of Bouyon Christmas"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Holding on to Mama"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Baby Ok (Mabouya Riddim)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Liquor Family"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Face 2 Face"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Come Together"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "More Powder"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Christmas Feeling"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Anou Jouez Cadence"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pray for Dominica"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bouyon Step"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bouyon Wuk"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bbhmm (Bouyon Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "How Many Licks"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Love That Body"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Soca Criminal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "24/7"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "We Will Rise 767"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "A Little Wuk"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Score (Bouyon Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Boldface"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Gimme Dat"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dance with Me"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Big Bad Wolf"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "One Dance"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Far Away"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Like Home"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sélébwé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "C'est Pas Fault Moi"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tan Lavi Wed"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kizomba Na Na"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Aime Moi"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Festival"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mama Twavay"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Back Biters"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Drunk in Love"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Another Love Song"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Our Crown (feat. Tacabelly & Dova)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shake Me Bambalam"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Champion Whiner"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Big Batty"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Grass Not Greener (feat. Carlyn XP)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Without You (Women Response) (feat. Shyanne, Carlyn XP, Ebony Empress & Starsha)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Many Waters (feat. Carlyn XP)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Touch & Go (feat. Carlyn xp)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Always Be My Baby (feat. Carlyn XP)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Now and Forever (feat. Carlyn Xp)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Illegal Whine (feat. Carlyn Xp & Melodee)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Breaking Loose (feat. Carlyn Xp)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -156,13 +535,392 @@ EN = {
   ]
  ],
  "faq": [
-  ("Why is Carlyn XP called the Bouyon Queen?", "Because Caribbean press calls her that: Soca News presents her as the Bouyon Queen in its article on 25 years of the World Creole Music Festival, eMage DM uses the same billing, and Riches Karayib used it for her 2022 festival appearance. It is a title attributed by those sources, grounded in her two consecutive Bouyon Monarch wins, not an official crown. Her 2023 album, “De Bouyon Queen”, takes the billing up."),
-  ("In which years did Carlyn XP win the Bouyon Monarch?", "Her own official style biographies do not agree on the dates, and this profile says so instead of quietly picking one. Her StageIt biography presents her as the reigning Bouyon Monarch in 2017, having won in 2016, so wins in 2016 and 2017. Her Bandcamp page presents her as reigning in 2018, having won in 2017, so 2017 and 2018. eMage DM confirms the central fact without settling the start year: by 2017, she had won the title two years running."),
-  ("Was Carlyn XP really a nurse?", "Yes, according to her biographies and the eMage DM portrait. After St Martin Secondary school, she completed the nursing programme at the Dominica State College and became a Certified Registered Nurse. She sang in parallel, in the Energy Band from 2007 and Caribbean Vybes in 2010, then chose music full time in 2015, as the nursing career conflicted with her calling."),
-  ("Does Carlyn XP hold a world title in dominoes?", "Yes, according to her StageIt biography: an excellent domino player, she holds the title of Queen of Domino, obtained at the World Domino Championship in Saint Lucia in 2010, the same year as her Groovy Soca Monarch crown with “Music Fever”. eMage DM confirms that dominoes are part of her own stress relief, along with rounders and her Sunday sessions."),
-  ("Who produces Carlyn XP records?", "Cornell Phillip, her husband since December 30, 2012 according to eMage DM, and one of the creators of bouyon. Published credits show him everywhere: songwriter with her on “Canavalist” and “Foreigner”, and on the official “Culture Me Love” visualizer he is credited with production, all instruments except Keith Goddard bass, and recording, mixing and mastering at Imperial Publishing, their publishing structure."),
-  ("Where should I start listening to Carlyn XP?", "Start with the records platforms and press cite most: “Bouyon Water”, “Bouyon Calling”, “Bumpa Scare”, “Stranger” and “Foreigner” with Edday, then the patriotic songs “Raise Your Flags” and “Dominica Strong”. Our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> places them inside the sound of Dominica today.")
- ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/carlyn-xp.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/carlyn-xp.html#artist", "name": "Carlyn XP", "description": "Singer from Roseau, Dominica. A Certified Registered Nurse who went full time in music in 2015, lead singer of Fanatik, Groovy Soca Monarch 2010 and Bouyon Monarch two years running according to her official biographies.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bouyon Water"}, {"@type": "MusicRecording", "name": "Bouyon Calling"}, {"@type": "MusicRecording", "name": "Foreigner"}, {"@type": "MusicRecording", "name": "Bumpa Scare"}, {"@type": "MusicRecording", "name": "Stranger"}, {"@type": "MusicRecording", "name": "Bouyon Army"}, {"@type": "MusicRecording", "name": "Canavalist"}, {"@type": "MusicRecording", "name": "Raise Your Flags"}, {"@type": "MusicRecording", "name": "Dominica Strong"}, {"@type": "MusicRecording", "name": "Music Fever"}, {"@type": "MusicRecording", "name": "Hello"}, {"@type": "MusicRecording", "name": "Nobody"}, {"@type": "MusicRecording", "name": "Ice Cream"}, {"@type": "MusicRecording", "name": "Culture Me Love"}], "sameAs": []}}],
+  (
+    "Why is Carlyn XP called the Bouyon Queen?",
+    "Because Caribbean press calls her that: Soca News presents her as the Bouyon Queen in its article on 25 years of the World Creole Music Festival, eMage DM uses the same billing, and Riches Karayib used it for her 2022 festival appearance. It is a title attributed by those sources, grounded in her two consecutive Bouyon Monarch wins, not an official crown. Her 2023 album, “De Bouyon Queen”, takes the billing up.",
+  ),
+  (
+    "In which years did Carlyn XP win the Bouyon Monarch?",
+    "Two years running, but her official biographies disagree on the dates, and this profile says so instead of choosing. Her StageIt biography gives 2016 and 2017: reigning Bouyon Monarch in 2017, after a win in 2016. Her Bandcamp page gives 2017 and 2018. eMage DM confirms the central fact without settling it: by 2017, she had won the title two years in a row.",
+  ),
+  (
+    "Was Carlyn XP really a nurse?",
+    "Yes, according to her biographies and the eMage DM portrait. After St Martin Secondary school, she completed the nursing programme at the Dominica State College and became a Certified Registered Nurse. She sang in parallel, in the Energy Band from 2007 and Caribbean Vybes in 2010, then chose music full time in 2015, as the nursing career conflicted with her calling.",
+  ),
+  (
+    "Does Carlyn XP hold a world title in dominoes?",
+    "Yes, according to her StageIt biography: an excellent domino player, she holds the title of Queen of Domino, obtained at the World Domino Championship in Saint Lucia in 2010, the same year as her Groovy Soca Monarch crown with “Music Fever”. eMage DM confirms that dominoes are part of her own stress relief, along with rounders and her Sunday sessions.",
+  ),
+  (
+    "Who produces Carlyn XP records?",
+    "Cornell Phillip, her husband since December 30, 2012 according to eMage DM, and one of the creators of bouyon. Published credits show him everywhere: songwriter with her on “Canavalist” and “Foreigner”, and on the official “Culture Me Love” visualizer he is credited with production, all instruments except Keith Goddard bass, and recording, mixing and mastering at Imperial Publishing, their publishing structure.",
+  ),
+  (
+    "Where should I start listening to Carlyn XP?",
+    "Start with the records platforms and press cite most: “Bouyon Water”, “Bouyon Calling”, “Bumpa Scare”, “Stranger” and “Foreigner” with Edday, then the patriotic songs “Raise Your Flags” and “Dominica Strong”. Our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> places them inside the sound of Dominica today.",
+  ),
+  (
+    "Who is Carlyn XP?",
+    "Carlyn XP is a singer and songwriter from Roseau, Dominica, whom the Caribbean press calls the Bouyon Queen, an attributed title. A former nurse and lead singer of the band Fanatik alongside Cornell Phillip, she won the Groovy Soca Monarch in 2010 and then the Bouyon Monarch two years running. Her records, from “Xplicious” (2016) to “Culture Me Love”, are published by Imperial Publishing.",
+  ),
+  (
+    "Where did Carlyn XP grow up?",
+    "In Giraudel, a hillside community above Roseau, Dominica, known for its annual flower show. According to eMage DM, she was raised there by her father, sang in the church choir and then in Modifé, a local band that built its instruments from recycled objects. She went on to St Martin Secondary School before Dominica State College.",
+  ),
+  (
+    "What is Carlyn XP’s real name?",
+    "She was born Carlyn Vernella Xavier, according to the eMage DM profile, and her married name as a writer, Carlyn Xavier-Phillip, appears in the songwriting credits of her records, such as “Canavalist” and “Foreigner”. The XP of her stage name runs through all her brands: the album “Xplicious”, the compilation “An Xplicious Christmas”, the show Keeping it Xplicious and her motto of keeping things XPlicious.",
+  ),
+  (
+    "What is the band Fanatik?",
+    "Fanatik is the live band in which Carlyn XP is lead singer, alongside Cornell Phillip, producer and keyboardist, one of the creators of bouyon within WCK. Her biographies present it as Dominica’s most versatile band, with an eclectic repertoire. The couple also play as a duo, C Squared, in country bars and at private events. See <a href=\"/en/cornell-phillip.html\">Cornell Phillip</a>.",
+  ),
+  (
+    "What is Carlyn XP’s Musical Therapy?",
+    "Musical Therapy with Carlyn XP is a weekly Sunday show launched in 2020, during the pandemic, on Zoom and Facebook, with Cornell Phillip. Fans, nicknamed the Zoomers and collectively the Bouyon Army, join from Dominica, the United Kingdom or the United States. The show became a space for mental health awareness, and her exclamations, such as “I Wasn’t Ready”, became signatures.",
+  ),
+  (
+    "Has Carlyn XP performed at the World Creole Music Festival?",
+    "Yes. According to Richès Karayib, the 2022 World Creole Music Festival marked her first appearance as a solo artist on the festival stage, billed as the Bouyon queen, alongside Asa Bantan, TK International and WCK. She is also announced among the artists of Ti Vilaj Kwéyòl 2026, the cultural week before the festival in Roseau. See the <a href=\"/en/world-creole-music-festival.html\">World Creole Music Festival</a>.",
+  ),
+  (
+    "What are Carlyn XP’s albums?",
+    "The platforms list three albums: “Xplicious” (2016), which includes “Score (Bouyon Remix)”, the compilation “An Xplicious Christmas” (2019) and “De Bouyon Queen” (2023), whose title echoes the name the press gives her. Singles follow: “Nobody”, “Thick Girl Summer” and “Mango Lika” in 2024, “Ice Cream” in 2025, then “Culture Me Love”, billed as Bouyon 2027.",
+  ),
+  (
+    "Which patriotic songs has Carlyn XP sung?",
+    "eMage DM documents four: “Raise Your Flags”, her 2019 Domfesta song contest entry, “Dominica Strong”, recorded after Tropical Storm Erika, “Pray for Dominica”, the winning song of the NCCU Cadencelypso competition in 2018, and “Like Home”, which speaks to Dominicans abroad. On an island hit by storms, these songs make her a civic figure as much as a carnival artist.",
+  ),
+  (
+    "Who sings Foreigner with Carlyn XP?",
+    "Edday, a bouyon artist whose catalogue this site also follows. “Foreigner” is among Carlyn XP’s most streamed tracks, and Shazam credits its writing to Carlyn Xavier-Phillip and Cornell Phillip, the writing duo behind most of her records. For Edday, it is one of the collaborations that shape his catalogue, alongside “Si Manman’w té sav” with Drex and Kevni. See our <a href=\"/en/edday.html\">Edday</a> page.",
+  )
+],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/carlyn-xp.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/carlyn-xp.html#artist", "name": "Carlyn XP", "description": "Singer from Roseau, Dominica. A Certified Registered Nurse who went full time in music in 2015, lead singer of Fanatik, Groovy Soca Monarch 2010 and Bouyon Monarch two years running according to her official biographies.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bouyon Water"}, {"@type": "MusicRecording", "name": "Bouyon Calling"}, {"@type": "MusicRecording", "name": "Foreigner"}, {"@type": "MusicRecording", "name": "Bumpa Scare"}, {"@type": "MusicRecording", "name": "Stranger"}, {"@type": "MusicRecording", "name": "Bouyon Army"}, {"@type": "MusicRecording", "name": "Canavalist"}, {"@type": "MusicRecording", "name": "Raise Your Flags"}, {"@type": "MusicRecording", "name": "Dominica Strong"}, {"@type": "MusicRecording", "name": "Music Fever"}, {"@type": "MusicRecording", "name": "Hello"}, {"@type": "MusicRecording", "name": "Nobody"}, {"@type": "MusicRecording", "name": "Ice Cream"}, {"@type": "MusicRecording", "name": "Culture Me Love"},
+      {
+       "@type": "MusicRecording",
+       "name": "Thick Girl Summer"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mango Lika"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Check on Me"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cool Me Down (VI Cooler Riddim)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sugar Cane"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Blessed"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Main Chick"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Anywhere You Go (Home)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Juicy"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sweet Wine"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Big Truck"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Accidentally"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Misbehave"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Double Dare"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Iz Dat Dey Like"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sway"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Go Down (Mr. DJ)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Trending"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Trouble (Uber Riddim)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stranger (Smooth Jazz Interpretation)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "#fymf (For You My Fans)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "The Praise"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doh Stress Me out (Mash up De Road)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "2 4 1"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Caribbean Colors"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hallelujah"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Holiday Sing Along"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Have Yourself a Merry Little Christmas"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Raise up a Song"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Santa Coming"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Christmas Feelings"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Christmas Memory"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Twelve Days of Bouyon Christmas"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Holding on to Mama"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Baby Ok (Mabouya Riddim)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Liquor Family"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Face 2 Face"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Come Together"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "More Powder"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Christmas Feeling"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Anou Jouez Cadence"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pray for Dominica"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bouyon Step"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bouyon Wuk"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bbhmm (Bouyon Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "How Many Licks"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Love That Body"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Soca Criminal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "24/7"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "We Will Rise 767"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "A Little Wuk"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Score (Bouyon Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Boldface"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Gimme Dat"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dance with Me"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Big Bad Wolf"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "One Dance"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Far Away"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Like Home"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sélébwé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "C'est Pas Fault Moi"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tan Lavi Wed"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kizomba Na Na"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Aime Moi"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Festival"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mama Twavay"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Back Biters"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Drunk in Love"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Another Love Song"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Our Crown (feat. Tacabelly & Dova)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shake Me Bambalam"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Champion Whiner"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Big Batty"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Grass Not Greener (feat. Carlyn XP)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Without You (Women Response) (feat. Shyanne, Carlyn XP, Ebony Empress & Starsha)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Many Waters (feat. Carlyn XP)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Touch & Go (feat. Carlyn xp)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Always Be My Baby (feat. Carlyn XP)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Now and Forever (feat. Carlyn Xp)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Illegal Whine (feat. Carlyn Xp & Melodee)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Breaking Loose (feat. Carlyn Xp)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

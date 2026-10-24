@@ -78,13 +78,67 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est DJ MJ ?", "DJ MJ est un DJ bouyon de la Dominique, qui publie sa musique sous le nom DJMJ, sur son label DJMJ ANYWAY. Il a été nommé DJ of the Year aux Dominica Music Awards en janvier 2026 et joue souvent en duo avec le claviériste MV on the Keys."),
-  ("DJ MJ joue-t-il au WCMF 2026 ?", "Oui, selon les guides publiés du World Creole Music Festival 2026, notamment writeups24, DJ MJ joue lors de la Night 1, le vendredi 23 octobre 2026, à Roseau, affiché en duo comme DJ MJ et MV on the Keys, aux côtés de Capleton, Skillibeng, Klass, TK International, Pudaz et Ridge."),
-  ("Qui est MV on the Keys, le partenaire de DJ MJ ?", "MV on the Keys, aussi écrit Mv On De Keys, est le claviériste associé à DJ MJ : il est crédité au piano sur « You Can Do What You Want » et forme avec lui le duo affiché à la Night 1 du WCMF 2026. Leurs titres live, comme « We Outside Tonight Live », circulent dans les mixes bouyon de la saison."),
-  ("Quel est le nom crédité de DJ MJ sur ses sorties ?", "Sur la fiche publiée de « You Can Do What You Want », les crédits nomment Paul DJMJ Jolly aux voix et à l’écriture, avec Kurt Gwada G Douglas à l’écriture et aux harmonies vocales, Mv On De Keys au piano et ThaWizzard à la production. C’est la seule forme de nom complet publiée dans les sources vérifiées de ce profil."),
-  ("Quels titres écouter pour découvrir DJ MJ ?", "Commencez par ses deux sorties documentées : « Work Dat », avec Unstoppable Shax et Blasian Gyal, sorti le 1er février 2025, et « You Can Do What You Want », avec Gwada G, sorti le 24 janvier 2026, tous deux sur le label DJMJ ANYWAY à 160 BPM. Cherchez ensuite ses titres live avec MV on the Keys, comme « Who Can Party Like St Joe », dans les mixes bouyon."),
-  ("DJ MJ et DJMJ sont-ils la même personne ?", "Oui. DJ MJ, avec l’espace, est la forme utilisée par les affiches du festival et par les Dominica Music Awards, tandis que DJMJ, en un mot, est la forme de ses sorties musicales et de son label DJMJ ANYWAY. Les deux orthographes désignent le même DJ bouyon de la Dominique.")
- ],
+  (
+    "Qui est DJ MJ ?",
+    "DJ MJ est un DJ bouyon de la Dominique, qui publie sa musique sous le nom DJMJ, sur son label DJMJ ANYWAY. Il a été nommé DJ of the Year aux Dominica Music Awards en janvier 2026 et joue souvent en duo avec le claviériste MV on the Keys. Ses deux sorties documentées sont « Work Dat » et « You Can Do What You Want » avec Gwada G.",
+  ),
+  (
+    "DJ MJ joue-t-il au WCMF 2026 ?",
+    "Oui, selon les guides publiés du World Creole Music Festival 2026, notamment writeups24, DJ MJ joue lors de la Night 1, le vendredi 23 octobre 2026, au Windsor Park Sports Stadium de Roseau, affiché en duo comme DJ MJ et MV on the Keys, aux côtés de Capleton, Skillibeng, Klass, Maurane Voyer, TK International, Midnight Groovers, Pudaz et Ridge.",
+  ),
+  (
+    "Qui est MV on the Keys, le partenaire de DJ MJ ?",
+    "MV on the Keys, aussi écrit Mv On De Keys, est le claviériste associé à DJ MJ : il est crédité au piano sur « You Can Do What You Want » et forme avec lui le duo affiché à la Night 1 du WCMF 2026. Leurs titres live, comme « We Outside Tonight Live », circulent dans les mixes bouyon de la saison.",
+  ),
+  (
+    "Quel est le nom crédité de DJ MJ sur ses sorties ?",
+    "Sur la fiche publiée de « You Can Do What You Want », les crédits nomment Paul DJMJ Jolly aux voix et à l’écriture, avec Kurt Gwada G Douglas à l’écriture et aux harmonies vocales, Mv On De Keys au piano et ThaWizzard à la production. C’est la seule forme de nom complet publiée dans les sources vérifiées de ce profil.",
+  ),
+  (
+    "Quels titres écouter pour découvrir DJ MJ ?",
+    "Commencez par ses deux sorties documentées : « Work Dat », avec Unstoppable Shax et Blasian Gyal, sorti le 1er février 2025, et « You Can Do What You Want », avec Gwada G, sorti le 24 janvier 2026, tous deux sur le label DJMJ ANYWAY à 160 BPM. Cherchez ensuite ses titres live avec MV on the Keys, comme « Who Can Party Like St Joe », dans les mixes bouyon.",
+  ),
+  (
+    "DJ MJ et DJMJ sont-ils la même personne ?",
+    "Oui. DJ MJ, avec l’espace, est la forme utilisée par les affiches du festival et par les Dominica Music Awards, tandis que DJMJ, en un mot, est la forme de ses sorties musicales et de son label DJMJ ANYWAY. Sur les réseaux, la scène le tague aussi sous le nom Djmj Anyway. Ces orthographes désignent le même DJ bouyon de la Dominique.",
+  ),
+  (
+    "D’où vient DJ MJ ?",
+    "DJ MJ est un DJ bouyon de la Dominique. Sa reconnaissance vient d’abord de chez lui : les Dominica Music Awards l’ont nommé DJ of the Year, les publications de la scène bouyon dominicaine le taguent sous le nom Djmj Anyway, et il est affiché à la première nuit du World Creole Music Festival 2026 à Roseau, avec les artistes de l’île TK International, Midnight Groovers, Pudaz et Ridge.",
+  ),
+  (
+    "DJ MJ a-t-il gagné DJ of the Year aux Dominica Music Awards ?",
+    "Oui. Aux deuxièmes Dominica Music Awards, le samedi 3 janvier 2026 à l’Intercontinental Resort and Spa, DJ MJ a été nommé DJ of the Year, selon le compte rendu de Black Island Girl du 5 janvier 2026. Les finalistes de la catégorie, annoncés le 24 décembre 2025, étaient DJ MJ, DJ Sleem et Unstoppable Shax. La même nuit, Signal Band a remporté six prix.",
+  ),
+  (
+    "Qui a produit « Work Dat » de DJMJ ?",
+    "Selon Shazam, « Work Dat », de DJMJ avec Unstoppable Shax et Blasian Gyal, est produit par <a href=\"/boy-freeze.html\">Fr3EzE</a> et Mv Designs, avec un mastering de WizZarDHouSeRecorDs, le label de ThaWizZarD. L’écriture est créditée aux trois interprètes. Le titre est sorti le 1er février 2025 sur le label DJMJ ANYWAY, à 160 BPM, le tempo rapide du bouyon de fête.",
+  ),
+  (
+    "« Work Dat » ou « Work That » : quel est le bon titre de DJ MJ ?",
+    "Les deux formes existent. La sortie publiée sur les plateformes s’appelle « Work Dat », selon Shazam. La vidéo associée s’intitule « DJMJ LIVE, WORK THAT (BOUYON 2025) », et elle affichait 717 000 vues sur l’étagère populaire de YouTube lors de notre relevé. Ce site cite chaque forme telle que la source l’imprime, sans trancher à la place des plateformes.",
+  ),
+  (
+    "Qu’est-ce que DJMJ ANYWAY ?",
+    "DJMJ ANYWAY est le label de DJ MJ : Shazam y place ses deux sorties documentées, « Work Dat » en février 2025 et « You Can Do What You Want » en janvier 2026. Le même nom sert de nom d’affichage, Djmj Anyway, dans les publications TikTok de la scène bouyon dominicaine qui le taguent. Un label à son nom fait de DJ MJ un artiste qui publie sa propre musique, pas seulement celle des autres.",
+  ),
+  (
+    "Qu’est-ce qu’un free up dans le bouyon de DJ MJ ?",
+    "Un free up est une session libre, souvent live, où un DJ et des musiciens jouent la fête en temps réel : improvisation au clavier, appels à la foule et titres de la saison enchaînés. C’est le terrain du duo de DJ MJ et MV on the Keys, dont les titres portent la marque Live. Le clavier y joue en direct ce que le studio enregistre, comme chez <a href=\"/wck.html\">WCK</a>, qui en a fait l’instrument du bouyon.",
+  ),
+  (
+    "Quel est le lien entre DJ MJ et Gwada G ?",
+    "<a href=\"/gwada-g.html\">Gwada G</a> est l’invité de « You Can Do What You Want », sorti le 24 janvier 2026 : il y chante les harmonies et coécrit le titre sous le nom Kurt Gwada G Douglas, avec Paul DJMJ Jolly. Leurs chemins se croisent aussi sur scène : le 20 octobre 2026, à Ti Vilaj Kwéyòl, le Super Mix de Gwada G et Taffy and Co précède la finale de DJ MJ.",
+  ),
+  (
+    "Où voir DJ MJ en concert en 2026 ?",
+    "Selon Dominica Weekly, DJ MJ assure la finale du Jour 2 de Ti Vilaj Kwéyòl 2026, le mardi 20 octobre à 19 h. Il joue ensuite la Nuit 1 du WCMF, le vendredi 23 octobre à Roseau, avec MV on the Keys. Variety News Group l’annonce aussi, avec MV on the Keys, au lancement de Mas Domnik 2026, le vendredi 28 novembre à The Factory. Voir <a href=\"/mas-domnik.html\">Mas Domnik</a>.",
+  ),
+  (
+    "Quels sont les titres live de DJ MJ ?",
+    "La tracklist du 2026 Bouyon Freestyle Mix de Blaqrose Supreme, publiée en août 2026, compte « We Outside Tonight Live », « Nouveau Vitesse The Carnival Bounce 2026 » et « Pain In Your Leg », crédités à DJ MJ et MV on the Keys, « Who Can Party Like St Joe » de DJMJ seul, et « Can I Grab It », avec Pudaz et Faithii. Ce sont des entrées de tracklist, pas des sorties officielles.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/dj-mj.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/dj-mj.html#artist", "name": "DJ MJ", "description": "DJ bouyon de la Dominique, publiant sous le nom DJMJ sur le label DJMJ ANYWAY. DJ of the Year aux Dominica Music Awards 2026. Programmé à la Night 1 du WCMF 2026 en duo avec MV on the Keys selon les guides publiés.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Work Dat"}, {"@type": "MusicRecording", "name": "You Can Do What You Want"}, {"@type": "MusicRecording", "name": "Who Can Party Like St Joe"}, {"@type": "MusicRecording", "name": "We Outside Tonight"}, {"@type": "MusicRecording", "name": "Can I Grab It"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
@@ -157,13 +211,67 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is DJ MJ?", "DJ MJ is a bouyon DJ from Dominica who releases music as DJMJ, on his label DJMJ ANYWAY. He was named DJ of the Year at the Dominica Music Awards in January 2026 and often plays as a duo with keyboardist MV on the Keys."),
-  ("Is DJ MJ playing WCMF 2026?", "Yes, according to the published World Creole Music Festival 2026 guides, notably writeups24, DJ MJ plays Night 1, on Friday October 23, 2026, in Roseau, billed as the duo DJ MJ and MV on the Keys, alongside Capleton, Skillibeng, Klass, TK International, Pudaz and Ridge."),
-  ("Who is MV on the Keys, the partner of DJ MJ?", "MV on the Keys, also written Mv On De Keys, is the keyboardist paired with DJ MJ: he is credited on piano on “You Can Do What You Want” and forms with him the duo billed on WCMF 2026 Night 1. Their live titles, such as “We Outside Tonight Live”, circulate in the bouyon mixes of the season."),
-  ("What is the credited name of DJ MJ on his releases?", "On the published sheet of “You Can Do What You Want”, the credits name Paul DJMJ Jolly on vocals and writing, with Kurt Gwada G Douglas on writing and harmony vocals, Mv On De Keys on piano and ThaWizzard on production. It is the only full name form published in the verified sources of this profile."),
-  ("Which records should I hear to discover DJ MJ?", "Start with his two documented releases: “Work Dat”, with Unstoppable Shax and Blasian Gyal, released on February 1, 2025, and “You Can Do What You Want”, with Gwada G, released on January 24, 2026, both on the DJMJ ANYWAY label at 160 BPM. Then look for his live titles with MV on the Keys, such as “Who Can Party Like St Joe”, in the bouyon mixes."),
-  ("Are DJ MJ and DJMJ the same person?", "Yes. DJ MJ, with the space, is the form used by the festival bills and by the Dominica Music Awards, while DJMJ, in one word, is the form of his music releases and of his label DJMJ ANYWAY. Both spellings name the same bouyon DJ from Dominica.")
- ],
+  (
+    "Who is DJ MJ?",
+    "DJ MJ is a bouyon DJ from Dominica who releases music as DJMJ, on his label DJMJ ANYWAY. He was named DJ of the Year at the Dominica Music Awards in January 2026 and often plays as a duo with keyboardist MV on the Keys. His two documented releases are “Work Dat” and “You Can Do What You Want” with Gwada G.",
+  ),
+  (
+    "Is DJ MJ playing WCMF 2026?",
+    "Yes, according to the published World Creole Music Festival 2026 guides, notably writeups24, DJ MJ plays Night 1, on Friday October 23, 2026, at Windsor Park Sports Stadium in Roseau, billed as the duo DJ MJ and MV on the Keys, alongside Capleton, Skillibeng, Klass, Maurane Voyer, TK International, Midnight Groovers, Pudaz and Ridge.",
+  ),
+  (
+    "Who is MV on the Keys, DJ MJ’s partner?",
+    "MV on the Keys, also written Mv On De Keys, is the keyboardist paired with DJ MJ: he is credited on piano on “You Can Do What You Want” and forms with him the duo billed on WCMF 2026 Night 1. Their live titles, such as “We Outside Tonight Live”, circulate in the bouyon mixes of the season.",
+  ),
+  (
+    "What is DJ MJ’s credited name on his releases?",
+    "On the published sheet of “You Can Do What You Want”, the credits name Paul DJMJ Jolly on vocals and writing, with Kurt Gwada G Douglas on writing and harmony vocals, Mv On De Keys on piano and ThaWizzard on production. It is the only full name form published in the verified sources of this profile.",
+  ),
+  (
+    "Which records should I hear to discover DJ MJ?",
+    "Start with his two documented releases: “Work Dat”, with Unstoppable Shax and Blasian Gyal, released on February 1, 2025, and “You Can Do What You Want”, with Gwada G, released on January 24, 2026, both on the DJMJ ANYWAY label at 160 BPM. Then look for his live titles with MV on the Keys, such as “Who Can Party Like St Joe”, in the bouyon mixes.",
+  ),
+  (
+    "Are DJ MJ and DJMJ the same person?",
+    "Yes. DJ MJ, with the space, is the form used by the festival bills and by the Dominica Music Awards, while DJMJ, in one word, is the form of his music releases and of his label DJMJ ANYWAY. On social media, the scene also tags him as Djmj Anyway. These spellings all name the same bouyon DJ from Dominica.",
+  ),
+  (
+    "Where is DJ MJ from?",
+    "DJ MJ is a bouyon DJ from Dominica. His recognition comes from home first: the Dominica Music Awards named him DJ of the Year, posts from the Dominican bouyon scene tag him as Djmj Anyway, and he is billed on the first night of the 2026 World Creole Music Festival in Roseau, with island acts TK International, Midnight Groovers, Pudaz and Ridge.",
+  ),
+  (
+    "Did DJ MJ win DJ of the Year at the Dominica Music Awards?",
+    "Yes. At the second Dominica Music Awards, on Saturday January 3, 2026 at the Intercontinental Resort and Spa, DJ MJ was named DJ of the Year, according to the Black Island Girl report of January 5, 2026. The category finalists, announced on December 24, 2025, were DJ MJ, DJ Sleem and Unstoppable Shax. The same night, Signal Band won six awards.",
+  ),
+  (
+    "Who produced DJMJ’s “Work Dat”?",
+    "According to Shazam, “Work Dat”, by DJMJ with Unstoppable Shax and Blasian Gyal, is produced by <a href=\"/en/boy-freeze.html\">Fr3EzE</a> and Mv Designs, with mastering by WizZarDHouSeRecorDs, ThaWizZarD’s label. Writing is credited to the three performers. The track came out on February 1, 2025 on the DJMJ ANYWAY label, at 160 BPM, the fast tempo of party bouyon.",
+  ),
+  (
+    "“Work Dat” or “Work That”: what is the right title of DJ MJ’s record?",
+    "Both forms exist. The release published on the platforms is called “Work Dat”, according to Shazam. The related video is titled “DJMJ LIVE, WORK THAT (BOUYON 2025)”, and it stood at 717,000 views on the popular YouTube shelf at the time of our check. This site cites each form as the source prints it, without deciding in place of the platforms.",
+  ),
+  (
+    "What is DJMJ ANYWAY?",
+    "DJMJ ANYWAY is DJ MJ’s label: Shazam lists both of his documented releases there, “Work Dat” in February 2025 and “You Can Do What You Want” in January 2026. The same name serves as a display name, Djmj Anyway, in TikTok posts from the Dominican bouyon scene that tag him. A label in his own name makes DJ MJ an artist who releases his own music, not only other people’s.",
+  ),
+  (
+    "What is a free up in DJ MJ’s bouyon?",
+    "A free up is a free session, often live, where a DJ and musicians play the party in real time: keyboard improvisation, calls to the crowd and the season’s records chained together. It is the ground of the DJ MJ and MV on the Keys duo, whose titles carry the Live mark. The keyboard plays live what the studio records, as with <a href=\"/en/wck.html\">WCK</a>, which made it bouyon’s instrument.",
+  ),
+  (
+    "What is the link between DJ MJ and Gwada G?",
+    "<a href=\"/en/gwada-g.html\">Gwada G</a> is the guest on “You Can Do What You Want”, released on January 24, 2026: he sings the harmonies and co-wrote the track as Kurt Gwada G Douglas, with Paul DJMJ Jolly. Their paths also cross on stage: on October 20, 2026, at Ti Vilaj Kwéyòl, the Super Mix of Gwada G and Taffy and Co comes before DJ MJ’s finale.",
+  ),
+  (
+    "Where can I see DJ MJ live in 2026?",
+    "According to Dominica Weekly, DJ MJ plays the finale of Day 2 of Ti Vilaj Kwéyòl 2026, on Tuesday October 20 at 7:00 PM. He then plays WCMF Night 1, on Friday October 23 in Roseau, with MV on the Keys. Variety News Group also bills him, with MV on the Keys, at the Mas Domnik 2026 launch, on Friday November 28 at The Factory. See <a href=\"/en/mas-domnik.html\">Mas Domnik</a>.",
+  ),
+  (
+    "What are DJ MJ’s live titles?",
+    "The tracklist of Blaqrose Supreme’s 2026 Bouyon Freestyle Mix, published in August 2026, holds “We Outside Tonight Live”, “Nouveau Vitesse The Carnival Bounce 2026” and “Pain In Your Leg”, credited to DJ MJ and MV on the Keys, “Who Can Party Like St Joe” by DJMJ solo, and “Can I Grab It”, with Pudaz and Faithii. These are tracklist entries, not official releases.",
+  )
+],
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/dj-mj.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/dj-mj.html#artist", "name": "DJ MJ", "description": "Bouyon DJ from Dominica, releasing as DJMJ on the DJMJ ANYWAY label. DJ of the Year at the Dominica Music Awards 2026. Billed on WCMF 2026 Night 1 as a duo with MV on the Keys according to the published guides.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Work Dat"}, {"@type": "MusicRecording", "name": "You Can Do What You Want"}, {"@type": "MusicRecording", "name": "Who Can Party Like St Joe"}, {"@type": "MusicRecording", "name": "We Outside Tonight"}, {"@type": "MusicRecording", "name": "Can I Grab It"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

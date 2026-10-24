@@ -71,14 +71,105 @@ FR = {
   ]
  ],
  "faq": [
-  ("Qui est DJ Skaytah ?", "DJ Skaytah est un DJ et producteur actif dans le bouyon et le shatta francophones. Son catalogue vérifié comprend « Kay Ka Fet, Vol. 1 (Bouyon 2024) », « Mass (Welcome To Guadeloupe) », « Batman 2 (Bouyon 2024) », « Real Shatta Kartel », « Raggaboday (Instrumental) » et « It’s You ». Les crédits officiels de composition de ces titres portent le nom de Bradley Paulin. Aucune biographie publiée de l’artiste n’a été retrouvée."),
-  ("DJ Skaytah et DJ Skycee, est-ce le même artiste ?", "Non. Malgré des noms presque identiques, ce sont deux artistes distincts, sans aucun titre ni crédit en commun dans les sources vérifiées. DJ Skaytah est le producteur de « Kay Ka Fet » et de « Mass (Welcome To Guadeloupe) ». DJ Skycee est le DJ lié au label Stormwave, connu pour « Sé Miimii » avec Miimii KDS. Ce site leur consacre deux pages séparées pour éviter la confusion que les moteurs de recherche entretiennent."),
-  ("Quels sont les titres bouyon vérifiés de DJ Skaytah ?", "Les fiches de plateformes vérifient « Kay Ka Fet, Vol. 1 (Bouyon 2024) », sorti le 12 janvier 2024 sur un EP du label 3070122 Records DK2, « Mass (Welcome To Guadeloupe) », sorti le 3 février 2024 chez le même label, et « Batman 2 (Bouyon 2024) », sorti en single le 5 février 2025 chez ATC à 160 BPM. S’y ajoutent « Real Shatta Kartel », « Raggaboday (Instrumental) », « It’s You » et le featuring « Ti Moun a Moun La » de Dexterman, sorti le 25 mars 2023."),
-  ("Qu’est-ce que « Mass 2 (Welcome To Guadeloupe) » ?", "C’est la suite annoncée de son titre de carnaval « Mass (Welcome To Guadeloupe) ». Sa vidéo officielle, estampillée #CARNAVAL2026, souhaite un bon carnaval et annonce « Bientôt sur les plateformes ». C’est aussi le lien officiel placé sur son profil Instagram @djskaytah. Ce site la décrit comme une présentation vidéo de carnaval, sans date de sortie streaming vérifiée."),
-  ("Où DJ Skaytah a-t-il été annoncé en soirée ?", "Deux pages d’événements vérifiées l’annoncent : « La Addictive - Caribbean Lifestyle » au Levrette Café à Bordeaux, le dimanche 12 avril 2026, avec Rimka, dans une programmation Rap, Dancehall, Bouyon, Afro et Shatta ; et « SUGAR CRUSH » au 680 rue Sainte-Catherine Ouest à Montréal, avec Dj Magma. Ces dates prouvent des passages sur le circuit des soirées antillaises, pas un lieu de résidence, qu’aucune source ne documente."),
-  ("Où écouter et suivre DJ Skaytah sans tomber sur un homonyme ?", "Ses titres sont sur les plateformes de streaming sous le nom DJ Skaytah, à commencer par « Kay Ka Fet » et « Mass (Welcome To Guadeloupe) ». Ses comptes vérifiés sont @djskaytah sur Instagram et @deejayskaytah sur TikTok, identifiants confirmés par sa propre vidéo officielle. Pour replacer ses titres dans le genre, écoutez aussi notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>.")
- ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/dj-skaytah.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/dj-skaytah.html#artist", "name": "DJ Skaytah", "description": "DJ et producteur bouyon et shatta. Catalogue vérifié : Kay Ka Fet, Vol. 1 (Bouyon 2024), Mass (Welcome To Guadeloupe) et Batman 2 (Bouyon 2024). Crédits de composition au nom de Bradley Paulin. Artiste distinct de DJ Skycee.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Kay Ka Fet, Vol. 1 (Bouyon 2024)"}, {"@type": "MusicRecording", "name": "Mass (Welcome To Guadeloupe)"}, {"@type": "MusicRecording", "name": "Batman 2 (Bouyon 2024)"}, {"@type": "MusicRecording", "name": "Real Shatta Kartel"}, {"@type": "MusicRecording", "name": "Raggaboday (Instrumental)"}, {"@type": "MusicRecording", "name": "It’s You"}, {"@type": "MusicRecording", "name": "Ti Moun a Moun La"}, {"@type": "MusicRecording", "name": "Montpel Carnival Anthem"}], "sameAs": ["https://www.instagram.com/djskaytah", "https://www.tiktok.com/@deejayskaytah"]}}],
+  (
+    "Qui est DJ Skaytah ?",
+    "DJ Skaytah est un DJ et producteur actif dans le bouyon et le shatta francophones. Son catalogue vérifié comprend « Kay Ka Fet, Vol. 1 (Bouyon 2024) », « Mass (Welcome To Guadeloupe) », « Batman 2 (Bouyon 2024) », « Real Shatta Kartel », « Raggaboday (Instrumental) » et « It’s You ». Les crédits officiels de composition de ces titres portent le nom de Bradley Paulin. Aucune biographie publiée de l’artiste n’a été retrouvée.",
+  ),
+  (
+    "Bradley Paulin, est-ce le vrai nom de DJ Skaytah ?",
+    "Bradley Paulin est le nom que portent les crédits officiels de DJ Skaytah, et ce site le présente uniquement comme un nom de crédits. Il est auteur de « Mass (Welcome To Guadeloupe) », « Batman 2 (Bouyon 2024) », « Real Shatta Kartel » et « It’s You », compositeur et programmeur de « Raggaboday (Instrumental) ». Aucune source publiée ne le présente comme l’état civil complet de l’artiste.",
+  ),
+  (
+    "DJ Skaytah et DJ Skycee, est-ce le même artiste ?",
+    "Non. Malgré des noms presque identiques, ce sont deux artistes distincts, sans aucun titre ni crédit en commun dans les sources vérifiées. DJ Skaytah est le producteur de « Kay Ka Fet » et de « Mass (Welcome To Guadeloupe) ». DJ Skycee est le DJ lié au label Stormwave, connu pour « Sé Miimii » avec Miimii KDS. Ce site leur consacre deux pages séparées pour éviter la confusion que les moteurs de recherche entretiennent.",
+  ),
+  (
+    "DJ Skaytah est-il DJ Skaylone ?",
+    "Non. DJ Skaylone, troisième nom voisin, est l’auteur de riddims bouyon publiés sur YouTube depuis la fin des années 2010, et aucun élément vérifié ne le relie à DJ Skaytah. Skaytah, Skycee et Skaylone sont trois artistes différents que les moteurs de recherche mélangent volontiers. Le DJ Skaytah de cette page est celui de « Kay Ka Fet », de « Mass » et des crédits Bradley Paulin.",
+  ),
+  (
+    "Quels sont les titres bouyon vérifiés de DJ Skaytah ?",
+    "Les fiches de plateformes vérifient « Kay Ka Fet, Vol. 1 (Bouyon 2024) », sorti le 12 janvier 2024 chez 3070122 Records DK2, « Mass (Welcome To Guadeloupe) », sorti le 3 février 2024 chez le même label, et « Batman 2 (Bouyon 2024) », single du 5 février 2025 chez ATC. S’y ajoutent « Real Shatta Kartel », « Raggaboday (Instrumental) », « It’s You » et le featuring « Ti Moun a Moun La » de Dexterman.",
+  ),
+  (
+    "Qu’est-ce que Kay Ka Fet de DJ Skaytah ?",
+    "« Kay Ka Fet, Vol. 1 (Bouyon 2024) » est le titre principal d’un EP sorti le 12 janvier 2024 chez 3070122 Records DK2, en français, avec DJ Skaytah crédité à la production. Il est accompagné d’un clip intitulé « DJ SKAYTAH - KAY KA FET #1 (2024) BOUYON ». C’est le premier titre de l’année 2024, qui concentre l’essentiel de son catalogue personnel.",
+  ),
+  (
+    "Qui a produit Batman 2 (Bouyon 2024) ?",
+    "DJ Skaytah lui-même : la fiche de « Batman 2 (Bouyon 2024) » le crédite à la production, avec Bradley Paulin à l’écriture. Le titre sort en single le 5 février 2025 chez ATC, à 160 BPM, le tempo haut du bouyon de fête. Le « 2024 » conservé dans le titre d’une sortie de 2025 suggère un titre de la saison 2024 diffusé ensuite en single.",
+  ),
+  (
+    "Qu’est-ce que « Mass 2 (Welcome To Guadeloupe) » ?",
+    "C’est la suite annoncée de son titre de carnaval « Mass (Welcome To Guadeloupe) ». Sa vidéo officielle, estampillée #CARNAVAL2026, souhaite un bon carnaval et annonce « Bientôt sur les plateformes ». C’est aussi le lien officiel placé sur son profil Instagram @djskaytah. Ce site la décrit comme une présentation vidéo de carnaval, sans date de sortie streaming vérifiée.",
+  ),
+  (
+    "DJ Skaytah fait-il du bouyon ou du shatta ?",
+    "Les deux. Ses titres de carnaval sont étiquetés bouyon, comme « Kay Ka Fet, Vol. 1 (Bouyon 2024) » et « Batman 2 (Bouyon 2024) », tandis que « Real Shatta Kartel » revendique dans son titre l’autre versant de son son, le shatta. Son featuring de 2023 chez Dexterman, « Ti Moun a Moun La », le place aussi dans les productions créoles où le bouyon croise le dancehall.",
+  ),
+  (
+    "Qu’est-ce que le Montpel Carnival Anthem de DJ Skaytah ?",
+    "C’est un titre signé DJ Skaytah que liste le programme « Dennery Frenzy » du Soca Podcast, un mix consacré à la dennery de Sainte-Lucie, cousine lucianaise du bouyon, au milieu de titres de Motto, Freezy ou Blackboy. Ce site le retient comme une trace de circulation de sa production de carnaval chez les DJ de soca, pas comme une sortie de catalogue, faute de fiche publiée.",
+  ),
+  (
+    "DJ Skaytah a-t-il joué à Coachella ?",
+    "Rien ne le montre. Une page d’analytique musicale affirme, dans un texte manifestement générique, qu’il aurait joué à Coachella, Lollapalooza, Bonnaroo et aux BET Hip Hop Awards avec des titres nommés « Get Low » et « Turn Up the Bass ». Aucun de ces titres n’existe dans son catalogue vérifié et aucun de ces festivals n’apparaît dans une source primaire : c’est une copie automatique, écartée ici.",
+  ),
+  (
+    "Où DJ Skaytah a-t-il été annoncé en soirée ?",
+    "Deux pages d’événements vérifiées l’annoncent : « La Addictive - Caribbean Lifestyle » au Levrette Café à Bordeaux, le dimanche 12 avril 2026, avec Rimka, dans une programmation Rap, Dancehall, Bouyon, Afro et Shatta, et « SUGAR CRUSH » au 680 rue Sainte-Catherine Ouest à Montréal, avec Dj Magma. Ces dates prouvent des passages sur le circuit des soirées antillaises, pas un lieu de résidence.",
+  ),
+  (
+    "Où écouter et suivre DJ Skaytah sans tomber sur un homonyme ?",
+    "Ses titres sont sur les plateformes de streaming sous le nom DJ Skaytah, à commencer par « Kay Ka Fet » et « Mass (Welcome To Guadeloupe) ». Ses comptes vérifiés sont @djskaytah sur Instagram et @deejayskaytah sur TikTok. Pour les nouveautés de la scène, suivez @bouyonshattaz et commentez ROAD MIX sous une publication : la Bouyon Road Mix, détaillée sur notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, arrive en DM.",
+  )
+],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/dj-skaytah.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/dj-skaytah.html#artist", "name": "DJ Skaytah", "description": "DJ et producteur bouyon et shatta. Catalogue vérifié : Kay Ka Fet, Vol. 1 (Bouyon 2024), Mass (Welcome To Guadeloupe) et Batman 2 (Bouyon 2024). Crédits de composition au nom de Bradley Paulin. Artiste distinct de DJ Skycee.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Kay Ka Fet, Vol. 1 (Bouyon 2024)"}, {"@type": "MusicRecording", "name": "Mass (Welcome To Guadeloupe)"}, {"@type": "MusicRecording", "name": "Batman 2 (Bouyon 2024)"}, {"@type": "MusicRecording", "name": "Real Shatta Kartel"}, {"@type": "MusicRecording", "name": "Raggaboday (Instrumental)"}, {"@type": "MusicRecording", "name": "It’s You"}, {"@type": "MusicRecording", "name": "Ti Moun a Moun La"}, {"@type": "MusicRecording", "name": "Montpel Carnival Anthem"},
+      {
+       "@type": "MusicRecording",
+       "name": "Montpel Carnival Anthem II (feat. Mada4bang, Sagaya, Sabri Sama & La Wif)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mass 2 (Welcome To Guadeloupe)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rich City"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Yeah Warm up Riddim"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BeethoFunk"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Elle veut pas (feat. DJ Skaytah)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ambiance (feat. DJ Skaytah) [2017 Summer Tour]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Batman (Bouyon 2024)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jaloux"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pushing P (feat. Dj Skaytah) (Bouyon 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Summer Fest Riddim"
+      },
+], "sameAs": ["https://www.instagram.com/djskaytah", "https://www.tiktok.com/@deejayskaytah"]}}],
  "date_modified": "2026-10-20"
 }
 
@@ -144,13 +235,104 @@ EN = {
   ]
  ],
  "faq": [
-  ("Who is DJ Skaytah?", "DJ Skaytah is a DJ and producer active in French speaking bouyon and shatta. His verified catalogue includes “Kay Ka Fet, Vol. 1 (Bouyon 2024)”, “Mass (Welcome To Guadeloupe)”, “Batman 2 (Bouyon 2024)”, “Real Shatta Kartel”, “Raggaboday (Instrumental)” and “It’s You”. The official songwriting credits of those records carry the name Bradley Paulin. No published biography of the artist was found."),
-  ("Are DJ Skaytah and DJ Skycee the same artist?", "No. Despite near identical names, they are two distinct artists, with no shared record or credit in the verified sources. DJ Skaytah is the producer of “Kay Ka Fet” and “Mass (Welcome To Guadeloupe)”. DJ Skycee is the DJ tied to the Stormwave label, known for “Sé Miimii” with Miimii KDS. This site gives them separate pages to end the confusion search engines maintain."),
-  ("What are the verified bouyon records of DJ Skaytah?", "Platform listings verify “Kay Ka Fet, Vol. 1 (Bouyon 2024)”, released on January 12, 2024 on an EP from the label 3070122 Records DK2, “Mass (Welcome To Guadeloupe)”, released on February 3, 2024 on the same label, and “Batman 2 (Bouyon 2024)”, released as a single on February 5, 2025 on ATC at 160 BPM. Add “Real Shatta Kartel”, “Raggaboday (Instrumental)”, “It’s You” and the Dexterman feature “Ti Moun a Moun La”, released on March 25, 2023."),
-  ("What is “Mass 2 (Welcome To Guadeloupe)”?", "It is the announced sequel to his carnival record “Mass (Welcome To Guadeloupe)”. Its official video, stamped #CARNAVAL2026, wishes everyone a happy carnival and announces “Bientot sur les plateformes”, coming soon to the platforms. It is also the official link placed on his Instagram profile @djskaytah. This site describes it as a carnival video presentation, with no verified streaming release date."),
-  ("Where has DJ Skaytah been billed live?", "Two verified event pages bill him: “La Addictive - Caribbean Lifestyle” at Levrette Cafe in Bordeaux, on Sunday April 12, 2026, with Rimka, in a Rap, Dancehall, Bouyon, Afro and Shatta line up; and “SUGAR CRUSH” at 680 rue Sainte-Catherine Ouest in Montreal, with Dj Magma. Those dates prove visits on the Caribbean party circuit, not a place of residence, which no source documents."),
-  ("Where can I hear and follow DJ Skaytah without landing on a namesake?", "His records are on the streaming platforms under the name DJ Skaytah, starting with “Kay Ka Fet” and “Mass (Welcome To Guadeloupe)”. His verified accounts are @djskaytah on Instagram and @deejayskaytah on TikTok, handles confirmed by his own official video. To place his records in the genre, hear also our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>.")
- ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/dj-skaytah.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/dj-skaytah.html#artist", "name": "DJ Skaytah", "description": "Bouyon and shatta DJ and producer. Verified catalogue: Kay Ka Fet, Vol. 1 (Bouyon 2024), Mass (Welcome To Guadeloupe) and Batman 2 (Bouyon 2024). Songwriting credits under the name Bradley Paulin. A distinct artist from DJ Skycee.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Kay Ka Fet, Vol. 1 (Bouyon 2024)"}, {"@type": "MusicRecording", "name": "Mass (Welcome To Guadeloupe)"}, {"@type": "MusicRecording", "name": "Batman 2 (Bouyon 2024)"}, {"@type": "MusicRecording", "name": "Real Shatta Kartel"}, {"@type": "MusicRecording", "name": "Raggaboday (Instrumental)"}, {"@type": "MusicRecording", "name": "It’s You"}, {"@type": "MusicRecording", "name": "Ti Moun a Moun La"}, {"@type": "MusicRecording", "name": "Montpel Carnival Anthem"}], "sameAs": ["https://www.instagram.com/djskaytah", "https://www.tiktok.com/@deejayskaytah"]}}],
+  (
+    "Who is DJ Skaytah?",
+    "DJ Skaytah is a DJ and producer active in French speaking bouyon and shatta. His verified catalogue includes “Kay Ka Fet, Vol. 1 (Bouyon 2024)”, “Mass (Welcome To Guadeloupe)”, “Batman 2 (Bouyon 2024)”, “Real Shatta Kartel”, “Raggaboday (Instrumental)” and “It’s You”. The official songwriting credits of those records carry the name Bradley Paulin. No published biography of the artist was found.",
+  ),
+  (
+    "Is Bradley Paulin DJ Skaytah's real name?",
+    "Bradley Paulin is the name carried by DJ Skaytah's official credits, and this site presents it only as a credits name. He is songwriter on “Mass (Welcome To Guadeloupe)”, “Batman 2 (Bouyon 2024)”, “Real Shatta Kartel” and “It’s You”, and composer and programmer on “Raggaboday (Instrumental)”. No published source presents it as the artist's full legal identity.",
+  ),
+  (
+    "Are DJ Skaytah and DJ Skycee the same artist?",
+    "No. Despite near identical names, they are two distinct artists, with no shared record or credit in the verified sources. DJ Skaytah is the producer of “Kay Ka Fet” and “Mass (Welcome To Guadeloupe)”. DJ Skycee is the DJ tied to the Stormwave label, known for “Sé Miimii” with Miimii KDS. This site gives them separate pages to end the confusion search engines maintain.",
+  ),
+  (
+    "Is DJ Skaytah the same as DJ Skaylone?",
+    "No. DJ Skaylone, a third neighbouring name, is the author of bouyon riddims published on YouTube since the late 2010s, and no verified element links him to DJ Skaytah. Skaytah, Skycee and Skaylone are three different artists that search engines readily mix up. The DJ Skaytah on this page is the one behind “Kay Ka Fet”, “Mass” and the Bradley Paulin credits.",
+  ),
+  (
+    "What are the verified bouyon records of DJ Skaytah?",
+    "Platform listings verify “Kay Ka Fet, Vol. 1 (Bouyon 2024)”, released on January 12, 2024 on 3070122 Records DK2, “Mass (Welcome To Guadeloupe)”, released on February 3, 2024 on the same label, and “Batman 2 (Bouyon 2024)”, a single released on February 5, 2025 on ATC. Add “Real Shatta Kartel”, “Raggaboday (Instrumental)”, “It’s You” and the Dexterman feature “Ti Moun a Moun La”.",
+  ),
+  (
+    "What is DJ Skaytah's Kay Ka Fet?",
+    "“Kay Ka Fet, Vol. 1 (Bouyon 2024)” is the lead track of an EP released on January 12, 2024 on 3070122 Records DK2, in French, with DJ Skaytah credited as producer. It comes with a video titled “DJ SKAYTAH - KAY KA FET #1 (2024) BOUYON”. It is the first record of 2024, the year that holds most of his own catalogue.",
+  ),
+  (
+    "Who produced Batman 2 (Bouyon 2024)?",
+    "DJ Skaytah himself: the “Batman 2 (Bouyon 2024)” listing credits him as producer, with Bradley Paulin as songwriter. The record came out as a single on February 5, 2025 on ATC, at 160 BPM, the high tempo of party bouyon. The “2024” kept in the title of a 2025 release suggests a 2024 season track later issued as a single.",
+  ),
+  (
+    "What is “Mass 2 (Welcome To Guadeloupe)”?",
+    "It is the announced sequel to his carnival record “Mass (Welcome To Guadeloupe)”. Its official video, stamped #CARNAVAL2026, wishes everyone a happy carnival and announces “Bientot sur les plateformes”, coming soon to the platforms. It is also the official link placed on his Instagram profile @djskaytah. This site describes it as a carnival video presentation, with no verified streaming release date.",
+  ),
+  (
+    "Does DJ Skaytah make bouyon or shatta?",
+    "Both. His carnival records are tagged bouyon, like “Kay Ka Fet, Vol. 1 (Bouyon 2024)” and “Batman 2 (Bouyon 2024)”, while “Real Shatta Kartel” claims in its title the other side of his sound, shatta. His 2023 feature for Dexterman, “Ti Moun a Moun La”, also places him in the Creole productions where bouyon meets dancehall.",
+  ),
+  (
+    "What is DJ Skaytah's Montpel Carnival Anthem?",
+    "It is a record signed DJ Skaytah listed in the “Dennery Frenzy” programme of the Soca Podcast, a mix devoted to Saint Lucia dennery, the Saint Lucian cousin of bouyon, among records by Motto, Freezy and Blackboy. This site keeps it as a trace of his carnival production travelling through soca DJ sets, not as a catalogue release, since no release listing was found.",
+  ),
+  (
+    "Did DJ Skaytah play Coachella?",
+    "Nothing shows that. A music analytics page claims, in plainly generic copy, that he played Coachella, Lollapalooza, Bonnaroo and the BET Hip Hop Awards with tracks called “Get Low” and “Turn Up the Bass”. None of those tracks exists in his verified catalogue and none of those festivals appears in a primary source: it is automatic copy, set aside here.",
+  ),
+  (
+    "Where has DJ Skaytah been billed live?",
+    "Two verified event pages bill him: “La Addictive - Caribbean Lifestyle” at Levrette Cafe in Bordeaux, on Sunday April 12, 2026, with Rimka, in a Rap, Dancehall, Bouyon, Afro and Shatta line up, and “SUGAR CRUSH” at 680 rue Sainte-Catherine Ouest in Montreal, with Dj Magma. Those dates prove visits on the Caribbean party circuit, not a place of residence.",
+  ),
+  (
+    "Where can I hear and follow DJ Skaytah without landing on a namesake?",
+    "His records are on the streaming platforms under the name DJ Skaytah, starting with “Kay Ka Fet” and “Mass (Welcome To Guadeloupe)”. His verified accounts are @djskaytah on Instagram and @deejayskaytah on TikTok. For new releases from the scene, follow @bouyonshattaz and comment ROAD MIX under a post: the Bouyon Road Mix, described on our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> page, arrives by DM.",
+  )
+],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/dj-skaytah.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/dj-skaytah.html#artist", "name": "DJ Skaytah", "description": "Bouyon and shatta DJ and producer. Verified catalogue: Kay Ka Fet, Vol. 1 (Bouyon 2024), Mass (Welcome To Guadeloupe) and Batman 2 (Bouyon 2024). Songwriting credits under the name Bradley Paulin. A distinct artist from DJ Skycee.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Kay Ka Fet, Vol. 1 (Bouyon 2024)"}, {"@type": "MusicRecording", "name": "Mass (Welcome To Guadeloupe)"}, {"@type": "MusicRecording", "name": "Batman 2 (Bouyon 2024)"}, {"@type": "MusicRecording", "name": "Real Shatta Kartel"}, {"@type": "MusicRecording", "name": "Raggaboday (Instrumental)"}, {"@type": "MusicRecording", "name": "It’s You"}, {"@type": "MusicRecording", "name": "Ti Moun a Moun La"}, {"@type": "MusicRecording", "name": "Montpel Carnival Anthem"},
+      {
+       "@type": "MusicRecording",
+       "name": "Montpel Carnival Anthem II (feat. Mada4bang, Sagaya, Sabri Sama & La Wif)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mass 2 (Welcome To Guadeloupe)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rich City"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Yeah Warm up Riddim"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BeethoFunk"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Elle veut pas (feat. DJ Skaytah)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ambiance (feat. DJ Skaytah) [2017 Summer Tour]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Batman (Bouyon 2024)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jaloux"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pushing P (feat. Dj Skaytah) (Bouyon 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Summer Fest Riddim"
+      },
+], "sameAs": ["https://www.instagram.com/djskaytah", "https://www.tiktok.com/@deejayskaytah"]}}],
  "date_modified": "2026-10-20"
 }
