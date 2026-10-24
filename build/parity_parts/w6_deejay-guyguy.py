@@ -106,7 +106,20 @@ FR = {
     "Ses deux crédits vérifiés s’écoutent à deux endroits : le remix bouyon d’Anissa, avec Dj Fine Apple, sur la page de NRJ Antilles qui en intègre la vidéo YouTube, et Bel Fess Bel Chatte sur Spotify, dans la playlist The Sound of Bouyon. Pour le paysage complet du genre, la <a href=\"/playlist-bouyon.html\">playlist bouyon</a> de Bouyon Shattaz rassemble nouveautés et classiques.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/deejay-guyguy.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/deejay-guyguy.html#artist", "name": "Deejay Guyguy", "description": "DJ associé au bouyon, connu par deux crédits vérifiés : le remix bouyon d’Anissa avec Dj Fine Apple, relayé par NRJ Antilles, et un crédit sur Bel Fess Bel Chatte de Miky Ding La et J2MO.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Anissa Remix Bouyon 2020"}, {"@type": "MusicRecording", "name": "Bèl Fèss Bèl Chatte"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/deejay-guyguy.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/deejay-guyguy.html#artist", "name": "Deejay Guyguy", "description": "DJ associé au bouyon, connu par deux crédits vérifiés : le remix bouyon d’Anissa avec Dj Fine Apple, relayé par NRJ Antilles, et un crédit sur Bel Fess Bel Chatte de Miky Ding La et J2MO.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Anissa Remix Bouyon 2020"}, {"@type": "MusicRecording", "name": "Bèl Fèss Bèl Chatte"},
+      {
+       "@type": "MusicRecording",
+       "name": "Fanm Mayé (feat. Yellow Gaza Girls)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Projet X (feat. Leyou, Ted La & Anonymous Gyals)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Olé Olé"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -211,6 +224,19 @@ EN = {
     "His two verified credits can be heard in two places: the Anissa bouyon remix, with Dj Fine Apple, on the NRJ Antilles page that embeds its YouTube video, and Bel Fess Bel Chatte on Spotify, in The Sound of Bouyon playlist. For the full landscape of the genre, the Bouyon Shattaz <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> gathers new releases and classics.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/deejay-guyguy.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/deejay-guyguy.html#artist", "name": "Deejay Guyguy", "description": "DJ associated with bouyon, known through two verified credits: the bouyon remix of Anissa with Dj Fine Apple, relayed by NRJ Antilles, and a credit on Bel Fess Bel Chatte by Miky Ding La and J2MO.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Anissa Remix Bouyon 2020"}, {"@type": "MusicRecording", "name": "Bèl Fèss Bèl Chatte"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/deejay-guyguy.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/deejay-guyguy.html#artist", "name": "Deejay Guyguy", "description": "DJ associated with bouyon, known through two verified credits: the bouyon remix of Anissa with Dj Fine Apple, relayed by NRJ Antilles, and a credit on Bel Fess Bel Chatte by Miky Ding La and J2MO.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Anissa Remix Bouyon 2020"}, {"@type": "MusicRecording", "name": "Bèl Fèss Bèl Chatte"},
+      {
+       "@type": "MusicRecording",
+       "name": "Fanm Mayé (feat. Yellow Gaza Girls)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Projet X (feat. Leyou, Ted La & Anonymous Gyals)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Olé Olé"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

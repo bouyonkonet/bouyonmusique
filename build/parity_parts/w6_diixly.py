@@ -91,7 +91,32 @@ FR = {
     "Dylan Farah, selon les crédits publiés dans la description du clip officiel. La même fiche nomme Gammalab comme ingénieur du son et Diixly comme beatmaker, pour un titre interprété par FLW (T-BTS). Trois métiers pour un titre : c’est la petite équipe type du bouyon des Antilles françaises d’aujourd’hui, l’image, le son et le rythme.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/diixly.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/diixly.html#artist", "name": "Diixly", "description": "Beatmaker crédité sur GENKIDAMA de FLW (T-BTS), clip officiel Team Bwè Tou Sa, bouyon 2026. Aucune origine ni biographie documentée dans le dossier public ouvert pour ce profil.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "GENKIDAMA"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/diixly.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/diixly.html#artist", "name": "Diixly", "description": "Beatmaker crédité sur GENKIDAMA de FLW (T-BTS), clip officiel Team Bwè Tou Sa, bouyon 2026. Aucune origine ni biographie documentée dans le dossier public ouvert pour ce profil.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "GENKIDAMA"},
+      {
+       "@type": "MusicRecording",
+       "name": "ROYAL WARMUP (feat. DJ FAB)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MONEY MISSION (feat. Le Dext, Jah2Chill & Devo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "RETOMBÉ"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "AMADIIX"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PROMENONS-NOUS (feat. DIIXLY) (BOUYON 2027)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LÉSÉ NOU PASÉ (feat. Ma6mo & Diixly) (WARM UP 2026)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -183,6 +208,31 @@ EN = {
     "Dylan Farah, according to the credits published in the official video description. The same sheet names Gammalab as sound engineer and Diixly as beatmaker, for a track performed by FLW (T-BTS). Three trades for one track: it is the typical small team of today’s French Antilles bouyon, image, sound and rhythm.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/diixly.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/diixly.html#artist", "name": "Diixly", "description": "Beatmaker credited on GENKIDAMA by FLW (T-BTS), official Team Bwe Tou Sa video, bouyon 2026. No origin or biography documented in the public record opened for this profile.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "GENKIDAMA"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/diixly.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/diixly.html#artist", "name": "Diixly", "description": "Beatmaker credited on GENKIDAMA by FLW (T-BTS), official Team Bwe Tou Sa video, bouyon 2026. No origin or biography documented in the public record opened for this profile.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "GENKIDAMA"},
+      {
+       "@type": "MusicRecording",
+       "name": "ROYAL WARMUP (feat. DJ FAB)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MONEY MISSION (feat. Le Dext, Jah2Chill & Devo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "RETOMBÉ"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "AMADIIX"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PROMENONS-NOUS (feat. DIIXLY) (BOUYON 2027)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LÉSÉ NOU PASÉ (feat. Ma6mo & Diixly) (WARM UP 2026)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

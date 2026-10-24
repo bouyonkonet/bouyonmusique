@@ -147,7 +147,32 @@ FR = {
     "Commencez par « We Not Going Home » avec C4, le titre du million de vues, puis « WTHelly Bouyon » avec Gwada G et « Pocket Rocket ». Ses singles sont sur les plateformes et sur YouTube. Pour entendre ses concurrents de la finale 2026 et le bouyon du moment, commentez ROAD MIX sous une publication de @bouyonshattaz sur Instagram, ou ouvrez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/brg-hollywood.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/brg-hollywood.html#artist", "name": "BRG Hollywood", "description": "Artiste bouyon de Sint Maarten, de son vrai nom Jaheim Meyers. Premier artiste du côté néerlandais de Sint Maarten a atteindre un million de vues sur YouTube avec We Not Going Home, avec C4. Finaliste artiste bouyon de l’année aux Caribbean Music Awards 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "We Not Going Home"}, {"@type": "MusicRecording", "name": "WTHelly Bouyon"}, {"@type": "MusicRecording", "name": "Pocket Rocket"}, {"@type": "MusicRecording", "name": "Time 2 Grind"}, {"@type": "MusicRecording", "name": "Nouveau La"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/brg-hollywood.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/brg-hollywood.html#artist", "name": "BRG Hollywood", "description": "Artiste bouyon de Sint Maarten, de son vrai nom Jaheim Meyers. Premier artiste du côté néerlandais de Sint Maarten a atteindre un million de vues sur YouTube avec We Not Going Home, avec C4. Finaliste artiste bouyon de l’année aux Caribbean Music Awards 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "We Not Going Home"}, {"@type": "MusicRecording", "name": "WTHelly Bouyon"}, {"@type": "MusicRecording", "name": "Pocket Rocket"}, {"@type": "MusicRecording", "name": "Time 2 Grind"}, {"@type": "MusicRecording", "name": "Nouveau La"},
+      {
+       "@type": "MusicRecording",
+       "name": "Cashin Out Warmup (feat. C4)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BRG Happy (feat. DJ Luchshiy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Liff Up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I JUST WANT (feat. BRG HOLLYWOOD & DINHO)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lick (feat. (KennyG) & BRG Hollywood)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Who Have A Lighter (Le Briquet)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -266,6 +291,31 @@ EN = {
     "Start with “We Not Going Home” with C4, the million views track, then “WTHelly Bouyon” with Gwada G and “Pocket Rocket”. His singles are on the platforms and on YouTube. To hear his rivals from the 2026 final and today’s bouyon, comment ROAD MIX under an @bouyonshattaz post on Instagram, or open our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/brg-hollywood.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/brg-hollywood.html#artist", "name": "BRG Hollywood", "description": "Bouyon artist from Sint Maarten, real name Jaheim Meyers. First artist from the Dutch side of Sint Maarten to reach one million YouTube views with We Not Going Home, featuring C4. Bouyon Artist of the Year finalist at the Caribbean Music Awards 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "We Not Going Home"}, {"@type": "MusicRecording", "name": "WTHelly Bouyon"}, {"@type": "MusicRecording", "name": "Pocket Rocket"}, {"@type": "MusicRecording", "name": "Time 2 Grind"}, {"@type": "MusicRecording", "name": "Nouveau La"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/brg-hollywood.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/brg-hollywood.html#artist", "name": "BRG Hollywood", "description": "Bouyon artist from Sint Maarten, real name Jaheim Meyers. First artist from the Dutch side of Sint Maarten to reach one million YouTube views with We Not Going Home, featuring C4. Bouyon Artist of the Year finalist at the Caribbean Music Awards 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "We Not Going Home"}, {"@type": "MusicRecording", "name": "WTHelly Bouyon"}, {"@type": "MusicRecording", "name": "Pocket Rocket"}, {"@type": "MusicRecording", "name": "Time 2 Grind"}, {"@type": "MusicRecording", "name": "Nouveau La"},
+      {
+       "@type": "MusicRecording",
+       "name": "Cashin Out Warmup (feat. C4)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BRG Happy (feat. DJ Luchshiy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Liff Up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I JUST WANT (feat. BRG HOLLYWOOD & DINHO)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lick (feat. (KennyG) & BRG Hollywood)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Who Have A Lighter (Le Briquet)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

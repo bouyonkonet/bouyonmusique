@@ -134,7 +134,88 @@ FR = {
     "Les descriptions de ses clips officiels renvoient vers son compte Instagram officiel, lejuhofficiel, et vers sa chaîne YouTube, @lejuh, avec un contact de management et de collaborations au nom de M. Damas. Ses clips créditent aussi une équipe stable, avec Hakuna Music Company, abrégé HMC, comme studio de mix et de mastering récurrent, de « Air Force 1 » à « BIG BELLY ».",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/lejuh.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/lejuh.html#artist", "name": "Lejuh", "description": "Artiste bouyon associé à la Guadeloupe, cité en premier parmi les artistes bouyon emblématiques du moment en Guadeloupe par CCN en décembre 2025. Connu pour Air Force 1, produit par 1T1, BIG BELLY et Boss avec Meryl.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Air Force 1"}, {"@type": "MusicRecording", "name": "BIG BELLY"}, {"@type": "MusicRecording", "name": "Lolita"}, {"@type": "MusicRecording", "name": "Boss"}, {"@type": "MusicRecording", "name": "BIKE LIFE"}, {"@type": "MusicRecording", "name": "Sòti Gwadloup"}, {"@type": "MusicRecording", "name": "Leave Me Alone"}, {"@type": "MusicRecording", "name": "Piney"}, {"@type": "MusicRecording", "name": "Pied au Plancher"}, {"@type": "MusicRecording", "name": "Mas La Rivé"}], "sameAs": ["https://www.instagram.com/lejuhofficiel/", "https://www.youtube.com/@lejuh"]}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/lejuh.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/lejuh.html#artist", "name": "Lejuh", "description": "Artiste bouyon associé à la Guadeloupe, cité en premier parmi les artistes bouyon emblématiques du moment en Guadeloupe par CCN en décembre 2025. Connu pour Air Force 1, produit par 1T1, BIG BELLY et Boss avec Meryl.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Air Force 1"}, {"@type": "MusicRecording", "name": "BIG BELLY"}, {"@type": "MusicRecording", "name": "Lolita"}, {"@type": "MusicRecording", "name": "Boss"}, {"@type": "MusicRecording", "name": "BIKE LIFE"}, {"@type": "MusicRecording", "name": "Sòti Gwadloup"}, {"@type": "MusicRecording", "name": "Leave Me Alone"}, {"@type": "MusicRecording", "name": "Piney"}, {"@type": "MusicRecording", "name": "Pied au Plancher"}, {"@type": "MusicRecording", "name": "Mas La Rivé"},
+      {
+       "@type": "MusicRecording",
+       "name": "Brennen"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Good"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PINPON RIDDIM (feat. DJ LUCHSHIY, Fredo Pichi, Lewismelo & Dcamp)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pran On Pyé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Air Force One"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "NANNAN (feat. YSN)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "IL ÉTAIT UNE FOIS (feat. Theomaa & Bismok)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Krédib"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "GAME-OVER"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Trampoline"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "EN BALADE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Parè Ba-Y"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Karibbean Gyal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Adios Amigos (feat. Lejuh & Jixels)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ALOUETTE (feat. Lejuh)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Oui Nou Monss (feat. Lejuh & LGC)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Volé'y (feat. Nils & LeJuh)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "GOUTÉW"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bay Li"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Es I Ka Plèw"
+      },
+], "sameAs": ["https://www.instagram.com/lejuhofficiel/", "https://www.youtube.com/@lejuh"]}}],
  "date_modified": "2026-10-20"
 }
 
@@ -262,6 +343,87 @@ EN = {
     "The descriptions of his official videos point to his official Instagram account, lejuhofficiel, and to his YouTube channel, @lejuh, with a management and collaborations contact in the name of M. Damas. His videos also credit a stable team, with Hakuna Music Company, shortened to HMC, as the recurring mixing and mastering studio, from “Air Force 1” to “BIG BELLY”.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/lejuh.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/lejuh.html#artist", "name": "Lejuh", "description": "Bouyon artist linked to Guadeloupe, named first among the emblematic bouyon artists of the moment in Guadeloupe by CCN in December 2025. Known for Air Force 1, produced by 1T1, BIG BELLY and Boss with Meryl.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Air Force 1"}, {"@type": "MusicRecording", "name": "BIG BELLY"}, {"@type": "MusicRecording", "name": "Lolita"}, {"@type": "MusicRecording", "name": "Boss"}, {"@type": "MusicRecording", "name": "BIKE LIFE"}, {"@type": "MusicRecording", "name": "Sòti Gwadloup"}, {"@type": "MusicRecording", "name": "Leave Me Alone"}, {"@type": "MusicRecording", "name": "Piney"}, {"@type": "MusicRecording", "name": "Pied au Plancher"}, {"@type": "MusicRecording", "name": "Mas La Rivé"}], "sameAs": ["https://www.instagram.com/lejuhofficiel/", "https://www.youtube.com/@lejuh"]}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/lejuh.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/lejuh.html#artist", "name": "Lejuh", "description": "Bouyon artist linked to Guadeloupe, named first among the emblematic bouyon artists of the moment in Guadeloupe by CCN in December 2025. Known for Air Force 1, produced by 1T1, BIG BELLY and Boss with Meryl.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Air Force 1"}, {"@type": "MusicRecording", "name": "BIG BELLY"}, {"@type": "MusicRecording", "name": "Lolita"}, {"@type": "MusicRecording", "name": "Boss"}, {"@type": "MusicRecording", "name": "BIKE LIFE"}, {"@type": "MusicRecording", "name": "Sòti Gwadloup"}, {"@type": "MusicRecording", "name": "Leave Me Alone"}, {"@type": "MusicRecording", "name": "Piney"}, {"@type": "MusicRecording", "name": "Pied au Plancher"}, {"@type": "MusicRecording", "name": "Mas La Rivé"},
+      {
+       "@type": "MusicRecording",
+       "name": "Brennen"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Good"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PINPON RIDDIM (feat. DJ LUCHSHIY, Fredo Pichi, Lewismelo & Dcamp)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pran On Pyé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Air Force One"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "NANNAN (feat. YSN)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "IL ÉTAIT UNE FOIS (feat. Theomaa & Bismok)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Krédib"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "GAME-OVER"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Trampoline"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "EN BALADE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Parè Ba-Y"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Karibbean Gyal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Adios Amigos (feat. Lejuh & Jixels)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ALOUETTE (feat. Lejuh)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Oui Nou Monss (feat. Lejuh & LGC)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Volé'y (feat. Nils & LeJuh)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "GOUTÉW"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bay Li"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Es I Ka Plèw"
+      },
+], "sameAs": ["https://www.instagram.com/lejuhofficiel/", "https://www.youtube.com/@lejuh"]}}],
  "date_modified": "2026-10-20"
 }

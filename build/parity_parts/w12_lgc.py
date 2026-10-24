@@ -134,7 +134,36 @@ FR = {
     "Oui. Ses titres sont écrits en créole guadeloupéen, des paroles intégrales de « Voyé’y Bay » jusqu’aux singles de 2025, et tournent entre 157 et 160 BPM sur les fiches qui publient le tempo, celui du bouyon de danse. C’est le cœur du <a href=\"/bouyon-gwada.html\">bouyon gwada</a>, la branche guadeloupéenne du bouyon né en Dominique.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/lgc.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/lgc.html#artist", "name": "LGC", "description": "Nom d’artiste du bouyon guadeloupéen porté par une équipe d’auteurs récurrente (Dany David Ledreck, Julio Polydamas, Kénan Gavarin, Jean Gardiole). Titres vérifiés de 2023 à 2025 : Voyé’y Bay, Fè Sa Fann avec Lejuh, Manzèl Good, Copain Copine, Make It Clap et Woody Wood. Le développement du sigle n’est publié par aucune source consultée.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Voyé’y Bay'}, {"@type": "MusicRecording", "name": 'Fè Sa Fann'}, {"@type": "MusicRecording", "name": 'Manzèl Good'}, {"@type": "MusicRecording", "name": 'Copain Copine'}, {"@type": "MusicRecording", "name": 'Make It Clap'}, {"@type": "MusicRecording", "name": 'Woody Wood'}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/lgc.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/lgc.html#artist", "name": "LGC", "description": "Nom d’artiste du bouyon guadeloupéen porté par une équipe d’auteurs récurrente (Dany David Ledreck, Julio Polydamas, Kénan Gavarin, Jean Gardiole). Titres vérifiés de 2023 à 2025 : Voyé’y Bay, Fè Sa Fann avec Lejuh, Manzèl Good, Copain Copine, Make It Clap et Woody Wood. Le développement du sigle n’est publié par aucune source consultée.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Voyé’y Bay'}, {"@type": "MusicRecording", "name": 'Fè Sa Fann'}, {"@type": "MusicRecording", "name": 'Manzèl Good'}, {"@type": "MusicRecording", "name": 'Copain Copine'}, {"@type": "MusicRecording", "name": 'Make It Clap'}, {"@type": "MusicRecording", "name": 'Woody Wood'},
+      {
+       "@type": "MusicRecording",
+       "name": "What's Problem"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SOUM"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mach"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fès ka pété"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Grammy (sped up) (feat. LGC & K41)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kiss Me (feat. Lady Spicy, LGC & LeCus)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Oui Nou Monss (feat. Lejuh & LGC)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -262,6 +291,35 @@ EN = {
     "Yes. Its records are written in Guadeloupean Creole, from the full lyrics of “Voyé’y Bay” to the 2025 singles, and run between 157 and 160 BPM on the pages that publish the tempo, the speed of dance bouyon. That is the heart of <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a>, the Guadeloupe branch of the bouyon born in Dominica.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/lgc.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/lgc.html#artist", "name": "LGC", "description": "Artist name of Guadeloupe bouyon carried by a recurring team of writers (Dany David Ledreck, Julio Polydamas, Kénan Gavarin, Jean Gardiole). Verified records from 2023 to 2025: Voyé’y Bay, Fè Sa Fann with Lejuh, Manzèl Good, Copain Copine, Make It Clap and Woody Wood. The expansion of the initials is published by no source consulted.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Voyé’y Bay'}, {"@type": "MusicRecording", "name": 'Fè Sa Fann'}, {"@type": "MusicRecording", "name": 'Manzèl Good'}, {"@type": "MusicRecording", "name": 'Copain Copine'}, {"@type": "MusicRecording", "name": 'Make It Clap'}, {"@type": "MusicRecording", "name": 'Woody Wood'}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/lgc.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/lgc.html#artist", "name": "LGC", "description": "Artist name of Guadeloupe bouyon carried by a recurring team of writers (Dany David Ledreck, Julio Polydamas, Kénan Gavarin, Jean Gardiole). Verified records from 2023 to 2025: Voyé’y Bay, Fè Sa Fann with Lejuh, Manzèl Good, Copain Copine, Make It Clap and Woody Wood. The expansion of the initials is published by no source consulted.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Voyé’y Bay'}, {"@type": "MusicRecording", "name": 'Fè Sa Fann'}, {"@type": "MusicRecording", "name": 'Manzèl Good'}, {"@type": "MusicRecording", "name": 'Copain Copine'}, {"@type": "MusicRecording", "name": 'Make It Clap'}, {"@type": "MusicRecording", "name": 'Woody Wood'},
+      {
+       "@type": "MusicRecording",
+       "name": "What's Problem"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SOUM"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mach"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fès ka pété"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Grammy (sped up) (feat. LGC & K41)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kiss Me (feat. Lady Spicy, LGC & LeCus)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Oui Nou Monss (feat. Lejuh & LGC)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

@@ -108,7 +108,68 @@ FR = {
     "Commencez par le clip officiel de « GENKIDAMA » sur YouTube, dont la description annonce le titre sur toutes les plateformes, puis par « BIG BAG », « RAKITA » et « HOT #Oups 5 », dans les catalogues de FLW et de la Team Bwè Tou Sa. Pour la vague bouyon 2026 qui l’entoure, notre <a href=\"/playlist-bouyon.html\">playlist Bouyon Road Mix</a> suit les nouveautés de la Dominique, de la Guadeloupe et de la Martinique.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/flw.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/flw.html#artist", "name": "FLW", "description": "Artiste bouyon signant FLW (T-BTS), de la Team Bwè Tou Sa. Artiste principal de GENKIDAMA avec le beatmaker Diixly et de BIG BAG, crédité aussi sur RAKITA et HOT #Oups 5. Aucune origine ni biographie documentée dans le dossier public ouvert pour ce profil.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "GENKIDAMA"}, {"@type": "MusicRecording", "name": "BIG BAG"}, {"@type": "MusicRecording", "name": "RAKITA"}, {"@type": "MusicRecording", "name": "HOT #Oups 5"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/flw.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/flw.html#artist", "name": "FLW", "description": "Artiste bouyon signant FLW (T-BTS), de la Team Bwè Tou Sa. Artiste principal de GENKIDAMA avec le beatmaker Diixly et de BIG BAG, crédité aussi sur RAKITA et HOT #Oups 5. Aucune origine ni biographie documentée dans le dossier public ouvert pour ce profil.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "GENKIDAMA"}, {"@type": "MusicRecording", "name": "BIG BAG"}, {"@type": "MusicRecording", "name": "RAKITA"}, {"@type": "MusicRecording", "name": "HOT #Oups 5"},
+      {
+       "@type": "MusicRecording",
+       "name": "FREESTYLE CARNAVAL"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Vitel"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hé Baby (feat. See V)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pa tchouyéy (feat. Tortle)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wouaw Wouaw"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Full Tube (feat. Natoxie)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ding Dong"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DAVID BOWIE (feat. FLW, Chedli, Desesparates, Chanky, Mogun, Sergio & GuiGui)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ROCKY IV (feat. FLW)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mindset"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jiggle that"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Natirèl (feat. Team After)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "EKILIBRE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bibik (feat. MA6MO & FLW)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bouwéy si yo (feat. FLW)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -214,6 +275,67 @@ EN = {
     "Start with the official “GENKIDAMA” video on YouTube, whose description announces the track on all platforms, then with “BIG BAG”, “RAKITA” and “HOT #Oups 5”, in the catalogues of FLW and Team Bwe Tou Sa. For the 2026 bouyon wave around him, our <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix playlist</a> follows new releases from Dominica, Guadeloupe and Martinique.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/flw.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/flw.html#artist", "name": "FLW", "description": "Bouyon artist signing FLW (T-BTS), of Team Bwe Tou Sa. Lead artist of GENKIDAMA with beatmaker Diixly and of BIG BAG, also credited on RAKITA and HOT #Oups 5. No origin or biography documented in the public record opened for this profile.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "GENKIDAMA"}, {"@type": "MusicRecording", "name": "BIG BAG"}, {"@type": "MusicRecording", "name": "RAKITA"}, {"@type": "MusicRecording", "name": "HOT #Oups 5"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/flw.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/flw.html#artist", "name": "FLW", "description": "Bouyon artist signing FLW (T-BTS), of Team Bwe Tou Sa. Lead artist of GENKIDAMA with beatmaker Diixly and of BIG BAG, also credited on RAKITA and HOT #Oups 5. No origin or biography documented in the public record opened for this profile.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "GENKIDAMA"}, {"@type": "MusicRecording", "name": "BIG BAG"}, {"@type": "MusicRecording", "name": "RAKITA"}, {"@type": "MusicRecording", "name": "HOT #Oups 5"},
+      {
+       "@type": "MusicRecording",
+       "name": "FREESTYLE CARNAVAL"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Vitel"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hé Baby (feat. See V)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pa tchouyéy (feat. Tortle)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wouaw Wouaw"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Full Tube (feat. Natoxie)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ding Dong"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DAVID BOWIE (feat. FLW, Chedli, Desesparates, Chanky, Mogun, Sergio & GuiGui)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ROCKY IV (feat. FLW)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mindset"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jiggle that"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Natirèl (feat. Team After)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "EKILIBRE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bibik (feat. MA6MO & FLW)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bouwéy si yo (feat. FLW)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

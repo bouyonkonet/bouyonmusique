@@ -112,7 +112,48 @@ FR = {
     "Ses deux titres appartiennent aux productions rapides des Antilles françaises, entre bouyon et shatta, et tous deux sont référencés à 160 BPM, le tempo de croisière du bouyon gwada moderne. Aucune source ne classe l’artiste plus précisément, et ce profil s’en tient à ces faits. La frontière entre ces deux sons, et ce qui les distingue, est expliquée sur notre page <a href=\"/bouyon-ou-shatta.html\">bouyon ou shatta</a>.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/cocotteland.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/cocotteland.html#artist", "name": "Cocotteland", "description": "Nom d’artiste des Antilles françaises documenté par deux titres vérifiés : Gwo Dada avec Natoxie et Mikado (2025) et I Don’t Know avec DJ Leguste (2024). Aucune biographie publique vérifiée à la date de ce profil.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Gwo Dada"}, {"@type": "MusicRecording", "name": "I Don't Know"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/cocotteland.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/cocotteland.html#artist", "name": "Cocotteland", "description": "Nom d’artiste des Antilles françaises documenté par deux titres vérifiés : Gwo Dada avec Natoxie et Mikado (2025) et I Don’t Know avec DJ Leguste (2024). Aucune biographie publique vérifiée à la date de ce profil.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Gwo Dada"}, {"@type": "MusicRecording", "name": "I Don't Know"},
+      {
+       "@type": "MusicRecording",
+       "name": "Doro"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Prada"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "4X4"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Top shatta"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LA COTE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tout Koté"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Vite fait"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TETRIS"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SIWO (feat. Cocotteland)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "NI ANLÈY NI A KOTÉ (feat. Cocotteland)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -222,6 +263,47 @@ EN = {
     "Both records belong to the fast productions of the French Caribbean, between bouyon and shatta, and both are listed at 160 BPM, the cruising tempo of modern bouyon gwada. No source classifies the artist more precisely, and this profile sticks to those facts. The line between the two sounds, and what sets them apart, is explained on our <a href=\"/en/bouyon-vs-shatta.html\">bouyon vs shatta</a> page.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/cocotteland.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/cocotteland.html#artist", "name": "Cocotteland", "description": "Artist name from the French Antilles documented by two verified records: Gwo Dada with Natoxie and Mikado (2025) and I Don’t Know with DJ Leguste (2024). No verified public biography at the date of this profile.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Gwo Dada"}, {"@type": "MusicRecording", "name": "I Don't Know"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/cocotteland.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/cocotteland.html#artist", "name": "Cocotteland", "description": "Artist name from the French Antilles documented by two verified records: Gwo Dada with Natoxie and Mikado (2025) and I Don’t Know with DJ Leguste (2024). No verified public biography at the date of this profile.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Gwo Dada"}, {"@type": "MusicRecording", "name": "I Don't Know"},
+      {
+       "@type": "MusicRecording",
+       "name": "Doro"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Prada"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "4X4"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Top shatta"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LA COTE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tout Koté"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Vite fait"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TETRIS"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SIWO (feat. Cocotteland)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "NI ANLÈY NI A KOTÉ (feat. Cocotteland)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

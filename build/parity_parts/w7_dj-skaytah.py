@@ -124,7 +124,52 @@ FR = {
     "Ses titres sont sur les plateformes de streaming sous le nom DJ Skaytah, à commencer par « Kay Ka Fet » et « Mass (Welcome To Guadeloupe) ». Ses comptes vérifiés sont @djskaytah sur Instagram et @deejayskaytah sur TikTok. Pour les nouveautés de la scène, suivez @bouyonshattaz et commentez ROAD MIX sous une publication : la Bouyon Road Mix, détaillée sur notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, arrive en DM.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/dj-skaytah.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/dj-skaytah.html#artist", "name": "DJ Skaytah", "description": "DJ et producteur bouyon et shatta. Catalogue vérifié : Kay Ka Fet, Vol. 1 (Bouyon 2024), Mass (Welcome To Guadeloupe) et Batman 2 (Bouyon 2024). Crédits de composition au nom de Bradley Paulin. Artiste distinct de DJ Skycee.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Kay Ka Fet, Vol. 1 (Bouyon 2024)"}, {"@type": "MusicRecording", "name": "Mass (Welcome To Guadeloupe)"}, {"@type": "MusicRecording", "name": "Batman 2 (Bouyon 2024)"}, {"@type": "MusicRecording", "name": "Real Shatta Kartel"}, {"@type": "MusicRecording", "name": "Raggaboday (Instrumental)"}, {"@type": "MusicRecording", "name": "It’s You"}, {"@type": "MusicRecording", "name": "Ti Moun a Moun La"}, {"@type": "MusicRecording", "name": "Montpel Carnival Anthem"}], "sameAs": ["https://www.instagram.com/djskaytah", "https://www.tiktok.com/@deejayskaytah"]}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/dj-skaytah.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/dj-skaytah.html#artist", "name": "DJ Skaytah", "description": "DJ et producteur bouyon et shatta. Catalogue vérifié : Kay Ka Fet, Vol. 1 (Bouyon 2024), Mass (Welcome To Guadeloupe) et Batman 2 (Bouyon 2024). Crédits de composition au nom de Bradley Paulin. Artiste distinct de DJ Skycee.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Kay Ka Fet, Vol. 1 (Bouyon 2024)"}, {"@type": "MusicRecording", "name": "Mass (Welcome To Guadeloupe)"}, {"@type": "MusicRecording", "name": "Batman 2 (Bouyon 2024)"}, {"@type": "MusicRecording", "name": "Real Shatta Kartel"}, {"@type": "MusicRecording", "name": "Raggaboday (Instrumental)"}, {"@type": "MusicRecording", "name": "It’s You"}, {"@type": "MusicRecording", "name": "Ti Moun a Moun La"}, {"@type": "MusicRecording", "name": "Montpel Carnival Anthem"},
+      {
+       "@type": "MusicRecording",
+       "name": "Montpel Carnival Anthem II (feat. Mada4bang, Sagaya, Sabri Sama & La Wif)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mass 2 (Welcome To Guadeloupe)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rich City"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Yeah Warm up Riddim"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BeethoFunk"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Elle veut pas (feat. DJ Skaytah)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ambiance (feat. DJ Skaytah) [2017 Summer Tour]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Batman (Bouyon 2024)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jaloux"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pushing P (feat. Dj Skaytah) (Bouyon 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Summer Fest Riddim"
+      },
+], "sameAs": ["https://www.instagram.com/djskaytah", "https://www.tiktok.com/@deejayskaytah"]}}],
  "date_modified": "2026-10-20"
 }
 
@@ -243,6 +288,51 @@ EN = {
     "His records are on the streaming platforms under the name DJ Skaytah, starting with “Kay Ka Fet” and “Mass (Welcome To Guadeloupe)”. His verified accounts are @djskaytah on Instagram and @deejayskaytah on TikTok. For new releases from the scene, follow @bouyonshattaz and comment ROAD MIX under a post: the Bouyon Road Mix, described on our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> page, arrives by DM.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/dj-skaytah.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/dj-skaytah.html#artist", "name": "DJ Skaytah", "description": "Bouyon and shatta DJ and producer. Verified catalogue: Kay Ka Fet, Vol. 1 (Bouyon 2024), Mass (Welcome To Guadeloupe) and Batman 2 (Bouyon 2024). Songwriting credits under the name Bradley Paulin. A distinct artist from DJ Skycee.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Kay Ka Fet, Vol. 1 (Bouyon 2024)"}, {"@type": "MusicRecording", "name": "Mass (Welcome To Guadeloupe)"}, {"@type": "MusicRecording", "name": "Batman 2 (Bouyon 2024)"}, {"@type": "MusicRecording", "name": "Real Shatta Kartel"}, {"@type": "MusicRecording", "name": "Raggaboday (Instrumental)"}, {"@type": "MusicRecording", "name": "It’s You"}, {"@type": "MusicRecording", "name": "Ti Moun a Moun La"}, {"@type": "MusicRecording", "name": "Montpel Carnival Anthem"}], "sameAs": ["https://www.instagram.com/djskaytah", "https://www.tiktok.com/@deejayskaytah"]}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/dj-skaytah.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/dj-skaytah.html#artist", "name": "DJ Skaytah", "description": "Bouyon and shatta DJ and producer. Verified catalogue: Kay Ka Fet, Vol. 1 (Bouyon 2024), Mass (Welcome To Guadeloupe) and Batman 2 (Bouyon 2024). Songwriting credits under the name Bradley Paulin. A distinct artist from DJ Skycee.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Kay Ka Fet, Vol. 1 (Bouyon 2024)"}, {"@type": "MusicRecording", "name": "Mass (Welcome To Guadeloupe)"}, {"@type": "MusicRecording", "name": "Batman 2 (Bouyon 2024)"}, {"@type": "MusicRecording", "name": "Real Shatta Kartel"}, {"@type": "MusicRecording", "name": "Raggaboday (Instrumental)"}, {"@type": "MusicRecording", "name": "It’s You"}, {"@type": "MusicRecording", "name": "Ti Moun a Moun La"}, {"@type": "MusicRecording", "name": "Montpel Carnival Anthem"},
+      {
+       "@type": "MusicRecording",
+       "name": "Montpel Carnival Anthem II (feat. Mada4bang, Sagaya, Sabri Sama & La Wif)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mass 2 (Welcome To Guadeloupe)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rich City"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Yeah Warm up Riddim"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BeethoFunk"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Elle veut pas (feat. DJ Skaytah)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ambiance (feat. DJ Skaytah) [2017 Summer Tour]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Batman (Bouyon 2024)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jaloux"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pushing P (feat. Dj Skaytah) (Bouyon 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Summer Fest Riddim"
+      },
+], "sameAs": ["https://www.instagram.com/djskaytah", "https://www.tiktok.com/@deejayskaytah"]}}],
  "date_modified": "2026-10-20"
 }

@@ -138,7 +138,344 @@ FR = {
     "Non. « Que Calor », avec J Balvin et El Alfa en 2019, se tourne vers le reggaeton et le dembow de Saint-Domingue, en République dominicaine. Il ne faut pas confondre ce pays avec la Dominique, l’île où est né le bouyon. Aucun titre de Major Lazer n’est un enregistrement bouyon vérifié.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/major-lazer.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/major-lazer.html#artist", "name": "Major Lazer", "description": "Groupe américain de musique électronique formé à Los Angeles en 2008 par Diplo et Switch, devenu le trio de Diplo, Walshy Fire et Ape Drums, rejoint par America Foster en 2025. Projet dancehall et soca crossover, remix de Differentology de Bunji Garlin, titres Lean On, Light It Up et Cold Water. Pas un artiste bouyon : aucun enregistrement bouyon vérifié.", "genre": "Dancehall", "track": [{"@type": "MusicRecording", "name": "Pon De Floor"}, {"@type": "MusicRecording", "name": "Get Free"}, {"@type": "MusicRecording", "name": "Watch Out for This (Bumaye)"}, {"@type": "MusicRecording", "name": "Lean On"}, {"@type": "MusicRecording", "name": "Light It Up"}, {"@type": "MusicRecording", "name": "Powerful"}, {"@type": "MusicRecording", "name": "All My Love (Remix)"}, {"@type": "MusicRecording", "name": "Cold Water"}, {"@type": "MusicRecording", "name": "Run Up"}, {"@type": "MusicRecording", "name": "Know No Better"}, {"@type": "MusicRecording", "name": "Sua Cara"}, {"@type": "MusicRecording", "name": "Que Calor"}, {"@type": "MusicRecording", "name": "Sound Bang"}, {"@type": "MusicRecording", "name": "Front of the Line"}, {"@type": "MusicRecording", "name": "Differentology (Major Lazer Remix)"}], "sameAs": ["https://majorlazer.com/", "https://www.instagram.com/majorlazer"]}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/major-lazer.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/major-lazer.html#artist", "name": "Major Lazer", "description": "Groupe américain de musique électronique formé à Los Angeles en 2008 par Diplo et Switch, devenu le trio de Diplo, Walshy Fire et Ape Drums, rejoint par America Foster en 2025. Projet dancehall et soca crossover, remix de Differentology de Bunji Garlin, titres Lean On, Light It Up et Cold Water. Pas un artiste bouyon : aucun enregistrement bouyon vérifié.", "genre": "Dancehall", "track": [{"@type": "MusicRecording", "name": "Pon De Floor"}, {"@type": "MusicRecording", "name": "Get Free"}, {"@type": "MusicRecording", "name": "Watch Out for This (Bumaye)"}, {"@type": "MusicRecording", "name": "Lean On"}, {"@type": "MusicRecording", "name": "Light It Up"}, {"@type": "MusicRecording", "name": "Powerful"}, {"@type": "MusicRecording", "name": "All My Love (Remix)"}, {"@type": "MusicRecording", "name": "Cold Water"}, {"@type": "MusicRecording", "name": "Run Up"}, {"@type": "MusicRecording", "name": "Know No Better"}, {"@type": "MusicRecording", "name": "Sua Cara"}, {"@type": "MusicRecording", "name": "Que Calor"}, {"@type": "MusicRecording", "name": "Sound Bang"}, {"@type": "MusicRecording", "name": "Front of the Line"}, {"@type": "MusicRecording", "name": "Differentology (Major Lazer Remix)"},
+      {
+       "@type": "MusicRecording",
+       "name": "RoTATe wiTh aMeRiCa FOsTeR, sKiLLiBeNg aNd bEAM"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "pAPi wiTH tOKisCha"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Place Like Home"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Champagne"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "GOAT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "JUMP & TWIST"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PEPPA POT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MINI SKIRT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BRUK DOWN"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "GANGSTA"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SOFIA"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ke Shy"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ngibambe"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Oh Yeah"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Smoking & Drinking"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Higher Ground"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stop & Go"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mamgobhozi"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Designer"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Koo Koo Fun (Extended)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Koo Koo Fun"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Don't Care About Nothing (from GRAN TURISMO 7)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "La Mano (feat. Tavo Rayo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Titans"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bam Bam"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "QueLoQue"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "King Of The Party"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Soca Storm"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Make It Hot"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Trigger"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rave de Favela"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lay Your Head On Me"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "C'est Cuit"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Diplomatico"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hell and High Water"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Blow That Smoke"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Miss You"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Particula"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jump (feat. Busy Signal)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Buscando Huellas"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Christmas Trees (feat. Protoje)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Believer"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Boom"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Be Together"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Too Original"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Night Riders"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Aerosol Can"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bubble Butt"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jessica"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jump (The Martin Brothers Remix) / Get Naked (acappella) (Riva Starr, Fatboy Slim & Major Lazer Remix) (feat. Beardyman)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jump Up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Keep It Goin' Louder"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hold The Line"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PELINEGRA"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shake It To The Max (FLY) [Major Lazer Remix]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jiggy Woogie"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Closer to You (feat. Major Lazer)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Alone (Major Lazer Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Don't Go Yet (Major Lazer Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Don't Go Yet (Major Lazer Dub)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Blinding Lights (Major Lazer Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dumebi (Major Lazer Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Evapora"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Walking (feat. Swae Lee & Major Lazer)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ALREADY"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Oh My Gawd"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Loko (feat. Kevinho & Busy Signal)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tip Pon It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Where Is Your Love? (feat. Major Lazer)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Naughty Ride (feat. Major Lazer)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "My Love (feat. Major Lazer, WizKid, Dua Lipa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "The Way We Do This (feat. Major Lazer & Busy Signal)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "The Sound (feat. Major Lazer)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Love Me Long (feat. Major Lazer & Gyptian)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "One Wine (feat. Major Lazer)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "We Make It Bounce (feat. Major Lazer & Stylo G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "One Drop (Major Lazer Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pressure"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Push And Shove"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hold You (feat. Major Lazer)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jadi Buti"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Original Don (Flosstradamus Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Keep It Goin' Louder (Tom Stephans Harder Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Let Me Live"
+      },
+], "sameAs": ["https://majorlazer.com/", "https://www.instagram.com/majorlazer"]}}],
  "date_modified": "2026-10-20"
 }
 
@@ -272,6 +609,343 @@ EN = {
     "No. “Que Calor”, with J Balvin and El Alfa in 2019, turns to reggaeton and to the dembow of Santo Domingo, in the Dominican Republic. That country must not be confused with Dominica, the island where bouyon was born. No Major Lazer record is a verified bouyon recording.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/major-lazer.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/major-lazer.html#artist", "name": "Major Lazer", "description": "American electronic music group formed in Los Angeles in 2008 by Diplo and Switch, later the trio of Diplo, Walshy Fire and Ape Drums, joined by America Foster in 2025. Dancehall and soca crossover project, remix of Bunji Garlin Differentology, records Lean On, Light It Up and Cold Water. Not a bouyon artist: no verified bouyon recording.", "genre": "Dancehall", "track": [{"@type": "MusicRecording", "name": "Pon De Floor"}, {"@type": "MusicRecording", "name": "Get Free"}, {"@type": "MusicRecording", "name": "Watch Out for This (Bumaye)"}, {"@type": "MusicRecording", "name": "Lean On"}, {"@type": "MusicRecording", "name": "Light It Up"}, {"@type": "MusicRecording", "name": "Powerful"}, {"@type": "MusicRecording", "name": "All My Love (Remix)"}, {"@type": "MusicRecording", "name": "Cold Water"}, {"@type": "MusicRecording", "name": "Run Up"}, {"@type": "MusicRecording", "name": "Know No Better"}, {"@type": "MusicRecording", "name": "Sua Cara"}, {"@type": "MusicRecording", "name": "Que Calor"}, {"@type": "MusicRecording", "name": "Sound Bang"}, {"@type": "MusicRecording", "name": "Front of the Line"}, {"@type": "MusicRecording", "name": "Differentology (Major Lazer Remix)"}], "sameAs": ["https://majorlazer.com/", "https://www.instagram.com/majorlazer"]}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/major-lazer.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/major-lazer.html#artist", "name": "Major Lazer", "description": "American electronic music group formed in Los Angeles in 2008 by Diplo and Switch, later the trio of Diplo, Walshy Fire and Ape Drums, joined by America Foster in 2025. Dancehall and soca crossover project, remix of Bunji Garlin Differentology, records Lean On, Light It Up and Cold Water. Not a bouyon artist: no verified bouyon recording.", "genre": "Dancehall", "track": [{"@type": "MusicRecording", "name": "Pon De Floor"}, {"@type": "MusicRecording", "name": "Get Free"}, {"@type": "MusicRecording", "name": "Watch Out for This (Bumaye)"}, {"@type": "MusicRecording", "name": "Lean On"}, {"@type": "MusicRecording", "name": "Light It Up"}, {"@type": "MusicRecording", "name": "Powerful"}, {"@type": "MusicRecording", "name": "All My Love (Remix)"}, {"@type": "MusicRecording", "name": "Cold Water"}, {"@type": "MusicRecording", "name": "Run Up"}, {"@type": "MusicRecording", "name": "Know No Better"}, {"@type": "MusicRecording", "name": "Sua Cara"}, {"@type": "MusicRecording", "name": "Que Calor"}, {"@type": "MusicRecording", "name": "Sound Bang"}, {"@type": "MusicRecording", "name": "Front of the Line"}, {"@type": "MusicRecording", "name": "Differentology (Major Lazer Remix)"},
+      {
+       "@type": "MusicRecording",
+       "name": "RoTATe wiTh aMeRiCa FOsTeR, sKiLLiBeNg aNd bEAM"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "pAPi wiTH tOKisCha"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Place Like Home"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Champagne"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "GOAT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "JUMP & TWIST"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PEPPA POT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MINI SKIRT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BRUK DOWN"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "GANGSTA"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SOFIA"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ke Shy"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ngibambe"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Oh Yeah"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Smoking & Drinking"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Higher Ground"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stop & Go"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mamgobhozi"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Designer"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Koo Koo Fun (Extended)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Koo Koo Fun"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Don't Care About Nothing (from GRAN TURISMO 7)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "La Mano (feat. Tavo Rayo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Titans"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bam Bam"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "QueLoQue"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "King Of The Party"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Soca Storm"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Make It Hot"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Trigger"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rave de Favela"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lay Your Head On Me"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "C'est Cuit"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Diplomatico"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hell and High Water"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Blow That Smoke"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Miss You"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Particula"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jump (feat. Busy Signal)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Buscando Huellas"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Christmas Trees (feat. Protoje)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Believer"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Boom"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Be Together"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Too Original"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Night Riders"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Aerosol Can"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bubble Butt"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jessica"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jump (The Martin Brothers Remix) / Get Naked (acappella) (Riva Starr, Fatboy Slim & Major Lazer Remix) (feat. Beardyman)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jump Up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Keep It Goin' Louder"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hold The Line"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PELINEGRA"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shake It To The Max (FLY) [Major Lazer Remix]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jiggy Woogie"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Closer to You (feat. Major Lazer)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Alone (Major Lazer Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Don't Go Yet (Major Lazer Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Don't Go Yet (Major Lazer Dub)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Blinding Lights (Major Lazer Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dumebi (Major Lazer Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Evapora"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Walking (feat. Swae Lee & Major Lazer)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ALREADY"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Oh My Gawd"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Loko (feat. Kevinho & Busy Signal)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tip Pon It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Where Is Your Love? (feat. Major Lazer)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Naughty Ride (feat. Major Lazer)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "My Love (feat. Major Lazer, WizKid, Dua Lipa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "The Way We Do This (feat. Major Lazer & Busy Signal)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "The Sound (feat. Major Lazer)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Love Me Long (feat. Major Lazer & Gyptian)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "One Wine (feat. Major Lazer)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "We Make It Bounce (feat. Major Lazer & Stylo G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "One Drop (Major Lazer Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pressure"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Push And Shove"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hold You (feat. Major Lazer)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jadi Buti"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Original Don (Flosstradamus Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Keep It Goin' Louder (Tom Stephans Harder Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Let Me Live"
+      },
+], "sameAs": ["https://majorlazer.com/", "https://www.instagram.com/majorlazer"]}}],
  "date_modified": "2026-10-20"
 }

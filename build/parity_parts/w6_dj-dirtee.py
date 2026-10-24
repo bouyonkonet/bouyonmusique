@@ -119,7 +119,100 @@ FR = {
     "C’est une trace de classement DJ, pas une sortie documentée. Un classement communautaire de VirtualDJ liste « Dj Dirtee Wuk up di riddim Bouyon », daté de 2023 et rangé en hip hop et rap. Aucune fiche de plateforme de streaming consultée ne lui donne de date de sortie, de label ou de crédits comparables aux autres titres du dossier.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/dj-dirtee.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/dj-dirtee.html#artist", "name": "Dj Dirtee", "description": "DJ et producteur bouyon documenté par ses crédits de plateformes : production de Kay téka fè pour Skynix en 2020, I ja lè avec Gucci C en 2021, Touch and Go avec Trixzmigos et Fetty Mark en 2024, Supalova et LA PEP'HIT FREESTYLE avec DJ Softee et Tiitii NBA en 2025. Nom complet et origine non établis par le dossier public.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Kay téka fè"}, {"@type": "MusicRecording", "name": "Tik tak"}, {"@type": "MusicRecording", "name": "I ja lè"}, {"@type": "MusicRecording", "name": "Wuk up di riddim Bouyon"}, {"@type": "MusicRecording", "name": "Touch & Go"}, {"@type": "MusicRecording", "name": "Supalova"}, {"@type": "MusicRecording", "name": "LA PEP'HIT FREESTYLE"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/dj-dirtee.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/dj-dirtee.html#artist", "name": "Dj Dirtee", "description": "DJ et producteur bouyon documenté par ses crédits de plateformes : production de Kay téka fè pour Skynix en 2020, I ja lè avec Gucci C en 2021, Touch and Go avec Trixzmigos et Fetty Mark en 2024, Supalova et LA PEP'HIT FREESTYLE avec DJ Softee et Tiitii NBA en 2025. Nom complet et origine non établis par le dossier public.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Kay téka fè"}, {"@type": "MusicRecording", "name": "Tik tak"}, {"@type": "MusicRecording", "name": "I ja lè"}, {"@type": "MusicRecording", "name": "Wuk up di riddim Bouyon"}, {"@type": "MusicRecording", "name": "Touch & Go"}, {"@type": "MusicRecording", "name": "Supalova"}, {"@type": "MusicRecording", "name": "LA PEP'HIT FREESTYLE"},
+      {
+       "@type": "MusicRecording",
+       "name": "Spice Freestyle (feat. Gucci C)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Enjoy Your Life"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fanm Aw (feat. Les Curvyzz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "En Vrai (feat. Rayken)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fè sa (feat. Medunn Mc)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sirène Riddim (Instrumental version)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Megamix Sirène Riddim"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "An Diw (feat. Le Cok Sportif)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Libélil (feat. Team Bwè Tou Sa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hey My Baby (feat. Gucci C)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cookie (feat. Haterz'Be)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rachelle (feat. Arendi)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Motivé (feat. Doc J)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ring Ring Ring (feat. Dikens)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shooter (feat. Medunn mc)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mové Mové (feat. Gucci C)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kate Anissa (feat. Dikens, Vely, Skyone & florian Freche)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Welele (feat. Edday & Kitty p)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TI CHABIN LA (feat. sissii & Dj Dirtee)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "la cloche (feat. Dj Dirtee)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ca Empeste"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kitty Cat"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pli ô"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -229,6 +322,99 @@ EN = {
     "It is a DJ chart trace, not a documented release. A VirtualDJ community chart lists “Dj Dirtee Wuk up di riddim Bouyon”, dated 2023 and filed under hip hop and rap. No streaming platform sheet consulted gives it a release date, a label or credits comparable to the other tracks in the record.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/dj-dirtee.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/dj-dirtee.html#artist", "name": "Dj Dirtee", "description": "Bouyon DJ and producer documented by his platform credits: production of Kay teka fe for Skynix in 2020, I ja le with Gucci C in 2021, Touch and Go with Trixzmigos and Fetty Mark in 2024, Supalova and LA PEP'HIT FREESTYLE with DJ Softee and Tiitii NBA in 2025. Full name and origin not established by the public record.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Kay téka fè"}, {"@type": "MusicRecording", "name": "Tik tak"}, {"@type": "MusicRecording", "name": "I ja lè"}, {"@type": "MusicRecording", "name": "Wuk up di riddim Bouyon"}, {"@type": "MusicRecording", "name": "Touch & Go"}, {"@type": "MusicRecording", "name": "Supalova"}, {"@type": "MusicRecording", "name": "LA PEP'HIT FREESTYLE"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/dj-dirtee.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/dj-dirtee.html#artist", "name": "Dj Dirtee", "description": "Bouyon DJ and producer documented by his platform credits: production of Kay teka fe for Skynix in 2020, I ja le with Gucci C in 2021, Touch and Go with Trixzmigos and Fetty Mark in 2024, Supalova and LA PEP'HIT FREESTYLE with DJ Softee and Tiitii NBA in 2025. Full name and origin not established by the public record.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Kay téka fè"}, {"@type": "MusicRecording", "name": "Tik tak"}, {"@type": "MusicRecording", "name": "I ja lè"}, {"@type": "MusicRecording", "name": "Wuk up di riddim Bouyon"}, {"@type": "MusicRecording", "name": "Touch & Go"}, {"@type": "MusicRecording", "name": "Supalova"}, {"@type": "MusicRecording", "name": "LA PEP'HIT FREESTYLE"},
+      {
+       "@type": "MusicRecording",
+       "name": "Spice Freestyle (feat. Gucci C)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Enjoy Your Life"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fanm Aw (feat. Les Curvyzz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "En Vrai (feat. Rayken)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fè sa (feat. Medunn Mc)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sirène Riddim (Instrumental version)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Megamix Sirène Riddim"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "An Diw (feat. Le Cok Sportif)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Libélil (feat. Team Bwè Tou Sa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hey My Baby (feat. Gucci C)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cookie (feat. Haterz'Be)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rachelle (feat. Arendi)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Motivé (feat. Doc J)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ring Ring Ring (feat. Dikens)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shooter (feat. Medunn mc)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mové Mové (feat. Gucci C)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kate Anissa (feat. Dikens, Vely, Skyone & florian Freche)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Welele (feat. Edday & Kitty p)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TI CHABIN LA (feat. sissii & Dj Dirtee)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "la cloche (feat. Dj Dirtee)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ca Empeste"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kitty Cat"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pli ô"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

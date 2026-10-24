@@ -127,7 +127,40 @@ FR = {
     "Commencez par « Chien », puis « Bouè'y Bay » avec TiiTii NBA et « 6 Dwèt » avec LESTEF KJF et DJ Luchshiy. Pour entendre la scène dans laquelle le groupe circule, des nouveautés de la Dominique à celles de la Guadeloupe et de la Martinique, la <a href=\"/playlist-bouyon.html\">playlist Bouyon Road Mix</a> de Bouyon Shattaz suit les sorties du genre au fil des saisons.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/totally-spices.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/totally-spices.html#artist", "name": "Totally Spice's", "description": "Totally Spice's, groupe féminin de bouyon de Guadeloupe. Voix créditées : Carcheline Cereme et Naima Dimina. Titres vérifiés : Chien (2024, D0 Production), Bouè'y Bay avec TiiTii NBA, 6 Dwèt avec LESTEF KJF (2025). Plateau Bad Gyal Bouyon Lé Bon avec Holly G aux Eurockéennes 2025 et à L’Été Marseillais 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Chien"}, {"@type": "MusicRecording", "name": "Bouè'y Bay"}, {"@type": "MusicRecording", "name": "6 Dwèt"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/totally-spices.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/totally-spices.html#artist", "name": "Totally Spice's", "description": "Totally Spice's, groupe féminin de bouyon de Guadeloupe. Voix créditées : Carcheline Cereme et Naima Dimina. Titres vérifiés : Chien (2024, D0 Production), Bouè'y Bay avec TiiTii NBA, 6 Dwèt avec LESTEF KJF (2025). Plateau Bad Gyal Bouyon Lé Bon avec Holly G aux Eurockéennes 2025 et à L’Été Marseillais 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Chien"}, {"@type": "MusicRecording", "name": "Bouè'y Bay"}, {"@type": "MusicRecording", "name": "6 Dwèt"},
+      {
+       "@type": "MusicRecording",
+       "name": "Bad Boy (feat. DVK)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sale histoire"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sweet P***y"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bouyonstyle, No. 1 (D0 Production Presents Totally Spice's) [feat. BISMOK]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Krikéy (D0 Production Presents Totally Spice's) [feat. Simsima & keks Mafia]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pantin"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "4X4 (feat. Totally Spice's)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "My Lolly (feat. Totally Spice's)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -243,6 +276,39 @@ EN = {
     "Start with “Chien”, then “Bouè'y Bay” with TiiTii NBA and “6 Dwèt” with LESTEF KJF and DJ Luchshiy. To hear the scene the group moves in, from new music out of Dominica to that of Guadeloupe and Martinique, the <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix playlist</a> by Bouyon Shattaz follows the genre’s releases season by season.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/totally-spices.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/totally-spices.html#artist", "name": "Totally Spice's", "description": "Totally Spice's, women bouyon group from Guadeloupe. Credited voices: Carcheline Cereme and Naima Dimina. Verified tracks: Chien (2024, D0 Production), Bouè'y Bay with TiiTii NBA, 6 Dwèt with LESTEF KJF (2025). Bad Gyal Bouyon Lé Bon stage with Holly G at the Eurockéennes 2025 and at L'Été Marseillais 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Chien"}, {"@type": "MusicRecording", "name": "Bouè'y Bay"}, {"@type": "MusicRecording", "name": "6 Dwèt"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/totally-spices.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/totally-spices.html#artist", "name": "Totally Spice's", "description": "Totally Spice's, women bouyon group from Guadeloupe. Credited voices: Carcheline Cereme and Naima Dimina. Verified tracks: Chien (2024, D0 Production), Bouè'y Bay with TiiTii NBA, 6 Dwèt with LESTEF KJF (2025). Bad Gyal Bouyon Lé Bon stage with Holly G at the Eurockéennes 2025 and at L'Été Marseillais 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Chien"}, {"@type": "MusicRecording", "name": "Bouè'y Bay"}, {"@type": "MusicRecording", "name": "6 Dwèt"},
+      {
+       "@type": "MusicRecording",
+       "name": "Bad Boy (feat. DVK)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sale histoire"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sweet P***y"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bouyonstyle, No. 1 (D0 Production Presents Totally Spice's) [feat. BISMOK]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Krikéy (D0 Production Presents Totally Spice's) [feat. Simsima & keks Mafia]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pantin"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "4X4 (feat. Totally Spice's)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "My Lolly (feat. Totally Spice's)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

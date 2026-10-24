@@ -154,7 +154,148 @@ FR = {
     "La bonne orthographe est Wrecketeng, celle donnée par DJ Cut, le pionnier fondateur du courant. « Reketeng », que l’on lit par exemple dans le sous-titre du mix « Best of 2020 Bouyon x Reketeng Mix » où figure Keks Mafia, est une faute répandue sur internet. Ses couplets rappés sur des rythmes bouyon le placent dans ce voisinage sonore, détaillé sur notre page <a href=\"/wrecketeng.html\">Wrecketeng</a>.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/keks-mafia.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/keks-mafia.html#artist", "name": "Keks Mafia", "description": "Artiste hip hop de la Dominique qui fusionne hip hop et bouyon. Titres documentés de Hello Kitty (2018) à Hot Sauce (2024), quatre titres dans le mix D Riddim Box de 2020, interprétation jazz de son répertoire au Bouyon Jazz Festival 2021, et collaboration POMPÉ avec Dcamp sur l’album Premières Notes de Lewismelo.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Hello Kitty"}, {"@type": "MusicRecording", "name": "Granny"}, {"@type": "MusicRecording", "name": "Vicks"}, {"@type": "MusicRecording", "name": "WO TAT TAT"}, {"@type": "MusicRecording", "name": "Drip Drip"}, {"@type": "MusicRecording", "name": "Shake It"}, {"@type": "MusicRecording", "name": "One Pot"}, {"@type": "MusicRecording", "name": "Neighbours"}, {"@type": "MusicRecording", "name": "Tu Veux Ça"}, {"@type": "MusicRecording", "name": "Bouyon Warm Up"}, {"@type": "MusicRecording", "name": "Superstars (Bouyon Remix)"}, {"@type": "MusicRecording", "name": "Krireky"}, {"@type": "MusicRecording", "name": "Hot Sauce"}, {"@type": "MusicRecording", "name": "POMPÉ"}, {"@type": "MusicRecording", "name": "Open Wide"}, {"@type": "MusicRecording", "name": "Man She Want"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/keks-mafia.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/keks-mafia.html#artist", "name": "Keks Mafia", "description": "Artiste hip hop de la Dominique qui fusionne hip hop et bouyon. Titres documentés de Hello Kitty (2018) à Hot Sauce (2024), quatre titres dans le mix D Riddim Box de 2020, interprétation jazz de son répertoire au Bouyon Jazz Festival 2021, et collaboration POMPÉ avec Dcamp sur l’album Premières Notes de Lewismelo.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Hello Kitty"}, {"@type": "MusicRecording", "name": "Granny"}, {"@type": "MusicRecording", "name": "Vicks"}, {"@type": "MusicRecording", "name": "WO TAT TAT"}, {"@type": "MusicRecording", "name": "Drip Drip"}, {"@type": "MusicRecording", "name": "Shake It"}, {"@type": "MusicRecording", "name": "One Pot"}, {"@type": "MusicRecording", "name": "Neighbours"}, {"@type": "MusicRecording", "name": "Tu Veux Ça"}, {"@type": "MusicRecording", "name": "Bouyon Warm Up"}, {"@type": "MusicRecording", "name": "Superstars (Bouyon Remix)"}, {"@type": "MusicRecording", "name": "Krireky"}, {"@type": "MusicRecording", "name": "Hot Sauce"}, {"@type": "MusicRecording", "name": "POMPÉ"}, {"@type": "MusicRecording", "name": "Open Wide"}, {"@type": "MusicRecording", "name": "Man She Want"},
+      {
+       "@type": "MusicRecording",
+       "name": "Bisous"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Have Insects"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Not More Than Me"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Femme d'un prisonnier (Speed Up)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Au Debut (Speed Up)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Loin de toi (Speed Up)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Etincelle (Speed Up)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tspt (Speed Up)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hors des chaines (Speed Up)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kalme (Speed Up)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "The Good Go Bad (Speed Up)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Easy Come Easy Go Bouyon (Speed Up)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Trop Donner (Speed Up)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tu m'as briser (Speed Up)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Si c'est pas dieu c'est qui (Speed Up)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Say My Name"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Moose Boy Love"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LUV KARAIJET"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Uh Uh Wet"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Easy Come Easy Go"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kilòt AW BOUYON (Version Speed Up)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nou ka pété ça inh"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sans car"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dilemma (Speed Up)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Chook n Hook"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kilòt aw!"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Koké Pani Poz"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pluck Pluck"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Copié collé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fess Ka Woulé (feat. Keks Mafia)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Your Moda Ask (feat. Keks Mafia & Dj Addo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Instructions (feat. Keks Mafia)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Anything For a LIke/Reaction (feat. Keks Mafia, Shelly & DiYoute)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Work That Bumpa (feat. keks mafia)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Krikéy"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -281,6 +422,147 @@ EN = {
     "The correct spelling is Wrecketeng, the one given by DJ Cut, the founding pioneer of the style. “Reketeng”, seen for example in the subtitle of the “Best of 2020 Bouyon x Reketeng Mix” that carries Keks Mafia, is a widespread internet misspelling. His rapped verses over bouyon rhythms place him in that sonic neighbourhood, detailed on our <a href=\"/en/wrecketeng.html\">Wrecketeng</a> page.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/keks-mafia.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/keks-mafia.html#artist", "name": "Keks Mafia", "description": "Hip hop artist from Dominica fusing hip hop and bouyon. Documented records from Hello Kitty (2018) to Hot Sauce (2024), four records in the 2020 D Riddim Box mix, a jazz reinterpretation of his repertoire at the 2021 Bouyon Jazz Festival, and the POMPÉ collaboration with Dcamp on the Lewismelo album Premières Notes.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Hello Kitty"}, {"@type": "MusicRecording", "name": "Granny"}, {"@type": "MusicRecording", "name": "Vicks"}, {"@type": "MusicRecording", "name": "WO TAT TAT"}, {"@type": "MusicRecording", "name": "Drip Drip"}, {"@type": "MusicRecording", "name": "Shake It"}, {"@type": "MusicRecording", "name": "One Pot"}, {"@type": "MusicRecording", "name": "Neighbours"}, {"@type": "MusicRecording", "name": "Tu Veux Ça"}, {"@type": "MusicRecording", "name": "Bouyon Warm Up"}, {"@type": "MusicRecording", "name": "Superstars (Bouyon Remix)"}, {"@type": "MusicRecording", "name": "Krireky"}, {"@type": "MusicRecording", "name": "Hot Sauce"}, {"@type": "MusicRecording", "name": "POMPÉ"}, {"@type": "MusicRecording", "name": "Open Wide"}, {"@type": "MusicRecording", "name": "Man She Want"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/keks-mafia.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/keks-mafia.html#artist", "name": "Keks Mafia", "description": "Hip hop artist from Dominica fusing hip hop and bouyon. Documented records from Hello Kitty (2018) to Hot Sauce (2024), four records in the 2020 D Riddim Box mix, a jazz reinterpretation of his repertoire at the 2021 Bouyon Jazz Festival, and the POMPÉ collaboration with Dcamp on the Lewismelo album Premières Notes.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Hello Kitty"}, {"@type": "MusicRecording", "name": "Granny"}, {"@type": "MusicRecording", "name": "Vicks"}, {"@type": "MusicRecording", "name": "WO TAT TAT"}, {"@type": "MusicRecording", "name": "Drip Drip"}, {"@type": "MusicRecording", "name": "Shake It"}, {"@type": "MusicRecording", "name": "One Pot"}, {"@type": "MusicRecording", "name": "Neighbours"}, {"@type": "MusicRecording", "name": "Tu Veux Ça"}, {"@type": "MusicRecording", "name": "Bouyon Warm Up"}, {"@type": "MusicRecording", "name": "Superstars (Bouyon Remix)"}, {"@type": "MusicRecording", "name": "Krireky"}, {"@type": "MusicRecording", "name": "Hot Sauce"}, {"@type": "MusicRecording", "name": "POMPÉ"}, {"@type": "MusicRecording", "name": "Open Wide"}, {"@type": "MusicRecording", "name": "Man She Want"},
+      {
+       "@type": "MusicRecording",
+       "name": "Bisous"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Have Insects"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Not More Than Me"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Femme d'un prisonnier (Speed Up)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Au Debut (Speed Up)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Loin de toi (Speed Up)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Etincelle (Speed Up)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tspt (Speed Up)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hors des chaines (Speed Up)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kalme (Speed Up)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "The Good Go Bad (Speed Up)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Easy Come Easy Go Bouyon (Speed Up)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Trop Donner (Speed Up)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tu m'as briser (Speed Up)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Si c'est pas dieu c'est qui (Speed Up)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Say My Name"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Moose Boy Love"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LUV KARAIJET"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Uh Uh Wet"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Easy Come Easy Go"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kilòt AW BOUYON (Version Speed Up)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nou ka pété ça inh"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sans car"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dilemma (Speed Up)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Chook n Hook"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kilòt aw!"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Koké Pani Poz"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pluck Pluck"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Copié collé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fess Ka Woulé (feat. Keks Mafia)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Your Moda Ask (feat. Keks Mafia & Dj Addo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Instructions (feat. Keks Mafia)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Anything For a LIke/Reaction (feat. Keks Mafia, Shelly & DiYoute)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Work That Bumpa (feat. keks mafia)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Krikéy"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

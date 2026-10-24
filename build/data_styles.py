@@ -131,7 +131,7 @@ PAGES = [
     "Au <a href=\"/world-creole-music-festival.html\">World Creole Music Festival</a> de Roseau, du 23 au 25 octobre 2026, trois soirées à Windsor Park où le bouyon partage la scène avec la cadence, le zouk et le kompa. TK International joue la Nuit 1, et le site officiel de Machel Montano l'annonce le 25 octobre. Au carnaval de la Dominique, Mas Domnik, le J'ouvert ouvre les grands jours dès 4 heures du matin avec le bouyon de l'année.",
   )
 ],
-"date_modified": "2026-10-20",
+"date_modified": "2026-10-21",
 "extra_graph": [
   {"@type": "Article", "headline": "Bouyon Soca : la fusion bouyon et soca expliquée", "author": {"@id": "https://bouyonmusique.com/#smokiller"}, "publisher": {"@id": "https://bouyonmusique.com/#org"}, "inLanguage": "fr"}
 ],
@@ -259,7 +259,7 @@ PAGES = [
     "À cause de ses paroles. Le podcast Faya décrit une musique très rapide, aux paroles crues, qui a même frôlé l'interdiction, un exutoire pour la jeunesse qui fait parler, souvent en mal, mais qui fait surtout danser. Le débat reste ouvert : pour Maïté Berchel-Bordin, le bouyon gagnera en maturité en diversifiant ses textes et ses mélodies, et Lejuh a été interrogé en podcast sur la question de savoir si l'on peut faire du bouyon tout public.",
   )
 ],
-"date_modified": "2026-10-20",
+"date_modified": "2026-10-21",
 "extra_graph": [
   {"@type": "Article", "headline": "Bouyon Gwada : la branche hardcore du bouyon en Guadeloupe", "author": {"@id": "https://bouyonmusique.com/#smokiller"}, "publisher": {"@id": "https://bouyonmusique.com/#org"}, "inLanguage": "fr"}
 ],

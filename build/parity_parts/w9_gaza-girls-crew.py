@@ -108,7 +108,12 @@ FR = {
     "Commencez par « Sa Zot Vlé », le single de 2011 chez Bouyon Concept, puis lisez notre page <a href=\"/bouyon-gwada.html\">bouyon gwada</a> pour le contexte de la scène et la page bouyon à Paris pour la nuit de décembre 2012. Pour le bouyon d’aujourd’hui, la playlist Bouyon Road Mix de Bouyon Shattaz réunit les nouveautés de la Dominique, de la Guadeloupe et de la Martinique.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/gaza-girls-crew.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/gaza-girls-crew.html#artist", "name": "Gaza Girls Crew", "description": "Groupe féminin de la scène bouyon gwada de Guadeloupe. Single Sa Zot Vlé sorti le 1er mai 2011 chez Bouyon Concept, présence nommée par Rebel Up au premier spectacle bouyon à Paris en décembre 2012, et nom analysé par une thèse universitaire de 2013 sur le dancehall des Antilles françaises.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Sa Zot Vlé"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/gaza-girls-crew.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/gaza-girls-crew.html#artist", "name": "Gaza Girls Crew", "description": "Groupe féminin de la scène bouyon gwada de Guadeloupe. Single Sa Zot Vlé sorti le 1er mai 2011 chez Bouyon Concept, présence nommée par Rebel Up au premier spectacle bouyon à Paris en décembre 2012, et nom analysé par une thèse universitaire de 2013 sur le dancehall des Antilles françaises.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Sa Zot Vlé"},
+      {
+       "@type": "MusicRecording",
+       "name": "Bad Chatte"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -214,6 +219,11 @@ EN = {
     "Start with “Sa Zot Vlé”, the 2011 single on Bouyon Concept, then read our <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a> page for the context of the scene and the bouyon in Paris page for the night of December 2012. For today’s bouyon, the Bouyon Road Mix playlist by Bouyon Shattaz gathers new releases from Dominica, Guadeloupe and Martinique.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/gaza-girls-crew.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/gaza-girls-crew.html#artist", "name": "Gaza Girls Crew", "description": "Female group from the bouyon gwada scene of Guadeloupe. Single Sa Zot Vle released on May 1, 2011 on Bouyon Concept, presence named by Rebel Up at the first bouyon show in Paris in December 2012, and name analysed by a 2013 university thesis on dancehall in the French Antilles.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Sa Zot Vlé"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/gaza-girls-crew.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/gaza-girls-crew.html#artist", "name": "Gaza Girls Crew", "description": "Female group from the bouyon gwada scene of Guadeloupe. Single Sa Zot Vle released on May 1, 2011 on Bouyon Concept, presence named by Rebel Up at the first bouyon show in Paris in December 2012, and name analysed by a 2013 university thesis on dancehall in the French Antilles.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Sa Zot Vlé"},
+      {
+       "@type": "MusicRecording",
+       "name": "Bad Chatte"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

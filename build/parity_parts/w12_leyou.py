@@ -122,7 +122,12 @@ FR = {
     "Sa seule trace vérifiée relève du <a href=\"/bouyon-gwada.html\">bouyon gwada</a>, la branche guadeloupéenne du bouyon né en Dominique. « VIN TCHEK NOU » en réunit les codes : un titre en créole, un format court et une session collective à plusieurs voix invitées. Ce profil n’attribue à Leyou aucun autre style, faute de titre vérifié en dehors de ce circuit.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/leyou.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/leyou.html#artist", "name": "Leyou", "description": "Voix invitée du bouyon guadeloupéen, documentée par un seul titre vérifié : VIN TCHEK NOU, troisième titre de Premières Notes de Lewismelo, avec Le Bluff et Tedla. Aucune biographie publique documentée, et des homonymes actifs sous le même nom dans d’autres scènes, explicitement séparés dans ce profil.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'VIN TCHEK NOU'}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/leyou.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/leyou.html#artist", "name": "Leyou", "description": "Voix invitée du bouyon guadeloupéen, documentée par un seul titre vérifié : VIN TCHEK NOU, troisième titre de Premières Notes de Lewismelo, avec Le Bluff et Tedla. Aucune biographie publique documentée, et des homonymes actifs sous le même nom dans d’autres scènes, explicitement séparés dans ce profil.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'VIN TCHEK NOU'},
+      {
+       "@type": "MusicRecording",
+       "name": "On LoLo"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -242,6 +247,11 @@ EN = {
     "His only verified trace belongs to <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a>, the Guadeloupe branch of the bouyon born in Dominica. “VIN TCHEK NOU” gathers its codes: a Creole title, a short format and a collective session with several guest voices. This profile assigns Leyou no other style, for lack of any verified record outside that circuit.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/leyou.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/leyou.html#artist", "name": "Leyou", "description": "Guest voice of Guadeloupe bouyon, documented by one verified record only: VIN TCHEK NOU, third track of Premières Notes by Lewismelo, with Le Bluff and Tedla. No documented public biography, and active homonyms under the same name in other scenes, explicitly separated in this profile.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'VIN TCHEK NOU'}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/leyou.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/leyou.html#artist", "name": "Leyou", "description": "Guest voice of Guadeloupe bouyon, documented by one verified record only: VIN TCHEK NOU, third track of Premières Notes by Lewismelo, with Le Bluff and Tedla. No documented public biography, and active homonyms under the same name in other scenes, explicitly separated in this profile.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'VIN TCHEK NOU'},
+      {
+       "@type": "MusicRecording",
+       "name": "On LoLo"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

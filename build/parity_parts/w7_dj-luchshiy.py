@@ -126,7 +126,72 @@ FR = {
     "Commencez par CHABIN et XMAS FREESTYLE, puis KKM, 6 Dwet et le Dj luchshiy wifi freestyle de Reo sur les plateformes de streaming. Pour suivre la scène, notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> réunit les nouveautés de la Dominique et des Antilles françaises : suivez @bouyonshattaz sur Instagram et commentez ROAD MIX sous une publication pour recevoir la Bouyon Road Mix en DM.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/dj-luchshiy.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/dj-luchshiy.html#artist", "name": "DJ Luchshiy", "description": "Producteur bouyon actif depuis 2023 sur le label LUCHSHIY AND BRO. Nom de credits publie : Corane Vincent. Titres de reference : XMAS FREESTYLE et CHABIN avec Lestef et Edday, sortis le 22 decembre 2023.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "KKM"}, {"@type": "MusicRecording", "name": "XMAS FREESTYLE"}, {"@type": "MusicRecording", "name": "CHABIN"}, {"@type": "MusicRecording", "name": "Make it pop"}, {"@type": "MusicRecording", "name": "BOUNCE"}, {"@type": "MusicRecording", "name": "6 Dwet"}, {"@type": "MusicRecording", "name": "Dj luchshiy wifi freestyle"}, {"@type": "MusicRecording", "name": "Mi Boss LA"}, {"@type": "MusicRecording", "name": "Shake It"}, {"@type": "MusicRecording", "name": "You Mad"}, {"@type": "MusicRecording", "name": "NO COME BACK (WHATCHA SAY)"}, {"@type": "MusicRecording", "name": "TAKE UR TIME"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/dj-luchshiy.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/dj-luchshiy.html#artist", "name": "DJ Luchshiy", "description": "Producteur bouyon actif depuis 2023 sur le label LUCHSHIY AND BRO. Nom de credits publie : Corane Vincent. Titres de reference : XMAS FREESTYLE et CHABIN avec Lestef et Edday, sortis le 22 decembre 2023.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "KKM"}, {"@type": "MusicRecording", "name": "XMAS FREESTYLE"}, {"@type": "MusicRecording", "name": "CHABIN"}, {"@type": "MusicRecording", "name": "Make it pop"}, {"@type": "MusicRecording", "name": "BOUNCE"}, {"@type": "MusicRecording", "name": "6 Dwet"}, {"@type": "MusicRecording", "name": "Dj luchshiy wifi freestyle"}, {"@type": "MusicRecording", "name": "Mi Boss LA"}, {"@type": "MusicRecording", "name": "Shake It"}, {"@type": "MusicRecording", "name": "You Mad"}, {"@type": "MusicRecording", "name": "NO COME BACK (WHATCHA SAY)"}, {"@type": "MusicRecording", "name": "TAKE UR TIME"},
+      {
+       "@type": "MusicRecording",
+       "name": "X PRESS FREESTYLE (LIVE) (feat. EDDAY & LESTEF KFJ)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MADA A PA BBL (feat. EDDAY & LESTEF KJF)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "IN DI MORNING CHAMPAGNE (feat. EDDAY & LESTEF KJF)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DON'T TAKE IT BACK (feat. EDDAY & LESTEF KJF)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "CRAZY LOVE (feat. SOFTEE)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MONS (feat. LESTEF & EDDAY)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BACKSHOT (feat. RITA)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fly (feat. Dj Luchshiy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PINPON RIDDIM (feat. DJ LUCHSHIY, Fredo Pichi, Lewismelo & Dcamp)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DANJÉRÈZ (feat. DJ LUCHSHIY) (BOUYONMON KREYOL VERSION)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PXRNSTAR (feat. DJ LUCHSHIY) (BOUYONMON ENGLISH VERSION)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Call me (feat. Dj Luchshiy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Yo wont (feat. Dj luchshiy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Toto - Chaben - Monss"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ZETWAL (feat. TybiProduction & DJ LUCHSHIY)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LIKE YOU (feat. DJ LUCHSHIY) (BOUYON 2027)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -249,6 +314,71 @@ EN = {
     "Start with CHABIN and XMAS FREESTYLE, then KKM, 6 Dwet and Reo's Dj luchshiy wifi freestyle on the streaming platforms. To follow the scene, our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> gathers new releases from Dominica and the French Antilles: follow @bouyonshattaz on Instagram and comment ROAD MIX under a post to receive the Bouyon Road Mix by DM.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/dj-luchshiy.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/dj-luchshiy.html#artist", "name": "DJ Luchshiy", "description": "Bouyon producer active since 2023 on the LUCHSHIY AND BRO label. Published credits name: Corane Vincent. Reference records: XMAS FREESTYLE and CHABIN with Lestef and Edday, released 22 December 2023.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "KKM"}, {"@type": "MusicRecording", "name": "XMAS FREESTYLE"}, {"@type": "MusicRecording", "name": "CHABIN"}, {"@type": "MusicRecording", "name": "Make it pop"}, {"@type": "MusicRecording", "name": "BOUNCE"}, {"@type": "MusicRecording", "name": "6 Dwet"}, {"@type": "MusicRecording", "name": "Dj luchshiy wifi freestyle"}, {"@type": "MusicRecording", "name": "Mi Boss LA"}, {"@type": "MusicRecording", "name": "Shake It"}, {"@type": "MusicRecording", "name": "You Mad"}, {"@type": "MusicRecording", "name": "NO COME BACK (WHATCHA SAY)"}, {"@type": "MusicRecording", "name": "TAKE UR TIME"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/dj-luchshiy.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/dj-luchshiy.html#artist", "name": "DJ Luchshiy", "description": "Bouyon producer active since 2023 on the LUCHSHIY AND BRO label. Published credits name: Corane Vincent. Reference records: XMAS FREESTYLE and CHABIN with Lestef and Edday, released 22 December 2023.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "KKM"}, {"@type": "MusicRecording", "name": "XMAS FREESTYLE"}, {"@type": "MusicRecording", "name": "CHABIN"}, {"@type": "MusicRecording", "name": "Make it pop"}, {"@type": "MusicRecording", "name": "BOUNCE"}, {"@type": "MusicRecording", "name": "6 Dwet"}, {"@type": "MusicRecording", "name": "Dj luchshiy wifi freestyle"}, {"@type": "MusicRecording", "name": "Mi Boss LA"}, {"@type": "MusicRecording", "name": "Shake It"}, {"@type": "MusicRecording", "name": "You Mad"}, {"@type": "MusicRecording", "name": "NO COME BACK (WHATCHA SAY)"}, {"@type": "MusicRecording", "name": "TAKE UR TIME"},
+      {
+       "@type": "MusicRecording",
+       "name": "X PRESS FREESTYLE (LIVE) (feat. EDDAY & LESTEF KFJ)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MADA A PA BBL (feat. EDDAY & LESTEF KJF)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "IN DI MORNING CHAMPAGNE (feat. EDDAY & LESTEF KJF)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DON'T TAKE IT BACK (feat. EDDAY & LESTEF KJF)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "CRAZY LOVE (feat. SOFTEE)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MONS (feat. LESTEF & EDDAY)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BACKSHOT (feat. RITA)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fly (feat. Dj Luchshiy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PINPON RIDDIM (feat. DJ LUCHSHIY, Fredo Pichi, Lewismelo & Dcamp)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DANJÉRÈZ (feat. DJ LUCHSHIY) (BOUYONMON KREYOL VERSION)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PXRNSTAR (feat. DJ LUCHSHIY) (BOUYONMON ENGLISH VERSION)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Call me (feat. Dj Luchshiy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Yo wont (feat. Dj luchshiy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Toto - Chaben - Monss"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ZETWAL (feat. TybiProduction & DJ LUCHSHIY)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LIKE YOU (feat. DJ LUCHSHIY) (BOUYON 2027)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

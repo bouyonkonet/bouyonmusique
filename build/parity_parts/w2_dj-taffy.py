@@ -147,7 +147,252 @@ FR = {
     "Commencez par « Make Her Bawl », puis remontez aux albums de Riddim Beast Studios. Le titre tourne dans les mixes : le Bouyon Mix 2025 du podcast Blaqrose Supreme le programme à 27 minutes 02, et le Bouyon Passport 2026 de DJ Close Connections le liste avec « Take Me As I Am » de Trilla G. La <a href=\"/playlist-bouyon.html\">Bouyon Road Mix</a> de Bouyon Shattaz complète l’écoute.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/dj-taffy.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/dj-taffy.html#artist", "name": "DJ Taffy", "description": "DJ et producteur bouyon de la Dominique connu comme le Riddim Beast, fondateur du son Riddim Beast Studios, co-auteur de « Make Her Bawl » et finaliste Producteur de l’année aux Dominica Music Awards 2025.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Make Her Bawl"}, {"@type": "MusicRecording", "name": "Peep Peep Pop Pop"}, {"@type": "MusicRecording", "name": "Situationship"}, {"@type": "MusicRecording", "name": "On your back"}, {"@type": "MusicRecording", "name": "Gwada we going"}, {"@type": "MusicRecording", "name": "Wake Me Up (Live)"}, {"@type": "MusicRecording", "name": "Tie up"}, {"@type": "MusicRecording", "name": "Warm up"}, {"@type": "MusicRecording", "name": "Sick"}, {"@type": "MusicRecording", "name": "Dat She Want"}, {"@type": "MusicRecording", "name": "L2T Anthem"}, {"@type": "MusicRecording", "name": "Leaving"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/dj-taffy.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/dj-taffy.html#artist", "name": "DJ Taffy", "description": "DJ et producteur bouyon de la Dominique connu comme le Riddim Beast, fondateur du son Riddim Beast Studios, co-auteur de « Make Her Bawl » et finaliste Producteur de l’année aux Dominica Music Awards 2025.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Make Her Bawl"}, {"@type": "MusicRecording", "name": "Peep Peep Pop Pop"}, {"@type": "MusicRecording", "name": "Situationship"}, {"@type": "MusicRecording", "name": "On your back"}, {"@type": "MusicRecording", "name": "Gwada we going"}, {"@type": "MusicRecording", "name": "Wake Me Up (Live)"}, {"@type": "MusicRecording", "name": "Tie up"}, {"@type": "MusicRecording", "name": "Warm up"}, {"@type": "MusicRecording", "name": "Sick"}, {"@type": "MusicRecording", "name": "Dat She Want"}, {"@type": "MusicRecording", "name": "L2T Anthem"}, {"@type": "MusicRecording", "name": "Leaving"},
+      {
+       "@type": "MusicRecording",
+       "name": "Up To / Miss Jude Daliway possi (feat. Gwada G & Trixx) (Live)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "How you feeling/ Wake up Shake up (feat. Freddy) (Live)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "She like it like dat / They love their Taffy (feat. Trixx & Freddy) (Live)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Deep inside you Refix (feat. Freddy) (Live)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Dirty Panty (feat. Trixx) (Live)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Falling (feat. Litleboy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "2 Girls 1 Bed (feat. Gwada G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SHI GI DAY (feat. Real Reel)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Home (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Do 4 Do (feat. Fifin, Eks, Wotlis & Paw)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Up is Up (feat. Eks & Fifin)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "1 2 3 (Mango Tree) (feat. Paw, Eks & Wotlis)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Why they hating (feat. Wotlis, Fifin, Paw & Eks)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pay day (feat. Eks, Paw & Gwada G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Straight to de top (feat. Fifin, Eks, Wotlis & Paw)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Late Night (feat. Edday, Quan & Litleboy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Deep Inside you (feat. Freddy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Moutay (feat. Jem Jem)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "UNSTICK (feat. FiFiNDaSteppa & Wotlis)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doe Do Me Dat (feat. Trixx, Beevo, Youry & Freddy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jiggle (feat. Freddy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nasty Party (feat. Trixx & Erwinchy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fall In De Trap (feat. Trixx, Freddy & Beevo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Merry Day (feat. Pryhmex)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Baddie (feat. Trixx)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bachanal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lobster (feat. Freddy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wet already (feat. wotlis & Candy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PIB (feat. quan)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Beg who dat kokaying you (feat. Freddy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Halay (feat. Unstoppable Shax)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shameless (feat. Trilla G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tru Nuh Boi (feat. EKS)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nasty Christmas Medley (Explicit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "IDK Y"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Miss Grippy (feat. Candy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bamboo (feat. Quan Squad chaleh)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Funny Riddim (Special )"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "S.O.T.T (feat. Zone Rouge & Gwada G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DJ Taffy X Quan (Bouyon stars)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DJ Taffy (Super Gremlin)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lighter (feat. Skyo Beatz) (Bouyon Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LLSR (Last Lap Solo Riddim) Boyoun 2021"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Truth (Bouyon Instrumental) (Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Maltete Riddim"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "03 - DO MY DANCE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LOVE MY MONEY"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "02 - RIDDIM"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "04 - SUPERMAN"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Addicted"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Don't Care (feat. Quan & Dj Taffy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Plottin"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mind Yuh Bizness (feat. DJ Twix & Dj Taffy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Push Back On It (feat. Dj Taffy & Tete G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sa ka bay (feat. Dj Taffy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bikini (feat. Dj taffy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Instruction Time (feat. WiLDXFiRE)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Leave your man (feat. Dj taffy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Birthday Suit"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Party Mood Bouyon (feat. DJ Taffy, DJ Rio, Erwinchy, BRN & YHS Milly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fete Land (feat. Dj Taffy & Thawizzard)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -288,6 +533,251 @@ EN = {
     "Start with “Make Her Bawl”, then go up to the Riddim Beast Studios albums. The track runs through the mixes: the Blaqrose Supreme podcast's Bouyon Mix 2025 plays it at 27 minutes 02, and DJ Close Connections' Bouyon Passport 2026 lists it with Trilla G's “Take Me As I Am”. The Bouyon Shattaz <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix</a> completes the listening.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/dj-taffy.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/dj-taffy.html#artist", "name": "DJ Taffy", "description": "Bouyon DJ and producer from Dominica known as the Riddim Beast, founder of the Riddim Beast Studios sound, co-credited name on “Make Her Bawl” and Producer of the Year finalist at the Dominica Music Awards 2025.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Make Her Bawl"}, {"@type": "MusicRecording", "name": "Peep Peep Pop Pop"}, {"@type": "MusicRecording", "name": "Situationship"}, {"@type": "MusicRecording", "name": "On your back"}, {"@type": "MusicRecording", "name": "Gwada we going"}, {"@type": "MusicRecording", "name": "Wake Me Up (Live)"}, {"@type": "MusicRecording", "name": "Tie up"}, {"@type": "MusicRecording", "name": "Warm up"}, {"@type": "MusicRecording", "name": "Sick"}, {"@type": "MusicRecording", "name": "Dat She Want"}, {"@type": "MusicRecording", "name": "L2T Anthem"}, {"@type": "MusicRecording", "name": "Leaving"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/dj-taffy.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/dj-taffy.html#artist", "name": "DJ Taffy", "description": "Bouyon DJ and producer from Dominica known as the Riddim Beast, founder of the Riddim Beast Studios sound, co-credited name on “Make Her Bawl” and Producer of the Year finalist at the Dominica Music Awards 2025.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Make Her Bawl"}, {"@type": "MusicRecording", "name": "Peep Peep Pop Pop"}, {"@type": "MusicRecording", "name": "Situationship"}, {"@type": "MusicRecording", "name": "On your back"}, {"@type": "MusicRecording", "name": "Gwada we going"}, {"@type": "MusicRecording", "name": "Wake Me Up (Live)"}, {"@type": "MusicRecording", "name": "Tie up"}, {"@type": "MusicRecording", "name": "Warm up"}, {"@type": "MusicRecording", "name": "Sick"}, {"@type": "MusicRecording", "name": "Dat She Want"}, {"@type": "MusicRecording", "name": "L2T Anthem"}, {"@type": "MusicRecording", "name": "Leaving"},
+      {
+       "@type": "MusicRecording",
+       "name": "Up To / Miss Jude Daliway possi (feat. Gwada G & Trixx) (Live)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "How you feeling/ Wake up Shake up (feat. Freddy) (Live)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "She like it like dat / They love their Taffy (feat. Trixx & Freddy) (Live)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Deep inside you Refix (feat. Freddy) (Live)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Dirty Panty (feat. Trixx) (Live)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Falling (feat. Litleboy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "2 Girls 1 Bed (feat. Gwada G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SHI GI DAY (feat. Real Reel)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Home (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Do 4 Do (feat. Fifin, Eks, Wotlis & Paw)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Up is Up (feat. Eks & Fifin)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "1 2 3 (Mango Tree) (feat. Paw, Eks & Wotlis)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Why they hating (feat. Wotlis, Fifin, Paw & Eks)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pay day (feat. Eks, Paw & Gwada G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Straight to de top (feat. Fifin, Eks, Wotlis & Paw)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Late Night (feat. Edday, Quan & Litleboy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Deep Inside you (feat. Freddy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Moutay (feat. Jem Jem)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "UNSTICK (feat. FiFiNDaSteppa & Wotlis)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doe Do Me Dat (feat. Trixx, Beevo, Youry & Freddy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jiggle (feat. Freddy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nasty Party (feat. Trixx & Erwinchy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fall In De Trap (feat. Trixx, Freddy & Beevo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Merry Day (feat. Pryhmex)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Baddie (feat. Trixx)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bachanal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lobster (feat. Freddy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wet already (feat. wotlis & Candy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PIB (feat. quan)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Beg who dat kokaying you (feat. Freddy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Halay (feat. Unstoppable Shax)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shameless (feat. Trilla G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tru Nuh Boi (feat. EKS)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nasty Christmas Medley (Explicit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "IDK Y"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Miss Grippy (feat. Candy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bamboo (feat. Quan Squad chaleh)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Funny Riddim (Special )"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "S.O.T.T (feat. Zone Rouge & Gwada G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DJ Taffy X Quan (Bouyon stars)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DJ Taffy (Super Gremlin)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lighter (feat. Skyo Beatz) (Bouyon Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LLSR (Last Lap Solo Riddim) Boyoun 2021"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Truth (Bouyon Instrumental) (Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Maltete Riddim"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "03 - DO MY DANCE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LOVE MY MONEY"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "02 - RIDDIM"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "04 - SUPERMAN"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Addicted"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Don't Care (feat. Quan & Dj Taffy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Plottin"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mind Yuh Bizness (feat. DJ Twix & Dj Taffy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Push Back On It (feat. Dj Taffy & Tete G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sa ka bay (feat. Dj Taffy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bikini (feat. Dj taffy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Instruction Time (feat. WiLDXFiRE)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Leave your man (feat. Dj taffy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Birthday Suit"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Party Mood Bouyon (feat. DJ Taffy, DJ Rio, Erwinchy, BRN & YHS Milly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fete Land (feat. Dj Taffy & Thawizzard)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

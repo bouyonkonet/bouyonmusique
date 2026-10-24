@@ -106,7 +106,28 @@ FR = {
     "Dans les mixes et à la radio. Le mini mix Sewo Jam de Digga D, publié sur les plateformes de podcasts, liste « Uhdahdah » par Lucky Lukee, 1T1 et Qwann en position 51, au milieu d’Asa Bantan, Signal Band, Trilla G et Miimii KDS. Un journal de diffusion de la radio KoolFm Tropikal montre aussi le titre passé à l’antenne, avant toute couverture de presse.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/qwann.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/qwann.html#artist", "name": "Qwann", "description": "Artiste du circuit bouyon gwada, invité sur 1er Feu et Uhdahdah #2 de Lucky lukee et crédité compositeur sur Ouba de 1t1 et Theomaa. Aucune biographie officielle publiée n’a été trouvée.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "1er Feu"}, {"@type": "MusicRecording", "name": "Uhdahdah #2"}, {"@type": "MusicRecording", "name": "Ouba"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/qwann.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/qwann.html#artist", "name": "Qwann", "description": "Artiste du circuit bouyon gwada, invité sur 1er Feu et Uhdahdah #2 de Lucky lukee et crédité compositeur sur Ouba de 1t1 et Theomaa. Aucune biographie officielle publiée n’a été trouvée.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "1er Feu"}, {"@type": "MusicRecording", "name": "Uhdahdah #2"}, {"@type": "MusicRecording", "name": "Ouba"},
+      {
+       "@type": "MusicRecording",
+       "name": "1 by 1 (feat. GS, LE YO, DON’T PLAY, JD & LYKAÏ)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "KANN (feat. RVF)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "QUE PASA (feat. Binksdrick)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pran On Pyé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ti Moun (feat. Ayewai, Dj Chimik & Qwann) [Remix]"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -208,6 +229,27 @@ EN = {
     "In mixes and on radio. Digga D’s Sewo Jam mini mix, published on podcast platforms, lists “Uhdahdah” by Lucky Lukee, 1T1 and Qwann at position 51, among Asa Bantan, Signal Band, Trilla G and Miimii KDS. A KoolFm Tropikal radio play log also shows the record on air, before any press coverage.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/qwann.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/qwann.html#artist", "name": "Qwann", "description": "Artist in the bouyon gwada circuit, featured on Lucky lukee 1er Feu and Uhdahdah #2 and credited as a composer on 1t1 and Theomaa Ouba. No published official biography was found.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "1er Feu"}, {"@type": "MusicRecording", "name": "Uhdahdah #2"}, {"@type": "MusicRecording", "name": "Ouba"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/qwann.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/qwann.html#artist", "name": "Qwann", "description": "Artist in the bouyon gwada circuit, featured on Lucky lukee 1er Feu and Uhdahdah #2 and credited as a composer on 1t1 and Theomaa Ouba. No published official biography was found.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "1er Feu"}, {"@type": "MusicRecording", "name": "Uhdahdah #2"}, {"@type": "MusicRecording", "name": "Ouba"},
+      {
+       "@type": "MusicRecording",
+       "name": "1 by 1 (feat. GS, LE YO, DON’T PLAY, JD & LYKAÏ)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "KANN (feat. RVF)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "QUE PASA (feat. Binksdrick)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pran On Pyé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ti Moun (feat. Ayewai, Dj Chimik & Qwann) [Remix]"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

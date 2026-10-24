@@ -141,7 +141,44 @@ FR = {
     "Les titres du trio sont sur les plateformes sous le nom HollyG, et « Bandit » figure dans notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, la Bouyon Road Mix de Bouyon Shattaz, disponible sur Spotify et YouTube. Pour la recevoir en message privé, suivez @bouyonshattaz sur Instagram et commentez ROAD MIX sous une publication. Elle place HollyG parmi les nouveautés de la Dominique, de la Guadeloupe et de la Martinique.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/holly-g.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/holly-g.html#artist", "name": "HollyG", "description": "Trio familial bouyon de Trois-Rivières et Vieux-Habitants, en Basse-Terre, Guadeloupe, formé de Holly et de ses nièces 6 Tresses et Cheveux Rouge. Je l’ai vu, avec Arendi, certifié single d’or par le SNEP en France, constat du 10 juillet 2025.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bandit"}, {"@type": "MusicRecording", "name": "Je l’ai vu"}, {"@type": "MusicRecording", "name": "Ma belle"}, {"@type": "MusicRecording", "name": "Kon Jant"}, {"@type": "MusicRecording", "name": "23H"}, {"@type": "MusicRecording", "name": "Je l’ai vu (Charles V Remix)"}, {"@type": "MusicRecording", "name": "Tibilap Tibilap"}, {"@type": "MusicRecording", "name": "Mood"}, {"@type": "MusicRecording", "name": "Chounette Cluny"}, {"@type": "MusicRecording", "name": "Wa Coco"}, {"@type": "MusicRecording", "name": "Coller la petite"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/holly-g.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/holly-g.html#artist", "name": "HollyG", "description": "Trio familial bouyon de Trois-Rivières et Vieux-Habitants, en Basse-Terre, Guadeloupe, formé de Holly et de ses nièces 6 Tresses et Cheveux Rouge. Je l’ai vu, avec Arendi, certifié single d’or par le SNEP en France, constat du 10 juillet 2025.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bandit"}, {"@type": "MusicRecording", "name": "Je l’ai vu"}, {"@type": "MusicRecording", "name": "Ma belle"}, {"@type": "MusicRecording", "name": "Kon Jant"}, {"@type": "MusicRecording", "name": "23H"}, {"@type": "MusicRecording", "name": "Je l’ai vu (Charles V Remix)"}, {"@type": "MusicRecording", "name": "Tibilap Tibilap"}, {"@type": "MusicRecording", "name": "Mood"}, {"@type": "MusicRecording", "name": "Chounette Cluny"}, {"@type": "MusicRecording", "name": "Wa Coco"}, {"@type": "MusicRecording", "name": "Coller la petite"},
+      {
+       "@type": "MusicRecording",
+       "name": "Coco (feat. Shanika, Holly beiiy & HollyG)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Anlè Sa"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Boat"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Holiday"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ou vé sa"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pull up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dan la déwo (feat. HollyG)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "bla bla bla (feat. HollyG & Shanika)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Twerk (feat. HollyG) [Bonus]"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -278,6 +315,43 @@ EN = {
     "The trio’s tracks are on the platforms under the name HollyG, and “Bandit” is in our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, the Bouyon Shattaz Bouyon Road Mix, available on Spotify and YouTube. To receive it by private message, follow @bouyonshattaz on Instagram and comment ROAD MIX under a post. It places HollyG among the new releases from Dominica, Guadeloupe and Martinique.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/holly-g.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/holly-g.html#artist", "name": "HollyG", "description": "Family bouyon trio from Trois-Rivières and Vieux-Habitants, in Basse-Terre, Guadeloupe, made up of Holly and her nieces 6 Tresses and Cheveux Rouge. Je l’ai vu, with Arendi, certified gold single by SNEP in France, recorded on 10 July 2025.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bandit"}, {"@type": "MusicRecording", "name": "Je l’ai vu"}, {"@type": "MusicRecording", "name": "Ma belle"}, {"@type": "MusicRecording", "name": "Kon Jant"}, {"@type": "MusicRecording", "name": "23H"}, {"@type": "MusicRecording", "name": "Je l’ai vu (Charles V Remix)"}, {"@type": "MusicRecording", "name": "Tibilap Tibilap"}, {"@type": "MusicRecording", "name": "Mood"}, {"@type": "MusicRecording", "name": "Chounette Cluny"}, {"@type": "MusicRecording", "name": "Wa Coco"}, {"@type": "MusicRecording", "name": "Coller la petite"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/holly-g.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/holly-g.html#artist", "name": "HollyG", "description": "Family bouyon trio from Trois-Rivières and Vieux-Habitants, in Basse-Terre, Guadeloupe, made up of Holly and her nieces 6 Tresses and Cheveux Rouge. Je l’ai vu, with Arendi, certified gold single by SNEP in France, recorded on 10 July 2025.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bandit"}, {"@type": "MusicRecording", "name": "Je l’ai vu"}, {"@type": "MusicRecording", "name": "Ma belle"}, {"@type": "MusicRecording", "name": "Kon Jant"}, {"@type": "MusicRecording", "name": "23H"}, {"@type": "MusicRecording", "name": "Je l’ai vu (Charles V Remix)"}, {"@type": "MusicRecording", "name": "Tibilap Tibilap"}, {"@type": "MusicRecording", "name": "Mood"}, {"@type": "MusicRecording", "name": "Chounette Cluny"}, {"@type": "MusicRecording", "name": "Wa Coco"}, {"@type": "MusicRecording", "name": "Coller la petite"},
+      {
+       "@type": "MusicRecording",
+       "name": "Coco (feat. Shanika, Holly beiiy & HollyG)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Anlè Sa"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Boat"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Holiday"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ou vé sa"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pull up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dan la déwo (feat. HollyG)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "bla bla bla (feat. HollyG & Shanika)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Twerk (feat. HollyG) [Bonus]"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

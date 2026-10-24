@@ -141,7 +141,28 @@ FR = {
     "Aucun compte officiel du chanteur n’a pu être vérifié pendant la recherche de ce profil, qui ne lie donc aucun réseau social. La voie sûre est le catalogue de Trixzmigos sur les plateformes, où ses featurings paraissent, et notre <a href=\"/playlist-bouyon.html\">playlist Bouyon Road Mix</a>, qui suit la vague dominicaine actuelle, des singles en featuring jusqu’aux titres de Signal Band.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/hussey.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/hussey.html#artist", "name": "Hussey", "description": "Chanteur de la Dominique documenté comme voix invitée sur huit titres de Trixzmigos, dont What She Like, finaliste de la collaboration de l’année aux Dominica Music Awards 2025.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'What She Like'}, {"@type": "MusicRecording", "name": '1View'}, {"@type": "MusicRecording", "name": 'Rum'}, {"@type": "MusicRecording", "name": 'Doh Mix Me'}, {"@type": "MusicRecording", "name": 'Shake Dat'}, {"@type": "MusicRecording", "name": 'Dark Love'}, {"@type": "MusicRecording", "name": 'The Christmas Story'}, {"@type": "MusicRecording", "name": 'Long Time'}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/hussey.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/hussey.html#artist", "name": "Hussey", "description": "Chanteur de la Dominique documenté comme voix invitée sur huit titres de Trixzmigos, dont What She Like, finaliste de la collaboration de l’année aux Dominica Music Awards 2025.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'What She Like'}, {"@type": "MusicRecording", "name": '1View'}, {"@type": "MusicRecording", "name": 'Rum'}, {"@type": "MusicRecording", "name": 'Doh Mix Me'}, {"@type": "MusicRecording", "name": 'Shake Dat'}, {"@type": "MusicRecording", "name": 'Dark Love'}, {"@type": "MusicRecording", "name": 'The Christmas Story'}, {"@type": "MusicRecording", "name": 'Long Time'},
+      {
+       "@type": "MusicRecording",
+       "name": "Bad Bro (feat. Hussey)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Get High (feat. Hussey, Real Reel & Trixzmigos) [Savion Beats Remix]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hungry (feat. Hussey & Nawizi)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Play Harder (feat. Hussey)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ain't Lucky (feat. Hussey)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -273,6 +294,27 @@ EN = {
     "No official account of the singer could be verified during the research for this profile, which therefore links to no social profile. The safe route is the Trixzmigos catalog on the platforms, where his features appear, and our <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix playlist</a>, which follows the current Dominican wave, from feature singles to Signal Band records.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/hussey.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/hussey.html#artist", "name": "Hussey", "description": "Singer from Dominica documented as a guest voice on eight Trixzmigos tracks, including What She Like, a Collaboration of the Year finalist at the Dominica Music Awards 2025.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'What She Like'}, {"@type": "MusicRecording", "name": '1View'}, {"@type": "MusicRecording", "name": 'Rum'}, {"@type": "MusicRecording", "name": 'Doh Mix Me'}, {"@type": "MusicRecording", "name": 'Shake Dat'}, {"@type": "MusicRecording", "name": 'Dark Love'}, {"@type": "MusicRecording", "name": 'The Christmas Story'}, {"@type": "MusicRecording", "name": 'Long Time'}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/hussey.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/hussey.html#artist", "name": "Hussey", "description": "Singer from Dominica documented as a guest voice on eight Trixzmigos tracks, including What She Like, a Collaboration of the Year finalist at the Dominica Music Awards 2025.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'What She Like'}, {"@type": "MusicRecording", "name": '1View'}, {"@type": "MusicRecording", "name": 'Rum'}, {"@type": "MusicRecording", "name": 'Doh Mix Me'}, {"@type": "MusicRecording", "name": 'Shake Dat'}, {"@type": "MusicRecording", "name": 'Dark Love'}, {"@type": "MusicRecording", "name": 'The Christmas Story'}, {"@type": "MusicRecording", "name": 'Long Time'},
+      {
+       "@type": "MusicRecording",
+       "name": "Bad Bro (feat. Hussey)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Get High (feat. Hussey, Real Reel & Trixzmigos) [Savion Beats Remix]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hungry (feat. Hussey & Nawizi)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Play Harder (feat. Hussey)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ain't Lucky (feat. Hussey)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

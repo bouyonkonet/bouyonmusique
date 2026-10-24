@@ -149,7 +149,240 @@ FR = {
     "Prudence avec les plateformes : les pages de streaming au nom de Skinny Banton renvoient pour la plupart à l’artiste soca de Trinidad et de la Grenade, pas à la voix dominicaine du bouyon-muffin. Ce site ne lie donc aucun profil. Pour entendre l’époque de WCK et ses héritiers, la <a href=\"/playlist-bouyon.html\">Bouyon Road Mix</a> de Bouyon Shattaz mêle classiques du carnaval et nouveautés.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/skinny-banton.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/skinny-banton.html#artist", "name": "Skinny Banton", "description": "Figure clé du bouyon-muffin en Dominique, collaborateur de WCK dès 1995, ensuite connu sous le nom de Shadowflow.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Party'}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/skinny-banton.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/skinny-banton.html#artist", "name": "Skinny Banton", "description": "Figure clé du bouyon-muffin en Dominique, collaborateur de WCK dès 1995, ensuite connu sous le nom de Shadowflow.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Party'},
+      {
+       "@type": "MusicRecording",
+       "name": "Lolé bitin la"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "La pli si tol"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bail la vwa"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Synjha"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Manuela"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ou sé nèg"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jojo livwé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sexy girls"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Une affaire de bijoux"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Haut les mains"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "A pa pawol an lè"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Snake Oil"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kick It Way"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Caribbean People"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Last Wine"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Woulé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Attack"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Free Up Yuh Body"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mama"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Happiness"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wet Meh Down"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ring Bang Style"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "De Music Send Me"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Release the Energy"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mass With Class"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pony Rider"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doggy Style"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Whipe Up On It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Raise the Roof"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pik (Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mind Your Business"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Iron"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DJ Foxx (Méga Mix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Instru clachy jam"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Do What You Want"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Party Time"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ragga Soca"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hilary"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "La Jan"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pressure"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Picante"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Losing Ground"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rambo Diplomacy"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rumors"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Grass Roots"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "La Jan Mwen"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ghetto Unity"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Belle Nou Belle"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Body Press"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Leve Leve"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tonite a De Nite"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mas With Class"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mégamix zouk, pt. 2"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Konfusion"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mégamix carnaval, pt. 1"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mégamix zouk, pt. 1"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mégamix carnaval, pt. 2"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "The Beat Goes On (feat. Skinny Banton)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -283,6 +516,239 @@ EN = {
     "Be careful with the platforms: the streaming pages under the name Skinny Banton mostly lead to the soca artist from Trinidad and Grenada, not to the Dominican bouyon-muffin voice. This site therefore links no profile. To hear the WCK era and its heirs, the Bouyon Shattaz <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix</a> mixes carnival classics and new releases.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/skinny-banton.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/skinny-banton.html#artist", "name": "Skinny Banton", "description": "Key figure of bouyon-muffin in Dominica, collaborator of WCK from 1995, later known as Shadowflow.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Party'}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/skinny-banton.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/skinny-banton.html#artist", "name": "Skinny Banton", "description": "Key figure of bouyon-muffin in Dominica, collaborator of WCK from 1995, later known as Shadowflow.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Party'},
+      {
+       "@type": "MusicRecording",
+       "name": "Lolé bitin la"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "La pli si tol"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bail la vwa"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Synjha"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Manuela"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ou sé nèg"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jojo livwé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sexy girls"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Une affaire de bijoux"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Haut les mains"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "A pa pawol an lè"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Snake Oil"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kick It Way"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Caribbean People"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Last Wine"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Woulé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Attack"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Free Up Yuh Body"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mama"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Happiness"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wet Meh Down"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ring Bang Style"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "De Music Send Me"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Release the Energy"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mass With Class"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pony Rider"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doggy Style"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Whipe Up On It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Raise the Roof"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pik (Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mind Your Business"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Iron"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DJ Foxx (Méga Mix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Instru clachy jam"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Do What You Want"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Party Time"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ragga Soca"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hilary"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "La Jan"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pressure"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Picante"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Losing Ground"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rambo Diplomacy"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rumors"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Grass Roots"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "La Jan Mwen"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ghetto Unity"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Belle Nou Belle"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Body Press"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Leve Leve"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tonite a De Nite"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mas With Class"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mégamix zouk, pt. 2"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Konfusion"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mégamix carnaval, pt. 1"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mégamix zouk, pt. 1"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mégamix carnaval, pt. 2"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "The Beat Goes On (feat. Skinny Banton)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

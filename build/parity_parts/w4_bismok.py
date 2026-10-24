@@ -128,7 +128,36 @@ FR = {
     "Écoutez d’abord « Boué'y », le single en nom principal, puis « Mas La Rivé » de 1T1 pour entendre le nom parmi les neuf voix du cercle. Les deux titres sont sur les plateformes. Pour suivre le son bouyon actuel, ouvrez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, ou commentez ROAD MIX sous une publication de @bouyonshattaz sur Instagram pour recevoir la Bouyon Road Mix en message privé.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/bismok.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/bismok.html#artist", "name": "Bismok", "description": "Nom d’artiste du bouyon de Guadeloupe attesté par deux crédits vérifiés : le single Boué'y (7 novembre 2023, iMD- DRECORDS) et un featuring sur Mas La Rivé de 1T1 (12 janvier 2024). Aucune biographie publiée dans les sources consultées.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Boué'y"}, {"@type": "MusicRecording", "name": "Mas La Rivé"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/bismok.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/bismok.html#artist", "name": "Bismok", "description": "Nom d’artiste du bouyon de Guadeloupe attesté par deux crédits vérifiés : le single Boué'y (7 novembre 2023, iMD- DRECORDS) et un featuring sur Mas La Rivé de 1T1 (12 janvier 2024). Aucune biographie publiée dans les sources consultées.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Boué'y"}, {"@type": "MusicRecording", "name": "Mas La Rivé"},
+      {
+       "@type": "MusicRecording",
+       "name": "Marbella"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "A ki lè ?"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Coco"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Les bails (feat. Bismok & TIKOB)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "IL ÉTAIT UNE FOIS (feat. Theomaa & Bismok)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LOVÉ (feat. BISMOK)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bouyonstyle, No. 1"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -253,6 +282,35 @@ EN = {
     "Start with “Boué'y”, the single under his own name, then 1T1’s “Mas La Rivé” to hear the name among the circle’s nine voices. Both records are on the platforms. To follow today’s bouyon sound, open our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, or comment ROAD MIX under an @bouyonshattaz post on Instagram to get the Bouyon Road Mix by direct message.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/bismok.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/bismok.html#artist", "name": "Bismok", "description": "Artist name from Guadeloupe bouyon documented by two verified credits: the single Boué'y (7 November 2023, iMD- DRECORDS) and a feature on Mas La Rivé by 1T1 (12 January 2024). No biography published in the sources consulted.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Boué'y"}, {"@type": "MusicRecording", "name": "Mas La Rivé"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/bismok.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/bismok.html#artist", "name": "Bismok", "description": "Artist name from Guadeloupe bouyon documented by two verified credits: the single Boué'y (7 November 2023, iMD- DRECORDS) and a feature on Mas La Rivé by 1T1 (12 January 2024). No biography published in the sources consulted.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Boué'y"}, {"@type": "MusicRecording", "name": "Mas La Rivé"},
+      {
+       "@type": "MusicRecording",
+       "name": "Marbella"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "A ki lè ?"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Coco"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Les bails (feat. Bismok & TIKOB)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "IL ÉTAIT UNE FOIS (feat. Theomaa & Bismok)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LOVÉ (feat. BISMOK)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bouyonstyle, No. 1"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

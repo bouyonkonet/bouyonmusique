@@ -107,7 +107,16 @@ FR = {
     "Commencez par « WOOD », de Tiitii NBA avec DJ SKAYLONE, sorti le 22 novembre 2024 chez HEAVEN STUDIO, puis par « Chris Riddim » sur sa chaîne YouTube. Pour les nouveautés bouyon d'aujourd'hui, suivez @bouyonshattaz sur Instagram et commentez ROAD MIX sous une publication : la Bouyon Road Mix de notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> vous est envoyée en DM.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/dj-skylone.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/dj-skylone.html#artist", "name": "DJ Skaylone", "description": "DJ et beatmaker bouyon, orthographe vérifiée Skaylone. Chaîne YouTube DJ SKAYLONE Skay Beats de riddims téléchargeables, dont Instru Bouyon, Chris Riddim et Guitare Riddim, riddims de Noël 2019 et 2020, puis crédit de streaming WOOD avec Tiitii NBA en 2024. Nom complet et origine non établis par le dossier public.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Instru Bouyon"}, {"@type": "MusicRecording", "name": "Trumpet Riddim"}, {"@type": "MusicRecording", "name": "Respectar"}, {"@type": "MusicRecording", "name": "Cho Time Riddim"}, {"@type": "MusicRecording", "name": "Chris Riddim"}, {"@type": "MusicRecording", "name": "Guitare Riddim"}, {"@type": "MusicRecording", "name": "Noel Rive"}, {"@type": "MusicRecording", "name": "Chrismas Skay Riddim"}, {"@type": "MusicRecording", "name": "No Time"}, {"@type": "MusicRecording", "name": "WOOD"}], "sameAs": ["https://www.youtube.com/channel/UCdKvMxXkfn8rhbmBuP8B6aw"]}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/dj-skylone.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/dj-skylone.html#artist", "name": "DJ Skaylone", "description": "DJ et beatmaker bouyon, orthographe vérifiée Skaylone. Chaîne YouTube DJ SKAYLONE Skay Beats de riddims téléchargeables, dont Instru Bouyon, Chris Riddim et Guitare Riddim, riddims de Noël 2019 et 2020, puis crédit de streaming WOOD avec Tiitii NBA en 2024. Nom complet et origine non établis par le dossier public.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Instru Bouyon"}, {"@type": "MusicRecording", "name": "Trumpet Riddim"}, {"@type": "MusicRecording", "name": "Respectar"}, {"@type": "MusicRecording", "name": "Cho Time Riddim"}, {"@type": "MusicRecording", "name": "Chris Riddim"}, {"@type": "MusicRecording", "name": "Guitare Riddim"}, {"@type": "MusicRecording", "name": "Noel Rive"}, {"@type": "MusicRecording", "name": "Chrismas Skay Riddim"}, {"@type": "MusicRecording", "name": "No Time"}, {"@type": "MusicRecording", "name": "WOOD"},
+      {
+       "@type": "MusicRecording",
+       "name": "Ou Ja Vley (feat. Dj Skaylone)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SA KA BAY (feat. DJ SKAYLONE) (Bouyon 2025)"
+      },
+], "sameAs": ["https://www.youtube.com/channel/UCdKvMxXkfn8rhbmBuP8B6aw"]}}],
  "date_modified": "2026-10-20"
 }
 
@@ -210,6 +219,15 @@ EN = {
     "Start with “WOOD”, by Tiitii NBA with DJ SKAYLONE, released on November 22, 2024 on HEAVEN STUDIO, then with “Chris Riddim” on his YouTube channel. For today's new bouyon releases, follow @bouyonshattaz on Instagram and comment ROAD MIX under a post: the Bouyon Road Mix from our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> is sent to you by DM.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/dj-skylone.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/dj-skylone.html#artist", "name": "DJ Skaylone", "description": "Bouyon DJ and beatmaker, verified spelling Skaylone. YouTube channel DJ SKAYLONE Skay Beats of downloadable riddims, including Instru Bouyon, Chris Riddim and Guitare Riddim, Christmas riddims of 2019 and 2020, then streaming credit WOOD with Tiitii NBA in 2024. Full name and origin not established by the public record.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Instru Bouyon"}, {"@type": "MusicRecording", "name": "Trumpet Riddim"}, {"@type": "MusicRecording", "name": "Respectar"}, {"@type": "MusicRecording", "name": "Cho Time Riddim"}, {"@type": "MusicRecording", "name": "Chris Riddim"}, {"@type": "MusicRecording", "name": "Guitare Riddim"}, {"@type": "MusicRecording", "name": "Noel Rive"}, {"@type": "MusicRecording", "name": "Chrismas Skay Riddim"}, {"@type": "MusicRecording", "name": "No Time"}, {"@type": "MusicRecording", "name": "WOOD"}], "sameAs": ["https://www.youtube.com/channel/UCdKvMxXkfn8rhbmBuP8B6aw"]}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/dj-skylone.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/dj-skylone.html#artist", "name": "DJ Skaylone", "description": "Bouyon DJ and beatmaker, verified spelling Skaylone. YouTube channel DJ SKAYLONE Skay Beats of downloadable riddims, including Instru Bouyon, Chris Riddim and Guitare Riddim, Christmas riddims of 2019 and 2020, then streaming credit WOOD with Tiitii NBA in 2024. Full name and origin not established by the public record.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Instru Bouyon"}, {"@type": "MusicRecording", "name": "Trumpet Riddim"}, {"@type": "MusicRecording", "name": "Respectar"}, {"@type": "MusicRecording", "name": "Cho Time Riddim"}, {"@type": "MusicRecording", "name": "Chris Riddim"}, {"@type": "MusicRecording", "name": "Guitare Riddim"}, {"@type": "MusicRecording", "name": "Noel Rive"}, {"@type": "MusicRecording", "name": "Chrismas Skay Riddim"}, {"@type": "MusicRecording", "name": "No Time"}, {"@type": "MusicRecording", "name": "WOOD"},
+      {
+       "@type": "MusicRecording",
+       "name": "Ou Ja Vley (feat. Dj Skaylone)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SA KA BAY (feat. DJ SKAYLONE) (Bouyon 2025)"
+      },
+], "sameAs": ["https://www.youtube.com/channel/UCdKvMxXkfn8rhbmBuP8B6aw"]}}],
  "date_modified": "2026-10-20"
 }

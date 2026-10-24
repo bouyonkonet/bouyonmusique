@@ -110,7 +110,24 @@ FR = {
     "More Sewo est le label crédité à la production de She Want That Ah aux côtés de Cross D Bridge Studio, selon la description de la vidéo officielle. C’est aussi le label auquel est signé <a href=\"/bonna.html\">BONNA</a>, l’artiste bouyon de La Plaine, en Dominique. Pour Money Shaun, ce crédit est la seule attache industrielle documentée : aucun label personnel ni management publié n’a été retrouvé.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/money-shaun.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/money-shaun.html#artist", "name": "Money Shaun", "description": "Voix bouyon connue par ses featuring avec Ridge : She Want That Ah, produit par Cross D Bridge Studio et More Sewo, et She Stupid avec Ridge et 1T1. Aucune biographie officielle publiée à ce jour.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "She Want That Ah"}, {"@type": "MusicRecording", "name": "She Stupid"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/money-shaun.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/money-shaun.html#artist", "name": "Money Shaun", "description": "Voix bouyon connue par ses featuring avec Ridge : She Want That Ah, produit par Cross D Bridge Studio et More Sewo, et She Stupid avec Ridge et 1T1. Aucune biographie officielle publiée à ce jour.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "She Want That Ah"}, {"@type": "MusicRecording", "name": "She Stupid"},
+      {
+       "@type": "MusicRecording",
+       "name": "OU VLE VWEY"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "RAT EAT MY FEELINGS (feat. Money shaun)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TILILI (feat. Latop & Money Shaun)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "She Wan That Ah"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -213,6 +230,23 @@ EN = {
     "More Sewo is the label credited with the production of She Want That Ah alongside Cross D Bridge Studio, according to the official video description. It is also the label <a href=\"/en/bonna.html\">BONNA</a>, the bouyon artist from La Plaine in Dominica, is signed to. For Money Shaun, this credit is the only documented industry tie: no personal label and no published management were found.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/money-shaun.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/money-shaun.html#artist", "name": "Money Shaun", "description": "Bouyon voice known through his features with Ridge: She Want That Ah, produced by Cross D Bridge Studio and More Sewo, and She Stupid with Ridge and 1T1. No official biography published to date.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "She Want That Ah"}, {"@type": "MusicRecording", "name": "She Stupid"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/money-shaun.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/money-shaun.html#artist", "name": "Money Shaun", "description": "Bouyon voice known through his features with Ridge: She Want That Ah, produced by Cross D Bridge Studio and More Sewo, and She Stupid with Ridge and 1T1. No official biography published to date.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "She Want That Ah"}, {"@type": "MusicRecording", "name": "She Stupid"},
+      {
+       "@type": "MusicRecording",
+       "name": "OU VLE VWEY"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "RAT EAT MY FEELINGS (feat. Money shaun)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TILILI (feat. Latop & Money Shaun)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "She Wan That Ah"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

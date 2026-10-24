@@ -132,7 +132,48 @@ FR = {
     "Les données de concerts de Viberate associent le groupe à l’affiche du Karukera One Love Music Festival, à Torcy, aux côtés de noms comme Ninho, Kalash, Busy Signal, Beenie Man et Bunji Garlin. Ce profil retient cette présence comme un fait d’affiche, sans reprendre les récits de concerts plus détaillés de la même base, faute de correspondance vérifiée.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/lestef-kjf-boyz.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/lestef-kjf-boyz.html#artist", "name": "LESTEF KJF BOYZ", "description": "Groupe de Guadeloupe. Serie KJF (KJF 2, KJF 4, KJF 5), 50/50 avec Team Bwe Tou Sa, KKV, Malpale, co-ecriture de La Boue de Meryl, EP Riddim Aleatoire (2025) et singles avec DJ Luchshiy. Ecriture centrale : Stephan Cornano.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "KJF 4"}, {"@type": "MusicRecording", "name": "50/50"}, {"@type": "MusicRecording", "name": "KJF 2"}, {"@type": "MusicRecording", "name": "KJF 5"}, {"@type": "MusicRecording", "name": "TAKE IT OUT"}, {"@type": "MusicRecording", "name": "KKV"}, {"@type": "MusicRecording", "name": "MALPALÉ"}, {"@type": "MusicRecording", "name": "MORNE FLEURET FREESTYLE"}, {"@type": "MusicRecording", "name": "La Boue"}, {"@type": "MusicRecording", "name": "Karibbean Gyal"}, {"@type": "MusicRecording", "name": "NO COME BACK (WHATCHA SAY)"}, {"@type": "MusicRecording", "name": "TAKE UR TIME"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/lestef-kjf-boyz.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/lestef-kjf-boyz.html#artist", "name": "LESTEF KJF BOYZ", "description": "Groupe de Guadeloupe. Serie KJF (KJF 2, KJF 4, KJF 5), 50/50 avec Team Bwe Tou Sa, KKV, Malpale, co-ecriture de La Boue de Meryl, EP Riddim Aleatoire (2025) et singles avec DJ Luchshiy. Ecriture centrale : Stephan Cornano.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "KJF 4"}, {"@type": "MusicRecording", "name": "50/50"}, {"@type": "MusicRecording", "name": "KJF 2"}, {"@type": "MusicRecording", "name": "KJF 5"}, {"@type": "MusicRecording", "name": "TAKE IT OUT"}, {"@type": "MusicRecording", "name": "KKV"}, {"@type": "MusicRecording", "name": "MALPALÉ"}, {"@type": "MusicRecording", "name": "MORNE FLEURET FREESTYLE"}, {"@type": "MusicRecording", "name": "La Boue"}, {"@type": "MusicRecording", "name": "Karibbean Gyal"}, {"@type": "MusicRecording", "name": "NO COME BACK (WHATCHA SAY)"}, {"@type": "MusicRecording", "name": "TAKE UR TIME"},
+      {
+       "@type": "MusicRecording",
+       "name": "I JUST WANT (feat. BRG HOLLYWOOD & DINHO)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "NASTY GIRL (feat. GWADA G & JOSHII G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Open DI Place"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Are U Ready"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ratatouille Live"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ride It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Look My Style"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nou Chô (feat. FREDDY & LESTEF KJF BOYZ)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Position"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Freestyle Loup Garou"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -261,6 +302,47 @@ EN = {
     "Viberate concert data associates the group with the line-up of the Karukera One Love Music Festival, in Torcy, alongside names such as Ninho, Kalash, Busy Signal, Beenie Man and Bunji Garlin. This profile keeps that presence as a line-up fact, without repeating the more detailed concert stories of the same database, which have no verified match.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/lestef-kjf-boyz.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/lestef-kjf-boyz.html#artist", "name": "LESTEF KJF BOYZ", "description": "Group from Guadeloupe. KJF series (KJF 2, KJF 4, KJF 5), 50/50 with Team Bwe Tou Sa, KKV, Malpale, co-writing credit on Meryl La Boue, EP Riddim Aleatoire (2025) and singles with DJ Luchshiy. Central writing: Stephan Cornano.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "KJF 4"}, {"@type": "MusicRecording", "name": "50/50"}, {"@type": "MusicRecording", "name": "KJF 2"}, {"@type": "MusicRecording", "name": "KJF 5"}, {"@type": "MusicRecording", "name": "TAKE IT OUT"}, {"@type": "MusicRecording", "name": "KKV"}, {"@type": "MusicRecording", "name": "MALPALÉ"}, {"@type": "MusicRecording", "name": "MORNE FLEURET FREESTYLE"}, {"@type": "MusicRecording", "name": "La Boue"}, {"@type": "MusicRecording", "name": "Karibbean Gyal"}, {"@type": "MusicRecording", "name": "NO COME BACK (WHATCHA SAY)"}, {"@type": "MusicRecording", "name": "TAKE UR TIME"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/lestef-kjf-boyz.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/lestef-kjf-boyz.html#artist", "name": "LESTEF KJF BOYZ", "description": "Group from Guadeloupe. KJF series (KJF 2, KJF 4, KJF 5), 50/50 with Team Bwe Tou Sa, KKV, Malpale, co-writing credit on Meryl La Boue, EP Riddim Aleatoire (2025) and singles with DJ Luchshiy. Central writing: Stephan Cornano.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "KJF 4"}, {"@type": "MusicRecording", "name": "50/50"}, {"@type": "MusicRecording", "name": "KJF 2"}, {"@type": "MusicRecording", "name": "KJF 5"}, {"@type": "MusicRecording", "name": "TAKE IT OUT"}, {"@type": "MusicRecording", "name": "KKV"}, {"@type": "MusicRecording", "name": "MALPALÉ"}, {"@type": "MusicRecording", "name": "MORNE FLEURET FREESTYLE"}, {"@type": "MusicRecording", "name": "La Boue"}, {"@type": "MusicRecording", "name": "Karibbean Gyal"}, {"@type": "MusicRecording", "name": "NO COME BACK (WHATCHA SAY)"}, {"@type": "MusicRecording", "name": "TAKE UR TIME"},
+      {
+       "@type": "MusicRecording",
+       "name": "I JUST WANT (feat. BRG HOLLYWOOD & DINHO)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "NASTY GIRL (feat. GWADA G & JOSHII G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Open DI Place"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Are U Ready"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ratatouille Live"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ride It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Look My Style"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nou Chô (feat. FREDDY & LESTEF KJF BOYZ)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Position"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Freestyle Loup Garou"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

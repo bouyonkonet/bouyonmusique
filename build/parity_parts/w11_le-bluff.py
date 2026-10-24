@@ -128,7 +128,36 @@ FR = {
     "La Team Bwè Tou Sa, dont le nom signifie l’équipe boit tout ça en créole, est l’un des collectifs emblématiques des sessions bouyon et dancehall créole en Guadeloupe. Elle figure avec Le Bluff parmi les huit invités de « BAISE-MOI » de Laka en 2023. Ce format de posse cut, où une équipe entière se relaie sur une même production, est une institution du bouyon actuel.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/le-bluff.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/le-bluff.html#artist", "name": "Le Bluff", "description": "Voix invitée du bouyon guadeloupéen, documentée par quatre titres : C HOT en solo, Chocolate avec Shanika, BAISE-MOI avec Laka et VIN TCHEK NOU sur Premières Notes de Lewismelo, en 2023. Aucune biographie publique documentée.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'C HOT'}, {"@type": "MusicRecording", "name": 'Chocolate'}, {"@type": "MusicRecording", "name": 'BAISE-MOI'}, {"@type": "MusicRecording", "name": 'VIN TCHEK NOU'}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/le-bluff.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/le-bluff.html#artist", "name": "Le Bluff", "description": "Voix invitée du bouyon guadeloupéen, documentée par quatre titres : C HOT en solo, Chocolate avec Shanika, BAISE-MOI avec Laka et VIN TCHEK NOU sur Premières Notes de Lewismelo, en 2023. Aucune biographie publique documentée.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'C HOT'}, {"@type": "MusicRecording", "name": 'Chocolate'}, {"@type": "MusicRecording", "name": 'BAISE-MOI'}, {"@type": "MusicRecording", "name": 'VIN TCHEK NOU'},
+      {
+       "@type": "MusicRecording",
+       "name": "STV"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fais ça (feat. Lewismelo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Face à Face (feat. DJ LEGUSTE)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I LIKE (feat. Le bluff)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bay Kiki (feat. DLN, Karnage, JNS & Le Bluff)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dérapé la (feat. DJ LEGUSTE)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BOUMBOULOUM (performance live studio) (feat. Le Bluff & Tisma) (Live)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -252,6 +281,35 @@ EN = {
     "Team Bwè Tou Sa, whose name means the team drinks all that in Creole, is one of the emblematic collectives of bouyon and Creole dancehall sessions in Guadeloupe. It appears with Le Bluff among the eight guests on Laka “BAISE-MOI” in 2023. That posse cut format, where a whole team trades verses over one production, is an institution of current bouyon.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/le-bluff.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/le-bluff.html#artist", "name": "Le Bluff", "description": "Guest voice of Guadeloupe bouyon, documented by four records: C HOT solo, Chocolate with Shanika, BAISE-MOI with Laka and VIN TCHEK NOU on Premières Notes by Lewismelo, in 2023. No documented public biography.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'C HOT'}, {"@type": "MusicRecording", "name": 'Chocolate'}, {"@type": "MusicRecording", "name": 'BAISE-MOI'}, {"@type": "MusicRecording", "name": 'VIN TCHEK NOU'}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/le-bluff.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/le-bluff.html#artist", "name": "Le Bluff", "description": "Guest voice of Guadeloupe bouyon, documented by four records: C HOT solo, Chocolate with Shanika, BAISE-MOI with Laka and VIN TCHEK NOU on Premières Notes by Lewismelo, in 2023. No documented public biography.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'C HOT'}, {"@type": "MusicRecording", "name": 'Chocolate'}, {"@type": "MusicRecording", "name": 'BAISE-MOI'}, {"@type": "MusicRecording", "name": 'VIN TCHEK NOU'},
+      {
+       "@type": "MusicRecording",
+       "name": "STV"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fais ça (feat. Lewismelo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Face à Face (feat. DJ LEGUSTE)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I LIKE (feat. Le bluff)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bay Kiki (feat. DLN, Karnage, JNS & Le Bluff)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dérapé la (feat. DJ LEGUSTE)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BOUMBOULOUM (performance live studio) (feat. Le Bluff & Tisma) (Live)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

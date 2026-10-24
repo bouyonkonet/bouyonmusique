@@ -118,7 +118,68 @@ FR = {
     "Lisez notre page <a href=\"/bouyon-gwada.html\">bouyon gwada</a> pour la déclinaison guadeloupéenne du genre et son trajet depuis la Dominique. Pour la scène actuelle de la Guadeloupe et de la Dominique, celle dans laquelle « A pa taw » a circulé, la playlist Bouyon Road Mix de Bouyon Shattaz réunit nouveautés et classiques sur Spotify et YouTube.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/kassidje.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/kassidje.html#artist", "name": "Kassidje", "description": "Artiste crédité avec Doc J sur le titre bouyon A pa taw, transmis par la tracklist de l’épisode guadeloupéen du podcast Faya. Aucune biographie ni autre enregistrement vérifié retrouvé en octobre 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "A pa taw"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/kassidje.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/kassidje.html#artist", "name": "Kassidje", "description": "Artiste crédité avec Doc J sur le titre bouyon A pa taw, transmis par la tracklist de l’épisode guadeloupéen du podcast Faya. Aucune biographie ni autre enregistrement vérifié retrouvé en octobre 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "A pa taw"},
+      {
+       "@type": "MusicRecording",
+       "name": "PETE UN CABLE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DANGEROUS DRIVER"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Baybay 2"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bay Bay / kassidjé Gazagirl /bouyon Ridge /Arthuro more siwo /Rdog"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Poum Poum"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tousa Sikré / Kassidjé Gazagirl / bouyon J2mo /"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bouyon hardcore"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doudou"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sèpen Sèpen (feat. Gaza Izzy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dangerous Gyal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bikini"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Milkshake"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sa ZOT VLÉ"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BOIT LE LAIT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TCHIN TCHIN / KASSIDJÉ GAZAGIRL / BOUYON J2MO"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -217,6 +278,67 @@ EN = {
     "Read our <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a> page for the Guadeloupean form of the genre and its path from Dominica. For the current scene of Guadeloupe and Dominica, the one in which “A pa taw” circulated, the Bouyon Road Mix playlist by Bouyon Shattaz gathers new releases and classics on Spotify and YouTube.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/kassidje.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/kassidje.html#artist", "name": "Kassidje", "description": "Artist credited with Doc J on the bouyon record A pa taw, carried by the tracklist of the Guadeloupe episode of the Faya podcast. No biography and no other verified recording found in October 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "A pa taw"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/kassidje.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/kassidje.html#artist", "name": "Kassidje", "description": "Artist credited with Doc J on the bouyon record A pa taw, carried by the tracklist of the Guadeloupe episode of the Faya podcast. No biography and no other verified recording found in October 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "A pa taw"},
+      {
+       "@type": "MusicRecording",
+       "name": "PETE UN CABLE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DANGEROUS DRIVER"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Baybay 2"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bay Bay / kassidjé Gazagirl /bouyon Ridge /Arthuro more siwo /Rdog"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Poum Poum"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tousa Sikré / Kassidjé Gazagirl / bouyon J2mo /"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bouyon hardcore"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doudou"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sèpen Sèpen (feat. Gaza Izzy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dangerous Gyal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bikini"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Milkshake"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sa ZOT VLÉ"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BOIT LE LAIT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TCHIN TCHIN / KASSIDJÉ GAZAGIRL / BOUYON J2MO"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

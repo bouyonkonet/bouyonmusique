@@ -118,7 +118,12 @@ FR = {
     "L’écoute commence par leurs trois titres vérifiés : « Malpalé » avec LESTEF KJF BOYZ, leur single « Tata Yéyé » et « Look My Style » sur l’EP « Riddim Aleatoire ». Pour le bouyon et le shatta qui portent ces noms entre les Antilles et la région parisienne, écoutez le Road Mix de Bouyon Shattaz sur notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/les-ptits-du-rzt.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/les-ptits-du-rzt.html#artist", "name": "Les Ptits du RZT", "description": "Groupe de bouyon et shatta documente par trois credits verifies : Malpale avec LESTEF KJF BOYZ (2024), le single Tata Yeye co-ecrit avec 1t1 (2024) et Look My Style (2025). Aucune biographie publique verifiee retrouvee.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "MALPALÉ"}, {"@type": "MusicRecording", "name": "TATA YÉYÉ"}, {"@type": "MusicRecording", "name": "Look My Style"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/les-ptits-du-rzt.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/les-ptits-du-rzt.html#artist", "name": "Les Ptits du RZT", "description": "Groupe de bouyon et shatta documente par trois credits verifies : Malpale avec LESTEF KJF BOYZ (2024), le single Tata Yeye co-ecrit avec 1t1 (2024) et Look My Style (2025). Aucune biographie publique verifiee retrouvee.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "MALPALÉ"}, {"@type": "MusicRecording", "name": "TATA YÉYÉ"}, {"@type": "MusicRecording", "name": "Look My Style"},
+      {
+       "@type": "MusicRecording",
+       "name": "We Coming"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -233,6 +238,11 @@ EN = {
     "Listening starts with their three verified tracks: “Malpalé” with LESTEF KJF BOYZ, their single “Tata Yéyé” and “Look My Style” on the “Riddim Aleatoire” EP. For the bouyon and shatta that carry these names between the Antilles and the Paris region, play the Bouyon Shattaz Road Mix on our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> page.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/les-ptits-du-rzt.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/les-ptits-du-rzt.html#artist", "name": "Les Ptits du RZT", "description": "Bouyon and shatta group documented by three verified credits: Malpale with LESTEF KJF BOYZ (2024), the single Tata Yeye co-written with 1t1 (2024) and Look My Style (2025). No verified public biography found.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "MALPALÉ"}, {"@type": "MusicRecording", "name": "TATA YÉYÉ"}, {"@type": "MusicRecording", "name": "Look My Style"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/les-ptits-du-rzt.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/les-ptits-du-rzt.html#artist", "name": "Les Ptits du RZT", "description": "Bouyon and shatta group documented by three verified credits: Malpale with LESTEF KJF BOYZ (2024), the single Tata Yeye co-written with 1t1 (2024) and Look My Style (2025). No verified public biography found.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "MALPALÉ"}, {"@type": "MusicRecording", "name": "TATA YÉYÉ"}, {"@type": "MusicRecording", "name": "Look My Style"},
+      {
+       "@type": "MusicRecording",
+       "name": "We Coming"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

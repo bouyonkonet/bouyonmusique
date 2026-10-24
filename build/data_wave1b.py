@@ -142,7 +142,221 @@ PAGES = [
      "alternateName": "Gael Jno Baptiste",
      "homeLocation": "Dominica",
      "genre": "Bouyon",
-     "sameAs": ["https://www.instagram.com/trillaonthemic/"]
+     "sameAs": ["https://www.instagram.com/trillaonthemic/"],
+     "track": [
+      {
+       "@type": "MusicRecording",
+       "name": "Up Next Cypher, Vol. 1 (feat. G'z up, Ras B, Avatar Omish, Don Lash, Pa Pel & Prhymex)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Like Outside"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Clock It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lapidé Yo"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ain't Thinkin' Bout You"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bayfront (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Come As You Like"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "De Other Man"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kate"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Big Foot (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Free"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nobody (feat. Stalk Ashley)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Good Good"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "RAGS (feat. Skinny Fabulous & Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Like Your Woman (Side Man Confession)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cold Freestyle"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Try Me"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SCMN (Stop Call My Name)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "You Lie (feat. DJ Oberr)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bend Down"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nasty Business"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "God Did"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Judas"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dick Taylor Ship"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pamela"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Can Relate (feat. Starsha)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "The List"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "2 Man (feat. Unstoppable Shax)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hot Girl Summer"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Still My Baby"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wax on Wax Off (feat. Reo, Quan & DJ Realboss)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "The Prayer"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I'm a Boss Baby"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Your Life (feat. Milla, Trilla-G, DiYoute & Xs Groove)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Not A Word (feat. Trilla-G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "They Take You (feat. Shelly & Trilla-G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Come On Baby (feat. Trilla-G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Carnival Is Woman (feat. Trilla-G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Math Not Mathing (feat. Shelly & Trilla-G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Handouts (Raw) (feat. Trilla-G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dwivé (feat. Shelly & Trilla-G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Best Friend (feat. Trilla-G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bingo (feat. Trilla-G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Night Shift (feat. Shelly & Trilla-G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Riddim Coming Down (feat. Shane St. Claire) [This I Promise You Cover]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kanaval Awivé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Campari"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stay Chipping"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "De Word"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Déjà Val (feat. Trilla-G) [Party Mix]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "We Ready (feat. Trilla-G & Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Déliway (feat. Trilla-G)"
+      }
+     ]
     }
    },
    {
@@ -218,6 +432,6 @@ PAGES = [
     "byArtist": {"@id": "https://bouyonmusique.com/trilla-g.html#artist"}
    }
   ],
-"date_modified": "2026-10-20"
+"date_modified": "2026-10-21"
  }
 ]

@@ -126,7 +126,60 @@ FR = {
     "Commencez par « KARAKOLI », « ALL NIGHT », « Supalova », « SKILLI » et « LA PEP'HIT FREESTYLE » sur sa page artiste Deezer, puis « FREESTYLE TRINI 2 ». Pour suivre la scène, notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> rassemble les nouveautés de la Dominique et des Antilles françaises : commentez ROAD MIX sous une publication de @bouyonshattaz sur Instagram pour la recevoir en DM.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/dj-softee.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/dj-softee.html#artist", "name": "DJ Softee", "description": "DJ et producteur bouyon de la scène de Guadeloupe. EP BOUYON MOOD en 2023, singles KPT, ALL NIGHT et BOUNCE en 2024, LA PEP'HIT FREESTYLE et EP Chodong Route Empire C.R.E en 2025, avec Tiitii NBA, DJ Boko, DJ Dirtee, QWANN, DINHO et 1T1. Nom complet non établi par le dossier public.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Zanana (Version Deluxe)"}, {"@type": "MusicRecording", "name": "KARAKOLI"}, {"@type": "MusicRecording", "name": "FRIDAY NIGHT"}, {"@type": "MusicRecording", "name": "New Bouyon Wave #1"}, {"@type": "MusicRecording", "name": "GardaVou"}, {"@type": "MusicRecording", "name": "KPT"}, {"@type": "MusicRecording", "name": "Everyday"}, {"@type": "MusicRecording", "name": "ALL NIGHT"}, {"@type": "MusicRecording", "name": "BOUNCE"}, {"@type": "MusicRecording", "name": "LA PEP'HIT FREESTYLE"}, {"@type": "MusicRecording", "name": "FREESTYLE TRINI 2"}, {"@type": "MusicRecording", "name": "Bay li"}, {"@type": "MusicRecording", "name": "SKILLI"}, {"@type": "MusicRecording", "name": "SOUKWÉ LI"}, {"@type": "MusicRecording", "name": "Supalova"}], "sameAs": ["https://www.deezer.com/mx/artist/194711787"]}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/dj-softee.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/dj-softee.html#artist", "name": "DJ Softee", "description": "DJ et producteur bouyon de la scène de Guadeloupe. EP BOUYON MOOD en 2023, singles KPT, ALL NIGHT et BOUNCE en 2024, LA PEP'HIT FREESTYLE et EP Chodong Route Empire C.R.E en 2025, avec Tiitii NBA, DJ Boko, DJ Dirtee, QWANN, DINHO et 1T1. Nom complet non établi par le dossier public.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Zanana (Version Deluxe)"}, {"@type": "MusicRecording", "name": "KARAKOLI"}, {"@type": "MusicRecording", "name": "FRIDAY NIGHT"}, {"@type": "MusicRecording", "name": "New Bouyon Wave #1"}, {"@type": "MusicRecording", "name": "GardaVou"}, {"@type": "MusicRecording", "name": "KPT"}, {"@type": "MusicRecording", "name": "Everyday"}, {"@type": "MusicRecording", "name": "ALL NIGHT"}, {"@type": "MusicRecording", "name": "BOUNCE"}, {"@type": "MusicRecording", "name": "LA PEP'HIT FREESTYLE"}, {"@type": "MusicRecording", "name": "FREESTYLE TRINI 2"}, {"@type": "MusicRecording", "name": "Bay li"}, {"@type": "MusicRecording", "name": "SKILLI"}, {"@type": "MusicRecording", "name": "SOUKWÉ LI"}, {"@type": "MusicRecording", "name": "Supalova"},
+      {
+       "@type": "MusicRecording",
+       "name": "BIM BAM (feat. DJ BOKO) [ATOX Remix Radio Edit]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "HO HO (feat. DJ BOKO)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Action"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "FREESTYLE TRINI 2 (AKNOSE -1T1- SOFTEE -TIITII NBA -NILS)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SECRET FXCK (feat. TIITII NBA)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Take a Lick (feat. TiiTii NBA & DJ SOFTEE)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jéré Sa"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ambiance Latino (feat. Tiitii Nba) (BOUYON WARM UP 2026)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "More Wata (feat. Tiitii Nba) (BOUYON WARM UP 2026)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Chi Chi Bad (feat. TIITII NBA) (Special Version Bouyon 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Chalè (feat. TIITII NBA) (Bouyon 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BIG MOOD (feat. TIITII NBA) (Bouyon 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Snap ça (feat. TIITII NBA) (Bouyon 2023)"
+      },
+], "sameAs": ["https://www.deezer.com/mx/artist/194711787"]}}],
  "date_modified": "2026-10-20"
 }
 
@@ -248,6 +301,59 @@ EN = {
     "Start with “KARAKOLI”, “ALL NIGHT”, “Supalova”, “SKILLI” and “LA PEP'HIT FREESTYLE” on his Deezer artist page, then “FREESTYLE TRINI 2”. To follow the scene, our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> gathers new releases from Dominica and the French Antilles: comment ROAD MIX under an @bouyonshattaz post on Instagram to receive it by DM.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/dj-softee.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/dj-softee.html#artist", "name": "DJ Softee", "description": "Bouyon DJ and producer from the Guadeloupe scene. BOUYON MOOD EP in 2023, singles KPT, ALL NIGHT and BOUNCE in 2024, LA PEP'HIT FREESTYLE and Chodong Route Empire C.R.E EP in 2025, with Tiitii NBA, DJ Boko, DJ Dirtee, QWANN, DINHO and 1T1. Full name not established by the public record.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Zanana (Version Deluxe)"}, {"@type": "MusicRecording", "name": "KARAKOLI"}, {"@type": "MusicRecording", "name": "FRIDAY NIGHT"}, {"@type": "MusicRecording", "name": "New Bouyon Wave #1"}, {"@type": "MusicRecording", "name": "GardaVou"}, {"@type": "MusicRecording", "name": "KPT"}, {"@type": "MusicRecording", "name": "Everyday"}, {"@type": "MusicRecording", "name": "ALL NIGHT"}, {"@type": "MusicRecording", "name": "BOUNCE"}, {"@type": "MusicRecording", "name": "LA PEP'HIT FREESTYLE"}, {"@type": "MusicRecording", "name": "FREESTYLE TRINI 2"}, {"@type": "MusicRecording", "name": "Bay li"}, {"@type": "MusicRecording", "name": "SKILLI"}, {"@type": "MusicRecording", "name": "SOUKWÉ LI"}, {"@type": "MusicRecording", "name": "Supalova"}], "sameAs": ["https://www.deezer.com/mx/artist/194711787"]}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/dj-softee.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/dj-softee.html#artist", "name": "DJ Softee", "description": "Bouyon DJ and producer from the Guadeloupe scene. BOUYON MOOD EP in 2023, singles KPT, ALL NIGHT and BOUNCE in 2024, LA PEP'HIT FREESTYLE and Chodong Route Empire C.R.E EP in 2025, with Tiitii NBA, DJ Boko, DJ Dirtee, QWANN, DINHO and 1T1. Full name not established by the public record.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Zanana (Version Deluxe)"}, {"@type": "MusicRecording", "name": "KARAKOLI"}, {"@type": "MusicRecording", "name": "FRIDAY NIGHT"}, {"@type": "MusicRecording", "name": "New Bouyon Wave #1"}, {"@type": "MusicRecording", "name": "GardaVou"}, {"@type": "MusicRecording", "name": "KPT"}, {"@type": "MusicRecording", "name": "Everyday"}, {"@type": "MusicRecording", "name": "ALL NIGHT"}, {"@type": "MusicRecording", "name": "BOUNCE"}, {"@type": "MusicRecording", "name": "LA PEP'HIT FREESTYLE"}, {"@type": "MusicRecording", "name": "FREESTYLE TRINI 2"}, {"@type": "MusicRecording", "name": "Bay li"}, {"@type": "MusicRecording", "name": "SKILLI"}, {"@type": "MusicRecording", "name": "SOUKWÉ LI"}, {"@type": "MusicRecording", "name": "Supalova"},
+      {
+       "@type": "MusicRecording",
+       "name": "BIM BAM (feat. DJ BOKO) [ATOX Remix Radio Edit]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "HO HO (feat. DJ BOKO)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Action"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "FREESTYLE TRINI 2 (AKNOSE -1T1- SOFTEE -TIITII NBA -NILS)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SECRET FXCK (feat. TIITII NBA)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Take a Lick (feat. TiiTii NBA & DJ SOFTEE)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jéré Sa"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ambiance Latino (feat. Tiitii Nba) (BOUYON WARM UP 2026)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "More Wata (feat. Tiitii Nba) (BOUYON WARM UP 2026)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Chi Chi Bad (feat. TIITII NBA) (Special Version Bouyon 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Chalè (feat. TIITII NBA) (Bouyon 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BIG MOOD (feat. TIITII NBA) (Bouyon 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Snap ça (feat. TIITII NBA) (Bouyon 2023)"
+      },
+], "sameAs": ["https://www.deezer.com/mx/artist/194711787"]}}],
  "date_modified": "2026-10-20"
 }

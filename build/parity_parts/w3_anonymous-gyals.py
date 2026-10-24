@@ -132,7 +132,24 @@ FR = {
     "Dans la copie consultée de la sélection Spotify, « PA FÈ CHICHI » côtoie « Toto » d’Edday, des titres de Team Bwè Tou Sa et de LESTEF KJF BOYZ, « Fès ka pété » de LGC et LeJuh, « Dou dou » de Reo et Litleboy, « Show Me » de Litle Boy et Triple Kay International, et « Shake Your Pampalam » d’<a href=\"/asa-bantan.html\">Asa Bantan</a>.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/anonymous-gyals.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/anonymous-gyals.html#artist", "name": "Anonymous Gyals", "description": "Artiste bouyon émergente, écrite Anonymous Gyal’s sur les plateformes. Titres vérifiés : PA FÈ CHICHI, classé dans The Sound of Bouyon de Spotify, et Cho caché. Une soirée Baddies Bash porte son nom en Guadeloupe en octobre 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "PA FÈ CHICHI"}, {"@type": "MusicRecording", "name": "Cho caché"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/anonymous-gyals.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/anonymous-gyals.html#artist", "name": "Anonymous Gyals", "description": "Artiste bouyon émergente, écrite Anonymous Gyal’s sur les plateformes. Titres vérifiés : PA FÈ CHICHI, classé dans The Sound of Bouyon de Spotify, et Cho caché. Une soirée Baddies Bash porte son nom en Guadeloupe en octobre 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "PA FÈ CHICHI"}, {"@type": "MusicRecording", "name": "Cho caché"},
+      {
+       "@type": "MusicRecording",
+       "name": "Juste pour une baise"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Petite Garce"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "KANON"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Projet X (feat. Leyou, Ted La & Anonymous Gyals)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -248,6 +265,23 @@ EN = {
     "In the copy of the Spotify selection consulted, “PA FÈ CHICHI” sits next to “Toto” by Edday, tracks by Team Bwè Tou Sa and LESTEF KJF BOYZ, “Fès ka pété” by LGC and LeJuh, “Dou dou” by Reo and Litleboy, “Show Me” by Litle Boy and Triple Kay International, and “Shake Your Pampalam” by <a href=\"/en/asa-bantan.html\">Asa Bantan</a>.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/anonymous-gyals.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/anonymous-gyals.html#artist", "name": "Anonymous Gyals", "description": "Emerging bouyon artist, written Anonymous Gyal’s on the platforms. Verified records: PA FÈ CHICHI, ranked in Spotify The Sound of Bouyon, and Cho caché. A Baddies Bash night carries her name in Guadeloupe in October 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "PA FÈ CHICHI"}, {"@type": "MusicRecording", "name": "Cho caché"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/anonymous-gyals.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/anonymous-gyals.html#artist", "name": "Anonymous Gyals", "description": "Emerging bouyon artist, written Anonymous Gyal’s on the platforms. Verified records: PA FÈ CHICHI, ranked in Spotify The Sound of Bouyon, and Cho caché. A Baddies Bash night carries her name in Guadeloupe in October 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "PA FÈ CHICHI"}, {"@type": "MusicRecording", "name": "Cho caché"},
+      {
+       "@type": "MusicRecording",
+       "name": "Juste pour une baise"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Petite Garce"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "KANON"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Projet X (feat. Leyou, Ted La & Anonymous Gyals)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

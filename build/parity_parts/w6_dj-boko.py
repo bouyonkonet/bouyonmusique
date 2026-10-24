@@ -117,7 +117,28 @@ FR = {
     "Dans le bouyon actuel, un DJ invité peut avoir fourni le riddim, une partie de la production, une voix d’ambiance, un tag ou une présence de plateau qui fait l’identité du morceau. Son nom signale une couleur, une équipe, un circuit de soirées. Les fiches publiées ne précisent pas ce rôle titre par titre pour DJ Boko, crédité comme artiste invité.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/dj-boko.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/dj-boko.html#artist", "name": "DJ Boko", "description": "DJ du circuit bouyon francophone, crédité en featuring sur ON ME, WET WET et SHE’S A HOE de TiiTii NBA, sur Bay li et SOUKWE LI de DJ SOFTEE, sur LA PEP’HIT FREESTYLE et sur Jéré Sa.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "ON ME"}, {"@type": "MusicRecording", "name": "WET WET"}, {"@type": "MusicRecording", "name": "SHE’S A HOE"}, {"@type": "MusicRecording", "name": "Bay li"}, {"@type": "MusicRecording", "name": "SOUKWE LI"}, {"@type": "MusicRecording", "name": "LA PEP’HIT FREESTYLE"}, {"@type": "MusicRecording", "name": "Jéré Sa"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/dj-boko.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/dj-boko.html#artist", "name": "DJ Boko", "description": "DJ du circuit bouyon francophone, crédité en featuring sur ON ME, WET WET et SHE’S A HOE de TiiTii NBA, sur Bay li et SOUKWE LI de DJ SOFTEE, sur LA PEP’HIT FREESTYLE et sur Jéré Sa.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "ON ME"}, {"@type": "MusicRecording", "name": "WET WET"}, {"@type": "MusicRecording", "name": "SHE’S A HOE"}, {"@type": "MusicRecording", "name": "Bay li"}, {"@type": "MusicRecording", "name": "SOUKWE LI"}, {"@type": "MusicRecording", "name": "LA PEP’HIT FREESTYLE"}, {"@type": "MusicRecording", "name": "Jéré Sa"},
+      {
+       "@type": "MusicRecording",
+       "name": "I JA PRI (feat. LEKAY)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "J'aim ça bébé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BIM BAM (feat. DJ BOKO) [ATOX Remix Radio Edit]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "HO HO (feat. DJ BOKO)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bénédiksyon Tropikal (feat. Le K, DJ Boko & KinkyVyvz)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -230,6 +251,27 @@ EN = {
     "In today’s bouyon, a guest DJ may have supplied the riddim, part of the production, a hype voice, a tag or a stage presence that shapes the track’s identity. His name signals a colour, a crew, a party circuit. The published sheets do not specify that role track by track for DJ Boko, who is credited as a guest artist.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/dj-boko.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/dj-boko.html#artist", "name": "DJ Boko", "description": "DJ from the French speaking bouyon circuit, credited as featured artist on TiiTii NBA ON ME, WET WET and SHE’S A HOE, on DJ SOFTEE Bay li and SOUKWE LI, on LA PEP’HIT FREESTYLE and on Jéré Sa.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "ON ME"}, {"@type": "MusicRecording", "name": "WET WET"}, {"@type": "MusicRecording", "name": "SHE’S A HOE"}, {"@type": "MusicRecording", "name": "Bay li"}, {"@type": "MusicRecording", "name": "SOUKWE LI"}, {"@type": "MusicRecording", "name": "LA PEP’HIT FREESTYLE"}, {"@type": "MusicRecording", "name": "Jéré Sa"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/dj-boko.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/dj-boko.html#artist", "name": "DJ Boko", "description": "DJ from the French speaking bouyon circuit, credited as featured artist on TiiTii NBA ON ME, WET WET and SHE’S A HOE, on DJ SOFTEE Bay li and SOUKWE LI, on LA PEP’HIT FREESTYLE and on Jéré Sa.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "ON ME"}, {"@type": "MusicRecording", "name": "WET WET"}, {"@type": "MusicRecording", "name": "SHE’S A HOE"}, {"@type": "MusicRecording", "name": "Bay li"}, {"@type": "MusicRecording", "name": "SOUKWE LI"}, {"@type": "MusicRecording", "name": "LA PEP’HIT FREESTYLE"}, {"@type": "MusicRecording", "name": "Jéré Sa"},
+      {
+       "@type": "MusicRecording",
+       "name": "I JA PRI (feat. LEKAY)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "J'aim ça bébé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BIM BAM (feat. DJ BOKO) [ATOX Remix Radio Edit]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "HO HO (feat. DJ BOKO)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bénédiksyon Tropikal (feat. Le K, DJ Boko & KinkyVyvz)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

@@ -146,7 +146,176 @@ FR = {
     "Non, elle y a été nommée, ce qui est déjà une reconnaissance régionale. The Peoples Tribune SXM compte Ebony Empress parmi les artistes de Saint-Martin nommés aux Caribbean Music Awards 2026, dans la catégorie Best Bouyon Artist. Les résultats publiés en septembre 2026 donnent ce prix à Mr. Ridge. Pour écouter la saison, suivez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/ebony-empress.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/ebony-empress.html#artist", "name": "Ebony Empress", "description": "Chanteuse bouyon née Everlyne Walters à Lagoon, Portsmouth, Dominique, basée à Saint-Martin. Percée en 2018 avec Quality Bumper, succès groovy Cosy Corner, deuxième dauphine du Senior Calypso de Saint-Martin en 2024, nommée artiste bouyon de l’année aux Caribbean Music Awards 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Quality Bumper"}, {"@type": "MusicRecording", "name": "Cosy Corner"}, {"@type": "MusicRecording", "name": "Strength of a Woman"}, {"@type": "MusicRecording", "name": "Domestic Violence"}, {"@type": "MusicRecording", "name": "Woman is Boss"}, {"@type": "MusicRecording", "name": "10 out of 10"}, {"@type": "MusicRecording", "name": "Cheers"}, {"@type": "MusicRecording", "name": "Cartoon Character"}, {"@type": "MusicRecording", "name": "Revolution Change"}, {"@type": "MusicRecording", "name": "Back Up Your Chat"}, {"@type": "MusicRecording", "name": "Largent"}, {"@type": "MusicRecording", "name": "Bounce 2D Riddim"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/ebony-empress.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/ebony-empress.html#artist", "name": "Ebony Empress", "description": "Chanteuse bouyon née Everlyne Walters à Lagoon, Portsmouth, Dominique, basée à Saint-Martin. Percée en 2018 avec Quality Bumper, succès groovy Cosy Corner, deuxième dauphine du Senior Calypso de Saint-Martin en 2024, nommée artiste bouyon de l’année aux Caribbean Music Awards 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Quality Bumper"}, {"@type": "MusicRecording", "name": "Cosy Corner"}, {"@type": "MusicRecording", "name": "Strength of a Woman"}, {"@type": "MusicRecording", "name": "Domestic Violence"}, {"@type": "MusicRecording", "name": "Woman is Boss"}, {"@type": "MusicRecording", "name": "10 out of 10"}, {"@type": "MusicRecording", "name": "Cheers"}, {"@type": "MusicRecording", "name": "Cartoon Character"}, {"@type": "MusicRecording", "name": "Revolution Change"}, {"@type": "MusicRecording", "name": "Back Up Your Chat"}, {"@type": "MusicRecording", "name": "Largent"}, {"@type": "MusicRecording", "name": "Bounce 2D Riddim"},
+      {
+       "@type": "MusicRecording",
+       "name": "32 Pong Town (feat. Real Reel)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kokayoko (feat. Shawn Storm) [Remix]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Grass Not Greener (feat. Carlyn XP)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "It Hurt Them (feat. Colton T)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "KOKAYOKO C**k by di window"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rose Zing Zing (feat. Khallion)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Your Love"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Quality Bumpa"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hot & Steamy"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "More and More"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cartoon Characters"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Granny's Advice"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Do fuh do"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Knock it like a bucket"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Last Dance"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mama"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "On Di Road Again"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Best Life"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Longtime"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Big Foot"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Somebody Son"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Attitude"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Best I Ever Have"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Woulé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "We Bad"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Brace"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Toujour Good"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bam Bam"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Want You (feat. Jdkriss)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BlockE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SHE MAKES ME MAD (feat. Ebony Empress)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Horn (feat. Ebony Empress)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Candy Store (feat. Ebony Empress & Sensi Zee)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hot Like Fire (feat. Ebony Empress) [Remix]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "The Baddest Wine (feat. Ebony Empress)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Without You (Women Response) (feat. Shyanne, Carlyn XP, Ebony Empress & Starsha)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Drunken Bad (feat. Chenko & Ebony Empress) [Remix]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Eat It (feat. Ebony Empress)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "COCO LOCO (feat. Ebony Empress)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Love Me"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "UpTap Boss (feat. Ebony Empress)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Permission (feat. Ebony Empress)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -287,6 +456,175 @@ EN = {
     "No, she was nominated there, which is already regional recognition. The Peoples Tribune SXM counts Ebony Empress among the St. Maarten artists nominated at the Caribbean Music Awards 2026, in the Best Bouyon Artist category. Results published in September 2026 give that award to Mr. Ridge. To hear the season, follow our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/ebony-empress.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/ebony-empress.html#artist", "name": "Ebony Empress", "description": "Bouyon singer born Everlyne Walters in Lagoon, Portsmouth, Dominica, based in St. Maarten. Breakout in 2018 with Quality Bumper, groovy success Cosy Corner, second runner up in the St. Maarten Senior Calypso competition in 2024, nominated for Bouyon Artist of the Year at the Caribbean Music Awards 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Quality Bumper"}, {"@type": "MusicRecording", "name": "Cosy Corner"}, {"@type": "MusicRecording", "name": "Strength of a Woman"}, {"@type": "MusicRecording", "name": "Domestic Violence"}, {"@type": "MusicRecording", "name": "Woman is Boss"}, {"@type": "MusicRecording", "name": "10 out of 10"}, {"@type": "MusicRecording", "name": "Cheers"}, {"@type": "MusicRecording", "name": "Cartoon Character"}, {"@type": "MusicRecording", "name": "Revolution Change"}, {"@type": "MusicRecording", "name": "Back Up Your Chat"}, {"@type": "MusicRecording", "name": "Largent"}, {"@type": "MusicRecording", "name": "Bounce 2D Riddim"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/ebony-empress.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/ebony-empress.html#artist", "name": "Ebony Empress", "description": "Bouyon singer born Everlyne Walters in Lagoon, Portsmouth, Dominica, based in St. Maarten. Breakout in 2018 with Quality Bumper, groovy success Cosy Corner, second runner up in the St. Maarten Senior Calypso competition in 2024, nominated for Bouyon Artist of the Year at the Caribbean Music Awards 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Quality Bumper"}, {"@type": "MusicRecording", "name": "Cosy Corner"}, {"@type": "MusicRecording", "name": "Strength of a Woman"}, {"@type": "MusicRecording", "name": "Domestic Violence"}, {"@type": "MusicRecording", "name": "Woman is Boss"}, {"@type": "MusicRecording", "name": "10 out of 10"}, {"@type": "MusicRecording", "name": "Cheers"}, {"@type": "MusicRecording", "name": "Cartoon Character"}, {"@type": "MusicRecording", "name": "Revolution Change"}, {"@type": "MusicRecording", "name": "Back Up Your Chat"}, {"@type": "MusicRecording", "name": "Largent"}, {"@type": "MusicRecording", "name": "Bounce 2D Riddim"},
+      {
+       "@type": "MusicRecording",
+       "name": "32 Pong Town (feat. Real Reel)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kokayoko (feat. Shawn Storm) [Remix]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Grass Not Greener (feat. Carlyn XP)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "It Hurt Them (feat. Colton T)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "KOKAYOKO C**k by di window"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rose Zing Zing (feat. Khallion)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Your Love"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Quality Bumpa"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hot & Steamy"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "More and More"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cartoon Characters"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Granny's Advice"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Do fuh do"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Knock it like a bucket"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Last Dance"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mama"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "On Di Road Again"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Best Life"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Longtime"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Big Foot"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Somebody Son"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Attitude"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Best I Ever Have"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Woulé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "We Bad"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Brace"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Toujour Good"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bam Bam"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Want You (feat. Jdkriss)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BlockE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SHE MAKES ME MAD (feat. Ebony Empress)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Horn (feat. Ebony Empress)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Candy Store (feat. Ebony Empress & Sensi Zee)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hot Like Fire (feat. Ebony Empress) [Remix]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "The Baddest Wine (feat. Ebony Empress)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Without You (Women Response) (feat. Shyanne, Carlyn XP, Ebony Empress & Starsha)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Drunken Bad (feat. Chenko & Ebony Empress) [Remix]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Eat It (feat. Ebony Empress)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "COCO LOCO (feat. Ebony Empress)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Love Me"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "UpTap Boss (feat. Ebony Empress)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Permission (feat. Ebony Empress)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

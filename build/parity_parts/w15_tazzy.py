@@ -86,7 +86,12 @@ FR = {
     "Partez des titres documentés de la scène : notre page des chansons bouyon rassemble les enregistrements vérifiés, et notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> mélange classiques de la Dominique et nouveautés suivies par Bouyon Shattaz.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/tazzy.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/tazzy.html#artist", "name": "Tazzy", "description": "Nom cité dans les listes de la scène bouyon. Aucun enregistrement bouyon vérifiable sous ce nom exact dans le dossier public au 20 octobre 2026 ; les catalogues homonymes documentés relèvent du hip hop britannique et des versions sped up, sans lien avec le bouyon.", "genre": "Bouyon", "track": [], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/tazzy.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/tazzy.html#artist", "name": "Tazzy", "description": "Nom cité dans les listes de la scène bouyon. Aucun enregistrement bouyon vérifiable sous ce nom exact dans le dossier public au 20 octobre 2026 ; les catalogues homonymes documentés relèvent du hip hop britannique et des versions sped up, sans lien avec le bouyon.", "genre": "Bouyon", "track": [
+      {
+       "@type": "MusicRecording",
+       "name": "Long Spoon"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -168,6 +173,11 @@ EN = {
     "Start from the documented records of the scene: our bouyon songs page gathers the verified recordings, and our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> mixes Dominica classics with new releases followed by Bouyon Shattaz.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/tazzy.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/tazzy.html#artist", "name": "Tazzy", "description": "Name listed on bouyon scene rosters. No bouyon recording verifiable under this exact name in the public record on October 20, 2026; the documented same-name catalogues belong to British hip hop and to sped up versions, with no link to bouyon.", "genre": "Bouyon", "track": [], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/tazzy.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/tazzy.html#artist", "name": "Tazzy", "description": "Name listed on bouyon scene rosters. No bouyon recording verifiable under this exact name in the public record on October 20, 2026; the documented same-name catalogues belong to British hip hop and to sped up versions, with no link to bouyon.", "genre": "Bouyon", "track": [
+      {
+       "@type": "MusicRecording",
+       "name": "Long Spoon"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

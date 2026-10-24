@@ -135,7 +135,128 @@ FR = {
     "Commencez par les jalons de WCK, où l’on entend ses motifs de clavier : « Culture Shock », « Dance Floor », « Conch Shell » et « Balance Batty ». Écoutez ensuite l’album « Interpretations » (2008) et les titres de Carlyn XP qu’il produit. Pour suivre le bouyon d’aujourd’hui, commentez ROAD MIX sous une publication de @bouyonshattaz sur Instagram, ou ouvrez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/cornell-phillip.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/cornell-phillip.html#artist", "name": "Cornell Phillip", "description": "Claviériste, producteur et arrangeur de la Dominique, membre fondateur de WCK en 1988. Surnommé Fingers pour sa dextérité au clavier, fondateur du studio Imperial Publishing en 1995.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Dominica in Pan"}, {"@type": "MusicRecording", "name": "Culture Shock"}, {"@type": "MusicRecording", "name": "Dance Floor"}, {"@type": "MusicRecording", "name": "Follow the Leader"}, {"@type": "MusicRecording", "name": "Land Of Sunshine"}, {"@type": "MusicRecording", "name": "Conch Shell"}, {"@type": "MusicRecording", "name": "Balance Batty"}, {"@type": "MusicRecording", "name": "Mete Veye"}, {"@type": "MusicRecording", "name": "Original Hold Dem"}, {"@type": "MusicRecording", "name": "Nomn La"}, {"@type": "MusicRecording", "name": "Preg Dance See"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/cornell-phillip.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/cornell-phillip.html#artist", "name": "Cornell Phillip", "description": "Claviériste, producteur et arrangeur de la Dominique, membre fondateur de WCK en 1988. Surnommé Fingers pour sa dextérité au clavier, fondateur du studio Imperial Publishing en 1995.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Dominica in Pan"}, {"@type": "MusicRecording", "name": "Culture Shock"}, {"@type": "MusicRecording", "name": "Dance Floor"}, {"@type": "MusicRecording", "name": "Follow the Leader"}, {"@type": "MusicRecording", "name": "Land Of Sunshine"}, {"@type": "MusicRecording", "name": "Conch Shell"}, {"@type": "MusicRecording", "name": "Balance Batty"}, {"@type": "MusicRecording", "name": "Mete Veye"}, {"@type": "MusicRecording", "name": "Original Hold Dem"}, {"@type": "MusicRecording", "name": "Nomn La"}, {"@type": "MusicRecording", "name": "Preg Dance See"},
+      {
+       "@type": "MusicRecording",
+       "name": "Many Waters (feat. Carlyn XP)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Everybody Wants to Rule the World (feat. Devine Songz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "You'll Never Find Another Love Like Mine (feat. Noel Browne)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Debouyon Riddim (Instrumental)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Breaking Loose (feat. Carlyn Xp)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Illegal Whine (feat. Carlyn Xp & Melodee)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Reverse (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bumpa Fete (feat. Daddy Chess)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Big Iron (feat. Colton T)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bouyon 2 D World (feat. Mr. Benji)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Krazy Luv Riddim"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Dominik"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Festival (feat. Artherton Martin)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "River Breeze (feat. Cameron Pierre)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Banana Sweet (feat. Jeff Joseph)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Balancé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Milk and Honey"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Chick Flick (feat. Jerry Moulon)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fading Away (feat. Joy Stout)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Magnificat (feat. Chad Augustine & Juanita Prosper)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Steppin' Out (feat. Heather Burton)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Comme D'habitude (feat. Artherton Martin)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Zouk Tec"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "An Syel"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jouer Kadans"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Help Me"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tout Biten Ke Mache"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sa Ki Sa-W"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pon-Y Eze"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sa Ki Pa Ni"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -263,6 +384,127 @@ EN = {
     "Start with the WCK milestones, where his keyboard patterns lead: “Culture Shock”, “Dance Floor”, “Conch Shell” and “Balance Batty”. Then listen to the album “Interpretations” (2008) and the Carlyn XP records he produces. To follow today’s bouyon, comment ROAD MIX under an @bouyonshattaz post on Instagram, or open our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/cornell-phillip.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/cornell-phillip.html#artist", "name": "Cornell Phillip", "description": "Keyboardist, producer and arranger from Dominica, founding member of WCK in 1988. Nicknamed Fingers for his keyboard dexterity, founder of the Imperial Publishing studio in 1995.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Dominica in Pan"}, {"@type": "MusicRecording", "name": "Culture Shock"}, {"@type": "MusicRecording", "name": "Dance Floor"}, {"@type": "MusicRecording", "name": "Follow the Leader"}, {"@type": "MusicRecording", "name": "Land Of Sunshine"}, {"@type": "MusicRecording", "name": "Conch Shell"}, {"@type": "MusicRecording", "name": "Balance Batty"}, {"@type": "MusicRecording", "name": "Mete Veye"}, {"@type": "MusicRecording", "name": "Original Hold Dem"}, {"@type": "MusicRecording", "name": "Nomn La"}, {"@type": "MusicRecording", "name": "Preg Dance See"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/cornell-phillip.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/cornell-phillip.html#artist", "name": "Cornell Phillip", "description": "Keyboardist, producer and arranger from Dominica, founding member of WCK in 1988. Nicknamed Fingers for his keyboard dexterity, founder of the Imperial Publishing studio in 1995.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Dominica in Pan"}, {"@type": "MusicRecording", "name": "Culture Shock"}, {"@type": "MusicRecording", "name": "Dance Floor"}, {"@type": "MusicRecording", "name": "Follow the Leader"}, {"@type": "MusicRecording", "name": "Land Of Sunshine"}, {"@type": "MusicRecording", "name": "Conch Shell"}, {"@type": "MusicRecording", "name": "Balance Batty"}, {"@type": "MusicRecording", "name": "Mete Veye"}, {"@type": "MusicRecording", "name": "Original Hold Dem"}, {"@type": "MusicRecording", "name": "Nomn La"}, {"@type": "MusicRecording", "name": "Preg Dance See"},
+      {
+       "@type": "MusicRecording",
+       "name": "Many Waters (feat. Carlyn XP)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Everybody Wants to Rule the World (feat. Devine Songz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "You'll Never Find Another Love Like Mine (feat. Noel Browne)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Debouyon Riddim (Instrumental)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Breaking Loose (feat. Carlyn Xp)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Illegal Whine (feat. Carlyn Xp & Melodee)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Reverse (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bumpa Fete (feat. Daddy Chess)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Big Iron (feat. Colton T)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bouyon 2 D World (feat. Mr. Benji)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Krazy Luv Riddim"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Dominik"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Festival (feat. Artherton Martin)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "River Breeze (feat. Cameron Pierre)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Banana Sweet (feat. Jeff Joseph)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Balancé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Milk and Honey"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Chick Flick (feat. Jerry Moulon)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fading Away (feat. Joy Stout)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Magnificat (feat. Chad Augustine & Juanita Prosper)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Steppin' Out (feat. Heather Burton)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Comme D'habitude (feat. Artherton Martin)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Zouk Tec"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "An Syel"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jouer Kadans"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Help Me"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tout Biten Ke Mache"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sa Ki Sa-W"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pon-Y Eze"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sa Ki Pa Ni"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

@@ -104,7 +104,104 @@ FR = {
     "Baby Let Me est présenté en vidéo sur la chaîne YouTube MyuzikBox, sous l’étiquette 2027 Bouyon, et Stand Up figure parmi les sorties listées sur la page artiste de Konshens sur Shazam. Pour entendre ces titres dans le contexte des nouveautés du genre, la <a href=\"/playlist-bouyon.html\">playlist bouyon</a> de Bouyon Shattaz suit les sorties bouyon saison après saison.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/deearr.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/deearr.html#artist", "name": "DeeArr", "description": "DeeArr, artiste bouyon auteur et interprète de Baby Let Me, produit par ProdByShako et mixé par Bertist Khallion Jeffers. Crédité en 2026 sur le single Stand Up de Konshens, avec Khallion et Boogy Rankss.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Baby Let Me"}, {"@type": "MusicRecording", "name": "Stand Up"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/deearr.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/deearr.html#artist", "name": "DeeArr", "description": "DeeArr, artiste bouyon auteur et interprète de Baby Let Me, produit par ProdByShako et mixé par Bertist Khallion Jeffers. Crédité en 2026 sur le single Stand Up de Konshens, avec Khallion et Boogy Rankss.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Baby Let Me"}, {"@type": "MusicRecording", "name": "Stand Up"},
+      {
+       "@type": "MusicRecording",
+       "name": "Stand Up (Radio Edit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stand Up (Raw)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Carnival Gopwell"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "On De Road"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "R U Down (Tell Me Baby)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Home With You"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bumpa"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dive In"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Love Dat (feat. Jahari Chi)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Only You Groovy (Radio Edit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Only You"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Spoil You"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Teh-beh"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Special"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "See Me Win"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sunshine"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Make It Up To You"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Been Too Long (A Letter To Music)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Don't Stop (feat. DeeArr)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Carnival Love (feat. Kev Jones, DeeArr & Aya Bleu)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stop Playin' (feat. Khallion & DeeArr)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "How To Love (Radio Edit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Heal My Pain (feat. DeeArr)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MaryJane (prod. by TTP) (feat. Ke MANELO & DeeArr)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -206,6 +303,103 @@ EN = {
     "Baby Let Me is presented as a video on the MyuzikBox YouTube channel, under its 2027 Bouyon heading, and Stand Up is among the releases listed on the Konshens artist page on Shazam. To hear these songs alongside the genre’s new releases, the Bouyon Shattaz <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> follows bouyon releases season after season.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/deearr.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/deearr.html#artist", "name": "DeeArr", "description": "DeeArr, bouyon artist, writer and performer of Baby Let Me, produced by ProdByShako and mixed by Bertist Khallion Jeffers. Credited in 2026 on the Konshens single Stand Up, with Khallion and Boogy Rankss.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Baby Let Me"}, {"@type": "MusicRecording", "name": "Stand Up"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/deearr.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/deearr.html#artist", "name": "DeeArr", "description": "DeeArr, bouyon artist, writer and performer of Baby Let Me, produced by ProdByShako and mixed by Bertist Khallion Jeffers. Credited in 2026 on the Konshens single Stand Up, with Khallion and Boogy Rankss.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Baby Let Me"}, {"@type": "MusicRecording", "name": "Stand Up"},
+      {
+       "@type": "MusicRecording",
+       "name": "Stand Up (Radio Edit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stand Up (Raw)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Carnival Gopwell"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "On De Road"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "R U Down (Tell Me Baby)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Home With You"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bumpa"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dive In"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Love Dat (feat. Jahari Chi)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Only You Groovy (Radio Edit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Only You"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Spoil You"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Teh-beh"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Special"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "See Me Win"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sunshine"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Make It Up To You"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Been Too Long (A Letter To Music)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Don't Stop (feat. DeeArr)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Carnival Love (feat. Kev Jones, DeeArr & Aya Bleu)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stop Playin' (feat. Khallion & DeeArr)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "How To Love (Radio Edit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Heal My Pain (feat. DeeArr)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MaryJane (prod. by TTP) (feat. Ke MANELO & DeeArr)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

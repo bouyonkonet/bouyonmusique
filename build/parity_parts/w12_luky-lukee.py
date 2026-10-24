@@ -103,7 +103,12 @@ FR = {
     "Depuis le début documenté de son catalogue : An Sou, son titre le plus identifié, sorti en 2023 avec Miimii et Le Cus. Miimii revient sur 1er Feu en 2024, puis sous le nom de Miimii KDS sur WITH SOME BOYZ en 2025 et Bode en 2026, comme autrice et compositrice. Ce lien précède donc les gros titres de 2025 et 2026.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/luky-lukee.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/luky-lukee.html#artist", "name": "Lucky lukee", "description": "Artiste bouyon de la scène guadeloupéenne, connu pour ses collaborations avec Miimii KDS et DJ SKYCEE, dont WITH SOME BOYZ et Bode.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "An Sou"}, {"@type": "MusicRecording", "name": "1er Feu"}, {"@type": "MusicRecording", "name": "WITH SOME BOYZ"}, {"@type": "MusicRecording", "name": "Bodé"}, {"@type": "MusicRecording", "name": "Jouvert Morning"}, {"@type": "MusicRecording", "name": "MOUVMAN"}, {"@type": "MusicRecording", "name": "Come Back"}, {"@type": "MusicRecording", "name": "Everything is nice"}, {"@type": "MusicRecording", "name": "Uhdahdah #2"}, {"@type": "MusicRecording", "name": "Friday Night"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/luky-lukee.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/luky-lukee.html#artist", "name": "Lucky lukee", "description": "Artiste bouyon de la scène guadeloupéenne, connu pour ses collaborations avec Miimii KDS et DJ SKYCEE, dont WITH SOME BOYZ et Bode.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "An Sou"}, {"@type": "MusicRecording", "name": "1er Feu"}, {"@type": "MusicRecording", "name": "WITH SOME BOYZ"}, {"@type": "MusicRecording", "name": "Bodé"}, {"@type": "MusicRecording", "name": "Jouvert Morning"}, {"@type": "MusicRecording", "name": "MOUVMAN"}, {"@type": "MusicRecording", "name": "Come Back"}, {"@type": "MusicRecording", "name": "Everything is nice"}, {"@type": "MusicRecording", "name": "Uhdahdah #2"}, {"@type": "MusicRecording", "name": "Friday Night"},
+      {
+       "@type": "MusicRecording",
+       "name": "Pikéy"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -205,6 +210,11 @@ EN = {
     "Since the documented start of his catalogue: An Sou, his most identified track, released in 2023 with Miimii and Le Cus. Miimii returns on 1er Feu in 2024, then as Miimii KDS on WITH SOME BOYZ in 2025 and Bode in 2026, as writer and composer. That link therefore predates the big records of 2025 and 2026.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/luky-lukee.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/luky-lukee.html#artist", "name": "Lucky lukee", "description": "Bouyon artist from the Guadeloupe scene, known for collaborations with Miimii KDS and DJ SKYCEE, including WITH SOME BOYZ and Bode.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "An Sou"}, {"@type": "MusicRecording", "name": "1er Feu"}, {"@type": "MusicRecording", "name": "WITH SOME BOYZ"}, {"@type": "MusicRecording", "name": "Bodé"}, {"@type": "MusicRecording", "name": "Jouvert Morning"}, {"@type": "MusicRecording", "name": "MOUVMAN"}, {"@type": "MusicRecording", "name": "Come Back"}, {"@type": "MusicRecording", "name": "Everything is nice"}, {"@type": "MusicRecording", "name": "Uhdahdah #2"}, {"@type": "MusicRecording", "name": "Friday Night"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/luky-lukee.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/luky-lukee.html#artist", "name": "Lucky lukee", "description": "Bouyon artist from the Guadeloupe scene, known for collaborations with Miimii KDS and DJ SKYCEE, including WITH SOME BOYZ and Bode.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "An Sou"}, {"@type": "MusicRecording", "name": "1er Feu"}, {"@type": "MusicRecording", "name": "WITH SOME BOYZ"}, {"@type": "MusicRecording", "name": "Bodé"}, {"@type": "MusicRecording", "name": "Jouvert Morning"}, {"@type": "MusicRecording", "name": "MOUVMAN"}, {"@type": "MusicRecording", "name": "Come Back"}, {"@type": "MusicRecording", "name": "Everything is nice"}, {"@type": "MusicRecording", "name": "Uhdahdah #2"}, {"@type": "MusicRecording", "name": "Friday Night"},
+      {
+       "@type": "MusicRecording",
+       "name": "Pikéy"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

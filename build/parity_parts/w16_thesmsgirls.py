@@ -109,7 +109,16 @@ FR = {
     "Commencez par les trois titres que l’organisateur genevois a nommés, « Desann », « Tu te frottes » et « Wet Wet », puis « Attrape ton copain », listé parmi les sorties 2026. Pour entendre la scène dans laquelle le duo circule, des nouveautés de la Dominique à celles de la Guadeloupe et de la Martinique, la <a href=\"/playlist-bouyon.html\">playlist Bouyon Road Mix</a> de Bouyon Shattaz suit les sorties du genre.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/thesmsgirls.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/thesmsgirls.html#artist", "name": "SMS Girls", "description": "Duo féminin bouyon en pleine ascension selon leurs organisateurs. Titres nommés : Desann, Tu te frottes, Wet Wet et Attrape ton copain. Première scène en Suisse à Genève le 24 octobre 2026, puis showcase annoncé comme une première en Martinique le 7 novembre 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Desann"}, {"@type": "MusicRecording", "name": "Tu te frottes"}, {"@type": "MusicRecording", "name": "Wet Wet"}, {"@type": "MusicRecording", "name": "Attrape ton copain"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/thesmsgirls.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/thesmsgirls.html#artist", "name": "SMS Girls", "description": "Duo féminin bouyon en pleine ascension selon leurs organisateurs. Titres nommés : Desann, Tu te frottes, Wet Wet et Attrape ton copain. Première scène en Suisse à Genève le 24 octobre 2026, puis showcase annoncé comme une première en Martinique le 7 novembre 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Desann"}, {"@type": "MusicRecording", "name": "Tu te frottes"}, {"@type": "MusicRecording", "name": "Wet Wet"}, {"@type": "MusicRecording", "name": "Attrape ton copain"},
+      {
+       "@type": "MusicRecording",
+       "name": "Stop It (Freestyle)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SMS - LOKAL"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -217,6 +226,15 @@ EN = {
     "Start with the three tracks the Geneva organiser named, “Desann”, “Tu te frottes” and “Wet Wet”, then “Attrape ton copain”, listed among the 2026 releases. To hear the scene the duo moves in, from new music out of Dominica to that of Guadeloupe and Martinique, the <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix playlist</a> by Bouyon Shattaz follows the genre’s releases.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/thesmsgirls.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/thesmsgirls.html#artist", "name": "SMS Girls", "description": "Female bouyon duo billed by their organisers as a rising act. Named tracks: Desann, Tu te frottes, Wet Wet and Attrape ton copain. First show in Switzerland in Geneva on October 24, 2026, then a showcase billed as a first in Martinique on November 7, 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Desann"}, {"@type": "MusicRecording", "name": "Tu te frottes"}, {"@type": "MusicRecording", "name": "Wet Wet"}, {"@type": "MusicRecording", "name": "Attrape ton copain"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/thesmsgirls.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/thesmsgirls.html#artist", "name": "SMS Girls", "description": "Female bouyon duo billed by their organisers as a rising act. Named tracks: Desann, Tu te frottes, Wet Wet and Attrape ton copain. First show in Switzerland in Geneva on October 24, 2026, then a showcase billed as a first in Martinique on November 7, 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Desann"}, {"@type": "MusicRecording", "name": "Tu te frottes"}, {"@type": "MusicRecording", "name": "Wet Wet"}, {"@type": "MusicRecording", "name": "Attrape ton copain"},
+      {
+       "@type": "MusicRecording",
+       "name": "Stop It (Freestyle)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SMS - LOKAL"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

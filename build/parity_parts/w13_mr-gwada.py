@@ -139,7 +139,280 @@ FR = {
     "Commencez par « Gwada », l’acte de naissance de son nom, puis « Touch Down » et « Se Pa Taw » pour sa signature actuelle, et « Big Chain » avec Bobo Bantan pour la rotation d’aujourd’hui. Ses titres passent dans les tracklists du Soca Podcast et sur la radio Kool FM Tropikal. Pour le son de sa génération, écoutez aussi notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/mr-gwada.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/mr-gwada.html#artist", "name": "Mr Gwada", "description": "Chanteur et auteur bouyon de la Dominique, de son vrai nom Kernel Stevens. Parti vivre en Guadeloupe en 2000, il a fait du mélange du bouyon dominicain et du créole français sa signature, et tire son nom de scene de son tube Gwada.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Gwada"}, {"@type": "MusicRecording", "name": "Come Join Me"}, {"@type": "MusicRecording", "name": "Big Chain"}, {"@type": "MusicRecording", "name": "Bcuz U Leave"}, {"@type": "MusicRecording", "name": "1 Night Stand"}, {"@type": "MusicRecording", "name": "Pa Ni Papie"}, {"@type": "MusicRecording", "name": "Toxic Love"}, {"@type": "MusicRecording", "name": "Never Thirsty"}, {"@type": "MusicRecording", "name": "Best Life"}, {"@type": "MusicRecording", "name": "Touch Down"}, {"@type": "MusicRecording", "name": "Who Fool Dem"}, {"@type": "MusicRecording", "name": "Winning"}, {"@type": "MusicRecording", "name": "CREW (HEY) Trance Bouyon Riddim"}, {"@type": "MusicRecording", "name": "Se Pa Taw"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/mr-gwada.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/mr-gwada.html#artist", "name": "Mr Gwada", "description": "Chanteur et auteur bouyon de la Dominique, de son vrai nom Kernel Stevens. Parti vivre en Guadeloupe en 2000, il a fait du mélange du bouyon dominicain et du créole français sa signature, et tire son nom de scene de son tube Gwada.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Gwada"}, {"@type": "MusicRecording", "name": "Come Join Me"}, {"@type": "MusicRecording", "name": "Big Chain"}, {"@type": "MusicRecording", "name": "Bcuz U Leave"}, {"@type": "MusicRecording", "name": "1 Night Stand"}, {"@type": "MusicRecording", "name": "Pa Ni Papie"}, {"@type": "MusicRecording", "name": "Toxic Love"}, {"@type": "MusicRecording", "name": "Never Thirsty"}, {"@type": "MusicRecording", "name": "Best Life"}, {"@type": "MusicRecording", "name": "Touch Down"}, {"@type": "MusicRecording", "name": "Who Fool Dem"}, {"@type": "MusicRecording", "name": "Winning"}, {"@type": "MusicRecording", "name": "CREW (HEY) Trance Bouyon Riddim"}, {"@type": "MusicRecording", "name": "Se Pa Taw"},
+      {
+       "@type": "MusicRecording",
+       "name": "My Stories (In My Dm)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "After Party"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "GWADA (Everybody wan Go)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Backdoor"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LA FAMI (feat. NattyBill)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Deja Koke' (feat. Kassidje' GazaGirl)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bad Bitch"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ONE NIGHT STAND (Radio Edit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BCUZ U LEAVE (Radio Edit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "FOREIGNER GP (feat. Fuego Dinero)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "COME BY ME (feat. Smiler G & PAW)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BEN UR BACK (feat. Bobo Bantan) [Radio Edit]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Layou River Riddim aka Demon Riddim (Bouyon)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "NO EX BACK (feat. AC Tafari)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tek It (feat. Nayee)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bcuz U Leave (New N***a)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Gwo Pwel la"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Funniest shit ever"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pa ni papie' (kinkin la)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PA NI PAPIER (Radio Edit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cat"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Breeze"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lickle Finger"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nasty (Paint & Powder) Dirty Riddim"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Thats D Biznis (Dats D Biznis)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Show Me Your Best"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Gwo Pwel"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Balance (Shake It)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Just Wan F**k (Just Want F**k)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "My Life (Radio Edit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Benz Mr. Gwada Bouyon Soca Mix By Djeasy"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Saw Kim (feat. Lee Pee Ching & Lion King) [Looking For Kim] [feat.Lee Pee Ching,Lion King] [remix]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Woule' Riddim"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Woule"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Woule ' (Roll It)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Vaccine Riddim Mix 2020 Dancehall Riddim"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Vaccine Riddim (feat. Zaahb)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Money Moves (feat. Fucha Kid)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bouyon Queen"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mas (Move Sumpting)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "How Low"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ur Moda Ask"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Thread Ur Needle"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bad Behavior"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hunting Season (feat. Josa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Guns on Di Port"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rum Song"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Party Rum & Girls"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Carnival"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lpma"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "On de Road"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LPMA (Leave ppl man alone) [Radio Edit]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Do What I Do (feat. King Dice)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Circle"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Move Something"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Neva Thirsty"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mash Up (Touch Down)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Real Friends"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "How U Like It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wuk It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pressure"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Red Flag"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Feeling Sick"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "For My Crew"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lent"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "What Is Bouyon"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Without You"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bad Times"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -273,6 +546,279 @@ EN = {
     "Start with “Gwada”, the birth certificate of his name, then “Touch Down” and “Se Pa Taw” for his current signature, and “Big Chain” with Bobo Bantan for today’s rotation. His records run in the Soca Podcast tracklists and on Kool FM Tropikal radio. For the sound of his generation, hear our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> as well.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/mr-gwada.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/mr-gwada.html#artist", "name": "Mr Gwada", "description": "Bouyon singer and songwriter from Dominica, real name Kernel Stevens. He moved to Guadeloupe in 2000, made the mix of Dominican bouyon and French Creole his signature, and takes his stage name from his hit Gwada.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Gwada"}, {"@type": "MusicRecording", "name": "Come Join Me"}, {"@type": "MusicRecording", "name": "Big Chain"}, {"@type": "MusicRecording", "name": "Bcuz U Leave"}, {"@type": "MusicRecording", "name": "1 Night Stand"}, {"@type": "MusicRecording", "name": "Pa Ni Papie"}, {"@type": "MusicRecording", "name": "Toxic Love"}, {"@type": "MusicRecording", "name": "Never Thirsty"}, {"@type": "MusicRecording", "name": "Best Life"}, {"@type": "MusicRecording", "name": "Touch Down"}, {"@type": "MusicRecording", "name": "Who Fool Dem"}, {"@type": "MusicRecording", "name": "Winning"}, {"@type": "MusicRecording", "name": "CREW (HEY) Trance Bouyon Riddim"}, {"@type": "MusicRecording", "name": "Se Pa Taw"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/mr-gwada.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/mr-gwada.html#artist", "name": "Mr Gwada", "description": "Bouyon singer and songwriter from Dominica, real name Kernel Stevens. He moved to Guadeloupe in 2000, made the mix of Dominican bouyon and French Creole his signature, and takes his stage name from his hit Gwada.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Gwada"}, {"@type": "MusicRecording", "name": "Come Join Me"}, {"@type": "MusicRecording", "name": "Big Chain"}, {"@type": "MusicRecording", "name": "Bcuz U Leave"}, {"@type": "MusicRecording", "name": "1 Night Stand"}, {"@type": "MusicRecording", "name": "Pa Ni Papie"}, {"@type": "MusicRecording", "name": "Toxic Love"}, {"@type": "MusicRecording", "name": "Never Thirsty"}, {"@type": "MusicRecording", "name": "Best Life"}, {"@type": "MusicRecording", "name": "Touch Down"}, {"@type": "MusicRecording", "name": "Who Fool Dem"}, {"@type": "MusicRecording", "name": "Winning"}, {"@type": "MusicRecording", "name": "CREW (HEY) Trance Bouyon Riddim"}, {"@type": "MusicRecording", "name": "Se Pa Taw"},
+      {
+       "@type": "MusicRecording",
+       "name": "My Stories (In My Dm)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "After Party"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "GWADA (Everybody wan Go)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Backdoor"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LA FAMI (feat. NattyBill)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Deja Koke' (feat. Kassidje' GazaGirl)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bad Bitch"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ONE NIGHT STAND (Radio Edit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BCUZ U LEAVE (Radio Edit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "FOREIGNER GP (feat. Fuego Dinero)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "COME BY ME (feat. Smiler G & PAW)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BEN UR BACK (feat. Bobo Bantan) [Radio Edit]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Layou River Riddim aka Demon Riddim (Bouyon)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "NO EX BACK (feat. AC Tafari)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tek It (feat. Nayee)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bcuz U Leave (New N***a)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Gwo Pwel la"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Funniest shit ever"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pa ni papie' (kinkin la)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PA NI PAPIER (Radio Edit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cat"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Breeze"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lickle Finger"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nasty (Paint & Powder) Dirty Riddim"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Thats D Biznis (Dats D Biznis)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Show Me Your Best"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Gwo Pwel"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Balance (Shake It)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Just Wan F**k (Just Want F**k)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "My Life (Radio Edit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Benz Mr. Gwada Bouyon Soca Mix By Djeasy"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Saw Kim (feat. Lee Pee Ching & Lion King) [Looking For Kim] [feat.Lee Pee Ching,Lion King] [remix]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Woule' Riddim"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Woule"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Woule ' (Roll It)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Vaccine Riddim Mix 2020 Dancehall Riddim"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Vaccine Riddim (feat. Zaahb)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Money Moves (feat. Fucha Kid)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bouyon Queen"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mas (Move Sumpting)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "How Low"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ur Moda Ask"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Thread Ur Needle"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bad Behavior"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hunting Season (feat. Josa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Guns on Di Port"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rum Song"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Party Rum & Girls"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Carnival"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lpma"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "On de Road"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LPMA (Leave ppl man alone) [Radio Edit]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Do What I Do (feat. King Dice)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Circle"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Move Something"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Neva Thirsty"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mash Up (Touch Down)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Real Friends"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "How U Like It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wuk It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pressure"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Red Flag"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Feeling Sick"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "For My Crew"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lent"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "What Is Bouyon"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Without You"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bad Times"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

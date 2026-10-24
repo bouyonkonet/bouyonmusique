@@ -145,7 +145,52 @@ FR = {
     "Commencez par « Bouyon All the Way » avec Mr. Vegas, puis remontez aux singles de 2019, « Bay kou moto la » et « Sco pa tu manaa ». Ses titres circulent aussi dans les mixes de DJ : les tracklists du Soca Podcast listent « Changer » avec Dj Chimik. La <a href=\"/playlist-bouyon.html\">Bouyon Road Mix</a> de Bouyon Shattaz réunit les nouveautés de la Dominique et des Antilles.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/edday.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/edday.html#artist", "name": "Edday", "description": "Artiste bouyon présenté par ZoukJam comme originaire de la Dominique et groupé avec les noms de Guadeloupe dans le communiqué du WCMF 2026, interprète de « Bouyon All the Way » avec Mr. Vegas.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bouyon All the Way"}, {"@type": "MusicRecording", "name": "Bay kou moto la"}, {"@type": "MusicRecording", "name": "Sco pa tu manaa"}, {"@type": "MusicRecording", "name": "Ô Sé fanm la"}, {"@type": "MusicRecording", "name": "Shaka Shaka"}, {"@type": "MusicRecording", "name": "Foreigner"}, {"@type": "MusicRecording", "name": "Si Manman’w té sav"}, {"@type": "MusicRecording", "name": "Make it pop"}, {"@type": "MusicRecording", "name": "Changer"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/edday.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/edday.html#artist", "name": "Edday", "description": "Artiste bouyon présenté par ZoukJam comme originaire de la Dominique et groupé avec les noms de Guadeloupe dans le communiqué du WCMF 2026, interprète de « Bouyon All the Way » avec Mr. Vegas.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bouyon All the Way"}, {"@type": "MusicRecording", "name": "Bay kou moto la"}, {"@type": "MusicRecording", "name": "Sco pa tu manaa"}, {"@type": "MusicRecording", "name": "Ô Sé fanm la"}, {"@type": "MusicRecording", "name": "Shaka Shaka"}, {"@type": "MusicRecording", "name": "Foreigner"}, {"@type": "MusicRecording", "name": "Si Manman’w té sav"}, {"@type": "MusicRecording", "name": "Make it pop"}, {"@type": "MusicRecording", "name": "Changer"},
+      {
+       "@type": "MusicRecording",
+       "name": "Shake"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Touchdown"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "She miss me (feat. Shanika & Jixels)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "C'est comme ça"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Elle veut pas (feat. DJ Skaytah)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Azoukinkin (feat. Edday)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Controling Baby"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jéré Sa"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Toto - Chaben - Monss"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Inside"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Put It In (feat. Dj Softee & Edday) (Bouyon 2023)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -286,6 +331,51 @@ EN = {
     "Start with “Bouyon All the Way” with Mr. Vegas, then go back to the 2019 singles, “Bay kou moto la” and “Sco pa tu manaa”. His tracks also run through DJ mixes: the Soca Podcast tracklists list “Changer” with Dj Chimik. The Bouyon Shattaz <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix</a> gathers new releases from Dominica and the Antilles.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/edday.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/edday.html#artist", "name": "Edday", "description": "Bouyon artist presented by ZoukJam as originally from Dominica and grouped with the Guadeloupe names in the WCMF 2026 release, performer of “Bouyon All the Way” with Mr. Vegas.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bouyon All the Way"}, {"@type": "MusicRecording", "name": "Bay kou moto la"}, {"@type": "MusicRecording", "name": "Sco pa tu manaa"}, {"@type": "MusicRecording", "name": "Ô Sé fanm la"}, {"@type": "MusicRecording", "name": "Shaka Shaka"}, {"@type": "MusicRecording", "name": "Foreigner"}, {"@type": "MusicRecording", "name": "Si Manman’w té sav"}, {"@type": "MusicRecording", "name": "Make it pop"}, {"@type": "MusicRecording", "name": "Changer"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/edday.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/edday.html#artist", "name": "Edday", "description": "Bouyon artist presented by ZoukJam as originally from Dominica and grouped with the Guadeloupe names in the WCMF 2026 release, performer of “Bouyon All the Way” with Mr. Vegas.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bouyon All the Way"}, {"@type": "MusicRecording", "name": "Bay kou moto la"}, {"@type": "MusicRecording", "name": "Sco pa tu manaa"}, {"@type": "MusicRecording", "name": "Ô Sé fanm la"}, {"@type": "MusicRecording", "name": "Shaka Shaka"}, {"@type": "MusicRecording", "name": "Foreigner"}, {"@type": "MusicRecording", "name": "Si Manman’w té sav"}, {"@type": "MusicRecording", "name": "Make it pop"}, {"@type": "MusicRecording", "name": "Changer"},
+      {
+       "@type": "MusicRecording",
+       "name": "Shake"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Touchdown"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "She miss me (feat. Shanika & Jixels)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "C'est comme ça"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Elle veut pas (feat. DJ Skaytah)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Azoukinkin (feat. Edday)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Controling Baby"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jéré Sa"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Toto - Chaben - Monss"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Inside"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Put It In (feat. Dj Softee & Edday) (Bouyon 2023)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

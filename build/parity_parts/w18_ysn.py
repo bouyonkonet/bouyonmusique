@@ -132,7 +132,224 @@ FR = {
     "Suivez l’ordre de son dossier : « Lapli Season » pour le projet collectif, « PKM » pour l’écriture pour Rachelle Allison, « GOD BLESS » et « HOLIDAY » avec Krys, « Manawa » et « Palabras » avec Aknose, puis « Viré », « Pran On Pyé » et « Bad ». Pour la scène bouyon actuelle des Antilles, notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> Road Mix de Bouyon Shattaz réunit nouveautés et classiques.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/ysn.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/ysn.html#artist", "name": "YSN", "alternateName": "Nicolas Lanclume", "description": "Producteur et beatmaker des Antilles françaises, crédité Nicolas Lanclume. Auteur de l’album collaboratif Lapli Season en 2024 chez Hakuna Music Company, co-compositeur de PKM pour Rachelle Allison, partenaire d’Aknose sur Manawa et Palabras, producteur crédité sur HOLIDAY de Krys et Bad de Sanchii.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Nouvo Mood"}, {"@type": "MusicRecording", "name": "DWXG"}, {"@type": "MusicRecording", "name": "Sansasyon"}, {"@type": "MusicRecording", "name": "GOD BLESS (Ah la vie qu'on mène)"}, {"@type": "MusicRecording", "name": "BBL"}, {"@type": "MusicRecording", "name": "Manawa"}, {"@type": "MusicRecording", "name": "PKM"}, {"@type": "MusicRecording", "name": "Palabras"}, {"@type": "MusicRecording", "name": "HOLIDAY"}, {"@type": "MusicRecording", "name": "Viré"}, {"@type": "MusicRecording", "name": "Pran On Pyé"}, {"@type": "MusicRecording", "name": "Bad"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/ysn.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/ysn.html#artist", "name": "YSN", "alternateName": "Nicolas Lanclume", "description": "Producteur et beatmaker des Antilles françaises, crédité Nicolas Lanclume. Auteur de l’album collaboratif Lapli Season en 2024 chez Hakuna Music Company, co-compositeur de PKM pour Rachelle Allison, partenaire d’Aknose sur Manawa et Palabras, producteur crédité sur HOLIDAY de Krys et Bad de Sanchii.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Nouvo Mood"}, {"@type": "MusicRecording", "name": "DWXG"}, {"@type": "MusicRecording", "name": "Sansasyon"}, {"@type": "MusicRecording", "name": "GOD BLESS (Ah la vie qu'on mène)"}, {"@type": "MusicRecording", "name": "BBL"}, {"@type": "MusicRecording", "name": "Manawa"}, {"@type": "MusicRecording", "name": "PKM"}, {"@type": "MusicRecording", "name": "Palabras"}, {"@type": "MusicRecording", "name": "HOLIDAY"}, {"@type": "MusicRecording", "name": "Viré"}, {"@type": "MusicRecording", "name": "Pran On Pyé"}, {"@type": "MusicRecording", "name": "Bad"},
+      {
+       "@type": "MusicRecording",
+       "name": "Tèk"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Brennen"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tou Lannwit"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Money Riddim (Instrumental)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mielleux"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jéré Sa (feat. DJ BOKO)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Good"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Matcha"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "La Manigance"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TJU TJU"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DISTANS (yayaya)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "RIDE IT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dè Tan an Tan"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nouvo sac"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Réyèl"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "3 Points"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pa Konnèt"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Entre nous"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Karma"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ka Pou Fè"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Green Man"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Météo (Intro)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Coquine"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Détay"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pa di yo"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cette Saison"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jazz"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sentimental"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pati Dè Ayen"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mové Tan"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "KICHTA (feat. Yaya Momm)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Different Countries (feat. YSN)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ochantri"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "What You Know"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Trop bien pour moi"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Action"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bòdé Apiyé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Anlè Sa"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shake"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "21 Grammes"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tiki Taka"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Everyday (feat. YSN & MKM)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "San kilot"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shake It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SPKF"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BSP (Everythings gonna be alright)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fokon"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sali"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "GOD BLESS (feat. YSN) [Ah la vie qu'on mène]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Outside (Warm up)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Toboggan"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Otograf (feat. YSN)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Divin"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "KICHTA (Bouyon Remix)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -258,6 +475,223 @@ EN = {
     "Follow the order of his file: “Lapli Season” for the collective project, “PKM” for his writing for Rachelle Allison, “GOD BLESS” and “HOLIDAY” with Krys, “Manawa” and “Palabras” with Aknose, then “Viré”, “Pran On Pyé” and “Bad”. For today’s Antilles bouyon scene, our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, the Road Mix by Bouyon Shattaz, gathers new releases and classics.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/ysn.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/ysn.html#artist", "name": "YSN", "alternateName": "Nicolas Lanclume", "description": "Producer and beatmaker from the French West Indies, credited as Nicolas Lanclume. Maker of the collaborative album Lapli Season in 2024 on Hakuna Music Company, co-composer of PKM for Rachelle Allison, partner of Aknose on Manawa and Palabras, credited producer on HOLIDAY by Krys and Bad by Sanchii.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Nouvo Mood"}, {"@type": "MusicRecording", "name": "DWXG"}, {"@type": "MusicRecording", "name": "Sansasyon"}, {"@type": "MusicRecording", "name": "GOD BLESS (Ah la vie qu'on mène)"}, {"@type": "MusicRecording", "name": "BBL"}, {"@type": "MusicRecording", "name": "Manawa"}, {"@type": "MusicRecording", "name": "PKM"}, {"@type": "MusicRecording", "name": "Palabras"}, {"@type": "MusicRecording", "name": "HOLIDAY"}, {"@type": "MusicRecording", "name": "Viré"}, {"@type": "MusicRecording", "name": "Pran On Pyé"}, {"@type": "MusicRecording", "name": "Bad"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/ysn.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/ysn.html#artist", "name": "YSN", "alternateName": "Nicolas Lanclume", "description": "Producer and beatmaker from the French West Indies, credited as Nicolas Lanclume. Maker of the collaborative album Lapli Season in 2024 on Hakuna Music Company, co-composer of PKM for Rachelle Allison, partner of Aknose on Manawa and Palabras, credited producer on HOLIDAY by Krys and Bad by Sanchii.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Nouvo Mood"}, {"@type": "MusicRecording", "name": "DWXG"}, {"@type": "MusicRecording", "name": "Sansasyon"}, {"@type": "MusicRecording", "name": "GOD BLESS (Ah la vie qu'on mène)"}, {"@type": "MusicRecording", "name": "BBL"}, {"@type": "MusicRecording", "name": "Manawa"}, {"@type": "MusicRecording", "name": "PKM"}, {"@type": "MusicRecording", "name": "Palabras"}, {"@type": "MusicRecording", "name": "HOLIDAY"}, {"@type": "MusicRecording", "name": "Viré"}, {"@type": "MusicRecording", "name": "Pran On Pyé"}, {"@type": "MusicRecording", "name": "Bad"},
+      {
+       "@type": "MusicRecording",
+       "name": "Tèk"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Brennen"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tou Lannwit"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Money Riddim (Instrumental)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mielleux"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jéré Sa (feat. DJ BOKO)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Good"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Matcha"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "La Manigance"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TJU TJU"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DISTANS (yayaya)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "RIDE IT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dè Tan an Tan"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nouvo sac"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Réyèl"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "3 Points"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pa Konnèt"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Entre nous"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Karma"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ka Pou Fè"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Green Man"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Météo (Intro)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Coquine"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Détay"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pa di yo"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cette Saison"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jazz"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sentimental"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pati Dè Ayen"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mové Tan"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "KICHTA (feat. Yaya Momm)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Different Countries (feat. YSN)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ochantri"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "What You Know"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Trop bien pour moi"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Action"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bòdé Apiyé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Anlè Sa"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shake"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "21 Grammes"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tiki Taka"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Everyday (feat. YSN & MKM)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "San kilot"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shake It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SPKF"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BSP (Everythings gonna be alright)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fokon"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sali"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "GOD BLESS (feat. YSN) [Ah la vie qu'on mène]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Outside (Warm up)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Toboggan"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Otograf (feat. YSN)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Divin"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "KICHTA (Bouyon Remix)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

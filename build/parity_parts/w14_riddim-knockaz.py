@@ -106,7 +106,40 @@ FR = {
     "Pour Ti Vilaj Kwéyòl 2026, le gouvernement de la Dominique l’annonce parmi les vingt premiers noms, avec Shelly and the Signal Band, <a href=\"/tk-international.html\">TK International</a>, Extasy, Pudaz, Reo et Faithii. Le programme du 19 octobre le place entre Innercore Unit et le Belles Combo Tribute Band, avant Colton T, Midnight Groovers et Extasy. Au lancement de Mas Domnik 2026, il partageait la scène live avec TK Combo.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/riddim-knockaz.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/riddim-knockaz.html#artist", "name": "Riddim Knockaz", "description": "Groupe de bouyon de la Dominique. Titre documenté Bright and Creamy, interprété par Dayne Alexander et Glenn Mills. Scènes documentées : Portsmouth 2024, lancement de Mas Domnik 2026, Ti Vilaj Kweyol 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bright and Creamy"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/riddim-knockaz.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/riddim-knockaz.html#artist", "name": "Riddim Knockaz", "description": "Groupe de bouyon de la Dominique. Titre documenté Bright and Creamy, interprété par Dayne Alexander et Glenn Mills. Scènes documentées : Portsmouth 2024, lancement de Mas Domnik 2026, Ti Vilaj Kweyol 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bright and Creamy"},
+      {
+       "@type": "MusicRecording",
+       "name": "Bumpa In D Road (feat. Shemmy J)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Don't Grudge That"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shagweh(Well Run Dry)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rum on me"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "J.4.M.A.M.S (Just for making a Medley Sake)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Our Woman Dat"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "So Long(Talibans)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fame Seekers (feat. Prhymex)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -210,6 +243,39 @@ EN = {
     "For Ti Vilaj Kwéyòl 2026, the Government of Dominica announced them among the first twenty names, with Shelly and the Signal Band, <a href=\"/en/tk-international.html\">TK International</a>, Extasy, Pudaz, Reo and Faithii. The 19 October programme places them between Innercore Unit and the Belles Combo Tribute Band, ahead of Colton T, Midnight Groovers and Extasy. At the Mas Domnik 2026 launch, they shared the live stage with TK Combo.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/riddim-knockaz.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/riddim-knockaz.html#artist", "name": "Riddim Knockaz", "description": "Bouyon band from Dominica. Documented song Bright and Creamy, performed by Dayne Alexander and Glenn Mills. Documented stages: Portsmouth 2024, Mas Domnik 2026 launch, Ti Vilaj Kweyol 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bright and Creamy"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/riddim-knockaz.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/riddim-knockaz.html#artist", "name": "Riddim Knockaz", "description": "Bouyon band from Dominica. Documented song Bright and Creamy, performed by Dayne Alexander and Glenn Mills. Documented stages: Portsmouth 2024, Mas Domnik 2026 launch, Ti Vilaj Kweyol 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bright and Creamy"},
+      {
+       "@type": "MusicRecording",
+       "name": "Bumpa In D Road (feat. Shemmy J)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Don't Grudge That"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shagweh(Well Run Dry)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rum on me"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "J.4.M.A.M.S (Just for making a Medley Sake)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Our Woman Dat"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "So Long(Talibans)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fame Seekers (feat. Prhymex)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

@@ -138,7 +138,148 @@ FR = {
     "Ses titres sont sur les plateformes sous le nom 1T1, et sa chaîne YouTube officielle est @1t1beats. Pour l’entendre au milieu du genre actuel, de la Dominique aux Antilles françaises, ouvrez notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, la Road Mix de Bouyon Shattaz, ou commentez ROAD MIX sous une publication Instagram de @bouyonshattaz pour la recevoir en DM. Commencez par « Bouwéy » et « Moustik ».",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/1t1.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/1t1.html#artist", "name": "1T1", "description": "Compositeur, producteur et chanteur bouyon originaire de la Guadeloupe. Connu pour Bouwéy avec Theomaa sur l’EP CHORD de 2024, Moustik avec Aknose et ses productions pour Lejuh.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bouwéy"}, {"@type": "MusicRecording", "name": "Moustik"}, {"@type": "MusicRecording", "name": "Wa wa waaw"}, {"@type": "MusicRecording", "name": "SIcré Kon Miel"}, {"@type": "MusicRecording", "name": "Leave Me Alone"}, {"@type": "MusicRecording", "name": "Best Friend"}, {"@type": "MusicRecording", "name": "bla bla bla"}, {"@type": "MusicRecording", "name": "Mas La Rivé"}, {"@type": "MusicRecording", "name": "Bay Li"}, {"@type": "MusicRecording", "name": "Ouba"}, {"@type": "MusicRecording", "name": "In Di Corner"}, {"@type": "MusicRecording", "name": "Piney"}], "sameAs": ["https://www.instagram.com/1t1.off/", "https://www.youtube.com/@1t1beats"]}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/1t1.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/1t1.html#artist", "name": "1T1", "description": "Compositeur, producteur et chanteur bouyon originaire de la Guadeloupe. Connu pour Bouwéy avec Theomaa sur l’EP CHORD de 2024, Moustik avec Aknose et ses productions pour Lejuh.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bouwéy"}, {"@type": "MusicRecording", "name": "Moustik"}, {"@type": "MusicRecording", "name": "Wa wa waaw"}, {"@type": "MusicRecording", "name": "SIcré Kon Miel"}, {"@type": "MusicRecording", "name": "Leave Me Alone"}, {"@type": "MusicRecording", "name": "Best Friend"}, {"@type": "MusicRecording", "name": "bla bla bla"}, {"@type": "MusicRecording", "name": "Mas La Rivé"}, {"@type": "MusicRecording", "name": "Bay Li"}, {"@type": "MusicRecording", "name": "Ouba"}, {"@type": "MusicRecording", "name": "In Di Corner"}, {"@type": "MusicRecording", "name": "Piney"},
+      {
+       "@type": "MusicRecording",
+       "name": "Elastic Girl (feat. Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pran On Pyé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tcheck Pou Tcheck (feat. Young Chang Mc)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Oh Mama"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Party Rocking (feat. Theomaa & RvF)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Oui Nou Monss (feat. Lejuh & LGC)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Everyday (feat. DJ Softee)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Feel Da (rvf)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Gasolina (feat. Theomaa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bad Girls (feat. Aknose & Nils)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "GardaVou (feat. Lucky Lukee & DJ SOFTEE)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pied au Plancher (feat. Tiitii NBA & Lejuh)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PnL(Piney) [feat. Theomaa]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mi Bouyon (feat. Drexi)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sa Dou (feat. Miky Ding La & Shanika)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bidiba Bidibou (feat. Aknose & Softee)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Sex Over Money (feat. TiiTii NBA)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Uhuu dah dah (feat. GOMKO, Luky & Theomaa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dog Love"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wa wa Waaaw"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wouloo (feat. 1T1)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I DON'T CARE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DO YOU DANCE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "97Volts"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bubble (feat. Le Jèm'ss, 1T1 & Natoxie)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Do Baby"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Uhdahdah #2 (feat. 1T1 & Qwann)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "She Stupid"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pa moli"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Baddest (feat. 1t1 & Theomaa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Es I Ka Plèw (feat. Lejuh, Lewismelo & 1t1)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bitin sal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Crescendo Bouyon Riddim 2022 (feat. 1t1)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BOUNCE (BOUYON 2025) (feat. 1T1)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TAM TAM (feat. 1T1) [Bouyon 2024]"
+      },
+], "sameAs": ["https://www.instagram.com/1t1.off/", "https://www.youtube.com/@1t1beats"]}}],
  "date_modified": "2026-10-20"
 }
 
@@ -270,6 +411,147 @@ EN = {
     "His tracks are on the platforms under the name 1T1, and his official YouTube channel is @1t1beats. To hear him inside today’s genre, from Dominica to the French Antilles, open our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, the Bouyon Shattaz Road Mix, or comment ROAD MIX under an Instagram post by @bouyonshattaz to receive it by DM. Start with “Bouwéy” and “Moustik”.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/1t1.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/1t1.html#artist", "name": "1T1", "description": "Bouyon composer, producer and singer from Guadeloupe. Known for Bouwéy with Theomaa on the 2024 CHORD EP, Moustik with Aknose and his productions for Lejuh.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bouwéy"}, {"@type": "MusicRecording", "name": "Moustik"}, {"@type": "MusicRecording", "name": "Wa wa waaw"}, {"@type": "MusicRecording", "name": "SIcré Kon Miel"}, {"@type": "MusicRecording", "name": "Leave Me Alone"}, {"@type": "MusicRecording", "name": "Best Friend"}, {"@type": "MusicRecording", "name": "bla bla bla"}, {"@type": "MusicRecording", "name": "Mas La Rivé"}, {"@type": "MusicRecording", "name": "Bay Li"}, {"@type": "MusicRecording", "name": "Ouba"}, {"@type": "MusicRecording", "name": "In Di Corner"}, {"@type": "MusicRecording", "name": "Piney"}], "sameAs": ["https://www.instagram.com/1t1.off/", "https://www.youtube.com/@1t1beats"]}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/1t1.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/1t1.html#artist", "name": "1T1", "description": "Bouyon composer, producer and singer from Guadeloupe. Known for Bouwéy with Theomaa on the 2024 CHORD EP, Moustik with Aknose and his productions for Lejuh.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bouwéy"}, {"@type": "MusicRecording", "name": "Moustik"}, {"@type": "MusicRecording", "name": "Wa wa waaw"}, {"@type": "MusicRecording", "name": "SIcré Kon Miel"}, {"@type": "MusicRecording", "name": "Leave Me Alone"}, {"@type": "MusicRecording", "name": "Best Friend"}, {"@type": "MusicRecording", "name": "bla bla bla"}, {"@type": "MusicRecording", "name": "Mas La Rivé"}, {"@type": "MusicRecording", "name": "Bay Li"}, {"@type": "MusicRecording", "name": "Ouba"}, {"@type": "MusicRecording", "name": "In Di Corner"}, {"@type": "MusicRecording", "name": "Piney"},
+      {
+       "@type": "MusicRecording",
+       "name": "Elastic Girl (feat. Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pran On Pyé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tcheck Pou Tcheck (feat. Young Chang Mc)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Oh Mama"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Party Rocking (feat. Theomaa & RvF)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Oui Nou Monss (feat. Lejuh & LGC)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Everyday (feat. DJ Softee)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Feel Da (rvf)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Gasolina (feat. Theomaa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bad Girls (feat. Aknose & Nils)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "GardaVou (feat. Lucky Lukee & DJ SOFTEE)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pied au Plancher (feat. Tiitii NBA & Lejuh)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PnL(Piney) [feat. Theomaa]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mi Bouyon (feat. Drexi)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sa Dou (feat. Miky Ding La & Shanika)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bidiba Bidibou (feat. Aknose & Softee)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Sex Over Money (feat. TiiTii NBA)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Uhuu dah dah (feat. GOMKO, Luky & Theomaa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dog Love"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wa wa Waaaw"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wouloo (feat. 1T1)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I DON'T CARE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DO YOU DANCE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "97Volts"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bubble (feat. Le Jèm'ss, 1T1 & Natoxie)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Do Baby"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Uhdahdah #2 (feat. 1T1 & Qwann)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "She Stupid"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pa moli"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Baddest (feat. 1t1 & Theomaa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Es I Ka Plèw (feat. Lejuh, Lewismelo & 1t1)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bitin sal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Crescendo Bouyon Riddim 2022 (feat. 1t1)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BOUNCE (BOUYON 2025) (feat. 1T1)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TAM TAM (feat. 1T1) [Bouyon 2024]"
+      },
+], "sameAs": ["https://www.instagram.com/1t1.off/", "https://www.youtube.com/@1t1beats"]}}],
  "date_modified": "2026-10-20"
 }

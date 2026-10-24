@@ -131,7 +131,108 @@ FR = {
     "« RnBouyon Instrumental » est un titre de chapitre du mix <a href=\"/bouyon-music-2026.html\">Bouyon Music 2026 Vol. 1</a> réalisé par Smokiller, producteur né en Dominique, pour Bouyon Shattaz. C’est un second usage indépendant du mot, le même mois de février 2026 où Deezer le consacre comme l’univers de Fallon. Il montre que le mot circule, sans faire du RnBouyon un genre déjà établi.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/fallon.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/fallon.html#artist", "name": "Fallon", "description": "Artiste sélectionnée Deezer Next 2026. Deezer présente son univers comme le RnBouyon, fusion de R&B et de bouyon entre douceur et énergie, avec les titres Normal et Memories.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Normal"}, {"@type": "MusicRecording", "name": "Memories"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/fallon.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/fallon.html#artist", "name": "Fallon", "description": "Artiste sélectionnée Deezer Next 2026. Deezer présente son univers comme le RnBouyon, fusion de R&B et de bouyon entre douceur et énergie, avec les titres Normal et Memories.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Normal"}, {"@type": "MusicRecording", "name": "Memories"},
+      {
+       "@type": "MusicRecording",
+       "name": "L'originelle"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Changé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "2 min"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "CETTE ANNEE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "INTOUCHABLE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "JEUNE HOMME"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DIFFERENT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DO YOU DANCE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BOUT DU MONDE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BISOUS"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Laisse moi faire"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "FAKE WOMAN - Et alors ? (feat. Ronisia)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "C'EST MORT - Die for you"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Terminé - Summer Version"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TERMINE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Toi"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TBY Remix Bouyon"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mon baby"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Love Story (feat. BOSV)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doumbé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Aimes moi plus fort"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Meilleure amie"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "04:00"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Distance"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cette nuit sera"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -259,6 +360,107 @@ EN = {
     "“RnBouyon Instrumental” is a chapter title in the <a href=\"/en/bouyon-music-2026.html\">Bouyon Music 2026 Vol. 1</a> mix made by Smokiller, a Dominican-born producer, for Bouyon Shattaz. It is a second, independent use of the word, in the same month of February 2026 when Deezer consecrated it as Fallon’s world. It shows the word is circulating, without making RnBouyon an established genre.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/fallon.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/fallon.html#artist", "name": "Fallon", "description": "Deezer Next 2026 selected artist. Deezer presents her world as RnBouyon, a fusion of R&B and bouyon balancing softness and energy, with the tracks Normal and Memories.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Normal"}, {"@type": "MusicRecording", "name": "Memories"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/fallon.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/fallon.html#artist", "name": "Fallon", "description": "Deezer Next 2026 selected artist. Deezer presents her world as RnBouyon, a fusion of R&B and bouyon balancing softness and energy, with the tracks Normal and Memories.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Normal"}, {"@type": "MusicRecording", "name": "Memories"},
+      {
+       "@type": "MusicRecording",
+       "name": "L'originelle"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Changé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "2 min"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "CETTE ANNEE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "INTOUCHABLE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "JEUNE HOMME"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DIFFERENT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DO YOU DANCE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BOUT DU MONDE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BISOUS"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Laisse moi faire"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "FAKE WOMAN - Et alors ? (feat. Ronisia)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "C'EST MORT - Die for you"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Terminé - Summer Version"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TERMINE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Toi"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TBY Remix Bouyon"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mon baby"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Love Story (feat. BOSV)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doumbé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Aimes moi plus fort"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Meilleure amie"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "04:00"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Distance"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cette nuit sera"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

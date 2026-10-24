@@ -129,7 +129,196 @@ FR = {
     "Commencez par « 50/50 », « CHOKOLA » et « KILOT », puis par les albums « VOYÉ SA ALLÉÉ » et « TRAVAILLONS », et prolongez avec les profils de Lunik, MA6MO et Le Dext sur ce site. Pour entendre la scène bouyon de Guadeloupe et de la Dominique dans son ensemble, la <a href=\"/playlist-bouyon.html\">playlist ROAD MIX</a> de Bouyon Shattaz rassemble nouveautés, bouyon soca et classiques de carnaval.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/team-bwe-tou-sa.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/team-bwe-tou-sa.html#artist", "name": "Team Bwè Tou Sa", "description": "Collectif bouyon de Guadeloupe lié au laboratoire GAMMALAB. Noyau d\u2019auteurs : Ludmilian Flower, Ludmael Flower et Nicolas Macbeth. Albums VOYÉ SA ALLÉÉ (2021), Voyé sa alléé II (2022) et TRAVAILLONS (2024), famille Lunik, FLW, MA6MO et Le Dext.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "50/50"}, {"@type": "MusicRecording", "name": "CHOKOLA"}, {"@type": "MusicRecording", "name": "KILOT"}, {"@type": "MusicRecording", "name": "WD 40"}, {"@type": "MusicRecording", "name": "Bibik"}, {"@type": "MusicRecording", "name": "Tik tak"}, {"@type": "MusicRecording", "name": "Game Over"}, {"@type": "MusicRecording", "name": "Mamamia"}, {"@type": "MusicRecording", "name": "Timoun la"}, {"@type": "MusicRecording", "name": "Woy !"}, {"@type": "MusicRecording", "name": "Mal élevé"}, {"@type": "MusicRecording", "name": "BALTAZA"}, {"@type": "MusicRecording", "name": "QUI A DIT ÇA ?"}, {"@type": "MusicRecording", "name": "RAKITA"}, {"@type": "MusicRecording", "name": "FAT CAT"}], "sameAs": ["https://www.shazam.com/cs-cz/artist/team-bw%C3%A8-tou-sa/1543840803", "https://www.qobuz.com/se-en/interpreter/team-bwe-tou-sa/10106029"]}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/team-bwe-tou-sa.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/team-bwe-tou-sa.html#artist", "name": "Team Bwè Tou Sa", "description": "Collectif bouyon de Guadeloupe lié au laboratoire GAMMALAB. Noyau d\u2019auteurs : Ludmilian Flower, Ludmael Flower et Nicolas Macbeth. Albums VOYÉ SA ALLÉÉ (2021), Voyé sa alléé II (2022) et TRAVAILLONS (2024), famille Lunik, FLW, MA6MO et Le Dext.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "50/50"}, {"@type": "MusicRecording", "name": "CHOKOLA"}, {"@type": "MusicRecording", "name": "KILOT"}, {"@type": "MusicRecording", "name": "WD 40"}, {"@type": "MusicRecording", "name": "Bibik"}, {"@type": "MusicRecording", "name": "Tik tak"}, {"@type": "MusicRecording", "name": "Game Over"}, {"@type": "MusicRecording", "name": "Mamamia"}, {"@type": "MusicRecording", "name": "Timoun la"}, {"@type": "MusicRecording", "name": "Woy !"}, {"@type": "MusicRecording", "name": "Mal élevé"}, {"@type": "MusicRecording", "name": "BALTAZA"}, {"@type": "MusicRecording", "name": "QUI A DIT ÇA ?"}, {"@type": "MusicRecording", "name": "RAKITA"}, {"@type": "MusicRecording", "name": "FAT CAT"},
+      {
+       "@type": "MusicRecording",
+       "name": "Henny Champagne"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "OULALALA"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "FREESTYLE CARNAVAL"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SQUAT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SINOBÒL #BANGER 2"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ZING CHAP #BANGER"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MINUTE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ABBL"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BONDAL"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "CHEAT OR LOVE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BACKALIVE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MOUN"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PASSE-PASSE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BOXER"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SOUKWÉ"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "RACE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "NOU KI LA"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BALANSÉ"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "VOIR ÇA"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BRUTALITÉ"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "QUE LO QUE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "OG WET FEST 2022"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "How low Gammalab 5"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Voulez-Vous ?"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Cho Remix"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Willy kiki"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Toufé GAMMALAB4"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "100 %"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dé plass"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Véyé mwen"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Machin a Wonm La"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pli ô"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lolo"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bétonnéw"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mouvman Klandestin"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nanni nannan"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "En ba dlo"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bouwéy si yo"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BAISE-MOI (feat. Riko, Le bluff, Tgx, Billy Bybf, PIXOU, Le daah, WAYSEE & Team Bwè Tou Sa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "P.L.S (feat. Team Bwè Tou Sa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Malélivé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Libélil (feat. Team Bwè Tou Sa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dis-moi"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Chaga Galanga"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bay Volum (feat. Team Bwè Tou Sa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "HOT #Oups 5"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BIG BAG"
+      },
+], "sameAs": ["https://www.shazam.com/cs-cz/artist/team-bw%C3%A8-tou-sa/1543840803", "https://www.qobuz.com/se-en/interpreter/team-bwe-tou-sa/10106029"]}}],
  "date_modified": "2026-10-20"
 }
 
@@ -251,6 +440,195 @@ EN = {
     "Start with “50/50”, “CHOKOLA” and “KILOT”, then the albums “VOYÉ SA ALLÉÉ” and “TRAVAILLONS”, and continue with the Lunik, MA6MO and Le Dext profiles on this site. To hear the bouyon scene of Guadeloupe and Dominica as a whole, the Bouyon Shattaz <a href=\"/en/playlist-bouyon.html\">ROAD MIX playlist</a> gathers new releases, bouyon soca and carnival classics.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/team-bwe-tou-sa.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/team-bwe-tou-sa.html#artist", "name": "Team Bwè Tou Sa", "description": "Bouyon collective from Guadeloupe tied to the GAMMALAB laboratory. Writer core: Ludmilian Flower, Ludmael Flower and Nicolas Macbeth. Albums VOYÉ SA ALLÉÉ (2021), Voyé sa alléé II (2022) and TRAVAILLONS (2024), family Lunik, FLW, MA6MO and Le Dext.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "50/50"}, {"@type": "MusicRecording", "name": "CHOKOLA"}, {"@type": "MusicRecording", "name": "KILOT"}, {"@type": "MusicRecording", "name": "WD 40"}, {"@type": "MusicRecording", "name": "Bibik"}, {"@type": "MusicRecording", "name": "Tik tak"}, {"@type": "MusicRecording", "name": "Game Over"}, {"@type": "MusicRecording", "name": "Mamamia"}, {"@type": "MusicRecording", "name": "Timoun la"}, {"@type": "MusicRecording", "name": "Woy !"}, {"@type": "MusicRecording", "name": "Mal élevé"}, {"@type": "MusicRecording", "name": "BALTAZA"}, {"@type": "MusicRecording", "name": "QUI A DIT ÇA ?"}, {"@type": "MusicRecording", "name": "RAKITA"}, {"@type": "MusicRecording", "name": "FAT CAT"}], "sameAs": ["https://www.shazam.com/cs-cz/artist/team-bw%C3%A8-tou-sa/1543840803", "https://www.qobuz.com/se-en/interpreter/team-bwe-tou-sa/10106029"]}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/team-bwe-tou-sa.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/team-bwe-tou-sa.html#artist", "name": "Team Bwè Tou Sa", "description": "Bouyon collective from Guadeloupe tied to the GAMMALAB laboratory. Writer core: Ludmilian Flower, Ludmael Flower and Nicolas Macbeth. Albums VOYÉ SA ALLÉÉ (2021), Voyé sa alléé II (2022) and TRAVAILLONS (2024), family Lunik, FLW, MA6MO and Le Dext.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "50/50"}, {"@type": "MusicRecording", "name": "CHOKOLA"}, {"@type": "MusicRecording", "name": "KILOT"}, {"@type": "MusicRecording", "name": "WD 40"}, {"@type": "MusicRecording", "name": "Bibik"}, {"@type": "MusicRecording", "name": "Tik tak"}, {"@type": "MusicRecording", "name": "Game Over"}, {"@type": "MusicRecording", "name": "Mamamia"}, {"@type": "MusicRecording", "name": "Timoun la"}, {"@type": "MusicRecording", "name": "Woy !"}, {"@type": "MusicRecording", "name": "Mal élevé"}, {"@type": "MusicRecording", "name": "BALTAZA"}, {"@type": "MusicRecording", "name": "QUI A DIT ÇA ?"}, {"@type": "MusicRecording", "name": "RAKITA"}, {"@type": "MusicRecording", "name": "FAT CAT"},
+      {
+       "@type": "MusicRecording",
+       "name": "Henny Champagne"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "OULALALA"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "FREESTYLE CARNAVAL"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SQUAT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SINOBÒL #BANGER 2"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ZING CHAP #BANGER"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MINUTE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ABBL"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BONDAL"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "CHEAT OR LOVE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BACKALIVE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MOUN"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PASSE-PASSE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BOXER"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SOUKWÉ"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "RACE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "NOU KI LA"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BALANSÉ"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "VOIR ÇA"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BRUTALITÉ"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "QUE LO QUE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "OG WET FEST 2022"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "How low Gammalab 5"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Voulez-Vous ?"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Cho Remix"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Willy kiki"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Toufé GAMMALAB4"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "100 %"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dé plass"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Véyé mwen"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Machin a Wonm La"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pli ô"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lolo"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bétonnéw"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mouvman Klandestin"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nanni nannan"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "En ba dlo"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bouwéy si yo"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BAISE-MOI (feat. Riko, Le bluff, Tgx, Billy Bybf, PIXOU, Le daah, WAYSEE & Team Bwè Tou Sa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "P.L.S (feat. Team Bwè Tou Sa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Malélivé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Libélil (feat. Team Bwè Tou Sa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dis-moi"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Chaga Galanga"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bay Volum (feat. Team Bwè Tou Sa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "HOT #Oups 5"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BIG BAG"
+      },
+], "sameAs": ["https://www.shazam.com/cs-cz/artist/team-bw%C3%A8-tou-sa/1543840803", "https://www.qobuz.com/se-en/interpreter/team-bwe-tou-sa/10106029"]}}],
  "date_modified": "2026-10-20"
 }

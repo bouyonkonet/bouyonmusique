@@ -134,7 +134,156 @@ FR = {
     "Oui. Sa biographie le présente comme un artiste de la scène urbaine au style notamment inspiré du bouyon, quel-dj classe « Moustik » dans la vague bouyon moderne, et les fiches Shazam de ses titres collectifs de 2023 donnent 155 et 160 BPM, la zone de vitesse du bouyon de fête. Ses titres sont écrits en créole guadeloupéen, la langue du <a href=\"/bouyon-gwada.html\">bouyon gwada</a>, branche du genre né en Dominique.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/aknose.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/aknose.html#artist", "name": "Aknose", "description": "Artiste bouyon originaire de la Guadeloupe. Connu pour Moustik avec 1T1 et New Bouyon Wave #1 de D0 Production. Crédité comme auteur sous le nom Gael Rampath.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Moustik"}, {"@type": "MusicRecording", "name": "New Bouyon Wave #1"}, {"@type": "MusicRecording", "name": "Bidiba Bidibou"}, {"@type": "MusicRecording", "name": "Bad Girls"}, {"@type": "MusicRecording", "name": "Mas La Rivé"}, {"@type": "MusicRecording", "name": "Gwo Kok Pou Gwo Kokote"}, {"@type": "MusicRecording", "name": "KKM"}, {"@type": "MusicRecording", "name": "Qualité Quantité"}, {"@type": "MusicRecording", "name": "Minimum"}, {"@type": "MusicRecording", "name": "Kak Up"}, {"@type": "MusicRecording", "name": "Manawa"}, {"@type": "MusicRecording", "name": "Palabras"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/aknose.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/aknose.html#artist", "name": "Aknose", "description": "Artiste bouyon originaire de la Guadeloupe. Connu pour Moustik avec 1T1 et New Bouyon Wave #1 de D0 Production. Crédité comme auteur sous le nom Gael Rampath.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Moustik"}, {"@type": "MusicRecording", "name": "New Bouyon Wave #1"}, {"@type": "MusicRecording", "name": "Bidiba Bidibou"}, {"@type": "MusicRecording", "name": "Bad Girls"}, {"@type": "MusicRecording", "name": "Mas La Rivé"}, {"@type": "MusicRecording", "name": "Gwo Kok Pou Gwo Kokote"}, {"@type": "MusicRecording", "name": "KKM"}, {"@type": "MusicRecording", "name": "Qualité Quantité"}, {"@type": "MusicRecording", "name": "Minimum"}, {"@type": "MusicRecording", "name": "Kak Up"}, {"@type": "MusicRecording", "name": "Manawa"}, {"@type": "MusicRecording", "name": "Palabras"},
+      {
+       "@type": "MusicRecording",
+       "name": "Pink Pink"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Matcha"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "La Manigance (feat. TKS 2G, Mikado, P.L.L, Junior, Dj Glad, Kamelon Officiel, DJ SEBB, Lijay, YSN, Da Nillo, Vanou & Kikitox)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bonne humeur"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Conakry"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Close your mouth"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Coulie Coulie"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pooch (Radio Edit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "What I do"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kalollipop (feat. JIXELS)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "0690 (feat. Deejay Enzo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Oh Nana (Loxymore One Shot)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Only God Can Judge Me"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tèk"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Elastic Girl (feat. Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Brennen"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Célibataire"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Va Dire Ça (feat. Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nyèt"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bloqué"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Manman Missié"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Coconut"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Skincare"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lè an pa siw ou si mwen (feat. Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Gwadloup cho (feat. T-Way, Tone Bo$$, Dvinity, Aknose, Lil Dem, Latea & Kellingston)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BAD BBL (feat. Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Followers / Lagaba (feat. Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mauvais plan"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "2-2 (feat. Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Coco Mwen Ka Monté Mon'n, Vol. 2 (feat. T Dedonia & Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "You Know (feat. Rayken, T-Way, Aknose, Le Juh & Nils)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bostik (feat. Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Love réel"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Maniman (feat. Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ding Dong"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Oh na na (feat. Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "J'ai vu, tu as vu, on a vu (feat. Aknose & Keros-N)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -262,6 +411,155 @@ EN = {
     "Yes. His biography presents him as an urban scene artist whose style is notably inspired by bouyon, quel-dj places “Moustik” in the modern bouyon wave, and the Shazam pages of his 2023 collective tracks give 155 and 160 BPM, the speed zone of party bouyon. His tracks are written in Guadeloupean Creole, the language of <a href=\"/en/bouyon-gwada.html\">bouyon gwada</a>, the branch of the genre born in Dominica.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/aknose.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/aknose.html#artist", "name": "Aknose", "description": "Bouyon artist from Guadeloupe. Known for Moustik with 1T1 and the D0 Production record New Bouyon Wave #1. Credited as songwriter under the name Gael Rampath.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Moustik"}, {"@type": "MusicRecording", "name": "New Bouyon Wave #1"}, {"@type": "MusicRecording", "name": "Bidiba Bidibou"}, {"@type": "MusicRecording", "name": "Bad Girls"}, {"@type": "MusicRecording", "name": "Mas La Rivé"}, {"@type": "MusicRecording", "name": "Gwo Kok Pou Gwo Kokote"}, {"@type": "MusicRecording", "name": "KKM"}, {"@type": "MusicRecording", "name": "Qualité Quantité"}, {"@type": "MusicRecording", "name": "Minimum"}, {"@type": "MusicRecording", "name": "Kak Up"}, {"@type": "MusicRecording", "name": "Manawa"}, {"@type": "MusicRecording", "name": "Palabras"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/aknose.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/aknose.html#artist", "name": "Aknose", "description": "Bouyon artist from Guadeloupe. Known for Moustik with 1T1 and the D0 Production record New Bouyon Wave #1. Credited as songwriter under the name Gael Rampath.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Moustik"}, {"@type": "MusicRecording", "name": "New Bouyon Wave #1"}, {"@type": "MusicRecording", "name": "Bidiba Bidibou"}, {"@type": "MusicRecording", "name": "Bad Girls"}, {"@type": "MusicRecording", "name": "Mas La Rivé"}, {"@type": "MusicRecording", "name": "Gwo Kok Pou Gwo Kokote"}, {"@type": "MusicRecording", "name": "KKM"}, {"@type": "MusicRecording", "name": "Qualité Quantité"}, {"@type": "MusicRecording", "name": "Minimum"}, {"@type": "MusicRecording", "name": "Kak Up"}, {"@type": "MusicRecording", "name": "Manawa"}, {"@type": "MusicRecording", "name": "Palabras"},
+      {
+       "@type": "MusicRecording",
+       "name": "Pink Pink"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Matcha"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "La Manigance (feat. TKS 2G, Mikado, P.L.L, Junior, Dj Glad, Kamelon Officiel, DJ SEBB, Lijay, YSN, Da Nillo, Vanou & Kikitox)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bonne humeur"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Conakry"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Close your mouth"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Coulie Coulie"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pooch (Radio Edit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "What I do"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kalollipop (feat. JIXELS)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "0690 (feat. Deejay Enzo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Oh Nana (Loxymore One Shot)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Only God Can Judge Me"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tèk"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Elastic Girl (feat. Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Brennen"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Célibataire"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Va Dire Ça (feat. Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nyèt"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bloqué"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Manman Missié"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Coconut"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Skincare"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lè an pa siw ou si mwen (feat. Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Gwadloup cho (feat. T-Way, Tone Bo$$, Dvinity, Aknose, Lil Dem, Latea & Kellingston)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BAD BBL (feat. Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Followers / Lagaba (feat. Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mauvais plan"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "2-2 (feat. Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Coco Mwen Ka Monté Mon'n, Vol. 2 (feat. T Dedonia & Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "You Know (feat. Rayken, T-Way, Aknose, Le Juh & Nils)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bostik (feat. Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Love réel"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Maniman (feat. Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ding Dong"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Oh na na (feat. Aknose)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "J'ai vu, tu as vu, on a vu (feat. Aknose & Keros-N)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

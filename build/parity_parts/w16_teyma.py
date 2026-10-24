@@ -124,7 +124,16 @@ FR = {
     "Sur les plateformes, en commençant par « Chichi », son titre de 2025, puis « City Boy » avec Dinamarca et « Sexy dino », son single du 16 octobre 2026 produit par Holomobb. Pour entendre le bouyon d’où vient cette couleur, de la Dominique aux Antilles françaises, la <a href=\"/playlist-bouyon.html\">playlist Bouyon Road Mix</a> de Bouyon Shattaz réunit nouveautés et classiques du genre.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/teyma.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/teyma.html#artist", "name": "Teyma", "description": "Chanteuse française émergente à la croisée de la pop, du R’n’B, du rap et du bouyon. Révélée par Chichi et Shake it up, singles City Boy avec Dinamarca, Négatif et Sexy dino produit par Holomobb en 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Chichi"}, {"@type": "MusicRecording", "name": "Shake it up"}, {"@type": "MusicRecording", "name": "City boy"}, {"@type": "MusicRecording", "name": "Négatif"}, {"@type": "MusicRecording", "name": "Sexy dino"}], "sameAs": ["https://www.instagram.com/teymaaa/"]}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/teyma.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/teyma.html#artist", "name": "Teyma", "description": "Chanteuse française émergente à la croisée de la pop, du R’n’B, du rap et du bouyon. Révélée par Chichi et Shake it up, singles City Boy avec Dinamarca, Négatif et Sexy dino produit par Holomobb en 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Chichi"}, {"@type": "MusicRecording", "name": "Shake it up"}, {"@type": "MusicRecording", "name": "City boy"}, {"@type": "MusicRecording", "name": "Négatif"}, {"@type": "MusicRecording", "name": "Sexy dino"},
+      {
+       "@type": "MusicRecording",
+       "name": "HOLLYWOOD GIRLS"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MIMITA"
+      },
+], "sameAs": ["https://www.instagram.com/teymaaa/"]}}],
  "date_modified": "2026-10-20"
 }
 
@@ -244,6 +253,15 @@ EN = {
     "On the platforms, starting with “Chichi”, her 2025 track, then “City Boy” with Dinamarca and “Sexy Dino”, her single of 16 October 2026 produced by Holomobb. To hear the bouyon that colour comes from, from Dominica to the French Antilles, the <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix playlist</a> by Bouyon Shattaz gathers new releases and classics of the genre.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/teyma.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/teyma.html#artist", "name": "Teyma", "description": "Emerging French singer at the crossing of pop, R and B, rap and bouyon. Revealed by Chichi and Shake it up, with the 2026 singles City Boy with Dinamarca, Négatif and Sexy Dino produced by Holomobb.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Chichi"}, {"@type": "MusicRecording", "name": "Shake it up"}, {"@type": "MusicRecording", "name": "City boy"}, {"@type": "MusicRecording", "name": "Négatif"}, {"@type": "MusicRecording", "name": "Sexy dino"}], "sameAs": ["https://www.instagram.com/teymaaa/"]}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/teyma.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/teyma.html#artist", "name": "Teyma", "description": "Emerging French singer at the crossing of pop, R and B, rap and bouyon. Revealed by Chichi and Shake it up, with the 2026 singles City Boy with Dinamarca, Négatif and Sexy Dino produced by Holomobb.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Chichi"}, {"@type": "MusicRecording", "name": "Shake it up"}, {"@type": "MusicRecording", "name": "City boy"}, {"@type": "MusicRecording", "name": "Négatif"}, {"@type": "MusicRecording", "name": "Sexy dino"},
+      {
+       "@type": "MusicRecording",
+       "name": "HOLLYWOOD GIRLS"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MIMITA"
+      },
+], "sameAs": ["https://www.instagram.com/teymaaa/"]}}],
  "date_modified": "2026-10-20"
 }

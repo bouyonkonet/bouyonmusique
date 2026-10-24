@@ -108,7 +108,172 @@ FR = {
     "Selon le compte rendu de Soca News, l’édition qui a sacré Real Reel artiste ou groupe émergent de l’année a aussi honoré <a href=\"/signal-band.html\">Signal Band</a>, Shelly, Pudaz, DJ MJ et le producteur Mr Ridge. La cérémonie, tenue à l’InterContinental Dominica Cabrits Resort and Spa de Portsmouth, a récompensé la musique dominicaine dans 24 catégories. Real Reel y côtoie le centre de gravité actuel de la scène.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/real-reel.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/real-reel.html#artist", "name": "Real Reel", "description": "Artiste bouyon, gagnant du prix artiste ou groupe émergent de l’année aux Dominica Music Awards 2025. Single documenté Tropikini, sorti le 19 juin 2025 chez No Turkey Music, produit par Savion.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Tropikini"}, {"@type": "MusicRecording", "name": "Chappa"}, {"@type": "MusicRecording", "name": "What did it?"}, {"@type": "MusicRecording", "name": "I Do"}, {"@type": "MusicRecording", "name": "Isle Of Beauty"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/real-reel.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/real-reel.html#artist", "name": "Real Reel", "description": "Artiste bouyon, gagnant du prix artiste ou groupe émergent de l’année aux Dominica Music Awards 2025. Single documenté Tropikini, sorti le 19 juin 2025 chez No Turkey Music, produit par Savion.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Tropikini"}, {"@type": "MusicRecording", "name": "Chappa"}, {"@type": "MusicRecording", "name": "What did it?"}, {"@type": "MusicRecording", "name": "I Do"}, {"@type": "MusicRecording", "name": "Isle Of Beauty"},
+      {
+       "@type": "MusicRecording",
+       "name": "Tequila (Live)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stick (feat. Quan & Mr.Keyz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Comic"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dislocate"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "To Tha Top"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Other Man"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Copy Who ?"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "So Sweet"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rel Not Rep"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cry Me A River"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Giggle (feat. Gwada G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Work (Live)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Scrolling"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "My Boy (feat. Prhymex)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "HELLCAT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "CBFW"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doh Play (feat. Gwada G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sousoune Decalé (feat. Scrubz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Man Van And Money (feat. Scrubz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cow Boy"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Not Normal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ok Cool (feat. Savion)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Desperate"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bullseye"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Attitude"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doh Busy"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kichta (feat. Don Sosa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "World Boss"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Money Scheme (feat. Iwa King & VI$ION)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "All Wins (feat. DiYoute & Young Dinero)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wave (feat. VI$ION & Don Sosa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "First Night (feat. VI$ION)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BLOW"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "32 Pong Town (feat. Real Reel)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Eat Dat Up (feat. Real Reel)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Island Girl (feat. Real Reel & litleboy lsbeats767) [Radio Edit]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "WGFT Bouyon (feat. Real Reel & Gwada G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shake Your (feat. Real Reel & Quan)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Care \"ZERO\" (feat. Real Reel)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SHI GI DAY (feat. Real Reel)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Get High (feat. Hussey, Real Reel & Trixzmigos) [Savion Beats Remix]"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -210,6 +375,171 @@ EN = {
     "According to the Soca News report, the edition that named Real Reel Emerging Artist or Band of the Year also honoured <a href=\"/en/signal-band.html\">Signal Band</a>, Shelly, Pudaz, DJ MJ and producer Mr Ridge. The ceremony, held at the InterContinental Dominica Cabrits Resort and Spa in Portsmouth, rewarded Dominican music in 24 categories. Real Reel stands there beside the current centre of gravity of the scene.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/real-reel.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/real-reel.html#artist", "name": "Real Reel", "description": "Bouyon artist, winner of Rising and Emerging Artist or Band of the Year at the Dominica Music Awards 2025. Documented single Tropikini, released 19 June 2025 on No Turkey Music, produced by Savion.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Tropikini"}, {"@type": "MusicRecording", "name": "Chappa"}, {"@type": "MusicRecording", "name": "What did it?"}, {"@type": "MusicRecording", "name": "I Do"}, {"@type": "MusicRecording", "name": "Isle Of Beauty"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/real-reel.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/real-reel.html#artist", "name": "Real Reel", "description": "Bouyon artist, winner of Rising and Emerging Artist or Band of the Year at the Dominica Music Awards 2025. Documented single Tropikini, released 19 June 2025 on No Turkey Music, produced by Savion.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Tropikini"}, {"@type": "MusicRecording", "name": "Chappa"}, {"@type": "MusicRecording", "name": "What did it?"}, {"@type": "MusicRecording", "name": "I Do"}, {"@type": "MusicRecording", "name": "Isle Of Beauty"},
+      {
+       "@type": "MusicRecording",
+       "name": "Tequila (Live)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stick (feat. Quan & Mr.Keyz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Comic"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dislocate"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "To Tha Top"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Other Man"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Copy Who ?"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "So Sweet"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rel Not Rep"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cry Me A River"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Giggle (feat. Gwada G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Work (Live)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Scrolling"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "My Boy (feat. Prhymex)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "HELLCAT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "CBFW"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doh Play (feat. Gwada G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sousoune Decalé (feat. Scrubz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Man Van And Money (feat. Scrubz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cow Boy"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Not Normal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ok Cool (feat. Savion)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Desperate"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bullseye"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Attitude"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doh Busy"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kichta (feat. Don Sosa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "World Boss"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Money Scheme (feat. Iwa King & VI$ION)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "All Wins (feat. DiYoute & Young Dinero)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wave (feat. VI$ION & Don Sosa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "First Night (feat. VI$ION)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BLOW"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "32 Pong Town (feat. Real Reel)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Eat Dat Up (feat. Real Reel)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Island Girl (feat. Real Reel & litleboy lsbeats767) [Radio Edit]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "WGFT Bouyon (feat. Real Reel & Gwada G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shake Your (feat. Real Reel & Quan)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Care \"ZERO\" (feat. Real Reel)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SHI GI DAY (feat. Real Reel)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Get High (feat. Hussey, Real Reel & Trixzmigos) [Savion Beats Remix]"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

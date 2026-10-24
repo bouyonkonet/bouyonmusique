@@ -123,7 +123,36 @@ FR = {
     "Commencez par « Sa ki bon (Bouyon King) » en 2021, puis « Vole Nonm a Moun », le single de 2013, « Y.A.G. », « Tout de suite » et « PLAN A 3 » avec Yumei en 2024. Pour la scène bouyon actuelle, de la Dominique à la Guadeloupe, notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a> Road Mix de Bouyon Shattaz réunit nouveautés et classiques du carnaval.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/yellow-gaza.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/yellow-gaza.html#artist", "name": "Yellow Gaza", "description": "Acte bouyon de Guadeloupe. Catalogue vérifié de 2013 à 2024 chez Vadore Concept pour ses titres récents : Vole Nonm a Moun, Y.A.G., Sa ki bon (Bouyon King), Tout de suite et PLAN A 3 avec Yumei, écrits en grande partie par Letin Severine et Letin Sylia.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Vole Nonm a Moun"}, {"@type": "MusicRecording", "name": "Y.A.G."}, {"@type": "MusicRecording", "name": "Sa ki bon (Bouyon King)"}, {"@type": "MusicRecording", "name": "Tout de suite"}, {"@type": "MusicRecording", "name": "PLAN A 3"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/yellow-gaza.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/yellow-gaza.html#artist", "name": "Yellow Gaza", "description": "Acte bouyon de Guadeloupe. Catalogue vérifié de 2013 à 2024 chez Vadore Concept pour ses titres récents : Vole Nonm a Moun, Y.A.G., Sa ki bon (Bouyon King), Tout de suite et PLAN A 3 avec Yumei, écrits en grande partie par Letin Severine et Letin Sylia.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Vole Nonm a Moun"}, {"@type": "MusicRecording", "name": "Y.A.G."}, {"@type": "MusicRecording", "name": "Sa ki bon (Bouyon King)"}, {"@type": "MusicRecording", "name": "Tout de suite"}, {"@type": "MusicRecording", "name": "PLAN A 3"},
+      {
+       "@type": "MusicRecording",
+       "name": "Controling Baby"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "V.N.M II"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Macrelle"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Gouté Gouté"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Koké La (Bouyon Kings)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bouwéy"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Putri"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -241,6 +270,35 @@ EN = {
     "Start with “Sa ki bon (Bouyon King)” in 2021, then “Vole Nonm a Moun”, the 2013 single, “Y.A.G.”, “Tout de suite” and “PLAN A 3” with Yumei in 2024. For today’s bouyon scene, from Dominica to Guadeloupe, our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, the Road Mix by Bouyon Shattaz, gathers new releases and carnival classics.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/yellow-gaza.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/yellow-gaza.html#artist", "name": "Yellow Gaza", "description": "Bouyon act from Guadeloupe. Verified catalogue from 2013 to 2024, on Vadore Concept for its recent records: Vole Nonm a Moun, Y.A.G., Sa ki bon (Bouyon King), Tout de suite and PLAN A 3 with Yumei, written in large part by Letin Severine and Letin Sylia.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Vole Nonm a Moun"}, {"@type": "MusicRecording", "name": "Y.A.G."}, {"@type": "MusicRecording", "name": "Sa ki bon (Bouyon King)"}, {"@type": "MusicRecording", "name": "Tout de suite"}, {"@type": "MusicRecording", "name": "PLAN A 3"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/yellow-gaza.html#profile", "mainEntity": {"@type": "MusicGroup", "@id": "https://bouyonmusique.com/en/yellow-gaza.html#artist", "name": "Yellow Gaza", "description": "Bouyon act from Guadeloupe. Verified catalogue from 2013 to 2024, on Vadore Concept for its recent records: Vole Nonm a Moun, Y.A.G., Sa ki bon (Bouyon King), Tout de suite and PLAN A 3 with Yumei, written in large part by Letin Severine and Letin Sylia.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Vole Nonm a Moun"}, {"@type": "MusicRecording", "name": "Y.A.G."}, {"@type": "MusicRecording", "name": "Sa ki bon (Bouyon King)"}, {"@type": "MusicRecording", "name": "Tout de suite"}, {"@type": "MusicRecording", "name": "PLAN A 3"},
+      {
+       "@type": "MusicRecording",
+       "name": "Controling Baby"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "V.N.M II"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Macrelle"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Gouté Gouté"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Koké La (Bouyon Kings)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bouwéy"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Putri"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

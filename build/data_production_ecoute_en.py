@@ -145,7 +145,7 @@ PAGES = [
     "WAV, the format of DJs and radios. <a href=\"/en/smokiller.html\">Smokiller</a> offers free downloads on smokiller.com, including his Coi Leray Nothing Into Something remix and his Shenseea Vulnerability Bouyon Shattaz remix in WAV, and Bouyon Shattaz rotation packs go out to Caribbean stations. For a kit, the lesson is the same: clean files, with the tempo, the source and the credit in the file name.",
   )
 ],
-"date_modified": "2026-10-20",
+"date_modified": "2026-10-21",
 "extra_graph": [
   {"@type": "Article", "headline": "Bouyon Drum Kit: the sounds you need to produce bouyon", "author": {"@id": "https://bouyonmusique.com/#smokiller"}, "publisher": {"@id": "https://bouyonmusique.com/#org"}, "inLanguage": "en"}
 ],
@@ -340,7 +340,7 @@ PAGES = [
     ],
   )
 ],
-"date_modified": "2026-10-20",
+"date_modified": "2026-10-21",
 "faq": [
   (
     "Where do you start a bouyon beat?",

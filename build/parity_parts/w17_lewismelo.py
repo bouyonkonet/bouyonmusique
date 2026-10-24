@@ -126,7 +126,84 @@ FR = {
     "Commencez par « Clean Body » pour le premier single, puis écoutez « Premières Notes » en entier, de « INTRO » à « THANK YOU », puis « On ti rhum » et « FVCK YOU » avec Admiral T. Pour entendre la scène bouyon qui l’entoure, de la Dominique à la Guadeloupe, la <a href=\"/playlist-bouyon.html\">playlist Bouyon Road Mix</a> de Bouyon Shattaz réunit nouveautés et classiques du genre.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/lewismelo.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/lewismelo.html#artist", "name": "Lewismelo", "description": "Lewismelo, Lewis Wayne Campbell, producteur et artiste bouyon de Guadeloupe, moitié du duo Dcamp & Lewismelo. En solo : le single Clean Body (2023), l’album Premières Notes (2024, Lewismeloproduction) avec Admiral T, Shanika, Dcamp et KEKS MAFIA en invités, les singles On ti rhum et FVCK YOU cosignés avec Admiral T, et des compositions sur l’album MAESTRO d’Admiral T.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "INTRO"}, {"@type": "MusicRecording", "name": "5 KILOS"}, {"@type": "MusicRecording", "name": "VIN TCHEK NOU"}, {"@type": "MusicRecording", "name": "POMPÉ"}, {"@type": "MusicRecording", "name": "ALOUETTE"}, {"@type": "MusicRecording", "name": "KEY"}, {"@type": "MusicRecording", "name": "HULLABALOO"}, {"@type": "MusicRecording", "name": "THANK YOU"}, {"@type": "MusicRecording", "name": "Clean Body"}, {"@type": "MusicRecording", "name": "On ti rhum"}, {"@type": "MusicRecording", "name": "FVCK YOU"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/lewismelo.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/lewismelo.html#artist", "name": "Lewismelo", "description": "Lewismelo, Lewis Wayne Campbell, producteur et artiste bouyon de Guadeloupe, moitié du duo Dcamp & Lewismelo. En solo : le single Clean Body (2023), l’album Premières Notes (2024, Lewismeloproduction) avec Admiral T, Shanika, Dcamp et KEKS MAFIA en invités, les singles On ti rhum et FVCK YOU cosignés avec Admiral T, et des compositions sur l’album MAESTRO d’Admiral T.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "INTRO"}, {"@type": "MusicRecording", "name": "5 KILOS"}, {"@type": "MusicRecording", "name": "VIN TCHEK NOU"}, {"@type": "MusicRecording", "name": "POMPÉ"}, {"@type": "MusicRecording", "name": "ALOUETTE"}, {"@type": "MusicRecording", "name": "KEY"}, {"@type": "MusicRecording", "name": "HULLABALOO"}, {"@type": "MusicRecording", "name": "THANK YOU"}, {"@type": "MusicRecording", "name": "Clean Body"}, {"@type": "MusicRecording", "name": "On ti rhum"}, {"@type": "MusicRecording", "name": "FVCK YOU"},
+      {
+       "@type": "MusicRecording",
+       "name": "What's Problem"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LUSHENANA"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "On My Way"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Flex & Buss It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "COCO"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LET'S MAKE A BABY"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PINPON RIDDIM (feat. DJ LUCHSHIY, Fredo Pichi, Lewismelo & Dcamp)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "YOU AND ME"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BOUYON"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "N.W.A [NÈG WITH ATTITUDE]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "COPAIN COPINE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LA BOULANGERIE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BODY COUNT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "IL ETAIT UNE FOIS"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BAY LA BÈT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sòti Gwadloup"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TOURNEVIS"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pani Konbin"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "GOUTÉW"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -245,6 +322,83 @@ EN = {
     "Start with “Clean Body” for the first single, then hear “Premières Notes” in full, from “INTRO” to “THANK YOU”, then “On ti rhum” and “FVCK YOU” with Admiral T. To hear the bouyon scene around him, from Dominica to Guadeloupe, the <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix playlist</a> by Bouyon Shattaz gathers new releases and classics of the genre.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/lewismelo.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/lewismelo.html#artist", "name": "Lewismelo", "description": "Lewismelo, Lewis Wayne Campbell, bouyon producer and artist from Guadeloupe, one half of the duo Dcamp & Lewismelo. Solo: the single Clean Body (2023), the album Premières Notes (2024, Lewismeloproduction) with Admiral T, Shanika, Dcamp and KEKS MAFIA as guests, the singles On ti rhum and FVCK YOU co-billed with Admiral T, and compositions on the Admiral T album MAESTRO.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "INTRO"}, {"@type": "MusicRecording", "name": "5 KILOS"}, {"@type": "MusicRecording", "name": "VIN TCHEK NOU"}, {"@type": "MusicRecording", "name": "POMPÉ"}, {"@type": "MusicRecording", "name": "ALOUETTE"}, {"@type": "MusicRecording", "name": "KEY"}, {"@type": "MusicRecording", "name": "HULLABALOO"}, {"@type": "MusicRecording", "name": "THANK YOU"}, {"@type": "MusicRecording", "name": "Clean Body"}, {"@type": "MusicRecording", "name": "On ti rhum"}, {"@type": "MusicRecording", "name": "FVCK YOU"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/lewismelo.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/lewismelo.html#artist", "name": "Lewismelo", "description": "Lewismelo, Lewis Wayne Campbell, bouyon producer and artist from Guadeloupe, one half of the duo Dcamp & Lewismelo. Solo: the single Clean Body (2023), the album Premières Notes (2024, Lewismeloproduction) with Admiral T, Shanika, Dcamp and KEKS MAFIA as guests, the singles On ti rhum and FVCK YOU co-billed with Admiral T, and compositions on the Admiral T album MAESTRO.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "INTRO"}, {"@type": "MusicRecording", "name": "5 KILOS"}, {"@type": "MusicRecording", "name": "VIN TCHEK NOU"}, {"@type": "MusicRecording", "name": "POMPÉ"}, {"@type": "MusicRecording", "name": "ALOUETTE"}, {"@type": "MusicRecording", "name": "KEY"}, {"@type": "MusicRecording", "name": "HULLABALOO"}, {"@type": "MusicRecording", "name": "THANK YOU"}, {"@type": "MusicRecording", "name": "Clean Body"}, {"@type": "MusicRecording", "name": "On ti rhum"}, {"@type": "MusicRecording", "name": "FVCK YOU"},
+      {
+       "@type": "MusicRecording",
+       "name": "What's Problem"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LUSHENANA"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "On My Way"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Flex & Buss It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "COCO"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LET'S MAKE A BABY"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PINPON RIDDIM (feat. DJ LUCHSHIY, Fredo Pichi, Lewismelo & Dcamp)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "YOU AND ME"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BOUYON"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "N.W.A [NÈG WITH ATTITUDE]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "COPAIN COPINE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LA BOULANGERIE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BODY COUNT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "IL ETAIT UNE FOIS"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BAY LA BÈT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sòti Gwadloup"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TOURNEVIS"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pani Konbin"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "GOUTÉW"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

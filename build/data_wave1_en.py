@@ -384,8 +384,64 @@ PAGES = [
       {
        "@type": "MusicRecording",
        "name": "Down"
-      }
-     ]
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Batty Bubble"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bwé Rhum"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Taking Over"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mad People Fete"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fete Is Fete"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stampede"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Flags Up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Simon Say"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "In She Garden (Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Take Jam (feat. Asa Bantan)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bwé Rhum (Bouyon Kings Mixtape)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Play Mass (feat. Asa Bantan)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Better Than Your Boyfriend (feat. Asa Bantan)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Made It (feat. Asa Bantan)"
+      },
+]
     }
    }
   ],
@@ -567,8 +623,244 @@ PAGES = [
       {
        "@type": "MusicRecording",
        "name": "Dominica I From"
-      }
-     ]
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Back it up gyal (feat. Edday)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bike man (feat. Ras B)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "FYL"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "CoMeSS (feat. Asa Bantan)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dotish love (feat. Nessa Preppy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Plottin"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Perfect"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Do Not Know"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stampede (feat. Trilla - G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Without you (feat. Nice, Trilla-G, Unstoppable Shax & Quan dawg)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "12345678"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "In D Bedroom (feat. Freddy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doh trust dem"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lovers business"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bikini"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Leave your man (feat. Dj taffy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "What to do (feat. Trixx ft Reo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Roadkill"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "She like man"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Carnival feeling"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Face Down"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doh lose your man"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Party animal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hard Fork"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "S***p"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sauvage"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Gyalis"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Girlfriend"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BDPB (feat. Youry YMW)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Same Girl (feat. Trilla G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Crack P****i"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tonight"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "We Getting Paid"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Backshot"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Come Back"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Yay"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Koké"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Caribbean Whine"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Like Woman (feat. Kevni, Edday, Larose & Yg Gucci)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Benadryl"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Chance"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dou dou (feat. Litleboy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "We Outside (feat. Dj Flip Tha Boss)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dance With Me"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bus Drivah"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Boom Boom"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ouu (feat. Trilla G & Dj Realboss)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pay Me (Dolla)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bouyon Train"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ouu Lala (feat. Edday)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dangerous"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sa Ka Bay (feat. Dj Bling)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Through the Night (feat. Frog & Reo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DO WHAT YOU WANT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doe call my name (feat. Reo & Youry ymw)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shut Up (feat. Reo & Khallion) [Remix]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rum Dat Do Me Dat (feat. Reo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "On Me (feat. Savion, DiYoute, OBM & Reo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "REST IT DOWN (feat. Reo)"
+      },
+]
     }
    }
   ],
@@ -1130,8 +1422,12 @@ PAGES = [
       {
        "@type": "MusicRecording",
        "name": "Allo Doudou (feat. litleboy lsbeats767) (Spain Remix)"
-      }
-     ]
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Danger (feat. Miimii KDS)"
+      },
+]
     }
    }
   ],
@@ -1296,7 +1592,475 @@ PAGES = [
        "@type": "MusicRecording",
        "name": "Fym"
       },
-     ]
+      {
+       "@type": "MusicRecording",
+       "name": "Lack of Sex"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dah Wuh She Get (feat. Lead Pipe)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shirley (feat. Peter Ram)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Back Door (feat. Jagwa De Champ)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Takah Takah (feat. Dirty Dawg Pudaz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Gimme Room (feat. Shanta Prince)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Freeness Is For"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bad My Girl"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Is a Bala"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fair Exchange"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Two Rules"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Push Your Hand"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "How You Is My Cousin"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Do Baby"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "She Stupid"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Speedy da Bur!"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Love"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "More Cock"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rum Family (feat. Yung Shing Taw & More Sewo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Not Giving Up (feat. Nayee)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Haterz Looking"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Boomboom Dere"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Christmas Chalala"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Christmas Money"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Alexsis (feat. Sukie)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Anita Bouyon (feat. Midnight Groovers)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Granny Wine (feat. Sukie)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rockstar Keyboard Solo"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doh Talk to Me (feat. Omar Omar)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jenny"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Alle Cocay Mamaw (feat. Jkuan)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "W.D.M.a. (feat. Dirty Dawg Pudaz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "What Is There for Me (feat. Dirty Dawg Pudaz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Reply"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "B.D.Y.M.M."
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Not Me"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Boosolavi"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bend Down (feat. LITLE'BÖY)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "P***y Cat (feat. N.I.C.E.)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stick It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "The Code"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cover Up"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shut up & Pay Me"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "She Wan That Ah"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ridge Ki Ca Mene (feat. Sakis Lapo Kabwit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Toxic Love Accordion"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Toxic Love Creole"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Urpen That (feat. Dirty Dawg Pudaz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jing Ping Kompa"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Am to Pm (feat. Hon Roosevelt Skerrit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sweet Caroline Bouyon"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tolly (feat. Pndrn)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nasty Chant (feat. Dirty Dawg Pudaz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bend Yuh Back (feat. Dirty Dawg Pudaz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Who Paro"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "D Coo Coo (feat. Dirty Dawg Pudaz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Man Giving Woman Money"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Take That Baby (feat. Dirty Dawg Pudaz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Make That Booty Clap (feat. Dirty Dawg Pudaz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Take Your Time (feat. Dirty Dawg Pudaz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Its All About Sewo (feat. Sukie)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Johnny (feat. Sukie & Da Doll)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pas Normal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Backerz (feat. Dirty Dawg Pudaz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Electric (feat. Burn Brain Jolly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kenip Season (feat. Burn Brain Jolly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Babawhoolay (feat. Burn Brain Jolly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bellevue Live (feat. Burn Brain Jolly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Da Is Sewo (feat. Burn Brain Jolly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "West Bank (feat. Burn Brain Jolly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "See Paris n Die (feat. Burn Brain Jolly & More Paris)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kettle (feat. Burn Brain Jolly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Police Beating Them (feat. Burn Brain Jolly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hi My Name Is Jolly (feat. Burn Brain Jolly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Je T’aime Dayleeway"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Chiney Wine"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Want Drugs (Live)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Suck D P***y (Live)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Laff and Shaff (feat. Burn Brain Jolly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nasty Business"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Toxic Love"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Coco Nana (feat. Sukie)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shake Your Boomboom (feat. Sukie)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Chiney Wine Official"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Climax (Live)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lolololololo"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Me Dat Dere"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tongue in Bottom"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Love My Music (Live)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Coco Field"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Propaganda"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Killa Fun Solo (Live)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dayleeway"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Drugs (Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Plenty Woman (Live)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Just D Tip"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Impossible"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Your Woman Not Your Woman (Live)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bump on D Head"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "J'ai Faim (Live)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Chiney Wine Solo"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Suck the P***y Tonight"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ridgy up Friday Mal Parle"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Doh Mind"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Peppa Pig"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Green Jing Ping"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doh Call My Phone"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Come n Kokay"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bizaw"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Christmas Medley"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Don't Go"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Money Riddim"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bamsie Clap (feat. Skinny Fabulous)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Badman (feat. Konshens)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Blue (feat. Ridge)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pani Love"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "She Want That Ah (Remix)"
+      },
+]
     }
    }
   ],
@@ -1462,7 +2226,267 @@ PAGES = [
        "@type": "MusicRecording",
        "name": "Nah Nah (feat. YuniikBeatz) [Bouyon 2025]"
       },
-     ]
+      {
+       "@type": "MusicRecording",
+       "name": "PROMENONS-NOUS (feat. DIIXLY) (BOUYON 2027)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LIKE YOU (feat. DJ LUCHSHIY) (BOUYON 2027)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LÉSÉ NOU PASÉ (feat. Ma6mo & Diixly) (WARM UP 2026)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BOSS (feat. YuniikBeatz) (BOUYON 2026)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ON ME (feat. DJ BOKO) (BOUYON 2026)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PXRNSTAR (feat. DJ LUCHSHIY) [BOUYONMON ENGLISH VERSION]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DANJÉRÈZ (feat. DJ LUCHSHIY) [BOUYONMON KREYOL VERSION]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "NO TIME (feat. DJ SKAYLONE) (Bouyon 2026)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "WET WET (feat. DJ BOKO) (BOUYON 2026)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "FEEL LONELY (feat. DJ SKYCEE) (Bouyon 2025)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SHE'S A HOE (feat. DJ BOKO) (Bouyon 2025)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SA KA BAY (feat. DJ SKAYLONE) (Bouyon 2025)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "WOOD (feat. DJ SKAYLONE) (Bouyon 2025)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TOMBER LOVE (Bouyon 2025)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ANTIDÉPRESSEUR (BOUYON LOVE 2024)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "AN MÉLÉ (feat. Kevni) (BOUYON 2024)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "WHAT'S POPPIN (feat. Kevni) (BOUYON 2024)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BAW SA (feat. Kevni) (BOUYON 2024)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "POMPEY (feat. Kevni) (BOUYON 2024)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "POP CHAMPAGNE (feat. Kevni) (BOUYON 2024)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "C QUOI LES BAILS (feat. Kevni) (BOUYON 2024)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BIG BONDA (feat. Kevni) (BOUYON 2024)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Honey Pot (Bouyon 2024)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "KEEP INSIDE (BOUYON 2025)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BAD MOOD (feat. Kevni) (Bouyon 2025)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "GET THAT ASS (BOUYON 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MOUVMAN P.P.P (BOUYON 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BAD GIRL (LAST LAST REMIX)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Jumping Jack (feat. Lünik) (Bouyon 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Oshan (Bouyon 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Put It In (feat. Dj Softee & Edday) (Bouyon 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Manaudou (Bouyon 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Vody Lavish (feat. Kevni) (Bouyon 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kal Academy (feat. Dj Softee) (Bouyon 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Oulala (Bouyon 2025)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Makaveli (Bouyon 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "1,2,3,4 (Bouyon 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "CHINEY CHINEY FREESTYLE (BOUYON FREESTYLE)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pushing P (feat. Dj Skaytah) (Bouyon 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Poom Poom (feat. Dj softee) (Bouyon 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "140 (Bouyon 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ambiance Latino (feat. Tiitii Nba) (BOUYON WARM UP 2026)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "More Wata (feat. Tiitii Nba) (BOUYON WARM UP 2026)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SKILLI (feat. Tiitii Nba, QWANN & DINHO) (BOUYON 2026)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Supalova (feat. Tiitii Nba & DJ DIRTEE) (BOUYON WARM UP 2026)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LA PEP'HIT FREESTYLE (feat. TIITII NBA, DJ BOKO, LE K & DJ DIRTEE)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Take a Lick (feat. TiiTii NBA & DJ SOFTEE)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pli ô (feat. TiiTii NBA)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sa ka pété (feat. D-Stylii & TiiTii NBA)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ALL NIGHT (feat. TIITII NBA & D0 PRODUCTION) [BOUYON 2024]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Le loup (feat. Tiitii Nba)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Come Back (feat. Tiitii NBA)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pied au Plancher (feat. Tiitii NBA & Lejuh)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Day & Night (Bouyon 2024) (feat. TiiTii NBA)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "New Bouyon Wave #1 (feat. Tiitii NBA, Nils, Dj Softee, Aknose & Theomaa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SECRET FXCK (feat. TIITII NBA)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BIG MOOD (feat. TIITII NBA) (Bouyon 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Chalè (feat. TIITII NBA) (Bouyon 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "KARAKOLI (feat. TIITII NBA) (Bouyon 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Chi Chi Bad (feat. TIITII NBA) (Special Version Bouyon 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Snap ça (feat. TIITII NBA) (Bouyon 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "FRIDAY NIGHT (BOUYON 2023) (feat. TIITII NBA)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PUSSY BOY (BOUYON 2023)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "On My Mind"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bouè'y Bay"
+      },
+]
     }
    }
   ],
@@ -1641,8 +2665,376 @@ PAGES = [
       {
        "@type": "MusicRecording",
        "name": "We Ready (feat. Trilla-G & Shelly)"
-      }
-     ]
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Clock It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Band of De Year"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lapidé Yo"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Folded (Cover) [feat. Téhilah]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I'm a Boss Baby"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Most Wonderful Time of the Year (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Un-Break My Heart (feat. Shanice)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shoot & Miss (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Not A Word (feat. Trilla-G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "My Widdim (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "They Take You (feat. Shelly & Trilla-G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Signal Dat Dere Wii (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "My Band (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Make Her Bawl (feat. Shelly, DJ Taffy & Trixx)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "FED UP (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Body Language (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Calendar Riddim 2024 (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Always Be My Baby (feat. Carlyn XP)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Something Nice (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dwivé (feat. Shelly & Trilla-G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Me With People (feat. Shelly & Moxie Shervy)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Carnival Corner (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Best Friend (feat. Trilla-G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bingo (feat. Trilla-G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Painter (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Calendar Riddim (feat. Shelly & DJ Drixx)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I'll Be There For You (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Face No Case (feat. Shelly & Colton T)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stronger (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Night Shift (feat. Shelly & Trilla-G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nosey Neighbour (feat. Zwady & Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Riddim Coming Down (feat. Shane St. Claire) [This I Promise You Cover]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kanaval Awivé"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Campari"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stay Chipping"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bamba"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Big Boy Story"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Must Come Back"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "De Word"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Déjà Val (feat. Trilla-G) [Party Mix]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Money Money"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "My Man"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Open D Road"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Man vs Rose (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "All My Life"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bouyon Vax"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Red Flag"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rum and Woman"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Forward Forward"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fence Get Low"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "On My Way (Side Life) (feat. Shelly, Starsha & Wawa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "On My Way"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doh See Me (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Who Make de Bouyon? (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Love to Whine (feat. Wawa & Starsha)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Spray Dem (feat. Shelly & Wawa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stress Free (feat. Wawa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Introll"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Carnival Shagweh (feat. Shelly & Wawa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Unstoppable"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Feel de Riddim (Riddim) [FDR]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "On de House (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Coming Down (feat. Wawa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nou Ja Aller (feat. Beetle J)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Issa Blessing (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "What a Riddim (WAR)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Largé Douleh (feat. Shelly, Wawa & Beetle J)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Land of d Bouyon"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "10:1"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bachanally Fit"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mailbox (feat. Anwar & Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Easy Dancing"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ani Ba Yo Love (feat. Riddla) [Alternative Mix]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Intro"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Horning (feat. Janae Jackson)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Riddim Drop"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "We Coming"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Interlude"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sorry"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bouyon Lum-ination (feat. Beetle J)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Veni Ensam (feat. Beetle J)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Farm Beff (feat. Beetle J)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lights Up (feat. Anwar)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "How You Do It (feat. Beetle J & Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bouyon Lumi-Nation (feat. Beetle J)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Youngest & Baddest (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "THE Celebration Song"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Out da Group Chat"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Calendar Riddim 2025"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cry No More"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Angels in the Sky (feat. Signal Band)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Drunkish (It Wasn't Me) (feat. Signal Band)"
+      },
+]
     }
    }
   ],
@@ -1822,8 +3214,252 @@ PAGES = [
       {
        "@type": "MusicRecording",
        "name": "Me With People (feat. Shelly & Moxie Shervy)"
-      }
-     ]
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "THE Celebration Song"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Out da Group Chat"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Clock It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lapidé Yo"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Deserve This"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "De Other Man"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Calendar Riddim 2025"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lè i Bon"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stabilize Yourself"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cry No More"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I'll Be There For You"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rise Up (feat. ProducerDlo)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Angels in the Sky (feat. Signal Band)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Money Money"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Drunkish (It Wasn't Me) (feat. Signal Band)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Testing Positive"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Inside"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "De Gwo Pwel"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shelly Shelly"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Local"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Folded (Cover) [feat. Téhilah]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Band of De Year"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bayfront (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Burn Dem (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Most Wonderful Time of the Year (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Winning (feat. Trilla-G & Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Big Foot (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shoot & Miss (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Signal Dat Dere Wii (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "My Widdim (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "They Take You (feat. Shelly & Trilla-G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "RAGS (feat. Skinny Fabulous & Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "My Band (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Make Her Bawl (feat. Shelly, DJ Taffy & Trixx)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bye to de Old Me (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "FED UP (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Body Language (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Calendar Riddim 2024 (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "My Cake (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "In the Morning (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Math Not Mathing (feat. Shelly & Trilla-G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mic Check 12345678 (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Playground (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Something Nice (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Carnival Corner (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Painter (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Calendar Riddim (feat. Shelly & DJ Drixx)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Face No Case (feat. Shelly & Colton T)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Night Shift (feat. Shelly & Trilla-G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nosey Neighbour (feat. Zwady & Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Big Boy Story"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Man vs Rose (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "On My Way (Side Life) (feat. Shelly, Starsha & Wawa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Who Make de Bouyon? (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Spray Dem (feat. Shelly & Wawa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Carnival Shagweh (feat. Shelly & Wawa)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Drake Of Bouyon (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Happy Place (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Reverse (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pankatang (feat. Shelly)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "L.E.G.O (Life Eventually Goes On) (feat. Shelly)"
+      },
+]
     }
    }
   ],
@@ -2203,8 +3839,16 @@ PAGES = [
       {
        "@type": "MusicRecording",
        "name": "Still Standing!"
-      }
-     ]
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kijaw"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stupid"
+      },
+]
     }
    }
   ],
@@ -2374,7 +4018,231 @@ PAGES = [
        "@type": "MusicRecording",
        "name": "Expectations"
       },
-     ]
+      {
+       "@type": "MusicRecording",
+       "name": "Ice Cream Man Pt. II"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Love On Repeat"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rule You"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Naija"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "My Girl"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Black Sand Beach"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Move On"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tango"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Different Kinda Animal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ice Tea"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Migraine"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ole Skool Love"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Bad Vibes"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "All I Need Is Love"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Yearning"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Easy Tomorrow"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cut Off"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Runway"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shooting Star"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cheater's Confession"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fighter"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hard Wine"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Find a Way"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Memories"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Free Mind"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Strain of Success"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Just Like That"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Contact"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Old Timer"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Reject"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Na Change"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stronger"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Promise"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "24 Hours"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Glory"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Big Time"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Faze"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doin' It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doin Road"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "One Woman Man"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Black Beauty"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bomb in the City"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Too Soon"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lose It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Don't Leave"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "P***y Cat"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Icecream Man"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Karma"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "It's Summer"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "It Hurt Them (feat. Colton T)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Face No Case (feat. Shelly & Colton T)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Every Gyal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Big Iron (feat. Colton T)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Champion (feat. Colton T)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Koupé kann (feat. MC Chroné & Colton T) [Carnaval vol.2K19]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "You Are My World (feat. Colton T)"
+      },
+]
     }
    }
   ],
@@ -2539,7 +4407,19 @@ PAGES = [
        "@type": "MusicRecording",
        "name": "No Time 4 Stress"
       },
-     ]
+      {
+       "@type": "MusicRecording",
+       "name": "Have What They Have"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Stick It"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Boosolavi"
+      },
+]
     }
    }
   ],
@@ -2682,7 +4562,11 @@ PAGES = [
        "@type": "MusicRecording",
        "name": "Plap Plap !"
       },
-     ]
+      {
+       "@type": "MusicRecording",
+       "name": "TELL ME (feat. thaWizZarD)"
+      },
+]
     }
    }
   ],
@@ -3109,7 +4993,71 @@ PAGES = [
        "@type": "MusicRecording",
        "name": "Fell For You (feat. Quan)"
       },
-     ]
+      {
+       "@type": "MusicRecording",
+       "name": "Litleboy faché (Radio Edit)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Someone Else (feat. Quan & Trilla-G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "The Ocean (LITLEBOY bouyon Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tchoutchou"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Your Friend"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bel Kô (feat. Gyz Smallz)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MAKO"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Move On (feat. Shyanne)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mind Your Business"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kay Ka Fèt (feat. Quan)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bouyon Riddim 2021 \"Doudou\""
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Someone Like You"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Shake Your (feat. Real Reel & Quan)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MONEY"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nasty Freestyle Medley (feat. Gwada G, Trixx, Freddy & Nice)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Youpa"
+      },
+]
     }
    }
   ],
@@ -4280,7 +6228,683 @@ PAGES = [
        "@type": "MusicRecording",
        "name": "need dat"
       },
-     ]
+      {
+       "@type": "MusicRecording",
+       "name": "Twavay Bay"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "vinn vwè mwen"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lmk"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ping-ponG"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pop Out"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MA SHIT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bay Coco #WOY"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "designER"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Nevermind"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Can I have it ?"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "CHECHEY (elle sait faire ça) [feat. Magbeatz]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ROCKSTAR"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DOECHII (aight bet)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "FREE RACKS (shake it)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "16:16 à Nice"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "5 SUR 5"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Flaques"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "moneylonGGer"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "COUPÉ"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ne te pose pas trop de questions (Western Bouyon)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "IG (Bonus Track)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LIKE ME (REMIX)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BODYCOUNT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PRESSION"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SLIM THICK"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "NON-STOP"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SAINT-BARTH"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "JUST DIS TIME"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "#yeahyeahyeahyeah (Ti Tchô voice)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "What I Want"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SUMMER WALKER"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "RIP (yeah yeah)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "XOXO"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "NHL"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "7D"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Carri Richardson"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "1H54 (interlude)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Wintertime Anthem"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MTN"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SMS"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "JUSTIN (feat. Thirty4hoes)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "AMEN"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Soukré Sa #Sitdown (feat. 102 Gang)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Surnaturel"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "2Hard (feat. Implaccable)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Insomnie"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bonjour Bullets (feat. Zelly Ocho)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Zoom"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dunk"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hommage Freestyle"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ipanema"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Backstage"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lit"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Flotte Freestyle"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "AFFAIRE DE TRACS (feat. Implaccable)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "KORVETTE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "UP! (feat. Bitsu)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MINERVE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "POT!ON (feat. zaddyllusion)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "HILL$ (feat. Azura)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "KONTROL"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "4REAL"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "EGAR (yea han!)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ON EST ICI"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "CHRIS ROCK FREESTYLE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "RUSH"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Uniswap"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Slide"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hors de moi"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Kosovo"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "XRP Wallet"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tomb Raider (Draft Day 3) (feat. Santa La Prince)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tesla Model S (Draft Day 2)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Banger Mane (feat. Prodbyswoosh)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "RIP Kobe (feat. Prodbyswoosh)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "RIP Nipsey (feat. Prodbyswoosh)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Extendo (feat. Prodbyswoosh & Twizzy Cinco)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Finesse (feat. Floski Finesse)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Racks (feat. Floski Finesse)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Back 2 Back (feat. Floski Finesse)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "WEAK"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Palm Angels"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Fake Friends"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Hop Pop (feat. Floski Finesse)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Noche (feat. Twizzy Cinco & Rdub)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sauvage (feat. Twizzy Cinco)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Smoke (feat. Massstabber)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Zion"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LIKE THAT (feat. Ricky Bishop & Kaix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Van Damme (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "GO (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "S3XY (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Séisme (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "belElou (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "FUFI"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tournevis (feat. Slimka, Ricky Bishop & Lonebrain)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "FRETTE (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TRACSTYLE Benibla"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "#TWIN"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Oh Wow"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "AURA (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Koko Santi (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "C'est mieux"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "main charachter syndrome (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dolla"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "C'est moi"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Même île"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Chain"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MVP's (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Paname la night (feat. Ricky Bishop & Mandyspie)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rain On Meh"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Owo (feat. Ricky Bishop & Miles Freedom)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Digital (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Scanner Univers (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Horde (feat. Ricky Bishop & PATIENT 67)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PACO (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Présidentiel"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "HOLD ON (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "#sexydays3"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "COMAN (feat. Implaccable & Ricky bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Colonel Reyel (feat. Kaix & Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "koming 4 yuh (feat. Ricky Bishop) [Nelt Remix]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "F.A.B (feat. RICKY BISHOP)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "RUGRATS (feat. Lonebrain & Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Riverside"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cup"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bossin (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PAS CE SOIR (feat. RICKY BISHOP)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BIRKIN (MNGA) (feat. RICKY BISHOP)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dunes (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "(Bonus Track) Real friends (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ma vie n’a même plus de sens (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Vi(e)xen"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "KIM POSSIBLE (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "conversate (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Come On (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Swerve"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Run up (feat. Ricky bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "exploration esthétique (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "HELLCAT MUSIC (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BESTFRIEND (feat. Ricky Bishop & 102 Gang)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BABY (feat. RICKY BISHOP)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Distanciel (feat. Ricky Bishop & Tbs Rappin')"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Première classe (feat. 63OG & Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Too Late (feat. Ricky Bishop & Richy K)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Belaire (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "STRATEGIE (feat. RICKY BISHOP)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Undërstand (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BROLY (feat. Ricky Bishop) [Sped Up]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "RR (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tour du Monde (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Thirty racks (feat. Ricky Bishop) [home sweet home]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BÖRE STORY (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Yesir (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "So Vladdy Shit (superbass) (feat. 102 Gang, Richy K & Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "South Lords no Hook"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Zaza (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Guap a lot (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Busy"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Chap Chap Chap (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Loup Garou (feat. Ricky Bishop) [Remix]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "TESLA (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "XXL Freshmen"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Uranus (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Vybe (Deep House Remix)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dex (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ce Que Je Vis (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Bag (feat. Ricky Bishop)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ON VA LES TOUZER"
+      },
+]
     }
    }
   ],

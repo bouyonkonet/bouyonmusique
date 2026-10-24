@@ -138,7 +138,20 @@ FR = {
     "Commencez par « Fix Up (Ya Ya Ya) » de G’z Up, dont la version solo longue, sortie le samedi 10 octobre 2026 avec un couplet ajouté, comptait environ 15 000 vues sur YouTube selon BuzzDA, puis écoutez le « Up Next Cypher » en suivant les claviers. La <a href=\"/playlist-bouyon.html\">Bouyon Road Mix</a> de Bouyon Shattaz réunit les nouveautés de cette scène dominicaine.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/tha-wizzard.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/tha-wizzard.html#artist", "name": "ThaWizZarD", "description": "Producteur et claviériste de la Dominique, nom complet Cecil Joseph Jr. selon BuzzDA. Claviers, coproduction, mixage et mastering sur le Up Next Cypher de Trilla-G et sur Fix Up de G’z Up.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Fix Up (Ya Ya Ya)'}, {"@type": "MusicRecording", "name": 'IDGAF (Bouyon 2027)'}, {"@type": "MusicRecording", "name": 'Up Next Cypher, Vol. 1'}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/tha-wizzard.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/tha-wizzard.html#artist", "name": "ThaWizZarD", "description": "Producteur et claviériste de la Dominique, nom complet Cecil Joseph Jr. selon BuzzDA. Claviers, coproduction, mixage et mastering sur le Up Next Cypher de Trilla-G et sur Fix Up de G’z Up.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Fix Up (Ya Ya Ya)'}, {"@type": "MusicRecording", "name": 'IDGAF (Bouyon 2027)'}, {"@type": "MusicRecording", "name": 'Up Next Cypher, Vol. 1'},
+      {
+       "@type": "MusicRecording",
+       "name": "Juduss"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Thot Not Hot (Have Some Faith) (feat. Tha WizZard)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rambo (feat. Ras D & tha WizZarD)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -270,6 +283,19 @@ EN = {
     "Start with G’z Up’s “Fix Up (Ya Ya Ya)”, whose extended solo version, released on Saturday, October 10, 2026 with an added verse, had about 15,000 YouTube views according to BuzzDA, then play the “Up Next Cypher” following the keyboards. The Bouyon Shattaz <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix</a> gathers new releases from this Dominican scene.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/tha-wizzard.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/tha-wizzard.html#artist", "name": "ThaWizZarD", "description": "Producer and keyboardist from Dominica, full name Cecil Joseph Jr. according to BuzzDA. Keys, co-production, mixing and mastering on the Trilla-G Up Next Cypher and on G’z Up Fix Up.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Fix Up (Ya Ya Ya)'}, {"@type": "MusicRecording", "name": 'IDGAF (Bouyon 2027)'}, {"@type": "MusicRecording", "name": 'Up Next Cypher, Vol. 1'}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/tha-wizzard.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/tha-wizzard.html#artist", "name": "ThaWizZarD", "description": "Producer and keyboardist from Dominica, full name Cecil Joseph Jr. according to BuzzDA. Keys, co-production, mixing and mastering on the Trilla-G Up Next Cypher and on G’z Up Fix Up.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'Fix Up (Ya Ya Ya)'}, {"@type": "MusicRecording", "name": 'IDGAF (Bouyon 2027)'}, {"@type": "MusicRecording", "name": 'Up Next Cypher, Vol. 1'},
+      {
+       "@type": "MusicRecording",
+       "name": "Juduss"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Thot Not Hot (Have Some Faith) (feat. Tha WizZard)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rambo (feat. Ras D & tha WizZarD)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

@@ -114,7 +114,28 @@ FR = {
     "Ses trois titres sont sur les plateformes, sous le nom Wizito et le label YMW Tolly Boys, et « Love Me » a circulé dans le mix Get Familiar consacré aux sorties locales du carnaval de St Maarten 2024. Ils sont aussi à chercher dans notre <a href=\"/playlist-bouyon.html\">playlist bouyon</a>, la Road Mix que Bouyon Shattaz envoie en DM quand on commente ROAD MIX sur Instagram.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/bernard-gumbs-wizito.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/bernard-gumbs-wizito.html#artist", "name": "Bernard Gumbs (Wizito)", "alternateName": "Wizito", "description": "Artiste bouyon émergent enregistrant sous le nom de Wizito. Crédité comme auteur, sous les formes Bernard Gumbs et Bernard Robert Gumbs, sur Payé, Love Me et TunTun, sortis chez YMW Tolly Boys entre 2023 et 2025. Love Me a été retenu dans un mix de sorties locales du carnaval de St Maarten 2024.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Payé"}, {"@type": "MusicRecording", "name": "Love Me"}, {"@type": "MusicRecording", "name": "TunTun"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/bernard-gumbs-wizito.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/bernard-gumbs-wizito.html#artist", "name": "Bernard Gumbs (Wizito)", "alternateName": "Wizito", "description": "Artiste bouyon émergent enregistrant sous le nom de Wizito. Crédité comme auteur, sous les formes Bernard Gumbs et Bernard Robert Gumbs, sur Payé, Love Me et TunTun, sortis chez YMW Tolly Boys entre 2023 et 2025. Love Me a été retenu dans un mix de sorties locales du carnaval de St Maarten 2024.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Payé"}, {"@type": "MusicRecording", "name": "Love Me"}, {"@type": "MusicRecording", "name": "TunTun"},
+      {
+       "@type": "MusicRecording",
+       "name": "Deli"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BEND (Go Bestfriend)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Drinking (feat. Youry Ymw)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Longtemps"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tululu (feat. Wizito)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -226,6 +247,27 @@ EN = {
     "His three tracks are on the platforms, under the name Wizito and the YMW Tolly Boys label, and “Love Me” travelled through the Get Familiar mix devoted to local releases for St Maarten Carnival 2024. They can also be found in our <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a>, the Road Mix that Bouyon Shattaz sends by DM when you comment ROAD MIX on Instagram.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/bernard-gumbs-wizito.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/bernard-gumbs-wizito.html#artist", "name": "Bernard Gumbs (Wizito)", "alternateName": "Wizito", "description": "Emerging bouyon artist recording as Wizito. Credited as songwriter, under the forms Bernard Gumbs and Bernard Robert Gumbs, on Payé, Love Me and TunTun, released by YMW Tolly Boys between 2023 and 2025. Love Me was kept in a mix of local releases for St Maarten Carnival 2024.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Payé"}, {"@type": "MusicRecording", "name": "Love Me"}, {"@type": "MusicRecording", "name": "TunTun"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/bernard-gumbs-wizito.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/bernard-gumbs-wizito.html#artist", "name": "Bernard Gumbs (Wizito)", "alternateName": "Wizito", "description": "Emerging bouyon artist recording as Wizito. Credited as songwriter, under the forms Bernard Gumbs and Bernard Robert Gumbs, on Payé, Love Me and TunTun, released by YMW Tolly Boys between 2023 and 2025. Love Me was kept in a mix of local releases for St Maarten Carnival 2024.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Payé"}, {"@type": "MusicRecording", "name": "Love Me"}, {"@type": "MusicRecording", "name": "TunTun"},
+      {
+       "@type": "MusicRecording",
+       "name": "Deli"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BEND (Go Bestfriend)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Drinking (feat. Youry Ymw)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Longtemps"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Tululu (feat. Wizito)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

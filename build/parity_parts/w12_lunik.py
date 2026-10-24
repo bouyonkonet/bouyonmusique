@@ -107,7 +107,16 @@ FR = {
     "Ses titres le relient à la Team Bwè Tou Sa et M.D.S sur CHOKOLA, à Dj Dirtee sur Tik tak, à TiiTii NBA sur Jumping Jack, à <a href=\"/billy-bybf.html\">Billy Bybf</a> sur Tu veux, à FLW et See V sur HOT #Oups 5, et à LESTEF KJF BOYZ sur « KJF 2 ». Presque tous ces noms appartiennent au même cercle guadeloupéen.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/lunik.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/lunik.html#artist", "name": "Lunik", "alternateName": "Lünik", "description": "Voix bouyon guadeloupéenne liée à la Team Bwè Tou Sa et à GAMMALAB, créditée sous le nom de Ludmael FLOWER sur Chichi, CHOKOLA et Laisser tomber.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Chichi"}, {"@type": "MusicRecording", "name": "CHOKOLA"}, {"@type": "MusicRecording", "name": "Laisser tomber"}, {"@type": "MusicRecording", "name": "Jumping Jack"}, {"@type": "MusicRecording", "name": "Tu veux"}, {"@type": "MusicRecording", "name": "Tik tak"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/lunik.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/lunik.html#artist", "name": "Lunik", "alternateName": "Lünik", "description": "Voix bouyon guadeloupéenne liée à la Team Bwè Tou Sa et à GAMMALAB, créditée sous le nom de Ludmael FLOWER sur Chichi, CHOKOLA et Laisser tomber.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Chichi"}, {"@type": "MusicRecording", "name": "CHOKOLA"}, {"@type": "MusicRecording", "name": "Laisser tomber"}, {"@type": "MusicRecording", "name": "Jumping Jack"}, {"@type": "MusicRecording", "name": "Tu veux"}, {"@type": "MusicRecording", "name": "Tik tak"},
+      {
+       "@type": "MusicRecording",
+       "name": "Nou an chyen"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "KJF 2"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -209,6 +218,15 @@ EN = {
     "His records connect him to Team Bwè Tou Sa and M.D.S on CHOKOLA, Dj Dirtee on Tik tak, TiiTii NBA on Jumping Jack, <a href=\"/en/billy-bybf.html\">Billy Bybf</a> on Tu veux, FLW and See V on HOT #Oups 5, and LESTEF KJF BOYZ on “KJF 2”. Almost all of these names belong to the same Guadeloupe circle.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/lunik.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/lunik.html#artist", "name": "Lunik", "alternateName": "Lünik", "description": "Guadeloupe bouyon voice linked to Team Bwe Tou Sa and GAMMALAB, credited under the name Ludmael FLOWER on Chichi, CHOKOLA and Laisser tomber.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Chichi"}, {"@type": "MusicRecording", "name": "CHOKOLA"}, {"@type": "MusicRecording", "name": "Laisser tomber"}, {"@type": "MusicRecording", "name": "Jumping Jack"}, {"@type": "MusicRecording", "name": "Tu veux"}, {"@type": "MusicRecording", "name": "Tik tak"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/lunik.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/lunik.html#artist", "name": "Lunik", "alternateName": "Lünik", "description": "Guadeloupe bouyon voice linked to Team Bwe Tou Sa and GAMMALAB, credited under the name Ludmael FLOWER on Chichi, CHOKOLA and Laisser tomber.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Chichi"}, {"@type": "MusicRecording", "name": "CHOKOLA"}, {"@type": "MusicRecording", "name": "Laisser tomber"}, {"@type": "MusicRecording", "name": "Jumping Jack"}, {"@type": "MusicRecording", "name": "Tu veux"}, {"@type": "MusicRecording", "name": "Tik tak"},
+      {
+       "@type": "MusicRecording",
+       "name": "Nou an chyen"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "KJF 2"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

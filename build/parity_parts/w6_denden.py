@@ -131,7 +131,24 @@ FR = {
     "Sur Deezer, « Padtal » figure dans la playlist Bouyon bass, avec ses crédits complets, et sa version Speed Up circule sur les plateformes. Le remix bouyon de Dj Anilson passe dans les sets de DJs. Pour entendre le voisinage du titre, la <a href=\"/playlist-bouyon.html\">playlist bouyon</a> de Bouyon Shattaz rassemble les nouveautés du genre, de la Dominique aux Antilles et à Paris.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/denden.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/denden.html#artist", "name": "Denden", "description": "Chanteuse française née Eden Yaba à Villepinte en 2005. Premier single Ils se demandent (2024) certifié or en France et en Belgique ; son titre Padtal (2025), composé par Davy One, est classé dans la playlist Bouyon bass de Deezer.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Ils se demandent"}, {"@type": "MusicRecording", "name": "Faut doser"}, {"@type": "MusicRecording", "name": "Padtal"}, {"@type": "MusicRecording", "name": "Validé"}, {"@type": "MusicRecording", "name": "Clap Clap"}, {"@type": "MusicRecording", "name": "Ils se demandent (Slowed)"}, {"@type": "MusicRecording", "name": "Padtal - Speed Up"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/denden.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/denden.html#artist", "name": "Denden", "description": "Chanteuse française née Eden Yaba à Villepinte en 2005. Premier single Ils se demandent (2024) certifié or en France et en Belgique ; son titre Padtal (2025), composé par Davy One, est classé dans la playlist Bouyon bass de Deezer.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Ils se demandent"}, {"@type": "MusicRecording", "name": "Faut doser"}, {"@type": "MusicRecording", "name": "Padtal"}, {"@type": "MusicRecording", "name": "Validé"}, {"@type": "MusicRecording", "name": "Clap Clap"}, {"@type": "MusicRecording", "name": "Ils se demandent (Slowed)"}, {"@type": "MusicRecording", "name": "Padtal - Speed Up"},
+      {
+       "@type": "MusicRecording",
+       "name": "Comme moi"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Den 2X"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Timinik"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Padtal (Slowed)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -255,6 +272,23 @@ EN = {
     "On Deezer, “Padtal” sits in the Bouyon bass playlist with its full credits, and its Speed Up version circulates on the platforms. Dj Anilson’s bouyon remix plays in DJ sets. To hear the song’s neighbourhood, the Bouyon Shattaz <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> gathers the genre’s new releases, from Dominica to the Antilles and Paris.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/denden.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/denden.html#artist", "name": "Denden", "description": "French singer born Eden Yaba in Villepinte in 2005. First single Ils se demandent (2024) certified gold in France and Belgium; her track Padtal (2025), composed by Davy One, is filed in Deezer Bouyon bass playlist.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Ils se demandent"}, {"@type": "MusicRecording", "name": "Faut doser"}, {"@type": "MusicRecording", "name": "Padtal"}, {"@type": "MusicRecording", "name": "Validé"}, {"@type": "MusicRecording", "name": "Clap Clap"}, {"@type": "MusicRecording", "name": "Ils se demandent (Slowed)"}, {"@type": "MusicRecording", "name": "Padtal - Speed Up"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/denden.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/denden.html#artist", "name": "Denden", "description": "French singer born Eden Yaba in Villepinte in 2005. First single Ils se demandent (2024) certified gold in France and Belgium; her track Padtal (2025), composed by Davy One, is filed in Deezer Bouyon bass playlist.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Ils se demandent"}, {"@type": "MusicRecording", "name": "Faut doser"}, {"@type": "MusicRecording", "name": "Padtal"}, {"@type": "MusicRecording", "name": "Validé"}, {"@type": "MusicRecording", "name": "Clap Clap"}, {"@type": "MusicRecording", "name": "Ils se demandent (Slowed)"}, {"@type": "MusicRecording", "name": "Padtal - Speed Up"},
+      {
+       "@type": "MusicRecording",
+       "name": "Comme moi"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Den 2X"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Timinik"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Padtal (Slowed)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

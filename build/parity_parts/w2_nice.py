@@ -141,7 +141,12 @@ FR = {
     "Nice a enregistré avec Signal Band sur deux titres documentés : le remix de « Bye to de Old Me », avec Shelly et Pudaz, et « Stronger Remix », de Signal Band avec Nice, relevé dans la tracklist du mix DJWillyWonka Factory. Au WCMF 2026, Nice joue la même Nuit 3 que Shelly and The Signal Band, ses partenaires de studio, selon les guides publiés.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/nice.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/nice.html#artist", "name": "Nice", "description": "Artiste bouyon de la Dominique. Interprète du remix de Bye to de Old Me avec Shelly et Pudaz, de Without You et de Situationship avec DJ Taffy. Programmé à la Night 3 du WCMF 2026 selon les guides publiés.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bye to de Old Me"}, {"@type": "MusicRecording", "name": "Without You"}, {"@type": "MusicRecording", "name": "Situationship"}, {"@type": "MusicRecording", "name": "Stronger Remix"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/nice.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/nice.html#artist", "name": "Nice", "description": "Artiste bouyon de la Dominique. Interprète du remix de Bye to de Old Me avec Shelly et Pudaz, de Without You et de Situationship avec DJ Taffy. Programmé à la Night 3 du WCMF 2026 selon les guides publiés.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bye to de Old Me"}, {"@type": "MusicRecording", "name": "Without You"}, {"@type": "MusicRecording", "name": "Situationship"}, {"@type": "MusicRecording", "name": "Stronger Remix"},
+      {
+       "@type": "MusicRecording",
+       "name": "Something Wrong (feat. Nice767)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -274,6 +279,11 @@ EN = {
     "Nice has recorded with Signal Band on two documented records: the “Bye to de Old Me” remix, with Shelly and Pudaz, and “Stronger Remix”, by Signal Band featuring Nice, found in the DJWillyWonka Factory mix tracklist. At WCMF 2026, Nice plays the same Night 3 as Shelly and The Signal Band, his studio partners, according to the published guides.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/nice.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/nice.html#artist", "name": "Nice", "description": "Bouyon artist from Dominica. Performer on the Bye to de Old Me remix with Shelly and Pudaz, on Without You and on Situationship with DJ Taffy. Billed on WCMF 2026 Night 3 according to the published guides.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bye to de Old Me"}, {"@type": "MusicRecording", "name": "Without You"}, {"@type": "MusicRecording", "name": "Situationship"}, {"@type": "MusicRecording", "name": "Stronger Remix"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/nice.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/nice.html#artist", "name": "Nice", "description": "Bouyon artist from Dominica. Performer on the Bye to de Old Me remix with Shelly and Pudaz, on Without You and on Situationship with DJ Taffy. Billed on WCMF 2026 Night 3 according to the published guides.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bye to de Old Me"}, {"@type": "MusicRecording", "name": "Without You"}, {"@type": "MusicRecording", "name": "Situationship"}, {"@type": "MusicRecording", "name": "Stronger Remix"},
+      {
+       "@type": "MusicRecording",
+       "name": "Something Wrong (feat. Nice767)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

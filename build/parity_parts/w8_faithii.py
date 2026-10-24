@@ -123,7 +123,36 @@ FR = {
     "Commencez par ses trois titres vérifiés : « SUPERSTAR », « No Money No Honey » puis « I Know Y », qui tournent dans les mixes bouyon des DJ. Pour la génération qui l’entoure, la <a href=\"/playlist-bouyon.html\">playlist Bouyon Road Mix</a> de Bouyon Shattaz réunit les nouveautés de la Dominique, de la Guadeloupe et de la Martinique, sur Spotify et YouTube, et elle s’obtient aussi en commentant ROAD MIX sur Instagram.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/faithii.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/faithii.html#artist", "name": "Faithii", "description": "Chanteuse bouyon de la Dominique, dite Bouyon Barbie. Singles Superstar et No Money No Honey en 2024 sur Bouyon Barbie Music, featuring sur I Know Y de Reo, artiste féminine de l’année aux Dominica Music Awards 2025.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "I Know Y"}, {"@type": "MusicRecording", "name": "SUPERSTAR"}, {"@type": "MusicRecording", "name": "No Money No Honey"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/faithii.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/faithii.html#artist", "name": "Faithii", "description": "Chanteuse bouyon de la Dominique, dite Bouyon Barbie. Singles Superstar et No Money No Honey en 2024 sur Bouyon Barbie Music, featuring sur I Know Y de Reo, artiste féminine de l’année aux Dominica Music Awards 2025.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "I Know Y"}, {"@type": "MusicRecording", "name": "SUPERSTAR"}, {"@type": "MusicRecording", "name": "No Money No Honey"},
+      {
+       "@type": "MusicRecording",
+       "name": "Clock Dat Tea"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Trippin'"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Come On Baby (feat. Trilla-G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Like It Like That"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Feelings (feat. Faithii)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I know y (kenny g) (feat. Faithii)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Have What They Have"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -241,6 +270,35 @@ EN = {
     "Start with her three verified records: “SUPERSTAR”, “No Money No Honey” and then “I Know Y”, which run in bouyon DJ mixes. For the generation around her, the <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix playlist</a> by Bouyon Shattaz gathers new releases from Dominica, Guadeloupe and Martinique on Spotify and YouTube, and you can also get it by commenting ROAD MIX on Instagram.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/faithii.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/faithii.html#artist", "name": "Faithii", "description": "Bouyon singer from Dominica, known as Bouyon Barbie. Singles Superstar and No Money No Honey in 2024 on Bouyon Barbie Music, featured on Reo I Know Y, Female Artist of the Year at the Dominica Music Awards 2025.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "I Know Y"}, {"@type": "MusicRecording", "name": "SUPERSTAR"}, {"@type": "MusicRecording", "name": "No Money No Honey"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/faithii.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/faithii.html#artist", "name": "Faithii", "description": "Bouyon singer from Dominica, known as Bouyon Barbie. Singles Superstar and No Money No Honey in 2024 on Bouyon Barbie Music, featured on Reo I Know Y, Female Artist of the Year at the Dominica Music Awards 2025.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "I Know Y"}, {"@type": "MusicRecording", "name": "SUPERSTAR"}, {"@type": "MusicRecording", "name": "No Money No Honey"},
+      {
+       "@type": "MusicRecording",
+       "name": "Clock Dat Tea"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Trippin'"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Come On Baby (feat. Trilla-G)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I Like It Like That"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "No Feelings (feat. Faithii)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I know y (kenny g) (feat. Faithii)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Have What They Have"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

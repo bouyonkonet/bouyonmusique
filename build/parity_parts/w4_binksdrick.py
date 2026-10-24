@@ -126,7 +126,28 @@ FR = {
     "Le bouyon gwada de la génération de 1T1 : une branche guadeloupéenne du genre né en Dominique, plus électronique, chantée en créole guadeloupéen, faite de titres courts et rapides pensés pour les fêtes et les réseaux. Elle est produite par des compositeurs de studio plutôt que par des groupes live, et avance par titres collectifs où les mêmes voix se recroisent, comme sur « Leave Me Alone ».",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/binksdrick.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/binksdrick.html#artist", "name": "Binksdrick", "description": "Artiste bouyon de Guadeloupe connu par un crédit vérifié : featuring sur Leave Me Alone de 1T1 (6 septembre 2024) avec Dinho, Lejuh et Theomaa. Aucun titre solo ni biographie publiés dans les sources consultées.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Leave Me Alone"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/binksdrick.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/binksdrick.html#artist", "name": "Binksdrick", "description": "Artiste bouyon de Guadeloupe connu par un crédit vérifié : featuring sur Leave Me Alone de 1T1 (6 septembre 2024) avec Dinho, Lejuh et Theomaa. Aucun titre solo ni biographie publiés dans les sources consultées.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Leave Me Alone"},
+      {
+       "@type": "MusicRecording",
+       "name": "QUE PASA (feat. Binksdrick)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "1er Feu (feat. Binksdrick, Miimii, Qwann & Dinho)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BS"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Flex"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pikéy"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -248,6 +269,27 @@ EN = {
     "The bouyon gwada of the 1T1 generation: a Guadeloupe branch of the genre born in Dominica, more electronic, sung in Guadeloupean Creole, made of short, fast tracks built for parties and social media. It is produced by studio composers rather than live bands, and moves forward through collective records where the same voices cross paths, as on “Leave Me Alone”.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/binksdrick.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/binksdrick.html#artist", "name": "Binksdrick", "description": "Bouyon artist from Guadeloupe known through one verified credit: a feature on Leave Me Alone by 1T1 (6 September 2024) with Dinho, Lejuh and Theomaa. No solo record or biography published in the sources consulted.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Leave Me Alone"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/binksdrick.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/binksdrick.html#artist", "name": "Binksdrick", "description": "Bouyon artist from Guadeloupe known through one verified credit: a feature on Leave Me Alone by 1T1 (6 September 2024) with Dinho, Lejuh and Theomaa. No solo record or biography published in the sources consulted.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Leave Me Alone"},
+      {
+       "@type": "MusicRecording",
+       "name": "QUE PASA (feat. Binksdrick)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "1er Feu (feat. Binksdrick, Miimii, Qwann & Dinho)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BS"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Flex"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Pikéy"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

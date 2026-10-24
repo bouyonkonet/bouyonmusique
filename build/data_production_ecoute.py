@@ -145,7 +145,7 @@ PAGES = [
     "En WAV, le format des DJs et des radios. <a href=\"/smokiller.html\">Smokiller</a> propose des téléchargements gratuits sur smokiller.com, dont son remix de Nothing Into Something de Coi Leray et son remix Bouyon Shattaz de Vulnerability de Shenseea en WAV, et les packs de rotation Bouyon Shattaz partent vers les stations de la Caraïbe. Pour un kit, la leçon est la même : des fichiers propres, avec le tempo, la source et le crédit dans le nom.",
   )
 ],
-"date_modified": "2026-10-20",
+"date_modified": "2026-10-21",
 "extra_graph": [
   {"@type": "Article", "headline": "Bouyon Drum Kit : les sons pour produire du bouyon", "author": {"@id": "https://bouyonmusique.com/#smokiller"}, "publisher": {"@id": "https://bouyonmusique.com/#org"}, "inLanguage": "fr"}
 ],
@@ -340,7 +340,7 @@ PAGES = [
     ],
   )
 ],
-"date_modified": "2026-10-20",
+"date_modified": "2026-10-21",
 "faq": [
   (
     "Par quoi commencer un beat bouyon ?",

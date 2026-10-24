@@ -113,7 +113,44 @@ FR = {
     "Avec un chiffre : le 6 se place au milieu du nom. Les crédits de Team Bwè Tou Sa écrivent MA6MO en capitales, tandis que le single « LÉSÉ NOU PASÉ » de TiiTii NBA le crédite sous la forme Ma6mo. Les deux graphies désignent le même invité dans les catalogues, et ce profil retient MA6MO comme nom principal.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/ma6mo.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/ma6mo.html#artist", "name": "MA6MO", "description": "Artiste du circuit bouyon de Guadeloupe connu uniquement par ses crédits publics : Sexuelle Attirance avec Ti locksée (2022), Bibik avec Team Bwè Tou Sa et FLW, LÉSÉ NOU PASÉ avec TiiTii NBA et Diixly (2026). Aucune biographie officielle vérifiée à ce jour.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Sexuelle Attirance"}, {"@type": "MusicRecording", "name": "Bibik"}, {"@type": "MusicRecording", "name": "LÉSÉ NOU PASÉ"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/ma6mo.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/ma6mo.html#artist", "name": "MA6MO", "description": "Artiste du circuit bouyon de Guadeloupe connu uniquement par ses crédits publics : Sexuelle Attirance avec Ti locksée (2022), Bibik avec Team Bwè Tou Sa et FLW, LÉSÉ NOU PASÉ avec TiiTii NBA et Diixly (2026). Aucune biographie officielle vérifiée à ce jour.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Sexuelle Attirance"}, {"@type": "MusicRecording", "name": "Bibik"}, {"@type": "MusicRecording", "name": "LÉSÉ NOU PASÉ"},
+      {
+       "@type": "MusicRecording",
+       "name": "FREESTYLE CARNAVAL"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "IN THIS P#SSY"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "JWOUI VIT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cochon"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dousè"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ANVI KOKÉ"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sa ka ban mwen y"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mangé sa"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sit down #Oups 2"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -220,6 +257,43 @@ EN = {
     "With a number: the 6 stands in the middle of the name. The Team Bwè Tou Sa credits write MA6MO in capitals, while TiiTii NBA's single “LÉSÉ NOU PASÉ” credits him as Ma6mo. Both spellings point to the same guest in the catalogues, and this profile keeps MA6MO as the main name.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/ma6mo.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/ma6mo.html#artist", "name": "MA6MO", "description": "Artist of the Guadeloupe bouyon circuit known only through his public credits: Sexuelle Attirance with Ti locksée (2022), Bibik with Team Bwè Tou Sa and FLW, LÉSÉ NOU PASÉ with TiiTii NBA and Diixly (2026). No verified official biography to date.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Sexuelle Attirance"}, {"@type": "MusicRecording", "name": "Bibik"}, {"@type": "MusicRecording", "name": "LÉSÉ NOU PASÉ"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/ma6mo.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/ma6mo.html#artist", "name": "MA6MO", "description": "Artist of the Guadeloupe bouyon circuit known only through his public credits: Sexuelle Attirance with Ti locksée (2022), Bibik with Team Bwè Tou Sa and FLW, LÉSÉ NOU PASÉ with TiiTii NBA and Diixly (2026). No verified official biography to date.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Sexuelle Attirance"}, {"@type": "MusicRecording", "name": "Bibik"}, {"@type": "MusicRecording", "name": "LÉSÉ NOU PASÉ"},
+      {
+       "@type": "MusicRecording",
+       "name": "FREESTYLE CARNAVAL"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "IN THIS P#SSY"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "JWOUI VIT"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Cochon"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Dousè"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ANVI KOKÉ"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sa ka ban mwen y"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mangé sa"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sit down #Oups 2"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

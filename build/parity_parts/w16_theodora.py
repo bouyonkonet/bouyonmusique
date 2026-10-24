@@ -130,7 +130,212 @@ FR = {
     "Theodora est sur toutes les plateformes : commencez par « Kongolese sous BBL », puis la mixtape « Bad Boy Lovestory » et sa réédition « Mega BBL ». Pour entendre le bouyon à sa source, de la Dominique à la Guadeloupe et à la Martinique, la <a href=\"/playlist-bouyon.html\">playlist Bouyon Road Mix</a> de Bouyon Shattaz réunit les nouveautés des îles, le bouyon soca et les classiques du carnaval.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/theodora.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/theodora.html#artist", "name": "Theodora", "description": "Chanteuse et rappeuse franco-congolaise née en 2003 à Lucerne, installée à Saint-Denis. Son single bouyon Kongolese sous BBL, sorti le 27 septembre 2024, est le premier single bouyon certifié or puis diamant en France par une artiste non antillaise.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Kongolese sous BBL"}, {"@type": "MusicRecording", "name": "FNG"}, {"@type": "MusicRecording", "name": "Fashion Designa"}, {"@type": "MusicRecording", "name": "Ils me rient tous au nez"}, {"@type": "MusicRecording", "name": "PAY!"}, {"@type": "MusicRecording", "name": "Do U Wanna?"}, {"@type": "MusicRecording", "name": "Zou Bizou"}, {"@type": "MusicRecording", "name": "Mon bébé"}, {"@type": "MusicRecording", "name": "Masoko Na Mabele"}, {"@type": "MusicRecording", "name": "243 km/h"}, {"@type": "MusicRecording", "name": "Melodrama"}, {"@type": "MusicRecording", "name": "Le Paradis se trouve dans le 93"}, {"@type": "MusicRecording", "name": "Besoin d'aide"}, {"@type": "MusicRecording", "name": "Boss Lady"}, {"@type": "MusicRecording", "name": "La thune"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/theodora.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/theodora.html#artist", "name": "Theodora", "description": "Chanteuse et rappeuse franco-congolaise née en 2003 à Lucerne, installée à Saint-Denis. Son single bouyon Kongolese sous BBL, sorti le 27 septembre 2024, est le premier single bouyon certifié or puis diamant en France par une artiste non antillaise.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Kongolese sous BBL"}, {"@type": "MusicRecording", "name": "FNG"}, {"@type": "MusicRecording", "name": "Fashion Designa"}, {"@type": "MusicRecording", "name": "Ils me rient tous au nez"}, {"@type": "MusicRecording", "name": "PAY!"}, {"@type": "MusicRecording", "name": "Do U Wanna?"}, {"@type": "MusicRecording", "name": "Zou Bizou"}, {"@type": "MusicRecording", "name": "Mon bébé"}, {"@type": "MusicRecording", "name": "Masoko Na Mabele"}, {"@type": "MusicRecording", "name": "243 km/h"}, {"@type": "MusicRecording", "name": "Melodrama"}, {"@type": "MusicRecording", "name": "Le Paradis se trouve dans le 93"}, {"@type": "MusicRecording", "name": "Besoin d'aide"}, {"@type": "MusicRecording", "name": "Boss Lady"}, {"@type": "MusicRecording", "name": "La thune"},
+      {
+       "@type": "MusicRecording",
+       "name": "Be my Valentine?"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MR. DJ"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Miss Kitoko"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Des mythos"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mademoiselle (feat. ODUMODUBLVCK, Shallipopi, Theodora, Zeina)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ZOU BISOU"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BOSS BABIES"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LES OISEAUX RARES"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BAD BOY LACKED"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "GO!"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I WANNA"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PAPA <3"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "UN MEILLEUR NOUS"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BAD BOY LOVESTORY"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BIG BOSS LADY"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doutes en boucle"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SORRY SORRY SO"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Entracte: Histoire d’amour, Commérages et Chardonnay"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "#IL"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "JTM 1 PEU"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MON CASQUE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Blues d’hiver"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "…Y’a deux fois plus d’oRAGE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Love me lagadou (<3?)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "J’ai retrouvé le sourire"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lolirock"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DANS LE PARADIS ARTIFICIEL"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ici le temps est trop morose"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "APRÈS L’Orage.."
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "C TROP LA LOOSE </3"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Le Paradis se trouve dans le 93 (LPSTD93)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Habiba"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Prendre le large"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Neptune"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "C'est Normal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Koby'z piano"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rockstar"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Respect"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "La Nocturne"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "JETSKI (FRIKI)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sex Model"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SPA"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Coller la petite (feat. Theodora)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "How Greedy (feat. Theodora)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Instructions"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Paparazzi"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DIS-MOI JE T'AIME"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PETITE ABEBI"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "J'ai ce petit petit truc"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Daddy chocolat"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ms. Paper (feat. Theodora)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
 
@@ -258,6 +463,211 @@ EN = {
     "Theodora is on every platform: start with “Kongolese sous BBL”, then the mixtape “Bad Boy Lovestory” and its reissue “Mega BBL”. To hear bouyon at its source, from Dominica to Guadeloupe and Martinique, the <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix playlist</a> by Bouyon Shattaz gathers new music from the islands, bouyon soca and carnival classics.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/theodora.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/theodora.html#artist", "name": "Theodora", "description": "French-Congolese singer and rapper born in 2003 in Lucerne, based in Saint-Denis. Her bouyon single Kongolese sous BBL, released on 27 September 2024, is the first bouyon single certified gold then diamond in France by a non-Caribbean artist.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Kongolese sous BBL"}, {"@type": "MusicRecording", "name": "FNG"}, {"@type": "MusicRecording", "name": "Fashion Designa"}, {"@type": "MusicRecording", "name": "Ils me rient tous au nez"}, {"@type": "MusicRecording", "name": "PAY!"}, {"@type": "MusicRecording", "name": "Do U Wanna?"}, {"@type": "MusicRecording", "name": "Zou Bizou"}, {"@type": "MusicRecording", "name": "Mon bébé"}, {"@type": "MusicRecording", "name": "Masoko Na Mabele"}, {"@type": "MusicRecording", "name": "243 km/h"}, {"@type": "MusicRecording", "name": "Melodrama"}, {"@type": "MusicRecording", "name": "Le Paradis se trouve dans le 93"}, {"@type": "MusicRecording", "name": "Besoin d'aide"}, {"@type": "MusicRecording", "name": "Boss Lady"}, {"@type": "MusicRecording", "name": "La thune"}], "sameAs": []}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/theodora.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/theodora.html#artist", "name": "Theodora", "description": "French-Congolese singer and rapper born in 2003 in Lucerne, based in Saint-Denis. Her bouyon single Kongolese sous BBL, released on 27 September 2024, is the first bouyon single certified gold then diamond in France by a non-Caribbean artist.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Kongolese sous BBL"}, {"@type": "MusicRecording", "name": "FNG"}, {"@type": "MusicRecording", "name": "Fashion Designa"}, {"@type": "MusicRecording", "name": "Ils me rient tous au nez"}, {"@type": "MusicRecording", "name": "PAY!"}, {"@type": "MusicRecording", "name": "Do U Wanna?"}, {"@type": "MusicRecording", "name": "Zou Bizou"}, {"@type": "MusicRecording", "name": "Mon bébé"}, {"@type": "MusicRecording", "name": "Masoko Na Mabele"}, {"@type": "MusicRecording", "name": "243 km/h"}, {"@type": "MusicRecording", "name": "Melodrama"}, {"@type": "MusicRecording", "name": "Le Paradis se trouve dans le 93"}, {"@type": "MusicRecording", "name": "Besoin d'aide"}, {"@type": "MusicRecording", "name": "Boss Lady"}, {"@type": "MusicRecording", "name": "La thune"},
+      {
+       "@type": "MusicRecording",
+       "name": "Be my Valentine?"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MR. DJ"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Miss Kitoko"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Des mythos"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Mademoiselle (feat. ODUMODUBLVCK, Shallipopi, Theodora, Zeina)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "ZOU BISOU"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BOSS BABIES"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "LES OISEAUX RARES"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BAD BOY LACKED"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "GO!"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "I WANNA"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PAPA <3"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "UN MEILLEUR NOUS"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BAD BOY LOVESTORY"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "BIG BOSS LADY"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Doutes en boucle"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SORRY SORRY SO"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Entracte: Histoire d’amour, Commérages et Chardonnay"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "#IL"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "JTM 1 PEU"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "MON CASQUE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Blues d’hiver"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "…Y’a deux fois plus d’oRAGE"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Love me lagadou (<3?)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "J’ai retrouvé le sourire"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Lolirock"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DANS LE PARADIS ARTIFICIEL"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ici le temps est trop morose"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "APRÈS L’Orage.."
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "C TROP LA LOOSE </3"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Le Paradis se trouve dans le 93 (LPSTD93)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Habiba"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Prendre le large"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Neptune"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "C'est Normal"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Koby'z piano"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Rockstar"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Respect"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "La Nocturne"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "JETSKI (FRIKI)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Sex Model"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "SPA"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Coller la petite (feat. Theodora)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "How Greedy (feat. Theodora)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Instructions"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Paparazzi"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "DIS-MOI JE T'AIME"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PETITE ABEBI"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "J'ai ce petit petit truc"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Daddy chocolat"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Ms. Paper (feat. Theodora)"
+      },
+], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }

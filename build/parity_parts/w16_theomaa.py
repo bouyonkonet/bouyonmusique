@@ -123,7 +123,20 @@ FR = {
     "Sur les plateformes, en suivant l’ordre du parcours : « Wa wa waaw » pour l’arrivée du duo, « Mas La Rivé » et « Leave Me Alone » pour le collectif, « Bouwéy » pour l’EP « CHORD », puis « Ouba », primé en 2026. Pour entendre la scène bouyon d’aujourd’hui, de la Dominique à la Guadeloupe, la <a href=\"/playlist-bouyon.html\">playlist Bouyon Road Mix</a> de Bouyon Shattaz réunit les nouveautés du genre.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/theomaa.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/theomaa.html#artist", "name": "Theomaa", "description": "Chanteur bouyon de la scène guadeloupéenne, partenaire de création de 1T1. Coauteur et chanteur de Bouwéy et de Ouba, prix de la chanson bouyon de l année et de la chanson French Caribbean de l année aux Caribbean Music Awards 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bouwéy"}, {"@type": "MusicRecording", "name": "Ouba"}, {"@type": "MusicRecording", "name": "Wa wa Waaaw"}, {"@type": "MusicRecording", "name": "Leave Me Alone"}, {"@type": "MusicRecording", "name": "Mas La Rivé"}, {"@type": "MusicRecording", "name": "Piney"}, {"@type": "MusicRecording", "name": "Gasolina"}, {"@type": "MusicRecording", "name": "Party Rocking"}, {"@type": "MusicRecording", "name": "New Bouyon Wave #1"}, {"@type": "MusicRecording", "name": "Baddest"}], "sameAs": ["https://www.instagram.com/13theomaa_/"]}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/theomaa.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/theomaa.html#artist", "name": "Theomaa", "description": "Chanteur bouyon de la scène guadeloupéenne, partenaire de création de 1T1. Coauteur et chanteur de Bouwéy et de Ouba, prix de la chanson bouyon de l année et de la chanson French Caribbean de l année aux Caribbean Music Awards 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bouwéy"}, {"@type": "MusicRecording", "name": "Ouba"}, {"@type": "MusicRecording", "name": "Wa wa Waaaw"}, {"@type": "MusicRecording", "name": "Leave Me Alone"}, {"@type": "MusicRecording", "name": "Mas La Rivé"}, {"@type": "MusicRecording", "name": "Piney"}, {"@type": "MusicRecording", "name": "Gasolina"}, {"@type": "MusicRecording", "name": "Party Rocking"}, {"@type": "MusicRecording", "name": "New Bouyon Wave #1"}, {"@type": "MusicRecording", "name": "Baddest"},
+      {
+       "@type": "MusicRecording",
+       "name": "Wouloo (feat. 1T1)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PnL(Piney) [feat. Theomaa]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Uhuu dah dah (feat. GOMKO, Luky & Theomaa)"
+      },
+], "sameAs": ["https://www.instagram.com/13theomaa_/"]}}],
  "date_modified": "2026-10-20"
 }
 
@@ -238,6 +251,19 @@ EN = {
     "On the platforms, following the order of his path: “Wa wa waaw” for the arrival of the duo, “Mas La Rivé” and “Leave Me Alone” for the collective, “Bouwéy” for the “CHORD” EP, then “Ouba”, awarded in 2026. To hear today’s bouyon scene, from Dominica to Guadeloupe, the <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix playlist</a> by Bouyon Shattaz gathers new music of the genre.",
   )
 ],
- "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/theomaa.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/theomaa.html#artist", "name": "Theomaa", "description": "Bouyon singer from the Guadeloupe scene, creative partner of 1T1. Co-writer and singer of Bouwéy and Ouba, Bouyon Song of the Year and French Caribbean Song of the Year at the 2026 Caribbean Music Awards.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bouwéy"}, {"@type": "MusicRecording", "name": "Ouba"}, {"@type": "MusicRecording", "name": "Wa wa Waaaw"}, {"@type": "MusicRecording", "name": "Leave Me Alone"}, {"@type": "MusicRecording", "name": "Mas La Rivé"}, {"@type": "MusicRecording", "name": "Piney"}, {"@type": "MusicRecording", "name": "Gasolina"}, {"@type": "MusicRecording", "name": "Party Rocking"}, {"@type": "MusicRecording", "name": "New Bouyon Wave #1"}, {"@type": "MusicRecording", "name": "Baddest"}], "sameAs": ["https://www.instagram.com/13theomaa_/"]}}],
+ "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/theomaa.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/theomaa.html#artist", "name": "Theomaa", "description": "Bouyon singer from the Guadeloupe scene, creative partner of 1T1. Co-writer and singer of Bouwéy and Ouba, Bouyon Song of the Year and French Caribbean Song of the Year at the 2026 Caribbean Music Awards.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Bouwéy"}, {"@type": "MusicRecording", "name": "Ouba"}, {"@type": "MusicRecording", "name": "Wa wa Waaaw"}, {"@type": "MusicRecording", "name": "Leave Me Alone"}, {"@type": "MusicRecording", "name": "Mas La Rivé"}, {"@type": "MusicRecording", "name": "Piney"}, {"@type": "MusicRecording", "name": "Gasolina"}, {"@type": "MusicRecording", "name": "Party Rocking"}, {"@type": "MusicRecording", "name": "New Bouyon Wave #1"}, {"@type": "MusicRecording", "name": "Baddest"},
+      {
+       "@type": "MusicRecording",
+       "name": "Wouloo (feat. 1T1)"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "PnL(Piney) [feat. Theomaa]"
+      },
+      {
+       "@type": "MusicRecording",
+       "name": "Uhuu dah dah (feat. GOMKO, Luky & Theomaa)"
+      },
+], "sameAs": ["https://www.instagram.com/13theomaa_/"]}}],
  "date_modified": "2026-10-20"
 }
