@@ -54,7 +54,7 @@ PAGES = [
     "Trilla-G's network: collective tracks and nominations",
     [
       "\"Without You\", a collective track presented as Bouyon 2025, brings together Unstoppable Shax, <a href=\"/en/nice.html\">Nice</a>, Reo, Trilla-G and Quan Dawg, on a production by A-Plus Muzik, mixed and mastered by Th3rd House Studios.",
-      "The official lists draw the same circle. At the 2025 Caribbean Music Awards, Trilla G was among the nine nominees for Bouyon Artist of the Year, with Asa Bantan, Kenny G, litleboy, Mr. Ridge, Quan, Shelly Alfred, Triple K and Pudaz. In 2026 he is a finalist in the category again, and Black Island Girl groups him with BRG Hollywood and 1T1 in \"a new wave of performers\". At the 2025 Dominica Music Awards, Trilla G and Reo appear in the artist and video categories."
+      "The official lists draw the same circle. At the 2025 Caribbean Music Awards, Trilla G was among the nine nominees for Bouyon Artist of the Year, with Asa Bantan, Kenny G, litleboy, Mr. Ridge, Quan, Shelly Alfred, Triple K and Pudaz; the title went to Mr. Ridge. In 2026 he is a finalist in the category again, and Black Island Girl groups him with BRG Hollywood and 1T1 in \"a new wave of performers\". At the 2025 Dominica Music Awards, Trilla G and Reo appear in the artist and video categories."
     ],
   ),
   (
@@ -105,7 +105,7 @@ PAGES = [
   ),
   (
     "Is Trilla-G nominated for Bouyon Artist of the Year at the Caribbean Music Awards?",
-    "Yes. At the 2025 Caribbean Music Awards, Trilla G was among the nine Bouyon Artist of the Year nominees, with Asa Bantan, Kenny G, litleboy, Mr. Ridge, Quan, Shelly Alfred, Triple K and Pudaz. In 2026 he is a finalist in the category again, which Mr Ridge won according to the results published in September 2026. See <a href=\"/en/ridge.html\">Ridge's profile</a>.",
+    "Yes. At the 2025 Caribbean Music Awards, Trilla G was among the nine Bouyon Artist of the Year nominees, with Asa Bantan, Kenny G, litleboy, Mr. Ridge, Quan, Shelly Alfred, Triple K and Pudaz; the title went to Mr. Ridge. In 2026 he is a finalist in the category again, which Mr Ridge won according to the results published in September 2026. See <a href=\"/en/ridge.html\">Ridge's profile</a>.",
   ),
   (
     "When did Trilla-G release the album \"Take Me as I Am\"?",
