@@ -102,10 +102,15 @@ if __name__ == "__main__" and "--export" in sys.argv:
 SOURCES = _read_json() if os.path.exists(_JSON) else {}
 
 
+# YouTube videos whose owner turned off embedding (oEmbed 401, playableInEmbed false):
+# an iframe would show "Video unavailable", so these stay as plain source links.
+NO_EMBED = {"Ji5Q52BoLEw"}
+
+
 def _embed(url):
     """Return (kind, iframe src, height) for platforms with a public embed, else None."""
     m = re.search(r"youtube\.com/watch\?v=([\w-]{11})|youtu\.be/([\w-]{11})", url)
-    if m:
+    if m and (m.group(1) or m.group(2)) not in NO_EMBED:
         return ("youtube", f"https://www.youtube-nocookie.com/embed/{m.group(1) or m.group(2)}", None)
     m = re.search(r"deezer\.com/(?:[a-z]{2}/)?(track|album)/(\d+)", url)
     if m:

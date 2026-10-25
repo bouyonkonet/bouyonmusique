@@ -56,3 +56,9 @@ footer li{margin:6px 0}
 .tracklist{margin:12px 0 12px 24px}
 .tracklist li{margin:6px 0}
 .tracklist a:first-child{font-variant-numeric:tabular-nums}
+.az-hubs{margin:18px 0}
+.az-letters{display:flex;flex-wrap:wrap;gap:6px 12px;font-weight:bold}
+.az-head{color:var(--turq);margin:22px 0 6px}
+.az-list{line-height:1.9}
+.island-tag{font-size:15px;color:var(--muted);margin:-6px 0 18px}
+.island-tag a{font-weight:bold}
