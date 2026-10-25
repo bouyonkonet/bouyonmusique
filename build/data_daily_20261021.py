@@ -79,7 +79,7 @@ PAGES = [
     "Asa Bantan, Reo et Trilla-G : la nuit bouyon du samedi",
     [
      "Côté bouyon, la nuit 2 est la plus chargée du week-end. Asa Bantan, largement surnommé le King of Bouyon, joue à domicile le samedi, selon les sources citées plus haut. Les programmes publiés du festival, repris par la page du World Creole Music Festival de ce site, placent aussi Reo et Trilla-G dans la nuit du samedi 24 octobre. Reo, présenté comme le Prince of Bouyon par ses soutiens, et Trilla-G, couronné Calypso Monarch en 2023, incarnent deux générations du son dominiquais actuel.",
-     "Les guides publiés ajoutent encore à la nuit du samedi des noms comme Edday, venu de Guadeloupe, et Extasy Band. Comme pour les autres nuits, l'ordre de passage exact n'est pas confirmé par des sources concordantes, et ce guide ne l'invente pas. Ce qui est établi, c'est la concentration du samedi : si un visiteur ne peut choisir qu'une nuit pour le bouyon, les sources désignent la nuit 2."
+     "Les guides publiés ajoutent encore à la nuit du samedi des noms comme Edday, cité avec les artistes de Guadeloupe dans le communiqué du festival, et Extasy Band. Comme pour les autres nuits, l'ordre de passage exact n'est pas confirmé par des sources concordantes, et ce guide ne l'invente pas. Ce qui est établi, c'est la concentration du samedi : si un visiteur ne peut choisir qu'une nuit pour le bouyon, les sources désignent la nuit 2."
     ]
    ],
    [

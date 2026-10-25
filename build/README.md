@@ -23,3 +23,10 @@ The five reviewed listening additions live in music_discovery_blocks.json. Both 
 - sitemap.xml is a sitemap index: sitemap-pages.xml, sitemap-artistes.xml, sitemap-mixtapes.xml (with video entries), sitemap-en.xml, and sitemap-chroniques.xml once a chronique exists. Hand-built pages keep the lastmod already in the sitemaps.
 - The root pages index.html, histoire/histories and artistes are hand-built, not generator-driven. Everything else comes from the modules.
 - Read build/TAKEOVER-PLAN-20261020.md in the notes repo for the strategy. Content and style rules are in the handoff prompt; they are strict (verified facts only, no copied text, no em dashes anywhere).
+
+## Islands (artist to island, island to artist)
+
+- build/islands_data.py is the single source: every artist profile slug is filed under an island as FROM (the profile states the origin) or SCENE (the profile only places the artist in that island's circuit, base or release billing). A profile with neither is listed as "origin not stated". Add a slug only after reading the sentence in its profile that supports it; never guess.
+- build/islands.py (run automatically at the end of both generators, or by hand with `python3 build/islands.py`) writes the island page (/bouyon-par-ile.html, /en/bouyon-by-island.html), the full roster on each island hub, the island line under the lead of every profile, and the A to Z list with flags on artistes.html and en/artists.html. Its blocks sit between `<!-- islands:NAME:start/end -->` markers.
+- New profile: add its slug to islands_data.py (or leave it out if the origin is not stated), then rerun.
+- sources_listen.NO_EMBED lists YouTube videos whose owner disabled embedding; they stay as source links instead of a broken player.

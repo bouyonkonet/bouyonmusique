@@ -684,3 +684,5 @@ if __name__ == "__main__":
     main()
     from music_discovery import apply_music_discovery
     apply_music_discovery(os.path.dirname(SITE))
+    from islands import apply_islands
+    apply_islands()
