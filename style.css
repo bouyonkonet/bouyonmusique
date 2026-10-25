@@ -62,3 +62,5 @@ footer li{margin:6px 0}
 .az-list{line-height:1.9}
 .island-tag{font-size:15px;color:var(--muted);margin:-6px 0 18px}
 .island-tag a{font-weight:bold}
+.listen-tag{font-size:15px;margin:-10px 0 18px}
+.listen-tag a{font-weight:bold;color:var(--turq)}

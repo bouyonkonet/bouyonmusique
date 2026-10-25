@@ -30,3 +30,7 @@ The five reviewed listening additions live in music_discovery_blocks.json. Both 
 - build/islands.py (run automatically at the end of both generators, or by hand with `python3 build/islands.py`) writes the island page (/bouyon-par-ile.html, /en/bouyon-by-island.html), the full roster on each island hub, the island line under the lead of every profile, and the A to Z list with flags on artistes.html and en/artists.html. Its blocks sit between `<!-- islands:NAME:start/end -->` markers.
 - New profile: add its slug to islands_data.py (or leave it out if the origin is not stated), then rerun.
 - sources_listen.NO_EMBED lists YouTube videos whose owner disabled embedding; they stay as source links instead of a broken player.
+
+## Playlist links (Bouyon Music 2026 on YouTube)
+
+`build/playlist_links.py` runs after `islands.py` and adds plain text links to the Bouyon Music 2026 YouTube playlist: a Listen line on every artist profile (artists with a song in the playlist are named, from `playlist_members.json`), a link under every embed of that playlist, and one line on the home, artists and island pages. Run `python3 build/playlist_links.py --refresh` to re-read the playlist with yt-dlp and update the member list.
