@@ -41,9 +41,9 @@ def items(mixtapes, chroniques):
 
 
 def youtube_embed(video_id, title, esc):
-    return ('<div style="position:relative;padding-top:56.25%;margin:1em 0">'
+    return ('<div class="embed">'
             f'<iframe src="https://www.youtube-nocookie.com/embed/{video_id}" title="{esc(title)}" loading="lazy" '
-            'style="position:absolute;inset:0;width:100%;height:100%;border:0;border-radius:12px" '
+            ''
             'allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>\n')
 
 
@@ -224,6 +224,28 @@ def render_index(kind, rows, ctx):
         breadcrumb_ld(crumbs, url),
     ] + ctx["site_entities"]
     body = f'<h1>{esc(k["index_nav"])}</h1>\n<p class="lead">{lead}</p>\n<div class="grid">\n{cards}</div>\n'
+    if kind == "mixtape":
+        arts = []
+        for r in rows:
+            arts += [a for a in r["artists"] if a not in arts]
+        names = sorted(((ctx["artists"].get(a) or {}).get("name") or (ctx["pages"].get(a) or {}).get("nav", a), a) for a in arts)
+        total = sum(len(r["tracks"]) for r in rows)
+        body += (
+            '<h2>Ce que contient une page mixtape</h2>\n'
+            f'<p>Le site compte {len(rows)} mixtapes et {total} chapitres. Chaque page reprend la vidéo YouTube de Smokiller, la date de mise en ligne et la durée telles '
+            'que la chaîne les publie, puis la tracklist chapitre par chapitre avec le minutage exact. Les intitulés des chapitres sont recopiés tels quels : '
+            'le site n’ajoute ni année, ni pays, ni crédit que la vidéo et les sources citées ne donnent pas. Quand un chapitre nomme un artiste qui a sa fiche '
+            'sur Bouyon Musique, le titre renvoie vers cette fiche.</p>\n'
+            '<h2>Où écouter les mixtapes</h2>\n'
+            f'<p>Les mixtapes sont publiées sur la <a href="{ctx["channel"]}">chaîne YouTube de Smokiller</a> et rangées dans ses playlists, dont '
+            '<a href="https://www.youtube.com/playlist?list=PLB1axoRydQre_2MEDDGaRUNYTbZkAOt7j">Bouyon Mix 2026</a> pour les mixes et '
+            '<a href="https://www.youtube.com/playlist?list=PLB1axoRydQreXaKD2wlZ5IHJmNmoTWEEd">Bouyon Music 2026</a> pour les titres. '
+            'Pour comprendre comment un mix bouyon est construit, lire <a href="/bouyon-mix.html">le guide du mix bouyon</a> ; pour les titres un par un, '
+            '<a href="/playlist-bouyon.html">la playlist bouyon</a> et <a href="/nouveautes-bouyon-2026.html">les nouveautés bouyon 2026</a>. '
+            'Le profil du producteur : <a href="/smokiller.html">Smokiller</a>.</p>\n'
+            '<h2>Les artistes que les mixtapes font tourner</h2>\n'
+            '<p>' + " · ".join(f'<a href="/{a if a.endswith(".html") else a + ".html"}">{esc(n)}</a>' for n, a in names) + '</p>\n'
+        )
     page = {"slug": k["dir"], "cat": k["cat"], "nav": k["index_nav"]}
     return shell(ctx, url, title, desc, (BASE + "og-image.png", 1200, 630, "Bouyon Musique, le guide de la musique bouyon"),
                  graph, crumbs, body, ctx["footer"](page, rows))

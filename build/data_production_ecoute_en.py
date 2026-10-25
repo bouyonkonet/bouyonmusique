@@ -687,8 +687,8 @@ PAGES = [
 },
 {
 "slug": "bouyon-songs.html", "fr_slug": "chansons-bouyon.html", "cat": "Listen to bouyon", "nav": "Bouyon songs",
-"title": "Bouyon Songs: the tracks you absolutely need to know",
-"desc": "Bouyon songs: the tracks that matter, from the classics of Dominica’s bands to new releases by Reo, Asa Bantan and G’z Up. A selection to discover bouyon.",
+"title": "Best Bouyon Songs: the tracks to know, classics to 2026",
+"desc": "The bouyon songs that matter, from the classics of Dominica’s bands WCK and RSB to 2026 releases by Reo, Asa Bantan and G’z Up, with where to hear each one.",
 "h1": "Bouyon songs: the selection to discover the genre",
 "intro": "Which songs should you listen to in order to understand bouyon? From the classics of Dominica’s bands to the recent tracks followed by Bouyon Shattaz, here is the method and the names to remember.",
 "sections": [
@@ -911,8 +911,8 @@ PAGES = [
 },
 {
 "slug": "best-bouyon.html", "fr_slug": "meilleur-bouyon.html", "cat": "Listen to bouyon", "nav": "The best of bouyon",
-"title": "The Best of Bouyon: essential artists, tracks and playlists",
-"desc": "The best of bouyon: the essential Bouyon Shattaz selection. Best bouyon artists, must-hear tracks, styles to know and the playlist to listen to it all.",
+"title": "Best Bouyon Artists, Songs and Playlists: Where to Start",
+"desc": "The best of bouyon in one page: the artists to know first, the must-hear tracks from 1988 to 2026, the styles to tell apart and the playlist that sums it all up.",
 "h1": "The best of bouyon, according to Bouyon Shattaz",
 "intro": "If you were to keep only one gateway into bouyon, here it is: the essential artists, the styles that matter and the playlist that sums up the genre, from 1988 to 2026.",
 "sections": [

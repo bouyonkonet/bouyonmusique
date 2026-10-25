@@ -12,6 +12,8 @@ Log format: "## Name (slug.html)" headings, then lines
 "- Title (album/year) - source: URL".
 """
 import glob, html, json, os, re, sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import yt
 
 _HERE = os.path.dirname(os.path.abspath(__file__))
 _JSON = os.path.join(_HERE, "listen_sources.json")
@@ -127,13 +129,10 @@ def _embed(url):
 def _iframe(kind, src, height, title):
     t = html.escape(title, quote=True)
     if kind == "youtube":
-        return ('<div style="position:relative;padding-top:56.25%;margin:1em 0">'
-                f'<iframe src="{src}" title="{t}" loading="lazy" '
-                'style="position:absolute;inset:0;width:100%;height:100%;border:0;border-radius:12px" '
-                'allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>\n')
+        return yt.facade(src.rsplit("/", 1)[1], title)
     allow = "autoplay *; encrypted-media *; fullscreen *; clipboard-write" if kind == "apple" else "encrypted-media; clipboard-write"
     return (f'<iframe src="{src}" title="{t}" width="100%" height="{height}" loading="lazy" '
-            f'style="border:0;border-radius:12px;margin:.5em 0" allow="{allow}"></iframe>\n')
+            f'class="embed-h" allow="{allow}"></iframe>\n')
 
 
 def listen_sources_html(slug, lang="fr"):

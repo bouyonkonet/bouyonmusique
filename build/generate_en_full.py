@@ -443,17 +443,16 @@ def playlist_embeds_html(slug):
     out = ""
     for kind, pid, title in PLAYLIST_EMBEDS.get(slug, []):
         if kind == "youtube":
-            out += ('\n<h2>Watch next</h2>\n'
-                    f'<h3>{esc(title)}</h3>\n'
-                    '<div style="position:relative;padding-top:56.25%;margin:1em 0">'
+            from yt import facade_list
+            out += ('\n<h2>Watch next</h2>\n' f'<h3>{esc(title)}</h3>\n' + (facade_list(pid, title) or (
+                    '<div class="embed">'
                     f'<iframe src="https://www.youtube-nocookie.com/embed/videoseries?list={pid}" title="{esc(title)}" loading="lazy" '
-                    'style="position:absolute;inset:0;width:100%;height:100%;border:0;border-radius:12px" '
-                    'allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>\n')
+                    'allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>\n')))
         else:
             out += ('\n<h2>Listen next</h2>\n'
                     f'<h3>{esc(title)}</h3>\n'
                     f'<iframe src="https://open.spotify.com/embed/playlist/{pid}?utm_source=generator" title="{esc(title)}" width="100%" height="352" '
-                    'style="border:0;border-radius:12px" loading="lazy" allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>\n')
+                    'class="embed-h" loading="lazy" allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>\n')
     return out
 
 def byline(page):
@@ -688,3 +687,5 @@ if __name__ == "__main__":
     apply_islands()
     from playlist_links import apply_playlist_links
     apply_playlist_links()
+    from onpage import apply_onpage
+    apply_onpage()

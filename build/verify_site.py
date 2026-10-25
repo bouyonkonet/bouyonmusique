@@ -75,7 +75,7 @@ def main():
         m["pages_related"] += bool(re.search(r"<h2>(À lire aussi|Read next)</h2>", main_html))
         m["pages_artist_hub_module"] += bool(re.search(r"<h2>[^<]+ (sur Bouyon Musique|on Bouyon Music)</h2>", main_html))
         m["pages_cited_artists_module"] += bool(re.search(r"<h2>(Artistes cités dans cette page|Artists mentioned on this page)</h2>", main_html))
-        m["pages_youtube_embed"] += "youtube-nocookie.com/embed/" in main_html
+        m["pages_youtube_embed"] += "youtube-nocookie.com/embed/" in main_html or 'class="yt"' in main_html
         m["mixtape_pages"] += u.startswith("/mixtapes/") and u != "/mixtapes/"
         m["chronique_pages"] += u.startswith("/chroniques/") and u != "/chroniques/"
         if u.startswith(("/mixtapes/", "/chroniques/")) and re.search("[–—]", main_html):
