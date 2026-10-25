@@ -1,2498 +1,3562 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url>
     <loc>https://bouyonmusique.com/en/</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/history.html</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/artists.html</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/playlist-bouyon.html</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/bouyon-dance.html</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/faq.html</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/site-map.html</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/bouyon-soca.html</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/bouyon-gwada.html</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/shatta-bouyon.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/bouyon-muffin.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/reketeng.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/jump-up.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/old-school-bouyon.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/gospel-bouyon.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/bouyon-moderne.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/what-is-bouyon.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/origin-of-bouyon.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/meaning-of-bouyon.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/bouyon-vs-soca.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/bouyon-vs-zouk.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/bouyon-vs-shatta.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/bouyon-instruments.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/jing-ping.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/cadence-lypso.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/bouyon-dominica.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/bouyon-guadeloupe.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/bouyon-martinique.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/bouyon-france.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/bouyon-paris.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/bouyon-guyane.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/bouyon-saint-martin.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/bouyon-saint-lucia.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/bouyon-antigua.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/bouyon-diaspora.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/dominica-carnival.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/mas-domnik.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/world-creole-music-festival.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/jouvert.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/dominica-carnival-2026.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/bouyon-drum-kit.html</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/bouyon-type-beat.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/bouyon-riddim.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/how-to-make-a-bouyon-beat.html</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/bouyon-producers.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/remix-bouyon.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/bouyon-bpm.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/bouyon-instrumental.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/bouyon-mix.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/bouyon-songs.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/new-bouyon-2026.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/playlist-shatta.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/bouyon-music-2026.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/best-bouyon.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/bouyon-and-kweyol.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/future-of-bouyon.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/bouyon-shattaz.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/wcmf-context.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/wck.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/asa-bantan.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/reo.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/1HpHEcclNLQ/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Reo - Dominica I From</video:title>
+      <video:description>Reo - Dominica I From, a YouTube video opened for the Reo page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/1HpHEcclNLQ</video:player_loc>
+      <video:duration>254</video:duration>
+      <video:publication_date>2019-09-01</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/smokiller.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/82ubbjfYbak/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Bouyon Music 2026 Mix 🇩🇲 Best New Bouyon Songs Vol. 1 | Trilla-G, J Lion, Tipsy, Khallion, DOVA</video:title>
+      <video:description>Bouyon Music 2026 Mix 🇩🇲 Best New Bouyon Songs Vol. 1 | Trilla-G, J Lion, Tipsy, Khallion, DOVA, a YouTube video opened for the Smokiller page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/82ubbjfYbak</video:player_loc>
+      <video:duration>2518</video:duration>
+      <video:publication_date>2026-10-17</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/maurane-voyer.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/EZeeMcodo1w/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Au loin</video:title>
+      <video:description>Au loin, a YouTube video opened for the Maurane Voyer page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/EZeeMcodo1w</video:player_loc>
+      <video:duration>217</video:duration>
+      <video:publication_date>2025-01-09</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/b6gxgzwhu3A/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Maurane Voyer ft Bad Bitch x @Tutuss972 x Mikado - FEU (Official Video)</video:title>
+      <video:description>Maurane Voyer ft Bad Bitch x @Tutuss972 x Mikado - FEU (Official Video), a YouTube video opened for the Maurane Voyer page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/b6gxgzwhu3A</video:player_loc>
+      <video:duration>182</video:duration>
+      <video:publication_date>2025-12-28</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/miimii-kds.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/ridge.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/tiitii-nba.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/signal-band.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/shelly.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/midnight-groovers.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/iYdXVh6D9is/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Soufe</video:title>
+      <video:description>Soufe, a YouTube video opened for the Midnight Groovers page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/iYdXVh6D9is</video:player_loc>
+      <video:duration>289</video:duration>
+      <video:publication_date>2022-03-15</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/tk-international.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/f28197LOQBI/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>TK International-Whistle While You Work(Bouyon 2024)</video:title>
+      <video:description>TK International-Whistle While You Work(Bouyon 2024), a YouTube video opened for the TK International page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/f28197LOQBI</video:player_loc>
+      <video:duration>207</video:duration>
+      <video:publication_date>2024-01-20</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/colton-t.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/pudaz.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/gwada-g.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/bonna.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/ras-b.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/litleboy-lsbeats767.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/niska.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/denmath.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/mb-on-the-track.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/hypno.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/prod-bysavion.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/gz-up.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/dcamp-lewismelo.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/ricky-bishop.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/david-campana.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/dj-blax.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/tallyboy.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/kkrytical.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/origins-of-bouyon.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/wrecketeng.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/cadence-lypso-roots.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/gwada-chapter-from-dominica.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/women-of-bouyon.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/producers-and-passers.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/wcmf-creole-festival.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/bouyon-goes-global.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/artists-dominica.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/artists-guadeloupe.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/artists-martinique.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/trilla-g.html</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/rnbouyon.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/new-bouyon.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/dj-cut.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/dada.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/nursery-krew-inc.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/bushtown-clan.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/tha-wizzard.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/skinny-banton.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/edday.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/dj-taffy.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/nice.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/dj-mj.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/fallon.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/holly-g.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/lejuh.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/1t1.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/a-plus-musik.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/aknose.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/all-star-band.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/anonymous-gyals.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/arendi.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/beevo.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/benji.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/bernard-gumbs-wizito.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/bilix.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/billy-bybf.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/binksdrick.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/bismok.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/boy-freeze.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/brg-hollywood.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/bunji-garlin.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/c4.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/carlyn-xp.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/cocotteland.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/cornell-phillip.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/cross-vibes-band.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/d-mitri.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/daddy-chess.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/dcamp.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/deearr.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/deejay-guyguy.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/denden.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/derek-rah-peters.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/diixly.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/dinho.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/dj-boko.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/dj-dirtee.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/dj-joe.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/dj-leguste.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/dj-luchshiy.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/dj-skaytah.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/dj-skycee.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/dj-skylone.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/dj-softee.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/dj-weez.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/doc-j.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/dova.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/ebony-empress.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/effects-band.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/erwinchy.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/explosive-band.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/faithii.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/flw.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/freddy.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/gaza-crew.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/gaza-girls-crew.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/haterz-be.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/hussey.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/ignition-band.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/j-lion.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/j2mo.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/jixels.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/kassidje.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/keks-mafia.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/kenny-g-dominica.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/kevni.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/keytzone.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/khallion.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/killa-laurent.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/klockerz-krew.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/larose.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/le-bluff.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/le-dext.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/legacy-band.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/les-ptits-du-rzt.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/lestef-kjf-boyz.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/letin-severine.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/letin-sylia.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/leyou.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/lgc.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/luky-lukee.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/lunik.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/ma6mo.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/machel-montano.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/AioL2y7RWxE/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Machel Montano - Fling It Up ft. Davido (Official Music Video) | Soca 2025</video:title>
+      <video:description>Machel Montano - Fling It Up ft. Davido (Official Music Video) | Soca 2025, a YouTube video opened for the Machel Montano page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/AioL2y7RWxE</video:player_loc>
+      <video:duration>177</video:duration>
+      <video:publication_date>2025-08-22</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/major-lazer.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/mathieu-richardson.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/miky-ding-la.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/money-shaun.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/mr-boka.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/mr-delly.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/mr-gwada.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/nessa-preppy.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/nils.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/pinpin-osp.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/problem-child.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/quan.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/qwann.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/real-reel.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/riddim-knockaz.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/riddla.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/rohie.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/shanika.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/skinny-fabulous.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/nBwWKQGktk0/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Skinny Fabulous x Travis World x Suh Raw - Can You Bend (Official Music Video) 2026</video:title>
+      <video:description>Skinny Fabulous x Travis World x Suh Raw - Can You Bend (Official Music Video) 2026, a YouTube video opened for the Skinny Fabulous page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/nBwWKQGktk0</video:player_loc>
+      <video:duration>239</video:duration>
+      <video:publication_date>2025-11-25</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/stratvincybwoy.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/sukie.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/suppa.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/sweet-ticky.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/tasmo.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/tazzy.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/team-bwe-tou-sa.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/ted-la.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/tehilah.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/tenslay.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/teyma.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/theodora.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/pHOGDZi2D38/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>La Nocturne</video:title>
+      <video:description>La Nocturne, a YouTube video opened for the Theodora page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/pHOGDZi2D38</video:player_loc>
+      <video:duration>221</video:duration>
+      <video:publication_date>2026-09-24</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/theomaa.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/thesmsgirls.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/tolly-boys.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/lewismelo.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/totally-spices.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/trev-li.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/trixx.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/trixzmigos.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/vador.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/vj-ben.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/weelow.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/xavvoknockin.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/yellow-gaza.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/youry-fleming.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/ysn.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/yu-mei.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/earlson-matthew.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/d0-production.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/le-det.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/laka.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/dezod.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/judi-silva.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/zwady.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/fireman-lee.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/tedla.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/doc-fix-dem.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/young-dinero.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/starsha.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/kai-du-m.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/nensha.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/malko.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/mopao-mumu.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/yuniikbeatz.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/poyzin.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/ti-locksee.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/nicolas-macbeth.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/magbeatz.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/yojoshii.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/brian-lomba.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/sonic-art-studios.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/alkpote.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/chronic-law.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/le-daah.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/gringo-jay.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/foxy-jael.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/le-rebelle.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/kwib-la-beats.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/corane-vincent.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/doc-fix-it.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/dernel-green.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/novy.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/banklaady.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/first-serenade-band.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/rsb.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/ncore.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/unstoppable-shax.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/triszy.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/rudy-rush.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/fr3eze.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/slyme-hoyss.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/dj-wizz767.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/dj-flip-tha-boss.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/scarnx.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/avatar-omish.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/don-lash.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/pa-pel.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/pryhmex.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/klassik-frescobar.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/xs-groove.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/boston-chery.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/shazdown-mmw.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/dj-demafidem.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/tazzo-thaboss.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/baps.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/d4a-nillio.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/young-ob.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/lu-city.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/dj-killerz.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/pslbeat.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/alpha.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/blicassty.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/skrazy.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/dboss.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/djmk-malachi.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/dr-eevil.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/sticky.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/t-c.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/acce-carter.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/mystrie.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/marf.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/aderito-depina.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/bad-gyal-shyanne.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/sandy-boo.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/marshee.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/chioneso.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/chief.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/lyrical-k.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/viv-beats.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/deejay-twix.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/krys.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/nfl-lil-brent.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/jasse.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/risingsun.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/supatronic.html</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/bobo-bantan.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/n-2gKwXZzfk/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>My Bouyon Girl - Bobo Bantan (Official Visualizer)</video:title>
+      <video:description>My Bouyon Girl - Bobo Bantan (Official Visualizer), a YouTube video opened for the Bobo Bantan page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/n-2gKwXZzfk</video:player_loc>
+      <video:duration>178</video:duration>
+      <video:publication_date>2026-04-30</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/4V2v4OlmPzM/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>My Bouyon Girl</video:title>
+      <video:description>My Bouyon Girl, a YouTube video opened for the Bobo Bantan page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/4V2v4OlmPzM</video:player_loc>
+      <video:duration>178</video:duration>
+      <video:publication_date>2026-05-05</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/cbgyvngsta.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/GhnqHoMTQWo/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>CbgYvngsta &amp; Ezee WMN - Love Me Or Not (Official Audio) (Bouyon 2025)</video:title>
+      <video:description>CbgYvngsta &amp; Ezee WMN - Love Me Or Not (Official Audio) (Bouyon 2025), a YouTube video opened for the CbgYvngsta page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/GhnqHoMTQWo</video:player_loc>
+      <video:duration>147</video:duration>
+      <video:publication_date>2025-07-11</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/6H5fKotJhcg/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Love Me Or Not</video:title>
+      <video:description>Love Me Or Not, a YouTube video opened for the CbgYvngsta page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/6H5fKotJhcg</video:player_loc>
+      <video:duration>146</video:duration>
+      <video:publication_date>2025-07-11</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/devon-george.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/fJ5IUOfv0FE/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Devon George - Overload (Bouyon 2022)</video:title>
+      <video:description>Devon George - Overload (Bouyon 2022), a YouTube video opened for the Devon George page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/fJ5IUOfv0FE</video:player_loc>
+      <video:duration>174</video:duration>
+      <video:publication_date>2021-12-08</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/djipafhugCg/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Devon - Gwada Man</video:title>
+      <video:description>Devon - Gwada Man, a YouTube video opened for the Devon George page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/djipafhugCg</video:player_loc>
+      <video:duration>190</video:duration>
+      <video:publication_date>2022-01-27</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/dpeng.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/FvP8CDFMlUA/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>DPENG FT SOCA INFERNO-SECRET BAY (Bouyon 2026)</video:title>
+      <video:description>DPENG FT SOCA INFERNO-SECRET BAY (Bouyon 2026), a YouTube video opened for the DPENG page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/FvP8CDFMlUA</video:player_loc>
+      <video:duration>149</video:duration>
+      <video:publication_date>2025-12-25</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/e_gCL77_0ws/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>DPENG-Where Were U (Bouyon 2026)</video:title>
+      <video:description>DPENG-Where Were U (Bouyon 2026), a YouTube video opened for the DPENG page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/e_gCL77_0ws</video:player_loc>
+      <video:duration>136</video:duration>
+      <video:publication_date>2025-10-21</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/eks.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/7gPO1Bas8VM/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Eks - Tru nuh boi refix (bouyon 2024) #GOFASTMUSIC</video:title>
+      <video:description>Eks - Tru nuh boi refix (bouyon 2024) #GOFASTMUSIC, a YouTube video opened for the Eks page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/7gPO1Bas8VM</video:player_loc>
+      <video:duration>185</video:duration>
+      <video:publication_date>2024-02-02</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/_VRUUA96jSY/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>G SPOT -FIFIN FT EKS (BOUYON 2024) #RELEASEDEBEAST</video:title>
+      <video:description>G SPOT -FIFIN FT EKS (BOUYON 2024) #RELEASEDEBEAST, a YouTube video opened for the Eks page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/_VRUUA96jSY</video:player_loc>
+      <video:duration>156</video:duration>
+      <video:publication_date>2024-01-16</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/ezee-wmn.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/GhnqHoMTQWo/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>CbgYvngsta &amp; Ezee WMN - Love Me Or Not (Official Audio) (Bouyon 2025)</video:title>
+      <video:description>CbgYvngsta &amp; Ezee WMN - Love Me Or Not (Official Audio) (Bouyon 2025), a YouTube video opened for the Ezee WMN page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/GhnqHoMTQWo</video:player_loc>
+      <video:duration>147</video:duration>
+      <video:publication_date>2025-07-11</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/6H5fKotJhcg/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Love Me Or Not</video:title>
+      <video:description>Love Me Or Not, a YouTube video opened for the Ezee WMN page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/6H5fKotJhcg</video:player_loc>
+      <video:duration>146</video:duration>
+      <video:publication_date>2025-07-11</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/fetty-mark.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/ZD8K6ZKp4S0/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Fetty Mark - Bacchanal (Lyric Video) "2020 Bouyon" (Dominica)</video:title>
+      <video:description>Fetty Mark - Bacchanal (Lyric Video) "2020 Bouyon" (Dominica), a YouTube video opened for the Fetty Mark page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/ZD8K6ZKp4S0</video:player_loc>
+      <video:duration>176</video:duration>
+      <video:publication_date>2019-10-02</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/v7J6hbv8HwA/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Fetty Mark &amp; Dondada- Chofé Time (CLEAN) Bouyon 2023</video:title>
+      <video:description>Fetty Mark &amp; Dondada- Chofé Time (CLEAN) Bouyon 2023, a YouTube video opened for the Fetty Mark page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/v7J6hbv8HwA</video:player_loc>
+      <video:duration>176</video:duration>
+      <video:publication_date>2023-02-13</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/fifin.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/3dqkH24Kj8U/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Unstick Official Music Video ft Fifin X Wotlis (Bouyon 2025)</video:title>
+      <video:description>Unstick Official Music Video ft Fifin X Wotlis (Bouyon 2025), a YouTube video opened for the Fifin page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/3dqkH24Kj8U</video:player_loc>
+      <video:duration>240</video:duration>
+      <video:publication_date>2025-04-07</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/ej5yv_aESiE/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Wotlis X Fifin  -Knock you (Bouyon 2025) Go Fast Music</video:title>
+      <video:description>Wotlis X Fifin  -Knock you (Bouyon 2025) Go Fast Music, a YouTube video opened for the Fifin page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/ej5yv_aESiE</video:player_loc>
+      <video:duration>192</video:duration>
+      <video:publication_date>2024-09-06</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/green-apple.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/RRxlsYdlo4A/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Green Apple - Pretty Ways  | Bouyon 2026</video:title>
+      <video:description>Green Apple - Pretty Ways  | Bouyon 2026, a YouTube video opened for the Green Apple page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/RRxlsYdlo4A</video:player_loc>
+      <video:duration>139</video:duration>
+      <video:publication_date>2026-02-12</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/HjUvjShy9tM/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Green Apple - Tonight (Ayo) | Bouyon 2027</video:title>
+      <video:description>Green Apple - Tonight (Ayo) | Bouyon 2027, a YouTube video opened for the Green Apple page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/HjUvjShy9tM</video:player_loc>
+      <video:duration>175</video:duration>
+      <video:publication_date>2026-10-17</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/heidy.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/enDueab3TsQ/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>HEIDY-MORIRÉ BEBIENDÓ (BOUYON 2025)[Teodoro Reyes Cover]</video:title>
+      <video:description>HEIDY-MORIRÉ BEBIENDÓ (BOUYON 2025)[Teodoro Reyes Cover], a YouTube video opened for the Heidy page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/enDueab3TsQ</video:player_loc>
+      <video:duration>175</video:duration>
+      <video:publication_date>2025-07-30</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/D8DoaoID-6U/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>DPENG FT HEIDY-Why You Lying(Bouyon2024)|Antigua's Carnival 2024</video:title>
+      <video:description>DPENG FT HEIDY-Why You Lying(Bouyon2024)|Antigua's Carnival 2024, a YouTube video opened for the Heidy page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/D8DoaoID-6U</video:player_loc>
+      <video:duration>255</video:duration>
+      <video:publication_date>2024-06-24</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/king-tipsy.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/-PxMsI7SEmk/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>King Tipsy - BUMPA BACK | Lyric Video | Bouyon 2026</video:title>
+      <video:description>King Tipsy - BUMPA BACK | Lyric Video | Bouyon 2026, a YouTube video opened for the King Tipsy page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/-PxMsI7SEmk</video:player_loc>
+      <video:duration>139</video:duration>
+      <video:publication_date>2025-12-12</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/klass-money.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/Ny-lLiYxvUo/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Throw Dat</video:title>
+      <video:description>Throw Dat, a YouTube video opened for the Klass Money page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/Ny-lLiYxvUo</video:player_loc>
+      <video:duration>175</video:duration>
+      <video:publication_date>2026-02-12</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/XmrkWJ5YccA/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Klass Money - Throw Dat (Official Audio) | Bouyon 2026</video:title>
+      <video:description>Klass Money - Throw Dat (Official Audio) | Bouyon 2026, a YouTube video opened for the Klass Money page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/XmrkWJ5YccA</video:player_loc>
+      <video:duration>175</video:duration>
+      <video:publication_date>2026-02-17</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/ktb.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/RCYtWylfKKU/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>KTB- Come Ova (Bouyon 2026)</video:title>
+      <video:description>KTB- Come Ova (Bouyon 2026), a YouTube video opened for the KTB page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/RCYtWylfKKU</video:player_loc>
+      <video:duration>188</video:duration>
+      <video:publication_date>2026-04-09</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/Y1luWkstpGw/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Come Ova</video:title>
+      <video:description>Come Ova, a YouTube video opened for the KTB page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/Y1luWkstpGw</video:player_loc>
+      <video:duration>189</video:duration>
+      <video:publication_date>2026-04-09</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/madamezelle.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/Y145qYypt4M/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Tipsy - [MadameZelle] [Bouyon 2026] #bouyonriddim #bouyonmusic #bouyonshattaz</video:title>
+      <video:description>Tipsy - [MadameZelle] [Bouyon 2026] #bouyonriddim #bouyonmusic #bouyonshattaz, a YouTube video opened for the MadameZelle page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/Y145qYypt4M</video:player_loc>
+      <video:duration>106</video:duration>
+      <video:publication_date>2026-01-04</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/og-park.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/X7GfR6YuuN0/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>OG Park &amp; Rum Lawd - Whale Fu See (Whale Oil Riddim) | Bouyon 2025 | Vincy Soca 2025</video:title>
+      <video:description>OG Park &amp; Rum Lawd - Whale Fu See (Whale Oil Riddim) | Bouyon 2025 | Vincy Soca 2025, a YouTube video opened for the OG Park page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/X7GfR6YuuN0</video:player_loc>
+      <video:duration>207</video:duration>
+      <video:publication_date>2025-04-13</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/_ilIsfGJo5I/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Whale Fu See</video:title>
+      <video:description>Whale Fu See, a YouTube video opened for the OG Park page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/_ilIsfGJo5I</video:player_loc>
+      <video:duration>207</video:duration>
+      <video:publication_date>2025-05-17</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/redpunchdrip.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/EeEdxChEJh0/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Redpunchdrip x Strosey x Devon - Why Should I? [Prod. by XavvoKnockin] (Bouyon 2026)</video:title>
+      <video:description>Redpunchdrip x Strosey x Devon - Why Should I? [Prod. by XavvoKnockin] (Bouyon 2026), a YouTube video opened for the Redpunchdrip page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/EeEdxChEJh0</video:player_loc>
+      <video:duration>190</video:duration>
+      <video:publication_date>2026-01-14</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/rum-lawd.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/X7GfR6YuuN0/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>OG Park &amp; Rum Lawd - Whale Fu See (Whale Oil Riddim) | Bouyon 2025 | Vincy Soca 2025</video:title>
+      <video:description>OG Park &amp; Rum Lawd - Whale Fu See (Whale Oil Riddim) | Bouyon 2025 | Vincy Soca 2025, a YouTube video opened for the Rum Lawd page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/X7GfR6YuuN0</video:player_loc>
+      <video:duration>207</video:duration>
+      <video:publication_date>2025-04-13</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/_ilIsfGJo5I/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Whale Fu See</video:title>
+      <video:description>Whale Fu See, a YouTube video opened for the Rum Lawd page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/_ilIsfGJo5I</video:player_loc>
+      <video:duration>207</video:duration>
+      <video:publication_date>2025-05-17</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/shemmy-j.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/2x4bpswDOps/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Shemmy J - Spoil You (Bouyon Soca 2023)  - (Official Video)</video:title>
+      <video:description>Shemmy J - Spoil You (Bouyon Soca 2023)  - (Official Video), a YouTube video opened for the Shemmy J page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/2x4bpswDOps</video:player_loc>
+      <video:duration>193</video:duration>
+      <video:publication_date>2023-03-21</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/h230xIatmPA/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Shemmy J x Edwin - Ou Dou (Bouyon/Lovers Pump)</video:title>
+      <video:description>Shemmy J x Edwin - Ou Dou (Bouyon/Lovers Pump), a YouTube video opened for the Shemmy J page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/h230xIatmPA</video:player_loc>
+      <video:duration>161</video:duration>
+      <video:publication_date>2022-05-17</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/soca-inferno.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/Y8KjGa6knx4/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Close to me bouyon remix 2020</video:title>
+      <video:description>Close to me bouyon remix 2020, a YouTube video opened for the Soca Inferno page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/Y8KjGa6knx4</video:player_loc>
+      <video:duration>191</video:duration>
+      <video:publication_date>2020-05-15</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/FvP8CDFMlUA/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>DPENG FT SOCA INFERNO-SECRET BAY (Bouyon 2026)</video:title>
+      <video:description>DPENG FT SOCA INFERNO-SECRET BAY (Bouyon 2026), a YouTube video opened for the Soca Inferno page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/FvP8CDFMlUA</video:player_loc>
+      <video:duration>149</video:duration>
+      <video:publication_date>2025-12-25</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/strosey.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/a0GrELCWSf0/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Strosey ft Youry X Reo- Doe Call My Name (Bouyon 2026)</video:title>
+      <video:description>Strosey ft Youry X Reo- Doe Call My Name (Bouyon 2026), a YouTube video opened for the Strosey page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/a0GrELCWSf0</video:player_loc>
+      <video:duration>210</video:duration>
+      <video:publication_date>2026-03-25</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/8ulRstBcXnM/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Doe call my name (feat. Reo &amp; Youry ymw)</video:title>
+      <video:description>Doe call my name (feat. Reo &amp; Youry ymw), a YouTube video opened for the Strosey page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/8ulRstBcXnM</video:player_loc>
+      <video:duration>210</video:duration>
+      <video:publication_date>2026-03-28</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/timii-mignonne.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/WOFCjHCeoSQ/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Timii Mignonne - Petite Mignonne (Official Video)</video:title>
+      <video:description>Timii Mignonne - Petite Mignonne (Official Video), a YouTube video opened for the Timii Mignonne page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/WOFCjHCeoSQ</video:player_loc>
+      <video:duration>177</video:duration>
+      <video:publication_date>2026-10-12</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/umpa.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/gyn2GBmAx68/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Mr Ridge, Umpa feat Dova - No Reply</video:title>
+      <video:description>Mr Ridge, Umpa feat Dova - No Reply, a YouTube video opened for the Umpa page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/gyn2GBmAx68</video:player_loc>
+      <video:duration>163</video:duration>
+      <video:publication_date>2024-06-12</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/HLBMSZBd0gU/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>No Reply</video:title>
+      <video:description>No Reply, a YouTube video opened for the Umpa page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/HLBMSZBd0gU</video:player_loc>
+      <video:duration>166</video:duration>
+      <video:publication_date>2024-06-19</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/wotlis.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/3dqkH24Kj8U/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Unstick Official Music Video ft Fifin X Wotlis (Bouyon 2025)</video:title>
+      <video:description>Unstick Official Music Video ft Fifin X Wotlis (Bouyon 2025), a YouTube video opened for the Wotlis page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/3dqkH24Kj8U</video:player_loc>
+      <video:duration>240</video:duration>
+      <video:publication_date>2025-04-07</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/ej5yv_aESiE/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Wotlis X Fifin  -Knock you (Bouyon 2025) Go Fast Music</video:title>
+      <video:description>Wotlis X Fifin  -Knock you (Bouyon 2025) Go Fast Music, a YouTube video opened for the Wotlis page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/ej5yv_aESiE</video:player_loc>
+      <video:duration>192</video:duration>
+      <video:publication_date>2024-09-06</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/dj-kwab.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/Of6wP1BYz90/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>(FREE) "CHO" - Bouyon Instrumental | Riddim 2025 (Prod. by DJ KWAB)</video:title>
+      <video:description>(FREE) "CHO" - Bouyon Instrumental | Riddim 2025 (Prod. by DJ KWAB), a YouTube video opened for the DJ KWAB page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/Of6wP1BYz90</video:player_loc>
+      <video:duration>107</video:duration>
+      <video:publication_date>2025-02-12</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/dj-tkrys.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/R2IyIJlzu8o/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>DJ TKRYS - Active ton Mode Bouyon 2023 | The Best of Bouyon 2023</video:title>
+      <video:description>DJ TKRYS - Active ton Mode Bouyon 2023 | The Best of Bouyon 2023, a YouTube video opened for the DJ TKrys page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/R2IyIJlzu8o</video:player_loc>
+      <video:duration>1700</video:duration>
+      <video:publication_date>2022-09-09</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/8l9rlM91k0k/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>DJ TKRYS - ACTIVE TON MODE BOUYON 2024 (MIX BOUYON)</video:title>
+      <video:description>DJ TKRYS - ACTIVE TON MODE BOUYON 2024 (MIX BOUYON), a YouTube video opened for the DJ TKrys page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/8l9rlM91k0k</video:player_loc>
+      <video:duration>1971</video:duration>
+      <video:publication_date>2024-09-29</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/keke.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/-VtqDmCCKiw/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Time - Kéké X YoungJojo X Le Dext - Prod. by Kéké [AUDIO OFFICIEL] #bouyon #2026</video:title>
+      <video:description>Time - Kéké X YoungJojo X Le Dext - Prod. by Kéké [AUDIO OFFICIEL] #bouyon #2026, a YouTube video opened for the Kéké page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/-VtqDmCCKiw</video:player_loc>
+      <video:duration>159</video:duration>
+      <video:publication_date>2025-11-14</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/5_lW9GAooRQ/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Culture Anthem Remix | Bouyon Riddim 2025 (Prod. by Kéké)</video:title>
+      <video:description>Culture Anthem Remix | Bouyon Riddim 2025 (Prod. by Kéké), a YouTube video opened for the Kéké page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/5_lW9GAooRQ</video:player_loc>
+      <video:duration>245</video:duration>
+      <video:publication_date>2025-10-04</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/lms.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/VSFfjIJsA_M/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Lucky 11 ft Lms - F*ck it (Clip officiel)</video:title>
+      <video:description>Lucky 11 ft Lms - F*ck it (Clip officiel), a YouTube video opened for the LMS page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/VSFfjIJsA_M</video:player_loc>
+      <video:duration>122</video:duration>
+      <video:publication_date>2026-03-06</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/A4IBmvLVazc/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>PRESSURE( Visualizer )</video:title>
+      <video:description>PRESSURE( Visualizer ), a YouTube video opened for the LMS page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/A4IBmvLVazc</video:player_loc>
+      <video:duration>144</video:duration>
+      <video:publication_date>2026-03-20</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/lov-nee.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/lFS5amnpJKo/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>LOV'NEE - AN TCHOU AY (FREESTYLE) 2026 REMIX BOUYON</video:title>
+      <video:description>LOV'NEE - AN TCHOU AY (FREESTYLE) 2026 REMIX BOUYON, a YouTube video opened for the Lov'Nee page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/lFS5amnpJKo</video:player_loc>
+      <video:duration>120</video:duration>
+      <video:publication_date>2026-03-30</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/9Nsd3QB1Lhs/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>AKNOSE FEAT LOV'NEE - VA DIRE ÇA (PROD BY LIJAY)</video:title>
+      <video:description>AKNOSE FEAT LOV'NEE - VA DIRE ÇA (PROD BY LIJAY), a YouTube video opened for the Lov'Nee page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/9Nsd3QB1Lhs</video:player_loc>
+      <video:duration>130</video:duration>
+      <video:publication_date>2026-05-27</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/magistral-beats.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/BB3Ux1tpi8k/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>TEDDY BIEN PWOP - BOUYON OLYMPIQUE ( Prod. magistral beats )</video:title>
+      <video:description>TEDDY BIEN PWOP - BOUYON OLYMPIQUE ( Prod. magistral beats ), a YouTube video opened for the Magistral Beats page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/BB3Ux1tpi8k</video:player_loc>
+      <video:duration>134</video:duration>
+      <video:publication_date>2024-08-04</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/_7ld2yVz0G0/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Magistral Dolibouyon</video:title>
+      <video:description>Magistral Dolibouyon, a YouTube video opened for the Magistral Beats page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/_7ld2yVz0G0</video:player_loc>
+      <video:duration>105</video:duration>
+      <video:publication_date>2026-07-14</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/riko.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/4v10_7-hEv8/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>BaxX x Riko x Dj WeezZ - Bokit &amp; T-Max  (Team Bleudeu / Bouyon 2019)</video:title>
+      <video:description>BaxX x Riko x Dj WeezZ - Bokit &amp; T-Max  (Team Bleudeu / Bouyon 2019), a YouTube video opened for the Riko page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/4v10_7-hEv8</video:player_loc>
+      <video:duration>126</video:duration>
+      <video:publication_date>2019-06-15</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/cYKFIOc8U_I/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Riko - Mytho (Team Bleudeu / Bouyon 2021) Prod by LeMax (Clip Officiel)</video:title>
+      <video:description>Riko - Mytho (Team Bleudeu / Bouyon 2021) Prod by LeMax (Clip Officiel), a YouTube video opened for the Riko page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/cYKFIOc8U_I</video:player_loc>
+      <video:duration>196</video:duration>
+      <video:publication_date>2021-03-25</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/shashabim.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/krcEokMEguU/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Shashabim - Pété' Y Si Yo  x Jwd Production ( Clip Officiel) Bouyon2025</video:title>
+      <video:description>Shashabim - Pété' Y Si Yo  x Jwd Production ( Clip Officiel) Bouyon2025, a YouTube video opened for the Shashabim page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/krcEokMEguU</video:player_loc>
+      <video:duration>214</video:duration>
+      <video:publication_date>2025-07-26</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/ck-gee.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/jJ0PaeGtcTQ/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>CK GEE x PINPIN OSP x TED LA - BACK IT UP (BOUYON 2K25)</video:title>
+      <video:description>CK GEE x PINPIN OSP x TED LA - BACK IT UP (BOUYON 2K25), a YouTube video opened for the CK Gee page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/jJ0PaeGtcTQ</video:player_loc>
+      <video:duration>144</video:duration>
+      <video:publication_date>2025-02-07</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/iHGxYT_90wg/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>BACK IT UP (feat. Ted la &amp; CK gee)</video:title>
+      <video:description>BACK IT UP (feat. Ted la &amp; CK gee), a YouTube video opened for the CK Gee page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/iHGxYT_90wg</video:player_loc>
+      <video:duration>145</video:duration>
+      <video:publication_date>2025-02-09</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/djadja.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/CKsDSr-Zeqk/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>DjaDja (Djp Family) ft Favé - RAFALÉY (Visualizer) Bouyon 2025</video:title>
+      <video:description>DjaDja (Djp Family) ft Favé - RAFALÉY (Visualizer) Bouyon 2025, a YouTube video opened for the DjaDja page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/CKsDSr-Zeqk</video:player_loc>
+      <video:duration>157</video:duration>
+      <video:publication_date>2025-07-04</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/XMc0gLezbnk/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>DjaDja X LESEB - In Your What ? (Clip officiel) ft A.K.H</video:title>
+      <video:description>DjaDja X LESEB - In Your What ? (Clip officiel) ft A.K.H, a YouTube video opened for the DjaDja page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/XMc0gLezbnk</video:player_loc>
+      <video:duration>120</video:duration>
+      <video:publication_date>2026-10-02</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/le-cus.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/2P1yLtoPHbo/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>LECUS X LESEB X SHEYTA X UGLYBOY - VODY 22 [ CLIP OFFICIEL ] (PROD BY QWANN) #BOUYON</video:title>
+      <video:description>LECUS X LESEB X SHEYTA X UGLYBOY - VODY 22 [ CLIP OFFICIEL ] (PROD BY QWANN) #BOUYON, a YouTube video opened for the Le Cus page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/2P1yLtoPHbo</video:player_loc>
+      <video:duration>153</video:duration>
+      <video:publication_date>2025-12-17</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/GoIJSQp2lNc/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>LE CUS X YOSHY x LEJO - HOLIDAY [ CLIP OFFICIEL ] (PROD BY SKYLIGHT) #BOUYON</video:title>
+      <video:description>LE CUS X YOSHY x LEJO - HOLIDAY [ CLIP OFFICIEL ] (PROD BY SKYLIGHT) #BOUYON, a YouTube video opened for the Le Cus page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/GoIJSQp2lNc</video:player_loc>
+      <video:duration>149</video:duration>
+      <video:publication_date>2026-02-12</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/leken-sm.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/G2lz71XLHyo/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>LEKEN SM - YÈ SWA (Clip Officiel) ft DJ LEGUSTE &amp; OH YEAH</video:title>
+      <video:description>LEKEN SM - YÈ SWA (Clip Officiel) ft DJ LEGUSTE &amp; OH YEAH, a YouTube video opened for the Leken SM page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/G2lz71XLHyo</video:player_loc>
+      <video:duration>146</video:duration>
+      <video:publication_date>2025-10-31</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/oADb6ygebvY/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>YÈ SWA (feat. Leken SM &amp; OH Yeah)</video:title>
+      <video:description>YÈ SWA (feat. Leken SM &amp; OH Yeah), a YouTube video opened for the Leken SM page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/oADb6ygebvY</video:player_loc>
+      <video:duration>144</video:duration>
+      <video:publication_date>2025-10-16</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/le-matt.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/H2mjNHMeVW4/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Le Matt ft Pepito - PA DI MWEN JTM STP</video:title>
+      <video:description>Le Matt ft Pepito - PA DI MWEN JTM STP, a YouTube video opened for the Le Matt page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/H2mjNHMeVW4</video:player_loc>
+      <video:duration>140</video:duration>
+      <video:publication_date>2025-12-26</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/les-curvyzz.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/05CDnNl9F-E/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Les CURVYZZ - FESS 🍑(Bouyon 2024)</video:title>
+      <video:description>Les CURVYZZ - FESS 🍑(Bouyon 2024), a YouTube video opened for the Les Curvyzz page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/05CDnNl9F-E</video:player_loc>
+      <video:duration>123</video:duration>
+      <video:publication_date>2023-10-15</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/leseb.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/2P1yLtoPHbo/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>LECUS X LESEB X SHEYTA X UGLYBOY - VODY 22 [ CLIP OFFICIEL ] (PROD BY QWANN) #BOUYON</video:title>
+      <video:description>LECUS X LESEB X SHEYTA X UGLYBOY - VODY 22 [ CLIP OFFICIEL ] (PROD BY QWANN) #BOUYON, a YouTube video opened for the Leseb page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/2P1yLtoPHbo</video:player_loc>
+      <video:duration>153</video:duration>
+      <video:publication_date>2025-12-17</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/BjOS47HO0pk/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>JIXELS X LESEB - SHE LIKE TNB (BOUYON 2024)</video:title>
+      <video:description>JIXELS X LESEB - SHE LIKE TNB (BOUYON 2024), a YouTube video opened for the Leseb page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/BjOS47HO0pk</video:player_loc>
+      <video:duration>180</video:duration>
+      <video:publication_date>2024-01-27</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/managyalis.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/JA9tdJCl2zI/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>AMBIANCE (feat. MANAGYALIS &amp; SHEYTA)</video:title>
+      <video:description>AMBIANCE (feat. MANAGYALIS &amp; SHEYTA), a YouTube video opened for the Managyalis page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/JA9tdJCl2zI</video:player_loc>
+      <video:duration>142</video:duration>
+      <video:publication_date>2026-07-22</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/see-v.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/Fls91kWBnAM/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>T-BTS X @SEE_V971- HOT #OUPS 5️⃣ 🌶️🔥 [Audio Officiel] #TeamBwèTouSa #bouyon</video:title>
+      <video:description>T-BTS X @SEE_V971- HOT #OUPS 5️⃣ 🌶️🔥 [Audio Officiel] #TeamBwèTouSa #bouyon, a YouTube video opened for the See V page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/Fls91kWBnAM</video:player_loc>
+      <video:duration>125</video:duration>
+      <video:publication_date>2026-04-17</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/sheyta.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/2P1yLtoPHbo/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>LECUS X LESEB X SHEYTA X UGLYBOY - VODY 22 [ CLIP OFFICIEL ] (PROD BY QWANN) #BOUYON</video:title>
+      <video:description>LECUS X LESEB X SHEYTA X UGLYBOY - VODY 22 [ CLIP OFFICIEL ] (PROD BY QWANN) #BOUYON, a YouTube video opened for the Sheyta page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/2P1yLtoPHbo</video:player_loc>
+      <video:duration>153</video:duration>
+      <video:publication_date>2025-12-17</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/toupit.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/fnxVnMfEnZg/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Leyou ft TOUPIT (STRING VOLÉ)</video:title>
+      <video:description>Leyou ft TOUPIT (STRING VOLÉ), a YouTube video opened for the Toupit page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/fnxVnMfEnZg</video:player_loc>
+      <video:duration>139</video:duration>
+      <video:publication_date>2026-06-24</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/uglyboy.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/2P1yLtoPHbo/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>LECUS X LESEB X SHEYTA X UGLYBOY - VODY 22 [ CLIP OFFICIEL ] (PROD BY QWANN) #BOUYON</video:title>
+      <video:description>LECUS X LESEB X SHEYTA X UGLYBOY - VODY 22 [ CLIP OFFICIEL ] (PROD BY QWANN) #BOUYON, a YouTube video opened for the Uglyboy page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/2P1yLtoPHbo</video:player_loc>
+      <video:duration>153</video:duration>
+      <video:publication_date>2025-12-17</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/bZPqTQM_apg/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Uglyboy ft DDK &amp; Skin Vybz - NO PWOBLEM (Official Audio)</video:title>
+      <video:description>Uglyboy ft DDK &amp; Skin Vybz - NO PWOBLEM (Official Audio), a YouTube video opened for the Uglyboy page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/bZPqTQM_apg</video:player_loc>
+      <video:duration>171</video:duration>
+      <video:publication_date>2025-11-11</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/yoshy-et-lejo.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/YBDhuRNzGbk/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>YOSHY X LEJO -  CHUT (CLIP OFFICIEL) #bouyon</video:title>
+      <video:description>YOSHY X LEJO -  CHUT (CLIP OFFICIEL) #bouyon, a YouTube video opened for the Yoshy and Lejo page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/YBDhuRNzGbk</video:player_loc>
+      <video:duration>134</video:duration>
+      <video:publication_date>2026-06-27</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/_XfmLO74FIA/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>CHUT (feat. YOSHY &amp; LEJO)</video:title>
+      <video:description>CHUT (feat. YOSHY &amp; LEJO), a YouTube video opened for the Yoshy and Lejo page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/_XfmLO74FIA</video:player_loc>
+      <video:duration>136</video:duration>
+      <video:publication_date>2026-06-25</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/zepek.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/a_4NclSzLHk/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>ZEPEK - F*CK 2 NIGHT (BOUYON 2024)</video:title>
+      <video:description>ZEPEK - F*CK 2 NIGHT (BOUYON 2024), a YouTube video opened for the Zepek page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/a_4NclSzLHk</video:player_loc>
+      <video:duration>158</video:duration>
+      <video:publication_date>2024-05-03</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/4xdBaTy0uBc/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>ZEPEK - #FREESTYLE1 MALÉLIVÉ (BOUYON ARABIC 2k25)</video:title>
+      <video:description>ZEPEK - #FREESTYLE1 MALÉLIVÉ (BOUYON ARABIC 2k25), a YouTube video opened for the Zepek page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/4xdBaTy0uBc</video:player_loc>
+      <video:duration>83</video:duration>
+      <video:publication_date>2024-12-23</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/boogy-rankss.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/5VAINzJTnAw/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Khallion X Konshens X DeeArr - Stand Up | (Official Video)</video:title>
+      <video:description>Khallion X Konshens X DeeArr - Stand Up | (Official Video), a YouTube video opened for the Boogy Rankss page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/5VAINzJTnAw</video:player_loc>
+      <video:duration>208</video:duration>
+      <video:publication_date>2026-04-28</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/7xA5ms3wzag/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Stand Up (Radio Edit)</video:title>
+      <video:description>Stand Up (Radio Edit), a YouTube video opened for the Boogy Rankss page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/7xA5ms3wzag</video:player_loc>
+      <video:duration>210</video:duration>
+      <video:publication_date>2026-04-29</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/dee-zen.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/QzS-D52Ggao/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>DEE ZEN - BOUYON (Prod. novysto, dee zen)</video:title>
+      <video:description>DEE ZEN - BOUYON (Prod. novysto, dee zen), a YouTube video opened for the DEE ZEN page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/QzS-D52Ggao</video:player_loc>
+      <video:duration>111</video:duration>
+      <video:publication_date>2025-06-16</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/JTyDVdcQNy4/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>DEE ZEN - GAZA (prod.Tito)</video:title>
+      <video:description>DEE ZEN - GAZA (prod.Tito), a YouTube video opened for the DEE ZEN page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/JTyDVdcQNy4</video:player_loc>
+      <video:duration>135</video:duration>
+      <video:publication_date>2026-09-25</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/dj-ramses.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/kentin-fcn.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/J1lw_jHB7ow/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>CHUPA CHUPS (Bouyon)</video:title>
+      <video:description>CHUPA CHUPS (Bouyon), a YouTube video opened for the Kentin FcN page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/J1lw_jHB7ow</video:player_loc>
+      <video:duration>103</video:duration>
+      <video:publication_date>2025-07-23</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/NJu5giE1C5k/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>SHATTA BOUYON MIX 2026 🔥 / LIVE SET - FESTIVAL SHATTA WINE 2026 / BOOTY MIX 2026 by Kentin FcN</video:title>
+      <video:description>SHATTA BOUYON MIX 2026 🔥 / LIVE SET - FESTIVAL SHATTA WINE 2026 / BOOTY MIX 2026 by Kentin FcN, a YouTube video opened for the Kentin FcN page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/NJu5giE1C5k</video:player_loc>
+      <video:duration>2875</video:duration>
+      <video:publication_date>2026-02-04</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/malcolm.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/ei_cy5T1rTo/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Malcolm - MANIGANCES (Clip officiel) ft. LaRose</video:title>
+      <video:description>Malcolm - MANIGANCES (Clip officiel) ft. LaRose, a YouTube video opened for the Malcolm page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/ei_cy5T1rTo</video:player_loc>
+      <video:duration>152</video:duration>
+      <video:publication_date>2025-07-10</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/Y62Yj7xVu6c/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Malcolm (#Guadeloupe, Caribbean) | Medley Concerts</video:title>
+      <video:description>Malcolm (#Guadeloupe, Caribbean) | Medley Concerts, a YouTube video opened for the Malcolm page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/Y62Yj7xVu6c</video:player_loc>
+      <video:duration>552</video:duration>
+      <video:publication_date>2026-09-02</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/oso-j.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/jmMm-fC9m_E/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Oso J - ASF (Antillais sous fidélité) [Clip Officiel]</video:title>
+      <video:description>Oso J - ASF (Antillais sous fidélité) [Clip Officiel], a YouTube video opened for the Oso J page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/jmMm-fC9m_E</video:player_loc>
+      <video:duration>133</video:duration>
+      <video:publication_date>2025-02-26</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/T-kLX5ex8p0/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Oso J - JE M ( Martine a découvert le shatta) [Prod. By @albreybeats3249  X @Whomatter]</video:title>
+      <video:description>Oso J - JE M ( Martine a découvert le shatta) [Prod. By @albreybeats3249  X @Whomatter], a YouTube video opened for the Oso J page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/T-kLX5ex8p0</video:player_loc>
+      <video:duration>165</video:duration>
+      <video:publication_date>2025-07-02</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/shawn-storm.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/stalk-ashley.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/5Qc7hFdxJW4/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Trilla-G &amp; Stalk Ashley - Nobody [Bouyon 2026]</video:title>
+      <video:description>Trilla-G &amp; Stalk Ashley - Nobody [Bouyon 2026], a YouTube video opened for the Stalk Ashley page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/5Qc7hFdxJW4</video:player_loc>
+      <video:duration>164</video:duration>
+      <video:publication_date>2025-10-22</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/QyvmZihS32E/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Trilla-G &amp; Stalk Ashley - Nobody (Official Lyric Video) [Bouyon 2026]</video:title>
+      <video:description>Trilla-G &amp; Stalk Ashley - Nobody (Official Lyric Video) [Bouyon 2026], a YouTube video opened for the Stalk Ashley page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/QyvmZihS32E</video:player_loc>
+      <video:duration>169</video:duration>
+      <video:publication_date>2025-12-23</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/ti-al.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/5LCWdSBVW-A/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>WIZITO Feat TI AL - TUNTUN (Prod By DJ CHIMIK) BOUYON</video:title>
+      <video:description>WIZITO Feat TI AL - TUNTUN (Prod By DJ CHIMIK) BOUYON, a YouTube video opened for the Ti Al page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/5LCWdSBVW-A</video:player_loc>
+      <video:duration>102</video:duration>
+      <video:publication_date>2025-08-02</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/YFeRktl6c-M/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>TI AL BABY OU BONNE  (Prod by DJ TAFFY) bouyon 2023 vidéo audio</video:title>
+      <video:description>TI AL BABY OU BONNE  (Prod by DJ TAFFY) bouyon 2023 vidéo audio, a YouTube video opened for the Ti Al page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/YFeRktl6c-M</video:player_loc>
+      <video:duration>137</video:duration>
+      <video:publication_date>2023-02-17</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/bajan-balotelli.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/jqdUTB5lmXE/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Bajan Balotelli - LOLLIPOP (Official Audio) Bouyon 2026</video:title>
+      <video:description>Bajan Balotelli - LOLLIPOP (Official Audio) Bouyon 2026, a YouTube video opened for the Bajan Balotelli page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/jqdUTB5lmXE</video:player_loc>
+      <video:duration>124</video:duration>
+      <video:publication_date>2026-07-02</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/fzZf-PJSD5A/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Bajan Balotelli - Far A'way Official Audio |(crop over 2026)|Bouyon 2026</video:title>
+      <video:description>Bajan Balotelli - Far A'way Official Audio |(crop over 2026)|Bouyon 2026, a YouTube video opened for the Bajan Balotelli page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/fzZf-PJSD5A</video:player_loc>
+      <video:duration>174</video:duration>
+      <video:publication_date>2026-07-02</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/bermixx.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/r4B25UM9CiI/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Le Mix Bouyon</video:title>
+      <video:description>Le Mix Bouyon, a YouTube video opened for the Bermixx page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/r4B25UM9CiI</video:player_loc>
+      <video:duration>120</video:duration>
+      <video:publication_date>2025-07-30</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/7ekqKXkYu40/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Le Mix Bouyon Percutant</video:title>
+      <video:description>Le Mix Bouyon Percutant, a YouTube video opened for the Bermixx page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/7ekqKXkYu40</video:player_loc>
+      <video:duration>142</video:duration>
+      <video:publication_date>2024-12-27</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/daddy2sec.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/8XfByYYXxNo/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Daddy2Sec x DJTaffy - Check ur Scene (Official Music Video) | St.Kitts Bouyon 2026.</video:title>
+      <video:description>Daddy2Sec x DJTaffy - Check ur Scene (Official Music Video) | St.Kitts Bouyon 2026., a YouTube video opened for the Daddy2Sec page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/8XfByYYXxNo</video:player_loc>
+      <video:duration>145</video:duration>
+      <video:publication_date>2025-12-05</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/Gk2-VX91B6c/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Daddy2sec - Jacket (2025 Bouyon)</video:title>
+      <video:description>Daddy2sec - Jacket (2025 Bouyon), a YouTube video opened for the Daddy2Sec page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/Gk2-VX91B6c</video:player_loc>
+      <video:duration>248</video:duration>
+      <video:publication_date>2025-06-11</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/detal.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/O4HIEUBR4Gg/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Detal X JJW - Mona Lisa (Official Audio)| Bouyon 2025</video:title>
+      <video:description>Detal X JJW - Mona Lisa (Official Audio)| Bouyon 2025, a YouTube video opened for the Detal page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/O4HIEUBR4Gg</video:player_loc>
+      <video:duration>160</video:duration>
+      <video:publication_date>2025-03-16</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/django-de-cayenne.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/f76wzR0nTAs/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Django de Cayenne - Vice City Bouyon Bonus (prodby.@barlemb )</video:title>
+      <video:description>Django de Cayenne - Vice City Bouyon Bonus (prodby.@barlemb ), a YouTube video opened for the Django De Cayenne page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/f76wzR0nTAs</video:player_loc>
+      <video:duration>121</video:duration>
+      <video:publication_date>2026-05-28</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/dyonte.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/lKnZtS4bcVI/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>D’yonté - Tingah Ling (Official Audio) | Bouyon 2025</video:title>
+      <video:description>D’yonté - Tingah Ling (Official Audio) | Bouyon 2025, a YouTube video opened for the D'yonté page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/lKnZtS4bcVI</video:player_loc>
+      <video:duration>165</video:duration>
+      <video:publication_date>2025-03-24</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/5Bi386T9iOw/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>D’yonté - Beat Ah Rum [Nasty Chant Riddim] | Bouyon 2024</video:title>
+      <video:description>D’yonté - Beat Ah Rum [Nasty Chant Riddim] | Bouyon 2024, a YouTube video opened for the D'yonté page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/5Bi386T9iOw</video:player_loc>
+      <video:duration>133</video:duration>
+      <video:publication_date>2024-06-14</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/fiddy-ii.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/iLt9mKgQ964/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Fiddy ii - All Kinda Gal  (Okra Slime Riddim) Official Audio [Barbados Bouyon] Soca 2026</video:title>
+      <video:description>Fiddy ii - All Kinda Gal  (Okra Slime Riddim) Official Audio [Barbados Bouyon] Soca 2026, a YouTube video opened for the Fiddy ii page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/iLt9mKgQ964</video:player_loc>
+      <video:duration>160</video:duration>
+      <video:publication_date>2026-04-18</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/imran-nerdy.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/End-3-dy9pM/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Imran Nerdy - Feelings "Official Audio" Bouyon 2026</video:title>
+      <video:description>Imran Nerdy - Feelings "Official Audio" Bouyon 2026, a YouTube video opened for the Imran Nerdy page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/End-3-dy9pM</video:player_loc>
+      <video:duration>230</video:duration>
+      <video:publication_date>2026-04-16</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/_hK1QzgKfLo/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Imran Nerdy - Cool Down | Bouyon 2024 | Jeremie Street Riddim</video:title>
+      <video:description>Imran Nerdy - Cool Down | Bouyon 2024 | Jeremie Street Riddim, a YouTube video opened for the Imran Nerdy page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/_hK1QzgKfLo</video:player_loc>
+      <video:duration>156</video:duration>
+      <video:publication_date>2024-05-21</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/jauwan-hadaway.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/O0tX-Z8Z2bQ/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Jauwan Hadaway - I Don't Want (Vincy Bouyon) 2026</video:title>
+      <video:description>Jauwan Hadaway - I Don't Want (Vincy Bouyon) 2026, a YouTube video opened for the Jauwan Hadaway page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/O0tX-Z8Z2bQ</video:player_loc>
+      <video:duration>136</video:duration>
+      <video:publication_date>2025-04-24</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/jayanti.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/SgqDhqoaKY4/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Jayanti x Redz- Lie To Me (official audio) (Bouyon 2026)</video:title>
+      <video:description>Jayanti x Redz- Lie To Me (official audio) (Bouyon 2026), a YouTube video opened for the Jayanti page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/SgqDhqoaKY4</video:player_loc>
+      <video:duration>132</video:duration>
+      <video:publication_date>2026-06-16</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/jordan-english.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/C9KqUjcLqIw/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Jordan English - Darkers (Barbados Bouyon ) - Crop Over 2025</video:title>
+      <video:description>Jordan English - Darkers (Barbados Bouyon ) - Crop Over 2025, a YouTube video opened for the Jordan English page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/C9KqUjcLqIw</video:player_loc>
+      <video:duration>147</video:duration>
+      <video:publication_date>2025-04-14</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/kas-matik.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/kenzii-bwa.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/Ie7CfphPWLg/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Elephant Man Bouyon</video:title>
+      <video:description>Elephant Man Bouyon, a YouTube video opened for the Ken'zii Bwa page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/Ie7CfphPWLg</video:player_loc>
+      <video:duration>128</video:duration>
+      <video:publication_date>2018-06-07</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/king-low-rider.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/iAkJC-ec-48/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>King Low Rider- Land Diver (Antigua Carnival BOUYON 2026) #viral</video:title>
+      <video:description>King Low Rider- Land Diver (Antigua Carnival BOUYON 2026) #viral, a YouTube video opened for the King Low Rider page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/iAkJC-ec-48</video:player_loc>
+      <video:duration>156</video:duration>
+      <video:publication_date>2024-01-17</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/FJZ7bO9JUCI/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>@King Low Rider  Carnival ( Bounce)  bouyon 2026 video  #viral</video:title>
+      <video:description>@King Low Rider  Carnival ( Bounce)  bouyon 2026 video  #viral, a YouTube video opened for the King Low Rider page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/FJZ7bO9JUCI</video:player_loc>
+      <video:duration>129</video:duration>
+      <video:publication_date>2026-02-17</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/louse-king.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/O1mH8tPU3pk/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>LK - PORK NF (Antigua Bouyon 2026)</video:title>
+      <video:description>LK - PORK NF (Antigua Bouyon 2026), a YouTube video opened for the LK (Louse King) page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/O1mH8tPU3pk</video:player_loc>
+      <video:duration>174</video:duration>
+      <video:publication_date>2026-05-22</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/lyrikal.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/sFOvkaKAmh0/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Lyrikal - Let's Get it On (Bouyon/Soca 2027)</video:title>
+      <video:description>Lyrikal - Let's Get it On (Bouyon/Soca 2027), a YouTube video opened for the Lyrikal page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/sFOvkaKAmh0</video:player_loc>
+      <video:duration>174</video:duration>
+      <video:publication_date>2026-09-24</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/messemupbeats.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/S0YSKGH1OtM/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Friend Do (Bouyon)</video:title>
+      <video:description>Friend Do (Bouyon), a YouTube video opened for the MessEmUpBeats page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/S0YSKGH1OtM</video:player_loc>
+      <video:duration>163</video:duration>
+      <video:publication_date>2026-01-30</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/msina.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/dspRiWl6uUk/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Bouyon</video:title>
+      <video:description>Bouyon, a YouTube video opened for the Msina page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/dspRiWl6uUk</video:player_loc>
+      <video:duration>85</video:duration>
+      <video:publication_date>2022-06-14</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/nA8aOUet6bY/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Msina - Bouyon puissanci (Clip officiel) #Bouyon #2023</video:title>
+      <video:description>Msina - Bouyon puissanci (Clip officiel) #Bouyon #2023, a YouTube video opened for the Msina page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/nA8aOUet6bY</video:player_loc>
+      <video:duration>126</video:duration>
+      <video:publication_date>2023-06-14</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/queen-paranoya.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/ricardo-drue.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/kGH0floJ05A/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Ricardo Drue - Last One Standing|Antigua RoadMarch 2023| Bouyon/Soca 2023| #FunnyRiddim</video:title>
+      <video:description>Ricardo Drue - Last One Standing|Antigua RoadMarch 2023| Bouyon/Soca 2023| #FunnyRiddim, a YouTube video opened for the Ricardo Drue page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/kGH0floJ05A</video:player_loc>
+      <video:duration>219</video:duration>
+      <video:publication_date>2023-05-31</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/sharkie.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/Igk-QKUoevI/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Sharkie - Okra Slime ( Okra Slime Riddim ) Official Audio [ Barbados Bouyon 2026 ]</video:title>
+      <video:description>Sharkie - Okra Slime ( Okra Slime Riddim ) Official Audio [ Barbados Bouyon 2026 ], a YouTube video opened for the Sharkie page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/Igk-QKUoevI</video:player_loc>
+      <video:duration>152</video:duration>
+      <video:publication_date>2026-04-05</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/gXVWbV2DBgM/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Sharkie X 10Star - Okra Slime ( Okra Slime Riddim ) [ Bouyon 2026 ] Official Visualizer</video:title>
+      <video:description>Sharkie X 10Star - Okra Slime ( Okra Slime Riddim ) [ Bouyon 2026 ] Official Visualizer, a YouTube video opened for the Sharkie page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/gXVWbV2DBgM</video:player_loc>
+      <video:duration>161</video:duration>
+      <video:publication_date>2026-03-24</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/spyout.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/AVTifsIzK90/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Spyout - Shake It! | Billie Jean Riddim | Soca/Bouyon 2026</video:title>
+      <video:description>Spyout - Shake It! | Billie Jean Riddim | Soca/Bouyon 2026, a YouTube video opened for the Spyout page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/AVTifsIzK90</video:player_loc>
+      <video:duration>144</video:duration>
+      <video:publication_date>2026-10-16</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/stella-billy.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/Qqk7uosph9o/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Stella Billy - Energy ( Okra Slime Riddm ) Official Audio [ Barbados Bouyon 2026 ]</video:title>
+      <video:description>Stella Billy - Energy ( Okra Slime Riddm ) Official Audio [ Barbados Bouyon 2026 ], a YouTube video opened for the Stella Billy page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/Qqk7uosph9o</video:player_loc>
+      <video:duration>162</video:duration>
+      <video:publication_date>2026-04-12</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/5o-UqoB3wBE/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Stella Billy - Energy ( Okra Slime Riddm ) Official Audio  [ Barbados Bouyon 2026 ]</video:title>
+      <video:description>Stella Billy - Energy ( Okra Slime Riddm ) Official Audio  [ Barbados Bouyon 2026 ], a YouTube video opened for the Stella Billy page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/5o-UqoB3wBE</video:player_loc>
+      <video:duration>162</video:duration>
+      <video:publication_date>2026-04-06</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/vghn.html</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/L00jCa3_X90/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Trilla-G, V'ghn - Take Me As I Am REMIX (Official Visualizer) [Bouyon 2026]</video:title>
+      <video:description>Trilla-G, V'ghn - Take Me As I Am REMIX (Official Visualizer) [Bouyon 2026], a YouTube video opened for the V'ghn page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/L00jCa3_X90</video:player_loc>
+      <video:duration>220</video:duration>
+      <video:publication_date>2025-10-12</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/V_JBlLXCSkQ/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>DJ KALLI KLASSIK FRESCOBAR V'GHN - EYE SPY (BOUYON 2026)</video:title>
+      <video:description>DJ KALLI KLASSIK FRESCOBAR V'GHN - EYE SPY (BOUYON 2026), a YouTube video opened for the V'ghn page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/V_JBlLXCSkQ</video:player_loc>
+      <video:duration>174</video:duration>
+      <video:publication_date>2026-01-16</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/wcmf-2026-night-1.html</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/wcmf-2026-night-2.html</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/wcmf-2026-night-3.html</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/dennery-segment.html</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/bouyon-glossary.html</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/dancehall-bouyon.html</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/bele-dominica.html</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/jounen-kweyol.html</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/bouyon-by-island.html</loc>
-    <lastmod>2026-10-24</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>

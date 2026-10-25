@@ -143,7 +143,7 @@ def island_page(names, t):
 {chr(10).join(sections)}
 </div>
 </main>'''
-    s = tpl[:tpl.index('<main>')] + main + tpl[tpl.index('</main>') + len('</main>'):]
+    s = tpl[:re.search(r'<main[^>]*>', tpl).start()] + main + tpl[tpl.index('</main>') + len('</main>'):]
     s = re.sub(r'<title>.*?</title>', f'<title>{t["title"]}</title>', s, count=1)
     for prop in ('name="description"', 'property="og:description"'):
         s = re.sub(r'(<meta ' + re.escape(prop) + r' content=")[^"]*', lambda m: m.group(1) + html.escape(t['desc'], quote=True), s, count=1)

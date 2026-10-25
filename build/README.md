@@ -34,3 +34,14 @@ The five reviewed listening additions live in music_discovery_blocks.json. Both 
 ## Playlist links (Bouyon Music 2026 on YouTube)
 
 `build/playlist_links.py` runs after `islands.py` and adds plain text links to the Bouyon Music 2026 YouTube playlist: a Listen line on every artist profile (artists with a song in the playlist are named, from `playlist_members.json`), a link under every embed of that playlist, and one line on the home, artists and island pages. Run `python3 build/playlist_links.py --refresh` to re-read the playlist with yt-dlp and update the member list.
+
+## On-page pass (titles, images, video data, dates)
+
+`build/onpage.py` runs last in both generators (`apply_onpage()`), after the playlist links. Rerun-safe.
+
+- Titles are cut to 60 characters (name first, "bouyon" kept, brand suffix only when the title never had the word), descriptions to 155 at a sentence or clause end. The data files keep the long editorial titles; `short_title()` decides what the page shows. H1s without "bouyon" or longer than 70 characters take the short title.
+- YouTube embeds are facades (`build/yt.py`, `facade()`): a real `<img>` of the video thumbnail with a play button, the iframe is created on click. `yt_meta.json` holds title, upload date, duration and thumbnail size per video; refresh it with `python3 build/yt.py --refresh` (yt-dlp, slow, YouTube rate-limits bursts).
+- The first thumbnail of a page becomes its og:image, the WebPage primaryImageOfPage and the MusicGroup image. Pages without a video keep og-image.png.
+- Every facade with known metadata gets a VideoObject in the JSON-LD and a `<video:video>` entry in the sitemaps.
+- A "Sommaire" / "On this page" jump list is inserted before the first h2 when the page has 3 or more sections (h2s get ids).
+- `content_hashes.json` stores a hash of each page's main text. When the text changes between builds, the sitemap lastmod, the WebPage dateModified and the visible "Updated" date move to the build day. Keep the file in git so dates only move when content does.
