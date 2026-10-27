@@ -42,24 +42,25 @@ FROM = {
  'mq': "blicassty maurane-voyer",
  'mf': "brg-hollywood d4a-nillio denmath tolly-boys youry-fleming",
  'lc': "lu-city",
- 'vc': "problem-child skinny-fabulous",
+ 'vc': "magikal problem-child skinny-fabulous",
  'gd': "vghn",
  'tt': "bunji-garlin lyrikal machel-montano nessa-preppy",
  'jm': "chronic-law kkrytical shawn-storm stalk-ashley",
  'fr': "alkpote denden kai-du-m niska teyma theodora",
- 'ag': "claudette-peters",
+ 'ag': "ac-tafari claudette-peters",
  'us': "boston-chery major-lazer",
  'ca': "david-campana malko mopao-mumu",
 }
 
 SCENE = {
- 'dm': """dernel-green dova dpeng effects-band fetty-mark freddy hussey poyzin r-b-m real-reel skinny-banton tha-wizzard triszy trixx zwady""",
+ 'dm': """dernel-green dova dpeng effects-band fetty-mark freddy hussey poyzin r-b-m real-reel skinny-banton tha-wizzard triszy trixx zwady candy daddy-keyz dj-sleem dj-snow mv-on-de-keys noface-beatz""",
  'gp': """bilix binksdrick bismok corane-vincent dcamp dinho dj-demafidem dj-softee dj-tkrys doc-fix-dem doc-fix-it doc-j edday flw
   laka larose le-bluff le-rebelle hb-war lejuh letin-severine letin-sylia leyou lgc lunik ma6mo malcolm mr-boka riko suppa ted-la
   theomaa ti-locksee vj-ben weelow yu-mei""",
  'mf': "bernard-gumbs-wizito ebony-empress redpunchdrip",
  'lc': "imran-nerdy jayanti shemmy-j",
  'ag': "king-low-rider louse-king ricardo-drue",
+ 'gd': "big-red-hd",
  'bb': "bajan-balotelli fiddy-ii jordan-english kas-matik sharkie stella-billy",
  'kn': "daddy2sec",
  'vc': "dyonte jauwan-hadaway ktb og-park spyout stratvincybwoy",
