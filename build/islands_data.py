@@ -47,14 +47,15 @@ FROM = {
  'tt': "bunji-garlin lyrikal machel-montano nessa-preppy",
  'jm': "chronic-law kkrytical shawn-storm stalk-ashley",
  'fr': "alkpote denden kai-du-m niska teyma theodora",
+ 'ag': "claudette-peters",
  'us': "boston-chery major-lazer",
  'ca': "david-campana malko mopao-mumu",
 }
 
 SCENE = {
- 'dm': """dernel-green dova dpeng effects-band fetty-mark freddy hussey poyzin real-reel skinny-banton tha-wizzard triszy trixx zwady""",
+ 'dm': """dernel-green dova dpeng effects-band fetty-mark freddy hussey poyzin r-b-m real-reel skinny-banton tha-wizzard triszy trixx zwady""",
  'gp': """bilix binksdrick bismok corane-vincent dcamp dinho dj-demafidem dj-softee dj-tkrys doc-fix-dem doc-fix-it doc-j edday flw
-  laka larose le-bluff le-rebelle lejuh letin-severine letin-sylia leyou lgc lunik ma6mo malcolm mr-boka riko suppa ted-la
+  laka larose le-bluff le-rebelle hb-war lejuh letin-severine letin-sylia leyou lgc lunik ma6mo malcolm mr-boka riko suppa ted-la
   theomaa ti-locksee vj-ben weelow yu-mei""",
  'mf': "bernard-gumbs-wizito ebony-empress redpunchdrip",
  'lc': "imran-nerdy jayanti shemmy-j",
@@ -62,7 +63,7 @@ SCENE = {
  'bb': "bajan-balotelli fiddy-ii jordan-english kas-matik sharkie stella-billy",
  'kn': "daddy2sec",
  'vc': "dyonte jauwan-hadaway ktb og-park spyout stratvincybwoy",
- 'fr': "tenslay",
+ 'fr': "dalibido-6dl tenslay",
  'us': "klassik-frescobar madamezelle",
 }
 
