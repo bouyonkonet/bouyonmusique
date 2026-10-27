@@ -41,9 +41,9 @@ FROM = {
   miimii-kds miky-ding-la pinpin-osp riddla shanika shashabim shazdown-mmw team-bwe-tou-sa tiitii-nba totally-spices yellow-gaza""",
  'mq': "blicassty maurane-voyer",
  'mf': "brg-hollywood d4a-nillio denmath tolly-boys youry-fleming",
- 'lc': "lu-city",
- 'vc': "magikal problem-child skinny-fabulous",
- 'gd': "vghn",
+ 'lc': "lu-city motto",
+ 'vc': "magikal problem-child skinny-fabulous wetty-beatz",
+ 'gd': "jab-king vghn",
  'tt': "bunji-garlin lyrikal machel-montano nessa-preppy",
  'jm': "chronic-law kkrytical shawn-storm stalk-ashley",
  'fr': "alkpote denden kai-du-m niska teyma theodora",
@@ -53,17 +53,17 @@ FROM = {
 }
 
 SCENE = {
- 'dm': """dernel-green dova dpeng effects-band fetty-mark freddy hussey poyzin r-b-m real-reel skinny-banton tha-wizzard triszy trixx zwady candy daddy-keyz dj-sleem dj-snow mv-on-de-keys noface-beatz""",
+ 'dm': """dernel-green dova dpeng effects-band fetty-mark freddy hussey poyzin r-b-m real-reel skinny-banton tha-wizzard triszy trixx zwady candy daddy-keyz dj-sleem dj-snow mv-on-de-keys noface-beatz go-fast""",
  'gp': """bilix binksdrick bismok corane-vincent dcamp dinho dj-demafidem dj-softee dj-tkrys doc-fix-dem doc-fix-it doc-j edday flw
   laka larose le-bluff le-rebelle hb-war lejuh letin-severine letin-sylia leyou lgc lunik ma6mo malcolm mr-boka riko suppa ted-la
   theomaa ti-locksee vj-ben weelow yu-mei""",
- 'mf': "bernard-gumbs-wizito ebony-empress redpunchdrip",
- 'lc': "imran-nerdy jayanti shemmy-j",
+ 'mf': "bernard-gumbs-wizito ebony-empress redpunchdrip general-pye sully-jacob",
+ 'lc': "imran-nerdy jayanti shemmy-j tallyboy",
  'ag': "king-low-rider louse-king ricardo-drue",
  'gd': "big-red-hd",
- 'bb': "bajan-balotelli fiddy-ii jordan-english kas-matik sharkie stella-billy",
+ 'bb': "bajan-balotelli fiddy-ii jordan-english kas-matik quan-de-artist sharkie stella-billy",
  'kn': "daddy2sec",
- 'vc': "dyonte jauwan-hadaway ktb og-park spyout stratvincybwoy",
+ 'vc': "dyonte jauwan-hadaway ktb og-park spyout stratvincybwoy superk",
  'fr': "dalibido-6dl tenslay",
  'us': "klassik-frescobar madamezelle",
 }
