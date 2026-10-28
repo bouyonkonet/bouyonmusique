@@ -68,3 +68,9 @@ source images on later builds. The source files in `img/artistes/` stay intact.
 from the release list or setting its `images_overrides.json` entry to `skip: true`
 removes its gallery pages, aliases, sitemap entries and directory links on rebuild.
 Original profile URLs and image provenance remain in the source catalogue.
+
+Verified social photos can be pinned in `images_overrides.json` with `local_image`,
+`sha256`, `source`, `revision` and `require_verified_source: true`. The gather
+replaces a cached namesake when the pinned source changes and fails if the
+source bytes change. Quoted prose no longer confirms Deezer matches: it may
+describe a different performer. A revision changes every generated image URL.

@@ -3138,17 +3138,17 @@
   "w": 1280
  },
  "kenny-g-dominica": {
-  "alt_en": "Kenny G, bouyon artist from Dominica: artist photo (Deezer page)",
-  "alt_fr": "Kenny G, artiste bouyon de Dominique : photo de l'artiste (page Deezer)",
+  "alt_en": "Kenny G, bouyon artist from Dominica: photo published on his Instagram account",
+  "alt_fr": "Kenny G, artiste bouyon de Dominique : photo publiée sur son compte Instagram",
   "bytes": {
-   "kenny-g-dominica-bouyon-dominica-1280.jpg": 66199,
-   "kenny-g-dominica-bouyon-dominica-1280.webp": 38600,
-   "kenny-g-dominica-bouyon-dominica-640.jpg": 22925,
-   "kenny-g-dominica-bouyon-dominica-640.webp": 14830
+   "kenny-g-dominica-bouyon-dominica-ig-deol3lxb-1280.jpg": 128591,
+   "kenny-g-dominica-bouyon-dominica-ig-deol3lxb-1280.webp": 75158,
+   "kenny-g-dominica-bouyon-dominica-ig-deol3lxb-640.jpg": 39964,
+   "kenny-g-dominica-bouyon-dominica-ig-deol3lxb-640.webp": 24660
   },
-  "caption_en": "Image: artist photo from Kenny G's Deezer page.",
-  "caption_fr": "Image : photo d'artiste de la page Deezer de Kenny G.",
-  "file": "kenny-g-dominica-bouyon-dominica",
+  "caption_en": "Photo: @kenny_g_for_life_767 on Instagram.",
+  "caption_fr": "Photo : @kenny_g_for_life_767 sur Instagram.",
+  "file": "kenny-g-dominica-bouyon-dominica-ig-deol3lxb",
   "gathered": "2026-10-28",
   "h": 720,
   "island": {
@@ -3158,13 +3158,14 @@
    "fr": "Dominique"
   },
   "name": "Kenny G",
-  "sha": "73c5bd622761",
+  "revision": "ig-deol3lxb",
+  "sha": "472329e2b019",
   "source": {
-   "channel": "Deezer",
-   "id": 523,
-   "kind": "deezer",
-   "title": "Kenny G",
-   "url": "https://www.deezer.com/artist/523"
+   "channel": "@kenny_g_for_life_767",
+   "id": "Deol3LxBGWj",
+   "kind": "instagram",
+   "title": "Rise and shine",
+   "url": "https://www.instagram.com/kenny_g_for_life_767/p/Deol3LxBGWj/"
   },
   "w": 1280
  },

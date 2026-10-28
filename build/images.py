@@ -227,21 +227,24 @@ def gather(only=None):
     for slug, name in sorted(names.items()):
         if only and slug not in only:
             continue
-        if slug in data and not (only and slug in only):
-            continue
         ov = over.get(slug, {})
         if ov.get("skip"):
             skipped += 1
             continue
+        if slug in data and not (only and slug in only):
+            if not ov.get('local_image') or data[slug].get('source') == ov.get('source'):
+                continue
         rows = list(listen.get(slug + ".html", []))
-        # song titles quoted in the profile text count as listed titles for the Deezer name confirmation
-        fp = os.path.join(ROOT, slug + ".html")
-        if os.path.exists(fp):
-            body = open(fp, encoding="utf-8").read().split("<main", 1)[-1]
-            quoted = re.findall(r"[«\u201c]\s*([^»\u201d<]{3,80}?)\s*[»\u201d]", html.unescape(re.sub(r"<[^>]+>", "", body)))
-            rows += [(q, "") for q in quoted]
+        # Only actual listening links establish a discography. Prose may quote
+        # a namesake's albums specifically to distinguish the two performers.
         isl = island(slug)
         src = None
+        if ov.get('local_image'):
+            with open(os.path.join(ROOT, ov['local_image']), 'rb') as pinned:
+                b = pinned.read()
+            if hashlib.sha256(b).hexdigest() != ov['sha256']:
+                raise ValueError(f'Pinned artist image changed: {slug}')
+            src = dict(ov['source'])
         # 1. YouTube thumbnail of a video the profile already lists
         vids = ([ov["youtube"]] if ov.get("youtube") else []) + youtube_ids(rows)
         # videos already embedded elsewhere on the site whose channel is the artist, or whose title names the artist
@@ -250,7 +253,7 @@ def gather(only=None):
             own = [v for v, m in ymeta.items() if not v.startswith("list:") and m.get("ok") and norm(m.get("channel", "")) == nn]
             titled = [v for v, m in ymeta.items() if not v.startswith("list:") and m.get("ok") and re.match(r"^\W*" + re.escape(name.lower()) + r"\b", (m.get("title") or "").lower())]
             vids += [v for v in own + titled if v not in vids]
-        for vid in vids:
+        for vid in ([] if src or ov.get('require_verified_source') else vids):
             b, q, w, h = yt_thumb(vid, ymeta)
             if b:
                 m = ymeta.get(vid, {})
@@ -258,7 +261,7 @@ def gather(only=None):
                        "title": m.get("title") or next((t for t, u in rows if vid in u), ""), "channel": m.get("channel", "")}
                 break
         # 2. Deezer artist picture, from the profile's own Deezer links
-        if not src:
+        if not src and not ov.get('require_verified_source'):
             ids = ([ov["deezer_artist"]] if ov.get("deezer_artist") else []) + deezer_artist_ids(rows)
             if not ids and rows:
                 aid, _ = deezer_by_name(name, rows)
@@ -292,6 +295,13 @@ def gather(only=None):
             cap_en = f"Image: YouTube thumbnail of “{src['title']}”" + (f", {src['channel']} channel" if src["channel"] else "") + "."
             credit = src["channel"] or "YouTube uploader"
             rights = f"Thumbnail of the YouTube video {src['url']}; rights remain with {credit}. Shown on bouyonmusique.com to present the artist."
+        elif src['kind'] == 'instagram':
+            alt_fr = f"{name}, artiste bouyon{fr_isl} : photo publiée sur son compte Instagram"
+            alt_en = f"{name}, bouyon artist{en_isl}: photo published on his Instagram account"
+            cap_fr = f"Photo : {src['channel']} sur Instagram."
+            cap_en = f"Photo: {src['channel']} on Instagram."
+            credit = src['channel']
+            rights = f"Photo published at {src['url']}; rights remain with the original rights holder."
         else:
             alt_fr = f"{name}, artiste bouyon{fr_isl} : photo de l'artiste (page Deezer)"
             alt_en = f"{name}, bouyon artist{en_isl}: artist photo (Deezer page)"
@@ -300,6 +310,8 @@ def gather(only=None):
             credit = f"{name} / Deezer"
             rights = f"Artist picture from the Deezer artist page {src['url']}; rights remain with the artist and their label. Shown on bouyonmusique.com to present the artist."
         fname = f"{slug}-bouyon" + (f"-{isl['anchor']}" if isl else "")
+        if ov.get('revision'):
+            fname += '-' + ov['revision']
         base = os.path.join(IMG_DIR, fname)
         kws = [name, "bouyon", "bouyon music", "musique bouyon"] + ([isl["en"], isl["fr"]] if isl else []) + (["Dominica", "Dominique"] if not isl or isl["code"] != "dm" else [])
         meta = {"title": f"{name} (bouyon)", "description": alt_en, "keywords": list(dict.fromkeys(kws)), "creator": credit,
@@ -310,6 +322,8 @@ def gather(only=None):
                       "caption_fr": cap_fr, "caption_en": cap_en, "island": isl, "gathered": TODAY,
                       "sha": hashlib.sha1(open(variants[0][0], "rb").read()).hexdigest()[:12],
                       "bytes": {os.path.basename(p): os.path.getsize(p) for p, _, _ in variants}}
+        if ov.get('revision'):
+            data[slug]['revision'] = ov['revision']
         done += 1
         time.sleep(0.2)
     json.dump(data, open(DATA, "w", encoding="utf-8"), ensure_ascii=False, indent=1, sort_keys=True)
