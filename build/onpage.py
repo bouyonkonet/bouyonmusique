@@ -188,6 +188,9 @@ def page_url(rel):
 
 
 def process(path, rel, hashes):
+    # Photo pages own their titles, image schema and four-variant sitemap.
+    if rel.startswith(("photos/", "en/photos/")):
+        return None
     s = open(path, encoding="utf-8").read()
     lang = "en" if rel.startswith("en/") else "fr"
     t = T[lang]

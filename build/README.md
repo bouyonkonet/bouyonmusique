@@ -51,3 +51,20 @@ The five reviewed listening additions live in music_discovery_blocks.json. Both 
 `build/images.py` gives each artist profile one image, taken from a source the profile already lists: the thumbnail of a YouTube video on the page (or a video of the artist embedded elsewhere on the site), otherwise the artist picture of the Deezer page the profile links to. A Deezer name search is used only when one of the artist's Deezer release titles also appears in the profile's listed titles. Images are written to `img/artistes/<slug>-bouyon-<island>-{1280,640}.{jpg,webp}` with EXIF and XMP fields (title, description, keywords, creator, credit, source URL, rights note). Provenance sits in `build/images.json`; `build/images_overrides.json` can force a video, a Deezer artist id or a skip.
 
 Images are shown in batches: `python3 build/images.py --rollout N` marks N more profiles (highest Search Console impressions first) in `build/images_rollout.json`, and `apply_images()` (run by both generators before the on-page pass) places a `<figure class="artist-hero">` with srcset, WebP and a credit caption after the lead paragraph of the FR and EN pages. The on-page pass then uses that image for og:image, primaryImageOfPage, the MusicGroup image and an `<image:image>` entry in the sitemaps, and sets `max-image-preview:large`. `build/images_rollout.sh N` is the daily cron job (gather new, roll out N, build, verify, publish).
+
+## Artist photo directory
+
+`image_discovery.py` runs after the artist images in both generators. It creates
+FR `/photos/` and EN `/en/photos/` directories, an individual photo page for each
+released artist, and `sitemap-images.xml`. Only entries already released in
+`images_rollout.json` are included. Files in `img/photos/` include the source composition, branded landscape, square crop
+and mirrored colour variants, each at two sizes in JPEG/WebP. EXIF, XMP and IPTC
+carry keyword, caption, source and credit fields. Each page includes all sixteen
+file variants in structured data and its sitemap entry. Brand font licenses are
+kept beside the fonts. `image_variants_cache.json` avoids recompressing unchanged
+source images on later builds. The source files in `img/artistes/` stay intact.
+
+`image_discovery_manifest.json` tracks generated outputs. Removing an artist
+from the release list or setting its `images_overrides.json` entry to `skip: true`
+removes its gallery pages, aliases, sitemap entries and directory links on rebuild.
+Original profile URLs and image provenance remain in the source catalogue.
