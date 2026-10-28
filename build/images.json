@@ -3138,16 +3138,16 @@
   "w": 1280
  },
  "kenny-g-dominica": {
-  "alt_en": "Kenny G, bouyon artist from Dominica: artist photo (Deezer page)",
-  "alt_fr": "Kenny G, artiste bouyon de Dominique : photo de l'artiste (page Deezer)",
+  "alt_en": "Kenny G, bouyon artist from Dominica: still from the video “KENNY G - KOKAY DAT (BALAD RIDDIM)”",
+  "alt_fr": "Kenny G, artiste bouyon de Dominique : image du clip « KENNY G - KOKAY DAT (BALAD RIDDIM) »",
   "bytes": {
-   "kenny-g-dominica-bouyon-dominica-1280.jpg": 66199,
-   "kenny-g-dominica-bouyon-dominica-1280.webp": 38600,
-   "kenny-g-dominica-bouyon-dominica-640.jpg": 22925,
-   "kenny-g-dominica-bouyon-dominica-640.webp": 14830
+   "kenny-g-dominica-bouyon-dominica-1280.jpg": 91248,
+   "kenny-g-dominica-bouyon-dominica-1280.webp": 53958,
+   "kenny-g-dominica-bouyon-dominica-640.jpg": 30444,
+   "kenny-g-dominica-bouyon-dominica-640.webp": 19326
   },
-  "caption_en": "Image: artist photo from Kenny G's Deezer page.",
-  "caption_fr": "Image : photo d'artiste de la page Deezer de Kenny G.",
+  "caption_en": "Image: YouTube thumbnail of “KENNY G - KOKAY DAT (BALAD RIDDIM)”, WizZarD HouSe RecorDs channel.",
+  "caption_fr": "Image : miniature YouTube de « KENNY G - KOKAY DAT (BALAD RIDDIM) », chaîne WizZarD HouSe RecorDs.",
   "file": "kenny-g-dominica-bouyon-dominica",
   "gathered": "2026-10-28",
   "h": 720,
@@ -3158,13 +3158,14 @@
    "fr": "Dominique"
   },
   "name": "Kenny G",
-  "sha": "73c5bd622761",
+  "sha": "f834dab3927c",
   "source": {
-   "channel": "Deezer",
-   "id": 523,
-   "kind": "deezer",
-   "title": "Kenny G",
-   "url": "https://www.deezer.com/artist/523"
+   "channel": "WizZarD HouSe RecorDs",
+   "id": "SUc-16zdAVw",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "KENNY G - KOKAY DAT (BALAD RIDDIM)",
+   "url": "https://www.youtube.com/watch?v=SUc-16zdAVw"
   },
   "w": 1280
  },
