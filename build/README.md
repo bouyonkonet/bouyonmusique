@@ -45,3 +45,9 @@ The five reviewed listening additions live in music_discovery_blocks.json. Both 
 - Every facade with known metadata gets a VideoObject in the JSON-LD and a `<video:video>` entry in the sitemaps.
 - A "Sommaire" / "On this page" jump list is inserted before the first h2 when the page has 3 or more sections (h2s get ids).
 - `content_hashes.json` stores a hash of each page's main text. When the text changes between builds, the sitemap lastmod, the WebPage dateModified and the visible "Updated" date move to the build day. Keep the file in git so dates only move when content does.
+
+## Artist images (2026-10-28)
+
+`build/images.py` gives each artist profile one image, taken from a source the profile already lists: the thumbnail of a YouTube video on the page (or a video of the artist embedded elsewhere on the site), otherwise the artist picture of the Deezer page the profile links to. A Deezer name search is used only when one of the artist's Deezer release titles also appears in the profile's listed titles. Images are written to `img/artistes/<slug>-bouyon-<island>-{1280,640}.{jpg,webp}` with EXIF and XMP fields (title, description, keywords, creator, credit, source URL, rights note). Provenance sits in `build/images.json`; `build/images_overrides.json` can force a video, a Deezer artist id or a skip.
+
+Images are shown in batches: `python3 build/images.py --rollout N` marks N more profiles (highest Search Console impressions first) in `build/images_rollout.json`, and `apply_images()` (run by both generators before the on-page pass) places a `<figure class="artist-hero">` with srcset, WebP and a credit caption after the lead paragraph of the FR and EN pages. The on-page pass then uses that image for og:image, primaryImageOfPage, the MusicGroup image and an `<image:image>` entry in the sitemaps, and sets `max-image-preview:large`. `build/images_rollout.sh N` is the daily cron job (gather new, roll out N, build, verify, publish).

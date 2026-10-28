@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://bouyonmusique.com/en/</loc>
     <lastmod>2026-10-25</lastmod>
@@ -314,7 +314,7 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/bouyon-music-2026.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -356,9 +356,14 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/asa-bantan.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/asa-bantan-bouyon-dominica-1280.jpg</image:loc>
+      <image:title>Asa Bantan (bouyon)</image:title>
+      <image:caption>Asa Bantan, bouyon artist from Dominica: artist photo (Deezer page)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/reo.html</loc>
@@ -412,15 +417,25 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/miimii-kds.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/miimii-kds-bouyon-guadeloupe-1280.jpg</image:loc>
+      <image:title>Miimii KDS (bouyon)</image:title>
+      <image:caption>Miimii KDS, bouyon artist from Guadeloupe: artist photo (Deezer page)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/ridge.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/ridge-bouyon-dominica-1280.jpg</image:loc>
+      <image:title>Ridge (bouyon)</image:title>
+      <image:caption>Ridge, bouyon artist from Dominica: artist photo (Deezer page)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/tiitii-nba.html</loc>
@@ -442,7 +457,7 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/midnight-groovers.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -453,10 +468,15 @@
       <video:duration>289</video:duration>
       <video:publication_date>2022-03-15</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/midnight-groovers-bouyon-dominica-1280.jpg</image:loc>
+      <image:title>Midnight Groovers (bouyon)</image:title>
+      <image:caption>Midnight Groovers, bouyon artist from Dominica: still from the video “Soufe”</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/tk-international.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -467,24 +487,44 @@
       <video:duration>207</video:duration>
       <video:publication_date>2024-01-20</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/tk-international-bouyon-dominica-1280.jpg</image:loc>
+      <image:title>TK International (bouyon)</image:title>
+      <image:caption>TK International, bouyon artist from Dominica: still from the video “TK International-Whistle While You Work(Bouyon 2024)”</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/colton-t.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/colton-t-bouyon-dominica-1280.jpg</image:loc>
+      <image:title>Colton T (bouyon)</image:title>
+      <image:caption>Colton T, bouyon artist from Dominica: artist photo (Deezer page)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/pudaz.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/pudaz-bouyon-dominica-1280.jpg</image:loc>
+      <image:title>Pudaz (bouyon)</image:title>
+      <image:caption>Pudaz, bouyon artist from Dominica: still from the video “Have What They Have”</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/gwada-g.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/gwada-g-bouyon-dominica-1280.jpg</image:loc>
+      <image:title>Gwada G (bouyon)</image:title>
+      <image:caption>Gwada G, bouyon artist from Dominica: artist photo (Deezer page)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/bonna.html</loc>
@@ -698,9 +738,14 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/edday.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/edday-bouyon-dominica-1280.jpg</image:loc>
+      <image:title>Edday (bouyon)</image:title>
+      <image:caption>Edday, bouyon artist from Dominica: artist photo (Deezer page)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/dj-taffy.html</loc>
@@ -722,9 +767,14 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/fallon.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/fallon-bouyon-1280.jpg</image:loc>
+      <image:title>Fallon (bouyon)</image:title>
+      <image:caption>Fallon, bouyon artist: artist photo (Deezer page)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/holly-g.html</loc>
@@ -734,9 +784,14 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/lejuh.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/lejuh-bouyon-guadeloupe-1280.jpg</image:loc>
+      <image:title>Lejuh (bouyon)</image:title>
+      <image:caption>Lejuh, bouyon artist from Guadeloupe: artist photo (Deezer page)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/1t1.html</loc>
@@ -752,9 +807,14 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/aknose.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/aknose-bouyon-guadeloupe-1280.jpg</image:loc>
+      <image:title>Aknose (bouyon)</image:title>
+      <image:caption>Aknose, bouyon artist from Guadeloupe: still from the video “AKNOSE ft KIMA ft Magistral - Coulie Coulie (Clip Officiel)”</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/all-star-band.html</loc>
@@ -800,9 +860,14 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/billy-bybf.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/billy-bybf-bouyon-1280.jpg</image:loc>
+      <image:title>Billy BYBF (bouyon)</image:title>
+      <image:caption>Billy BYBF, bouyon artist: artist photo (Deezer page)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/binksdrick.html</loc>
@@ -848,9 +913,14 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/cocotteland.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/cocotteland-bouyon-1280.jpg</image:loc>
+      <image:title>Cocotteland (bouyon)</image:title>
+      <image:caption>Cocotteland, bouyon artist: artist photo (Deezer page)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/cornell-phillip.html</loc>
@@ -878,9 +948,14 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/dcamp.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/dcamp-bouyon-guadeloupe-1280.jpg</image:loc>
+      <image:title>Dcamp (bouyon)</image:title>
+      <image:caption>Dcamp, bouyon artist from Guadeloupe: artist photo (Deezer page)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/deearr.html</loc>
@@ -896,9 +971,14 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/denden.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/denden-bouyon-france-1280.jpg</image:loc>
+      <image:title>Denden (bouyon)</image:title>
+      <image:caption>Denden, bouyon artist (France): artist photo (Deezer page)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/derek-rah-peters.html</loc>
@@ -1076,9 +1156,14 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/jixels.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/jixels-bouyon-guadeloupe-1280.jpg</image:loc>
+      <image:title>Jixels (bouyon)</image:title>
+      <image:caption>Jixels, bouyon artist from Guadeloupe: still from the video “LECUS X LESEB X SHEYTA X UGLYBOY - VODY 22 [ CLIP OFFICIEL ] (PROD BY QWANN) #BOUYON”</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/kassidje.html</loc>
@@ -1130,9 +1215,14 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/larose.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/larose-bouyon-guadeloupe-1280.jpg</image:loc>
+      <image:title>Larose (bouyon)</image:title>
+      <image:caption>Larose, bouyon artist from Guadeloupe: artist photo (Deezer page)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/le-bluff.html</loc>
@@ -1208,7 +1298,7 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/machel-montano.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -1219,12 +1309,22 @@
       <video:duration>177</video:duration>
       <video:publication_date>2025-08-22</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/machel-montano-bouyon-trinidad-1280.jpg</image:loc>
+      <image:title>Machel Montano (bouyon)</image:title>
+      <image:caption>Machel Montano, bouyon artist from Trinidad and Tobago: still from the video “Machel Montano - Fling It Up ft. Davido (Official Music Video) | Soca 2025”</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/major-lazer.html</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/major-lazer-bouyon-united-states-1280.jpg</image:loc>
+      <image:title>Major Lazer (bouyon)</image:title>
+      <image:caption>Major Lazer, bouyon artist (United States): artist photo (Deezer page)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/mathieu-richardson.html</loc>
@@ -1258,15 +1358,25 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/mr-gwada.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/mr-gwada-bouyon-dominica-1280.jpg</image:loc>
+      <image:title>Mr Gwada (bouyon)</image:title>
+      <image:caption>Mr Gwada, bouyon artist from Dominica: still from the video “MR GWADA Feat  BOBO BANTAN - BIG CHAIN (BOUYON 2026) J2mo”</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/nessa-preppy.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/nessa-preppy-bouyon-trinidad-1280.jpg</image:loc>
+      <image:title>Nessa Preppy (bouyon)</image:title>
+      <image:caption>Nessa Preppy, bouyon artist from Trinidad and Tobago: artist photo (Deezer page)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/nils.html</loc>
@@ -1330,7 +1440,7 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/skinny-fabulous.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -1341,6 +1451,11 @@
       <video:duration>239</video:duration>
       <video:publication_date>2025-11-25</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/skinny-fabulous-bouyon-saint-vincent-1280.jpg</image:loc>
+      <image:title>Skinny Fabulous (bouyon)</image:title>
+      <image:caption>Skinny Fabulous, bouyon artist from Saint Vincent and the Grenadines: still from the video “Skinny Fabulous x Travis World x Suh Raw - Can You Bend (Official Music Video) 2026”</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/stratvincybwoy.html</loc>
@@ -1404,9 +1519,14 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/teyma.html</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/teyma-bouyon-france-1280.jpg</image:loc>
+      <image:title>Teyma (bouyon)</image:title>
+      <image:caption>Teyma, bouyon artist (France): artist photo (Deezer page)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/theodora.html</loc>
@@ -1508,9 +1628,14 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/ysn.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/ysn-bouyon-1280.jpg</image:loc>
+      <image:title>YSN (bouyon)</image:title>
+      <image:caption>YSN, bouyon artist: artist photo (Deezer page)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/yu-mei.html</loc>

@@ -20,6 +20,7 @@ What it does on every page, in French and English, rerun-safe:
 import datetime, glob, hashlib, html, json, os, re, sys, unicodedata
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import yt
+import images
 
 ROOT = os.environ.get("BOUYONMUSIQUE_SITE", os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 BASE = "https://bouyonmusique.com"
@@ -222,7 +223,8 @@ def process(path, rel, hashes):
             if new_h1 != h1:
                 s = s[:h1m.start()] + f"<h1>{esc(new_h1)}</h1>" + s[h1m.end():]
 
-    # 2. skip link and main id
+    # 2. skip link, main id, large image previews
+    s = s.replace('<meta name="robots" content="index, follow">', '<meta name="robots" content="index, follow, max-image-preview:large">', 1)
     if 'class="skip"' not in s:
         s = s.replace("<body>", f'<body>\n<a class="skip" href="#content">{t["skip"]}</a>', 1)
     if "<main>" in s:
@@ -236,6 +238,9 @@ def process(path, rel, hashes):
             any_img = (m.group(3), int(m.group(5)), int(m.group(6)), html.unescape(m.group(4)))
         if not m.group(1) and m.group(2) not in vids:
             vids.append(m.group(2))
+    hero = re.search(r'<figure class="artist-hero">.*?<img src="([^"]+)"[^>]*? alt="([^"]*)"[^>]*? width="(\d+)" height="(\d+)"', main_html, re.S)
+    if hero:
+        any_img = (hero.group(1), int(hero.group(3)), int(hero.group(4)), html.unescape(hero.group(2)))
     first_img = any_img
     if first_img:
         src, w, h, alt = first_img
@@ -336,7 +341,7 @@ def process(path, rel, hashes):
         if changed:
             s = s.replace(raw, dump_like(raw, data), 1)
     open(path, "w", encoding="utf-8").write(s)
-    return dict(url=url, lastmod=lastmod, videos=videos,
+    return dict(url=url, lastmod=lastmod, videos=videos, image=images.page_image(rel),
                 title_len=len(new_title), desc_len=len(new_desc), shortened=new_title != title)
 
 
@@ -370,8 +375,14 @@ def update_sitemaps(info):
             block = re.sub(r"<lastmod>[^<]+</lastmod>", f"<lastmod>{i['lastmod']}</lastmod>", block, count=1)
             if i["videos"] and "<video:video>" not in block:
                 block = block.replace("  </url>", "".join(video_xml(v) for v in i["videos"]) + "  </url>")
+            block = re.sub(r"\s*<image:image>.*?</image:image>", "", block, flags=re.S)
+            if i.get("image"):
+                im = i["image"]
+                block = block.replace("  </url>", f"    <image:image>\n      <image:loc>{im['loc']}</image:loc>\n      <image:title>{esc(im['title'])}</image:title>\n      <image:caption>{esc(im['caption'])}</image:caption>\n    </image:image>\n  </url>")
             return block
         x2 = re.sub(r"<url>.*?</url>", fix, x, flags=re.S)
+        if "<image:image>" in x2 and "xmlns:image" not in x2:
+            x2 = x2.replace('<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"', 1)
         if "<video:video>" in x2 and "xmlns:video" not in x2:
             x2 = x2.replace('<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"', 1)
         if x2 != x:

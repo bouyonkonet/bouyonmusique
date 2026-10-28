@@ -100,6 +100,7 @@ def main():
         x = f.read_text(encoding="utf-8")
         locs += [l.replace(BASE, "") for l in re.findall(r"<url>\s*<loc>([^<]+)</loc>", x)]
         m["video_sitemap_entries"] += x.count("<video:video>")
+        m["image_sitemap_entries"] = m.get("image_sitemap_entries", 0) + x.count("<image:image>")
     m["sitemaps"] = len(files)
     m["sitemap_urls"] = len(locs)
     dup = [l for l, c in collections.Counter(locs).items() if c > 1]
