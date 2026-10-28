@@ -826,5 +826,7 @@ if __name__ == "__main__":
     apply_islands()
     from playlist_links import apply_playlist_links
     apply_playlist_links()
+    from images import apply_images
+    apply_images()
     from onpage import apply_onpage
     apply_onpage()
