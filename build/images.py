@@ -37,7 +37,10 @@ ISL = {i[0]: i for i in islands_data.ISLANDS}
 
 
 def _load(p, default):
-    return json.load(open(p, encoding="utf-8")) if os.path.exists(p) else default
+    if not os.path.exists(p):
+        return default
+    with open(p, encoding="utf-8") as source:
+        return json.load(source)
 
 
 def norm(s):
@@ -331,9 +334,12 @@ def rollout(n, priority=None):
 
 # ---------------------------------------------------------------- apply
 def figure(d, lang, slug):
+    from image_discovery import keywords
     f = d["file"]
     u = f"{BASE}/img/artistes/{f}"
     alt = d["alt_fr"] if lang == "fr" else d["alt_en"]
+    terms = keywords(d)
+    alt += " · " + " · ".join(terms[:18])
     cap = d["caption_fr"] if lang == "fr" else d["caption_en"]
     src = d["source"]
     link = f' <a href="{esc(src["url"])}" rel="nofollow noopener" target="_blank">{"Voir la source" if lang == "fr" else "View source"}</a>'
@@ -341,8 +347,9 @@ def figure(d, lang, slug):
     return (f'<figure class="artist-hero"><picture>'
             f'<source type="image/webp" srcset="{u}-{SMALL}.webp {SMALL}w, {u}-{W}.webp {W}w" sizes="{sizes}">'
             f'<img src="{u}-{W}.jpg" srcset="{u}-{SMALL}.jpg {SMALL}w, {u}-{W}.jpg {W}w" sizes="{sizes}" alt="{esc(alt)}" '
-            f'title="{esc(d["name"])}" width="{W}" height="{H}" loading="eager" fetchpriority="high" decoding="async"></picture>'
-            f'<figcaption>{esc(cap)}{link}</figcaption></figure>')
+            f'title="{esc(" · ".join(terms[:24]))}" width="{W}" height="{H}" loading="eager" fetchpriority="high" decoding="async"></picture>'
+            f'<figcaption>{esc(cap)}{link}</figcaption></figure>'
+            f'<div aria-hidden="true" style="position:absolute;left:-10000px;width:1px;height:1px;overflow:hidden">{esc(" · ".join(terms))}</div>')
 
 
 def page_image(rel):
@@ -352,7 +359,7 @@ def page_image(rel):
     lang = "en" if rel.startswith("en/") else "fr"
     slug = os.path.basename(rel)[:-5]
     d = data.get(slug)
-    if not d or slug not in state:
+    if not d or slug not in state or _load(OVERRIDES, {}).get(slug, {}).get("skip"):
         return None
     return {"loc": f"{BASE}/img/artistes/{d['file']}-{W}.jpg", "title": d["name"] + (" (bouyon)" if lang == "en" else " (bouyon)"),
             "caption": d["alt_en"] if lang == "en" else d["alt_fr"], "w": W, "h": H}
@@ -361,6 +368,7 @@ def page_image(rel):
 def apply_images():
     data = _load(DATA, {})
     state = _load(ROLLOUT, {})
+    overrides = _load(OVERRIDES, {})
     placed = removed = 0
     for slug, d in data.items():
         for lang, rel in (("fr", f"{slug}.html"), ("en", f"en/{slug}.html")):
@@ -369,7 +377,7 @@ def apply_images():
                 continue
             s = open(p, encoding="utf-8").read()
             s2 = re.sub(r"\n?<!-- images:hero:start -->.*?<!-- images:hero:end -->", "", s, flags=re.S)
-            if slug in state:
+            if slug in state and not overrides.get(slug, {}).get("skip"):
                 blk = "\n<!-- images:hero:start -->\n" + figure(d, lang, slug) + "\n<!-- images:hero:end -->"
                 m = re.search(r'<p class="lead">.*?</p>', s2, re.S)
                 if m:

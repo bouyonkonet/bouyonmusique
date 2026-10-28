@@ -828,5 +828,7 @@ if __name__ == "__main__":
     apply_playlist_links()
     from images import apply_images
     apply_images()
+    from image_discovery import apply_discovery
+    apply_discovery()
     from onpage import apply_onpage
     apply_onpage()
