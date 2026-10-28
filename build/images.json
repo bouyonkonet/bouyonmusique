@@ -30,6 +30,34 @@
   },
   "w": 1280
  },
+ "a-plus-musik": {
+  "alt_en": "A-Plus Muzik: profile image from Instagram account @aplusmuzik1",
+  "alt_fr": "A-Plus Muzik : image de profil du compte Instagram @aplusmuzik1",
+  "bytes": {
+   "a-plus-musik-bouyon-ig-20261028-1280.jpg": 81213,
+   "a-plus-musik-bouyon-ig-20261028-1280.webp": 38844,
+   "a-plus-musik-bouyon-ig-20261028-640.jpg": 29729,
+   "a-plus-musik-bouyon-ig-20261028-640.webp": 17148
+  },
+  "caption_en": "Profile image: @aplusmuzik1 on Instagram.",
+  "caption_fr": "Image de profil : @aplusmuzik1 sur Instagram.",
+  "file": "a-plus-musik-bouyon-ig-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": null,
+  "name": "A-Plus Muzik",
+  "revision": "ig-20261028",
+  "sha": "de1073ae43b9",
+  "source": {
+   "channel": "@aplusmuzik1",
+   "id": "aplusmuzik1",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/aplusmuzik1/"
+  },
+  "w": 1280
+ },
  "ac-tafari": {
   "alt_en": "AC Tafari, bouyon artist from Antigua: still from the video “No Ex Back”",
   "alt_fr": "AC Tafari, artiste bouyon de Antigua : image du clip « No Ex Back »",
@@ -229,6 +257,39 @@
   },
   "w": 1280
  },
+ "arendi": {
+  "alt_en": "Arendi: profile image from Instagram account @arendi_971",
+  "alt_fr": "Arendi : image de profil du compte Instagram @arendi_971",
+  "bytes": {
+   "arendi-bouyon-guadeloupe-ig-20261028-1280.jpg": 68618,
+   "arendi-bouyon-guadeloupe-ig-20261028-1280.webp": 38694,
+   "arendi-bouyon-guadeloupe-ig-20261028-640.jpg": 21697,
+   "arendi-bouyon-guadeloupe-ig-20261028-640.webp": 13006
+  },
+  "caption_en": "Profile image: @arendi_971 on Instagram.",
+  "caption_fr": "Image de profil : @arendi_971 sur Instagram.",
+  "file": "arendi-bouyon-guadeloupe-ig-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": {
+   "anchor": "guadeloupe",
+   "code": "gp",
+   "en": "Guadeloupe",
+   "fr": "Guadeloupe"
+  },
+  "name": "Arendi",
+  "revision": "ig-20261028",
+  "sha": "5f7467bb2156",
+  "source": {
+   "channel": "@arendi_971",
+   "id": "arendi_971",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/arendi_971/"
+  },
+  "w": 1280
+ },
  "asa-bantan": {
   "alt_en": "Asa Bantan, bouyon artist from Dominica: artist photo (Deezer page)",
   "alt_fr": "Asa Bantan, artiste bouyon de Dominique : photo de l'artiste (page Deezer)",
@@ -291,6 +352,34 @@
   },
   "w": 1280
  },
+ "bad-gyal-shyanne": {
+  "alt_en": "Bad Gyal Shyanne: profile image from Instagram account @shyannevevo",
+  "alt_fr": "Bad Gyal Shyanne : image de profil du compte Instagram @shyannevevo",
+  "bytes": {
+   "bad-gyal-shyanne-bouyon-ig-20261028-1280.jpg": 63412,
+   "bad-gyal-shyanne-bouyon-ig-20261028-1280.webp": 30152,
+   "bad-gyal-shyanne-bouyon-ig-20261028-640.jpg": 24097,
+   "bad-gyal-shyanne-bouyon-ig-20261028-640.webp": 13636
+  },
+  "caption_en": "Profile image: @shyannevevo on Instagram.",
+  "caption_fr": "Image de profil : @shyannevevo sur Instagram.",
+  "file": "bad-gyal-shyanne-bouyon-ig-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": null,
+  "name": "Bad Gyal Shyanne",
+  "revision": "ig-20261028",
+  "sha": "3a7402112477",
+  "source": {
+   "channel": "@shyannevevo",
+   "id": "shyannevevo",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/shyannevevo/"
+  },
+  "w": 1280
+ },
  "bajan-balotelli": {
   "alt_en": "Bajan Balotelli, bouyon artist from Barbados: still from the video “Bajan Balotelli - LOLLIPOP (Official Audio) Bouyon 2026”",
   "alt_fr": "Bajan Balotelli, artiste bouyon de Barbade : image du clip « Bajan Balotelli - LOLLIPOP (Official Audio) Bouyon 2026 »",
@@ -349,18 +438,74 @@
   },
   "w": 1280
  },
- "benji": {
-  "alt_en": "Benji, bouyon artist from Dominica: artist photo (Deezer page)",
-  "alt_fr": "Benji, artiste bouyon de Dominique : photo de l'artiste (page Deezer)",
+ "baps": {
+  "alt_en": "Baps!, bouyon artist: still from the video “Dj Wizz767 x Baps! - Diamond Boy (Bouyon Remix) || Bouyon 2026”",
+  "alt_fr": "Baps!, artiste bouyon : image du clip « Dj Wizz767 x Baps! - Diamond Boy (Bouyon Remix) || Bouyon 2026 »",
   "bytes": {
-   "benji-bouyon-dominica-1280.jpg": 95353,
-   "benji-bouyon-dominica-1280.webp": 49242,
-   "benji-bouyon-dominica-640.jpg": 34680,
-   "benji-bouyon-dominica-640.webp": 21304
+   "baps-bouyon-yt-20261028-1280.jpg": 74620,
+   "baps-bouyon-yt-20261028-1280.webp": 34156,
+   "baps-bouyon-yt-20261028-640.jpg": 20257,
+   "baps-bouyon-yt-20261028-640.webp": 13146
   },
-  "caption_en": "Image: artist photo from Benji's Deezer page.",
-  "caption_fr": "Image : photo d'artiste de la page Deezer de Benji.",
-  "file": "benji-bouyon-dominica",
+  "caption_en": "Image: YouTube thumbnail of “Dj Wizz767 x Baps! - Diamond Boy (Bouyon Remix) || Bouyon 2026”, Dj Wizz767 channel.",
+  "caption_fr": "Image : miniature YouTube de « Dj Wizz767 x Baps! - Diamond Boy (Bouyon Remix) || Bouyon 2026 », chaîne Dj Wizz767.",
+  "file": "baps-bouyon-yt-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": null,
+  "name": "Baps!",
+  "revision": "yt-20261028",
+  "sha": "d8eae212da0a",
+  "source": {
+   "channel": "Dj Wizz767",
+   "id": "xc14aaQ4SOA",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Dj Wizz767 x Baps! - Diamond Boy (Bouyon Remix) || Bouyon 2026",
+   "url": "https://www.youtube.com/watch?v=xc14aaQ4SOA"
+  },
+  "w": 1280
+ },
+ "beevo": {
+  "alt_en": "Beevo: profile image from Instagram account @beevo767",
+  "alt_fr": "Beevo : image de profil du compte Instagram @beevo767",
+  "bytes": {
+   "beevo-bouyon-ig-20261028-1280.jpg": 76609,
+   "beevo-bouyon-ig-20261028-1280.webp": 31868,
+   "beevo-bouyon-ig-20261028-640.jpg": 26781,
+   "beevo-bouyon-ig-20261028-640.webp": 13790
+  },
+  "caption_en": "Profile image: @beevo767 on Instagram.",
+  "caption_fr": "Image de profil : @beevo767 sur Instagram.",
+  "file": "beevo-bouyon-ig-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": null,
+  "name": "Beevo",
+  "revision": "ig-20261028",
+  "sha": "8ed82dfbe3b7",
+  "source": {
+   "channel": "@beevo767",
+   "id": "beevo767",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/beevo767/"
+  },
+  "w": 1280
+ },
+ "benji": {
+  "alt_en": "Benji: Benji of Triple Kay, WCMF ticket event (2013)",
+  "alt_fr": "Benji : Benji of Triple Kay, WCMF ticket event (2013)",
+  "bytes": {
+   "benji-bouyon-dominica-press-20261028-1280.jpg": 108512,
+   "benji-bouyon-dominica-press-20261028-1280.webp": 52656,
+   "benji-bouyon-dominica-press-20261028-640.jpg": 39792,
+   "benji-bouyon-dominica-press-20261028-640.webp": 24016
+  },
+  "caption_en": "Photo: The Sun Dominica, Benji of Triple Kay, WCMF ticket event (2013).",
+  "caption_fr": "Photo : The Sun Dominica, Benji of Triple Kay, WCMF ticket event (2013).",
+  "file": "benji-bouyon-dominica-press-20261028",
   "gathered": "2026-10-28",
   "h": 720,
   "island": {
@@ -370,13 +515,14 @@
    "fr": "Dominique"
   },
   "name": "Benji",
-  "sha": "91292a53e82c",
+  "revision": "press-20261028",
+  "sha": "1a94e58cfe05",
   "source": {
-   "channel": "Deezer",
-   "id": 14415475,
-   "kind": "deezer",
-   "title": "Benji.",
-   "url": "https://www.deezer.com/artist/14415475"
+   "channel": "The Sun Dominica",
+   "id": "benji-wcmf-2013",
+   "kind": "press",
+   "title": "Benji of Triple Kay, WCMF ticket event (2013)",
+   "url": "https://sundominica.com/articles/wcmf-tickets-hot-spot-dwive-sale-week-end-585/"
   },
   "w": 1280
  },
@@ -404,6 +550,39 @@
    "quality": "maxresdefault",
    "title": "Le Mix Bouyon",
    "url": "https://www.youtube.com/watch?v=r4B25UM9CiI"
+  },
+  "w": 1280
+ },
+ "bernard-gumbs-wizito": {
+  "alt_en": "Bernard Gumbs (Wizito): cover artwork for “Deli”",
+  "alt_fr": "Bernard Gumbs (Wizito) : pochette de « Deli »",
+  "bytes": {
+   "bernard-gumbs-wizito-bouyon-saint-martin-release-20261028-1280.jpg": 111168,
+   "bernard-gumbs-wizito-bouyon-saint-martin-release-20261028-1280.webp": 59630,
+   "bernard-gumbs-wizito-bouyon-saint-martin-release-20261028-640.jpg": 40530,
+   "bernard-gumbs-wizito-bouyon-saint-martin-release-20261028-640.webp": 26384
+  },
+  "caption_en": "Release artwork: “Deli”, Wizito.",
+  "caption_fr": "Pochette : « Deli », Wizito.",
+  "file": "bernard-gumbs-wizito-bouyon-saint-martin-release-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": {
+   "anchor": "saint-martin",
+   "code": "mf",
+   "en": "Saint Martin / Sint Maarten",
+   "fr": "Saint-Martin / Sint Maarten"
+  },
+  "name": "Bernard Gumbs (Wizito)",
+  "revision": "release-20261028",
+  "sha": "9d872ec425fd",
+  "source": {
+   "channel": "Wizito",
+   "id": "track/3391280671",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "Deli",
+   "url": "https://www.deezer.com/track/3391280671"
   },
   "w": 1280
  },
@@ -496,6 +675,39 @@
   },
   "w": 1280
  },
+ "binksdrick": {
+  "alt_en": "Binksdrick: profile image from Instagram account @binksdrick",
+  "alt_fr": "Binksdrick : image de profil du compte Instagram @binksdrick",
+  "bytes": {
+   "binksdrick-bouyon-guadeloupe-ig-20261028-1280.jpg": 52335,
+   "binksdrick-bouyon-guadeloupe-ig-20261028-1280.webp": 23714,
+   "binksdrick-bouyon-guadeloupe-ig-20261028-640.jpg": 20865,
+   "binksdrick-bouyon-guadeloupe-ig-20261028-640.webp": 10938
+  },
+  "caption_en": "Profile image: @binksdrick on Instagram.",
+  "caption_fr": "Image de profil : @binksdrick sur Instagram.",
+  "file": "binksdrick-bouyon-guadeloupe-ig-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": {
+   "anchor": "guadeloupe",
+   "code": "gp",
+   "en": "Guadeloupe",
+   "fr": "Guadeloupe"
+  },
+  "name": "Binksdrick",
+  "revision": "ig-20261028",
+  "sha": "403a76b476fc",
+  "source": {
+   "channel": "@binksdrick",
+   "id": "binksdrick",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/binksdrick/"
+  },
+  "w": 1280
+ },
  "bismok": {
   "alt_en": "Bismok, bouyon artist from Guadeloupe: artist photo (Deezer page)",
   "alt_fr": "Bismok, artiste bouyon de Guadeloupe : photo de l'artiste (page Deezer)",
@@ -585,6 +797,39 @@
   },
   "w": 1280
  },
+ "bonna": {
+  "alt_en": "BONNA: profile image from Instagram account @bonna_nasa",
+  "alt_fr": "BONNA : image de profil du compte Instagram @bonna_nasa",
+  "bytes": {
+   "bonna-bouyon-dominica-ig-20261028-1280.jpg": 82338,
+   "bonna-bouyon-dominica-ig-20261028-1280.webp": 39080,
+   "bonna-bouyon-dominica-ig-20261028-640.jpg": 31175,
+   "bonna-bouyon-dominica-ig-20261028-640.webp": 17464
+  },
+  "caption_en": "Profile image: @bonna_nasa on Instagram.",
+  "caption_fr": "Image de profil : @bonna_nasa sur Instagram.",
+  "file": "bonna-bouyon-dominica-ig-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": {
+   "anchor": "dominica",
+   "code": "dm",
+   "en": "Dominica",
+   "fr": "Dominique"
+  },
+  "name": "BONNA",
+  "revision": "ig-20261028",
+  "sha": "e312b1a0ec0f",
+  "source": {
+   "channel": "@bonna_nasa",
+   "id": "bonna_nasa",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/bonna_nasa/"
+  },
+  "w": 1280
+ },
  "boogy-rankss": {
   "alt_en": "Boogy Rankss, bouyon artist: still from the video “Khallion X Konshens X DeeArr - Stand Up | (Official Video)”",
   "alt_fr": "Boogy Rankss, artiste bouyon : image du clip « Khallion X Konshens X DeeArr - Stand Up | (Official Video) »",
@@ -643,6 +888,34 @@
   },
   "w": 1280
  },
+ "boy-freeze": {
+  "alt_en": "Boy Freeze: profile image from Instagram account @fr3eze3x",
+  "alt_fr": "Boy Freeze : image de profil du compte Instagram @fr3eze3x",
+  "bytes": {
+   "boy-freeze-bouyon-ig-20261028-1280.jpg": 105375,
+   "boy-freeze-bouyon-ig-20261028-1280.webp": 54568,
+   "boy-freeze-bouyon-ig-20261028-640.jpg": 35982,
+   "boy-freeze-bouyon-ig-20261028-640.webp": 22350
+  },
+  "caption_en": "Profile image: @fr3eze3x on Instagram.",
+  "caption_fr": "Image de profil : @fr3eze3x sur Instagram.",
+  "file": "boy-freeze-bouyon-ig-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": null,
+  "name": "Boy Freeze",
+  "revision": "ig-20261028",
+  "sha": "dee422e1d6cc",
+  "source": {
+   "channel": "@fr3eze3x",
+   "id": "fr3eze3x",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/fr3eze3x/"
+  },
+  "w": 1280
+ },
  "brg-hollywood": {
   "alt_en": "BRG Hollywood, bouyon artist (Saint Martin / Sint Maarten): artist photo (Deezer page)",
   "alt_fr": "BRG Hollywood, artiste bouyon (Saint-Martin / Sint Maarten) : photo de l'artiste (page Deezer)",
@@ -671,6 +944,34 @@
    "kind": "deezer",
    "title": "BRG Hollywood",
    "url": "https://www.deezer.com/artist/133260292"
+  },
+  "w": 1280
+ },
+ "brian-lomba": {
+  "alt_en": "Brian Lomba: cover artwork for “Ti bébé”",
+  "alt_fr": "Brian Lomba : pochette de « Ti bébé »",
+  "bytes": {
+   "brian-lomba-bouyon-release-20261028-1280.jpg": 90090,
+   "brian-lomba-bouyon-release-20261028-1280.webp": 50866,
+   "brian-lomba-bouyon-release-20261028-640.jpg": 35102,
+   "brian-lomba-bouyon-release-20261028-640.webp": 22300
+  },
+  "caption_en": "Release artwork: “Ti bébé”, Pinpin OSP.",
+  "caption_fr": "Pochette : « Ti bébé », Pinpin OSP.",
+  "file": "brian-lomba-bouyon-release-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": null,
+  "name": "Brian Lomba",
+  "revision": "release-20261028",
+  "sha": "a3ebe751c1d5",
+  "source": {
+   "channel": "Pinpin OSP",
+   "id": "track/2930454141",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "Ti bébé",
+   "url": "https://www.deezer.com/track/2930454141"
   },
   "w": 1280
  },
@@ -705,29 +1006,64 @@
   },
   "w": 1280
  },
- "c4": {
-  "alt_en": "C4, bouyon artist: artist photo (Deezer page)",
-  "alt_fr": "C4, artiste bouyon : photo de l'artiste (page Deezer)",
+ "bushtown-clan": {
+  "alt_en": "Bushtown Clan, bouyon artist from Dominica: still from the video “bushtown clan - make a move & who wha test”",
+  "alt_fr": "Bushtown Clan, artiste bouyon de Dominique : image du clip « bushtown clan - make a move & who wha test »",
   "bytes": {
-   "c4-bouyon-1280.jpg": 233230,
-   "c4-bouyon-1280.webp": 186838,
-   "c4-bouyon-640.jpg": 63929,
-   "c4-bouyon-640.webp": 51964
+   "bushtown-clan-bouyon-dominica-yt-yyk0l3lwu_e-1280.jpg": 81191,
+   "bushtown-clan-bouyon-dominica-yt-yyk0l3lwu_e-1280.webp": 35224,
+   "bushtown-clan-bouyon-dominica-yt-yyk0l3lwu_e-640.jpg": 32620,
+   "bushtown-clan-bouyon-dominica-yt-yyk0l3lwu_e-640.webp": 17066
   },
-  "caption_en": "Image: artist photo from C4's Deezer page.",
-  "caption_fr": "Image : photo d'artiste de la page Deezer de C4.",
-  "file": "c4-bouyon",
+  "caption_en": "Image: YouTube thumbnail of “bushtown clan - make a move & who wha test”, mashupah99 channel.",
+  "caption_fr": "Image : miniature YouTube de « bushtown clan - make a move & who wha test », chaîne mashupah99.",
+  "file": "bushtown-clan-bouyon-dominica-yt-yyk0l3lwu_e",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": {
+   "anchor": "dominica",
+   "code": "dm",
+   "en": "Dominica",
+   "fr": "Dominique"
+  },
+  "name": "Bushtown Clan",
+  "revision": "yt-yyk0l3lwu_e",
+  "sha": "4051d583af78",
+  "source": {
+   "channel": "mashupah99",
+   "id": "YyK0L3LwU_E",
+   "kind": "youtube",
+   "quality": "hqdefault",
+   "title": "bushtown clan - make a move & who wha test",
+   "url": "https://www.youtube.com/watch?v=YyK0L3LwU_E"
+  },
+  "w": 1280
+ },
+ "c4": {
+  "alt_en": "C4: cover artwork for “Cashin Out Warmup (feat. C4)”",
+  "alt_fr": "C4 : pochette de « Cashin Out Warmup (feat. C4) »",
+  "bytes": {
+   "c4-bouyon-release-20261028-1280.jpg": 155457,
+   "c4-bouyon-release-20261028-1280.webp": 106802,
+   "c4-bouyon-release-20261028-640.jpg": 53737,
+   "c4-bouyon-release-20261028-640.webp": 40088
+  },
+  "caption_en": "Release artwork: “Cashin Out Warmup (feat. C4)”, BRG Hollywood, C4.",
+  "caption_fr": "Pochette : « Cashin Out Warmup (feat. C4) », BRG Hollywood, C4.",
+  "file": "c4-bouyon-release-20261028",
   "gathered": "2026-10-28",
   "h": 720,
   "island": null,
   "name": "C4",
-  "sha": "cb8948b65c50",
+  "revision": "release-20261028",
+  "sha": "e989774fc0df",
   "source": {
-   "channel": "Deezer",
-   "id": 90926,
-   "kind": "deezer",
-   "title": "C4",
-   "url": "https://www.deezer.com/artist/90926"
+   "channel": "BRG Hollywood, C4",
+   "id": "track/4323990132",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "Cashin Out Warmup (feat. C4)",
+   "url": "https://www.deezer.com/track/4323990132"
   },
   "w": 1280
  },
@@ -822,28 +1158,58 @@
   "w": 1280
  },
  "chief": {
-  "alt_en": "Chief, bouyon artist: artist photo (Deezer page)",
-  "alt_fr": "Chief, artiste bouyon : photo de l'artiste (page Deezer)",
+  "alt_en": "Chief, bouyon artist: still from the video “Chief- Strictly Bouyon  2027”",
+  "alt_fr": "Chief, artiste bouyon : image du clip « Chief- Strictly Bouyon  2027 »",
   "bytes": {
-   "chief-bouyon-1280.jpg": 57860,
-   "chief-bouyon-1280.webp": 28482,
-   "chief-bouyon-640.jpg": 22439,
-   "chief-bouyon-640.webp": 12770
+   "chief-bouyon-yt-20261028-1280.jpg": 201165,
+   "chief-bouyon-yt-20261028-1280.webp": 139520,
+   "chief-bouyon-yt-20261028-640.jpg": 79573,
+   "chief-bouyon-yt-20261028-640.webp": 67572
   },
-  "caption_en": "Image: artist photo from Chief's Deezer page.",
-  "caption_fr": "Image : photo d'artiste de la page Deezer de Chief.",
-  "file": "chief-bouyon",
+  "caption_en": "Image: YouTube thumbnail of “Chief- Strictly Bouyon  2027”, CHIEF BOUYON channel.",
+  "caption_fr": "Image : miniature YouTube de « Chief- Strictly Bouyon  2027 », chaîne CHIEF BOUYON.",
+  "file": "chief-bouyon-yt-20261028",
   "gathered": "2026-10-28",
   "h": 720,
   "island": null,
   "name": "Chief",
-  "sha": "17b66701607a",
+  "revision": "yt-20261028",
+  "sha": "e73d10c43db3",
   "source": {
-   "channel": "Deezer",
-   "id": 305434,
-   "kind": "deezer",
-   "title": "Chief",
-   "url": "https://www.deezer.com/artist/305434"
+   "channel": "CHIEF BOUYON",
+   "id": "6qkcVbRNq2c",
+   "kind": "youtube",
+   "quality": "sddefault",
+   "title": "Chief- Strictly Bouyon  2027",
+   "url": "https://www.youtube.com/watch?v=6qkcVbRNq2c"
+  },
+  "w": 1280
+ },
+ "chioneso": {
+  "alt_en": "Chioneso: profile image from Instagram account @chionesobakr",
+  "alt_fr": "Chioneso : image de profil du compte Instagram @chionesobakr",
+  "bytes": {
+   "chioneso-bouyon-ig-20261028-1280.jpg": 50010,
+   "chioneso-bouyon-ig-20261028-1280.webp": 25378,
+   "chioneso-bouyon-ig-20261028-640.jpg": 20345,
+   "chioneso-bouyon-ig-20261028-640.webp": 11816
+  },
+  "caption_en": "Profile image: @chionesobakr on Instagram.",
+  "caption_fr": "Image de profil : @chionesobakr sur Instagram.",
+  "file": "chioneso-bouyon-ig-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": null,
+  "name": "Chioneso",
+  "revision": "ig-20261028",
+  "sha": "fdafac151411",
+  "source": {
+   "channel": "@chionesobakr",
+   "id": "chionesobakr",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/chionesobakr/"
   },
   "w": 1280
  },
@@ -993,6 +1359,39 @@
   },
   "w": 1280
  },
+ "corane-vincent": {
+  "alt_en": "Corane Vincent: cover artwork for “CHABIN (feat. LESTEF & EDDAY)”",
+  "alt_fr": "Corane Vincent : pochette de « CHABIN (feat. LESTEF & EDDAY) »",
+  "bytes": {
+   "corane-vincent-bouyon-guadeloupe-release-20261028-1280.jpg": 60052,
+   "corane-vincent-bouyon-guadeloupe-release-20261028-1280.webp": 27204,
+   "corane-vincent-bouyon-guadeloupe-release-20261028-640.jpg": 24120,
+   "corane-vincent-bouyon-guadeloupe-release-20261028-640.webp": 13186
+  },
+  "caption_en": "Release artwork: “CHABIN (feat. LESTEF & EDDAY)”, DJ Luchshiy, LeStef, Edday.",
+  "caption_fr": "Pochette : « CHABIN (feat. LESTEF & EDDAY) », DJ Luchshiy, LeStef, Edday.",
+  "file": "corane-vincent-bouyon-guadeloupe-release-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": {
+   "anchor": "guadeloupe",
+   "code": "gp",
+   "en": "Guadeloupe",
+   "fr": "Guadeloupe"
+  },
+  "name": "Corane Vincent",
+  "revision": "release-20261028",
+  "sha": "71896411023c",
+  "source": {
+   "channel": "DJ Luchshiy, LeStef, Edday",
+   "id": "track/2624941932",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "CHABIN (feat. LESTEF & EDDAY)",
+   "url": "https://www.deezer.com/track/2624941932"
+  },
+  "w": 1280
+ },
  "cornell-phillip": {
   "alt_en": "Cornell Phillip, bouyon artist from Dominica: artist photo (Deezer page)",
   "alt_fr": "Cornell Phillip, artiste bouyon de Dominique : photo de l'artiste (page Deezer)",
@@ -1024,6 +1423,34 @@
   },
   "w": 1280
  },
+ "d-mitri": {
+  "alt_en": "D-Mitri: profile image from Instagram account @dmitribts",
+  "alt_fr": "D-Mitri : image de profil du compte Instagram @dmitribts",
+  "bytes": {
+   "d-mitri-bouyon-ig-20261028-1280.jpg": 83445,
+   "d-mitri-bouyon-ig-20261028-1280.webp": 43628,
+   "d-mitri-bouyon-ig-20261028-640.jpg": 30971,
+   "d-mitri-bouyon-ig-20261028-640.webp": 17982
+  },
+  "caption_en": "Profile image: @dmitribts on Instagram.",
+  "caption_fr": "Image de profil : @dmitribts sur Instagram.",
+  "file": "d-mitri-bouyon-ig-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": null,
+  "name": "D-Mitri",
+  "revision": "ig-20261028",
+  "sha": "775f6e2761ab",
+  "source": {
+   "channel": "@dmitribts",
+   "id": "dmitribts",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/dmitribts/"
+  },
+  "w": 1280
+ },
  "d0-production": {
   "alt_en": "D0 Production, bouyon artist from Guadeloupe: artist photo (Deezer page)",
   "alt_fr": "D0 Production, artiste bouyon de Guadeloupe : photo de l'artiste (page Deezer)",
@@ -1052,6 +1479,105 @@
    "kind": "deezer",
    "title": "D0 production",
    "url": "https://www.deezer.com/artist/95809002"
+  },
+  "w": 1280
+ },
+ "d4a-nillio": {
+  "alt_en": "D4A Nillio: profile image from Instagram account @d4anillio",
+  "alt_fr": "D4A Nillio : image de profil du compte Instagram @d4anillio",
+  "bytes": {
+   "d4a-nillio-bouyon-saint-martin-ig-20261028-1280.jpg": 88488,
+   "d4a-nillio-bouyon-saint-martin-ig-20261028-1280.webp": 43660,
+   "d4a-nillio-bouyon-saint-martin-ig-20261028-640.jpg": 28596,
+   "d4a-nillio-bouyon-saint-martin-ig-20261028-640.webp": 16256
+  },
+  "caption_en": "Profile image: @d4anillio on Instagram.",
+  "caption_fr": "Image de profil : @d4anillio sur Instagram.",
+  "file": "d4a-nillio-bouyon-saint-martin-ig-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": {
+   "anchor": "saint-martin",
+   "code": "mf",
+   "en": "Saint Martin / Sint Maarten",
+   "fr": "Saint-Martin / Sint Maarten"
+  },
+  "name": "D4A Nillio",
+  "revision": "ig-20261028",
+  "sha": "087abb73e520",
+  "source": {
+   "channel": "@d4anillio",
+   "id": "d4anillio",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/d4anillio/"
+  },
+  "w": 1280
+ },
+ "dada": {
+  "alt_en": "Dada: cover artwork for “Famalay”",
+  "alt_fr": "Dada : pochette de « Famalay »",
+  "bytes": {
+   "dada-bouyon-dominica-release-20261028-1280.jpg": 73145,
+   "dada-bouyon-dominica-release-20261028-1280.webp": 38116,
+   "dada-bouyon-dominica-release-20261028-640.jpg": 30179,
+   "dada-bouyon-dominica-release-20261028-640.webp": 17730
+  },
+  "caption_en": "Release artwork: “Famalay”, Skinny Fabulous.",
+  "caption_fr": "Pochette : « Famalay », Skinny Fabulous.",
+  "file": "dada-bouyon-dominica-release-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": {
+   "anchor": "dominica",
+   "code": "dm",
+   "en": "Dominica",
+   "fr": "Dominique"
+  },
+  "name": "Dada",
+  "revision": "release-20261028",
+  "sha": "76e8d30350d8",
+  "source": {
+   "channel": "Skinny Fabulous",
+   "id": "track/2005447437",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "Famalay",
+   "url": "https://www.deezer.com/track/2005447437"
+  },
+  "w": 1280
+ },
+ "daddy-chess": {
+  "alt_en": "Daddy Chess: cover artwork for “Champion Riddim”",
+  "alt_fr": "Daddy Chess : pochette de « Champion Riddim »",
+  "bytes": {
+   "daddy-chess-bouyon-dominica-release-20261028-1280.jpg": 119221,
+   "daddy-chess-bouyon-dominica-release-20261028-1280.webp": 79596,
+   "daddy-chess-bouyon-dominica-release-20261028-640.jpg": 40211,
+   "daddy-chess-bouyon-dominica-release-20261028-640.webp": 28782
+  },
+  "caption_en": "Release artwork: “Champion Riddim”, R.B.M.",
+  "caption_fr": "Pochette : « Champion Riddim », R.B.M.",
+  "file": "daddy-chess-bouyon-dominica-release-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": {
+   "anchor": "dominica",
+   "code": "dm",
+   "en": "Dominica",
+   "fr": "Dominique"
+  },
+  "name": "Daddy Chess",
+  "revision": "release-20261028",
+  "sha": "a780c9813187",
+  "source": {
+   "channel": "R.B.M",
+   "id": "album/87523392",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "Champion Riddim",
+   "url": "https://www.deezer.com/album/87523392"
   },
   "w": 1280
  },
@@ -1150,6 +1676,67 @@
   },
   "w": 1280
  },
+ "david-campana": {
+  "alt_en": "David Campana: profile image from Instagram account @dav.campana",
+  "alt_fr": "David Campana : image de profil du compte Instagram @dav.campana",
+  "bytes": {
+   "david-campana-bouyon-canada-ig-20261028-1280.jpg": 148340,
+   "david-campana-bouyon-canada-ig-20261028-1280.webp": 101424,
+   "david-campana-bouyon-canada-ig-20261028-640.jpg": 43918,
+   "david-campana-bouyon-canada-ig-20261028-640.webp": 31098
+  },
+  "caption_en": "Profile image: @dav.campana on Instagram.",
+  "caption_fr": "Image de profil : @dav.campana sur Instagram.",
+  "file": "david-campana-bouyon-canada-ig-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": {
+   "anchor": "canada",
+   "code": "ca",
+   "en": "Canada",
+   "fr": "Canada"
+  },
+  "name": "David Campana",
+  "revision": "ig-20261028",
+  "sha": "ccc6b4714c6a",
+  "source": {
+   "channel": "@dav.campana",
+   "id": "dav.campana",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/dav.campana/"
+  },
+  "w": 1280
+ },
+ "dboss": {
+  "alt_en": "Dboss, bouyon artist: still from the video “Skrazy, Dboss, & Ras B - Come Here [Official Visualizer] (Bouyon 2027)”",
+  "alt_fr": "Dboss, artiste bouyon : image du clip « Skrazy, Dboss, & Ras B - Come Here [Official Visualizer] (Bouyon 2027) »",
+  "bytes": {
+   "dboss-bouyon-yt-20261028-1280.jpg": 127528,
+   "dboss-bouyon-yt-20261028-1280.webp": 77984,
+   "dboss-bouyon-yt-20261028-640.jpg": 49900,
+   "dboss-bouyon-yt-20261028-640.webp": 32954
+  },
+  "caption_en": "Image: YouTube thumbnail of “Skrazy, Dboss, & Ras B - Come Here [Official Visualizer] (Bouyon 2027)”, DJTaffy Tha Riddim Beast channel.",
+  "caption_fr": "Image : miniature YouTube de « Skrazy, Dboss, & Ras B - Come Here [Official Visualizer] (Bouyon 2027) », chaîne DJTaffy Tha Riddim Beast.",
+  "file": "dboss-bouyon-yt-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": null,
+  "name": "Dboss",
+  "revision": "yt-20261028",
+  "sha": "9936b26bbfbf",
+  "source": {
+   "channel": "DJTaffy Tha Riddim Beast",
+   "id": "axvKShycoq4",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Skrazy, Dboss, & Ras B - Come Here [Official Visualizer] (Bouyon 2027)",
+   "url": "https://www.youtube.com/watch?v=axvKShycoq4"
+  },
+  "w": 1280
+ },
  "dcamp": {
   "alt_en": "Dcamp, bouyon artist from Guadeloupe: artist photo (Deezer page)",
   "alt_fr": "Dcamp, artiste bouyon de Guadeloupe : photo de l'artiste (page Deezer)",
@@ -1178,6 +1765,34 @@
    "kind": "deezer",
    "title": "Dcamp",
    "url": "https://www.deezer.com/artist/14118415"
+  },
+  "w": 1280
+ },
+ "dcamp-lewismelo": {
+  "alt_en": "Dcamp & Lewismelo, bouyon artist: still from the video “YOU AND ME - Dcamp & Lewismelo & Admiral T”",
+  "alt_fr": "Dcamp & Lewismelo, artiste bouyon : image du clip « YOU AND ME - Dcamp & Lewismelo & Admiral T »",
+  "bytes": {
+   "dcamp-lewismelo-bouyon-yt-20261028-1280.jpg": 75274,
+   "dcamp-lewismelo-bouyon-yt-20261028-1280.webp": 46274,
+   "dcamp-lewismelo-bouyon-yt-20261028-640.jpg": 32495,
+   "dcamp-lewismelo-bouyon-yt-20261028-640.webp": 19772
+  },
+  "caption_en": "Image: YouTube thumbnail of “YOU AND ME - Dcamp & Lewismelo & Admiral T”, Dcamp channel.",
+  "caption_fr": "Image : miniature YouTube de « YOU AND ME - Dcamp & Lewismelo & Admiral T », chaîne Dcamp.",
+  "file": "dcamp-lewismelo-bouyon-yt-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": null,
+  "name": "Dcamp & Lewismelo",
+  "revision": "yt-20261028",
+  "sha": "cadedf969814",
+  "source": {
+   "channel": "Dcamp",
+   "id": "wEl7GmCMkpw",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "YOU AND ME - Dcamp & Lewismelo & Admiral T",
+   "url": "https://www.youtube.com/watch?v=wEl7GmCMkpw"
   },
   "w": 1280
  },
@@ -1231,6 +1846,62 @@
    "kind": "deezer",
    "title": "DeeArr",
    "url": "https://www.deezer.com/artist/144737812"
+  },
+  "w": 1280
+ },
+ "deejay-guyguy": {
+  "alt_en": "Deejay Guyguy: profile image from Instagram account @deejay_guyguy97",
+  "alt_fr": "Deejay Guyguy : image de profil du compte Instagram @deejay_guyguy97",
+  "bytes": {
+   "deejay-guyguy-bouyon-ig-20261028-1280.jpg": 156188,
+   "deejay-guyguy-bouyon-ig-20261028-1280.webp": 105140,
+   "deejay-guyguy-bouyon-ig-20261028-640.jpg": 53966,
+   "deejay-guyguy-bouyon-ig-20261028-640.webp": 39430
+  },
+  "caption_en": "Profile image: @deejay_guyguy97 on Instagram.",
+  "caption_fr": "Image de profil : @deejay_guyguy97 sur Instagram.",
+  "file": "deejay-guyguy-bouyon-ig-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": null,
+  "name": "Deejay Guyguy",
+  "revision": "ig-20261028",
+  "sha": "ab40874480eb",
+  "source": {
+   "channel": "@deejay_guyguy97",
+   "id": "deejay_guyguy97",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/deejay_guyguy97/"
+  },
+  "w": 1280
+ },
+ "deejay-twix": {
+  "alt_en": "Deejay Twix, bouyon artist: still from the video “Valiant - Time Capsule (bouyon remix) prod by deejay twix”",
+  "alt_fr": "Deejay Twix, artiste bouyon : image du clip « Valiant - Time Capsule (bouyon remix) prod by deejay twix »",
+  "bytes": {
+   "deejay-twix-bouyon-yt-20261028-1280.jpg": 82281,
+   "deejay-twix-bouyon-yt-20261028-1280.webp": 44590,
+   "deejay-twix-bouyon-yt-20261028-640.jpg": 28894,
+   "deejay-twix-bouyon-yt-20261028-640.webp": 17858
+  },
+  "caption_en": "Image: YouTube thumbnail of “Valiant - Time Capsule (bouyon remix) prod by deejay twix”, deejay twix channel.",
+  "caption_fr": "Image : miniature YouTube de « Valiant - Time Capsule (bouyon remix) prod by deejay twix », chaîne deejay twix.",
+  "file": "deejay-twix-bouyon-yt-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": null,
+  "name": "Deejay Twix",
+  "revision": "yt-20261028",
+  "sha": "e64b39b089d8",
+  "source": {
+   "channel": "deejay twix",
+   "id": "_39PqtpGIYI",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Valiant - Time Capsule (bouyon remix) prod by deejay twix",
+   "url": "https://www.youtube.com/watch?v=_39PqtpGIYI"
   },
   "w": 1280
  },
@@ -1293,6 +1964,72 @@
    "kind": "deezer",
    "title": "DENMATH",
    "url": "https://www.deezer.com/artist/89908272"
+  },
+  "w": 1280
+ },
+ "derek-rah-peters": {
+  "alt_en": "Derek Rah Peters, bouyon artist from Dominica: still from the video “Derick \"Rah\" Peters”",
+  "alt_fr": "Derek Rah Peters, artiste bouyon de Dominique : image du clip « Derick \"Rah\" Peters »",
+  "bytes": {
+   "derek-rah-peters-bouyon-dominica-yt-bpxjqgd-jqa-1280.jpg": 91627,
+   "derek-rah-peters-bouyon-dominica-yt-bpxjqgd-jqa-1280.webp": 42314,
+   "derek-rah-peters-bouyon-dominica-yt-bpxjqgd-jqa-640.jpg": 36617,
+   "derek-rah-peters-bouyon-dominica-yt-bpxjqgd-jqa-640.webp": 20710
+  },
+  "caption_en": "Image: YouTube thumbnail of “Derick \"Rah\" Peters”, Commonwealth of Dominica Cultural Division channel.",
+  "caption_fr": "Image : miniature YouTube de « Derick \"Rah\" Peters », chaîne Commonwealth of Dominica Cultural Division.",
+  "file": "derek-rah-peters-bouyon-dominica-yt-bpxjqgd-jqa",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": {
+   "anchor": "dominica",
+   "code": "dm",
+   "en": "Dominica",
+   "fr": "Dominique"
+  },
+  "name": "Derek Rah Peters",
+  "revision": "yt-bpxjqgd-jqa",
+  "sha": "6d632e5f667f",
+  "source": {
+   "channel": "Commonwealth of Dominica Cultural Division",
+   "id": "BPXjqgD-jQA",
+   "kind": "youtube",
+   "quality": "sddefault",
+   "title": "Derick \"Rah\" Peters",
+   "url": "https://www.youtube.com/watch?v=BPXjqgD-jQA"
+  },
+  "w": 1280
+ },
+ "dernel-green": {
+  "alt_en": "Dernel Green: profile image from Instagram account @dernz.wav",
+  "alt_fr": "Dernel Green : image de profil du compte Instagram @dernz.wav",
+  "bytes": {
+   "dernel-green-bouyon-dominica-ig-20261028-1280.jpg": 66818,
+   "dernel-green-bouyon-dominica-ig-20261028-1280.webp": 29400,
+   "dernel-green-bouyon-dominica-ig-20261028-640.jpg": 24455,
+   "dernel-green-bouyon-dominica-ig-20261028-640.webp": 12400
+  },
+  "caption_en": "Profile image: @dernz.wav on Instagram.",
+  "caption_fr": "Image de profil : @dernz.wav sur Instagram.",
+  "file": "dernel-green-bouyon-dominica-ig-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": {
+   "anchor": "dominica",
+   "code": "dm",
+   "en": "Dominica",
+   "fr": "Dominique"
+  },
+  "name": "Dernel Green",
+  "revision": "ig-20261028",
+  "sha": "58312b00e5bf",
+  "source": {
+   "channel": "@dernz.wav",
+   "id": "dernz.wav",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/dernz.wav/"
   },
   "w": 1280
  },
@@ -1402,6 +2139,39 @@
   },
   "w": 1280
  },
+ "dinho": {
+  "alt_en": "Dinho: profile image from Instagram account @don_dinho18",
+  "alt_fr": "Dinho : image de profil du compte Instagram @don_dinho18",
+  "bytes": {
+   "dinho-bouyon-guadeloupe-ig-20261028-1280.jpg": 76174,
+   "dinho-bouyon-guadeloupe-ig-20261028-1280.webp": 32014,
+   "dinho-bouyon-guadeloupe-ig-20261028-640.jpg": 30159,
+   "dinho-bouyon-guadeloupe-ig-20261028-640.webp": 15746
+  },
+  "caption_en": "Profile image: @don_dinho18 on Instagram.",
+  "caption_fr": "Image de profil : @don_dinho18 sur Instagram.",
+  "file": "dinho-bouyon-guadeloupe-ig-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": {
+   "anchor": "guadeloupe",
+   "code": "gp",
+   "en": "Guadeloupe",
+   "fr": "Guadeloupe"
+  },
+  "name": "Dinho",
+  "revision": "ig-20261028",
+  "sha": "6a3cdc955d60",
+  "source": {
+   "channel": "@don_dinho18",
+   "id": "don_dinho18",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/don_dinho18/"
+  },
+  "w": 1280
+ },
  "dj-boko": {
   "alt_en": "DJ Boko, bouyon artist: artist photo (Deezer page)",
   "alt_fr": "DJ Boko, artiste bouyon : photo de l'artiste (page Deezer)",
@@ -1425,6 +2195,72 @@
    "kind": "deezer",
    "title": "DJ BOKO",
    "url": "https://www.deezer.com/artist/318130481"
+  },
+  "w": 1280
+ },
+ "dj-cut": {
+  "alt_en": "DJ Cut: profile image from Instagram account @bucktowndjcut",
+  "alt_fr": "DJ Cut : image de profil du compte Instagram @bucktowndjcut",
+  "bytes": {
+   "dj-cut-bouyon-dominica-ig-20261028-1280.jpg": 155254,
+   "dj-cut-bouyon-dominica-ig-20261028-1280.webp": 108136,
+   "dj-cut-bouyon-dominica-ig-20261028-640.jpg": 46254,
+   "dj-cut-bouyon-dominica-ig-20261028-640.webp": 32498
+  },
+  "caption_en": "Profile image: @bucktowndjcut on Instagram.",
+  "caption_fr": "Image de profil : @bucktowndjcut sur Instagram.",
+  "file": "dj-cut-bouyon-dominica-ig-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": {
+   "anchor": "dominica",
+   "code": "dm",
+   "en": "Dominica",
+   "fr": "Dominique"
+  },
+  "name": "DJ Cut",
+  "revision": "ig-20261028",
+  "sha": "bb1ecbbda9d0",
+  "source": {
+   "channel": "@bucktowndjcut",
+   "id": "bucktowndjcut",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/bucktowndjcut/"
+  },
+  "w": 1280
+ },
+ "dj-demafidem": {
+  "alt_en": "DJ Demafidem: profile image from Instagram account @djdemafidem",
+  "alt_fr": "DJ Demafidem : image de profil du compte Instagram @djdemafidem",
+  "bytes": {
+   "dj-demafidem-bouyon-guadeloupe-ig-20261028-1280.jpg": 52486,
+   "dj-demafidem-bouyon-guadeloupe-ig-20261028-1280.webp": 24086,
+   "dj-demafidem-bouyon-guadeloupe-ig-20261028-640.jpg": 18434,
+   "dj-demafidem-bouyon-guadeloupe-ig-20261028-640.webp": 10186
+  },
+  "caption_en": "Profile image: @djdemafidem on Instagram.",
+  "caption_fr": "Image de profil : @djdemafidem sur Instagram.",
+  "file": "dj-demafidem-bouyon-guadeloupe-ig-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": {
+   "anchor": "guadeloupe",
+   "code": "gp",
+   "en": "Guadeloupe",
+   "fr": "Guadeloupe"
+  },
+  "name": "DJ Demafidem",
+  "revision": "ig-20261028",
+  "sha": "bcb64ad4118a",
+  "source": {
+   "channel": "@djdemafidem",
+   "id": "djdemafidem",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/djdemafidem/"
   },
   "w": 1280
  },
@@ -1483,6 +2319,34 @@
    "quality": "maxresdefault",
    "title": "Another Night (feat. Fetty Mark)",
    "url": "https://www.youtube.com/watch?v=aEUZb0h9qDM"
+  },
+  "w": 1280
+ },
+ "dj-joe": {
+  "alt_en": "DJ Joe: profile image from Instagram account @djjoe_767",
+  "alt_fr": "DJ Joe : image de profil du compte Instagram @djjoe_767",
+  "bytes": {
+   "dj-joe-bouyon-ig-20261028-1280.jpg": 201351,
+   "dj-joe-bouyon-ig-20261028-1280.webp": 156014,
+   "dj-joe-bouyon-ig-20261028-640.jpg": 55728,
+   "dj-joe-bouyon-ig-20261028-640.webp": 42142
+  },
+  "caption_en": "Profile image: @djjoe_767 on Instagram.",
+  "caption_fr": "Image de profil : @djjoe_767 sur Instagram.",
+  "file": "dj-joe-bouyon-ig-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": null,
+  "name": "DJ Joe",
+  "revision": "ig-20261028",
+  "sha": "63f6334b5905",
+  "source": {
+   "channel": "@djjoe_767",
+   "id": "djjoe_767",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/djjoe_767/"
   },
   "w": 1280
  },
@@ -1733,6 +2597,34 @@
   },
   "w": 1280
  },
+ "dj-skylone": {
+  "alt_en": "DJ Skaylone: cover artwork for “Ou Ja Vley (feat. Dj Skaylone)”",
+  "alt_fr": "DJ Skaylone : pochette de « Ou Ja Vley (feat. Dj Skaylone) »",
+  "bytes": {
+   "dj-skylone-bouyon-release-20261028-1280.jpg": 50049,
+   "dj-skylone-bouyon-release-20261028-1280.webp": 14666,
+   "dj-skylone-bouyon-release-20261028-640.jpg": 14236,
+   "dj-skylone-bouyon-release-20261028-640.webp": 6896
+  },
+  "caption_en": "Release artwork: “Ou Ja Vley (feat. Dj Skaylone)”, Wawane04, Dj Skaylone.",
+  "caption_fr": "Pochette : « Ou Ja Vley (feat. Dj Skaylone) », Wawane04, Dj Skaylone.",
+  "file": "dj-skylone-bouyon-release-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": null,
+  "name": "DJ Skaylone",
+  "revision": "release-20261028",
+  "sha": "6048563330e9",
+  "source": {
+   "channel": "Wawane04, Dj Skaylone",
+   "id": "track/4083049241",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "Ou Ja Vley (feat. Dj Skaylone)",
+   "url": "https://www.deezer.com/track/4083049241"
+  },
+  "w": 1280
+ },
  "dj-sleem": {
   "alt_en": "DJ Sleem, bouyon artist from Dominica: still from the video “2025 Bouyon Mix”",
   "alt_fr": "DJ Sleem, artiste bouyon de Dominique : image du clip « 2025 Bouyon Mix »",
@@ -1888,6 +2780,34 @@
    "quality": "maxresdefault",
    "title": "DJ TKRYS - Active ton Mode Bouyon 2023 | The Best of Bouyon 2023",
    "url": "https://www.youtube.com/watch?v=R2IyIJlzu8o"
+  },
+  "w": 1280
+ },
+ "dj-weez": {
+  "alt_en": "DJ Weez: cover artwork for “Sa Ka Débodé”",
+  "alt_fr": "DJ Weez : pochette de « Sa Ka Débodé »",
+  "bytes": {
+   "dj-weez-bouyon-release-20261028-1280.jpg": 75432,
+   "dj-weez-bouyon-release-20261028-1280.webp": 35084,
+   "dj-weez-bouyon-release-20261028-640.jpg": 30561,
+   "dj-weez-bouyon-release-20261028-640.webp": 16976
+  },
+  "caption_en": "Release artwork: “Sa Ka Débodé”, Bilix, Mr Boka.",
+  "caption_fr": "Pochette : « Sa Ka Débodé », Bilix, Mr Boka.",
+  "file": "dj-weez-bouyon-release-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": null,
+  "name": "DJ Weez",
+  "revision": "release-20261028",
+  "sha": "b7d9330e56de",
+  "source": {
+   "channel": "Bilix, Mr Boka",
+   "id": "track/1413228842",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "Sa Ka Débodé",
+   "url": "https://www.deezer.com/track/1413228842"
   },
   "w": 1280
  },
@@ -2066,6 +2986,105 @@
   },
   "w": 1280
  },
+ "doc-j": {
+  "alt_en": "Doc J, bouyon artist from Guadeloupe: still from the video “Doc J \"valey pa crachey\"_new bouyon juillet 2012”",
+  "alt_fr": "Doc J, artiste bouyon de Guadeloupe : image du clip « Doc J \"valey pa crachey\"_new bouyon juillet 2012 »",
+  "bytes": {
+   "doc-j-bouyon-guadeloupe-yt-jizaqlvwwbe-1280.jpg": 62741,
+   "doc-j-bouyon-guadeloupe-yt-jizaqlvwwbe-1280.webp": 33342,
+   "doc-j-bouyon-guadeloupe-yt-jizaqlvwwbe-640.jpg": 23370,
+   "doc-j-bouyon-guadeloupe-yt-jizaqlvwwbe-640.webp": 14766
+  },
+  "caption_en": "Image: YouTube thumbnail of “Doc J \"valey pa crachey\"_new bouyon juillet 2012”, LeDoc J Officiel channel.",
+  "caption_fr": "Image : miniature YouTube de « Doc J \"valey pa crachey\"_new bouyon juillet 2012 », chaîne LeDoc J Officiel.",
+  "file": "doc-j-bouyon-guadeloupe-yt-jizaqlvwwbe",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": {
+   "anchor": "guadeloupe",
+   "code": "gp",
+   "en": "Guadeloupe",
+   "fr": "Guadeloupe"
+  },
+  "name": "Doc J",
+  "revision": "yt-jizaqlvwwbe",
+  "sha": "c95e7e60fd2d",
+  "source": {
+   "channel": "LeDoc J Officiel",
+   "id": "JIZAqlVwWbE",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Doc J \"valey pa crachey\"_new bouyon juillet 2012",
+   "url": "https://www.youtube.com/watch?v=JIZAqlVwWbE"
+  },
+  "w": 1280
+ },
+ "don-lash": {
+  "alt_en": "Don Lash: profile image from Instagram account @1donlash767",
+  "alt_fr": "Don Lash : image de profil du compte Instagram @1donlash767",
+  "bytes": {
+   "don-lash-bouyon-dominica-ig-20261028-1280.jpg": 82031,
+   "don-lash-bouyon-dominica-ig-20261028-1280.webp": 39598,
+   "don-lash-bouyon-dominica-ig-20261028-640.jpg": 28821,
+   "don-lash-bouyon-dominica-ig-20261028-640.webp": 14760
+  },
+  "caption_en": "Profile image: @1donlash767 on Instagram.",
+  "caption_fr": "Image de profil : @1donlash767 sur Instagram.",
+  "file": "don-lash-bouyon-dominica-ig-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": {
+   "anchor": "dominica",
+   "code": "dm",
+   "en": "Dominica",
+   "fr": "Dominique"
+  },
+  "name": "Don Lash",
+  "revision": "ig-20261028",
+  "sha": "746b25aa14e3",
+  "source": {
+   "channel": "@1donlash767",
+   "id": "1donlash767",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/1donlash767/"
+  },
+  "w": 1280
+ },
+ "dova": {
+  "alt_en": "Dova: profile image from Instagram account @dovamorespeed",
+  "alt_fr": "Dova : image de profil du compte Instagram @dovamorespeed",
+  "bytes": {
+   "dova-bouyon-dominica-ig-20261028-1280.jpg": 70528,
+   "dova-bouyon-dominica-ig-20261028-1280.webp": 37434,
+   "dova-bouyon-dominica-ig-20261028-640.jpg": 26767,
+   "dova-bouyon-dominica-ig-20261028-640.webp": 16804
+  },
+  "caption_en": "Profile image: @dovamorespeed on Instagram.",
+  "caption_fr": "Image de profil : @dovamorespeed sur Instagram.",
+  "file": "dova-bouyon-dominica-ig-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": {
+   "anchor": "dominica",
+   "code": "dm",
+   "en": "Dominica",
+   "fr": "Dominique"
+  },
+  "name": "Dova",
+  "revision": "ig-20261028",
+  "sha": "c9b29c06728b",
+  "source": {
+   "channel": "@dovamorespeed",
+   "id": "dovamorespeed",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/dovamorespeed/"
+  },
+  "w": 1280
+ },
  "dpeng": {
   "alt_en": "DPENG, bouyon artist from Dominica: still from the video “DPENG FT SOCA INFERNO-SECRET BAY (Bouyon 2026)”",
   "alt_fr": "DPENG, artiste bouyon de Dominique : image du clip « DPENG FT SOCA INFERNO-SECRET BAY (Bouyon 2026) »",
@@ -2157,6 +3176,39 @@
   },
   "w": 1280
  },
+ "earlson-matthew": {
+  "alt_en": "Earlson Matthew, bouyon artist from Dominica: still from the video “Mr Delly x Likkle Man - How De Band Playing”",
+  "alt_fr": "Earlson Matthew, artiste bouyon de Dominique : image du clip « Mr Delly x Likkle Man - How De Band Playing »",
+  "bytes": {
+   "earlson-matthew-bouyon-dominica-yt-ucsooaz2sbk-1280.jpg": 70009,
+   "earlson-matthew-bouyon-dominica-yt-ucsooaz2sbk-1280.webp": 33876,
+   "earlson-matthew-bouyon-dominica-yt-ucsooaz2sbk-640.jpg": 30387,
+   "earlson-matthew-bouyon-dominica-yt-ucsooaz2sbk-640.webp": 17242
+  },
+  "caption_en": "Image: YouTube thumbnail of “Mr Delly x Likkle Man - How De Band Playing”, Mr Delly channel.",
+  "caption_fr": "Image : miniature YouTube de « Mr Delly x Likkle Man - How De Band Playing », chaîne Mr Delly.",
+  "file": "earlson-matthew-bouyon-dominica-yt-ucsooaz2sbk",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": {
+   "anchor": "dominica",
+   "code": "dm",
+   "en": "Dominica",
+   "fr": "Dominique"
+  },
+  "name": "Earlson Matthew",
+  "revision": "yt-ucsooaz2sbk",
+  "sha": "a91a2ad1aed8",
+  "source": {
+   "channel": "Mr Delly",
+   "id": "UCSOoaZ2sBk",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Mr Delly x Likkle Man - How De Band Playing",
+   "url": "https://www.youtube.com/watch?v=UCSOoaZ2sBk"
+  },
+  "w": 1280
+ },
  "ebony-empress": {
   "alt_en": "Ebony Empress, bouyon artist from Dominica: artist photo (Deezer page)",
   "alt_fr": "Ebony Empress, artiste bouyon de Dominique : photo de l'artiste (page Deezer)",
@@ -2243,6 +3295,34 @@
    "quality": "maxresdefault",
    "title": "Eks - Tru nuh boi refix (bouyon 2024) #GOFASTMUSIC",
    "url": "https://www.youtube.com/watch?v=7gPO1Bas8VM"
+  },
+  "w": 1280
+ },
+ "erwinchy": {
+  "alt_en": "Erwinchy, bouyon artist: still from the video “IGNITION FT ERWINCHY- MALKASE  4.0 EDITION”",
+  "alt_fr": "Erwinchy, artiste bouyon : image du clip « IGNITION FT ERWINCHY- MALKASE  4.0 EDITION »",
+  "bytes": {
+   "erwinchy-bouyon-yt-fvqy756qo7i-1280.jpg": 118670,
+   "erwinchy-bouyon-yt-fvqy756qo7i-1280.webp": 61746,
+   "erwinchy-bouyon-yt-fvqy756qo7i-640.jpg": 49906,
+   "erwinchy-bouyon-yt-fvqy756qo7i-640.webp": 32144
+  },
+  "caption_en": "Image: YouTube thumbnail of “IGNITION FT ERWINCHY- MALKASE  4.0 EDITION”, IGNITION BAND channel.",
+  "caption_fr": "Image : miniature YouTube de « IGNITION FT ERWINCHY- MALKASE  4.0 EDITION », chaîne IGNITION BAND.",
+  "file": "erwinchy-bouyon-yt-fvqy756qo7i",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": null,
+  "name": "Erwinchy",
+  "revision": "yt-fvqy756qo7i",
+  "sha": "0f8b845707c8",
+  "source": {
+   "channel": "IGNITION BAND",
+   "id": "FvqY756QO7I",
+   "kind": "youtube",
+   "quality": "sddefault",
+   "title": "IGNITION FT ERWINCHY- MALKASE  4.0 EDITION",
+   "url": "https://www.youtube.com/watch?v=FvqY756QO7I"
   },
   "w": 1280
  },
@@ -2421,6 +3501,67 @@
   },
   "w": 1280
  },
+ "fireman-lee": {
+  "alt_en": "Fireman Lee: cover artwork for “Down Deh (feat. Zwady & Fireman Lee)”",
+  "alt_fr": "Fireman Lee : pochette de « Down Deh (feat. Zwady & Fireman Lee) »",
+  "bytes": {
+   "fireman-lee-bouyon-release-20261028-1280.jpg": 71519,
+   "fireman-lee-bouyon-release-20261028-1280.webp": 33252,
+   "fireman-lee-bouyon-release-20261028-640.jpg": 29142,
+   "fireman-lee-bouyon-release-20261028-640.webp": 16246
+  },
+  "caption_en": "Release artwork: “Down Deh (feat. Zwady & Fireman Lee)”, Producerdlo, Savion Beats, Zwady, Fireman Lee.",
+  "caption_fr": "Pochette : « Down Deh (feat. Zwady & Fireman Lee) », Producerdlo, Savion Beats, Zwady, Fireman Lee.",
+  "file": "fireman-lee-bouyon-release-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": null,
+  "name": "Fireman Lee",
+  "revision": "release-20261028",
+  "sha": "93b5ccf64be7",
+  "source": {
+   "channel": "Producerdlo, Savion Beats, Zwady, Fireman Lee",
+   "id": "track/2939094311",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "Down Deh (feat. Zwady & Fireman Lee)",
+   "url": "https://www.deezer.com/track/2939094311"
+  },
+  "w": 1280
+ },
+ "first-serenade-band": {
+  "alt_en": "First Serenade Band: profile image from Instagram account @firstserenadeband",
+  "alt_fr": "First Serenade Band : image de profil du compte Instagram @firstserenadeband",
+  "bytes": {
+   "first-serenade-band-bouyon-dominica-ig-20261028-1280.jpg": 52534,
+   "first-serenade-band-bouyon-dominica-ig-20261028-1280.webp": 23326,
+   "first-serenade-band-bouyon-dominica-ig-20261028-640.jpg": 23055,
+   "first-serenade-band-bouyon-dominica-ig-20261028-640.webp": 12384
+  },
+  "caption_en": "Profile image: @firstserenadeband on Instagram.",
+  "caption_fr": "Image de profil : @firstserenadeband sur Instagram.",
+  "file": "first-serenade-band-bouyon-dominica-ig-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": {
+   "anchor": "dominica",
+   "code": "dm",
+   "en": "Dominica",
+   "fr": "Dominique"
+  },
+  "name": "First Serenade Band",
+  "revision": "ig-20261028",
+  "sha": "704f42a4542a",
+  "source": {
+   "channel": "@firstserenadeband",
+   "id": "firstserenadeband",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/firstserenadeband/"
+  },
+  "w": 1280
+ },
  "flw": {
   "alt_en": "FLW, bouyon artist from Guadeloupe: artist photo (Deezer page)",
   "alt_fr": "FLW, artiste bouyon de Guadeloupe : photo de l'artiste (page Deezer)",
@@ -2449,6 +3590,133 @@
    "kind": "deezer",
    "title": "Flw",
    "url": "https://www.deezer.com/artist/350390622"
+  },
+  "w": 1280
+ },
+ "foxy-jael": {
+  "alt_en": "Foxy Jael: profile image from Instagram account @jaeljoseph",
+  "alt_fr": "Foxy Jael : image de profil du compte Instagram @jaeljoseph",
+  "bytes": {
+   "foxy-jael-bouyon-dominica-ig-20261028-1280.jpg": 81814,
+   "foxy-jael-bouyon-dominica-ig-20261028-1280.webp": 37550,
+   "foxy-jael-bouyon-dominica-ig-20261028-640.jpg": 28351,
+   "foxy-jael-bouyon-dominica-ig-20261028-640.webp": 15126
+  },
+  "caption_en": "Profile image: @jaeljoseph on Instagram.",
+  "caption_fr": "Image de profil : @jaeljoseph sur Instagram.",
+  "file": "foxy-jael-bouyon-dominica-ig-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": {
+   "anchor": "dominica",
+   "code": "dm",
+   "en": "Dominica",
+   "fr": "Dominique"
+  },
+  "name": "Foxy Jael",
+  "revision": "ig-20261028",
+  "sha": "8af05da4078c",
+  "source": {
+   "channel": "@jaeljoseph",
+   "id": "jaeljoseph",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/jaeljoseph/"
+  },
+  "w": 1280
+ },
+ "fr3eze": {
+  "alt_en": "Fr3EzE: profile image from Instagram account @fr3eze3x",
+  "alt_fr": "Fr3EzE : image de profil du compte Instagram @fr3eze3x",
+  "bytes": {
+   "fr3eze-bouyon-dominica-ig-20261028-1280.jpg": 105335,
+   "fr3eze-bouyon-dominica-ig-20261028-1280.webp": 54528,
+   "fr3eze-bouyon-dominica-ig-20261028-640.jpg": 35942,
+   "fr3eze-bouyon-dominica-ig-20261028-640.webp": 22310
+  },
+  "caption_en": "Profile image: @fr3eze3x on Instagram.",
+  "caption_fr": "Image de profil : @fr3eze3x sur Instagram.",
+  "file": "fr3eze-bouyon-dominica-ig-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": {
+   "anchor": "dominica",
+   "code": "dm",
+   "en": "Dominica",
+   "fr": "Dominique"
+  },
+  "name": "Fr3EzE",
+  "revision": "ig-20261028",
+  "sha": "04ecc2fce690",
+  "source": {
+   "channel": "@fr3eze3x",
+   "id": "fr3eze3x",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/fr3eze3x/"
+  },
+  "w": 1280
+ },
+ "freddy": {
+  "alt_en": "Freddy: profile image from Instagram account @ready4freddy_official",
+  "alt_fr": "Freddy : image de profil du compte Instagram @ready4freddy_official",
+  "bytes": {
+   "freddy-bouyon-dominica-ig-20261028-1280.jpg": 91162,
+   "freddy-bouyon-dominica-ig-20261028-1280.webp": 44864,
+   "freddy-bouyon-dominica-ig-20261028-640.jpg": 36370,
+   "freddy-bouyon-dominica-ig-20261028-640.webp": 22208
+  },
+  "caption_en": "Profile image: @ready4freddy_official on Instagram.",
+  "caption_fr": "Image de profil : @ready4freddy_official sur Instagram.",
+  "file": "freddy-bouyon-dominica-ig-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": {
+   "anchor": "dominica",
+   "code": "dm",
+   "en": "Dominica",
+   "fr": "Dominique"
+  },
+  "name": "Freddy",
+  "revision": "ig-20261028",
+  "sha": "e3c846cf2314",
+  "source": {
+   "channel": "@ready4freddy_official",
+   "id": "ready4freddy_official",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/ready4freddy_official/"
+  },
+  "w": 1280
+ },
+ "gaza-crew": {
+  "alt_en": "Gaza Crew, bouyon artist: still from the video “Doc J feat KASSIDJE REMIX BOUYON \"nou ka fly\" Blue Blue Dacia and Gaza Crew”",
+  "alt_fr": "Gaza Crew, artiste bouyon : image du clip « Doc J feat KASSIDJE REMIX BOUYON \"nou ka fly\" Blue Blue Dacia and Gaza Crew »",
+  "bytes": {
+   "gaza-crew-bouyon-yt-i_hzoekd6uu-1280.jpg": 64315,
+   "gaza-crew-bouyon-yt-i_hzoekd6uu-1280.webp": 46382,
+   "gaza-crew-bouyon-yt-i_hzoekd6uu-640.jpg": 31123,
+   "gaza-crew-bouyon-yt-i_hzoekd6uu-640.webp": 20594
+  },
+  "caption_en": "Image: YouTube thumbnail of “Doc J feat KASSIDJE REMIX BOUYON \"nou ka fly\" Blue Blue Dacia and Gaza Crew”, LeDoc J Officiel channel.",
+  "caption_fr": "Image : miniature YouTube de « Doc J feat KASSIDJE REMIX BOUYON \"nou ka fly\" Blue Blue Dacia and Gaza Crew », chaîne LeDoc J Officiel.",
+  "file": "gaza-crew-bouyon-yt-i_hzoekd6uu",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": null,
+  "name": "Gaza Crew",
+  "revision": "yt-i_hzoekd6uu",
+  "sha": "0f77fb4c3315",
+  "source": {
+   "channel": "LeDoc J Officiel",
+   "id": "I_HZOEkd6UU",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Doc J feat KASSIDJE REMIX BOUYON \"nou ka fly\" Blue Blue Dacia and Gaza Crew",
+   "url": "https://www.youtube.com/watch?v=I_HZOEkd6UU"
   },
   "w": 1280
  },
@@ -2631,6 +3899,62 @@
   },
   "w": 1280
  },
+ "gz-up": {
+  "alt_en": "G’z Up: profile image from Instagram account @gz_upp",
+  "alt_fr": "G’z Up : image de profil du compte Instagram @gz_upp",
+  "bytes": {
+   "gz-up-bouyon-ig-20261028-1280.jpg": 97036,
+   "gz-up-bouyon-ig-20261028-1280.webp": 60032,
+   "gz-up-bouyon-ig-20261028-640.jpg": 39081,
+   "gz-up-bouyon-ig-20261028-640.webp": 23586
+  },
+  "caption_en": "Profile image: @gz_upp on Instagram.",
+  "caption_fr": "Image de profil : @gz_upp sur Instagram.",
+  "file": "gz-up-bouyon-ig-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": null,
+  "name": "G’z Up",
+  "revision": "ig-20261028",
+  "sha": "534eed2c8356",
+  "source": {
+   "channel": "@gz_upp",
+   "id": "gz_upp",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/gz_upp/"
+  },
+  "w": 1280
+ },
+ "haterz-be": {
+  "alt_en": "Haterz BE: profile image from Instagram account @htb_dooli",
+  "alt_fr": "Haterz BE : image de profil du compte Instagram @htb_dooli",
+  "bytes": {
+   "haterz-be-bouyon-ig-20261028-1280.jpg": 121658,
+   "haterz-be-bouyon-ig-20261028-1280.webp": 64130,
+   "haterz-be-bouyon-ig-20261028-640.jpg": 39988,
+   "haterz-be-bouyon-ig-20261028-640.webp": 23738
+  },
+  "caption_en": "Profile image: @htb_dooli on Instagram.",
+  "caption_fr": "Image de profil : @htb_dooli sur Instagram.",
+  "file": "haterz-be-bouyon-ig-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": null,
+  "name": "Haterz BE",
+  "revision": "ig-20261028",
+  "sha": "0f6405283082",
+  "source": {
+   "channel": "@htb_dooli",
+   "id": "htb_dooli",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/htb_dooli/"
+  },
+  "w": 1280
+ },
  "hb-war": {
   "alt_en": "Hb War, bouyon artist from Guadeloupe: artist photo (Deezer page)",
   "alt_fr": "Hb War, artiste bouyon de Guadeloupe : photo de l'artiste (page Deezer)",
@@ -2717,6 +4041,100 @@
    "kind": "deezer",
    "title": "HollyG",
    "url": "https://www.deezer.com/artist/145585252"
+  },
+  "w": 1280
+ },
+ "hussey": {
+  "alt_en": "Hussey: profile image from Instagram account @73rd_official_hussey",
+  "alt_fr": "Hussey : image de profil du compte Instagram @73rd_official_hussey",
+  "bytes": {
+   "hussey-bouyon-dominica-ig-20261028-1280.jpg": 118869,
+   "hussey-bouyon-dominica-ig-20261028-1280.webp": 67988,
+   "hussey-bouyon-dominica-ig-20261028-640.jpg": 38963,
+   "hussey-bouyon-dominica-ig-20261028-640.webp": 23742
+  },
+  "caption_en": "Profile image: @73rd_official_hussey on Instagram.",
+  "caption_fr": "Image de profil : @73rd_official_hussey sur Instagram.",
+  "file": "hussey-bouyon-dominica-ig-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": {
+   "anchor": "dominica",
+   "code": "dm",
+   "en": "Dominica",
+   "fr": "Dominique"
+  },
+  "name": "Hussey",
+  "revision": "ig-20261028",
+  "sha": "b30098e5dc8d",
+  "source": {
+   "channel": "@73rd_official_hussey",
+   "id": "73rd_official_hussey",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/73rd_official_hussey/"
+  },
+  "w": 1280
+ },
+ "hypno": {
+  "alt_en": "HYPNO: profile image from Instagram account @hypnoticbeatz",
+  "alt_fr": "HYPNO : image de profil du compte Instagram @hypnoticbeatz",
+  "bytes": {
+   "hypno-bouyon-ig-20261028-1280.jpg": 74474,
+   "hypno-bouyon-ig-20261028-1280.webp": 28282,
+   "hypno-bouyon-ig-20261028-640.jpg": 23571,
+   "hypno-bouyon-ig-20261028-640.webp": 10558
+  },
+  "caption_en": "Profile image: @hypnoticbeatz on Instagram.",
+  "caption_fr": "Image de profil : @hypnoticbeatz sur Instagram.",
+  "file": "hypno-bouyon-ig-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": null,
+  "name": "HYPNO",
+  "revision": "ig-20261028",
+  "sha": "3126115839e4",
+  "source": {
+   "channel": "@hypnoticbeatz",
+   "id": "hypnoticbeatz",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/hypnoticbeatz/"
+  },
+  "w": 1280
+ },
+ "ignition-band": {
+  "alt_en": "Ignition Band, bouyon artist from Dominica: still from the video “IGNITION FT ERWINCHY- MALKASE  4.0 EDITION”",
+  "alt_fr": "Ignition Band, artiste bouyon de Dominique : image du clip « IGNITION FT ERWINCHY- MALKASE  4.0 EDITION »",
+  "bytes": {
+   "ignition-band-bouyon-dominica-yt-fvqy756qo7i-1280.jpg": 118747,
+   "ignition-band-bouyon-dominica-yt-fvqy756qo7i-1280.webp": 61822,
+   "ignition-band-bouyon-dominica-yt-fvqy756qo7i-640.jpg": 49983,
+   "ignition-band-bouyon-dominica-yt-fvqy756qo7i-640.webp": 32220
+  },
+  "caption_en": "Image: YouTube thumbnail of “IGNITION FT ERWINCHY- MALKASE  4.0 EDITION”, IGNITION BAND channel.",
+  "caption_fr": "Image : miniature YouTube de « IGNITION FT ERWINCHY- MALKASE  4.0 EDITION », chaîne IGNITION BAND.",
+  "file": "ignition-band-bouyon-dominica-yt-fvqy756qo7i",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": {
+   "anchor": "dominica",
+   "code": "dm",
+   "en": "Dominica",
+   "fr": "Dominique"
+  },
+  "name": "Ignition Band",
+  "revision": "yt-fvqy756qo7i",
+  "sha": "d78caa495023",
+  "source": {
+   "channel": "IGNITION BAND",
+   "id": "FvqY756QO7I",
+   "kind": "youtube",
+   "quality": "sddefault",
+   "title": "IGNITION FT ERWINCHY- MALKASE  4.0 EDITION",
+   "url": "https://www.youtube.com/watch?v=FvqY756QO7I"
   },
   "w": 1280
  },
@@ -3079,6 +4497,34 @@
   },
   "w": 1280
  },
+ "kassidje": {
+  "alt_en": "Kassidje: profile image from Instagram account @kassidje_gazagirl",
+  "alt_fr": "Kassidje : image de profil du compte Instagram @kassidje_gazagirl",
+  "bytes": {
+   "kassidje-bouyon-ig-20261028-1280.jpg": 57322,
+   "kassidje-bouyon-ig-20261028-1280.webp": 26374,
+   "kassidje-bouyon-ig-20261028-640.jpg": 23150,
+   "kassidje-bouyon-ig-20261028-640.webp": 12604
+  },
+  "caption_en": "Profile image: @kassidje_gazagirl on Instagram.",
+  "caption_fr": "Image de profil : @kassidje_gazagirl sur Instagram.",
+  "file": "kassidje-bouyon-ig-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": null,
+  "name": "Kassidje",
+  "revision": "ig-20261028",
+  "sha": "9c4f367ebaa3",
+  "source": {
+   "channel": "@kassidje_gazagirl",
+   "id": "kassidje_gazagirl",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/kassidje_gazagirl/"
+  },
+  "w": 1280
+ },
  "keke": {
   "alt_en": "Kéké, bouyon artist: still from the video “Time - Kéké X YoungJojo X Le Dext - Prod. by Kéké [AUDIO OFFICIEL] #bouyon #2026”",
   "alt_fr": "Kéké, artiste bouyon : image du clip « Time - Kéké X YoungJojo X Le Dext - Prod. by Kéké [AUDIO OFFICIEL] #bouyon #2026 »",
@@ -3254,6 +4700,34 @@
   },
   "w": 1280
  },
+ "keytzone": {
+  "alt_en": "KeyT Zone: cover artwork for “Bouwéy”",
+  "alt_fr": "KeyT Zone : pochette de « Bouwéy »",
+  "bytes": {
+   "keytzone-bouyon-release-20261028-1280.jpg": 79539,
+   "keytzone-bouyon-release-20261028-1280.webp": 37622,
+   "keytzone-bouyon-release-20261028-640.jpg": 31014,
+   "keytzone-bouyon-release-20261028-640.webp": 17166
+  },
+  "caption_en": "Release artwork: “Bouwéy”, Yellow Gaza, Keytzone, Tasmo.",
+  "caption_fr": "Pochette : « Bouwéy », Yellow Gaza, Keytzone, Tasmo.",
+  "file": "keytzone-bouyon-release-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": null,
+  "name": "KeyT Zone",
+  "revision": "release-20261028",
+  "sha": "d670653e2f4b",
+  "source": {
+   "channel": "Yellow Gaza, Keytzone, Tasmo",
+   "id": "track/2304556255",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "Bouwéy",
+   "url": "https://www.deezer.com/track/2304556255"
+  },
+  "w": 1280
+ },
  "khallion": {
   "alt_en": "Khallion, bouyon artist from Dominica: still from the video “Khallion - Put That On That (Remix) ft @StalkAshley  (Bouyon)”",
   "alt_fr": "Khallion, artiste bouyon de Dominique : image du clip « Khallion - Put That On That (Remix) ft @StalkAshley  (Bouyon) »",
@@ -3283,6 +4757,39 @@
    "quality": "maxresdefault",
    "title": "Khallion - Put That On That (Remix) ft @StalkAshley  (Bouyon)",
    "url": "https://www.youtube.com/watch?v=--b-Ms71c-o"
+  },
+  "w": 1280
+ },
+ "killa-laurent": {
+  "alt_en": "Killa Laurent: profile image from Instagram account @kendel_killer_laurent",
+  "alt_fr": "Killa Laurent : image de profil du compte Instagram @kendel_killer_laurent",
+  "bytes": {
+   "killa-laurent-bouyon-dominica-ig-20261028-1280.jpg": 84377,
+   "killa-laurent-bouyon-dominica-ig-20261028-1280.webp": 37216,
+   "killa-laurent-bouyon-dominica-ig-20261028-640.jpg": 29693,
+   "killa-laurent-bouyon-dominica-ig-20261028-640.webp": 15730
+  },
+  "caption_en": "Profile image: @kendel_killer_laurent on Instagram.",
+  "caption_fr": "Image de profil : @kendel_killer_laurent sur Instagram.",
+  "file": "killa-laurent-bouyon-dominica-ig-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": {
+   "anchor": "dominica",
+   "code": "dm",
+   "en": "Dominica",
+   "fr": "Dominique"
+  },
+  "name": "Killa Laurent",
+  "revision": "ig-20261028",
+  "sha": "eca722fcc55c",
+  "source": {
+   "channel": "@kendel_killer_laurent",
+   "id": "kendel_killer_laurent",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/kendel_killer_laurent/"
   },
   "w": 1280
  },
@@ -3345,6 +4852,39 @@
   },
   "w": 1280
  },
+ "kkrytical": {
+  "alt_en": "Kkrytical: profile image from Instagram account @kkryticalofficial",
+  "alt_fr": "Kkrytical : image de profil du compte Instagram @kkryticalofficial",
+  "bytes": {
+   "kkrytical-bouyon-jamaica-ig-20261028-1280.jpg": 129958,
+   "kkrytical-bouyon-jamaica-ig-20261028-1280.webp": 80918,
+   "kkrytical-bouyon-jamaica-ig-20261028-640.jpg": 35889,
+   "kkrytical-bouyon-jamaica-ig-20261028-640.webp": 23404
+  },
+  "caption_en": "Profile image: @kkryticalofficial on Instagram.",
+  "caption_fr": "Image de profil : @kkryticalofficial sur Instagram.",
+  "file": "kkrytical-bouyon-jamaica-ig-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": {
+   "anchor": "jamaica",
+   "code": "jm",
+   "en": "Jamaica",
+   "fr": "Jamaïque"
+  },
+  "name": "Kkrytical",
+  "revision": "ig-20261028",
+  "sha": "44545ca83347",
+  "source": {
+   "channel": "@kkryticalofficial",
+   "id": "kkryticalofficial",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/kkryticalofficial/"
+  },
+  "w": 1280
+ },
  "klass-money": {
   "alt_en": "Klass Money, bouyon artist: still from the video “Throw Dat”",
   "alt_fr": "Klass Money, artiste bouyon : image du clip « Throw Dat »",
@@ -3403,6 +4943,39 @@
   },
   "w": 1280
  },
+ "klockerz-krew": {
+  "alt_en": "Klockerz Krew, bouyon artist from Dominica: still from the video “rah -  partymix ft klockerz krew”",
+  "alt_fr": "Klockerz Krew, artiste bouyon de Dominique : image du clip « rah -  partymix ft klockerz krew »",
+  "bytes": {
+   "klockerz-krew-bouyon-dominica-yt-y3nb7tlhqhq-1280.jpg": 63172,
+   "klockerz-krew-bouyon-dominica-yt-y3nb7tlhqhq-1280.webp": 26172,
+   "klockerz-krew-bouyon-dominica-yt-y3nb7tlhqhq-640.jpg": 28588,
+   "klockerz-krew-bouyon-dominica-yt-y3nb7tlhqhq-640.webp": 14262
+  },
+  "caption_en": "Image: YouTube thumbnail of “rah -  partymix ft klockerz krew”, mashupah99 channel.",
+  "caption_fr": "Image : miniature YouTube de « rah -  partymix ft klockerz krew », chaîne mashupah99.",
+  "file": "klockerz-krew-bouyon-dominica-yt-y3nb7tlhqhq",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": {
+   "anchor": "dominica",
+   "code": "dm",
+   "en": "Dominica",
+   "fr": "Dominique"
+  },
+  "name": "Klockerz Krew",
+  "revision": "yt-y3nb7tlhqhq",
+  "sha": "e96335037079",
+  "source": {
+   "channel": "mashupah99",
+   "id": "Y3Nb7TLHQhQ",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "rah -  partymix ft klockerz krew",
+   "url": "https://www.youtube.com/watch?v=Y3Nb7TLHQhQ"
+  },
+  "w": 1280
+ },
  "krys": {
   "alt_en": "Krys, bouyon artist: artist photo (Deezer page)",
   "alt_fr": "Krys, artiste bouyon : photo de l'artiste (page Deezer)",
@@ -3458,6 +5031,72 @@
    "quality": "maxresdefault",
    "title": "KTB- Come Ova (Bouyon 2026)",
    "url": "https://www.youtube.com/watch?v=RCYtWylfKKU"
+  },
+  "w": 1280
+ },
+ "kwib-la-beats": {
+  "alt_en": "Kwib La Beats: profile image from Instagram account @kwiblahlc",
+  "alt_fr": "Kwib La Beats : image de profil du compte Instagram @kwiblahlc",
+  "bytes": {
+   "kwib-la-beats-bouyon-dominica-ig-20261028-1280.jpg": 135040,
+   "kwib-la-beats-bouyon-dominica-ig-20261028-1280.webp": 81404,
+   "kwib-la-beats-bouyon-dominica-ig-20261028-640.jpg": 46188,
+   "kwib-la-beats-bouyon-dominica-ig-20261028-640.webp": 30876
+  },
+  "caption_en": "Profile image: @kwiblahlc on Instagram.",
+  "caption_fr": "Image de profil : @kwiblahlc sur Instagram.",
+  "file": "kwib-la-beats-bouyon-dominica-ig-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": {
+   "anchor": "dominica",
+   "code": "dm",
+   "en": "Dominica",
+   "fr": "Dominique"
+  },
+  "name": "Kwib La Beats",
+  "revision": "ig-20261028",
+  "sha": "85b1043eeb8a",
+  "source": {
+   "channel": "@kwiblahlc",
+   "id": "kwiblahlc",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/kwiblahlc/"
+  },
+  "w": 1280
+ },
+ "laka": {
+  "alt_en": "Laka: cover artwork for “BAISE-MOI”",
+  "alt_fr": "Laka : pochette de « BAISE-MOI »",
+  "bytes": {
+   "laka-bouyon-guadeloupe-release-20261028-1280.jpg": 57606,
+   "laka-bouyon-guadeloupe-release-20261028-1280.webp": 30882,
+   "laka-bouyon-guadeloupe-release-20261028-640.jpg": 21890,
+   "laka-bouyon-guadeloupe-release-20261028-640.webp": 12824
+  },
+  "caption_en": "Release artwork: “BAISE-MOI”, Laka.",
+  "caption_fr": "Pochette : « BAISE-MOI », Laka.",
+  "file": "laka-bouyon-guadeloupe-release-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": {
+   "anchor": "guadeloupe",
+   "code": "gp",
+   "en": "Guadeloupe",
+   "fr": "Guadeloupe"
+  },
+  "name": "Laka",
+  "revision": "release-20261028",
+  "sha": "b1446f91d3bb",
+  "source": {
+   "channel": "Laka",
+   "id": "1717306016",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "BAISE-MOI",
+   "url": "https://music.apple.com/us/album/baise-moi-feat-riko-le-bluff-tgx-billy-bybf-pixou-le/1717306016"
   },
   "w": 1280
  },
@@ -3550,6 +5189,62 @@
   },
   "w": 1280
  },
+ "le-daah": {
+  "alt_en": "Le Daah: profile image from Instagram account @le_daaah",
+  "alt_fr": "Le Daah : image de profil du compte Instagram @le_daaah",
+  "bytes": {
+   "le-daah-bouyon-ig-20261028-1280.jpg": 75533,
+   "le-daah-bouyon-ig-20261028-1280.webp": 30922,
+   "le-daah-bouyon-ig-20261028-640.jpg": 26094,
+   "le-daah-bouyon-ig-20261028-640.webp": 12786
+  },
+  "caption_en": "Profile image: @le_daaah on Instagram.",
+  "caption_fr": "Image de profil : @le_daaah sur Instagram.",
+  "file": "le-daah-bouyon-ig-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": null,
+  "name": "Le Daah",
+  "revision": "ig-20261028",
+  "sha": "67c4268d9f25",
+  "source": {
+   "channel": "@le_daaah",
+   "id": "le_daaah",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/le_daaah/"
+  },
+  "w": 1280
+ },
+ "le-det": {
+  "alt_en": "Le Det: cover artwork for “Bouwé'y”",
+  "alt_fr": "Le Det : pochette de « Bouwé'y »",
+  "bytes": {
+   "le-det-bouyon-verified-20261028-1280.jpg": 58261,
+   "le-det-bouyon-verified-20261028-1280.webp": 36612,
+   "le-det-bouyon-verified-20261028-640.jpg": 22941,
+   "le-det-bouyon-verified-20261028-640.webp": 15280
+  },
+  "caption_en": "Release artwork: “Bouwé'y”, Le Det.",
+  "caption_fr": "Pochette : « Bouwé'y », Le Det.",
+  "file": "le-det-bouyon-verified-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": null,
+  "name": "Le Det",
+  "revision": "verified-20261028",
+  "sha": "caa5d6343ce8",
+  "source": {
+   "channel": "Le Det",
+   "id": "1695239247",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "Bouwé'y",
+   "url": "https://music.apple.com/us/album/bouw%C3%A9y/1695239247?i=1695239248&uo=4"
+  },
+  "w": 1280
+ },
  "le-dext": {
   "alt_en": "Le Dext, bouyon artist: artist photo (Deezer page)",
   "alt_fr": "Le Dext, artiste bouyon : photo de l'artiste (page Deezer)",
@@ -3600,6 +5295,39 @@
    "quality": "maxresdefault",
    "title": "Le Matt ft Pepito - PA DI MWEN JTM STP",
    "url": "https://www.youtube.com/watch?v=H2mjNHMeVW4"
+  },
+  "w": 1280
+ },
+ "le-rebelle": {
+  "alt_en": "Le Rebelle: cover artwork for “Acteur Porno”",
+  "alt_fr": "Le Rebelle : pochette de « Acteur Porno »",
+  "bytes": {
+   "le-rebelle-bouyon-guadeloupe-release-20261028-1280.jpg": 79507,
+   "le-rebelle-bouyon-guadeloupe-release-20261028-1280.webp": 36026,
+   "le-rebelle-bouyon-guadeloupe-release-20261028-640.jpg": 27979,
+   "le-rebelle-bouyon-guadeloupe-release-20261028-640.webp": 15038
+  },
+  "caption_en": "Release artwork: “Acteur Porno”, Le Rebelle.",
+  "caption_fr": "Pochette : « Acteur Porno », Le Rebelle.",
+  "file": "le-rebelle-bouyon-guadeloupe-release-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": {
+   "anchor": "guadeloupe",
+   "code": "gp",
+   "en": "Guadeloupe",
+   "fr": "Guadeloupe"
+  },
+  "name": "Le Rebelle",
+  "revision": "release-20261028",
+  "sha": "42c12758616e",
+  "source": {
+   "channel": "Le Rebelle",
+   "id": "track/1528246952",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "Acteur Porno",
+   "url": "https://www.deezer.com/track/1528246952"
   },
   "w": 1280
  },
@@ -3772,6 +5500,100 @@
   },
   "w": 1280
  },
+ "letin-severine": {
+  "alt_en": "Letin Severine: cover artwork for “Vole Nonm A Moun”",
+  "alt_fr": "Letin Severine : pochette de « Vole Nonm A Moun »",
+  "bytes": {
+   "letin-severine-bouyon-guadeloupe-release-20261028-1280.jpg": 79438,
+   "letin-severine-bouyon-guadeloupe-release-20261028-1280.webp": 37364,
+   "letin-severine-bouyon-guadeloupe-release-20261028-640.jpg": 30992,
+   "letin-severine-bouyon-guadeloupe-release-20261028-640.webp": 17248
+  },
+  "caption_en": "Release artwork: “Vole Nonm A Moun”, Yellow Gaza.",
+  "caption_fr": "Pochette : « Vole Nonm A Moun », Yellow Gaza.",
+  "file": "letin-severine-bouyon-guadeloupe-release-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": {
+   "anchor": "guadeloupe",
+   "code": "gp",
+   "en": "Guadeloupe",
+   "fr": "Guadeloupe"
+  },
+  "name": "Letin Severine",
+  "revision": "release-20261028",
+  "sha": "2ace54ce8d0c",
+  "source": {
+   "channel": "Yellow Gaza",
+   "id": "track/1994225657",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "Vole Nonm A Moun",
+   "url": "https://www.deezer.com/track/1994225657"
+  },
+  "w": 1280
+ },
+ "letin-sylia": {
+  "alt_en": "Letin Sylia: cover artwork for “Vole Nonm A Moun”",
+  "alt_fr": "Letin Sylia : pochette de « Vole Nonm A Moun »",
+  "bytes": {
+   "letin-sylia-bouyon-guadeloupe-release-20261028-1280.jpg": 79407,
+   "letin-sylia-bouyon-guadeloupe-release-20261028-1280.webp": 37332,
+   "letin-sylia-bouyon-guadeloupe-release-20261028-640.jpg": 30961,
+   "letin-sylia-bouyon-guadeloupe-release-20261028-640.webp": 17216
+  },
+  "caption_en": "Release artwork: “Vole Nonm A Moun”, Yellow Gaza.",
+  "caption_fr": "Pochette : « Vole Nonm A Moun », Yellow Gaza.",
+  "file": "letin-sylia-bouyon-guadeloupe-release-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": {
+   "anchor": "guadeloupe",
+   "code": "gp",
+   "en": "Guadeloupe",
+   "fr": "Guadeloupe"
+  },
+  "name": "Letin Sylia",
+  "revision": "release-20261028",
+  "sha": "ac5d9d925c9e",
+  "source": {
+   "channel": "Yellow Gaza",
+   "id": "track/1994225657",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "Vole Nonm A Moun",
+   "url": "https://www.deezer.com/track/1994225657"
+  },
+  "w": 1280
+ },
+ "lewismelo": {
+  "alt_en": "Lewismelo: profile image from Instagram account @lewismelo971",
+  "alt_fr": "Lewismelo : image de profil du compte Instagram @lewismelo971",
+  "bytes": {
+   "lewismelo-bouyon-ig-20261028-1280.jpg": 135446,
+   "lewismelo-bouyon-ig-20261028-1280.webp": 89284,
+   "lewismelo-bouyon-ig-20261028-640.jpg": 40760,
+   "lewismelo-bouyon-ig-20261028-640.webp": 28354
+  },
+  "caption_en": "Profile image: @lewismelo971 on Instagram.",
+  "caption_fr": "Image de profil : @lewismelo971 sur Instagram.",
+  "file": "lewismelo-bouyon-ig-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": null,
+  "name": "Lewismelo",
+  "revision": "ig-20261028",
+  "sha": "ec0909a98ed3",
+  "source": {
+   "channel": "@lewismelo971",
+   "id": "lewismelo971",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/lewismelo971/"
+  },
+  "w": 1280
+ },
  "leyou": {
   "alt_en": "Leyou, bouyon artist from Guadeloupe: still from the video “Leyou feat Toupit  - Un problème !”",
   "alt_fr": "Leyou, artiste bouyon de Guadeloupe : image du clip « Leyou feat Toupit  - Un problème ! »",
@@ -3801,6 +5623,67 @@
    "quality": "maxresdefault",
    "title": "Leyou feat Toupit  - Un problème !",
    "url": "https://www.youtube.com/watch?v=gQKwMpqs12Y"
+  },
+  "w": 1280
+ },
+ "lgc": {
+  "alt_en": "LGC: profile image from Instagram account @la_lgc",
+  "alt_fr": "LGC : image de profil du compte Instagram @la_lgc",
+  "bytes": {
+   "lgc-bouyon-guadeloupe-ig-20261028-1280.jpg": 81206,
+   "lgc-bouyon-guadeloupe-ig-20261028-1280.webp": 40586,
+   "lgc-bouyon-guadeloupe-ig-20261028-640.jpg": 31419,
+   "lgc-bouyon-guadeloupe-ig-20261028-640.webp": 18648
+  },
+  "caption_en": "Profile image: @la_lgc on Instagram.",
+  "caption_fr": "Image de profil : @la_lgc sur Instagram.",
+  "file": "lgc-bouyon-guadeloupe-ig-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": {
+   "anchor": "guadeloupe",
+   "code": "gp",
+   "en": "Guadeloupe",
+   "fr": "Guadeloupe"
+  },
+  "name": "LGC",
+  "revision": "ig-20261028",
+  "sha": "36ccafc49996",
+  "source": {
+   "channel": "@la_lgc",
+   "id": "la_lgc",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/la_lgc/"
+  },
+  "w": 1280
+ },
+ "litleboy-lsbeats767": {
+  "alt_en": "Litleboy LSBeats767: cover artwork for “Someone Else (feat. Quan & Trilla-G)”",
+  "alt_fr": "Litleboy LSBeats767 : pochette de « Someone Else (feat. Quan & Trilla-G) »",
+  "bytes": {
+   "litleboy-lsbeats767-bouyon-release-20261028-1280.jpg": 116803,
+   "litleboy-lsbeats767-bouyon-release-20261028-1280.webp": 63292,
+   "litleboy-lsbeats767-bouyon-release-20261028-640.jpg": 38600,
+   "litleboy-lsbeats767-bouyon-release-20261028-640.webp": 23638
+  },
+  "caption_en": "Release artwork: “Someone Else (feat. Quan & Trilla-G)”, Litleboy, Quan, Trilla-G.",
+  "caption_fr": "Pochette : « Someone Else (feat. Quan & Trilla-G) », Litleboy, Quan, Trilla-G.",
+  "file": "litleboy-lsbeats767-bouyon-release-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": null,
+  "name": "Litleboy LSBeats767",
+  "revision": "release-20261028",
+  "sha": "d2a6845e3a49",
+  "source": {
+   "channel": "Litleboy, Quan, Trilla-G",
+   "id": "album/611995142",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "Someone Else (feat. Quan & Trilla-G)",
+   "url": "https://www.deezer.com/album/611995142"
   },
   "w": 1280
  },
@@ -3923,6 +5806,95 @@
    "kind": "deezer",
    "title": "Lu City",
    "url": "https://www.deezer.com/artist/14101151"
+  },
+  "w": 1280
+ },
+ "luky-lukee": {
+  "alt_en": "Lucky lukee: profile image from Instagram account @lucky11off",
+  "alt_fr": "Lucky lukee : image de profil du compte Instagram @lucky11off",
+  "bytes": {
+   "luky-lukee-bouyon-ig-20261028-1280.jpg": 58246,
+   "luky-lukee-bouyon-ig-20261028-1280.webp": 28468,
+   "luky-lukee-bouyon-ig-20261028-640.jpg": 19869,
+   "luky-lukee-bouyon-ig-20261028-640.webp": 9764
+  },
+  "caption_en": "Profile image: @lucky11off on Instagram.",
+  "caption_fr": "Image de profil : @lucky11off sur Instagram.",
+  "file": "luky-lukee-bouyon-ig-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": null,
+  "name": "Lucky lukee",
+  "revision": "ig-20261028",
+  "sha": "da9839842b7f",
+  "source": {
+   "channel": "@lucky11off",
+   "id": "lucky11off",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/lucky11off/"
+  },
+  "w": 1280
+ },
+ "lunik": {
+  "alt_en": "Lunik: profile image from Instagram account @lunik_tbts",
+  "alt_fr": "Lunik : image de profil du compte Instagram @lunik_tbts",
+  "bytes": {
+   "lunik-bouyon-guadeloupe-ig-20261028-1280.jpg": 64815,
+   "lunik-bouyon-guadeloupe-ig-20261028-1280.webp": 27364,
+   "lunik-bouyon-guadeloupe-ig-20261028-640.jpg": 26787,
+   "lunik-bouyon-guadeloupe-ig-20261028-640.webp": 13438
+  },
+  "caption_en": "Profile image: @lunik_tbts on Instagram.",
+  "caption_fr": "Image de profil : @lunik_tbts sur Instagram.",
+  "file": "lunik-bouyon-guadeloupe-ig-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": {
+   "anchor": "guadeloupe",
+   "code": "gp",
+   "en": "Guadeloupe",
+   "fr": "Guadeloupe"
+  },
+  "name": "Lunik",
+  "revision": "ig-20261028",
+  "sha": "59d69757ca5d",
+  "source": {
+   "channel": "@lunik_tbts",
+   "id": "lunik_tbts",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/lunik_tbts/"
+  },
+  "w": 1280
+ },
+ "lyrical-k": {
+  "alt_en": "Lyrical-k, bouyon artist: still from the video “Lyrical-k Naughty (Bouyon 2027)”",
+  "alt_fr": "Lyrical-k, artiste bouyon : image du clip « Lyrical-k Naughty (Bouyon 2027) »",
+  "bytes": {
+   "lyrical-k-bouyon-yt-20261028-1280.jpg": 57041,
+   "lyrical-k-bouyon-yt-20261028-1280.webp": 30190,
+   "lyrical-k-bouyon-yt-20261028-640.jpg": 23548,
+   "lyrical-k-bouyon-yt-20261028-640.webp": 14118
+  },
+  "caption_en": "Image: YouTube thumbnail of “Lyrical-k Naughty (Bouyon 2027)”, Lyrical-k music channel.",
+  "caption_fr": "Image : miniature YouTube de « Lyrical-k Naughty (Bouyon 2027) », chaîne Lyrical-k music.",
+  "file": "lyrical-k-bouyon-yt-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": null,
+  "name": "Lyrical-k",
+  "revision": "yt-20261028",
+  "sha": "177ea2ae3a43",
+  "source": {
+   "channel": "Lyrical-k music",
+   "id": "HGEWJPWwXyU",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Lyrical-k Naughty (Bouyon 2027)",
+   "url": "https://www.youtube.com/watch?v=HGEWJPWwXyU"
   },
   "w": 1280
  },
@@ -4264,6 +6236,62 @@
   },
   "w": 1280
  },
+ "marf": {
+  "alt_en": "Marf, bouyon artist: still from the video “Marf - Pa Ka Sanm [Bouyon 2026 Audio]”",
+  "alt_fr": "Marf, artiste bouyon : image du clip « Marf - Pa Ka Sanm [Bouyon 2026 Audio] »",
+  "bytes": {
+   "marf-bouyon-yt-20261028-1280.jpg": 63493,
+   "marf-bouyon-yt-20261028-1280.webp": 29142,
+   "marf-bouyon-yt-20261028-640.jpg": 26094,
+   "marf-bouyon-yt-20261028-640.webp": 13858
+  },
+  "caption_en": "Image: YouTube thumbnail of “Marf - Pa Ka Sanm [Bouyon 2026 Audio]”, Marf de Maldonia channel.",
+  "caption_fr": "Image : miniature YouTube de « Marf - Pa Ka Sanm [Bouyon 2026 Audio] », chaîne Marf de Maldonia.",
+  "file": "marf-bouyon-yt-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": null,
+  "name": "Marf",
+  "revision": "yt-20261028",
+  "sha": "5324bf0f60a5",
+  "source": {
+   "channel": "Marf de Maldonia",
+   "id": "XLksT_Lwzi8",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Marf - Pa Ka Sanm [Bouyon 2026 Audio]",
+   "url": "https://www.youtube.com/watch?v=XLksT_Lwzi8"
+  },
+  "w": 1280
+ },
+ "marshee": {
+  "alt_en": "Marshee: profile image from Instagram account @marshee_official",
+  "alt_fr": "Marshee : image de profil du compte Instagram @marshee_official",
+  "bytes": {
+   "marshee-bouyon-ig-20261028-1280.jpg": 97076,
+   "marshee-bouyon-ig-20261028-1280.webp": 48372,
+   "marshee-bouyon-ig-20261028-640.jpg": 37362,
+   "marshee-bouyon-ig-20261028-640.webp": 22000
+  },
+  "caption_en": "Profile image: @marshee_official on Instagram.",
+  "caption_fr": "Image de profil : @marshee_official sur Instagram.",
+  "file": "marshee-bouyon-ig-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": null,
+  "name": "Marshee",
+  "revision": "ig-20261028",
+  "sha": "ff62323c36dd",
+  "source": {
+   "channel": "@marshee_official",
+   "id": "marshee_official",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/marshee_official/"
+  },
+  "w": 1280
+ },
  "maurane-voyer": {
   "alt_en": "Maurane Voyer, bouyon artist from Martinique: still from the video “Au loin”",
   "alt_fr": "Maurane Voyer, artiste bouyon de Martinique : image du clip « Au loin »",
@@ -4532,6 +6560,72 @@
   },
   "w": 1280
  },
+ "mr-boka": {
+  "alt_en": "Mr Boka: cover artwork for “Sa Ka Débodé”",
+  "alt_fr": "Mr Boka : pochette de « Sa Ka Débodé »",
+  "bytes": {
+   "mr-boka-bouyon-guadeloupe-release-20261028-1280.jpg": 75483,
+   "mr-boka-bouyon-guadeloupe-release-20261028-1280.webp": 35134,
+   "mr-boka-bouyon-guadeloupe-release-20261028-640.jpg": 30612,
+   "mr-boka-bouyon-guadeloupe-release-20261028-640.webp": 17026
+  },
+  "caption_en": "Release artwork: “Sa Ka Débodé”, Bilix, Mr Boka.",
+  "caption_fr": "Pochette : « Sa Ka Débodé », Bilix, Mr Boka.",
+  "file": "mr-boka-bouyon-guadeloupe-release-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": {
+   "anchor": "guadeloupe",
+   "code": "gp",
+   "en": "Guadeloupe",
+   "fr": "Guadeloupe"
+  },
+  "name": "Mr Boka",
+  "revision": "release-20261028",
+  "sha": "d659a021175d",
+  "source": {
+   "channel": "Bilix, Mr Boka",
+   "id": "track/1413228842",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "Sa Ka Débodé",
+   "url": "https://www.deezer.com/track/1413228842"
+  },
+  "w": 1280
+ },
+ "mr-delly": {
+  "alt_en": "Mr Delly, bouyon artist from Dominica: still from the video “Mr Delly x Likkle Man - How De Band Playing”",
+  "alt_fr": "Mr Delly, artiste bouyon de Dominique : image du clip « Mr Delly x Likkle Man - How De Band Playing »",
+  "bytes": {
+   "mr-delly-bouyon-dominica-yt-ucsooaz2sbk-1280.jpg": 69938,
+   "mr-delly-bouyon-dominica-yt-ucsooaz2sbk-1280.webp": 33806,
+   "mr-delly-bouyon-dominica-yt-ucsooaz2sbk-640.jpg": 30316,
+   "mr-delly-bouyon-dominica-yt-ucsooaz2sbk-640.webp": 17172
+  },
+  "caption_en": "Image: YouTube thumbnail of “Mr Delly x Likkle Man - How De Band Playing”, Mr Delly channel.",
+  "caption_fr": "Image : miniature YouTube de « Mr Delly x Likkle Man - How De Band Playing », chaîne Mr Delly.",
+  "file": "mr-delly-bouyon-dominica-yt-ucsooaz2sbk",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": {
+   "anchor": "dominica",
+   "code": "dm",
+   "en": "Dominica",
+   "fr": "Dominique"
+  },
+  "name": "Mr Delly",
+  "revision": "yt-ucsooaz2sbk",
+  "sha": "e3bf6252a5a3",
+  "source": {
+   "channel": "Mr Delly",
+   "id": "UCSOoaZ2sBk",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Mr Delly x Likkle Man - How De Band Playing",
+   "url": "https://www.youtube.com/watch?v=UCSOoaZ2sBk"
+  },
+  "w": 1280
+ },
  "mr-gwada": {
   "alt_en": "Mr Gwada, bouyon artist from Dominica: still from the video “MR GWADA Feat  BOBO BANTAN - BIG CHAIN (BOUYON 2026) J2mo”",
   "alt_fr": "Mr Gwada, artiste bouyon de Dominique : image du clip « MR GWADA Feat  BOBO BANTAN - BIG CHAIN (BOUYON 2026) J2mo »",
@@ -4623,6 +6717,72 @@
   },
   "w": 1280
  },
+ "mystrie": {
+  "alt_en": "Mystrie, bouyon artist from Dominica: still from the video “Lapawol (Full Musical Video) by Mystrie. Bouyon 2026.”",
+  "alt_fr": "Mystrie, artiste bouyon de Dominique : image du clip « Lapawol (Full Musical Video) by Mystrie. Bouyon 2026. »",
+  "bytes": {
+   "mystrie-bouyon-dominica-yt-20261028-1280.jpg": 133321,
+   "mystrie-bouyon-dominica-yt-20261028-1280.webp": 72310,
+   "mystrie-bouyon-dominica-yt-20261028-640.jpg": 53573,
+   "mystrie-bouyon-dominica-yt-20261028-640.webp": 34092
+  },
+  "caption_en": "Image: YouTube thumbnail of “Lapawol (Full Musical Video) by Mystrie. Bouyon 2026.”, Mystrie channel.",
+  "caption_fr": "Image : miniature YouTube de « Lapawol (Full Musical Video) by Mystrie. Bouyon 2026. », chaîne Mystrie.",
+  "file": "mystrie-bouyon-dominica-yt-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": {
+   "anchor": "dominica",
+   "code": "dm",
+   "en": "Dominica",
+   "fr": "Dominique"
+  },
+  "name": "Mystrie",
+  "revision": "yt-20261028",
+  "sha": "4d1fb342aa2a",
+  "source": {
+   "channel": "Mystrie",
+   "id": "GgJPZ5xt0P0",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Lapawol (Full Musical Video) by Mystrie. Bouyon 2026.",
+   "url": "https://www.youtube.com/watch?v=GgJPZ5xt0P0"
+  },
+  "w": 1280
+ },
+ "ncore": {
+  "alt_en": "Ncore, bouyon artist from Dominica: still from the video “Riddim Live - MFR Band”",
+  "alt_fr": "Ncore, artiste bouyon de Dominique : image du clip « Riddim Live - MFR Band »",
+  "bytes": {
+   "ncore-bouyon-dominica-yt-_nsdui40znu-1280.jpg": 63776,
+   "ncore-bouyon-dominica-yt-_nsdui40znu-1280.webp": 30182,
+   "ncore-bouyon-dominica-yt-_nsdui40znu-640.jpg": 28434,
+   "ncore-bouyon-dominica-yt-_nsdui40znu-640.webp": 15334
+  },
+  "caption_en": "Image: YouTube thumbnail of “Riddim Live - MFR Band”, shomariSM channel.",
+  "caption_fr": "Image : miniature YouTube de « Riddim Live - MFR Band », chaîne shomariSM.",
+  "file": "ncore-bouyon-dominica-yt-_nsdui40znu",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": {
+   "anchor": "dominica",
+   "code": "dm",
+   "en": "Dominica",
+   "fr": "Dominique"
+  },
+  "name": "Ncore",
+  "revision": "yt-_nsdui40znu",
+  "sha": "9a751d39303c",
+  "source": {
+   "channel": "shomariSM",
+   "id": "_NSDUi40znU",
+   "kind": "youtube",
+   "quality": "sddefault",
+   "title": "Riddim Live - MFR Band",
+   "url": "https://www.youtube.com/watch?v=_NSDUi40znU"
+  },
+  "w": 1280
+ },
  "nensha": {
   "alt_en": "Nensha, bouyon artist: artist photo (Deezer page)",
   "alt_fr": "Nensha, artiste bouyon : photo de l'artiste (page Deezer)",
@@ -4677,6 +6837,123 @@
    "kind": "deezer",
    "title": "Nessa Preppy",
    "url": "https://www.deezer.com/artist/7246890"
+  },
+  "w": 1280
+ },
+ "nfl-lil-brent": {
+  "alt_en": "NFL Lil Brent, bouyon artist: still from the video “NFL Lil Brent -  I Cheating | Bouyon”",
+  "alt_fr": "NFL Lil Brent, artiste bouyon : image du clip « NFL Lil Brent -  I Cheating | Bouyon »",
+  "bytes": {
+   "nfl-lil-brent-bouyon-yt-20261028-1280.jpg": 157392,
+   "nfl-lil-brent-bouyon-yt-20261028-1280.webp": 101126,
+   "nfl-lil-brent-bouyon-yt-20261028-640.jpg": 59638,
+   "nfl-lil-brent-bouyon-yt-20261028-640.webp": 41332
+  },
+  "caption_en": "Image: YouTube thumbnail of “NFL Lil Brent -  I Cheating | Bouyon”, NFL LIL BRENT channel.",
+  "caption_fr": "Image : miniature YouTube de « NFL Lil Brent -  I Cheating | Bouyon », chaîne NFL LIL BRENT.",
+  "file": "nfl-lil-brent-bouyon-yt-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": null,
+  "name": "NFL Lil Brent",
+  "revision": "yt-20261028",
+  "sha": "52e21456c02c",
+  "source": {
+   "channel": "NFL LIL BRENT",
+   "id": "K21z0-V_Nio",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "NFL Lil Brent -  I Cheating | Bouyon",
+   "url": "https://www.youtube.com/watch?v=K21z0-V_Nio"
+  },
+  "w": 1280
+ },
+ "nice": {
+  "alt_en": "Nice: profile image from Instagram account @o.f.f.i.c.i.a.l_n.i.c.e",
+  "alt_fr": "Nice : image de profil du compte Instagram @o.f.f.i.c.i.a.l_n.i.c.e",
+  "bytes": {
+   "nice-bouyon-dominica-ig-20261028-1280.jpg": 88344,
+   "nice-bouyon-dominica-ig-20261028-1280.webp": 41328,
+   "nice-bouyon-dominica-ig-20261028-640.jpg": 35546,
+   "nice-bouyon-dominica-ig-20261028-640.webp": 20080
+  },
+  "caption_en": "Profile image: @o.f.f.i.c.i.a.l_n.i.c.e on Instagram.",
+  "caption_fr": "Image de profil : @o.f.f.i.c.i.a.l_n.i.c.e sur Instagram.",
+  "file": "nice-bouyon-dominica-ig-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": {
+   "anchor": "dominica",
+   "code": "dm",
+   "en": "Dominica",
+   "fr": "Dominique"
+  },
+  "name": "Nice",
+  "revision": "ig-20261028",
+  "sha": "22c1547c9b42",
+  "source": {
+   "channel": "@o.f.f.i.c.i.a.l_n.i.c.e",
+   "id": "o.f.f.i.c.i.a.l_n.i.c.e",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/o.f.f.i.c.i.a.l_n.i.c.e/"
+  },
+  "w": 1280
+ },
+ "nicolas-macbeth": {
+  "alt_en": "Nicolas Macbeth: cover artwork for “BAISE-MOI”",
+  "alt_fr": "Nicolas Macbeth : pochette de « BAISE-MOI »",
+  "bytes": {
+   "nicolas-macbeth-bouyon-release-20261028-1280.jpg": 57666,
+   "nicolas-macbeth-bouyon-release-20261028-1280.webp": 30942,
+   "nicolas-macbeth-bouyon-release-20261028-640.jpg": 21950,
+   "nicolas-macbeth-bouyon-release-20261028-640.webp": 12884
+  },
+  "caption_en": "Release artwork: “BAISE-MOI”, Laka.",
+  "caption_fr": "Pochette : « BAISE-MOI », Laka.",
+  "file": "nicolas-macbeth-bouyon-release-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": null,
+  "name": "Nicolas Macbeth",
+  "revision": "release-20261028",
+  "sha": "79066d000e05",
+  "source": {
+   "channel": "Laka",
+   "id": "1717306016",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "BAISE-MOI",
+   "url": "https://music.apple.com/us/album/baise-moi-feat-riko-le-bluff-tgx-billy-bybf-pixou-le/1717306016"
+  },
+  "w": 1280
+ },
+ "nils": {
+  "alt_en": "Nils: cover artwork for “Chodo”",
+  "alt_fr": "Nils : pochette de « Chodo »",
+  "bytes": {
+   "nils-bouyon-release-20261028-1280.jpg": 49157,
+   "nils-bouyon-release-20261028-1280.webp": 23992,
+   "nils-bouyon-release-20261028-640.jpg": 18266,
+   "nils-bouyon-release-20261028-640.webp": 9598
+  },
+  "caption_en": "Release artwork: “Chodo”, Nils.",
+  "caption_fr": "Pochette : « Chodo », Nils.",
+  "file": "nils-bouyon-release-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": null,
+  "name": "Nils",
+  "revision": "release-20261028",
+  "sha": "22b185ac4e56",
+  "source": {
+   "channel": "Nils",
+   "id": "1741012920",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "Chodo",
+   "url": "https://music.apple.com/us/album/chodo-single/1741012920"
   },
   "w": 1280
  },
@@ -4769,6 +7046,39 @@
   },
   "w": 1280
  },
+ "nursery-krew-inc": {
+  "alt_en": "Nursery Krew Inc, bouyon artist from Dominica: still from the video “Doss2 - Charlie Black x BurnBrain: The Nursery Krew That Shook the Bouyon World”",
+  "alt_fr": "Nursery Krew Inc, artiste bouyon de Dominique : image du clip « Doss2 - Charlie Black x BurnBrain: The Nursery Krew That Shook the Bouyon World »",
+  "bytes": {
+   "nursery-krew-inc-bouyon-dominica-yt-b7oen3kjaps-1280.jpg": 61688,
+   "nursery-krew-inc-bouyon-dominica-yt-b7oen3kjaps-1280.webp": 27798,
+   "nursery-krew-inc-bouyon-dominica-yt-b7oen3kjaps-640.jpg": 25496,
+   "nursery-krew-inc-bouyon-dominica-yt-b7oen3kjaps-640.webp": 13392
+  },
+  "caption_en": "Image: YouTube thumbnail of “Doss2 - Charlie Black x BurnBrain: The Nursery Krew That Shook the Bouyon World”, smokiller channel.",
+  "caption_fr": "Image : miniature YouTube de « Doss2 - Charlie Black x BurnBrain: The Nursery Krew That Shook the Bouyon World », chaîne smokiller.",
+  "file": "nursery-krew-inc-bouyon-dominica-yt-b7oen3kjaps",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": {
+   "anchor": "dominica",
+   "code": "dm",
+   "en": "Dominica",
+   "fr": "Dominique"
+  },
+  "name": "Nursery Krew Inc",
+  "revision": "yt-b7oen3kjaps",
+  "sha": "dbd59a142354",
+  "source": {
+   "channel": "smokiller",
+   "id": "b7oEn3KjAPs",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Doss2 - Charlie Black x BurnBrain: The Nursery Krew That Shook the Bouyon World",
+   "url": "https://www.youtube.com/watch?v=b7oEn3KjAPs"
+  },
+  "w": 1280
+ },
  "og-park": {
   "alt_en": "OG Park, bouyon artist from Saint Vincent and the Grenadines: still from the video “OG Park & Rum Lawd - Whale Fu See (Whale Oil Riddim) | Bouyon 2025 | Vincy Soca 2025”",
   "alt_fr": "OG Park, artiste bouyon de Saint-Vincent-et-les-Grenadines : image du clip « OG Park & Rum Lawd - Whale Fu See (Whale Oil Riddim) | Bouyon 2025 | Vincy Soca 2025 »",
@@ -4825,6 +7135,39 @@
    "quality": "maxresdefault",
    "title": "Oso J - ASF (Antillais sous fidélité) [Clip Officiel]",
    "url": "https://www.youtube.com/watch?v=jmMm-fC9m_E"
+  },
+  "w": 1280
+ },
+ "pa-pel": {
+  "alt_en": "Pa Pel: profile image from Instagram account @pa._.pel",
+  "alt_fr": "Pa Pel : image de profil du compte Instagram @pa._.pel",
+  "bytes": {
+   "pa-pel-bouyon-dominica-ig-20261028-1280.jpg": 80845,
+   "pa-pel-bouyon-dominica-ig-20261028-1280.webp": 36998,
+   "pa-pel-bouyon-dominica-ig-20261028-640.jpg": 32934,
+   "pa-pel-bouyon-dominica-ig-20261028-640.webp": 18042
+  },
+  "caption_en": "Profile image: @pa._.pel on Instagram.",
+  "caption_fr": "Image de profil : @pa._.pel sur Instagram.",
+  "file": "pa-pel-bouyon-dominica-ig-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": {
+   "anchor": "dominica",
+   "code": "dm",
+   "en": "Dominica",
+   "fr": "Dominique"
+  },
+  "name": "Pa Pel",
+  "revision": "ig-20261028",
+  "sha": "1242443150f0",
+  "source": {
+   "channel": "@pa._.pel",
+   "id": "pa._.pel",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/pa._.pel/"
   },
   "w": 1280
  },
@@ -4922,6 +7265,67 @@
   },
   "w": 1280
  },
+ "prod-bysavion": {
+  "alt_en": "Savion: profile image from Instagram account @prod.bysavion",
+  "alt_fr": "Savion : image de profil du compte Instagram @prod.bysavion",
+  "bytes": {
+   "prod-bysavion-bouyon-ig-20261028-1280.jpg": 32514,
+   "prod-bysavion-bouyon-ig-20261028-1280.webp": 13186,
+   "prod-bysavion-bouyon-ig-20261028-640.jpg": 14489,
+   "prod-bysavion-bouyon-ig-20261028-640.webp": 6838
+  },
+  "caption_en": "Profile image: @prod.bysavion on Instagram.",
+  "caption_fr": "Image de profil : @prod.bysavion sur Instagram.",
+  "file": "prod-bysavion-bouyon-ig-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": null,
+  "name": "Savion",
+  "revision": "ig-20261028",
+  "sha": "ac41d7bc8cd6",
+  "source": {
+   "channel": "@prod.bysavion",
+   "id": "prod.bysavion",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/prod.bysavion/"
+  },
+  "w": 1280
+ },
+ "pryhmex": {
+  "alt_en": "Pryhmex, bouyon artist from Dominica: still from the video “Up Next Bouyon Cypher, Vol 1. (Trilla-G ft. G'z Up, Ras B, Avatar Omish, Don Lash, Pa Pel, Pryhmex)”",
+  "alt_fr": "Pryhmex, artiste bouyon de Dominique : image du clip « Up Next Bouyon Cypher, Vol 1. (Trilla-G ft. G'z Up, Ras B, Avatar Omish, Don Lash, Pa Pel, Pryhmex) »",
+  "bytes": {
+   "pryhmex-bouyon-dominica-yt-eq-peslqvy8-1280.jpg": 150829,
+   "pryhmex-bouyon-dominica-yt-eq-peslqvy8-1280.webp": 78152,
+   "pryhmex-bouyon-dominica-yt-eq-peslqvy8-640.jpg": 51966,
+   "pryhmex-bouyon-dominica-yt-eq-peslqvy8-640.webp": 35368
+  },
+  "caption_en": "Image: YouTube thumbnail of “Up Next Bouyon Cypher, Vol 1. (Trilla-G ft. G'z Up, Ras B, Avatar Omish, Don Lash, Pa Pel, Pryhmex)”, Trilla-G channel.",
+  "caption_fr": "Image : miniature YouTube de « Up Next Bouyon Cypher, Vol 1. (Trilla-G ft. G'z Up, Ras B, Avatar Omish, Don Lash, Pa Pel, Pryhmex) », chaîne Trilla-G.",
+  "file": "pryhmex-bouyon-dominica-yt-eq-peslqvy8",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": {
+   "anchor": "dominica",
+   "code": "dm",
+   "en": "Dominica",
+   "fr": "Dominique"
+  },
+  "name": "Pryhmex",
+  "revision": "yt-eq-peslqvy8",
+  "sha": "4d238e70f772",
+  "source": {
+   "channel": "Trilla-G",
+   "id": "eq-pesLqvY8",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Up Next Bouyon Cypher, Vol 1. (Trilla-G ft. G'z Up, Ras B, Avatar Omish, Don Lash, Pa Pel, Pryhmex)",
+   "url": "https://www.youtube.com/watch?v=eq-pesLqvY8"
+  },
+  "w": 1280
+ },
  "pslbeat": {
   "alt_en": "Pslbeat, bouyon artist: artist photo (Deezer page)",
   "alt_fr": "Pslbeat, artiste bouyon : photo de l'artiste (page Deezer)",
@@ -5007,6 +7411,34 @@
   },
   "w": 1280
  },
+ "quan": {
+  "alt_en": "Quan: cover artwork for “Someone Else (feat. Quan & Trilla-G)”",
+  "alt_fr": "Quan : pochette de « Someone Else (feat. Quan & Trilla-G) »",
+  "bytes": {
+   "quan-bouyon-release-20261028-1280.jpg": 116654,
+   "quan-bouyon-release-20261028-1280.webp": 63142,
+   "quan-bouyon-release-20261028-640.jpg": 38451,
+   "quan-bouyon-release-20261028-640.webp": 23488
+  },
+  "caption_en": "Release artwork: “Someone Else (feat. Quan & Trilla-G)”, Litleboy, Quan, Trilla-G.",
+  "caption_fr": "Pochette : « Someone Else (feat. Quan & Trilla-G) », Litleboy, Quan, Trilla-G.",
+  "file": "quan-bouyon-release-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": null,
+  "name": "Quan",
+  "revision": "release-20261028",
+  "sha": "d6de06c75b45",
+  "source": {
+   "channel": "Litleboy, Quan, Trilla-G",
+   "id": "album/611995142",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "Someone Else (feat. Quan & Trilla-G)",
+   "url": "https://www.deezer.com/album/611995142"
+  },
+  "w": 1280
+ },
  "quan-de-artist": {
   "alt_en": "Quan De Artist, bouyon artist from Barbados: still from the video “Do it like That”",
   "alt_fr": "Quan De Artist, artiste bouyon de Barbade : image du clip « Do it like That »",
@@ -5089,6 +7521,72 @@
    "kind": "deezer",
    "title": "Qwann",
    "url": "https://www.deezer.com/artist/194846197"
+  },
+  "w": 1280
+ },
+ "r-b-m": {
+  "alt_en": "R.B.M: cover artwork for “Champion Riddim”",
+  "alt_fr": "R.B.M : pochette de « Champion Riddim »",
+  "bytes": {
+   "r-b-m-bouyon-dominica-release-20261028-1280.jpg": 119161,
+   "r-b-m-bouyon-dominica-release-20261028-1280.webp": 79536,
+   "r-b-m-bouyon-dominica-release-20261028-640.jpg": 40151,
+   "r-b-m-bouyon-dominica-release-20261028-640.webp": 28722
+  },
+  "caption_en": "Release artwork: “Champion Riddim”, R.B.M.",
+  "caption_fr": "Pochette : « Champion Riddim », R.B.M.",
+  "file": "r-b-m-bouyon-dominica-release-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": {
+   "anchor": "dominica",
+   "code": "dm",
+   "en": "Dominica",
+   "fr": "Dominique"
+  },
+  "name": "R.B.M",
+  "revision": "release-20261028",
+  "sha": "ebb00993b8a0",
+  "source": {
+   "channel": "R.B.M",
+   "id": "album/87523392",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "Champion Riddim",
+   "url": "https://www.deezer.com/album/87523392"
+  },
+  "w": 1280
+ },
+ "ras-b": {
+  "alt_en": "Ras B: profile image from Instagram account @ras_b_4kdem",
+  "alt_fr": "Ras B : image de profil du compte Instagram @ras_b_4kdem",
+  "bytes": {
+   "ras-b-bouyon-dominica-ig-20261028-1280.jpg": 137965,
+   "ras-b-bouyon-dominica-ig-20261028-1280.webp": 89902,
+   "ras-b-bouyon-dominica-ig-20261028-640.jpg": 47620,
+   "ras-b-bouyon-dominica-ig-20261028-640.webp": 35372
+  },
+  "caption_en": "Profile image: @ras_b_4kdem on Instagram.",
+  "caption_fr": "Image de profil : @ras_b_4kdem sur Instagram.",
+  "file": "ras-b-bouyon-dominica-ig-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": {
+   "anchor": "dominica",
+   "code": "dm",
+   "en": "Dominica",
+   "fr": "Dominique"
+  },
+  "name": "Ras B",
+  "revision": "ig-20261028",
+  "sha": "d5ad62688fd2",
+  "source": {
+   "channel": "@ras_b_4kdem",
+   "id": "ras_b_4kdem",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/ras_b_4kdem/"
   },
   "w": 1280
  },
@@ -5345,6 +7843,34 @@
   },
   "w": 1280
  },
+ "risingsun": {
+  "alt_en": "Risingsun, bouyon artist: still from the video “Lyrical-k selfish Ft. risingsun ”",
+  "alt_fr": "Risingsun, artiste bouyon : image du clip « Lyrical-k selfish Ft. risingsun  »",
+  "bytes": {
+   "risingsun-bouyon-yt-20261028-1280.jpg": 118731,
+   "risingsun-bouyon-yt-20261028-1280.webp": 68230,
+   "risingsun-bouyon-yt-20261028-640.jpg": 42755,
+   "risingsun-bouyon-yt-20261028-640.webp": 28710
+  },
+  "caption_en": "Image: YouTube thumbnail of “Lyrical-k selfish Ft. risingsun ”, Lyrical-k music channel.",
+  "caption_fr": "Image : miniature YouTube de « Lyrical-k selfish Ft. risingsun  », chaîne Lyrical-k music.",
+  "file": "risingsun-bouyon-yt-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": null,
+  "name": "Risingsun",
+  "revision": "yt-20261028",
+  "sha": "1aa3e4969e17",
+  "source": {
+   "channel": "Lyrical-k music",
+   "id": "B7kPpB-hkEo",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Lyrical-k selfish Ft. risingsun ",
+   "url": "https://www.youtube.com/watch?v=B7kPpB-hkEo"
+  },
+  "w": 1280
+ },
  "rsb": {
   "alt_en": "RSB, bouyon artist from Dominica: artist photo (Deezer page)",
   "alt_fr": "RSB, artiste bouyon de Dominique : photo de l'artiste (page Deezer)",
@@ -5376,6 +7902,39 @@
   },
   "w": 1280
  },
+ "rudy-rush": {
+  "alt_en": "Rudy Ru$h: profile image from Instagram account @iamrudyrush",
+  "alt_fr": "Rudy Ru$h : image de profil du compte Instagram @iamrudyrush",
+  "bytes": {
+   "rudy-rush-bouyon-dominica-ig-20261028-1280.jpg": 103294,
+   "rudy-rush-bouyon-dominica-ig-20261028-1280.webp": 54546,
+   "rudy-rush-bouyon-dominica-ig-20261028-640.jpg": 36844,
+   "rudy-rush-bouyon-dominica-ig-20261028-640.webp": 22828
+  },
+  "caption_en": "Profile image: @iamrudyrush on Instagram.",
+  "caption_fr": "Image de profil : @iamrudyrush sur Instagram.",
+  "file": "rudy-rush-bouyon-dominica-ig-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": {
+   "anchor": "dominica",
+   "code": "dm",
+   "en": "Dominica",
+   "fr": "Dominique"
+  },
+  "name": "Rudy Ru$h",
+  "revision": "ig-20261028",
+  "sha": "0b3c44c34fa9",
+  "source": {
+   "channel": "@iamrudyrush",
+   "id": "iamrudyrush",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/iamrudyrush/"
+  },
+  "w": 1280
+ },
  "rum-lawd": {
   "alt_en": "Rum Lawd, bouyon artist: still from the video “OG Park & Rum Lawd - Whale Fu See (Whale Oil Riddim) | Bouyon 2025 | Vincy Soca 2025”",
   "alt_fr": "Rum Lawd, artiste bouyon : image du clip « OG Park & Rum Lawd - Whale Fu See (Whale Oil Riddim) | Bouyon 2025 | Vincy Soca 2025 »",
@@ -5400,6 +7959,62 @@
    "quality": "maxresdefault",
    "title": "OG Park & Rum Lawd - Whale Fu See (Whale Oil Riddim) | Bouyon 2025 | Vincy Soca 2025",
    "url": "https://www.youtube.com/watch?v=X7GfR6YuuN0"
+  },
+  "w": 1280
+ },
+ "sandy-boo": {
+  "alt_en": "Sandy Boo, bouyon artist: still from the video “Sticky ft Sandy Boo - Creole cé ca (Bouyon)”",
+  "alt_fr": "Sandy Boo, artiste bouyon : image du clip « Sticky ft Sandy Boo - Creole cé ca (Bouyon) »",
+  "bytes": {
+   "sandy-boo-bouyon-yt-20261028-1280.jpg": 103498,
+   "sandy-boo-bouyon-yt-20261028-1280.webp": 52002,
+   "sandy-boo-bouyon-yt-20261028-640.jpg": 42705,
+   "sandy-boo-bouyon-yt-20261028-640.webp": 26146
+  },
+  "caption_en": "Image: YouTube thumbnail of “Sticky ft Sandy Boo - Creole cé ca (Bouyon)”, STICKY ( Ghost-town) channel.",
+  "caption_fr": "Image : miniature YouTube de « Sticky ft Sandy Boo - Creole cé ca (Bouyon) », chaîne STICKY ( Ghost-town).",
+  "file": "sandy-boo-bouyon-yt-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": null,
+  "name": "Sandy Boo",
+  "revision": "yt-20261028",
+  "sha": "493f7424f98c",
+  "source": {
+   "channel": "STICKY ( Ghost-town)",
+   "id": "gqEXwAi62mM",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Sticky ft Sandy Boo - Creole cé ca (Bouyon)",
+   "url": "https://www.youtube.com/watch?v=gqEXwAi62mM"
+  },
+  "w": 1280
+ },
+ "scarnx": {
+  "alt_en": "ScarnX: profile image from Instagram account @produced_by_scarnx",
+  "alt_fr": "ScarnX : image de profil du compte Instagram @produced_by_scarnx",
+  "bytes": {
+   "scarnx-bouyon-ig-20261028-1280.jpg": 22440,
+   "scarnx-bouyon-ig-20261028-1280.webp": 12332,
+   "scarnx-bouyon-ig-20261028-640.jpg": 10334,
+   "scarnx-bouyon-ig-20261028-640.webp": 6324
+  },
+  "caption_en": "Profile image: @produced_by_scarnx on Instagram.",
+  "caption_fr": "Image de profil : @produced_by_scarnx sur Instagram.",
+  "file": "scarnx-bouyon-ig-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": null,
+  "name": "ScarnX",
+  "revision": "ig-20261028",
+  "sha": "ad6d5b12e212",
+  "source": {
+   "channel": "@produced_by_scarnx",
+   "id": "produced_by_scarnx",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/produced_by_scarnx/"
   },
   "w": 1280
  },
@@ -5773,6 +8388,34 @@
   },
   "w": 1280
  },
+ "skrazy": {
+  "alt_en": "Skrazy, bouyon artist: still from the video “Skrazy, Dboss, & Ras B - Come Here [Official Visualizer] (Bouyon 2027)”",
+  "alt_fr": "Skrazy, artiste bouyon : image du clip « Skrazy, Dboss, & Ras B - Come Here [Official Visualizer] (Bouyon 2027) »",
+  "bytes": {
+   "skrazy-bouyon-yt-20261028-1280.jpg": 127539,
+   "skrazy-bouyon-yt-20261028-1280.webp": 77994,
+   "skrazy-bouyon-yt-20261028-640.jpg": 49911,
+   "skrazy-bouyon-yt-20261028-640.webp": 32964
+  },
+  "caption_en": "Image: YouTube thumbnail of “Skrazy, Dboss, & Ras B - Come Here [Official Visualizer] (Bouyon 2027)”, DJTaffy Tha Riddim Beast channel.",
+  "caption_fr": "Image : miniature YouTube de « Skrazy, Dboss, & Ras B - Come Here [Official Visualizer] (Bouyon 2027) », chaîne DJTaffy Tha Riddim Beast.",
+  "file": "skrazy-bouyon-yt-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": null,
+  "name": "Skrazy",
+  "revision": "yt-20261028",
+  "sha": "50f84ce67779",
+  "source": {
+   "channel": "DJTaffy Tha Riddim Beast",
+   "id": "axvKShycoq4",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Skrazy, Dboss, & Ras B - Come Here [Official Visualizer] (Bouyon 2027)",
+   "url": "https://www.youtube.com/watch?v=axvKShycoq4"
+  },
+  "w": 1280
+ },
  "slyme-hoyss": {
   "alt_en": "Slyme Hoyss, bouyon artist from Dominica: artist photo (Deezer page)",
   "alt_fr": "Slyme Hoyss, artiste bouyon de Dominique : photo de l'artiste (page Deezer)",
@@ -6018,28 +8661,63 @@
   "w": 1280
  },
  "sticky": {
-  "alt_en": "Sticky, bouyon artist: artist photo (Deezer page)",
-  "alt_fr": "Sticky, artiste bouyon : photo de l'artiste (page Deezer)",
+  "alt_en": "Sticky, bouyon artist: still from the video “DR Eevil,T.C AND Sticky – We Trippy (Bouyon)”",
+  "alt_fr": "Sticky, artiste bouyon : image du clip « DR Eevil,T.C AND Sticky – We Trippy (Bouyon) »",
   "bytes": {
-   "sticky-bouyon-1280.jpg": 74910,
-   "sticky-bouyon-1280.webp": 35390,
-   "sticky-bouyon-640.jpg": 29013,
-   "sticky-bouyon-640.webp": 15686
+   "sticky-bouyon-yt-20261028-1280.jpg": 135143,
+   "sticky-bouyon-yt-20261028-1280.webp": 77580,
+   "sticky-bouyon-yt-20261028-640.jpg": 54031,
+   "sticky-bouyon-yt-20261028-640.webp": 37230
   },
-  "caption_en": "Image: artist photo from Sticky's Deezer page.",
-  "caption_fr": "Image : photo d'artiste de la page Deezer de Sticky.",
-  "file": "sticky-bouyon",
+  "caption_en": "Image: YouTube thumbnail of “DR Eevil,T.C AND Sticky – We Trippy (Bouyon)”, Dr Eevil channel.",
+  "caption_fr": "Image : miniature YouTube de « DR Eevil,T.C AND Sticky – We Trippy (Bouyon) », chaîne Dr Eevil.",
+  "file": "sticky-bouyon-yt-20261028",
   "gathered": "2026-10-28",
   "h": 720,
   "island": null,
   "name": "Sticky",
-  "sha": "cac6ec6a6976",
+  "revision": "yt-20261028",
+  "sha": "b09e4570f8a0",
   "source": {
-   "channel": "Deezer",
-   "id": 65277,
-   "kind": "deezer",
-   "title": "Sticky",
-   "url": "https://www.deezer.com/artist/65277"
+   "channel": "Dr Eevil",
+   "id": "iZ46ZrJN_NE",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "DR Eevil,T.C AND Sticky – We Trippy (Bouyon)",
+   "url": "https://www.youtube.com/watch?v=iZ46ZrJN_NE"
+  },
+  "w": 1280
+ },
+ "stratvincybwoy": {
+  "alt_en": "stratvincybwoy: profile image from Instagram account @stratvincybwoy",
+  "alt_fr": "stratvincybwoy : image de profil du compte Instagram @stratvincybwoy",
+  "bytes": {
+   "stratvincybwoy-bouyon-saint-vincent-ig-20261028-1280.jpg": 57477,
+   "stratvincybwoy-bouyon-saint-vincent-ig-20261028-1280.webp": 28436,
+   "stratvincybwoy-bouyon-saint-vincent-ig-20261028-640.jpg": 23937,
+   "stratvincybwoy-bouyon-saint-vincent-ig-20261028-640.webp": 13872
+  },
+  "caption_en": "Profile image: @stratvincybwoy on Instagram.",
+  "caption_fr": "Image de profil : @stratvincybwoy sur Instagram.",
+  "file": "stratvincybwoy-bouyon-saint-vincent-ig-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": {
+   "anchor": "saint-vincent",
+   "code": "vc",
+   "en": "Saint Vincent and the Grenadines",
+   "fr": "Saint-Vincent-et-les-Grenadines"
+  },
+  "name": "stratvincybwoy",
+  "revision": "ig-20261028",
+  "sha": "eafae0742fb1",
+  "source": {
+   "channel": "@stratvincybwoy",
+   "id": "stratvincybwoy",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/stratvincybwoy/"
   },
   "w": 1280
  },
@@ -6067,6 +8745,39 @@
    "quality": "maxresdefault",
    "title": "Strosey ft Youry X Reo- Doe Call My Name (Bouyon 2026)",
    "url": "https://www.youtube.com/watch?v=a0GrELCWSf0"
+  },
+  "w": 1280
+ },
+ "sukie": {
+  "alt_en": "Sukie: cover artwork for “Say My Name”",
+  "alt_fr": "Sukie : pochette de « Say My Name »",
+  "bytes": {
+   "sukie-bouyon-dominica-release-20261028-1280.jpg": 157694,
+   "sukie-bouyon-dominica-release-20261028-1280.webp": 110846,
+   "sukie-bouyon-dominica-release-20261028-640.jpg": 50039,
+   "sukie-bouyon-dominica-release-20261028-640.webp": 37486
+  },
+  "caption_en": "Release artwork: “Say My Name”, Keks Mafia, Sukie Burn Brain.",
+  "caption_fr": "Pochette : « Say My Name », Keks Mafia, Sukie Burn Brain.",
+  "file": "sukie-bouyon-dominica-release-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": {
+   "anchor": "dominica",
+   "code": "dm",
+   "en": "Dominica",
+   "fr": "Dominique"
+  },
+  "name": "Sukie",
+  "revision": "release-20261028",
+  "sha": "ff8844977bfc",
+  "source": {
+   "channel": "Keks Mafia, Sukie Burn Brain",
+   "id": "track/3676754192",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "Say My Name",
+   "url": "https://www.deezer.com/track/3676754192"
   },
   "w": 1280
  },
@@ -6102,6 +8813,34 @@
   },
   "w": 1280
  },
+ "supatronic": {
+  "alt_en": "Supatronic: profile image from Instagram account @supatronic",
+  "alt_fr": "Supatronic : image de profil du compte Instagram @supatronic",
+  "bytes": {
+   "supatronic-bouyon-ig-20261028-1280.jpg": 72991,
+   "supatronic-bouyon-ig-20261028-1280.webp": 34706,
+   "supatronic-bouyon-ig-20261028-640.jpg": 28393,
+   "supatronic-bouyon-ig-20261028-640.webp": 15780
+  },
+  "caption_en": "Profile image: @supatronic on Instagram.",
+  "caption_fr": "Image de profil : @supatronic sur Instagram.",
+  "file": "supatronic-bouyon-ig-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": null,
+  "name": "Supatronic",
+  "revision": "ig-20261028",
+  "sha": "c0e0fba0cbd1",
+  "source": {
+   "channel": "@supatronic",
+   "id": "supatronic",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/supatronic/"
+  },
+  "w": 1280
+ },
  "superk": {
   "alt_en": "SuperK, bouyon artist from Saint Vincent and the Grenadines: still from the video “Heart Broken”",
   "alt_fr": "SuperK, artiste bouyon de Saint-Vincent-et-les-Grenadines : image du clip « Heart Broken »",
@@ -6134,6 +8873,100 @@
   },
   "w": 1280
  },
+ "suppa": {
+  "alt_en": "Suppa, bouyon artist from Guadeloupe: still from the video “Suppa feat Ti CHô Ghetto Princess _ Never Stop Di Bouyon”",
+  "alt_fr": "Suppa, artiste bouyon de Guadeloupe : image du clip « Suppa feat Ti CHô Ghetto Princess _ Never Stop Di Bouyon »",
+  "bytes": {
+   "suppa-bouyon-guadeloupe-yt-sojh4phowpi-1280.jpg": 111409,
+   "suppa-bouyon-guadeloupe-yt-sojh4phowpi-1280.webp": 88160,
+   "suppa-bouyon-guadeloupe-yt-sojh4phowpi-640.jpg": 56488,
+   "suppa-bouyon-guadeloupe-yt-sojh4phowpi-640.webp": 39488
+  },
+  "caption_en": "Image: YouTube thumbnail of “Suppa feat Ti CHô Ghetto Princess _ Never Stop Di Bouyon”, KING BOUYON (BOUYON HIT PARADE) channel.",
+  "caption_fr": "Image : miniature YouTube de « Suppa feat Ti CHô Ghetto Princess _ Never Stop Di Bouyon », chaîne KING BOUYON (BOUYON HIT PARADE).",
+  "file": "suppa-bouyon-guadeloupe-yt-sojh4phowpi",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": {
+   "anchor": "guadeloupe",
+   "code": "gp",
+   "en": "Guadeloupe",
+   "fr": "Guadeloupe"
+  },
+  "name": "Suppa",
+  "revision": "yt-sojh4phowpi",
+  "sha": "4b5e0e4d10e3",
+  "source": {
+   "channel": "KING BOUYON (BOUYON HIT PARADE)",
+   "id": "SOJh4PHOWpI",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Suppa feat Ti CHô Ghetto Princess _ Never Stop Di Bouyon",
+   "url": "https://www.youtube.com/watch?v=SOJh4PHOWpI"
+  },
+  "w": 1280
+ },
+ "sweet-ticky": {
+  "alt_en": "Sweet Ticky: TK International group photo, the band of vocalist Lennan “Ticky” Matthew",
+  "alt_fr": "Sweet Ticky : TK International group photo, the band of vocalist Lennan “Ticky” Matthew",
+  "bytes": {
+   "sweet-ticky-bouyon-dominica-verified-20261028-1280.jpg": 114801,
+   "sweet-ticky-bouyon-dominica-verified-20261028-1280.webp": 69044,
+   "sweet-ticky-bouyon-dominica-verified-20261028-640.jpg": 38914,
+   "sweet-ticky-bouyon-dominica-verified-20261028-640.webp": 26196
+  },
+  "caption_en": "Photo: TK International official website, TK International group photo, the band of vocalist Lennan “Ticky” Matthew.",
+  "caption_fr": "Photo : TK International official website, TK International group photo, the band of vocalist Lennan “Ticky” Matthew.",
+  "file": "sweet-ticky-bouyon-dominica-verified-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": {
+   "anchor": "dominica",
+   "code": "dm",
+   "en": "Dominica",
+   "fr": "Dominique"
+  },
+  "name": "Sweet Ticky",
+  "revision": "verified-20261028",
+  "sha": "699fcdea18e7",
+  "source": {
+   "channel": "TK International official website",
+   "id": "tk-band-2025",
+   "image_type": "group_photo",
+   "kind": "website",
+   "title": "TK International group photo, the band of vocalist Lennan “Ticky” Matthew",
+   "url": "https://triplekayinternational.com/about-us/"
+  },
+  "w": 1280
+ },
+ "t-c": {
+  "alt_en": "T.C, bouyon artist: still from the video “DR Eevil,T.C AND Sticky – We Trippy (Bouyon)”",
+  "alt_fr": "T.C, artiste bouyon : image du clip « DR Eevil,T.C AND Sticky – We Trippy (Bouyon) »",
+  "bytes": {
+   "t-c-bouyon-yt-20261028-1280.jpg": 135114,
+   "t-c-bouyon-yt-20261028-1280.webp": 77552,
+   "t-c-bouyon-yt-20261028-640.jpg": 54002,
+   "t-c-bouyon-yt-20261028-640.webp": 37202
+  },
+  "caption_en": "Image: YouTube thumbnail of “DR Eevil,T.C AND Sticky – We Trippy (Bouyon)”, Dr Eevil channel.",
+  "caption_fr": "Image : miniature YouTube de « DR Eevil,T.C AND Sticky – We Trippy (Bouyon) », chaîne Dr Eevil.",
+  "file": "t-c-bouyon-yt-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": null,
+  "name": "T.C",
+  "revision": "yt-20261028",
+  "sha": "c16f3ca21cc7",
+  "source": {
+   "channel": "Dr Eevil",
+   "id": "iZ46ZrJN_NE",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "DR Eevil,T.C AND Sticky – We Trippy (Bouyon)",
+   "url": "https://www.youtube.com/watch?v=iZ46ZrJN_NE"
+  },
+  "w": 1280
+ },
  "tallyboy": {
   "alt_en": "Tallyboy, bouyon artist from Saint Lucia: still from the video “Whoopty Doo”",
   "alt_fr": "Tallyboy, artiste bouyon de Sainte-Lucie : image du clip « Whoopty Doo »",
@@ -6163,6 +8996,67 @@
    "quality": "maxresdefault",
    "title": "Whoopty Doo",
    "url": "https://www.youtube.com/watch?v=2aJ53u-Nt_I"
+  },
+  "w": 1280
+ },
+ "tasmo": {
+  "alt_en": "Tasmo: cover artwork for “Bouwéy”",
+  "alt_fr": "Tasmo : pochette de « Bouwéy »",
+  "bytes": {
+   "tasmo-bouyon-release-20261028-1280.jpg": 79500,
+   "tasmo-bouyon-release-20261028-1280.webp": 37584,
+   "tasmo-bouyon-release-20261028-640.jpg": 30975,
+   "tasmo-bouyon-release-20261028-640.webp": 17128
+  },
+  "caption_en": "Release artwork: “Bouwéy”, Yellow Gaza, Keytzone, Tasmo.",
+  "caption_fr": "Pochette : « Bouwéy », Yellow Gaza, Keytzone, Tasmo.",
+  "file": "tasmo-bouyon-release-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": null,
+  "name": "Tasmo",
+  "revision": "release-20261028",
+  "sha": "1d42c5c0a0e6",
+  "source": {
+   "channel": "Yellow Gaza, Keytzone, Tasmo",
+   "id": "track/2304556255",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "Bouwéy",
+   "url": "https://www.deezer.com/track/2304556255"
+  },
+  "w": 1280
+ },
+ "tazzo-thaboss": {
+  "alt_en": "Tazzo Thaboss, bouyon artist from Dominica: still from the video “TAZZO THABO$$ -  GLIZZY SPRAY (1ST \"BOUYON DRILL\" EVER)”",
+  "alt_fr": "Tazzo Thaboss, artiste bouyon de Dominique : image du clip « TAZZO THABO$$ -  GLIZZY SPRAY (1ST \"BOUYON DRILL\" EVER) »",
+  "bytes": {
+   "tazzo-thaboss-bouyon-dominica-yt-20261028-1280.jpg": 44192,
+   "tazzo-thaboss-bouyon-dominica-yt-20261028-1280.webp": 20440,
+   "tazzo-thaboss-bouyon-dominica-yt-20261028-640.jpg": 18577,
+   "tazzo-thaboss-bouyon-dominica-yt-20261028-640.webp": 10578
+  },
+  "caption_en": "Image: YouTube thumbnail of “TAZZO THABO$$ -  GLIZZY SPRAY (1ST \"BOUYON DRILL\" EVER)”, TAZZO ENTERTAINMENT$ channel.",
+  "caption_fr": "Image : miniature YouTube de « TAZZO THABO$$ -  GLIZZY SPRAY (1ST \"BOUYON DRILL\" EVER) », chaîne TAZZO ENTERTAINMENT$.",
+  "file": "tazzo-thaboss-bouyon-dominica-yt-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": {
+   "anchor": "dominica",
+   "code": "dm",
+   "en": "Dominica",
+   "fr": "Dominique"
+  },
+  "name": "Tazzo Thaboss",
+  "revision": "yt-20261028",
+  "sha": "92bb29b70878",
+  "source": {
+   "channel": "TAZZO ENTERTAINMENT$",
+   "id": "mhw-yKxTYoY",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "TAZZO THABO$$ -  GLIZZY SPRAY (1ST \"BOUYON DRILL\" EVER)",
+   "url": "https://www.youtube.com/watch?v=mhw-yKxTYoY"
   },
   "w": 1280
  },
@@ -6400,6 +9294,39 @@
   },
   "w": 1280
  },
+ "tha-wizzard": {
+  "alt_en": "ThaWizZarD: profile image from Instagram account @thaawizzard",
+  "alt_fr": "ThaWizZarD : image de profil du compte Instagram @thaawizzard",
+  "bytes": {
+   "tha-wizzard-bouyon-dominica-ig-20261028-1280.jpg": 91922,
+   "tha-wizzard-bouyon-dominica-ig-20261028-1280.webp": 46144,
+   "tha-wizzard-bouyon-dominica-ig-20261028-640.jpg": 32348,
+   "tha-wizzard-bouyon-dominica-ig-20261028-640.webp": 18594
+  },
+  "caption_en": "Profile image: @thaawizzard on Instagram.",
+  "caption_fr": "Image de profil : @thaawizzard sur Instagram.",
+  "file": "tha-wizzard-bouyon-dominica-ig-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": {
+   "anchor": "dominica",
+   "code": "dm",
+   "en": "Dominica",
+   "fr": "Dominique"
+  },
+  "name": "ThaWizZarD",
+  "revision": "ig-20261028",
+  "sha": "a19423c87e10",
+  "source": {
+   "channel": "@thaawizzard",
+   "id": "thaawizzard",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/thaawizzard/"
+  },
+  "w": 1280
+ },
  "theodora": {
   "alt_en": "Theodora, bouyon artist (France): still from the video “La Nocturne”",
   "alt_fr": "Theodora, artiste bouyon (France) : image du clip « La Nocturne »",
@@ -6432,6 +9359,67 @@
   },
   "w": 1280
  },
+ "theomaa": {
+  "alt_en": "Theomaa: profile image from Instagram account @13theomaa_",
+  "alt_fr": "Theomaa : image de profil du compte Instagram @13theomaa_",
+  "bytes": {
+   "theomaa-bouyon-guadeloupe-ig-20261028-1280.jpg": 113931,
+   "theomaa-bouyon-guadeloupe-ig-20261028-1280.webp": 65062,
+   "theomaa-bouyon-guadeloupe-ig-20261028-640.jpg": 36953,
+   "theomaa-bouyon-guadeloupe-ig-20261028-640.webp": 22504
+  },
+  "caption_en": "Profile image: @13theomaa_ on Instagram.",
+  "caption_fr": "Image de profil : @13theomaa_ sur Instagram.",
+  "file": "theomaa-bouyon-guadeloupe-ig-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": {
+   "anchor": "guadeloupe",
+   "code": "gp",
+   "en": "Guadeloupe",
+   "fr": "Guadeloupe"
+  },
+  "name": "Theomaa",
+  "revision": "ig-20261028",
+  "sha": "548375479ca7",
+  "source": {
+   "channel": "@13theomaa_",
+   "id": "13theomaa_",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/13theomaa_/"
+  },
+  "w": 1280
+ },
+ "thesmsgirls": {
+  "alt_en": "SMS Girls: cover artwork for “Stop It (Freestyle)”",
+  "alt_fr": "SMS Girls : pochette de « Stop It (Freestyle) »",
+  "bytes": {
+   "thesmsgirls-bouyon-release-20261028-1280.jpg": 129178,
+   "thesmsgirls-bouyon-release-20261028-1280.webp": 80580,
+   "thesmsgirls-bouyon-release-20261028-640.jpg": 42672,
+   "thesmsgirls-bouyon-release-20261028-640.webp": 29686
+  },
+  "caption_en": "Release artwork: “Stop It (Freestyle)”, Thesmsgirls, Honey.",
+  "caption_fr": "Pochette : « Stop It (Freestyle) », Thesmsgirls, Honey.",
+  "file": "thesmsgirls-bouyon-release-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": null,
+  "name": "SMS Girls",
+  "revision": "release-20261028",
+  "sha": "9bf1859eed01",
+  "source": {
+   "channel": "Thesmsgirls, Honey",
+   "id": "track/4204483012",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "Stop It (Freestyle)",
+   "url": "https://www.deezer.com/track/4204483012"
+  },
+  "w": 1280
+ },
  "ti-al": {
   "alt_en": "Ti Al, bouyon artist: still from the video “WIZITO Feat TI AL - TUNTUN (Prod By DJ CHIMIK) BOUYON”",
   "alt_fr": "Ti Al, artiste bouyon : image du clip « WIZITO Feat TI AL - TUNTUN (Prod By DJ CHIMIK) BOUYON »",
@@ -6456,6 +9444,39 @@
    "quality": "maxresdefault",
    "title": "WIZITO Feat TI AL - TUNTUN (Prod By DJ CHIMIK) BOUYON",
    "url": "https://www.youtube.com/watch?v=5LCWdSBVW-A"
+  },
+  "w": 1280
+ },
+ "ti-locksee": {
+  "alt_en": "Ti locksée: cover artwork for “Sexuelle Attirance”",
+  "alt_fr": "Ti locksée : pochette de « Sexuelle Attirance »",
+  "bytes": {
+   "ti-locksee-bouyon-guadeloupe-release-20261028-1280.jpg": 97700,
+   "ti-locksee-bouyon-guadeloupe-release-20261028-1280.webp": 49344,
+   "ti-locksee-bouyon-guadeloupe-release-20261028-640.jpg": 34866,
+   "ti-locksee-bouyon-guadeloupe-release-20261028-640.webp": 20612
+  },
+  "caption_en": "Release artwork: “Sexuelle Attirance”, MA6MO, Ti locksée.",
+  "caption_fr": "Pochette : « Sexuelle Attirance », MA6MO, Ti locksée.",
+  "file": "ti-locksee-bouyon-guadeloupe-release-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": {
+   "anchor": "guadeloupe",
+   "code": "gp",
+   "en": "Guadeloupe",
+   "fr": "Guadeloupe"
+  },
+  "name": "Ti locksée",
+  "revision": "release-20261028",
+  "sha": "6af5419afa27",
+  "source": {
+   "channel": "MA6MO, Ti locksée",
+   "id": "track/1810496727",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "Sexuelle Attirance",
+   "url": "https://www.deezer.com/track/1810496727"
   },
   "w": 1280
  },
@@ -6638,6 +9659,34 @@
   },
   "w": 1280
  },
+ "trev-li": {
+  "alt_en": "Trev-Li: profile image from Instagram account @trev.li",
+  "alt_fr": "Trev-Li : image de profil du compte Instagram @trev.li",
+  "bytes": {
+   "trev-li-bouyon-ig-20261028-1280.jpg": 89092,
+   "trev-li-bouyon-ig-20261028-1280.webp": 39290,
+   "trev-li-bouyon-ig-20261028-640.jpg": 31827,
+   "trev-li-bouyon-ig-20261028-640.webp": 16318
+  },
+  "caption_en": "Profile image: @trev.li on Instagram.",
+  "caption_fr": "Image de profil : @trev.li sur Instagram.",
+  "file": "trev-li-bouyon-ig-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": null,
+  "name": "Trev-Li",
+  "revision": "ig-20261028",
+  "sha": "a67a94f62780",
+  "source": {
+   "channel": "@trev.li",
+   "id": "trev.li",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/trev.li/"
+  },
+  "w": 1280
+ },
  "trilla-g": {
   "alt_en": "Trilla-G, bouyon artist from Dominica: still from the video “Trilla-G & Stalk Ashley - Nobody [Bouyon 2026]”",
   "alt_fr": "Trilla-G, artiste bouyon de Dominique : image du clip « Trilla-G & Stalk Ashley - Nobody [Bouyon 2026] »",
@@ -6667,6 +9716,72 @@
    "quality": "maxresdefault",
    "title": "Trilla-G & Stalk Ashley - Nobody [Bouyon 2026]",
    "url": "https://www.youtube.com/watch?v=5Qc7hFdxJW4"
+  },
+  "w": 1280
+ },
+ "triszy": {
+  "alt_en": "TriSzy: profile image from Instagram account @triszytrisz",
+  "alt_fr": "TriSzy : image de profil du compte Instagram @triszytrisz",
+  "bytes": {
+   "triszy-bouyon-dominica-ig-20261028-1280.jpg": 64797,
+   "triszy-bouyon-dominica-ig-20261028-1280.webp": 30640,
+   "triszy-bouyon-dominica-ig-20261028-640.jpg": 24677,
+   "triszy-bouyon-dominica-ig-20261028-640.webp": 13340
+  },
+  "caption_en": "Profile image: @triszytrisz on Instagram.",
+  "caption_fr": "Image de profil : @triszytrisz sur Instagram.",
+  "file": "triszy-bouyon-dominica-ig-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": {
+   "anchor": "dominica",
+   "code": "dm",
+   "en": "Dominica",
+   "fr": "Dominique"
+  },
+  "name": "TriSzy",
+  "revision": "ig-20261028",
+  "sha": "bb4252dcf5c4",
+  "source": {
+   "channel": "@triszytrisz",
+   "id": "triszytrisz",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/triszytrisz/"
+  },
+  "w": 1280
+ },
+ "trixx": {
+  "alt_en": "Trixx: cover artwork for “Nasty Freestyle Medley (feat. Gwada G, Trixx, Freddy & Nice)”",
+  "alt_fr": "Trixx : pochette de « Nasty Freestyle Medley (feat. Gwada G, Trixx, Freddy & Nice) »",
+  "bytes": {
+   "trixx-bouyon-dominica-release-20261028-1280.jpg": 94941,
+   "trixx-bouyon-dominica-release-20261028-1280.webp": 46314,
+   "trixx-bouyon-dominica-release-20261028-640.jpg": 38658,
+   "trixx-bouyon-dominica-release-20261028-640.webp": 22314
+  },
+  "caption_en": "Release artwork: “Nasty Freestyle Medley (feat. Gwada G, Trixx, Freddy & Nice)”, Litleboy, Gwada G, Trixx, Freddy, Nice.",
+  "caption_fr": "Pochette : « Nasty Freestyle Medley (feat. Gwada G, Trixx, Freddy & Nice) », Litleboy, Gwada G, Trixx, Freddy, Nice.",
+  "file": "trixx-bouyon-dominica-release-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": {
+   "anchor": "dominica",
+   "code": "dm",
+   "en": "Dominica",
+   "fr": "Dominique"
+  },
+  "name": "Trixx",
+  "revision": "release-20261028",
+  "sha": "cc5650f0b462",
+  "source": {
+   "channel": "Litleboy, Gwada G, Trixx, Freddy, Nice",
+   "id": "album/794913351",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "Nasty Freestyle Medley (feat. Gwada G, Trixx, Freddy & Nice)",
+   "url": "https://www.deezer.com/album/794913351"
   },
   "w": 1280
  },
@@ -6786,6 +9901,34 @@
   },
   "w": 1280
  },
+ "vador": {
+  "alt_en": "Vador: cover artwork for “LEVRETTE”",
+  "alt_fr": "Vador : pochette de « LEVRETTE »",
+  "bytes": {
+   "vador-bouyon-release-20261028-1280.jpg": 116332,
+   "vador-bouyon-release-20261028-1280.webp": 66306,
+   "vador-bouyon-release-20261028-640.jpg": 40346,
+   "vador-bouyon-release-20261028-640.webp": 25318
+  },
+  "caption_en": "Release artwork: “LEVRETTE”, Yellow Gaza Girls.",
+  "caption_fr": "Pochette : « LEVRETTE », Yellow Gaza Girls.",
+  "file": "vador-bouyon-release-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": null,
+  "name": "Vador",
+  "revision": "release-20261028",
+  "sha": "74416c0bc874",
+  "source": {
+   "channel": "Yellow Gaza Girls",
+   "id": "track/3611861112",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "LEVRETTE",
+   "url": "https://www.deezer.com/track/3611861112"
+  },
+  "w": 1280
+ },
  "vghn": {
   "alt_en": "V'ghn, bouyon artist from Grenada: still from the video “Trilla-G, V'ghn - Take Me As I Am REMIX (Official Visualizer) [Bouyon 2026]”",
   "alt_fr": "V'ghn, artiste bouyon de Grenade : image du clip « Trilla-G, V'ghn - Take Me As I Am REMIX (Official Visualizer) [Bouyon 2026] »",
@@ -6842,6 +9985,34 @@
    "quality": "maxresdefault",
    "title": "Mommy",
    "url": "https://www.youtube.com/watch?v=Y237Q3yrvlk"
+  },
+  "w": 1280
+ },
+ "viv-beats": {
+  "alt_en": "VIV Beats, bouyon artist: still from the video “Pablo (Bouyon Instrumental) | VIV Beats”",
+  "alt_fr": "VIV Beats, artiste bouyon : image du clip « Pablo (Bouyon Instrumental) | VIV Beats »",
+  "bytes": {
+   "viv-beats-bouyon-yt-20261028-1280.jpg": 43254,
+   "viv-beats-bouyon-yt-20261028-1280.webp": 20934,
+   "viv-beats-bouyon-yt-20261028-640.jpg": 19189,
+   "viv-beats-bouyon-yt-20261028-640.webp": 10626
+  },
+  "caption_en": "Image: YouTube thumbnail of “Pablo (Bouyon Instrumental) | VIV Beats”, VIV Beats channel.",
+  "caption_fr": "Image : miniature YouTube de « Pablo (Bouyon Instrumental) | VIV Beats », chaîne VIV Beats.",
+  "file": "viv-beats-bouyon-yt-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": null,
+  "name": "VIV Beats",
+  "revision": "yt-20261028",
+  "sha": "c0a0aa06341d",
+  "source": {
+   "channel": "VIV Beats",
+   "id": "MTer0QucA18",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Pablo (Bouyon Instrumental) | VIV Beats",
+   "url": "https://www.youtube.com/watch?v=MTer0QucA18"
   },
   "w": 1280
  },
@@ -6997,6 +10168,62 @@
   },
   "w": 1280
  },
+ "xavvoknockin": {
+  "alt_en": "Xavvoknockin, bouyon artist: still from the video “Knock knock - Redpunchdrip, VIRTUOSE & Xavvoknockin - (Bouyon 2026)”",
+  "alt_fr": "Xavvoknockin, artiste bouyon : image du clip « Knock knock - Redpunchdrip, VIRTUOSE & Xavvoknockin - (Bouyon 2026) »",
+  "bytes": {
+   "xavvoknockin-bouyon-yt-il4mv4stsj8-1280.jpg": 115778,
+   "xavvoknockin-bouyon-yt-il4mv4stsj8-1280.webp": 64024,
+   "xavvoknockin-bouyon-yt-il4mv4stsj8-640.jpg": 49551,
+   "xavvoknockin-bouyon-yt-il4mv4stsj8-640.webp": 32342
+  },
+  "caption_en": "Image: YouTube thumbnail of “Knock knock - Redpunchdrip, VIRTUOSE & Xavvoknockin - (Bouyon 2026)”, Knockin Records channel.",
+  "caption_fr": "Image : miniature YouTube de « Knock knock - Redpunchdrip, VIRTUOSE & Xavvoknockin - (Bouyon 2026) », chaîne Knockin Records.",
+  "file": "xavvoknockin-bouyon-yt-il4mv4stsj8",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": null,
+  "name": "Xavvoknockin",
+  "revision": "yt-il4mv4stsj8",
+  "sha": "8a98bea918fe",
+  "source": {
+   "channel": "Knockin Records",
+   "id": "Il4mV4sTSj8",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Knock knock - Redpunchdrip, VIRTUOSE & Xavvoknockin - (Bouyon 2026)",
+   "url": "https://www.youtube.com/watch?v=Il4mV4sTSj8"
+  },
+  "w": 1280
+ },
+ "xs-groove": {
+  "alt_en": "Xs Groove: profile image from Instagram account @xsgroove",
+  "alt_fr": "Xs Groove : image de profil du compte Instagram @xsgroove",
+  "bytes": {
+   "xs-groove-bouyon-ig-20261028-1280.jpg": 25953,
+   "xs-groove-bouyon-ig-20261028-1280.webp": 10888,
+   "xs-groove-bouyon-ig-20261028-640.jpg": 12377,
+   "xs-groove-bouyon-ig-20261028-640.webp": 6596
+  },
+  "caption_en": "Profile image: @xsgroove on Instagram.",
+  "caption_fr": "Image de profil : @xsgroove sur Instagram.",
+  "file": "xs-groove-bouyon-ig-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": null,
+  "name": "Xs Groove",
+  "revision": "ig-20261028",
+  "sha": "5e9e013af9fb",
+  "source": {
+   "channel": "@xsgroove",
+   "id": "xsgroove",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/xsgroove/"
+  },
+  "w": 1280
+ },
  "yellow-gaza": {
   "alt_en": "Yellow Gaza, bouyon artist from Guadeloupe: artist photo (Deezer page)",
   "alt_fr": "Yellow Gaza, artiste bouyon de Guadeloupe : photo de l'artiste (page Deezer)",
@@ -7025,6 +10252,34 @@
    "kind": "deezer",
    "title": "Yellow Gaza",
    "url": "https://www.deezer.com/artist/152886042"
+  },
+  "w": 1280
+ },
+ "yojoshii": {
+  "alt_en": "YoJoshii: cover artwork for “See U”",
+  "alt_fr": "YoJoshii : pochette de « See U »",
+  "bytes": {
+   "yojoshii-bouyon-release-20261028-1280.jpg": 77524,
+   "yojoshii-bouyon-release-20261028-1280.webp": 40362,
+   "yojoshii-bouyon-release-20261028-640.jpg": 27454,
+   "yojoshii-bouyon-release-20261028-640.webp": 16066
+  },
+  "caption_en": "Release artwork: “See U”, Pinpin OSP.",
+  "caption_fr": "Pochette : « See U », Pinpin OSP.",
+  "file": "yojoshii-bouyon-release-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": null,
+  "name": "YoJoshii",
+  "revision": "release-20261028",
+  "sha": "aeb777e211ac",
+  "source": {
+   "channel": "Pinpin OSP",
+   "id": "track/4342342752",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "See U",
+   "url": "https://www.deezer.com/track/4342342752"
   },
   "w": 1280
  },
@@ -7078,6 +10333,67 @@
    "kind": "deezer",
    "title": "Young Dinero",
    "url": "https://www.deezer.com/artist/8803684"
+  },
+  "w": 1280
+ },
+ "young-ob": {
+  "alt_en": "Young Ob: cover artwork for “Storybook Riddim Freestyle (feat. Young Ob) (Bouyon Version)”",
+  "alt_fr": "Young Ob : pochette de « Storybook Riddim Freestyle (feat. Young Ob) (Bouyon Version) »",
+  "bytes": {
+   "young-ob-bouyon-release-20261028-1280.jpg": 150876,
+   "young-ob-bouyon-release-20261028-1280.webp": 97676,
+   "young-ob-bouyon-release-20261028-640.jpg": 45056,
+   "young-ob-bouyon-release-20261028-640.webp": 31372
+  },
+  "caption_en": "Release artwork: “Storybook Riddim Freestyle (feat. Young Ob) (Bouyon Version)”, D4A Nillio, Young OB.",
+  "caption_fr": "Pochette : « Storybook Riddim Freestyle (feat. Young Ob) (Bouyon Version) », D4A Nillio, Young OB.",
+  "file": "young-ob-bouyon-release-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": null,
+  "name": "Young Ob",
+  "revision": "release-20261028",
+  "sha": "14ac47227e3c",
+  "source": {
+   "channel": "D4A Nillio, Young OB",
+   "id": "track/3752133492",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "Storybook Riddim Freestyle (feat. Young Ob) (Bouyon Version)",
+   "url": "https://www.deezer.com/track/3752133492"
+  },
+  "w": 1280
+ },
+ "youry-fleming": {
+  "alt_en": "Youry Fleming: cover artwork for “Lucy Lucy”",
+  "alt_fr": "Youry Fleming : pochette de « Lucy Lucy »",
+  "bytes": {
+   "youry-fleming-bouyon-saint-martin-release-20261028-1280.jpg": 95310,
+   "youry-fleming-bouyon-saint-martin-release-20261028-1280.webp": 48204,
+   "youry-fleming-bouyon-saint-martin-release-20261028-640.jpg": 34611,
+   "youry-fleming-bouyon-saint-martin-release-20261028-640.webp": 20494
+  },
+  "caption_en": "Release artwork: “Lucy Lucy”, Youry.",
+  "caption_fr": "Pochette : « Lucy Lucy », Youry.",
+  "file": "youry-fleming-bouyon-saint-martin-release-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": {
+   "anchor": "saint-martin",
+   "code": "mf",
+   "en": "Saint Martin / Sint Maarten",
+   "fr": "Saint-Martin / Sint Maarten"
+  },
+  "name": "Youry Fleming",
+  "revision": "release-20261028",
+  "sha": "e9eb1de5de62",
+  "source": {
+   "channel": "Youry",
+   "id": "track/1282840132",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "Lucy Lucy",
+   "url": "https://www.deezer.com/track/1282840132"
   },
   "w": 1280
  },
@@ -7138,6 +10454,34 @@
   },
   "w": 1280
  },
+ "yuniikbeatz": {
+  "alt_en": "YuniikBeatz: profile image from Instagram account @yuniik.cbl",
+  "alt_fr": "YuniikBeatz : image de profil du compte Instagram @yuniik.cbl",
+  "bytes": {
+   "yuniikbeatz-bouyon-ig-20261028-1280.jpg": 105588,
+   "yuniikbeatz-bouyon-ig-20261028-1280.webp": 56494,
+   "yuniikbeatz-bouyon-ig-20261028-640.jpg": 34817,
+   "yuniikbeatz-bouyon-ig-20261028-640.webp": 20560
+  },
+  "caption_en": "Profile image: @yuniik.cbl on Instagram.",
+  "caption_fr": "Image de profil : @yuniik.cbl sur Instagram.",
+  "file": "yuniikbeatz-bouyon-ig-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": null,
+  "name": "YuniikBeatz",
+  "revision": "ig-20261028",
+  "sha": "671008e76c05",
+  "source": {
+   "channel": "@yuniik.cbl",
+   "id": "yuniik.cbl",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/yuniik.cbl/"
+  },
+  "w": 1280
+ },
  "zepek": {
   "alt_en": "Zepek, bouyon artist: still from the video “ZEPEK - F*CK 2 NIGHT (BOUYON 2024)”",
   "alt_fr": "Zepek, artiste bouyon : image du clip « ZEPEK - F*CK 2 NIGHT (BOUYON 2024) »",
@@ -7162,6 +10506,39 @@
    "quality": "maxresdefault",
    "title": "ZEPEK - F*CK 2 NIGHT (BOUYON 2024)",
    "url": "https://www.youtube.com/watch?v=a_4NclSzLHk"
+  },
+  "w": 1280
+ },
+ "zwady": {
+  "alt_en": "Zwady: profile image from Instagram account @zwadymusic",
+  "alt_fr": "Zwady : image de profil du compte Instagram @zwadymusic",
+  "bytes": {
+   "zwady-bouyon-dominica-ig-20261028-1280.jpg": 54087,
+   "zwady-bouyon-dominica-ig-20261028-1280.webp": 24260,
+   "zwady-bouyon-dominica-ig-20261028-640.jpg": 22411,
+   "zwady-bouyon-dominica-ig-20261028-640.webp": 12214
+  },
+  "caption_en": "Profile image: @zwadymusic on Instagram.",
+  "caption_fr": "Image de profil : @zwadymusic sur Instagram.",
+  "file": "zwady-bouyon-dominica-ig-20261028",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": {
+   "anchor": "dominica",
+   "code": "dm",
+   "en": "Dominica",
+   "fr": "Dominique"
+  },
+  "name": "Zwady",
+  "revision": "ig-20261028",
+  "sha": "fcfab51e4422",
+  "source": {
+   "channel": "@zwadymusic",
+   "id": "zwadymusic",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/zwadymusic/"
   },
   "w": 1280
  }

@@ -8,9 +8,14 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/wck.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/wck-bouyon-dominica-1280.jpg</image:loc>
+      <image:title>WCK (bouyon)</image:title>
+      <image:caption>WCK, artiste bouyon de Dominique : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/asa-bantan.html</loc>
@@ -44,7 +49,7 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/smokiller.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -55,10 +60,15 @@
       <video:duration>2518</video:duration>
       <video:publication_date>2026-10-17</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/smokiller-bouyon-dominica-1280.jpg</image:loc>
+      <image:title>Smokiller (bouyon)</image:title>
+      <image:caption>Smokiller, artiste bouyon de Dominique : image du clip « Bouyon Music 2026 Mix 🇩🇲 Best New Bouyon Songs Vol. 1 | Trilla-G, J Lion, Tipsy, Khallion, DOVA »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/maurane-voyer.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -77,6 +87,11 @@
       <video:duration>182</video:duration>
       <video:publication_date>2025-12-28</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/maurane-voyer-bouyon-martinique-1280.jpg</image:loc>
+      <image:title>Maurane Voyer (bouyon)</image:title>
+      <image:caption>Maurane Voyer, artiste bouyon de Martinique : image du clip « Au loin »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/miimii-kds.html</loc>
@@ -102,21 +117,36 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/tiitii-nba.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/tiitii-nba-bouyon-guadeloupe-1280.jpg</image:loc>
+      <image:title>TIITII NBA (bouyon)</image:title>
+      <image:caption>TIITII NBA, artiste bouyon de Guadeloupe : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/signal-band.html</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/signal-band-bouyon-dominica-1280.jpg</image:loc>
+      <image:title>Signal Band (bouyon)</image:title>
+      <image:caption>Signal Band, artiste bouyon de Dominique : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/shelly.html</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/shelly-bouyon-dominica-1280.jpg</image:loc>
+      <image:title>Shelly (bouyon)</image:title>
+      <image:caption>Shelly, artiste bouyon de Dominique : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/midnight-groovers.html</loc>
@@ -191,63 +221,113 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/bonna.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/bonna-bouyon-dominica-ig-20261028-1280.jpg</image:loc>
+      <image:title>BONNA (bouyon)</image:title>
+      <image:caption>BONNA : image de profil du compte Instagram @bonna_nasa</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/ras-b.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/ras-b-bouyon-dominica-ig-20261028-1280.jpg</image:loc>
+      <image:title>Ras B (bouyon)</image:title>
+      <image:caption>Ras B : image de profil du compte Instagram @ras_b_4kdem</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/litleboy-lsbeats767.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/litleboy-lsbeats767-bouyon-release-20261028-1280.jpg</image:loc>
+      <image:title>Litleboy LSBeats767 (bouyon)</image:title>
+      <image:caption>Litleboy LSBeats767 : pochette de « Someone Else (feat. Quan &amp; Trilla-G) »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/niska.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/niska-bouyon-france-1280.jpg</image:loc>
+      <image:title>Niska (bouyon)</image:title>
+      <image:caption>Niska, artiste bouyon (France) : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/denmath.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/denmath-bouyon-saint-martin-1280.jpg</image:loc>
+      <image:title>Denmath (bouyon)</image:title>
+      <image:caption>Denmath, artiste bouyon (Saint-Martin / Sint Maarten) : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/mb-on-the-track.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/mb-on-the-track-bouyon-1280.jpg</image:loc>
+      <image:title>MB On The Track (bouyon)</image:title>
+      <image:caption>MB On The Track, artiste bouyon : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/hypno.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/hypno-bouyon-ig-20261028-1280.jpg</image:loc>
+      <image:title>HYPNO (bouyon)</image:title>
+      <image:caption>HYPNO : image de profil du compte Instagram @hypnoticbeatz</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/prod-bysavion.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/prod-bysavion-bouyon-ig-20261028-1280.jpg</image:loc>
+      <image:title>Savion (bouyon)</image:title>
+      <image:caption>Savion : image de profil du compte Instagram @prod.bysavion</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/gz-up.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/gz-up-bouyon-ig-20261028-1280.jpg</image:loc>
+      <image:title>G’z Up (bouyon)</image:title>
+      <image:caption>G’z Up : image de profil du compte Instagram @gz_upp</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/dcamp-lewismelo.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/dcamp-lewismelo-bouyon-yt-20261028-1280.jpg</image:loc>
+      <image:title>Dcamp &amp; Lewismelo (bouyon)</image:title>
+      <image:caption>Dcamp &amp; Lewismelo, artiste bouyon : image du clip « YOU AND ME - Dcamp &amp; Lewismelo &amp; Admiral T »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/ricky-bishop.html</loc>
@@ -257,9 +337,14 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/david-campana.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/david-campana-bouyon-canada-ig-20261028-1280.jpg</image:loc>
+      <image:title>David Campana (bouyon)</image:title>
+      <image:caption>David Campana : image de profil du compte Instagram @dav.campana</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/dj-blax.html</loc>
@@ -280,9 +365,14 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/kkrytical.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/kkrytical-bouyon-jamaica-ig-20261028-1280.jpg</image:loc>
+      <image:title>Kkrytical (bouyon)</image:title>
+      <image:caption>Kkrytical : image de profil du compte Instagram @kkryticalofficial</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/artistes-dominique.html</loc>
@@ -315,39 +405,69 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/dj-cut.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/dj-cut-bouyon-dominica-ig-20261028-1280.jpg</image:loc>
+      <image:title>DJ Cut (bouyon)</image:title>
+      <image:caption>DJ Cut : image de profil du compte Instagram @bucktowndjcut</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/dada.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/dada-bouyon-dominica-release-20261028-1280.jpg</image:loc>
+      <image:title>Dada (bouyon)</image:title>
+      <image:caption>Dada : pochette de « Famalay »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/nursery-krew-inc.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/nursery-krew-inc-bouyon-dominica-yt-b7oen3kjaps-1280.jpg</image:loc>
+      <image:title>Nursery Krew Inc (bouyon)</image:title>
+      <image:caption>Nursery Krew Inc, artiste bouyon de Dominique : image du clip « Doss2 - Charlie Black x BurnBrain: The Nursery Krew That Shook the Bouyon World »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/bushtown-clan.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/bushtown-clan-bouyon-dominica-yt-yyk0l3lwu_e-1280.jpg</image:loc>
+      <image:title>Bushtown Clan (bouyon)</image:title>
+      <image:caption>Bushtown Clan, artiste bouyon de Dominique : image du clip « bushtown clan - make a move &amp; who wha test »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/tha-wizzard.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/tha-wizzard-bouyon-dominica-ig-20261028-1280.jpg</image:loc>
+      <image:title>ThaWizZarD (bouyon)</image:title>
+      <image:caption>ThaWizZarD : image de profil du compte Instagram @thaawizzard</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/skinny-banton.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/skinny-banton-bouyon-dominica-1280.jpg</image:loc>
+      <image:title>Skinny Banton (bouyon)</image:title>
+      <image:caption>Skinny Banton, artiste bouyon de Dominique : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/edday.html</loc>
@@ -365,18 +485,33 @@
     <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/dj-taffy-bouyon-dominica-1280.jpg</image:loc>
+      <image:title>DJ Taffy (bouyon)</image:title>
+      <image:caption>DJ Taffy, artiste bouyon de Dominique : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/nice.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/nice-bouyon-dominica-ig-20261028-1280.jpg</image:loc>
+      <image:title>Nice (bouyon)</image:title>
+      <image:caption>Nice : image de profil du compte Instagram @o.f.f.i.c.i.a.l_n.i.c.e</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/dj-mj.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/dj-mj-bouyon-dominica-1280.jpg</image:loc>
+      <image:title>DJ MJ (bouyon)</image:title>
+      <image:caption>DJ MJ, artiste bouyon de Dominique : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/fallon.html</loc>
@@ -391,9 +526,14 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/holly-g.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/holly-g-bouyon-guadeloupe-1280.jpg</image:loc>
+      <image:title>HollyG (bouyon)</image:title>
+      <image:caption>HollyG, artiste bouyon de Guadeloupe : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/lejuh.html</loc>
@@ -419,9 +559,14 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/a-plus-musik.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/a-plus-musik-bouyon-ig-20261028-1280.jpg</image:loc>
+      <image:title>A-Plus Muzik (bouyon)</image:title>
+      <image:caption>A-Plus Muzik : image de profil du compte Instagram @aplusmuzik1</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/aknose.html</loc>
@@ -442,39 +587,69 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/anonymous-gyals.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/anonymous-gyals-bouyon-1280.jpg</image:loc>
+      <image:title>Anonymous Gyals (bouyon)</image:title>
+      <image:caption>Anonymous Gyals, artiste bouyon : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/arendi.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/arendi-bouyon-guadeloupe-ig-20261028-1280.jpg</image:loc>
+      <image:title>Arendi (bouyon)</image:title>
+      <image:caption>Arendi : image de profil du compte Instagram @arendi_971</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/beevo.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/beevo-bouyon-ig-20261028-1280.jpg</image:loc>
+      <image:title>Beevo (bouyon)</image:title>
+      <image:caption>Beevo : image de profil du compte Instagram @beevo767</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/benji.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/benji-bouyon-dominica-press-20261028-1280.jpg</image:loc>
+      <image:title>Benji (bouyon)</image:title>
+      <image:caption>Benji : Benji of Triple Kay, WCMF ticket event (2013)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/bernard-gumbs-wizito.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/bernard-gumbs-wizito-bouyon-saint-martin-release-20261028-1280.jpg</image:loc>
+      <image:title>Bernard Gumbs (Wizito) (bouyon)</image:title>
+      <image:caption>Bernard Gumbs (Wizito) : pochette de « Deli »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/bilix.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/bilix-bouyon-guadeloupe-1280.jpg</image:loc>
+      <image:title>Bilix (bouyon)</image:title>
+      <image:caption>Bilix, artiste bouyon de Guadeloupe : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/billy-bybf.html</loc>
@@ -489,21 +664,36 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/binksdrick.html</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/binksdrick-bouyon-guadeloupe-ig-20261028-1280.jpg</image:loc>
+      <image:title>Binksdrick (bouyon)</image:title>
+      <image:caption>Binksdrick : image de profil du compte Instagram @binksdrick</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/bismok.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/bismok-bouyon-guadeloupe-1280.jpg</image:loc>
+      <image:title>Bismok (bouyon)</image:title>
+      <image:caption>Bismok, artiste bouyon de Guadeloupe : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/boy-freeze.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/boy-freeze-bouyon-ig-20261028-1280.jpg</image:loc>
+      <image:title>Boy Freeze (bouyon)</image:title>
+      <image:caption>Boy Freeze : image de profil du compte Instagram @fr3eze3x</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/brg-hollywood.html</loc>
@@ -518,21 +708,36 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/bunji-garlin.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/bunji-garlin-bouyon-trinidad-1280.jpg</image:loc>
+      <image:title>Bunji Garlin (bouyon)</image:title>
+      <image:caption>Bunji Garlin, artiste bouyon de Trinité-et-Tobago : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/c4.html</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/c4-bouyon-release-20261028-1280.jpg</image:loc>
+      <image:title>C4 (bouyon)</image:title>
+      <image:caption>C4 : pochette de « Cashin Out Warmup (feat. C4) »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/carlyn-xp.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/carlyn-xp-bouyon-dominica-1280.jpg</image:loc>
+      <image:title>Carlyn XP (bouyon)</image:title>
+      <image:caption>Carlyn XP, artiste bouyon de Dominique : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/cocotteland.html</loc>
@@ -564,15 +769,25 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/d-mitri.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/d-mitri-bouyon-ig-20261028-1280.jpg</image:loc>
+      <image:title>D-Mitri (bouyon)</image:title>
+      <image:caption>D-Mitri : image de profil du compte Instagram @dmitribts</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/daddy-chess.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/daddy-chess-bouyon-dominica-release-20261028-1280.jpg</image:loc>
+      <image:title>Daddy Chess (bouyon)</image:title>
+      <image:caption>Daddy Chess : pochette de « Champion Riddim »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/dcamp.html</loc>
@@ -587,15 +802,25 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/deearr.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/deearr-bouyon-1280.jpg</image:loc>
+      <image:title>DeeArr (bouyon)</image:title>
+      <image:caption>DeeArr, artiste bouyon : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/deejay-guyguy.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/deejay-guyguy-bouyon-ig-20261028-1280.jpg</image:loc>
+      <image:title>Deejay Guyguy (bouyon)</image:title>
+      <image:caption>Deejay Guyguy : image de profil du compte Instagram @deejay_guyguy97</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/denden.html</loc>
@@ -610,99 +835,179 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/derek-rah-peters.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/derek-rah-peters-bouyon-dominica-yt-bpxjqgd-jqa-1280.jpg</image:loc>
+      <image:title>Derek Rah Peters (bouyon)</image:title>
+      <image:caption>Derek Rah Peters, artiste bouyon de Dominique : image du clip « Derick &quot;Rah&quot; Peters »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/diixly.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/diixly-bouyon-1280.jpg</image:loc>
+      <image:title>Diixly (bouyon)</image:title>
+      <image:caption>Diixly, artiste bouyon : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/dinho.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/dinho-bouyon-guadeloupe-ig-20261028-1280.jpg</image:loc>
+      <image:title>Dinho (bouyon)</image:title>
+      <image:caption>Dinho : image de profil du compte Instagram @don_dinho18</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/dj-boko.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/dj-boko-bouyon-1280.jpg</image:loc>
+      <image:title>DJ Boko (bouyon)</image:title>
+      <image:caption>DJ Boko, artiste bouyon : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/dj-dirtee.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/dj-dirtee-bouyon-1280.jpg</image:loc>
+      <image:title>Dj Dirtee (bouyon)</image:title>
+      <image:caption>Dj Dirtee, artiste bouyon : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/dj-joe.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/dj-joe-bouyon-ig-20261028-1280.jpg</image:loc>
+      <image:title>DJ Joe (bouyon)</image:title>
+      <image:caption>DJ Joe : image de profil du compte Instagram @djjoe_767</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/dj-leguste.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/dj-leguste-bouyon-guadeloupe-1280.jpg</image:loc>
+      <image:title>DJ Leguste (bouyon)</image:title>
+      <image:caption>DJ Leguste, artiste bouyon de Guadeloupe : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/dj-luchshiy.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/dj-luchshiy-bouyon-1280.jpg</image:loc>
+      <image:title>DJ Luchshiy (bouyon)</image:title>
+      <image:caption>DJ Luchshiy, artiste bouyon : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/dj-skaytah.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/dj-skaytah-bouyon-1280.jpg</image:loc>
+      <image:title>DJ Skaytah (bouyon)</image:title>
+      <image:caption>DJ Skaytah, artiste bouyon : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/dj-skycee.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/dj-skycee-bouyon-1280.jpg</image:loc>
+      <image:title>DJ Skycee (bouyon)</image:title>
+      <image:caption>DJ Skycee, artiste bouyon : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/dj-skylone.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/dj-skylone-bouyon-release-20261028-1280.jpg</image:loc>
+      <image:title>DJ Skaylone (bouyon)</image:title>
+      <image:caption>DJ Skaylone : pochette de « Ou Ja Vley (feat. Dj Skaylone) »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/dj-softee.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/dj-softee-bouyon-guadeloupe-1280.jpg</image:loc>
+      <image:title>DJ Softee (bouyon)</image:title>
+      <image:caption>DJ Softee, artiste bouyon de Guadeloupe : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/dj-weez.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/dj-weez-bouyon-release-20261028-1280.jpg</image:loc>
+      <image:title>DJ Weez (bouyon)</image:title>
+      <image:caption>DJ Weez : pochette de « Sa Ka Débodé »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/doc-j.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/doc-j-bouyon-guadeloupe-yt-jizaqlvwwbe-1280.jpg</image:loc>
+      <image:title>Doc J (bouyon)</image:title>
+      <image:caption>Doc J, artiste bouyon de Guadeloupe : image du clip « Doc J &quot;valey pa crachey&quot;_new bouyon juillet 2012 »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/dova.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/dova-bouyon-dominica-ig-20261028-1280.jpg</image:loc>
+      <image:title>Dova (bouyon)</image:title>
+      <image:caption>Dova : image de profil du compte Instagram @dovamorespeed</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/ebony-empress.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/ebony-empress-bouyon-dominica-1280.jpg</image:loc>
+      <image:title>Ebony Empress (bouyon)</image:title>
+      <image:caption>Ebony Empress, artiste bouyon de Dominique : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/effects-band.html</loc>
@@ -712,9 +1017,14 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/erwinchy.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/erwinchy-bouyon-yt-fvqy756qo7i-1280.jpg</image:loc>
+      <image:title>Erwinchy (bouyon)</image:title>
+      <image:caption>Erwinchy, artiste bouyon : image du clip « IGNITION FT ERWINCHY- MALKASE  4.0 EDITION »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/explosive-band.html</loc>
@@ -735,57 +1045,102 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/flw.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/flw-bouyon-guadeloupe-1280.jpg</image:loc>
+      <image:title>FLW (bouyon)</image:title>
+      <image:caption>FLW, artiste bouyon de Guadeloupe : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/freddy.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/freddy-bouyon-dominica-ig-20261028-1280.jpg</image:loc>
+      <image:title>Freddy (bouyon)</image:title>
+      <image:caption>Freddy : image de profil du compte Instagram @ready4freddy_official</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/gaza-crew.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/gaza-crew-bouyon-yt-i_hzoekd6uu-1280.jpg</image:loc>
+      <image:title>Gaza Crew (bouyon)</image:title>
+      <image:caption>Gaza Crew, artiste bouyon : image du clip « Doc J feat KASSIDJE REMIX BOUYON &quot;nou ka fly&quot; Blue Blue Dacia and Gaza Crew »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/gaza-girls-crew.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/gaza-girls-crew-bouyon-guadeloupe-1280.jpg</image:loc>
+      <image:title>Gaza Girls Crew (bouyon)</image:title>
+      <image:caption>Gaza Girls Crew, artiste bouyon de Guadeloupe : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/haterz-be.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/haterz-be-bouyon-ig-20261028-1280.jpg</image:loc>
+      <image:title>Haterz BE (bouyon)</image:title>
+      <image:caption>Haterz BE : image de profil du compte Instagram @htb_dooli</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/hussey.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/hussey-bouyon-dominica-ig-20261028-1280.jpg</image:loc>
+      <image:title>Hussey (bouyon)</image:title>
+      <image:caption>Hussey : image de profil du compte Instagram @73rd_official_hussey</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/ignition-band.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/ignition-band-bouyon-dominica-yt-fvqy756qo7i-1280.jpg</image:loc>
+      <image:title>Ignition Band (bouyon)</image:title>
+      <image:caption>Ignition Band, artiste bouyon de Dominique : image du clip « IGNITION FT ERWINCHY- MALKASE  4.0 EDITION »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/j-lion.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/j-lion-bouyon-1280.jpg</image:loc>
+      <image:title>J Lion (bouyon)</image:title>
+      <image:caption>J Lion, artiste bouyon : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/j2mo.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/j2mo-bouyon-1280.jpg</image:loc>
+      <image:title>J2MO (bouyon)</image:title>
+      <image:caption>J2MO, artiste bouyon : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/jixels.html</loc>
@@ -800,15 +1155,25 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/kassidje.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/kassidje-bouyon-ig-20261028-1280.jpg</image:loc>
+      <image:title>Kassidje (bouyon)</image:title>
+      <image:caption>Kassidje : image de profil du compte Instagram @kassidje_gazagirl</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/keks-mafia.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/keks-mafia-bouyon-dominica-1280.jpg</image:loc>
+      <image:title>Keks Mafia (bouyon)</image:title>
+      <image:caption>Keks Mafia, artiste bouyon de Dominique : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/kenny-g-dominica.html</loc>
@@ -823,33 +1188,58 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/kevni.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/kevni-bouyon-guadeloupe-1280.jpg</image:loc>
+      <image:title>Kevni (bouyon)</image:title>
+      <image:caption>Kevni, artiste bouyon de Guadeloupe : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/keytzone.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/keytzone-bouyon-release-20261028-1280.jpg</image:loc>
+      <image:title>KeyT Zone (bouyon)</image:title>
+      <image:caption>KeyT Zone : pochette de « Bouwéy »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/khallion.html</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/khallion-bouyon-dominica-1280.jpg</image:loc>
+      <image:title>Khallion (bouyon)</image:title>
+      <image:caption>Khallion, artiste bouyon de Dominique : image du clip « Khallion - Put That On That (Remix) ft @StalkAshley  (Bouyon) »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/killa-laurent.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/killa-laurent-bouyon-dominica-ig-20261028-1280.jpg</image:loc>
+      <image:title>Killa Laurent (bouyon)</image:title>
+      <image:caption>Killa Laurent : image de profil du compte Instagram @kendel_killer_laurent</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/klockerz-krew.html</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/klockerz-krew-bouyon-dominica-yt-y3nb7tlhqhq-1280.jpg</image:loc>
+      <image:title>Klockerz Krew (bouyon)</image:title>
+      <image:caption>Klockerz Krew, artiste bouyon de Dominique : image du clip « rah -  partymix ft klockerz krew »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/larose.html</loc>
@@ -864,15 +1254,25 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/le-bluff.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/le-bluff-bouyon-guadeloupe-1280.jpg</image:loc>
+      <image:title>Le Bluff (bouyon)</image:title>
+      <image:caption>Le Bluff, artiste bouyon de Guadeloupe : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/le-dext.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/le-dext-bouyon-1280.jpg</image:loc>
+      <image:title>Le Dext (bouyon)</image:title>
+      <image:caption>Le Dext, artiste bouyon : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/legacy-band.html</loc>
@@ -882,57 +1282,102 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/les-ptits-du-rzt.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/les-ptits-du-rzt-bouyon-1280.jpg</image:loc>
+      <image:title>Les Ptits du RZT (bouyon)</image:title>
+      <image:caption>Les Ptits du RZT, artiste bouyon : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/lestef-kjf-boyz.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/lestef-kjf-boyz-bouyon-guadeloupe-1280.jpg</image:loc>
+      <image:title>LESTEF KJF BOYZ (bouyon)</image:title>
+      <image:caption>LESTEF KJF BOYZ, artiste bouyon de Guadeloupe : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/letin-severine.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/letin-severine-bouyon-guadeloupe-release-20261028-1280.jpg</image:loc>
+      <image:title>Letin Severine (bouyon)</image:title>
+      <image:caption>Letin Severine : pochette de « Vole Nonm A Moun »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/letin-sylia.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/letin-sylia-bouyon-guadeloupe-release-20261028-1280.jpg</image:loc>
+      <image:title>Letin Sylia (bouyon)</image:title>
+      <image:caption>Letin Sylia : pochette de « Vole Nonm A Moun »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/leyou.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/leyou-bouyon-guadeloupe-1280.jpg</image:loc>
+      <image:title>Leyou (bouyon)</image:title>
+      <image:caption>Leyou, artiste bouyon de Guadeloupe : image du clip « Leyou feat Toupit  - Un problème ! »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/lgc.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/lgc-bouyon-guadeloupe-ig-20261028-1280.jpg</image:loc>
+      <image:title>LGC (bouyon)</image:title>
+      <image:caption>LGC : image de profil du compte Instagram @la_lgc</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/luky-lukee.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/luky-lukee-bouyon-ig-20261028-1280.jpg</image:loc>
+      <image:title>Lucky lukee (bouyon)</image:title>
+      <image:caption>Lucky lukee : image de profil du compte Instagram @lucky11off</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/lunik.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/lunik-bouyon-guadeloupe-ig-20261028-1280.jpg</image:loc>
+      <image:title>Lunik (bouyon)</image:title>
+      <image:caption>Lunik : image de profil du compte Instagram @lunik_tbts</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/ma6mo.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/ma6mo-bouyon-guadeloupe-1280.jpg</image:loc>
+      <image:title>MA6MO (bouyon)</image:title>
+      <image:caption>MA6MO, artiste bouyon de Guadeloupe : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/machel-montano.html</loc>
@@ -972,27 +1417,47 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/miky-ding-la.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/miky-ding-la-bouyon-guadeloupe-1280.jpg</image:loc>
+      <image:title>Miky Ding La (bouyon)</image:title>
+      <image:caption>Miky Ding La, artiste bouyon de Guadeloupe : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/money-shaun.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/money-shaun-bouyon-1280.jpg</image:loc>
+      <image:title>Money Shaun (bouyon)</image:title>
+      <image:caption>Money Shaun, artiste bouyon : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/mr-boka.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/mr-boka-bouyon-guadeloupe-release-20261028-1280.jpg</image:loc>
+      <image:title>Mr Boka (bouyon)</image:title>
+      <image:caption>Mr Boka : pochette de « Sa Ka Débodé »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/mr-delly.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/mr-delly-bouyon-dominica-yt-ucsooaz2sbk-1280.jpg</image:loc>
+      <image:title>Mr Delly (bouyon)</image:title>
+      <image:caption>Mr Delly, artiste bouyon de Dominique : image du clip « Mr Delly x Likkle Man - How De Band Playing »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/mr-gwada.html</loc>
@@ -1018,15 +1483,25 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/nils.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/nils-bouyon-release-20261028-1280.jpg</image:loc>
+      <image:title>Nils (bouyon)</image:title>
+      <image:caption>Nils : pochette de « Chodo »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/pinpin-osp.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/pinpin-osp-bouyon-guadeloupe-1280.jpg</image:loc>
+      <image:title>Pinpin OSP (bouyon)</image:title>
+      <image:caption>Pinpin OSP, artiste bouyon de Guadeloupe : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/problem-child.html</loc>
@@ -1041,33 +1516,58 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/quan.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/quan-bouyon-release-20261028-1280.jpg</image:loc>
+      <image:title>Quan (bouyon)</image:title>
+      <image:caption>Quan : pochette de « Someone Else (feat. Quan &amp; Trilla-G) »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/qwann.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/qwann-bouyon-1280.jpg</image:loc>
+      <image:title>Qwann (bouyon)</image:title>
+      <image:caption>Qwann, artiste bouyon : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/real-reel.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/real-reel-bouyon-dominica-1280.jpg</image:loc>
+      <image:title>Real Reel (bouyon)</image:title>
+      <image:caption>Real Reel, artiste bouyon de Dominique : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/riddim-knockaz.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/riddim-knockaz-bouyon-dominica-1280.jpg</image:loc>
+      <image:title>Riddim Knockaz (bouyon)</image:title>
+      <image:caption>Riddim Knockaz, artiste bouyon de Dominique : image du clip « Riddim Knockaz x Shemmy j - Bumpa in d Road (Bouyon 2026) »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/riddla.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/riddla-bouyon-guadeloupe-1280.jpg</image:loc>
+      <image:title>Riddla (bouyon)</image:title>
+      <image:caption>Riddla, artiste bouyon de Guadeloupe : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/rohie.html</loc>
@@ -1107,51 +1607,91 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/stratvincybwoy.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/stratvincybwoy-bouyon-saint-vincent-ig-20261028-1280.jpg</image:loc>
+      <image:title>stratvincybwoy (bouyon)</image:title>
+      <image:caption>stratvincybwoy : image de profil du compte Instagram @stratvincybwoy</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/sukie.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/sukie-bouyon-dominica-release-20261028-1280.jpg</image:loc>
+      <image:title>Sukie (bouyon)</image:title>
+      <image:caption>Sukie : pochette de « Say My Name »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/suppa.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/suppa-bouyon-guadeloupe-yt-sojh4phowpi-1280.jpg</image:loc>
+      <image:title>Suppa (bouyon)</image:title>
+      <image:caption>Suppa, artiste bouyon de Guadeloupe : image du clip « Suppa feat Ti CHô Ghetto Princess _ Never Stop Di Bouyon »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/sweet-ticky.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/sweet-ticky-bouyon-dominica-verified-20261028-1280.jpg</image:loc>
+      <image:title>Sweet Ticky (bouyon)</image:title>
+      <image:caption>Sweet Ticky : TK International group photo, the band of vocalist Lennan “Ticky” Matthew</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/tasmo.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/tasmo-bouyon-release-20261028-1280.jpg</image:loc>
+      <image:title>Tasmo (bouyon)</image:title>
+      <image:caption>Tasmo : pochette de « Bouwéy »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/tazzy.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/tazzy-bouyon-1280.jpg</image:loc>
+      <image:title>Tazzy (bouyon)</image:title>
+      <image:caption>Tazzy, artiste bouyon : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/team-bwe-tou-sa.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/team-bwe-tou-sa-bouyon-guadeloupe-1280.jpg</image:loc>
+      <image:title>Team Bwè Tou Sa (bouyon)</image:title>
+      <image:caption>Team Bwè Tou Sa, artiste bouyon de Guadeloupe : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/ted-la.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/ted-la-bouyon-guadeloupe-1280.jpg</image:loc>
+      <image:title>Ted La (bouyon)</image:title>
+      <image:caption>Ted La, artiste bouyon de Guadeloupe : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/tehilah.html</loc>
@@ -1166,9 +1706,14 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/tenslay.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/tenslay-bouyon-france-1280.jpg</image:loc>
+      <image:title>Tenslay (bouyon)</image:title>
+      <image:caption>Tenslay, artiste bouyon (France) : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/teyma.html</loc>
@@ -1183,7 +1728,7 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/theodora.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -1194,30 +1739,55 @@
       <video:duration>221</video:duration>
       <video:publication_date>2026-09-24</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/theodora-bouyon-france-1280.jpg</image:loc>
+      <image:title>Theodora (bouyon)</image:title>
+      <image:caption>Theodora, artiste bouyon (France) : image du clip « La Nocturne »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/theomaa.html</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/theomaa-bouyon-guadeloupe-ig-20261028-1280.jpg</image:loc>
+      <image:title>Theomaa (bouyon)</image:title>
+      <image:caption>Theomaa : image de profil du compte Instagram @13theomaa_</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/thesmsgirls.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/thesmsgirls-bouyon-release-20261028-1280.jpg</image:loc>
+      <image:title>SMS Girls (bouyon)</image:title>
+      <image:caption>SMS Girls : pochette de « Stop It (Freestyle) »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/tolly-boys.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/tolly-boys-bouyon-saint-martin-1280.jpg</image:loc>
+      <image:title>Tolly Boys (bouyon)</image:title>
+      <image:caption>Tolly Boys, artiste bouyon (Saint-Martin / Sint Maarten) : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/lewismelo.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/lewismelo-bouyon-ig-20261028-1280.jpg</image:loc>
+      <image:title>Lewismelo (bouyon)</image:title>
+      <image:caption>Lewismelo : image de profil du compte Instagram @lewismelo971</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/totally-spices.html</loc>
@@ -1232,57 +1802,102 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/trev-li.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/trev-li-bouyon-ig-20261028-1280.jpg</image:loc>
+      <image:title>Trev-Li (bouyon)</image:title>
+      <image:caption>Trev-Li : image de profil du compte Instagram @trev.li</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/trixx.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/trixx-bouyon-dominica-release-20261028-1280.jpg</image:loc>
+      <image:title>Trixx (bouyon)</image:title>
+      <image:caption>Trixx : pochette de « Nasty Freestyle Medley (feat. Gwada G, Trixx, Freddy &amp; Nice) »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/trixzmigos.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/trixzmigos-bouyon-dominica-1280.jpg</image:loc>
+      <image:title>Trixzmigos (bouyon)</image:title>
+      <image:caption>Trixzmigos, artiste bouyon de Dominique : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/vador.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/vador-bouyon-release-20261028-1280.jpg</image:loc>
+      <image:title>Vador (bouyon)</image:title>
+      <image:caption>Vador : pochette de « LEVRETTE »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/vj-ben.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/vj-ben-bouyon-guadeloupe-1280.jpg</image:loc>
+      <image:title>VJ Ben (bouyon)</image:title>
+      <image:caption>VJ Ben, artiste bouyon de Guadeloupe : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/weelow.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/weelow-bouyon-guadeloupe-1280.jpg</image:loc>
+      <image:title>Weelow (bouyon)</image:title>
+      <image:caption>Weelow, artiste bouyon de Guadeloupe : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/xavvoknockin.html</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/xavvoknockin-bouyon-yt-il4mv4stsj8-1280.jpg</image:loc>
+      <image:title>Xavvoknockin (bouyon)</image:title>
+      <image:caption>Xavvoknockin, artiste bouyon : image du clip « Knock knock - Redpunchdrip, VIRTUOSE &amp; Xavvoknockin - (Bouyon 2026) »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/yellow-gaza.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/yellow-gaza-bouyon-guadeloupe-1280.jpg</image:loc>
+      <image:title>Yellow Gaza (bouyon)</image:title>
+      <image:caption>Yellow Gaza, artiste bouyon de Guadeloupe : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/youry-fleming.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/youry-fleming-bouyon-saint-martin-release-20261028-1280.jpg</image:loc>
+      <image:title>Youry Fleming (bouyon)</image:title>
+      <image:caption>Youry Fleming : pochette de « Lucy Lucy »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/ysn.html</loc>
@@ -1297,147 +1912,267 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/yu-mei.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/yu-mei-bouyon-guadeloupe-1280.jpg</image:loc>
+      <image:title>Yu Meï (bouyon)</image:title>
+      <image:caption>Yu Meï, artiste bouyon de Guadeloupe : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/earlson-matthew.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/earlson-matthew-bouyon-dominica-yt-ucsooaz2sbk-1280.jpg</image:loc>
+      <image:title>Earlson Matthew (bouyon)</image:title>
+      <image:caption>Earlson Matthew, artiste bouyon de Dominique : image du clip « Mr Delly x Likkle Man - How De Band Playing »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/d0-production.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/d0-production-bouyon-guadeloupe-1280.jpg</image:loc>
+      <image:title>D0 Production (bouyon)</image:title>
+      <image:caption>D0 Production, artiste bouyon de Guadeloupe : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/le-det.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/le-det-bouyon-verified-20261028-1280.jpg</image:loc>
+      <image:title>Le Det (bouyon)</image:title>
+      <image:caption>Le Det : pochette de « Bouwé&#x27;y »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/laka.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/laka-bouyon-guadeloupe-release-20261028-1280.jpg</image:loc>
+      <image:title>Laka (bouyon)</image:title>
+      <image:caption>Laka : pochette de « BAISE-MOI »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/dezod.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/dezod-bouyon-1280.jpg</image:loc>
+      <image:title>Dézod (bouyon)</image:title>
+      <image:caption>Dézod, artiste bouyon : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/judi-silva.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/judi-silva-bouyon-1280.jpg</image:loc>
+      <image:title>Judi Silva (bouyon)</image:title>
+      <image:caption>Judi Silva, artiste bouyon : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/zwady.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/zwady-bouyon-dominica-ig-20261028-1280.jpg</image:loc>
+      <image:title>Zwady (bouyon)</image:title>
+      <image:caption>Zwady : image de profil du compte Instagram @zwadymusic</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/fireman-lee.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/fireman-lee-bouyon-release-20261028-1280.jpg</image:loc>
+      <image:title>Fireman Lee (bouyon)</image:title>
+      <image:caption>Fireman Lee : pochette de « Down Deh (feat. Zwady &amp; Fireman Lee) »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/tedla.html</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/tedla-bouyon-1280.jpg</image:loc>
+      <image:title>Tedla (bouyon)</image:title>
+      <image:caption>Tedla, artiste bouyon : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/doc-fix-dem.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/doc-fix-dem-bouyon-guadeloupe-1280.jpg</image:loc>
+      <image:title>D.O.C FIX DEM (bouyon)</image:title>
+      <image:caption>D.O.C FIX DEM, artiste bouyon de Guadeloupe : image du clip « CHARO - MANAGYALIS x D.O.C FIX DEM x VIRTUOSE »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/young-dinero.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/young-dinero-bouyon-1280.jpg</image:loc>
+      <image:title>Young Dinero (bouyon)</image:title>
+      <image:caption>Young Dinero, artiste bouyon : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/starsha.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/starsha-bouyon-dominica-1280.jpg</image:loc>
+      <image:title>Starsha (bouyon)</image:title>
+      <image:caption>Starsha, artiste bouyon de Dominique : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/kai-du-m.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/kai-du-m-bouyon-france-1280.jpg</image:loc>
+      <image:title>Kai Du M (bouyon)</image:title>
+      <image:caption>Kai Du M, artiste bouyon (France) : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/nensha.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/nensha-bouyon-1280.jpg</image:loc>
+      <image:title>Nensha (bouyon)</image:title>
+      <image:caption>Nensha, artiste bouyon : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/malko.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/malko-bouyon-canada-1280.jpg</image:loc>
+      <image:title>Malko (bouyon)</image:title>
+      <image:caption>Malko, artiste bouyon (Canada) : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/mopao-mumu.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/mopao-mumu-bouyon-canada-1280.jpg</image:loc>
+      <image:title>Mopao Mumu (bouyon)</image:title>
+      <image:caption>Mopao Mumu, artiste bouyon (Canada) : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/yuniikbeatz.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/yuniikbeatz-bouyon-ig-20261028-1280.jpg</image:loc>
+      <image:title>YuniikBeatz (bouyon)</image:title>
+      <image:caption>YuniikBeatz : image de profil du compte Instagram @yuniik.cbl</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/poyzin.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/poyzin-bouyon-dominica-1280.jpg</image:loc>
+      <image:title>Poyzin (bouyon)</image:title>
+      <image:caption>Poyzin, artiste bouyon de Dominique : image du clip « PoyZin ft. CBGYVNGSTA - Love You 2  [Bouyon 2026] »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/ti-locksee.html</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/ti-locksee-bouyon-guadeloupe-release-20261028-1280.jpg</image:loc>
+      <image:title>Ti locksée (bouyon)</image:title>
+      <image:caption>Ti locksée : pochette de « Sexuelle Attirance »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/nicolas-macbeth.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/nicolas-macbeth-bouyon-release-20261028-1280.jpg</image:loc>
+      <image:title>Nicolas Macbeth (bouyon)</image:title>
+      <image:caption>Nicolas Macbeth : pochette de « BAISE-MOI »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/magbeatz.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/magbeatz-bouyon-1280.jpg</image:loc>
+      <image:title>Magbeatz (bouyon)</image:title>
+      <image:caption>Magbeatz, artiste bouyon : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/yojoshii.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/yojoshii-bouyon-release-20261028-1280.jpg</image:loc>
+      <image:title>YoJoshii (bouyon)</image:title>
+      <image:caption>YoJoshii : pochette de « See U »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/brian-lomba.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/brian-lomba-bouyon-release-20261028-1280.jpg</image:loc>
+      <image:title>Brian Lomba (bouyon)</image:title>
+      <image:caption>Brian Lomba : pochette de « Ti bébé »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/sonic-art-studios.html</loc>
@@ -1447,391 +2182,711 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/alkpote.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/alkpote-bouyon-france-1280.jpg</image:loc>
+      <image:title>Alkpote (bouyon)</image:title>
+      <image:caption>Alkpote, artiste bouyon (France) : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/chronic-law.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/chronic-law-bouyon-jamaica-1280.jpg</image:loc>
+      <image:title>Chronic Law (bouyon)</image:title>
+      <image:caption>Chronic Law, artiste bouyon de Jamaïque : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/le-daah.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/le-daah-bouyon-ig-20261028-1280.jpg</image:loc>
+      <image:title>Le Daah (bouyon)</image:title>
+      <image:caption>Le Daah : image de profil du compte Instagram @le_daaah</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/gringo-jay.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/gringo-jay-bouyon-1280.jpg</image:loc>
+      <image:title>Gringo Jay (bouyon)</image:title>
+      <image:caption>Gringo Jay, artiste bouyon : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/foxy-jael.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/foxy-jael-bouyon-dominica-ig-20261028-1280.jpg</image:loc>
+      <image:title>Foxy Jael (bouyon)</image:title>
+      <image:caption>Foxy Jael : image de profil du compte Instagram @jaeljoseph</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/le-rebelle.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/le-rebelle-bouyon-guadeloupe-release-20261028-1280.jpg</image:loc>
+      <image:title>Le Rebelle (bouyon)</image:title>
+      <image:caption>Le Rebelle : pochette de « Acteur Porno »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/kwib-la-beats.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/kwib-la-beats-bouyon-dominica-ig-20261028-1280.jpg</image:loc>
+      <image:title>Kwib La Beats (bouyon)</image:title>
+      <image:caption>Kwib La Beats : image de profil du compte Instagram @kwiblahlc</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/corane-vincent.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/corane-vincent-bouyon-guadeloupe-release-20261028-1280.jpg</image:loc>
+      <image:title>Corane Vincent (bouyon)</image:title>
+      <image:caption>Corane Vincent : pochette de « CHABIN (feat. LESTEF &amp; EDDAY) »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/doc-fix-it.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/doc-fix-it-bouyon-guadeloupe-1280.jpg</image:loc>
+      <image:title>D.O.C FIX IT (bouyon)</image:title>
+      <image:caption>D.O.C FIX IT, artiste bouyon de Guadeloupe : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/dernel-green.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/dernel-green-bouyon-dominica-ig-20261028-1280.jpg</image:loc>
+      <image:title>Dernel Green (bouyon)</image:title>
+      <image:caption>Dernel Green : image de profil du compte Instagram @dernz.wav</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/novy.html</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/novy-bouyon-1280.jpg</image:loc>
+      <image:title>Novy (bouyon)</image:title>
+      <image:caption>Novy, artiste bouyon : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/banklaady.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/banklaady-bouyon-1280.jpg</image:loc>
+      <image:title>Banklaady (bouyon)</image:title>
+      <image:caption>Banklaady, artiste bouyon : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/first-serenade-band.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/first-serenade-band-bouyon-dominica-ig-20261028-1280.jpg</image:loc>
+      <image:title>First Serenade Band (bouyon)</image:title>
+      <image:caption>First Serenade Band : image de profil du compte Instagram @firstserenadeband</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/rsb.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/rsb-bouyon-dominica-1280.jpg</image:loc>
+      <image:title>RSB (bouyon)</image:title>
+      <image:caption>RSB, artiste bouyon de Dominique : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/ncore.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/ncore-bouyon-dominica-yt-_nsdui40znu-1280.jpg</image:loc>
+      <image:title>Ncore (bouyon)</image:title>
+      <image:caption>Ncore, artiste bouyon de Dominique : image du clip « Riddim Live - MFR Band »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/unstoppable-shax.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/unstoppable-shax-bouyon-dominica-1280.jpg</image:loc>
+      <image:title>Unstoppable Shax (bouyon)</image:title>
+      <image:caption>Unstoppable Shax, artiste bouyon de Dominique : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/triszy.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/triszy-bouyon-dominica-ig-20261028-1280.jpg</image:loc>
+      <image:title>TriSzy (bouyon)</image:title>
+      <image:caption>TriSzy : image de profil du compte Instagram @triszytrisz</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/rudy-rush.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/rudy-rush-bouyon-dominica-ig-20261028-1280.jpg</image:loc>
+      <image:title>Rudy Ru$h (bouyon)</image:title>
+      <image:caption>Rudy Ru$h : image de profil du compte Instagram @iamrudyrush</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/fr3eze.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/fr3eze-bouyon-dominica-ig-20261028-1280.jpg</image:loc>
+      <image:title>Fr3EzE (bouyon)</image:title>
+      <image:caption>Fr3EzE : image de profil du compte Instagram @fr3eze3x</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/slyme-hoyss.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/slyme-hoyss-bouyon-dominica-1280.jpg</image:loc>
+      <image:title>Slyme Hoyss (bouyon)</image:title>
+      <image:caption>Slyme Hoyss, artiste bouyon de Dominique : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/dj-wizz767.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/dj-wizz767-bouyon-dominica-1280.jpg</image:loc>
+      <image:title>DJ Wizz767 (bouyon)</image:title>
+      <image:caption>DJ Wizz767, artiste bouyon de Dominique : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/dj-flip-tha-boss.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/dj-flip-tha-boss-bouyon-dominica-1280.jpg</image:loc>
+      <image:title>DJ Flip Tha Boss (bouyon)</image:title>
+      <image:caption>DJ Flip Tha Boss, artiste bouyon de Dominique : image du clip « Another Night (feat. Fetty Mark) »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/scarnx.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/scarnx-bouyon-ig-20261028-1280.jpg</image:loc>
+      <image:title>ScarnX (bouyon)</image:title>
+      <image:caption>ScarnX : image de profil du compte Instagram @produced_by_scarnx</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/avatar-omish.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/avatar-omish-bouyon-dominica-1280.jpg</image:loc>
+      <image:title>Avatar Omish (bouyon)</image:title>
+      <image:caption>Avatar Omish, artiste bouyon de Dominique : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/don-lash.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/don-lash-bouyon-dominica-ig-20261028-1280.jpg</image:loc>
+      <image:title>Don Lash (bouyon)</image:title>
+      <image:caption>Don Lash : image de profil du compte Instagram @1donlash767</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/pa-pel.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/pa-pel-bouyon-dominica-ig-20261028-1280.jpg</image:loc>
+      <image:title>Pa Pel (bouyon)</image:title>
+      <image:caption>Pa Pel : image de profil du compte Instagram @pa._.pel</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/pryhmex.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/pryhmex-bouyon-dominica-yt-eq-peslqvy8-1280.jpg</image:loc>
+      <image:title>Pryhmex (bouyon)</image:title>
+      <image:caption>Pryhmex, artiste bouyon de Dominique : image du clip « Up Next Bouyon Cypher, Vol 1. (Trilla-G ft. G&#x27;z Up, Ras B, Avatar Omish, Don Lash, Pa Pel, Pryhmex) »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/klassik-frescobar.html</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/klassik-frescobar-bouyon-united-states-1280.jpg</image:loc>
+      <image:title>Klassik Frescobar (bouyon)</image:title>
+      <image:caption>Klassik Frescobar, artiste bouyon (États-Unis) : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/xs-groove.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/xs-groove-bouyon-ig-20261028-1280.jpg</image:loc>
+      <image:title>Xs Groove (bouyon)</image:title>
+      <image:caption>Xs Groove : image de profil du compte Instagram @xsgroove</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/boston-chery.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/boston-chery-bouyon-united-states-1280.jpg</image:loc>
+      <image:title>Boston Chery (bouyon)</image:title>
+      <image:caption>Boston Chery, artiste bouyon (États-Unis) : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/shazdown-mmw.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/shazdown-mmw-bouyon-guadeloupe-1280.jpg</image:loc>
+      <image:title>Shazdown Mmw (bouyon)</image:title>
+      <image:caption>Shazdown Mmw, artiste bouyon de Guadeloupe : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/dj-demafidem.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/dj-demafidem-bouyon-guadeloupe-ig-20261028-1280.jpg</image:loc>
+      <image:title>DJ Demafidem (bouyon)</image:title>
+      <image:caption>DJ Demafidem : image de profil du compte Instagram @djdemafidem</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/tazzo-thaboss.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/tazzo-thaboss-bouyon-dominica-yt-20261028-1280.jpg</image:loc>
+      <image:title>Tazzo Thaboss (bouyon)</image:title>
+      <image:caption>Tazzo Thaboss, artiste bouyon de Dominique : image du clip « TAZZO THABO$$ -  GLIZZY SPRAY (1ST &quot;BOUYON DRILL&quot; EVER) »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/baps.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/baps-bouyon-yt-20261028-1280.jpg</image:loc>
+      <image:title>Baps! (bouyon)</image:title>
+      <image:caption>Baps!, artiste bouyon : image du clip « Dj Wizz767 x Baps! - Diamond Boy (Bouyon Remix) || Bouyon 2026 »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/d4a-nillio.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/d4a-nillio-bouyon-saint-martin-ig-20261028-1280.jpg</image:loc>
+      <image:title>D4A Nillio (bouyon)</image:title>
+      <image:caption>D4A Nillio : image de profil du compte Instagram @d4anillio</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/young-ob.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/young-ob-bouyon-release-20261028-1280.jpg</image:loc>
+      <image:title>Young Ob (bouyon)</image:title>
+      <image:caption>Young Ob : pochette de « Storybook Riddim Freestyle (feat. Young Ob) (Bouyon Version) »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/lu-city.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/lu-city-bouyon-saint-lucia-1280.jpg</image:loc>
+      <image:title>Lu City (bouyon)</image:title>
+      <image:caption>Lu City, artiste bouyon de Sainte-Lucie : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/dj-killerz.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/dj-killerz-bouyon-1280.jpg</image:loc>
+      <image:title>DJ Killerz (bouyon)</image:title>
+      <image:caption>DJ Killerz, artiste bouyon : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/pslbeat.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/pslbeat-bouyon-1280.jpg</image:loc>
+      <image:title>Pslbeat (bouyon)</image:title>
+      <image:caption>Pslbeat, artiste bouyon : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/alpha.html</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/alpha-bouyon-1280.jpg</image:loc>
+      <image:title>Alpha (bouyon)</image:title>
+      <image:caption>Alpha, artiste bouyon : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/blicassty.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/blicassty-bouyon-martinique-1280.jpg</image:loc>
+      <image:title>Blicassty (bouyon)</image:title>
+      <image:caption>Blicassty, artiste bouyon de Martinique : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/skrazy.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/skrazy-bouyon-yt-20261028-1280.jpg</image:loc>
+      <image:title>Skrazy (bouyon)</image:title>
+      <image:caption>Skrazy, artiste bouyon : image du clip « Skrazy, Dboss, &amp; Ras B - Come Here [Official Visualizer] (Bouyon 2027) »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/dboss.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/dboss-bouyon-yt-20261028-1280.jpg</image:loc>
+      <image:title>Dboss (bouyon)</image:title>
+      <image:caption>Dboss, artiste bouyon : image du clip « Skrazy, Dboss, &amp; Ras B - Come Here [Official Visualizer] (Bouyon 2027) »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/djmk-malachi.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/djmk-malachi-bouyon-1280.jpg</image:loc>
+      <image:title>DJMK Malachi (bouyon)</image:title>
+      <image:caption>DJMK Malachi, artiste bouyon : image du clip « DJMK MALACHI - NEW DANCE MOVES BOUYON 2026 (OFFICIAL MUSIC) »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/dr-eevil.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/dr-eevil-bouyon-1280.jpg</image:loc>
+      <image:title>Dr Eevil (bouyon)</image:title>
+      <image:caption>Dr Eevil, artiste bouyon : image du clip « DR Eevil,T.C AND Sticky – We Trippy (Bouyon) »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/sticky.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/sticky-bouyon-yt-20261028-1280.jpg</image:loc>
+      <image:title>Sticky (bouyon)</image:title>
+      <image:caption>Sticky, artiste bouyon : image du clip « DR Eevil,T.C AND Sticky – We Trippy (Bouyon) »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/t-c.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/t-c-bouyon-yt-20261028-1280.jpg</image:loc>
+      <image:title>T.C (bouyon)</image:title>
+      <image:caption>T.C, artiste bouyon : image du clip « DR Eevil,T.C AND Sticky – We Trippy (Bouyon) »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/acce-carter.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/acce-carter-bouyon-1280.jpg</image:loc>
+      <image:title>Acce Carter (bouyon)</image:title>
+      <image:caption>Acce Carter, artiste bouyon : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/mystrie.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/mystrie-bouyon-dominica-yt-20261028-1280.jpg</image:loc>
+      <image:title>Mystrie (bouyon)</image:title>
+      <image:caption>Mystrie, artiste bouyon de Dominique : image du clip « Lapawol (Full Musical Video) by Mystrie. Bouyon 2026. »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/marf.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/marf-bouyon-yt-20261028-1280.jpg</image:loc>
+      <image:title>Marf (bouyon)</image:title>
+      <image:caption>Marf, artiste bouyon : image du clip « Marf - Pa Ka Sanm [Bouyon 2026 Audio] »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/aderito-depina.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/aderito-depina-bouyon-1280.jpg</image:loc>
+      <image:title>Aderito Depina (bouyon)</image:title>
+      <image:caption>Aderito Depina, artiste bouyon : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/bad-gyal-shyanne.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/bad-gyal-shyanne-bouyon-ig-20261028-1280.jpg</image:loc>
+      <image:title>Bad Gyal Shyanne (bouyon)</image:title>
+      <image:caption>Bad Gyal Shyanne : image de profil du compte Instagram @shyannevevo</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/sandy-boo.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/sandy-boo-bouyon-yt-20261028-1280.jpg</image:loc>
+      <image:title>Sandy Boo (bouyon)</image:title>
+      <image:caption>Sandy Boo, artiste bouyon : image du clip « Sticky ft Sandy Boo - Creole cé ca (Bouyon) »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/marshee.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/marshee-bouyon-ig-20261028-1280.jpg</image:loc>
+      <image:title>Marshee (bouyon)</image:title>
+      <image:caption>Marshee : image de profil du compte Instagram @marshee_official</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/chioneso.html</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/chioneso-bouyon-ig-20261028-1280.jpg</image:loc>
+      <image:title>Chioneso (bouyon)</image:title>
+      <image:caption>Chioneso : image de profil du compte Instagram @chionesobakr</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/chief.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/chief-bouyon-yt-20261028-1280.jpg</image:loc>
+      <image:title>Chief (bouyon)</image:title>
+      <image:caption>Chief, artiste bouyon : image du clip « Chief- Strictly Bouyon  2027 »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/lyrical-k.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/lyrical-k-bouyon-yt-20261028-1280.jpg</image:loc>
+      <image:title>Lyrical-k (bouyon)</image:title>
+      <image:caption>Lyrical-k, artiste bouyon : image du clip « Lyrical-k Naughty (Bouyon 2027) »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/viv-beats.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/viv-beats-bouyon-yt-20261028-1280.jpg</image:loc>
+      <image:title>VIV Beats (bouyon)</image:title>
+      <image:caption>VIV Beats, artiste bouyon : image du clip « Pablo (Bouyon Instrumental) | VIV Beats »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/deejay-twix.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/deejay-twix-bouyon-yt-20261028-1280.jpg</image:loc>
+      <image:title>Deejay Twix (bouyon)</image:title>
+      <image:caption>Deejay Twix, artiste bouyon : image du clip « Valiant - Time Capsule (bouyon remix) prod by deejay twix »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/krys.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/krys-bouyon-1280.jpg</image:loc>
+      <image:title>Krys (bouyon)</image:title>
+      <image:caption>Krys, artiste bouyon : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/nfl-lil-brent.html</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/nfl-lil-brent-bouyon-yt-20261028-1280.jpg</image:loc>
+      <image:title>NFL Lil Brent (bouyon)</image:title>
+      <image:caption>NFL Lil Brent, artiste bouyon : image du clip « NFL Lil Brent -  I Cheating | Bouyon »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/jasse.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/jasse-bouyon-1280.jpg</image:loc>
+      <image:title>Jasse (bouyon)</image:title>
+      <image:caption>Jasse, artiste bouyon : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/risingsun.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/risingsun-bouyon-yt-20261028-1280.jpg</image:loc>
+      <image:title>Risingsun (bouyon)</image:title>
+      <image:caption>Risingsun, artiste bouyon : image du clip « Lyrical-k selfish Ft. risingsun  »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/supatronic.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/supatronic-bouyon-ig-20261028-1280.jpg</image:loc>
+      <image:title>Supatronic (bouyon)</image:title>
+      <image:caption>Supatronic : image de profil du compte Instagram @supatronic</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/bobo-bantan.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -1850,10 +2905,15 @@
       <video:duration>178</video:duration>
       <video:publication_date>2026-05-05</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/bobo-bantan-bouyon-1280.jpg</image:loc>
+      <image:title>Bobo Bantan (bouyon)</image:title>
+      <image:caption>Bobo Bantan, artiste bouyon : image du clip « My Bouyon Girl - Bobo Bantan (Official Visualizer) »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/cbgyvngsta.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -1872,10 +2932,15 @@
       <video:duration>146</video:duration>
       <video:publication_date>2025-07-11</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/cbgyvngsta-bouyon-1280.jpg</image:loc>
+      <image:title>CbgYvngsta (bouyon)</image:title>
+      <image:caption>CbgYvngsta, artiste bouyon : image du clip « CbgYvngsta - Suck it (Bouyon 2024) EXPLICIT »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/devon-george.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -1894,10 +2959,15 @@
       <video:duration>190</video:duration>
       <video:publication_date>2022-01-27</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/devon-george-bouyon-1280.jpg</image:loc>
+      <image:title>Devon George (bouyon)</image:title>
+      <image:caption>Devon George, artiste bouyon : image du clip « Devon George - Overload (Bouyon 2022) »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/dpeng.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -1916,10 +2986,15 @@
       <video:duration>136</video:duration>
       <video:publication_date>2025-10-21</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/dpeng-bouyon-dominica-1280.jpg</image:loc>
+      <image:title>DPENG (bouyon)</image:title>
+      <image:caption>DPENG, artiste bouyon de Dominique : image du clip « DPENG FT SOCA INFERNO-SECRET BAY (Bouyon 2026) »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/eks.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -1938,10 +3013,15 @@
       <video:duration>156</video:duration>
       <video:publication_date>2024-01-16</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/eks-bouyon-1280.jpg</image:loc>
+      <image:title>Eks (bouyon)</image:title>
+      <image:caption>Eks, artiste bouyon : image du clip « Eks - Tru nuh boi refix (bouyon 2024) #GOFASTMUSIC »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/ezee-wmn.html</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -1960,10 +3040,15 @@
       <video:duration>146</video:duration>
       <video:publication_date>2025-07-11</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/ezee-wmn-bouyon-1280.jpg</image:loc>
+      <image:title>Ezee WMN (bouyon)</image:title>
+      <image:caption>Ezee WMN, artiste bouyon : image du clip « CbgYvngsta &amp; Ezee WMN - Love Me Or Not (Official Audio) (Bouyon 2025) »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/fetty-mark.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -1982,10 +3067,15 @@
       <video:duration>176</video:duration>
       <video:publication_date>2023-02-13</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/fetty-mark-bouyon-dominica-1280.jpg</image:loc>
+      <image:title>Fetty Mark (bouyon)</image:title>
+      <image:caption>Fetty Mark, artiste bouyon de Dominique : image du clip « Fetty Mark - Bacchanal (Lyric Video) &quot;2020 Bouyon&quot; (Dominica) »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/fifin.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -2004,10 +3094,15 @@
       <video:duration>192</video:duration>
       <video:publication_date>2024-09-06</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/fifin-bouyon-1280.jpg</image:loc>
+      <image:title>Fifin (bouyon)</image:title>
+      <image:caption>Fifin, artiste bouyon : image du clip « Unstick Official Music Video ft Fifin X Wotlis (Bouyon 2025) »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/green-apple.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -2026,10 +3121,15 @@
       <video:duration>175</video:duration>
       <video:publication_date>2026-10-17</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/green-apple-bouyon-1280.jpg</image:loc>
+      <image:title>Green Apple (bouyon)</image:title>
+      <image:caption>Green Apple, artiste bouyon : image du clip « Green Apple - Pretty Ways  | Bouyon 2026 »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/heidy.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -2048,10 +3148,15 @@
       <video:duration>255</video:duration>
       <video:publication_date>2024-06-24</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/heidy-bouyon-1280.jpg</image:loc>
+      <image:title>Heidy (bouyon)</image:title>
+      <image:caption>Heidy, artiste bouyon : image du clip « HEIDY-MORIRÉ BEBIENDÓ (BOUYON 2025)[Teodoro Reyes Cover] »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/king-tipsy.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -2062,10 +3167,15 @@
       <video:duration>139</video:duration>
       <video:publication_date>2025-12-12</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/king-tipsy-bouyon-1280.jpg</image:loc>
+      <image:title>King Tipsy (bouyon)</image:title>
+      <image:caption>King Tipsy, artiste bouyon : image du clip « King Tipsy - BUMPA BACK | Lyric Video | Bouyon 2026 »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/klass-money.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -2084,10 +3194,15 @@
       <video:duration>175</video:duration>
       <video:publication_date>2026-02-17</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/klass-money-bouyon-1280.jpg</image:loc>
+      <image:title>Klass Money (bouyon)</image:title>
+      <image:caption>Klass Money, artiste bouyon : image du clip « Throw Dat »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/ktb.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -2106,10 +3221,15 @@
       <video:duration>189</video:duration>
       <video:publication_date>2026-04-09</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/ktb-bouyon-saint-vincent-1280.jpg</image:loc>
+      <image:title>KTB (bouyon)</image:title>
+      <image:caption>KTB, artiste bouyon de Saint-Vincent-et-les-Grenadines : image du clip « KTB- Come Ova (Bouyon 2026) »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/madamezelle.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -2120,10 +3240,15 @@
       <video:duration>106</video:duration>
       <video:publication_date>2026-01-04</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/madamezelle-bouyon-united-states-1280.jpg</image:loc>
+      <image:title>MadameZelle (bouyon)</image:title>
+      <image:caption>MadameZelle, artiste bouyon (États-Unis) : image du clip « Tipsy - [MadameZelle] [Bouyon 2026] #bouyonriddim #bouyonmusic #bouyonshattaz »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/og-park.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -2142,10 +3267,15 @@
       <video:duration>207</video:duration>
       <video:publication_date>2025-05-17</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/og-park-bouyon-saint-vincent-1280.jpg</image:loc>
+      <image:title>OG Park (bouyon)</image:title>
+      <image:caption>OG Park, artiste bouyon de Saint-Vincent-et-les-Grenadines : image du clip « OG Park &amp; Rum Lawd - Whale Fu See (Whale Oil Riddim) | Bouyon 2025 | Vincy Soca 2025 »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/redpunchdrip.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -2156,10 +3286,15 @@
       <video:duration>190</video:duration>
       <video:publication_date>2026-01-14</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/redpunchdrip-bouyon-saint-martin-1280.jpg</image:loc>
+      <image:title>Redpunchdrip (bouyon)</image:title>
+      <image:caption>Redpunchdrip, artiste bouyon (Saint-Martin / Sint Maarten) : image du clip « Redpunchdrip x Strosey x Devon - Why Should I? [Prod. by XavvoKnockin] (Bouyon 2026) »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/rum-lawd.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -2178,10 +3313,15 @@
       <video:duration>207</video:duration>
       <video:publication_date>2025-05-17</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/rum-lawd-bouyon-1280.jpg</image:loc>
+      <image:title>Rum Lawd (bouyon)</image:title>
+      <image:caption>Rum Lawd, artiste bouyon : image du clip « OG Park &amp; Rum Lawd - Whale Fu See (Whale Oil Riddim) | Bouyon 2025 | Vincy Soca 2025 »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/shemmy-j.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -2200,10 +3340,15 @@
       <video:duration>161</video:duration>
       <video:publication_date>2022-05-17</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/shemmy-j-bouyon-saint-lucia-1280.jpg</image:loc>
+      <image:title>Shemmy J (bouyon)</image:title>
+      <image:caption>Shemmy J, artiste bouyon de Sainte-Lucie : image du clip « Shemmy J - Spoil You (Bouyon Soca 2023)  - (Official Video) »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/soca-inferno.html</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -2222,10 +3367,15 @@
       <video:duration>149</video:duration>
       <video:publication_date>2025-12-25</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/soca-inferno-bouyon-1280.jpg</image:loc>
+      <image:title>Soca Inferno (bouyon)</image:title>
+      <image:caption>Soca Inferno, artiste bouyon : image du clip « Close to me bouyon remix 2020 »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/strosey.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -2244,10 +3394,15 @@
       <video:duration>210</video:duration>
       <video:publication_date>2026-03-28</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/strosey-bouyon-1280.jpg</image:loc>
+      <image:title>Strosey (bouyon)</image:title>
+      <image:caption>Strosey, artiste bouyon : image du clip « Strosey ft Youry X Reo- Doe Call My Name (Bouyon 2026) »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/timii-mignonne.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -2258,6 +3413,11 @@
       <video:duration>177</video:duration>
       <video:publication_date>2026-10-12</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/timii-mignonne-bouyon-1280.jpg</image:loc>
+      <image:title>Timii Mignonne (bouyon)</image:title>
+      <image:caption>Timii Mignonne, artiste bouyon : image du clip « Timii Mignonne - Petite Mignonne (Official Video) »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/umpa.html</loc>
@@ -2280,10 +3440,15 @@
       <video:duration>166</video:duration>
       <video:publication_date>2024-06-19</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/umpa-bouyon-1280.jpg</image:loc>
+      <image:title>Umpa (bouyon)</image:title>
+      <image:caption>Umpa, artiste bouyon : image du clip « Mr Ridge, Umpa feat Dova - No Reply »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/wotlis.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -2302,10 +3467,15 @@
       <video:duration>192</video:duration>
       <video:publication_date>2024-09-06</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/wotlis-bouyon-1280.jpg</image:loc>
+      <image:title>Wotlis (bouyon)</image:title>
+      <image:caption>Wotlis, artiste bouyon : image du clip « Unstick Official Music Video ft Fifin X Wotlis (Bouyon 2025) »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/dj-kwab.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -2316,10 +3486,15 @@
       <video:duration>107</video:duration>
       <video:publication_date>2025-02-12</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/dj-kwab-bouyon-1280.jpg</image:loc>
+      <image:title>DJ KWAB (bouyon)</image:title>
+      <image:caption>DJ KWAB, artiste bouyon : image du clip « BBC »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/dj-tkrys.html</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -2338,10 +3513,15 @@
       <video:duration>1971</video:duration>
       <video:publication_date>2024-09-29</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/dj-tkrys-bouyon-guadeloupe-1280.jpg</image:loc>
+      <image:title>DJ TKrys (bouyon)</image:title>
+      <image:caption>DJ TKrys, artiste bouyon de Guadeloupe : image du clip « DJ TKRYS - Active ton Mode Bouyon 2023 | The Best of Bouyon 2023 »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/keke.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -2360,10 +3540,15 @@
       <video:duration>245</video:duration>
       <video:publication_date>2025-10-04</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/keke-bouyon-1280.jpg</image:loc>
+      <image:title>Kéké (bouyon)</image:title>
+      <image:caption>Kéké, artiste bouyon : image du clip « Time - Kéké X YoungJojo X Le Dext - Prod. by Kéké [AUDIO OFFICIEL] #bouyon #2026 »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/lms.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -2382,10 +3567,15 @@
       <video:duration>144</video:duration>
       <video:publication_date>2026-03-20</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/lms-bouyon-guadeloupe-1280.jpg</image:loc>
+      <image:title>LMS (bouyon)</image:title>
+      <image:caption>LMS, artiste bouyon de Guadeloupe : image du clip « Lucky 11 ft Lms - F*ck it (Clip officiel) »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/lov-nee.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -2404,10 +3594,15 @@
       <video:duration>130</video:duration>
       <video:publication_date>2026-05-27</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/lov-nee-bouyon-1280.jpg</image:loc>
+      <image:title>Lov&#x27;Nee (bouyon)</image:title>
+      <image:caption>Lov&#x27;Nee, artiste bouyon : image du clip « LOV&#x27;NEE - AN TCHOU AY (FREESTYLE) 2026 REMIX BOUYON »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/magistral-beats.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -2426,10 +3621,15 @@
       <video:duration>105</video:duration>
       <video:publication_date>2026-07-14</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/magistral-beats-bouyon-guadeloupe-1280.jpg</image:loc>
+      <image:title>Magistral Beats (bouyon)</image:title>
+      <image:caption>Magistral Beats, artiste bouyon de Guadeloupe : image du clip « TEDDY BIEN PWOP - BOUYON OLYMPIQUE ( Prod. magistral beats ) »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/riko.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -2448,10 +3648,15 @@
       <video:duration>196</video:duration>
       <video:publication_date>2021-03-25</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/riko-bouyon-guadeloupe-1280.jpg</image:loc>
+      <image:title>Riko (bouyon)</image:title>
+      <image:caption>Riko, artiste bouyon de Guadeloupe : image du clip « BaxX x Riko x Dj WeezZ - Bokit &amp; T-Max  (Team Bleudeu / Bouyon 2019) »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/shashabim.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -2462,10 +3667,15 @@
       <video:duration>214</video:duration>
       <video:publication_date>2025-07-26</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/shashabim-bouyon-guadeloupe-1280.jpg</image:loc>
+      <image:title>Shashabim (bouyon)</image:title>
+      <image:caption>Shashabim, artiste bouyon de Guadeloupe : image du clip « Bay Bye »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/ck-gee.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -2484,10 +3694,15 @@
       <video:duration>145</video:duration>
       <video:publication_date>2025-02-09</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/ck-gee-bouyon-1280.jpg</image:loc>
+      <image:title>CK Gee (bouyon)</image:title>
+      <image:caption>CK Gee, artiste bouyon : image du clip « CK GEE x PINPIN OSP x TED LA - BACK IT UP (BOUYON 2K25) »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/djadja.html</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -2506,10 +3721,15 @@
       <video:duration>120</video:duration>
       <video:publication_date>2026-10-02</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/djadja-bouyon-1280.jpg</image:loc>
+      <image:title>DjaDja (bouyon)</image:title>
+      <image:caption>DjaDja, artiste bouyon : image du clip « DjaDja (Djp Family) ft Favé - RAFALÉY (Visualizer) Bouyon 2025 »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/le-cus.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -2528,10 +3748,15 @@
       <video:duration>149</video:duration>
       <video:publication_date>2026-02-12</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/le-cus-bouyon-1280.jpg</image:loc>
+      <image:title>Le Cus (bouyon)</image:title>
+      <image:caption>Le Cus, artiste bouyon : image du clip « LECUS X LESEB X SHEYTA X UGLYBOY - VODY 22 [ CLIP OFFICIEL ] (PROD BY QWANN) #BOUYON »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/leken-sm.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -2550,10 +3775,15 @@
       <video:duration>144</video:duration>
       <video:publication_date>2025-10-16</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/leken-sm-bouyon-1280.jpg</image:loc>
+      <image:title>Leken SM (bouyon)</image:title>
+      <image:caption>Leken SM, artiste bouyon : image du clip « LEKEN SM - YÈ SWA (Clip Officiel) ft DJ LEGUSTE &amp; OH YEAH »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/le-matt.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -2564,10 +3794,15 @@
       <video:duration>140</video:duration>
       <video:publication_date>2025-12-26</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/le-matt-bouyon-1280.jpg</image:loc>
+      <image:title>Le Matt (bouyon)</image:title>
+      <image:caption>Le Matt, artiste bouyon : image du clip « Le Matt ft Pepito - PA DI MWEN JTM STP »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/les-curvyzz.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -2578,10 +3813,15 @@
       <video:duration>123</video:duration>
       <video:publication_date>2023-10-15</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/les-curvyzz-bouyon-1280.jpg</image:loc>
+      <image:title>Les Curvyzz (bouyon)</image:title>
+      <image:caption>Les Curvyzz, artiste bouyon : image du clip « Les CURVYZZ - FESS 🍑(Bouyon 2024) »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/leseb.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -2600,10 +3840,15 @@
       <video:duration>180</video:duration>
       <video:publication_date>2024-01-27</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/leseb-bouyon-1280.jpg</image:loc>
+      <image:title>Leseb (bouyon)</image:title>
+      <image:caption>Leseb, artiste bouyon : image du clip « LECUS X LESEB X SHEYTA X UGLYBOY - VODY 22 [ CLIP OFFICIEL ] (PROD BY QWANN) #BOUYON »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/managyalis.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -2614,10 +3859,15 @@
       <video:duration>142</video:duration>
       <video:publication_date>2026-07-22</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/managyalis-bouyon-1280.jpg</image:loc>
+      <image:title>Managyalis (bouyon)</image:title>
+      <image:caption>Managyalis, artiste bouyon : image du clip « AMBIANCE, clip with Sheyta »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/see-v.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -2628,10 +3878,15 @@
       <video:duration>125</video:duration>
       <video:publication_date>2026-04-17</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/see-v-bouyon-1280.jpg</image:loc>
+      <image:title>See V (bouyon)</image:title>
+      <image:caption>See V, artiste bouyon : image du clip « HE BABY, FLW x See V »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/sheyta.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -2642,10 +3897,15 @@
       <video:duration>153</video:duration>
       <video:publication_date>2025-12-17</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/sheyta-bouyon-1280.jpg</image:loc>
+      <image:title>Sheyta (bouyon)</image:title>
+      <image:caption>Sheyta, artiste bouyon : image du clip « AMBIANCE, with Managyalis »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/toupit.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -2656,10 +3916,15 @@
       <video:duration>139</video:duration>
       <video:publication_date>2026-06-24</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/toupit-bouyon-1280.jpg</image:loc>
+      <image:title>Toupit (bouyon)</image:title>
+      <image:caption>Toupit, artiste bouyon : image du clip « STRING VOLÉ, Leyou ft Toupit »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/uglyboy.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -2678,10 +3943,15 @@
       <video:duration>171</video:duration>
       <video:publication_date>2025-11-11</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/uglyboy-bouyon-1280.jpg</image:loc>
+      <image:title>Uglyboy (bouyon)</image:title>
+      <image:caption>Uglyboy, artiste bouyon : image du clip « LECUS X LESEB X SHEYTA X UGLYBOY - VODY 22 [ CLIP OFFICIEL ] (PROD BY QWANN) #BOUYON »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/yoshy-et-lejo.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -2700,10 +3970,15 @@
       <video:duration>136</video:duration>
       <video:publication_date>2026-06-25</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/yoshy-et-lejo-bouyon-1280.jpg</image:loc>
+      <image:title>Yoshy et Lejo (bouyon)</image:title>
+      <image:caption>Yoshy et Lejo, artiste bouyon : image du clip « YOSHY X LEJO -  CHUT (CLIP OFFICIEL) #bouyon »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/zepek.html</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -2722,10 +3997,15 @@
       <video:duration>83</video:duration>
       <video:publication_date>2024-12-23</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/zepek-bouyon-1280.jpg</image:loc>
+      <image:title>Zepek (bouyon)</image:title>
+      <image:caption>Zepek, artiste bouyon : image du clip « ZEPEK - F*CK 2 NIGHT (BOUYON 2024) »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/boogy-rankss.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -2744,10 +4024,15 @@
       <video:duration>210</video:duration>
       <video:publication_date>2026-04-29</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/boogy-rankss-bouyon-1280.jpg</image:loc>
+      <image:title>Boogy Rankss (bouyon)</image:title>
+      <image:caption>Boogy Rankss, artiste bouyon : image du clip « Khallion X Konshens X DeeArr - Stand Up | (Official Video) »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/dee-zen.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -2766,16 +4051,26 @@
       <video:duration>135</video:duration>
       <video:publication_date>2026-09-25</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/dee-zen-bouyon-1280.jpg</image:loc>
+      <image:title>DEE ZEN (bouyon)</image:title>
+      <image:caption>DEE ZEN, artiste bouyon : image du clip « DEE ZEN - BOUYON (Prod. novysto, dee zen) »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/dj-ramses.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/dj-ramses-bouyon-1280.jpg</image:loc>
+      <image:title>DJ Ramses (bouyon)</image:title>
+      <image:caption>DJ Ramses, artiste bouyon : image du clip « Bouyon Chocolat, with Stanley Prince »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/kentin-fcn.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -2794,10 +4089,15 @@
       <video:duration>2875</video:duration>
       <video:publication_date>2026-02-04</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/kentin-fcn-bouyon-1280.jpg</image:loc>
+      <image:title>Kentin FcN (bouyon)</image:title>
+      <image:caption>Kentin FcN, artiste bouyon : image du clip « CHUPA CHUPS (Bouyon) »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/malcolm.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -2816,10 +4116,15 @@
       <video:duration>552</video:duration>
       <video:publication_date>2026-09-02</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/malcolm-bouyon-guadeloupe-1280.jpg</image:loc>
+      <image:title>Malcolm (bouyon)</image:title>
+      <image:caption>Malcolm, artiste bouyon de Guadeloupe : image du clip « Malcolm - MANIGANCES (Clip officiel) ft. LaRose »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/oso-j.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -2838,16 +4143,26 @@
       <video:duration>165</video:duration>
       <video:publication_date>2025-07-02</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/oso-j-bouyon-1280.jpg</image:loc>
+      <image:title>Oso J (bouyon)</image:title>
+      <image:caption>Oso J, artiste bouyon : image du clip « Oso J - ASF (Antillais sous fidélité) [Clip Officiel] »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/shawn-storm.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/shawn-storm-bouyon-jamaica-1280.jpg</image:loc>
+      <image:title>Shawn Storm (bouyon)</image:title>
+      <image:caption>Shawn Storm, artiste bouyon de Jamaïque : image du clip « Kokayoko »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/stalk-ashley.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -2866,10 +4181,15 @@
       <video:duration>169</video:duration>
       <video:publication_date>2025-12-23</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/stalk-ashley-bouyon-jamaica-1280.jpg</image:loc>
+      <image:title>Stalk Ashley (bouyon)</image:title>
+      <image:caption>Stalk Ashley, artiste bouyon de Jamaïque : image du clip « Trilla-G &amp; Stalk Ashley - Nobody [Bouyon 2026] »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/ti-al.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -2888,10 +4208,15 @@
       <video:duration>137</video:duration>
       <video:publication_date>2023-02-17</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/ti-al-bouyon-1280.jpg</image:loc>
+      <image:title>Ti Al (bouyon)</image:title>
+      <image:caption>Ti Al, artiste bouyon : image du clip « WIZITO Feat TI AL - TUNTUN (Prod By DJ CHIMIK) BOUYON »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/bajan-balotelli.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -2910,10 +4235,15 @@
       <video:duration>174</video:duration>
       <video:publication_date>2026-07-02</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/bajan-balotelli-bouyon-barbados-1280.jpg</image:loc>
+      <image:title>Bajan Balotelli (bouyon)</image:title>
+      <image:caption>Bajan Balotelli, artiste bouyon de Barbade : image du clip « Bajan Balotelli - LOLLIPOP (Official Audio) Bouyon 2026 »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/bermixx.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -2932,10 +4262,15 @@
       <video:duration>142</video:duration>
       <video:publication_date>2024-12-27</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/bermixx-bouyon-1280.jpg</image:loc>
+      <image:title>Bermixx (bouyon)</image:title>
+      <image:caption>Bermixx, artiste bouyon : image du clip « Le Mix Bouyon »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/daddy2sec.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -2954,10 +4289,15 @@
       <video:duration>248</video:duration>
       <video:publication_date>2025-06-11</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/daddy2sec-bouyon-saint-kitts-1280.jpg</image:loc>
+      <image:title>Daddy2Sec (bouyon)</image:title>
+      <image:caption>Daddy2Sec, artiste bouyon (Saint-Christophe-et-Niévès) : image du clip « Daddy2Sec x DJTaffy - Check ur Scene (Official Music Video) | St.Kitts Bouyon 2026. »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/detal.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -2968,10 +4308,15 @@
       <video:duration>160</video:duration>
       <video:publication_date>2025-03-16</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/detal-bouyon-1280.jpg</image:loc>
+      <image:title>Detal (bouyon)</image:title>
+      <image:caption>Detal, artiste bouyon : image du clip « Detal X JJW - Mona Lisa (Official Audio)| Bouyon 2025 »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/django-de-cayenne.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -2982,10 +4327,15 @@
       <video:duration>121</video:duration>
       <video:publication_date>2026-05-28</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/django-de-cayenne-bouyon-1280.jpg</image:loc>
+      <image:title>Django De Cayenne (bouyon)</image:title>
+      <image:caption>Django De Cayenne, artiste bouyon : image du clip « Django de Cayenne - Vice City Bouyon Bonus (prodby.@barlemb ) »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/dyonte.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -3004,10 +4354,15 @@
       <video:duration>133</video:duration>
       <video:publication_date>2024-06-14</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/dyonte-bouyon-saint-vincent-1280.jpg</image:loc>
+      <image:title>D’yonté (bouyon)</image:title>
+      <image:caption>D’yonté, artiste bouyon de Saint-Vincent-et-les-Grenadines : image du clip « D’yonté - Tingah Ling (Official Audio) | Bouyon 2025 »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/fiddy-ii.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -3018,10 +4373,15 @@
       <video:duration>160</video:duration>
       <video:publication_date>2026-04-18</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/fiddy-ii-bouyon-barbados-1280.jpg</image:loc>
+      <image:title>Fiddy ii (bouyon)</image:title>
+      <image:caption>Fiddy ii, artiste bouyon de Barbade : image du clip « Fiddy ii - All Kinda Gal  (Okra Slime Riddim) Official Audio [Barbados Bouyon] Soca 2026 »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/imran-nerdy.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -3040,10 +4400,15 @@
       <video:duration>156</video:duration>
       <video:publication_date>2024-05-21</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/imran-nerdy-bouyon-saint-lucia-1280.jpg</image:loc>
+      <image:title>Imran Nerdy (bouyon)</image:title>
+      <image:caption>Imran Nerdy, artiste bouyon de Sainte-Lucie : image du clip « Imran Nerdy - Feelings &quot;Official Audio&quot; Bouyon 2026 »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/jauwan-hadaway.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -3054,10 +4419,15 @@
       <video:duration>136</video:duration>
       <video:publication_date>2025-04-24</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/jauwan-hadaway-bouyon-saint-vincent-1280.jpg</image:loc>
+      <image:title>Jauwan Hadaway (bouyon)</image:title>
+      <image:caption>Jauwan Hadaway, artiste bouyon de Saint-Vincent-et-les-Grenadines : image du clip « Jauwan Hadaway - I Don&#x27;t Want (Vincy Bouyon) 2026 »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/jayanti.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -3068,10 +4438,15 @@
       <video:duration>132</video:duration>
       <video:publication_date>2026-06-16</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/jayanti-bouyon-saint-lucia-1280.jpg</image:loc>
+      <image:title>Jayanti (bouyon)</image:title>
+      <image:caption>Jayanti, artiste bouyon de Sainte-Lucie : image du clip « Jayanti x Redz- Lie To Me (official audio) (Bouyon 2026) »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/jordan-english.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -3082,16 +4457,26 @@
       <video:duration>147</video:duration>
       <video:publication_date>2025-04-14</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/jordan-english-bouyon-barbados-1280.jpg</image:loc>
+      <image:title>Jordan English (bouyon)</image:title>
+      <image:caption>Jordan English, artiste bouyon de Barbade : image du clip « Jordan English - Darkers (Barbados Bouyon ) - Crop Over 2025 »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/kas-matik.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/kas-matik-bouyon-barbados-1280.jpg</image:loc>
+      <image:title>Kas Matik (bouyon)</image:title>
+      <image:caption>Kas Matik, artiste bouyon de Barbade : image du clip « PACE »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/kenzii-bwa.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -3102,10 +4487,15 @@
       <video:duration>128</video:duration>
       <video:publication_date>2018-06-07</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/kenzii-bwa-bouyon-1280.jpg</image:loc>
+      <image:title>Ken&#x27;zii Bwa (bouyon)</image:title>
+      <image:caption>Ken&#x27;zii Bwa, artiste bouyon : image du clip « Elephant Man Bouyon »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/king-low-rider.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -3124,10 +4514,15 @@
       <video:duration>129</video:duration>
       <video:publication_date>2026-02-17</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/king-low-rider-bouyon-antigua-1280.jpg</image:loc>
+      <image:title>King Low Rider (bouyon)</image:title>
+      <image:caption>King Low Rider, artiste bouyon de Antigua : image du clip « King Low Rider- Land Diver (Antigua Carnival BOUYON 2026) #viral »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/louse-king.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -3138,10 +4533,15 @@
       <video:duration>174</video:duration>
       <video:publication_date>2026-05-22</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/louse-king-bouyon-antigua-1280.jpg</image:loc>
+      <image:title>LK (Louse King) (bouyon)</image:title>
+      <image:caption>LK (Louse King), artiste bouyon de Antigua : image du clip « LK - PORK NF (Antigua Bouyon 2026) »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/lyrikal.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -3152,10 +4552,15 @@
       <video:duration>174</video:duration>
       <video:publication_date>2026-09-24</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/lyrikal-bouyon-trinidad-1280.jpg</image:loc>
+      <image:title>Lyrikal (bouyon)</image:title>
+      <image:caption>Lyrikal, artiste bouyon de Trinité-et-Tobago : image du clip « Lyrikal - Let&#x27;s Get it On (Bouyon/Soca 2027) »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/messemupbeats.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -3166,10 +4571,15 @@
       <video:duration>163</video:duration>
       <video:publication_date>2026-01-30</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/messemupbeats-bouyon-1280.jpg</image:loc>
+      <image:title>MessEmUpBeats (bouyon)</image:title>
+      <image:caption>MessEmUpBeats, artiste bouyon : image du clip « Get It Sexyy »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/msina.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -3188,16 +4598,26 @@
       <video:duration>126</video:duration>
       <video:publication_date>2023-06-14</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/msina-bouyon-1280.jpg</image:loc>
+      <image:title>Msina (bouyon)</image:title>
+      <image:caption>Msina, artiste bouyon : image du clip « Bouyon »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/queen-paranoya.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/queen-paranoya-bouyon-1280.jpg</image:loc>
+      <image:title>Queen Paranoya (bouyon)</image:title>
+      <image:caption>Queen Paranoya, artiste bouyon : image du clip « Ba yo bouyon »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/ricardo-drue.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -3208,10 +4628,15 @@
       <video:duration>219</video:duration>
       <video:publication_date>2023-05-31</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/ricardo-drue-bouyon-antigua-1280.jpg</image:loc>
+      <image:title>Ricardo Drue (bouyon)</image:title>
+      <image:caption>Ricardo Drue, artiste bouyon de Antigua : image du clip « Ricardo Drue - Last One Standing|Antigua RoadMarch 2023| Bouyon/Soca 2023| #FunnyRiddim »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/sharkie.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -3230,10 +4655,15 @@
       <video:duration>161</video:duration>
       <video:publication_date>2026-03-24</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/sharkie-bouyon-barbados-1280.jpg</image:loc>
+      <image:title>Sharkie (bouyon)</image:title>
+      <image:caption>Sharkie, artiste bouyon de Barbade : image du clip « Sharkie - Okra Slime ( Okra Slime Riddim ) Official Audio [ Barbados Bouyon 2026 ] »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/spyout.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -3244,10 +4674,15 @@
       <video:duration>144</video:duration>
       <video:publication_date>2026-10-16</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/spyout-bouyon-saint-vincent-1280.jpg</image:loc>
+      <image:title>Spyout (bouyon)</image:title>
+      <image:caption>Spyout, artiste bouyon de Saint-Vincent-et-les-Grenadines : image du clip « Spyout - Shake It! | Billie Jean Riddim | Soca/Bouyon 2026 »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/stella-billy.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -3266,10 +4701,15 @@
       <video:duration>162</video:duration>
       <video:publication_date>2026-04-06</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/stella-billy-bouyon-barbados-1280.jpg</image:loc>
+      <image:title>Stella Billy (bouyon)</image:title>
+      <image:caption>Stella Billy, artiste bouyon de Barbade : image du clip « Stella Billy - Energy ( Okra Slime Riddm ) Official Audio [ Barbados Bouyon 2026 ] »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/vghn.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -3288,40 +4728,70 @@
       <video:duration>174</video:duration>
       <video:publication_date>2026-01-16</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/vghn-bouyon-grenada-1280.jpg</image:loc>
+      <image:title>V&#x27;ghn (bouyon)</image:title>
+      <image:caption>V&#x27;ghn, artiste bouyon de Grenade : image du clip « Trilla-G, V&#x27;ghn - Take Me As I Am REMIX (Official Visualizer) [Bouyon 2026] »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/claudette-peters.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/claudette-peters-bouyon-antigua-1280.jpg</image:loc>
+      <image:title>Claudette Peters (bouyon)</image:title>
+      <image:caption>Claudette Peters, artiste bouyon de Antigua : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/hb-war.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/hb-war-bouyon-guadeloupe-1280.jpg</image:loc>
+      <image:title>Hb War (bouyon)</image:title>
+      <image:caption>Hb War, artiste bouyon de Guadeloupe : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/r-b-m.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/r-b-m-bouyon-dominica-release-20261028-1280.jpg</image:loc>
+      <image:title>R.B.M (bouyon)</image:title>
+      <image:caption>R.B.M : pochette de « Champion Riddim »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/dalibido-6dl.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/dalibido-6dl-bouyon-france-1280.jpg</image:loc>
+      <image:title>Dalibido 6DL (bouyon)</image:title>
+      <image:caption>Dalibido 6DL, artiste bouyon (France) : photo de l&#x27;artiste (page Deezer)</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/mv-on-de-keys.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/mv-on-de-keys-bouyon-dominica-1280.jpg</image:loc>
+      <image:title>MV On De Keys (bouyon)</image:title>
+      <image:caption>MV On De Keys, artiste bouyon de Dominique : image du clip « Who Can Party Like St Joe »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/candy.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -3332,10 +4802,15 @@
       <video:duration>192</video:duration>
       <video:publication_date>2024-06-26</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/candy-bouyon-dominica-1280.jpg</image:loc>
+      <image:title>Candy (bouyon)</image:title>
+      <image:caption>Candy, artiste bouyon de Dominique : image du clip « Miss Grippy »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/dj-kalli.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -3346,120 +4821,220 @@
       <video:duration>174</video:duration>
       <video:publication_date>2026-01-16</video:publication_date>
     </video:video>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/dj-kalli-bouyon-1280.jpg</image:loc>
+      <image:title>DJ Kalli (bouyon)</image:title>
+      <image:caption>DJ Kalli, artiste bouyon : image du clip « DJ KALLI KLASSIK FRESCOBAR V&#x27;GHN - EYE SPY (BOUYON 2026) »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/th3rd.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/th3rd-bouyon-1280.jpg</image:loc>
+      <image:title>Th3rd (bouyon)</image:title>
+      <image:caption>Th3rd, artiste bouyon : image du clip « Carnival is Woman »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/magikal.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/magikal-bouyon-saint-vincent-1280.jpg</image:loc>
+      <image:title>Magikal (bouyon)</image:title>
+      <image:caption>Magikal, artiste bouyon de Saint-Vincent-et-les-Grenadines : image du clip « Whappa »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/big-red-hd.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/big-red-hd-bouyon-grenada-1280.jpg</image:loc>
+      <image:title>Big Red HD (bouyon)</image:title>
+      <image:caption>Big Red HD, artiste bouyon de Grenade : image du clip « Bouyon Freestyle »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/ac-tafari.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/ac-tafari-bouyon-antigua-1280.jpg</image:loc>
+      <image:title>AC Tafari (bouyon)</image:title>
+      <image:caption>AC Tafari, artiste bouyon de Antigua : image du clip « No Ex Back »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/daddy-keyz.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/daddy-keyz-bouyon-dominica-1280.jpg</image:loc>
+      <image:title>Daddy Keyz (bouyon)</image:title>
+      <image:caption>Daddy Keyz, artiste bouyon de Dominique : image du clip « Vix Riddim »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/noface-beatz.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/noface-beatz-bouyon-dominica-1280.jpg</image:loc>
+      <image:title>NoFace Beatz (bouyon)</image:title>
+      <image:caption>NoFace Beatz, artiste bouyon de Dominique : image du clip « WYFL »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/dj-sleem.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/dj-sleem-bouyon-dominica-1280.jpg</image:loc>
+      <image:title>DJ Sleem (bouyon)</image:title>
+      <image:caption>DJ Sleem, artiste bouyon de Dominique : image du clip « 2025 Bouyon Mix »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/dj-snow.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/dj-snow-bouyon-dominica-1280.jpg</image:loc>
+      <image:title>DJ Snow (bouyon)</image:title>
+      <image:caption>DJ Snow, artiste bouyon de Dominique : image du clip « Bouyon Arena 2025 »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/motto.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/motto-bouyon-saint-lucia-1280.jpg</image:loc>
+      <image:title>Motto (bouyon)</image:title>
+      <image:caption>Motto, artiste bouyon de Sainte-Lucie : image du clip « Say My Name »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/go-fast.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/go-fast-bouyon-dominica-1280.jpg</image:loc>
+      <image:title>Go Fast (bouyon)</image:title>
+      <image:caption>Go Fast, artiste bouyon de Dominique : image du clip « Free Up »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/general-pye.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/general-pye-bouyon-saint-martin-1280.jpg</image:loc>
+      <image:title>General Pye (bouyon)</image:title>
+      <image:caption>General Pye, artiste bouyon (Saint-Martin / Sint Maarten) : image du clip « Up »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/jab-king.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/jab-king-bouyon-grenada-1280.jpg</image:loc>
+      <image:title>Jab King (bouyon)</image:title>
+      <image:caption>Jab King, artiste bouyon de Grenade : image du clip « Gasolina »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/wetty-beatz.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/wetty-beatz-bouyon-saint-vincent-1280.jpg</image:loc>
+      <image:title>Wetty Beatz (bouyon)</image:title>
+      <image:caption>Wetty Beatz, artiste bouyon de Saint-Vincent-et-les-Grenadines : image du clip « Iz yourz »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/sully-jacob.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/sully-jacob-bouyon-saint-martin-1280.jpg</image:loc>
+      <image:title>Sully Jacob (bouyon)</image:title>
+      <image:caption>Sully Jacob, artiste bouyon (Saint-Martin / Sint Maarten) : image du clip « Bandi »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/vibwoy.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/vibwoy-bouyon-1280.jpg</image:loc>
+      <image:title>Vibwoy (bouyon)</image:title>
+      <image:caption>Vibwoy, artiste bouyon : image du clip « Mommy »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/punz.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/punz-bouyon-1280.jpg</image:loc>
+      <image:title>Punz (bouyon)</image:title>
+      <image:caption>Punz, artiste bouyon : image du clip « Feel It »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/quan-de-artist.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/quan-de-artist-bouyon-barbados-1280.jpg</image:loc>
+      <image:title>Quan De Artist (bouyon)</image:title>
+      <image:caption>Quan De Artist, artiste bouyon de Barbade : image du clip « Do it like That »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/superk.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/superk-bouyon-saint-vincent-1280.jpg</image:loc>
+      <image:title>SuperK (bouyon)</image:title>
+      <image:caption>SuperK, artiste bouyon de Saint-Vincent-et-les-Grenadines : image du clip « Heart Broken »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/solar-million.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://bouyonmusique.com/img/artistes/solar-million-bouyon-1280.jpg</image:loc>
+      <image:title>Solar Million (bouyon)</image:title>
+      <image:caption>Solar Million, artiste bouyon : image du clip « Bouyon 2099 »</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://bouyonmusique.com/tamillia-clip-bouyon.html</loc>

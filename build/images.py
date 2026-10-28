@@ -297,11 +297,30 @@ def gather(only=None):
             rights = f"Thumbnail of the YouTube video {src['url']}; rights remain with {credit}. Shown on bouyonmusique.com to present the artist."
         elif src['kind'] == 'instagram':
             alt_fr = f"{name}, artiste bouyon{fr_isl} : photo publiée sur son compte Instagram"
-            alt_en = f"{name}, bouyon artist{en_isl}: photo published on his Instagram account"
+            alt_en = f"{name}, bouyon artist{en_isl}: photo published on their Instagram account"
             cap_fr = f"Photo : {src['channel']} sur Instagram."
             cap_en = f"Photo: {src['channel']} on Instagram."
+            if src.get('image_type') == 'profile_image':
+                alt_fr = f"{name} : image de profil du compte Instagram {src['channel']}"
+                alt_en = f"{name}: profile image from Instagram account {src['channel']}"
+                cap_fr = f"Image de profil : {src['channel']} sur Instagram."
+                cap_en = f"Profile image: {src['channel']} on Instagram."
             credit = src['channel']
             rights = f"Photo published at {src['url']}; rights remain with the original rights holder."
+        elif src['kind'] == 'release':
+            alt_fr = f"{name} : pochette de « {src['title']} »"
+            alt_en = f"{name}: cover artwork for “{src['title']}”"
+            cap_fr = f"Pochette : « {src['title']} », {src['channel']}."
+            cap_en = f"Release artwork: “{src['title']}”, {src['channel']}."
+            credit = src['channel']
+            rights = f"Release artwork from {src['url']}; rights remain with the artist and label."
+        elif src['kind'] in ('press', 'website'):
+            alt_fr = f"{name} : {src['title']}"
+            alt_en = f"{name}: {src['title']}"
+            cap_fr = f"Photo : {src['channel']}, {src['title']}."
+            cap_en = f"Photo: {src['channel']}, {src['title']}."
+            credit = src['channel']
+            rights = f"Photo published at {src['url']}; rights remain with the original photographer and publisher."
         else:
             alt_fr = f"{name}, artiste bouyon{fr_isl} : photo de l'artiste (page Deezer)"
             alt_en = f"{name}, bouyon artist{en_isl}: artist photo (Deezer page)"
@@ -334,6 +353,9 @@ def gather(only=None):
 def rollout(n, priority=None):
     data = _load(DATA, {})
     state = _load(ROLLOUT, {})
+    overrides = _load(OVERRIDES, {})
+    data = {s: d for s, d in data.items() if not overrides.get(s, {}).get('skip')}
+    state = {s: date for s, date in state.items() if s in data}
     prio = _load(priority, {}) if priority else {}
     def score(slug):
         imp = sum(v[1] for k, v in prio.items() if k.rstrip("/") in (f"{slug}.html", f"en/{slug}.html")) if prio else 0
