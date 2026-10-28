@@ -2752,6 +2752,32 @@
   },
   "w": 1280
  },
+ "j-lion": {
+  "alt_en": "J Lion, bouyon artist: artist photo (Deezer page)",
+  "alt_fr": "J Lion, artiste bouyon : photo de l'artiste (page Deezer)",
+  "bytes": {
+   "j-lion-bouyon-1280.jpg": 75104,
+   "j-lion-bouyon-1280.webp": 34418,
+   "j-lion-bouyon-640.jpg": 27420,
+   "j-lion-bouyon-640.webp": 14610
+  },
+  "caption_en": "Image: artist photo from J Lion's Deezer page.",
+  "caption_fr": "Image : photo d'artiste de la page Deezer de J Lion.",
+  "file": "j-lion-bouyon",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": null,
+  "name": "J Lion",
+  "sha": "ae3b3768675f",
+  "source": {
+   "channel": "Deezer",
+   "id": 5208968,
+   "kind": "deezer",
+   "title": "J Lion",
+   "url": "https://www.deezer.com/artist/5208968"
+  },
+  "w": 1280
+ },
  "j2mo": {
   "alt_en": "J2MO, bouyon artist: artist photo (Deezer page)",
   "alt_fr": "J2MO, artiste bouyon : photo de l'artiste (page Deezer)",
@@ -2807,6 +2833,32 @@
    "quality": "maxresdefault",
    "title": "Gasolina",
    "url": "https://www.youtube.com/watch?v=m1-Qb6BUAw0"
+  },
+  "w": 1280
+ },
+ "jasse": {
+  "alt_en": "Jasse, bouyon artist: artist photo (Deezer page)",
+  "alt_fr": "Jasse, artiste bouyon : photo de l'artiste (page Deezer)",
+  "bytes": {
+   "jasse-bouyon-1280.jpg": 122251,
+   "jasse-bouyon-1280.webp": 76796,
+   "jasse-bouyon-640.jpg": 38543,
+   "jasse-bouyon-640.webp": 25492
+  },
+  "caption_en": "Image: artist photo from Jasse's Deezer page.",
+  "caption_fr": "Image : photo d'artiste de la page Deezer de Jasse.",
+  "file": "jasse-bouyon",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": null,
+  "name": "Jasse",
+  "sha": "55d95f03cb06",
+  "source": {
+   "channel": "Deezer",
+   "id": 5349894,
+   "kind": "deezer",
+   "title": "Jasse",
+   "url": "https://www.deezer.com/artist/5349894"
   },
   "w": 1280
  },
@@ -2935,6 +2987,32 @@
    "quality": "maxresdefault",
    "title": "Jordan English - Darkers (Barbados Bouyon ) - Crop Over 2025",
    "url": "https://www.youtube.com/watch?v=C9KqUjcLqIw"
+  },
+  "w": 1280
+ },
+ "judi-silva": {
+  "alt_en": "Judi Silva, bouyon artist: artist photo (Deezer page)",
+  "alt_fr": "Judi Silva, artiste bouyon : photo de l'artiste (page Deezer)",
+  "bytes": {
+   "judi-silva-bouyon-1280.jpg": 69696,
+   "judi-silva-bouyon-1280.webp": 30016,
+   "judi-silva-bouyon-640.jpg": 25358,
+   "judi-silva-bouyon-640.webp": 13760
+  },
+  "caption_en": "Image: artist photo from Judi Silva's Deezer page.",
+  "caption_fr": "Image : photo d'artiste de la page Deezer de Judi Silva.",
+  "file": "judi-silva-bouyon",
+  "gathered": "2026-10-28",
+  "h": 720,
+  "island": null,
+  "name": "Judi Silva",
+  "sha": "5f72bbc017c9",
+  "source": {
+   "channel": "Deezer",
+   "id": 140978752,
+   "kind": "deezer",
+   "title": "Judi Silva",
+   "url": "https://www.deezer.com/artist/140978752"
   },
   "w": 1280
  },
