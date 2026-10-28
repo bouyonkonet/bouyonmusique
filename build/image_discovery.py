@@ -102,7 +102,8 @@ def photo_path(slug, lang):
 
 def variant_path(slug, d, width, fmt, treatment='original'):
     island = '-' + d['island']['anchor'] if d.get('island') else ''
-    suffix = '' if treatment=='original' else '-'+treatment
+    suffix = '-' + d['revision'] if d.get('revision') else ''
+    suffix += '' if treatment=='original' else '-'+treatment
     return f'/img/photos/{slug}-bouyon-music-artiste-photo{island}{suffix}-{width}.{fmt}'
 
 

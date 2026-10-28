@@ -1,1 +1,15 @@
-{"kenny-g-dominica": {"youtube": "SUc-16zdAVw"}}
+{
+  "kenny-g-dominica": {
+    "require_verified_source": true,
+    "local_image": "build/source_images/kenny-g-dominica-instagram-Deol3LxBGWj.jpg",
+    "sha256": "41f6d77b8c5ba319864e3bb6cbf78160219e770c8a4376bef0ee0842eb33cade",
+    "revision": "ig-deol3lxb",
+    "source": {
+      "kind": "instagram",
+      "id": "Deol3LxBGWj",
+      "url": "https://www.instagram.com/kenny_g_for_life_767/p/Deol3LxBGWj/",
+      "title": "Rise and shine",
+      "channel": "@kenny_g_for_life_767"
+    }
+  }
+}

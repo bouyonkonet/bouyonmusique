@@ -3138,17 +3138,17 @@
   "w": 1280
  },
  "kenny-g-dominica": {
-  "alt_en": "Kenny G, bouyon artist from Dominica: still from the video “KENNY G - KOKAY DAT (BALAD RIDDIM)”",
-  "alt_fr": "Kenny G, artiste bouyon de Dominique : image du clip « KENNY G - KOKAY DAT (BALAD RIDDIM) »",
+  "alt_en": "Kenny G, bouyon artist from Dominica: photo published on his Instagram account",
+  "alt_fr": "Kenny G, artiste bouyon de Dominique : photo publiée sur son compte Instagram",
   "bytes": {
-   "kenny-g-dominica-bouyon-dominica-1280.jpg": 91248,
-   "kenny-g-dominica-bouyon-dominica-1280.webp": 53958,
-   "kenny-g-dominica-bouyon-dominica-640.jpg": 30444,
-   "kenny-g-dominica-bouyon-dominica-640.webp": 19326
+   "kenny-g-dominica-bouyon-dominica-ig-deol3lxb-1280.jpg": 128591,
+   "kenny-g-dominica-bouyon-dominica-ig-deol3lxb-1280.webp": 75158,
+   "kenny-g-dominica-bouyon-dominica-ig-deol3lxb-640.jpg": 39964,
+   "kenny-g-dominica-bouyon-dominica-ig-deol3lxb-640.webp": 24660
   },
-  "caption_en": "Image: YouTube thumbnail of “KENNY G - KOKAY DAT (BALAD RIDDIM)”, WizZarD HouSe RecorDs channel.",
-  "caption_fr": "Image : miniature YouTube de « KENNY G - KOKAY DAT (BALAD RIDDIM) », chaîne WizZarD HouSe RecorDs.",
-  "file": "kenny-g-dominica-bouyon-dominica",
+  "caption_en": "Photo: @kenny_g_for_life_767 on Instagram.",
+  "caption_fr": "Photo : @kenny_g_for_life_767 sur Instagram.",
+  "file": "kenny-g-dominica-bouyon-dominica-ig-deol3lxb",
   "gathered": "2026-10-28",
   "h": 720,
   "island": {
@@ -3158,14 +3158,14 @@
    "fr": "Dominique"
   },
   "name": "Kenny G",
-  "sha": "f834dab3927c",
+  "revision": "ig-deol3lxb",
+  "sha": "472329e2b019",
   "source": {
-   "channel": "WizZarD HouSe RecorDs",
-   "id": "SUc-16zdAVw",
-   "kind": "youtube",
-   "quality": "maxresdefault",
-   "title": "KENNY G - KOKAY DAT (BALAD RIDDIM)",
-   "url": "https://www.youtube.com/watch?v=SUc-16zdAVw"
+   "channel": "@kenny_g_for_life_767",
+   "id": "Deol3LxBGWj",
+   "kind": "instagram",
+   "title": "Rise and shine",
+   "url": "https://www.instagram.com/kenny_g_for_life_767/p/Deol3LxBGWj/"
   },
   "w": 1280
  },
