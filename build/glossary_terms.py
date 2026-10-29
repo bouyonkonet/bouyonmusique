@@ -644,11 +644,11 @@ TERMS = [{'key': 'accordion',
   'en': 'WCK (Windward Caribbean Kulture)',
   'def_en': 'Windward Caribbean Kulture, the band from Roseau, Dominica, credited with creating '
             'bouyon in the late 1980s by fusing cadence-lypso and jing ping with keyboards and '
-            'drum machines. The band marks its 40th anniversary in 2026.',
+            'drum machines. Formed in 1986, the band marks its 40th anniversary in 2026.',
   'fr': 'WCK (Windward Caribbean Kulture)',
   'def_fr': "Windward Caribbean Kulture, le groupe de Roseau, à la Dominique, à qui l'on doit la "
             'création du bouyon à la fin des années 1980, en mêlant cadence-lypso et jing ping aux '
-            'claviers et aux boîtes à rythmes. Le groupe fête ses 40 ans en 2026.',
+            'claviers et aux boîtes à rythmes. Formé en 1986, le groupe fête ses 40 ans en 2026.',
   'link_en': '/en/wck.html',
   'link_fr': '/wck.html',
   'src': 'en/wck.html'},

@@ -333,7 +333,7 @@ PAGES = [
 "faq": [
   (
     "Qu'est-ce que le bouyon ?",
-    "Le bouyon est un genre musical né en Dominique à la fin des années 1980, lancé par le groupe WCK, formé à Roseau en 1988. Son nom vient du mot kwéyòl pour la soupe : c'est un mélange de jing ping, de cadence-lypso, de calypso et de production électronique. Le bouyon-muffin est l'une de ses premières branches, née quand les chanteurs des années 1990 y ont posé des voix ragga.",
+    "Le bouyon est un genre musical né en Dominique à la fin des années 1980, lancé par le groupe WCK, formé à Roseau en 1986. Son nom vient du mot kwéyòl pour la soupe : c'est un mélange de jing ping, de cadence-lypso, de calypso et de production électronique. Le bouyon-muffin est l'une de ses premières branches, née quand les chanteurs des années 1990 y ont posé des voix ragga.",
   ),
   (
     "Où écouter les styles de bouyon ?",
@@ -535,7 +535,7 @@ PAGES = [
   ),
   (
     "Que veut dire RSB dans le bouyon ?",
-    "RSB est le sigle de Roots, Stems and Branches, l'un des groupes originels du bouyon en Dominique. Le dossier de ce site le place aux côtés de WCK, formé à Roseau en 1988, et de First Serenade, dans la génération fondatrice qui a inventé une musique plus rapide, plus électronique et plus directe que ce qui l'avait précédée. Les trois noms forment le socle de l'old school.",
+    "RSB est le sigle de Roots, Stems and Branches, l'un des groupes originels du bouyon en Dominique. Le dossier de ce site le place aux côtés de WCK, formé à Roseau en 1986, et de First Serenade, dans la génération fondatrice qui a inventé une musique plus rapide, plus électronique et plus directe que ce qui l'avait précédée. Les trois noms forment le socle de l'old school.",
   ),
   (
     "Quels instruments joue l'old school bouyon ?",

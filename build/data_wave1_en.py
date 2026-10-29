@@ -8,14 +8,14 @@ PAGES = [
   "cat": "Bouyon artists",
   "nav": "WCK",
   "title": "WCK: Windward Caribbean Kulture, the creators of bouyon",
-  "desc": "WCK, Windward Caribbean Kulture, formed in Roseau in 1988: the band that created bouyon by fusing cadence-lypso and jing ping with electronic machines.",
+  "desc": "WCK, Windward Caribbean Kulture, formed in Roseau in 1986: the band that created bouyon by fusing cadence-lypso and jing ping with electronic machines.",
   "h1": "WCK: the band that created bouyon",
-  "intro": "WCK, short for Windward Caribbean Kulture, is the founding band of bouyon. Formed in Roseau, Dominica, in the late 1980s, and celebrating its 40th anniversary in 2026 by the band's own count, it created an entire genre by fusing cadence-lypso and jing ping with electronic keyboards and drum machines. Everything this site tells starts here, with WCK.",
+  "intro": "WCK, short for Windward Caribbean Kulture, is the founding band of bouyon. Formed in Roseau, Dominica, in 1986, and celebrating its 40th anniversary in 2026, it created an entire genre in the late 1980s by fusing cadence-lypso and jing ping with electronic keyboards and drum machines. Everything this site tells starts here, with WCK.",
   "sections": [
    [
     "Who WCK are: a Roseau band with a Caribbean ambition",
     [
-     "The band’s full name already states its project: Windward Caribbean Kulture, the culture of the Windward Islands. WCK formed in Roseau, the capital of Dominica, in 1988. That is not an administrative detail: Roseau is the centre of the island carnival, Mas Domnik, the home of the fetes, the bands and the crowds who would test, approve and carry the new music. A band born in Roseau is born at the heart of the Dominican party machine.",
+     "The band’s full name already states its project: Windward Caribbean Kulture, the culture of the Windward Islands. WCK formed in Roseau, the capital of Dominica, in 1986. That is not an administrative detail: Roseau is the centre of the island carnival, Mas Domnik, the home of the fetes, the bands and the crowds who would test, approve and carry the new music. A band born in Roseau is born at the heart of the Dominican party machine.",
      "WCK belongs to a founding generation. Our dossier places it alongside other originating bands such as Roots, Stems and Branches, known as RSB, and First Serenade. Together, those groups belong to the moment when Dominica invented a new music, faster, more electronic and more direct than what came before it. But in that story WCK holds the reference place: it is the name you cite when you want to explain where bouyon comes from, how it sounds and why it carries that name.",
      "Calling WCK an important band would therefore be an understatement. WCK is the reference point for this entire site. Bouyon Shattaz tells the genre starting from WCK and defends the Dominican origin credit. Every history page, every playlist and every artist profile on BouyonMusique.com leads back, one way or another, to that 1988 foundation. Without WCK there is no bouyon to tell, no bouyon gwada, no bouyon soca, and no second life for the genre in France and on social media.",
      "That position explains the editorial choice behind this profile: it is not only about presenting a band, but about laying down the foundations of the genre. Understanding WCK means understanding the bouyon recipe, its instruments, its language, its audience and its journey, from Roseau to the French Antilles and on to France and the platforms of today."
@@ -77,12 +77,12 @@ PAGES = [
   "faq": [
   (
     "Who created bouyon?",
-    "Bouyon was created by WCK, Windward Caribbean Kulture, a band formed in Roseau, Dominica, in 1988. WCK fused cadence-lypso and jing ping with electronic keyboards and drum machines. In the 1990s that sound became the music of the Roseau carnival, Mas Domnik, and of village fetes across the island. Read our <a href=\"/en/history.html\">history of bouyon</a>.",
+    "Bouyon was created by WCK, Windward Caribbean Kulture, a band formed in Roseau, Dominica, in 1986. WCK fused cadence-lypso and jing ping with electronic keyboards and drum machines. In the 1990s that sound became the music of the Roseau carnival, Mas Domnik, and of village fetes across the island. Read our <a href=\"/en/history.html\">history of bouyon</a>.",
   ),
-  ("When does WCK celebrate its 40th anniversary?", "In 2026, by the band's own count. WCK 40 was launched on October 26, 2026 at The Realm in Roseau, announced by bassist Keith Goddard, with a 40th anniversary teaser hosted by Jazz In The City and a whole year of celebrations planned. Published sources date the band's formation to 1987 or 1988, and its debut album, One More Sway, to 1988."),
+  ("When does WCK celebrate its 40th anniversary?", "In 2026, by the band's own count. WCK 40 was launched on October 26, 2026 at The Realm in Roseau, announced by bassist Keith Goddard, with a 40th anniversary teaser hosted by Jazz In The City and a whole year of celebrations planned. So the band formed in 1986, before it invented bouyon in the late 1980s: its debut album, One More Sway, came out in 1988, the year many published sources mistake for its formation."),
 (
     "What does WCK stand for?",
-    "WCK stands for Windward Caribbean Kulture, the culture of the Windward Islands. The full name announces the project of the band formed in Roseau, the capital of Dominica, in 1988: a new Caribbean music built from Dominican materials. The initials often travel alone, but this is the band named as the creator of bouyon.",
+    "WCK stands for Windward Caribbean Kulture, the culture of the Windward Islands. The full name announces the project of the band formed in Roseau, the capital of Dominica, in 1986: a new Caribbean music built from Dominican materials. The initials often travel alone, but this is the band named as the creator of bouyon.",
   ),
   (
     "What does bouyon mean?",
@@ -130,7 +130,7 @@ PAGES = [
      "@type": "MusicGroup",
      "@id": "https://bouyonmusique.com/en/wck.html#artist",
      "name": "WCK (Windward Caribbean Kulture)",
-     "description": "Roseau band formed in 1988, the creators of bouyon.",
+     "description": "Roseau band formed in 1986, the creators of bouyon.",
      "genre": "Bouyon",
      "foundingLocation": {
       "@type": "Place",
@@ -8594,7 +8594,7 @@ PAGES = [
   ),
   (
     "Which bands founded bouyon in Dominica?",
-    "WCK is the reference band, formed in Roseau in 1988. This site's research places it in a founding generation alongside other bands from the genre's origins, such as Roots, Stems and Branches, known as RSB, and First Serenade. In the 1990s, their bouyon became the music of the Roseau carnival and of village parties. See <a href=\"/en/wck.html\">WCK</a>.",
+    "WCK is the reference band, formed in Roseau in 1986. This site's research places it in a founding generation alongside other bands from the genre's origins, such as Roots, Stems and Branches, known as RSB, and First Serenade. In the 1990s, their bouyon became the music of the Roseau carnival and of village parties. See <a href=\"/en/wck.html\">WCK</a>.",
   ),
   (
     "Which bouyon artists come from Grand Bay?",
