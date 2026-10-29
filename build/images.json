@@ -10048,18 +10048,18 @@
   "w": 1280
  },
  "wck": {
-  "alt_en": "WCK, bouyon artist from Dominica: artist photo (Deezer page)",
-  "alt_fr": "WCK, artiste bouyon de Dominique : photo de l'artiste (page Deezer)",
+  "alt_en": "WCK, bouyon artist from Dominica: still from the video “Wck band live Dominica world creole music festival 2025 pt1”",
+  "alt_fr": "WCK, artiste bouyon de Dominique : image du clip « Wck band live Dominica world creole music festival 2025 pt1 »",
   "bytes": {
-   "wck-bouyon-dominica-1280.jpg": 215503,
-   "wck-bouyon-dominica-1280.webp": 149720,
-   "wck-bouyon-dominica-640.jpg": 72136,
-   "wck-bouyon-dominica-640.webp": 52552
+   "wck-bouyon-dominica-1280.jpg": 180059,
+   "wck-bouyon-dominica-1280.webp": 137250,
+   "wck-bouyon-dominica-640.jpg": 56555,
+   "wck-bouyon-dominica-640.webp": 39436
   },
-  "caption_en": "Image: artist photo from WCK's Deezer page.",
-  "caption_fr": "Image : photo d'artiste de la page Deezer de WCK.",
+  "caption_en": "Image: YouTube thumbnail of “Wck band live Dominica world creole music festival 2025 pt1”, mashupah99 channel.",
+  "caption_fr": "Image : miniature YouTube de « Wck band live Dominica world creole music festival 2025 pt1 », chaîne mashupah99.",
   "file": "wck-bouyon-dominica",
-  "gathered": "2026-10-28",
+  "gathered": "2026-10-29",
   "h": 720,
   "island": {
    "anchor": "dominica",
@@ -10068,13 +10068,14 @@
    "fr": "Dominique"
   },
   "name": "WCK",
-  "sha": "77545abeb31c",
+  "sha": "8fb3ca029d6c",
   "source": {
-   "channel": "Deezer",
-   "id": 327316,
-   "kind": "deezer",
-   "title": "WCK",
-   "url": "https://www.deezer.com/artist/327316"
+   "channel": "mashupah99",
+   "id": "XB_JdT2NTLQ",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Wck band live Dominica world creole music festival 2025 pt1",
+   "url": "https://www.youtube.com/watch?v=XB_JdT2NTLQ"
   },
   "w": 1280
  },
