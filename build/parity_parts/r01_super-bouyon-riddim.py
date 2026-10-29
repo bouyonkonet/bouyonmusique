@@ -58,7 +58,7 @@ FR = {
   {"artist": "Ozarie", "title": "For De Iron (Diane)", "date": "2025-04-17", "source": "https://www.youtube.com/watch?v=ltZDFDzWt30"},
   {"artist": "DJ 20", "title": "Pencil", "date": "2025-04-17", "source": "https://www.youtube.com/watch?v=HCNDihafWDk"},
   {"artist": "D'termine", "title": "Play Wid De Kitty", "date": "2025-04-17", "source": "https://www.youtube.com/watch?v=7mDLKRwQ7uY"},
-  {"artist": "Shattah Ayow", "title": "Super Wine", "date": "2025-04-17", "source": "https://www.youtube.com/watch?v=2rapUzIDY5U"}
+  {"artist": "Shattah Ayow", "title": "Super Wine", "date": "2025-04-17", "source": "https://www.youtube.com/watch?v=2rapUzIDY5U", "artist_slug": "shattah-ayow.html"}
  ],
  "hub_meta": {"producer": "Kross Beatz (prod. exécutive Shattah Ayow)", "date": "2025-04-17"},
  "extra_graph": [{"@type": "CreativeWork", "@id": "https://bouyonmusique.com/super-bouyon-riddim.html#riddim", "name": "Super Bouyon Riddim", "genre": "Bouyon", "producer": {"@type": "Person", "name": "Kross Beatz"}, "datePublished": "2025-04-17"}]
