@@ -294,7 +294,7 @@ PAGES = [
 ],
 },
 {
-"slug": "bouyon-ou-shatta.html", "cat": "Guides bouyon", "nav": "Bouyon ou shatta",
+"slug": "bouyon-ou-shatta.html", "cat": "Guides bouyon", "nav": "Bouyon, shatta et shatta bouyon",
 "title": "Bouyon ou Shatta : le rapport entre les deux sons",
 "desc": "Bouyon ou shatta : le shatta est un genre dancehall né en Martinique, le bouyon le genre dominicain historique. Leur rencontre : le shatta bouyon.",
 "h1": "Bouyon ou shatta : deux genres, deux îles",
