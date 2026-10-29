@@ -80,7 +80,7 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/old-school-bouyon.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -122,13 +122,13 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/bouyon-vs-zouk.html</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/bouyon-vs-shatta.html</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1336,7 +1336,7 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/dj-skycee.html</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1656,7 +1656,7 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/le-bluff.html</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -1706,7 +1706,7 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/letin-severine.html</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2457,7 +2457,7 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/kai-du-m.html</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2490,7 +2490,7 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/mopao-mumu.html</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3804,7 +3804,7 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/timii-mignonne.html</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -4326,7 +4326,7 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/uglyboy.html</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -5615,6 +5615,66 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://bouyonmusique.com/en/arden-p.html</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bouyonmusique.com/en/deluxe-f.html</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bouyonmusique.com/en/fucha-kid.html</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bouyonmusique.com/en/jl8.html</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bouyonmusique.com/en/kanna.html</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bouyonmusique.com/en/mr-vegas.html</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bouyonmusique.com/en/sick-tonez.html</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bouyonmusique.com/en/sky-geez.html</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bouyonmusique.com/en/supaman-enskred.html</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bouyonmusique.com/en/zi.html</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://bouyonmusique.com/en/bouyon-riddims-list.html</loc>
     <lastmod>2026-10-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -5748,7 +5808,7 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/wcmf-2026-eve-guide.html</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5814,7 +5874,7 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/maureen-shatta.html</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5850,7 +5910,7 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/hollyg-je-lai-vu.html</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
