@@ -66,7 +66,7 @@ def profiles(t):
     out = {}
     for f in glob.glob(os.path.join(ROOT, t['glob'])):
         s = open(f, encoding='utf-8').read()
-        if '"MusicGroup"' not in s or '<p class="lead">' not in s:
+        if '"MusicGroup"' not in s or '<p class="lead">' not in s or 'class="tracklist"' in s:
             continue
         name = None
         for m in re.finditer(r'<script type="application/ld\+json">(.*?)</script>', s, re.S):
