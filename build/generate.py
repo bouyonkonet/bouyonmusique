@@ -520,6 +520,7 @@ def render(page, all_pages):
     from tracklist import tracklist_html as _tl_html, tracklist_ld as _tl_ld
     sections += _tl_html(page, "fr", "/")
     sections += __import__("tracklist").riddim_index_html(page, "fr", "/")
+    sections += __import__("glossary_render").glossary_html(page, "fr")
     faq_list = page.get("faq") or CAT_FAQ.get(page["cat"], [])
     faq_html = ""
     ld = {
@@ -563,6 +564,9 @@ def render(page, all_pages):
     _tl = _tl_ld(page, url)
     if _tl:
         graph.append(_tl)
+    _gl = __import__("glossary_render").glossary_ld(page, url, "fr")
+    if _gl:
+        graph.append(_gl)
     for _e in page.get("extra_graph", []):
         _e = dict(_e)
         if _e.get("@type") in ("ProfilePage", "Article") and page.get("date_published"):

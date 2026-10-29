@@ -10,7 +10,7 @@ PAGES = [
   "title": "WCK: Windward Caribbean Kulture, the creators of bouyon",
   "desc": "WCK, Windward Caribbean Kulture, formed in Roseau in 1988: the band that created bouyon by fusing cadence-lypso and jing ping with electronic machines.",
   "h1": "WCK: the band that created bouyon",
-  "intro": "WCK, short for Windward Caribbean Kulture, is the founding band of bouyon. Formed in Roseau, Dominica, in 1988, it created an entire genre by fusing cadence-lypso and jing ping with electronic keyboards and drum machines. Everything this site tells starts here, with WCK.",
+  "intro": "WCK, short for Windward Caribbean Kulture, is the founding band of bouyon. Formed in Roseau, Dominica, in the late 1980s, and celebrating its 40th anniversary in 2026 by the band's own count, it created an entire genre by fusing cadence-lypso and jing ping with electronic keyboards and drum machines. Everything this site tells starts here, with WCK.",
   "sections": [
    [
     "Who WCK are: a Roseau band with a Caribbean ambition",
@@ -79,7 +79,8 @@ PAGES = [
     "Who created bouyon?",
     "Bouyon was created by WCK, Windward Caribbean Kulture, a band formed in Roseau, Dominica, in 1988. WCK fused cadence-lypso and jing ping with electronic keyboards and drum machines. In the 1990s that sound became the music of the Roseau carnival, Mas Domnik, and of village fetes across the island. Read our <a href=\"/en/history.html\">history of bouyon</a>.",
   ),
-  (
+  ("When does WCK celebrate its 40th anniversary?", "In 2026, by the band's own count. WCK 40 was launched on October 26, 2026 at The Realm in Roseau, announced by bassist Keith Goddard, with a 40th anniversary teaser hosted by Jazz In The City and a whole year of celebrations planned. Published sources date the band's formation to 1987 or 1988, and its debut album, One More Sway, to 1988."),
+(
     "What does WCK stand for?",
     "WCK stands for Windward Caribbean Kulture, the culture of the Windward Islands. The full name announces the project of the band formed in Roseau, the capital of Dominica, in 1988: a new Caribbean music built from Dominican materials. The initials often travel alone, but this is the band named as the creator of bouyon.",
   ),
@@ -201,7 +202,7 @@ PAGES = [
     }
    }
   ],
-"date_modified": "2026-10-20"
+"date_modified": "2026-10-29"
  },
  {
   "slug": "asa-bantan.html",

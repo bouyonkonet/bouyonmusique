@@ -81,3 +81,4 @@ footer li{margin:6px 0}
 .yt:hover .yt-play{background:var(--turq)}
 .artist-hero{margin:18px 0 10px}.artist-hero img{display:block;width:100%;height:auto;border-radius:12px;background:#111}.artist-hero figcaption{font-size:13px;color:var(--muted);margin-top:6px}.artist-hero figcaption a{color:var(--muted)}
 .table-wrap{overflow-x:auto}.tracklist{width:100%;border-collapse:collapse;font-size:15px;margin:8px 0 18px}.tracklist th,.tracklist td{text-align:left;padding:7px 8px;border-bottom:1px solid rgba(127,127,127,.25);vertical-align:top}.tracklist th{font-weight:700}
+.glossary dt{font-weight:700;margin-top:14px;scroll-margin-top:80px}.glossary dd{margin:4px 0 0 0}

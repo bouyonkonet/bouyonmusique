@@ -9,7 +9,7 @@ PAGES = [
   "title": "WCK : Windward Caribbean Kulture, les créateurs du bouyon",
   "desc": "WCK, Windward Caribbean Kulture, formé à Roseau en 1988 : le groupe qui a créé le bouyon en fusionnant cadence-lypso, jing ping et machines électroniques.",
   "h1": "WCK : le groupe qui a créé le bouyon",
-  "intro": "WCK, pour Windward Caribbean Kulture, est le groupe fondateur du bouyon. Formé à Roseau, en Dominique, en 1988, il a créé un genre entier en fusionnant la cadence-lypso et le jing ping avec les claviers électroniques et les boîtes à rythmes. Tout ce que ce site raconte commence ici, avec WCK.",
+  "intro": "WCK, pour Windward Caribbean Kulture, est le groupe fondateur du bouyon. Formé à Roseau, en Dominique, à la fin des années 1980, et fêtant ses 40 ans en 2026 selon le groupe lui-même, il a créé un genre entier en fusionnant la cadence-lypso et le jing ping avec les claviers électroniques et les boîtes à rythmes. Tout ce que ce site raconte commence ici, avec WCK.",
   "sections": [
    [
     "Qui est WCK : un groupe de Roseau, une ambition caribéenne",
@@ -70,7 +70,8 @@ PAGES = [
     "Qui a créé le bouyon ?",
     "Le bouyon a été créé par WCK, Windward Caribbean Kulture, un groupe formé à Roseau, en Dominique, en 1988. WCK a fusionné la cadence-lypso et le jing ping avec les claviers électroniques et les boîtes à rythmes. Dans les années 1990, ce son devient la musique du carnaval de Roseau, le Mas Domnik, et des fêtes de village. Voir notre <a href=\"/histoire.html\">histoire du bouyon</a>.",
   ),
-  (
+  ("Quand WCK fête-t-il ses 40 ans ?", "En 2026, selon le groupe. Le lancement de WCK 40 a eu lieu le 26 octobre 2026 au Realm, à Roseau, annoncé par le bassiste Keith Goddard, avec un teaser du 40e anniversaire organisé par Jazz In The City et une année entière de célébrations prévue. Les sources publiées datent la formation du groupe de 1987 ou 1988, et son premier album, One More Sway, de 1988."),
+(
     "Que veut dire WCK ?",
     "WCK signifie Windward Caribbean Kulture, la culture des îles du Vent. Le nom complet annonce le projet du groupe formé à Roseau, la capitale de la Dominique, en 1988 : une musique caribéenne nouvelle, construite avec des matériaux dominicains. Le sigle circule souvent seul, mais c’est bien ce groupe que l’on cite comme le créateur du bouyon.",
   ),
@@ -192,7 +193,7 @@ PAGES = [
     }
    }
   ],
-"date_modified": "2026-10-20"
+"date_modified": "2026-10-29"
  },
  {
   "slug": "asa-bantan.html",
