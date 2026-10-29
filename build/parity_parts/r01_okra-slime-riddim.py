@@ -70,7 +70,7 @@ FR = {
   {"artist": "Stella Billy", "title": "Energy", "date": "2026-04-06", "source": "https://www.youtube.com/watch?v=5o-UqoB3wBE", "artist_slug": "stella-billy.html"},
   {"artist": "Fiddy ii", "title": "All Kinda Gal", "date": "2026-04-18", "source": "https://www.youtube.com/watch?v=iLt9mKgQ964", "artist_slug": "fiddy-ii.html"},
   {"artist": "Gaza x Scoobz x Dwayne3Dot", "title": "How We Looking (Good)", "date": "2026-04-29", "source": "https://www.youtube.com/watch?v=fmrdm6b5LL4"},
-  {"artist": "Ian Stylez", "title": "Crazy Jump", "date": "2026-06-04", "source": "https://www.youtube.com/watch?v=0BzZmig-qYs"}
+  {"artist": "Ian Stylez", "title": "Crazy Jump", "date": "2026-06-04", "source": "https://www.youtube.com/watch?v=0BzZmig-qYs", "artist_slug": "ian-stylez.html"}
  ],
  "extra_graph": [{"@type": "CreativeWork", "@id": "https://bouyonmusique.com/okra-slime-riddim.html#riddim", "name": "Okra Slime Riddim", "genre": "Bouyon", "producer": {"@type": "Organization", "name": "10Star Records"}, "description": "Riddim de 10Star Records, billé Barbados Bouyon 2026, ouvert par Okra Slime de Sharkie le 24 mars 2026."}]
 }

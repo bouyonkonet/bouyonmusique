@@ -64,10 +64,10 @@ FR = {
  ],
  "tracklist": [
   {"artist": "Mata & Bronxx", "title": "Balance", "date": "2023-03-20", "source": "https://www.youtube.com/watch?v=R5lXivElfLo"},
-  {"artist": "Kisha Kay", "title": "Doh Post Me", "date": "2023-03-20", "source": "https://www.youtube.com/watch?v=of6e0F-BIFY"},
+  {"artist": "Kisha Kay", "title": "Doh Post Me", "date": "2023-03-20", "source": "https://www.youtube.com/watch?v=of6e0F-BIFY", "artist_slug": "kisha-kay.html"},
   {"artist": "Island Prince", "title": "Push Back", "date": "2023-03-20", "source": "https://www.youtube.com/watch?v=-RaqHBZiC1U"},
   {"artist": "Bronxx & Freezy", "title": "Breed Dem", "date": "2023-03-20", "source": "https://www.youtube.com/watch?v=fn-XIj6ygxk"},
-  {"artist": "Freezy & Zido", "title": "Party Party", "date": "2023-03-20", "source": "https://www.youtube.com/watch?v=u_LsBwwgj2c"},
+  {"artist": "Freezy & Zido", "title": "Party Party", "date": "2023-03-20", "source": "https://www.youtube.com/watch?v=u_LsBwwgj2c", "artist_slug": "freezy.html"},
   {"artist": "Zido & Freezy", "title": "Move From Deh", "date": "2023-03-20", "source": "https://www.youtube.com/watch?v=hGyEKodZFjw"}
  ],
  "extra_graph": [{"@type": "CreativeWork", "@id": "https://bouyonmusique.com/pelau-riddim.html#riddim", "name": "Pelau Riddim", "genre": "Bouyon", "producer": {"@type": "Person", "name": "Boogy Rankss"}, "publisher": {"@type": "Organization", "name": "Boogy Rankss Entertainment"}, "datePublished": "2023-03-20"}]
@@ -115,10 +115,10 @@ EN = {
  ],
  "tracklist": [
   {"artist": "Mata & Bronxx", "title": "Balance", "date": "2023-03-20", "source": "https://www.youtube.com/watch?v=R5lXivElfLo"},
-  {"artist": "Kisha Kay", "title": "Doh Post Me", "date": "2023-03-20", "source": "https://www.youtube.com/watch?v=of6e0F-BIFY"},
+  {"artist": "Kisha Kay", "title": "Doh Post Me", "date": "2023-03-20", "source": "https://www.youtube.com/watch?v=of6e0F-BIFY", "artist_slug": "kisha-kay.html"},
   {"artist": "Island Prince", "title": "Push Back", "date": "2023-03-20", "source": "https://www.youtube.com/watch?v=-RaqHBZiC1U"},
   {"artist": "Bronxx & Freezy", "title": "Breed Dem", "date": "2023-03-20", "source": "https://www.youtube.com/watch?v=fn-XIj6ygxk"},
-  {"artist": "Freezy & Zido", "title": "Party Party", "date": "2023-03-20", "source": "https://www.youtube.com/watch?v=u_LsBwwgj2c"},
+  {"artist": "Freezy & Zido", "title": "Party Party", "date": "2023-03-20", "source": "https://www.youtube.com/watch?v=u_LsBwwgj2c", "artist_slug": "freezy.html"},
   {"artist": "Zido & Freezy", "title": "Move From Deh", "date": "2023-03-20", "source": "https://www.youtube.com/watch?v=hGyEKodZFjw"}
  ],
  "extra_graph": [{"@type": "CreativeWork", "@id": "https://bouyonmusique.com/en/pelau-riddim.html#riddim", "name": "Pelau Riddim", "genre": "Bouyon", "producer": {"@type": "Person", "name": "Boogy Rankss"}, "publisher": {"@type": "Organization", "name": "Boogy Rankss Entertainment"}, "datePublished": "2023-03-20"}]

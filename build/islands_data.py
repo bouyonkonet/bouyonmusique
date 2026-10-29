@@ -68,6 +68,15 @@ SCENE = {
  'us': "klassik-frescobar madamezelle",
 }
 
+# Wave 40 (2026-10-29)
+FROM['dm'] += " king-dice"
+FROM['lc'] += " freezy kisha-kay"
+FROM['bb'] = FROM.get('bb', "") + " fadda-fox"
+FROM['jm'] += " shanna-raymond"
+FROM['kn'] = FROM.get('kn', "") + " shanna-raymond"
+SCENE['gd'] += " blaka-dan"
+SCENE['bb'] += " ian-stylez"
+SCENE['vc'] += " shattah-ayow"
 FROM = {k: v.split() for k, v in FROM.items()}
 SCENE = {k: v.split() for k, v in SCENE.items()}
 

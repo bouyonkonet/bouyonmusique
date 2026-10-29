@@ -15,7 +15,7 @@ import unicodedata
 
 # Stage names that collide with words, places or other people. Mentions of
 # these artists only count through a hand-written link in the copy.
-LINK_ONLY = {"Nice", "Alpha", "Chief", "Sticky", "Freddy", "Hussey", "Kenny G", "Le Det", "Vador", "C4", "Quan", "Candy", "Motto", "Go Fast"}
+LINK_ONLY = {"Nice", "Alpha", "Chief", "Sticky", "Freddy", "Hussey", "Kenny G", "Le Det", "Vador", "C4", "Quan", "Candy", "Motto", "Go Fast", "Que"}
 
 # Capitalised words that may sit next to a name without being part of it.
 FUNCTION_WORDS = {

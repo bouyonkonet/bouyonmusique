@@ -70,16 +70,16 @@ FR = {
   ("Le Kryptic Riddim est-il du bouyon ?", "Oui. La présentation officielle le range clairement dans le bouyon, et elle présente « Ah Coming » comme les débuts de Foxy Jael sur la scène bouyon.")
  ],
  "tracklist": [
-  {"artist": "Fadda Fox x Faithii", "title": "Bess Jam", "date": "2025-07-04", "source": "https://www.youtube.com/watch?v=ebhPtnIhFF8"},
+  {"artist": "Fadda Fox x Faithii", "title": "Bess Jam", "date": "2025-07-04", "source": "https://www.youtube.com/watch?v=ebhPtnIhFF8", "artist_slug": "fadda-fox.html"},
   {"artist": "Zwady", "title": "Mal Palan", "date": "2025-07-04", "source": "https://www.youtube.com/watch?v=M_b6FVTmkHI", "artist_slug": "zwady.html"},
   {"artist": "Sackie x Zan", "title": "G O A L S", "date": "2025-07-04", "source": "https://www.youtube.com/watch?v=4ae16k3cmrk"},
   {"artist": "Pudaz x Paris", "title": "Shake Something", "date": "2025-07-04", "source": "https://www.youtube.com/watch?v=s-aCj2BsY4A", "artist_slug": "pudaz.html"},
-  {"artist": "Shanna Raymond", "title": "Hustle Hard", "date": "2025-07-04", "source": "https://www.youtube.com/watch?v=G7tjkYPvKQs"},
-  {"artist": "Pumpa", "title": "Savage", "date": "2025-07-04", "source": "https://www.youtube.com/watch?v=LiqhRNC_EJQ"},
+  {"artist": "Shanna Raymond", "title": "Hustle Hard", "date": "2025-07-04", "source": "https://www.youtube.com/watch?v=G7tjkYPvKQs", "artist_slug": "shanna-raymond.html"},
+  {"artist": "Pumpa", "title": "Savage", "date": "2025-07-04", "source": "https://www.youtube.com/watch?v=LiqhRNC_EJQ", "artist_slug": "pumpa.html"},
   {"artist": "Major Mystic", "title": "Taste", "date": "2025-07-04", "source": "https://www.youtube.com/watch?v=49NWC0bupXs"},
   {"artist": "Foxy Jael", "title": "Ah Coming", "date": "2025-07-04", "source": "https://www.youtube.com/watch?v=pmh64b6miSU", "artist_slug": "foxy-jael.html"},
   {"artist": "Mr Gwada", "title": "Backdoor", "date": "2025-07-15", "source": "https://www.youtube.com/watch?v=j8QLLFwo3dw", "artist_slug": "mr-gwada.html"},
-  {"artist": "King Dice", "title": "Me", "date": "2025-08-28", "source": "https://www.youtube.com/watch?v=fSzbAL5l8ic"}
+  {"artist": "King Dice", "title": "Me", "date": "2025-08-28", "source": "https://www.youtube.com/watch?v=fSzbAL5l8ic", "artist_slug": "king-dice.html"}
  ],
  "extra_graph": [{"@type": "CreativeWork", "@id": "https://bouyonmusique.com/kryptic-riddim.html#riddim", "name": "Kryptic Riddim", "genre": "Bouyon", "producer": {"@type": "Person", "name": "Krishna 'Dada' Lawrence"}, "publisher": {"@type": "Organization", "name": "Dadamanufakture"}, "datePublished": "2025-07-06"}],
  "date_modified": "2026-10-28"
