@@ -23,7 +23,7 @@ ISL = {i[0]: dict(code=i[0], flag=i[1], en=i[2], fr=i[3], anchor=i[4], hub_en=i[
 T = {
  'en': dict(
    page='en/bouyon-by-island.html', artists='en/artists.html', prefix='/en/', glob='en/*.html',
-   home='/en/', home_name='Home', artists_name='Bouyon artists', artists_url='/en/artists.html',
+   home='/en/', home_name='Bouyon music', artists_name='Bouyon artists', artists_url='/en/artists.html',
    title='Bouyon Artists by Island: Dominica, Guadeloupe, Martinique and More',
    desc='Every bouyon artist on Bouyon Musique, island by island: Dominica, Guadeloupe, Martinique, Saint Martin, Saint Lucia, Antigua, Barbados, Saint Vincent and beyond.',
    h1='Bouyon artists by island',
@@ -40,7 +40,7 @@ T = {
    hubs_title='By island', colon=': ', faq='<h2>Frequently asked questions</h2>', lang='en', locale='en_US'),
  'fr': dict(
    page='bouyon-par-ile.html', artists='artistes.html', prefix='/', glob='*.html',
-   home='/', home_name='Accueil', artists_name='Artistes bouyon', artists_url='/artistes.html',
+   home='/', home_name='Musique bouyon', artists_name='Artistes bouyon', artists_url='/artistes.html',
    title='Artistes bouyon par île : Dominique, Guadeloupe, Martinique et plus',
    desc='Tous les artistes bouyon de Bouyon Musique, île par île : Dominique, Guadeloupe, Martinique, Saint-Martin, Sainte-Lucie, Antigua, Barbade, Saint-Vincent et au-delà.',
    h1='Les artistes bouyon par île',

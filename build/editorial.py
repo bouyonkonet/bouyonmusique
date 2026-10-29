@@ -111,7 +111,7 @@ def render(item, siblings, ctx):
     esc, kind = ctx["esc"], item["kind"]
     k = KINDS[kind]
     url = BASE + item["slug"]
-    crumbs = [("Accueil", "/"), (k["cat"], "/" + k["dir"]), (item["nav"], None)]
+    crumbs = [("Musique bouyon", "/"), (k["cat"], "/" + k["dir"]), (item["nav"], None)]
     artists = [ctx["artists"][a] for a in item["artists"]]
     mentions = [{"@id": a["id"]} for a in artists]
     page_ld = {
@@ -200,7 +200,7 @@ def render(item, siblings, ctx):
 def render_index(kind, rows, ctx):
     esc, k = ctx["esc"], KINDS[kind]
     url = BASE + k["dir"]
-    crumbs = [("Accueil", "/"), (k["cat"], None)]
+    crumbs = [("Musique bouyon", "/"), (k["cat"], None)]
     if kind == "mixtape":
         title = "Mixtapes bouyon de Smokiller : tracklists et vidéos"
         desc = "Les mixtapes bouyon publiées par Smokiller sur YouTube, avec la tracklist minutée de chaque mix et les profils des artistes qu’elles font tourner."
