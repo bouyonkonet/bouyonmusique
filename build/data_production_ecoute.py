@@ -192,7 +192,7 @@ PAGES = [
   ),
   (
     "Où trouver des instrumentaux bouyon ?",
-    "Chez les producteurs eux-mêmes. MB On The Track publie sur sa chaîne YouTube des instrumentaux titrés « Cigarettes », « Boyz N Girlz » et « Xo » (Bouyon Instrumental 2026), ainsi que « Waka », en funk x bouyon, et propose des productions sur mesure. Le site smokiller.com de Smokiller offre aussi des téléchargements gratuits d'instrumentaux et de remixes. Voir <a href=\"/mb-on-the-track.html\">MB On The Track</a>.",
+    "Chez les producteurs eux-mêmes. MB On The Track publie sur sa chaîne YouTube des instrumentaux titrés « Cigarettes », « Boyz N Girlz » et « Xo » (Bouyon Instrumental 2026), ainsi que « Waka », en funk x bouyon, et propose des productions sur mesure. Le site <a href=\"https://smokiller.com/smokiller-riddims\">smokiller.com</a> de Smokiller offre aussi des téléchargements gratuits d'instrumentaux et de remixes. Voir <a href=\"/mb-on-the-track.html\">MB On The Track</a>.",
   ),
   (
     "Un bouyon type beat peut-il servir pour du shatta ?",
