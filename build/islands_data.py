@@ -104,6 +104,11 @@ FROM['dm'] += " halibut"
 FROM['lc'] += " subance"
 SCENE['ag'] += " soca-ras"
 SCENE['mf'] += " dj-eyedol"
+# Wave 46 (2026-10-29)
+FROM['gp'] += " daly"
+FROM['dm'] += " raw-redeem esclav soca-johnny"
+SCENE['gp'] += " ghetto-princess"
+SCENE['dm'] += " clint-h keith-goddard"
 FROM = {k: v.split() for k, v in FROM.items()}
 SCENE = {k: v.split() for k, v in SCENE.items()}
 
