@@ -44,7 +44,7 @@ FR = {
     "L’ordre exact de son arrivée dans WCK est l’un des points les plus intéressants de son dossier, et l’un de ceux que les résumés rapides racontent de travers. Rommen écrit noir sur blanc que Peters a rejoint WCK après que le groupe eut déjà recruté son personnel central et choisi son nom, à un moment où Cornell et Keith avaient déjà décidé de moderniser les rythmes traditionnels de la Dominique. DOM767, de son côté, le range parmi les membres originels réunis en 1988 autour de Phillip, aux côtés de Keith Goddard, pour créer un son nouveau qui parle aux jeunes. Les deux sources ne se contredisent pas vraiment : elles décrivent une formation par couches, un noyau Phillip et ses proches d’abord, puis l’arrivée rapide du batteur chanteur qui allait porter les années de formation.",
     "Ce que Peters dit de cette rencontre est éclairant : ce qui l’a touché dans l’approche de WCK, raconte-t-il, c’était les tambours, le carnaval et le jing ping que le groupe incorporait au bouyon. Il reconnaissait dans le projet des autres la musique de sa propre enfance. La jonction était donc naturelle des deux côtés : le groupe cherchait à moderniser des rythmes que Peters avait dans les mains depuis l’enfance, et Peters trouvait un groupe qui prenait ces rythmes au sérieux, avec des claviers, une boîte à rythmes et une ambition de scène.",
     "Le résultat est le rôle triple déjà cité : chanteur principal, auteur principal, batteur, pendant les années de formation. Il faut mesurer ce que cela signifie dans un groupe de la fin des années 1980. La voix que le public entendait sur les premiers succès était la sienne ; les chansons que le groupe construisait venaient en grande partie de sa plume ; et le tempo, celui auquel tout le reste se raccrochait, sortait de sa batterie. Les histoires du bouyon racontent souvent le genre comme une affaire de claviers, et les claviers de Fingers y sont pour beaucoup. Mais un clavier ne chante pas les refrains et n’écrit pas les chansons : pendant les années où WCK inventait sa formule, c’est Rah Peters qui tenait ces deux postes, tout en gardant le temps.",
-    "Le groupe qu’il rejoint a une trajectoire que notre page <a href=\"/wck.html\">WCK</a> raconte en entier : formé en 1988 à Roseau pour combler le vide laissé par les grands groupes dominicains partis ou arrêtés, il relance la musique live sur l’île et expérimente la fusion de la cadence-lypso et du jing ping. Les références s’accordent à créditer WCK de la création du bouyon à la fin des années 1980. La place de Peters dans cette création est celle d’un cofondateur de fait plutôt que de droit : absent de la première réunion, présent dès que le son prend forme, et indissociable des disques qui l’ont défini."
+    "Le groupe qu’il rejoint a une trajectoire que notre page <a href=\"/wck.html\">WCK</a> raconte en entier : formé en 1986 à Roseau pour combler le vide laissé par les grands groupes dominicains partis ou arrêtés, il relance la musique live sur l’île et expérimente la fusion de la cadence-lypso et du jing ping. Les références s’accordent à créditer WCK de la création du bouyon à la fin des années 1980. La place de Peters dans cette création est celle d’un cofondateur de fait plutôt que de droit : absent de la première réunion, présent dès que le son prend forme, et indissociable des disques qui l’ont défini."
    ]
   ],
   [
@@ -101,7 +101,7 @@ FR = {
   ),
   (
     "D’où vient Derek Rah Peters ?",
-    "Derek « Rah » Peters est né en Dominique, selon la page Culture of Dominica. Son enfance musicale se passe à Rosalie, petit village de la côte atlantique de l’île, où il suit le groupe de quadrille local et son jing ping dès l’âge de deux ans. Il rejoint ensuite WCK, le groupe formé à Roseau en 1988 qui a créé le bouyon.",
+    "Derek « Rah » Peters est né en Dominique, selon la page Culture of Dominica. Son enfance musicale se passe à Rosalie, petit village de la côte atlantique de l’île, où il suit le groupe de quadrille local et son jing ping dès l’âge de deux ans. Il rejoint ensuite WCK, le groupe formé à Roseau en 1986 qui a créé le bouyon.",
   ),
   (
     "Qu’est-ce que le lapo kabwit, le tambour de l’enfance de Rah Peters ?",
@@ -113,7 +113,7 @@ FR = {
   ),
   (
     "Qui a créé le bouyon, et quelle part revient à Rah Peters ?",
-    "Les références créditent WCK, formé en 1988 à Roseau, de la création du bouyon à la fin des années 1980. Selon DOM767, Cornell Phillip et les membres originels, dont Derek « Rah » Peters et Keith Goddard, ont mêlé le tambour lapo kabwit, la syncope de la cadence-lypso et les synthétiseurs. Rah y tenait la batterie, le chant principal et l’écriture principale.",
+    "Les références créditent WCK, formé en 1986 à Roseau, de la création du bouyon à la fin des années 1980. Selon DOM767, Cornell Phillip et les membres originels, dont Derek « Rah » Peters et Keith Goddard, ont mêlé le tambour lapo kabwit, la syncope de la cadence-lypso et les synthétiseurs. Rah y tenait la batterie, le chant principal et l’écriture principale.",
   ),
   (
     "Quelles chansons de WCK datent des années de Rah Peters ?",
@@ -168,7 +168,7 @@ EN = {
     "The exact order of his arrival in WCK is one of the most interesting points in his record, and one that quick summaries tell wrongly. Rommen writes plainly that Peters joined WCK after they had already recruited the core personnel and named the band, by which time Cornell and Keith had decided to modernize Dominica traditional rhythms. DOM767, for its part, places him among the original members gathered in 1988 around Phillip, alongside Keith Goddard, to create a new sound that resonated with the youth. The two sources do not truly contradict each other: they describe a formation in layers, a Phillip core and its close circle first, then the quick arrival of the drummer singer who would carry the formative years.",
     "What Peters says about that meeting is revealing: why the WCK approach touched him, he recalls, was because of the drums, carnival as he tells it, and the jing ping music that the band incorporated into bouyon. He recognized, in the others project, the music of his own childhood. The junction was therefore natural on both sides: the band was looking to modernize rhythms Peters had held in his hands since childhood, and Peters found a band that took those rhythms seriously, with keyboards, a drum machine and stage ambition.",
     "The result is the triple role already cited: lead singer, principal songwriter, drummer, during the formative years. It is worth measuring what that means in a band of the late 1980s. The voice the public heard on the first hits was his; the songs the band built came largely from his pen; and the tempo, the one everything else locked onto, came out of his drum kit. Histories of bouyon often tell the genre as a keyboard story, and Fingers keyboards carry a great deal of it. But a keyboard does not sing the choruses and does not write the songs: during the years when WCK invented its formula, Rah Peters held those two posts, while also keeping time.",
-    "The band he joins has a path our <a href=\"/en/wck.html\">WCK</a> page tells in full: formed in 1988 in Roseau to fill a void left by Dominica great bands that had left or stopped, it heralded a resurgence of live music on the island and experimented with the fusion of cadence-lypso and jing ping. References agree in crediting WCK with creating bouyon in the late 1980s. Peters place in that creation is that of a co-founder in fact rather than in law: absent from the first meeting, present as soon as the sound took shape, and inseparable from the records that defined it."
+    "The band he joins has a path our <a href=\"/en/wck.html\">WCK</a> page tells in full: formed in 1986 in Roseau to fill a void left by Dominica great bands that had left or stopped, it heralded a resurgence of live music on the island and experimented with the fusion of cadence-lypso and jing ping. References agree in crediting WCK with creating bouyon in the late 1980s. Peters place in that creation is that of a co-founder in fact rather than in law: absent from the first meeting, present as soon as the sound took shape, and inseparable from the records that defined it."
    ]
   ],
   [
@@ -225,7 +225,7 @@ EN = {
   ),
   (
     "Where is Derek Rah Peters from?",
-    "Derek “Rah” Peters was born in Dominica, according to the Culture of Dominica page. His musical childhood took place in Rosalie, a small village on the island’s Atlantic coast, where he followed the local quadrille group and its jing ping from the age of two. He then joined WCK, the band formed in Roseau in 1988 that created bouyon.",
+    "Derek “Rah” Peters was born in Dominica, according to the Culture of Dominica page. His musical childhood took place in Rosalie, a small village on the island’s Atlantic coast, where he followed the local quadrille group and its jing ping from the age of two. He then joined WCK, the band formed in Roseau in 1986 that created bouyon.",
   ),
   (
     "What is lapo kabwit, the drum of Rah Peters’s childhood?",
@@ -237,7 +237,7 @@ EN = {
   ),
   (
     "Who created bouyon, and what part goes to Rah Peters?",
-    "References credit WCK, formed in 1988 in Roseau, with creating bouyon in the late 1980s. According to DOM767, Cornell Phillip and the original members, including Derek “Rah” Peters and Keith Goddard, blended lapo kabwit drumming, cadence-lypso syncopation and synthesisers. Rah held the drums, the lead vocals and the principal songwriting.",
+    "References credit WCK, formed in 1986 in Roseau, with creating bouyon in the late 1980s. According to DOM767, Cornell Phillip and the original members, including Derek “Rah” Peters and Keith Goddard, blended lapo kabwit drumming, cadence-lypso syncopation and synthesisers. Rah held the drums, the lead vocals and the principal songwriting.",
   ),
   (
     "Which WCK songs date from Rah Peters’s years?",

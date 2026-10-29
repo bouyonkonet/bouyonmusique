@@ -333,7 +333,7 @@ PAGES = [
 "faq": [
   (
     "What is bouyon music?",
-    "Bouyon is a music genre born in Dominica in the late 1980s, pioneered by the band WCK, formed in Roseau in 1988. Its name comes from the Kwéyòl word for soup: it blends jing ping, cadence-lypso, calypso and electronic production. Bouyon-muffin is one of its first branches, born when singers of the 1990s laid ragga voices over it.",
+    "Bouyon is a music genre born in Dominica in the late 1980s, pioneered by the band WCK, formed in Roseau in 1986. Its name comes from the Kwéyòl word for soup: it blends jing ping, cadence-lypso, calypso and electronic production. Bouyon-muffin is one of its first branches, born when singers of the 1990s laid ragga voices over it.",
   ),
   (
     "Where can I hear the bouyon styles?",
@@ -535,7 +535,7 @@ PAGES = [
   ),
   (
     "What does RSB stand for in bouyon?",
-    "RSB stands for Roots, Stems and Branches, one of the original bouyon bands in Dominica. This site's record places it alongside WCK, formed in Roseau in 1988, and First Serenade, in the founding generation that invented a music faster, more electronic and more direct than what came before. The three names form the bedrock of old school.",
+    "RSB stands for Roots, Stems and Branches, one of the original bouyon bands in Dominica. This site's record places it alongside WCK, formed in Roseau in 1986, and First Serenade, in the founding generation that invented a music faster, more electronic and more direct than what came before. The three names form the bedrock of old school.",
   ),
   (
     "What instruments does old school bouyon use?",

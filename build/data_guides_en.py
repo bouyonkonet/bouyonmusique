@@ -8,13 +8,13 @@ PAGES = [
 "intro": "Bouyon is a musical genre created in Dominica, a small Caribbean island, in the late 1980s. It is fast-tempo party and carnival music that mixes Dominican traditions with keyboards and electronic rhythms. In Guadeloupe and Martinique, it is also called jump up.",
 "sections": [
 ("The bouyon recipe", ["Take jing ping, the traditional Dominican accordion music. Add cadence-lypso, the danceable sound of the 1970s. Put in traditional drum rhythms like lapo kabwit, elements of bèlè, kwadril, chanté mas and mazurka, a little zouk, then plug in electronic keyboards and a drum machine. You get bouyon: in Creole, the name of a soup where everything mixes together."]),
-("Who created it, and when", ["Bouyon was created by the band WCK, Windward Caribbean Kulture, formed in 1988 in Roseau, the capital of Dominica. Roots, Stems and Branches and First Serenade are among the other original groups. From the 1990s, bouyon becomes the dominant music of Dominican carnival."]),
+("Who created it, and when", ["Bouyon was created by the band WCK, Windward Caribbean Kulture, formed in 1986 in Roseau, the capital of Dominica. Roots, Stems and Branches and First Serenade are among the other original groups. From the 1990s, bouyon becomes the dominant music of Dominican carnival."]),
 ("How to recognize a bouyon song", ["A fast tempo that never lets up, a catchy keyboard loop, a heavy synthetic bass, percussion that recalls the traditional drum, and a voice in Creole or English that talks to the audience more than it sings. If the song makes you want to jump, you are probably listening to bouyon."]),
 ],
 "faq": [
   (
     "Which country does bouyon come from?",
-    "From Dominica, an English-speaking and Creole-speaking Caribbean island, not to be confused with the Dominican Republic. The genre was born there in the late 1980s with the band WCK, formed in 1988 in Roseau, the capital. From the 1990s, it becomes the dominant music of Dominican carnival.",
+    "From Dominica, an English-speaking and Creole-speaking Caribbean island, not to be confused with the Dominican Republic. The genre was born there in the late 1980s with the band WCK, formed in 1986 in Roseau, the capital. From the 1990s, it becomes the dominant music of Dominican carnival.",
   ),
   (
     "What does bouyon mean?",
@@ -22,7 +22,7 @@ PAGES = [
   ),
   (
     "Who created bouyon?",
-    "Bouyon was created by the band WCK, Windward Caribbean Kulture, formed in 1988 in Roseau, the capital of Dominica. Roots, Stems and Branches and First Serenade are among the other original groups. From the 1990s, bouyon becomes the dominant music of Dominican carnival. See the <a href=\"/en/wck.html\">WCK</a> page.",
+    "Bouyon was created by the band WCK, Windward Caribbean Kulture, formed in 1986 in Roseau, the capital of Dominica. Roots, Stems and Branches and First Serenade are among the other original groups. From the 1990s, bouyon becomes the dominant music of Dominican carnival. See the <a href=\"/en/wck.html\">WCK</a> page.",
   ),
   (
     "How do you recognize a bouyon song?",
@@ -86,7 +86,7 @@ PAGES = [
   ),
   (
     "Who created bouyon?",
-    "The band <a href=\"/en/wck.html\">WCK</a>, short for Windward Caribbean Kulture, formed in Roseau in 1988, created bouyon by fusing cadence-lypso and jing ping with electronic keyboards and drum machines. Other bands of the founding generation, like Roots, Stems and Branches (RSB) and First Serenade, carried the genre in its early days.",
+    "The band <a href=\"/en/wck.html\">WCK</a>, short for Windward Caribbean Kulture, formed in Roseau in 1986, created bouyon by fusing cadence-lypso and jing ping with electronic keyboards and drum machines. Other bands of the founding generation, like Roots, Stems and Branches (RSB) and First Serenade, carried the genre in its early days.",
   ),
   (
     "Why is Dominica the birthplace of bouyon?",
@@ -118,7 +118,7 @@ PAGES = [
   ),
   (
     "Why is Roseau the city of bouyon?",
-    "Because everything started there. The band WCK formed in Roseau, the capital of Dominica, in 1988. The city is also the centre of the island's carnival, Mas Domnik, where the audience tested, approved and carried the new music. Roseau still hosts the World Creole Music Festival every October. See <a href=\"/en/dominica-carnival.html\">Dominica Carnival</a>.",
+    "Because everything started there. The band WCK formed in Roseau, the capital of Dominica, in 1986. The city is also the centre of the island's carnival, Mas Domnik, where the audience tested, approved and carried the new music. Roseau still hosts the World Creole Music Festival every October. See <a href=\"/en/dominica-carnival.html\">Dominica Carnival</a>.",
   )
 ],
 },
@@ -369,7 +369,7 @@ PAGES = [
   ),
   (
     "Which country created bouyon?",
-    "Dominica, in the Caribbean, in the late 1980s, with WCK, formed in Roseau in 1988, as the pioneering band. WCK built the genre on technology, with keyboards up front, synthetic rhythmic patterns and electronic basses, while keeping the soul of the island's traditional instruments.",
+    "Dominica, in the Caribbean, in the late 1980s, with WCK, formed in Roseau in 1986, as the pioneering band. WCK built the genre on technology, with keyboards up front, synthetic rhythmic patterns and electronic basses, while keeping the soul of the island's traditional instruments.",
   ),
   (
     "What instruments are used in bouyon?",
@@ -493,7 +493,7 @@ PAGES = [
   ),
   (
     "Which country created bouyon?",
-    "Bouyon was born in Dominica, in the Caribbean, in the late 1980s. Its pioneering band, WCK (Windward Caribbean Kulture), formed in Roseau, the island's capital, in 1988, created it by fusing cadence-lypso and jing ping with electronic keyboards and drum machines.",
+    "Bouyon was born in Dominica, in the Caribbean, in the late 1980s. Its pioneering band, WCK (Windward Caribbean Kulture), formed in Roseau, the island's capital, in 1986, created it by fusing cadence-lypso and jing ping with electronic keyboards and drum machines.",
   ),
   (
     "What is cadence-lypso?",

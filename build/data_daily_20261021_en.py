@@ -230,10 +230,11 @@ PAGES = [
   "slug": "bouyon-glossary.html",
   "cat": "Bouyon guides",
   "nav": "Bouyon glossary",
-  "title": "Bouyon music: the bouyon glossary, riddim, jing ping and lapo kabwit",
+  "title": "Bouyon glossary: 58 bouyon music terms from A to Z",
   "desc": "Bouyon glossary: riddim, jing ping, lapo kabwit, chante mas, cadence-lypso, Kweyol, J'ouvert, Mas Domnik and Wrecketeng, the words of the genre explained simply.",
   "h1": "Bouyon glossary: the words of the genre, explained",
   "intro": "Bouyon speaks several languages at once: Dominica's Kweyol, the vocabulary of carnival, the words of producers and those of the genre's historians. This glossary explains, in plain language, the terms that return across this site: riddim, jing ping, lapo kabwit, chante mas, cadence-lypso and Wrecketeng, with a definition for each word that opened sources can verify.",
+  "date_modified": "2026-10-29",
   "date_published": "2026-10-21",
   "sections": [
    [
