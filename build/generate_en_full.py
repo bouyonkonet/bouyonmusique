@@ -263,7 +263,7 @@ def footer(page, same_cat):
   <div class="wrap cols">
     <div>
       <h4>BouyonMusique.com</h4>
-      <p>The guide to bouyon music in French and English: history, artists, dance, riddims and playlists. Published by Bouyon Shattaz. Quotes welcome with a link to the source page.</p>
+      <p>The guide to <a href="/en/">bouyon music</a> in French and English: history, artists, dance, riddims and playlists. Published by Bouyon Shattaz. Quotes welcome with a link to the source page.</p>
     </div>
     <div>
       <h4>{esc(page["cat"])}</h4>
@@ -511,7 +511,7 @@ def render(page):
     }, {
         "@type": "BreadcrumbList",
         "itemListElement": [
-            {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://bouyonmusique.com/en/"},
+            {"@type": "ListItem", "position": 1, "name": "Bouyon music", "item": "https://bouyonmusique.com/en/"},
             {"@type": "ListItem", "position": 2, "name": page["cat"], "item": "https://bouyonmusique.com/en/site-map.html"},
             {"@type": "ListItem", "position": 3, "name": page["nav"], "item": url},
         ],
@@ -607,7 +607,7 @@ def render(page):
 {HEADER}
 <main>
 <div class="wrap">
-<p class="breadcrumb"><a href="/en/">Home</a> / {esc(page["cat"])} / {esc(page["nav"])}</p>
+<p class="breadcrumb"><a href="/en/">Bouyon music</a> / {esc(page["cat"])} / {esc(page["nav"])}</p>
 <h1>{esc(page["h1"])}</h1>{date_html}
 <p class="lead">{page["intro"]}</p>
 {sections}{hub}
@@ -662,13 +662,13 @@ def main():
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="/style.css">
 <script type="application/ld+json">
-{{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://bouyonmusique.com/en/"}}, {{"@type": "ListItem", "position": 2, "name": "Site map", "item": "https://bouyonmusique.com/en/site-map.html"}}]}}
+{{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{{"@type": "ListItem", "position": 1, "name": "Bouyon music", "item": "https://bouyonmusique.com/en/"}}, {{"@type": "ListItem", "position": 2, "name": "Site map", "item": "https://bouyonmusique.com/en/site-map.html"}}]}}
 </script>
 </head>
 <body>
 {HEADER}
 <main><div class="wrap">
-<p class="breadcrumb"><a href="/en/">Home</a> / Site map</p>
+<p class="breadcrumb"><a href="/en/">Bouyon music</a> / Site map</p>
 <h1>Every bouyon topic on this site</h1>
 <p class="lead">BouyonMusique.com covers bouyon music from every angle: its styles, its places, its artists, its producers and its events.</p>
 <h2>Main pages</h2>
