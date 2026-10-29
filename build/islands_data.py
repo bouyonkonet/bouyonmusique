@@ -77,6 +77,14 @@ FROM['kn'] = FROM.get('kn', "") + " shanna-raymond"
 SCENE['gd'] += " blaka-dan"
 SCENE['bb'] += " ian-stylez"
 SCENE['vc'] += " shattah-ayow"
+# Wave 41 (2026-10-29)
+FROM['gp'] += " fowko mikty"
+FROM['dm'] += " major-mystic supalyne"
+FROM['tt'] += " college-boy-jesse"
+FROM['vc'] += " caspa-g"
+SCENE['vc'] += " kilogram"
+SCENE['mq'] = SCENE.get('mq', "") + " mad-general"
+SCENE['dm'] += " zone-rouge"
 FROM = {k: v.split() for k, v in FROM.items()}
 SCENE = {k: v.split() for k, v in SCENE.items()}
 

@@ -52,7 +52,7 @@ FR = {
   ("Est-ce un drum kit ?", "Non. C'est un riddim chanté par quatre artistes, pas une banque de sons de batterie.")
  ],
  "tracklist": [
-  {"artist": "Kilogram", "title": "Mischief", "date": "2021-07-06", "source": "https://www.youtube.com/watch?v=mruRLiI3jYA"},
+  {"artist": "Kilogram", "title": "Mischief", "date": "2021-07-06", "source": "https://www.youtube.com/watch?v=mruRLiI3jYA", "artist_slug": "kilogram.html"},
   {"artist": "Scarbz", "title": "Wikkid", "date": "2021-07-06", "source": "https://www.youtube.com/watch?v=T9FjUZgYZOI"},
   {"artist": "Jace", "title": "Ease Up (Outside)", "date": "2021-07-06", "source": "https://www.youtube.com/watch?v=KQS1eUAStnI"},
   {"artist": "Tandre", "title": "Start It", "date": "2021-07-06", "source": "https://www.youtube.com/watch?v=AhVEyrOyWEo"}
