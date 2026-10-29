@@ -89,6 +89,11 @@ SCENE['dm'] += " zone-rouge"
 FROM['dm'] += " frank-white jcro"
 FROM['ag'] += " kaution-band"
 SCENE['vc'] += " redz"
+# Wave 43 (2026-10-29)
+FROM['jm'] += " mr-vegas"
+FROM['dm'] += " deluxe-f"
+FROM['mf'] += " sick-tonez"
+SCENE['ag'] += " fucha-kid"
 FROM = {k: v.split() for k, v in FROM.items()}
 SCENE = {k: v.split() for k, v in SCENE.items()}
 
