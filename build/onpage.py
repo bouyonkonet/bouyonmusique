@@ -13,6 +13,7 @@ What it does on every page, in French and English, rerun-safe:
     and the same videos in the sitemaps as <video:video> entries.
   - A table of contents (jump links) before the first h2 when the page has 3 or more sections.
   - Skip link to #content, preconnect to i.ytimg.com, the facade click script.
+  - Publisher logo (ImageObject) on the Organization node.
   - Sitemap lastmod, WebPage dateModified and the visible "Updated" date follow the
     content: content_hashes.json remembers each page's main text, and a page whose
     text changed since the last build gets today's date.
@@ -27,6 +28,8 @@ BASE = "https://bouyonmusique.com"
 HASHES = os.path.join(os.path.dirname(os.path.abspath(__file__)), "content_hashes.json")
 TODAY = datetime.date.today().isoformat()
 TITLE_MAX, DESC_MAX, H1_MAX = 60, 155, 70
+# Publisher logo for the Organization node (Bouyon Shattaz runs the site).
+ORG_LOGO = {"@type": "ImageObject", "url": "https://bouyonshattaz.com/icons/icon-512.png", "width": 512, "height": 512}
 MONTHS_FR = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août", "septembre", "octobre", "novembre", "décembre"]
 MONTHS_EN = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
 TOC_SKIP = {"à lire aussi", "read next", "plus d'artistes bouyon", "more bouyon artists", "explorer cette rubrique",
@@ -335,6 +338,8 @@ def process(path, rel, hashes):
                     n["image"] = first_img[0]; changed = True
                 if videos and not has_video and not n.get("video"):
                     n["video"] = [{"@id": v["@id"]} for v in videos]; changed = True
+            if str(n.get("@id", "")).endswith("/#org") and "logo" not in n:
+                n["logo"] = dict(ORG_LOGO); changed = True
             if "MusicGroup" in ty and first_img and not n.get("image"):
                 n["image"] = first_img[0]; changed = True
             if "ProfilePage" in ty and isinstance(n.get("mainEntity"), dict) and "MusicGroup" in types(n["mainEntity"]) and first_img and not n["mainEntity"].get("image"):
