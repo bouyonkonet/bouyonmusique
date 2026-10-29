@@ -209,7 +209,7 @@ PAGES = [
 "title": "Bouyon Riddim : le rythme qui porte tout le genre",
 "desc": "Bouyon riddim : le rythme instrumental partagé sur lequel chantent les artistes bouyon, hérité de la culture riddim jamaïcaine. Explication et exemples.",
 "h1": "Bouyon riddim : un rythme, mille voix",
-"intro": "Dans le bouyon comme dans le dancehall, le riddim est le rythme instrumental sur lequel plusieurs artistes peuvent poser leur voix. Le bouyon riddim est la colonne vertébrale de la production moderne du genre.",
+"intro": "Dans le bouyon comme dans le dancehall, le riddim est le rythme instrumental sur lequel plusieurs artistes peuvent poser leur voix. Le bouyon riddim est la colonne vertébrale de la production moderne du genre. Pour retrouver qui a chanté sur quel riddim, consultez notre <a href=\"/liste-riddims-bouyon.html\">liste des riddims bouyon</a>, avec les titres vérifiés de chaque riddim.",
 "sections": [
 ("La culture du riddim", ["Un producteur sort un riddim, les artistes s’en emparent, le public choisit ses versions préférées. Les riddims bouyon portent souvent un nom, comme Tropical Riddim et Harley Riddim de Denmath, et deviennent des marques de fabrique. C’est un système créatif venu de la Jamaïque que la Dominique a fait sien."]),
 ("Pourquoi les riddims font les hits", ["Parce qu’un bon riddim concentre l’identité du moment : un tempo, une boucle, une énergie de danse. Les extraits de riddims que les producteurs dansent sur les réseaux sont devenus la première étape de lancement d’un titre bouyon."]),
