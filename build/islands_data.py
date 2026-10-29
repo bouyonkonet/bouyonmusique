@@ -85,6 +85,10 @@ FROM['vc'] += " caspa-g"
 SCENE['vc'] += " kilogram"
 SCENE['mq'] = SCENE.get('mq', "") + " mad-general"
 SCENE['dm'] += " zone-rouge"
+# Wave 42 (2026-10-29)
+FROM['dm'] += " frank-white jcro"
+FROM['ag'] += " kaution-band"
+SCENE['vc'] += " redz"
 FROM = {k: v.split() for k, v in FROM.items()}
 SCENE = {k: v.split() for k, v in SCENE.items()}
 
