@@ -22,7 +22,7 @@ PAGES = [
   ),
   (
     "Who created bouyon in Dominica?",
-    "Bouyon was created by <a href=\"/en/wck.html\">WCK</a> (Windward Caribbean Kulture), a band formed in Roseau, the capital of Dominica, in 1988. WCK fused cadence-lypso and jing ping with electronic keyboards and drum machines, and gave birth to the fast carnival sound now called bouyon.",
+    "Bouyon was created by <a href=\"/en/wck.html\">WCK</a> (Windward Caribbean Kulture), a band formed in Roseau, the capital of Dominica, in 1986. WCK fused cadence-lypso and jing ping with electronic keyboards and drum machines, and gave birth to the fast carnival sound now called bouyon.",
   ),
   (
     "Where can you hear bouyon in Dominica?",
@@ -80,7 +80,7 @@ PAGES = [
   ),
   (
     "Which country created bouyon?",
-    "Dominica. The genre was born in Roseau in the late 1980s, when the band WCK, formed in 1988, fused cadence-lypso with jing ping and traditional drums such as the lapo kabwit. It remains the sound of Roseau carnival, Mas Domnik.",
+    "Dominica. The genre was born in Roseau in the late 1980s, when the band WCK, formed in 1986, fused cadence-lypso with jing ping and traditional drums such as the lapo kabwit. It remains the sound of Roseau carnival, Mas Domnik.",
   ),
   (
     "What is bouyon gwada?",
@@ -154,7 +154,7 @@ PAGES = [
   ),
   (
     "Which country created bouyon?",
-    "Dominica. The genre was born there in the late 1980s, launched by the band WCK, formed in 1988 in Roseau, and it remains the sound of Roseau carnival. Martinique, which shares the Kwéyòl language and closely related carnival traditions with Dominica, adopted it under the name jump up.",
+    "Dominica. The genre was born there in the late 1980s, launched by the band WCK, formed in 1986 in Roseau, and it remains the sound of Roseau carnival. Martinique, which shares the Kwéyòl language and closely related carnival traditions with Dominica, adopted it under the name jump up.",
   ),
   (
     "Do shatta and bouyon come from Martinique?",
@@ -490,7 +490,7 @@ PAGES = [
   ),
   (
     "Which country created bouyon?",
-    "Dominica. The genre was born in Roseau in the late 1980s, when the band WCK, formed in 1988, fused cadence-lypso with jing ping and traditional drums such as the lapo kabwit. It remains the sound of Roseau carnival, Mas Domnik.",
+    "Dominica. The genre was born in Roseau in the late 1980s, when the band WCK, formed in 1986, fused cadence-lypso with jing ping and traditional drums such as the lapo kabwit. It remains the sound of Roseau carnival, Mas Domnik.",
   ),
   (
     "Is bouyon popular in Antigua?",

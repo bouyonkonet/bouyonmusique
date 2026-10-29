@@ -26,7 +26,7 @@ place("bouyon-dominique.html", "Bouyon en Dominique",
   ),
   (
     "Qui a créé le bouyon en Dominique ?",
-    "Le bouyon a été créé par <a href=\"/wck.html\">WCK</a> (Windward Caribbean Kulture), un groupe formé à Roseau, la capitale de la Dominique, en 1988. WCK a fusionné la cadence-lypso et le jing ping avec des claviers électroniques et des boîtes à rythmes, donnant naissance au son que l'on appelle bouyon.",
+    "Le bouyon a été créé par <a href=\"/wck.html\">WCK</a> (Windward Caribbean Kulture), un groupe formé à Roseau, la capitale de la Dominique, en 1986. WCK a fusionné la cadence-lypso et le jing ping avec des claviers électroniques et des boîtes à rythmes, donnant naissance au son que l'on appelle bouyon.",
   ),
   (
     "Où écouter du bouyon en Dominique ?",
@@ -78,7 +78,7 @@ place("bouyon-guadeloupe.html", "Bouyon en Guadeloupe",
   ),
   (
     "Quel pays a créé le bouyon ?",
-    "La Dominique. Le genre est né à Roseau à la fin des années 1980, quand le groupe WCK, formé en 1988, a fusionné la cadence-lypso avec le jing ping et les tambours traditionnels comme le lapo kabwit. Il reste le son du carnaval de Roseau, le Mas Domnik.",
+    "La Dominique. Le genre est né à Roseau à la fin des années 1980, quand le groupe WCK, formé en 1986, a fusionné la cadence-lypso avec le jing ping et les tambours traditionnels comme le lapo kabwit. Il reste le son du carnaval de Roseau, le Mas Domnik.",
   ),
   (
     "Qu'est-ce que le bouyon gwada ?",
@@ -146,7 +146,7 @@ place("bouyon-martinique.html", "Bouyon en Martinique",
   ),
   (
     "Quel pays a créé le bouyon ?",
-    "La Dominique. Le genre y est né à la fin des années 1980, lancé par le groupe WCK, formé en 1988 à Roseau, et il reste le son du carnaval de Roseau. La Martinique, qui partage avec la Dominique la langue kwéyòl et des traditions de carnaval proches, l'a adopté sous le nom de jump up.",
+    "La Dominique. Le genre y est né à la fin des années 1980, lancé par le groupe WCK, formé en 1986 à Roseau, et il reste le son du carnaval de Roseau. La Martinique, qui partage avec la Dominique la langue kwéyòl et des traditions de carnaval proches, l'a adopté sous le nom de jump up.",
   ),
   (
     "Le shatta et le bouyon viennent-ils de la Martinique ?",
@@ -446,7 +446,7 @@ place("bouyon-antigua.html", "Bouyon à Antigua",
   ),
   (
     "Quel pays a créé le bouyon ?",
-    "La Dominique. Le genre est né à Roseau à la fin des années 1980, quand le groupe WCK, formé en 1988, a fusionné la cadence-lypso avec le jing ping et les tambours traditionnels comme le lapo kabwit. Il reste le son du carnaval de Roseau, le Mas Domnik.",
+    "La Dominique. Le genre est né à Roseau à la fin des années 1980, quand le groupe WCK, formé en 1986, a fusionné la cadence-lypso avec le jing ping et les tambours traditionnels comme le lapo kabwit. Il reste le son du carnaval de Roseau, le Mas Domnik.",
   ),
   (
     "Le bouyon est-il populaire à Antigua ?",

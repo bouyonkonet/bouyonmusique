@@ -7,14 +7,14 @@ PAGES = [
   "cat": "Artistes bouyon",
   "nav": "WCK",
   "title": "WCK : Windward Caribbean Kulture, les créateurs du bouyon",
-  "desc": "WCK, Windward Caribbean Kulture, formé à Roseau en 1988 : le groupe qui a créé le bouyon en fusionnant cadence-lypso, jing ping et machines électroniques.",
+  "desc": "WCK, Windward Caribbean Kulture, formé à Roseau en 1986 : le groupe qui a créé le bouyon en fusionnant cadence-lypso, jing ping et machines électroniques.",
   "h1": "WCK : le groupe qui a créé le bouyon",
-  "intro": "WCK, pour Windward Caribbean Kulture, est le groupe fondateur du bouyon. Formé à Roseau, en Dominique, en 1988, il a créé un genre entier en fusionnant la cadence-lypso et le jing ping avec les claviers électroniques et les boîtes à rythmes. Tout ce que ce site raconte commence ici, avec WCK.",
+  "intro": "WCK, pour Windward Caribbean Kulture, est le groupe fondateur du bouyon. Formé à Roseau, en Dominique, en 1986, et fêtant ses 40 ans en 2026, il a créé un genre entier à la fin des années 1980 en fusionnant la cadence-lypso et le jing ping avec les claviers électroniques et les boîtes à rythmes. Tout ce que ce site raconte commence ici, avec WCK.",
   "sections": [
    [
     "Qui est WCK : un groupe de Roseau, une ambition caribéenne",
     [
-     "Le nom complet du groupe dit déjà son projet : Windward Caribbean Kulture, la culture des îles du Vent. WCK se forme à Roseau, la capitale de la Dominique, en 1988. Ce n’est pas un détail administratif : Roseau est le centre du carnaval de l’île, le Mas Domnik, le lieu des fêtes, des groupes et des publics qui vont tester, valider et porter la nouvelle musique. Un groupe qui naît à Roseau naît au coeur de la machine festive dominicaine.",
+     "Le nom complet du groupe dit déjà son projet : Windward Caribbean Kulture, la culture des îles du Vent. WCK se forme à Roseau, la capitale de la Dominique, en 1986. Ce n’est pas un détail administratif : Roseau est le centre du carnaval de l’île, le Mas Domnik, le lieu des fêtes, des groupes et des publics qui vont tester, valider et porter la nouvelle musique. Un groupe qui naît à Roseau naît au coeur de la machine festive dominicaine.",
      "WCK fait partie d’une génération fondatrice. Le dossier de ce site le place aux côtés d’autres groupes originaires du genre, comme Roots, Stems and Branches, connu sous le sigle RSB, et First Serenade. Ensemble, ces formations appartiennent au moment où la Dominique invente une musique nouvelle, plus rapide, plus électronique et plus directe que ce qui l’a précédée. Mais dans cette histoire, WCK occupe la place de référence : c’est le nom que l’on cite quand on veut expliquer d’où vient le bouyon, comment il sonne et pourquoi il porte ce nom.",
      "Dire que WCK est un groupe important serait donc faible. WCK est le point de référence de tout ce site. Bouyon Shattaz raconte le genre en partant de WCK et défend le crédit de l’origine dominicaine. Chaque page d’histoire, chaque playlist et chaque profil d’artiste de BouyonMusique.com renvoie, d’une manière ou d’une autre, à cette fondation de 1988. Sans WCK, il n’y a pas de bouyon à raconter, pas de bouyon gwada, pas de bouyon soca, pas de seconde vie du genre en France et sur les réseaux sociaux.",
      "Cette position explique le choix éditorial de ce profil : il ne s’agit pas seulement de présenter un groupe, mais de poser les bases du genre. Comprendre WCK, c’est comprendre la recette du bouyon, ses instruments, sa langue, son public et sa trajectoire, de Roseau aux Antilles françaises, puis vers la France et les plateformes d’aujourd’hui."
@@ -68,11 +68,12 @@ PAGES = [
   "faq": [
   (
     "Qui a créé le bouyon ?",
-    "Le bouyon a été créé par WCK, Windward Caribbean Kulture, un groupe formé à Roseau, en Dominique, en 1988. WCK a fusionné la cadence-lypso et le jing ping avec les claviers électroniques et les boîtes à rythmes. Dans les années 1990, ce son devient la musique du carnaval de Roseau, le Mas Domnik, et des fêtes de village. Voir notre <a href=\"/histoire.html\">histoire du bouyon</a>.",
+    "Le bouyon a été créé par WCK, Windward Caribbean Kulture, un groupe formé à Roseau, en Dominique, en 1986. WCK a fusionné la cadence-lypso et le jing ping avec les claviers électroniques et les boîtes à rythmes. Dans les années 1990, ce son devient la musique du carnaval de Roseau, le Mas Domnik, et des fêtes de village. Voir notre <a href=\"/histoire.html\">histoire du bouyon</a>.",
   ),
-  (
+  ("Quand WCK fête-t-il ses 40 ans ?", "En 2026, selon le groupe. Le lancement de WCK 40 a eu lieu le 26 octobre 2026 au Realm, à Roseau, annoncé par le bassiste Keith Goddard, avec un teaser du 40e anniversaire organisé par Jazz In The City et une année entière de célébrations prévue. Le groupe s'est donc formé en 1986, avant d'inventer le bouyon à la fin des années 1980 : son premier album, One More Sway, sort en 1988, l'année que beaucoup de sources publiées retiennent à tort comme celle de sa formation."),
+(
     "Que veut dire WCK ?",
-    "WCK signifie Windward Caribbean Kulture, la culture des îles du Vent. Le nom complet annonce le projet du groupe formé à Roseau, la capitale de la Dominique, en 1988 : une musique caribéenne nouvelle, construite avec des matériaux dominicains. Le sigle circule souvent seul, mais c’est bien ce groupe que l’on cite comme le créateur du bouyon.",
+    "WCK signifie Windward Caribbean Kulture, la culture des îles du Vent. Le nom complet annonce le projet du groupe formé à Roseau, la capitale de la Dominique, en 1986 : une musique caribéenne nouvelle, construite avec des matériaux dominicains. Le sigle circule souvent seul, mais c’est bien ce groupe que l’on cite comme le créateur du bouyon.",
   ),
   (
     "Que veut dire bouyon ?",
@@ -120,7 +121,7 @@ PAGES = [
      "@type": "MusicGroup",
      "@id": "https://bouyonmusique.com/wck.html#artist",
      "name": "WCK (Windward Caribbean Kulture)",
-     "description": "Groupe de Roseau formé en 1988, créateur du bouyon.",
+     "description": "Groupe de Roseau formé en 1986, créateur du bouyon.",
      "genre": "Bouyon",
      "foundingLocation": {
       "@type": "Place",
@@ -192,7 +193,7 @@ PAGES = [
     }
    }
   ],
-"date_modified": "2026-10-20"
+"date_modified": "2026-10-29"
  },
  {
   "slug": "asa-bantan.html",
@@ -8534,7 +8535,7 @@ PAGES = [
   ),
   (
     "Quels groupes ont fondé le bouyon en Dominique?",
-    "WCK est le groupe de référence, formé à Roseau en 1988. Le dossier de ce site le place dans une génération fondatrice aux côtés d’autres groupes originaires du genre, comme Roots, Stems and Branches, connu sous le sigle RSB, et First Serenade. Dans les années 1990, leur bouyon devient la musique du carnaval de Roseau et des fêtes de village. Voir <a href=\"/wck.html\">WCK</a>.",
+    "WCK est le groupe de référence, formé à Roseau en 1986. Le dossier de ce site le place dans une génération fondatrice aux côtés d’autres groupes originaires du genre, comme Roots, Stems and Branches, connu sous le sigle RSB, et First Serenade. Dans les années 1990, leur bouyon devient la musique du carnaval de Roseau et des fêtes de village. Voir <a href=\"/wck.html\">WCK</a>.",
   ),
   (
     "Quels artistes bouyon viennent de Grand Bay?",

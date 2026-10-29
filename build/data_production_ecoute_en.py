@@ -18,7 +18,7 @@ PAGES = [
     "Where the sounds come from: the Goodwill translation",
     [
       "In the Phillip family home in Goodwill, the boys played along with the traditional bands that their brother Daryl, a cultural officer, brought in to record. Cornell Phillip, who lived that scene, told it to Billboard: the boumboum, a hollowed wooden bwa kan, became the bass guitar; the syak and tambal, which are percussive instruments, became the drum machine; and the accordion turned into the keyboard.",
-      "That sentence is the best possible filing plan for a bouyon kit. Every family of modern sounds has an ancestor: the bass descends from the boumboum, the drum patterns from the syak and tambal, the keyboard loop from the jing ping accordion. When <a href=\"/en/wck.html\">WCK</a> formed in Roseau in 1988, the band fused cadence-lypso and jing ping with electronic keyboards and drum machines. The software producer repeats the same move today."
+      "That sentence is the best possible filing plan for a bouyon kit. Every family of modern sounds has an ancestor: the bass descends from the boumboum, the drum patterns from the syak and tambal, the keyboard loop from the jing ping accordion. When <a href=\"/en/wck.html\">WCK</a> formed in Roseau in 1986, the band fused cadence-lypso and jing ping with electronic keyboards and drum machines. The software producer repeats the same move today."
     ],
   ),
   (

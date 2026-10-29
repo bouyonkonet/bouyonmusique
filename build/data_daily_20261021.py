@@ -227,10 +227,11 @@ PAGES = [
   "slug": "glossaire-du-bouyon.html",
   "cat": "Guides bouyon",
   "nav": "Glossaire du bouyon",
-  "title": "Bouyon music : glossaire du bouyon, riddim, jing ping et lapo kabwit",
+  "title": "Glossaire du bouyon : 58 mots de la musique bouyon de A à Z",
   "desc": "Glossaire du bouyon : riddim, jing ping, lapo kabwit, chanté mas, cadence-lypso, kwéyòl, J'ouvert, Mas Domnik et Wrecketeng, les mots du genre expliqués simplement.",
   "h1": "Glossaire du bouyon : les mots du genre, expliqués",
   "intro": "Le bouyon parle plusieurs langues à la fois : le kwéyòl de la Dominique, le vocabulaire du carnaval, les mots des producteurs et ceux des historiens du genre. Ce glossaire explique simplement les termes qui reviennent partout sur ce site : riddim, jing ping, lapo kabwit, chanté mas, cadence-lypso et Wrecketeng, avec pour chaque mot la définition que les sources ouvertes permettent de vérifier.",
+  "date_modified": "2026-10-29",
   "date_published": "2026-10-21",
   "sections": [
    [

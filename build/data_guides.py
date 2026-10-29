@@ -8,13 +8,13 @@ PAGES = [
 "intro": "Le bouyon est un genre musical créé en Dominique, petite île des Caraïbes, à la fin des années 1980. C’est une musique de fête et de carnaval au tempo rapide, qui mélange les traditions dominicaines avec des claviers et des rythmes électroniques. En Guadeloupe et en Martinique, on l’appelle aussi jump up.",
 "sections": [
 ("La recette du bouyon", ["Prenez le jing ping, la musique traditionnelle dominicaine à l’accordéon. Ajoutez la cadence-lypso, le son dansant des années 1970. Mettez des rythmes de tambours traditionnels comme le lapo kabwit, des éléments de bèlè, de kwadril, de chanté mas et de mazurka, un peu de zouk, puis branchez des claviers électroniques et une boîte à rythmes. Vous obtenez le bouyon : en créole, le nom d’une soupe où tout se mélange."]),
-("Qui l’a créé et quand", ["Le bouyon a été créé par le groupe WCK, Windward Caribbean Kulture, formé en 1988 à Roseau, la capitale de la Dominique. Roots, Stems and Branches et First Serenade font partie des autres groupes originels. Dès les années 1990, le bouyon devient la musique dominante du carnaval dominicain."]),
+("Qui l’a créé et quand", ["Le bouyon a été créé par le groupe WCK, Windward Caribbean Kulture, formé en 1986 à Roseau, la capitale de la Dominique. Roots, Stems and Branches et First Serenade font partie des autres groupes originels. Dès les années 1990, le bouyon devient la musique dominante du carnaval dominicain."]),
 ("Comment reconnaître un titre bouyon", ["Un tempo rapide qui ne lâche pas, une boucle de clavier entêtante, une basse synthétique lourde, des percussions qui rappellent le tambour traditionnel, et une voix en créole ou en anglais qui parle au public plus qu’elle ne chante. Si le titre vous donne envie de sauter, vous êtes probablement sur du bouyon."]),
 ],
 "faq": [
   (
     "Le bouyon vient de quel pays ?",
-    "De la Dominique, île anglophone et créolophone des Caraïbes, à ne pas confondre avec la République dominicaine. Le genre y est né à la fin des années 1980 avec le groupe WCK, formé en 1988 à Roseau, la capitale. Dès les années 1990, il devient la musique dominante du carnaval dominicain.",
+    "De la Dominique, île anglophone et créolophone des Caraïbes, à ne pas confondre avec la République dominicaine. Le genre y est né à la fin des années 1980 avec le groupe WCK, formé en 1986 à Roseau, la capitale. Dès les années 1990, il devient la musique dominante du carnaval dominicain.",
   ),
   (
     "Que veut dire bouyon ?",
@@ -22,7 +22,7 @@ PAGES = [
   ),
   (
     "Qui a créé le bouyon ?",
-    "Le bouyon a été créé par le groupe WCK, Windward Caribbean Kulture, formé en 1988 à Roseau, la capitale de la Dominique. Roots, Stems and Branches et First Serenade font partie des autres groupes originels. Dès les années 1990, le bouyon devient la musique dominante du carnaval dominicain. Voir la page <a href=\"/wck.html\">WCK</a>.",
+    "Le bouyon a été créé par le groupe WCK, Windward Caribbean Kulture, formé en 1986 à Roseau, la capitale de la Dominique. Roots, Stems and Branches et First Serenade font partie des autres groupes originels. Dès les années 1990, le bouyon devient la musique dominante du carnaval dominicain. Voir la page <a href=\"/wck.html\">WCK</a>.",
   ),
   (
     "Comment reconnaître un morceau de bouyon ?",
@@ -86,7 +86,7 @@ PAGES = [
   ),
   (
     "Qui a créé le bouyon ?",
-    "Le groupe <a href=\"/wck.html\">WCK</a>, pour Windward Caribbean Kulture, formé à Roseau en 1988, a créé le bouyon en fusionnant la cadence-lypso et le jing ping avec les claviers électroniques et les boîtes à rythmes. D'autres groupes de la génération fondatrice, comme Roots, Stems and Branches (RSB) et First Serenade, ont porté le genre à ses débuts.",
+    "Le groupe <a href=\"/wck.html\">WCK</a>, pour Windward Caribbean Kulture, formé à Roseau en 1986, a créé le bouyon en fusionnant la cadence-lypso et le jing ping avec les claviers électroniques et les boîtes à rythmes. D'autres groupes de la génération fondatrice, comme Roots, Stems and Branches (RSB) et First Serenade, ont porté le genre à ses débuts.",
   ),
   (
     "Pourquoi la Dominique est-elle le berceau du bouyon ?",
@@ -118,7 +118,7 @@ PAGES = [
   ),
   (
     "Pourquoi Roseau est-elle la ville du bouyon ?",
-    "Parce que tout y a commencé. Le groupe WCK s'est formé à Roseau, la capitale de la Dominique, en 1988. La ville est aussi le centre du carnaval de l'île, le Mas Domnik, où le public a testé, validé et porté la nouvelle musique. Aujourd'hui encore, Roseau accueille chaque année en octobre le World Creole Music Festival. Voir le <a href=\"/carnaval-de-dominique.html\">carnaval de la Dominique</a>.",
+    "Parce que tout y a commencé. Le groupe WCK s'est formé à Roseau, la capitale de la Dominique, en 1986. La ville est aussi le centre du carnaval de l'île, le Mas Domnik, où le public a testé, validé et porté la nouvelle musique. Aujourd'hui encore, Roseau accueille chaque année en octobre le World Creole Music Festival. Voir le <a href=\"/carnaval-de-dominique.html\">carnaval de la Dominique</a>.",
   )
 ],
 },
@@ -493,7 +493,7 @@ PAGES = [
   ),
   (
     "Le bouyon vient de quel pays ?",
-    "Le bouyon est né en Dominique, dans les Caraïbes, à la fin des années 1980. Son groupe pionnier, WCK (Windward Caribbean Kulture), formé à Roseau en 1988, l'a créé en fusionnant la cadence-lypso et le jing ping avec des claviers électroniques et des boîtes à rythmes.",
+    "Le bouyon est né en Dominique, dans les Caraïbes, à la fin des années 1980. Son groupe pionnier, WCK (Windward Caribbean Kulture), formé à Roseau en 1986, l'a créé en fusionnant la cadence-lypso et le jing ping avec des claviers électroniques et des boîtes à rythmes.",
   ),
   (
     "Qu'est-ce que la cadence-lypso ?",

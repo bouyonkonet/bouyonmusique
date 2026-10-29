@@ -18,7 +18,7 @@ PAGES = [
     "D’où viennent les sons : la traduction de Goodwill",
     [
       "Dans la maison familiale des Phillip, à Goodwill, les garçons jouaient en accompagnement des groupes traditionnels que leur frère Daryl, officier culturel, venait enregistrer. Cornell Phillip, qui a vécu cette scène, l’a raconté à Billboard : le boumboum, un bwa kan évidé, est devenu la guitare basse ; le syak et le tambal, des instruments de percussion, sont devenus la boîte à rythmes ; et l’accordéon s’est transformé en clavier.",
-      "Cette phrase est le meilleur plan de rangement possible pour un kit bouyon. Chaque famille de sons modernes a un ancêtre : la basse descend du boumboum, les motifs de batterie du syak et du tambal, la boucle de clavier de l’accordéon du jing ping. Quand <a href=\"/wck.html\">WCK</a> se forme à Roseau en 1988, le groupe fusionne la cadence-lypso et le jing ping avec les claviers électroniques et les boîtes à rythmes. Le producteur sur logiciel refait aujourd’hui le même geste."
+      "Cette phrase est le meilleur plan de rangement possible pour un kit bouyon. Chaque famille de sons modernes a un ancêtre : la basse descend du boumboum, les motifs de batterie du syak et du tambal, la boucle de clavier de l’accordéon du jing ping. Quand <a href=\"/wck.html\">WCK</a> se forme à Roseau en 1986, le groupe fusionne la cadence-lypso et le jing ping avec les claviers électroniques et les boîtes à rythmes. Le producteur sur logiciel refait aujourd’hui le même geste."
     ],
   ),
   (
