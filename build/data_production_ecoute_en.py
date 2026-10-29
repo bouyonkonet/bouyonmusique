@@ -209,7 +209,7 @@ PAGES = [
 "title": "Bouyon Riddim: the rhythm that carries the whole genre",
 "desc": "Bouyon riddim: the shared instrumental rhythm that bouyon artists sing over, inherited from Jamaican and Dominican riddim culture. Explanation and examples.",
 "h1": "Bouyon riddim: one rhythm, a thousand voices",
-"intro": "In bouyon as in dancehall, the riddim is the instrumental rhythm over which several artists can lay their voice. The bouyon riddim is the backbone of the genre’s modern production.",
+"intro": "In bouyon as in dancehall, the riddim is the instrumental rhythm over which several artists can lay their voice. The bouyon riddim is the backbone of the genre’s modern production. To find who sang on which riddim, see our <a href=\"/en/bouyon-riddims-list.html\">bouyon riddims list</a>, with the verified songs on each riddim.",
 "sections": [
 ("Riddim culture", ["A producer releases a riddim, the artists seize it, the audience picks its favorite versions. Bouyon riddims often carry a name, like Denmath’s Tropical Riddim and Harley Riddim, and become trademarks. It is a creative system that came from Jamaica and that Dominica made its own."]),
 ("Why riddims make the hits", ["Because a good riddim concentrates the identity of the moment: a tempo, a loop, a dance energy. The riddim snippets that producers dance to on social media have become the first launch step of a bouyon track."]),
