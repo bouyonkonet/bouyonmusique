@@ -599,7 +599,7 @@ PAGES = [
   ),
   (
     "Where can I find bouyon instrumentals?",
-    "On the producers' own channels. MB On The Track releases instrumentals on YouTube titled Bouyon Instrumental 2026, such as \"Cigarettes\", \"Boyz N Girlz\" and \"Xo\", and Smokiller's smokiller.com hub also offers instrumentals alongside his downloadable remixes. To hear the vocal tracks of the moment, the <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix</a> gathers them on Spotify and YouTube.",
+    "On the producers' own channels. MB On The Track releases instrumentals on YouTube titled Bouyon Instrumental 2026, such as \"Cigarettes\", \"Boyz N Girlz\" and \"Xo\", and Smokiller's <a href=\"https://smokiller.com/smokiller-riddims\">smokiller.com</a> hub also offers instrumentals alongside his downloadable remixes. To hear the vocal tracks of the moment, the <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix</a> gathers them on Spotify and YouTube.",
   ),
   (
     "What is the difference between a bouyon instrumental and a bouyon type beat?",
