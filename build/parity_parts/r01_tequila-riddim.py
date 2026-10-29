@@ -58,8 +58,8 @@ FR = {
  ],
  "tracklist": [
   {"artist": "Rum Lawd", "title": "No Hole", "date": "2025-05-02", "source": "https://www.youtube.com/watch?v=jvw1oI3swfE", "artist_slug": "rum-lawd.html"},
-  {"artist": "Caspa G", "title": "Tight Wine", "date": "2025-05-02", "source": "https://www.youtube.com/watch?v=jENsxqsLB4k"},
-  {"artist": "Kilogram", "title": "Hardball", "date": "2025-05-02", "source": "https://www.youtube.com/watch?v=WWHjGUi5qz8"},
+  {"artist": "Caspa G", "title": "Tight Wine", "date": "2025-05-02", "source": "https://www.youtube.com/watch?v=jENsxqsLB4k", "artist_slug": "caspa-g.html"},
+  {"artist": "Kilogram", "title": "Hardball", "date": "2025-05-02", "source": "https://www.youtube.com/watch?v=WWHjGUi5qz8", "artist_slug": "kilogram.html"},
   {"artist": "101 Stunna", "title": "Hoe Stick", "date": "2025-05-02", "source": "https://www.youtube.com/watch?v=h0gLbYX9_NQ"},
   {"artist": "C4 De Crazyone", "title": "In De Back", "date": "2025-05-02", "source": "https://www.youtube.com/watch?v=8rOYwc1E0dU"},
   {"artist": "Deadly", "title": "Attitude", "date": "2025-05-02", "source": "https://www.youtube.com/watch?v=itUkwk6mcQw"}

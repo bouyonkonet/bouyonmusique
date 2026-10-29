@@ -67,7 +67,7 @@ FR = {
   {"artist": "Shelly", "title": "Burn Dem", "date": "2026-01-13", "source": "https://www.youtube.com/watch?v=rVTKzGncaFM", "artist_slug": "shelly.html"},
   {"artist": "XS Groove", "title": "Only You", "date": "2026-01-13", "source": "https://www.youtube.com/watch?v=_k9zHk2kvv8", "artist_slug": "xs-groove.html"},
   {"artist": "Sledge HammaH & Benja", "title": "Till Morning", "date": "2026-01-13", "source": "https://www.youtube.com/watch?v=Anbdze0OuRk"},
-  {"artist": "College Boy Jesse", "title": "Nocturnal Energy", "date": "2026-01-13", "source": "https://www.youtube.com/watch?v=DQgC01Y6AQs"},
+  {"artist": "College Boy Jesse", "title": "Nocturnal Energy", "date": "2026-01-13", "source": "https://www.youtube.com/watch?v=DQgC01Y6AQs", "artist_slug": "college-boy-jesse.html"},
   {"artist": "Blaka Dan", "title": "Forewarned", "date": "2026-01-22", "source": "https://www.youtube.com/watch?v=oPTRiNrNilA", "artist_slug": "blaka-dan.html"}
  ],
  "hub_meta": {"producer": "ProducerDlo et Hossi", "date": "2026-01-13"},
