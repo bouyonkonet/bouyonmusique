@@ -1,1610 +1,1613 @@
 {
-  "kenny-g-dominica": {
-    "require_verified_source": true,
-    "local_image": "build/source_images/kenny-g-dominica-instagram-Deol3LxBGWj.jpg",
-    "sha256": "41f6d77b8c5ba319864e3bb6cbf78160219e770c8a4376bef0ee0842eb33cade",
-    "revision": "ig-deol3lxb",
-    "source": {
-      "kind": "instagram",
-      "id": "Deol3LxBGWj",
-      "url": "https://www.instagram.com/kenny_g_for_life_767/p/Deol3LxBGWj/",
-      "title": "Rise and shine",
-      "channel": "@kenny_g_for_life_767"
-    }
-  },
-  "david-campana": {
-    "local_image": "build/source_images/david-campana-instagram-20261028.jpg",
-    "sha256": "f047e9f3d70fed8f1e3fb378c41f089589b7068e7b2929da507d611b404fd65d",
-    "revision": "ig-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "instagram",
-      "id": "dav.campana",
-      "url": "https://www.instagram.com/dav.campana/",
-      "title": "Instagram profile image",
-      "channel": "@dav.campana",
-      "image_type": "profile_image"
-    }
-  },
-  "gz-up": {
-    "local_image": "build/source_images/gz-up-instagram-20261028.jpg",
-    "sha256": "993d43d7304b137122a6e780814611ed121875d89cb96a84098557290f9ea723",
-    "revision": "ig-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "instagram",
-      "id": "gz_upp",
-      "url": "https://www.instagram.com/gz_upp/",
-      "title": "Instagram profile image",
-      "channel": "@gz_upp",
-      "image_type": "profile_image"
-    }
-  },
-  "hypno": {
-    "local_image": "build/source_images/hypno-instagram-20261028.jpg",
-    "sha256": "028b2f9d4d412c9ccc8501b3ea3cfdd0568471a0d784193c08ef1a275971d57b",
-    "revision": "ig-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "instagram",
-      "id": "hypnoticbeatz",
-      "url": "https://www.instagram.com/hypnoticbeatz/",
-      "title": "Instagram profile image",
-      "channel": "@hypnoticbeatz",
-      "image_type": "profile_image"
-    }
-  },
-  "kkrytical": {
-    "local_image": "build/source_images/kkrytical-instagram-20261028.jpg",
-    "sha256": "ade8e7636f0089edd248a0dbeebe7e0c8c8c1a31707782dac8df9118841127b1",
-    "revision": "ig-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "instagram",
-      "id": "kkryticalofficial",
-      "url": "https://www.instagram.com/kkryticalofficial/",
-      "title": "Instagram profile image",
-      "channel": "@kkryticalofficial",
-      "image_type": "profile_image"
-    }
-  },
-  "prod-bysavion": {
-    "local_image": "build/source_images/prod-bysavion-instagram-20261028.jpg",
-    "sha256": "cf9b7258643e3f7a7409b37c82e3b4b729423d839b9201471671407d87676429",
-    "revision": "ig-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "instagram",
-      "id": "prod.bysavion",
-      "url": "https://www.instagram.com/prod.bysavion/",
-      "title": "Instagram profile image",
-      "channel": "@prod.bysavion",
-      "image_type": "profile_image"
-    }
-  },
-  "ras-b": {
-    "local_image": "build/source_images/ras-b-instagram-20261028.jpg",
-    "sha256": "f28baf1d40f8fa46365e9093159351045d79e06abb24cab266df73f05ecdbad9",
-    "revision": "ig-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "instagram",
-      "id": "ras_b_4kdem",
-      "url": "https://www.instagram.com/ras_b_4kdem/",
-      "title": "Instagram profile image",
-      "channel": "@ras_b_4kdem",
-      "image_type": "profile_image"
-    }
-  },
-  "theomaa": {
-    "local_image": "build/source_images/theomaa-instagram-20261028.jpg",
-    "sha256": "e3fc7297557471efe8c32908e71ec535cbe6749c5d798c3bff027a33bc626d7a",
-    "revision": "ig-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "instagram",
-      "id": "13theomaa_",
-      "url": "https://www.instagram.com/13theomaa_/",
-      "title": "Instagram profile image",
-      "channel": "@13theomaa_",
-      "image_type": "profile_image"
-    }
-  },
-  "arendi": {
-    "local_image": "build/source_images/arendi-instagram-20261028.jpg",
-    "sha256": "3cc99d212e884cd177c88f1b7469ec590291ae01c33b26afe7276cf5c831fc34",
-    "revision": "ig-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "instagram",
-      "id": "arendi_971",
-      "url": "https://www.instagram.com/arendi_971/",
-      "title": "Instagram profile image",
-      "channel": "@arendi_971",
-      "image_type": "profile_image"
-    }
-  },
-  "bad-gyal-shyanne": {
-    "local_image": "build/source_images/bad-gyal-shyanne-instagram-20261028.jpg",
-    "sha256": "2a0e0210d3a0ef8a0df8d254af33492a01f907bbe59bddec27f86f683e4b549d",
-    "revision": "ig-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "instagram",
-      "id": "shyannevevo",
-      "url": "https://www.instagram.com/shyannevevo/",
-      "title": "Instagram profile image",
-      "channel": "@shyannevevo",
-      "image_type": "profile_image"
-    }
-  },
-  "beevo": {
-    "local_image": "build/source_images/beevo-instagram-20261028.jpg",
-    "sha256": "acba674d439a9cd5f580b72471f716b6f36653f77307879a8cb7da1c806504f0",
-    "revision": "ig-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "instagram",
-      "id": "beevo767",
-      "url": "https://www.instagram.com/beevo767/",
-      "title": "Instagram profile image",
-      "channel": "@beevo767",
-      "image_type": "profile_image"
-    }
-  },
-  "binksdrick": {
-    "local_image": "build/source_images/binksdrick-instagram-20261028.jpg",
-    "sha256": "de688d25acf87cbb2d6e485ff409956711565ddab21f1f85ca4131814b7e39f1",
-    "revision": "ig-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "instagram",
-      "id": "binksdrick",
-      "url": "https://www.instagram.com/binksdrick/",
-      "title": "Instagram profile image",
-      "channel": "@binksdrick",
-      "image_type": "profile_image"
-    }
-  },
-  "chioneso": {
-    "local_image": "build/source_images/chioneso-instagram-20261028.jpg",
-    "sha256": "fe09085721c5b08057043e1c060451b48759d0fc01d030d1405d976f1ad9fe44",
-    "revision": "ig-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "instagram",
-      "id": "chionesobakr",
-      "url": "https://www.instagram.com/chionesobakr/",
-      "title": "Instagram profile image",
-      "channel": "@chionesobakr",
-      "image_type": "profile_image"
-    }
-  },
-  "d4a-nillio": {
-    "local_image": "build/source_images/d4a-nillio-instagram-20261028.jpg",
-    "sha256": "d1bd5f1bd83a7b6b463b4e796446b93174f859d6e6cd301bb0edf313da27e492",
-    "revision": "ig-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "instagram",
-      "id": "d4anillio",
-      "url": "https://www.instagram.com/d4anillio/",
-      "title": "Instagram profile image",
-      "channel": "@d4anillio",
-      "image_type": "profile_image"
-    }
-  },
-  "lewismelo": {
-    "local_image": "build/source_images/lewismelo-instagram-20261028.jpg",
-    "sha256": "c0e2709c5d2e9840cea967e94ce9c93a30c01f22ecbad2715f3f2d7d1356334c",
-    "revision": "ig-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "instagram",
-      "id": "lewismelo971",
-      "url": "https://www.instagram.com/lewismelo971/",
-      "title": "Instagram profile image",
-      "channel": "@lewismelo971",
-      "image_type": "profile_image"
-    }
-  },
-  "deejay-guyguy": {
-    "local_image": "build/source_images/deejay-guyguy-instagram-20261028.jpg",
-    "sha256": "ab071a0ea8a8baff6a15cdd9ccc797628df5b569c40e5e4d18f9673295e19479",
-    "revision": "ig-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "instagram",
-      "id": "deejay_guyguy97",
-      "url": "https://www.instagram.com/deejay_guyguy97/",
-      "title": "Instagram profile image",
-      "channel": "@deejay_guyguy97",
-      "image_type": "profile_image"
-    }
-  },
-  "dernel-green": {
-    "local_image": "build/source_images/dernel-green-instagram-20261028.jpg",
-    "sha256": "b80b43994a97e0c30bba05b78ca9047b1598f646f19cc75e43adff255bf59ac8",
-    "revision": "ig-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "instagram",
-      "id": "dernz.wav",
-      "url": "https://www.instagram.com/dernz.wav/",
-      "title": "Instagram profile image",
-      "channel": "@dernz.wav",
-      "image_type": "profile_image"
-    }
-  },
-  "dinho": {
-    "local_image": "build/source_images/dinho-instagram-20261028.jpg",
-    "sha256": "2bfe5dce6e1081dcffc46aab115da04ee0db93709d79861d5262044826ac2d84",
-    "revision": "ig-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "instagram",
-      "id": "don_dinho18",
-      "url": "https://www.instagram.com/don_dinho18/",
-      "title": "Instagram profile image",
-      "channel": "@don_dinho18",
-      "image_type": "profile_image"
-    }
-  },
-  "sandy-boo": {
-    "local_image": "build/source_images/sandy-boo-youtube-gqEXwAi62mM.jpg",
-    "sha256": "38d97c218a843e0e782075e599bbc16fdd3c104a0060e2c6df3fcbbe8d598b6b",
-    "revision": "yt-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "youtube",
-      "id": "gqEXwAi62mM",
-      "url": "https://www.youtube.com/watch?v=gqEXwAi62mM",
-      "title": "Sticky ft Sandy Boo - Creole cé ca (Bouyon)",
-      "channel": "STICKY ( Ghost-town)",
-      "quality": "maxresdefault"
-    }
-  },
-  "lyrical-k": {
-    "local_image": "build/source_images/lyrical-k-youtube-HGEWJPWwXyU.jpg",
-    "sha256": "245517f18d115e7ed6770787603dd582835977b5848019afb58260acb2f2fc57",
-    "revision": "yt-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "youtube",
-      "id": "HGEWJPWwXyU",
-      "url": "https://www.youtube.com/watch?v=HGEWJPWwXyU",
-      "title": "Lyrical-k Naughty (Bouyon 2027)",
-      "channel": "Lyrical-k music",
-      "quality": "maxresdefault"
-    }
-  },
-  "viv-beats": {
-    "local_image": "build/source_images/viv-beats-youtube-MTer0QucA18.jpg",
-    "sha256": "aba3439dd9df7a5709d93e9a40f79a03a9f2312e7971310e75a843d827d4e750",
-    "revision": "yt-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "youtube",
-      "id": "MTer0QucA18",
-      "url": "https://www.youtube.com/watch?v=MTer0QucA18",
-      "title": "Pablo (Bouyon Instrumental) | VIV Beats",
-      "channel": "VIV Beats",
-      "quality": "maxresdefault"
-    }
-  },
-  "deejay-twix": {
-    "local_image": "build/source_images/deejay-twix-youtube-_39PqtpGIYI.jpg",
-    "sha256": "a89ab3e46e6ffbafa6a4930bea7bbc76ba39484414e6da3c21c58c575975444e",
-    "revision": "yt-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "youtube",
-      "id": "_39PqtpGIYI",
-      "url": "https://www.youtube.com/watch?v=_39PqtpGIYI",
-      "title": "Valiant - Time Capsule (bouyon remix) prod by deejay twix",
-      "channel": "deejay twix",
-      "quality": "maxresdefault"
-    }
-  },
-  "skrazy": {
-    "local_image": "build/source_images/skrazy-youtube-axvKShycoq4.jpg",
-    "sha256": "493597cbd4cc1079c78816ec881166546b4ae825373b76df446ff643d65ed10f",
-    "revision": "yt-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "youtube",
-      "id": "axvKShycoq4",
-      "url": "https://www.youtube.com/watch?v=axvKShycoq4",
-      "title": "Skrazy, Dboss, & Ras B - Come Here [Official Visualizer] (Bouyon 2027)",
-      "channel": "DJTaffy Tha Riddim Beast",
-      "quality": "maxresdefault"
-    }
-  },
-  "dboss": {
-    "local_image": "build/source_images/dboss-youtube-axvKShycoq4.jpg",
-    "sha256": "493597cbd4cc1079c78816ec881166546b4ae825373b76df446ff643d65ed10f",
-    "revision": "yt-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "youtube",
-      "id": "axvKShycoq4",
-      "url": "https://www.youtube.com/watch?v=axvKShycoq4",
-      "title": "Skrazy, Dboss, & Ras B - Come Here [Official Visualizer] (Bouyon 2027)",
-      "channel": "DJTaffy Tha Riddim Beast",
-      "quality": "maxresdefault"
-    }
-  },
-  "t-c": {
-    "local_image": "build/source_images/t-c-youtube-iZ46ZrJN_NE.jpg",
-    "sha256": "ce73d76d9ae446b10a019bb00ba370740400b47f908354efcdcf70da1ffa5ab1",
-    "revision": "yt-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "youtube",
-      "id": "iZ46ZrJN_NE",
-      "url": "https://www.youtube.com/watch?v=iZ46ZrJN_NE",
-      "title": "DR Eevil,T.C AND Sticky – We Trippy (Bouyon)",
-      "channel": "Dr Eevil",
-      "quality": "maxresdefault"
-    }
-  },
-  "mystrie": {
-    "local_image": "build/source_images/mystrie-youtube-GgJPZ5xt0P0.jpg",
-    "sha256": "55a4e2641bd42ff6857e5c4259b49a7f5f525df8bb09619b7bc9bdecb9f7c90c",
-    "revision": "yt-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "youtube",
-      "id": "GgJPZ5xt0P0",
-      "url": "https://www.youtube.com/watch?v=GgJPZ5xt0P0",
-      "title": "Lapawol (Full Musical Video) by Mystrie. Bouyon 2026.",
-      "channel": "Mystrie",
-      "quality": "maxresdefault"
-    }
-  },
-  "marf": {
-    "local_image": "build/source_images/marf-youtube-XLksT_Lwzi8.jpg",
-    "sha256": "5ce5b62de3e3b7469b0611c793cf15c015f5bc677111aa21cf737bd9c2e6a7f3",
-    "revision": "yt-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "youtube",
-      "id": "XLksT_Lwzi8",
-      "url": "https://www.youtube.com/watch?v=XLksT_Lwzi8",
-      "title": "Marf - Pa Ka Sanm [Bouyon 2026 Audio]",
-      "channel": "Marf de Maldonia",
-      "quality": "maxresdefault"
-    }
-  },
-  "tazzo-thaboss": {
-    "local_image": "build/source_images/tazzo-thaboss-youtube-mhw-yKxTYoY.jpg",
-    "sha256": "ec8c53ca977ecde2aa1a82c5cf0999ddddb8e54a4066823bb47f049228b39e57",
-    "revision": "yt-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "youtube",
-      "id": "mhw-yKxTYoY",
-      "url": "https://www.youtube.com/watch?v=mhw-yKxTYoY",
-      "title": "TAZZO THABO$$ -  GLIZZY SPRAY (1ST \"BOUYON DRILL\" EVER)",
-      "channel": "TAZZO ENTERTAINMENT$",
-      "quality": "maxresdefault"
-    }
-  },
-  "nfl-lil-brent": {
-    "local_image": "build/source_images/nfl-lil-brent-youtube-K21z0-V_Nio.jpg",
-    "sha256": "1719ee8fbebdc9060835a2dfb97e6a1b887afb58ae49af8915d9278d0e08502d",
-    "revision": "yt-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "youtube",
-      "id": "K21z0-V_Nio",
-      "url": "https://www.youtube.com/watch?v=K21z0-V_Nio",
-      "title": "NFL Lil Brent -  I Cheating | Bouyon",
-      "channel": "NFL LIL BRENT",
-      "quality": "maxresdefault"
-    }
-  },
-  "risingsun": {
-    "local_image": "build/source_images/risingsun-youtube-B7kPpB-hkEo.jpg",
-    "sha256": "75d3fab998a21bbf7c56691e0b33ffdc5cdc267703de0b28936b44dee5e0f177",
-    "revision": "yt-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "youtube",
-      "id": "B7kPpB-hkEo",
-      "url": "https://www.youtube.com/watch?v=B7kPpB-hkEo",
-      "title": "Lyrical-k selfish Ft. risingsun ",
-      "channel": "Lyrical-k music",
-      "quality": "maxresdefault"
-    }
-  },
-  "dcamp-lewismelo": {
-    "local_image": "build/source_images/dcamp-lewismelo-youtube-wEl7GmCMkpw.jpg",
-    "sha256": "f67ce7d7c2547a3f3dcff0b3263b47d73c71b1962023a3eeaf1a3816fab7717c",
-    "revision": "yt-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "youtube",
-      "id": "wEl7GmCMkpw",
-      "url": "https://www.youtube.com/watch?v=wEl7GmCMkpw",
-      "title": "YOU AND ME - Dcamp & Lewismelo & Admiral T",
-      "channel": "Dcamp",
-      "quality": "maxresdefault"
-    }
-  },
-  "chief": {
-    "local_image": "build/source_images/chief-youtube-6qkcVbRNq2c.jpg",
-    "sha256": "d424a9decb45a1e38b082343ac781b835c7a2348fdefbefc0bfb18e8f6c3140a",
-    "revision": "yt-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "youtube",
-      "id": "6qkcVbRNq2c",
-      "url": "https://www.youtube.com/watch?v=6qkcVbRNq2c",
-      "title": "Chief- Strictly Bouyon  2027",
-      "channel": "CHIEF BOUYON",
-      "quality": "sddefault"
-    }
-  },
-  "sticky": {
-    "local_image": "build/source_images/sticky-youtube-iZ46ZrJN_NE.jpg",
-    "sha256": "ce73d76d9ae446b10a019bb00ba370740400b47f908354efcdcf70da1ffa5ab1",
-    "revision": "yt-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "youtube",
-      "id": "iZ46ZrJN_NE",
-      "url": "https://www.youtube.com/watch?v=iZ46ZrJN_NE",
-      "title": "DR Eevil,T.C AND Sticky – We Trippy (Bouyon)",
-      "channel": "Dr Eevil",
-      "quality": "maxresdefault"
-    }
-  },
-  "baps": {
-    "local_image": "build/source_images/baps-youtube-xc14aaQ4SOA.jpg",
-    "sha256": "b29a68477cbdfcacac13033dd3b91bca833f3a62e6a0533591e520a4964b0ffe",
-    "revision": "yt-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "youtube",
-      "id": "xc14aaQ4SOA",
-      "url": "https://www.youtube.com/watch?v=xc14aaQ4SOA",
-      "title": "Dj Wizz767 x Baps! - Diamond Boy (Bouyon Remix) || Bouyon 2026",
-      "channel": "Dj Wizz767",
-      "quality": "maxresdefault"
-    }
-  },
-  "c4": {
-    "local_image": "build/source_images/c4-release-20261028.jpg",
-    "sha256": "00a4d9e6f0d4da2c7c80168036ac6eee177ee7ad30724e95ddbeaf7d5c986e01",
-    "revision": "release-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "release",
-      "id": "track/4323990132",
-      "url": "https://www.deezer.com/track/4323990132",
-      "title": "Cashin Out Warmup (feat. C4)",
-      "channel": "BRG Hollywood, C4",
-      "image_type": "release_artwork"
-    }
-  },
-  "benji": {
-    "local_image": "build/source_images/benji-press-20261028.jpg",
-    "sha256": "18c5321f3ed2ccb0b9f6a75bc6b19ccecd61373cb94bcade4b627eebe45dc35e",
-    "revision": "press-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "press",
-      "id": "benji-wcmf-2013",
-      "url": "https://sundominica.com/articles/wcmf-tickets-hot-spot-dwive-sale-week-end-585/",
-      "title": "Benji of Triple Kay, WCMF ticket event (2013)",
-      "channel": "The Sun Dominica"
-    }
-  },
-  "dj-demafidem": {
-    "local_image": "build/source_images/dj-demafidem-instagram-20261028.jpg",
-    "sha256": "20d4940b385287277defcfbfef84f23a49491a5f5db1ba15c2e265af6c954661",
-    "revision": "ig-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "instagram",
-      "id": "djdemafidem",
-      "url": "https://www.instagram.com/djdemafidem/",
-      "title": "Instagram profile image",
-      "channel": "@djdemafidem",
-      "image_type": "profile_image"
-    }
-  },
-  "dj-joe": {
-    "local_image": "build/source_images/dj-joe-instagram-20261028.jpg",
-    "sha256": "de78f4585c310c87798c981f65a673e2b1776a05cc808316cbe55da9e90574b6",
-    "revision": "ig-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "instagram",
-      "id": "djjoe_767",
-      "url": "https://www.instagram.com/djjoe_767/",
-      "title": "Instagram profile image",
-      "channel": "@djjoe_767",
-      "image_type": "profile_image"
-    }
-  },
-  "don-lash": {
-    "local_image": "build/source_images/don-lash-instagram-20261028.jpg",
-    "sha256": "3305ad56e44333bb2a0ca22c33b3be8ac50ae93bd72c7e7ad5c38efadd0f3528",
-    "revision": "ig-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "instagram",
-      "id": "1donlash767",
-      "url": "https://www.instagram.com/1donlash767/",
-      "title": "Instagram profile image",
-      "channel": "@1donlash767",
-      "image_type": "profile_image"
-    }
-  },
-  "dova": {
-    "local_image": "build/source_images/dova-instagram-20261028.jpg",
-    "sha256": "3c86ee796d59fedcbb86581c4220e5845f1eacc11adc12cbb759d3fb021014cc",
-    "revision": "ig-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "instagram",
-      "id": "dovamorespeed",
-      "url": "https://www.instagram.com/dovamorespeed/",
-      "title": "Instagram profile image",
-      "channel": "@dovamorespeed",
-      "image_type": "profile_image"
-    }
-  },
-  "first-serenade-band": {
-    "local_image": "build/source_images/first-serenade-band-instagram-20261028.jpg",
-    "sha256": "7971d770057ad0354c6f76a5e11a68656f912bd396e994e09fe6d3379e67a22e",
-    "revision": "ig-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "instagram",
-      "id": "firstserenadeband",
-      "url": "https://www.instagram.com/firstserenadeband/",
-      "title": "Instagram profile image",
-      "channel": "@firstserenadeband",
-      "image_type": "profile_image"
-    }
-  },
-  "foxy-jael": {
-    "local_image": "build/source_images/foxy-jael-instagram-20261028.jpg",
-    "sha256": "b0f72fc45e485ff11492bc6e2e4ff4018794876c3ccf148c0df3ca3c33545c02",
-    "revision": "ig-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "instagram",
-      "id": "jaeljoseph",
-      "url": "https://www.instagram.com/jaeljoseph/",
-      "title": "Instagram profile image",
-      "channel": "@jaeljoseph",
-      "image_type": "profile_image"
-    }
-  },
-  "fr3eze": {
-    "local_image": "build/source_images/fr3eze-instagram-20261028.jpg",
-    "sha256": "6cafee215361a4c9007be3c1fdb02f4e693529ed8878043c7c926063d780940d",
-    "revision": "ig-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "instagram",
-      "id": "fr3eze3x",
-      "url": "https://www.instagram.com/fr3eze3x/",
-      "title": "Instagram profile image",
-      "channel": "@fr3eze3x",
-      "image_type": "profile_image"
-    }
-  },
-  "freddy": {
-    "local_image": "build/source_images/freddy-instagram-20261028.jpg",
-    "sha256": "e4ad86e7ea01d59662ec29eb28a005742f8f6ea3bde633310a6155e4b6708af4",
-    "revision": "ig-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "instagram",
-      "id": "ready4freddy_official",
-      "url": "https://www.instagram.com/ready4freddy_official/",
-      "title": "Instagram profile image",
-      "channel": "@ready4freddy_official",
-      "image_type": "profile_image"
-    }
-  },
-  "haterz-be": {
-    "local_image": "build/source_images/haterz-be-instagram-20261028.jpg",
-    "sha256": "ac43e3924fa642c247262eb1ad663921705087472bd49a1690fdc92a84e2d8e7",
-    "revision": "ig-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "instagram",
-      "id": "htb_dooli",
-      "url": "https://www.instagram.com/htb_dooli/",
-      "title": "Instagram profile image",
-      "channel": "@htb_dooli",
-      "image_type": "profile_image"
-    }
-  },
-  "hussey": {
-    "local_image": "build/source_images/hussey-instagram-20261028.jpg",
-    "sha256": "90502570fee0f70d8788aca8741e6b76092f7bfff1a41403507954627a88139a",
-    "revision": "ig-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "instagram",
-      "id": "73rd_official_hussey",
-      "url": "https://www.instagram.com/73rd_official_hussey/",
-      "title": "Instagram profile image",
-      "channel": "@73rd_official_hussey",
-      "image_type": "profile_image"
-    }
-  },
-  "kassidje": {
-    "local_image": "build/source_images/kassidje-instagram-20261028.jpg",
-    "sha256": "5da7ff7add20299d1ad280dcfbb91ee6120e70d7f5cc30ecac00fc6424a122ea",
-    "revision": "ig-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "instagram",
-      "id": "kassidje_gazagirl",
-      "url": "https://www.instagram.com/kassidje_gazagirl/",
-      "title": "Instagram profile image",
-      "channel": "@kassidje_gazagirl",
-      "image_type": "profile_image"
-    }
-  },
-  "killa-laurent": {
-    "local_image": "build/source_images/killa-laurent-instagram-20261028.jpg",
-    "sha256": "7bc56d17a40b56a92b866126464f3eb48d9af824a0179d350216c74ca11b735e",
-    "revision": "ig-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "instagram",
-      "id": "kendel_killer_laurent",
-      "url": "https://www.instagram.com/kendel_killer_laurent/",
-      "title": "Instagram profile image",
-      "channel": "@kendel_killer_laurent",
-      "image_type": "profile_image"
-    }
-  },
-  "kwib-la-beats": {
-    "local_image": "build/source_images/kwib-la-beats-instagram-20261028.jpg",
-    "sha256": "c5fc34e08011fa2325711818eb63af45d9e5f6707c5fd7091ec1fcd1a26bc416",
-    "revision": "ig-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "instagram",
-      "id": "kwiblahlc",
-      "url": "https://www.instagram.com/kwiblahlc/",
-      "title": "Instagram profile image",
-      "channel": "@kwiblahlc",
-      "image_type": "profile_image"
-    }
-  },
-  "a-plus-musik": {
-    "local_image": "build/source_images/a-plus-musik-instagram-20261028.jpg",
-    "sha256": "f23c1fd4490655d4ba5b41ef672cf05620c31f9fd06641b492ebf5b269e5b78c",
-    "revision": "ig-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "instagram",
-      "id": "aplusmuzik1",
-      "url": "https://www.instagram.com/aplusmuzik1/",
-      "title": "Instagram profile image",
-      "channel": "@aplusmuzik1",
-      "image_type": "profile_image"
-    }
-  },
-  "d-mitri": {
-    "local_image": "build/source_images/d-mitri-instagram-20261028.jpg",
-    "sha256": "0da40bb5a5fc65697d33bb43d33f1e1a22015b143517ef40403d80dbb3a36a02",
-    "revision": "ig-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "instagram",
-      "id": "dmitribts",
-      "url": "https://www.instagram.com/dmitribts/",
-      "title": "Instagram profile image",
-      "channel": "@dmitribts",
-      "image_type": "profile_image"
-    }
-  },
-  "le-daah": {
-    "local_image": "build/source_images/le-daah-instagram-20261028.jpg",
-    "sha256": "652009e6ba4d7233649f778a77738b7e7981dda3479167ec1993eeaf0fcf5ba1",
-    "revision": "ig-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "instagram",
-      "id": "le_daaah",
-      "url": "https://www.instagram.com/le_daaah/",
-      "title": "Instagram profile image",
-      "channel": "@le_daaah",
-      "image_type": "profile_image"
-    }
-  },
-  "lunik": {
-    "local_image": "build/source_images/lunik-instagram-20261028.jpg",
-    "sha256": "f04ea1b805368a0eaf65a50f4b6f826033b1becc2b71ac0c917bfff0784a321b",
-    "revision": "ig-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "instagram",
-      "id": "lunik_tbts",
-      "url": "https://www.instagram.com/lunik_tbts/",
-      "title": "Instagram profile image",
-      "channel": "@lunik_tbts",
-      "image_type": "profile_image"
-    }
-  },
-  "nice": {
-    "local_image": "build/source_images/nice-instagram-20261028.jpg",
-    "sha256": "04a59d370d821c79a8e87aa57b4ee2fe0a0e2272afb195abcd1b026b58b67eae",
-    "revision": "ig-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "instagram",
-      "id": "o.f.f.i.c.i.a.l_n.i.c.e",
-      "url": "https://www.instagram.com/o.f.f.i.c.i.a.l_n.i.c.e/",
-      "title": "Instagram profile image",
-      "channel": "@o.f.f.i.c.i.a.l_n.i.c.e",
-      "image_type": "profile_image"
-    }
-  },
-  "pa-pel": {
-    "local_image": "build/source_images/pa-pel-instagram-20261028.jpg",
-    "sha256": "d1a3dca2063fc28f3301f0dc1e6a5bc94c117336a8104a99b54367b455a845c1",
-    "revision": "ig-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "instagram",
-      "id": "pa._.pel",
-      "url": "https://www.instagram.com/pa._.pel/",
-      "title": "Instagram profile image",
-      "channel": "@pa._.pel",
-      "image_type": "profile_image"
-    }
-  },
-  "rudy-rush": {
-    "local_image": "build/source_images/rudy-rush-instagram-20261028.jpg",
-    "sha256": "a8ca2db06e7d6783562600b46650e68c99e1042476be48e64b513262a6ef6623",
-    "revision": "ig-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "instagram",
-      "id": "iamrudyrush",
-      "url": "https://www.instagram.com/iamrudyrush/",
-      "title": "Instagram profile image",
-      "channel": "@iamrudyrush",
-      "image_type": "profile_image"
-    }
-  },
-  "lgc": {
-    "local_image": "build/source_images/lgc-instagram-20261028.jpg",
-    "sha256": "6f80a971809baa95304e59c21256fa42472c29024f748adcf46c1bdea8429471",
-    "revision": "ig-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "instagram",
-      "id": "la_lgc",
-      "url": "https://www.instagram.com/la_lgc/",
-      "title": "Instagram profile image",
-      "channel": "@la_lgc",
-      "image_type": "profile_image"
-    }
-  },
-  "marshee": {
-    "local_image": "build/source_images/marshee-instagram-20261028.jpg",
-    "sha256": "118215b46756451e2016ad43b03afbd6aea1b460e18e862b1b464875ca21365f",
-    "revision": "ig-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "instagram",
-      "id": "marshee_official",
-      "url": "https://www.instagram.com/marshee_official/",
-      "title": "Instagram profile image",
-      "channel": "@marshee_official",
-      "image_type": "profile_image"
-    }
-  },
-  "xs-groove": {
-    "local_image": "build/source_images/xs-groove-instagram-20261028.jpg",
-    "sha256": "2947477061370c86d000660d610958de85b184d42f9ad232aac2c1ebe36e2e5d",
-    "revision": "ig-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "instagram",
-      "id": "xsgroove",
-      "url": "https://www.instagram.com/xsgroove/",
-      "title": "Instagram profile image",
-      "channel": "@xsgroove",
-      "image_type": "profile_image"
-    }
-  },
-  "zwady": {
-    "local_image": "build/source_images/zwady-instagram-20261028.jpg",
-    "sha256": "3ad7eec6f68348b15fe0e5b6c518ef8e194bb9b6e9187408920427da1c2d9378",
-    "revision": "ig-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "instagram",
-      "id": "zwadymusic",
-      "url": "https://www.instagram.com/zwadymusic/",
-      "title": "Instagram profile image",
-      "channel": "@zwadymusic",
-      "image_type": "profile_image"
-    }
-  },
-  "supatronic": {
-    "local_image": "build/source_images/supatronic-instagram-20261028.jpg",
-    "sha256": "c490e0a7cf23912390cff6eb61bb5ca2d05c7a5e93b66b2b7fb28ff66cc58409",
-    "revision": "ig-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "instagram",
-      "id": "supatronic",
-      "url": "https://www.instagram.com/supatronic/",
-      "title": "Instagram profile image",
-      "channel": "@supatronic",
-      "image_type": "profile_image"
-    }
-  },
-  "scarnx": {
-    "local_image": "build/source_images/scarnx-instagram-20261028.jpg",
-    "sha256": "ee270d15f26a857249fae60b765e8a454d5a948e554c090e7a192edfc0b2c9af",
-    "revision": "ig-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "instagram",
-      "id": "produced_by_scarnx",
-      "url": "https://www.instagram.com/produced_by_scarnx/",
-      "title": "Instagram profile image",
-      "channel": "@produced_by_scarnx",
-      "image_type": "profile_image"
-    }
-  },
-  "stratvincybwoy": {
-    "local_image": "build/source_images/stratvincybwoy-instagram-20261028.jpg",
-    "sha256": "ff522dffe00cf1f3f7d22edf428d49d0f2aaa927b74dee595328f41988b410a4",
-    "revision": "ig-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "instagram",
-      "id": "stratvincybwoy",
-      "url": "https://www.instagram.com/stratvincybwoy/",
-      "title": "Instagram profile image",
-      "channel": "@stratvincybwoy",
-      "image_type": "profile_image"
-    }
-  },
-  "yuniikbeatz": {
-    "local_image": "build/source_images/yuniikbeatz-instagram-20261028.jpg",
-    "sha256": "b5dc69ed37ed175841a14f6d9921a9df5218387f1cee3e719f4ddf7cd59f1847",
-    "revision": "ig-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "instagram",
-      "id": "yuniik.cbl",
-      "url": "https://www.instagram.com/yuniik.cbl/",
-      "title": "Instagram profile image",
-      "channel": "@yuniik.cbl",
-      "image_type": "profile_image"
-    }
-  },
-  "tha-wizzard": {
-    "local_image": "build/source_images/tha-wizzard-instagram-20261028.jpg",
-    "sha256": "7dfe490ee3d48579991899527d670f13cf666c2c2b02d7b9ba33bd61777f3c22",
-    "revision": "ig-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "instagram",
-      "id": "thaawizzard",
-      "url": "https://www.instagram.com/thaawizzard/",
-      "title": "Instagram profile image",
-      "channel": "@thaawizzard",
-      "image_type": "profile_image"
-    }
-  },
-  "trev-li": {
-    "local_image": "build/source_images/trev-li-instagram-20261028.jpg",
-    "sha256": "b5c2c51827229fa9cc02e172af2c7f31cbba14fc3f2052f5faa90a34dcf39430",
-    "revision": "ig-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "instagram",
-      "id": "trev.li",
-      "url": "https://www.instagram.com/trev.li/",
-      "title": "Instagram profile image",
-      "channel": "@trev.li",
-      "image_type": "profile_image"
-    }
-  },
-  "triszy": {
-    "local_image": "build/source_images/triszy-instagram-20261028.jpg",
-    "sha256": "f1b31e6eb03c4d46cd9c3beeb3196124b71705a27333bcc21e569b68edc8fe30",
-    "revision": "ig-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "instagram",
-      "id": "triszytrisz",
-      "url": "https://www.instagram.com/triszytrisz/",
-      "title": "Instagram profile image",
-      "channel": "@triszytrisz",
-      "image_type": "profile_image"
-    }
-  },
-  "boy-freeze": {
-    "local_image": "build/source_images/fr3eze-instagram-20261028.jpg",
-    "sha256": "6cafee215361a4c9007be3c1fdb02f4e693529ed8878043c7c926063d780940d",
-    "revision": "ig-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "instagram",
-      "id": "fr3eze3x",
-      "url": "https://www.instagram.com/fr3eze3x/",
-      "title": "Instagram profile image",
-      "channel": "@fr3eze3x",
-      "image_type": "profile_image"
-    }
-  },
-  "bernard-gumbs-wizito": {
-    "local_image": "build/source_images/bernard-gumbs-wizito-release-20261028.jpg",
-    "sha256": "0719616c54f1abde9a0bf368fb96ab51b49725e803ff2e727e2713f552e3d2f5",
-    "revision": "release-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "release",
-      "id": "track/3391280671",
-      "url": "https://www.deezer.com/track/3391280671",
-      "title": "Deli",
-      "channel": "Wizito",
-      "image_type": "release_artwork"
-    }
-  },
-  "dj-skylone": {
-    "local_image": "build/source_images/dj-skylone-release-20261028.jpg",
-    "sha256": "40cb9f38b554343f1f6da9171ea8d105271eefd50bc882a98dbd3fce89ebf10f",
-    "revision": "release-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "release",
-      "id": "track/4083049241",
-      "url": "https://www.deezer.com/track/4083049241",
-      "title": "Ou Ja Vley (feat. Dj Skaylone)",
-      "channel": "Wawane04, Dj Skaylone",
-      "image_type": "release_artwork"
-    }
-  },
-  "keytzone": {
-    "local_image": "build/source_images/keytzone-release-20261028.jpg",
-    "sha256": "c8fb7504210e5a4f0c6fc2c059e07c0b6efc46cb6cde3caf7d700a036c04d010",
-    "revision": "release-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "release",
-      "id": "track/2304556255",
-      "url": "https://www.deezer.com/track/2304556255",
-      "title": "Bouwéy",
-      "channel": "Yellow Gaza, Keytzone, Tasmo",
-      "image_type": "release_artwork"
-    }
-  },
-  "tasmo": {
-    "local_image": "build/source_images/tasmo-release-20261028.jpg",
-    "sha256": "c8fb7504210e5a4f0c6fc2c059e07c0b6efc46cb6cde3caf7d700a036c04d010",
-    "revision": "release-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "release",
-      "id": "track/2304556255",
-      "url": "https://www.deezer.com/track/2304556255",
-      "title": "Bouwéy",
-      "channel": "Yellow Gaza, Keytzone, Tasmo",
-      "image_type": "release_artwork"
-    }
-  },
-  "litleboy-lsbeats767": {
-    "local_image": "build/source_images/litleboy-lsbeats767-release-20261028.jpg",
-    "sha256": "ba64e261338d4da37e23dfc88d06e651dba614419c95edcadd9528640202e85c",
-    "revision": "release-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "release",
-      "id": "album/611995142",
-      "url": "https://www.deezer.com/album/611995142",
-      "title": "Someone Else (feat. Quan & Trilla-G)",
-      "channel": "Litleboy, Quan, Trilla-G",
-      "image_type": "release_artwork"
-    }
-  },
-  "quan": {
-    "local_image": "build/source_images/quan-release-20261028.jpg",
-    "sha256": "ba64e261338d4da37e23dfc88d06e651dba614419c95edcadd9528640202e85c",
-    "revision": "release-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "release",
-      "id": "album/611995142",
-      "url": "https://www.deezer.com/album/611995142",
-      "title": "Someone Else (feat. Quan & Trilla-G)",
-      "channel": "Litleboy, Quan, Trilla-G",
-      "image_type": "release_artwork"
-    }
-  },
-  "thesmsgirls": {
-    "local_image": "build/source_images/thesmsgirls-release-20261028.jpg",
-    "sha256": "d247cd2c6b316b534b9cab39983375acef43d97ad137d1abb2db79ab69b9de16",
-    "revision": "release-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "release",
-      "id": "track/4204483012",
-      "url": "https://www.deezer.com/track/4204483012",
-      "title": "Stop It (Freestyle)",
-      "channel": "Thesmsgirls, Honey",
-      "image_type": "release_artwork"
-    }
-  },
-  "luky-lukee": {
-    "local_image": "build/source_images/luky-lukee-instagram-20261028.jpg",
-    "sha256": "9cc0b534a198f48e0592dbc0d8bc0d34e48617f85cbd00a331133fcef41ad75a",
-    "revision": "ig-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "instagram",
-      "id": "lucky11off",
-      "url": "https://www.instagram.com/lucky11off/",
-      "title": "Instagram profile image",
-      "channel": "@lucky11off",
-      "image_type": "profile_image"
-    }
-  },
-  "young-ob": {
-    "local_image": "build/source_images/young-ob-release-20261028.jpg",
-    "sha256": "3d507b06f6d7cfa14b438073392e0338c78661b96ca8741f101d2f8d02aa3b1b",
-    "revision": "release-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "release",
-      "id": "track/3752133492",
-      "url": "https://www.deezer.com/track/3752133492",
-      "title": "Storybook Riddim Freestyle (feat. Young Ob) (Bouyon Version)",
-      "channel": "D4A Nillio, Young OB",
-      "image_type": "release_artwork"
-    }
-  },
-  "fireman-lee": {
-    "local_image": "build/source_images/fireman-lee-release-20261028.jpg",
-    "sha256": "34417cd8ce438e668c8a04ebfca98ba05076662ddde965e91f33f4d93d71bb78",
-    "revision": "release-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "release",
-      "id": "track/2939094311",
-      "url": "https://www.deezer.com/track/2939094311",
-      "title": "Down Deh (feat. Zwady & Fireman Lee)",
-      "channel": "Producerdlo, Savion Beats, Zwady, Fireman Lee",
-      "image_type": "release_artwork"
-    }
-  },
-  "mr-boka": {
-    "local_image": "build/source_images/mr-boka-release-20261028.jpg",
-    "sha256": "2a69b51a4a9bb4ddefeb68d4c60fba51ce2774b0fd87b7273c22f71c8d89ce5a",
-    "revision": "release-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "release",
-      "id": "track/1413228842",
-      "url": "https://www.deezer.com/track/1413228842",
-      "title": "Sa Ka Débodé",
-      "channel": "Bilix, Mr Boka",
-      "image_type": "release_artwork"
-    }
-  },
-  "dj-weez": {
-    "local_image": "build/source_images/dj-weez-release-20261028.jpg",
-    "sha256": "2a69b51a4a9bb4ddefeb68d4c60fba51ce2774b0fd87b7273c22f71c8d89ce5a",
-    "revision": "release-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "release",
-      "id": "track/1413228842",
-      "url": "https://www.deezer.com/track/1413228842",
-      "title": "Sa Ka Débodé",
-      "channel": "Bilix, Mr Boka",
-      "image_type": "release_artwork"
-    }
-  },
-  "ti-locksee": {
-    "local_image": "build/source_images/ti-locksee-release-20261028.jpg",
-    "sha256": "fecc0b1a7d115d4164045f33b587071a4688a4c87856da28e3e51a66e50b9e22",
-    "revision": "release-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "release",
-      "id": "track/1810496727",
-      "url": "https://www.deezer.com/track/1810496727",
-      "title": "Sexuelle Attirance",
-      "channel": "MA6MO, Ti locksée",
-      "image_type": "release_artwork"
-    }
-  },
-  "le-rebelle": {
-    "local_image": "build/source_images/le-rebelle-release-20261028.jpg",
-    "sha256": "a6d620904d9d5aa3708e6b46dfee4d618a6da1a05a4511e920c96bff24b621d5",
-    "revision": "release-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "release",
-      "id": "track/1528246952",
-      "url": "https://www.deezer.com/track/1528246952",
-      "title": "Acteur Porno",
-      "channel": "Le Rebelle",
-      "image_type": "release_artwork"
-    }
-  },
-  "youry-fleming": {
-    "local_image": "build/source_images/youry-fleming-release-20261028.jpg",
-    "sha256": "8cc3ef507c3de5c9d52f8b92ef6ab554cce2563fa566e33e8add984abab9a9be",
-    "revision": "release-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "release",
-      "id": "track/1282840132",
-      "url": "https://www.deezer.com/track/1282840132",
-      "title": "Lucy Lucy",
-      "channel": "Youry",
-      "image_type": "release_artwork"
-    }
-  },
-  "sukie": {
-    "local_image": "build/source_images/sukie-release-20261028.jpg",
-    "sha256": "faff4d7448dea97c82859ef9151b6f02821bfb8def154dca8a250c0a5666d99d",
-    "revision": "release-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "release",
-      "id": "track/3676754192",
-      "url": "https://www.deezer.com/track/3676754192",
-      "title": "Say My Name",
-      "channel": "Keks Mafia, Sukie Burn Brain",
-      "image_type": "release_artwork"
-    }
-  },
-  "letin-severine": {
-    "local_image": "build/source_images/letin-severine-release-20261028.jpg",
-    "sha256": "6e9e6a0434efb43d9b22b0701fe4276164fd0be3a2ccb109ec5a03f53bf850f9",
-    "revision": "release-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "release",
-      "id": "track/1994225657",
-      "url": "https://www.deezer.com/track/1994225657",
-      "title": "Vole Nonm A Moun",
-      "channel": "Yellow Gaza",
-      "image_type": "release_artwork"
-    }
-  },
-  "letin-sylia": {
-    "local_image": "build/source_images/letin-sylia-release-20261028.jpg",
-    "sha256": "6e9e6a0434efb43d9b22b0701fe4276164fd0be3a2ccb109ec5a03f53bf850f9",
-    "revision": "release-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "release",
-      "id": "track/1994225657",
-      "url": "https://www.deezer.com/track/1994225657",
-      "title": "Vole Nonm A Moun",
-      "channel": "Yellow Gaza",
-      "image_type": "release_artwork"
-    }
-  },
-  "corane-vincent": {
-    "local_image": "build/source_images/corane-vincent-release-20261028.jpg",
-    "sha256": "b4fdb083b2d09959d31b4abac79780ba780b3c4d2a289e4018f074683400a113",
-    "revision": "release-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "release",
-      "id": "track/2624941932",
-      "url": "https://www.deezer.com/track/2624941932",
-      "title": "CHABIN (feat. LESTEF & EDDAY)",
-      "channel": "DJ Luchshiy, LeStef, Edday",
-      "image_type": "release_artwork"
-    }
-  },
-  "brian-lomba": {
-    "local_image": "build/source_images/brian-lomba-release-20261028.jpg",
-    "sha256": "abde25d36ba65a8f4e7c9c83b20dd3d82a5f677a68343f3a092263c27dbf212c",
-    "revision": "release-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "release",
-      "id": "track/2930454141",
-      "url": "https://www.deezer.com/track/2930454141",
-      "title": "Ti bébé",
-      "channel": "Pinpin OSP",
-      "image_type": "release_artwork"
-    }
-  },
-  "yojoshii": {
-    "local_image": "build/source_images/yojoshii-release-20261028.jpg",
-    "sha256": "bf8323ff1427661305e41b4000ab23393a19fa209b9e0ec0bc2df81b1648ac0a",
-    "revision": "release-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "release",
-      "id": "track/4342342752",
-      "url": "https://www.deezer.com/track/4342342752",
-      "title": "See U",
-      "channel": "Pinpin OSP",
-      "image_type": "release_artwork"
-    }
-  },
-  "trixx": {
-    "local_image": "build/source_images/trixx-release-20261028.jpg",
-    "sha256": "37e8ad8a12e26bbb26ed2d507af42199b174810b2ed77834be6ecf538c988654",
-    "revision": "release-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "release",
-      "id": "album/794913351",
-      "url": "https://www.deezer.com/album/794913351",
-      "title": "Nasty Freestyle Medley (feat. Gwada G, Trixx, Freddy & Nice)",
-      "channel": "Litleboy, Gwada G, Trixx, Freddy, Nice",
-      "image_type": "release_artwork"
-    }
-  },
-  "bonna": {
-    "local_image": "build/source_images/bonna-instagram-20261028.jpg",
-    "sha256": "80458d030008b0b2e589691de07f44dab9ae81737cb020d8741d3129aa9b8a61",
-    "revision": "ig-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "instagram",
-      "id": "bonna_nasa",
-      "url": "https://www.instagram.com/bonna_nasa/",
-      "title": "Instagram profile image",
-      "channel": "@bonna_nasa",
-      "image_type": "profile_image"
-    }
-  },
-  "suppa": {
-    "local_image": "build/source_images/suppa-youtube-SOJh4PHOWpI.jpg",
-    "sha256": "6a222beec9b8b7586793c005d4848c1cd51fd31640caf24c45342601f771adfa",
-    "revision": "yt-sojh4phowpi",
-    "require_verified_source": true,
-    "source": {
-      "kind": "youtube",
-      "id": "SOJh4PHOWpI",
-      "url": "https://www.youtube.com/watch?v=SOJh4PHOWpI",
-      "title": "Suppa feat Ti CHô Ghetto Princess _ Never Stop Di Bouyon",
-      "channel": "KING BOUYON (BOUYON HIT PARADE)",
-      "quality": "maxresdefault"
-    }
-  },
-  "pryhmex": {
-    "local_image": "build/source_images/pryhmex-youtube-eq-pesLqvY8.jpg",
-    "sha256": "429df5699a71838a833c68071e1fe597f7cc273689aa6c2b3f700984b18c7fd1",
-    "revision": "yt-eq-peslqvy8",
-    "require_verified_source": true,
-    "source": {
-      "kind": "youtube",
-      "id": "eq-pesLqvY8",
-      "url": "https://www.youtube.com/watch?v=eq-pesLqvY8",
-      "title": "Up Next Bouyon Cypher, Vol 1. (Trilla-G ft. G'z Up, Ras B, Avatar Omish, Don Lash, Pa Pel, Pryhmex)",
-      "channel": "Trilla-G",
-      "quality": "maxresdefault"
-    }
-  },
-  "xavvoknockin": {
-    "local_image": "build/source_images/xavvoknockin-youtube-Il4mV4sTSj8.jpg",
-    "sha256": "89dbe1b861d5af5caadbc8bb956f410f47b04f8f929107072f3e08546499237f",
-    "revision": "yt-il4mv4stsj8",
-    "require_verified_source": true,
-    "source": {
-      "kind": "youtube",
-      "id": "Il4mV4sTSj8",
-      "url": "https://www.youtube.com/watch?v=Il4mV4sTSj8",
-      "title": "Knock knock - Redpunchdrip, VIRTUOSE & Xavvoknockin - (Bouyon 2026)",
-      "channel": "Knockin Records",
-      "quality": "maxresdefault"
-    }
-  },
-  "r-b-m": {
-    "local_image": "build/source_images/r-b-m-release-20261028.jpg",
-    "sha256": "f63fd4a0adf06820281a9004f1fa0a63b6e08169023b2feb433caa23d8411d25",
-    "revision": "release-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "release",
-      "id": "album/87523392",
-      "url": "https://www.deezer.com/album/87523392",
-      "title": "Champion Riddim",
-      "channel": "R.B.M",
-      "image_type": "release_artwork"
-    }
-  },
-  "daddy-chess": {
-    "local_image": "build/source_images/daddy-chess-release-20261028.jpg",
-    "sha256": "f63fd4a0adf06820281a9004f1fa0a63b6e08169023b2feb433caa23d8411d25",
-    "revision": "release-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "release",
-      "id": "album/87523392",
-      "url": "https://www.deezer.com/album/87523392",
-      "title": "Champion Riddim",
-      "channel": "R.B.M",
-      "image_type": "release_artwork"
-    }
-  },
-  "dada": {
-    "local_image": "build/source_images/dada-release-20261028.jpg",
-    "sha256": "f862aa63ee474613389fe45d418d88614dfad858cd28b894b72202e6e1d77d95",
-    "revision": "release-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "release",
-      "id": "track/2005447437",
-      "url": "https://www.deezer.com/track/2005447437",
-      "title": "Famalay",
-      "channel": "Skinny Fabulous",
-      "image_type": "release_artwork"
-    }
-  },
-  "vador": {
-    "local_image": "build/source_images/vador-release-20261028.jpg",
-    "sha256": "bd6616794e1aedffaa76126fbbb5a253b3ed51313c2b0737f812b7fade11bda1",
-    "revision": "release-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "release",
-      "id": "track/3611861112",
-      "url": "https://www.deezer.com/track/3611861112",
-      "title": "LEVRETTE",
-      "channel": "Yellow Gaza Girls",
-      "image_type": "release_artwork"
-    }
-  },
-  "nils": {
-    "local_image": "build/source_images/nils-release-20261028.jpg",
-    "sha256": "456c5470f44b6a5868b2db15e91f22ecb007a8f64c880b87d411a2e7580f8090",
-    "revision": "release-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "release",
-      "id": "1741012920",
-      "url": "https://music.apple.com/us/album/chodo-single/1741012920",
-      "title": "Chodo",
-      "channel": "Nils",
-      "image_type": "release_artwork"
-    }
-  },
-  "laka": {
-    "local_image": "build/source_images/laka-release-20261028.jpg",
-    "sha256": "eea4642366c7d81d746940e1fcc089e8bf8529e4d2053d08ce6cc71d796bd256",
-    "revision": "release-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "release",
-      "id": "1717306016",
-      "url": "https://music.apple.com/us/album/baise-moi-feat-riko-le-bluff-tgx-billy-bybf-pixou-le/1717306016",
-      "title": "BAISE-MOI",
-      "channel": "Laka",
-      "image_type": "release_artwork"
-    }
-  },
-  "nicolas-macbeth": {
-    "local_image": "build/source_images/nicolas-macbeth-release-20261028.jpg",
-    "sha256": "eea4642366c7d81d746940e1fcc089e8bf8529e4d2053d08ce6cc71d796bd256",
-    "revision": "release-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "release",
-      "id": "1717306016",
-      "url": "https://music.apple.com/us/album/baise-moi-feat-riko-le-bluff-tgx-billy-bybf-pixou-le/1717306016",
-      "title": "BAISE-MOI",
-      "channel": "Laka",
-      "image_type": "release_artwork"
-    }
-  },
-  "dj-cut": {
-    "local_image": "build/source_images/dj-cut-instagram-20261028.jpg",
-    "sha256": "de0d3fa565c07669408e10461c803e7ae82b275cda6e46852c80558f74fb38e5",
-    "revision": "ig-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "instagram",
-      "id": "bucktowndjcut",
-      "url": "https://www.instagram.com/bucktowndjcut/",
-      "title": "Instagram profile image",
-      "channel": "@bucktowndjcut",
-      "image_type": "profile_image"
-    }
-  },
-  "le-det": {
-    "local_image": "build/source_images/le-det-verified-20261028.jpg",
-    "sha256": "cb9fc55c3f5e001b59f76a8cae0e00ce81a22a8f447ea7e7a2eb542539f1e6bf",
-    "revision": "verified-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "release",
-      "id": "1695239247",
-      "url": "https://music.apple.com/us/album/bouw%C3%A9y/1695239247?i=1695239248&uo=4",
-      "title": "Bouwé'y",
-      "channel": "Le Det",
-      "image_type": "release_artwork"
-    }
-  },
-  "sweet-ticky": {
-    "local_image": "build/source_images/sweet-ticky-verified-20261028.jpg",
-    "sha256": "3e2d1c5eb76c49d8133b7ef40a0d949cf7434ff349846567d94efd225772ec68",
-    "revision": "verified-20261028",
-    "require_verified_source": true,
-    "source": {
-      "kind": "website",
-      "id": "tk-band-2025",
-      "url": "https://triplekayinternational.com/about-us/",
-      "title": "TK International group photo, the band of vocalist Lennan “Ticky” Matthew",
-      "channel": "TK International official website",
-      "image_type": "group_photo"
-    }
-  },
-  "mr-delly": {
-    "local_image": "build/source_images/mr-delly-youtube-UCSOoaZ2sBk.jpg",
-    "sha256": "fb4a9900c272ede7f1941667f6a39baa5c5ddb37536e628592c7ae14f39422db",
-    "revision": "yt-ucsooaz2sbk",
-    "require_verified_source": true,
-    "source": {
-      "kind": "youtube",
-      "id": "UCSOoaZ2sBk",
-      "url": "https://www.youtube.com/watch?v=UCSOoaZ2sBk",
-      "title": "Mr Delly x Likkle Man - How De Band Playing",
-      "channel": "Mr Delly",
-      "quality": "maxresdefault"
-    }
-  },
-  "earlson-matthew": {
-    "local_image": "build/source_images/earlson-matthew-youtube-UCSOoaZ2sBk.jpg",
-    "sha256": "fb4a9900c272ede7f1941667f6a39baa5c5ddb37536e628592c7ae14f39422db",
-    "revision": "yt-ucsooaz2sbk",
-    "require_verified_source": true,
-    "source": {
-      "kind": "youtube",
-      "id": "UCSOoaZ2sBk",
-      "url": "https://www.youtube.com/watch?v=UCSOoaZ2sBk",
-      "title": "Mr Delly x Likkle Man - How De Band Playing",
-      "channel": "Mr Delly",
-      "quality": "maxresdefault"
-    }
-  },
-  "ignition-band": {
-    "local_image": "build/source_images/ignition-band-youtube-FvqY756QO7I.jpg",
-    "sha256": "cf89e586a1d225b849bbf6cf3bbb1c6149ee292b8f2f1f6de124dd0a83e528d6",
-    "revision": "yt-fvqy756qo7i",
-    "require_verified_source": true,
-    "source": {
-      "kind": "youtube",
-      "id": "FvqY756QO7I",
-      "url": "https://www.youtube.com/watch?v=FvqY756QO7I",
-      "title": "IGNITION FT ERWINCHY- MALKASE  4.0 EDITION",
-      "channel": "IGNITION BAND",
-      "quality": "sddefault"
-    }
-  },
-  "erwinchy": {
-    "local_image": "build/source_images/erwinchy-youtube-FvqY756QO7I.jpg",
-    "sha256": "cf89e586a1d225b849bbf6cf3bbb1c6149ee292b8f2f1f6de124dd0a83e528d6",
-    "revision": "yt-fvqy756qo7i",
-    "require_verified_source": true,
-    "source": {
-      "kind": "youtube",
-      "id": "FvqY756QO7I",
-      "url": "https://www.youtube.com/watch?v=FvqY756QO7I",
-      "title": "IGNITION FT ERWINCHY- MALKASE  4.0 EDITION",
-      "channel": "IGNITION BAND",
-      "quality": "sddefault"
-    }
-  },
-  "derek-rah-peters": {
-    "local_image": "build/source_images/derek-rah-peters-youtube-BPXjqgD-jQA.jpg",
-    "sha256": "2151ee33230baab6e432800f1c5d8cb50e09a835381e55cfce39cea521041c5b",
-    "revision": "yt-bpxjqgd-jqa",
-    "require_verified_source": true,
-    "source": {
-      "kind": "youtube",
-      "id": "BPXjqgD-jQA",
-      "url": "https://www.youtube.com/watch?v=BPXjqgD-jQA",
-      "title": "Derick \"Rah\" Peters",
-      "channel": "Commonwealth of Dominica Cultural Division",
-      "quality": "sddefault"
-    }
-  },
-  "ncore": {
-    "local_image": "build/source_images/ncore-youtube-_NSDUi40znU.jpg",
-    "sha256": "c7c76b4593344a8d2e2865c095acf5dd47371ae50d2e195f499271b40d874cd1",
-    "revision": "yt-_nsdui40znu",
-    "require_verified_source": true,
-    "source": {
-      "kind": "youtube",
-      "id": "_NSDUi40znU",
-      "url": "https://www.youtube.com/watch?v=_NSDUi40znU",
-      "title": "Riddim Live - MFR Band",
-      "channel": "shomariSM",
-      "quality": "sddefault"
-    }
-  },
-  "bushtown-clan": {
-    "local_image": "build/source_images/bushtown-clan-youtube-YyK0L3LwU_E.jpg",
-    "sha256": "d9859aec71d1ceeb6ef8483bbd511e32ded77a37a792af1b9aa71042cc16584f",
-    "revision": "yt-yyk0l3lwu_e",
-    "require_verified_source": true,
-    "source": {
-      "kind": "youtube",
-      "id": "YyK0L3LwU_E",
-      "url": "https://www.youtube.com/watch?v=YyK0L3LwU_E",
-      "title": "bushtown clan - make a move & who wha test",
-      "channel": "mashupah99",
-      "quality": "hqdefault"
-    }
-  },
-  "nursery-krew-inc": {
-    "local_image": "build/source_images/nursery-krew-inc-youtube-b7oEn3KjAPs.jpg",
-    "sha256": "7da0162e1091fbcb8d2b8f3dd4cdb9cbd6b0022135d51fd29df5da422dea495a",
-    "revision": "yt-b7oen3kjaps",
-    "require_verified_source": true,
-    "source": {
-      "kind": "youtube",
-      "id": "b7oEn3KjAPs",
-      "url": "https://www.youtube.com/watch?v=b7oEn3KjAPs",
-      "title": "Doss2 - Charlie Black x BurnBrain: The Nursery Krew That Shook the Bouyon World",
-      "channel": "smokiller",
-      "quality": "maxresdefault"
-    }
-  },
-  "klockerz-krew": {
-    "local_image": "build/source_images/klockerz-krew-youtube-Y3Nb7TLHQhQ.jpg",
-    "sha256": "5756aca202f30cb7f87918db6be25e763c0255942f11a859d58f1243b5cad480",
-    "revision": "yt-y3nb7tlhqhq",
-    "require_verified_source": true,
-    "source": {
-      "kind": "youtube",
-      "id": "Y3Nb7TLHQhQ",
-      "url": "https://www.youtube.com/watch?v=Y3Nb7TLHQhQ",
-      "title": "rah -  partymix ft klockerz krew",
-      "channel": "mashupah99",
-      "quality": "maxresdefault"
-    }
-  },
-  "doc-j": {
-    "local_image": "build/source_images/doc-j-youtube-JIZAqlVwWbE.jpg",
-    "sha256": "77b1d48ea34481fcd412631e83a47d0afcbb4a1b63235b93c2c541061a5facb6",
-    "revision": "yt-jizaqlvwwbe",
-    "require_verified_source": true,
-    "source": {
-      "kind": "youtube",
-      "id": "JIZAqlVwWbE",
-      "url": "https://www.youtube.com/watch?v=JIZAqlVwWbE",
-      "title": "Doc J \"valey pa crachey\"_new bouyon juillet 2012",
-      "channel": "LeDoc J Officiel",
-      "quality": "maxresdefault"
-    }
-  },
-  "gaza-crew": {
-    "local_image": "build/source_images/gaza-crew-youtube-I_HZOEkd6UU.jpg",
-    "sha256": "788e65f93b84cff5f84fa8074fa940d3cbb6daaeb867cb1059d7383e4114646f",
-    "revision": "yt-i_hzoekd6uu",
-    "require_verified_source": true,
-    "source": {
-      "kind": "youtube",
-      "id": "I_HZOEkd6UU",
-      "url": "https://www.youtube.com/watch?v=I_HZOEkd6UU",
-      "title": "Doc J feat KASSIDJE REMIX BOUYON \"nou ka fly\" Blue Blue Dacia and Gaza Crew",
-      "channel": "LeDoc J Officiel",
-      "quality": "maxresdefault"
-    }
+ "a-plus-musik": {
+  "local_image": "build/source_images/a-plus-musik-instagram-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "ig-20261028",
+  "sha256": "f23c1fd4490655d4ba5b41ef672cf05620c31f9fd06641b492ebf5b269e5b78c",
+  "source": {
+   "channel": "@aplusmuzik1",
+   "id": "aplusmuzik1",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/aplusmuzik1/"
   }
+ },
+ "arendi": {
+  "local_image": "build/source_images/arendi-instagram-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "ig-20261028",
+  "sha256": "3cc99d212e884cd177c88f1b7469ec590291ae01c33b26afe7276cf5c831fc34",
+  "source": {
+   "channel": "@arendi_971",
+   "id": "arendi_971",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/arendi_971/"
+  }
+ },
+ "bad-gyal-shyanne": {
+  "local_image": "build/source_images/bad-gyal-shyanne-instagram-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "ig-20261028",
+  "sha256": "2a0e0210d3a0ef8a0df8d254af33492a01f907bbe59bddec27f86f683e4b549d",
+  "source": {
+   "channel": "@shyannevevo",
+   "id": "shyannevevo",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/shyannevevo/"
+  }
+ },
+ "baps": {
+  "local_image": "build/source_images/baps-youtube-xc14aaQ4SOA.jpg",
+  "require_verified_source": true,
+  "revision": "yt-20261028",
+  "sha256": "b29a68477cbdfcacac13033dd3b91bca833f3a62e6a0533591e520a4964b0ffe",
+  "source": {
+   "channel": "Dj Wizz767",
+   "id": "xc14aaQ4SOA",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Dj Wizz767 x Baps! - Diamond Boy (Bouyon Remix) || Bouyon 2026",
+   "url": "https://www.youtube.com/watch?v=xc14aaQ4SOA"
+  }
+ },
+ "beevo": {
+  "local_image": "build/source_images/beevo-instagram-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "ig-20261028",
+  "sha256": "acba674d439a9cd5f580b72471f716b6f36653f77307879a8cb7da1c806504f0",
+  "source": {
+   "channel": "@beevo767",
+   "id": "beevo767",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/beevo767/"
+  }
+ },
+ "benji": {
+  "local_image": "build/source_images/benji-press-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "press-20261028",
+  "sha256": "18c5321f3ed2ccb0b9f6a75bc6b19ccecd61373cb94bcade4b627eebe45dc35e",
+  "source": {
+   "channel": "The Sun Dominica",
+   "id": "benji-wcmf-2013",
+   "kind": "press",
+   "title": "Benji of Triple Kay, WCMF ticket event (2013)",
+   "url": "https://sundominica.com/articles/wcmf-tickets-hot-spot-dwive-sale-week-end-585/"
+  }
+ },
+ "bernard-gumbs-wizito": {
+  "local_image": "build/source_images/bernard-gumbs-wizito-release-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "release-20261028",
+  "sha256": "0719616c54f1abde9a0bf368fb96ab51b49725e803ff2e727e2713f552e3d2f5",
+  "source": {
+   "channel": "Wizito",
+   "id": "track/3391280671",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "Deli",
+   "url": "https://www.deezer.com/track/3391280671"
+  }
+ },
+ "binksdrick": {
+  "local_image": "build/source_images/binksdrick-instagram-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "ig-20261028",
+  "sha256": "de688d25acf87cbb2d6e485ff409956711565ddab21f1f85ca4131814b7e39f1",
+  "source": {
+   "channel": "@binksdrick",
+   "id": "binksdrick",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/binksdrick/"
+  }
+ },
+ "bonna": {
+  "local_image": "build/source_images/bonna-instagram-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "ig-20261028",
+  "sha256": "80458d030008b0b2e589691de07f44dab9ae81737cb020d8741d3129aa9b8a61",
+  "source": {
+   "channel": "@bonna_nasa",
+   "id": "bonna_nasa",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/bonna_nasa/"
+  }
+ },
+ "boy-freeze": {
+  "local_image": "build/source_images/fr3eze-instagram-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "ig-20261028",
+  "sha256": "6cafee215361a4c9007be3c1fdb02f4e693529ed8878043c7c926063d780940d",
+  "source": {
+   "channel": "@fr3eze3x",
+   "id": "fr3eze3x",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/fr3eze3x/"
+  }
+ },
+ "brian-lomba": {
+  "local_image": "build/source_images/brian-lomba-release-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "release-20261028",
+  "sha256": "abde25d36ba65a8f4e7c9c83b20dd3d82a5f677a68343f3a092263c27dbf212c",
+  "source": {
+   "channel": "Pinpin OSP",
+   "id": "track/2930454141",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "Ti bébé",
+   "url": "https://www.deezer.com/track/2930454141"
+  }
+ },
+ "bushtown-clan": {
+  "local_image": "build/source_images/bushtown-clan-youtube-YyK0L3LwU_E.jpg",
+  "require_verified_source": true,
+  "revision": "yt-yyk0l3lwu_e",
+  "sha256": "d9859aec71d1ceeb6ef8483bbd511e32ded77a37a792af1b9aa71042cc16584f",
+  "source": {
+   "channel": "mashupah99",
+   "id": "YyK0L3LwU_E",
+   "kind": "youtube",
+   "quality": "hqdefault",
+   "title": "bushtown clan - make a move & who wha test",
+   "url": "https://www.youtube.com/watch?v=YyK0L3LwU_E"
+  }
+ },
+ "c4": {
+  "local_image": "build/source_images/c4-release-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "release-20261028",
+  "sha256": "00a4d9e6f0d4da2c7c80168036ac6eee177ee7ad30724e95ddbeaf7d5c986e01",
+  "source": {
+   "channel": "BRG Hollywood, C4",
+   "id": "track/4323990132",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "Cashin Out Warmup (feat. C4)",
+   "url": "https://www.deezer.com/track/4323990132"
+  }
+ },
+ "chief": {
+  "local_image": "build/source_images/chief-youtube-6qkcVbRNq2c.jpg",
+  "require_verified_source": true,
+  "revision": "yt-20261028",
+  "sha256": "d424a9decb45a1e38b082343ac781b835c7a2348fdefbefc0bfb18e8f6c3140a",
+  "source": {
+   "channel": "CHIEF BOUYON",
+   "id": "6qkcVbRNq2c",
+   "kind": "youtube",
+   "quality": "sddefault",
+   "title": "Chief- Strictly Bouyon  2027",
+   "url": "https://www.youtube.com/watch?v=6qkcVbRNq2c"
+  }
+ },
+ "chioneso": {
+  "local_image": "build/source_images/chioneso-instagram-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "ig-20261028",
+  "sha256": "fe09085721c5b08057043e1c060451b48759d0fc01d030d1405d976f1ad9fe44",
+  "source": {
+   "channel": "@chionesobakr",
+   "id": "chionesobakr",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/chionesobakr/"
+  }
+ },
+ "corane-vincent": {
+  "local_image": "build/source_images/corane-vincent-release-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "release-20261028",
+  "sha256": "b4fdb083b2d09959d31b4abac79780ba780b3c4d2a289e4018f074683400a113",
+  "source": {
+   "channel": "DJ Luchshiy, LeStef, Edday",
+   "id": "track/2624941932",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "CHABIN (feat. LESTEF & EDDAY)",
+   "url": "https://www.deezer.com/track/2624941932"
+  }
+ },
+ "d-mitri": {
+  "local_image": "build/source_images/d-mitri-instagram-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "ig-20261028",
+  "sha256": "0da40bb5a5fc65697d33bb43d33f1e1a22015b143517ef40403d80dbb3a36a02",
+  "source": {
+   "channel": "@dmitribts",
+   "id": "dmitribts",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/dmitribts/"
+  }
+ },
+ "d4a-nillio": {
+  "local_image": "build/source_images/d4a-nillio-instagram-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "ig-20261028",
+  "sha256": "d1bd5f1bd83a7b6b463b4e796446b93174f859d6e6cd301bb0edf313da27e492",
+  "source": {
+   "channel": "@d4anillio",
+   "id": "d4anillio",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/d4anillio/"
+  }
+ },
+ "dada": {
+  "local_image": "build/source_images/dada-release-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "release-20261028",
+  "sha256": "f862aa63ee474613389fe45d418d88614dfad858cd28b894b72202e6e1d77d95",
+  "source": {
+   "channel": "Skinny Fabulous",
+   "id": "track/2005447437",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "Famalay",
+   "url": "https://www.deezer.com/track/2005447437"
+  }
+ },
+ "daddy-chess": {
+  "local_image": "build/source_images/daddy-chess-release-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "release-20261028",
+  "sha256": "f63fd4a0adf06820281a9004f1fa0a63b6e08169023b2feb433caa23d8411d25",
+  "source": {
+   "channel": "R.B.M",
+   "id": "album/87523392",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "Champion Riddim",
+   "url": "https://www.deezer.com/album/87523392"
+  }
+ },
+ "david-campana": {
+  "local_image": "build/source_images/david-campana-instagram-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "ig-20261028",
+  "sha256": "f047e9f3d70fed8f1e3fb378c41f089589b7068e7b2929da507d611b404fd65d",
+  "source": {
+   "channel": "@dav.campana",
+   "id": "dav.campana",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/dav.campana/"
+  }
+ },
+ "dboss": {
+  "local_image": "build/source_images/dboss-youtube-axvKShycoq4.jpg",
+  "require_verified_source": true,
+  "revision": "yt-20261028",
+  "sha256": "493597cbd4cc1079c78816ec881166546b4ae825373b76df446ff643d65ed10f",
+  "source": {
+   "channel": "DJTaffy Tha Riddim Beast",
+   "id": "axvKShycoq4",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Skrazy, Dboss, & Ras B - Come Here [Official Visualizer] (Bouyon 2027)",
+   "url": "https://www.youtube.com/watch?v=axvKShycoq4"
+  }
+ },
+ "dcamp-lewismelo": {
+  "local_image": "build/source_images/dcamp-lewismelo-youtube-wEl7GmCMkpw.jpg",
+  "require_verified_source": true,
+  "revision": "yt-20261028",
+  "sha256": "f67ce7d7c2547a3f3dcff0b3263b47d73c71b1962023a3eeaf1a3816fab7717c",
+  "source": {
+   "channel": "Dcamp",
+   "id": "wEl7GmCMkpw",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "YOU AND ME - Dcamp & Lewismelo & Admiral T",
+   "url": "https://www.youtube.com/watch?v=wEl7GmCMkpw"
+  }
+ },
+ "deejay-guyguy": {
+  "local_image": "build/source_images/deejay-guyguy-instagram-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "ig-20261028",
+  "sha256": "ab071a0ea8a8baff6a15cdd9ccc797628df5b569c40e5e4d18f9673295e19479",
+  "source": {
+   "channel": "@deejay_guyguy97",
+   "id": "deejay_guyguy97",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/deejay_guyguy97/"
+  }
+ },
+ "deejay-twix": {
+  "local_image": "build/source_images/deejay-twix-youtube-_39PqtpGIYI.jpg",
+  "require_verified_source": true,
+  "revision": "yt-20261028",
+  "sha256": "a89ab3e46e6ffbafa6a4930bea7bbc76ba39484414e6da3c21c58c575975444e",
+  "source": {
+   "channel": "deejay twix",
+   "id": "_39PqtpGIYI",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Valiant - Time Capsule (bouyon remix) prod by deejay twix",
+   "url": "https://www.youtube.com/watch?v=_39PqtpGIYI"
+  }
+ },
+ "derek-rah-peters": {
+  "local_image": "build/source_images/derek-rah-peters-youtube-BPXjqgD-jQA.jpg",
+  "require_verified_source": true,
+  "revision": "yt-bpxjqgd-jqa",
+  "sha256": "2151ee33230baab6e432800f1c5d8cb50e09a835381e55cfce39cea521041c5b",
+  "source": {
+   "channel": "Commonwealth of Dominica Cultural Division",
+   "id": "BPXjqgD-jQA",
+   "kind": "youtube",
+   "quality": "sddefault",
+   "title": "Derick \"Rah\" Peters",
+   "url": "https://www.youtube.com/watch?v=BPXjqgD-jQA"
+  }
+ },
+ "dernel-green": {
+  "local_image": "build/source_images/dernel-green-instagram-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "ig-20261028",
+  "sha256": "b80b43994a97e0c30bba05b78ca9047b1598f646f19cc75e43adff255bf59ac8",
+  "source": {
+   "channel": "@dernz.wav",
+   "id": "dernz.wav",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/dernz.wav/"
+  }
+ },
+ "dinho": {
+  "local_image": "build/source_images/dinho-instagram-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "ig-20261028",
+  "sha256": "2bfe5dce6e1081dcffc46aab115da04ee0db93709d79861d5262044826ac2d84",
+  "source": {
+   "channel": "@don_dinho18",
+   "id": "don_dinho18",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/don_dinho18/"
+  }
+ },
+ "dj-cut": {
+  "local_image": "build/source_images/dj-cut-instagram-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "ig-20261028",
+  "sha256": "de0d3fa565c07669408e10461c803e7ae82b275cda6e46852c80558f74fb38e5",
+  "source": {
+   "channel": "@bucktowndjcut",
+   "id": "bucktowndjcut",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/bucktowndjcut/"
+  }
+ },
+ "dj-demafidem": {
+  "local_image": "build/source_images/dj-demafidem-instagram-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "ig-20261028",
+  "sha256": "20d4940b385287277defcfbfef84f23a49491a5f5db1ba15c2e265af6c954661",
+  "source": {
+   "channel": "@djdemafidem",
+   "id": "djdemafidem",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/djdemafidem/"
+  }
+ },
+ "dj-joe": {
+  "local_image": "build/source_images/dj-joe-instagram-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "ig-20261028",
+  "sha256": "de78f4585c310c87798c981f65a673e2b1776a05cc808316cbe55da9e90574b6",
+  "source": {
+   "channel": "@djjoe_767",
+   "id": "djjoe_767",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/djjoe_767/"
+  }
+ },
+ "dj-skylone": {
+  "local_image": "build/source_images/dj-skylone-release-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "release-20261028",
+  "sha256": "40cb9f38b554343f1f6da9171ea8d105271eefd50bc882a98dbd3fce89ebf10f",
+  "source": {
+   "channel": "Wawane04, Dj Skaylone",
+   "id": "track/4083049241",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "Ou Ja Vley (feat. Dj Skaylone)",
+   "url": "https://www.deezer.com/track/4083049241"
+  }
+ },
+ "dj-weez": {
+  "local_image": "build/source_images/dj-weez-release-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "release-20261028",
+  "sha256": "2a69b51a4a9bb4ddefeb68d4c60fba51ce2774b0fd87b7273c22f71c8d89ce5a",
+  "source": {
+   "channel": "Bilix, Mr Boka",
+   "id": "track/1413228842",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "Sa Ka Débodé",
+   "url": "https://www.deezer.com/track/1413228842"
+  }
+ },
+ "doc-j": {
+  "local_image": "build/source_images/doc-j-youtube-JIZAqlVwWbE.jpg",
+  "require_verified_source": true,
+  "revision": "yt-jizaqlvwwbe",
+  "sha256": "77b1d48ea34481fcd412631e83a47d0afcbb4a1b63235b93c2c541061a5facb6",
+  "source": {
+   "channel": "LeDoc J Officiel",
+   "id": "JIZAqlVwWbE",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Doc J \"valey pa crachey\"_new bouyon juillet 2012",
+   "url": "https://www.youtube.com/watch?v=JIZAqlVwWbE"
+  }
+ },
+ "don-lash": {
+  "local_image": "build/source_images/don-lash-instagram-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "ig-20261028",
+  "sha256": "3305ad56e44333bb2a0ca22c33b3be8ac50ae93bd72c7e7ad5c38efadd0f3528",
+  "source": {
+   "channel": "@1donlash767",
+   "id": "1donlash767",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/1donlash767/"
+  }
+ },
+ "dova": {
+  "local_image": "build/source_images/dova-instagram-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "ig-20261028",
+  "sha256": "3c86ee796d59fedcbb86581c4220e5845f1eacc11adc12cbb759d3fb021014cc",
+  "source": {
+   "channel": "@dovamorespeed",
+   "id": "dovamorespeed",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/dovamorespeed/"
+  }
+ },
+ "earlson-matthew": {
+  "local_image": "build/source_images/earlson-matthew-youtube-UCSOoaZ2sBk.jpg",
+  "require_verified_source": true,
+  "revision": "yt-ucsooaz2sbk",
+  "sha256": "fb4a9900c272ede7f1941667f6a39baa5c5ddb37536e628592c7ae14f39422db",
+  "source": {
+   "channel": "Mr Delly",
+   "id": "UCSOoaZ2sBk",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Mr Delly x Likkle Man - How De Band Playing",
+   "url": "https://www.youtube.com/watch?v=UCSOoaZ2sBk"
+  }
+ },
+ "erwinchy": {
+  "local_image": "build/source_images/erwinchy-youtube-FvqY756QO7I.jpg",
+  "require_verified_source": true,
+  "revision": "yt-fvqy756qo7i",
+  "sha256": "cf89e586a1d225b849bbf6cf3bbb1c6149ee292b8f2f1f6de124dd0a83e528d6",
+  "source": {
+   "channel": "IGNITION BAND",
+   "id": "FvqY756QO7I",
+   "kind": "youtube",
+   "quality": "sddefault",
+   "title": "IGNITION FT ERWINCHY- MALKASE  4.0 EDITION",
+   "url": "https://www.youtube.com/watch?v=FvqY756QO7I"
+  }
+ },
+ "fireman-lee": {
+  "local_image": "build/source_images/fireman-lee-release-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "release-20261028",
+  "sha256": "34417cd8ce438e668c8a04ebfca98ba05076662ddde965e91f33f4d93d71bb78",
+  "source": {
+   "channel": "Producerdlo, Savion Beats, Zwady, Fireman Lee",
+   "id": "track/2939094311",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "Down Deh (feat. Zwady & Fireman Lee)",
+   "url": "https://www.deezer.com/track/2939094311"
+  }
+ },
+ "first-serenade-band": {
+  "local_image": "build/source_images/first-serenade-band-instagram-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "ig-20261028",
+  "sha256": "7971d770057ad0354c6f76a5e11a68656f912bd396e994e09fe6d3379e67a22e",
+  "source": {
+   "channel": "@firstserenadeband",
+   "id": "firstserenadeband",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/firstserenadeband/"
+  }
+ },
+ "foxy-jael": {
+  "local_image": "build/source_images/foxy-jael-instagram-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "ig-20261028",
+  "sha256": "b0f72fc45e485ff11492bc6e2e4ff4018794876c3ccf148c0df3ca3c33545c02",
+  "source": {
+   "channel": "@jaeljoseph",
+   "id": "jaeljoseph",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/jaeljoseph/"
+  }
+ },
+ "fr3eze": {
+  "local_image": "build/source_images/fr3eze-instagram-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "ig-20261028",
+  "sha256": "6cafee215361a4c9007be3c1fdb02f4e693529ed8878043c7c926063d780940d",
+  "source": {
+   "channel": "@fr3eze3x",
+   "id": "fr3eze3x",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/fr3eze3x/"
+  }
+ },
+ "freddy": {
+  "local_image": "build/source_images/freddy-instagram-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "ig-20261028",
+  "sha256": "e4ad86e7ea01d59662ec29eb28a005742f8f6ea3bde633310a6155e4b6708af4",
+  "source": {
+   "channel": "@ready4freddy_official",
+   "id": "ready4freddy_official",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/ready4freddy_official/"
+  }
+ },
+ "gaza-crew": {
+  "local_image": "build/source_images/gaza-crew-youtube-I_HZOEkd6UU.jpg",
+  "require_verified_source": true,
+  "revision": "yt-i_hzoekd6uu",
+  "sha256": "788e65f93b84cff5f84fa8074fa940d3cbb6daaeb867cb1059d7383e4114646f",
+  "source": {
+   "channel": "LeDoc J Officiel",
+   "id": "I_HZOEkd6UU",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Doc J feat KASSIDJE REMIX BOUYON \"nou ka fly\" Blue Blue Dacia and Gaza Crew",
+   "url": "https://www.youtube.com/watch?v=I_HZOEkd6UU"
+  }
+ },
+ "gz-up": {
+  "local_image": "build/source_images/gz-up-instagram-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "ig-20261028",
+  "sha256": "993d43d7304b137122a6e780814611ed121875d89cb96a84098557290f9ea723",
+  "source": {
+   "channel": "@gz_upp",
+   "id": "gz_upp",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/gz_upp/"
+  }
+ },
+ "haterz-be": {
+  "local_image": "build/source_images/haterz-be-instagram-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "ig-20261028",
+  "sha256": "ac43e3924fa642c247262eb1ad663921705087472bd49a1690fdc92a84e2d8e7",
+  "source": {
+   "channel": "@htb_dooli",
+   "id": "htb_dooli",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/htb_dooli/"
+  }
+ },
+ "hussey": {
+  "local_image": "build/source_images/hussey-instagram-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "ig-20261028",
+  "sha256": "90502570fee0f70d8788aca8741e6b76092f7bfff1a41403507954627a88139a",
+  "source": {
+   "channel": "@73rd_official_hussey",
+   "id": "73rd_official_hussey",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/73rd_official_hussey/"
+  }
+ },
+ "hypno": {
+  "local_image": "build/source_images/hypno-instagram-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "ig-20261028",
+  "sha256": "028b2f9d4d412c9ccc8501b3ea3cfdd0568471a0d784193c08ef1a275971d57b",
+  "source": {
+   "channel": "@hypnoticbeatz",
+   "id": "hypnoticbeatz",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/hypnoticbeatz/"
+  }
+ },
+ "ignition-band": {
+  "local_image": "build/source_images/ignition-band-youtube-FvqY756QO7I.jpg",
+  "require_verified_source": true,
+  "revision": "yt-fvqy756qo7i",
+  "sha256": "cf89e586a1d225b849bbf6cf3bbb1c6149ee292b8f2f1f6de124dd0a83e528d6",
+  "source": {
+   "channel": "IGNITION BAND",
+   "id": "FvqY756QO7I",
+   "kind": "youtube",
+   "quality": "sddefault",
+   "title": "IGNITION FT ERWINCHY- MALKASE  4.0 EDITION",
+   "url": "https://www.youtube.com/watch?v=FvqY756QO7I"
+  }
+ },
+ "kassidje": {
+  "local_image": "build/source_images/kassidje-instagram-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "ig-20261028",
+  "sha256": "5da7ff7add20299d1ad280dcfbb91ee6120e70d7f5cc30ecac00fc6424a122ea",
+  "source": {
+   "channel": "@kassidje_gazagirl",
+   "id": "kassidje_gazagirl",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/kassidje_gazagirl/"
+  }
+ },
+ "kenny-g-dominica": {
+  "local_image": "build/source_images/kenny-g-dominica-instagram-Deol3LxBGWj.jpg",
+  "require_verified_source": true,
+  "revision": "ig-deol3lxb",
+  "sha256": "41f6d77b8c5ba319864e3bb6cbf78160219e770c8a4376bef0ee0842eb33cade",
+  "source": {
+   "channel": "@kenny_g_for_life_767",
+   "id": "Deol3LxBGWj",
+   "kind": "instagram",
+   "title": "Rise and shine",
+   "url": "https://www.instagram.com/kenny_g_for_life_767/p/Deol3LxBGWj/"
+  }
+ },
+ "keytzone": {
+  "local_image": "build/source_images/keytzone-release-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "release-20261028",
+  "sha256": "c8fb7504210e5a4f0c6fc2c059e07c0b6efc46cb6cde3caf7d700a036c04d010",
+  "source": {
+   "channel": "Yellow Gaza, Keytzone, Tasmo",
+   "id": "track/2304556255",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "Bouwéy",
+   "url": "https://www.deezer.com/track/2304556255"
+  }
+ },
+ "killa-laurent": {
+  "local_image": "build/source_images/killa-laurent-instagram-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "ig-20261028",
+  "sha256": "7bc56d17a40b56a92b866126464f3eb48d9af824a0179d350216c74ca11b735e",
+  "source": {
+   "channel": "@kendel_killer_laurent",
+   "id": "kendel_killer_laurent",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/kendel_killer_laurent/"
+  }
+ },
+ "kkrytical": {
+  "local_image": "build/source_images/kkrytical-instagram-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "ig-20261028",
+  "sha256": "ade8e7636f0089edd248a0dbeebe7e0c8c8c1a31707782dac8df9118841127b1",
+  "source": {
+   "channel": "@kkryticalofficial",
+   "id": "kkryticalofficial",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/kkryticalofficial/"
+  }
+ },
+ "klockerz-krew": {
+  "local_image": "build/source_images/klockerz-krew-youtube-Y3Nb7TLHQhQ.jpg",
+  "require_verified_source": true,
+  "revision": "yt-y3nb7tlhqhq",
+  "sha256": "5756aca202f30cb7f87918db6be25e763c0255942f11a859d58f1243b5cad480",
+  "source": {
+   "channel": "mashupah99",
+   "id": "Y3Nb7TLHQhQ",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "rah -  partymix ft klockerz krew",
+   "url": "https://www.youtube.com/watch?v=Y3Nb7TLHQhQ"
+  }
+ },
+ "kwib-la-beats": {
+  "local_image": "build/source_images/kwib-la-beats-instagram-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "ig-20261028",
+  "sha256": "c5fc34e08011fa2325711818eb63af45d9e5f6707c5fd7091ec1fcd1a26bc416",
+  "source": {
+   "channel": "@kwiblahlc",
+   "id": "kwiblahlc",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/kwiblahlc/"
+  }
+ },
+ "laka": {
+  "local_image": "build/source_images/laka-release-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "release-20261028",
+  "sha256": "eea4642366c7d81d746940e1fcc089e8bf8529e4d2053d08ce6cc71d796bd256",
+  "source": {
+   "channel": "Laka",
+   "id": "1717306016",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "BAISE-MOI",
+   "url": "https://music.apple.com/us/album/baise-moi-feat-riko-le-bluff-tgx-billy-bybf-pixou-le/1717306016"
+  }
+ },
+ "le-daah": {
+  "local_image": "build/source_images/le-daah-instagram-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "ig-20261028",
+  "sha256": "652009e6ba4d7233649f778a77738b7e7981dda3479167ec1993eeaf0fcf5ba1",
+  "source": {
+   "channel": "@le_daaah",
+   "id": "le_daaah",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/le_daaah/"
+  }
+ },
+ "le-det": {
+  "local_image": "build/source_images/le-det-verified-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "verified-20261028",
+  "sha256": "cb9fc55c3f5e001b59f76a8cae0e00ce81a22a8f447ea7e7a2eb542539f1e6bf",
+  "source": {
+   "channel": "Le Det",
+   "id": "1695239247",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "Bouwé'y",
+   "url": "https://music.apple.com/us/album/bouw%C3%A9y/1695239247?i=1695239248&uo=4"
+  }
+ },
+ "le-rebelle": {
+  "local_image": "build/source_images/le-rebelle-release-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "release-20261028",
+  "sha256": "a6d620904d9d5aa3708e6b46dfee4d618a6da1a05a4511e920c96bff24b621d5",
+  "source": {
+   "channel": "Le Rebelle",
+   "id": "track/1528246952",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "Acteur Porno",
+   "url": "https://www.deezer.com/track/1528246952"
+  }
+ },
+ "letin-severine": {
+  "local_image": "build/source_images/letin-severine-release-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "release-20261028",
+  "sha256": "6e9e6a0434efb43d9b22b0701fe4276164fd0be3a2ccb109ec5a03f53bf850f9",
+  "source": {
+   "channel": "Yellow Gaza",
+   "id": "track/1994225657",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "Vole Nonm A Moun",
+   "url": "https://www.deezer.com/track/1994225657"
+  }
+ },
+ "letin-sylia": {
+  "local_image": "build/source_images/letin-sylia-release-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "release-20261028",
+  "sha256": "6e9e6a0434efb43d9b22b0701fe4276164fd0be3a2ccb109ec5a03f53bf850f9",
+  "source": {
+   "channel": "Yellow Gaza",
+   "id": "track/1994225657",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "Vole Nonm A Moun",
+   "url": "https://www.deezer.com/track/1994225657"
+  }
+ },
+ "lewismelo": {
+  "local_image": "build/source_images/lewismelo-instagram-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "ig-20261028",
+  "sha256": "c0e2709c5d2e9840cea967e94ce9c93a30c01f22ecbad2715f3f2d7d1356334c",
+  "source": {
+   "channel": "@lewismelo971",
+   "id": "lewismelo971",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/lewismelo971/"
+  }
+ },
+ "lgc": {
+  "local_image": "build/source_images/lgc-instagram-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "ig-20261028",
+  "sha256": "6f80a971809baa95304e59c21256fa42472c29024f748adcf46c1bdea8429471",
+  "source": {
+   "channel": "@la_lgc",
+   "id": "la_lgc",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/la_lgc/"
+  }
+ },
+ "litleboy-lsbeats767": {
+  "local_image": "build/source_images/litleboy-lsbeats767-release-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "release-20261028",
+  "sha256": "ba64e261338d4da37e23dfc88d06e651dba614419c95edcadd9528640202e85c",
+  "source": {
+   "channel": "Litleboy, Quan, Trilla-G",
+   "id": "album/611995142",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "Someone Else (feat. Quan & Trilla-G)",
+   "url": "https://www.deezer.com/album/611995142"
+  }
+ },
+ "luky-lukee": {
+  "local_image": "build/source_images/luky-lukee-instagram-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "ig-20261028",
+  "sha256": "9cc0b534a198f48e0592dbc0d8bc0d34e48617f85cbd00a331133fcef41ad75a",
+  "source": {
+   "channel": "@lucky11off",
+   "id": "lucky11off",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/lucky11off/"
+  }
+ },
+ "lunik": {
+  "local_image": "build/source_images/lunik-instagram-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "ig-20261028",
+  "sha256": "f04ea1b805368a0eaf65a50f4b6f826033b1becc2b71ac0c917bfff0784a321b",
+  "source": {
+   "channel": "@lunik_tbts",
+   "id": "lunik_tbts",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/lunik_tbts/"
+  }
+ },
+ "lyrical-k": {
+  "local_image": "build/source_images/lyrical-k-youtube-HGEWJPWwXyU.jpg",
+  "require_verified_source": true,
+  "revision": "yt-20261028",
+  "sha256": "245517f18d115e7ed6770787603dd582835977b5848019afb58260acb2f2fc57",
+  "source": {
+   "channel": "Lyrical-k music",
+   "id": "HGEWJPWwXyU",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Lyrical-k Naughty (Bouyon 2027)",
+   "url": "https://www.youtube.com/watch?v=HGEWJPWwXyU"
+  }
+ },
+ "marf": {
+  "local_image": "build/source_images/marf-youtube-XLksT_Lwzi8.jpg",
+  "require_verified_source": true,
+  "revision": "yt-20261028",
+  "sha256": "5ce5b62de3e3b7469b0611c793cf15c015f5bc677111aa21cf737bd9c2e6a7f3",
+  "source": {
+   "channel": "Marf de Maldonia",
+   "id": "XLksT_Lwzi8",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Marf - Pa Ka Sanm [Bouyon 2026 Audio]",
+   "url": "https://www.youtube.com/watch?v=XLksT_Lwzi8"
+  }
+ },
+ "marshee": {
+  "local_image": "build/source_images/marshee-instagram-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "ig-20261028",
+  "sha256": "118215b46756451e2016ad43b03afbd6aea1b460e18e862b1b464875ca21365f",
+  "source": {
+   "channel": "@marshee_official",
+   "id": "marshee_official",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/marshee_official/"
+  }
+ },
+ "mr-boka": {
+  "local_image": "build/source_images/mr-boka-release-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "release-20261028",
+  "sha256": "2a69b51a4a9bb4ddefeb68d4c60fba51ce2774b0fd87b7273c22f71c8d89ce5a",
+  "source": {
+   "channel": "Bilix, Mr Boka",
+   "id": "track/1413228842",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "Sa Ka Débodé",
+   "url": "https://www.deezer.com/track/1413228842"
+  }
+ },
+ "mr-delly": {
+  "local_image": "build/source_images/mr-delly-youtube-UCSOoaZ2sBk.jpg",
+  "require_verified_source": true,
+  "revision": "yt-ucsooaz2sbk",
+  "sha256": "fb4a9900c272ede7f1941667f6a39baa5c5ddb37536e628592c7ae14f39422db",
+  "source": {
+   "channel": "Mr Delly",
+   "id": "UCSOoaZ2sBk",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Mr Delly x Likkle Man - How De Band Playing",
+   "url": "https://www.youtube.com/watch?v=UCSOoaZ2sBk"
+  }
+ },
+ "mystrie": {
+  "local_image": "build/source_images/mystrie-youtube-GgJPZ5xt0P0.jpg",
+  "require_verified_source": true,
+  "revision": "yt-20261028",
+  "sha256": "55a4e2641bd42ff6857e5c4259b49a7f5f525df8bb09619b7bc9bdecb9f7c90c",
+  "source": {
+   "channel": "Mystrie",
+   "id": "GgJPZ5xt0P0",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Lapawol (Full Musical Video) by Mystrie. Bouyon 2026.",
+   "url": "https://www.youtube.com/watch?v=GgJPZ5xt0P0"
+  }
+ },
+ "ncore": {
+  "local_image": "build/source_images/ncore-youtube-_NSDUi40znU.jpg",
+  "require_verified_source": true,
+  "revision": "yt-_nsdui40znu",
+  "sha256": "c7c76b4593344a8d2e2865c095acf5dd47371ae50d2e195f499271b40d874cd1",
+  "source": {
+   "channel": "shomariSM",
+   "id": "_NSDUi40znU",
+   "kind": "youtube",
+   "quality": "sddefault",
+   "title": "Riddim Live - MFR Band",
+   "url": "https://www.youtube.com/watch?v=_NSDUi40znU"
+  }
+ },
+ "nfl-lil-brent": {
+  "local_image": "build/source_images/nfl-lil-brent-youtube-K21z0-V_Nio.jpg",
+  "require_verified_source": true,
+  "revision": "yt-20261028",
+  "sha256": "1719ee8fbebdc9060835a2dfb97e6a1b887afb58ae49af8915d9278d0e08502d",
+  "source": {
+   "channel": "NFL LIL BRENT",
+   "id": "K21z0-V_Nio",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "NFL Lil Brent -  I Cheating | Bouyon",
+   "url": "https://www.youtube.com/watch?v=K21z0-V_Nio"
+  }
+ },
+ "nice": {
+  "local_image": "build/source_images/nice-instagram-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "ig-20261028",
+  "sha256": "04a59d370d821c79a8e87aa57b4ee2fe0a0e2272afb195abcd1b026b58b67eae",
+  "source": {
+   "channel": "@o.f.f.i.c.i.a.l_n.i.c.e",
+   "id": "o.f.f.i.c.i.a.l_n.i.c.e",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/o.f.f.i.c.i.a.l_n.i.c.e/"
+  }
+ },
+ "nicolas-macbeth": {
+  "local_image": "build/source_images/nicolas-macbeth-release-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "release-20261028",
+  "sha256": "eea4642366c7d81d746940e1fcc089e8bf8529e4d2053d08ce6cc71d796bd256",
+  "source": {
+   "channel": "Laka",
+   "id": "1717306016",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "BAISE-MOI",
+   "url": "https://music.apple.com/us/album/baise-moi-feat-riko-le-bluff-tgx-billy-bybf-pixou-le/1717306016"
+  }
+ },
+ "nils": {
+  "local_image": "build/source_images/nils-release-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "release-20261028",
+  "sha256": "456c5470f44b6a5868b2db15e91f22ecb007a8f64c880b87d411a2e7580f8090",
+  "source": {
+   "channel": "Nils",
+   "id": "1741012920",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "Chodo",
+   "url": "https://music.apple.com/us/album/chodo-single/1741012920"
+  }
+ },
+ "nursery-krew-inc": {
+  "local_image": "build/source_images/nursery-krew-inc-youtube-b7oEn3KjAPs.jpg",
+  "require_verified_source": true,
+  "revision": "yt-b7oen3kjaps",
+  "sha256": "7da0162e1091fbcb8d2b8f3dd4cdb9cbd6b0022135d51fd29df5da422dea495a",
+  "source": {
+   "channel": "smokiller",
+   "id": "b7oEn3KjAPs",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Doss2 - Charlie Black x BurnBrain: The Nursery Krew That Shook the Bouyon World",
+   "url": "https://www.youtube.com/watch?v=b7oEn3KjAPs"
+  }
+ },
+ "pa-pel": {
+  "local_image": "build/source_images/pa-pel-instagram-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "ig-20261028",
+  "sha256": "d1a3dca2063fc28f3301f0dc1e6a5bc94c117336a8104a99b54367b455a845c1",
+  "source": {
+   "channel": "@pa._.pel",
+   "id": "pa._.pel",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/pa._.pel/"
+  }
+ },
+ "prod-bysavion": {
+  "local_image": "build/source_images/prod-bysavion-instagram-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "ig-20261028",
+  "sha256": "cf9b7258643e3f7a7409b37c82e3b4b729423d839b9201471671407d87676429",
+  "source": {
+   "channel": "@prod.bysavion",
+   "id": "prod.bysavion",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/prod.bysavion/"
+  }
+ },
+ "pryhmex": {
+  "local_image": "build/source_images/pryhmex-youtube-eq-pesLqvY8.jpg",
+  "require_verified_source": true,
+  "revision": "yt-eq-peslqvy8",
+  "sha256": "429df5699a71838a833c68071e1fe597f7cc273689aa6c2b3f700984b18c7fd1",
+  "source": {
+   "channel": "Trilla-G",
+   "id": "eq-pesLqvY8",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Up Next Bouyon Cypher, Vol 1. (Trilla-G ft. G'z Up, Ras B, Avatar Omish, Don Lash, Pa Pel, Pryhmex)",
+   "url": "https://www.youtube.com/watch?v=eq-pesLqvY8"
+  }
+ },
+ "quan": {
+  "local_image": "build/source_images/quan-release-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "release-20261028",
+  "sha256": "ba64e261338d4da37e23dfc88d06e651dba614419c95edcadd9528640202e85c",
+  "source": {
+   "channel": "Litleboy, Quan, Trilla-G",
+   "id": "album/611995142",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "Someone Else (feat. Quan & Trilla-G)",
+   "url": "https://www.deezer.com/album/611995142"
+  }
+ },
+ "r-b-m": {
+  "local_image": "build/source_images/r-b-m-release-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "release-20261028",
+  "sha256": "f63fd4a0adf06820281a9004f1fa0a63b6e08169023b2feb433caa23d8411d25",
+  "source": {
+   "channel": "R.B.M",
+   "id": "album/87523392",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "Champion Riddim",
+   "url": "https://www.deezer.com/album/87523392"
+  }
+ },
+ "ras-b": {
+  "local_image": "build/source_images/ras-b-instagram-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "ig-20261028",
+  "sha256": "f28baf1d40f8fa46365e9093159351045d79e06abb24cab266df73f05ecdbad9",
+  "source": {
+   "channel": "@ras_b_4kdem",
+   "id": "ras_b_4kdem",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/ras_b_4kdem/"
+  }
+ },
+ "risingsun": {
+  "local_image": "build/source_images/risingsun-youtube-B7kPpB-hkEo.jpg",
+  "require_verified_source": true,
+  "revision": "yt-20261028",
+  "sha256": "75d3fab998a21bbf7c56691e0b33ffdc5cdc267703de0b28936b44dee5e0f177",
+  "source": {
+   "channel": "Lyrical-k music",
+   "id": "B7kPpB-hkEo",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Lyrical-k selfish Ft. risingsun ",
+   "url": "https://www.youtube.com/watch?v=B7kPpB-hkEo"
+  }
+ },
+ "rudy-rush": {
+  "local_image": "build/source_images/rudy-rush-instagram-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "ig-20261028",
+  "sha256": "a8ca2db06e7d6783562600b46650e68c99e1042476be48e64b513262a6ef6623",
+  "source": {
+   "channel": "@iamrudyrush",
+   "id": "iamrudyrush",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/iamrudyrush/"
+  }
+ },
+ "sandy-boo": {
+  "local_image": "build/source_images/sandy-boo-youtube-gqEXwAi62mM.jpg",
+  "require_verified_source": true,
+  "revision": "yt-20261028",
+  "sha256": "38d97c218a843e0e782075e599bbc16fdd3c104a0060e2c6df3fcbbe8d598b6b",
+  "source": {
+   "channel": "STICKY ( Ghost-town)",
+   "id": "gqEXwAi62mM",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Sticky ft Sandy Boo - Creole cé ca (Bouyon)",
+   "url": "https://www.youtube.com/watch?v=gqEXwAi62mM"
+  }
+ },
+ "scarnx": {
+  "local_image": "build/source_images/scarnx-instagram-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "ig-20261028",
+  "sha256": "ee270d15f26a857249fae60b765e8a454d5a948e554c090e7a192edfc0b2c9af",
+  "source": {
+   "channel": "@produced_by_scarnx",
+   "id": "produced_by_scarnx",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/produced_by_scarnx/"
+  }
+ },
+ "skrazy": {
+  "local_image": "build/source_images/skrazy-youtube-axvKShycoq4.jpg",
+  "require_verified_source": true,
+  "revision": "yt-20261028",
+  "sha256": "493597cbd4cc1079c78816ec881166546b4ae825373b76df446ff643d65ed10f",
+  "source": {
+   "channel": "DJTaffy Tha Riddim Beast",
+   "id": "axvKShycoq4",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Skrazy, Dboss, & Ras B - Come Here [Official Visualizer] (Bouyon 2027)",
+   "url": "https://www.youtube.com/watch?v=axvKShycoq4"
+  }
+ },
+ "sticky": {
+  "local_image": "build/source_images/sticky-youtube-iZ46ZrJN_NE.jpg",
+  "require_verified_source": true,
+  "revision": "yt-20261028",
+  "sha256": "ce73d76d9ae446b10a019bb00ba370740400b47f908354efcdcf70da1ffa5ab1",
+  "source": {
+   "channel": "Dr Eevil",
+   "id": "iZ46ZrJN_NE",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "DR Eevil,T.C AND Sticky – We Trippy (Bouyon)",
+   "url": "https://www.youtube.com/watch?v=iZ46ZrJN_NE"
+  }
+ },
+ "stratvincybwoy": {
+  "local_image": "build/source_images/stratvincybwoy-instagram-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "ig-20261028",
+  "sha256": "ff522dffe00cf1f3f7d22edf428d49d0f2aaa927b74dee595328f41988b410a4",
+  "source": {
+   "channel": "@stratvincybwoy",
+   "id": "stratvincybwoy",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/stratvincybwoy/"
+  }
+ },
+ "sukie": {
+  "local_image": "build/source_images/sukie-release-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "release-20261028",
+  "sha256": "faff4d7448dea97c82859ef9151b6f02821bfb8def154dca8a250c0a5666d99d",
+  "source": {
+   "channel": "Keks Mafia, Sukie Burn Brain",
+   "id": "track/3676754192",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "Say My Name",
+   "url": "https://www.deezer.com/track/3676754192"
+  }
+ },
+ "supatronic": {
+  "local_image": "build/source_images/supatronic-instagram-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "ig-20261028",
+  "sha256": "c490e0a7cf23912390cff6eb61bb5ca2d05c7a5e93b66b2b7fb28ff66cc58409",
+  "source": {
+   "channel": "@supatronic",
+   "id": "supatronic",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/supatronic/"
+  }
+ },
+ "suppa": {
+  "local_image": "build/source_images/suppa-youtube-SOJh4PHOWpI.jpg",
+  "require_verified_source": true,
+  "revision": "yt-sojh4phowpi",
+  "sha256": "6a222beec9b8b7586793c005d4848c1cd51fd31640caf24c45342601f771adfa",
+  "source": {
+   "channel": "KING BOUYON (BOUYON HIT PARADE)",
+   "id": "SOJh4PHOWpI",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Suppa feat Ti CHô Ghetto Princess _ Never Stop Di Bouyon",
+   "url": "https://www.youtube.com/watch?v=SOJh4PHOWpI"
+  }
+ },
+ "sweet-ticky": {
+  "local_image": "build/source_images/sweet-ticky-verified-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "verified-20261028",
+  "sha256": "3e2d1c5eb76c49d8133b7ef40a0d949cf7434ff349846567d94efd225772ec68",
+  "source": {
+   "channel": "TK International official website",
+   "id": "tk-band-2025",
+   "image_type": "group_photo",
+   "kind": "website",
+   "title": "TK International group photo, the band of vocalist Lennan “Ticky” Matthew",
+   "url": "https://triplekayinternational.com/about-us/"
+  }
+ },
+ "t-c": {
+  "local_image": "build/source_images/t-c-youtube-iZ46ZrJN_NE.jpg",
+  "require_verified_source": true,
+  "revision": "yt-20261028",
+  "sha256": "ce73d76d9ae446b10a019bb00ba370740400b47f908354efcdcf70da1ffa5ab1",
+  "source": {
+   "channel": "Dr Eevil",
+   "id": "iZ46ZrJN_NE",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "DR Eevil,T.C AND Sticky – We Trippy (Bouyon)",
+   "url": "https://www.youtube.com/watch?v=iZ46ZrJN_NE"
+  }
+ },
+ "tasmo": {
+  "local_image": "build/source_images/tasmo-release-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "release-20261028",
+  "sha256": "c8fb7504210e5a4f0c6fc2c059e07c0b6efc46cb6cde3caf7d700a036c04d010",
+  "source": {
+   "channel": "Yellow Gaza, Keytzone, Tasmo",
+   "id": "track/2304556255",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "Bouwéy",
+   "url": "https://www.deezer.com/track/2304556255"
+  }
+ },
+ "tazzo-thaboss": {
+  "local_image": "build/source_images/tazzo-thaboss-youtube-mhw-yKxTYoY.jpg",
+  "require_verified_source": true,
+  "revision": "yt-20261028",
+  "sha256": "ec8c53ca977ecde2aa1a82c5cf0999ddddb8e54a4066823bb47f049228b39e57",
+  "source": {
+   "channel": "TAZZO ENTERTAINMENT$",
+   "id": "mhw-yKxTYoY",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "TAZZO THABO$$ -  GLIZZY SPRAY (1ST \"BOUYON DRILL\" EVER)",
+   "url": "https://www.youtube.com/watch?v=mhw-yKxTYoY"
+  }
+ },
+ "tha-wizzard": {
+  "local_image": "build/source_images/tha-wizzard-instagram-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "ig-20261028",
+  "sha256": "7dfe490ee3d48579991899527d670f13cf666c2c2b02d7b9ba33bd61777f3c22",
+  "source": {
+   "channel": "@thaawizzard",
+   "id": "thaawizzard",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/thaawizzard/"
+  }
+ },
+ "theomaa": {
+  "local_image": "build/source_images/theomaa-instagram-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "ig-20261028",
+  "sha256": "e3fc7297557471efe8c32908e71ec535cbe6749c5d798c3bff027a33bc626d7a",
+  "source": {
+   "channel": "@13theomaa_",
+   "id": "13theomaa_",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/13theomaa_/"
+  }
+ },
+ "thesmsgirls": {
+  "local_image": "build/source_images/thesmsgirls-release-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "release-20261028",
+  "sha256": "d247cd2c6b316b534b9cab39983375acef43d97ad137d1abb2db79ab69b9de16",
+  "source": {
+   "channel": "Thesmsgirls, Honey",
+   "id": "track/4204483012",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "Stop It (Freestyle)",
+   "url": "https://www.deezer.com/track/4204483012"
+  }
+ },
+ "ti-locksee": {
+  "local_image": "build/source_images/ti-locksee-release-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "release-20261028",
+  "sha256": "fecc0b1a7d115d4164045f33b587071a4688a4c87856da28e3e51a66e50b9e22",
+  "source": {
+   "channel": "MA6MO, Ti locksée",
+   "id": "track/1810496727",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "Sexuelle Attirance",
+   "url": "https://www.deezer.com/track/1810496727"
+  }
+ },
+ "trev-li": {
+  "local_image": "build/source_images/trev-li-instagram-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "ig-20261028",
+  "sha256": "b5c2c51827229fa9cc02e172af2c7f31cbba14fc3f2052f5faa90a34dcf39430",
+  "source": {
+   "channel": "@trev.li",
+   "id": "trev.li",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/trev.li/"
+  }
+ },
+ "triszy": {
+  "local_image": "build/source_images/triszy-instagram-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "ig-20261028",
+  "sha256": "f1b31e6eb03c4d46cd9c3beeb3196124b71705a27333bcc21e569b68edc8fe30",
+  "source": {
+   "channel": "@triszytrisz",
+   "id": "triszytrisz",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/triszytrisz/"
+  }
+ },
+ "trixx": {
+  "local_image": "build/source_images/trixx-release-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "release-20261028",
+  "sha256": "37e8ad8a12e26bbb26ed2d507af42199b174810b2ed77834be6ecf538c988654",
+  "source": {
+   "channel": "Litleboy, Gwada G, Trixx, Freddy, Nice",
+   "id": "album/794913351",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "Nasty Freestyle Medley (feat. Gwada G, Trixx, Freddy & Nice)",
+   "url": "https://www.deezer.com/album/794913351"
+  }
+ },
+ "vador": {
+  "local_image": "build/source_images/vador-release-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "release-20261028",
+  "sha256": "bd6616794e1aedffaa76126fbbb5a253b3ed51313c2b0737f812b7fade11bda1",
+  "source": {
+   "channel": "Yellow Gaza Girls",
+   "id": "track/3611861112",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "LEVRETTE",
+   "url": "https://www.deezer.com/track/3611861112"
+  }
+ },
+ "viv-beats": {
+  "local_image": "build/source_images/viv-beats-youtube-MTer0QucA18.jpg",
+  "require_verified_source": true,
+  "revision": "yt-20261028",
+  "sha256": "aba3439dd9df7a5709d93e9a40f79a03a9f2312e7971310e75a843d827d4e750",
+  "source": {
+   "channel": "VIV Beats",
+   "id": "MTer0QucA18",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Pablo (Bouyon Instrumental) | VIV Beats",
+   "url": "https://www.youtube.com/watch?v=MTer0QucA18"
+  }
+ },
+ "wck": {
+  "youtube": "XB_JdT2NTLQ"
+ },
+ "xavvoknockin": {
+  "local_image": "build/source_images/xavvoknockin-youtube-Il4mV4sTSj8.jpg",
+  "require_verified_source": true,
+  "revision": "yt-il4mv4stsj8",
+  "sha256": "89dbe1b861d5af5caadbc8bb956f410f47b04f8f929107072f3e08546499237f",
+  "source": {
+   "channel": "Knockin Records",
+   "id": "Il4mV4sTSj8",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Knock knock - Redpunchdrip, VIRTUOSE & Xavvoknockin - (Bouyon 2026)",
+   "url": "https://www.youtube.com/watch?v=Il4mV4sTSj8"
+  }
+ },
+ "xs-groove": {
+  "local_image": "build/source_images/xs-groove-instagram-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "ig-20261028",
+  "sha256": "2947477061370c86d000660d610958de85b184d42f9ad232aac2c1ebe36e2e5d",
+  "source": {
+   "channel": "@xsgroove",
+   "id": "xsgroove",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/xsgroove/"
+  }
+ },
+ "yojoshii": {
+  "local_image": "build/source_images/yojoshii-release-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "release-20261028",
+  "sha256": "bf8323ff1427661305e41b4000ab23393a19fa209b9e0ec0bc2df81b1648ac0a",
+  "source": {
+   "channel": "Pinpin OSP",
+   "id": "track/4342342752",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "See U",
+   "url": "https://www.deezer.com/track/4342342752"
+  }
+ },
+ "young-ob": {
+  "local_image": "build/source_images/young-ob-release-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "release-20261028",
+  "sha256": "3d507b06f6d7cfa14b438073392e0338c78661b96ca8741f101d2f8d02aa3b1b",
+  "source": {
+   "channel": "D4A Nillio, Young OB",
+   "id": "track/3752133492",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "Storybook Riddim Freestyle (feat. Young Ob) (Bouyon Version)",
+   "url": "https://www.deezer.com/track/3752133492"
+  }
+ },
+ "youry-fleming": {
+  "local_image": "build/source_images/youry-fleming-release-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "release-20261028",
+  "sha256": "8cc3ef507c3de5c9d52f8b92ef6ab554cce2563fa566e33e8add984abab9a9be",
+  "source": {
+   "channel": "Youry",
+   "id": "track/1282840132",
+   "image_type": "release_artwork",
+   "kind": "release",
+   "title": "Lucy Lucy",
+   "url": "https://www.deezer.com/track/1282840132"
+  }
+ },
+ "yuniikbeatz": {
+  "local_image": "build/source_images/yuniikbeatz-instagram-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "ig-20261028",
+  "sha256": "b5dc69ed37ed175841a14f6d9921a9df5218387f1cee3e719f4ddf7cd59f1847",
+  "source": {
+   "channel": "@yuniik.cbl",
+   "id": "yuniik.cbl",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/yuniik.cbl/"
+  }
+ },
+ "zwady": {
+  "local_image": "build/source_images/zwady-instagram-20261028.jpg",
+  "require_verified_source": true,
+  "revision": "ig-20261028",
+  "sha256": "3ad7eec6f68348b15fe0e5b6c518ef8e194bb9b6e9187408920427da1c2d9378",
+  "source": {
+   "channel": "@zwadymusic",
+   "id": "zwadymusic",
+   "image_type": "profile_image",
+   "kind": "instagram",
+   "title": "Instagram profile image",
+   "url": "https://www.instagram.com/zwadymusic/"
+  }
+ }
 }
