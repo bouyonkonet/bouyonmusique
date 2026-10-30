@@ -142,6 +142,38 @@
   },
   "w": 1280
  },
+ "admiral-t": {
+  "alt_en": "Admiral T, bouyon artist from Guadeloupe: still from the video “Admiral T Ft. Jacob Desvarieux - Chat Ka Tété Rat”",
+  "alt_fr": "Admiral T, artiste bouyon de Guadeloupe : image du clip « Admiral T Ft. Jacob Desvarieux - Chat Ka Tété Rat »",
+  "bytes": {
+   "admiral-t-bouyon-guadeloupe-1280.jpg": 117041,
+   "admiral-t-bouyon-guadeloupe-1280.webp": 75522,
+   "admiral-t-bouyon-guadeloupe-640.jpg": 52401,
+   "admiral-t-bouyon-guadeloupe-640.webp": 36504
+  },
+  "caption_en": "Image: YouTube thumbnail of “Admiral T Ft. Jacob Desvarieux - Chat Ka Tété Rat”, Admiral T Officiel channel.",
+  "caption_fr": "Image : miniature YouTube de « Admiral T Ft. Jacob Desvarieux - Chat Ka Tété Rat », chaîne Admiral T Officiel.",
+  "file": "admiral-t-bouyon-guadeloupe",
+  "gathered": "2026-10-29",
+  "h": 720,
+  "island": {
+   "anchor": "guadeloupe",
+   "code": "gp",
+   "en": "Guadeloupe",
+   "fr": "Guadeloupe"
+  },
+  "name": "Admiral T",
+  "sha": "6ede665f448e",
+  "source": {
+   "channel": "Admiral T Officiel",
+   "id": "Hh7LOv7pGsI",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Admiral T Ft. Jacob Desvarieux - Chat Ka Tété Rat",
+   "url": "https://www.youtube.com/watch?v=Hh7LOv7pGsI"
+  },
+  "w": 1280
+ },
  "aknose": {
   "alt_en": "Aknose, bouyon artist from Guadeloupe: still from the video “AKNOSE ft KIMA ft Magistral - Coulie Coulie (Clip Officiel)”",
   "alt_fr": "Aknose, artiste bouyon de Guadeloupe : image du clip « AKNOSE ft KIMA ft Magistral - Coulie Coulie (Clip Officiel) »",
@@ -1003,6 +1035,38 @@
    "kind": "deezer",
    "title": "Bunji Garlin",
    "url": "https://www.deezer.com/artist/81698"
+  },
+  "w": 1280
+ },
+ "burn-brain-jolly": {
+  "alt_en": "Burn Brain Jolly, bouyon artist from Dominica: still from the video “Babawholay”",
+  "alt_fr": "Burn Brain Jolly, artiste bouyon de Dominique : image du clip « Babawholay »",
+  "bytes": {
+   "burn-brain-jolly-bouyon-dominica-1280.jpg": 120423,
+   "burn-brain-jolly-bouyon-dominica-1280.webp": 64668,
+   "burn-brain-jolly-bouyon-dominica-640.jpg": 47290,
+   "burn-brain-jolly-bouyon-dominica-640.webp": 28448
+  },
+  "caption_en": "Image: YouTube thumbnail of “Babawholay”.",
+  "caption_fr": "Image : miniature YouTube de « Babawholay ».",
+  "file": "burn-brain-jolly-bouyon-dominica",
+  "gathered": "2026-10-29",
+  "h": 720,
+  "island": {
+   "anchor": "dominica",
+   "code": "dm",
+   "en": "Dominica",
+   "fr": "Dominique"
+  },
+  "name": "Burn Brain Jolly",
+  "sha": "d0554311297a",
+  "source": {
+   "channel": "",
+   "id": "qyFQO08HNhg",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Babawholay",
+   "url": "https://www.youtube.com/watch?v=qyFQO08HNhg"
   },
   "w": 1280
  },
@@ -2084,6 +2148,38 @@
    "quality": "maxresdefault",
    "title": "Devon George - Overload (Bouyon 2022)",
    "url": "https://www.youtube.com/watch?v=fJ5IUOfv0FE"
+  },
+  "w": 1280
+ },
+ "dexterman": {
+  "alt_en": "Dexterman, bouyon artist from Guadeloupe: still from the video “DEXTERMAN - REAL [ CLIP OFFICIEL 2018 ]”",
+  "alt_fr": "Dexterman, artiste bouyon de Guadeloupe : image du clip « DEXTERMAN - REAL [ CLIP OFFICIEL 2018 ] »",
+  "bytes": {
+   "dexterman-bouyon-guadeloupe-1280.jpg": 73112,
+   "dexterman-bouyon-guadeloupe-1280.webp": 43700,
+   "dexterman-bouyon-guadeloupe-640.jpg": 35356,
+   "dexterman-bouyon-guadeloupe-640.webp": 20218
+  },
+  "caption_en": "Image: YouTube thumbnail of “DEXTERMAN - REAL [ CLIP OFFICIEL 2018 ]”, DEXTERMAN TV channel.",
+  "caption_fr": "Image : miniature YouTube de « DEXTERMAN - REAL [ CLIP OFFICIEL 2018 ] », chaîne DEXTERMAN TV.",
+  "file": "dexterman-bouyon-guadeloupe",
+  "gathered": "2026-10-29",
+  "h": 720,
+  "island": {
+   "anchor": "guadeloupe",
+   "code": "gp",
+   "en": "Guadeloupe",
+   "fr": "Guadeloupe"
+  },
+  "name": "Dexterman",
+  "sha": "f34dd463eb75",
+  "source": {
+   "channel": "DEXTERMAN TV",
+   "id": "GFayFf2p6qg",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "DEXTERMAN - REAL [ CLIP OFFICIEL 2018 ]",
+   "url": "https://www.youtube.com/watch?v=GFayFf2p6qg"
   },
   "w": 1280
  },
@@ -4669,6 +4765,38 @@
   },
   "w": 1280
  },
+ "keros-n": {
+  "alt_en": "Keros-N, bouyon artist from Guadeloupe: still from the video “Ukulélé”",
+  "alt_fr": "Keros-N, artiste bouyon de Guadeloupe : image du clip « Ukulélé »",
+  "bytes": {
+   "keros-n-bouyon-guadeloupe-1280.jpg": 112103,
+   "keros-n-bouyon-guadeloupe-1280.webp": 65764,
+   "keros-n-bouyon-guadeloupe-640.jpg": 43926,
+   "keros-n-bouyon-guadeloupe-640.webp": 29550
+  },
+  "caption_en": "Image: YouTube thumbnail of “Ukulélé”.",
+  "caption_fr": "Image : miniature YouTube de « Ukulélé ».",
+  "file": "keros-n-bouyon-guadeloupe",
+  "gathered": "2026-10-29",
+  "h": 720,
+  "island": {
+   "anchor": "guadeloupe",
+   "code": "gp",
+   "en": "Guadeloupe",
+   "fr": "Guadeloupe"
+  },
+  "name": "Keros-N",
+  "sha": "e8f5b0d940d6",
+  "source": {
+   "channel": "",
+   "id": "xJ1PbWGVCSA",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Ukulélé",
+   "url": "https://www.youtube.com/watch?v=xJ1PbWGVCSA"
+  },
+  "w": 1280
+ },
  "kevni": {
   "alt_en": "Kevni, bouyon artist from Guadeloupe: artist photo (Deezer page)",
   "alt_fr": "Kevni, artiste bouyon de Guadeloupe : photo de l'artiste (page Deezer)",
@@ -4973,6 +5101,38 @@
    "quality": "maxresdefault",
    "title": "rah -  partymix ft klockerz krew",
    "url": "https://www.youtube.com/watch?v=Y3Nb7TLHQhQ"
+  },
+  "w": 1280
+ },
+ "konshens": {
+  "alt_en": "Konshens, bouyon artist from Jamaica: still from the video “Konshens - Bruk Off yuh back (Official Music Video)”",
+  "alt_fr": "Konshens, artiste bouyon de Jamaïque : image du clip « Konshens - Bruk Off yuh back (Official Music Video) »",
+  "bytes": {
+   "konshens-bouyon-jamaica-1280.jpg": 111103,
+   "konshens-bouyon-jamaica-1280.webp": 73318,
+   "konshens-bouyon-jamaica-640.jpg": 51770,
+   "konshens-bouyon-jamaica-640.webp": 35522
+  },
+  "caption_en": "Image: YouTube thumbnail of “Konshens - Bruk Off yuh back (Official Music Video)”, KONSHENS channel.",
+  "caption_fr": "Image : miniature YouTube de « Konshens - Bruk Off yuh back (Official Music Video) », chaîne KONSHENS.",
+  "file": "konshens-bouyon-jamaica",
+  "gathered": "2026-10-29",
+  "h": 720,
+  "island": {
+   "anchor": "jamaica",
+   "code": "jm",
+   "en": "Jamaica",
+   "fr": "Jamaïque"
+  },
+  "name": "Konshens",
+  "sha": "0a19e0f75a72",
+  "source": {
+   "channel": "KONSHENS",
+   "id": "B6lDG6PNmCs",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Konshens - Bruk Off yuh back (Official Music Video)",
+   "url": "https://www.youtube.com/watch?v=B6lDG6PNmCs"
   },
   "w": 1280
  },
@@ -6750,6 +6910,70 @@
   },
   "w": 1280
  },
+ "nailah-blackman": {
+  "alt_en": "Nailah Blackman, bouyon artist from Trinidad and Tobago: still from the video “Nailah Blackman - Origins (official Music Video)”",
+  "alt_fr": "Nailah Blackman, artiste bouyon de Trinité-et-Tobago : image du clip « Nailah Blackman - Origins (official Music Video) »",
+  "bytes": {
+   "nailah-blackman-bouyon-trinidad-1280.jpg": 83713,
+   "nailah-blackman-bouyon-trinidad-1280.webp": 45126,
+   "nailah-blackman-bouyon-trinidad-640.jpg": 36093,
+   "nailah-blackman-bouyon-trinidad-640.webp": 20762
+  },
+  "caption_en": "Image: YouTube thumbnail of “Nailah Blackman - Origins (official Music Video)”, Nailah Blackman Official channel.",
+  "caption_fr": "Image : miniature YouTube de « Nailah Blackman - Origins (official Music Video) », chaîne Nailah Blackman Official.",
+  "file": "nailah-blackman-bouyon-trinidad",
+  "gathered": "2026-10-29",
+  "h": 720,
+  "island": {
+   "anchor": "trinidad",
+   "code": "tt",
+   "en": "Trinidad and Tobago",
+   "fr": "Trinité-et-Tobago"
+  },
+  "name": "Nailah Blackman",
+  "sha": "ccc4d2849f04",
+  "source": {
+   "channel": "Nailah Blackman Official",
+   "id": "C0gOTIvE9v0",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Nailah Blackman - Origins (official Music Video)",
+   "url": "https://www.youtube.com/watch?v=C0gOTIvE9v0"
+  },
+  "w": 1280
+ },
+ "natoxie": {
+  "alt_en": "Natoxie, bouyon artist from Martinique: still from the video “Shatta Bouyon”",
+  "alt_fr": "Natoxie, artiste bouyon de Martinique : image du clip « Shatta Bouyon »",
+  "bytes": {
+   "natoxie-bouyon-martinique-1280.jpg": 72333,
+   "natoxie-bouyon-martinique-1280.webp": 38938,
+   "natoxie-bouyon-martinique-640.jpg": 29123,
+   "natoxie-bouyon-martinique-640.webp": 17900
+  },
+  "caption_en": "Image: YouTube thumbnail of “Shatta Bouyon”.",
+  "caption_fr": "Image : miniature YouTube de « Shatta Bouyon ».",
+  "file": "natoxie-bouyon-martinique",
+  "gathered": "2026-10-29",
+  "h": 720,
+  "island": {
+   "anchor": "martinique",
+   "code": "mq",
+   "en": "Martinique",
+   "fr": "Martinique"
+  },
+  "name": "Natoxie",
+  "sha": "78f960c04e4f",
+  "source": {
+   "channel": "",
+   "id": "983_4Exfo2U",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Shatta Bouyon",
+   "url": "https://www.youtube.com/watch?v=983_4Exfo2U"
+  },
+  "w": 1280
+ },
  "ncore": {
   "alt_en": "Ncore, bouyon artist from Dominica: still from the video “Riddim Live - MFR Band”",
   "alt_fr": "Ncore, artiste bouyon de Dominique : image du clip « Riddim Live - MFR Band »",
@@ -6926,6 +7150,38 @@
    "kind": "release",
    "title": "BAISE-MOI",
    "url": "https://music.apple.com/us/album/baise-moi-feat-riko-le-bluff-tgx-billy-bybf-pixou-le/1717306016"
+  },
+  "w": 1280
+ },
+ "nicy": {
+  "alt_en": "Nicy, bouyon artist from Guadeloupe: still from the video “Meritey”",
+  "alt_fr": "Nicy, artiste bouyon de Guadeloupe : image du clip « Meritey »",
+  "bytes": {
+   "nicy-bouyon-guadeloupe-1280.jpg": 85106,
+   "nicy-bouyon-guadeloupe-1280.webp": 50326,
+   "nicy-bouyon-guadeloupe-640.jpg": 39713,
+   "nicy-bouyon-guadeloupe-640.webp": 23406
+  },
+  "caption_en": "Image: YouTube thumbnail of “Meritey”.",
+  "caption_fr": "Image : miniature YouTube de « Meritey ».",
+  "file": "nicy-bouyon-guadeloupe",
+  "gathered": "2026-10-29",
+  "h": 720,
+  "island": {
+   "anchor": "guadeloupe",
+   "code": "gp",
+   "en": "Guadeloupe",
+   "fr": "Guadeloupe"
+  },
+  "name": "Nicy",
+  "sha": "9db414730200",
+  "source": {
+   "channel": "",
+   "id": "z_YIibXN5rI",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Meritey",
+   "url": "https://www.youtube.com/watch?v=z_YIibXN5rI"
   },
   "w": 1280
  },
@@ -7168,6 +7424,38 @@
    "kind": "instagram",
    "title": "Instagram profile image",
    "url": "https://www.instagram.com/pa._.pel/"
+  },
+  "w": 1280
+ },
+ "patrice-roberts": {
+  "alt_en": "Patrice Roberts, bouyon artist from Trinidad and Tobago: still from the video “Patrice Roberts - Old & Grey (Official Music Video)”",
+  "alt_fr": "Patrice Roberts, artiste bouyon de Trinité-et-Tobago : image du clip « Patrice Roberts - Old & Grey (Official Music Video) »",
+  "bytes": {
+   "patrice-roberts-bouyon-trinidad-1280.jpg": 94401,
+   "patrice-roberts-bouyon-trinidad-1280.webp": 54880,
+   "patrice-roberts-bouyon-trinidad-640.jpg": 40169,
+   "patrice-roberts-bouyon-trinidad-640.webp": 25246
+  },
+  "caption_en": "Image: YouTube thumbnail of “Patrice Roberts - Old & Grey (Official Music Video)”, Patrice Roberts Music channel.",
+  "caption_fr": "Image : miniature YouTube de « Patrice Roberts - Old & Grey (Official Music Video) », chaîne Patrice Roberts Music.",
+  "file": "patrice-roberts-bouyon-trinidad",
+  "gathered": "2026-10-29",
+  "h": 720,
+  "island": {
+   "anchor": "trinidad",
+   "code": "tt",
+   "en": "Trinidad and Tobago",
+   "fr": "Trinité-et-Tobago"
+  },
+  "name": "Patrice Roberts",
+  "sha": "f7264b053f2f",
+  "source": {
+   "channel": "Patrice Roberts Music",
+   "id": "56GnN7iyTXY",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Patrice Roberts - Old & Grey (Official Music Video)",
+   "url": "https://www.youtube.com/watch?v=56GnN7iyTXY"
   },
   "w": 1280
  },
@@ -10044,6 +10332,38 @@
    "kind": "deezer",
    "title": "VJ Ben",
    "url": "https://www.deezer.com/artist/4591312"
+  },
+  "w": 1280
+ },
+ "wawa": {
+  "alt_en": "Wawa, bouyon artist from Dominica: still from the video “Signal Band - Coming Down”",
+  "alt_fr": "Wawa, artiste bouyon de Dominique : image du clip « Signal Band - Coming Down »",
+  "bytes": {
+   "wawa-bouyon-dominica-1280.jpg": 48804,
+   "wawa-bouyon-dominica-1280.webp": 19578,
+   "wawa-bouyon-dominica-640.jpg": 21475,
+   "wawa-bouyon-dominica-640.webp": 9770
+  },
+  "caption_en": "Image: YouTube thumbnail of “Signal Band - Coming Down”.",
+  "caption_fr": "Image : miniature YouTube de « Signal Band - Coming Down ».",
+  "file": "wawa-bouyon-dominica",
+  "gathered": "2026-10-29",
+  "h": 720,
+  "island": {
+   "anchor": "dominica",
+   "code": "dm",
+   "en": "Dominica",
+   "fr": "Dominique"
+  },
+  "name": "Wawa",
+  "sha": "ff4997bc3728",
+  "source": {
+   "channel": "",
+   "id": "gaGm9GDzktg",
+   "kind": "youtube",
+   "quality": "hqdefault",
+   "title": "Signal Band - Coming Down",
+   "url": "https://www.youtube.com/watch?v=gaGm9GDzktg"
   },
   "w": 1280
  },
