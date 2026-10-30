@@ -289,6 +289,33 @@
   },
   "w": 1280
  },
+ "arden-p": {
+  "alt_en": "Arden.P, bouyon artist: still from the video “Cocotet ft Arden P, Look Boom Boom, Bouyon 2014”",
+  "alt_fr": "Arden.P, artiste bouyon : image du clip « Cocotet ft Arden P, Look Boom Boom, Bouyon 2014 »",
+  "bytes": {
+   "arden-p-bouyon-1280.jpg": 111915,
+   "arden-p-bouyon-1280.webp": 62694,
+   "arden-p-bouyon-640.jpg": 46813,
+   "arden-p-bouyon-640.webp": 31502
+  },
+  "caption_en": "Image: YouTube thumbnail of “Cocotet ft Arden P, Look Boom Boom, Bouyon 2014”.",
+  "caption_fr": "Image : miniature YouTube de « Cocotet ft Arden P, Look Boom Boom, Bouyon 2014 ».",
+  "file": "arden-p-bouyon",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": null,
+  "name": "Arden.P",
+  "sha": "d250d8d36903",
+  "source": {
+   "channel": "",
+   "id": "SZCoTm8127Q",
+   "kind": "youtube",
+   "quality": "sddefault",
+   "title": "Cocotet ft Arden P, Look Boom Boom, Bouyon 2014",
+   "url": "https://www.youtube.com/watch?v=SZCoTm8127Q"
+  },
+  "w": 1280
+ },
  "arendi": {
   "alt_en": "Arendi: profile image from Instagram account @arendi_971",
   "alt_fr": "Arendi : image de profil du compte Instagram @arendi_971",
@@ -771,6 +798,65 @@
   },
   "w": 1280
  },
+ "bkz": {
+  "alt_en": "BKZ, bouyon artist: still from the video “JOYEUX BOUYON 1 #BBL”",
+  "alt_fr": "BKZ, artiste bouyon : image du clip « JOYEUX BOUYON 1 #BBL »",
+  "bytes": {
+   "bkz-bouyon-1280.jpg": 110745,
+   "bkz-bouyon-1280.webp": 59420,
+   "bkz-bouyon-640.jpg": 41607,
+   "bkz-bouyon-640.webp": 26274
+  },
+  "caption_en": "Image: YouTube thumbnail of “JOYEUX BOUYON 1 #BBL”.",
+  "caption_fr": "Image : miniature YouTube de « JOYEUX BOUYON 1 #BBL ».",
+  "file": "bkz-bouyon",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": null,
+  "name": "BKZ",
+  "sha": "eecbc4b14b17",
+  "source": {
+   "channel": "",
+   "id": "bDb06dq5eBw",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "JOYEUX BOUYON 1 #BBL",
+   "url": "https://www.youtube.com/watch?v=bDb06dq5eBw"
+  },
+  "w": 1280
+ },
+ "blaka-dan": {
+  "alt_en": "Blaka Dan, bouyon artist from Grenada: still from the video “My Time Now”",
+  "alt_fr": "Blaka Dan, artiste bouyon de Grenade : image du clip « My Time Now »",
+  "bytes": {
+   "blaka-dan-bouyon-grenada-1280.jpg": 56689,
+   "blaka-dan-bouyon-grenada-1280.webp": 31298,
+   "blaka-dan-bouyon-grenada-640.jpg": 27358,
+   "blaka-dan-bouyon-grenada-640.webp": 15054
+  },
+  "caption_en": "Image: YouTube thumbnail of “My Time Now”.",
+  "caption_fr": "Image : miniature YouTube de « My Time Now ».",
+  "file": "blaka-dan-bouyon-grenada",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": {
+   "anchor": "grenada",
+   "code": "gd",
+   "en": "Grenada",
+   "fr": "Grenade"
+  },
+  "name": "Blaka Dan",
+  "sha": "7cd3952a1889",
+  "source": {
+   "channel": "",
+   "id": "fV9Polw_198",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "My Time Now",
+   "url": "https://www.youtube.com/watch?v=fV9Polw_198"
+  },
+  "w": 1280
+ },
  "blicassty": {
   "alt_en": "Blicassty, bouyon artist from Martinique: artist photo (Deezer page)",
   "alt_fr": "Blicassty, artiste bouyon de Martinique : photo de l'artiste (page Deezer)",
@@ -1194,6 +1280,38 @@
   },
   "w": 1280
  },
+ "caspa-g": {
+  "alt_en": "Caspa G, bouyon artist from Saint Vincent and the Grenadines: still from the video “Caspa G - Tight Wine [Tequila Riddim] | Bouyon 2025”",
+  "alt_fr": "Caspa G, artiste bouyon de Saint-Vincent-et-les-Grenadines : image du clip « Caspa G - Tight Wine [Tequila Riddim] | Bouyon 2025 »",
+  "bytes": {
+   "caspa-g-bouyon-saint-vincent-1280.jpg": 109399,
+   "caspa-g-bouyon-saint-vincent-1280.webp": 62582,
+   "caspa-g-bouyon-saint-vincent-640.jpg": 42901,
+   "caspa-g-bouyon-saint-vincent-640.webp": 29252
+  },
+  "caption_en": "Image: YouTube thumbnail of “Caspa G - Tight Wine [Tequila Riddim] | Bouyon 2025”.",
+  "caption_fr": "Image : miniature YouTube de « Caspa G - Tight Wine [Tequila Riddim] | Bouyon 2025 ».",
+  "file": "caspa-g-bouyon-saint-vincent",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": {
+   "anchor": "saint-vincent",
+   "code": "vc",
+   "en": "Saint Vincent and the Grenadines",
+   "fr": "Saint-Vincent-et-les-Grenadines"
+  },
+  "name": "Caspa G",
+  "sha": "2be980157cee",
+  "source": {
+   "channel": "",
+   "id": "jENsxqsLB4k",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Caspa G - Tight Wine [Tequila Riddim] | Bouyon 2025",
+   "url": "https://www.youtube.com/watch?v=jENsxqsLB4k"
+  },
+  "w": 1280
+ },
  "cbgyvngsta": {
   "alt_en": "CbgYvngsta, bouyon artist: still from the video “CbgYvngsta - Suck it (Bouyon 2024) EXPLICIT”",
   "alt_fr": "CbgYvngsta, artiste bouyon : image du clip « CbgYvngsta - Suck it (Bouyon 2024) EXPLICIT »",
@@ -1366,6 +1484,38 @@
   },
   "w": 1280
  },
+ "clint-h": {
+  "alt_en": "Clint H, bouyon artist from Dominica: still from the video “WCK”",
+  "alt_fr": "Clint H, artiste bouyon de Dominique : image du clip « WCK »",
+  "bytes": {
+   "clint-h-bouyon-dominica-1280.jpg": 51202,
+   "clint-h-bouyon-dominica-1280.webp": 25732,
+   "clint-h-bouyon-dominica-640.jpg": 21673,
+   "clint-h-bouyon-dominica-640.webp": 12886
+  },
+  "caption_en": "Image: YouTube thumbnail of “WCK”.",
+  "caption_fr": "Image : miniature YouTube de « WCK ».",
+  "file": "clint-h-bouyon-dominica",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": {
+   "anchor": "dominica",
+   "code": "dm",
+   "en": "Dominica",
+   "fr": "Dominique"
+  },
+  "name": "Clint H",
+  "sha": "08b8cf867724",
+  "source": {
+   "channel": "",
+   "id": "X-zewhT4TQU",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "WCK",
+   "url": "https://www.youtube.com/watch?v=X-zewhT4TQU"
+  },
+  "w": 1280
+ },
  "cocotteland": {
   "alt_en": "Cocotteland, bouyon artist: artist photo (Deezer page)",
   "alt_fr": "Cocotteland, artiste bouyon : photo de l'artiste (page Deezer)",
@@ -1389,6 +1539,38 @@
    "kind": "deezer",
    "title": "Cocotteland",
    "url": "https://www.deezer.com/artist/236950201"
+  },
+  "w": 1280
+ },
+ "college-boy-jesse": {
+  "alt_en": "College Boy Jesse, bouyon artist from Trinidad and Tobago: still from the video “College Boy Jesse - Nocturnal Energy | Bouyon 2026”",
+  "alt_fr": "College Boy Jesse, artiste bouyon de Trinité-et-Tobago : image du clip « College Boy Jesse - Nocturnal Energy | Bouyon 2026 »",
+  "bytes": {
+   "college-boy-jesse-bouyon-trinidad-1280.jpg": 133243,
+   "college-boy-jesse-bouyon-trinidad-1280.webp": 80772,
+   "college-boy-jesse-bouyon-trinidad-640.jpg": 51908,
+   "college-boy-jesse-bouyon-trinidad-640.webp": 35398
+  },
+  "caption_en": "Image: YouTube thumbnail of “College Boy Jesse - Nocturnal Energy | Bouyon 2026”.",
+  "caption_fr": "Image : miniature YouTube de « College Boy Jesse - Nocturnal Energy | Bouyon 2026 ».",
+  "file": "college-boy-jesse-bouyon-trinidad",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": {
+   "anchor": "trinidad",
+   "code": "tt",
+   "en": "Trinidad and Tobago",
+   "fr": "Trinité-et-Tobago"
+  },
+  "name": "College Boy Jesse",
+  "sha": "7e2428b575b1",
+  "source": {
+   "channel": "",
+   "id": "DQgC01Y6AQs",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "College Boy Jesse - Nocturnal Energy | Bouyon 2026",
+   "url": "https://www.youtube.com/watch?v=DQgC01Y6AQs"
   },
   "w": 1280
  },
@@ -1740,6 +1922,38 @@
   },
   "w": 1280
  },
+ "daly": {
+  "alt_en": "Daly, bouyon artist from Guadeloupe: still from the video “Daly - Big Ting Poppin'”",
+  "alt_fr": "Daly, artiste bouyon de Guadeloupe : image du clip « Daly - Big Ting Poppin' »",
+  "bytes": {
+   "daly-bouyon-guadeloupe-1280.jpg": 95163,
+   "daly-bouyon-guadeloupe-1280.webp": 51518,
+   "daly-bouyon-guadeloupe-640.jpg": 39112,
+   "daly-bouyon-guadeloupe-640.webp": 23984
+  },
+  "caption_en": "Image: YouTube thumbnail of “Daly - Big Ting Poppin'”.",
+  "caption_fr": "Image : miniature YouTube de « Daly - Big Ting Poppin' ».",
+  "file": "daly-bouyon-guadeloupe",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": {
+   "anchor": "guadeloupe",
+   "code": "gp",
+   "en": "Guadeloupe",
+   "fr": "Guadeloupe"
+  },
+  "name": "Daly",
+  "sha": "6e621ac2d568",
+  "source": {
+   "channel": "",
+   "id": "WNrLsmd3-w0",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Daly - Big Ting Poppin'",
+   "url": "https://www.youtube.com/watch?v=WNrLsmd3-w0"
+  },
+  "w": 1280
+ },
  "david-campana": {
   "alt_en": "David Campana: profile image from Instagram account @dav.campana",
   "alt_fr": "David Campana : image de profil du compte Instagram @dav.campana",
@@ -1966,6 +2180,38 @@
    "quality": "maxresdefault",
    "title": "Valiant - Time Capsule (bouyon remix) prod by deejay twix",
    "url": "https://www.youtube.com/watch?v=_39PqtpGIYI"
+  },
+  "w": 1280
+ },
+ "deluxe-f": {
+  "alt_en": "DeLuxe F, bouyon artist from Dominica: still from the video “GeTTinG On”",
+  "alt_fr": "DeLuxe F, artiste bouyon de Dominique : image du clip « GeTTinG On »",
+  "bytes": {
+   "deluxe-f-bouyon-dominica-1280.jpg": 168294,
+   "deluxe-f-bouyon-dominica-1280.webp": 125592,
+   "deluxe-f-bouyon-dominica-640.jpg": 71945,
+   "deluxe-f-bouyon-dominica-640.webp": 57378
+  },
+  "caption_en": "Image: YouTube thumbnail of “GeTTinG On”.",
+  "caption_fr": "Image : miniature YouTube de « GeTTinG On ».",
+  "file": "deluxe-f-bouyon-dominica",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": {
+   "anchor": "dominica",
+   "code": "dm",
+   "en": "Dominica",
+   "fr": "Dominique"
+  },
+  "name": "DeLuxe F",
+  "sha": "0c5a7769043d",
+  "source": {
+   "channel": "",
+   "id": "CWLTMv6hk30",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "GeTTinG On",
+   "url": "https://www.youtube.com/watch?v=CWLTMv6hk30"
   },
   "w": 1280
  },
@@ -2383,6 +2629,38 @@
    "kind": "deezer",
    "title": "Dj Dirtee",
    "url": "https://www.deezer.com/artist/90393372"
+  },
+  "w": 1280
+ },
+ "dj-eyedol": {
+  "alt_en": "DJ Eyedol, bouyon artist (Saint Martin / Sint Maarten): still from the video “DJ EYEDOL BOUYON KINGS MIXTAPE Trouble Beat by Litleboy, Vadore Concept Groupe”",
+  "alt_fr": "DJ Eyedol, artiste bouyon (Saint-Martin / Sint Maarten) : image du clip « DJ EYEDOL BOUYON KINGS MIXTAPE Trouble Beat by Litleboy, Vadore Concept Groupe »",
+  "bytes": {
+   "dj-eyedol-bouyon-saint-martin-1280.jpg": 95619,
+   "dj-eyedol-bouyon-saint-martin-1280.webp": 61092,
+   "dj-eyedol-bouyon-saint-martin-640.jpg": 37884,
+   "dj-eyedol-bouyon-saint-martin-640.webp": 25724
+  },
+  "caption_en": "Image: YouTube thumbnail of “DJ EYEDOL BOUYON KINGS MIXTAPE Trouble Beat by Litleboy, Vadore Concept Groupe”.",
+  "caption_fr": "Image : miniature YouTube de « DJ EYEDOL BOUYON KINGS MIXTAPE Trouble Beat by Litleboy, Vadore Concept Groupe ».",
+  "file": "dj-eyedol-bouyon-saint-martin",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": {
+   "anchor": "saint-martin",
+   "code": "mf",
+   "en": "Saint Martin / Sint Maarten",
+   "fr": "Saint-Martin / Sint Maarten"
+  },
+  "name": "DJ Eyedol",
+  "sha": "406665b06eae",
+  "source": {
+   "channel": "",
+   "id": "Nq8jwHQ8ufM",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "DJ EYEDOL BOUYON KINGS MIXTAPE Trouble Beat by Litleboy, Vadore Concept Groupe",
+   "url": "https://www.youtube.com/watch?v=Nq8jwHQ8ufM"
   },
   "w": 1280
  },
@@ -3422,6 +3700,38 @@
   },
   "w": 1280
  },
+ "esclav": {
+  "alt_en": "Esclav, bouyon artist from Dominica: still from the video “Esclav - \"Viway\"”",
+  "alt_fr": "Esclav, artiste bouyon de Dominique : image du clip « Esclav - \"Viway\" »",
+  "bytes": {
+   "esclav-bouyon-dominica-1280.jpg": 76043,
+   "esclav-bouyon-dominica-1280.webp": 32386,
+   "esclav-bouyon-dominica-640.jpg": 31869,
+   "esclav-bouyon-dominica-640.webp": 16190
+  },
+  "caption_en": "Image: YouTube thumbnail of “Esclav - \"Viway\"”.",
+  "caption_fr": "Image : miniature YouTube de « Esclav - \"Viway\" ».",
+  "file": "esclav-bouyon-dominica",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": {
+   "anchor": "dominica",
+   "code": "dm",
+   "en": "Dominica",
+   "fr": "Dominique"
+  },
+  "name": "Esclav",
+  "sha": "784fe8fcd7ef",
+  "source": {
+   "channel": "",
+   "id": "xzbeQqmgXX8",
+   "kind": "youtube",
+   "quality": "hqdefault",
+   "title": "Esclav - \"Viway\"",
+   "url": "https://www.youtube.com/watch?v=xzbeQqmgXX8"
+  },
+  "w": 1280
+ },
  "ezee-wmn": {
   "alt_en": "Ezee WMN, bouyon artist: still from the video “CbgYvngsta & Ezee WMN - Love Me Or Not (Official Audio) (Bouyon 2025)”",
   "alt_fr": "Ezee WMN, artiste bouyon : image du clip « CbgYvngsta & Ezee WMN - Love Me Or Not (Official Audio) (Bouyon 2025) »",
@@ -3446,6 +3756,38 @@
    "quality": "hqdefault",
    "title": "CbgYvngsta & Ezee WMN - Love Me Or Not (Official Audio) (Bouyon 2025)",
    "url": "https://www.youtube.com/watch?v=GhnqHoMTQWo"
+  },
+  "w": 1280
+ },
+ "fadda-fox": {
+  "alt_en": "Fadda Fox, bouyon artist from Barbados: still from the video “Bess Jam, with Faithii”",
+  "alt_fr": "Fadda Fox, artiste bouyon de Barbade : image du clip « Bess Jam, with Faithii »",
+  "bytes": {
+   "fadda-fox-bouyon-barbados-1280.jpg": 160849,
+   "fadda-fox-bouyon-barbados-1280.webp": 103828,
+   "fadda-fox-bouyon-barbados-640.jpg": 57143,
+   "fadda-fox-bouyon-barbados-640.webp": 40066
+  },
+  "caption_en": "Image: YouTube thumbnail of “Bess Jam, with Faithii”.",
+  "caption_fr": "Image : miniature YouTube de « Bess Jam, with Faithii ».",
+  "file": "fadda-fox-bouyon-barbados",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": {
+   "anchor": "barbados",
+   "code": "bb",
+   "en": "Barbados",
+   "fr": "Barbade"
+  },
+  "name": "Fadda Fox",
+  "sha": "22884817c14f",
+  "source": {
+   "channel": "",
+   "id": "ebhPtnIhFF8",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Bess Jam, with Faithii",
+   "url": "https://www.youtube.com/watch?v=ebhPtnIhFF8"
   },
   "w": 1280
  },
@@ -3689,6 +4031,38 @@
   },
   "w": 1280
  },
+ "fowko": {
+  "alt_en": "Fowko, bouyon artist from Guadeloupe: still from the video “L'Adultère, dubplate version DJ Illan's, \"bouyon de l'été\"”",
+  "alt_fr": "Fowko, artiste bouyon de Guadeloupe : image du clip « L'Adultère, dubplate version DJ Illan's, \"bouyon de l'été\" »",
+  "bytes": {
+   "fowko-bouyon-guadeloupe-1280.jpg": 153231,
+   "fowko-bouyon-guadeloupe-1280.webp": 100886,
+   "fowko-bouyon-guadeloupe-640.jpg": 63646,
+   "fowko-bouyon-guadeloupe-640.webp": 49474
+  },
+  "caption_en": "Image: YouTube thumbnail of “L'Adultère, dubplate version DJ Illan's, \"bouyon de l'été\"”.",
+  "caption_fr": "Image : miniature YouTube de « L'Adultère, dubplate version DJ Illan's, \"bouyon de l'été\" ».",
+  "file": "fowko-bouyon-guadeloupe",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": {
+   "anchor": "guadeloupe",
+   "code": "gp",
+   "en": "Guadeloupe",
+   "fr": "Guadeloupe"
+  },
+  "name": "Fowko",
+  "sha": "9ca73bffc23e",
+  "source": {
+   "channel": "",
+   "id": "Qe96I_6Asc8",
+   "kind": "youtube",
+   "quality": "sddefault",
+   "title": "L'Adultère, dubplate version DJ Illan's, \"bouyon de l'été\"",
+   "url": "https://www.youtube.com/watch?v=Qe96I_6Asc8"
+  },
+  "w": 1280
+ },
  "foxy-jael": {
   "alt_en": "Foxy Jael: profile image from Instagram account @jaeljoseph",
   "alt_fr": "Foxy Jael : image de profil du compte Instagram @jaeljoseph",
@@ -3755,6 +4129,38 @@
   },
   "w": 1280
  },
+ "frank-white": {
+  "alt_en": "Frank White, bouyon artist from Dominica: still from the video “Frank White of Zone Rouge, Parlé with Cranberry S3E13”",
+  "alt_fr": "Frank White, artiste bouyon de Dominique : image du clip « Frank White of Zone Rouge, Parlé with Cranberry S3E13 »",
+  "bytes": {
+   "frank-white-bouyon-dominica-1280.jpg": 131888,
+   "frank-white-bouyon-dominica-1280.webp": 84434,
+   "frank-white-bouyon-dominica-640.jpg": 51690,
+   "frank-white-bouyon-dominica-640.webp": 35394
+  },
+  "caption_en": "Image: YouTube thumbnail of “Frank White of Zone Rouge, Parlé with Cranberry S3E13”.",
+  "caption_fr": "Image : miniature YouTube de « Frank White of Zone Rouge, Parlé with Cranberry S3E13 ».",
+  "file": "frank-white-bouyon-dominica",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": {
+   "anchor": "dominica",
+   "code": "dm",
+   "en": "Dominica",
+   "fr": "Dominique"
+  },
+  "name": "Frank White",
+  "sha": "ad767852f2d5",
+  "source": {
+   "channel": "",
+   "id": "x6QgW1VkFvo",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Frank White of Zone Rouge, Parlé with Cranberry S3E13",
+   "url": "https://www.youtube.com/watch?v=x6QgW1VkFvo"
+  },
+  "w": 1280
+ },
  "freddy": {
   "alt_en": "Freddy: profile image from Instagram account @ready4freddy_official",
   "alt_fr": "Freddy : image de profil du compte Instagram @ready4freddy_official",
@@ -3785,6 +4191,70 @@
    "kind": "instagram",
    "title": "Instagram profile image",
    "url": "https://www.instagram.com/ready4freddy_official/"
+  },
+  "w": 1280
+ },
+ "freezy": {
+  "alt_en": "Freezy, bouyon artist from Saint Lucia: still from the video “FREEZY, ZIDO & BOOGY RANKSS - PARTY PARTY (PELAU RIDDIM) SOCA 2023 #bouyon #dennerysegment”",
+  "alt_fr": "Freezy, artiste bouyon de Sainte-Lucie : image du clip « FREEZY, ZIDO & BOOGY RANKSS - PARTY PARTY (PELAU RIDDIM) SOCA 2023 #bouyon #dennerysegment »",
+  "bytes": {
+   "freezy-bouyon-saint-lucia-1280.jpg": 108717,
+   "freezy-bouyon-saint-lucia-1280.webp": 63410,
+   "freezy-bouyon-saint-lucia-640.jpg": 44026,
+   "freezy-bouyon-saint-lucia-640.webp": 29602
+  },
+  "caption_en": "Image: YouTube thumbnail of “FREEZY, ZIDO & BOOGY RANKSS - PARTY PARTY (PELAU RIDDIM) SOCA 2023 #bouyon #dennerysegment”, Boogy Rankss channel.",
+  "caption_fr": "Image : miniature YouTube de « FREEZY, ZIDO & BOOGY RANKSS - PARTY PARTY (PELAU RIDDIM) SOCA 2023 #bouyon #dennerysegment », chaîne Boogy Rankss.",
+  "file": "freezy-bouyon-saint-lucia",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": {
+   "anchor": "saint-lucia",
+   "code": "lc",
+   "en": "Saint Lucia",
+   "fr": "Sainte-Lucie"
+  },
+  "name": "Freezy",
+  "sha": "532c5140f50c",
+  "source": {
+   "channel": "Boogy Rankss",
+   "id": "u_LsBwwgj2c",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "FREEZY, ZIDO & BOOGY RANKSS - PARTY PARTY (PELAU RIDDIM) SOCA 2023 #bouyon #dennerysegment",
+   "url": "https://www.youtube.com/watch?v=u_LsBwwgj2c"
+  },
+  "w": 1280
+ },
+ "fucha-kid": {
+  "alt_en": "Fucha Kid, bouyon artist from Antigua: still from the video “Mr Gwada feat Fucha Kid - Make Money”",
+  "alt_fr": "Fucha Kid, artiste bouyon de Antigua : image du clip « Mr Gwada feat Fucha Kid - Make Money »",
+  "bytes": {
+   "fucha-kid-bouyon-antigua-1280.jpg": 179173,
+   "fucha-kid-bouyon-antigua-1280.webp": 128668,
+   "fucha-kid-bouyon-antigua-640.jpg": 52916,
+   "fucha-kid-bouyon-antigua-640.webp": 38868
+  },
+  "caption_en": "Image: YouTube thumbnail of “Mr Gwada feat Fucha Kid - Make Money”.",
+  "caption_fr": "Image : miniature YouTube de « Mr Gwada feat Fucha Kid - Make Money ».",
+  "file": "fucha-kid-bouyon-antigua",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": {
+   "anchor": "antigua",
+   "code": "ag",
+   "en": "Antigua",
+   "fr": "Antigua"
+  },
+  "name": "Fucha Kid",
+  "sha": "1ab4cea48185",
+  "source": {
+   "channel": "",
+   "id": "93fTouQRXHY",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Mr Gwada feat Fucha Kid - Make Money",
+   "url": "https://www.youtube.com/watch?v=93fTouQRXHY"
   },
   "w": 1280
  },
@@ -3876,6 +4346,70 @@
    "quality": "maxresdefault",
    "title": "Up",
    "url": "https://www.youtube.com/watch?v=0ADPAQXCT4A"
+  },
+  "w": 1280
+ },
+ "gg3": {
+  "alt_en": "GG3, bouyon artist from Guadeloupe: still from the video “World Cup Bouyon, GG3”",
+  "alt_fr": "GG3, artiste bouyon de Guadeloupe : image du clip « World Cup Bouyon, GG3 »",
+  "bytes": {
+   "gg3-bouyon-guadeloupe-1280.jpg": 37623,
+   "gg3-bouyon-guadeloupe-1280.webp": 16730,
+   "gg3-bouyon-guadeloupe-640.jpg": 16279,
+   "gg3-bouyon-guadeloupe-640.webp": 8550
+  },
+  "caption_en": "Image: YouTube thumbnail of “World Cup Bouyon, GG3”.",
+  "caption_fr": "Image : miniature YouTube de « World Cup Bouyon, GG3 ».",
+  "file": "gg3-bouyon-guadeloupe",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": {
+   "anchor": "guadeloupe",
+   "code": "gp",
+   "en": "Guadeloupe",
+   "fr": "Guadeloupe"
+  },
+  "name": "GG3",
+  "sha": "2aeb586da585",
+  "source": {
+   "channel": "",
+   "id": "Ig66RpQ3k-o",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "World Cup Bouyon, GG3",
+   "url": "https://www.youtube.com/watch?v=Ig66RpQ3k-o"
+  },
+  "w": 1280
+ },
+ "ghetto-princess": {
+  "alt_en": "Ghetto Princess, bouyon artist from Guadeloupe: still from the video “Ghetto Princess feat Doc J_ BOUYON EN NOU SAL [MARS 2013] JDMO”",
+  "alt_fr": "Ghetto Princess, artiste bouyon de Guadeloupe : image du clip « Ghetto Princess feat Doc J_ BOUYON EN NOU SAL [MARS 2013] JDMO »",
+  "bytes": {
+   "ghetto-princess-bouyon-guadeloupe-1280.jpg": 44219,
+   "ghetto-princess-bouyon-guadeloupe-1280.webp": 31790,
+   "ghetto-princess-bouyon-guadeloupe-640.jpg": 23728,
+   "ghetto-princess-bouyon-guadeloupe-640.webp": 14938
+  },
+  "caption_en": "Image: YouTube thumbnail of “Ghetto Princess feat Doc J_ BOUYON EN NOU SAL [MARS 2013] JDMO”.",
+  "caption_fr": "Image : miniature YouTube de « Ghetto Princess feat Doc J_ BOUYON EN NOU SAL [MARS 2013] JDMO ».",
+  "file": "ghetto-princess-bouyon-guadeloupe",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": {
+   "anchor": "guadeloupe",
+   "code": "gp",
+   "en": "Guadeloupe",
+   "fr": "Guadeloupe"
+  },
+  "name": "Ghetto Princess",
+  "sha": "c3b26c6e50ee",
+  "source": {
+   "channel": "",
+   "id": "QeMXWDvxLkM",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Ghetto Princess feat Doc J_ BOUYON EN NOU SAL [MARS 2013] JDMO",
+   "url": "https://www.youtube.com/watch?v=QeMXWDvxLkM"
   },
   "w": 1280
  },
@@ -4020,6 +4554,38 @@
    "kind": "instagram",
    "title": "Instagram profile image",
    "url": "https://www.instagram.com/gz_upp/"
+  },
+  "w": 1280
+ },
+ "halibut": {
+  "alt_en": "Halibut, bouyon artist from Dominica: still from the video “NEW 2014 Halibut - False Hair [DOMINICA] {BOUYON-SOCA} Madras Riddim”",
+  "alt_fr": "Halibut, artiste bouyon de Dominique : image du clip « NEW 2014 Halibut - False Hair [DOMINICA] {BOUYON-SOCA} Madras Riddim »",
+  "bytes": {
+   "halibut-bouyon-dominica-1280.jpg": 69630,
+   "halibut-bouyon-dominica-1280.webp": 32258,
+   "halibut-bouyon-dominica-640.jpg": 28465,
+   "halibut-bouyon-dominica-640.webp": 15704
+  },
+  "caption_en": "Image: YouTube thumbnail of “NEW 2014 Halibut - False Hair [DOMINICA] {BOUYON-SOCA} Madras Riddim”.",
+  "caption_fr": "Image : miniature YouTube de « NEW 2014 Halibut - False Hair [DOMINICA] {BOUYON-SOCA} Madras Riddim ».",
+  "file": "halibut-bouyon-dominica",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": {
+   "anchor": "dominica",
+   "code": "dm",
+   "en": "Dominica",
+   "fr": "Dominique"
+  },
+  "name": "Halibut",
+  "sha": "2378beb809ec",
+  "source": {
+   "channel": "",
+   "id": "itcqmovmwFk",
+   "kind": "youtube",
+   "quality": "hqdefault",
+   "title": "NEW 2014 Halibut - False Hair [DOMINICA] {BOUYON-SOCA} Madras Riddim",
+   "url": "https://www.youtube.com/watch?v=itcqmovmwFk"
   },
   "w": 1280
  },
@@ -4173,6 +4739,33 @@
   },
   "w": 1280
  },
+ "hxnter": {
+  "alt_en": "Hxnter, bouyon artist: still from the video “Bouyon 2025 - Caution Riddim”",
+  "alt_fr": "Hxnter, artiste bouyon : image du clip « Bouyon 2025 - Caution Riddim »",
+  "bytes": {
+   "hxnter-bouyon-1280.jpg": 118306,
+   "hxnter-bouyon-1280.webp": 67446,
+   "hxnter-bouyon-640.jpg": 40999,
+   "hxnter-bouyon-640.webp": 22750
+  },
+  "caption_en": "Image: YouTube thumbnail of “Bouyon 2025 - Caution Riddim”.",
+  "caption_fr": "Image : miniature YouTube de « Bouyon 2025 - Caution Riddim ».",
+  "file": "hxnter-bouyon",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": null,
+  "name": "Hxnter",
+  "sha": "37c131d41aec",
+  "source": {
+   "channel": "",
+   "id": "OPITa9Z47xI",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Bouyon 2025 - Caution Riddim",
+   "url": "https://www.youtube.com/watch?v=OPITa9Z47xI"
+  },
+  "w": 1280
+ },
  "hypno": {
   "alt_en": "HYPNO: profile image from Instagram account @hypnoticbeatz",
   "alt_fr": "HYPNO : image de profil du compte Instagram @hypnoticbeatz",
@@ -4198,6 +4791,38 @@
    "kind": "instagram",
    "title": "Instagram profile image",
    "url": "https://www.instagram.com/hypnoticbeatz/"
+  },
+  "w": 1280
+ },
+ "ian-stylez": {
+  "alt_en": "Ian Stylez, bouyon artist from Barbados: still from the video “Crazy Jump”",
+  "alt_fr": "Ian Stylez, artiste bouyon de Barbade : image du clip « Crazy Jump »",
+  "bytes": {
+   "ian-stylez-bouyon-barbados-1280.jpg": 193415,
+   "ian-stylez-bouyon-barbados-1280.webp": 136192,
+   "ian-stylez-bouyon-barbados-640.jpg": 66142,
+   "ian-stylez-bouyon-barbados-640.webp": 50970
+  },
+  "caption_en": "Image: YouTube thumbnail of “Crazy Jump”.",
+  "caption_fr": "Image : miniature YouTube de « Crazy Jump ».",
+  "file": "ian-stylez-bouyon-barbados",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": {
+   "anchor": "barbados",
+   "code": "bb",
+   "en": "Barbados",
+   "fr": "Barbade"
+  },
+  "name": "Ian Stylez",
+  "sha": "21aef113f1b2",
+  "source": {
+   "channel": "",
+   "id": "0BzZmig-qYs",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Crazy Jump",
+   "url": "https://www.youtube.com/watch?v=0BzZmig-qYs"
   },
   "w": 1280
  },
@@ -4440,6 +5065,38 @@
   },
   "w": 1280
  },
+ "jcro": {
+  "alt_en": "JCro, bouyon artist from Dominica: still from the video “All Unto You | Gospel Bouyon 2025”",
+  "alt_fr": "JCro, artiste bouyon de Dominique : image du clip « All Unto You | Gospel Bouyon 2025 »",
+  "bytes": {
+   "jcro-bouyon-dominica-1280.jpg": 97818,
+   "jcro-bouyon-dominica-1280.webp": 48440,
+   "jcro-bouyon-dominica-640.jpg": 34341,
+   "jcro-bouyon-dominica-640.webp": 20842
+  },
+  "caption_en": "Image: YouTube thumbnail of “All Unto You | Gospel Bouyon 2025”.",
+  "caption_fr": "Image : miniature YouTube de « All Unto You | Gospel Bouyon 2025 ».",
+  "file": "jcro-bouyon-dominica",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": {
+   "anchor": "dominica",
+   "code": "dm",
+   "en": "Dominica",
+   "fr": "Dominique"
+  },
+  "name": "JCro",
+  "sha": "a76cbb5e7324",
+  "source": {
+   "channel": "",
+   "id": "YAh-KgMn2jE",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "All Unto You | Gospel Bouyon 2025",
+   "url": "https://www.youtube.com/watch?v=YAh-KgMn2jE"
+  },
+  "w": 1280
+ },
  "jixels": {
   "alt_en": "Jixels, bouyon artist from Guadeloupe: still from the video “LECUS X LESEB X SHEYTA X UGLYBOY - VODY 22 [ CLIP OFFICIEL ] (PROD BY QWANN) #BOUYON”",
   "alt_fr": "Jixels, artiste bouyon de Guadeloupe : image du clip « LECUS X LESEB X SHEYTA X UGLYBOY - VODY 22 [ CLIP OFFICIEL ] (PROD BY QWANN) #BOUYON »",
@@ -4469,6 +5126,33 @@
    "quality": "maxresdefault",
    "title": "LECUS X LESEB X SHEYTA X UGLYBOY - VODY 22 [ CLIP OFFICIEL ] (PROD BY QWANN) #BOUYON",
    "url": "https://www.youtube.com/watch?v=2P1yLtoPHbo"
+  },
+  "w": 1280
+ },
+ "jl8": {
+  "alt_en": "JL8, bouyon artist: still from the video “Ba to Pliss”",
+  "alt_fr": "JL8, artiste bouyon : image du clip « Ba to Pliss »",
+  "bytes": {
+   "jl8-bouyon-1280.jpg": 62599,
+   "jl8-bouyon-1280.webp": 34824,
+   "jl8-bouyon-640.jpg": 30581,
+   "jl8-bouyon-640.webp": 17018
+  },
+  "caption_en": "Image: YouTube thumbnail of “Ba to Pliss”.",
+  "caption_fr": "Image : miniature YouTube de « Ba to Pliss ».",
+  "file": "jl8-bouyon",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": null,
+  "name": "JL8",
+  "sha": "1d2401d0b43f",
+  "source": {
+   "channel": "",
+   "id": "zzGGTqfP418",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Ba to Pliss",
+   "url": "https://www.youtube.com/watch?v=zzGGTqfP418"
   },
   "w": 1280
  },
@@ -4561,6 +5245,33 @@
   },
   "w": 1280
  },
+ "kanna": {
+  "alt_en": "KANNA, bouyon artist: still from the video “CLIP VIDÉO BOUYON SA KA PÉTÉ SEC KANNA DPV LION PWOD 115”",
+  "alt_fr": "KANNA, artiste bouyon : image du clip « CLIP VIDÉO BOUYON SA KA PÉTÉ SEC KANNA DPV LION PWOD 115 »",
+  "bytes": {
+   "kanna-bouyon-1280.jpg": 72939,
+   "kanna-bouyon-1280.webp": 34932,
+   "kanna-bouyon-640.jpg": 31968,
+   "kanna-bouyon-640.webp": 17412
+  },
+  "caption_en": "Image: YouTube thumbnail of “CLIP VIDÉO BOUYON SA KA PÉTÉ SEC KANNA DPV LION PWOD 115”.",
+  "caption_fr": "Image : miniature YouTube de « CLIP VIDÉO BOUYON SA KA PÉTÉ SEC KANNA DPV LION PWOD 115 ».",
+  "file": "kanna-bouyon",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": null,
+  "name": "KANNA",
+  "sha": "5a248377bff1",
+  "source": {
+   "channel": "",
+   "id": "edZVDx3Xq6E",
+   "kind": "youtube",
+   "quality": "sddefault",
+   "title": "CLIP VIDÉO BOUYON SA KA PÉTÉ SEC KANNA DPV LION PWOD 115",
+   "url": "https://www.youtube.com/watch?v=edZVDx3Xq6E"
+  },
+  "w": 1280
+ },
  "kas-matik": {
   "alt_en": "Kas Matik, bouyon artist from Barbados: still from the video “PACE”",
   "alt_fr": "Kas Matik, artiste bouyon de Barbade : image du clip « PACE »",
@@ -4618,6 +5329,70 @@
    "kind": "instagram",
    "title": "Instagram profile image",
    "url": "https://www.instagram.com/kassidje_gazagirl/"
+  },
+  "w": 1280
+ },
+ "kaution-band": {
+  "alt_en": "Kaution Band, bouyon artist from Antigua: still from the video “Kaution Band x Shelly & Signal Band - Frenemy”",
+  "alt_fr": "Kaution Band, artiste bouyon de Antigua : image du clip « Kaution Band x Shelly & Signal Band - Frenemy »",
+  "bytes": {
+   "kaution-band-bouyon-antigua-1280.jpg": 161566,
+   "kaution-band-bouyon-antigua-1280.webp": 85746,
+   "kaution-band-bouyon-antigua-640.jpg": 51667,
+   "kaution-band-bouyon-antigua-640.webp": 32404
+  },
+  "caption_en": "Image: YouTube thumbnail of “Kaution Band x Shelly & Signal Band - Frenemy”.",
+  "caption_fr": "Image : miniature YouTube de « Kaution Band x Shelly & Signal Band - Frenemy ».",
+  "file": "kaution-band-bouyon-antigua",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": {
+   "anchor": "antigua",
+   "code": "ag",
+   "en": "Antigua",
+   "fr": "Antigua"
+  },
+  "name": "Kaution Band",
+  "sha": "2327b9805e92",
+  "source": {
+   "channel": "",
+   "id": "orsmSDelDZc",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Kaution Band x Shelly & Signal Band - Frenemy",
+   "url": "https://www.youtube.com/watch?v=orsmSDelDZc"
+  },
+  "w": 1280
+ },
+ "keith-goddard": {
+  "alt_en": "Keith Goddard, bouyon artist from Dominica: still from the video “WCK”",
+  "alt_fr": "Keith Goddard, artiste bouyon de Dominique : image du clip « WCK »",
+  "bytes": {
+   "keith-goddard-bouyon-dominica-1280.jpg": 51262,
+   "keith-goddard-bouyon-dominica-1280.webp": 25792,
+   "keith-goddard-bouyon-dominica-640.jpg": 21733,
+   "keith-goddard-bouyon-dominica-640.webp": 12946
+  },
+  "caption_en": "Image: YouTube thumbnail of “WCK”.",
+  "caption_fr": "Image : miniature YouTube de « WCK ».",
+  "file": "keith-goddard-bouyon-dominica",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": {
+   "anchor": "dominica",
+   "code": "dm",
+   "en": "Dominica",
+   "fr": "Dominique"
+  },
+  "name": "Keith Goddard",
+  "sha": "9a7b8d81f918",
+  "source": {
+   "channel": "",
+   "id": "X-zewhT4TQU",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "WCK",
+   "url": "https://www.youtube.com/watch?v=X-zewhT4TQU"
   },
   "w": 1280
  },
@@ -4921,6 +5696,102 @@
   },
   "w": 1280
  },
+ "kilogram": {
+  "alt_en": "Kilogram, bouyon artist from Saint Vincent and the Grenadines: still from the video “Kilogram - Mischief”",
+  "alt_fr": "Kilogram, artiste bouyon de Saint-Vincent-et-les-Grenadines : image du clip « Kilogram - Mischief »",
+  "bytes": {
+   "kilogram-bouyon-saint-vincent-1280.jpg": 125710,
+   "kilogram-bouyon-saint-vincent-1280.webp": 69046,
+   "kilogram-bouyon-saint-vincent-640.jpg": 49593,
+   "kilogram-bouyon-saint-vincent-640.webp": 31880
+  },
+  "caption_en": "Image: YouTube thumbnail of “Kilogram - Mischief”.",
+  "caption_fr": "Image : miniature YouTube de « Kilogram - Mischief ».",
+  "file": "kilogram-bouyon-saint-vincent",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": {
+   "anchor": "saint-vincent",
+   "code": "vc",
+   "en": "Saint Vincent and the Grenadines",
+   "fr": "Saint-Vincent-et-les-Grenadines"
+  },
+  "name": "Kilogram",
+  "sha": "3ec0aa06d9d9",
+  "source": {
+   "channel": "",
+   "id": "mruRLiI3jYA",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Kilogram - Mischief",
+   "url": "https://www.youtube.com/watch?v=mruRLiI3jYA"
+  },
+  "w": 1280
+ },
+ "king-dice": {
+  "alt_en": "King Dice, bouyon artist from Dominica: still from the video “Shelly x King Dice x Shadowflow - Cya Stop De Sewo [Champion Riddim]”",
+  "alt_fr": "King Dice, artiste bouyon de Dominique : image du clip « Shelly x King Dice x Shadowflow - Cya Stop De Sewo [Champion Riddim] »",
+  "bytes": {
+   "king-dice-bouyon-dominica-1280.jpg": 177306,
+   "king-dice-bouyon-dominica-1280.webp": 125650,
+   "king-dice-bouyon-dominica-640.jpg": 62131,
+   "king-dice-bouyon-dominica-640.webp": 49502
+  },
+  "caption_en": "Image: YouTube thumbnail of “Shelly x King Dice x Shadowflow - Cya Stop De Sewo [Champion Riddim]”.",
+  "caption_fr": "Image : miniature YouTube de « Shelly x King Dice x Shadowflow - Cya Stop De Sewo [Champion Riddim] ».",
+  "file": "king-dice-bouyon-dominica",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": {
+   "anchor": "dominica",
+   "code": "dm",
+   "en": "Dominica",
+   "fr": "Dominique"
+  },
+  "name": "King Dice",
+  "sha": "2af17ec9eb1f",
+  "source": {
+   "channel": "",
+   "id": "n-o1WKoelJs",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Shelly x King Dice x Shadowflow - Cya Stop De Sewo [Champion Riddim]",
+   "url": "https://www.youtube.com/watch?v=n-o1WKoelJs"
+  },
+  "w": 1280
+ },
+ "king-kembe": {
+  "alt_en": "King Kembe, bouyon artist (Saint Martin / Sint Maarten): still from the video “King Kembe - Just Horn Him”",
+  "alt_fr": "King Kembe, artiste bouyon (Saint-Martin / Sint Maarten) : image du clip « King Kembe - Just Horn Him »",
+  "bytes": {
+   "king-kembe-bouyon-saint-martin-1280.jpg": 126585,
+   "king-kembe-bouyon-saint-martin-1280.webp": 72326,
+   "king-kembe-bouyon-saint-martin-640.jpg": 49681,
+   "king-kembe-bouyon-saint-martin-640.webp": 32656
+  },
+  "caption_en": "Image: YouTube thumbnail of “King Kembe - Just Horn Him”.",
+  "caption_fr": "Image : miniature YouTube de « King Kembe - Just Horn Him ».",
+  "file": "king-kembe-bouyon-saint-martin",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": {
+   "anchor": "saint-martin",
+   "code": "mf",
+   "en": "Saint Martin / Sint Maarten",
+   "fr": "Saint-Martin / Sint Maarten"
+  },
+  "name": "King Kembe",
+  "sha": "1bf5efbf2151",
+  "source": {
+   "channel": "",
+   "id": "XHu-TKDfQBA",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "King Kembe - Just Horn Him",
+   "url": "https://www.youtube.com/watch?v=XHu-TKDfQBA"
+  },
+  "w": 1280
+ },
  "king-low-rider": {
   "alt_en": "King Low Rider, bouyon artist from Antigua: still from the video “King Low Rider- Land Diver (Antigua Carnival BOUYON 2026) #viral”",
   "alt_fr": "King Low Rider, artiste bouyon de Antigua : image du clip « King Low Rider- Land Diver (Antigua Carnival BOUYON 2026) #viral »",
@@ -4977,6 +5848,38 @@
    "quality": "maxresdefault",
    "title": "King Tipsy - BUMPA BACK | Lyric Video | Bouyon 2026",
    "url": "https://www.youtube.com/watch?v=-PxMsI7SEmk"
+  },
+  "w": 1280
+ },
+ "kisha-kay": {
+  "alt_en": "Kisha Kay, bouyon artist from Saint Lucia: still from the video “Doh Post Me”",
+  "alt_fr": "Kisha Kay, artiste bouyon de Sainte-Lucie : image du clip « Doh Post Me »",
+  "bytes": {
+   "kisha-kay-bouyon-saint-lucia-1280.jpg": 107267,
+   "kisha-kay-bouyon-saint-lucia-1280.webp": 61758,
+   "kisha-kay-bouyon-saint-lucia-640.jpg": 43198,
+   "kisha-kay-bouyon-saint-lucia-640.webp": 29094
+  },
+  "caption_en": "Image: YouTube thumbnail of “Doh Post Me”.",
+  "caption_fr": "Image : miniature YouTube de « Doh Post Me ».",
+  "file": "kisha-kay-bouyon-saint-lucia",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": {
+   "anchor": "saint-lucia",
+   "code": "lc",
+   "en": "Saint Lucia",
+   "fr": "Sainte-Lucie"
+  },
+  "name": "Kisha Kay",
+  "sha": "cc994850b008",
+  "source": {
+   "channel": "",
+   "id": "of6e0F-BIFY",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Doh Post Me",
+   "url": "https://www.youtube.com/watch?v=of6e0F-BIFY"
   },
   "w": 1280
  },
@@ -5136,6 +6039,33 @@
   },
   "w": 1280
  },
+ "kross-vybez": {
+  "alt_en": "Kross Vybez, bouyon artist: still from the video “KROSS VYBEZ - No pain [2014 BOUYON] DOMINICA”",
+  "alt_fr": "Kross Vybez, artiste bouyon : image du clip « KROSS VYBEZ - No pain [2014 BOUYON] DOMINICA »",
+  "bytes": {
+   "kross-vybez-bouyon-1280.jpg": 62883,
+   "kross-vybez-bouyon-1280.webp": 29420,
+   "kross-vybez-bouyon-640.jpg": 27974,
+   "kross-vybez-bouyon-640.webp": 15018
+  },
+  "caption_en": "Image: YouTube thumbnail of “KROSS VYBEZ - No pain [2014 BOUYON] DOMINICA”.",
+  "caption_fr": "Image : miniature YouTube de « KROSS VYBEZ - No pain [2014 BOUYON] DOMINICA ».",
+  "file": "kross-vybez-bouyon",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": null,
+  "name": "Kross Vybez",
+  "sha": "464b4ba8bab3",
+  "source": {
+   "channel": "",
+   "id": "KZqKjk0n46s",
+   "kind": "youtube",
+   "quality": "sddefault",
+   "title": "KROSS VYBEZ - No pain [2014 BOUYON] DOMINICA",
+   "url": "https://www.youtube.com/watch?v=KZqKjk0n46s"
+  },
+  "w": 1280
+ },
  "krys": {
   "alt_en": "Krys, bouyon artist: artist photo (Deezer page)",
   "alt_fr": "Krys, artiste bouyon : photo de l'artiste (page Deezer)",
@@ -5191,6 +6121,33 @@
    "quality": "maxresdefault",
    "title": "KTB- Come Ova (Bouyon 2026)",
    "url": "https://www.youtube.com/watch?v=RCYtWylfKKU"
+  },
+  "w": 1280
+ },
+ "kubu": {
+  "alt_en": "Kubu, bouyon artist: still from the video “Hennessy”",
+  "alt_fr": "Kubu, artiste bouyon : image du clip « Hennessy »",
+  "bytes": {
+   "kubu-bouyon-1280.jpg": 154383,
+   "kubu-bouyon-1280.webp": 110310,
+   "kubu-bouyon-640.jpg": 57442,
+   "kubu-bouyon-640.webp": 45450
+  },
+  "caption_en": "Image: YouTube thumbnail of “Hennessy”.",
+  "caption_fr": "Image : miniature YouTube de « Hennessy ».",
+  "file": "kubu-bouyon",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": null,
+  "name": "Kubu",
+  "sha": "b050f8647a63",
+  "source": {
+   "channel": "",
+   "id": "HomA78IIS5c",
+   "kind": "youtube",
+   "quality": "sddefault",
+   "title": "Hennessy",
+   "url": "https://www.youtube.com/watch?v=HomA78IIS5c"
   },
   "w": 1280
  },
@@ -6153,6 +7110,38 @@
   },
   "w": 1280
  },
+ "mad-general": {
+  "alt_en": "Mad General, bouyon artist from Martinique: still from the video “Down Di Road”",
+  "alt_fr": "Mad General, artiste bouyon de Martinique : image du clip « Down Di Road »",
+  "bytes": {
+   "mad-general-bouyon-martinique-1280.jpg": 97741,
+   "mad-general-bouyon-martinique-1280.webp": 52926,
+   "mad-general-bouyon-martinique-640.jpg": 34426,
+   "mad-general-bouyon-martinique-640.webp": 20488
+  },
+  "caption_en": "Image: YouTube thumbnail of “Down Di Road”.",
+  "caption_fr": "Image : miniature YouTube de « Down Di Road ».",
+  "file": "mad-general-bouyon-martinique",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": {
+   "anchor": "martinique",
+   "code": "mq",
+   "en": "Martinique",
+   "fr": "Martinique"
+  },
+  "name": "Mad General",
+  "sha": "7ccf41664739",
+  "source": {
+   "channel": "",
+   "id": "_ZErA2xvua4",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Down Di Road",
+   "url": "https://www.youtube.com/watch?v=_ZErA2xvua4"
+  },
+  "w": 1280
+ },
  "madamezelle": {
   "alt_en": "MadameZelle, bouyon artist (United States): still from the video “Tipsy - [MadameZelle] [Bouyon 2026] #bouyonriddim #bouyonmusic #bouyonshattaz”",
   "alt_fr": "MadameZelle, artiste bouyon (États-Unis) : image du clip « Tipsy - [MadameZelle] [Bouyon 2026] #bouyonriddim #bouyonmusic #bouyonshattaz »",
@@ -6303,6 +7292,38 @@
    "kind": "deezer",
    "title": "Major Lazer",
    "url": "https://www.deezer.com/artist/282118"
+  },
+  "w": 1280
+ },
+ "major-mystic": {
+  "alt_en": "Major Mystic, bouyon artist from Dominica: still from the video “Asa Bantan & Major Mystic - Mr Dj”",
+  "alt_fr": "Major Mystic, artiste bouyon de Dominique : image du clip « Asa Bantan & Major Mystic - Mr Dj »",
+  "bytes": {
+   "major-mystic-bouyon-dominica-1280.jpg": 130252,
+   "major-mystic-bouyon-dominica-1280.webp": 92944,
+   "major-mystic-bouyon-dominica-640.jpg": 55938,
+   "major-mystic-bouyon-dominica-640.webp": 40498
+  },
+  "caption_en": "Image: YouTube thumbnail of “Asa Bantan & Major Mystic - Mr Dj”.",
+  "caption_fr": "Image : miniature YouTube de « Asa Bantan & Major Mystic - Mr Dj ».",
+  "file": "major-mystic-bouyon-dominica",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": {
+   "anchor": "dominica",
+   "code": "dm",
+   "en": "Dominica",
+   "fr": "Dominique"
+  },
+  "name": "Major Mystic",
+  "sha": "695924f48b73",
+  "source": {
+   "channel": "",
+   "id": "Gy--rfXKsZE",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Asa Bantan & Major Mystic - Mr Dj",
+   "url": "https://www.youtube.com/watch?v=Gy--rfXKsZE"
   },
   "w": 1280
  },
@@ -6600,6 +7621,38 @@
   },
   "w": 1280
  },
+ "mikty": {
+  "alt_en": "Mikty, bouyon artist from Guadeloupe: still from the video “Sizzla Kalonji Ft. Mikty - Happy Birthday Majesty”",
+  "alt_fr": "Mikty, artiste bouyon de Guadeloupe : image du clip « Sizzla Kalonji Ft. Mikty - Happy Birthday Majesty »",
+  "bytes": {
+   "mikty-bouyon-guadeloupe-1280.jpg": 119578,
+   "mikty-bouyon-guadeloupe-1280.webp": 74932,
+   "mikty-bouyon-guadeloupe-640.jpg": 52395,
+   "mikty-bouyon-guadeloupe-640.webp": 35496
+  },
+  "caption_en": "Image: YouTube thumbnail of “Sizzla Kalonji Ft. Mikty - Happy Birthday Majesty”.",
+  "caption_fr": "Image : miniature YouTube de « Sizzla Kalonji Ft. Mikty - Happy Birthday Majesty ».",
+  "file": "mikty-bouyon-guadeloupe",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": {
+   "anchor": "guadeloupe",
+   "code": "gp",
+   "en": "Guadeloupe",
+   "fr": "Guadeloupe"
+  },
+  "name": "Mikty",
+  "sha": "e01b441f5275",
+  "source": {
+   "channel": "",
+   "id": "2JoGLH2OsLo",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Sizzla Kalonji Ft. Mikty - Happy Birthday Majesty",
+   "url": "https://www.youtube.com/watch?v=2JoGLH2OsLo"
+  },
+  "w": 1280
+ },
  "miky-ding-la": {
   "alt_en": "Miky Ding La, bouyon artist from Guadeloupe: artist photo (Deezer page)",
   "alt_fr": "Miky Ding La, artiste bouyon de Guadeloupe : photo de l'artiste (page Deezer)",
@@ -6818,6 +7871,38 @@
   },
   "w": 1280
  },
+ "mr-vegas": {
+  "alt_en": "Mr. Vegas, bouyon artist from Jamaica: still from the video “Bouyon All the Way, with Edday”",
+  "alt_fr": "Mr. Vegas, artiste bouyon de Jamaïque : image du clip « Bouyon All the Way, with Edday »",
+  "bytes": {
+   "mr-vegas-bouyon-jamaica-1280.jpg": 108021,
+   "mr-vegas-bouyon-jamaica-1280.webp": 62162,
+   "mr-vegas-bouyon-jamaica-640.jpg": 40717,
+   "mr-vegas-bouyon-jamaica-640.webp": 27822
+  },
+  "caption_en": "Image: YouTube thumbnail of “Bouyon All the Way, with Edday”.",
+  "caption_fr": "Image : miniature YouTube de « Bouyon All the Way, with Edday ».",
+  "file": "mr-vegas-bouyon-jamaica",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": {
+   "anchor": "jamaica",
+   "code": "jm",
+   "en": "Jamaica",
+   "fr": "Jamaïque"
+  },
+  "name": "Mr. Vegas",
+  "sha": "c74846618fbb",
+  "source": {
+   "channel": "",
+   "id": "vJQxga5vy4k",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Bouyon All the Way, with Edday",
+   "url": "https://www.youtube.com/watch?v=vJQxga5vy4k"
+  },
+  "w": 1280
+ },
  "msina": {
   "alt_en": "Msina, bouyon artist: still from the video “Bouyon”",
   "alt_fr": "Msina, artiste bouyon : image du clip « Bouyon »",
@@ -6971,6 +8056,33 @@
    "quality": "maxresdefault",
    "title": "Shatta Bouyon",
    "url": "https://www.youtube.com/watch?v=983_4Exfo2U"
+  },
+  "w": 1280
+ },
+ "nattybill": {
+  "alt_en": "NattyBill, bouyon artist: still from the video “MR GWADA X NATTYBILL - LA FAMI”",
+  "alt_fr": "NattyBill, artiste bouyon : image du clip « MR GWADA X NATTYBILL - LA FAMI »",
+  "bytes": {
+   "nattybill-bouyon-1280.jpg": 170104,
+   "nattybill-bouyon-1280.webp": 106942,
+   "nattybill-bouyon-640.jpg": 63027,
+   "nattybill-bouyon-640.webp": 47860
+  },
+  "caption_en": "Image: YouTube thumbnail of “MR GWADA X NATTYBILL - LA FAMI”.",
+  "caption_fr": "Image : miniature YouTube de « MR GWADA X NATTYBILL - LA FAMI ».",
+  "file": "nattybill-bouyon",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": null,
+  "name": "NattyBill",
+  "sha": "25b3fec17e32",
+  "source": {
+   "channel": "",
+   "id": "_15EruLgmRI",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "MR GWADA X NATTYBILL - LA FAMI",
+   "url": "https://www.youtube.com/watch?v=_15EruLgmRI"
   },
   "w": 1280
  },
@@ -7367,6 +8479,33 @@
   },
   "w": 1280
  },
+ "orgixx": {
+  "alt_en": "ORGIXx, bouyon artist: still from the video “GUEL AW GWO”",
+  "alt_fr": "ORGIXx, artiste bouyon : image du clip « GUEL AW GWO »",
+  "bytes": {
+   "orgixx-bouyon-1280.jpg": 112864,
+   "orgixx-bouyon-1280.webp": 66212,
+   "orgixx-bouyon-640.jpg": 43882,
+   "orgixx-bouyon-640.webp": 29054
+  },
+  "caption_en": "Image: YouTube thumbnail of “GUEL AW GWO”.",
+  "caption_fr": "Image : miniature YouTube de « GUEL AW GWO ».",
+  "file": "orgixx-bouyon",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": null,
+  "name": "ORGIXx",
+  "sha": "58ed838784aa",
+  "source": {
+   "channel": "",
+   "id": "JLzefpZvgo4",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "GUEL AW GWO",
+   "url": "https://www.youtube.com/watch?v=JLzefpZvgo4"
+  },
+  "w": 1280
+ },
  "oso-j": {
   "alt_en": "Oso J, bouyon artist: still from the video “Oso J - ASF (Antillais sous fidélité) [Clip Officiel]”",
   "alt_fr": "Oso J, artiste bouyon : image du clip « Oso J - ASF (Antillais sous fidélité) [Clip Officiel] »",
@@ -7424,6 +8563,33 @@
    "kind": "instagram",
    "title": "Instagram profile image",
    "url": "https://www.instagram.com/pa._.pel/"
+  },
+  "w": 1280
+ },
+ "pahjo": {
+  "alt_en": "Pahjo, bouyon artist: still from the video “Mash Up Kingdom - Zamoni x Mr. Benji N20 x Pahjo, Official Audio, Antigua Soca 2024, Bouyon”",
+  "alt_fr": "Pahjo, artiste bouyon : image du clip « Mash Up Kingdom - Zamoni x Mr. Benji N20 x Pahjo, Official Audio, Antigua Soca 2024, Bouyon »",
+  "bytes": {
+   "pahjo-bouyon-1280.jpg": 201925,
+   "pahjo-bouyon-1280.webp": 139302,
+   "pahjo-bouyon-640.jpg": 72282,
+   "pahjo-bouyon-640.webp": 56082
+  },
+  "caption_en": "Image: YouTube thumbnail of “Mash Up Kingdom - Zamoni x Mr. Benji N20 x Pahjo, Official Audio, Antigua Soca 2024, Bouyon”.",
+  "caption_fr": "Image : miniature YouTube de « Mash Up Kingdom - Zamoni x Mr. Benji N20 x Pahjo, Official Audio, Antigua Soca 2024, Bouyon ».",
+  "file": "pahjo-bouyon",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": null,
+  "name": "Pahjo",
+  "sha": "b2676d5a2af2",
+  "source": {
+   "channel": "",
+   "id": "e8pxWVuhpiM",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Mash Up Kingdom - Zamoni x Mr. Benji N20 x Pahjo, Official Audio, Antigua Soca 2024, Bouyon",
+   "url": "https://www.youtube.com/watch?v=e8pxWVuhpiM"
   },
   "w": 1280
  },
@@ -7672,6 +8838,33 @@
   },
   "w": 1280
  },
+ "pumpa": {
+  "alt_en": "Pumpa, bouyon artist: still from the video “Savage”",
+  "alt_fr": "Pumpa, artiste bouyon : image du clip « Savage »",
+  "bytes": {
+   "pumpa-bouyon-1280.jpg": 151115,
+   "pumpa-bouyon-1280.webp": 97770,
+   "pumpa-bouyon-640.jpg": 55766,
+   "pumpa-bouyon-640.webp": 39044
+  },
+  "caption_en": "Image: YouTube thumbnail of “Savage”.",
+  "caption_fr": "Image : miniature YouTube de « Savage ».",
+  "file": "pumpa-bouyon",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": null,
+  "name": "Pumpa",
+  "sha": "a3b13aa632d9",
+  "source": {
+   "channel": "",
+   "id": "LiqhRNC_EJQ",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Savage",
+   "url": "https://www.youtube.com/watch?v=LiqhRNC_EJQ"
+  },
+  "w": 1280
+ },
  "punz": {
   "alt_en": "Punz, bouyon artist: still from the video “Feel It”",
   "alt_fr": "Punz, artiste bouyon : image du clip « Feel It »",
@@ -7756,6 +8949,33 @@
    "quality": "maxresdefault",
    "title": "Do it like That",
    "url": "https://www.youtube.com/watch?v=ySKAxCkc18M"
+  },
+  "w": 1280
+ },
+ "que": {
+  "alt_en": "Que, bouyon artist: still from the video “Que X TooYung, Brace You”",
+  "alt_fr": "Que, artiste bouyon : image du clip « Que X TooYung, Brace You »",
+  "bytes": {
+   "que-bouyon-1280.jpg": 100743,
+   "que-bouyon-1280.webp": 51666,
+   "que-bouyon-640.jpg": 40991,
+   "que-bouyon-640.webp": 23880
+  },
+  "caption_en": "Image: YouTube thumbnail of “Que X TooYung, Brace You”.",
+  "caption_fr": "Image : miniature YouTube de « Que X TooYung, Brace You ».",
+  "file": "que-bouyon",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": null,
+  "name": "Que",
+  "sha": "5415309d6221",
+  "source": {
+   "channel": "",
+   "id": "G8bdiGkMl3Q",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Que X TooYung, Brace You",
+   "url": "https://www.youtube.com/watch?v=G8bdiGkMl3Q"
   },
   "w": 1280
  },
@@ -7845,6 +9065,33 @@
   },
   "w": 1280
  },
+ "ransom-beatz": {
+  "alt_en": "Ransom Beatz, bouyon artist: still from the video “\"Le 69\" Bouyon instrumental 2026”",
+  "alt_fr": "Ransom Beatz, artiste bouyon : image du clip « \"Le 69\" Bouyon instrumental 2026 »",
+  "bytes": {
+   "ransom-beatz-bouyon-1280.jpg": 68669,
+   "ransom-beatz-bouyon-1280.webp": 34754,
+   "ransom-beatz-bouyon-640.jpg": 26805,
+   "ransom-beatz-bouyon-640.webp": 15956
+  },
+  "caption_en": "Image: YouTube thumbnail of “\"Le 69\" Bouyon instrumental 2026”.",
+  "caption_fr": "Image : miniature YouTube de « \"Le 69\" Bouyon instrumental 2026 ».",
+  "file": "ransom-beatz-bouyon",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": null,
+  "name": "Ransom Beatz",
+  "sha": "b8df9749545b",
+  "source": {
+   "channel": "",
+   "id": "1xYTsj-yeNA",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "\"Le 69\" Bouyon instrumental 2026",
+   "url": "https://www.youtube.com/watch?v=1xYTsj-yeNA"
+  },
+  "w": 1280
+ },
  "ras-b": {
   "alt_en": "Ras B: profile image from Instagram account @ras_b_4kdem",
   "alt_fr": "Ras B : image de profil du compte Instagram @ras_b_4kdem",
@@ -7875,6 +9122,38 @@
    "kind": "instagram",
    "title": "Instagram profile image",
    "url": "https://www.instagram.com/ras_b_4kdem/"
+  },
+  "w": 1280
+ },
+ "raw-redeem": {
+  "alt_en": "Raw Redeem, bouyon artist from Dominica: still from the video “Raw Redeem International - Session {Ole Skool Session Album} 'Throwback Bouyon'”",
+  "alt_fr": "Raw Redeem, artiste bouyon de Dominique : image du clip « Raw Redeem International - Session {Ole Skool Session Album} 'Throwback Bouyon' »",
+  "bytes": {
+   "raw-redeem-bouyon-dominica-1280.jpg": 123016,
+   "raw-redeem-bouyon-dominica-1280.webp": 65076,
+   "raw-redeem-bouyon-dominica-640.jpg": 49859,
+   "raw-redeem-bouyon-dominica-640.webp": 31020
+  },
+  "caption_en": "Image: YouTube thumbnail of “Raw Redeem International - Session {Ole Skool Session Album} 'Throwback Bouyon'”.",
+  "caption_fr": "Image : miniature YouTube de « Raw Redeem International - Session {Ole Skool Session Album} 'Throwback Bouyon' ».",
+  "file": "raw-redeem-bouyon-dominica",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": {
+   "anchor": "dominica",
+   "code": "dm",
+   "en": "Dominica",
+   "fr": "Dominique"
+  },
+  "name": "Raw Redeem",
+  "sha": "cbaa5b8c80f8",
+  "source": {
+   "channel": "",
+   "id": "CtM360Vr4oM",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Raw Redeem International - Session {Ole Skool Session Album} 'Throwback Bouyon'",
+   "url": "https://www.youtube.com/watch?v=CtM360Vr4oM"
   },
   "w": 1280
  },
@@ -7938,6 +9217,38 @@
    "quality": "maxresdefault",
    "title": "Redpunchdrip x Strosey x Devon - Why Should I? [Prod. by XavvoKnockin] (Bouyon 2026)",
    "url": "https://www.youtube.com/watch?v=EeEdxChEJh0"
+  },
+  "w": 1280
+ },
+ "redz": {
+  "alt_en": "Redz, bouyon artist from Saint Vincent and the Grenadines: still from the video “Redz -OHH BABY WHY”",
+  "alt_fr": "Redz, artiste bouyon de Saint-Vincent-et-les-Grenadines : image du clip « Redz -OHH BABY WHY »",
+  "bytes": {
+   "redz-bouyon-saint-vincent-1280.jpg": 123101,
+   "redz-bouyon-saint-vincent-1280.webp": 68966,
+   "redz-bouyon-saint-vincent-640.jpg": 50595,
+   "redz-bouyon-saint-vincent-640.webp": 34872
+  },
+  "caption_en": "Image: YouTube thumbnail of “Redz -OHH BABY WHY”.",
+  "caption_fr": "Image : miniature YouTube de « Redz -OHH BABY WHY ».",
+  "file": "redz-bouyon-saint-vincent",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": {
+   "anchor": "saint-vincent",
+   "code": "vc",
+   "en": "Saint Vincent and the Grenadines",
+   "fr": "Saint-Vincent-et-les-Grenadines"
+  },
+  "name": "Redz",
+  "sha": "fc84945d5ea4",
+  "source": {
+   "channel": "",
+   "id": "9fI8DJepvdg",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Redz -OHH BABY WHY",
+   "url": "https://www.youtube.com/watch?v=9fI8DJepvdg"
   },
   "w": 1280
  },
@@ -8250,6 +9561,33 @@
   },
   "w": 1280
  },
+ "sa-sa-sammy": {
+  "alt_en": "Sa Sa Sammy, bouyon artist: still from the video “Sa Sa Sammy - Whisper”",
+  "alt_fr": "Sa Sa Sammy, artiste bouyon : image du clip « Sa Sa Sammy - Whisper »",
+  "bytes": {
+   "sa-sa-sammy-bouyon-1280.jpg": 49011,
+   "sa-sa-sammy-bouyon-1280.webp": 21456,
+   "sa-sa-sammy-bouyon-640.jpg": 23253,
+   "sa-sa-sammy-bouyon-640.webp": 12444
+  },
+  "caption_en": "Image: YouTube thumbnail of “Sa Sa Sammy - Whisper”.",
+  "caption_fr": "Image : miniature YouTube de « Sa Sa Sammy - Whisper ».",
+  "file": "sa-sa-sammy-bouyon",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": null,
+  "name": "Sa Sa Sammy",
+  "sha": "fdb5c943c2c9",
+  "source": {
+   "channel": "",
+   "id": "BpfBjSB6pP0",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Sa Sa Sammy - Whisper",
+   "url": "https://www.youtube.com/watch?v=BpfBjSB6pP0"
+  },
+  "w": 1280
+ },
  "sandy-boo": {
   "alt_en": "Sandy Boo, bouyon artist: still from the video “Sticky ft Sandy Boo - Creole cé ca (Bouyon)”",
   "alt_fr": "Sandy Boo, artiste bouyon : image du clip « Sticky ft Sandy Boo - Creole cé ca (Bouyon) »",
@@ -8365,6 +9703,38 @@
   },
   "w": 1280
  },
+ "shanna-raymond": {
+  "alt_en": "Shanna Raymond, bouyon artist (Saint Kitts and Nevis): still from the video “Live @ St Kitts Music Festival 2016”",
+  "alt_fr": "Shanna Raymond, artiste bouyon (Saint-Christophe-et-Niévès) : image du clip « Live @ St Kitts Music Festival 2016 »",
+  "bytes": {
+   "shanna-raymond-bouyon-saint-kitts-1280.jpg": 116861,
+   "shanna-raymond-bouyon-saint-kitts-1280.webp": 77146,
+   "shanna-raymond-bouyon-saint-kitts-640.jpg": 49678,
+   "shanna-raymond-bouyon-saint-kitts-640.webp": 32300
+  },
+  "caption_en": "Image: YouTube thumbnail of “Live @ St Kitts Music Festival 2016”.",
+  "caption_fr": "Image : miniature YouTube de « Live @ St Kitts Music Festival 2016 ».",
+  "file": "shanna-raymond-bouyon-saint-kitts",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": {
+   "anchor": "saint-kitts",
+   "code": "kn",
+   "en": "Saint Kitts and Nevis",
+   "fr": "Saint-Christophe-et-Niévès"
+  },
+  "name": "Shanna Raymond",
+  "sha": "96b3c64853bd",
+  "source": {
+   "channel": "",
+   "id": "_qxNrovMu-c",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Live @ St Kitts Music Festival 2016",
+   "url": "https://www.youtube.com/watch?v=_qxNrovMu-c"
+  },
+  "w": 1280
+ },
  "sharkie": {
   "alt_en": "Sharkie, bouyon artist from Barbados: still from the video “Sharkie - Okra Slime ( Okra Slime Riddim ) Official Audio [ Barbados Bouyon 2026 ]”",
   "alt_fr": "Sharkie, artiste bouyon de Barbade : image du clip « Sharkie - Okra Slime ( Okra Slime Riddim ) Official Audio [ Barbados Bouyon 2026 ] »",
@@ -8397,6 +9767,33 @@
   },
   "w": 1280
  },
+ "shasha": {
+  "alt_en": "ShaSha, bouyon artist: still from the video “WHAT DO YOU WANT FROM ME - ShaSha”",
+  "alt_fr": "ShaSha, artiste bouyon : image du clip « WHAT DO YOU WANT FROM ME - ShaSha »",
+  "bytes": {
+   "shasha-bouyon-1280.jpg": 202240,
+   "shasha-bouyon-1280.webp": 137176,
+   "shasha-bouyon-640.jpg": 72028,
+   "shasha-bouyon-640.webp": 54060
+  },
+  "caption_en": "Image: YouTube thumbnail of “WHAT DO YOU WANT FROM ME - ShaSha”.",
+  "caption_fr": "Image : miniature YouTube de « WHAT DO YOU WANT FROM ME - ShaSha ».",
+  "file": "shasha-bouyon",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": null,
+  "name": "ShaSha",
+  "sha": "01794fa34624",
+  "source": {
+   "channel": "",
+   "id": "TY6YK9UGIxs",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "WHAT DO YOU WANT FROM ME - ShaSha",
+   "url": "https://www.youtube.com/watch?v=TY6YK9UGIxs"
+  },
+  "w": 1280
+ },
  "shashabim": {
   "alt_en": "Shashabim, bouyon artist from Guadeloupe: still from the video “Bay Bye”",
   "alt_fr": "Shashabim, artiste bouyon de Guadeloupe : image du clip « Bay Bye »",
@@ -8426,6 +9823,38 @@
    "quality": "sddefault",
    "title": "Bay Bye",
    "url": "https://www.youtube.com/watch?v=o5yR56R0YTo"
+  },
+  "w": 1280
+ },
+ "shattah-ayow": {
+  "alt_en": "Shattah Ayow, bouyon artist from Saint Vincent and the Grenadines: still from the video “Shattah Ayow - Super Wine”",
+  "alt_fr": "Shattah Ayow, artiste bouyon de Saint-Vincent-et-les-Grenadines : image du clip « Shattah Ayow - Super Wine »",
+  "bytes": {
+   "shattah-ayow-bouyon-saint-vincent-1280.jpg": 79228,
+   "shattah-ayow-bouyon-saint-vincent-1280.webp": 41686,
+   "shattah-ayow-bouyon-saint-vincent-640.jpg": 35829,
+   "shattah-ayow-bouyon-saint-vincent-640.webp": 21786
+  },
+  "caption_en": "Image: YouTube thumbnail of “Shattah Ayow - Super Wine”.",
+  "caption_fr": "Image : miniature YouTube de « Shattah Ayow - Super Wine ».",
+  "file": "shattah-ayow-bouyon-saint-vincent",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": {
+   "anchor": "saint-vincent",
+   "code": "vc",
+   "en": "Saint Vincent and the Grenadines",
+   "fr": "Saint-Vincent-et-les-Grenadines"
+  },
+  "name": "Shattah Ayow",
+  "sha": "42c2e61961fb",
+  "source": {
+   "channel": "",
+   "id": "2rapUzIDY5U",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Shattah Ayow - Super Wine",
+   "url": "https://www.youtube.com/watch?v=2rapUzIDY5U"
   },
   "w": 1280
  },
@@ -8582,6 +10011,38 @@
   },
   "w": 1280
  },
+ "sick-tonez": {
+  "alt_en": "Sick Tonez, bouyon artist (Saint Martin / Sint Maarten): still from the video “Live Performance Vlog - Sick Tonez Straight Outta Sint Maarten”",
+  "alt_fr": "Sick Tonez, artiste bouyon (Saint-Martin / Sint Maarten) : image du clip « Live Performance Vlog - Sick Tonez Straight Outta Sint Maarten »",
+  "bytes": {
+   "sick-tonez-bouyon-saint-martin-1280.jpg": 37747,
+   "sick-tonez-bouyon-saint-martin-1280.webp": 16858,
+   "sick-tonez-bouyon-saint-martin-640.jpg": 17359,
+   "sick-tonez-bouyon-saint-martin-640.webp": 9186
+  },
+  "caption_en": "Image: YouTube thumbnail of “Live Performance Vlog - Sick Tonez Straight Outta Sint Maarten”.",
+  "caption_fr": "Image : miniature YouTube de « Live Performance Vlog - Sick Tonez Straight Outta Sint Maarten ».",
+  "file": "sick-tonez-bouyon-saint-martin",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": {
+   "anchor": "saint-martin",
+   "code": "mf",
+   "en": "Saint Martin / Sint Maarten",
+   "fr": "Saint-Martin / Sint Maarten"
+  },
+  "name": "Sick Tonez",
+  "sha": "488f46850475",
+  "source": {
+   "channel": "",
+   "id": "xSODmx6Cq_s",
+   "kind": "youtube",
+   "quality": "sddefault",
+   "title": "Live Performance Vlog - Sick Tonez Straight Outta Sint Maarten",
+   "url": "https://www.youtube.com/watch?v=xSODmx6Cq_s"
+  },
+  "w": 1280
+ },
  "signal-band": {
   "alt_en": "Signal Band, bouyon artist from Dominica: artist photo (Deezer page)",
   "alt_fr": "Signal Band, artiste bouyon de Dominique : photo de l'artiste (page Deezer)",
@@ -8704,6 +10165,33 @@
   },
   "w": 1280
  },
+ "sky-geez": {
+  "alt_en": "Sky Geez, bouyon artist: still from the video “JÉRÉ $A”",
+  "alt_fr": "Sky Geez, artiste bouyon : image du clip « JÉRÉ $A »",
+  "bytes": {
+   "sky-geez-bouyon-1280.jpg": 62014,
+   "sky-geez-bouyon-1280.webp": 32886,
+   "sky-geez-bouyon-640.jpg": 23594,
+   "sky-geez-bouyon-640.webp": 13506
+  },
+  "caption_en": "Image: YouTube thumbnail of “JÉRÉ $A”.",
+  "caption_fr": "Image : miniature YouTube de « JÉRÉ $A ».",
+  "file": "sky-geez-bouyon",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": null,
+  "name": "Sky Geez",
+  "sha": "ef78b70cd589",
+  "source": {
+   "channel": "",
+   "id": "W8K2xOMfVhE",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "JÉRÉ $A",
+   "url": "https://www.youtube.com/watch?v=W8K2xOMfVhE"
+  },
+  "w": 1280
+ },
  "slyme-hoyss": {
   "alt_en": "Slyme Hoyss, bouyon artist from Dominica: artist photo (Deezer page)",
   "alt_fr": "Slyme Hoyss, artiste bouyon de Dominique : photo de l'artiste (page Deezer)",
@@ -8791,6 +10279,70 @@
    "quality": "maxresdefault",
    "title": "Close to me bouyon remix 2020",
    "url": "https://www.youtube.com/watch?v=Y8KjGa6knx4"
+  },
+  "w": 1280
+ },
+ "soca-johnny": {
+  "alt_en": "Soca Johnny, bouyon artist from Dominica: still from the video “Soca Johnny live at Bouyon Monarch 2016 National Stadium Dominica”",
+  "alt_fr": "Soca Johnny, artiste bouyon de Dominique : image du clip « Soca Johnny live at Bouyon Monarch 2016 National Stadium Dominica »",
+  "bytes": {
+   "soca-johnny-bouyon-dominica-1280.jpg": 55235,
+   "soca-johnny-bouyon-dominica-1280.webp": 28676,
+   "soca-johnny-bouyon-dominica-640.jpg": 21086,
+   "soca-johnny-bouyon-dominica-640.webp": 12814
+  },
+  "caption_en": "Image: YouTube thumbnail of “Soca Johnny live at Bouyon Monarch 2016 National Stadium Dominica”.",
+  "caption_fr": "Image : miniature YouTube de « Soca Johnny live at Bouyon Monarch 2016 National Stadium Dominica ».",
+  "file": "soca-johnny-bouyon-dominica",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": {
+   "anchor": "dominica",
+   "code": "dm",
+   "en": "Dominica",
+   "fr": "Dominique"
+  },
+  "name": "Soca Johnny",
+  "sha": "7542b5431ad5",
+  "source": {
+   "channel": "",
+   "id": "oYNxUUxlBAU",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Soca Johnny live at Bouyon Monarch 2016 National Stadium Dominica",
+   "url": "https://www.youtube.com/watch?v=oYNxUUxlBAU"
+  },
+  "w": 1280
+ },
+ "soca-ras": {
+  "alt_en": "Soca Ras, bouyon artist from Antigua: still from the video “Soca Ras - Egg Plant [Bouyon 2019], Antigua's Carnival Festivals Commission”",
+  "alt_fr": "Soca Ras, artiste bouyon de Antigua : image du clip « Soca Ras - Egg Plant [Bouyon 2019], Antigua's Carnival Festivals Commission »",
+  "bytes": {
+   "soca-ras-bouyon-antigua-1280.jpg": 237728,
+   "soca-ras-bouyon-antigua-1280.webp": 175212,
+   "soca-ras-bouyon-antigua-640.jpg": 81225,
+   "soca-ras-bouyon-antigua-640.webp": 64568
+  },
+  "caption_en": "Image: YouTube thumbnail of “Soca Ras - Egg Plant [Bouyon 2019], Antigua's Carnival Festivals Commission”.",
+  "caption_fr": "Image : miniature YouTube de « Soca Ras - Egg Plant [Bouyon 2019], Antigua's Carnival Festivals Commission ».",
+  "file": "soca-ras-bouyon-antigua",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": {
+   "anchor": "antigua",
+   "code": "ag",
+   "en": "Antigua",
+   "fr": "Antigua"
+  },
+  "name": "Soca Ras",
+  "sha": "d9359e601d13",
+  "source": {
+   "channel": "",
+   "id": "L1b6AhA0RHY",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Soca Ras - Egg Plant [Bouyon 2019], Antigua's Carnival Festivals Commission",
+   "url": "https://www.youtube.com/watch?v=L1b6AhA0RHY"
   },
   "w": 1280
  },
@@ -8882,6 +10434,33 @@
    "quality": "maxresdefault",
    "title": "Trilla-G & Stalk Ashley - Nobody [Bouyon 2026]",
    "url": "https://www.youtube.com/watch?v=5Qc7hFdxJW4"
+  },
+  "w": 1280
+ },
+ "starrin": {
+  "alt_en": "Starrin, bouyon artist: still from the video “Starrin ft Inches - Stop call my name”",
+  "alt_fr": "Starrin, artiste bouyon : image du clip « Starrin ft Inches - Stop call my name »",
+  "bytes": {
+   "starrin-bouyon-1280.jpg": 190485,
+   "starrin-bouyon-1280.webp": 113440,
+   "starrin-bouyon-640.jpg": 57326,
+   "starrin-bouyon-640.webp": 41432
+  },
+  "caption_en": "Image: YouTube thumbnail of “Starrin ft Inches - Stop call my name”.",
+  "caption_fr": "Image : miniature YouTube de « Starrin ft Inches - Stop call my name ».",
+  "file": "starrin-bouyon",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": null,
+  "name": "Starrin",
+  "sha": "6740901a3c39",
+  "source": {
+   "channel": "",
+   "id": "6Zf-IaIfLpg",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Starrin ft Inches - Stop call my name",
+   "url": "https://www.youtube.com/watch?v=6Zf-IaIfLpg"
   },
   "w": 1280
  },
@@ -9036,6 +10615,38 @@
   },
   "w": 1280
  },
+ "subance": {
+  "alt_en": "Subance, bouyon artist from Saint Lucia: still from the video “Subance & Keks Mafia - Granny | Coconut Riddim - Bouyon 2019”",
+  "alt_fr": "Subance, artiste bouyon de Sainte-Lucie : image du clip « Subance & Keks Mafia - Granny | Coconut Riddim - Bouyon 2019 »",
+  "bytes": {
+   "subance-bouyon-saint-lucia-1280.jpg": 59553,
+   "subance-bouyon-saint-lucia-1280.webp": 27690,
+   "subance-bouyon-saint-lucia-640.jpg": 23385,
+   "subance-bouyon-saint-lucia-640.webp": 13328
+  },
+  "caption_en": "Image: YouTube thumbnail of “Subance & Keks Mafia - Granny | Coconut Riddim - Bouyon 2019”.",
+  "caption_fr": "Image : miniature YouTube de « Subance & Keks Mafia - Granny | Coconut Riddim - Bouyon 2019 ».",
+  "file": "subance-bouyon-saint-lucia",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": {
+   "anchor": "saint-lucia",
+   "code": "lc",
+   "en": "Saint Lucia",
+   "fr": "Sainte-Lucie"
+  },
+  "name": "Subance",
+  "sha": "97ba778ad6ec",
+  "source": {
+   "channel": "",
+   "id": "GH0WNq2ATWE",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Subance & Keks Mafia - Granny | Coconut Riddim - Bouyon 2019",
+   "url": "https://www.youtube.com/watch?v=GH0WNq2ATWE"
+  },
+  "w": 1280
+ },
  "sukie": {
   "alt_en": "Sukie: cover artwork for “Say My Name”",
   "alt_fr": "Sukie : pochette de « Say My Name »",
@@ -9098,6 +10709,65 @@
    "quality": "maxresdefault",
    "title": "Bandi",
    "url": "https://www.youtube.com/watch?v=DlcgVik3i14"
+  },
+  "w": 1280
+ },
+ "supalyne": {
+  "alt_en": "Supalyne, bouyon artist from Dominica: still from the video “Supalyne - Burna Boy ft Trixx & Gwada G”",
+  "alt_fr": "Supalyne, artiste bouyon de Dominique : image du clip « Supalyne - Burna Boy ft Trixx & Gwada G »",
+  "bytes": {
+   "supalyne-bouyon-dominica-1280.jpg": 140235,
+   "supalyne-bouyon-dominica-1280.webp": 89414,
+   "supalyne-bouyon-dominica-640.jpg": 52712,
+   "supalyne-bouyon-dominica-640.webp": 37438
+  },
+  "caption_en": "Image: YouTube thumbnail of “Supalyne - Burna Boy ft Trixx & Gwada G”.",
+  "caption_fr": "Image : miniature YouTube de « Supalyne - Burna Boy ft Trixx & Gwada G ».",
+  "file": "supalyne-bouyon-dominica",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": {
+   "anchor": "dominica",
+   "code": "dm",
+   "en": "Dominica",
+   "fr": "Dominique"
+  },
+  "name": "Supalyne",
+  "sha": "39dfed894053",
+  "source": {
+   "channel": "",
+   "id": "aWrnBlAUR_A",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Supalyne - Burna Boy ft Trixx & Gwada G",
+   "url": "https://www.youtube.com/watch?v=aWrnBlAUR_A"
+  },
+  "w": 1280
+ },
+ "supaman-enskred": {
+  "alt_en": "Supaman Enskred, bouyon artist: still from the video “#POZER #DOZER SUPAMAN X KARU X DARMON X MIHOM”",
+  "alt_fr": "Supaman Enskred, artiste bouyon : image du clip « #POZER #DOZER SUPAMAN X KARU X DARMON X MIHOM »",
+  "bytes": {
+   "supaman-enskred-bouyon-1280.jpg": 54082,
+   "supaman-enskred-bouyon-1280.webp": 24846,
+   "supaman-enskred-bouyon-640.jpg": 21792,
+   "supaman-enskred-bouyon-640.webp": 11226
+  },
+  "caption_en": "Image: YouTube thumbnail of “#POZER #DOZER SUPAMAN X KARU X DARMON X MIHOM”.",
+  "caption_fr": "Image : miniature YouTube de « #POZER #DOZER SUPAMAN X KARU X DARMON X MIHOM ».",
+  "file": "supaman-enskred-bouyon",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": null,
+  "name": "Supaman Enskred",
+  "sha": "2c1b38d20796",
+  "source": {
+   "channel": "",
+   "id": "JLUeTu9eoc8",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "#POZER #DOZER SUPAMAN X KARU X DARMON X MIHOM",
+   "url": "https://www.youtube.com/watch?v=JLUeTu9eoc8"
   },
   "w": 1280
  },
@@ -9524,6 +11194,33 @@
   },
   "w": 1280
  },
+ "tete-garcon": {
+  "alt_en": "Tete Garcon, bouyon artist: still from the video “Tete Garcon - Ghetto Life”",
+  "alt_fr": "Tete Garcon, artiste bouyon : image du clip « Tete Garcon - Ghetto Life »",
+  "bytes": {
+   "tete-garcon-bouyon-1280.jpg": 70686,
+   "tete-garcon-bouyon-1280.webp": 26920,
+   "tete-garcon-bouyon-640.jpg": 26292,
+   "tete-garcon-bouyon-640.webp": 12942
+  },
+  "caption_en": "Image: YouTube thumbnail of “Tete Garcon - Ghetto Life”.",
+  "caption_fr": "Image : miniature YouTube de « Tete Garcon - Ghetto Life ».",
+  "file": "tete-garcon-bouyon",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": null,
+  "name": "Tete Garcon",
+  "sha": "6267653fe346",
+  "source": {
+   "channel": "",
+   "id": "ZzLc3ULpptg",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Tete Garcon - Ghetto Life",
+   "url": "https://www.youtube.com/watch?v=ZzLc3ULpptg"
+  },
+  "w": 1280
+ },
  "teyma": {
   "alt_en": "Teyma, bouyon artist (France): artist photo (Deezer page)",
   "alt_fr": "Teyma, artiste bouyon (France) : photo de l'artiste (page Deezer)",
@@ -9855,6 +11552,33 @@
    "quality": "maxresdefault",
    "title": "TK International-Whistle While You Work(Bouyon 2024)",
    "url": "https://www.youtube.com/watch?v=f28197LOQBI"
+  },
+  "w": 1280
+ },
+ "tmx-official": {
+  "alt_en": "TMX Official, bouyon artist: still from the video “Bouyon Zouk”",
+  "alt_fr": "TMX Official, artiste bouyon : image du clip « Bouyon Zouk »",
+  "bytes": {
+   "tmx-official-bouyon-1280.jpg": 102308,
+   "tmx-official-bouyon-1280.webp": 63944,
+   "tmx-official-bouyon-640.jpg": 36637,
+   "tmx-official-bouyon-640.webp": 22808
+  },
+  "caption_en": "Image: YouTube thumbnail of “Bouyon Zouk”.",
+  "caption_fr": "Image : miniature YouTube de « Bouyon Zouk ».",
+  "file": "tmx-official-bouyon",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": null,
+  "name": "TMX Official",
+  "sha": "c29aa60b180d",
+  "source": {
+   "channel": "",
+   "id": "r7F3TsYavm0",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Bouyon Zouk",
+   "url": "https://www.youtube.com/watch?v=r7F3TsYavm0"
   },
   "w": 1280
  },
@@ -10249,6 +11973,38 @@
   },
   "w": 1280
  },
+ "vibez-productionz": {
+  "alt_en": "Vibez Productionz, bouyon artist from Saint Lucia: still from the video “Imran Nerdy X Vibez Productionz - Start D Party \"2024 Bouyon\"”",
+  "alt_fr": "Vibez Productionz, artiste bouyon de Sainte-Lucie : image du clip « Imran Nerdy X Vibez Productionz - Start D Party \"2024 Bouyon\" »",
+  "bytes": {
+   "vibez-productionz-bouyon-saint-lucia-1280.jpg": 231786,
+   "vibez-productionz-bouyon-saint-lucia-1280.webp": 180472,
+   "vibez-productionz-bouyon-saint-lucia-640.jpg": 64090,
+   "vibez-productionz-bouyon-saint-lucia-640.webp": 52746
+  },
+  "caption_en": "Image: YouTube thumbnail of “Imran Nerdy X Vibez Productionz - Start D Party \"2024 Bouyon\"”, Imran Nerdy Music channel.",
+  "caption_fr": "Image : miniature YouTube de « Imran Nerdy X Vibez Productionz - Start D Party \"2024 Bouyon\" », chaîne Imran Nerdy Music.",
+  "file": "vibez-productionz-bouyon-saint-lucia",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": {
+   "anchor": "saint-lucia",
+   "code": "lc",
+   "en": "Saint Lucia",
+   "fr": "Sainte-Lucie"
+  },
+  "name": "Vibez Productionz",
+  "sha": "b9079e907bc4",
+  "source": {
+   "channel": "Imran Nerdy Music",
+   "id": "BE2r8lA_YGU",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Imran Nerdy X Vibez Productionz - Start D Party \"2024 Bouyon\"",
+   "url": "https://www.youtube.com/watch?v=BE2r8lA_YGU"
+  },
+  "w": 1280
+ },
  "vibwoy": {
   "alt_en": "Vibwoy, bouyon artist: still from the video “Mommy”",
   "alt_fr": "Vibwoy, artiste bouyon : image du clip « Mommy »",
@@ -10545,6 +12301,33 @@
   },
   "w": 1280
  },
+ "yawiar": {
+  "alt_en": "Yawiar, bouyon artist: still from the video “Bouyon café”",
+  "alt_fr": "Yawiar, artiste bouyon : image du clip « Bouyon café »",
+  "bytes": {
+   "yawiar-bouyon-1280.jpg": 51108,
+   "yawiar-bouyon-1280.webp": 26052,
+   "yawiar-bouyon-640.jpg": 20470,
+   "yawiar-bouyon-640.webp": 11438
+  },
+  "caption_en": "Image: YouTube thumbnail of “Bouyon café”.",
+  "caption_fr": "Image : miniature YouTube de « Bouyon café ».",
+  "file": "yawiar-bouyon",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": null,
+  "name": "Yawiar",
+  "sha": "e40d0b8e3199",
+  "source": {
+   "channel": "",
+   "id": "kzF1t3_WdHQ",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Bouyon café",
+   "url": "https://www.youtube.com/watch?v=kzF1t3_WdHQ"
+  },
+  "w": 1280
+ },
  "yellow-gaza": {
   "alt_en": "Yellow Gaza, bouyon artist from Guadeloupe: artist photo (Deezer page)",
   "alt_fr": "Yellow Gaza, artiste bouyon de Guadeloupe : photo de l'artiste (page Deezer)",
@@ -10803,6 +12586,38 @@
   },
   "w": 1280
  },
+ "zamoni": {
+  "alt_en": "Zamoni, bouyon artist from Antigua: still from the video “Zamoni x Mr.Benji N20 x Pahjo - Mash up Kingdom”",
+  "alt_fr": "Zamoni, artiste bouyon de Antigua : image du clip « Zamoni x Mr.Benji N20 x Pahjo - Mash up Kingdom »",
+  "bytes": {
+   "zamoni-bouyon-antigua-1280.jpg": 196881,
+   "zamoni-bouyon-antigua-1280.webp": 133156,
+   "zamoni-bouyon-antigua-640.jpg": 71271,
+   "zamoni-bouyon-antigua-640.webp": 55334
+  },
+  "caption_en": "Image: YouTube thumbnail of “Zamoni x Mr.Benji N20 x Pahjo - Mash up Kingdom”.",
+  "caption_fr": "Image : miniature YouTube de « Zamoni x Mr.Benji N20 x Pahjo - Mash up Kingdom ».",
+  "file": "zamoni-bouyon-antigua",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": {
+   "anchor": "antigua",
+   "code": "ag",
+   "en": "Antigua",
+   "fr": "Antigua"
+  },
+  "name": "Zamoni",
+  "sha": "b2944be7e936",
+  "source": {
+   "channel": "",
+   "id": "WR15egflkoY",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "Zamoni x Mr.Benji N20 x Pahjo - Mash up Kingdom",
+   "url": "https://www.youtube.com/watch?v=WR15egflkoY"
+  },
+  "w": 1280
+ },
  "zepek": {
   "alt_en": "Zepek, bouyon artist: still from the video “ZEPEK - F*CK 2 NIGHT (BOUYON 2024)”",
   "alt_fr": "Zepek, artiste bouyon : image du clip « ZEPEK - F*CK 2 NIGHT (BOUYON 2024) »",
@@ -10827,6 +12642,65 @@
    "quality": "maxresdefault",
    "title": "ZEPEK - F*CK 2 NIGHT (BOUYON 2024)",
    "url": "https://www.youtube.com/watch?v=a_4NclSzLHk"
+  },
+  "w": 1280
+ },
+ "zi": {
+  "alt_en": "Zi, bouyon artist: still from the video “ZI - More Rum”",
+  "alt_fr": "Zi, artiste bouyon : image du clip « ZI - More Rum »",
+  "bytes": {
+   "zi-bouyon-1280.jpg": 103467,
+   "zi-bouyon-1280.webp": 56512,
+   "zi-bouyon-640.jpg": 44719,
+   "zi-bouyon-640.webp": 27604
+  },
+  "caption_en": "Image: YouTube thumbnail of “ZI - More Rum”.",
+  "caption_fr": "Image : miniature YouTube de « ZI - More Rum ».",
+  "file": "zi-bouyon",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": null,
+  "name": "Zi",
+  "sha": "743329f7a922",
+  "source": {
+   "channel": "",
+   "id": "ZrhsyPb2ugs",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "ZI - More Rum",
+   "url": "https://www.youtube.com/watch?v=ZrhsyPb2ugs"
+  },
+  "w": 1280
+ },
+ "zone-rouge": {
+  "alt_en": "Zone Rouge, bouyon artist from Dominica: still from the video “DJ Taffy X Zone Rouge X Gwada G \"hard like brad\" S.O.T.T [Bouyon 2023]”",
+  "alt_fr": "Zone Rouge, artiste bouyon de Dominique : image du clip « DJ Taffy X Zone Rouge X Gwada G \"hard like brad\" S.O.T.T [Bouyon 2023] »",
+  "bytes": {
+   "zone-rouge-bouyon-dominica-1280.jpg": 126025,
+   "zone-rouge-bouyon-dominica-1280.webp": 68298,
+   "zone-rouge-bouyon-dominica-640.jpg": 52502,
+   "zone-rouge-bouyon-dominica-640.webp": 34542
+  },
+  "caption_en": "Image: YouTube thumbnail of “DJ Taffy X Zone Rouge X Gwada G \"hard like brad\" S.O.T.T [Bouyon 2023]”.",
+  "caption_fr": "Image : miniature YouTube de « DJ Taffy X Zone Rouge X Gwada G \"hard like brad\" S.O.T.T [Bouyon 2023] ».",
+  "file": "zone-rouge-bouyon-dominica",
+  "gathered": "2026-10-30",
+  "h": 720,
+  "island": {
+   "anchor": "dominica",
+   "code": "dm",
+   "en": "Dominica",
+   "fr": "Dominique"
+  },
+  "name": "Zone Rouge",
+  "sha": "d48084f559c6",
+  "source": {
+   "channel": "",
+   "id": "hR5S1q5CC94",
+   "kind": "youtube",
+   "quality": "maxresdefault",
+   "title": "DJ Taffy X Zone Rouge X Gwada G \"hard like brad\" S.O.T.T [Bouyon 2023]",
+   "url": "https://www.youtube.com/watch?v=hR5S1q5CC94"
   },
   "w": 1280
  },
