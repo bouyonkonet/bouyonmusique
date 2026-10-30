@@ -109,6 +109,13 @@ FROM['gp'] += " daly"
 FROM['dm'] += " raw-redeem esclav soca-johnny"
 SCENE['gp'] += " ghetto-princess"
 SCENE['dm'] += " clint-h keith-goddard"
+# Wave 47 (2026-10-29)
+FROM['gp'] += " admiral-t"
+FROM['jm'] += " konshens"
+FROM['tt'] += " nailah-blackman patrice-roberts"
+SCENE['dm'] += " diyoute burn-brain-jolly wawa"
+SCENE['gp'] += " dexterman nicy keros-n"
+SCENE['mq'] += " natoxie"
 FROM = {k: v.split() for k, v in FROM.items()}
 SCENE = {k: v.split() for k, v in SCENE.items()}
 
