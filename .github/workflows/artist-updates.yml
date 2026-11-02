@@ -8,6 +8,11 @@ on:
     - cron: '30 14 * * *'  # after the morning review and the site's daily build (13:00 UTC)
     - cron: '30 1 * * *'   # after the evening review
   workflow_dispatch:
+    inputs:
+      build_only:
+        description: 'Test: regenerate and verify the site without applying, committing or deploying'
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -31,7 +36,17 @@ jobs:
           python-version: '3.12'
       - name: Install build dependencies
         run: pip install --quiet Pillow==12.1.1
+      - name: Build-only test
+        if: inputs.build_only
+        working-directory: build
+        run: |
+          python3 generate.py
+          python3 generate_en_full.py
+          python3 verify_site.py
+          git -C .. status --short | head -20
+          echo "changed files: $(git -C .. status --short | wc -l)"
       - name: Apply, generate, verify, commit and push
+        if: ${{ !inputs.build_only }}
         id: push
         run: |
           git config user.name "Bouyon Konet"
