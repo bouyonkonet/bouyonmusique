@@ -69,10 +69,10 @@ jobs:
           done
           exit 1
       - name: Deploy site
-        if: steps.push.outputs.count != '0'
+        if: steps.push.outputs.count != '0' && steps.push.outputs.count != ''
         env:
           GH_TOKEN: ${{ github.token }}
         run: gh workflow run pages.yml --ref main
       - name: Confirm live and mark Published
-        if: steps.push.outputs.count != '0'
+        if: steps.push.outputs.count != '0' && steps.push.outputs.count != ''
         run: python3 build/artist_updates_publish.py mark-published "${{ steps.push.outputs.sha }}" "${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
