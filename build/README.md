@@ -85,3 +85,7 @@ the Airtable artist-updates base (secret `AIRTABLE_TOKEN`, variable `AIRTABLE_BA
 first on the FR and EN page, optional FAQ replacements, and `date_modified`. The job then regenerates, runs
 `verify_site.py`, commits as Bouyon Konet, starts the Pages deploy and marks the Update Published once the live pages
 show it. If main moves during the build it resets and rebuilds rather than rebasing generated files.
+
+New artist profiles from the same pipeline: `Profile Drafts` rows marked Ready become `build/parity_parts/auto_<slug>.py`
+(FR and EN dicts, same shape as the wave parts), loaded by `data_parity_auto.py` / `data_parity_auto_en.py`, which are
+registered once in both generators. Add the slug to islands_data.py by hand only after reading the profile's origin line.

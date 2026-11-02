@@ -74,6 +74,68 @@ def headings(f, day):
             no_dashes(f.get('Heading FR') or f'Mise à jour du {day.day} {MONTHS_FR[day.month - 1]} {day.year}'))
 
 
+def create(table, rows):
+    out = []
+    for i in range(0, len(rows), 10):
+        out += api('POST', urllib.parse.quote(table), {'records': [{'fields': r} for r in rows[i:i + 10]], 'typecast': True})['records']
+    return out
+
+
+def profile_dicts(pj, today):
+    """Turn Claude's structured profile JSON into the FR/EN page dicts used by the wave parts."""
+    slug = pj['slug']
+    assert re.fullmatch(r'[a-z0-9]+(-[a-z0-9]+)*\.html', slug), f'bad slug {slug}'
+    out = {}
+    for lang, cat, base in (('fr', 'Artistes bouyon', f'{SITE}/{slug}'), ('en', 'Bouyon artists', f'{SITE}/en/{slug}')):
+        L = pj[lang]
+        clean = lambda t: html.escape(no_dashes(' '.join(str(t).split())), quote=False)
+        sections = [(no_dashes(sec['h2']), [clean(x) for x in sec['paras'] if str(x).strip()]) for sec in L['sections']]
+        faqs = [(no_dashes(q['q']), clean(q['a'])) for q in L.get('faq', [])]
+        if len(sections) < 3 or any(not ps for _, ps in sections):
+            raise ValueError(f'{lang}: needs at least 3 sections with paragraphs')
+        me = {'@type': ['Person', 'MusicGroup'] if pj.get('is_group') is False else 'MusicGroup', '@id': f'{base}#artist',
+              'name': pj['name'], 'description': no_dashes(L['bio']), 'genre': pj.get('genre') or 'Bouyon'}
+        if pj.get('tracks'):
+            me['track'] = [{'@type': 'MusicRecording', 'name': t} for t in pj['tracks'][:50]]
+        if pj.get('same_as'):
+            me['sameAs'] = [u for u in pj['same_as'] if u.startswith('https://')][:12]
+        if pj.get('alternate_names'):
+            me['alternateName'] = pj['alternate_names']
+        out[lang.upper()] = {'slug': slug, 'cat': cat, 'nav': pj['name'], 'title': no_dashes(L['title']), 'desc': no_dashes(L['desc']),
+                             'h1': no_dashes(L['h1']), 'intro': clean(L['intro']), 'date_published': today, 'sections': sections,
+                             'faq': faqs, 'extra_graph': [{'@type': 'ProfilePage', '@id': f'{base}#profile', 'mainEntity': me}],
+                             'date_modified': today}
+    return out
+
+
+def apply_profiles(applied):
+    drafts = api('GET', urllib.parse.quote('Profile Drafts'), params={'filterByFormula': "{Status}='Ready'", 'pageSize': 20})['records']
+    for d in drafts:
+        f = d['fields']
+        try:
+            pj = json.loads(f['Profile JSON'])
+            slug = pj['slug']
+            part = ROOT / 'build' / 'parity_parts' / f'auto_{slug[:-5]}.py'
+            if not part.exists():
+                if (ROOT / slug).exists() or glob.glob(str(ROOT / 'build' / 'parity_parts' / f'*_{slug[:-5]}.py')):
+                    raise ValueError(f'{slug} already exists on the site')
+                dd = profile_dicts(pj, TODAY.isoformat())
+                srcs = '\n'.join(f'# - {u}' for u in (f.get('Sources') or '').splitlines() if u.strip())
+                part.write_text('# -*- coding: utf-8 -*-\n'
+                                f"# {pj['name']} (bouyonmusique.com, new artist profile, {TODAY.isoformat()})\n"
+                                f"# Drafted by Claude from a verified discovery, approved in Airtable (Profile Drafts {d['id']}).\n"
+                                f'# Sources:\n{srcs}\n\nFR = {dd["FR"]!r}\n\nEN = {dd["EN"]!r}\n', encoding='utf-8')
+                import runpy
+                runpy.run_path(str(part))
+            dd = profile_dicts(pj, TODAY.isoformat())
+            applied.append({'kind': 'profile', 'id': d['id'], 'name': pj['name'], 'slug': slug, 'h_fr': pj['name'], 'h_en': pj['name'],
+                            'discovery': f.get('Discovery', []), 'island': f.get('Island', ''), 'summary': f.get('Summary EN', '')})
+            print('applied new profile', pj['name'], slug)
+        except Exception as e:
+            print('SKIP profile', d['id'], e)
+            api('PATCH', urllib.parse.quote('Profile Drafts'), {'records': [{'id': d['id'], 'fields': {'Publish Log': f'{TODAY} not published: {e}'}}]})
+
+
 def cmd_apply():
     ready = api('GET', 'Updates', params={'filterByFormula': "{Status}='Ready'", 'pageSize': 50})['records']
     applied = []
@@ -116,6 +178,7 @@ def cmd_apply():
         except Exception as e:
             print('SKIP', u['id'], e)
             update('Updates', [{'id': u['id'], 'fields': {'Publish Log': f'{TODAY} not published: {e}'}}])
+    apply_profiles(applied)
     STATE.write_text(json.dumps(applied, indent=1, ensure_ascii=False))
     gh_out = os.environ.get('GITHUB_OUTPUT')
     if gh_out:
@@ -130,7 +193,7 @@ def shows(text, h):
 
 def cmd_check_built():
     for a in json.loads(STATE.read_text()):
-        fr = (ROOT / a['slug']).read_text(encoding='utf-8'); en = (ROOT / 'en' / a['slug']).read_text(encoding='utf-8')
+        fr = (ROOT / a['slug']).read_text(encoding='utf-8'); en = (ROOT / 'en' / a['slug']).read_text(encoding='utf-8')  # new profiles: h1 text
         if not (shows(fr, a['h_fr']) and shows(en, a['h_en'])):
             sys.exit(f"built pages for {a['slug']} do not show the update heading")
     print('built pages ok')
@@ -152,6 +215,18 @@ def cmd_mark_published(commit, run_url):
             try:
                 if shows(fetch(f"{SITE}/{a['slug']}"), a['h_fr']) and shows(fetch(f"{SITE}/en/{a['slug']}"), a['h_en']):
                     pending.remove(a)
+                    if a.get('kind') == 'profile':
+                        api('PATCH', urllib.parse.quote('Profile Drafts'), {'records': [{'id': a['id'], 'fields': {'Status': 'Published',
+                            'Published URL': f"{SITE}/{a['slug']}", 'Published On': TODAY.isoformat(), 'Commit': commit[:12],
+                            'Publish Log': f'Published by GitHub Actions: {run_url}'}}]})
+                        create('Artists', [{'Stage Name': a['name'], 'Slug': a['slug'], 'Island': a['island'] or 'Unknown',
+                                            'Profile URL FR': f"{SITE}/{a['slug']}", 'Profile URL EN': f"{SITE}/en/{a['slug']}",
+                                            'Profile Published': TODAY.isoformat(), 'Status': 'Active watch', 'Priority': 'Normal',
+                                            'Summary EN': a['summary'], 'Last Published Update': TODAY.isoformat()}])
+                        if a['discovery']:
+                            update('Discoveries', [{'id': i, 'fields': {'Status': 'Profiled'}} for i in a['discovery']])
+                        print('live new profile:', a['slug'])
+                        continue
                     update('Updates', [{'id': a['id'], 'fields': {'Status': 'Published', 'Published URL': f"{SITE}/{a['slug']}",
                                        'Published On': TODAY.isoformat(), 'Commit': commit[:12], 'Publish Log': f'Published by GitHub Actions: {run_url}'}}])
                     update('Artists', [{'id': a['artist_id'], 'fields': {'Last Published Update': TODAY.isoformat()}}])
@@ -161,6 +236,9 @@ def cmd_mark_published(commit, run_url):
             except Exception as e:
                 print('live check:', a['slug'], e)
     for a in pending:
+        if a.get('kind') == 'profile':
+            api('PATCH', urllib.parse.quote('Profile Drafts'), {'records': [{'id': a['id'], 'fields': {'Commit': commit[:12], 'Publish Log': f'Pushed but not confirmed live after 15 min: {run_url}'}}]})
+            continue
         update('Updates', [{'id': a['id'], 'fields': {'Commit': commit[:12], 'Publish Log': f'Pushed but not confirmed live after 15 min: {run_url}'}}])
     if pending:
         sys.exit(f'{len(pending)} update(s) not confirmed live')
