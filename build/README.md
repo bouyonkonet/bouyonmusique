@@ -76,3 +76,12 @@ Verified social photos can be pinned in `images_overrides.json` with `local_imag
 replaces a cached namesake when the pinned source changes and fails if the
 source bytes change. Quoted prose no longer confirms Deezer matches: it may
 describe a different performer. A revision changes every generated image URL.
+
+## Artist updates from Airtable (GitHub Actions)
+
+`.github/workflows/artist-updates.yml` runs at 14:30 and 01:30 UTC (and on demand). It reads Updates marked **Ready** in
+the Airtable artist-updates base (secret `AIRTABLE_TOKEN`, variable `AIRTABLE_BASE_ID`), and
+`build/artist_updates_publish.py apply` appends a marked block to the artist's `parity_parts` file: a dated update section
+first on the FR and EN page, optional FAQ replacements, and `date_modified`. The job then regenerates, runs
+`verify_site.py`, commits as Bouyon Konet, starts the Pages deploy and marks the Update Published once the live pages
+show it. If main moves during the build it resets and rebuilds rather than rebasing generated files.

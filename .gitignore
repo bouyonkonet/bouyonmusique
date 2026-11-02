@@ -1,2 +1,5 @@
 __pycache__/
 *.pyc
+
+# artist-updates publisher run state
+build/.artist_updates_applied.json
