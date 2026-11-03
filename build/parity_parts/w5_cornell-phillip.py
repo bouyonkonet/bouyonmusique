@@ -508,3 +508,14 @@ EN = {
 ], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
+
+# --- artist-update rec623CwjT1D3auh0 (2026-11-03), published from the Airtable artist-updates base ---
+def _apply_update_rec623CwjT1D3auh0(page, section, faq, day):
+    page["sections"] = [section] + [s for s in page["sections"] if s[0] != section[0]]
+    for q, a in faq:
+        rows = [i for i, x in enumerate(page["faq"]) if x[0] == q]
+        if rows: page["faq"][rows[0]] = (q, a)
+        else: page["faq"].append((q, a))
+    page["date_modified"] = day
+_apply_update_rec623CwjT1D3auh0(FR, ('Mise à jour du 3 novembre 2026 : Cornell Phillip, le C du premier CK', ["Avant de s'appeler WCK, le groupe s'appelait CK, et le C, c'était Cornell. Dans un article publié en juillet 2016 par The Sun, le journal de la Dominique, Ian Jackson rappelle que tout a commencé avec Cornel et Keith, Cornell Phillip et le bassiste Keith Goddard, qui jouaient dans de petites fêtes privées.", "Au milieu des années 1980, un W s'ajoute pour Wackers, aperçu pour la première fois quand le groupe joue au Courtesy Song Contest : CK devient WCK. Quand Wackers s'en va, le guitariste Wayne McLawrence arrive et le W reste. Ce n'est que plus tard que les lettres signifient Windward Caribbean Kulture. L'histoire complète du nom est sur nos pages WCK et histoire du bouyon."]), [], '2026-11-03')
+_apply_update_rec623CwjT1D3auh0(EN, ('Update, November 3, 2026: Cornell Phillip, the C in the original CK', ['Before the band was called WCK, it was called CK, and the C was Cornell. In a July 2016 article in The Sun, the Dominica newspaper, Ian Jackson recalls that the group began as Cornel and Keith, Cornell Phillip and bassist Keith Goddard, playing small private functions.', 'In the mid-1980s a W was added for Wackers, first seen when the band played the Courtesy Song Contest: CK became WCK. When Wackers left, guitarist Wayne McLawrence joined and the W stayed. Only later did the letters come to stand for Windward Caribbean Kulture. The full story of the name is on our WCK and history of bouyon pages.']), [], '2026-11-03')

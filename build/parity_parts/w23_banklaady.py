@@ -380,3 +380,14 @@ EN = {
  ],
  "date_modified": "2026-10-20"
 }
+
+# --- artist-update recWnnNaIvuCMdItS (2026-11-03), published from the Airtable artist-updates base ---
+def _apply_update_recWnnNaIvuCMdItS(page, section, faq, day):
+    page["sections"] = [section] + [s for s in page["sections"] if s[0] != section[0]]
+    for q, a in faq:
+        rows = [i for i, x in enumerate(page["faq"]) if x[0] == q]
+        if rows: page["faq"][rows[0]] = (q, a)
+        else: page["faq"].append((q, a))
+    page["date_modified"] = day
+_apply_update_recWnnNaIvuCMdItS(FR, ('Mise à jour du 3 novembre 2026', ['Apple Music recense deux singles de Banklaady qui ne figurent pas encore sur ce profil. RATCHET DEMBOW (VERSION CLUB) est sorti le 16 avril 2026 (℗ 2026 NOVA CORP), en version club de RATCHET DEMBOW (Version Dembow). HOLLON (Remix) est sorti le 27 décembre 2024 (℗ 2024 NOVA CORP). Apple Music recense aussi Banky Funk, un single daté du 31 juillet 2020 (℗ 2020 2276068 Records DK), la plus ancienne sortie du catalogue documenté.', "Apple Music précise également les crédits de titres déjà présents sur le profil. Go Banky (Freestyle NTD), sorti le 5 juin 2026, est crédité à Nothing to Declare et Banklaady. LES VRAIS GO, crédité à My Sozo et Banklaady, figure sur My Sozo Tape, sorti le 16 novembre 2025. Twavay Bay avec Ricky Bishop figure aussi sur l'album Timing. de Ricky Bishop, sorti le 16 octobre 2026 chez JV RECORDS et distribué par Sony Entertainment France SAS.", "Sur scène, le site d'agenda Stereoscope annonce Banklaady à la Péniche Loupika, à Lyon, le 6 novembre 2026, avec Yanka, SLMVX, Tibo BRTZ et Tacos Criminal."]), [], '2026-11-03')
+_apply_update_recWnnNaIvuCMdItS(EN, ('Update, November 3, 2026', ['Apple Music lists two Banklaady singles not yet on this profile. RATCHET DEMBOW (VERSION CLUB) was released on 16 April 2026 (℗ 2026 NOVA CORP) as a club version of RATCHET DEMBOW (Version Dembow). HOLLON (Remix) was released on 27 December 2024 (℗ 2024 NOVA CORP). Apple Music also lists Banky Funk, a single dated 31 July 2020 (℗ 2020 2276068 Records DK), the earliest release in the documented catalogue.', "Apple Music also gives fuller credits for tracks already on the profile. Go Banky (Freestyle NTD), released on 5 June 2026, is credited to Nothing to Declare and Banklaady. LES VRAIS GO, credited to My Sozo and Banklaady, appears on My Sozo Tape, released on 16 November 2025. Twavay Bay with Ricky Bishop is also on Ricky Bishop's album Timing., released on 16 October 2026 by JV RECORDS and distributed by Sony Entertainment France SAS.", 'On stage, the Stereoscope listings site has Banklaady at Péniche Loupika in Lyon on 6 November 2026, with Yanka, SLMVX, Tibo BRTZ and Tacos Criminal.']), [], '2026-11-03')

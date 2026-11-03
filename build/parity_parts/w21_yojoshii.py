@@ -228,3 +228,14 @@ EN = {
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/yojoshii.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/yojoshii.html#artist", "name": "YoJoshii", "description": "Bouyon producer documented by two verified credits: the production of SEE U for Pinpin OSP, inside the VGM Product team, and the co-production of Back Up Your Chat for Ebony Empress and Foxy Jael with Yung Pierre, in 2026. No biography, no real name and no origin published in the sources consulted. Not to be confused with Yo Joshy, Joshii G, nor with the composer Joshii credited on 6 o’clock by Miimii KDS, a link that is not established.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": 'SEE U'}, {"@type": "MusicRecording", "name": 'Back Up Your Chat'}], "sameAs": []}}],
  "date_modified": "2026-10-29"
 }
+
+# --- artist-update recsCgfpXIjmajnye (2026-11-03), published from the Airtable artist-updates base ---
+def _apply_update_recsCgfpXIjmajnye(page, section, faq, day):
+    page["sections"] = [section] + [s for s in page["sections"] if s[0] != section[0]]
+    for q, a in faq:
+        rows = [i for i, x in enumerate(page["faq"]) if x[0] == q]
+        if rows: page["faq"][rows[0]] = (q, a)
+        else: page["faq"].append((q, a))
+    page["date_modified"] = day
+_apply_update_recsCgfpXIjmajnye(FR, ('Mise à jour du 3 novembre 2026', ["Un troisième crédit de production est désormais documenté. YoJoshii a produit Bestfriend de Slyme Hoyss, publié en audio officiel le 6 mai 2026 sur la chaîne YouTube de l'artiste. La description de la vidéo attribue l'écriture à Slyme Hoyss, la production à YoJoshii et les claviers à Fr3EzE.", "Le clip officiel de SEE U de Pinpin OSP est sorti le 14 octobre 2026 sur la chaîne YouTube PINPIN OSP OFFICIEL. Sa description attribue la production à YoJoshii, la réalisation à Mproduction971 et l'enregistrement, le mixage et le mastering à VGM Product.", 'Le compte @YoJoshii mentionné dans ces deux crédits renvoie à une chaîne YouTube nommée JoshiiMadeIt.']), [], '2026-11-03')
+_apply_update_recsCgfpXIjmajnye(EN, ('Update, November 3, 2026', ["A third production credit is now documented. YoJoshii produced Bestfriend by Slyme Hoyss, released as an official audio on 6 May 2026 on the artist's YouTube channel. The video description credits the writing to Slyme Hoyss, the production to YoJoshii and the keys to Fr3EzE.", 'The official video for SEE U by Pinpin OSP came out on 14 October 2026 on the PINPIN OSP OFFICIEL YouTube channel. Its description credits the production to YoJoshii, the direction to Mproduction971 and the recording, mixing and mastering to VGM Product.', 'The @YoJoshii handle tagged in both credits leads to a YouTube channel named JoshiiMadeIt.']), [], '2026-11-03')

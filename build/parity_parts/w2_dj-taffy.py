@@ -781,3 +781,14 @@ EN = {
 ], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
+
+# --- artist-update reccJF7XxmEfmxxMY (2026-11-03), published from the Airtable artist-updates base ---
+def _apply_update_reccJF7XxmEfmxxMY(page, section, faq, day):
+    page["sections"] = [section] + [s for s in page["sections"] if s[0] != section[0]]
+    for q, a in faq:
+        rows = [i for i, x in enumerate(page["faq"]) if x[0] == q]
+        if rows: page["faq"][rows[0]] = (q, a)
+        else: page["faq"].append((q, a))
+    page["date_modified"] = day
+_apply_update_reccJF7XxmEfmxxMY(FR, ('Mise à jour du 3 novembre 2026', ["Apple Music recense deux albums de DJ Taffy parus sur Riddim Beast Studios. Can't Stop Won't Stop est sorti le 19 septembre 2024 et comprend Baddie, Jiggle, Tie up, Bachanal et Lobster. Pick your speed, Know your limit est sorti le 17 septembre 2025 et compte sept titres, dont Do 4 Do, Up is Up et Pay day.", 'En 2026, il a publié TAFFY BOX, un EP de quatre titres avec Rody Smashboy, sorti le 5 août sous le label super smash. Le 25 août est paru Possi Live, un EP live sur Riddim Beast Studios avec Trixx et Freddy.', "Sa chaîne YouTube, DJTaffy Tha Riddim Beast, a publié plusieurs prestations live de 2026 : Nasty Sunday en Guadeloupe (mai), NSE Summer 2K26 (août), Ti Villaj 2026 (octobre) et un set au WCMF 2026 avec Gwada G, Real Reel et Freddy (31 octobre). Il a également été interviewé par Loxymore à l'Aqua Music Festival (août 2024) et par Cranberry TV dans l'émission Parlé with Cranberry (février 2025).", 'Au 2 novembre 2026, Spotify affiche 16,7 k auditeurs mensuels et la chaîne YouTube 53,6 k abonnés.']), [], '2026-11-03')
+_apply_update_reccJF7XxmEfmxxMY(EN, ('Update, November 3, 2026', ["Apple Music lists two albums by DJ Taffy on Riddim Beast Studios. Can't Stop Won't Stop came out on 19 September 2024 and includes Baddie, Jiggle, Tie up, Bachanal and Lobster. Pick your speed, Know your limit came out on 17 September 2025 and has seven tracks, among them Do 4 Do, Up is Up and Pay day.", 'In 2026 he released TAFFY BOX, a four-track EP with Rody Smashboy issued on 5 August under the super smash label. On 25 August came Possi Live, a live EP on Riddim Beast Studios with Trixx and Freddy.', 'His YouTube channel, DJTaffy Tha Riddim Beast, has published several 2026 live sets: Nasty Sunday in Guadeloupe (May), NSE Summer 2K26 (August), Ti Villaj 2026 (October) and a WCMF 2026 set with Gwada G, Real Reel and Freddy (31 October). He has also given interviews to Loxymore at the Aqua Music Festival (August 2024) and to Cranberry TV on Parlé with Cranberry (February 2025).', 'As of 2 November 2026, Spotify shows 16.7K monthly listeners and the YouTube channel shows 53.6K subscribers.']), [], '2026-11-03')

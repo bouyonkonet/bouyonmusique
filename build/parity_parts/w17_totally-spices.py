@@ -312,3 +312,14 @@ EN = {
 ], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
+
+# --- artist-update recfHV0RlCqcYWWJX (2026-11-03), published from the Airtable artist-updates base ---
+def _apply_update_recfHV0RlCqcYWWJX(page, section, faq, day):
+    page["sections"] = [section] + [s for s in page["sections"] if s[0] != section[0]]
+    for q, a in faq:
+        rows = [i for i, x in enumerate(page["faq"]) if x[0] == q]
+        if rows: page["faq"][rows[0]] = (q, a)
+        else: page["faq"].append((q, a))
+    page["date_modified"] = day
+_apply_update_recfHV0RlCqcYWWJX(FR, ('Mise à jour du 3 novembre 2026', ["Le 30 octobre 2026, Totally Spice's a publié le single Ban Mwen, crédité à SAGE FWI et Totally Spice's (Dreamtraxxx records), selon Apple Music.", "Bizouk annonce une tournée d'Halloween en trois dates en France hexagonale : Villeurbanne le 30 octobre 2026 (Caribbean Nightmare, Avenue 45, avec SMS et Bad'Deey), Melesse près de Rennes le 31 octobre 2026 (Shatta Halloween, Jam Session de Melesse) et Nantes le 6 novembre 2026 (Shatta Halloween, D3, Quai des Antilles).", "Le dossier de presse des Eurockéennes de Belfort 2025 cite Holly G et Totally Spice's pour le plateau Bad Gyal Bouyon Lé Bon."]), [], '2026-11-03')
+_apply_update_recfHV0RlCqcYWWJX(EN, ('Update, November 3, 2026', ["On 30 October 2026 Totally Spice's released the single Ban Mwen, credited jointly to SAGE FWI and Totally Spice's (Dreamtraxxx records), according to Apple Music.", "Bizouk reports a three-date Halloween run in mainland France: Villeurbanne on 30 October 2026 (Caribbean Nightmare, Avenue 45, with SMS and Bad'Deey), Melesse near Rennes on 31 October 2026 (Shatta Halloween, Jam Session de Melesse), and Nantes on 6 November 2026 (Shatta Halloween, D3, Quai des Antilles).", "The Eurockéennes de Belfort 2025 press kit names Holly G and Totally Spice's for the Bad Gyal Bouyon Lé Bon programme."]), [], '2026-11-03')

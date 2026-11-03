@@ -456,3 +456,14 @@ EN = {
 ], "sameAs": ["https://www.deezer.com/fr/artist/6306886", "https://www.qobuz.com/at-de/interpreter/shanika/1902748"]}}],
  "date_modified": "2026-10-20"
 }
+
+# --- artist-update recbviRuXLtTdun41 (2026-11-03), published from the Airtable artist-updates base ---
+def _apply_update_recbviRuXLtTdun41(page, section, faq, day):
+    page["sections"] = [section] + [s for s in page["sections"] if s[0] != section[0]]
+    for q, a in faq:
+        rows = [i for i, x in enumerate(page["faq"]) if x[0] == q]
+        if rows: page["faq"][rows[0]] = (q, a)
+        else: page["faq"].append((q, a))
+    page["date_modified"] = day
+_apply_update_recbviRuXLtTdun41(FR, ('Mise à jour du 3 novembre 2026', ["Mise à jour du 2 novembre 2026. Apple Music recense une collaboration de 2024 absente de ce profil : Ding Dong, créditée à Maureen et Shanika, sur l'EP BAD QUEEN de Maureen, paru le 16 février 2024 chez Mau Art Production. Dans un article publié le 12 avril 2024, France-Antilles Guadeloupe présente Shanika comme une jeune chanteuse originaire de Bouillante. La fiche Bizouk du Bal De Promo, La Nuit Des Bacheliers (deuxième édition), organisé au 2.0 aux Abymes en juillet 2025, cite Shanika parmi les têtes d'affiche."]), [], '2026-11-03')
+_apply_update_recbviRuXLtTdun41(EN, ('Update, November 3, 2026', ["Update 2026-11-02. Apple Music lists a 2024 collaboration missing from this profile: Ding Dong, credited to Maureen and Shanika, on Maureen's BAD QUEEN EP, released on 16 February 2024 by Mau Art Production. In an article published on 12 April 2024, France-Antilles Guadeloupe describes Shanika as a young singer from Bouillante. The Bizouk event listing for Le Bal De Promo, La Nuit Des Bacheliers (second edition), held at Le 2.0 in Les Abymes in July 2025, names Shanika among the headline artists."]), [], '2026-11-03')

@@ -156,3 +156,14 @@ EN = {
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/bad-gyal-shyanne.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/bad-gyal-shyanne.html#artist", "name": "Bad Gyal Shyanne", "description": "Bouyon artist, artist and performer of Break Me Down, an open mic video billed as bouyon filmed at Roseau Market and the old Mill, produced by Kross Beats, with Norman Dorival (Brockshot) on additional production, arrangement, recording and engineering, Keith Goddard on bass, mixing and mastering at Cornel Phillip of Imperial Publishing, exclusive producer Dwayne Skerrit, at Turnt up Tv Studio. Link to Dominica through the filming locations and the 767 booking number printed in the page. No other record or biography verified at publication date.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Break Me Down"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
+
+# --- artist-update recb9BO8DL42Gy8vk (2026-11-03), published from the Airtable artist-updates base ---
+def _apply_update_recb9BO8DL42Gy8vk(page, section, faq, day):
+    page["sections"] = [section] + [s for s in page["sections"] if s[0] != section[0]]
+    for q, a in faq:
+        rows = [i for i, x in enumerate(page["faq"]) if x[0] == q]
+        if rows: page["faq"][rows[0]] = (q, a)
+        else: page["faq"].append((q, a))
+    page["date_modified"] = day
+_apply_update_recb9BO8DL42Gy8vk(FR, ('Mise à jour du 3 novembre 2026', ['Le 12 octobre 2026, "Break me down" est sorti en single sous le nom de Bad Gyal Shyanne. Apple Music le présente comme un single d\'un titre, avec la mention (P) 2026 Turnt Up Tv Official. Au 2 novembre 2026, c\'est la seule sortie de sa page artiste Apple Music, qui ne montre aucun autre album, EP ou featuring.', 'Le même jour, la chaîne YouTube Turnt Up Tv Official a publié la vidéo open mic du titre et une vidéo promotionnelle intitulée "Bad Gyal Shyanne - Break me down Out Now !!!!". Le 2 novembre 2026, la vidéo open mic comptait 7 297 vues, la vidéo promotionnelle 569 vues et la chaîne 673 abonnés. Nous n\'avons pas confirmé de chaîne YouTube tenue par l\'artiste elle-même.']), [], '2026-11-03')
+_apply_update_recb9BO8DL42Gy8vk(EN, ('Update, November 3, 2026', ['On 12 October 2026, "Break me down" was released as a single under the name Bad Gyal Shyanne. Apple Music lists it as a one-track single with the copyright line (P) 2026 Turnt Up Tv Official. As of 2 November 2026, it is the only release on her Apple Music artist page, which shows no other album, EP or feature.', 'The Turnt Up Tv Official YouTube channel posted the open mic video of the song and a release promo titled "Bad Gyal Shyanne - Break me down Out Now !!!!" on the same day. On 2 November 2026, the open mic video had 7,297 views, the promo had 569 views and the channel had 673 subscribers. We have not confirmed a YouTube channel run by the artist herself.']), [], '2026-11-03')

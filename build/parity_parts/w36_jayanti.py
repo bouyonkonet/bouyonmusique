@@ -91,3 +91,14 @@ EN = {
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/jayanti.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/jayanti.html#artist", "name": "Jayanti", "description": "Artist of Lie To Me with Redz, posted on June 16, 2026, billed Bouyon 2026 and presented on the JAYANTI MUSIC channel as bouyon music from Saint Lucia, produced by ShakoProduction, recorded and mixed at Ransum Records.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Lie To Me"}], "sameAs": ["https://www.youtube.com/channel/UC1gYZ9BmL9aBaFNefei_DCg"]}}],
  "date_modified": "2026-10-23"
 }
+
+# --- artist-update recauzCp9P0Zbox5O (2026-11-03), published from the Airtable artist-updates base ---
+def _apply_update_recauzCp9P0Zbox5O(page, section, faq, day):
+    page["sections"] = [section] + [s for s in page["sections"] if s[0] != section[0]]
+    for q, a in faq:
+        rows = [i for i, x in enumerate(page["faq"]) if x[0] == q]
+        if rows: page["faq"][rows[0]] = (q, a)
+        else: page["faq"].append((q, a))
+    page["date_modified"] = day
+_apply_update_recauzCp9P0Zbox5O(FR, ('Mise à jour du 3 novembre 2026', ['Mise à jour du 2026-11-02. Depuis « Lie To Me » avec Redz (16 juin 2026), la chaîne YouTube JAYANTI MUSIC a publié deux nouveaux titres. Le 26 juin 2026, elle a mis en ligne « Jayanti x Take Boi Gyal (official audio) », présenté dans le cadre du Dennery segment 2026. Le 18 septembre 2026, elle a publié « Nah dead Poor », présenté comme le clip officiel. La chaîne contient aussi une mise en ligne plus ancienne, « Jayanti x Not Bad », datée du 16 mars 2025. Source : chaîne JAYANTI MUSIC sur YouTube.']), [], '2026-11-03')
+_apply_update_recauzCp9P0Zbox5O(EN, ('Update, November 3, 2026', ["Update 2026-11-02. Since 'Lie To Me' with Redz (June 16, 2026), the JAYANTI MUSIC YouTube channel has published two more releases. On June 26, 2026 it posted 'Jayanti x Take Boi Gyal (official audio)', billed as part of the Dennery segment 2026. On September 18, 2026 it posted 'Nah dead Poor', presented as the official music video. The channel also holds an earlier upload, 'Jayanti x Not Bad', dated March 16, 2025. Source: JAYANTI MUSIC channel on YouTube."]), [], '2026-11-03')

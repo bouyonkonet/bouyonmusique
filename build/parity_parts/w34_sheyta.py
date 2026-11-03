@@ -95,3 +95,14 @@ EN = {
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/sheyta.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/sheyta.html#artist", "name": "Sheyta", "description": "Bouyon voice credited on VENDREDI (BOUYON 2025) on VGM Product’, on VODY 22, a video tagged #BOUYON from December 2025 produced by Qwann, and on AMBIANCE with Managyalis, a video tagged #BOUYON from July 2026 produced by Diixly. Origin not named in the opened sources.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "VENDREDI"}, {"@type": "MusicRecording", "name": "VODY 22"}, {"@type": "MusicRecording", "name": "AMBIANCE"}]}}],
  "date_modified": "2026-10-23"
 }
+
+# --- artist-update recY20R3eMUwH0gtr (2026-11-03), published from the Airtable artist-updates base ---
+def _apply_update_recY20R3eMUwH0gtr(page, section, faq, day):
+    page["sections"] = [section] + [s for s in page["sections"] if s[0] != section[0]]
+    for q, a in faq:
+        rows = [i for i, x in enumerate(page["faq"]) if x[0] == q]
+        if rows: page["faq"][rows[0]] = (q, a)
+        else: page["faq"].append((q, a))
+    page["date_modified"] = day
+_apply_update_recY20R3eMUwH0gtr(FR, ('Mise à jour du 3 novembre 2026', ["Mise à jour du 2026-11-02. Apple Music cite Sheyta parmi les artistes invités de ARE U FEELING, un single publié par Jixels le 29 mai 2026 avec Dinho, Lecus, Leseb et Managyalis, crédité ℗ 2026 JX PRODZ. Il s'agit de la troisième apparition de Sheyta sur un single de Jixels, après VODY 22 (2025) et avant AMBIANCE (2026). La page artiste Apple Music au nom de Sheyta regroupe aussi les sorties d'un homonyme sans lien, actif en musique électronique. Ces sorties ne font pas partie de cette discographie."]), [], '2026-11-03')
+_apply_update_recY20R3eMUwH0gtr(EN, ('Update, November 3, 2026', ["Update 2026-11-02. Apple Music lists Sheyta among the featured artists on ARE U FEELING, a single released by Jixels on 29 May 2026 with Dinho, Lecus, Leseb and Managyalis, credited ℗ 2026 JX PRODZ. It is Sheyta's third appearance on a Jixels single, after VODY 22 (2025) and before AMBIANCE (2026). The Apple Music artist page under the name Sheyta also carries releases by an unrelated electronic music namesake. Those are not part of this discography."]), [], '2026-11-03')
