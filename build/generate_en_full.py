@@ -391,7 +391,6 @@ PLAYLIST_EMBEDS = {
         ("youtube", "PLNzqsHgDlE0A", "Bouyon Songs 2026 - New Bouyon Music & Dominica Hits"),
         ("spotify", "4ikmgg9FzDug5tLttfhfQp", "Bouyon Music 2026 | Road Mix"),
     ],
-    "best-bouyon.html": [_YT_BEST2026],
     "old-school-bouyon.html": [
         ("youtube", "PLNlp6SK-JfuM", "WCK | Smokiller Selection 04"),
     ],
@@ -455,6 +454,31 @@ def playlist_embeds_html(slug):
                     'class="embed-h" loading="lazy" allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>\n')
     return out
 
+def para_html(para):
+    """A section entry is a paragraph, a raw block (<ul>, <ol>, <table>, <div>) or a "yt:VIDEOID" video facade."""
+    if para.startswith("yt:"):
+        import yt
+        vid = para[3:].strip()
+        return yt.facade(vid, (yt.META.get(vid) or {}).get("title") or vid)
+    if re.match(r"<(ul|ol|table|div)\b", para):
+        return para + "\n"
+    return f"<p>{para}</p>\n"
+
+SPOTIFY_ROAD_MIX = "https://open.spotify.com/playlist/4ikmgg9FzDug5tLttfhfQp"
+
+def listen_top_html(page):
+    """Listen pages: a playable YouTube playlist in the first screen, then the listen buttons and the follow line."""
+    top = page.get("embed_top")
+    if not top:
+        return ""
+    pid, title = top
+    return ('<div class="listen-top">\n<div class="embed">'
+            f'<iframe src="https://www.youtube-nocookie.com/embed/videoseries?list={pid}" title="{esc(title)}" '
+            'allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>\n'
+            f'<div class="cta-row"><a class="btn" href="https://www.youtube.com/playlist?list={pid}" data-cta="youtube_link">Listen on YouTube</a> '
+            f'<a class="btn" href="{SPOTIFY_ROAD_MIX}" data-cta="spotify_link">Listen on Spotify</a></div>\n'
+            '<p>Follow <a href="https://www.instagram.com/bouyonshattaz/" data-cta="instagram_follow">@bouyonshattaz</a> for new releases.</p>\n</div>\n')
+
 def byline(page):
     pub, mod = page.get("date_published"), page.get("date_modified")
     out = f'<p class="pubdate">By <a href="/en/smokiller.html" rel="author">Smokiller</a> · Published <time datetime="{pub}">{fmt_date_en(pub)}</time>'
@@ -496,7 +520,7 @@ def render(page):
     for h2, paras in linkify_sections(page, PAGES, EXTRA_TERMS_EN, "/en/"):
         sections += f'\n<h2>{esc(h2)}</h2>\n'
         for para in paras:
-            sections += f"<p>{para}</p>\n"
+            sections += para_html(para)
     from tracklist import tracklist_html as _tl_html, tracklist_ld as _tl_ld
     sections += _tl_html(page, "en", "/en/")
     sections += __import__("tracklist").riddim_index_html(page, "en", "/en/")
@@ -614,7 +638,7 @@ def render(page):
 <p class="breadcrumb"><a href="/en/">Bouyon music</a> / {esc(page["cat"])} / {esc(page["nav"])}</p>
 <h1>{esc(page["h1"])}</h1>{date_html}
 <p class="lead">{page["intro"]}</p>
-{sections}{hub}
+{listen_top_html(page)}{sections}{hub}
 {cta}
 {embed_html}{faq_html}{cited_html(cited)}
 {rel_html}

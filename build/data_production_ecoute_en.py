@@ -911,12 +911,14 @@ PAGES = [
 },
 {
 "slug": "best-bouyon.html", "fr_slug": "meilleur-bouyon.html", "cat": "Listen to bouyon", "nav": "The best of bouyon",
-"title": "Best Bouyon Artists, Songs and Playlists: Where to Start",
-"desc": "The best of bouyon in one page: the artists to know first, the must-hear tracks from 1988 to 2026, the styles to tell apart and the playlist that sums it all up.",
+"title": "Best Bouyon Songs, Artists and Playlists: Where to Start",
+"desc": "The best bouyon songs in one page: the must-hear tracks from 1988 to 2026, the artists to know first, the styles to tell apart and the playlist to play.",
 "h1": "The best of bouyon, according to Bouyon Shattaz",
-"intro": "If you were to keep only one gateway into bouyon, here it is: the essential artists, the styles that matter and the playlist that sums up the genre, from 1988 to 2026.",
+"intro": "If you were to keep only one gateway into bouyon music, here it is: the best bouyon songs to start with, the essential artists, the styles that matter and the Bouyon Music 2026 playlist on YouTube and Spotify that sums up the genre, from 1988 to 2026.",
+"embed_top": ("PLB1axoRydQreXaKD2wlZ5IHJmNmoTWEEd", "Bouyon Music 2026 - Best New Bouyon Songs (Dominica Bouyon Hits)"),
 "sections": [
 ("The essentials", ["The artists: WCK the creators, Asa Bantan, identified as the Bouyon Boss by Dominica Festivals, Reo the Prince of the new generation. The styles: classic bouyon, bouyon soca, bouyon gwada and shatta bouyon. The places: Roseau for the origin, Pointe-à-Pitre and Fort-de-France for the spread, Paris for the market."]),
+("Best bouyon songs to start with", ["Twelve songs that show the range of the genre, each documented with its sources on the linked pages:", "<ul><li><em>Bouwéy</em> by 1T1 and Theomaa: bouyon song of the year at the Caribbean Music Awards 2026, from 1T1's EP CHORD (December 13, 2024).</li><li><em>Life Nice</em> by Asa Bantan, identified as the Bouyon Boss by Dominica Festivals.</li><li><em>Joli BB</em> by Reo with Maurane Voyer, the bridge between Dominica and Martinique.</li><li><em>FIX UP</em> by G'z Up, carried by its Ya ya ya hook.</li><li><em>Throw Dat (Bouyon 2026)</em> by Klass Money, produced by Smokiller.</li><li><em>Mauvais Plan</em> by HYPNO, on the producers' side.</li><li><em>Kay ve yo</em> by Shanika, on DJ Taffy's Funny Riddim: close to 4 million YouTube views.</li><li><em>Situationship</em> by Nice, on the same riddim: past 3 million views.</li><li><em>Shake Something</em> by Pudaz and Paris, on Dada's Kryptic Riddim: past 1.5 million views.</li><li><em>Pow Pow / Allo Doudou</em> by Niska, Litleboy LSBeats767 and Miimii KDS: certified gold in France by the SNEP.</li><li><em>Whale Fu See</em> by OG Park and Rum Lawd, on the Whale Oil Riddim: past 565,000 views.</li><li><em>Nobody [Bouyon 2026]</em> by Trilla-G and Stalk Ashley.</li></ul>", "View counts were read in October 2026 on the official uploads. More picks on the <a href=\"/en/bouyon-songs.html\">bouyon songs</a> page."]),
 ("Listen to it all at once", ["The <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix</a> gathers this best of bouyon in one Spotify and YouTube playlist kept up to date. Comment ROAD MIX on <a href=\"https://www.instagram.com/bouyonshattaz/\">@bouyonshattaz</a> to receive it by DM."]),
 ],
 "date_modified": "2026-10-20",

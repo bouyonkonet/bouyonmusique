@@ -183,13 +183,26 @@ PAGES = [
 {
 "slug": "bouyon-vs-soca.html", "fr_slug": "bouyon-ou-soca.html", "cat": "Bouyon guides", "nav": "Bouyon vs soca",
 "title": "Bouyon vs Soca: the differences between the two genres",
-"desc": "Bouyon vs soca: origin (Dominica vs Trinidad), rhythms, instruments and spirit. A clear guide to telling the two apart and understanding bouyon soca.",
-"h1": "Bouyon vs soca: what really sets them apart",
+"desc": "Bouyon vs soca music: origin (Dominica vs Trinidad), rhythms, instruments and spirit. A clear guide to telling the two apart and to bouyon soca.",
+"h1": "Bouyon vs soca music: what really sets them apart",
 "intro": "Bouyon and soca are the two great carnival musics of the English-speaking and Creole-speaking Caribbean, and they are often confused. Yet they are born on two different islands, with two distinct histories and two distinct sounds.",
 "sections": [
 ("Two islands, two births", ["Soca is born in Trinidad in the 1970s, from the fusion of calypso with Indian instruments and rhythms like the dholak. Bouyon is born in Dominica in the late 1980s, from the fusion of jing ping and cadence-lypso. Two parallel inventions, two islands, two identities."]),
 ("Two sounds", ["Soca is built around the Trinidad party, with its own production and singing codes. Bouyon is faster, rawer, strongly marked by keyboard loops, lapo kabwit and Dominican Creole. At carnival, a Dominican audience tells the two apart within seconds."]),
 ("So what about bouyon soca", ["The two genres met: <a href=\"/en/bouyon-soca.html\">bouyon soca</a> is their fully owned fusion, popular in Saint Lucia, in Guadeloupe and in Martinique. But in Dominica, pure bouyon keeps its own style, and the purists hold on to it."]),
+("Bouyon vs soca side by side", ["<table>\n<tr><th></th><th>Soca</th><th>Bouyon</th></tr>\n<tr><td>Island of origin</td><td>Trinidad</td><td>Dominica</td></tr>\n<tr><td>Born</td><td>1970s</td><td>Late 1980s, with the band WCK (1988)</td></tr>\n<tr><td>Roots</td><td>Calypso with Indian instruments and rhythms like the dholak</td><td>Jing ping and cadence-lypso</td></tr>\n<tr><td>Sound</td><td>Built around the Trinidad party, with its own production and singing codes</td><td>Faster and rawer, marked by keyboard loops, lapo kabwit and Dominican Creole</td></tr>\n<tr><td>Carnival</td><td>Trinidad and Tobago carnival and its Road March</td><td>Mas Domnik, the Roseau carnival</td></tr>\n<tr><td>Names to know</td><td>Machel Montano, widely called the King of Soca</td><td>WCK, then Asa Bantan, identified as the Bouyon Boss by Dominica Festivals</td></tr>\n<tr><td>Where they meet</td><td colspan=\"2\">Bouyon soca, launched in Dominica by Dada in 2003 according to Smokiller's first-hand testimony</td></tr>\n</table>", "In short:", "<ul><li>Two islands: soca is Trinidadian, bouyon is Dominican.</li><li>Two births: soca in the 1970s, bouyon in the late 1980s.</li><li>Two recipes: calypso and the dholak for soca, jing ping and cadence-lypso for bouyon.</li><li>One meeting point: bouyon soca, with Dominica's Dada behind it.</li></ul>"]),
+("Hear the difference", ["Bouyon: \"Nobody [Bouyon 2026]\" by Trilla-G and Stalk Ashley, from Dominica, on the artist's official channel.", "yt:5Qc7hFdxJW4", "Soca: \"Fling It Up\" by Machel Montano featuring Davido, a 2025 soca release on Machel Montano's official channel.", "yt:AioL2y7RWxE"]),
+],
+"extra_graph": [
+ {
+  "@type": "Article",
+  "@id": "https://bouyonmusique.com/en/bouyon-vs-soca.html#article",
+  "headline": "Bouyon vs soca music: what really sets them apart",
+  "author": {"@id": "https://bouyonmusique.com/#smokiller"},
+  "publisher": {"@id": "https://bouyonmusique.com/#org"},
+  "inLanguage": "en",
+  "mainEntityOfPage": "https://bouyonmusique.com/en/bouyon-vs-soca.html"
+ }
 ],
 "date_modified": "2026-10-20",
 "faq": [
