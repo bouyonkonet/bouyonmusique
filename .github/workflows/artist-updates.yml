@@ -60,7 +60,7 @@ jobs:
             echo "count=$count" >> "$GITHUB_OUTPUT"
             if [ "$count" = 0 ]; then echo "nothing Ready"; exit 0; fi
             (cd build && python3 generate.py && python3 generate_en_full.py && python3 verify_site.py && python3 artist_updates_publish.py check-built)
-            git add -A -- . ':!build/.artist_updates_applied.json'
+            git add -A .  # the state file is gitignored, so it is skipped
             if git diff --cached --quiet; then echo "already on main"; echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"; exit 0; fi
             names=$(python3 -c "import json;print(', '.join(a['name'] for a in json.load(open('build/.artist_updates_applied.json'))))")
             git commit -q -m "Artist updates $(date -u +%F): $names" -m "Published from the Airtable artist-updates base by GitHub Actions."
