@@ -142,9 +142,9 @@ PAGES = [
   "cat": "Événements bouyon",
   "nav": "World Creole Music Festival",
   "title": "World Creole Music Festival : le festival créole de la Dominique",
-  "desc": "World Creole Music Festival (WCMF) : trois nuits de musique créole à Roseau, en Dominique, chaque octobre. Bouyon, cadence, zouk et kompa à Windsor Park.",
+  "desc": "World Creole Music Festival (WCMF) : dates, billets officiels et affiche. Trois nuits de musique créole à Roseau, en Dominique, chaque octobre à Windsor Park.",
   "h1": "World Creole Music Festival : la vitrine créole de la Dominique",
-  "intro": "Le World Creole Music Festival, le WCMF, est le grand rendez-vous musical de la Dominique : trois nuits de musique créole à Roseau, chaque année en octobre, au moment des fêtes de l’indépendance de l’île.",
+  "intro": "Le WCMF est le grand rendez-vous musical de la Dominique : trois nuits de musique créole à Roseau, chaque année en octobre, au moment des fêtes de l’indépendance de l’île. L’édition 2026 s’est tenue du 23 au 25 octobre à Windsor Park.",
   "sections": [
    [
     "Trois nuits, toutes les musiques créoles",
@@ -156,6 +156,19 @@ PAGES = [
     "Le bouyon chez lui",
     [
      "Jouer au WCMF, pour un artiste bouyon, c’est jouer à la maison devant le public qui a vu naître le genre. Bouyon Shattaz couvre le festival comme un moment stratégique : c’est là que se jouent la visibilité des artistes dominicains et les rencontres avec les partenaires des Antilles et de France. Édition 2026 : du vendredi 23 au dimanche 25 octobre à Windsor Park, Roseau."
+    ]
+   ],
+   [
+    "WCMF pratique : dates, lieu, billets",
+    [
+     "<ul><li>Lieu : Windsor Park Sports Stadium, Roseau, Dominique.</li><li>Édition 2026 : du vendredi 23 au dimanche 25 octobre 2026, selon la <a href=\"https://dominicafestivals.com/wcmf-home/\" data-cta=\"official_site\">page officielle du WCMF sur Dominica Festivals</a>.</li><li>Édition 2027 : annoncée du 29 au 31 octobre 2027 (voir <a href=\"/wcmf-2027.html\">WCMF 2027</a>). Le site officiel n’affichait pas encore de dates 2027 à la mise à jour de cette page, le 3 novembre 2026.</li><li>Billets officiels : le festival vend ses pass saison sur sa <a href=\"https://wcmf.4circlestickets.com/events/wcmf-2026-season-tickets\" data-cta=\"official_tickets\">billetterie officielle</a>, aux guichets officiels de Roseau et chez des revendeurs régionaux sélectionnés.</li><li>Site officiel : <a href=\"https://dominicafestivals.com/\" data-cta=\"official_site\">dominicafestivals.com</a>, avec la <a href=\"https://discoverdominica.com/\">Discover Dominica Authority</a>.</li><li>Annonces officielles : <a href=\"https://www.facebook.com/DominicaFests/\">Dominica Festivals sur Facebook</a> et la <a href=\"https://www.youtube.com/user/discoverdominica\">chaîne YouTube Discover Dominica</a>.</li></ul>",
+     "Suivez <a href=\"https://www.instagram.com/bouyonshattaz/\" data-cta=\"instagram_follow\">@bouyonshattaz</a> pour les annonces d’affiche."
+    ]
+   ],
+   [
+    "L’affiche du WCMF 2026, nuit par nuit",
+    [
+     "<ul><li><a href=\"/wcmf-2026-nuit-1.html\">Nuit 1, vendredi 23 octobre</a> : Capleton, Skillibeng, Klass, Maurane Voyer, TK International, Midnight Groovers, Pudaz, Ridge, DJ MJ et MV on the Keys, Colton T et Ezra D' Fun Machine.</li><li><a href=\"/wcmf-2026-nuit-2.html\">Nuit 2, samedi 24 octobre</a> : Ne-Yo et Alkaline en tête d’affiche ; Asa Bantan, Reo et Trilla-G pour le bouyon, avec Tabou Combo.</li><li><a href=\"/wcmf-2026-nuit-3.html\">Nuit 3, dimanche 25 octobre</a> : Machel Montano, Uncle Waffles, Fridayy et Maxi Priest ; Shelly avec Signal Band et Gwada G côté bouyon.</li><li><a href=\"/wcmf-2026-bilan.html\">Le bilan du WCMF 2026</a>.</li></ul>"
     ]
    ]
   ],

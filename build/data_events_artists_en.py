@@ -145,9 +145,9 @@ PAGES = [
   "cat": "Bouyon events",
   "nav": "World Creole Music Festival",
   "title": "World Creole Music Festival: Dominica’s Creole festival",
-  "desc": "World Creole Music Festival (WCMF): three nights of Creole music in Roseau, Dominica, every October. Bouyon, cadence, zouk and kompa at Windsor Park.",
+  "desc": "World Creole Music Festival (WCMF): dates, official tickets and line-up. Three nights of Creole music in Roseau, Dominica, every October at Windsor Park.",
   "h1": "World Creole Music Festival: Dominica’s Creole showcase",
-  "intro": "The World Creole Music Festival, the WCMF, is Dominica’s great musical gathering: three nights of Creole music in Roseau, every year in October, at the time of the island’s independence celebrations.",
+  "intro": "The WCMF is Dominica’s great musical gathering: three nights of Creole music in Roseau, every year in October, at the time of the island’s independence celebrations. The 2026 edition ran from October 23 to 25 at Windsor Park.",
   "sections": [
    [
     "Three nights, all the Creole musics",
@@ -159,6 +159,19 @@ PAGES = [
     "Bouyon at home",
     [
      "Playing at the WCMF, for a bouyon artist, means playing at home in front of the audience that saw the genre be born. Bouyon Shattaz covers the festival as a strategic moment: that is where the visibility of Dominican artists and the meetings with partners from the Antilles and France are played out. 2026 edition: from Friday, October 23 to Sunday, October 25 at Windsor Park, Roseau."
+    ]
+   ],
+   [
+    "WCMF practical info: dates, venue, tickets",
+    [
+     "<ul><li>Venue: Windsor Park Sports Stadium, Roseau, Dominica.</li><li>2026 edition: Friday October 23 to Sunday October 25, 2026, per the <a href=\"https://dominicafestivals.com/wcmf-home/\" data-cta=\"official_site\">official WCMF page of Dominica Festivals</a>.</li><li>2027 edition: reported for October 29 to 31, 2027 (see <a href=\"/en/wcmf-2027.html\">WCMF 2027</a>). The official site did not list 2027 dates yet when this page was updated on November 3, 2026.</li><li>Official tickets: the festival sells season passes through its <a href=\"https://wcmf.4circlestickets.com/events/wcmf-2026-season-tickets\" data-cta=\"official_tickets\">official ticket page</a>, at official booths in Roseau and through selected regional outlets.</li><li>Official site: <a href=\"https://dominicafestivals.com/\" data-cta=\"official_site\">dominicafestivals.com</a>, run with the <a href=\"https://discoverdominica.com/\">Discover Dominica Authority</a>.</li><li>Official updates: <a href=\"https://www.facebook.com/DominicaFests/\">Dominica Festivals on Facebook</a> and the <a href=\"https://www.youtube.com/user/discoverdominica\">Discover Dominica YouTube channel</a>.</li></ul>",
+     "Follow <a href=\"https://www.instagram.com/bouyonshattaz/\" data-cta=\"instagram_follow\">@bouyonshattaz</a> for line-up news."
+    ]
+   ],
+   [
+    "WCMF 2026 line-up, night by night",
+    [
+     "<ul><li><a href=\"/en/wcmf-2026-night-1.html\">Night 1, Friday October 23</a>: Capleton, Skillibeng, Klass, Maurane Voyer, TK International, Midnight Groovers, Pudaz, Ridge, DJ MJ and MV on the Keys, Colton T and Ezra D' Fun Machine.</li><li><a href=\"/en/wcmf-2026-night-2.html\">Night 2, Saturday October 24</a>: Ne-Yo and Alkaline headline; Asa Bantan, Reo and Trilla-G carry bouyon, alongside Tabou Combo.</li><li><a href=\"/en/wcmf-2026-night-3.html\">Night 3, Sunday October 25</a>: Machel Montano, Uncle Waffles, Fridayy and Maxi Priest; Shelly with Signal Band and Gwada G on the bouyon side.</li><li><a href=\"/en/wcmf-2026-wrap-up.html\">WCMF 2026 wrap-up</a>.</li></ul>"
     ]
    ]
   ],
@@ -287,7 +300,7 @@ PAGES = [
   "cat": "Bouyon events",
   "nav": "Dominica Carnival 2026",
   "title": "Dominica Carnival 2026: the guide to Mas Domnik",
-  "desc": "Dominica Carnival 2026: the guide to Dominica’s carnival. Mas Domnik, J’ouvert, bouyon music, artists to follow and the atmosphere of Roseau.",
+  "desc": "Dominica Carnival 2026: the guide to Mas Domnik, with the key dates (Carnival Monday and Tuesday, February 16 and 17, 2026), J’ouvert, bouyon music, artists to follow and Carnival 2027.",
   "h1": "Dominica Carnival 2026: the guide",
   "intro": "Dominica Carnival, Dominica’s carnival, is the destination for purists: a Creole carnival that has stayed authentic, in the country that invented cadence-lypso and bouyon. This guide sums up what you need to know for 2026.",
   "sections": [
@@ -301,6 +314,20 @@ PAGES = [
     "What to follow in 2026",
     [
      "The bouyon releases of carnival season, the Dominican artists in form, from Reo to Asa Bantan, and the behind-the-scenes told by Bouyon Shattaz. The <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix</a> gathers the tracks that matter, as the season unfolds."
+    ]
+   ],
+   [
+    "Dominica Carnival 2026 key dates",
+    [
+     "<ul><li>November 28, 2025: official launch of Mas Domnik 2026 at The Factory, Valley Road, hosted by the Ministry of Tourism and the Discover Dominica Authority, with TK Combo, Riddim Knockaz, DJ MJ and MV on the Keys, DJ Taffy and Friends, DJ Sleem, DJ Snow and DJ Flip.</li><li>February 14, 2026: Calypso Monarch grand finale at Windsor Park Sports Stadium, won by Daddy Chess.</li><li>February 16, 2026: J'ouvert at dawn, from 4 in the morning, then Carnival Monday.</li><li>February 17, 2026: Carnival Tuesday, the closing day of Mas Domnik before Lent.</li></ul>",
+     "Official carnival information: <a href=\"https://dominicafestivals.com/the-real-mas/\" data-cta=\"official_site\">The Real Mas on Dominica Festivals</a>, its <a href=\"https://dominicafestivals.com/the-real-mas-tickets/\" data-cta=\"official_tickets\">official tickets page</a> and the <a href=\"https://discoverdominica.com/\">Discover Dominica Authority</a>."
+    ]
+   ],
+   [
+    "Dominica Carnival 2027",
+    [
+     "Carnival 2026 took place in February 2026. For 2027, the only official date so far is the season window: Mas Domnik, billed as the Real Mas, is announced from January 9 to February 10, 2027 in the Ministry of Tourism 2026 2027 calendar, as reported by Dominica News. The Carnival Monday and Tuesday dates and the detailed programme have not been announced yet. Details: <a href=\"/en/mas-domnik-2027.html\">Mas Domnik 2027</a>.",
+     "Follow <a href=\"https://www.instagram.com/bouyonshattaz/\" data-cta=\"instagram_follow\">@bouyonshattaz</a> for line-up news."
     ]
    ]
   ],
