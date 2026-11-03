@@ -11,6 +11,7 @@ The five reviewed listening additions live in music_discovery_blocks.json. Both 
 - generate.py builds the French pages into the repo root. generate_en_full.py builds the full English mirror into /en/.
 - Both generators write into the repository that contains this build/ folder (set BOUYONMUSIQUE_SITE to write somewhere else). A full run takes about 90 seconds.
 - Content lives in data_*.py modules: French module + matching *_en.py module. New content goes in a new module pair, registered in the import lists of generate.py and generate_en_full.py.
+- Section entries are paragraphs, except: an entry that starts with `<ul>`, `<ol>`, `<table>` or `<div>` is written as is (real lists and tables), and `"yt:VIDEOID"` renders a YouTube facade for a video in yt_meta.json. An English page can set `"embed_top": (playlist_id, title)` to put a playable YouTube playlist, the YouTube and Spotify buttons and the follow line right under the lead (used on /en/best-bouyon.html).
 - After editing: run `python3 generate.py && python3 generate_en_full.py`, then `python3 verify_site.py` (broken internal links, JSON-LD, duplicate titles, sitemap coverage, dashes in mixtape copy, wrong-artist auto-links; it also prints the page metrics). Commit, push, then check the live pages (GitHub Pages takes about 2 minutes).
 
 ## Artist hubs, mixtapes, chroniques (BOU-3200)
@@ -39,7 +40,7 @@ The five reviewed listening additions live in music_discovery_blocks.json. Both 
 
 `build/onpage.py` runs last in both generators (`apply_onpage()`), after the playlist links. Rerun-safe.
 
-- Titles are cut to 60 characters (name first, "bouyon" kept, brand suffix only when the title never had the word), descriptions to 155 at a sentence or clause end. The data files keep the long editorial titles; `short_title()` decides what the page shows. H1s without "bouyon" or longer than 70 characters take the short title.
+- Titles are cut to 60 characters (name first, "bouyon" kept, brand suffix only when the title never had the word), descriptions to 190 at a sentence or clause end (raised from 155 on 2026-11-03: the SERP plan found 160 to 190 characters work better). twitter:title and twitter:description are added from the title and description when a page has none. Outbound Instagram, YouTube and Spotify links get a `data-cta` attribute (instagram_follow, youtube_link, spotify_link) for future click counting; it is left out of the content hash. The data files keep the long editorial titles; `short_title()` decides what the page shows. H1s without "bouyon" or longer than 70 characters take the short title.
 - YouTube embeds are facades (`build/yt.py`, `facade()`): a real `<img>` of the video thumbnail with a play button, the iframe is created on click. `yt_meta.json` holds title, upload date, duration and thumbnail size per video; refresh it with `python3 build/yt.py --refresh` (yt-dlp, slow, YouTube rate-limits bursts).
 - The first thumbnail of a page becomes its og:image, the WebPage primaryImageOfPage and the MusicGroup image. Pages without a video keep og-image.png.
 - Every facade with known metadata gets a VideoObject in the JSON-LD and a `<video:video>` entry in the sitemaps.

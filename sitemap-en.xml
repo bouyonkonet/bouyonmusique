@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://bouyonmusique.com/en/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -98,13 +98,13 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/what-is-bouyon.html</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/origin-of-bouyon.html</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -116,13 +116,29 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/bouyon-vs-soca.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/5Qc7hFdxJW4/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Trilla-G &amp; Stalk Ashley - Nobody [Bouyon 2026]</video:title>
+      <video:description>Trilla-G &amp; Stalk Ashley - Nobody [Bouyon 2026], a YouTube video opened for the Bouyon vs soca page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/5Qc7hFdxJW4</video:player_loc>
+      <video:duration>164</video:duration>
+      <video:publication_date>2025-10-22</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/AioL2y7RWxE/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Machel Montano - Fling It Up ft. Davido (Official Music Video) | Soca 2025</video:title>
+      <video:description>Machel Montano - Fling It Up ft. Davido (Official Music Video) | Soca 2025, a YouTube video opened for the Bouyon vs soca page on Bouyon Musique.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/AioL2y7RWxE</video:player_loc>
+      <video:duration>177</video:duration>
+      <video:publication_date>2025-08-22</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/bouyon-vs-zouk.html</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -134,13 +150,13 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/bouyon-instruments.html</loc>
-    <lastmod>2026-11-02</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/jing-ping.html</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -212,7 +228,7 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/dominica-carnival.html</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -224,19 +240,19 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/world-creole-music-festival.html</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/jouvert.html</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/dominica-carnival-2026.html</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -290,25 +306,25 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/bouyon-mix.html</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/bouyon-songs.html</loc>
-    <lastmod>2026-11-01</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/new-bouyon-2026.html</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/playlist-shatta.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -320,7 +336,7 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/best-bouyon.html</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -361,7 +377,7 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/asa-bantan.html</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -410,7 +426,7 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/maurane-voyer.html</loc>
-    <lastmod>2026-11-02</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -437,7 +453,7 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/miimii-kds.html</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -541,7 +557,7 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/pudaz.html</loc>
-    <lastmod>2026-11-02</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -585,7 +601,7 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/litleboy-lsbeats767.html</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -596,7 +612,7 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/niska.html</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -629,7 +645,7 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/hypno.html</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -651,7 +667,7 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/gz-up.html</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -818,7 +834,7 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/dada.html</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2248,7 +2264,7 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/vj-ben.html</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -2347,7 +2363,7 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/le-det.html</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -3024,7 +3040,7 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/blicassty.html</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -4204,7 +4220,7 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/les-curvyzz.html</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <video:video>
@@ -6174,7 +6190,7 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/wcmf-2026-night-1.html</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6186,7 +6202,7 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/wcmf-2026-night-3.html</loc>
-    <lastmod>2026-11-01</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6198,19 +6214,19 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/bouyon-glossary.html</loc>
-    <lastmod>2026-11-02</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/wcmf-2026-eve-guide.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/ti-vilaj-kweyol-2026.html</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6252,7 +6268,7 @@
   </url>
   <url>
     <loc>https://bouyonmusique.com/en/how-a-riddim-becomes-a-song.html</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>

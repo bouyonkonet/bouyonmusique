@@ -476,6 +476,16 @@ def playlist_embeds_html(slug):
                     'class="embed-h" loading="lazy" allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>\n')
     return out
 
+def para_html(para):
+    """A section entry is a paragraph, a raw block (<ul>, <ol>, <table>, <div>) or a "yt:VIDEOID" video facade."""
+    if para.startswith("yt:"):
+        import yt
+        vid = para[3:].strip()
+        return yt.facade(vid, (yt.META.get(vid) or {}).get("title") or vid)
+    if re.match(r"<(ul|ol|table|div)\b", para):
+        return para + "\n"
+    return f"<p>{para}</p>\n"
+
 def byline(page):
     pub, mod = page.get("date_published"), page.get("date_modified")
     out = f'<p class="pubdate">Par <a href="/smokiller.html" rel="author">Smokiller</a> · Publié le <time datetime="{pub}">{fmt_date_fr(pub)}</time>'
@@ -516,7 +526,7 @@ def render(page, all_pages):
     for h2, paras in linkify_sections(page, all_pages, EXTRA_TERMS_FR, "/"):
         sections += f'\n<h2>{esc(h2)}</h2>\n'
         for para in paras:
-            sections += f"<p>{para}</p>\n"
+            sections += para_html(para)
     from tracklist import tracklist_html as _tl_html, tracklist_ld as _tl_ld
     sections += _tl_html(page, "fr", "/")
     sections += __import__("tracklist").riddim_index_html(page, "fr", "/")

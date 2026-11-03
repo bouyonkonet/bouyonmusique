@@ -690,7 +690,7 @@ PAGES = [
 "title": "Chansons Bouyon : les titres à connaître absolument",
 "desc": "Chansons bouyon : les titres qui comptent, des classiques des groupes dominicains aux nouveautés de Reo, Asa Bantan et G’z Up. La sélection pour débuter.",
 "h1": "Chansons bouyon : la sélection pour découvrir le genre",
-"intro": "Quelles chansons écouter pour comprendre le bouyon ? Des classiques des groupes de la Dominique aux titres récents suivis par Bouyon Shattaz, voici la méthode et les noms à retenir.",
+"intro": "Quelles chansons écouter pour comprendre le bouyon ? Des classiques des groupes de la Dominique aux titres récents suivis par Bouyon Shattaz, voici la méthode et les noms à retenir. Pour le genre lui-même, lisez <a href=\"/\">qu'est-ce que le bouyon</a>.",
 "sections": [
 ("Les classiques d’abord", ["Commencez par les groupes fondateurs, WCK, Roots Stems and Branches et First Serenade : c’est là que le genre a pris sa forme. Poursuivez avec les titres de carnaval des années 1990 et 2000, quand le bouyon régnait sans partage sur la Dominique."]),
 ("Les titres de la nouvelle ère", ["Côté récent : Life Nice d’Asa Bantan, identifié comme le Bouyon Boss par Dominica Festivals. Joli BB de Reo avec Maurane Voyer, le pont Dominique et Martinique. FIX UP de G’z Up, porté par son refrain Ya ya ya. Throw Dat (Bouyon 2026) de Klass Money, produit par Smokiller. Et Mauvais Plan de HYPNO côté producteurs. La <a href=\"/playlist-bouyon.html\">playlist bouyon</a> les rassemble au même endroit."]),
