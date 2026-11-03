@@ -4,7 +4,7 @@ it can also be run alone from the repository root:  python3 build/onpage.py
 
 What it does on every page, in French and English, rerun-safe:
   - <title> and og:title cut to 60 characters, keeping the name first and the
-    word bouyon in; meta description cut to 155 at a sentence or clause end.
+    word bouyon in; meta description cut to 190 at a sentence or clause end (160 to 190 reads best).
     The data files keep the long editorial titles; the page shows the short one.
   - H1 replaced by the short title when it has no "bouyon" or runs past 70 characters.
   - Per-page image: the first YouTube thumbnail on the page becomes og:image,
@@ -14,6 +14,10 @@ What it does on every page, in French and English, rerun-safe:
   - A table of contents (jump links) before the first h2 when the page has 3 or more sections.
   - Skip link to #content, preconnect to i.ytimg.com, the facade click script.
   - Publisher logo (ImageObject) on the Organization node.
+  - twitter:title and twitter:description (the page title and description) when the page has none.
+  - Outbound listen and follow links carry data-cta (instagram_follow, youtube_link, spotify_link),
+    so a cookieless analytics script can count them per page without changing the links.
+    The attribute is left out of the content hash: tagging a link does not move a page's dates.
   - Sitemap lastmod, WebPage dateModified and the visible "Updated" date follow the
     content: content_hashes.json remembers each page's main text, and a page whose
     text changed since the last build gets today's date.
@@ -27,7 +31,7 @@ ROOT = os.environ.get("BOUYONMUSIQUE_SITE", os.path.dirname(os.path.dirname(os.p
 BASE = "https://bouyonmusique.com"
 HASHES = os.path.join(os.path.dirname(os.path.abspath(__file__)), "content_hashes.json")
 TODAY = datetime.date.today().isoformat()
-TITLE_MAX, DESC_MAX, H1_MAX = 60, 155, 70
+TITLE_MAX, DESC_MAX, H1_MAX = 60, 190, 70
 # Publisher logo for the Organization node (Bouyon Shattaz runs the site).
 ORG_LOGO = {"@type": "ImageObject", "url": "https://bouyonshattaz.com/icons/icon-512.png", "width": 512, "height": 512}
 MONTHS_FR = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août", "septembre", "octobre", "novembre", "décembre"]
@@ -184,6 +188,27 @@ def types(node):
     return set(t) if isinstance(t, list) else ({t} if t else set())
 
 
+CTA_KINDS = [
+    (re.compile(r'https?://(?:www\.)?instagram\.com/bouyonshattaz/?'), "instagram_follow"),
+    (re.compile(r'https?://(?:www\.|m\.)?(?:youtube\.com|youtu\.be)/'), "youtube_link"),
+    (re.compile(r'https?://open\.spotify\.com/'), "spotify_link"),
+]
+
+
+def tag_ctas(html_part):
+    """data-cta on outbound <a> links to Instagram @bouyonshattaz, YouTube and Spotify (rerun-safe)."""
+    def tag(m):
+        a = m.group(0)
+        if "data-cta=" in a:
+            return a
+        href = re.search(r'href="([^"]+)"', a)
+        for pat, kind in CTA_KINDS:
+            if href and pat.match(href.group(1)):
+                return a[:-1] + f' data-cta="{kind}">'
+        return a
+    return re.sub(r'<a [^>]*href="https?://[^"]+"[^>]*>', tag, html_part)
+
+
 def page_url(rel):
     if rel.endswith("index.html"):
         rel = rel[:-len("index.html")]
@@ -229,6 +254,11 @@ def process(path, rel, hashes):
             if new_h1 != h1:
                 s = s[:h1m.start()] + f"<h1>{esc(new_h1)}</h1>" + s[h1m.end():]
 
+    # 1b. social card tags
+    if '<meta name="twitter:title"' not in s and '<meta name="twitter:card"' in s:
+        s = re.sub(r'(<meta name="twitter:card" content="[^"]*">)', lambda m: m.group(1) + f'\n<meta name="twitter:title" content="{esc(new_title)}">'
+                   + (f'\n<meta name="twitter:description" content="{esc(new_desc)}">' if new_desc else ""), s, count=1)
+
     # 2. skip link, main id, large image previews
     s = s.replace('<meta name="robots" content="index, follow">', '<meta name="robots" content="index, follow, max-image-preview:large">', 1)
     if 'class="skip"' not in s:
@@ -259,6 +289,10 @@ def process(path, rel, hashes):
             s = s.replace('<link rel="stylesheet" href="/style.css">', '<link rel="preconnect" href="https://i.ytimg.com">\n<link rel="stylesheet" href="/style.css">', 1)
         if "querySelectorAll('.yt')" not in s:
             s = s.replace("</body>", yt.SCRIPT + "\n</body>", 1)
+
+    # 3b. outbound listen/follow links
+    ms = s.find("<main")
+    s = s[:ms] + tag_ctas(s[ms:])
 
     # 4. table of contents
     if "<!-- onpage:toc -->" not in s:
@@ -291,6 +325,7 @@ def process(path, rel, hashes):
     # 5. content hash, dates
     main_html = s.split("<main", 1)[1].split("</main>", 1)[0]
     hashed = re.sub(r'<p class="pubdate">.*?</p>', "", main_html, flags=re.S)
+    hashed = re.sub(r' data-cta="[^"]*"', "", hashed)
     digest = hashlib.sha256(hashed.encode("utf-8")).hexdigest()[:16]
     prev = hashes.get(url) or {}
     lastmod = prev.get("lastmod", TODAY) if prev.get("hash") == digest else TODAY

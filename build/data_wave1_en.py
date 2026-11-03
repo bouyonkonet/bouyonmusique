@@ -1267,7 +1267,7 @@ PAGES = [
   "cat": "Bouyon artists",
   "nav": "Miimii KDS",
   "title": "Miimii KDS: Sé Miimii, Pow Pow and the Guadeloupe bouyon wave",
-  "desc": "Miimii KDS, artist from Guadeloupe: Sé Miimii, Pow Pow / Allo Doudou certified Single Or by SNEP, and her October 2026 Cuenta moment.",
+  "desc": "Miimii KDS, bouyon artist from Guadeloupe behind the viral Sé Miimii: Pow Pow / Allo Doudou with Niska and Litleboy LSBeats767, certified Single Or by SNEP, and her 2026 Cuenta moment.",
   "h1": "Miimii KDS: the young face of Guadeloupe bouyon",
   "intro": "Miimii KDS, real name Emilie Afoy, born in 2007, is an artist from Guadeloupe. Known as @_miimiikds on Instagram, with a verified account at about 86K followers at our October 2026 check, and under the same name on TikTok, she broke through with the viral bouyon track 'Sé Miimii' in 2025. Her bio carries #bouyon4life, and her name appears on 'Pow Pow / Allo Doudou' alongside Niska and Litleboy LSBeats767.",
   "sections": [
