@@ -21,6 +21,14 @@ PAGES = [
     ]
    ],
    [
+    "Mise à jour, 3 novembre 2026 : d’où vient le nom WCK",
+    [
+     "Avant de vouloir dire Windward Caribbean Kulture, les trois lettres racontaient le groupe lui-même. Dans un article publié par <a href=\"http://sundominica.com/articles/bouyon-music-at-the-crossroads-3646/\" rel=\"nofollow noopener\" target=\"_blank\">The Sun</a>, le journal de la Dominique, en juillet 2016, Ian Jackson se souvient que tout a commencé avec deux lettres : CK, pour Cornel et Keith. <a href=\"/cornell-phillip.html\">Cornell Phillip</a> et Keith Goddard jouaient alors dans de petites fêtes privées.",
+     "Le W arrive ensuite, pour Wackers. L’auteur le voit apparaître pour la première fois quand le groupe joue au Courtesy Song Contest, au milieu des années 1980 : CK devient WCK. Quand Wackers quitte la formation, un autre W la rejoint, le guitariste Wayne McLawrence, et le nom n’a pas besoin de changer.",
+     "C’est seulement plus tard que le sigle prend le sens qu’on lui connaît aujourd’hui, Windward Caribbean Kulture, la culture des îles du Vent. Le nom qui a porté le bouyon dans toute la Caraïbe est donc d’abord une affaire d’amis et de prénoms, à Roseau, avant d’être un programme culturel. Keith Goddard, le K de départ, dirige toujours le groupe en 2026, l’année de ses 40 ans."
+    ]
+   ],
+   [
     "Le son WCK : la fusion qui a tout changé",
     [
      "La création du bouyon par WCK repose sur une fusion précise. D’un côté, la cadence-lypso, la grande musique de danse dominicaine qui précède le bouyon. De l’autre, le jing ping, la musique de danse traditionnelle de la Dominique. WCK prend ces deux héritages et les branche sur une technologie nouvelle pour la scène locale de l’époque : les claviers électroniques et les boîtes à rythmes. Le résultat n’est ni une simple modernisation, ni une copie de musiques venues d’ailleurs. C’est un son nouveau, né de matériaux dominicains.",
