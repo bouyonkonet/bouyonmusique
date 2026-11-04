@@ -957,3 +957,14 @@ EN = {
 ], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
+
+# --- artist-update rec2l3b5oyoGewVVM (2026-11-04), published from the Airtable artist-updates base ---
+def _apply_update_rec2l3b5oyoGewVVM(page, section, faq, day):
+    page["sections"] = [section] + [s for s in page["sections"] if s[0] != section[0]]
+    for q, a in faq:
+        rows = [i for i, x in enumerate(page["faq"]) if x[0] == q]
+        if rows: page["faq"][rows[0]] = (q, a)
+        else: page["faq"].append((q, a))
+    page["date_modified"] = day
+_apply_update_rec2l3b5oyoGewVVM(FR, ('Mise à jour du 4 novembre 2026', ["Nessa Preppy a sorti le single Luv On The Road le 16 octobre 2026, d'après le catalogue Apple Music. Le clip officiel a été mis en ligne sur sa chaîne YouTube le 15 octobre 2026 et comptait 27 808 vues le 3 novembre 2026.", "Le catalogue Apple Music recense aussi plusieurs sorties absentes de ce profil : Jiggle avec Mr. Renzo (2015), Explore Riddim avec Rane (2019), Sha La La (Remix) avec Skeng (janvier 2024) et l'EP No Rules Riddim avec Aaron Duncan, Preedy et Jahllano (septembre 2025).", 'Le 3 novembre 2026, sa chaîne YouTube affichait 36,7 k abonnés.']), [], '2026-11-04')
+_apply_update_rec2l3b5oyoGewVVM(EN, ('Update, November 4, 2026', ['Nessa Preppy released the single Luv On The Road on 16 October 2026, according to the Apple Music catalogue. The official video went up on her YouTube channel on 15 October 2026 and had 27,808 views on 3 November 2026.', 'The Apple Music catalogue also lists several releases not yet in this profile: Jiggle with Mr. Renzo (2015), Explore Riddim with Rane (2019), Sha La La (Remix) with Skeng (January 2024) and the No Rules Riddim EP with Aaron Duncan, Preedy and Jahllano (September 2025).', 'On 3 November 2026 her YouTube channel showed 36.7K subscribers.']), [], '2026-11-04')

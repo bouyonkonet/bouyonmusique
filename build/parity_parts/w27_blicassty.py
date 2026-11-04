@@ -276,3 +276,14 @@ EN = {
  ],
  "date_modified": "2026-10-20"
 }
+
+# --- artist-update rec7WCaaKAKSLPvs6 (2026-11-04), published from the Airtable artist-updates base ---
+def _apply_update_rec7WCaaKAKSLPvs6(page, section, faq, day):
+    page["sections"] = [section] + [s for s in page["sections"] if s[0] != section[0]]
+    for q, a in faq:
+        rows = [i for i, x in enumerate(page["faq"]) if x[0] == q]
+        if rows: page["faq"][rows[0]] = (q, a)
+        else: page["faq"].append((q, a))
+    page["date_modified"] = day
+_apply_update_rec7WCaaKAKSLPvs6(FR, ('Mise à jour du 4 novembre 2026', ['Deux collaborations de 2026 figurent désormais sur Apple Music. "Good Body Gyal", crédité à Mr. Vegas et Blicassty, est sorti le 15 août 2026. C\'est la deuxième collaboration entre les deux artistes après "Shakira" (3 avril 2026). Le clip officiel a été mis en ligne sur la chaîne YouTube Blica Family le 19 août 2026. "Bandit", crédité à Saina Manotte et Blicassty, est sorti le 9 octobre 2026. RFI l\'a programmé dans son émission "8 milliards de voisins" publiée le 27 octobre 2026.', 'La chaîne Blica Family a aussi publié le 3 octobre 2026 un clip officiel de "Charnel", single sorti en 2024.', 'Apple Music recense sous le nom de Blicassty un album (Contraste, 2023) et une cinquantaine de singles. On y trouve des titres plus anciens comme "Péyi mwen" (2018), "Blica a dit" (2020), "Bondamanjak" (2023) et "Dime" (2025). La plateforme recense aussi ses participations à "Solid\'" de Naamix (2018) et "Karma" de Vlg Rocki (2019).']), [], '2026-11-04')
+_apply_update_rec7WCaaKAKSLPvs6(EN, ('Update, November 4, 2026', ['Two 2026 collaborations are now listed on Apple Music. "Good Body Gyal", credited to Mr. Vegas and Blicassty, came out on 15 August 2026. It is the second collaboration between the two artists after "Shakira" (3 April 2026). Its official music video went up on the Blica Family YouTube channel on 19 August 2026. "Bandit", credited to Saina Manotte and Blicassty, came out on 9 October 2026. RFI included it in the music programming of its "8 milliards de voisins" episode published on 27 October 2026.', 'The Blica Family channel also posted an official video for "Charnel" on 3 October 2026. The single first came out in 2024.', 'Apple Music lists one album (Contraste, 2023) and about fifty singles under Blicassty\'s name. The list includes earlier titles such as "Péyi mwen" (2018), "Blica a dit" (2020), "Bondamanjak" (2023) and "Dime" (2025). It also lists guest appearances on Naamix\'s "Solid\'" (2018) and Vlg Rocki\'s "Karma" (2019).']), [], '2026-11-04')

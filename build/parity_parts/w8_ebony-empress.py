@@ -628,3 +628,14 @@ EN = {
 ], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
+
+# --- artist-update recZaemUamWzTsfdt (2026-11-04), published from the Airtable artist-updates base ---
+def _apply_update_recZaemUamWzTsfdt(page, section, faq, day):
+    page["sections"] = [section] + [s for s in page["sections"] if s[0] != section[0]]
+    for q, a in faq:
+        rows = [i for i, x in enumerate(page["faq"]) if x[0] == q]
+        if rows: page["faq"][rows[0]] = (q, a)
+        else: page["faq"].append((q, a))
+    page["date_modified"] = day
+_apply_update_recZaemUamWzTsfdt(FR, ('Mise à jour du 4 novembre 2026', ['Le 16 octobre 2026, Ebony Empress a sorti un nouveau single, « Toufay », disponible sur Apple Music. Le clip officiel a été mis en ligne le 31 octobre 2026 sur sa chaîne YouTube, Ebony Empress (@EbonyEmpress).', 'Son catalogue Apple Music contient aussi une version de « Back Up Your Chat » avec Foxy Jael, sortie le 8 mai 2026. Sa chaîne YouTube propose les clips officiels de « Kokayoko » (25 mars 2026), du remix de « Kokayoko » avec Shawn Storm (29 juillet 2026) et de « Bounce 2D Riddim » (30 septembre 2026).']), [], '2026-11-04')
+_apply_update_recZaemUamWzTsfdt(EN, ('Update, November 4, 2026', ['On 16 October 2026 Ebony Empress released a new single, "Toufay", which is listed on Apple Music. The official music video premiered on her YouTube channel, Ebony Empress (@EbonyEmpress), on 31 October 2026.', 'Her Apple Music catalogue also lists a version of "Back Up Your Chat" featuring Foxy Jael, released on 8 May 2026. Her YouTube channel carries official videos for "Kokayoko" (25 March 2026), the "Kokayoko" remix with Shawn Storm (29 July 2026) and "Bounce 2D Riddim" (30 September 2026).']), [], '2026-11-04')

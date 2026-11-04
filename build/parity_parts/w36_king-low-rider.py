@@ -94,3 +94,14 @@ EN = {
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/king-low-rider.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/king-low-rider.html#artist", "name": "King Low Rider", "description": "Stage name credited to Rudolph Albert. Four titles labelled bouyon on his YouTube channel, including Land Diver (Antigua Carnival BOUYON 2026) and Bounce with additional production by Mr. Ridge. Origin not named in the opened sources.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Land Diver"}, {"@type": "MusicRecording", "name": "Bounce"}, {"@type": "MusicRecording", "name": "Handy Jam"}, {"@type": "MusicRecording", "name": "The Toy"}], "sameAs": ["https://www.youtube.com/channel/UCNOswNr9-XuoDuyg8qfnjqg"]}}],
  "date_modified": "2026-10-23"
 }
+
+# --- artist-update recIEl9zfHhTFhLmu (2026-11-04), published from the Airtable artist-updates base ---
+def _apply_update_recIEl9zfHhTFhLmu(page, section, faq, day):
+    page["sections"] = [section] + [s for s in page["sections"] if s[0] != section[0]]
+    for q, a in faq:
+        rows = [i for i, x in enumerate(page["faq"]) if x[0] == q]
+        if rows: page["faq"][rows[0]] = (q, a)
+        else: page["faq"].append((q, a))
+    page["date_modified"] = day
+_apply_update_recIEl9zfHhTFhLmu(FR, ('Mise à jour du 4 novembre 2026', ["Mise à jour du 2026-11-03. Apple Music référence un single plus ancien de King Low Rider : Bad Minded People, sorti le 27 juin 2021 sous la mention KLAH SIK. Apple Music crédite Handy Jam à Latitude Stars Band avec King Low Rider en featuring, sorti le 2 février 2025 sous la mention Winston Records. Sa chaîne YouTube propose aussi HARD Rum, publié pour le Carnaval 2026 (clip mis en ligne le 20 mars 2026), et Groovy (NO GRANNY), publié pour le Carnaval d'Antigua 2025 le 24 mai 2025. Le 3 novembre 2026, la chaîne comptait 2,18 k abonnés."]), [], '2026-11-04')
+_apply_update_recIEl9zfHhTFhLmu(EN, ('Update, November 4, 2026', ['Update 2026-11-03. Apple Music lists an earlier single by King Low Rider: Bad Minded People, released on 27 June 2021 with the credit line KLAH SIK. Apple Music credits Handy Jam to Latitude Stars Band featuring King Low Rider, released on 2 February 2025 with the credit line Winston Records. His YouTube channel also carries HARD Rum, posted for Carnival 2026 (video uploaded on 20 March 2026), and Groovy (NO GRANNY), posted for Antigua Carnival 2025 on 24 May 2025. On 3 November 2026 the channel showed 2.18K subscribers.']), [], '2026-11-04')

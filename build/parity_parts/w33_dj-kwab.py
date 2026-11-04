@@ -99,3 +99,14 @@ EN = {
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/dj-kwab.html#profile", "mainEntity": {"@type": ["Person", "MusicGroup"], "@id": "https://bouyonmusique.com/en/dj-kwab.html#artist", "name": "DJ KWAB", "alternateName": "KWAB-DJ", "description": "Bouyon riddim producer, YouTube channel with the motto Long Live Bouyon, 35 bouyon instrumentals and remixes posted since October 4, 2024; producer of Shashabim's Believe That (2026). Origin not documented, contact address in 971.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "BBC (Bouyon Riddim)"}, {"@type": "MusicRecording", "name": "CHO"}, {"@type": "MusicRecording", "name": "Chéwi"}, {"@type": "MusicRecording", "name": "Bokit"}, {"@type": "MusicRecording", "name": "Believe That"}], "sameAs": ["https://www.youtube.com/channel/UCOrUvwF0EhU6aLEHhEagC1Q"]}}],
  "date_modified": "2026-10-23"
 }
+
+# --- artist-update recBjDpMUjECZkCQe (2026-11-04), published from the Airtable artist-updates base ---
+def _apply_update_recBjDpMUjECZkCQe(page, section, faq, day):
+    page["sections"] = [section] + [s for s in page["sections"] if s[0] != section[0]]
+    for q, a in faq:
+        rows = [i for i, x in enumerate(page["faq"]) if x[0] == q]
+        if rows: page["faq"][rows[0]] = (q, a)
+        else: page["faq"].append((q, a))
+    page["date_modified"] = day
+_apply_update_recBjDpMUjECZkCQe(FR, ('Mise à jour du 4 novembre 2026', ["DJ KWAB a produit le riddim de « Minute Man » de NFL Lil Brent. La vidéo a été publiée sur la chaîne YouTube de NFL Lil Brent le 17 mai 2026, et sa description attribue le riddim à @KWAB-DJ, l'identifiant de la chaîne de DJ KWAB.", 'La chaîne YouTube de DJ KWAB a publié ces instrumentaux bouyon gratuits en 2026 : « Rum » (1er avril), « Naughty » (6 juin) et « Zoom » (13 août). « Zoom » est la publication la plus récente. Le 3 novembre 2026, YouTube affichait 1,25 k abonnés pour la chaîne.']), [], '2026-11-04')
+_apply_update_recBjDpMUjECZkCQe(EN, ('Update, November 4, 2026', ['DJ KWAB produced the riddim for "Minute Man" by NFL Lil Brent. The video went up on the NFL Lil Brent YouTube channel on May 17, 2026, and its description credits the riddim to @KWAB-DJ, the handle of DJ KWAB\'s channel.', 'The DJ KWAB YouTube channel posted these free bouyon instrumentals in 2026: "Rum" (April 1), "Naughty" (June 6) and "Zoom" (August 13). "Zoom" is the most recent upload. On November 3, 2026, YouTube showed 1.25K subscribers for the channel.']), [], '2026-11-04')
