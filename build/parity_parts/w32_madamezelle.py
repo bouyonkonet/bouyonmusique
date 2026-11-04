@@ -94,3 +94,14 @@ EN = {
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/madamezelle.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/madamezelle.html#artist", "name": "MadameZelle", "description": "Artist name whose Bandcamp page, located in New York, publishes two tracks tagged bouyon and rnbouyon: MadameZelle, dated January 1, 2025, and Tipsy Riddim, released on January 2, 2026 and produced by Smokiller. Origin not stated.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Tipsy"}, {"@type": "MusicRecording", "name": "MadameZelle"}], "sameAs": ["https://madamezelle.bandcamp.com", "https://www.youtube.com/@MadameZelleOfficial"]}}],
  "date_modified": "2026-10-23"
 }
+
+# --- artist-update recqSH1Uatj2E9tG4 (2026-11-04), published from the Airtable artist-updates base ---
+def _apply_update_recqSH1Uatj2E9tG4(page, section, faq, day):
+    page["sections"] = [section] + [s for s in page["sections"] if s[0] != section[0]]
+    for q, a in faq:
+        rows = [i for i, x in enumerate(page["faq"]) if x[0] == q]
+        if rows: page["faq"][rows[0]] = (q, a)
+        else: page["faq"].append((q, a))
+    page["date_modified"] = day
+_apply_update_recqSH1Uatj2E9tG4(FR, ('Mise à jour du 4 novembre 2026', ["Mise à jour du 2026-11-03. La chaîne YouTube de MadameZelle (@MadameZelleOfficial) propose une vidéo pour Tipsy, intitulée « Tipsy - [MadameZelle] [Bouyon 2026] », publiée le 3 janvier 2026, ainsi qu'un short publié le 6 janvier 2026 qui renvoie vers un téléchargement gratuit sur la page Bandcamp du projet. Au 3 novembre 2026, la chaîne affiche 12 abonnés, la vidéo Tipsy 1 322 vues et le short 10 vues. Bandcamp répertorie toujours deux titres, Tipsy Riddim et MadameZelle, sans nouvelle sortie depuis la publication de notre profil."]), [], '2026-11-04')
+_apply_update_recqSH1Uatj2E9tG4(EN, ('Update, November 4, 2026', ['Update 2026-11-03. The MadameZelle YouTube channel (@MadameZelleOfficial) carries a video for Tipsy, titled "Tipsy - [MadameZelle] [Bouyon 2026]", published on January 3, 2026, and a short published on January 6, 2026 that points to a free download on the project\'s Bandcamp page. As of November 3, 2026, the channel shows 12 subscribers, the Tipsy video 1,322 views and the short 10 views. Bandcamp still lists two tracks, Tipsy Riddim and MadameZelle, with no new release since our profile was published.']), [], '2026-11-04')

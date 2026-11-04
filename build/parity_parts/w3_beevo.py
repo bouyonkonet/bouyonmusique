@@ -202,3 +202,14 @@ EN = {
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/beevo.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/beevo.html#artist", "name": "Beevo", "description": "Emerging bouyon name spotted in mixes from the Dominica scene: Doe do me Dat, with Trixx, and Fall In De Trap, with Trixx and Freddy. No solo track or biography documented in October 2026.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Doe do me Dat"}, {"@type": "MusicRecording", "name": "Fall In De Trap"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
+
+# --- artist-update recI1sqOb2eyLEiWR (2026-11-04), published from the Airtable artist-updates base ---
+def _apply_update_recI1sqOb2eyLEiWR(page, section, faq, day):
+    page["sections"] = [section] + [s for s in page["sections"] if s[0] != section[0]]
+    for q, a in faq:
+        rows = [i for i, x in enumerate(page["faq"]) if x[0] == q]
+        if rows: page["faq"][rows[0]] = (q, a)
+        else: page["faq"].append((q, a))
+    page["date_modified"] = day
+_apply_update_recI1sqOb2eyLEiWR(FR, ('Mise à jour du 4 novembre 2026', ["Deux autres apparitions sur YouTube créditent Beevo dans le bouyon dominiquais. Le 9 mars 2025, la chaîne MooreVybz a publié une vidéo du Carnaval de la Dominique 2025 signée Triple Kay avec Kenny G, Freddy, Beevo et Reo. Freddy figure aussi avec Beevo sur Fall In De Trap. Le 21 février 2026, la chaîne DJTaffy Tha Riddim Beast a mis en ligne « Party », crédité à Beevo avec Frank White et présenté comme Bouyon 2026. Les deux vidéos sont publiées sur des chaînes tierces. Aucune chaîne officielle de Beevo n'a été trouvée."]), [], '2026-11-04')
+_apply_update_recI1sqOb2eyLEiWR(EN, ('Update, November 4, 2026', ['Two more YouTube appearances credit Beevo in Dominican bouyon. On 9 March 2025 the MooreVybz channel published a Dominica Carnival 2025 video by Triple Kay with Kenny G, Freddy, Beevo and Reo. Freddy also appears with Beevo on Fall In De Trap. On 21 February 2026 the DJTaffy Tha Riddim Beast channel posted "Party", credited to Beevo featuring Frank White and labelled Bouyon 2026. Both videos are on third-party channels. No official artist channel for Beevo was found.']), [], '2026-11-04')

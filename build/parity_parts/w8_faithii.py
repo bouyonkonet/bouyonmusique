@@ -302,3 +302,14 @@ EN = {
 ], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
+
+# --- artist-update rec0lcfWsb5F44mdt (2026-11-04), published from the Airtable artist-updates base ---
+def _apply_update_rec0lcfWsb5F44mdt(page, section, faq, day):
+    page["sections"] = [section] + [s for s in page["sections"] if s[0] != section[0]]
+    for q, a in faq:
+        rows = [i for i, x in enumerate(page["faq"]) if x[0] == q]
+        if rows: page["faq"][rows[0]] = (q, a)
+        else: page["faq"].append((q, a))
+    page["date_modified"] = day
+_apply_update_rec0lcfWsb5F44mdt(FR, ('Mise à jour du 4 novembre 2026', ['Le 30 janvier 2026, la chaîne YouTube de DJ King Kembe Sint Maarten a publié la vidéo de No Feelings, un single de King Kembe en featuring avec Faithii. Apple Music indique pour ce single une date de sortie au 29 janvier 2026.', "Faithii figure aussi aux côtés de Fadda Fox sur Bess Jam, un titre du Kryptic Riddim. La chaîne YouTube dadamanufakture l'a publié le 4 juillet 2025.", "En décembre 2024, elle a accordé une interview à la station de radio Laser 101 St. Maarten. L'interview a été enregistrée le 13 décembre 2024 et la station l'a publiée sur sa chaîne YouTube le 17 décembre 2024.", 'Au 3 novembre 2026, sa chaîne YouTube comptait 4 060 abonnés. Le catalogue Apple Music recense six singles et deux sorties sur lesquelles elle est artiste invitée.']), [], '2026-11-04')
+_apply_update_rec0lcfWsb5F44mdt(EN, ('Update, November 4, 2026', ['On 30 January 2026 the YouTube channel of DJ King Kembe Sint Maarten published a video for No Feelings, a King Kembe single featuring Faithii. Apple Music lists the single with a release date of 29 January 2026.', 'Faithii also appears with Fadda Fox on Bess Jam, a track on the Kryptic Riddim. The dadamanufakture YouTube channel published it on 4 July 2025.', 'In December 2024 she gave an interview to the radio station Laser 101 St. Maarten. The interview was recorded on 13 December 2024, and the station published it on its YouTube channel on 17 December 2024.', 'On 3 November 2026 her YouTube channel had 4,060 subscribers. The Apple Music catalogue lists six singles and two releases on which she is a featured artist.']), [], '2026-11-04')

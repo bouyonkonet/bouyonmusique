@@ -179,3 +179,14 @@ EN = {
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/nils.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/nils.html#artist", "name": "Nils", "description": "Artist from the French speaking bouyon circuit. Credited on D0 Production New Bouyon Wave #1 in 2023 and author of the single Chodo in 2024. Thin public record: no verified published biography to date.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Chodo"}, {"@type": "MusicRecording", "name": "New Bouyon Wave #1"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
+
+# --- artist-update recfQ59ylABaUTaDz (2026-11-04), published from the Airtable artist-updates base ---
+def _apply_update_recfQ59ylABaUTaDz(page, section, faq, day):
+    page["sections"] = [section] + [s for s in page["sections"] if s[0] != section[0]]
+    for q, a in faq:
+        rows = [i for i, x in enumerate(page["faq"]) if x[0] == q]
+        if rows: page["faq"][rows[0]] = (q, a)
+        else: page["faq"].append((q, a))
+    page["date_modified"] = day
+_apply_update_recfQ59ylABaUTaDz(FR, ('Mise à jour du 4 novembre 2026', ["Apple Music crédite Nils comme artiste invité, aux côtés d'Aknose, sur Bad Girls, un single de 1t1 sorti le 1er décembre 2023 (℗ 2023 1T1). Aknose figure aussi au générique de New Bouyon Wave #1. Apple Music classe ce single dans la rubrique Apparaît sur de la page artiste de Nils, celle qui présente aussi Chodo. Apple Music n'affiche aucun nombre d'abonnés pour cette page. L'origine et l'île ne sont toujours pas indiquées dans les sources."]), [], '2026-11-04')
+_apply_update_recfQ59ylABaUTaDz(EN, ('Update, November 4, 2026', ['Apple Music lists Nils as a featured artist, alongside Aknose, on Bad Girls, a single by 1t1 released on December 1, 2023 (℗ 2023 1T1). Aknose is also credited on New Bouyon Wave #1. Apple Music shows the single under Appears On on the Nils artist page, the same page that carries Chodo. Apple Music shows no follower count for that page. Origin and island are still not stated in the sources.']), [], '2026-11-04')
