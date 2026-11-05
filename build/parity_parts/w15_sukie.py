@@ -253,3 +253,14 @@ EN = {
  "extra_graph": [{"@type": "ProfilePage", "@id": "https://bouyonmusique.com/en/sukie.html#profile", "mainEntity": {"@type": "Person", "@id": "https://bouyonmusique.com/en/sukie.html#artist", "name": "Sukie", "alternateName": "Sukie Burn Brain", "description": "Rave and bouyon artist from Dominica, real name Shane Edwards. Booked for the Fire and Ice concert in Grenada in December 2022, he was arrested and then, according to DOM767, sentenced to six months in prison, of which he served four, a period during which the prisons commissioner reported he had recorded songs about his experience.", "genre": "Bouyon", "track": [{"@type": "MusicRecording", "name": "Say My Name"}], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
+
+# --- artist-update recMNdv8l02IEeL2N (2026-11-05), published from the Airtable artist-updates base ---
+def _apply_update_recMNdv8l02IEeL2N(page, section, faq, day):
+    page["sections"] = [section] + [s for s in page["sections"] if s[0] != section[0]]
+    for q, a in faq:
+        rows = [i for i, x in enumerate(page["faq"]) if x[0] == q]
+        if rows: page["faq"][rows[0]] = (q, a)
+        else: page["faq"].append((q, a))
+    page["date_modified"] = day
+_apply_update_recMNdv8l02IEeL2N(FR, ('Mise à jour du 5 novembre 2026', ['Le titre iCandy, crédité Sukie Burn Brain x Ras Stickle avec KT Dan et Tobap, a été publié en audio officiel sur la chaîne YouTube Mulley Media le 22 novembre 2022.', 'Le 11 mars 2025, la chaîne YouTube Flight Frog Tv a publié une vidéo intitulée « Sukie Burn Brain Lights Up Roseau Market with Classic Bouyon Hit », qui le montre au marché de Roseau.', 'Say My Name, morceau de Keks Mafia avec Sukie Burn Brain, a été publié sur la chaîne YouTube KEKS MAFIA OFFICIAL le 28 novembre 2025.', "CBC Barbados a également rendu compte de l'affaire judiciaire de 2022, le 4 décembre 2022."]), [], '2026-11-05')
+_apply_update_recMNdv8l02IEeL2N(EN, ('Update, November 5, 2026', ['The track iCandy, credited to Sukie Burn Brain x Ras Stickle featuring KT Dan and Tobap, was published as official audio on the Mulley Media YouTube channel on 22 November 2022.', 'On 11 March 2025 the Flight Frog Tv YouTube channel published a video titled "Sukie Burn Brain Lights Up Roseau Market with Classic Bouyon Hit", showing him at Roseau Market.', 'Say My Name, the Keks Mafia track featuring Sukie Burn Brain, was published on the KEKS MAFIA OFFICIAL YouTube channel on 28 November 2025.', 'CBC Barbados also reported the 2022 court case on 4 December 2022.']), [], '2026-11-05')

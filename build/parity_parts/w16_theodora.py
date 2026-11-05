@@ -671,3 +671,14 @@ EN = {
 ], "sameAs": []}}],
  "date_modified": "2026-10-20"
 }
+
+# --- artist-update reco5cpnTCQh0lsMc (2026-11-05), published from the Airtable artist-updates base ---
+def _apply_update_reco5cpnTCQh0lsMc(page, section, faq, day):
+    page["sections"] = [section] + [s for s in page["sections"] if s[0] != section[0]]
+    for q, a in faq:
+        rows = [i for i, x in enumerate(page["faq"]) if x[0] == q]
+        if rows: page["faq"][rows[0]] = (q, a)
+        else: page["faq"].append((q, a))
+    page["date_modified"] = day
+_apply_update_reco5cpnTCQh0lsMc(FR, ('Mise à jour du 5 novembre 2026', ['Mise à jour du 4 novembre 2026. Le 31 octobre 2026, RTTNews a annoncé qu\'Ayra Starr avait publié le clip officiel de "Ms. Paper", en featuring avec Theodora. Le titre figure sur Starrgirl, troisième album solo d\'Ayra Starr, paru chez Mavin Records et Republic Records. Sur Apple Music, "Ms. Paper (feat. Theodora)" est le titre le plus écouté de Theodora.']), [], '2026-11-05')
+_apply_update_reco5cpnTCQh0lsMc(EN, ('Update, November 5, 2026', ['Update 2026-11-04. On 31 October 2026, RTTNews reported that Ayra Starr had released the official music video for "Ms. Paper", featuring Theodora. The track appears on Starrgirl, Ayra Starr\'s third solo album, released through Mavin Records and Republic Records. Theodora\'s Apple Music page lists "Ms. Paper (feat. Theodora)" as her top song.']), [], '2026-11-05')
