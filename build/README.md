@@ -2,9 +2,9 @@
 
 The repo root holds the site output (HTML). This build/ folder is the source of truth for generated pages. GitHub Pages deploys through .github/workflows/pages.yml, which publishes only site files (HTML, CSS, images, sitemaps, robots.txt, CNAME). build/, AGENTS.md and README.md are never served.
 
-Internal notes (research logs, plans, audits, discovery queues, playlist inventories) live in the bouyonmusique-notes repo, under the same build/ paths. Check it out beside this repo (~/bouyonmusique-notes). Artist pages read build/listen_sources.json (title + URL only); after editing the research logs in the notes repo, run `python3 build/sources_listen.py --export`.
+Working notes (source logs, discovery queues, playlist inventories) live in the bouyonmusique-notes repo, under the same build/ paths. Check it out beside this repo (~/bouyonmusique-notes). Artist pages read build/listen_sources.json (title + URL only); after editing the research logs in the notes repo, run `python3 build/sources_listen.py --export`.
 
-Current direction, October 21, 2026: improve existing French coverage and music discovery; measure clicks before expanding the 675-URL sitemap. See ../AGENTS.md. The 2027 review pages are outside this deployment and must not be added by regeneration.
+The 2027 review pages are outside this deployment and must not be added by regeneration.
 
 The five reviewed listening additions live in music_discovery_blocks.json. Both generators apply music_discovery.py after generation so these additions survive rebuilds without replacing existing titles, H1s, canonical URLs, playlists or article bodies. To reapply only these additions, run `python3 build/music_discovery.py` from the repository root. This does not change the sitemap.
 
@@ -16,14 +16,14 @@ The five reviewed listening additions live in music_discovery_blocks.json. Both 
 
 ## Artist hubs, mixtapes, chroniques (BOU-3200)
 
-- Artist profiles stay at /<slug>.html and are the artist hubs: no /artistes/<slug> copies (they would duplicate ranking pages and grow the sitemap). hubs.py finds every page that mentions an artist, by a hand-written link to the profile or by the artist's name in the copy. A name glued to another capitalised word ("Life Nice", "Serbin Freddy", "Trixx Migos") does not count, and names in hubs.LINK_ONLY (Nice, Freddy, Kenny G and other names shared with words or people) count only through a hand-written link. The same guard stops linkify_sections from auto-linking those false matches.
+- Artist profiles stay at /<slug>.html and are the artist hubs: no /artistes/<slug> copies (they would duplicate existing pages and grow the sitemap). hubs.py finds every page that mentions an artist, by a hand-written link to the profile or by the artist's name in the copy. A name glued to another capitalised word ("Life Nice", "Serbin Freddy", "Trixx Migos") does not count, and names in hubs.LINK_ONLY (Nice, Freddy, Kenny G and other names shared with words or people) count only through a hand-written link. The same guard stops linkify_sections from auto-linking those false matches.
 - Each profile gets a "<Nom> sur Bouyon Musique" module listing those pages by section, plus an ItemList. Every page gets "Artistes cités dans cette page" and schema.org mentions. Profiles of musicians are typed ["Person", "MusicGroup"] (schema.org: MusicGroup can be a solo musician).
 - Bylines: "Par Smokiller · Publié le · Mis à jour le" from date_published and date_modified. dateModified in the schema is the page's date_modified, not the build date.
 - Mixtapes: data_mixtapes.py, rendered by editorial.py to /mixtapes/<slug>.html and /mixtapes/. Only Smokiller's published mixes; tracklists copied from the live YouTube chapters; thumbnails in mixtapes/img/ are Smokiller's own artwork from YouTube. Read the sources note at the top of data_mixtapes.py before adding one.
 - Chroniques: data_chroniques.py (empty) uses the same renderer under /chroniques/. The shape of an entry is documented there. Nothing is published while the list is empty.
 - sitemap.xml is a sitemap index: sitemap-pages.xml, sitemap-artistes.xml, sitemap-mixtapes.xml (with video entries), sitemap-en.xml, and sitemap-chroniques.xml once a chronique exists. Hand-built pages keep the lastmod already in the sitemaps.
 - The root pages index.html, histoire/histories and artistes are hand-built, not generator-driven. Everything else comes from the modules.
-- Read build/TAKEOVER-PLAN-20261020.md in the notes repo for the strategy. Content and style rules are in the handoff prompt; they are strict (verified facts only, no copied text, no em dashes anywhere).
+- Content and style rules are strict: verified facts only, no copied text, no em dashes anywhere.
 
 ## Islands (artist to island, island to artist)
 
@@ -40,7 +40,7 @@ The five reviewed listening additions live in music_discovery_blocks.json. Both 
 
 `build/onpage.py` runs last in both generators (`apply_onpage()`), after the playlist links. Rerun-safe.
 
-- Titles are cut to 60 characters (name first, "bouyon" kept, brand suffix only when the title never had the word), descriptions to 190 at a sentence or clause end (raised from 155 on 2026-11-03: the SERP plan found 160 to 190 characters work better). twitter:title and twitter:description are added from the title and description when a page has none. Outbound Instagram, YouTube and Spotify links get a `data-cta` attribute (instagram_follow, youtube_link, spotify_link) for future click counting; it is left out of the content hash. The data files keep the long editorial titles; `short_title()` decides what the page shows. H1s without "bouyon" or longer than 70 characters take the short title.
+- Titles are cut to 60 characters (name first, "bouyon" kept, brand suffix only when the title never had the word), descriptions to 190 at a sentence or clause end (raised from 155 on 2026-11-03). twitter:title and twitter:description are added from the title and description when a page has none. Outbound Instagram, YouTube and Spotify links get a `data-cta` attribute (instagram_follow, youtube_link, spotify_link) for future click counting; it is left out of the content hash. The data files keep the long editorial titles; `short_title()` decides what the page shows. H1s without "bouyon" or longer than 70 characters take the short title.
 - YouTube embeds are facades (`build/yt.py`, `facade()`): a real `<img>` of the video thumbnail with a play button, the iframe is created on click. `yt_meta.json` holds title, upload date, duration and thumbnail size per video; refresh it with `python3 build/yt.py --refresh` (yt-dlp, slow, YouTube rate-limits bursts).
 - The first thumbnail of a page becomes its og:image, the WebPage primaryImageOfPage and the MusicGroup image. Pages without a video keep og-image.png.
 - Every facade with known metadata gets a VideoObject in the JSON-LD and a `<video:video>` entry in the sitemaps.
