@@ -12,6 +12,28 @@ from pathlib import Path
 from urllib.parse import urlsplit
 
 import images
+import release
+
+_MONTHS = {'fr': ['janvier', 'février', 'mars', 'avril', 'mai', 'juin', 'juillet', 'août', 'septembre', 'octobre', 'novembre', 'décembre'],
+           'en': ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']}
+
+
+def _fmt(iso, lang):
+    y, m, d = (int(x) for x in iso.split('-'))
+    return f'{d} {_MONTHS[lang][m - 1]} {y}' if lang == 'fr' else f'{_MONTHS[lang][m - 1]} {d}, {y}'
+
+
+def page_dates(path):
+    """Stored published and modified days (build/release.py)."""
+    pub = release.true_published(path)
+    return pub, release.true_modified(path, None, pub)
+
+
+def dates_line(path, lang):
+    pub, mod = page_dates(path)
+    a, b = ('Publié le', 'Mis à jour le') if lang == 'fr' else ('Published', 'Updated')
+    return (f'<p class="pubdate release-dates" data-release-dates>{a} <time datetime="{pub}">{_fmt(pub, lang)}</time>'
+            f' · {b} <time datetime="{mod}">{_fmt(mod, lang)}</time></p>')
 
 ROOT = Path(images.ROOT)
 BASE = images.BASE
@@ -185,7 +207,7 @@ def artist_page(slug, d, lang, state, neighbors):
     treatments = ''.join(f'<figure><a href="{variant_path(slug,d,w,"jpg",t)}"><img src="{variant_path(slug,d,w,"jpg",t)}" width="{w}" height="{w if t=="square" else w*9//16}" loading="lazy" alt="{esc(d["name"]+" bouyon "+t)}"></a><figcaption>{t.title()}</figcaption></figure>' for t,w in [('banner',1280),('square',1080),('mirror',1280)])
     links = ''.join(f'<li><a href="{photo_path(s,lang)}">{esc(row["name"])}</a></li>' for s,row in neighbors)
     body = f'''<p class="breadcrumb"><a href="{photo_path('',lang)}">{'Artist photos' if en else 'Photos des artistes'}</a> / {esc(d['name'])}</p>
-<p class="kicker">BOUYON EN IMAGES</p><h1>{esc(title)}</h1>{island_line}
+<p class="kicker">BOUYON EN IMAGES</p><h1>{esc(title)}</h1>{dates_line(photo_path(slug,lang), lang)}{island_line}
 <figure class="photo-hero">{picture(slug,d,lang,True)}<figcaption>{esc(d['caption_'+lang])} <a href="{esc(source['url'])}" rel="noopener">{'View source' if en else 'Voir la source'}</a></figcaption></figure>
 <div class="photo-info"><section><h2>{'Listen to' if en else 'Écouter'} {esc(d['name'])}</h2>
 <p>{'Find the artist biography, releases and listening links in the full profile.' if en else 'Retrouvez la biographie, les titres et les liens d’écoute sur la fiche de l’artiste.'}</p>
@@ -200,7 +222,7 @@ def artist_page(slug, d, lang, state, neighbors):
 <h2>{'More artist photos' if en else 'Autres photos d’artistes'}</h2><ul class="photo-related">{links}</ul>'''
     url = BASE + photo_path(slug,lang)
     graph = [{'@type':'WebPage','@id':url+'#page','url':url,'name':title,'description':desc,'inLanguage':lang,
-              'datePublished':state[slug], 'mainEntity':objects,
+              'datePublished':page_dates(photo_path(slug,lang))[0], 'dateModified':page_dates(photo_path(slug,lang))[1], 'mainEntity':objects,
               'primaryImageOfPage':{'@id':objects[0]['@id']},'about':{'@id':BASE+profile+'#artist'}},
              {'@type':'BreadcrumbList','itemListElement':[
                  {'@type':'ListItem','position':1,'name':'Photos','item':BASE+photo_path('',lang)},
@@ -218,8 +240,9 @@ def hub_page(rows, lang):
         island = d['island'][lang] if d.get('island') else 'Bouyon'
         cards.append(f'<article class="photo-card"><a href="{photo_path(slug,lang)}">{picture(slug,d,lang)}<h2>{esc(d["name"])}</h2></a><p>{esc(island)} · {esc(d["source"]["kind"].title())}</p></article>')
         items.append({'@type':'ListItem','position':len(items)+1,'url':BASE+photo_path(slug,lang),'name':d['name']})
-    body = f'<p class="kicker">BOUYON EN IMAGES · {len(rows)} {"ARTISTS" if en else "ARTISTES"}</p><h1>{title}</h1><p class="lead">{desc}</p><div class="photo-grid">'+''.join(cards)+'</div>'
+    body = f'<p class="kicker">BOUYON EN IMAGES · {len(rows)} {"ARTISTS" if en else "ARTISTES"}</p><h1>{title}</h1>{dates_line(photo_path('',lang), lang)}<p class="lead">{desc}</p><div class="photo-grid">'+''.join(cards)+'</div>'
     graph = [{'@type':'CollectionPage','@id':BASE+photo_path('',lang)+'#page','url':BASE+photo_path('',lang),'name':title,'inLanguage':lang,
+              'datePublished':page_dates(photo_path('',lang))[0],'dateModified':page_dates(photo_path('',lang))[1],
               'mainEntity':{'@type':'ItemList','numberOfItems':len(items),'itemListElement':items}}]
     hero = BASE+variant_path(next(iter(rows)),next(iter(rows.values())),1280,'jpg') if rows else None
     return shell('',lang,title,desc,body,graph,hero)
@@ -273,10 +296,10 @@ def apply_discovery():
     emit('/photos/gallery.css',CSS)
     entries = []
     for lang in ('fr','en'):
-        entries.append(f'  <url><loc>{BASE}{photo_path("",lang)}</loc></url>')
+        entries.append(f'  <url><loc>{BASE}{photo_path("",lang)}</loc><lastmod>{page_dates(photo_path("",lang))[1]}</lastmod></url>')
         for slug,d in ordered:
             imgs = ''.join(f'<image:image><image:loc>{BASE}{variant_path(slug,d,w,fmt,t)}</image:loc></image:image>' for t,w,fmt in variants())
-            entries.append(f'  <url><loc>{BASE}{photo_path(slug,lang)}</loc><lastmod>{state[slug]}</lastmod>{imgs}</url>')
+            entries.append(f'  <url><loc>{BASE}{photo_path(slug,lang)}</loc><lastmod>{page_dates(photo_path(slug,lang))[1]}</lastmod>{imgs}</url>')
     emit('/sitemap-images.xml','<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">\n'+'\n'.join(entries)+'\n</urlset>\n')
     index = ROOT / 'sitemap.xml'
     xml = index.read_text()

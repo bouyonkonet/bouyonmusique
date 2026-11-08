@@ -1,0 +1,390 @@
+{
+ "_about": "Contextual links between related pages. Each sentence only restates facts already published on the linked pages.",
+ "pages": {
+  "en/kubu.html": [
+   {
+    "para": 0,
+    "id": "l28",
+    "html": "For the wider picture, from the founding bands to 2026, read our <a href=\"/en/bouyon-songs.html\">bouyon songs</a> selection; another 2026 release with its own page is <a href=\"/en/joli-bb-reo-maurane-voyer.html\">Joli BB by Reo and Maurane Voyer</a>."
+   }
+  ],
+  "en/joli-bb-reo-maurane-voyer.html": [
+   {
+    "para": 0,
+    "id": "l22",
+    "html": "For more tracks to know, from the founding bands to 2026, see our <a href=\"/en/bouyon-songs.html\">selection of bouyon songs</a>; another recent release with an official video is <a href=\"/en/ebony-empress-toufay.html\">Toufay by Ebony Empress</a>."
+   }
+  ],
+  "en/ebony-empress-toufay.html": [
+   {
+    "para": 0,
+    "id": "l21",
+    "html": "To place it among the tracks to know, from the founding bands to 2026, see the <a href=\"/en/bouyon-songs.html\">guide to bouyon songs</a>; another recent single with its own page is <a href=\"/en/kubu.html\">Hennessy by Kubu</a>."
+   }
+  ],
+  "en/bouyon-songs.html": [
+   {
+    "para": 2,
+    "id": "l18",
+    "html": "Two more recent singles have their own pages: <a href=\"/en/kubu.html\">Hennessy by Kubu</a>, on Wetty Beatz’s Link Up Riddim, and <a href=\"/en/ebony-empress-toufay.html\">Toufay by Ebony Empress</a>, produced by McGyver."
+   }
+  ],
+  "kubu.html": [
+   {
+    "para": 0,
+    "id": "l45",
+    "html": "Pour situer ce titre, des groupes fondateurs à 2026, lisez notre sélection de <a href=\"/chansons-bouyon.html\">chansons bouyon</a> ; autre sortie de 2026 avec sa propre page : <a href=\"/joli-bb-reo-maurane-voyer.html\">Joli BB de Reo et Maurane Voyer</a>."
+   }
+  ],
+  "joli-bb-reo-maurane-voyer.html": [
+   {
+    "para": 0,
+    "id": "l39",
+    "html": "D’autres titres à connaître, des groupes fondateurs à 2026, sont dans notre <a href=\"/chansons-bouyon.html\">sélection de chansons bouyon</a> ; autre sortie récente avec un clip officiel : <a href=\"/ebony-empress-toufay.html\">Toufay d’Ebony Empress</a>."
+   }
+  ],
+  "ebony-empress-toufay.html": [
+   {
+    "para": 0,
+    "id": "l10",
+    "html": "Pour le replacer parmi les titres à connaître, des groupes fondateurs à 2026, voir le <a href=\"/chansons-bouyon.html\">guide des chansons bouyon</a> ; autre single récent avec sa propre page : <a href=\"/kubu.html\">Hennessy de Kubu</a>."
+   }
+  ],
+  "chansons-bouyon.html": [
+   {
+    "para": 2,
+    "id": "l08",
+    "html": "Deux autres singles récents ont leur page : <a href=\"/kubu.html\">Hennessy de Kubu</a>, sur le Link Up Riddim de Wetty Beatz, et <a href=\"/ebony-empress-toufay.html\">Toufay d’Ebony Empress</a>, produit par McGyver."
+   }
+  ],
+  "en/old-school-bouyon.html": [
+   {
+    "para": 0,
+    "id": "l30",
+    "html": "Our <a href=\"/en/best-bouyon.html\">best bouyon songs</a> guide runs from these classics to 2026; for a catalogue that has carried the word bouyon in its titles since 2012, see <a href=\"/en/kanna.html\">KANNA</a>."
+   }
+  ],
+  "en/klass-money.html": [
+   {
+    "para": 0,
+    "id": "l27",
+    "html": "For the bouyon songs around Throw Dat, from the founding bands to 2026, see <a href=\"/en/best-bouyon.html\">the best of bouyon</a>; the <a href=\"/en/old-school-bouyon.html\">old school bouyon</a> page covers the era where it all started."
+   }
+  ],
+  "en/kanna.html": [
+   {
+    "para": 0,
+    "id": "l25",
+    "html": "For the wider canon, from the founding bands to 2026, see our guide to the <a href=\"/en/best-bouyon.html\">best bouyon songs to start with</a>; for a 2026 single, see Throw Dat by <a href=\"/en/klass-money.html\">Klass Money</a>, produced by Smokiller."
+   }
+  ],
+  "en/best-bouyon.html": [
+   {
+    "para": 2,
+    "id": "l12",
+    "html": "For the classic era and a catalogue that spans more than ten years, read <a href=\"/en/old-school-bouyon.html\">old school bouyon</a> and the profile of <a href=\"/en/kanna.html\">KANNA</a>."
+   }
+  ],
+  "old-school-bouyon.html": [
+   {
+    "para": 0,
+    "id": "l48",
+    "html": "Notre page <a href=\"/meilleur-bouyon.html\">meilleur du bouyon</a> va de ces classiques à 2026 ; pour un catalogue qui porte le mot bouyon dans ses titres depuis 2012, voir <a href=\"/kanna.html\">KANNA</a>."
+   }
+  ],
+  "klass-money.html": [
+   {
+    "para": 0,
+    "id": "l44",
+    "html": "Pour les titres bouyon autour de Throw Dat, des groupes fondateurs à 2026, voir <a href=\"/meilleur-bouyon.html\">le meilleur du bouyon</a> ; la page <a href=\"/old-school-bouyon.html\">old school bouyon</a> raconte l’époque où tout a commencé."
+   }
+  ],
+  "kanna.html": [
+   {
+    "para": 0,
+    "id": "l42",
+    "html": "Pour l’ensemble du genre, des groupes fondateurs à 2026, voir notre sélection du <a href=\"/meilleur-bouyon.html\">meilleur bouyon</a> pour commencer ; pour un single de 2026, voir Throw Dat de <a href=\"/klass-money.html\">Klass Money</a>, produit par Smokiller."
+   }
+  ],
+  "meilleur-bouyon.html": [
+   {
+    "para": 1,
+    "id": "l46",
+    "html": "Pour l’époque classique et un catalogue qui couvre plus de dix ans, lisez <a href=\"/old-school-bouyon.html\">old school bouyon</a> et le profil de <a href=\"/kanna.html\">KANNA</a>."
+   }
+  ],
+  "en/jounen-kweyol.html": [
+   {
+    "para": 0,
+    "id": "l23",
+    "html": "For the year-round selection, the <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> mixes new releases and carnival classics; the founders of the genre have their own Smokiller playlist on the <a href=\"/en/wck.html\">WCK</a> page."
+   }
+  ],
+  "en/wck.html": [
+   {
+    "para": 0,
+    "id": "l35",
+    "html": "Their era opens the classics side of the <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix playlist</a>, and <a href=\"/en/bouyon-dominica.html\">bouyon in Dominica</a> follows the genre in its home country."
+   }
+  ],
+  "en/playlist-bouyon.html": [
+   {
+    "para": 4,
+    "id": "l31",
+    "html": "Smaller themed playlists by Smokiller play on other pages: the founders on the <a href=\"/en/wck.html\">WCK</a> profile, the island on <a href=\"/en/bouyon-dominica.html\">bouyon in Dominica</a> and the Creole Day songs on <a href=\"/en/jounen-kweyol.html\">Jounen Kweyol</a>."
+   }
+  ],
+  "jounen-kweyol.html": [
+   {
+    "para": 0,
+    "id": "l40",
+    "html": "Pour la sélection de toute l’année, la <a href=\"/playlist-bouyon.html\">playlist bouyon</a> mêle nouveautés et classiques du carnaval ; les fondateurs du genre ont leur propre playlist de Smokiller sur la page <a href=\"/wck.html\">WCK</a>."
+   }
+  ],
+  "wck.html": [
+   {
+    "para": 0,
+    "id": "l53",
+    "html": "Leur époque ouvre le côté classiques de la <a href=\"/playlist-bouyon.html\">playlist Bouyon Road Mix</a>, et <a href=\"/bouyon-dominique.html\">le bouyon en Dominique</a> suit le genre dans son pays d’origine."
+   }
+  ],
+  "playlist-bouyon.html": [
+   {
+    "para": 4,
+    "id": "l49",
+    "html": "Des playlists thématiques de Smokiller jouent sur d’autres pages : les fondateurs sur le profil de <a href=\"/wck.html\">WCK</a>, l’île sur <a href=\"/bouyon-dominique.html\">le bouyon en Dominique</a> et les chansons du Creole Day sur <a href=\"/jounen-kweyol.html\">Jounen Kwéyòl</a>."
+   }
+  ],
+  "en/bouyon-dominica.html": [
+   {
+    "para": 0,
+    "id": "l14",
+    "html": "To hear it, start with the <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix</a> by Bouyon Shattaz."
+   }
+  ],
+  "bouyon-dominique.html": [
+   {
+    "para": 0,
+    "id": "l03",
+    "html": "Pour l’entendre, commencez par la <a href=\"/playlist-bouyon.html\">Bouyon Road Mix</a> de Bouyon Shattaz."
+   }
+  ],
+  "en/dj-sleem.html": [
+   {
+    "para": 0,
+    "id": "l20",
+    "html": "More mixes to start with are on our <a href=\"/en/bouyon-mix.html\">bouyon mix</a> page; for 2026 sets, see <a href=\"/en/kentin-fcn.html\">Kentin FcN</a>, who recorded a shatta bouyon live set at the Shatta Wine festival."
+   }
+  ],
+  "en/bermixx.html": [
+   {
+    "para": 0,
+    "id": "l11",
+    "html": "Another DJ with a long run of bouyon mixes is <a href=\"/en/dj-sleem.html\">DJ Sleem</a>."
+   }
+  ],
+  "en/kentin-fcn.html": [
+   {
+    "para": 0,
+    "id": "l26",
+    "html": "More DJs are in our <a href=\"/en/bouyon-mix.html\">selection of bouyon mixes</a>; for short bouyon mixes released as singles, see <a href=\"/en/bermixx.html\">Bermixx</a>."
+   }
+  ],
+  "en/bouyon-mix.html": [
+   {
+    "para": 2,
+    "id": "l15",
+    "html": "Three DJs have their own pages here: <a href=\"/en/dj-sleem.html\">DJ Sleem</a>, whose yearly bouyon mixes are filmed at Dominican sites, <a href=\"/en/bermixx.html\">Bermixx</a>, behind Le Mix Bouyon, and <a href=\"/en/kentin-fcn.html\">Kentin FcN</a>."
+   }
+  ],
+  "dj-sleem.html": [
+   {
+    "para": 0,
+    "id": "l09",
+    "html": "D’autres mixes pour commencer sont sur notre page <a href=\"/bouyon-mix.html\">mix bouyon</a> ; pour les sets de 2026, voir <a href=\"/kentin-fcn.html\">Kentin FcN</a>, qui a enregistré un live set shatta bouyon au festival Shatta Wine."
+   }
+  ],
+  "bermixx.html": [
+   {
+    "para": 0,
+    "id": "l01",
+    "html": "Autre DJ avec une longue série de mixes bouyon : <a href=\"/dj-sleem.html\">DJ Sleem</a>."
+   }
+  ],
+  "kentin-fcn.html": [
+   {
+    "para": 0,
+    "id": "l43",
+    "html": "D’autres DJ sont dans notre <a href=\"/bouyon-mix.html\">sélection de mixes bouyon</a> ; pour des mixes bouyon courts publiés comme des singles, voir <a href=\"/bermixx.html\">Bermixx</a>."
+   }
+  ],
+  "bouyon-mix.html": [
+   {
+    "para": 2,
+    "id": "l04",
+    "html": "Trois DJ ont leur page ici : <a href=\"/dj-sleem.html\">DJ Sleem</a>, dont les mixes bouyon annuels sont filmés sur des sites de la Dominique, <a href=\"/bermixx.html\">Bermixx</a>, derrière Le Mix Bouyon, et <a href=\"/kentin-fcn.html\">Kentin FcN</a>."
+   }
+  ],
+  "en/new-bouyon-2026.html": [
+   {
+    "para": 0,
+    "id": "l29",
+    "html": "For the whole year in one place, from the scene to the playlist, read <a href=\"/en/bouyon-music-2026.html\">Bouyon Music 2026</a>; the year in one listen is <a href=\"/en/bouyon-music-2026-mix-vol-1.html\">Bouyon Music 2026 Mix Vol. 1</a>."
+   }
+  ],
+  "en/bouyon-music-2026-mix-vol-1.html": [
+   {
+    "para": 0,
+    "id": "l16",
+    "html": "The year around it is told in our <a href=\"/en/bouyon-music-2026.html\">guide to bouyon music in 2026</a>; one of the 2026 singles on this site, <a href=\"/en/throw-dat-bouyon-2026.html\">Throw Dat (Bouyon 2026)</a> by Klass Money, was produced by Smokiller, who mixed this one."
+   }
+  ],
+  "en/throw-dat-bouyon-2026.html": [
+   {
+    "para": 0,
+    "id": "l34",
+    "html": "For the rest of the year’s releases, see <a href=\"/en/bouyon-music-2026.html\">the 2026 bouyon year</a>; Smokiller also mixed <a href=\"/en/bouyon-music-2026-mix-vol-1.html\">Bouyon Music 2026 Mix Vol. 1</a>."
+   }
+  ],
+  "en/bouyon-music-2026.html": [
+   {
+    "para": 2,
+    "id": "l17",
+    "html": "For one listen, <a href=\"/en/bouyon-music-2026-mix-vol-1.html\">Bouyon Music 2026 Mix Vol. 1</a> lines up 41 minutes of new bouyon."
+   }
+  ],
+  "nouveautes-bouyon-2026.html": [
+   {
+    "para": 0,
+    "id": "l47",
+    "html": "Pour toute l’année au même endroit, de la scène à la playlist, lisez <a href=\"/bouyon-music-2026.html\">Bouyon Music 2026</a> ; l’année en une écoute, c’est le <a href=\"/bouyon-music-2026-mix-vol-1.html\">Bouyon Music 2026 Mix Vol. 1</a>."
+   }
+  ],
+  "bouyon-music-2026-mix-vol-1.html": [
+   {
+    "para": 0,
+    "id": "l05",
+    "html": "L’année autour de ce mix est racontée dans notre <a href=\"/bouyon-music-2026.html\">guide du bouyon en 2026</a> ; l’un des singles de 2026 présentés sur ce site, <a href=\"/throw-dat-bouyon-2026.html\">Throw Dat (Bouyon 2026)</a> de Klass Money, a été produit par Smokiller, qui signe aussi ce mix."
+   }
+  ],
+  "throw-dat-bouyon-2026.html": [
+   {
+    "para": 0,
+    "id": "l52",
+    "html": "Pour les autres sorties de l’année, voir <a href=\"/bouyon-music-2026.html\">l’année bouyon 2026</a> ; Smokiller a aussi mixé le <a href=\"/bouyon-music-2026-mix-vol-1.html\">Bouyon Music 2026 Mix Vol. 1</a>."
+   }
+  ],
+  "bouyon-music-2026.html": [
+   {
+    "para": 2,
+    "id": "l06",
+    "html": "Pour une seule écoute, le <a href=\"/bouyon-music-2026-mix-vol-1.html\">Bouyon Music 2026 Mix Vol. 1</a> aligne 41 minutes de nouveau bouyon."
+   }
+  ],
+  "en/shatta-bouyon.html": [
+   {
+    "para": 0,
+    "id": "l33",
+    "html": "To hear it, start with our <a href=\"/en/playlist-shatta.html\">shatta playlist</a>, which lists the shatta bouyon tracks to know next to the Bouyon Road Mix."
+   }
+  ],
+  "en/bouyon-vs-shatta.html": [
+   {
+    "para": 0,
+    "id": "l19",
+    "html": "To hear both side by side, open the <a href=\"/en/playlist-shatta.html\">playlist shatta</a> page."
+   }
+  ],
+  "en/bkz.html": [
+   {
+    "para": 0,
+    "id": "l13",
+    "html": "For more tracks where the two styles meet, see our <a href=\"/en/playlist-shatta.html\">playlist of shatta and shatta bouyon</a> and the page on <a href=\"/en/shatta-bouyon.html\">shatta bouyon</a>."
+   }
+  ],
+  "en/playlist-shatta.html": [
+   {
+    "para": 1,
+    "id": "l32",
+    "html": "The rapper <a href=\"/en/bkz.html\">BKZ</a> set the two styles against each other in 2026 on the EP Bouyon vs Shatta, Vol. 1."
+   }
+  ],
+  "shatta-bouyon.html": [
+   {
+    "para": 0,
+    "id": "l51",
+    "html": "Pour l’écouter, commencez par notre <a href=\"/playlist-shatta.html\">playlist shatta</a>, qui réunit les titres shatta bouyon à connaître à côté de la Bouyon Road Mix."
+   }
+  ],
+  "bouyon-ou-shatta.html": [
+   {
+    "para": 0,
+    "id": "l07",
+    "html": "Pour entendre les deux côte à côte, ouvrez la page <a href=\"/playlist-shatta.html\">playlist shatta et shatta bouyon</a>."
+   }
+  ],
+  "bkz.html": [
+   {
+    "para": 0,
+    "id": "l02",
+    "html": "Pour d’autres titres où les deux styles se croisent, voir notre <a href=\"/playlist-shatta.html\">playlist du shatta au shatta bouyon</a> et la page <a href=\"/shatta-bouyon.html\">shatta bouyon</a>."
+   }
+  ],
+  "playlist-shatta.html": [
+   {
+    "para": 1,
+    "id": "l50",
+    "html": "Le rappeur <a href=\"/bkz.html\">BKZ</a> a même opposé les deux styles en 2026 sur l’EP Bouyon vs Shatta, Vol. 1."
+   }
+  ],
+  "en/wcmf-creole-festival.html": [
+   {
+    "para": 0,
+    "id": "l37",
+    "html": "For the festival beyond 2026 and its place in Dominica, see the <a href=\"/en/world-creole-music-festival.html\">World Creole Music Festival</a> guide; <a href=\"/en/wcmf-context.html\">why it matters for bouyon artists</a> is explained separately."
+   }
+  ],
+  "en/wcmf-context.html": [
+   {
+    "para": 2,
+    "id": "l36",
+    "html": "The bouyon line-up of the 2026 edition, night by night, is on the <a href=\"/en/wcmf-creole-festival.html\">WCMF 2026</a> page."
+   }
+  ],
+  "en/world-creole-music-festival.html": [
+   {
+    "para": 0,
+    "id": "l38",
+    "html": "The night-by-night bouyon line-up of that edition is on the <a href=\"/en/wcmf-creole-festival.html\">WCMF 2026 page</a>."
+   }
+  ],
+  "wcmf-festival-creole.html": [
+   {
+    "para": 0,
+    "id": "l54",
+    "html": "Pour le festival au-delà de 2026 et sa place en Dominique, voir le guide du <a href=\"/world-creole-music-festival.html\">World Creole Music Festival</a>."
+   }
+  ],
+  "world-creole-music-festival.html": [
+   {
+    "para": 0,
+    "id": "l55",
+    "html": "Le programme bouyon de cette édition, nuit par nuit, est sur la page <a href=\"/wcmf-festival-creole.html\">WCMF 2026</a>."
+   }
+  ],
+  "en/jouvert.html": [
+   {
+    "para": 0,
+    "id": "l24",
+    "html": "In Dominica, J’ouvert opens the Mas Domnik days; dates, music and official links for 2026 are in our <a href=\"/en/dominica-carnival-2026.html\">Dominica Carnival 2026</a> guide."
+   }
+  ],
+  "jouvert.html": [
+   {
+    "para": 0,
+    "id": "l41",
+    "html": "En Dominique, le J’ouvert ouvre les jours du Mas Domnik ; dates, musique et liens officiels de 2026 sont dans notre guide du <a href=\"/dominica-carnival-2026.html\">Dominica Carnival 2026</a>."
+   }
+  ]
+ }
+}
