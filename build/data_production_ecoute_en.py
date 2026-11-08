@@ -632,7 +632,7 @@ PAGES = [
 "title": "Bouyon Mix: the best bouyon mixes to listen to",
 "desc": "Bouyon mix: the mixes chaining bouyon, bouyon soca and French Caribbean new releases. Where to hear a good bouyon mix in 2026 and the Bouyon Shattaz pick.",
 "h1": "Bouyon mix: an hour of bouyon without lifting your foot",
-"intro": "The natural format of bouyon is the mix: the tracks chain at the same tempo, the party never stops. A good bouyon mix blends new releases from Dominica, bouyon soca and carnival classics.",
+"intro": "A bouyon mix is the natural format of the genre: the tracks chain at the same tempo, the party never stops. A good bouyon mix blends new releases from Dominica, bouyon soca and carnival classics.",
 "sections": [
 ("What makes a good bouyon mix", ["An order designed like a night out: the tracks that build, the classics that make people sing, the riddims of the moment, and no drop in energy. The DJs of Gwada and Paris have made a specialty of these chains, inherited from carnival sound systems."]),
 ("Where to start", ["The <a href=\"/en/playlist-bouyon.html\">Bouyon Road Mix</a> by Bouyon Shattaz is the simplest starting point: a playlist kept up to date on Spotify and YouTube, designed as a permanent mix of the bouyon of 2026."]),
@@ -687,10 +687,10 @@ PAGES = [
 },
 {
 "slug": "bouyon-songs.html", "fr_slug": "chansons-bouyon.html", "cat": "Listen to bouyon", "nav": "Bouyon songs",
-"title": "Best Bouyon Songs: the tracks to know, classics to 2026",
+"title": "Bouyon Songs: the tracks to know, classics to 2026",
 "desc": "The bouyon songs that matter, from the classics of Dominica’s bands WCK and RSB to 2026 releases by Reo, Asa Bantan and G’z Up, with where to hear each one.",
 "h1": "Bouyon songs: the selection to discover the genre",
-"intro": "Which songs should you listen to in order to understand bouyon? From the classics of Dominica’s bands to the recent tracks followed by Bouyon Shattaz, here is the method and the names to remember.",
+"intro": "Which bouyon songs should you listen to in order to understand the genre? From the classics of Dominica’s bands to the recent tracks followed by Bouyon Shattaz, here is the method and the names to remember.",
 "sections": [
 ("The classics first", ["Start with the founding bands, WCK, Roots Stems and Branches and First Serenade: that is where the genre took its form. Continue with the carnival tracks of the 1990s and 2000s, when bouyon reigned unchallenged over Dominica."]),
 ("The tracks of the new era", ["On the recent side: Life Nice by Asa Bantan, identified as the Bouyon Boss by Dominica Festivals. Joli BB by Reo with Maurane Voyer, the Dominica and Martinique bridge. FIX UP by G’z Up, carried by its Ya ya ya hook. Throw Dat (Bouyon 2026) by Klass Money, produced by Smokiller. And Mauvais Plan by HYPNO on the producer side. The <a href=\"/en/playlist-bouyon.html\">bouyon playlist</a> gathers them all in one place."]),

@@ -632,7 +632,7 @@ PAGES = [
 "title": "Bouyon Mix : les meilleurs mix bouyon à écouter",
 "desc": "Bouyon mix : les mix qui enchaînent bouyon, bouyon soca et nouveautés des Antilles. Où écouter un bon mix bouyon en 2026 et la sélection Bouyon Shattaz.",
 "h1": "Bouyon mix : une heure de bouyon sans lever le pied",
-"intro": "Le format naturel du bouyon, c’est le mix : les titres s’enchaînent au même tempo, la fête ne s’arrête jamais. Un bon bouyon mix mélange les nouveautés de la Dominique, le bouyon soca et les classiques du carnaval.",
+"intro": "Le mix bouyon est le format naturel du genre : les titres s’enchaînent au même tempo, la fête ne s’arrête jamais. Un bon bouyon mix mélange les nouveautés de la Dominique, le bouyon soca et les classiques du carnaval.",
 "sections": [
 ("Ce qui fait un bon mix bouyon", ["Un ordre pensé comme une soirée : les titres qui montent, les classiques qui font chanter, les riddims du moment, et aucune chute d’énergie. Les DJ de Gwada et de Paris se sont fait une spécialité de ces enchaînements, hérités des sound systems de carnaval."]),
 ("Par où commencer", ["La <a href=\"/playlist-bouyon.html\">Bouyon Road Mix</a> de Bouyon Shattaz est le point de départ le plus simple : une playlist tenue à jour sur Spotify et YouTube, pensée comme un mix permanent du bouyon de 2026."]),
@@ -690,7 +690,7 @@ PAGES = [
 "title": "Chansons Bouyon : les titres à connaître absolument",
 "desc": "Chansons bouyon : les titres qui comptent, des classiques des groupes dominicains aux nouveautés de Reo, Asa Bantan et G’z Up. La sélection pour débuter.",
 "h1": "Chansons bouyon : la sélection pour découvrir le genre",
-"intro": "Quelles chansons écouter pour comprendre le bouyon ? Des classiques des groupes de la Dominique aux titres récents suivis par Bouyon Shattaz, voici la méthode et les noms à retenir. Pour le genre lui-même, lisez <a href=\"/\">qu'est-ce que le bouyon</a>.",
+"intro": "Quelles chansons bouyon écouter pour comprendre le genre ? Des classiques des groupes de la Dominique aux titres récents suivis par Bouyon Shattaz, voici la méthode et les noms à retenir. Pour le genre lui-même, lisez <a href=\"/\">qu'est-ce que le bouyon</a>.",
 "sections": [
 ("Les classiques d’abord", ["Commencez par les groupes fondateurs, WCK, Roots Stems and Branches et First Serenade : c’est là que le genre a pris sa forme. Poursuivez avec les titres de carnaval des années 1990 et 2000, quand le bouyon régnait sans partage sur la Dominique."]),
 ("Les titres de la nouvelle ère", ["Côté récent : Life Nice d’Asa Bantan, identifié comme le Bouyon Boss par Dominica Festivals. Joli BB de Reo avec Maurane Voyer, le pont Dominique et Martinique. FIX UP de G’z Up, porté par son refrain Ya ya ya. Throw Dat (Bouyon 2026) de Klass Money, produit par Smokiller. Et Mauvais Plan de HYPNO côté producteurs. La <a href=\"/playlist-bouyon.html\">playlist bouyon</a> les rassemble au même endroit."]),

@@ -1,0 +1,3617 @@
+{
+"_about": "Earliest day each date may show: published is never before 'published', modified never before 'modified'.",
+"pages": {
+"/": {
+"published": "2026-10-01"
+},
+"/1t1.html": {
+"modified": "2026-01-30"
+},
+"/a-plus-musik.html": {
+"published": "2026-10-25"
+},
+"/ac-tafari.html": {
+"published": "2026-10-27"
+},
+"/acce-carter.html": {
+"published": "2026-10-20"
+},
+"/aderito-depina.html": {
+"published": "2026-10-20"
+},
+"/admiral-t.html": {
+"published": "2026-10-29",
+"modified": "2026-10-29"
+},
+"/aknose.html": {
+"modified": "2026-01-03"
+},
+"/alkpote.html": {
+"published": "2026-11-04"
+},
+"/all-star-band.html": {
+"published": "2026-06-01"
+},
+"/alpha.html": {
+"published": "2026-10-01"
+},
+"/anonymous-gyals.html": {
+"published": "2026-10-30"
+},
+"/arbre-des-branches-du-bouyon.html": {
+"published": "2026-10-20"
+},
+"/arden-p.html": {
+"published": "2026-09-01",
+"modified": "2026-02-24"
+},
+"/arendi.html": {
+"published": "2026-10-01"
+},
+"/artistes-dominique.html": {
+"published": "2026-10-25"
+},
+"/artistes-guadeloupe.html": {
+"published": "2026-10-20"
+},
+"/artistes-martinique.html": {
+"published": "2026-10-23"
+},
+"/artistes.html": {
+"published": "2026-10-09"
+},
+"/asa-bantan-wcmf-2026-entree.html": {
+"published": "2026-11-03"
+},
+"/asa-bantan.html": {
+"published": "2026-10-24"
+},
+"/avatar-omish.html": {
+"published": "2026-11-02",
+"modified": "2026-10-18"
+},
+"/avenir-du-bouyon.html": {
+"published": "2026-10-01"
+},
+"/backside-riddim.html": {
+"published": "2026-10-31"
+},
+"/bad-gyal-shyanne.html": {
+"published": "2026-11-03"
+},
+"/bajan-balotelli.html": {
+"published": "2026-07-10"
+},
+"/banklaady.html": {
+"published": "2026-11-06"
+},
+"/baps.html": {
+"published": "2026-10-20"
+},
+"/beevo.html": {
+"published": "2026-11-04"
+},
+"/benji.html": {
+"published": "2026-10-23"
+},
+"/bermixx.html": {
+"published": "2026-10-10"
+},
+"/bernard-gumbs-wizito.html": {
+"modified": "2025-08-01"
+},
+"/big-red-hd.html": {
+"published": "2026-10-27"
+},
+"/bilix.html": {
+"modified": "2025-07-10"
+},
+"/billy-bybf.html": {
+"published": "2026-10-16"
+},
+"/binksdrick.html": {
+"modified": "2024-12-13"
+},
+"/bismok.html": {
+"published": "2026-07-15"
+},
+"/bkz.html": {
+"published": "2026-09-16"
+},
+"/blaka-dan.html": {
+"published": "2026-10-29"
+},
+"/blicassty.html": {
+"published": "2026-11-04"
+},
+"/bobo-bantan.html": {
+"published": "2026-10-11"
+},
+"/bonna.html": {
+"published": "2026-10-17"
+},
+"/boogy-rankss.html": {
+"published": "2026-11-03"
+},
+"/boston-chery.html": {
+"published": "2026-10-16"
+},
+"/bouyon-au-feminin.html": {
+"published": "2026-10-23"
+},
+"/bouyon-bad-riddim.html": {
+"published": "2026-10-31",
+"modified": "2026-10-29"
+},
+"/bouyon-boyz-nations-league-2026.html": {
+"published": "2026-11-03"
+},
+"/bouyon-danse.html": {
+"published": "2026-10-16"
+},
+"/bouyon-diaspora.html": {
+"modified": "2025-08-28"
+},
+"/bouyon-drum-kit.html": {
+"published": "2026-10-01"
+},
+"/bouyon-drum-riddim.html": {
+"published": "2026-10-28",
+"modified": "2026-10-28"
+},
+"/bouyon-et-kweyol.html": {
+"published": "2026-10-22"
+},
+"/bouyon-guyane.html": {
+"modified": "2023-05-27"
+},
+"/bouyon-gwada-dominique.html": {
+"published": "2026-10-31"
+},
+"/bouyon-gwada.html": {
+"modified": "2025-12-01"
+},
+"/bouyon-instrumental.html": {
+"published": "2026-10-16"
+},
+"/bouyon-martinique.html": {
+"published": "2026-10-09"
+},
+"/bouyon-mix.html": {
+"modified": "2026-02-01"
+},
+"/bouyon-moderne.html": {
+"modified": "2023-03-22"
+},
+"/bouyon-mondial-crossover.html": {
+"published": "2026-11-01"
+},
+"/bouyon-music-2026-mix-vol-1.html": {
+"published": "2026-11-03"
+},
+"/bouyon-music-2026.html": {
+"published": "2026-10-25",
+"modified": "2026-10-19"
+},
+"/bouyon-ou-soca.html": {
+"published": "2026-10-25"
+},
+"/bouyon-ou-zouk.html": {
+"published": "2026-10-31"
+},
+"/bouyon-paris.html": {
+"published": "2026-10-20"
+},
+"/bouyon-rave-riddim.html": {
+"published": "2026-10-28",
+"modified": "2026-10-28"
+},
+"/bouyon-riddim.html": {
+"published": "2026-09-18",
+"modified": "2026-02-13"
+},
+"/bouyon-saint-martin.html": {
+"published": "2026-10-31"
+},
+"/bouyon-sainte-lucie.html": {
+"modified": "2019-03-01"
+},
+"/bouyon-shattaz.html": {
+"published": "2026-10-01"
+},
+"/bouyon-soca.html": {
+"published": "2026-10-25",
+"modified": "2025-01-01"
+},
+"/bouyon-type-beat.html": {
+"published": "2026-10-16"
+},
+"/boy-freeze.html": {
+"published": "2026-10-01"
+},
+"/bpm-du-bouyon.html": {
+"published": "2026-09-25"
+},
+"/brg-hollywood.html": {
+"published": "2026-09-01"
+},
+"/brian-lomba.html": {
+"modified": "2024-06-08"
+},
+"/bunji-garlin.html": {
+"modified": "2024-02-09"
+},
+"/burn-brain-jolly.html": {
+"modified": "2026-01-01"
+},
+"/bushtown-clan.html": {
+"modified": "2025-12-03"
+},
+"/c4.html": {
+"published": "2026-10-20"
+},
+"/cadence-lypso.html": {
+"published": "2026-10-23"
+},
+"/candy.html": {
+"published": "2026-10-27"
+},
+"/capleton-wcmf-2026.html": {
+"published": "2026-11-03"
+},
+"/caribbean-music-awards-2026-bouyon.html": {
+"published": "2026-11-02"
+},
+"/carlyn-xp.html": {
+"modified": "2019-02-14"
+},
+"/carnaval-de-dominique.html": {
+"published": "2026-02-14"
+},
+"/caspa-g.html": {
+"published": "2026-04-01"
+},
+"/cbgyvngsta.html": {
+"published": "2026-10-15"
+},
+"/cdb-pret-dominique-2026.html": {
+"published": "2026-11-03"
+},
+"/champion-riddim.html": {
+"published": "2026-05-25"
+},
+"/chansons-bouyon.html": {
+"published": "2026-10-16"
+},
+"/chief.html": {
+"published": "2026-10-20",
+"modified": "2026-10-20"
+},
+"/chioneso.html": {
+"published": "2026-10-20"
+},
+"/chronic-law.html": {
+"published": "2026-11-03"
+},
+"/ck-gee.html": {
+"published": "2026-05-22"
+},
+"/claudette-peters.html": {
+"published": "2026-10-27"
+},
+"/claviers-du-bouyon.html": {
+"published": "2026-09-25"
+},
+"/clint-h.html": {
+"modified": "2020-02-20"
+},
+"/cocotteland.html": {
+"published": "2026-10-20"
+},
+"/college-boy-jesse.html": {
+"published": "2026-10-19"
+},
+"/colton-t.html": {
+"published": "2026-10-23"
+},
+"/comment-faire-un-beat-bouyon.html": {
+"published": "2026-10-16"
+},
+"/contour-airlines-dominique-trinite.html": {
+"published": "2026-11-03"
+},
+"/corane-vincent.html": {
+"published": "2026-10-16"
+},
+"/cornell-phillip.html": {
+"published": "2026-11-03"
+},
+"/croisiere-dominique-2026-2027.html": {
+"published": "2026-11-04"
+},
+"/cross-vibes-band.html": {
+"published": "2026-10-23"
+},
+"/cuenta-ronisia-meryl-shay.html": {
+"published": "2026-11-03",
+"modified": "2026-10-24"
+},
+"/cut-eye-riddim.html": {
+"published": "2026-05-25"
+},
+"/d-mitri.html": {
+"published": "2026-09-01",
+"modified": "2012-01-13"
+},
+"/d0-production-machine-gwada.html": {
+"published": "2026-09-18"
+},
+"/d0-production.html": {
+"published": "2026-10-16"
+},
+"/d4a-nillio.html": {
+"published": "2026-10-20"
+},
+"/dada.html": {
+"modified": "2024-10-01"
+},
+"/daddy-chess.html": {
+"modified": "2026-02-14"
+},
+"/daddy-keyz.html": {
+"published": "2026-10-27"
+},
+"/daddy2sec.html": {
+"modified": "2025-12-05"
+},
+"/dalibido-6dl.html": {
+"published": "2026-10-27",
+"modified": "2026-10-27"
+},
+"/daly.html": {
+"modified": "2024-06-20"
+},
+"/dancehall-bouyon.html": {
+"modified": "2025-12-01"
+},
+"/david-campana.html": {
+"published": "2026-10-17"
+},
+"/dboss.html": {
+"published": "2026-10-20"
+},
+"/dcamp-lewismelo.html": {
+"published": "2026-10-01"
+},
+"/dcamp.html": {
+"modified": "2025-01-24"
+},
+"/debouyon-riddim.html": {
+"published": "2026-10-28",
+"modified": "2026-10-28"
+},
+"/dee-zen.html": {
+"published": "2026-09-25"
+},
+"/deearr.html": {
+"published": "2026-10-01"
+},
+"/deejay-guyguy.html": {
+"published": "2026-10-01"
+},
+"/deejay-twix.html": {
+"published": "2026-10-20"
+},
+"/deluxe-f.html": {
+"modified": "2025-09-01"
+},
+"/denden.html": {
+"modified": "2025-07-01"
+},
+"/denmath.html": {
+"published": "2026-10-17"
+},
+"/dennery-segment.html": {
+"modified": "2018-01-01"
+},
+"/derek-rah-peters.html": {
+"modified": "2025-11-01"
+},
+"/dernel-green.html": {
+"published": "2026-06-11"
+},
+"/detal.html": {
+"published": "2026-10-23"
+},
+"/devon-george.html": {
+"published": "2026-07-25"
+},
+"/dexterman.html": {
+"published": "2026-06-01"
+},
+"/dezod.html": {
+"modified": "2025-12-01"
+},
+"/diabete-dominique-domda-2026.html": {
+"published": "2026-11-03"
+},
+"/diixly.html": {
+"published": "2026-07-01"
+},
+"/dinho.html": {
+"published": "2026-06-01"
+},
+"/diyoute.html": {
+"modified": "2025-10-01"
+},
+"/dj-blax.html": {
+"published": "2026-10-17"
+},
+"/dj-boko.html": {
+"modified": "2025-06-04"
+},
+"/dj-cut.html": {
+"modified": "2025-12-03"
+},
+"/dj-demafidem.html": {
+"modified": "2025-05-21"
+},
+"/dj-dirtee.html": {
+"modified": "2026-01-29"
+},
+"/dj-eyedol.html": {
+"modified": "2025-05-01"
+},
+"/dj-flip-tha-boss.html": {
+"published": "2026-11-03"
+},
+"/dj-joe.html": {
+"modified": "2025-04-24"
+},
+"/dj-kalli.html": {
+"published": "2026-10-27"
+},
+"/dj-killerz.html": {
+"published": "2026-06-11"
+},
+"/dj-kwab.html": {
+"published": "2026-11-04"
+},
+"/dj-leguste.html": {
+"modified": "2025-12-12"
+},
+"/dj-luchshiy.html": {
+"published": "2026-04-01"
+},
+"/dj-mj.html": {
+"published": "2026-10-25"
+},
+"/dj-ramses.html": {
+"published": "2026-06-16"
+},
+"/dj-skaytah.html": {
+"published": "2026-04-12"
+},
+"/dj-skycee.html": {
+"modified": "2026-02-06"
+},
+"/dj-skylone.html": {
+"modified": "2025-12-19"
+},
+"/dj-sleem.html": {
+"published": "2026-10-27"
+},
+"/dj-snow.html": {
+"published": "2026-10-27"
+},
+"/dj-softee.html": {
+"published": "2026-10-01",
+"modified": "2025-09-01"
+},
+"/dj-taffy.html": {
+"published": "2026-11-03"
+},
+"/dj-tkrys.html": {
+"modified": "2026-02-06"
+},
+"/dj-weez.html": {
+"published": "2026-10-01"
+},
+"/dj-wizz767.html": {
+"published": "2026-05-22"
+},
+"/djadja.html": {
+"published": "2026-10-16"
+},
+"/django-de-cayenne.html": {
+"published": "2026-11-05"
+},
+"/djmk-malachi.html": {
+"published": "2026-10-20",
+"modified": "2026-10-20"
+},
+"/doc-fix-dem.html": {
+"modified": "2026-02-06"
+},
+"/doc-fix-it.html": {
+"modified": "2026-02-01"
+},
+"/doc-j.html": {
+"published": "2026-10-01"
+},
+"/dominica-carnival-2026.html": {
+"published": "2026-02-17"
+},
+"/dominique-50-ans-independance.html": {
+"published": "2026-11-04"
+},
+"/don-lash.html": {
+"published": "2026-10-22"
+},
+"/dova.html": {
+"published": "2026-10-22"
+},
+"/dpeng.html": {
+"modified": "2025-12-25"
+},
+"/dr-eevil.html": {
+"published": "2026-10-20",
+"modified": "2026-10-20"
+},
+"/dyonte.html": {
+"published": "2026-10-23"
+},
+"/earlson-matthew.html": {
+"modified": "2025-02-25"
+},
+"/ebony-empress-toufay.html": {
+"published": "2026-10-31"
+},
+"/ebony-empress.html": {
+"published": "2026-11-04"
+},
+"/edday.html": {
+"published": "2026-10-25"
+},
+"/effects-band.html": {
+"published": "2026-10-01"
+},
+"/eks.html": {
+"published": "2026-06-01"
+},
+"/en/": {
+"published": "2026-10-01"
+},
+"/en/1t1.html": {
+"modified": "2026-01-30"
+},
+"/en/a-plus-musik.html": {
+"published": "2026-10-25"
+},
+"/en/ac-tafari.html": {
+"published": "2026-10-27"
+},
+"/en/acce-carter.html": {
+"published": "2026-10-20"
+},
+"/en/aderito-depina.html": {
+"published": "2026-10-20"
+},
+"/en/admiral-t.html": {
+"published": "2026-10-29",
+"modified": "2026-10-29"
+},
+"/en/aknose.html": {
+"modified": "2026-01-03"
+},
+"/en/alkpote.html": {
+"published": "2026-11-04"
+},
+"/en/all-star-band.html": {
+"published": "2026-06-01"
+},
+"/en/alpha.html": {
+"published": "2026-10-01"
+},
+"/en/anonymous-gyals.html": {
+"published": "2026-10-30"
+},
+"/en/arden-p.html": {
+"published": "2026-09-01",
+"modified": "2026-02-24"
+},
+"/en/arendi.html": {
+"published": "2026-10-01"
+},
+"/en/artists-dominica.html": {
+"published": "2026-10-25"
+},
+"/en/artists-guadeloupe.html": {
+"published": "2026-10-20"
+},
+"/en/artists-martinique.html": {
+"published": "2026-10-23"
+},
+"/en/artists.html": {
+"published": "2026-10-09"
+},
+"/en/asa-bantan-wcmf-2026-entrance.html": {
+"published": "2026-11-03"
+},
+"/en/asa-bantan.html": {
+"published": "2026-10-24"
+},
+"/en/avatar-omish.html": {
+"published": "2026-11-02",
+"modified": "2026-10-18"
+},
+"/en/backside-riddim.html": {
+"published": "2026-10-31"
+},
+"/en/bad-gyal-shyanne.html": {
+"published": "2026-11-03"
+},
+"/en/bajan-balotelli.html": {
+"published": "2026-07-10"
+},
+"/en/banklaady.html": {
+"published": "2026-11-06"
+},
+"/en/baps.html": {
+"published": "2026-10-20"
+},
+"/en/beevo.html": {
+"published": "2026-11-04"
+},
+"/en/benji.html": {
+"published": "2026-10-23"
+},
+"/en/bermixx.html": {
+"published": "2026-10-10"
+},
+"/en/bernard-gumbs-wizito.html": {
+"modified": "2025-08-01"
+},
+"/en/best-bouyon.html": {
+"published": "2026-10-01",
+"modified": "2026-01-03"
+},
+"/en/big-red-hd.html": {
+"published": "2026-10-27"
+},
+"/en/bilix.html": {
+"modified": "2025-07-10"
+},
+"/en/billy-bybf.html": {
+"published": "2026-10-16"
+},
+"/en/binksdrick.html": {
+"modified": "2024-12-13"
+},
+"/en/bismok.html": {
+"published": "2026-07-15"
+},
+"/en/bkz.html": {
+"published": "2026-09-16"
+},
+"/en/blaka-dan.html": {
+"published": "2026-10-29"
+},
+"/en/blicassty.html": {
+"published": "2026-11-04"
+},
+"/en/bobo-bantan.html": {
+"published": "2026-10-11"
+},
+"/en/bonna.html": {
+"published": "2026-10-17"
+},
+"/en/boogy-rankss.html": {
+"published": "2026-11-03"
+},
+"/en/boston-chery.html": {
+"published": "2026-10-16"
+},
+"/en/bouyon-and-kweyol.html": {
+"published": "2026-10-22"
+},
+"/en/bouyon-bad-riddim.html": {
+"published": "2026-10-31",
+"modified": "2026-10-29"
+},
+"/en/bouyon-boyz-nations-league-2026.html": {
+"published": "2026-11-03"
+},
+"/en/bouyon-bpm.html": {
+"published": "2026-09-25"
+},
+"/en/bouyon-branches-family-tree.html": {
+"published": "2026-10-20"
+},
+"/en/bouyon-dance.html": {
+"published": "2026-10-16"
+},
+"/en/bouyon-diaspora.html": {
+"modified": "2025-08-28"
+},
+"/en/bouyon-drum-kit.html": {
+"published": "2026-10-01"
+},
+"/en/bouyon-drum-riddim.html": {
+"published": "2026-10-28",
+"modified": "2026-10-28"
+},
+"/en/bouyon-glossary.html": {
+"published": "2026-10-22"
+},
+"/en/bouyon-goes-global.html": {
+"published": "2026-11-01"
+},
+"/en/bouyon-guyane.html": {
+"modified": "2023-05-27"
+},
+"/en/bouyon-gwada-vs-dominica.html": {
+"published": "2026-10-31"
+},
+"/en/bouyon-gwada.html": {
+"modified": "2025-12-01"
+},
+"/en/bouyon-instrumental.html": {
+"published": "2026-10-16"
+},
+"/en/bouyon-keyboards.html": {
+"published": "2026-09-25"
+},
+"/en/bouyon-martinique.html": {
+"published": "2026-10-09"
+},
+"/en/bouyon-mix.html": {
+"modified": "2026-02-01"
+},
+"/en/bouyon-moderne.html": {
+"modified": "2023-03-22"
+},
+"/en/bouyon-music-2026-mix-vol-1.html": {
+"published": "2026-11-03"
+},
+"/en/bouyon-music-2026.html": {
+"published": "2026-10-25",
+"modified": "2026-10-19"
+},
+"/en/bouyon-paris.html": {
+"published": "2026-10-20"
+},
+"/en/bouyon-producers.html": {
+"published": "2026-09-18"
+},
+"/en/bouyon-rave-riddim.html": {
+"published": "2026-10-28",
+"modified": "2026-10-28"
+},
+"/en/bouyon-riddim.html": {
+"published": "2026-09-18",
+"modified": "2026-02-13"
+},
+"/en/bouyon-riddims-list.html": {
+"published": "2026-05-25"
+},
+"/en/bouyon-saint-lucia.html": {
+"modified": "2019-03-01"
+},
+"/en/bouyon-saint-martin.html": {
+"published": "2026-10-31"
+},
+"/en/bouyon-shattaz.html": {
+"published": "2026-10-01"
+},
+"/en/bouyon-soca.html": {
+"published": "2026-10-25",
+"modified": "2025-01-01"
+},
+"/en/bouyon-songs.html": {
+"published": "2026-10-16"
+},
+"/en/bouyon-type-beat.html": {
+"published": "2026-10-16"
+},
+"/en/bouyon-vs-soca.html": {
+"published": "2026-10-25"
+},
+"/en/bouyon-vs-zouk.html": {
+"published": "2026-10-31"
+},
+"/en/boy-freeze.html": {
+"published": "2026-10-01"
+},
+"/en/brg-hollywood.html": {
+"published": "2026-09-01"
+},
+"/en/brian-lomba.html": {
+"modified": "2024-06-08"
+},
+"/en/bunji-garlin.html": {
+"modified": "2024-02-09"
+},
+"/en/burn-brain-jolly.html": {
+"modified": "2026-01-01"
+},
+"/en/bushtown-clan.html": {
+"modified": "2025-12-03"
+},
+"/en/c4.html": {
+"published": "2026-10-20"
+},
+"/en/cadence-lypso-roots.html": {
+"published": "2026-10-23"
+},
+"/en/cadence-lypso.html": {
+"published": "2026-10-23"
+},
+"/en/candy.html": {
+"published": "2026-10-27"
+},
+"/en/capleton-wcmf-2026.html": {
+"published": "2026-11-03"
+},
+"/en/caribbean-music-awards-2026-bouyon.html": {
+"published": "2026-11-02"
+},
+"/en/carlyn-xp.html": {
+"modified": "2019-02-14"
+},
+"/en/caspa-g.html": {
+"published": "2026-04-01"
+},
+"/en/cbgyvngsta.html": {
+"published": "2026-10-15"
+},
+"/en/cdb-loan-dominica-2026.html": {
+"published": "2026-11-03"
+},
+"/en/champion-riddim.html": {
+"published": "2026-05-25"
+},
+"/en/chief.html": {
+"published": "2026-10-20",
+"modified": "2026-10-20"
+},
+"/en/chioneso.html": {
+"published": "2026-10-20"
+},
+"/en/chronic-law.html": {
+"published": "2026-11-03"
+},
+"/en/ck-gee.html": {
+"published": "2026-05-22"
+},
+"/en/claudette-peters.html": {
+"published": "2026-10-27"
+},
+"/en/clint-h.html": {
+"modified": "2020-02-20"
+},
+"/en/cocotteland.html": {
+"published": "2026-10-20"
+},
+"/en/college-boy-jesse.html": {
+"published": "2026-10-19"
+},
+"/en/colton-t.html": {
+"published": "2026-10-23"
+},
+"/en/contour-airlines-dominica-trinidad.html": {
+"published": "2026-11-03"
+},
+"/en/corane-vincent.html": {
+"published": "2026-10-16"
+},
+"/en/cornell-phillip.html": {
+"published": "2026-11-03"
+},
+"/en/cross-vibes-band.html": {
+"published": "2026-10-23"
+},
+"/en/cuenta-ronisia-meryl-shay.html": {
+"published": "2026-11-03",
+"modified": "2026-10-24"
+},
+"/en/cut-eye-riddim.html": {
+"published": "2026-05-25"
+},
+"/en/d-mitri.html": {
+"published": "2026-09-01",
+"modified": "2012-01-13"
+},
+"/en/d0-production-gwada-machine.html": {
+"published": "2026-09-18"
+},
+"/en/d0-production.html": {
+"published": "2026-10-16"
+},
+"/en/d4a-nillio.html": {
+"published": "2026-10-20"
+},
+"/en/dada.html": {
+"modified": "2024-10-01"
+},
+"/en/daddy-chess.html": {
+"modified": "2026-02-14"
+},
+"/en/daddy-keyz.html": {
+"published": "2026-10-27"
+},
+"/en/daddy2sec.html": {
+"modified": "2025-12-05"
+},
+"/en/dalibido-6dl.html": {
+"published": "2026-10-27",
+"modified": "2026-10-27"
+},
+"/en/daly.html": {
+"modified": "2024-06-20"
+},
+"/en/dancehall-bouyon.html": {
+"modified": "2025-12-01"
+},
+"/en/david-campana.html": {
+"published": "2026-10-17"
+},
+"/en/dboss.html": {
+"published": "2026-10-20"
+},
+"/en/dcamp-lewismelo.html": {
+"published": "2026-10-01"
+},
+"/en/dcamp.html": {
+"modified": "2025-01-24"
+},
+"/en/debouyon-riddim.html": {
+"published": "2026-10-28",
+"modified": "2026-10-28"
+},
+"/en/dee-zen.html": {
+"published": "2026-09-25"
+},
+"/en/deearr.html": {
+"published": "2026-10-01"
+},
+"/en/deejay-guyguy.html": {
+"published": "2026-10-01"
+},
+"/en/deejay-twix.html": {
+"published": "2026-10-20"
+},
+"/en/deluxe-f.html": {
+"modified": "2025-09-01"
+},
+"/en/denden.html": {
+"modified": "2025-07-01"
+},
+"/en/denmath.html": {
+"published": "2026-10-17"
+},
+"/en/dennery-segment.html": {
+"modified": "2018-01-01"
+},
+"/en/derek-rah-peters.html": {
+"modified": "2025-11-01"
+},
+"/en/dernel-green.html": {
+"published": "2026-06-11"
+},
+"/en/detal.html": {
+"published": "2026-10-23"
+},
+"/en/devon-george.html": {
+"published": "2026-07-25"
+},
+"/en/dexterman.html": {
+"published": "2026-06-01"
+},
+"/en/dezod.html": {
+"modified": "2025-12-01"
+},
+"/en/diixly.html": {
+"published": "2026-07-01"
+},
+"/en/dinho.html": {
+"published": "2026-06-01"
+},
+"/en/diyoute.html": {
+"modified": "2025-10-01"
+},
+"/en/dj-blax.html": {
+"published": "2026-10-17"
+},
+"/en/dj-boko.html": {
+"modified": "2025-06-04"
+},
+"/en/dj-cut.html": {
+"modified": "2025-12-03"
+},
+"/en/dj-demafidem.html": {
+"modified": "2025-05-21"
+},
+"/en/dj-dirtee.html": {
+"modified": "2026-01-29"
+},
+"/en/dj-eyedol.html": {
+"modified": "2025-05-01"
+},
+"/en/dj-flip-tha-boss.html": {
+"published": "2026-11-03"
+},
+"/en/dj-joe.html": {
+"modified": "2025-04-24"
+},
+"/en/dj-kalli.html": {
+"published": "2026-10-27"
+},
+"/en/dj-killerz.html": {
+"published": "2026-06-11"
+},
+"/en/dj-kwab.html": {
+"published": "2026-11-04"
+},
+"/en/dj-leguste.html": {
+"modified": "2025-12-12"
+},
+"/en/dj-luchshiy.html": {
+"published": "2026-04-01"
+},
+"/en/dj-mj.html": {
+"published": "2026-10-25"
+},
+"/en/dj-ramses.html": {
+"published": "2026-06-16"
+},
+"/en/dj-skaytah.html": {
+"published": "2026-04-12"
+},
+"/en/dj-skycee.html": {
+"modified": "2026-02-06"
+},
+"/en/dj-skylone.html": {
+"modified": "2025-12-19"
+},
+"/en/dj-sleem.html": {
+"published": "2026-10-27"
+},
+"/en/dj-snow.html": {
+"published": "2026-10-27"
+},
+"/en/dj-softee.html": {
+"published": "2026-10-01",
+"modified": "2025-09-01"
+},
+"/en/dj-taffy.html": {
+"published": "2026-11-03"
+},
+"/en/dj-tkrys.html": {
+"modified": "2026-02-06"
+},
+"/en/dj-weez.html": {
+"published": "2026-10-01"
+},
+"/en/dj-wizz767.html": {
+"published": "2026-05-22"
+},
+"/en/djadja.html": {
+"published": "2026-10-16"
+},
+"/en/django-de-cayenne.html": {
+"published": "2026-11-05"
+},
+"/en/djmk-malachi.html": {
+"published": "2026-10-20",
+"modified": "2026-10-20"
+},
+"/en/doc-fix-dem.html": {
+"modified": "2026-02-06"
+},
+"/en/doc-fix-it.html": {
+"modified": "2026-02-01"
+},
+"/en/doc-j.html": {
+"published": "2026-10-01"
+},
+"/en/dominica-50th-independence-anniversary.html": {
+"published": "2026-11-04"
+},
+"/en/dominica-cable-car-2026.html": {
+"published": "2026-11-03"
+},
+"/en/dominica-carnival-2026.html": {
+"published": "2026-02-17"
+},
+"/en/dominica-carnival.html": {
+"published": "2026-02-14"
+},
+"/en/dominica-community-service-day-2026.html": {
+"published": "2026-11-04"
+},
+"/en/dominica-cruise-season-2026-2027.html": {
+"published": "2026-11-04"
+},
+"/en/dominica-diabetes-domda-2026.html": {
+"published": "2026-11-03"
+},
+"/en/dominica-flag-day-2026.html": {
+"published": "2026-11-03"
+},
+"/en/dominica-geothermal-2026.html": {
+"published": "2026-11-02"
+},
+"/en/dominica-heritage-day-2026.html": {
+"published": "2026-11-03"
+},
+"/en/dominica-independence-2026-day-guide.html": {
+"published": "2026-11-04"
+},
+"/en/dominica-independence-2026.html": {
+"published": "2026-11-04"
+},
+"/en/dominica-independence-awards-2026.html": {
+"published": "2026-11-03"
+},
+"/en/dominica-national-day-2026.html": {
+"published": "2026-11-04"
+},
+"/en/dominica-national-schools-awards-2026.html": {
+"published": "2026-11-04"
+},
+"/en/dominica-ports-private-investment-2026.html": {
+"published": "2026-11-03"
+},
+"/en/dominica-youth-rally-2026.html": {
+"published": "2026-11-03"
+},
+"/en/don-lash.html": {
+"published": "2026-10-22"
+},
+"/en/dova.html": {
+"published": "2026-10-22"
+},
+"/en/dpeng.html": {
+"modified": "2025-12-25"
+},
+"/en/dr-eevil.html": {
+"published": "2026-10-20",
+"modified": "2026-10-20"
+},
+"/en/dyonte.html": {
+"published": "2026-10-23"
+},
+"/en/earlson-matthew.html": {
+"modified": "2025-02-25"
+},
+"/en/ebony-empress-toufay.html": {
+"published": "2026-10-31"
+},
+"/en/ebony-empress.html": {
+"published": "2026-11-04"
+},
+"/en/edday.html": {
+"published": "2026-10-25"
+},
+"/en/effects-band.html": {
+"published": "2026-10-01"
+},
+"/en/eks.html": {
+"published": "2026-06-01"
+},
+"/en/eo-leblanc-trophy.html": {
+"published": "2026-11-03"
+},
+"/en/erwinchy.html": {
+"published": "2026-10-25"
+},
+"/en/esclav.html": {
+"modified": "2025-05-01"
+},
+"/en/explosive-band.html": {
+"published": "2026-10-22"
+},
+"/en/ezee-wmn.html": {
+"published": "2026-10-19"
+},
+"/en/fadda-fox.html": {
+"published": "2026-05-01"
+},
+"/en/faithii.html": {
+"published": "2026-11-04"
+},
+"/en/fallon-rnbouyon.html": {
+"modified": "2026-02-04"
+},
+"/en/fallon.html": {
+"published": "2026-10-15"
+},
+"/en/fetty-mark.html": {
+"published": "2026-10-01"
+},
+"/en/fiddy-ii.html": {
+"published": "2026-04-18"
+},
+"/en/fifin.html": {
+"published": "2026-06-11"
+},
+"/en/fireman-lee.html": {
+"modified": "2021-02-01"
+},
+"/en/first-serenade-band.html": {
+"published": "2026-10-20"
+},
+"/en/flavours-of-the-world-dominica-2026.html": {
+"published": "2026-11-04"
+},
+"/en/flw.html": {
+"published": "2026-10-20"
+},
+"/en/fowko.html": {
+"published": "2026-10-01"
+},
+"/en/foxy-jael.html": {
+"published": "2026-09-19"
+},
+"/en/fr3eze.html": {
+"published": "2026-07-15"
+},
+"/en/frank-white.html": {
+"modified": "2026-02-01"
+},
+"/en/freddy.html": {
+"published": "2026-10-20"
+},
+"/en/freezy.html": {
+"published": "2026-09-01",
+"modified": "2026-03-02"
+},
+"/en/fucha-kid.html": {
+"published": "2026-07-01"
+},
+"/en/funny-riddim.html": {
+"published": "2026-10-31",
+"modified": "2026-10-29"
+},
+"/en/future-of-bouyon.html": {
+"published": "2026-10-01"
+},
+"/en/gaza-crew.html": {
+"published": "2026-10-01"
+},
+"/en/gaza-girls-crew.html": {
+"published": "2026-10-01"
+},
+"/en/general-pye.html": {
+"published": "2026-10-27"
+},
+"/en/gg3.html": {
+"published": "2026-10-01"
+},
+"/en/ghetto-princess.html": {
+"modified": "2023-09-01"
+},
+"/en/go-fast.html": {
+"published": "2026-10-27"
+},
+"/en/goute-domnik-2026.html": {
+"published": "2026-11-03"
+},
+"/en/green-apple.html": {
+"published": "2026-10-17"
+},
+"/en/gringo-jay.html": {
+"published": "2026-09-26"
+},
+"/en/gwada-chapter-from-dominica.html": {
+"published": "2026-10-01"
+},
+"/en/gwada-g.html": {
+"published": "2026-10-25"
+},
+"/en/gz-up.html": {
+"published": "2026-10-16"
+},
+"/en/halibut.html": {
+"published": "2026-03-30"
+},
+"/en/haterz-be.html": {
+"modified": "2026-02-01"
+},
+"/en/hb-war.html": {
+"published": "2026-10-27",
+"modified": "2026-10-27"
+},
+"/en/heaven-baby-bouyon-remix.html": {
+"published": "2026-11-01"
+},
+"/en/heidy.html": {
+"published": "2026-10-01"
+},
+"/en/high-lights-riddim.html": {
+"published": "2026-10-28"
+},
+"/en/history.html": {
+"published": "2026-11-03",
+"modified": "2026-10-19"
+},
+"/en/holly-g.html": {
+"modified": "2025-12-24"
+},
+"/en/hollyg-je-lai-vu.html": {
+"published": "2026-08-31"
+},
+"/en/how-to-make-a-bouyon-beat.html": {
+"published": "2026-10-16"
+},
+"/en/hussey.html": {
+"published": "2026-07-01"
+},
+"/en/hxnter.html": {
+"published": "2026-10-29"
+},
+"/en/hypno.html": {
+"published": "2026-10-01"
+},
+"/en/ian-stylez.html": {
+"published": "2026-10-01"
+},
+"/en/ignition-band.html": {
+"published": "2026-10-25"
+},
+"/en/imran-nerdy.html": {
+"published": "2026-04-16"
+},
+"/en/j-lion.html": {
+"published": "2026-10-01"
+},
+"/en/j2mo.html": {
+"published": "2026-10-20"
+},
+"/en/jab-king.html": {
+"published": "2026-10-27"
+},
+"/en/jasse.html": {
+"published": "2026-10-20"
+},
+"/en/jauwan-hadaway.html": {
+"published": "2026-10-23"
+},
+"/en/jayanti.html": {
+"published": "2026-11-03"
+},
+"/en/jcro.html": {
+"published": "2026-07-01"
+},
+"/en/jixels.html": {
+"published": "2026-05-22"
+},
+"/en/jl8.html": {
+"modified": "2024-01-05"
+},
+"/en/joli-bb-reo-maurane-voyer.html": {
+"published": "2026-11-03"
+},
+"/en/jordan-english.html": {
+"published": "2026-10-23"
+},
+"/en/jounen-kweyol-2026-day-guide.html": {
+"published": "2026-11-03"
+},
+"/en/jounen-kweyol-2026.html": {
+"published": "2026-11-03"
+},
+"/en/jouvert.html": {
+"published": "2026-10-31"
+},
+"/en/judi-silva.html": {
+"modified": "2025-12-19"
+},
+"/en/kai-du-m.html": {
+"published": "2026-07-01"
+},
+"/en/kanna.html": {
+"published": "2026-10-01"
+},
+"/en/kas-matik.html": {
+"published": "2026-06-10"
+},
+"/en/kassidje.html": {
+"published": "2026-10-01"
+},
+"/en/kaution-band.html": {
+"published": "2026-05-08"
+},
+"/en/keith-goddard.html": {
+"published": "2026-06-16"
+},
+"/en/keke.html": {
+"published": "2026-10-23"
+},
+"/en/keks-mafia.html": {
+"published": "2026-10-01"
+},
+"/en/kenny-g-dominica.html": {
+"published": "2026-10-22"
+},
+"/en/kentin-fcn.html": {
+"published": "2026-07-01"
+},
+"/en/kenzii-bwa.html": {
+"modified": "2022-02-27"
+},
+"/en/keros-n.html": {
+"published": "2026-07-22"
+},
+"/en/kevni.html": {
+"modified": "2025-10-01"
+},
+"/en/keytzone.html": {
+"published": "2026-10-20"
+},
+"/en/khallion.html": {
+"published": "2026-09-24"
+},
+"/en/killa-laurent.html": {
+"modified": "2025-01-26"
+},
+"/en/kilogram.html": {
+"published": "2026-04-24"
+},
+"/en/king-dice.html": {
+"published": "2026-10-16"
+},
+"/en/king-kembe.html": {
+"modified": "2026-01-01"
+},
+"/en/king-low-rider.html": {
+"published": "2026-11-04"
+},
+"/en/king-tipsy.html": {
+"modified": "2025-12-12"
+},
+"/en/kisha-kay.html": {
+"modified": "2023-08-01"
+},
+"/en/kkrytical.html": {
+"published": "2026-10-17"
+},
+"/en/klass-money.html": {
+"published": "2026-10-17"
+},
+"/en/klassik-frescobar.html": {
+"published": "2026-06-01"
+},
+"/en/konshens.html": {
+"published": "2026-07-01"
+},
+"/en/kross-vybez.html": {
+"modified": "2026-01-03"
+},
+"/en/kryptic-riddim.html": {
+"published": "2026-10-28",
+"modified": "2026-10-28"
+},
+"/en/krys.html": {
+"published": "2026-11-03"
+},
+"/en/ktb.html": {
+"published": "2026-04-25"
+},
+"/en/kubu.html": {
+"published": "2026-10-16"
+},
+"/en/kwib-la-beats.html": {
+"published": "2026-10-01"
+},
+"/en/laka.html": {
+"published": "2026-05-22"
+},
+"/en/larose.html": {
+"published": "2026-10-15"
+},
+"/en/le-bluff.html": {
+"modified": "2025-03-16"
+},
+"/en/le-cus.html": {
+"published": "2026-08-21"
+},
+"/en/le-daah.html": {
+"published": "2026-06-01"
+},
+"/en/le-det.html": {
+"published": "2026-10-01",
+"modified": "2025-03-22"
+},
+"/en/le-dext.html": {
+"published": "2026-10-01"
+},
+"/en/le-matt.html": {
+"modified": "2025-12-26"
+},
+"/en/le-rebelle.html": {
+"published": "2026-05-29"
+},
+"/en/legacy-band.html": {
+"published": "2026-10-01"
+},
+"/en/lejuh.html": {
+"modified": "2025-12-13"
+},
+"/en/leken-sm.html": {
+"modified": "2025-10-31"
+},
+"/en/les-curvyzz.html": {
+"published": "2026-10-23"
+},
+"/en/les-ptits-du-rzt.html": {
+"published": "2026-10-10"
+},
+"/en/leseb.html": {
+"published": "2026-10-01"
+},
+"/en/lestef-kjf-boyz.html": {
+"modified": "2026-01-02"
+},
+"/en/letin-severine.html": {
+"published": "2026-07-15"
+},
+"/en/letin-sylia.html": {
+"published": "2026-10-01"
+},
+"/en/lewismelo.html": {
+"modified": "2025-02-01"
+},
+"/en/leyou.html": {
+"modified": "2025-06-06"
+},
+"/en/lgc.html": {
+"modified": "2025-12-19"
+},
+"/en/link-up-riddim.html": {
+"published": "2026-06-23"
+},
+"/en/litleboy-lsbeats767.html": {
+"published": "2026-10-01"
+},
+"/en/lms.html": {
+"published": "2026-08-21"
+},
+"/en/louse-king.html": {
+"published": "2026-05-22"
+},
+"/en/lov-nee.html": {
+"published": "2026-08-14"
+},
+"/en/lu-city.html": {
+"published": "2026-11-03"
+},
+"/en/luky-lukee.html": {
+"published": "2026-07-01"
+},
+"/en/lunik.html": {
+"modified": "2025-07-10"
+},
+"/en/lyrical-k.html": {
+"published": "2026-10-20",
+"modified": "2026-10-20"
+},
+"/en/lyrikal.html": {
+"published": "2026-10-23"
+},
+"/en/ma6mo.html": {
+"modified": "2022-07-08"
+},
+"/en/machel-montano.html": {
+"published": "2026-10-25"
+},
+"/en/mad-general.html": {
+"modified": "2025-07-01"
+},
+"/en/madam-wob-dwiyet-2026-results.html": {
+"published": "2026-11-03"
+},
+"/en/madam-wob-dwiyet-2026.html": {
+"published": "2026-11-04"
+},
+"/en/madamezelle.html": {
+"published": "2026-11-04",
+"modified": "2026-11-03"
+},
+"/en/magbeatz.html": {
+"published": "2026-10-16"
+},
+"/en/magikal.html": {
+"published": "2026-10-27"
+},
+"/en/magistral-beats.html": {
+"published": "2026-08-01"
+},
+"/en/major-lazer.html": {
+"modified": "2026-01-29"
+},
+"/en/major-mystic.html": {
+"published": "2026-10-23"
+},
+"/en/malcolm.html": {
+"published": "2026-10-16"
+},
+"/en/malko.html": {
+"published": "2026-07-01"
+},
+"/en/managyalis.html": {
+"published": "2026-10-16"
+},
+"/en/marf.html": {
+"published": "2026-10-20"
+},
+"/en/marshee.html": {
+"published": "2026-10-20"
+},
+"/en/marwa-loud-pim-pom-bouyon.html": {
+"published": "2026-11-03"
+},
+"/en/mas-domnik-2027.html": {
+"published": "2026-11-03"
+},
+"/en/mathieu-richardson.html": {
+"published": "2026-10-16"
+},
+"/en/maurane-voyer.html": {
+"published": "2026-10-23"
+},
+"/en/maureen-shatta.html": {
+"modified": "2025-10-24"
+},
+"/en/mb-on-the-track.html": {
+"published": "2026-10-17"
+},
+"/en/messemupbeats.html": {
+"published": "2026-10-23"
+},
+"/en/midnight-groovers.html": {
+"published": "2026-10-23"
+},
+"/en/miimii-kds-6-oclock.html": {
+"published": "2026-08-31"
+},
+"/en/miimii-kds.html": {
+"published": "2026-10-02"
+},
+"/en/mikty.html": {
+"published": "2026-06-01"
+},
+"/en/miky-ding-la.html": {
+"published": "2026-10-01"
+},
+"/en/miss-dominica-2026-bouyon-bloom.html": {
+"published": "2026-11-03"
+},
+"/en/miss-wob-dwiyet-2026.html": {
+"published": "2026-11-03"
+},
+"/en/money-shaun.html": {
+"published": "2026-09-01"
+},
+"/en/mopao-mumu.html": {
+"published": "2026-06-11"
+},
+"/en/motto.html": {
+"published": "2026-10-27"
+},
+"/en/mr-boka.html": {
+"modified": "2016-01-12"
+},
+"/en/mr-delly.html": {
+"modified": "2025-04-01"
+},
+"/en/mr-gwada.html": {
+"published": "2026-11-04"
+},
+"/en/mr-vegas.html": {
+"published": "2026-09-01"
+},
+"/en/msina.html": {
+"modified": "2023-06-23"
+},
+"/en/mv-on-de-keys.html": {
+"published": "2026-10-27"
+},
+"/en/mystrie.html": {
+"modified": "2024-05-18"
+},
+"/en/nailah-blackman.html": {
+"published": "2026-10-01"
+},
+"/en/national-cultural-gala-2026-day-guide.html": {
+"published": "2026-11-01"
+},
+"/en/national-cultural-gala-2026.html": {
+"published": "2026-11-03"
+},
+"/en/natoxie.html": {
+"published": "2026-07-01"
+},
+"/en/nattybill.html": {
+"published": "2026-10-01"
+},
+"/en/ncore.html": {
+"published": "2026-10-20"
+},
+"/en/nensha.html": {
+"modified": "2022-08-12"
+},
+"/en/nessa-preppy.html": {
+"published": "2026-11-04"
+},
+"/en/new-bouyon-2026.html": {
+"published": "2026-11-01"
+},
+"/en/new-bouyon.html": {
+"modified": "2024-12-01"
+},
+"/en/nfl-lil-brent.html": {
+"published": "2026-10-20"
+},
+"/en/nice.html": {
+"published": "2026-10-25"
+},
+"/en/nicolas-macbeth.html": {
+"modified": "2025-09-26"
+},
+"/en/nicy.html": {
+"published": "2026-07-22"
+},
+"/en/nils.html": {
+"published": "2026-11-04"
+},
+"/en/niska.html": {
+"published": "2026-10-01"
+},
+"/en/noface-beatz.html": {
+"published": "2026-10-27"
+},
+"/en/nothing-into-something-bouyon-remix.html": {
+"published": "2026-10-19"
+},
+"/en/novy.html": {
+"published": "2026-09-26"
+},
+"/en/nursery-krew-inc.html": {
+"modified": "2025-12-03"
+},
+"/en/october-31-2026-dominica-events.html": {
+"published": "2026-11-03"
+},
+"/en/og-park.html": {
+"published": "2026-07-01"
+},
+"/en/okra-slime-riddim.html": {
+"published": "2026-10-28"
+},
+"/en/old-school-bouyon.html": {
+"modified": "2025-10-01"
+},
+"/en/orgixx.html": {
+"published": "2026-10-29",
+"modified": "2026-10-29"
+},
+"/en/oso-j.html": {
+"published": "2026-10-08"
+},
+"/en/pa-pel.html": {
+"published": "2026-10-22"
+},
+"/en/pahjo.html": {
+"published": "2026-06-01"
+},
+"/en/patrice-roberts.html": {
+"modified": "2023-02-03"
+},
+"/en/pelau-riddim.html": {
+"modified": "2026-01-13"
+},
+"/en/photos/doc-j.html": {
+"modified": "2012-07-01"
+},
+"/en/photos/ghetto-princess.html": {
+"modified": "2013-03-01"
+},
+"/en/pinpin-osp.html": {
+"modified": "2024-10-01"
+},
+"/en/playlist-bouyon.html": {
+"published": "2026-10-19"
+},
+"/en/playlist-shatta.html": {
+"modified": "2021-02-05"
+},
+"/en/pow-pow-allo-doudou.html": {
+"published": "2026-11-02"
+},
+"/en/poyzin.html": {
+"published": "2026-10-01"
+},
+"/en/problem-child.html": {
+"published": "2026-09-01"
+},
+"/en/prod-bysavion.html": {
+"published": "2026-10-01"
+},
+"/en/producers-and-passers.html": {
+"published": "2026-10-16"
+},
+"/en/pryhmex.html": {
+"published": "2026-10-22",
+"modified": "2026-10-20"
+},
+"/en/pslbeat.html": {
+"published": "2026-10-20"
+},
+"/en/pudaz.html": {
+"published": "2026-10-23"
+},
+"/en/pumpa.html": {
+"published": "2026-04-13"
+},
+"/en/punz.html": {
+"published": "2026-10-27"
+},
+"/en/quan-de-artist.html": {
+"published": "2026-10-27"
+},
+"/en/quan.html": {
+"published": "2026-11-03"
+},
+"/en/que.html": {
+"published": "2026-10-29"
+},
+"/en/queen-paranoya.html": {
+"published": "2026-10-23",
+"modified": "2026-10-23"
+},
+"/en/qwann.html": {
+"modified": "2023-03-24"
+},
+"/en/r-b-m.html": {
+"published": "2026-10-27",
+"modified": "2026-10-27"
+},
+"/en/rags-bouyon-road-march.html": {
+"published": "2026-08-31"
+},
+"/en/ransom-beatz.html": {
+"published": "2026-07-05"
+},
+"/en/ras-b.html": {
+"published": "2026-10-17"
+},
+"/en/real-reel.html": {
+"published": "2026-10-22"
+},
+"/en/redpunchdrip.html": {
+"published": "2026-08-11"
+},
+"/en/redz.html": {
+"published": "2026-10-15"
+},
+"/en/reketeng.html": {
+"modified": "2025-12-03"
+},
+"/en/remix-bouyon.html": {
+"published": "2026-10-31"
+},
+"/en/reo.html": {
+"published": "2026-10-24"
+},
+"/en/ricardo-drue.html": {
+"modified": "2023-06-21"
+},
+"/en/ricky-bishop.html": {
+"published": "2026-10-20"
+},
+"/en/riddim-knockaz.html": {
+"published": "2026-10-22"
+},
+"/en/riddla.html": {
+"modified": "2024-07-01"
+},
+"/en/ridge.html": {
+"published": "2026-10-23"
+},
+"/en/riko.html": {
+"published": "2026-11-04"
+},
+"/en/risingsun.html": {
+"published": "2026-10-20"
+},
+"/en/rnbouyon.html": {
+"modified": "2026-02-01"
+},
+"/en/road-fever-compilation.html": {
+"modified": "2025-05-12"
+},
+"/en/rohie.html": {
+"modified": "2025-10-26"
+},
+"/en/roslyn-paul-cultural-elder-2026.html": {
+"published": "2026-11-03"
+},
+"/en/rsb.html": {
+"modified": "2012-12-01"
+},
+"/en/rudy-rush-here-for-you.html": {
+"published": "2026-11-03"
+},
+"/en/rudy-rush.html": {
+"published": "2026-10-01"
+},
+"/en/rum-lawd.html": {
+"published": "2026-07-01"
+},
+"/en/sa-sa-sammy.html": {
+"published": "2026-06-01"
+},
+"/en/saint-lucia-jounen-kweyol-2026.html": {
+"published": "2026-11-03"
+},
+"/en/sandy-boo.html": {
+"published": "2026-10-20"
+},
+"/en/scarnx.html": {
+"modified": "2025-05-21"
+},
+"/en/see-v.html": {
+"published": "2026-10-23"
+},
+"/en/shanika.html": {
+"published": "2026-11-03"
+},
+"/en/shanna-raymond.html": {
+"published": "2026-10-29"
+},
+"/en/sharkie.html": {
+"published": "2026-10-23"
+},
+"/en/shasha.html": {
+"published": "2026-10-16"
+},
+"/en/shashabim.html": {
+"published": "2026-03-27"
+},
+"/en/shattah-ayow.html": {
+"modified": "2025-11-01"
+},
+"/en/shattaween-montreuil-bouyon.html": {
+"published": "2026-11-03"
+},
+"/en/shawn-storm.html": {
+"published": "2026-11-03"
+},
+"/en/shazdown-mmw.html": {
+"published": "2026-10-16"
+},
+"/en/shelly.html": {
+"published": "2026-10-25"
+},
+"/en/shemmy-j.html": {
+"published": "2026-07-15"
+},
+"/en/sheyta.html": {
+"published": "2026-11-03"
+},
+"/en/sick-tonez.html": {
+"published": "2026-06-01"
+},
+"/en/signal-band.html": {
+"published": "2026-10-25"
+},
+"/en/site-map.html": {
+"published": "2026-11-04"
+},
+"/en/skerrit-independence-message-2026.html": {
+"published": "2026-11-04"
+},
+"/en/skillibeng-wcmf-2026.html": {
+"published": "2026-11-04"
+},
+"/en/skinny-banton.html": {
+"published": "2026-04-01"
+},
+"/en/skinny-fabulous.html": {
+"modified": "2025-11-25"
+},
+"/en/skrazy.html": {
+"published": "2026-10-20"
+},
+"/en/sky-geez.html": {
+"published": "2026-07-01"
+},
+"/en/slyme-hoyss.html": {
+"modified": "2025-09-22"
+},
+"/en/smokiller.html": {
+"published": "2026-10-19"
+},
+"/en/soca-inferno.html": {
+"published": "2026-10-01"
+},
+"/en/soca-johnny.html": {
+"modified": "2026-02-01"
+},
+"/en/soca-ras.html": {
+"modified": "2021-07-01"
+},
+"/en/solar-million.html": {
+"published": "2026-10-27"
+},
+"/en/spyout.html": {
+"published": "2026-10-23"
+},
+"/en/stalk-ashley.html": {
+"published": "2026-11-03"
+},
+"/en/starrin.html": {
+"published": "2026-06-19"
+},
+"/en/starsha.html": {
+"modified": "2021-02-11"
+},
+"/en/stella-billy.html": {
+"published": "2026-04-12"
+},
+"/en/sticky.html": {
+"published": "2026-10-20"
+},
+"/en/stratvincybwoy.html": {
+"published": "2026-10-20"
+},
+"/en/strosey.html": {
+"published": "2026-09-14"
+},
+"/en/subance.html": {
+"modified": "2024-10-26"
+},
+"/en/sukie.html": {
+"published": "2026-11-05"
+},
+"/en/sully-jacob.html": {
+"published": "2026-10-27"
+},
+"/en/supalyne.html": {
+"published": "2026-06-11"
+},
+"/en/supaman-enskred.html": {
+"modified": "2026-02-01"
+},
+"/en/supatronic.html": {
+"published": "2026-11-03"
+},
+"/en/super-bouyon-riddim.html": {
+"published": "2026-10-28",
+"modified": "2026-10-28"
+},
+"/en/superk.html": {
+"published": "2026-10-27"
+},
+"/en/suppa.html": {
+"modified": "2024-03-06"
+},
+"/en/sweet-ticky.html": {
+"modified": "2026-01-03"
+},
+"/en/t-c.html": {
+"published": "2026-10-20"
+},
+"/en/tallyboy.html": {
+"published": "2026-10-27"
+},
+"/en/tamillia-bouyon-clip.html": {
+"published": "2026-10-01"
+},
+"/en/tanisha-balson-miss-oecs-2026.html": {
+"published": "2026-11-03"
+},
+"/en/tasmo.html": {
+"published": "2026-10-20"
+},
+"/en/tazzo-thaboss.html": {
+"published": "2026-07-15"
+},
+"/en/tazzy.html": {
+"published": "2026-10-20"
+},
+"/en/team-bwe-tou-sa.html": {
+"published": "2026-06-01"
+},
+"/en/tedla.html": {
+"published": "2026-07-01"
+},
+"/en/tehilah.html": {
+"published": "2026-06-10"
+},
+"/en/tenslay.html": {
+"published": "2026-10-01"
+},
+"/en/tequila-riddim.html": {
+"published": "2026-10-28",
+"modified": "2026-10-28"
+},
+"/en/tete-garcon.html": {
+"modified": "2021-02-20"
+},
+"/en/teyma.html": {
+"published": "2026-11-01"
+},
+"/en/th3rd.html": {
+"published": "2026-10-27"
+},
+"/en/tha-wizzard.html": {
+"published": "2026-10-16"
+},
+"/en/thea-lafond-uwi-honorary-doctorate.html": {
+"published": "2026-11-04"
+},
+"/en/theodora.html": {
+"published": "2026-11-05"
+},
+"/en/theomaa.html": {
+"published": "2026-09-19"
+},
+"/en/thesmsgirls.html": {
+"published": "2026-11-07"
+},
+"/en/throw-dat-bouyon-2026.html": {
+"published": "2026-09-25"
+},
+"/en/ti-al.html": {
+"modified": "2025-08-02"
+},
+"/en/ti-locksee.html": {
+"modified": "2022-07-08"
+},
+"/en/ti-vilaj-kweyol-2026.html": {
+"published": "2026-10-22"
+},
+"/en/tiitii-nba.html": {
+"published": "2026-10-19"
+},
+"/en/timii-mignonne.html": {
+"published": "2026-10-16"
+},
+"/en/tk-international.html": {
+"published": "2026-10-23"
+},
+"/en/tmx-official.html": {
+"published": "2026-09-01"
+},
+"/en/tolly-boys.html": {
+"published": "2026-10-16"
+},
+"/en/totally-spices.html": {
+"published": "2026-11-06"
+},
+"/en/toupit.html": {
+"published": "2026-08-16"
+},
+"/en/trev-li.html": {
+"modified": "2025-11-11"
+},
+"/en/trilla-g.html": {
+"published": "2026-10-16"
+},
+"/en/triszy.html": {
+"published": "2026-07-03"
+},
+"/en/trixx.html": {
+"modified": "2025-08-08"
+},
+"/en/trixzmigos.html": {
+"modified": "2026-02-01"
+},
+"/en/uglyboy.html": {
+"published": "2026-07-01"
+},
+"/en/umpa.html": {
+"published": "2026-10-01"
+},
+"/en/unstoppable-shax.html": {
+"published": "2026-11-03"
+},
+"/en/up-next-cypher-trilla-g.html": {
+"published": "2026-11-03"
+},
+"/en/vador.html": {
+"modified": "2025-10-16"
+},
+"/en/vghn.html": {
+"modified": "2026-01-16"
+},
+"/en/vibez-productionz.html": {
+"published": "2026-10-15"
+},
+"/en/vibwoy.html": {
+"published": "2026-10-27"
+},
+"/en/viv-beats.html": {
+"published": "2026-10-20"
+},
+"/en/vj-ben.html": {
+"published": "2026-10-01"
+},
+"/en/vulnerability-bouyon-remix.html": {
+"published": "2026-10-01"
+},
+"/en/wato-food-festival-dominica-2026.html": {
+"published": "2026-11-04"
+},
+"/en/wawa.html": {
+"modified": "2025-02-18"
+},
+"/en/wck.html": {
+"published": "2026-11-03"
+},
+"/en/wcmf-2026-creole-culture-debate.html": {
+"published": "2026-11-03"
+},
+"/en/wcmf-2026-eve-guide.html": {
+"published": "2026-10-23"
+},
+"/en/wcmf-2026-night-1-report.html": {
+"published": "2026-11-04"
+},
+"/en/wcmf-2026-night-1.html": {
+"published": "2026-10-23"
+},
+"/en/wcmf-2026-night-2-report.html": {
+"published": "2026-11-03"
+},
+"/en/wcmf-2026-night-2.html": {
+"published": "2026-10-24"
+},
+"/en/wcmf-2026-night-3-final-day.html": {
+"published": "2026-10-31"
+},
+"/en/wcmf-2026-night-3-report.html": {
+"published": "2026-11-04"
+},
+"/en/wcmf-2026-night-3.html": {
+"published": "2026-10-25"
+},
+"/en/wcmf-2026-opening-night.html": {
+"published": "2026-10-23"
+},
+"/en/wcmf-2026-tourism.html": {
+"published": "2026-11-03"
+},
+"/en/wcmf-2026-wrap-up.html": {
+"published": "2026-11-02"
+},
+"/en/wcmf-2027.html": {
+"published": "2026-11-04"
+},
+"/en/wcmf-context.html": {
+"published": "2026-10-25"
+},
+"/en/wcmf-creole-festival.html": {
+"published": "2026-10-25"
+},
+"/en/weelow.html": {
+"modified": "2013-05-01"
+},
+"/en/wetty-beatz.html": {
+"published": "2026-10-27"
+},
+"/en/whale-oil-riddim.html": {
+"published": "2026-10-31"
+},
+"/en/where-did-you-come-from-bouyon.html": {
+"published": "2026-08-31"
+},
+"/en/wob-dwiyet-dominica-national-dress.html": {
+"published": "2026-10-28"
+},
+"/en/women-of-bouyon.html": {
+"published": "2026-10-16"
+},
+"/en/world-creole-music-festival.html": {
+"published": "2026-11-03"
+},
+"/en/wotlis.html": {
+"published": "2026-07-04"
+},
+"/en/wrecketeng-vs-new-bouyon.html": {
+"modified": "2025-12-01"
+},
+"/en/wrecketeng.html": {
+"published": "2026-10-18"
+},
+"/en/xavvoknockin.html": {
+"published": "2026-10-01"
+},
+"/en/xs-groove.html": {
+"published": "2026-10-16"
+},
+"/en/yawiar.html": {
+"published": "2026-10-01"
+},
+"/en/yellow-gaza.html": {
+"modified": "2025-11-01"
+},
+"/en/yojoshii.html": {
+"published": "2026-11-03"
+},
+"/en/yoshy-et-lejo.html": {
+"published": "2026-06-27"
+},
+"/en/young-dinero.html": {
+"published": "2026-06-11"
+},
+"/en/young-ob.html": {
+"published": "2026-10-20"
+},
+"/en/youry-fleming.html": {
+"published": "2026-09-01",
+"modified": "2023-04-13"
+},
+"/en/ysn.html": {
+"published": "2026-09-28"
+},
+"/en/yu-mei.html": {
+"published": "2026-10-05"
+},
+"/en/yuniikbeatz.html": {
+"modified": "2025-12-17"
+},
+"/en/zamoni.html": {
+"modified": "2026-01-01"
+},
+"/en/zepek.html": {
+"modified": "2025-07-23"
+},
+"/en/zi.html": {
+"published": "2026-08-01"
+},
+"/en/zone-rouge.html": {
+"published": "2026-10-29"
+},
+"/en/zwady.html": {
+"published": "2026-10-01"
+},
+"/erwinchy.html": {
+"published": "2026-10-25"
+},
+"/esclav.html": {
+"modified": "2025-05-01"
+},
+"/explosive-band.html": {
+"published": "2026-10-22"
+},
+"/ezee-wmn.html": {
+"published": "2026-10-19"
+},
+"/fadda-fox.html": {
+"published": "2026-05-01"
+},
+"/faithii.html": {
+"published": "2026-11-04"
+},
+"/fallon-rnbouyon.html": {
+"modified": "2026-02-04"
+},
+"/fallon.html": {
+"published": "2026-10-15"
+},
+"/femmes-du-bouyon.html": {
+"published": "2026-10-16"
+},
+"/festival-wato-dominique-2026.html": {
+"published": "2026-11-04"
+},
+"/fetty-mark.html": {
+"published": "2026-10-01"
+},
+"/fiddy-ii.html": {
+"published": "2026-04-18"
+},
+"/fifin.html": {
+"published": "2026-06-11"
+},
+"/fireman-lee.html": {
+"modified": "2021-02-01"
+},
+"/first-serenade-band.html": {
+"published": "2026-10-20"
+},
+"/flag-day-dominique-2026.html": {
+"published": "2026-11-03"
+},
+"/flw.html": {
+"published": "2026-10-20"
+},
+"/fowko.html": {
+"published": "2026-10-01"
+},
+"/foxy-jael.html": {
+"published": "2026-09-19"
+},
+"/fr3eze.html": {
+"published": "2026-07-15"
+},
+"/frank-white.html": {
+"modified": "2026-02-01"
+},
+"/freddy.html": {
+"published": "2026-10-20"
+},
+"/freezy.html": {
+"published": "2026-09-01",
+"modified": "2026-03-02"
+},
+"/fucha-kid.html": {
+"published": "2026-07-01"
+},
+"/funny-riddim.html": {
+"published": "2026-10-31",
+"modified": "2026-10-29"
+},
+"/gala-culturel-national-2026-jour-j.html": {
+"published": "2026-11-01"
+},
+"/gala-culturel-national-2026.html": {
+"published": "2026-11-03"
+},
+"/gaza-crew.html": {
+"published": "2026-10-01"
+},
+"/gaza-girls-crew.html": {
+"published": "2026-10-01"
+},
+"/general-pye.html": {
+"published": "2026-10-27"
+},
+"/geothermie-dominique-2026.html": {
+"published": "2026-11-02"
+},
+"/gg3.html": {
+"published": "2026-10-01"
+},
+"/ghetto-princess.html": {
+"modified": "2023-09-01"
+},
+"/glossaire-du-bouyon.html": {
+"published": "2026-10-22"
+},
+"/go-fast.html": {
+"published": "2026-10-27"
+},
+"/goute-domnik-2026.html": {
+"published": "2026-11-03"
+},
+"/green-apple.html": {
+"published": "2026-10-17"
+},
+"/gringo-jay.html": {
+"published": "2026-09-26"
+},
+"/gwada-g.html": {
+"published": "2026-10-25"
+},
+"/gwada-vue-de-dominique.html": {
+"published": "2026-10-01"
+},
+"/gz-up.html": {
+"published": "2026-10-16"
+},
+"/halibut.html": {
+"published": "2026-03-30"
+},
+"/haterz-be.html": {
+"modified": "2026-02-01"
+},
+"/hb-war.html": {
+"published": "2026-10-27",
+"modified": "2026-10-27"
+},
+"/heaven-baby-bouyon.html": {
+"published": "2026-11-01"
+},
+"/heidy.html": {
+"published": "2026-10-01"
+},
+"/heritage-day-dominique-2026.html": {
+"published": "2026-11-03"
+},
+"/high-lights-riddim.html": {
+"published": "2026-10-28"
+},
+"/histoire-wcmf.html": {
+"published": "2026-10-25"
+},
+"/histoire.html": {
+"published": "2026-11-03",
+"modified": "2026-10-19"
+},
+"/holly-g.html": {
+"modified": "2025-12-24"
+},
+"/hollyg-je-lai-vu.html": {
+"published": "2026-08-31"
+},
+"/hussey.html": {
+"published": "2026-07-01"
+},
+"/hxnter.html": {
+"published": "2026-10-29"
+},
+"/hypno.html": {
+"published": "2026-10-01"
+},
+"/ian-stylez.html": {
+"published": "2026-10-01"
+},
+"/ignition-band.html": {
+"published": "2026-10-25"
+},
+"/imran-nerdy.html": {
+"published": "2026-04-16"
+},
+"/independance-dominique-2026-jour-j.html": {
+"published": "2026-11-04"
+},
+"/independance-dominique-2026.html": {
+"published": "2026-11-04"
+},
+"/j-lion.html": {
+"published": "2026-10-01"
+},
+"/j2mo.html": {
+"published": "2026-10-20"
+},
+"/jab-king.html": {
+"published": "2026-10-27"
+},
+"/jasse.html": {
+"published": "2026-10-20"
+},
+"/jauwan-hadaway.html": {
+"published": "2026-10-23"
+},
+"/jayanti.html": {
+"published": "2026-11-03"
+},
+"/jcro.html": {
+"published": "2026-07-01"
+},
+"/jixels.html": {
+"published": "2026-05-22"
+},
+"/jl8.html": {
+"modified": "2024-01-05"
+},
+"/joli-bb-reo-maurane-voyer.html": {
+"published": "2026-11-03"
+},
+"/jordan-english.html": {
+"published": "2026-10-23"
+},
+"/jounen-kweyol-2026.html": {
+"published": "2026-11-03"
+},
+"/jounen-kweyol-jour-j-2026.html": {
+"published": "2026-11-03"
+},
+"/jounen-kweyol-sainte-lucie-2026.html": {
+"published": "2026-11-03"
+},
+"/journee-du-31-octobre-2026-dominique.html": {
+"published": "2026-11-03"
+},
+"/journee-service-communautaire-2026.html": {
+"published": "2026-11-04"
+},
+"/jouvert.html": {
+"published": "2026-10-31"
+},
+"/judi-silva.html": {
+"modified": "2025-12-19"
+},
+"/kai-du-m.html": {
+"published": "2026-07-01"
+},
+"/kanna.html": {
+"published": "2026-10-01"
+},
+"/kas-matik.html": {
+"published": "2026-06-10"
+},
+"/kassidje.html": {
+"published": "2026-10-01"
+},
+"/kaution-band.html": {
+"published": "2026-05-08"
+},
+"/keith-goddard.html": {
+"published": "2026-06-16"
+},
+"/keke.html": {
+"published": "2026-10-23"
+},
+"/keks-mafia.html": {
+"published": "2026-10-01"
+},
+"/kenny-g-dominica.html": {
+"published": "2026-10-22"
+},
+"/kentin-fcn.html": {
+"published": "2026-07-01"
+},
+"/kenzii-bwa.html": {
+"modified": "2022-02-27"
+},
+"/keros-n.html": {
+"published": "2026-07-22"
+},
+"/kevni.html": {
+"modified": "2025-10-01"
+},
+"/keytzone.html": {
+"published": "2026-10-20"
+},
+"/khallion.html": {
+"published": "2026-09-24"
+},
+"/killa-laurent.html": {
+"modified": "2025-01-26"
+},
+"/kilogram.html": {
+"published": "2026-04-24"
+},
+"/king-dice.html": {
+"published": "2026-10-16"
+},
+"/king-kembe.html": {
+"modified": "2026-01-01"
+},
+"/king-low-rider.html": {
+"published": "2026-11-04"
+},
+"/king-tipsy.html": {
+"modified": "2025-12-12"
+},
+"/kisha-kay.html": {
+"modified": "2023-08-01"
+},
+"/kkrytical.html": {
+"published": "2026-10-17"
+},
+"/klass-money.html": {
+"published": "2026-10-17"
+},
+"/klassik-frescobar.html": {
+"published": "2026-06-01"
+},
+"/konshens.html": {
+"published": "2026-07-01"
+},
+"/kross-vybez.html": {
+"modified": "2026-01-03"
+},
+"/kryptic-riddim.html": {
+"published": "2026-10-28",
+"modified": "2026-10-28"
+},
+"/krys.html": {
+"published": "2026-11-03"
+},
+"/ktb.html": {
+"published": "2026-04-25"
+},
+"/kubu.html": {
+"published": "2026-10-16"
+},
+"/kwib-la-beats.html": {
+"published": "2026-10-01"
+},
+"/laka.html": {
+"published": "2026-05-22"
+},
+"/larose.html": {
+"published": "2026-10-15"
+},
+"/le-bluff.html": {
+"modified": "2025-03-16"
+},
+"/le-cus.html": {
+"published": "2026-08-21"
+},
+"/le-daah.html": {
+"published": "2026-06-01"
+},
+"/le-det.html": {
+"published": "2026-10-01",
+"modified": "2025-03-22"
+},
+"/le-dext.html": {
+"published": "2026-10-01"
+},
+"/le-matt.html": {
+"modified": "2025-12-26"
+},
+"/le-rebelle.html": {
+"published": "2026-05-29"
+},
+"/legacy-band.html": {
+"published": "2026-10-01"
+},
+"/lejuh.html": {
+"modified": "2025-12-13"
+},
+"/leken-sm.html": {
+"modified": "2025-10-31"
+},
+"/les-curvyzz.html": {
+"published": "2026-10-23"
+},
+"/les-ptits-du-rzt.html": {
+"published": "2026-10-10"
+},
+"/leseb.html": {
+"published": "2026-10-01"
+},
+"/lestef-kjf-boyz.html": {
+"modified": "2026-01-02"
+},
+"/letin-severine.html": {
+"published": "2026-07-15"
+},
+"/letin-sylia.html": {
+"published": "2026-10-01"
+},
+"/lewismelo.html": {
+"modified": "2025-02-01"
+},
+"/leyou.html": {
+"modified": "2025-06-06"
+},
+"/lgc.html": {
+"modified": "2025-12-19"
+},
+"/link-up-riddim.html": {
+"published": "2026-06-23"
+},
+"/liste-riddims-bouyon.html": {
+"published": "2026-05-25"
+},
+"/litleboy-lsbeats767.html": {
+"published": "2026-10-01"
+},
+"/lms.html": {
+"published": "2026-08-21"
+},
+"/louse-king.html": {
+"published": "2026-05-22"
+},
+"/lov-nee.html": {
+"published": "2026-08-14"
+},
+"/lu-city.html": {
+"published": "2026-11-03"
+},
+"/luky-lukee.html": {
+"published": "2026-07-01"
+},
+"/lunik.html": {
+"modified": "2025-07-10"
+},
+"/lyrical-k.html": {
+"published": "2026-10-20",
+"modified": "2026-10-20"
+},
+"/lyrikal.html": {
+"published": "2026-10-23"
+},
+"/ma6mo.html": {
+"modified": "2022-07-08"
+},
+"/machel-montano.html": {
+"published": "2026-10-25"
+},
+"/mad-general.html": {
+"modified": "2025-07-01"
+},
+"/madam-wob-dwiyet-2026-resultat.html": {
+"published": "2026-11-03"
+},
+"/madam-wob-dwiyet-2026.html": {
+"published": "2026-11-04"
+},
+"/madamezelle.html": {
+"published": "2026-11-04",
+"modified": "2026-11-03"
+},
+"/magbeatz.html": {
+"published": "2026-10-16"
+},
+"/magikal.html": {
+"published": "2026-10-27"
+},
+"/magistral-beats.html": {
+"published": "2026-08-01"
+},
+"/major-lazer.html": {
+"modified": "2026-01-29"
+},
+"/major-mystic.html": {
+"published": "2026-10-23"
+},
+"/malcolm.html": {
+"published": "2026-10-16"
+},
+"/malko.html": {
+"published": "2026-07-01"
+},
+"/managyalis.html": {
+"published": "2026-10-16"
+},
+"/marf.html": {
+"published": "2026-10-20"
+},
+"/marshee.html": {
+"published": "2026-10-20"
+},
+"/marwa-loud-pim-pom-bouyon.html": {
+"published": "2026-11-03"
+},
+"/mas-domnik-2027.html": {
+"published": "2026-11-03"
+},
+"/mathieu-richardson.html": {
+"published": "2026-10-16"
+},
+"/maurane-voyer.html": {
+"published": "2026-10-23"
+},
+"/maureen-shatta.html": {
+"modified": "2025-10-24"
+},
+"/mb-on-the-track.html": {
+"published": "2026-10-17"
+},
+"/meilleur-bouyon.html": {
+"published": "2026-10-01",
+"modified": "2026-01-03"
+},
+"/message-independance-skerrit-2026.html": {
+"published": "2026-11-04"
+},
+"/messemupbeats.html": {
+"published": "2026-10-23"
+},
+"/midnight-groovers.html": {
+"published": "2026-10-23"
+},
+"/miimii-kds-6-oclock.html": {
+"published": "2026-08-31"
+},
+"/miimii-kds.html": {
+"published": "2026-10-02"
+},
+"/mikty.html": {
+"published": "2026-06-01"
+},
+"/miky-ding-la.html": {
+"published": "2026-10-01"
+},
+"/miss-dominica-2026-bouyon-bloom.html": {
+"published": "2026-11-03"
+},
+"/miss-oecs-2026-tanisha-balson.html": {
+"published": "2026-11-03"
+},
+"/miss-wob-dwiyet-2026.html": {
+"published": "2026-11-03"
+},
+"/mixtapes/": {
+"published": "2026-10-17"
+},
+"/mixtapes/bouyon-music-2026-mix-vol-1.html": {
+"published": "2026-10-17"
+},
+"/mixtapes/old-school-bouyon-mix.html": {
+"published": "2026-10-17"
+},
+"/money-shaun.html": {
+"published": "2026-09-01"
+},
+"/mopao-mumu.html": {
+"published": "2026-06-11"
+},
+"/motto.html": {
+"published": "2026-10-27"
+},
+"/mr-boka.html": {
+"modified": "2016-01-12"
+},
+"/mr-delly.html": {
+"modified": "2025-04-01"
+},
+"/mr-gwada.html": {
+"published": "2026-11-04"
+},
+"/mr-vegas.html": {
+"published": "2026-09-01"
+},
+"/msina.html": {
+"modified": "2023-06-23"
+},
+"/mv-on-de-keys.html": {
+"published": "2026-10-27"
+},
+"/mystrie.html": {
+"modified": "2024-05-18"
+},
+"/nailah-blackman.html": {
+"published": "2026-10-01"
+},
+"/national-day-dominique-2026.html": {
+"published": "2026-11-04"
+},
+"/natoxie.html": {
+"published": "2026-07-01"
+},
+"/nattybill.html": {
+"published": "2026-10-01"
+},
+"/ncore.html": {
+"published": "2026-10-20"
+},
+"/nensha.html": {
+"modified": "2022-08-12"
+},
+"/nessa-preppy.html": {
+"published": "2026-11-04"
+},
+"/new-bouyon.html": {
+"modified": "2024-12-01"
+},
+"/nfl-lil-brent.html": {
+"published": "2026-10-20"
+},
+"/nice.html": {
+"published": "2026-10-25"
+},
+"/nicolas-macbeth.html": {
+"modified": "2025-09-26"
+},
+"/nicy.html": {
+"published": "2026-07-22"
+},
+"/nils.html": {
+"published": "2026-11-04"
+},
+"/niska.html": {
+"published": "2026-10-01"
+},
+"/noface-beatz.html": {
+"published": "2026-10-27"
+},
+"/nothing-into-something.html": {
+"published": "2026-10-19"
+},
+"/nouveautes-bouyon-2026.html": {
+"published": "2026-11-01"
+},
+"/novy.html": {
+"published": "2026-09-26"
+},
+"/nursery-krew-inc.html": {
+"modified": "2025-12-03"
+},
+"/og-park.html": {
+"published": "2026-07-01"
+},
+"/okra-slime-riddim.html": {
+"published": "2026-10-28"
+},
+"/old-school-bouyon.html": {
+"modified": "2025-10-01"
+},
+"/orgixx.html": {
+"published": "2026-10-29",
+"modified": "2026-10-29"
+},
+"/oso-j.html": {
+"published": "2026-10-08"
+},
+"/pa-pel.html": {
+"published": "2026-10-22"
+},
+"/pahjo.html": {
+"published": "2026-06-01"
+},
+"/patrice-roberts.html": {
+"modified": "2023-02-03"
+},
+"/pelau-riddim.html": {
+"modified": "2026-01-13"
+},
+"/photos/doc-j.html": {
+"modified": "2012-07-01"
+},
+"/photos/ghetto-princess.html": {
+"modified": "2013-03-01"
+},
+"/pinpin-osp.html": {
+"modified": "2024-10-01"
+},
+"/plan-du-site.html": {
+"published": "2026-11-04"
+},
+"/playlist-bouyon.html": {
+"published": "2026-10-19"
+},
+"/playlist-shatta.html": {
+"modified": "2021-02-05"
+},
+"/ports-dominique-investissement-prive-2026.html": {
+"published": "2026-11-03"
+},
+"/pow-pow-allo-doudou.html": {
+"published": "2026-11-02"
+},
+"/poyzin.html": {
+"published": "2026-10-01"
+},
+"/prix-independance-dominique-2026.html": {
+"published": "2026-11-03"
+},
+"/prix-scolaires-nationaux-dominique-2026.html": {
+"published": "2026-11-04"
+},
+"/problem-child.html": {
+"published": "2026-09-01"
+},
+"/prod-bysavion.html": {
+"published": "2026-10-01"
+},
+"/producteurs-bouyon.html": {
+"published": "2026-09-18"
+},
+"/producteurs-et-passeurs.html": {
+"published": "2026-10-16"
+},
+"/pryhmex.html": {
+"published": "2026-10-22",
+"modified": "2026-10-20"
+},
+"/pslbeat.html": {
+"published": "2026-10-20"
+},
+"/pudaz.html": {
+"published": "2026-10-23"
+},
+"/pumpa.html": {
+"published": "2026-04-13"
+},
+"/punz.html": {
+"published": "2026-10-27"
+},
+"/quan-de-artist.html": {
+"published": "2026-10-27"
+},
+"/quan.html": {
+"published": "2026-11-03"
+},
+"/que.html": {
+"published": "2026-10-29"
+},
+"/queen-paranoya.html": {
+"published": "2026-10-23",
+"modified": "2026-10-23"
+},
+"/qwann.html": {
+"modified": "2023-03-24"
+},
+"/r-b-m.html": {
+"published": "2026-10-27",
+"modified": "2026-10-27"
+},
+"/racines-cadence-lypso.html": {
+"published": "2026-10-23"
+},
+"/rags-road-march-bouyon.html": {
+"published": "2026-08-31"
+},
+"/ransom-beatz.html": {
+"published": "2026-07-05"
+},
+"/ras-b.html": {
+"published": "2026-10-17"
+},
+"/real-reel.html": {
+"published": "2026-10-22"
+},
+"/redpunchdrip.html": {
+"published": "2026-08-11"
+},
+"/redz.html": {
+"published": "2026-10-15"
+},
+"/reketeng.html": {
+"modified": "2025-12-03"
+},
+"/remix-bouyon.html": {
+"published": "2026-10-31"
+},
+"/reo.html": {
+"published": "2026-10-24"
+},
+"/ricardo-drue.html": {
+"modified": "2023-06-21"
+},
+"/ricky-bishop.html": {
+"published": "2026-10-20"
+},
+"/riddim-knockaz.html": {
+"published": "2026-10-22"
+},
+"/riddla.html": {
+"modified": "2024-07-01"
+},
+"/ridge.html": {
+"published": "2026-10-23"
+},
+"/riko.html": {
+"published": "2026-11-04"
+},
+"/risingsun.html": {
+"published": "2026-10-20"
+},
+"/rnbouyon.html": {
+"modified": "2026-02-01"
+},
+"/road-fever-compilation.html": {
+"modified": "2025-05-12"
+},
+"/rohie.html": {
+"modified": "2025-10-26"
+},
+"/roslyn-paul-cultural-elder-2026.html": {
+"published": "2026-11-03"
+},
+"/rsb.html": {
+"modified": "2012-12-01"
+},
+"/rudy-rush-here-for-you.html": {
+"published": "2026-11-03"
+},
+"/rudy-rush.html": {
+"published": "2026-10-01"
+},
+"/rum-lawd.html": {
+"published": "2026-07-01"
+},
+"/sa-sa-sammy.html": {
+"published": "2026-06-01"
+},
+"/sandy-boo.html": {
+"published": "2026-10-20"
+},
+"/saveurs-du-monde-dominique-2026.html": {
+"published": "2026-11-04"
+},
+"/scarnx.html": {
+"modified": "2025-05-21"
+},
+"/see-v.html": {
+"published": "2026-10-23"
+},
+"/shanika.html": {
+"published": "2026-11-03"
+},
+"/shanna-raymond.html": {
+"published": "2026-10-29"
+},
+"/sharkie.html": {
+"published": "2026-10-23"
+},
+"/shasha.html": {
+"published": "2026-10-16"
+},
+"/shashabim.html": {
+"published": "2026-03-27"
+},
+"/shattah-ayow.html": {
+"modified": "2025-11-01"
+},
+"/shattaween-montreuil-bouyon.html": {
+"published": "2026-11-03"
+},
+"/shawn-storm.html": {
+"published": "2026-11-03"
+},
+"/shazdown-mmw.html": {
+"published": "2026-10-16"
+},
+"/shelly.html": {
+"published": "2026-10-25"
+},
+"/shemmy-j.html": {
+"published": "2026-07-15"
+},
+"/sheyta.html": {
+"published": "2026-11-03"
+},
+"/sick-tonez.html": {
+"published": "2026-06-01"
+},
+"/signal-band.html": {
+"published": "2026-10-25"
+},
+"/skillibeng-wcmf-2026.html": {
+"published": "2026-11-04"
+},
+"/skinny-banton.html": {
+"published": "2026-04-01"
+},
+"/skinny-fabulous.html": {
+"modified": "2025-11-25"
+},
+"/skrazy.html": {
+"published": "2026-10-20"
+},
+"/sky-geez.html": {
+"published": "2026-07-01"
+},
+"/slyme-hoyss.html": {
+"modified": "2025-09-22"
+},
+"/smokiller.html": {
+"published": "2026-10-19"
+},
+"/soca-inferno.html": {
+"published": "2026-10-01"
+},
+"/soca-johnny.html": {
+"modified": "2026-02-01"
+},
+"/soca-ras.html": {
+"modified": "2021-07-01"
+},
+"/solar-million.html": {
+"published": "2026-10-27"
+},
+"/spyout.html": {
+"published": "2026-10-23"
+},
+"/stalk-ashley.html": {
+"published": "2026-11-03"
+},
+"/starrin.html": {
+"published": "2026-06-19"
+},
+"/starsha.html": {
+"modified": "2021-02-11"
+},
+"/stella-billy.html": {
+"published": "2026-04-12"
+},
+"/sticky.html": {
+"published": "2026-10-20"
+},
+"/stratvincybwoy.html": {
+"published": "2026-10-20"
+},
+"/strosey.html": {
+"published": "2026-09-14"
+},
+"/subance.html": {
+"modified": "2024-10-26"
+},
+"/sukie.html": {
+"published": "2026-11-05"
+},
+"/sully-jacob.html": {
+"published": "2026-10-27"
+},
+"/supalyne.html": {
+"published": "2026-06-11"
+},
+"/supaman-enskred.html": {
+"modified": "2026-02-01"
+},
+"/supatronic.html": {
+"published": "2026-11-03"
+},
+"/super-bouyon-riddim.html": {
+"published": "2026-10-28",
+"modified": "2026-10-28"
+},
+"/superk.html": {
+"published": "2026-10-27"
+},
+"/suppa.html": {
+"modified": "2024-03-06"
+},
+"/sweet-ticky.html": {
+"modified": "2026-01-03"
+},
+"/t-c.html": {
+"published": "2026-10-20"
+},
+"/tallyboy.html": {
+"published": "2026-10-27"
+},
+"/tamillia-clip-bouyon.html": {
+"published": "2026-10-01"
+},
+"/tasmo.html": {
+"published": "2026-10-20"
+},
+"/tazzo-thaboss.html": {
+"published": "2026-07-15"
+},
+"/tazzy.html": {
+"published": "2026-10-20"
+},
+"/team-bwe-tou-sa.html": {
+"published": "2026-06-01"
+},
+"/tedla.html": {
+"published": "2026-07-01"
+},
+"/tehilah.html": {
+"published": "2026-06-10"
+},
+"/telepherique-dominique-2026.html": {
+"published": "2026-11-03"
+},
+"/tenslay.html": {
+"published": "2026-10-01"
+},
+"/tequila-riddim.html": {
+"published": "2026-10-28",
+"modified": "2026-10-28"
+},
+"/tete-garcon.html": {
+"modified": "2021-02-20"
+},
+"/teyma.html": {
+"published": "2026-11-01"
+},
+"/th3rd.html": {
+"published": "2026-10-27"
+},
+"/tha-wizzard.html": {
+"published": "2026-10-16"
+},
+"/thea-lafond-doctorat-honoris-causa-uwi.html": {
+"published": "2026-11-04"
+},
+"/theodora.html": {
+"published": "2026-11-05"
+},
+"/theomaa.html": {
+"published": "2026-09-19"
+},
+"/thesmsgirls.html": {
+"published": "2026-11-07"
+},
+"/throw-dat-bouyon-2026.html": {
+"published": "2026-09-25"
+},
+"/ti-al.html": {
+"modified": "2025-08-02"
+},
+"/ti-locksee.html": {
+"modified": "2022-07-08"
+},
+"/ti-vilaj-kweyol-2026.html": {
+"published": "2026-10-22"
+},
+"/tiitii-nba.html": {
+"published": "2026-10-19"
+},
+"/timii-mignonne.html": {
+"published": "2026-10-16"
+},
+"/tk-international.html": {
+"published": "2026-10-23"
+},
+"/tmx-official.html": {
+"published": "2026-09-01"
+},
+"/tolly-boys.html": {
+"published": "2026-10-16"
+},
+"/totally-spices.html": {
+"published": "2026-11-06"
+},
+"/toupit.html": {
+"published": "2026-08-16"
+},
+"/trev-li.html": {
+"modified": "2025-11-11"
+},
+"/trilla-g.html": {
+"published": "2026-10-16"
+},
+"/triszy.html": {
+"published": "2026-07-03"
+},
+"/trixx.html": {
+"modified": "2025-08-08"
+},
+"/trixzmigos.html": {
+"modified": "2026-02-01"
+},
+"/trophee-eo-leblanc.html": {
+"published": "2026-11-03"
+},
+"/uglyboy.html": {
+"published": "2026-07-01"
+},
+"/umpa.html": {
+"published": "2026-10-01"
+},
+"/unstoppable-shax.html": {
+"published": "2026-11-03"
+},
+"/up-next-cypher-trilla-g.html": {
+"published": "2026-11-03"
+},
+"/vador.html": {
+"modified": "2025-10-16"
+},
+"/vghn.html": {
+"modified": "2026-01-16"
+},
+"/vibez-productionz.html": {
+"published": "2026-10-15"
+},
+"/vibwoy.html": {
+"published": "2026-10-27"
+},
+"/viv-beats.html": {
+"published": "2026-10-20"
+},
+"/vj-ben.html": {
+"published": "2026-10-01"
+},
+"/vulnerability-bouyon.html": {
+"published": "2026-10-01"
+},
+"/wawa.html": {
+"modified": "2025-02-18"
+},
+"/wck.html": {
+"published": "2026-11-03"
+},
+"/wcmf-2026-bilan.html": {
+"published": "2026-11-02"
+},
+"/wcmf-2026-debat-culture-creole.html": {
+"published": "2026-11-03"
+},
+"/wcmf-2026-nuit-1-recit.html": {
+"published": "2026-11-04"
+},
+"/wcmf-2026-nuit-1.html": {
+"published": "2026-10-23"
+},
+"/wcmf-2026-nuit-2-recit.html": {
+"published": "2026-11-03"
+},
+"/wcmf-2026-nuit-2.html": {
+"published": "2026-10-24"
+},
+"/wcmf-2026-nuit-3-jour-j.html": {
+"published": "2026-10-31"
+},
+"/wcmf-2026-nuit-3-recit.html": {
+"published": "2026-11-04"
+},
+"/wcmf-2026-nuit-3.html": {
+"published": "2026-10-25"
+},
+"/wcmf-2026-ouverture.html": {
+"published": "2026-10-23"
+},
+"/wcmf-2026-tourisme.html": {
+"published": "2026-11-03"
+},
+"/wcmf-2026-veille.html": {
+"published": "2026-10-23"
+},
+"/wcmf-2027.html": {
+"published": "2026-11-04"
+},
+"/wcmf-festival-creole.html": {
+"published": "2026-10-25"
+},
+"/weelow.html": {
+"modified": "2013-05-01"
+},
+"/wetty-beatz.html": {
+"published": "2026-10-27"
+},
+"/whale-oil-riddim.html": {
+"published": "2026-10-31"
+},
+"/where-did-you-come-from-bouyon.html": {
+"published": "2026-08-31"
+},
+"/wob-dwiyet-robe-nationale-dominique.html": {
+"published": "2026-10-28"
+},
+"/world-creole-music-festival.html": {
+"published": "2026-11-03"
+},
+"/wotlis.html": {
+"published": "2026-07-04"
+},
+"/wrecketeng-new-bouyon.html": {
+"modified": "2025-12-01"
+},
+"/wrecketeng.html": {
+"published": "2026-10-18"
+},
+"/xavvoknockin.html": {
+"published": "2026-10-01"
+},
+"/xs-groove.html": {
+"published": "2026-10-16"
+},
+"/yawiar.html": {
+"published": "2026-10-01"
+},
+"/yellow-gaza.html": {
+"modified": "2025-11-01"
+},
+"/yojoshii.html": {
+"published": "2026-11-03"
+},
+"/yoshy-et-lejo.html": {
+"published": "2026-06-27"
+},
+"/young-dinero.html": {
+"published": "2026-06-11"
+},
+"/young-ob.html": {
+"published": "2026-10-20"
+},
+"/youry-fleming.html": {
+"published": "2026-09-01",
+"modified": "2023-04-13"
+},
+"/youth-rally-dominique-2026.html": {
+"published": "2026-11-03"
+},
+"/ysn.html": {
+"published": "2026-09-28"
+},
+"/yu-mei.html": {
+"published": "2026-10-05"
+},
+"/yuniikbeatz.html": {
+"modified": "2025-12-17"
+},
+"/zamoni.html": {
+"modified": "2026-01-01"
+},
+"/zepek.html": {
+"modified": "2025-07-23"
+},
+"/zi.html": {
+"published": "2026-08-01"
+},
+"/zone-rouge.html": {
+"published": "2026-10-29"
+},
+"/zwady.html": {
+"published": "2026-10-01"
+}
+}
+}

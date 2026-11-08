@@ -19,13 +19,15 @@ What it does on every page, in French and English, rerun-safe:
     so a cookieless analytics script can count them per page without changing the links.
     The attribute is left out of the content hash: tagging a link does not move a page's dates.
   - Sitemap lastmod, WebPage dateModified and the visible "Updated" date follow the
-    content: content_hashes.json remembers each page's main text, and a page whose
-    text changed since the last build gets today's date.
+    content: content_hashes.json remembers a hash of each page's visible text with links and
+    contextual link sentences removed (content_digest), and a page whose text changed since the
+    last build gets today's date. Link-only and anchor-only edits keep the page's dates.
 """
 import datetime, glob, hashlib, html, json, os, re, sys, unicodedata
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import yt
 import images
+import release
 
 ROOT = os.environ.get("BOUYONMUSIQUE_SITE", os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 BASE = "https://bouyonmusique.com"
@@ -44,6 +46,41 @@ T = {
     "en": dict(toc="On this page", skip="Skip to content", updated="Updated",
                video="{title}, a YouTube video opened for the {page} page on Bouyon Musique."),
 }
+
+
+# Version 2 hashes the visible text only: no markup, no links (adding, moving or re-wording a
+# link is not a content change), no contextual link sentences, no byline. A real change to the
+# copy still moves the page's dates; so does a newer date_modified in the page data.
+HASH_VERSION = 2
+
+
+def content_digest(main_html):
+    t = re.sub(r'<p\b[^>]*(class="pubdate|data-release-dates)[^>]*>.*?</p>', " ", main_html, flags=re.S)
+    t = re.sub(r"<!--ctx:[A-Za-z0-9_-]+-->.*?<!--/ctx-->", " ", t, flags=re.S)
+    t = re.sub(r"<(script|style)\b.*?</\1>", " ", t, flags=re.S)
+    t = re.sub(r"<a\b[^>]*>.*?</a>", " ", t, flags=re.S)
+    t = re.sub(r"<[^>]+>", " ", t)
+    t = re.sub(r"\s+", " ", html.unescape(t)).strip()
+    return hashlib.sha256(t.encode("utf-8")).hexdigest()[:16]
+
+
+def set_dates_line(s, pub, mod, lang):
+    """One visible dates line per page, equal to the JSON-LD and the sitemap: rewrite it, or add it after the H1."""
+    lab = ("Publié le", "Mis à jour le") if lang == "fr" else ("Published", "Updated")
+    times = (f'{lab[0]} <time datetime="{pub}">{fmt_date(pub, lang)}</time> · '
+             f'{lab[1]} <time datetime="{mod}">{fmt_date(mod, lang)}</time>')
+    m = re.search(r'(<p\b[^>]*data-release-dates[^>]*>)(.*?)(</p>)', s, re.S)
+    if m:
+        inner = m.group(2)
+        i = inner.find("<time")
+        lead = inner[:i] if i >= 0 else inner
+        lead = re.sub(r'(Publié le|Published)\s*$', "", lead.rstrip()) .rstrip()
+        lead = (lead + " ") if lead else ""
+        return s[:m.start()] + m.group(1) + lead + times + m.group(3) + s[m.end():]
+    if "</h1>" in s:
+        i = s.index("</h1>") + 5
+        return s[:i] + f'\n<p class="pubdate release-dates" data-release-dates>{times}</p>' + s[i:]
+    return s
 
 
 def esc(s):
@@ -324,19 +361,29 @@ def process(path, rel, hashes):
 
     # 5. content hash, dates
     main_html = s.split("<main", 1)[1].split("</main>", 1)[0]
-    hashed = re.sub(r'<p class="pubdate">.*?</p>', "", main_html, flags=re.S)
-    hashed = re.sub(r' data-cta="[^"]*"', "", hashed)
-    digest = hashlib.sha256(hashed.encode("utf-8")).hexdigest()[:16]
+    digest = content_digest(main_html)
     prev = hashes.get(url) or {}
-    lastmod = prev.get("lastmod", TODAY) if prev.get("hash") == digest else TODAY
-    data_dates = [d for _, data in blocks for n in nodes_of(data) if "@id" in n and str(n["@id"]).endswith("#page")
-                  for d in [n.get("dateModified"), n.get("datePublished")] if d]
-    if data_dates and max(data_dates) > lastmod:
-        lastmod = max(data_dates)
-    hashes[url] = {"hash": digest, "lastmod": lastmod}
-    upd = re.search(r'(%s <time datetime=")[^"]+(">)[^<]*(</time>)' % re.escape(t["updated"]), s)
-    if upd and upd.group(0).find(lastmod) < 0 and lastmod > re.search(r'datetime="([^"]+)"', upd.group(0)).group(1):
-        s = s[:upd.start()] + upd.group(1) + lastmod + upd.group(2) + fmt_date(lastmod, lang) + upd.group(3) + s[upd.end():]
+    rpath = release._key(url[len(BASE):] or "/")
+    # A real change = the text hash moved since the last build (links and the dates line are not part of it).
+    text_changed = prev.get("v") == HASH_VERSION and prev.get("hash") not in (None, digest)
+    pub = release.true_published(rpath, prev.get("published"))
+    if rpath in release.DATES:
+        # Stored dates (build/release_dates.json): modified is kept while the text is unchanged; a real change after
+        # the cutoff moves it to that day, and that day is carried from build to build.
+        lastmod = release.true_modified(rpath, release.DATA_MOD.get(rpath), pub)
+        if prev.get("v") == HASH_VERSION and prev.get("lastmod", "") > release.CUTOFF:
+            lastmod = max(lastmod, prev["lastmod"])
+        if text_changed:
+            lastmod = max(lastmod, TODAY)
+    else:
+        if prev and prev.get("v") != HASH_VERSION:
+            lastmod = prev.get("lastmod", TODAY)
+        else:
+            lastmod = prev.get("lastmod", TODAY) if not text_changed else TODAY
+        data_mod = release.DATA_MOD.get(rpath)
+        lastmod = max([lastmod, pub] + ([data_mod] if data_mod else []))
+    hashes[url] = {"hash": digest, "lastmod": lastmod, "published": pub, "v": HASH_VERSION}
+    s = set_dates_line(s, pub, lastmod, lang)
 
     # 6. structured data
     already_video = any("VideoObject" in types(n) for _, d in blocks for n in nodes_of(d))
@@ -354,19 +401,37 @@ def process(path, rel, hashes):
             "duration": yt.iso_duration(m.get("duration")),
             "embedUrl": f"https://www.youtube-nocookie.com/embed/{vid}", "url": f"https://www.youtube.com/watch?v={vid}",
         })
-    for raw, data in blocks:
+    _is_page = lambda n: "@id" in n and str(n["@id"]).endswith(("#page", "#webpage"))
+    has_page_node = any(_is_page(n) for _, d in blocks for n in nodes_of(d))
+    PAGE_TYPES = {"WebPage", "FAQPage", "CollectionPage", "AboutPage", "ItemPage", "Article", "NewsArticle", "BlogPosting"}
+    for bi, (raw, data) in enumerate(blocks):
         ns = nodes_of(data)
         changed = False
         has_video = any("VideoObject" in types(n) for n in ns)
+        if not has_page_node and bi == 0 and isinstance(data, dict):
+            # Hand-built pages without a #page node: add one first, so the page's own dates lead its structured data.
+            node = {"@type": "WebPage", "@id": url + "#page", "url": url, "datePublished": pub, "dateModified": lastmod}
+            if isinstance(data.get("@graph"), list):
+                data["@graph"].insert(0, node)
+            else:
+                ctx_ = data.pop("@context", "https://schema.org")
+                inner = dict(data); data.clear(); data.update({"@context": ctx_, "@graph": [node, inner]})
+            ns = nodes_of(data); changed = True
         for n in ns:
             ty = types(n)
-            is_page = "@id" in n and str(n["@id"]).endswith("#page")
+            # Every page-type node without an id of its own (the page's Article, FAQPage...) carries the page's dates.
+            if set(ty) & PAGE_TYPES and "@id" not in n and (n.get("datePublished") or n.get("dateModified")):
+                if n.get("datePublished") != pub or n.get("dateModified") != lastmod:
+                    n["datePublished"], n["dateModified"] = pub, lastmod; changed = True
+            is_page = _is_page(n)
             if is_page:
                 if n.get("name") == title and new_title != title:
                     n["name"] = new_title; changed = True
                 if n.get("description") == desc and new_desc != desc:
                     n["description"] = new_desc; changed = True
-                if n.get("dateModified") and n["dateModified"] < lastmod or (not n.get("dateModified") and n.get("datePublished")):
+                if n.get("datePublished") != pub:
+                    n["datePublished"] = pub; changed = True
+                if n.get("dateModified") != lastmod:
                     n["dateModified"] = lastmod; changed = True
                 if first_img and not n.get("primaryImageOfPage"):
                     n["primaryImageOfPage"] = {"@type": "ImageObject", "url": first_img[0], "width": first_img[1], "height": first_img[2], "caption": first_img[3]}

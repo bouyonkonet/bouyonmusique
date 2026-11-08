@@ -13,10 +13,6 @@ def fmt_date_en(iso):
     d = datetime.date.fromisoformat(iso)
     return f"{MONTHS_EN[d.month - 1]} {d.day}, {d.year}"
 
-def spread_date(key):
-    """Deterministic pseudo publication date in 2026-09-01..2026-10-16, by FR slug hash (matches generate.py)."""
-    h = int(hashlib.md5(key.encode("utf-8")).hexdigest()[:8], 16)
-    return (datetime.date(2026, 9, 1) + datetime.timedelta(days=h % 46)).isoformat()
 
 SITE_ENTITIES = [
     {"@type": "WebSite", "@id": "https://bouyonmusique.com/#site", "url": "https://bouyonmusique.com/", "name": "Bouyon Musique", "inLanguage": ["fr", "en"], "publisher": {"@id": "https://bouyonmusique.com/#org"}},
@@ -213,8 +209,13 @@ for mod in ["data_styles_en", "data_guides_en", "data_places_en", "data_events_a
     m = importlib.import_module(mod)
     PAGES.extend(m.PAGES)
 
+# True dates and the release schedule (build/release.py), applied before links, hubs, the site map and sitemaps.
+import release
+_held = [p for p in PAGES if not release.is_live("/en/" + p["slug"])]
+PAGES = [p for p in PAGES if release.is_live("/en/" + p["slug"])]
+release.drop_held_output(os.path.dirname(SITE), ["/en/" + p["slug"] for p in _held])
 for _p in PAGES:
-    _p.setdefault("date_published", spread_date(_p["fr_slug"]))
+    release.stamp(_p, "/en/" + _p["slug"])
 
 # Artist hubs (BOU-3200): see hubs.py. English pages link English profiles only.
 import hubs
@@ -480,11 +481,10 @@ def listen_top_html(page):
             '<p>Follow <a href="https://www.instagram.com/bouyonshattaz/" data-cta="instagram_follow">@bouyonshattaz</a> for new releases.</p>\n</div>\n')
 
 def byline(page):
-    pub, mod = page.get("date_published"), page.get("date_modified")
-    out = f'<p class="pubdate">By <a href="/en/smokiller.html" rel="author">Smokiller</a> · Published <time datetime="{pub}">{fmt_date_en(pub)}</time>'
-    if mod and mod > pub:
-        out += f' · Updated <time datetime="{mod}">{fmt_date_en(mod)}</time>'
-    return out + "</p>"
+    pub = page.get("date_published")
+    mod = max(page.get("date_modified") or pub, pub)
+    return (f'<p class="pubdate release-dates" data-release-dates>By <a href="/en/smokiller.html" rel="author">Smokiller</a> · '
+            f'Published <time datetime="{pub}">{fmt_date_en(pub)}</time> · Updated <time datetime="{mod}">{fmt_date_en(mod)}</time></p>')
 
 def cited_html(slugs):
     """Every page: the artists it mentions, linked to their profiles."""
@@ -561,8 +561,10 @@ def render(page):
         graph.append(_gl)
     for _e in page.get("extra_graph", []):
         _e = dict(_e)
-        if _e.get("@type") in ("ProfilePage", "Article") and page.get("date_published"):
-            _e.setdefault("datePublished", page["date_published"])
+        if _e.get("@type") in ("ProfilePage", "Article", "NewsArticle", "BlogPosting") and page.get("date_published"):
+            _e["datePublished"] = page["date_published"]
+            if _e.get("dateModified"):
+                _e["dateModified"] = max(_e["dateModified"], page["date_modified"])
         if _e.get("@type") == "ProfilePage" and isinstance(_e.get("mainEntity"), dict):
             _e["mainEntity"] = hubs.as_music_group(_e["mainEntity"])
         graph.append(_e)
@@ -727,3 +729,5 @@ if __name__ == "__main__":
     apply_discovery()
     from onpage import apply_onpage
     apply_onpage()
+    from context_links import apply_context_links
+    apply_context_links(os.path.dirname(SITE))

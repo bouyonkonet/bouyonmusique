@@ -139,6 +139,19 @@ PAGES = [
  },
  {
   "slug": "world-creole-music-festival.html",
+  "extra_graph": [{
+    "@type": "MusicEvent",
+    "name": "World Creole Music Festival 2026",
+    "startDate": "2026-10-23",
+    "endDate": "2026-10-25",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {"@type": "Place", "name": "Windsor Park Sports Stadium",
+      "address": {"@type": "PostalAddress", "addressLocality": "Roseau", "addressCountry": "DM"}},
+    "organizer": {"@type": "Organization", "name": "Discover Dominica Authority", "url": "https://discoverdominica.com/"},
+    "url": "https://dominicafestivals.com/wcmf-home/",
+    "description": "Trois nuits de musique créole à Windsor Park, Roseau, Dominique : du vendredi 23 au dimanche 25 octobre 2026, selon la page officielle du festival."
+  }],
   "cat": "Événements bouyon",
   "nav": "World Creole Music Festival",
   "title": "World Creole Music Festival : le festival créole de la Dominique",
