@@ -24,7 +24,7 @@ T = {
  'en': dict(
    page='en/bouyon-by-island.html', artists='en/artists.html', prefix='/en/', glob='en/*.html',
    home='/en/', home_name='Bouyon music', artists_name='Bouyon artists', artists_url='/en/artists.html',
-   title='Bouyon Artists by Island: Dominica, Guadeloupe, Martinique and More',
+   title='Bouyon by island | The islands of bouyon | Bouyon Musique',
    desc='Every bouyon artist on Bouyon Musique, island by island: Dominica, Guadeloupe, Martinique, Saint Martin, Saint Lucia, Antigua, Barbados, Saint Vincent and beyond.',
    h1='Bouyon artists by island',
    lead='Bouyon was born in Dominica in 1988 and now runs through the whole Lesser Antilles. This page files every artist profile on the site under its island, using only what each profile states.',
@@ -41,7 +41,7 @@ T = {
  'fr': dict(
    page='bouyon-par-ile.html', artists='artistes.html', prefix='/', glob='*.html',
    home='/', home_name='Musique bouyon', artists_name='Artistes bouyon', artists_url='/artistes.html',
-   title='Artistes bouyon par île : Dominique, Guadeloupe, Martinique et plus',
+   title='Bouyon par ile | Les iles du bouyon | Bouyon Musique',
    desc='Tous les artistes bouyon de Bouyon Musique, île par île : Dominique, Guadeloupe, Martinique, Saint-Martin, Sainte-Lucie, Antigua, Barbade, Saint-Vincent et au-delà.',
    h1='Les artistes bouyon par île',
    lead='Le bouyon est né en Dominique en 1988 et traverse aujourd\'hui toutes les Petites Antilles. Cette page range chaque fiche artiste du site sous son île, en s\'appuyant uniquement sur ce que dit chaque fiche.',

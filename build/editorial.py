@@ -202,11 +202,11 @@ def render_index(kind, rows, ctx):
     url = BASE + k["dir"]
     crumbs = [("Musique bouyon", "/"), (k["cat"], None)]
     if kind == "mixtape":
-        title = "Mixtapes bouyon de Smokiller : tracklists et vidéos"
+        title = "Mixtapes bouyon | Tracklists Smokiller | Bouyon Musique"
         desc = "Les mixtapes bouyon publiées par Smokiller sur YouTube, avec la tracklist minutée de chaque mix et les profils des artistes qu’elles font tourner."
         lead = "Smokiller publie des mixtapes bouyon sur sa chaîne YouTube. Chaque page reprend la vidéo, la tracklist minutée telle qu’elle apparaît dans les chapitres, et renvoie vers les profils des artistes cités sur ce site."
     else:
-        title = "Chroniques bouyon : titres et albums écoutés"
+        title = "Chroniques bouyon | Titres et albums | Bouyon Musique"
         desc = "Les chroniques de Bouyon Musique : un titre ou un album bouyon écouté, avec ses crédits sourcés."
         lead = "Chaque chronique écoute un titre ou un album bouyon. Les crédits et les dates viennent des sources citées en bas de page."
     cards = ""

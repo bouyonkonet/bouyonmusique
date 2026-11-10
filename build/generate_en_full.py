@@ -671,7 +671,7 @@ def main():
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Site Map - Bouyon Music: every bouyon topic in English</title>
+<title>Site map | Every bouyon topic | Bouyon Musique</title>
 <meta name="description" content="Every English page on BouyonMusique.com: bouyon history, styles, artists, producers, playlists, Dominica Carnival and bouyon scenes by country.">
 <meta name="robots" content="index, follow">
 <link rel="canonical" href="https://bouyonmusique.com/en/site-map.html">

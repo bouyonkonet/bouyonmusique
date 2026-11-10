@@ -2,7 +2,7 @@
 PAGES = [
 {
 "slug": "bouyon-drum-kit.html", "cat": "Production bouyon", "nav": "Bouyon drum kit",
-"title": "Bouyon Drum Kit : les sons pour produire du bouyon",
+"title": "Bouyon Drum Kit | Lapo kabwit et chakchak | Bouyon Musique",
 "desc": "Bouyon drum kit : lapo kabwit, tambour bélé, chakchak, kicks rapides et boucles de clavier. Les sons à réunir pour produire du bouyon de la Dominique.",
 "h1": "Bouyon drum kit : construire la batterie du bouyon",
 "intro": "Un bouyon drum kit, c’est la collection de sons qui permet à un producteur de recréer la pression du carnaval dominicain dans son logiciel : percussions traditionnelles samplées, batterie rapide, basse, claviers et voix d’ambiance. Cette page traite du kit lui-même : ce qu’il contient, d’où viennent ses sons, où les trouver et comment les ranger. La méthode pour en tirer un beat est sur la page <a href=\"/comment-faire-un-beat-bouyon.html\">comment faire un beat bouyon</a>.",
@@ -152,7 +152,7 @@ PAGES = [
 },
 {
 "slug": "bouyon-type-beat.html", "cat": "Production bouyon", "nav": "Bouyon type beat",
-"title": "Bouyon Type Beat : produire un beat bouyon en 2026",
+"title": "Bouyon Type Beat | Produire un beat bouyon | Bouyon Musique",
 "desc": "Bouyon type beat : tempo, structure, percussions et claviers pour produire un beat dans le style bouyon de la Dominique. Guide pratique pour beatmakers.",
 "h1": "Bouyon type beat : la formule du beat bouyon",
 "intro": "Un bouyon type beat est un instrumental construit dans les codes du bouyon : tempo rapide, boucle de clavier reconnaissable, percussions inspirées de la Dominique et une basse qui pousse. Les beatmakers le recherchent pour placer des voix bouyon, shatta et dancehall.",
@@ -206,7 +206,7 @@ PAGES = [
 },
 {
 "slug": "bouyon-riddim.html", "cat": "Production bouyon", "nav": "Bouyon riddim",
-"title": "Bouyon Riddim : le rythme qui porte tout le genre",
+"title": "Bouyon Riddim | Le rythme partage du genre | Bouyon Musique",
 "desc": "Bouyon riddim : le rythme instrumental partagé sur lequel chantent les artistes bouyon, hérité de la culture riddim jamaïcaine. Explication et exemples.",
 "h1": "Bouyon riddim : un rythme, mille voix",
 "intro": "Dans le bouyon comme dans le dancehall, le riddim est le rythme instrumental sur lequel plusieurs artistes peuvent poser leur voix. Le bouyon riddim est la colonne vertébrale de la production moderne du genre. Pour retrouver qui a chanté sur quel riddim, consultez notre <a href=\"/liste-riddims-bouyon.html\">liste des riddims bouyon</a>, avec les titres vérifiés de chaque riddim.",
@@ -264,7 +264,7 @@ PAGES = [
 },
 {
 "slug": "comment-faire-un-beat-bouyon.html", "cat": "Production bouyon", "nav": "Faire un beat bouyon",
-"title": "Comment faire un beat Bouyon : le guide du producteur",
+"title": "Faire un beat Bouyon | Guide du producteur | Bouyon Musique",
 "desc": "Comment faire un beat bouyon : programmer les percussions dominicaines, écrire la boucle de clavier, placer la basse, tester en danse. Guide étape par étape.",
 "h1": "Comment faire un beat bouyon, étape par étape",
 "intro": "Comment faire un beat bouyon ? Pas en accélérant un beat dancehall : il s’agit de reconstruire, avec les outils d’aujourd’hui, la mécanique d’un groupe de carnaval dominicain, avec une grille de percussions qui pousse, une boucle de clavier qui ne lâche pas, une basse lourde et simple et de la place pour la foule. Ce guide suit le travail dans l’ordre, du premier choix au partage du beat fini.",
@@ -401,7 +401,7 @@ PAGES = [
 },
 {
 "slug": "producteurs-bouyon.html", "cat": "Production bouyon", "nav": "Producteurs bouyon",
-"title": "Producteurs Bouyon : ceux qui fabriquent le son",
+"title": "Producteurs Bouyon | Ceux qui font le son | Bouyon Musique",
 "desc": "Les producteurs bouyon qui comptent : HYPNO, Savion, Denmath, MB On The Track, Smokiller et la nouvelle école des riddims. Le guide Bouyon Shattaz.",
 "h1": "Producteurs bouyon : les architectes du son",
 "intro": "Le bouyon moderne se décide de plus en plus en studio. Derrière chaque riddim qui fait danser la Gwada, la Martinique ou Paris, il y a un producteur qui a choisi le tempo, la boucle et la basse. Voici ceux que Bouyon Shattaz suit.",
@@ -459,7 +459,7 @@ PAGES = [
 },
 {
 "slug": "remix-bouyon.html", "cat": "Production bouyon", "nav": "Remix bouyon",
-"title": "Remix Bouyon : quand les hits deviennent bouyon",
+"title": "Remix Bouyon | Les hits afro, pop, rap, R&B | Bouyon Musique",
 "desc": "Remix bouyon : comment les hits afro, pop, rap et R et B deviennent des versions bouyon. La méthode Smokiller et le rôle des remixes dans l’essor du genre.",
 "h1": "Remix bouyon : la machine à convertir les hits",
 "intro": "Le remix bouyon prend un titre que tout le monde connaît, un hit afro, pop, rap ou R et B, et le rejoue avec les codes du bouyon : tempo relevé, boucle de clavier, percussions dominicaines et énergie de carnaval.",
@@ -513,7 +513,7 @@ PAGES = [
 },
 {
 "slug": "bpm-du-bouyon.html", "cat": "Production bouyon", "nav": "BPM du bouyon",
-"title": "BPM du Bouyon : à quelle vitesse bat le bouyon",
+"title": "BPM du Bouyon | Le tempo rapide du bouyon | Bouyon Musique",
 "desc": "Le BPM du bouyon : un genre rapide, pensé pour la danse et le carnaval. L’exemple de Mauvais Plan de HYPNO à 160 bpm et ce que le tempo dit du bouyon.",
 "h1": "BPM du bouyon : la vitesse comme signature",
 "intro": "Le bouyon est un genre rapide, et son tempo fait partie de son identité. Quand le producteur HYPNO revendique un titre à 160 bpm, Mauvais Plan, il affiche la couleur : le bouyon ne cherche pas le confort, il cherche le mouvement.",
@@ -567,7 +567,7 @@ PAGES = [
 },
 {
 "slug": "bouyon-instrumental.html", "cat": "Production bouyon", "nav": "Bouyon instrumental",
-"title": "Bouyon Instrumental : les beats sans voix qui font danser",
+"title": "Bouyon Instrumental | Les beats sans voix | Bouyon Musique",
 "desc": "Bouyon instrumental : les versions sans voix des riddims bouyon, outils des DJ, des danseurs et des créateurs de contenu. Pourquoi l’instrumental compte.",
 "h1": "Bouyon instrumental : le riddim à nu",
 "intro": "Le bouyon instrumental, c’est le riddim sans la voix : la boucle, la basse et les percussions dans leur forme pure. Les DJ s’en servent pour enchaîner, les danseurs pour créer, les producteurs pour montrer leur travail.",
@@ -629,7 +629,7 @@ PAGES = [
 },
 {
 "slug": "bouyon-mix.html", "cat": "Écouter le bouyon", "nav": "Bouyon mix",
-"title": "Bouyon Mix : les meilleurs mix bouyon à écouter",
+"title": "Bouyon Mix | Les meilleurs mix bouyon 2026 | Bouyon Musique",
 "desc": "Bouyon mix : les mix qui enchaînent bouyon, bouyon soca et nouveautés des Antilles. Où écouter un bon mix bouyon en 2026 et la sélection Bouyon Shattaz.",
 "h1": "Bouyon mix : une heure de bouyon sans lever le pied",
 "intro": "Le mix bouyon est le format naturel du genre : les titres s’enchaînent au même tempo, la fête ne s’arrête jamais. Un bon bouyon mix mélange les nouveautés de la Dominique, le bouyon soca et les classiques du carnaval.",
@@ -687,7 +687,7 @@ PAGES = [
 },
 {
 "slug": "chansons-bouyon.html", "cat": "Écouter le bouyon", "nav": "Chansons bouyon",
-"title": "Chansons Bouyon : les titres à connaître absolument",
+"title": "Chansons Bouyon | Les titres a connaitre | Bouyon Musique",
 "desc": "Chansons bouyon : les titres qui comptent, des classiques des groupes dominicains aux nouveautés de Reo, Asa Bantan et G’z Up. La sélection pour débuter.",
 "h1": "Chansons bouyon : la sélection pour découvrir le genre",
 "intro": "Quelles chansons bouyon écouter pour comprendre le genre ? Des classiques des groupes de la Dominique aux titres récents suivis par Bouyon Shattaz, voici la méthode et les noms à retenir. Pour le genre lui-même, lisez <a href=\"/\">qu'est-ce que le bouyon</a>.",
@@ -745,7 +745,7 @@ PAGES = [
 },
 {
 "slug": "nouveautes-bouyon-2026.html", "cat": "Écouter le bouyon", "nav": "Nouveautés bouyon 2026",
-"title": "Nouveautés Bouyon 2026 : les sorties bouyon de l’année",
+"title": "Nouveautes Bouyon 2026 | Sorties de l'annee | Bouyon Musique",
 "desc": "Nouveautés bouyon 2026 : les sorties de l'année suivies par Bouyon Shattaz, de Joli BB de Reo aux remixes Smokiller, avec HYPNO, Savion et Denmath.",
 "h1": "Nouveautés bouyon 2026 : l’année en cours",
 "intro": "2026 est une année pleine pour le bouyon : nouvelles collaborations entre la Dominique et les Antilles françaises, série Producer Session chez Bouyon Shattaz, et un World Creole Music Festival à Roseau en octobre qui concentre tous les regards.",
@@ -803,7 +803,7 @@ PAGES = [
 },
 {
 "slug": "playlist-shatta.html", "cat": "Écouter le bouyon", "nav": "Playlist shatta",
-"title": "Playlist Shatta : écouter le shatta et le shatta bouyon",
+"title": "Playlist Shatta | Shatta et shatta bouyon | Bouyon Musique",
 "desc": "Playlist shatta : les titres shatta et shatta bouyon à écouter en 2026, et le lien avec la Bouyon Road Mix de Bouyon Shattaz pour passer du shatta au bouyon.",
 "h1": "Playlist shatta : du shatta au shatta bouyon",
 "intro": "Ceux qui cherchent une playlist shatta cherchent souvent, sans le savoir, la moitié bouyon du son antillais moderne. Cette page fait le lien : les titres shatta bouyon à connaître, et la playlist pour les écouter.",
@@ -857,7 +857,7 @@ PAGES = [
 },
 {
 "slug": "bouyon-music-2026.html", "cat": "Écouter le bouyon", "nav": "Bouyon Music 2026",
-"title": "Bouyon Music 2026 : le guide complet en français",
+"title": "Bouyon Music 2026 | Guide francais 2026 | Bouyon Musique",
 "desc": "Bouyon Music 2026 : le guide en français du bouyon de l’année. Artistes, sorties, playlists et événements, par Bouyon Shattaz, média du bouyon dominicain.",
 "h1": "Bouyon Music 2026 : tout le bouyon de l’année, en français",
 "intro": "Bouyon music est le terme anglais du genre, mais son année 2026 se raconte très bien en français : c’est en Gwada, en Martinique, en Guyane et à Paris que le public francophone fait vivre le bouyon né en Dominique.",
@@ -911,7 +911,7 @@ PAGES = [
 },
 {
 "slug": "meilleur-bouyon.html", "cat": "Écouter le bouyon", "nav": "Le meilleur du bouyon",
-"title": "Le meilleur du Bouyon : artistes, titres et playlists essentiels",
+"title": "Meilleur Bouyon | Les essentiels du bouyon | Bouyon Musique",
 "desc": "Le meilleur du bouyon selon Bouyon Shattaz : les artistes essentiels, les titres incontournables, les styles à connaître et la playlist pour tout écouter.",
 "h1": "Le meilleur du bouyon, selon Bouyon Shattaz",
 "intro": "Si vous ne deviez garder qu’une porte d’entrée dans le bouyon, la voici : les artistes essentiels, les styles qui comptent et la playlist qui résume le genre, de 1988 à 2026.",

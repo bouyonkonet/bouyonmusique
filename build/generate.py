@@ -738,7 +738,7 @@ def main():
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Plan du site Bouyon Musique : tous les sujets bouyon</title>
+<title>Plan du site | Tous les sujets bouyon | Bouyon Musique</title>
 <meta name="description" content="Toutes les pages de BouyonMusique.com : histoire du bouyon, styles, artistes, producteurs, playlists, carnaval de la Dominique et scènes bouyon par pays.">
 <meta name="robots" content="index, follow">
 <link rel="canonical" href="https://bouyonmusique.com/plan-du-site.html">

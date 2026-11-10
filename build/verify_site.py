@@ -4,7 +4,9 @@
 python3 build/verify_site.py [site root] [--metrics-only]
 
 Checks: internal links resolve, JSON-LD parses, every indexable page is in the
-sitemaps and every sitemap URL exists, no duplicate titles, no em or en dashes
+sitemaps and every sitemap URL exists, no duplicate titles within a language
+(a French page and its English mirror may share a title: they are hreflang
+alternates, not duplicates), no em or en dashes
 in mixtape and chronique pages, no auto-link of a name glued to another
 capitalised word (Life Nice, Serbin Freddy, Trixx Migos).
 """
@@ -68,7 +70,13 @@ def main():
             indexable.add(u)
             t = re.search(r"<title>(.*?)</title>", text, re.S)
             if t:
-                titles[t.group(1).strip()].append(u)
+                # Duplicate titles are checked within each language only:
+                # the site is a 1:1 French/English mirror with page-by-page
+                # hreflang, so a French page and its English mirror sharing
+                # a language-neutral title (artist name, song titles, year)
+                # is an alternate, not a duplicate.
+                lang = "en" if u.startswith("/en/") else "fr"
+                titles[(lang, t.group(1).strip())].append(u)
         m["pages"] += 1
         m["pages_byline"] += 'rel="author"' in main_html
         m["pages_breadcrumb"] += 'class="breadcrumb"' in main_html
@@ -84,9 +92,9 @@ def main():
             word = re.sub(r"<[^>]+>", "", bad)
             if re.search(r"\b(Life Nice|Feeling Nice|Serbin Freddy|Miguel Hussey|Trixx Migos)\b", word):
                 errors.append(f"{u}: auto-link glued to another name: {word}")
-    for t, us in titles.items():
+    for (lang, t), us in titles.items():
         if len(us) > 1:
-            errors.append(f"duplicate title {t!r}: {us}")
+            errors.append(f"duplicate title ({lang}) {t!r}: {us}")
 
     sm = ROOT / "sitemap.xml"
     locs = []

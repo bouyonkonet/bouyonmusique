@@ -21,7 +21,7 @@ MIXTAPES = [
     {
         "slug": "mixtapes/bouyon-music-2026-mix-vol-1.html",
         "nav": "Bouyon Music 2026 Mix Vol. 1",
-        "title": "Bouyon Music 2026 Mix Vol. 1 : tracklist de la mixtape de Smokiller",
+        "title": "Bouyon Mix Vol. 1 | Tracklist, 20 titres | Bouyon Musique",
         "h1": "Bouyon Music 2026 Mix Vol. 1, la mixtape de Smokiller",
         "desc": "Bouyon Music 2026 Mix Vol. 1 : 20 titres en 41 minutes, mixés par Smokiller. Tracklist minutée, Trilla-G, J Lion, Khallion, DOVA, Reo et Téhilah.",
         "date_published": "2026-10-23",
@@ -71,7 +71,7 @@ MIXTAPES = [
     {
         "slug": "mixtapes/old-school-bouyon-mix.html",
         "nav": "Old School Bouyon Mix",
-        "title": "Old School Bouyon Mix : tracklist de la mixtape de Smokiller",
+        "title": "Old School Bouyon Mix | Tracklist 21 titres | Bouyon Musique",
         "h1": "Old School Bouyon Mix, la mixtape des classiques de Smokiller",
         "desc": "Old School Bouyon Mix : 21 titres en 46 minutes, mixés par Smokiller. Tracklist minutée, d’Esclav, WCK, Triple Kay et XS Groove à Efex et Energy Band.",
         "date_published": "2026-10-23",

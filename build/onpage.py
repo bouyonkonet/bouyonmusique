@@ -3,10 +3,12 @@
 it can also be run alone from the repository root:  python3 build/onpage.py
 
 What it does on every page, in French and English, rerun-safe:
-  - <title> and og:title cut to 60 characters, keeping the name first and the
-    word bouyon in; meta description cut to 190 at a sentence or clause end (160 to 190 reads best).
-    The data files keep the long editorial titles; the page shows the short one.
-  - H1 replaced by the short title when it has no "bouyon" or runs past 70 characters.
+  - <title> and og:title follow the pipe format "Keyword | Benefit | Bouyon
+    Musique". short_title() shortens ONLY the benefit segment when the total
+    runs past 60 characters; the keyword and the brand are never cut. Titles
+    that are not in the pipe format pass through unchanged. Meta description
+    cut to 190 at a sentence or clause end (160 to 190 reads best).
+  - H1s stay exactly as authored (frozen since the 2026-11-10 title rewrite).
   - Per-page image: the first YouTube thumbnail on the page becomes og:image,
     the WebPage primaryImageOfPage and the MusicGroup image.
   - VideoObject structured data for every YouTube facade (up to 3), from yt_meta.json,
@@ -101,10 +103,18 @@ STOP = {"de", "du", "des", "la", "le", "les", "l’", "et", "au", "aux", "en", "
 
 
 def _word_cut(text, room):
-    """Longest word-boundary prefix of text that fits in room, without a dangling stopword."""
+    """Longest word-boundary prefix of text that fits in room, without a dangling stopword. Never returns more than room characters."""
     if len(text) <= room:
         return text
-    words = text[:room + 1].rsplit(" ", 1)[0].split(" ")
+    if room <= 0:
+        return ""
+    if text[room] == " ":
+        cut = text[:room]
+    elif " " in text[:room]:
+        cut = text[:room].rsplit(" ", 1)[0]
+    else:
+        return ""
+    words = cut.split(" ")
     while words and (words[-1].lower().rstrip(",:;") in STOP or len(words[-1]) < 2
                      or (len(words) > 1 and words[-2].lower().rstrip(",:;") in STOP)):
         words.pop()
@@ -124,59 +134,41 @@ def island_of(slug, lang):
 
 
 def short_title(t, slug=None, lang="fr"):
-    """Name first, then as many clauses as fit in 60 characters, with "bouyon" kept when the title had it."""
-    has_bouyon = "bouyon" in t.lower()
-    if len(t) <= TITLE_MAX and has_bouyon:
+    """Pipe-format titles only: Keyword | Benefit | Bouyon Musique.
+
+    Shorten ONLY the benefit (middle) segment, by word-cutting until the
+    total fits TITLE_MAX. The keyword and the brand are never touched, no
+    island is appended, and no second brand is added. A title that is not
+    in the three-segment pipe format (old data titles, hand-built pages)
+    passes through unchanged: the rewrite moves every data title to the
+    pipe format, so nothing here should re-cut them. If the keyword plus
+    the brand alone already fills TITLE_MAX, or the benefit cannot be cut
+    to a usable length, the title is left untouched for a human call.
+    """
+    segs = [s.strip() for s in t.split(" | ")]
+    if len(segs) != 3 or segs[2] != "Bouyon Musique":
         return t
-    sep = " : " if " : " in t else ": "
-    name, rest = (t.split(sep, 1) + [""])[:2] if sep in t else (t, "")
-    clauses = [c.strip() for c in re.split(r",\s+", rest) if c.strip()]
-    tail_at = next((i for i, c in enumerate(clauses) if re.fullmatch(r"bouyon.*", c, re.I)), None)
-    body, tail = (clauses, []) if tail_at is None else (clauses[:tail_at], clauses[tail_at:])
-    join = lambda kept: name + (sep + ", ".join(kept) if kept else "")
-    kept = []
-    for c in body:
-        if len(join(kept + [c])) > TITLE_MAX:
-            if not kept:
-                cut = _word_cut(c, TITLE_MAX - len(name) - len(sep) - (0 if "bouyon" in c.lower() or not has_bouyon else 8))
-                if len(cut) >= 8:
-                    kept.append(cut)
-            break
-        kept.append(c)
-    if has_bouyon and "bouyon" not in join(kept).lower():
-        for c in tail or ["bouyon"]:
-            if len(join(kept + [c])) <= TITLE_MAX:
-                kept.append(c)
-            else:
-                break
-        while "bouyon" not in join(kept).lower():
-            if len(kept) > 1:
-                kept.pop()
-                if len(join(kept + ["bouyon"])) <= TITLE_MAX:
-                    kept.append("bouyon")
-            elif kept:
-                kept = [_word_cut(kept[0], TITLE_MAX - len(name) - len(sep) - 8), "bouyon"]
-            else:
-                kept = ["bouyon"]
-        isl = island_of(slug, lang) if slug else None
-        if isl and isl.lower() not in join(kept).lower() and len(join(kept + [isl])) <= TITLE_MAX:
-            kept.append(isl)
-    elif has_bouyon:
-        for c in tail:
-            if len(join(kept + [c])) > TITLE_MAX:
-                break
-            kept.append(c)
-    if len(join(kept)) < 45 and len(kept) < len(body):
-        cut = _word_cut(body[len(kept)], TITLE_MAX - len(join(kept)) - 2)
-        if len(cut) >= 10:
-            kept.append(cut)
-    out = join(kept)
+    keyword, benefit, brand = segs
+    if len(t) <= TITLE_MAX:
+        return t
+    fixed = len(keyword) + len(" | ") + len(" | ") + len(brand)
+    if fixed >= TITLE_MAX:
+        return t
+    room = TITLE_MAX - fixed
+    # Never split the benefit's first comma phrase: either it fits whole
+    # (e.g. an island name) or the title is left untouched and flagged,
+    # rather than keeping a fragment like "Saint" of "Saint Vincent...".
+    first = benefit.split(",", 1)[0]
+    if len(first) > room:
+        return t
+    cut = _word_cut(benefit, room)
+    if len(cut) < len(first):
+        cut = first
+    if len(cut) < 4:
+        return t
+    out = keyword + " | " + cut + " | " + brand
     if len(out) > TITLE_MAX:
-        out = _word_cut(out, TITLE_MAX - (8 if has_bouyon else 0))
-        if has_bouyon and "bouyon" not in out.lower():
-            out += ", bouyon"
-    if (not has_bouyon or len(out) <= 40) and len(out) + len(" | Bouyon Musique") <= TITLE_MAX:
-        out += " | Bouyon Musique"
+        return t
     return out
 
 
@@ -283,13 +275,9 @@ def process(path, rel, hashes):
     if new_desc != desc:
         s = re.sub(r'<meta name="description" content="[^"]*">', lambda m: f'<meta name="description" content="{esc(new_desc)}">', s, count=1)
         s = re.sub(r'<meta property="og:description" content="[^"]*">', lambda m: f'<meta property="og:description" content="{esc(new_desc)}">', s, count=1)
-    h1m = re.search(r"<h1>(.*?)</h1>", s, re.S)
-    if h1m:
-        h1 = html.unescape(re.sub(r"<[^>]+>", "", h1m.group(1))).strip()
-        if "bouyon" not in h1.lower() or len(h1) > H1_MAX:
-            new_h1 = re.sub(r" \| Bouyon Musique$", "", new_title)
-            if new_h1 != h1:
-                s = s[:h1m.start()] + f"<h1>{esc(new_h1)}</h1>" + s[h1m.end():]
+    # H1s are frozen: they stay exactly as authored. (2026-11-10 title rewrite:
+    # pipe-format titles must not flow into H1s, and the repo rule keeps H1s
+    # stable. The old rule that replaced H1s with the short title is removed.)
 
     # 1b. social card tags
     if '<meta name="twitter:title"' not in s and '<meta name="twitter:card"' in s:

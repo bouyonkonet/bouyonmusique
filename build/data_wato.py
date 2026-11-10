@@ -7,7 +7,7 @@ PAGES = [
   "slug": "festival-wato-dominique-2026.html",
   "cat": "Actus bouyon",
   "nav": "Festival WATO 2026 a Rosalie Bay",
-  "title": "Festival WATO Dominique 2026 : cuisine et culture a Rosalie Bay le 31 octobre",
+  "title": "Festival WATO 2026 | Rosalie Bay, 31 oct. | Bouyon Musique",
   "desc": "Ce samedi 31 octobre 2026, le WATO Food & Culture Festival tient sa 12e edition, ANCESTORS, a Rosalie Bay Resort & Spa : cuisine en plein air de 12 h a 20 h, chefs des Caraibes et feux allumes haut pour les ancetres.",
   "h1": "Festival WATO 2026 : la 12e edition ANCESTORS, ce samedi 31 octobre a Rosalie Bay",
   "intro": "C est demain. Ce samedi 31 octobre 2026, le WATO Food & Culture Festival revient a Rosalie Bay Resort & Spa, a Rosalie, pour sa 12e edition, baptisee ANCESTORS. De 12 h a 20 h, le festival de la cheffe Nyanda fait de la cuisine en plein air une celebration de la cuisine, de la musique et des traditions de la Dominique.",

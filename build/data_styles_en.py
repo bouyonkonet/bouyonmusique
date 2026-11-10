@@ -2,7 +2,7 @@
 PAGES = [
 {
 "slug": "bouyon-soca.html", "fr_slug": "bouyon-soca.html", "cat": "Bouyon styles", "nav": "Bouyon soca",
-"title": "Bouyon Soca: the bouyon and soca fusion explained",
+"title": "Bouyon soca | Origin, sound and territories | Bouyon Musique",
 "desc": "Bouyon soca: the fusion of Dominica bouyon and Trinidad soca. Origin, sound and territories: Saint Lucia, Antigua, Guadeloupe and Martinique.",
 "h1": "Bouyon soca: when Dominica bouyon meets soca",
 "intro": "Bouyon soca is the most popular fusion born around bouyon: the fast rhythms and keyboards of Dominican bouyon meet the energy and the codes of Trinidad soca. The fusion was started in Dominica by Dada in 2003, according to the first-hand testimony of Smokiller, who was in the rooms with Dada and Nursery Krew, before it travelled across the Caribbean.",
@@ -133,12 +133,12 @@ PAGES = [
 ],
 "date_modified": "2026-10-21",
 "extra_graph": [
-  {"@type": "Article", "headline": "Bouyon Soca: the bouyon and soca fusion explained", "author": {"@id": "https://bouyonmusique.com/#smokiller"}, "publisher": {"@id": "https://bouyonmusique.com/#org"}, "inLanguage": "en"}
+  {"@type": "Article", "headline": "Bouyon soca | Origin, sound and territories | Bouyon Musique", "author": {"@id": "https://bouyonmusique.com/#smokiller"}, "publisher": {"@id": "https://bouyonmusique.com/#org"}, "inLanguage": "en"}
 ],
 },
 {
 "slug": "bouyon-gwada.html", "fr_slug": "bouyon-gwada.html", "cat": "Bouyon styles", "nav": "Bouyon gwada",
-"title": "Bouyon Gwada: the hardcore branch of bouyon in Guadeloupe",
+"title": "Bouyon Gwada | Hardcore branch, Guadeloupe | Bouyon Musique",
 "desc": "Bouyon gwada: the hardcore branch of bouyon born between Dominica and Guadeloupe. History, raw sound and its place in the bouyon of the French Antilles.",
 "h1": "Bouyon gwada: the hardcore bouyon of Guadeloupe",
 "intro": "Bouyon gwada, also called hardcore bouyon, is the branch of bouyon that grew between Dominica and Guadeloupe. The two islands share Antillean Creole, and their musicians together built a sound that is harder, faster and rawer than the classic bouyon of the live bands. This page explains where bouyon gwada comes from, how it sounds, who carried it from the parties of the 2010s to the gold records of the 2020s, and why its origin stays Dominican.",
@@ -261,12 +261,12 @@ PAGES = [
 ],
 "date_modified": "2026-10-21",
 "extra_graph": [
-  {"@type": "Article", "headline": "Bouyon Gwada: the hardcore branch of bouyon in Guadeloupe", "author": {"@id": "https://bouyonmusique.com/#smokiller"}, "publisher": {"@id": "https://bouyonmusique.com/#org"}, "inLanguage": "en"}
+  {"@type": "Article", "headline": "Bouyon Gwada | Hardcore branch, Guadeloupe | Bouyon Musique", "author": {"@id": "https://bouyonmusique.com/#smokiller"}, "publisher": {"@id": "https://bouyonmusique.com/#org"}, "inLanguage": "en"}
 ],
 },
 {
 "slug": "shatta-bouyon.html", "fr_slug": "shatta-bouyon.html", "cat": "Bouyon styles", "nav": "Shatta bouyon",
-"title": "Shatta Bouyon: the modern bouyon of the Antilles and France",
+"title": "Shatta Bouyon | Riddims, clubs, socials | Bouyon Musique",
 "desc": "Shatta bouyon: the modern form of bouyon carried by Antillean producers and the French scene. Riddims, clubs, social media and its Dominican roots.",
 "h1": "Shatta bouyon: the modern face of bouyon",
 "intro": "Shatta bouyon is the current and most visible form of bouyon on social media and in clubs: short, hard, danceable riddims, produced by the new Antillean and French generation, which keep the DNA of the bouyon born in Dominica.",
@@ -321,7 +321,7 @@ PAGES = [
 },
 {
 "slug": "bouyon-muffin.html", "fr_slug": "bouyon-muffin.html", "cat": "Bouyon styles", "nav": "Bouyon-muffin",
-"title": "Bouyon-Muffin: bouyon meets dancehall ragga",
+"title": "Bouyon-muffin | Ragga voices, dancehall | Bouyon Musique",
 "desc": "Bouyon-muffin: the branch of bouyon influenced by Jamaican dancehall and ragga. Raggamuffin voices over Dominica bouyon riddims, history and legacy.",
 "h1": "Bouyon-muffin: when bouyon crosses ragga",
 "intro": "Bouyon-muffin is one of bouyon’s first children: from the 1990s, Dominican singers lay voices inspired by Jamaican dancehall and raggamuffin over the fast rhythms of bouyon. The result is a very recognizable vocal style, between singing, shouting and toasting.",
@@ -379,7 +379,7 @@ PAGES = [
 },
 {
 "slug": "reketeng.html", "fr_slug": "reketeng.html", "cat": "Bouyon styles", "nav": "Wrecketeng",
-"title": "Wrecketeng: the other festive branch of Dominican bouyon",
+"title": "Wrecketeng | Festive branch of bouyon | Bouyon Musique",
 "desc": "Wrecketeng: a branch of bouyon born in Dominica, in the family of bouyon fusions with bouyon soca and bouyon-muffin. What you need to know about the style.",
 "h1": "Wrecketeng: the pleasure branch of bouyon",
 "intro": "Wrecketeng is one of the forms derived from bouyon in Dominica, alongside bouyon soca and bouyon-muffin. Less known outside the Caribbean than classic bouyon, it belongs to the same creative explosion that followed the creation of the genre by WCK in 1988. Its official spelling, Wrecketeng, comes from DJ Cut himself, the founding member who pioneered the style: the 'reketeng' spelling spread across the internet is a misspelling that became common.",
@@ -441,7 +441,7 @@ PAGES = [
 },
 {
 "slug": "jump-up.html", "fr_slug": "jump-up.html", "cat": "Bouyon styles", "nav": "Jump up",
-"title": "Jump Up: the name for bouyon in Guadeloupe and Martinique",
+"title": "Jump Up | Bouyon name in the Antilles | Bouyon Musique",
 "desc": "Jump up: in Guadeloupe and Martinique, it is the everyday name for the bouyon music of Dominica. Why this name, and how jump up lives at the Antillean carnival.",
 "h1": "Jump up: bouyon under its French Antillean name",
 "intro": "If you are looking for bouyon in Guadeloupe or Martinique, ask for jump up. It is the name the French Antilles give to the bouyon music of Dominica, a name that sums up its effect: a fast tempo that makes everybody jump.",
@@ -503,7 +503,7 @@ PAGES = [
 },
 {
 "slug": "old-school-bouyon.html", "fr_slug": "old-school-bouyon.html", "cat": "Bouyon styles", "nav": "Old school bouyon",
-"title": "Old School Bouyon: the bouyon of the 1990s",
+"title": "Old School Bouyon | 1990s bouyon, WCK era | Bouyon Musique",
 "desc": "Old school bouyon: the bouyon of the live bands of the 1990s in Dominica, the era of WCK, RSB and First Serenade. The original sound that fans still defend.",
 "h1": "Old school bouyon: the original sound of the 1990s",
 "intro": "Old school bouyon is the bouyon of the live bands that ruled Dominica in the 1990s: WCK, Roots Stems and Branches, First Serenade and their heirs. A sound of the stage, of carnival and of village fetes, which purists cite as the reference for the genre.",
@@ -561,7 +561,7 @@ PAGES = [
 },
 {
 "slug": "gospel-bouyon.html", "fr_slug": "gospel-bouyon.html", "cat": "Bouyon styles", "nav": "Gospel bouyon",
-"title": "Gospel Bouyon: the praise version of bouyon",
+"title": "Gospel Bouyon | Praise, bouyon rhythm | Bouyon Musique",
 "desc": "Gospel bouyon: when the bouyon rhythm of Dominica serves Christian praise in the Caribbean. A real, much searched branch of bouyon music.",
 "h1": "Gospel bouyon: bouyon in the service of praise",
 "intro": "Gospel bouyon applies the rhythmic machine of bouyon, fast tempo, keyboards and collective energy, to Christian praise lyrics. In the Caribbean, where the church is part of musical life, this branch shows how deeply bouyon has become the common musical language of Dominica.",
@@ -607,7 +607,7 @@ PAGES = [
 },
 {
 "slug": "bouyon-moderne.html", "fr_slug": "bouyon-moderne.html", "cat": "Bouyon styles", "nav": "Modern bouyon",
-"title": "Modern Bouyon: the new bouyon sound of 2026",
+"title": "Modern bouyon | Digital riddims, shatta | Bouyon Musique",
 "desc": "Modern bouyon 2026: digital riddims, shatta bouyon, remixes and producers of the new generation, between Dominica, Guadeloupe, Martinique and Paris.",
 "h1": "Modern bouyon: what the bouyon of 2026 looks like",
 "intro": "Modern bouyon is the sum of all the genre’s evolutions since 1988: the Dominican base of WCK, the energy of bouyon gwada, the network form of shatta bouyon and the work of producers who build riddims in their bedrooms between Roseau, Pointe-à-Pitre and Paris.",

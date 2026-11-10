@@ -2,7 +2,7 @@
 PAGES = [
 {
 "slug": "what-is-bouyon.html", "fr_slug": "qu-est-ce-que-le-bouyon.html", "cat": "Bouyon guides", "nav": "What bouyon is",
-"title": "What Is Bouyon? A simple definition of bouyon music",
+"title": "What is bouyon | A simple definition | Bouyon Musique",
 "desc": "Bouyon definition: a music genre created in Dominica in the late 1980s, mixing jing ping, cadence-lypso, zouk and electronic rhythms. Simply explained.",
 "h1": "What is bouyon? The simple definition",
 "intro": "Bouyon is a musical genre created in Dominica, a small Caribbean island, in the late 1980s. It is fast-tempo party and carnival music that mixes Dominican traditions with keyboards and electronic rhythms. In Guadeloupe and Martinique, it is also called jump up.",
@@ -65,7 +65,7 @@ PAGES = [
 },
 {
 "slug": "origin-of-bouyon.html", "fr_slug": "origine-du-bouyon.html", "cat": "Bouyon guides", "nav": "Origin of bouyon",
-"title": "Origin of Bouyon: Dominica, birthplace of the genre",
+"title": "Origin of bouyon | Dominica, birthplace | Bouyon Musique",
 "desc": "The origin of bouyon: created in Roseau, Dominica, in the late 1980s by WCK. Why Dominica is the birthplace of bouyon and why the credit must stay there.",
 "h1": "Origin of bouyon: Dominica first",
 "intro": "Every bouyon road leads to Roseau, in Dominica. It is there, in the late 1980s, that Dominican musicians created a new genre from their own traditions. Knowing the origin of bouyon means understanding why Bouyon Shattaz repeats one simple phrase: bouyon was born in Dominica.",
@@ -124,7 +124,7 @@ PAGES = [
 },
 {
 "slug": "meaning-of-bouyon.html", "fr_slug": "signification-bouyon.html", "cat": "Bouyon guides", "nav": "Meaning of bouyon",
-"title": "What does Bouyon mean? The meaning of the word in Creole",
+"title": "What does bouyon mean | A Creole gumbo soup | Bouyon Musique",
 "desc": "Meaning of bouyon: in Antillean Creole, a gumbo soup, a slow-cooked Caribbean dish. Why this name perfectly sums up the bouyon music of Dominica.",
 "h1": "Bouyon: a name that means soup",
 "intro": "In Antillean Creole, the word bouyon means something like a gumbo soup, or a koubouyon pwason, a fish broth typical of the Caribbean. A dish where you put everything you have, and where the mix creates the taste. The creators of the genre could not have found a better name.",
@@ -182,7 +182,7 @@ PAGES = [
 },
 {
 "slug": "bouyon-vs-soca.html", "fr_slug": "bouyon-ou-soca.html", "cat": "Bouyon guides", "nav": "Bouyon vs soca",
-"title": "Bouyon vs Soca: the differences between the two genres",
+"title": "Bouyon vs soca | Origin and rhythm | Bouyon Musique",
 "desc": "Bouyon vs soca music: origin (Dominica vs Trinidad), rhythms, instruments and spirit. A clear guide to telling the two apart and to bouyon soca.",
 "h1": "Bouyon vs soca music: what really sets them apart",
 "intro": "Bouyon and soca are the two great carnival musics of the English-speaking and Creole-speaking Caribbean, and they are often confused. Yet they are born on two different islands, with two distinct histories and two distinct sounds.",
@@ -254,7 +254,7 @@ PAGES = [
 },
 {
 "slug": "bouyon-vs-zouk.html", "fr_slug": "bouyon-ou-zouk.html", "cat": "Bouyon guides", "nav": "Bouyon vs zouk",
-"title": "Bouyon vs Zouk: two Creole sounds, two energies",
+"title": "Bouyon vs zouk | Two Creole sounds | Bouyon Musique",
 "desc": "Bouyon vs zouk: the zouk of Guadeloupe and Martinique of the 1980s against the bouyon of Dominica. Origins, tempos and roles in Antillean music.",
 "h1": "Bouyon vs zouk: cousins, not twins",
 "intro": "Zouk and bouyon are the two great musical inventions of the Creole-speaking Caribbean of the 1980s. The first comes from Guadeloupe and Martinique, the second from Dominica. They know each other well: zouk is even one of the ingredients of bouyon.",
@@ -308,7 +308,7 @@ PAGES = [
 },
 {
 "slug": "bouyon-vs-shatta.html", "fr_slug": "bouyon-ou-shatta.html", "cat": "Bouyon guides", "nav": "Bouyon vs shatta",
-"title": "Bouyon vs Shatta: the relationship between the two sounds",
+"title": "Bouyon vs shatta | Two genres, two islands | Bouyon Musique",
 "desc": "Bouyon vs shatta: shatta is a dancehall genre born in Martinique, bouyon the historic Dominican genre. Their meeting creates shatta bouyon, explained here.",
 "h1": "Bouyon vs shatta: two genres, two islands",
 "intro": "Bouyon and shatta are often set against each other like two generations. In reality, they are two distinct genres, shatta, a dancehall genre born in Martinique, and bouyon, born in Dominica, and shatta bouyon is their direct meeting point.",
@@ -366,7 +366,7 @@ PAGES = [
 },
 {
 "slug": "bouyon-instruments.html", "fr_slug": "instruments-du-bouyon.html", "cat": "Bouyon guides", "nav": "Bouyon instruments",
-"title": "The instruments of Bouyon: lapo kabwit, accordion, keyboards",
+"title": "Bouyon instruments | Lapo kabwit, keyboards | Bouyon Musique",
 "desc": "The instruments of bouyon: bele drum, lapo kabwit, chakchak, the jing ping accordion, keyboards and drum machines. The guide to the sounds of bouyon.",
 "h1": "The instruments of bouyon: from the traditional drum to the keyboard",
 "intro": "The bouyon sound comes from a meeting: the traditional instruments of Dominica, inherited from jing ping and the Creole dances, plugged into the machines of the 1980s, keyboards, synthesizers and drum machines.",
@@ -432,7 +432,7 @@ PAGES = [
 },
 {
 "slug": "jing-ping.html", "fr_slug": "jing-ping.html", "cat": "Bouyon guides", "nav": "Jing ping",
-"title": "Jing Ping: the traditional music of Dominica",
+"title": "Jing Ping | Traditional root of bouyon | Bouyon Musique",
 "desc": "Jing ping: the traditional dance music of Dominica, with accordion, lapo kabwit and bamboo flute. One of the two parents of bouyon, with cadence-lypso.",
 "h1": "Jing ping: the traditional root of bouyon",
 "intro": "No bouyon without jing ping. This traditional dance music of Dominica, led by the accordion, is one of the two founding ingredients of the genre, with cadence-lypso.",
@@ -490,7 +490,7 @@ PAGES = [
 },
 {
 "slug": "cadence-lypso.html", "fr_slug": "cadence-lypso.html", "cat": "Bouyon guides", "nav": "Cadence-lypso",
-"title": "Cadence-Lypso: the other parent of Dominican bouyon",
+"title": "Cadence-Lypso | The other bouyon parent | Bouyon Musique",
 "desc": "Cadence-lypso: the Dominican genre of the 1970s of Exile One and the Grammacks, a fusion of cadence and calypso. With jing ping, it gave birth to bouyon.",
 "h1": "Cadence-lypso: the first Dominican sound to travel",
 "intro": "Before bouyon, Dominica had already invented a genre that travelled across the whole Caribbean: cadence-lypso. It is the other parent of bouyon, and the proof that the island is a land of musical invention.",

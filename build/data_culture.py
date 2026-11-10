@@ -2,7 +2,7 @@
 PAGES = [
 {
 "slug": "bouyon-et-kweyol.html", "cat": "Culture bouyon", "nav": "Bouyon et kwéyòl",
-"title": "Bouyon et Kwéyòl : la langue créole au coeur du bouyon",
+"title": "Bouyon et kweyol | La langue creole | Bouyon Musique",
 "desc": "Bouyon et kwéyòl : pourquoi le bouyon se chante dans la langue créole de la Dominique mêlée à l'anglais, et ce que cette langue dit du genre.",
 "h1": "Bouyon et kwéyòl : le genre parle créole",
 "intro": "Le bouyon se chante d’abord en kwéyòl, la langue créole de la Dominique, mélangée à l’anglais. Cette langue n’est pas un décor : c’est elle qui porte les appels, les blagues, les commentaires sociaux et l’énergie du chanté mas.",
@@ -60,7 +60,7 @@ PAGES = [
 },
 {
 "slug": "avenir-du-bouyon.html", "cat": "Culture bouyon", "nav": "Avenir du bouyon",
-"title": "L’avenir du Bouyon : distribution, réseaux et origine dominicaine",
+"title": "Avenir du bouyon | Distribution, streaming | Bouyon Musique",
 "desc": "L’avenir du bouyon : comment le genre né en Dominique peut grandir en France et sur le streaming sans perdre son origine. Le modèle Bouyon Shattaz.",
 "h1": "L’avenir du bouyon se joue maintenant",
 "intro": "Le bouyon n’a jamais eu autant d’audience, et jamais son avenir n’a été aussi ouvert. La question n’est plus de savoir si le genre va grandir, mais qui va en garder les clés : ses créateurs dominicains, ou les industries d’ailleurs.",
@@ -114,7 +114,7 @@ PAGES = [
 },
 {
 "slug": "bouyon-au-feminin.html", "cat": "Culture bouyon", "nav": "Le bouyon au féminin",
-"title": "Le Bouyon au féminin : les femmes de la scène bouyon",
+"title": "Bouyon au feminin | Les femmes de la scene | Bouyon Musique",
 "desc": "Le bouyon au féminin : chanteuses et collaboratrices de la scène bouyon, de Maurane Voyer sur Joli BB aux voix des remixes et des nouvelles sorties.",
 "h1": "Le bouyon au féminin : des voix qui comptent",
 "intro": "Le bouyon a longtemps été raconté au masculin, groupes et producteurs. Mais les voix féminines sont partout dans le genre de 2026 : en tête d’affiche, en collaboration et au coeur des titres qui voyagent le plus loin.",
@@ -172,7 +172,7 @@ PAGES = [
 },
 {
 "slug": "bouyon-shattaz.html", "cat": "Culture bouyon", "nav": "Bouyon Shattaz",
-"title": "Bouyon Shattaz : le média du bouyon dominicain",
+"title": "Bouyon Shattaz | Media du bouyon dominicain | Bouyon Musique",
 "desc": "Bouyon Shattaz : le média qui documente le bouyon depuis son origine dominicaine. Instagram, playlist Road Mix, remixes Smokiller et BouyonMusique.com.",
 "h1": "Bouyon Shattaz : le média derrière ce site",
 "intro": "BouyonMusique.com est publié par Bouyon Shattaz, le média qui documente le bouyon au quotidien : sorties, artistes, producteurs, événements et histoire du genre, avec une ligne claire, le bouyon est né en Dominique et doit profiter à la Dominique.",
@@ -226,7 +226,7 @@ PAGES = [
 },
 {
 "slug": "histoire-wcmf.html", "cat": "Culture bouyon", "nav": "Le WCMF en contexte",
-"title": "Le World Creole Music Festival et le bouyon : le contexte",
+"title": "WCMF et bouyon | Le contexte du festival | Bouyon Musique",
 "desc": "Le World Creole Music Festival et le bouyon : pourquoi le festival de Roseau est stratégique pour les artistes dominicains et le réseau Bouyon Shattaz.",
 "h1": "Le WCMF, scène stratégique du bouyon",
 "intro": "Chaque octobre, le World Creole Music Festival transforme Roseau en capitale mondiale des musiques créoles. Pour les artistes bouyon, c’est le rendez-vous où se jouent les collaborations, les contrats et la reconnaissance.",

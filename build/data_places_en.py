@@ -2,7 +2,7 @@
 PAGES = [
 {
 "slug": "bouyon-dominica.html", "fr_slug": "bouyon-dominique.html", "cat": "Bouyon by country", "nav": "Bouyon in Dominica",
-"title": "Bouyon in Dominica: the country that created bouyon",
+"title": "Bouyon in Dominica | The country of bouyon | Bouyon Musique",
 "desc": "Bouyon in Dominica: Roseau, the Mas Domnik carnival, WCK and the original groups. The country that created bouyon and the heart of bouyon music worldwide.",
 "h1": "Bouyon in Dominica: where it all began",
 "intro": "Dominica is the country of bouyon. It was in Roseau, its capital, that WCK created the genre in 1988, and it is in its villages and its carnival that the sound continues to live in its raw state.",
@@ -64,7 +64,7 @@ PAGES = [
 },
 {
 "slug": "bouyon-guadeloupe.html", "fr_slug": "bouyon-guadeloupe.html", "cat": "Bouyon by country", "nav": "Bouyon in Guadeloupe",
-"title": "Bouyon in Guadeloupe: bouyon gwada and jump up",
+"title": "Bouyon Guadeloupe | Bouyon gwada, jump up | Bouyon Musique",
 "desc": "Bouyon in Guadeloupe: called jump up, it became bouyon gwada in its hardcore branch. Pointe-à-Pitre carnival, DJs, producers and the Gwada bouyon audience.",
 "h1": "Bouyon in Guadeloupe: the genre’s second home",
 "intro": "Guadeloupe is the second home of bouyon. The island shares Creole with Dominica, and its audience has adopted the sound to the point of creating its own branch: bouyon gwada.",
@@ -130,7 +130,7 @@ PAGES = [
 },
 {
 "slug": "bouyon-martinique.html", "fr_slug": "bouyon-martinique.html", "cat": "Bouyon by country", "nav": "Bouyon in Martinique",
-"title": "Bouyon in Martinique: the jump up of Fort-de-France",
+"title": "Bouyon Martinique | Jump up, Fort-de-France | Bouyon Musique",
 "desc": "Bouyon in Martinique: jump up at the Fort-de-France carnival, Martinican audiences, Creole ties with Dominica and Guadeloupe, artists and parties.",
 "h1": "Bouyon in Martinique: jump up in the land of zouk",
 "intro": "Martinique, land of zouk, is also a land of bouyon. Martinican audiences know the genre under the name jump up and live it at carnival as well as at parties all year round.",
@@ -192,7 +192,7 @@ PAGES = [
 },
 {
 "slug": "bouyon-france.html", "fr_slug": "bouyon-france.html", "cat": "Bouyon by country", "nav": "Bouyon in France",
-"title": "Bouyon in France: certifications, stages and diaspora",
+"title": "Bouyon France | Certifications, diaspora | Bouyon Musique",
 "desc": "Bouyon in France: certifications, distribution and the Antillean diaspora. Why France is the genre’s big market, and what is at stake for Dominican credit.",
 "h1": "Bouyon in France: the genre’s big market",
 "intro": "France has become the big economic market for bouyon: it is there that tracks get certified, that distribution is being structured and that a large part of Antillean fans live. This reality gives France enormous power over a genre born in Dominica.",
@@ -250,7 +250,7 @@ PAGES = [
 },
 {
 "slug": "bouyon-paris.html", "fr_slug": "bouyon-paris.html", "cat": "Bouyon by country", "nav": "Bouyon in Paris",
-"title": "Bouyon in Paris: nights, DJs and the Parisian bouyon scene",
+"title": "Bouyon in Paris | Nights, DJs, diaspora | Bouyon Musique",
 "desc": "Bouyon in Paris: the French capital as a major bouyon scene. Nights, Antillean DJs, the diaspora and new shatta bouyon producers.",
 "h1": "Bouyon in Paris: the capital of the Antillean sound",
 "intro": "Paris is home to the largest Antillean diaspora in Europe, and bouyon has found a scene there: dedicated nights, specialist DJs, producers making the riddims of the moment and an audience that demands every new release.",
@@ -308,7 +308,7 @@ PAGES = [
 },
 {
 "slug": "bouyon-guyane.html", "fr_slug": "bouyon-guyane.html", "cat": "Bouyon by country", "nav": "Bouyon in French Guiana",
-"title": "Bouyon in French Guiana: bouyon on the South American continent",
+"title": "Bouyon French Guiana | Cayenne, carnivals | Bouyon Musique",
 "desc": "Bouyon in French Guiana: the Guyanese bouyon audience, between Cayenne, the carnivals and the Antillean networks. The continental branch of bouyon music.",
 "h1": "Bouyon in French Guiana: the Creole sound of the continent",
 "intro": "French Guiana, a French territory of South America with a strong Creole culture, is part of bouyon’s natural audience. Tracks from Dominica, Guadeloupe and Martinique circulate there through the networks, radio and parties.",
@@ -361,7 +361,7 @@ PAGES = [
 },
 {
 "slug": "bouyon-saint-martin.html", "fr_slug": "bouyon-saint-martin.html", "cat": "Bouyon by country", "nav": "Bouyon in Saint Martin",
-"title": "Bouyon in Saint Martin: the SXM producers and bouyon",
+"title": "Bouyon Saint Martin | The island of Denmath | Bouyon Musique",
 "desc": "Bouyon in Saint Martin: the island of Denmath, SXM bouyon producer based between Nantes and Paris. Saint Martin’s place in the new bouyon scene.",
 "h1": "Bouyon in Saint Martin: small island, sharp producers",
 "intro": "Saint Martin counts in the new geography of bouyon thanks to its producers, foremost among them Denmath, a beatmaker originally from SXM, a specialist in bouyon, kompa and shatta, known for his riddims Tropical Riddim and Harley Riddim.",
@@ -414,7 +414,7 @@ PAGES = [
 },
 {
 "slug": "bouyon-saint-lucia.html", "fr_slug": "bouyon-sainte-lucie.html", "cat": "Bouyon by country", "nav": "Bouyon in Saint Lucia",
-"title": "Bouyon in Saint Lucia: bouyon soca seen from Castries",
+"title": "Bouyon Saint Lucia | Bouyon soca, Castries | Bouyon Musique",
 "desc": "Bouyon in Saint Lucia: Dominica’s neighboring island where bouyon soca grew and spread, after it was started in Dominica in 2003. Links between Roseau and Castries, carnivals and Creole audiences.",
 "h1": "Bouyon in Saint Lucia: the neighbor where bouyon soca grew",
 "intro": "Saint Lucia is the Creole-speaking island closest to Dominica. Bouyon soca was launched in Dominica by Dada in 2003, according to the first-hand account of Smokiller, who was in the studios at the time. Saint Lucia then became one of the islands where the fusion grew the most, among producers and audiences who love Trinidad soca as much as Dominican bouyon.",
@@ -475,7 +475,7 @@ PAGES = [
 },
 {
 "slug": "bouyon-antigua.html", "fr_slug": "bouyon-antigua.html", "cat": "Bouyon by country", "nav": "Bouyon in Antigua",
-"title": "Bouyon in Antigua: bouyon soca in the Leewards",
+"title": "Bouyon in Antigua | Bouyon soca, Leewards | Bouyon Musique",
 "desc": "Bouyon in Antigua: the island’s place in the spread of bouyon and bouyon soca in the Leeward Islands, between Antigua carnival and the sounds of Dominica.",
 "h1": "Bouyon in Antigua: spreading toward the Leewards",
 "intro": "Antigua is one of the islands where bouyon and its fusion with soca have taken root for good. Its carnival and its sound systems relay the sounds of Dominica toward the Leeward Islands.",
@@ -532,7 +532,7 @@ PAGES = [
 },
 {
 "slug": "bouyon-diaspora.html", "fr_slug": "bouyon-diaspora.html", "cat": "Bouyon by country", "nav": "Bouyon and diaspora",
-"title": "Bouyon and diaspora: bouyon in New York, London and Toronto",
+"title": "Bouyon diaspora | New York, London | Bouyon Musique",
 "desc": "Bouyon in the diaspora: how Dominicans and Antilleans in New York, London, Toronto and Montreal keep bouyon alive far from the Caribbean.",
 "h1": "Bouyon and diaspora: the sound of home, far from home",
 "intro": "Everywhere Dominicans and Antilleans live, bouyon travels in suitcases and in phones: New York and Brooklyn, London, Toronto, Montreal. For the diaspora, a bouyon track is a piece of home.",

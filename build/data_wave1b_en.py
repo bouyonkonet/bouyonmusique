@@ -7,7 +7,7 @@ PAGES = [
   "fr_slug": "trilla-g.html",
   "cat": "Bouyon artists",
   "nav": "Trilla-G",
-  "title": "Trilla-G: Gael Jno Baptiste, from calypso to Dominica bouyon",
+  "title": "Trilla-G | Calypso Monarch 2023 | Bouyon Musique",
   "desc": "Trilla-G, real name Gael Jno Baptiste, artist from Dominica: 2023 Calypso Monarch, the hit Someone Else, the album Take Me as I Am and Fix Up with G'z Up.",
   "h1": "Trilla-G: the voice linking calypso and bouyon",
   "intro": "Trilla-G, real name Gael Jno Baptiste, is an artist from Dominica whose path links two worlds the island knows well: calypso, where he was crowned, and bouyon, the sound of today's carnival and fetes. On Instagram, where about 23,600 followers track him as @trillaonthemic, he embodies a generation that refuses to choose between heritage and the new wave.",

@@ -2,7 +2,7 @@
 PAGES = [
 {
 "slug": "bouyon-and-kweyol.html", "fr_slug": "bouyon-et-kweyol.html", "cat": "Bouyon culture", "nav": "Bouyon and Kwéyòl",
-"title": "Bouyon and Kwéyòl: the Creole language at the heart of bouyon",
+"title": "Bouyon and Kweyol | The Creole language | Bouyon Musique",
 "desc": "Bouyon and kwéyòl: the Creole language of Dominica in bouyon lyrics. Why bouyon is sung in kwéyòl and English, and what the language says about the genre.",
 "h1": "Bouyon and kwéyòl: the genre speaks Creole",
 "intro": "Bouyon is sung first of all in kwéyòl, the Creole language of Dominica, mixed with English. This language is not a decoration: it is what carries the calls, the jokes, the social commentary and the energy of chanté mas.",
@@ -60,7 +60,7 @@ PAGES = [
 },
 {
 "slug": "future-of-bouyon.html", "fr_slug": "avenir-du-bouyon.html", "cat": "Bouyon culture", "nav": "Future of bouyon",
-"title": "The Future of Bouyon: distribution, networks and Dominican origin",
+"title": "Future of bouyon | Distribution, networks | Bouyon Musique",
 "desc": "The future of bouyon: how the genre born in Dominica can grow in France and on streaming without losing its origin. The Bouyon Shattaz model explained.",
 "h1": "The future of bouyon is being decided now",
 "intro": "Bouyon has never had such a large audience, and its future has never been so open. The question is no longer whether the genre will grow, but who will keep its keys: its Dominican creators, or industries elsewhere.",
@@ -172,7 +172,7 @@ PAGES = [
 },
 {
 "slug": "bouyon-shattaz.html", "fr_slug": "bouyon-shattaz.html", "cat": "Bouyon culture", "nav": "Bouyon Shattaz",
-"title": "Bouyon Shattaz: the media of Dominican bouyon",
+"title": "Bouyon Shattaz | Dominican bouyon media | Bouyon Musique",
 "desc": "Bouyon Shattaz: the media outlet documenting bouyon from its Dominican origin. Instagram, Road Mix playlist, Smokiller remixes and BouyonMusique.com.",
 "h1": "Bouyon Shattaz: the media behind this site",
 "intro": "BouyonMusique.com is published by Bouyon Shattaz, the media outlet that documents bouyon every day: releases, artists, producers, events and the history of the genre, with one clear line, bouyon was born in Dominica and must benefit Dominica.",
@@ -226,7 +226,7 @@ PAGES = [
 },
 {
 "slug": "wcmf-context.html", "fr_slug": "histoire-wcmf.html", "cat": "Bouyon culture", "nav": "The WCMF in context",
-"title": "The World Creole Music Festival and bouyon: the context",
+"title": "WCMF and bouyon | Festival context | Bouyon Musique",
 "desc": "The context of the World Creole Music Festival for bouyon: why the Roseau festival is strategic for Dominican artists and the Bouyon Shattaz network.",
 "h1": "The WCMF, a strategic stage for bouyon",
 "intro": "Every October, the World Creole Music Festival turns Roseau into the world capital of Creole music. For bouyon artists, it is the gathering where collaborations, deals and recognition are decided.",

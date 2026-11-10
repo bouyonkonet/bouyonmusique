@@ -191,14 +191,79 @@ def shell(slug, lang, title, description, body, graph, image_url=None):
 '''
 
 
+def profile_prose(slug, lang):
+    """First two substantive paragraphs of the artist's profile page.
+
+    Reads the generated profile HTML. In the French generator run the
+    French profile is fresh from this run and the English one is from the
+    previous build (bodies do not change in the title rewrite, so the prose
+    is identical either way). Returns (paragraphs, thin): paragraphs is a
+    list of inner-HTML strings, thin is True when the profile cannot
+    support two paragraphs of at least 300 chars total — those slugs are
+    flagged in the build output instead of padded with filler.
+    """
+    path = ROOT / (('en/' if lang == 'en' else '') + slug + '.html')
+    try:
+        text = path.read_text(encoding='utf-8')
+    except OSError:
+        return [], True
+    parts = text.split('<main', 1)
+    if len(parts) < 2:
+        return [], True
+    main = parts[1].split('</main>', 1)[0]
+    # Figures hold image captions (keyword lists), not prose.
+    main = re.sub(r'<figure.*?</figure>', ' ', main, flags=re.S)
+    skip = re.compile(r'class="(breadcrumb|pubdate|listen-tag|small|photo-link|kicker)')
+    paras = []
+    for m in re.finditer(r'<p([^>]*)>(.*?)</p>', main, re.S):
+        if skip.search(m.group(1)):
+            continue
+        plain = re.sub(r'\s+', ' ', html.unescape(re.sub(r'<[^>]+>', '', m.group(2)))).strip()
+        if len(plain) < 40:
+            continue
+        paras.append(m.group(2).strip())
+        if len(paras) >= 2:
+            break
+    total = sum(len(re.sub(r'<[^>]+>', '', p)) for p in paras)
+    return paras, (len(paras) < 2 or total < 300)
+
+
 def artist_page(slug, d, lang, state, neighbors):
     en = lang == 'en'
     profile = ('/en/' if en else '/') + slug + '.html'
-    title = d['name'] + (': bouyon photos and music' if en else ' : photos et musique bouyon')
+    # Formula title: keyword | benefit | Bouyon Musique (60-char guard in
+    # short_title cuts only the benefit). The H1 is the keyword alone.
+    from onpage import short_title, TITLE_MAX
+    keyword = d['name'] + ' bouyon photo'
+    island = d.get('island')
+    # Benefit leads with the island: if short_title() has to cut the
+    # benefit to fit 60 chars, the island (the distinguishing fact) survives.
+    # No island in the registry: fall back to the verified image source kind.
+    if island:
+        benefit = f"{island['fr']}, artiste bouyon" if not en else f"{island['en']}, bouyon photos"
+    else:
+        kind = (d.get('source') or {}).get('kind', '')
+        label = {'youtube': ('Vidéo YouTube', 'YouTube video'),
+                 'deezer': ('Photo Deezer', 'Deezer photo'),
+                 'instagram': ('Photo Instagram', 'Instagram photo'),
+                 'release': ('Pochette', 'Cover art'),
+                 'press': ('Photo presse', 'Press photo')}.get(
+                     kind, (f'Photo {kind.title()}', f'{kind.title()} photo'))
+        benefit = label[0] if not en else label[1]
+    title = short_title(f"{keyword} | {benefit} | Bouyon Musique", slug, lang)
+    if len(title) > TITLE_MAX:
+        # Long name + long island: drop "bouyon" from the keyword and retry.
+        # The retry is always shorter; keep it even if it still exceeds 60
+        # (brand and three segments intact, flagged in the rewrite log).
+        keyword = d['name'] + ' photo'
+        retry = short_title(f"{keyword} | {benefit} | Bouyon Musique", slug, lang)
+        if len(retry) <= len(title):
+            title = retry
+    h1 = keyword
+    prose, thin = profile_prose(slug, lang)
     desc = d['alt_' + lang]
     objects = image_objects(slug, d, lang)
     source = d['source']
-    island = d.get('island')
     island_line = ''
     if island:
         hub = '/en/bouyon-by-island.html' if en else '/bouyon-par-ile.html'
@@ -206,10 +271,15 @@ def artist_page(slug, d, lang, state, neighbors):
     formats = ''.join(f'<a href="{variant_path(slug,d,w,fmt,t)}">{t.title()} {w} × {w if t=="square" else w*9//16} {fmt.upper()}</a>' for t,w,fmt in variants())
     treatments = ''.join(f'<figure><a href="{variant_path(slug,d,w,"jpg",t)}"><img src="{variant_path(slug,d,w,"jpg",t)}" width="{w}" height="{w if t=="square" else w*9//16}" loading="lazy" alt="{esc(d["name"]+" bouyon "+t)}"></a><figcaption>{t.title()}</figcaption></figure>' for t,w in [('banner',1280),('square',1080),('mirror',1280)])
     links = ''.join(f'<li><a href="{photo_path(s,lang)}">{esc(row["name"])}</a></li>' for s,row in neighbors)
+    about = ''
+    if prose:
+        paras_html = ''.join(f'<p>{p}</p>' for p in prose)
+        about = (f'<section class="photo-about"><h2>{("About " + d["name"]) if en else ("À propos de " + d["name"])}</h2>'
+                 f'{paras_html}</section>')
     body = f'''<p class="breadcrumb"><a href="{photo_path('',lang)}">{'Artist photos' if en else 'Photos des artistes'}</a> / {esc(d['name'])}</p>
-<p class="kicker">BOUYON EN IMAGES</p><h1>{esc(title)}</h1>{dates_line(photo_path(slug,lang), lang)}{island_line}
+<p class="kicker">BOUYON EN IMAGES</p><h1>{esc(h1)}</h1>{dates_line(photo_path(slug,lang), lang)}{island_line}
 <figure class="photo-hero">{picture(slug,d,lang,True)}<figcaption>{esc(d['caption_'+lang])} <a href="{esc(source['url'])}" rel="noopener">{'View source' if en else 'Voir la source'}</a></figcaption></figure>
-<div class="photo-info"><section><h2>{'Listen to' if en else 'Écouter'} {esc(d['name'])}</h2>
+{about}<div class="photo-info"><section><h2>{'Listen to' if en else 'Écouter'} {esc(d['name'])}</h2>
 <p>{'Find the artist biography, releases and listening links in the full profile.' if en else 'Retrouvez la biographie, les titres et les liens d’écoute sur la fiche de l’artiste.'}</p>
 <a class="btn" href="{profile}">{'Artist profile and music' if en else 'Biographie et musique'}</a></section>
 <section><h2>{'Image source' if en else 'Source de l’image'}</h2><p>{esc(source['title'] or d['name'])}</p>
@@ -217,7 +287,6 @@ def artist_page(slug, d, lang, state, neighbors):
 <p class="small">{'Image rights remain with the original rights holders. These file formats do not grant a reuse licence.' if en else 'Les droits de l’image restent ceux des ayants droit d’origine. Ces formats ne constituent pas une licence de réutilisation.'}</p></section></div>
 <h2>{'Artwork variations' if en else 'Variantes visuelles'}</h2><div class="photo-grid">{treatments}</div>
 <h2>{'Image formats' if en else 'Formats de l’image'}</h2><div class="photo-formats">{formats}</div>
-<div aria-hidden="true" style="position:absolute;left:-10000px;width:1px;height:1px;overflow:hidden">{esc(' · '.join(keywords(d)))}</div>
 <details><summary>{'Photo topics' if en else 'Thèmes de la photo'}</summary><p>{esc(' · '.join(keywords(d)))}</p></details>
 <h2>{'More artist photos' if en else 'Autres photos d’artistes'}</h2><ul class="photo-related">{links}</ul>'''
     url = BASE + photo_path(slug,lang)
@@ -227,12 +296,14 @@ def artist_page(slug, d, lang, state, neighbors):
              {'@type':'BreadcrumbList','itemListElement':[
                  {'@type':'ListItem','position':1,'name':'Photos','item':BASE+photo_path('',lang)},
                  {'@type':'ListItem','position':2,'name':d['name'],'item':url}]}]
-    return shell(slug,lang,title,desc,body,graph,BASE+variant_path(slug,d,1280,'jpg','banner'))
+    return shell(slug,lang,title,desc,body,graph,BASE+variant_path(slug,d,1280,'jpg','banner')), thin
 
 
 def hub_page(rows, lang):
     en = lang == 'en'
-    title = 'Bouyon artist photos: the visual directory' if en else 'Photos des artistes bouyon : le répertoire en images'
+    from onpage import short_title
+    title = short_title('Bouyon photos | Artist directory | Bouyon Musique' if en else 'Photos bouyon | Répertoire des artistes | Bouyon Musique')
+    h1 = 'Bouyon photos' if en else 'Photos bouyon'
     desc = 'Explore bouyon artist photos, video artwork and music profiles.' if en else 'Découvrez les photos des artistes bouyon, les visuels des clips et les fiches musicales.'
     cards = []
     items = []
@@ -240,7 +311,7 @@ def hub_page(rows, lang):
         island = d['island'][lang] if d.get('island') else 'Bouyon'
         cards.append(f'<article class="photo-card"><a href="{photo_path(slug,lang)}">{picture(slug,d,lang)}<h2>{esc(d["name"])}</h2></a><p>{esc(island)} · {esc(d["source"]["kind"].title())}</p></article>')
         items.append({'@type':'ListItem','position':len(items)+1,'url':BASE+photo_path(slug,lang),'name':d['name']})
-    body = f'<p class="kicker">BOUYON EN IMAGES · {len(rows)} {"ARTISTS" if en else "ARTISTES"}</p><h1>{title}</h1>{dates_line(photo_path('',lang), lang)}<p class="lead">{desc}</p><div class="photo-grid">'+''.join(cards)+'</div>'
+    body = f'<p class="kicker">BOUYON EN IMAGES · {len(rows)} {"ARTISTS" if en else "ARTISTES"}</p><h1>{h1}</h1>{dates_line(photo_path('',lang), lang)}<p class="lead">{desc}</p><div class="photo-grid">'+''.join(cards)+'</div>'
     graph = [{'@type':'CollectionPage','@id':BASE+photo_path('',lang)+'#page','url':BASE+photo_path('',lang),'name':title,'inLanguage':lang,
               'datePublished':page_dates(photo_path('',lang))[0],'dateModified':page_dates(photo_path('',lang))[1],
               'mainEntity':{'@type':'ItemList','numberOfItems':len(items),'itemListElement':items}}]
@@ -268,6 +339,7 @@ def apply_discovery():
             p.write_bytes(payload)
         outputs[rel] = True
     ordered = sorted(rows.items(), key=lambda pair: pair[1]['name'].casefold())
+    thin_slugs = []
     for i,(slug,d) in enumerate(ordered):
         source = (ROOT / f'img/artistes/{d["file"]}-1280.jpg').read_bytes()
         signature = hashlib.sha256(source+dump(d).encode()+dump(keywords(d)).encode()+renderer_hash.encode()).hexdigest()
@@ -290,7 +362,10 @@ def apply_discovery():
         new_cache[slug]=signature
         neighbors = (ordered[i+1:]+ordered[:i])[:4]
         for lang in ('fr','en'):
-            emit(photo_path(slug,lang),artist_page(slug,d,lang,state,neighbors))
+            page, thin = artist_page(slug,d,lang,state,neighbors)
+            if thin:
+                thin_slugs.append(slug)
+            emit(photo_path(slug,lang),page)
     for lang in ('fr','en'):
         emit(photo_path('',lang)+'index.html',hub_page(rows,lang))
     emit('/photos/gallery.css',CSS)
@@ -333,6 +408,7 @@ def apply_discovery():
     MANIFEST.write_text(json.dumps(sorted(outputs),indent=1)+'\n')
     CACHE.write_text(json.dumps(new_cache,sort_keys=True,indent=1)+'\n')
     print(f'image discovery: {len(rows)} artists, {len(rows)*2+2} pages, {len(rows)*len(variants())} image files')
+    print(f'photo prose thin ({len(thin_slugs)}): ' + (', '.join(sorted(set(thin_slugs))) or 'none'))
 
 
 if __name__ == '__main__':
