@@ -118,7 +118,7 @@ PAGES = [
   "cat": "Bouyon production",
   "nav": "Nothing Into Something bouyon",
   "title": "Nothing Into Something bouyon | Coi Leray | Bouyon Musique",
-  "desc": "Nothing Into Something in bouyon: the Coi Leray single with Diplo, released September 18, 2026, flipped by Smokiller into a bouyon warm up two days later, and the TikTok clip that passed 850,000 views.",
+  "desc": "Nothing Into Something in bouyon: the Coi Leray single with Diplo, released September 18, 2026, flipped by Smokiller into a bouyon warm up two days later, and the TikTok clip that passed 895,000 views.",
   "h1": "Nothing Into Something: the Coi Leray bouyon flip by Smokiller",
   "intro": "This is the story of a 48 hour turnaround. On September 18, 2026, Coi Leray released Nothing Into Something, a single produced with Diplo and published by Epic Records. On September 20, Sean \"Smokiller\" Francis, the Dominican-born producer who founded Bouyon Shattaz, published his version: the same track, rebuilt on bouyon percussion, presented as a bouyon warm up. This page tells that flip story, with no lyrics, from the verified facts of the file.",
   "date_published": "2026-10-22",
@@ -138,10 +138,10 @@ PAGES = [
     ]
    ],
    [
-    "850,000 views and the reported repost",
+    "Over 895,000 views and the confirmed repost",
     [
-     "Posted to TikTok on September 20, the flip clip passed 850,000 views: the counter read on Sean's screenshot dated October 19, 2026 shows 854,700 views, 29,900 likes, 310 comments and 2,216 saves. Those are the figures of that screenshot, presented here with their date, not a live count.",
-     "Sean states in his pitch to Dominica News Online that Coi Leray herself reposted the remix, a co-sign that pushed the Dominican sound onto timelines far beyond the Caribbean. The Dominican platform answered present: Sean's contact at Dominica News Online, Malaika, agreed to receive the article on the flip, prepared on October 19. The flip belongs to a series: Smokiller had already flipped Players, Coi Leray's other big record, into a bouyon remix."
+     "Posted to TikTok on September 20, the flip clip passed 895,000 views, according to <a href=\"https://dominicanewsonline.com/news/homepage/homepage-carousel/dominican-producer-smokillers-bouyon-remix-shared-by-rapper-coi-leray-as-track-nears-one-million-tiktok-views/\">Dominica News Online</a>, which covered the flip on November 11, 2026. On October 19, the counter read on Sean's screenshot showed 854,700 views, 29,900 likes, 310 comments and 2,216 saves.",
+     "Dominica News Online confirms that Coi Leray herself reposted the remix, a co-sign that pushed the Dominican sound onto timelines far beyond the Caribbean. The article, published November 11, 2026, carries Smokiller's three quotes on the flip and presents it as a track nearing one million TikTok views. The flip belongs to a series: Smokiller had already flipped Players, Coi Leray's other big record, into a bouyon remix."
     ]
    ],
    [
@@ -154,7 +154,7 @@ PAGES = [
   ],
   "faq": [
    ("What is the Nothing Into Something bouyon remix?", "The bouyon version of the Coi Leray single with Diplo, rebuilt by Smokiller and posted to TikTok on September 20, 2026 as a bouyon warm up, two days after the original's release on Epic Records. The file runs 1 minute 41 and is a free download on smokiller.com."),
-   ("How many views did the Nothing Into Something flip get?", "854,700 views on TikTok, with 29,900 likes and 2,216 saves, according to the screenshot of Sean's account dated October 19, 2026. Sean also states that Coi Leray reposted the remix."),
+   ("How many views did the Nothing Into Something flip get?", "Over 895,000 views on TikTok, according to Dominica News Online on November 11, 2026. Coi Leray herself reposted the remix."),
    ("Has Smokiller remixed other Coi Leray tracks?", "Yes. His catalogue also holds a bouyon remix of Players, Coi Leray's Grammy-nominated record, alongside flips of Shenseea, Ayra Starr and Bryson Tiller, all offered from smokiller.com.")
   ],
   "extra_graph": [

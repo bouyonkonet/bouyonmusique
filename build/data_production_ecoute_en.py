@@ -475,7 +475,7 @@ PAGES = [
   ),
   (
     "Which bouyon remixes has Smokiller made?",
-    "<a href=\"/en/smokiller.html\">Smokiller</a> has flipped Coi Leray’s Nothing Into Something and Players, Shenseea’s Vulnerability and Ayra Starr’s Heaven Baby into bouyon. His Nothing Into Something flip, published September 20, 2026, reached 854.7K views on TikTok per his own screenshots of October 19, 2026, and Coi Leray reshared it.",
+    "<a href=\"/en/smokiller.html\">Smokiller</a> has flipped Coi Leray’s Nothing Into Something and Players, Shenseea’s Vulnerability and Ayra Starr’s Heaven Baby into bouyon. His Nothing Into Something flip, published September 20, 2026, passed 895,000 views on TikTok, according to Dominica News Online on November 11, 2026, and Coi Leray reshared it.",
   ),
   (
     "Why make bouyon remixes?",
@@ -781,7 +781,7 @@ PAGES = [
   ),
   (
     "Which bouyon remix blew up on TikTok in 2026?",
-    "Smokiller's bouyon flip of Coi Leray's \"Nothing Into Something\". Published on September 20, 2026, it showed 854.7K views and 29.9K likes on TikTok according to screenshots Smokiller shared on October 19, 2026. Coi Leray reshared it, and Dominica News Online wrote an article on the story.",
+    "Smokiller's bouyon flip of Coi Leray's \"Nothing Into Something\". Published on September 20, 2026, it passed 895,000 views on TikTok, according to Dominica News Online, which covered the story on November 11, 2026. Coi Leray reshared it.",
   ),
   (
     "What is the Heaven Baby remix?",
@@ -877,7 +877,7 @@ PAGES = [
   ),
   (
     "Did bouyon go global in 2026?",
-    "The crossover is documented: Smokiller's bouyon flip of Coi Leray's Nothing Into Something had 854,700 TikTok views as of October 19, 2026, and Pow Pow / Allo Doudou by Niska, Litleboy LSBeats767 and Miimii KDS was certified Single Or (gold) by SNEP in France. Details on the <a href=\"/en/bouyon-goes-global.html\">bouyon goes global</a> page.",
+    "The crossover is documented: Smokiller's bouyon flip of Coi Leray's Nothing Into Something passed 895,000 TikTok views, according to Dominica News Online on November 11, 2026, and Pow Pow / Allo Doudou by Niska, Litleboy LSBeats767 and Miimii KDS was certified Single Or (gold) by SNEP in France. Details on the <a href=\"/en/bouyon-goes-global.html\">bouyon goes global</a> page.",
   ),
   (
     "Where can I listen to bouyon online?",

@@ -8418,12 +8418,12 @@ PAGES = [
   "title": "Bouyon Goes Global | Coi Leray, Ayra Starr | Bouyon Musique",
   "desc": "Bouyon goes global in 2026: Smokiller’s Coi Leray and Ayra Starr remixes, SNEP gold for Pow Pow, Ricky Bishop in Paris, and the Dominican credit.",
   "h1": "Bouyon goes global: the 2026 crossover, with the Dominican credit",
-  "intro": "In 2026, bouyon no longer asks permission to travel. A Coi Leray remix flipped within two days and seen 854.7K times on TikTok. An Ayra Starr remix anchoring a thirty-day campaign. An SNEP gold single in France for a title with Miimii KDS. A first Paris solo show for Ricky Bishop. This chapter gathers the crossover proofs, one by one, and asks the question Bouyon Shattaz never drops: does the Dominican credit travel with the sound?",
+  "intro": "In 2026, bouyon no longer asks permission to travel. A Coi Leray remix flipped within two days and seen over 895,000 times on TikTok. An Ayra Starr remix anchoring a thirty-day campaign. An SNEP gold single in France for a title with Miimii KDS. A first Paris solo show for Ricky Bishop. This chapter gathers the crossover proofs, one by one, and asks the question Bouyon Shattaz never drops: does the Dominican credit travel with the sound?",
   "sections": [
    [
     "The Smokiller flips: Coi Leray and Ayra Starr",
     [
-     "The Coi Leray case is the fastest. Smokiller flipped “Nothing Into Something” into a bouyon version within two days of the title’s release. By October 19, 2026, the flip stood at 854.7K TikTok views, Coi Leray reposted it, and a Dominica News Online article was drafted on the story. Production speed, a response from the original artist, Dominican press coverage: the complete chain of the modern crossover.",
+     "The Coi Leray case is the fastest. Smokiller flipped “Nothing Into Something” into a bouyon version within two days of the title’s release. The flip passed 895,000 TikTok views, according to <a href=\"https://dominicanewsonline.com/news/homepage/homepage-carousel/dominican-producer-smokillers-bouyon-remix-shared-by-rapper-coi-leray-as-track-nears-one-million-tiktok-views/\">Dominica News Online</a>, which published an article on the story on November 11, 2026. Coi Leray herself reposted it. Production speed, a response from the original artist, Dominican press coverage: the complete chain of the modern crossover.",
      "Smokiller also signed a bouyon remix of “Players”, another Coi Leray title. On the Ayra Starr side, his “Heaven Baby” remix anchors a thirty-day follower campaign, live from October 19 to November 16, 2026. There, a remix is no longer just content: it is the central tool of an audience strategy. The method comes from wrecketeng, as our dedicated chapter explains, and it produces measurable results."
     ]
    ],
@@ -8479,8 +8479,8 @@ PAGES = [
   ],
   "faq": [
   (
-    "Which bouyon remix passed 850,000 TikTok views?",
-    "Smokiller's flip of Coi Leray's “Nothing Into Something”, turned into a bouyon version within two days of the track's release. By October 19, 2026, it showed 854.7K views on TikTok, Coi Leray had reposted it, and Dominica News Online had written an article on the story: the complete chain of the modern crossover.",
+    "Which bouyon remix passed 895,000 TikTok views?",
+    "Smokiller's flip of Coi Leray's “Nothing Into Something”, turned into a bouyon version within two days of the track's release. It passed 895,000 views on TikTok, according to Dominica News Online on November 11, 2026, Coi Leray had reposted it, and the Dominica News Online article tells the story: the complete chain of the modern crossover.",
   ),
   (
     "Which bouyon title was certified gold in France?",
@@ -8492,7 +8492,7 @@ PAGES = [
   ),
   (
     "When did Smokiller release his Coi Leray remix?",
-    "Smokiller released his bouyon flip of “Nothing Into Something” on September 20, 2026, within two days of Coi Leray's track coming out. According to his own screenshots of October 19, 2026, the flip had 854.7K views and 29.9K likes on TikTok. He also made a bouyon remix of “Players”, another Coi Leray track.",
+    "Smokiller released his bouyon flip of “Nothing Into Something” on September 20, 2026, within two days of Coi Leray's track coming out. The flip has since passed 895,000 views on TikTok, according to Dominica News Online on November 11, 2026. He also made a bouyon remix of “Players”, another Coi Leray track.",
   ),
   (
     "What is the Bouyon Shattaz Heaven Baby campaign?",

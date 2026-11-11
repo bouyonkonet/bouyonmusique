@@ -119,7 +119,7 @@ PAGES = [
   "cat": "Production bouyon",
   "nav": "Nothing Into Something bouyon",
   "title": "Nothing Into Something bouyon | Coi Leray | Bouyon Musique",
-  "desc": "Nothing Into Something en bouyon : le single de Coi Leray avec Diplo, sorti le 18 septembre 2026, retourné par Smokiller en warm up bouyon deux jours plus tard, et le clip TikTok qui a passé 850 000 vues.",
+  "desc": "Nothing Into Something en bouyon : le single de Coi Leray avec Diplo, sorti le 18 septembre 2026, retourné par Smokiller en warm up bouyon deux jours plus tard, et le clip TikTok qui a passé les 895 000 vues.",
   "h1": "Nothing Into Something : le flip bouyon de Coi Leray par Smokiller",
   "intro": "C'est l'histoire d'un retournement en 48 heures. Le 18 septembre 2026, Coi Leray sort Nothing Into Something, un single produit avec Diplo et publié par Epic Records. Le 20 septembre, Sean « Smokiller » Francis, producteur né en Dominique et fondateur de Bouyon Shattaz, publie sa version : le même titre, reconstruit sur les percussions du bouyon, présenté comme un bouyon warm up. Cette page raconte ce flip, sans les paroles, avec les faits vérifiés du dossier.",
   "date_published": "2026-10-22",
@@ -139,10 +139,10 @@ PAGES = [
     ]
    ],
    [
-    "850 000 vues et le repartage annoncé",
+    "Plus de 895 000 vues et le repartage confirmé",
     [
-     "Publié sur TikTok le 20 septembre, le clip du flip a passé les 850 000 vues : le compteur relevé sur la capture d'écran de Sean datée du 19 octobre 2026 affiche 854 700 vues, 29 900 mentions j'aime, 310 commentaires et 2 216 enregistrements. Ce sont les chiffres de cette capture, présentés ici avec leur date, et non un relevé en direct.",
-     "Sean indique dans son pitch à Dominica News Online que Coi Leray a elle-même repartagé le remix, un appui qui a porté le son dominiquais sur des fils bien au-delà de la Caraïbe. La plateforme dominiquaise a répondu présente : le contact de Sean chez Dominica News Online, Malaika, a accepté de recevoir l'article consacré au flip, préparé le 19 octobre. Le flip s'inscrit dans une série : Smokiller avait déjà retourné Players, l'autre grand titre de Coi Leray, en remix bouyon."
+     "Publié sur TikTok le 20 septembre, le clip du flip a dépassé les 895 000 vues, selon <a href=\"https://dominicanewsonline.com/news/homepage/homepage-carousel/dominican-producer-smokillers-bouyon-remix-shared-by-rapper-coi-leray-as-track-nears-one-million-tiktok-views/\">Dominica News Online</a>, qui a consacré un article au flip le 11 novembre 2026. Le 19 octobre, le compteur relevé sur la capture d’écran de Sean affichait 854 700 vues, 29 900 mentions j’aime, 310 commentaires et 2 216 enregistrements.",
+     "Dominica News Online confirme que Coi Leray a elle-même repartagé le remix, un appui qui a porté le son dominiquais sur des fils bien au-delà de la Caraïbe. L’article, publié le 11 novembre 2026, reprend les trois citations de Smokiller sur le flip et le présente comme un titre en route vers le million de vues sur TikTok. Le flip s’inscrit dans une série : Smokiller avait déjà retourné Players, l’autre grand titre de Coi Leray, en remix bouyon."
     ]
    ],
    [
@@ -155,7 +155,7 @@ PAGES = [
   ],
   "faq": [
    ("Qu'est-ce que le remix bouyon de Nothing Into Something ?", "La version bouyon du single de Coi Leray avec Diplo, reconstruite par Smokiller et publiée sur TikTok le 20 septembre 2026 comme un bouyon warm up, deux jours après la sortie de l'original chez Epic Records. Le fichier dure 1 minute 41 et est en téléchargement gratuit sur smokiller.com."),
-   ("Combien de vues le flip de Nothing Into Something a-t-il fait ?", "854 700 vues sur TikTok, avec 29 900 mentions j'aime et 2 216 enregistrements, selon la capture d'écran du compte de Sean datée du 19 octobre 2026. Sean indique aussi que Coi Leray a repartagé le remix."),
+   ("Combien de vues le flip de Nothing Into Something a-t-il fait ?", "Plus de 895 000 vues sur TikTok, selon Dominica News Online le 11 novembre 2026. Coi Leray a elle-même repartagé le remix."),
    ("Smokiller a-t-il remixé d'autres titres de Coi Leray ?", "Oui. Son catalogue comprend aussi un remix bouyon de Players, le titre de Coi Leray nommé aux Grammy Awards, aux côtés de flips de Shenseea, Ayra Starr et Bryson Tiller, tous proposés depuis smokiller.com.")
   ],
   "extra_graph": [

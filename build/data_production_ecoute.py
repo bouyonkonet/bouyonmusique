@@ -475,7 +475,7 @@ PAGES = [
   ),
   (
     "Quels remixes bouyon Smokiller a-t-il signés ?",
-    "<a href=\"/smokiller.html\">Smokiller</a> a retourné en bouyon Nothing Into Something et Players de Coi Leray, Vulnerability de Shenseea et Heaven Baby d’Ayra Starr. Son flip de Nothing Into Something, publié le 20 septembre 2026, a atteint 854,7K vues sur TikTok selon ses propres captures du 19 octobre 2026, et Coi Leray l’a repartagé.",
+    "<a href=\"/smokiller.html\">Smokiller</a> a retourné en bouyon Nothing Into Something et Players de Coi Leray, Vulnerability de Shenseea et Heaven Baby d’Ayra Starr. Son flip de Nothing Into Something, publié le 20 septembre 2026, a dépassé les 895 000 vues sur TikTok, selon Dominica News Online le 11 novembre 2026, et Coi Leray l’a repartagé.",
   ),
   (
     "Pourquoi faire des remixes bouyon ?",
@@ -781,7 +781,7 @@ PAGES = [
   ),
   (
     "Quel remix bouyon a buzzé sur TikTok en 2026 ?",
-    "Le flip bouyon de « Nothing Into Something » de Coi Leray par Smokiller. Publié le 20 septembre 2026, il affichait 854,7K vues et 29,9K mentions j'aime sur TikTok selon les captures partagées par Smokiller le 19 octobre 2026. Coi Leray l'a repartagé, et Dominica News Online a consacré un article à l'histoire.",
+    "Le flip bouyon de « Nothing Into Something » de Coi Leray par Smokiller. Publié le 20 septembre 2026, il a dépassé les 895 000 vues sur TikTok, selon Dominica News Online, qui a consacré un article à l’histoire le 11 novembre 2026. Coi Leray l’a repartagé.",
   ),
   (
     "Qu'est-ce que le remix Heaven Baby ?",
@@ -877,7 +877,7 @@ PAGES = [
   ),
   (
     "Le bouyon est-il devenu mondial en 2026 ?",
-    "Le crossover est documenté : le flip bouyon de Nothing Into Something de Coi Leray par Smokiller affichait 854 700 vues sur TikTok au 19 octobre 2026, et Pow Pow / Allo Doudou de Niska, Litleboy LSBeats767 et Miimii KDS a été certifié Single Or par la SNEP en France. Détails sur la page <a href=\"/bouyon-mondial-crossover.html\">bouyon mondial</a>.",
+    "Le crossover est documenté : le flip bouyon de Nothing Into Something de Coi Leray par Smokiller a dépassé les 895 000 vues sur TikTok, selon Dominica News Online le 11 novembre 2026, et Pow Pow / Allo Doudou de Niska, Litleboy LSBeats767 et Miimii KDS a été certifié Single Or par la SNEP en France. Détails sur la page <a href=\"/bouyon-mondial-crossover.html\">bouyon mondial</a>.",
   ),
   (
     "Où écouter du bouyon en ligne ?",
