@@ -36,7 +36,7 @@ PAGES = [
    [
     "An heir of Wrecketeng: this site's position",
     [
-     "Bouyon Shattaz states it plainly: RnBouyon is an heir of <a href=\"/en/wrecketeng.html\">Wrecketeng</a>. The lineage is technical before it is marketing. Rekenteng, born in Dominica in bouyon-muffin's wake, installed the method: take existing recordings, dancehall, hip hop, later R&B, strip them down and rebuild them over bouyon instrumentals, with sampled melodies, programmed percussion and electronic bass. Wikipedia, in both its English and French versions, reads it the same way: the 2020s labels reuse the techniques of Wrecketeng recordings.",
+     "Bouyon Shattaz states it plainly: RnBouyon is an heir of <a href=\"/en/wrecketeng.html\">Wrecketeng</a>. The lineage is technical before it is marketing. Wrecketeng, born in Dominica in bouyon-muffin's wake, installed the method: take existing recordings, dancehall, hip hop, later R&B, strip them down and rebuild them over bouyon instrumentals, with sampled melodies, programmed percussion and electronic bass. Wikipedia, in both its English and French versions, reads it the same way: the 2020s labels reuse the techniques of Wrecketeng recordings.",
      "RnBouyon applies exactly that method to today's R&B repertoire. That the term is young and carried by few artists does not change the genealogy: the production gestures come from Roseau and the Wrecketeng years, not from a marketing office. Defending that credit is why this site documents RnBouyon now, with its sources, instead of leaving it to be narrated elsewhere."
     ]
    ]

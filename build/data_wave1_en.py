@@ -7666,6 +7666,41 @@ PAGES = [
   "intro": "Wrecketeng is the Dominican style that the quick history of the genre most often forgets. Built on sampled melodies and rap vocals, it stands, in Bouyon Shattaz’s research record, among the roots of modern bouyon and of RnBouyon. Today’s producers cite it as a source. And one artist on this site works explicitly in it: Smokiller, whose remix method descends directly from that school of sampling and of voices re-dressed over a bouyon rhythm.",
   "sections": [
    [
+    "The Origins of Wrecketeng",
+    [
+     "Wrecketeng (often misspelled Reketeng online) is the gritty, underground counter-movement of Dominican Bouyon. While mainstream Bouyon was taking over Caribbean carnival stages with brass sections and live band arrangements, Wrecketeng was forged in neighborhood sound systems, basements, and street corners as a raw collision of Bouyon, Jamaican dancehall, and 90s hip-hop.",
+     "In the 1990s, Bouyon was largely defined by pioneer road bands like Windward Caribbean Kulture (WCK), First Serenade, and Roots, Stems and Branches (RSB). Their music was fast (150+ BPM), polished for carnival trucks, and built around live rhythm sections, synth lines, and traditional cadence-lypso and jing-ping percussion.",
+     "However, a younger generation of DJs and street crews in Dominica wanted a sound that reflected what they were actually listening to on the block: hardcore Jamaican dancehall (Shabba Ranks, Buju Banton, Bounty Killer) and gritty East Coast/Southern hip-hop."
+    ]
+   ],
+   [
+    "The Pioneers: DJ Cut and Bushtown Clan",
+    [
+     "The sound coalesced around <a href=\"/en/dj-cut.html\">DJ Cut</a> (often known as DJ Cut Bucktown), who is recognized across Dominica as the founding architect of Wrecketeng.",
+     "Instead of playing strictly live band tracks, DJ Cut began chopping and blending raw dancehall acapellas and boom-bap hip-hop phrasing directly over relentless Bouyon drum machines and low-end basslines.",
+     "The epicenter was the <a href=\"/en/bushtown-clan.html\">Bushtown Clan</a>, joined by allied Dominican street collectives like Klockerz Krew and <a href=\"/en/nursery-krew-inc.html\">Nursery Krew Inc.</a> (featuring voices like Burn Brain Jolly, Charlie Black, and Watty). Dominican broadcaster and cultural archivist Jael Joseph captured the island's definition of the genre:",
+     "“Music by Bushtown Clan or anything mixed with heavy hip-hop/rap would be under Wrecketeng.”"
+    ]
+   ],
+   [
+    "The Sound and Attitude",
+    [
+     "Wrecketeng departed from carnival band traditions in three major ways:",
+     "<strong>The Sonic Blueprint:</strong> Stripping away bright synths and horn sections in favor of heavy kicks, distorted bass, and looping dancehall riddim structures.",
+     "<strong>Vocal Delivery:</strong> Chanting and deejaying rather than carnival singing, bridging Dominican Creole street slang with ragga cadence (which also ran parallel to Skinny Banton's early “Bouyon-muffin” style).",
+     "<strong>The Underground Lane:</strong> While radio stations and official carnival committees favored festival-friendly road anthems, Wrecketeng lived on homemade mixtapes, sound clashes, and block sessions."
+    ]
+   ],
+   [
+    "The Lineage into the Modern Era",
+    [
+     "For roughly two decades, Wrecketeng existed as Dominica's parallel underground. Without that blueprint, modern Caribbean street sounds would look entirely different:",
+     "<strong>Precursor to “Nasty Business”:</strong> The raw, unfiltered lyrical style and driving percussion of Wrecketeng laid the direct groundwork for the 2010s-2020s wave of raw Dominican street Bouyon (often dubbed “Nasty Business”).",
+     "<strong>The Modern Revival:</strong> In recent years, producers and artists like <a href=\"/en/smokiller.html\">Smokiller</a> and <a href=\"/en/dj-cut.html\">DJ Cut</a> revived the name directly, fusing classic Wrecketeng roots with modern trap, drill, and Martinican/Guadeloupean Shatta, paying homage to original voices like the late Burn Brain Jolly and the Bushtown lineage.",
+     "Wrecketeng represents Bouyon in its rawest, most rebellious form: Dominica's own street-level sound clash culture immortalized."
+    ]
+   ],
+   [
     "A style built on sampling and rap",
     [
      "Wrecketeng rests on a simple, modern idea: take existing melodies, sample them, and lay rap vocals over them. In the Dominican laboratory that followed WCK’s 1988 creation of bouyon, that approach belonged to one burst of experiments, alongside bouyon soca and bouyon-muffin. This site’s styles family also lists Wrecketeng among the forms derived from the bouyon explosion.",
@@ -7771,7 +7806,7 @@ PAGES = [
   )
 ],
   "date_published": "2026-09-05",
-"date_modified": "2026-10-20"
+"date_modified": "2026-11-11"
  },
  {
   "slug": "cadence-lypso-roots.html",
